@@ -138,7 +138,8 @@ def fetch_rosario3():
         looks_blocked = any(marker in lowered for marker in BLOCK_MARKERS)
         print(
             f"  status={r.status_code} bytes={len(r.content)} "
-            f"posible_bloqueo={looks_blocked}"
+            f"url_final={r.url} posible_bloqueo={looks_blocked} "
+            f"contiene_2026={'-2026' in r.text} contiene_html_ext={'.html' in r.text}"
         )
 
         soup = BeautifulSoup(r.text, "html.parser")
@@ -165,7 +166,7 @@ def fetch_rosario3():
         if not found_here:
             # Ayuda a diagnosticar si el bloqueo es un challenge anti-bot,
             # un cambio de plantilla, etc.
-            snippet = re.sub(r"\s+", " ", r.text)[:300]
+            snippet = re.sub(r"\s+", " ", r.text)[:2000]
             print(f"  primeros caracteres de la respuesta: {snippet!r}")
 
         if len(candidates) >= MAX_ITEMS:
