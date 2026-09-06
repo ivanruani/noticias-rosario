@@ -49,6 +49,11 @@ def safe_get(url):
     try:
         r = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
         r.raise_for_status()
+        # Algunos sitios no declaran bien el charset en la respuesta y
+        # requests cae a ISO-8859-1 por defecto, lo que arruina las tildes.
+        # Estos sitios son en espanol y en la practica siempre UTF-8.
+        if not r.encoding or r.encoding.lower() in ("iso-8859-1", "iso-8859-1".upper()):
+            r.encoding = "utf-8"
         return r
     except Exception as e:
         print(f"  ! error al descargar {url}: {e}", file=sys.stderr)
@@ -164,10 +169,23 @@ def fetch_rosario3():
         print(f"  -> {found_here} enlaces de notas encontrados en esta pagina")
 
         if not found_here:
-            # Ayuda a diagnosticar si el bloqueo es un challenge anti-bot,
-            # un cambio de plantilla, etc.
-            snippet = re.sub(r"\s+", " ", r.text)[:2000]
-            print(f"  primeros caracteres de la respuesta: {snippet!r}")
+            # Ayuda a diagnosticar si el contenido se genera con JS del
+            # lado del cliente (en ese caso, el html crudo no tendria los
+            # <a href> de las notas aunque el slug aparezca en algun JSON).
+            num_a_href_rel = r.text.count('<a href="/')
+            num_a_href_abs = r.text.count('<a href="https://www.rosario3.com/')
+            has_known_slug = "central-newells-las-rachas" in r.text
+            print(
+                f"  diagnostico: <a href=\"/...\"> encontrados={num_a_href_rel} "
+                f"<a href=\"https://...\"> encontrados={num_a_href_abs} "
+                f"slug_conocido_presente={has_known_slug}"
+            )
+            idx = r.text.find("central-newells")
+            if idx == -1:
+                idx = r.text.find("informaciongeneral")
+            if idx != -1:
+                ctx = re.sub(r"\s+", " ", r.text[max(0, idx - 150):idx + 150])
+                print(f"  contexto alrededor de un slug conocido: {ctx!r}")
 
         if len(candidates) >= MAX_ITEMS:
             break
