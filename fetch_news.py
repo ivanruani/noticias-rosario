@@ -15,6 +15,15 @@ Fuentes:
   el orden editorial/cronologico de la propia web). Para la imagen y para
   desempatar notas del mismo dia usamos tambien og:image y el orden de
   aparicion en portada.
+
+De paso, cuando visitamos cada nota para la imagen, tambien leemos su
+epigrafe oficial (og:description): un resumen corto de 1-2 frases que el
+propio sitio define para compartir la nota en redes. Esto es lo unico que
+mostramos como "resumen" en la app -- nunca el texto completo de la nota,
+que se queda en el sitio original (asi evitamos reproducir contenido
+periodistico ajeno y el lector sigue entrando a la fuente real si quiere
+leerla entera). SUMMARY_LIMIT acota ese resumen por las dudas, por si algun
+sitio pusiera algo mas largo en esa etiqueta.
 """
 import json
 import re
@@ -37,6 +46,11 @@ HEADERS = {
 }
 TIMEOUT = 20
 MAX_ITEMS = 15
+# Tope de caracteres para el epigrafe/resumen que mostramos en la app. Es
+# una salvaguarda: og:description en la practica siempre trae 1-2 frases,
+# pero si algun sitio pusiera ahi el texto completo de la nota, esto evita
+# que lo reproduzcamos entero.
+SUMMARY_LIMIT = 280
 
 LACAPITAL_RSS = "https://www.lacapital.com.ar/rss/ultimas-noticias.xml"
 ROSARIO3_HOME = "https://www.rosario3.com/"
@@ -60,31 +74,33 @@ def safe_get(url):
         return None
 
 
-def get_og_image(url):
-    """Visita una nota y devuelve su imagen principal (og:image), si existe."""
-    r = safe_get(url)
-    if not r:
+def clean_summary(text):
+    """Normaliza el epigrafe y lo acota a SUMMARY_LIMIT caracteres.
+
+    Es un resumen de 1-2 frases (lo que el sitio pone en og:description
+    para compartir en redes), nunca el cuerpo de la nota.
+    """
+    if not text:
         return None
-    soup = BeautifulSoup(r.text, "lxml")
-    tag = soup.find("meta", property="og:image")
-    if tag and tag.get("content"):
-        return tag["content"].strip()
-    tag = soup.find("meta", attrs={"name": "twitter:image"})
-    if tag and tag.get("content"):
-        return tag["content"].strip()
-    return None
+    text = re.sub(r"\s+", " ", text).strip()
+    if not text:
+        return None
+    if len(text) > SUMMARY_LIMIT:
+        text = text[:SUMMARY_LIMIT].rsplit(" ", 1)[0].rstrip(",.;:- ") + "…"
+    return text
 
 
 def get_og_meta(url):
-    """Visita una nota y devuelve (titulo, imagen) leyendo sus meta og:*.
+    """Visita una nota y devuelve (titulo, imagen, resumen) leyendo sus meta og:*.
 
     En Rosario3 el link de la portada muchas veces envuelve solo la miniatura
     (sin texto visible), asi que el titulo real lo sacamos de la propia nota
-    en vez de confiar en el texto del <a> de la portada.
+    en vez de confiar en el texto del <a> de la portada. El resumen (epigrafe)
+    tambien sale de aca, de og:description -- ver SUMMARY_LIMIT arriba.
     """
     r = safe_get(url)
     if not r:
-        return None, None
+        return None, None, None
     soup = BeautifulSoup(r.text, "lxml")
 
     title = None
@@ -103,7 +119,17 @@ def get_og_meta(url):
         if tag and tag.get("content"):
             image = tag["content"].strip()
 
-    return title, image
+    description = None
+    tag = soup.find("meta", property="og:description")
+    if tag and tag.get("content"):
+        description = tag["content"].strip()
+    if not description:
+        tag = soup.find("meta", attrs={"name": "description"})
+        if tag and tag.get("content"):
+            description = tag["content"].strip()
+    summary = clean_summary(description)
+
+    return title, image, summary
 
 
 def fetch_lacapital():
@@ -135,12 +161,13 @@ def fetch_lacapital():
             pub_dt = datetime.now(timezone.utc)
 
         print(f"  -> {title[:60]}")
-        image = get_og_image(link)
+        _, image, summary = get_og_meta(link)
         items.append({
             "source": "La Capital",
             "title": title,
             "link": link,
             "image": image,
+            "summary": summary,
             "pubDate": pub_dt.astimezone(timezone.utc).isoformat(),
             "approxTime": False,
         })
@@ -196,7 +223,7 @@ def fetch_rosario3():
         if len(items) >= MAX_ITEMS:
             break
 
-        title, image = get_og_meta(link)
+        title, image, summary = get_og_meta(link)
         if not title:
             print(f"  ! sin titulo, se descarta: {link}")
             continue
@@ -220,6 +247,7 @@ def fetch_rosario3():
             "title": title,
             "link": link,
             "image": image,
+            "summary": summary,
             "pubDate": pub_dt.isoformat(),
             "approxTime": True,
         })
