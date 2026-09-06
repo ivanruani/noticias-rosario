@@ -111,6 +111,10 @@
   #feed.one-col{
     display:block;
   }
+  /* Sin este refuerzo, las reglas de arriba (mas especificas que el
+     comportamiento por defecto de [hidden]) hacen que el feed se siga
+     viendo aunque JS le ponga hidden=true al abrir una noticia. */
+  #feed[hidden]{ display: none !important; }
 
   .card-list{ display:flex; flex-direction:column; gap:14px; }
 
