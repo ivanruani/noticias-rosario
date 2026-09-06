@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-09-06T14:48:06.052224+00:00",
+  "generatedAt": "2026-09-06T17:27:44.239796+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Los equipos confirmados de Central y Newell’s para el clásico rosarino: las cartas que se juegan Almirón y Kudelka",
+        "link": "https://www.rosario3.com/deportes/que-dudas-mantienen-almiron-y-kudelka-de-cara-al-clasico-entre-central-y-newells-20260904-0056.html",
+        "image": "https://www.rosario3.com/__export/1788715156905/sites/rosario3/img/2026/09/06/equipos_clasico.jpg_506286608.jpg",
+        "summary": "Canallas y leprosos se enfrentan este domingo desde las 14.45 en el Gigante de Arroyito por la octava fecha del torneo Clausura. Los dos entrenadores apuestan por algunas variantes en busca de quedarse con un triunfo que los impulse",
+        "pubDate": "2026-09-04T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "La ciudad altera su pulso ante un nuevo clásico rosarino: Central y Newell’s, cara a cara en el Gigante de Arroyito en un partido que es mucho más que eso",
         "link": "https://www.rosario3.com/deportes/la-ciudad-altera-su-pulso-ante-un-nuevo-clasico-rosarino-central-y-newells-cara-a-cara-en-el-gigante-de-arroyito-en-un-partido-que-es-mucho-mas-que-eso-20260904-0059.html",
         "image": "https://www.rosario3.com/__export/1788553763447/sites/rosario3/img/2026/09/04/montaje2026ok_jpg.jpeg_506286608.jpeg",
         "summary": "Por la octava fecha del Torneo Clausura, canallas y leprosos vuelven a cruzarse en un duelo que retrata la historia y el presente de las instituciones deportistas más importantes de la ciudad. Dirige Yael Falcón Pérez y transmite Radio 2",
-        "pubDate": "2026-09-04T12:00:00+00:00",
+        "pubDate": "2026-09-04T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,15 +26,6 @@
         "link": "https://www.rosario3.com/opinion/tengo-un-plan-jugar-con-malvinas-para-que-no-duelan-los-bolsillos-vacios-20260906-0009.html",
         "image": "https://www.rosario3.com/__export/1788701598659/sites/rosario3/img/2026/09/06/milei.jpg_1825222445.jpg",
         "summary": "Cambio de posición y estrategia. Nacionalismo y banderas irrenunciables para anestesiar el momento económico",
-        "pubDate": "2026-09-06T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Santa Fe celebra la Fiesta Provincial del Búfalo: un sector ganadero que crece y quiere conquistar productores y consumidores",
-        "link": "https://www.rosario3.com/informaciongeneral/santa-fe-celebra-la-fiesta-provincial-del-bufalo-un-sector-ganadero-que-crece-y-quiere-conquistar-productores-y-consumidores-20260906-0004.html",
-        "image": "https://www.rosario3.com/__export/1788700506796/sites/rosario3/img/2026/09/06/bufalos-santafe-fiesta.jpg_1054646157.jpg",
-        "summary": "La ciudad de Vera es sede de la primera edición provincial del encuentro, con charlas técnicas, degustaciones y remate de reproductores. Desde el INTA aseguran que la carne bubalina tiene condiciones para ganar terreno en las góndolas y buscan desterrar algunos de los mitos que…",
         "pubDate": "2026-09-06T11:58:00+00:00",
         "approxTime": true
       },
@@ -40,29 +40,47 @@
       },
       {
         "source": "Rosario3",
-        "title": "El afectuoso reencuentro entre Messi y el Tata Martino antes del empate de Inter Miami",
-        "link": "https://www.rosario3.com/deportes/el-afectuoso-reencuentro-entre-messi-y-el-tata-martino-antes-del-empate-de-inter-miami-20260906-0002.html",
-        "image": "https://www.rosario3.com/__export/1788695801664/sites/rosario3/img/2026/09/06/messi_martino.jpg_1825222445.jpg",
-        "summary": "El rosarino y el entrenador se saludaron con un abrazo en la previa del duelo ante Atlanta United. El capitán dio una asistencia en el 2-2 por la MLS y estuvo cerca de convertir sobre el final",
+        "title": "Santa Fe celebra la Fiesta Provincial del Búfalo: un sector ganadero que crece y quiere conquistar productores y consumidores",
+        "link": "https://www.rosario3.com/informaciongeneral/santa-fe-celebra-la-fiesta-provincial-del-bufalo-un-sector-ganadero-que-crece-y-quiere-conquistar-productores-y-consumidores-20260906-0004.html",
+        "image": "https://www.rosario3.com/__export/1788700506796/sites/rosario3/img/2026/09/06/bufalos-santafe-fiesta.jpg_1054646157.jpg",
+        "summary": "La ciudad de Vera es sede de la primera edición provincial del encuentro, con charlas técnicas, degustaciones y remate de reproductores. Desde el INTA aseguran que la carne bubalina tiene condiciones para ganar terreno en las góndolas y buscan desterrar algunos de los mitos que…",
         "pubDate": "2026-09-06T11:56:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Ante el avance de las IA, la posición del Gobierno es “no tomar ninguna precaución\" y eso es “preocupante”",
-        "link": "https://www.rosario3.com/informaciongeneral/ante-el-avance-de-las-ia-la-posicion-del-gobierno-es-no-tomar-ninguna-precaucion-y-eso-es-preocupante-20260905-0034.html",
-        "image": "https://www.rosario3.com/__export/1788654481885/sites/rosario3/img/2026/09/05/flaviaia.jpg_928314581.jpg",
-        "summary": "Así lo entiende la doctora en Ciencias Sociales e investigadora del Conicet, Flavia Costa, quien acaba de publicar su libro “Vidas Artificiales”. Advierte que detrás de esas tecnologías hay un grupo que ve a la democracia “como un obstáculo”. Sin dejar de resaltar los avances en…",
-        "pubDate": "2026-09-05T11:55:00+00:00",
+        "title": "Parche y cinta: el homenaje de Newell’s a Messi en el clásico rosarino ante Central",
+        "link": "https://www.rosario3.com/deportes/en-la-camiseta-homenaje-de-newells-a-messi-en-el-clasico-rosarino-ante-central-20260906-0024.html",
+        "image": "https://www.rosario3.com/__export/1788712431479/sites/rosario3/img/2026/09/06/homenaje_messi_nob.jpg_506286608.jpg",
+        "summary": "En el minuto diez habrá un reconocimiento al astro rosarino en todos los estadios de Argentina tras el anuncio de su retiro del seleccionado, pero la Lepra también le brindará su agradecimiento con un parche en la casca y un mensaje en la cinta de capitán que portará Regiardo",
+        "pubDate": "2026-09-06T11:55:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Santa Fe busca la fórmula para competir: exportaciones, guerra por $3 billones y empresas que crujen | Ecos365",
-        "link": "https://www.rosario3.com/ecos365/noticias/santa-fe-busca-la-formula-para-competir-exportaciones-guerra-por-3-billones-y-empresas-que-crujen-20260906-0001.html",
-        "image": "https://www.rosario3.com/__export/1788700314535/sites/rosario3/img/2026/09/06/el_color_del_dinero_6_de_septiembre_de_2026.jpg_446026524.jpg",
-        "summary": "Las últimas noticias de Santa Fe busca la fórmula para competir: exportaciones, guerra por $3 billones y empresas que crujen | Ecos365 Información de negocios, economía, agro y emprendimientos de la ciudad de Rosario | Ecos365.com.ar",
+        "title": "Transporte urbano: cambian los recorridos de la línea 121 y el Enlace Avellaneda Oeste desde este lunes",
+        "link": "https://www.rosario3.com/informaciongeneral/transporte-urbano-cambian-los-recorridos-de-la-linea-121-y-el-enlace-avellaneda-oeste-desde-este-lunes-20260906-0015.html",
+        "image": "https://www.rosario3.com/__export/1788706238326/sites/rosario3/img/2026/09/06/transporte.jpg_1825222445.jpg",
+        "summary": "Las modificaciones comenzarán a regir el 7 de septiembre e incluyen el paso por avenida Rouillón, la incorporación de nuevas paradas y mayores posibilidades de conexión con otros servicios. Los detalles",
         "pubDate": "2026-09-06T11:54:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Las fotos de la previa canalla en Arroyito: domingo espléndido para otro gran clásico rosarino",
+        "link": "https://www.rosario3.com/deportes/las-fotos-de-la-previa-canalla-en-arroyito-en-un-domingo-esplendido-para-otro-gran-clasico-rosarino-20260906-0022.html",
+        "image": "https://www.rosario3.com/__export/1788711046451/sites/rosario3/img/2026/09/06/previa_central_clasico.jpg_506286608.jpg",
+        "summary": "Desde bien temprano el humo de las parrillas y el olor a choripanes empezó a invadir los alrededores del Gigante, donde los auriazules aguardan con la pasión de siempre y a pura ansiedad que comience el duelo contra Newell's",
+        "pubDate": "2026-09-06T11:53:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "El aguante leproso: una multitud despidió al plantel de Newell’s rumbo al clásico en Arroyito",
+        "link": "https://www.rosario3.com/deportes/el-aguante-leproso-una-multitud-despidio-al-plantel-de-newells-rumbo-al-clasico-en-arroyito-20260906-0019.html",
+        "image": "https://www.rosario3.com/__export/1788713933738/sites/rosario3/img/2026/09/06/previa_leprosa.jpg_506286608.jpg",
+        "summary": "Pasadas las doce y media del mediodía de este domingo y rodeado por una gran cantidad de hinchas rojinegros, el micro con la delegación rojinegra partió desde el predio en zona oeste con destino al Gigante de Arroyito, donde el conjunto de Frank Kudelka buscará volver a sonreir…",
+        "pubDate": "2026-09-06T11:52:00+00:00",
         "approxTime": true
       },
       {
@@ -71,74 +89,110 @@
         "link": "https://www.rosario3.com/tecnologia/microdramas-ficcion-low-cost-y-el-hollywood-de-bolsillo-20260904-0058.html",
         "image": "https://www.rosario3.com/__export/1788552093318/sites/rosario3/img/2026/09/04/000_-_imagen_de_portada_-99-.jpg_1768679257.jpg",
         "summary": "Nacidas en China, las series verticales ultracortas mueven miles de millones de dólares y crecen con fuerza en América Latina. Ahora, la inteligencia artificial empieza a reemplazar a actores y estudios en un formato que nació para producir rápido y barato",
-        "pubDate": "2026-09-04T11:53:00+00:00",
+        "pubDate": "2026-09-04T11:51:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Despiste y regreso de Franco Colapinto en el Gran Premio de Italia de Fórmula 1",
-        "link": "https://www.rosario3.com/deportes/f1-con-franco-colapinto-entre-los-diez-primeros-se-corre-el-gran-premio-de-italia-en-monza-20260906-0007.html",
-        "image": "https://www.rosario3.com/__export/1788701605423/sites/rosario3/img/2026/09/06/formula_1.jpg_54252852.jpg",
-        "summary": "El piloto argentino partió desde la 7ª posición, mientras que su compañero de equipo en Alpine, Pierre Gasly, logró la prole. El podio lo completaron George Russell (Mercedes) y Oscar Piastri (McLaren). Los Aston Martin largaron desde el pitlane por una sanción",
-        "pubDate": "2026-09-06T11:52:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Las ventas minoristas cayeron 0,2% interanual en agosto y acumulan una baja del 2,4% en 2026",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/las-ventas-minoristas-cayeron-02-interanual-en-agosto-y-acumulan-una-baja-del-24-en-2026-20260906-0012.html",
-        "image": "https://www.rosario3.com/__export/1788703932550/sites/rosario3/img/2026/09/06/ventas.jpg_1825222445.jpg",
-        "summary": "El relevamiento de Came mostró además un retroceso del 2,7% frente a julio. Cuatro de los siete rubros analizados tuvieron resultados positivos",
-        "pubDate": "2026-09-06T11:51:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "GP de Italia: Lionel Scaloni visitó en box de Mercedes y le deseó suerte a Colapinto",
-        "link": "https://www.rosario3.com/deportes/gp-de-italia-lionel-scaloni-visito-en-box-de-mercedes-y-le-deseo-suerte-a-colapinto-20260906-0011.html",
-        "image": "https://www.rosario3.com/__export/1788703518737/sites/rosario3/img/2026/09/06/dos.jpg_54252852.jpg",
-        "summary": "El director técnico de la selección argentina de fútbol estuvo este domingo en el Circuito Internacional de Monza. “Vengo más por mi hijo más que por mí, porque es un apasionado de la Fórmula 1', dijo sobre la visita, después del “mes y medio estresante con el Mundial” y antes…",
+        "title": "Universidades de todo el país vuelven al paro este martes y la medida afectará a la UNR",
+        "link": "https://www.rosario3.com/informaciongeneral/universidades-de-todo-el-pais-vuelven-al-paro-este-martes-y-la-medida-afectara-a-la-unr-20260906-0017.html",
+        "image": "https://www.rosario3.com/__export/1788708411361/sites/rosario3/img/2026/09/06/unr.jpg_1825222445.jpg",
+        "summary": "Los gremios docentes y no docentes convocaron a una nueva medida de fuerza para este martes 8 de septiembre. La medida forma parte de un plan de lucha nacional por reclamos salariales y presupuestarios",
         "pubDate": "2026-09-06T11:50:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "A 40 días del traspaso, la Provincia trabaja en tres sectores de la A012 y prepara nuevas obras",
-        "link": "https://www.rosario3.com/informaciongeneral/a-40-dias-del-traspaso-la-provincia-trabaja-en-tres-sectores-de-la-a012-y-prepara-nuevas-obras-20260906-0008.html",
-        "image": "https://www.rosario3.com/__export/1788700466256/sites/rosario3/img/2026/09/06/whatsapp_image_2026-09-06_at_09_10_50.jpeg_982625323.jpeg",
-        "summary": "A poco más de un mes de asumir la administración de la traza, el Gobierno santafesino avanza con la recuperación del corredor clave para el acceso a los puertos del Gran Rosario y proyecta ampliar las intervenciones durante los próximos meses",
+        "title": "GP de Italia para la historia: Colapinto terminó noveno y Antonelli se coronó en Monza",
+        "link": "https://www.rosario3.com/deportes/f1-con-franco-colapinto-entre-los-diez-primeros-se-corre-el-gran-premio-de-italia-en-monza-20260906-0007.html",
+        "image": "https://www.rosario3.com/__export/1788707833795/sites/rosario3/img/2026/09/06/f1_version1788707833329.jpg_1753201588.jpg",
+        "summary": "El piloto argentino, que había partido desde la 7ª posición, llegó a estar cuarto, pero sufrió un despiste y remontó la competencia desde el 13er lugar. Su compañero de equipo en Alpine, Pierre Gasly, llegó séptimo. El piloto italiano de Mercedes, que había partido 19º, cruzo la…",
         "pubDate": "2026-09-06T11:49:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "El papa León XIV pidió el fin de la violencia en Ucrania y más espacio para la diplomacia",
-        "link": "https://www.rosario3.com/informaciongeneral/el-papa-leon-xiv-pidio-el-fin-de-la-violencia-en-ucrania-y-mas-espacio-para-la-diplomacia-20260906-0005.html",
-        "image": "https://www.rosario3.com/__export/1788699384735/sites/rosario3/img/2026/09/06/papa_leon.jpg_1825222445.jpg",
-        "summary": "Las palabras del pontífice se producen en un momento de nueva escalada de la guerra, marcada por la intensificación de los ataques rusos contra zonas urbanas e infraestructuras y por un elevado número de víctimas civiles",
+        "title": "Las lágrimas de Colapinto tras el GP de Italia: “Tenía una gran oportunidad y no la aproveché”",
+        "link": "https://www.rosario3.com/deportes/las-lagrimas-de-colapinto-tras-el-gp-de-italia-tenia-una-gran-oportunidad-y-no-la-aproveche-20260906-0023.html",
+        "image": "https://www.rosario3.com/__export/1788712102202/sites/rosario3/img/2026/09/06/colapinto.jpg_1825222445.jpg",
+        "summary": "El piloto argentino terminó noveno y sumó dos puntos en Monza, pero se mostró frustrado por el despiste que lo relegó cuando peleaba en los primeros puestos",
         "pubDate": "2026-09-06T11:48:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Todos los datos para calmar la ansiedad en la previa al duelo entre Central y Newell’s, el gran clásico rosarino",
-        "link": "https://www.rosario3.com/deportes/todos-los-datos-para-calmar-la-ansiedad-en-la-previa-al-duelo-entre-central-y-newells-el-gran-clasico-rosarino-20260904-0019.html",
-        "image": "https://www.rosario3.com/__export/1788526956104/sites/rosario3/img/2026/09/03/clxsico-1.jpg_928314580.jpg",
-        "summary": "Canallas y leprosos vuelven a enfrentarse en el partido que paraliza a Rosario y donde los auriazules acumulan una gran racha positiva; el derby de reserva se jugará el 29 de septiembre",
-        "pubDate": "2026-09-04T11:47:00+00:00",
+        "title": "Ante el avance de las IA, la posición del Gobierno es “no tomar ninguna precaución\" y eso es “preocupante”",
+        "link": "https://www.rosario3.com/informaciongeneral/ante-el-avance-de-las-ia-la-posicion-del-gobierno-es-no-tomar-ninguna-precaucion-y-eso-es-preocupante-20260905-0034.html",
+        "image": "https://www.rosario3.com/__export/1788654481885/sites/rosario3/img/2026/09/05/flaviaia.jpg_928314581.jpg",
+        "summary": "Así lo entiende la doctora en Ciencias Sociales e investigadora del Conicet, Flavia Costa, quien acaba de publicar su libro “Vidas Artificiales”. Advierte que detrás de esas tecnologías hay un grupo que ve a la democracia “como un obstáculo”. Sin dejar de resaltar los avances en…",
+        "pubDate": "2026-09-05T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Recrudece la violencia en el estrecho de Ormuz: Irán respondió a EE.UU. con ataques a portaviones, embarcaciones y un dron naval",
-        "link": "https://www.rosario3.com/informaciongeneral/recrudece-la-violencia-en-el-estrecho-de-ormuz-iran-respondio-a-ee.uu.-con-ataques-a-portaviones-embarcaciones-y-un-dron-naval-20260906-0014.html",
-        "image": "https://www.rosario3.com/__export/1788705892573/sites/rosario3/img/2026/09/06/irxn.jpg_54252853.jpg",
-        "summary": "La agencia iraní Fars informó que la Guardia Revolucionaria Islámica atacó distintas naves que circulaban en “rutas no autorizadas”",
+        "title": "Santa Fe busca la fórmula para competir: exportaciones, guerra por $3 billones y empresas que crujen | Ecos365",
+        "link": "https://www.rosario3.com/ecos365/noticias/santa-fe-busca-la-formula-para-competir-exportaciones-guerra-por-3-billones-y-empresas-que-crujen-20260906-0001.html",
+        "image": "https://www.rosario3.com/__export/1788700314535/sites/rosario3/img/2026/09/06/el_color_del_dinero_6_de_septiembre_de_2026.jpg_446026524.jpg",
+        "summary": "Las últimas noticias de Santa Fe busca la fórmula para competir: exportaciones, guerra por $3 billones y empresas que crujen | Ecos365 Información de negocios, economía, agro y emprendimientos de la ciudad de Rosario | Ecos365.com.ar",
         "pubDate": "2026-09-06T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Jorge Almirón ya le ganó a Newell's, pero nunca conquistó el corazón de los canallas",
+        "link": "https://www.lacapital.com.ar/ovacion/jorge-almiron-ya-le-gano-newells-pero-nunca-conquisto-el-corazon-los-canallas-n10279269.html",
+        "image": "https://media.lacapital.com.ar/p/0d77fceaaac2494f477923687426b99a/adjuntos/203/imagenes/103/380/0103380496/1200x675/smart/image-12.jpg",
+        "summary": "A mitad de año, el presidente Belloso dijo que hasta su madre pidió que lo echara. Este domingo el técnico estará ante otro duro examen de los hinchas",
+        "pubDate": "2026-09-06T17:16:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Newell's: para Kudelka, el clásico es más una oportunidad que una pesada carga",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-kudelka-el-clasico-es-mas-una-oportunidad-que-una-pesada-carga-n10279295.html",
+        "image": "https://media.lacapital.com.ar/p/a49619b9132667777340d0ba20421375/adjuntos/203/imagenes/103/380/0103380911/frankkkkk.jpg",
+        "summary": "El DT de Newell's cuenta con el respaldo total del mundo rojinegro y quedó demostrado en el banderazo previo. Su sapiencia es el gran argumento leproso",
+        "pubDate": "2026-09-06T17:16:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Newell's modificó la formación para jugar el clásico rosarino en Arroyito",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-modifico-la-formacion-jugar-el-clasico-rosarino-arroyito-n10279454.html",
+        "image": "https://media.lacapital.com.ar/p/d4ab7f5f1235cd1407647fb14b4cc317/adjuntos/203/imagenes/103/307/0103307674/1200x675/smart/kudelka22.jpg",
+        "summary": "El equipo rojinegro presentará variantes para visitar a Central a las 14.45. Los cambios son lógicos y estaban dentro de lo previsto",
+        "pubDate": "2026-09-06T17:14:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Todo el color de la previa del clásico rosarino que se juega este domingo en el Gigante",
+        "link": "https://www.lacapital.com.ar/ovacion/todo-el-color-la-previa-del-clasico-rosarino-que-se-juega-este-domingo-el-gigante-n10279486.html",
+        "image": "https://media.lacapital.com.ar/p/d01a686ccd0f85e79684085475f4aefb/adjuntos/203/imagenes/103/383/0103383933/derbi.jpg",
+        "summary": "Los hinchas canallas copan el estadio de Arroyito para el clásico rosarino que se juega desde las 14.45. Los leprosos despidieron al plantel en Bella Vista",
+        "pubDate": "2026-09-06T16:58:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central tiene equipo confirmado para el clásico: Almirón mete dos cambios",
+        "link": "https://www.lacapital.com.ar/ovacion/central-tiene-equipo-confirmado-el-clasico-almiron-mete-dos-cambios-n10279408.html",
+        "image": "https://media.lacapital.com.ar/p/0cf94897d7eefa77c395c3269d8b0079/adjuntos/203/imagenes/103/382/0103382874/almironcml.jpg",
+        "summary": "El DT canalla dispuso el regreso de Enzo Copetti en lugar de Marco Ruben. Alan Rodríguez ingresa por Giovanni Cantizano",
+        "pubDate": "2026-09-06T16:55:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Franco Colapinto vivió todas las emociones en Monza peleando con los grandes, lloró y sumó",
+        "link": "https://www.lacapital.com.ar/ovacion/franco-colapinto-vivio-todas-las-emociones-monza-peleando-los-grandes-lloro-y-sumo-n10279434.html",
+        "image": "https://media.lacapital.com.ar/p/62472d804979ac7acd7e15afd60fde4f/adjuntos/203/imagenes/103/383/0103383915/1200x675/smart/image-17.jpg",
+        "summary": "El argentino estuvo tercero, se despistó y recuperó bárbaro hasta ser noveno, aunque se quedó frustrado. Gasly fue séptimo y ganó un italiano en Italia",
+        "pubDate": "2026-09-06T15:02:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "La restauración de la facultad de Ciencias Económicas sacó a la luz un tesoro escondido en el bulevar Oroño",
@@ -218,60 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/a8863f48b6b2fbafb8d5ac7330858b0d/adjuntos/203/imagenes/103/377/0103377643/1200x675/smart/image-2026-09-03t111434786.png",
         "summary": "La propuesta incluye todo lo necesario para alentar a Franco en Interlagos y premios exclusivos durante todo el mes de septiembre",
         "pubDate": "2026-09-06T10:05:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Las librerías de Rosario, espacios culturales que van más allá de lo comercial",
-        "link": "https://www.lacapital.com.ar/la-ciudad/las-librerias-rosario-espacios-culturales-que-van-mas-alla-lo-comercial-n10279385.html",
-        "image": "https://media.lacapital.com.ar/p/13e9cc8538c428dcdd990afea552de2a/adjuntos/203/imagenes/103/382/0103382426/1200x675/smart/librerias.jpg",
-        "summary": "En Rosario hay un potente y reconocido ecosistema del libro, que resiste con éxito las amenazas de una época adversa. Un recorrido",
-        "pubDate": "2026-09-06T09:25:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Rosario se prepara para recibir al Mundial de la Soja",
-        "link": "https://www.lacapital.com.ar/agro/rosario-se-prepara-recibir-al-mundial-la-soja-n10279067.html",
-        "image": "https://media.lacapital.com.ar/p/899f2ee5d6e9704488db0f2b81627c4e/adjuntos/203/imagenes/103/378/0103378354/1200x675/smart/alloatti53.jpg",
-        "summary": "En el Santa Fe Business Forum, Acsoja presentó los temas que se van a debatir en la XII Conferencia Mundial de la Soja: “Más del 70% de los referentes globales están confirmados”",
-        "pubDate": "2026-09-06T09:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El giro de Milei por Malvinas y la riesgosa apuesta al factor Trump",
-        "link": "https://www.lacapital.com.ar/politica/el-giro-milei-malvinas-y-la-riesgosa-apuesta-al-factor-trump-n10279381.html",
-        "image": "https://media.lacapital.com.ar/p/bb8420562084b36f83a3aa5d35548c23/adjuntos/203/imagenes/103/382/0103382222/jm1.jpeg",
-        "summary": "Claudio Fantini, experto en asuntos internacionales, advierte que el presidente aprovechó el enfriamiento en la relación entre Washington y Londres para recuperar centralidad política",
-        "pubDate": "2026-09-06T09:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Rosario tiene ocho heladerías históricas fundadas hace más de 40 años",
-        "link": "https://www.lacapital.com.ar/la-ciudad/rosario-tiene-ocho-heladerias-historicas-fundadas-hace-mas-40-anos-n10278995.html",
-        "image": "https://media.lacapital.com.ar/p/67d4eafb7b6889f5affd1f75cf68511e/adjuntos/203/imagenes/103/377/0103377854/1200x675/smart/image-2022-06-13t144656194png.jpg",
-        "summary": "Una ordenanza reconocerá locales que por su antigüedad y arraigo barrial sean parte de la identidad rosarina. Una historia que empezó con los inmigrantes italianos y siguió con sus hijos y nietos",
-        "pubDate": "2026-09-06T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "San Lorenzo suma una torre de monitoreo de 75 metros para reforzar la seguridad y el control en el Paraná",
-        "link": "https://www.lacapital.com.ar/la-region/san-lorenzo-suma-una-torre-monitoreo-75-metros-reforzar-la-seguridad-y-el-control-el-parana-n10279376.html",
-        "image": "https://media.lacapital.com.ar/p/103a6afab1b4865d62e4b645f1001300/adjuntos/203/imagenes/103/382/0103382042/1200x675/smart/antena-1024x682.webp",
-        "summary": "Es por un convenio entre la Municipalidad de San Lorenzo y Prefectura. Se destinará al control de la navegación y la lucha contra el narcotráfico",
-        "pubDate": "2026-09-06T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cerca de 200 profesionales de la salud se formaron en atención médica deportiva",
-        "link": "https://www.lacapital.com.ar/la-ciudad/cerca-200-profesionales-la-salud-se-formaron-atencion-medica-deportiva-n10279377.html",
-        "image": "https://media.lacapital.com.ar/p/8ad3f36eb107c56285b1a1d419602d72/adjuntos/203/imagenes/103/382/0103382093/1200x675/smart/foto-3-1-1.jpeg",
-        "summary": "El Colegio de Médicos cerró la primera edición del Curso de Práctica Deportiva Segura, una propuesta que combinó formación teórica, prácticas presenciales y simulaciones de emergencias. Tras la amplia convocatoria, ya proyectan ampliar la iniciativa durante 2027",
-        "pubDate": "2026-09-06T09:10:00+00:00",
         "approxTime": false
       }
     ]
