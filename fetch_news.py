@@ -28,9 +28,14 @@ import requests
 from bs4 import BeautifulSoup
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (compatible; NoticiasRosarioBot/1.0; uso personal)"
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+    ),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+    "Accept-Language": "es-AR,es;q=0.9,en;q=0.8",
 }
-TIMEOUT = 15
+TIMEOUT = 20
 MAX_ITEMS = 15
 
 LACAPITAL_RSS = "https://www.lacapital.com.ar/rss/ultimas-noticias.xml"
@@ -107,30 +112,62 @@ def fetch_lacapital():
     return items
 
 
+ROSARIO3_FALLBACK_URLS = [
+    ROSARIO3_HOME,
+    "https://www.rosario3.com/seccion/ultimas-noticias/",
+]
+
+BLOCK_MARKERS = (
+    "just a moment", "attention required", "cloudflare", "captcha",
+    "access denied", "are you a human", "bot detection",
+)
+
+
 def fetch_rosario3():
-    print("Descargando portada de Rosario3...")
-    r = safe_get(ROSARIO3_HOME)
     items = []
-    if not r:
-        return items
-
-    soup = BeautifulSoup(r.text, "html.parser")
-
-    seen = set()
     candidates = []
-    for a in soup.find_all("a", href=True):
-        full = urljoin(ROSARIO3_HOME, a["href"])
-        if not ARTICLE_LINK_RE.search(full):
+    seen = set()
+
+    for url in ROSARIO3_FALLBACK_URLS:
+        print(f"Descargando {url} ...")
+        r = safe_get(url)
+        if not r:
             continue
-        if full in seen:
-            continue
-        text = a.get_text(strip=True)
-        if not text or len(text) < 12:
-            # descarta enlaces "vacios" (el <a> que solo envuelve la imagen,
-            # botones de compartir, etc.)
-            continue
-        seen.add(full)
-        candidates.append((full, text))
+
+        lowered = r.text.lower()
+        looks_blocked = any(marker in lowered for marker in BLOCK_MARKERS)
+        print(
+            f"  status={r.status_code} bytes={len(r.content)} "
+            f"posible_bloqueo={looks_blocked}"
+        )
+
+        soup = BeautifulSoup(r.text, "html.parser")
+        found_here = 0
+        for a in soup.find_all("a", href=True):
+            full = urljoin(url, a["href"])
+            if not ARTICLE_LINK_RE.search(full):
+                continue
+            if full in seen:
+                continue
+            text = a.get_text(strip=True)
+            if not text or len(text) < 12:
+                # descarta enlaces "vacios" (el <a> que solo envuelve la
+                # imagen, botones de compartir, etc.)
+                continue
+            seen.add(full)
+            candidates.append((full, text))
+            found_here += 1
+            if len(candidates) >= MAX_ITEMS:
+                break
+
+        print(f"  -> {found_here} enlaces de notas encontrados en esta pagina")
+
+        if not found_here:
+            # Ayuda a diagnosticar si el bloqueo es un challenge anti-bot,
+            # un cambio de plantilla, etc.
+            snippet = re.sub(r"\s+", " ", r.text)[:300]
+            print(f"  primeros caracteres de la respuesta: {snippet!r}")
+
         if len(candidates) >= MAX_ITEMS:
             break
 
