@@ -75,6 +75,37 @@ def get_og_image(url):
     return None
 
 
+def get_og_meta(url):
+    """Visita una nota y devuelve (titulo, imagen) leyendo sus meta og:*.
+
+    En Rosario3 el link de la portada muchas veces envuelve solo la miniatura
+    (sin texto visible), asi que el titulo real lo sacamos de la propia nota
+    en vez de confiar en el texto del <a> de la portada.
+    """
+    r = safe_get(url)
+    if not r:
+        return None, None
+    soup = BeautifulSoup(r.text, "lxml")
+
+    title = None
+    tag = soup.find("meta", property="og:title")
+    if tag and tag.get("content"):
+        title = tag["content"].strip()
+    if not title and soup.title and soup.title.string:
+        title = soup.title.string.strip()
+
+    image = None
+    tag = soup.find("meta", property="og:image")
+    if tag and tag.get("content"):
+        image = tag["content"].strip()
+    if not image:
+        tag = soup.find("meta", attrs={"name": "twitter:image"})
+        if tag and tag.get("content"):
+            image = tag["content"].strip()
+
+    return title, image
+
+
 def fetch_lacapital():
     print("Descargando RSS de La Capital...")
     r = safe_get(LACAPITAL_RSS)
@@ -122,15 +153,14 @@ ROSARIO3_FALLBACK_URLS = [
     "https://www.rosario3.com/seccion/ultimas-noticias/",
 ]
 
-BLOCK_MARKERS = (
-    "just a moment", "attention required", "cloudflare", "captcha",
-    "access denied", "are you a human", "bot detection",
-)
+# Un poco mas del limite final: algunas notas fallan al visitarlas (timeout,
+# 404, etc.) y esto da margen para igual completar los 15 finales.
+CANDIDATE_POOL = MAX_ITEMS + 10
 
 
 def fetch_rosario3():
     items = []
-    candidates = []
+    candidate_links = []
     seen = set()
 
     for url in ROSARIO3_FALLBACK_URLS:
@@ -138,14 +168,6 @@ def fetch_rosario3():
         r = safe_get(url)
         if not r:
             continue
-
-        lowered = r.text.lower()
-        looks_blocked = any(marker in lowered for marker in BLOCK_MARKERS)
-        print(
-            f"  status={r.status_code} bytes={len(r.content)} "
-            f"url_final={r.url} posible_bloqueo={looks_blocked} "
-            f"contiene_2026={'-2026' in r.text} contiene_html_ext={'.html' in r.text}"
-        )
 
         soup = BeautifulSoup(r.text, "lxml")
         found_here = 0
@@ -155,55 +177,32 @@ def fetch_rosario3():
                 continue
             if full in seen:
                 continue
-            text = a.get_text(strip=True)
-            if not text or len(text) < 12:
-                # descarta enlaces "vacios" (el <a> que solo envuelve la
-                # imagen, botones de compartir, etc.)
-                continue
+            # OJO: en Rosario3 muchos de estos <a> solo envuelven la
+            # miniatura (sin texto visible), asi que NO filtramos por texto
+            # del link acá -- el titulo real se saca de la propia nota
+            # (ver get_og_meta), no de la portada.
             seen.add(full)
-            candidates.append((full, text))
+            candidate_links.append(full)
             found_here += 1
-            if len(candidates) >= MAX_ITEMS:
+            if len(candidate_links) >= CANDIDATE_POOL:
                 break
 
         print(f"  -> {found_here} enlaces de notas encontrados en esta pagina")
 
-        if not found_here:
-            # Ayuda a diagnosticar si el contenido se genera con JS del
-            # lado del cliente (en ese caso, el html crudo no tendria los
-            # <a href> de las notas aunque el slug aparezca en algun JSON).
-            num_a_href_rel = r.text.count('<a href="/')
-            num_a_href_abs = r.text.count('<a href="https://www.rosario3.com/')
-            has_known_slug = "central-newells-las-rachas" in r.text
-            print(
-                f"  diagnostico: <a href=\"/...\"> encontrados={num_a_href_rel} "
-                f"<a href=\"https://...\"> encontrados={num_a_href_abs} "
-                f"slug_conocido_presente={has_known_slug}"
-            )
-            total_occ = r.text.count("central-newells")
-            has_real_anchor = 'href="/deportes/central-newells' in r.text
-            print(
-                f"  ocurrencias totales del slug={total_occ} "
-                f"anchor_real_presente={has_real_anchor}"
-            )
-            # Mostramos el contexto de CADA ocurrencia (hasta 5) para ver
-            # en cual de todas esta el <a> real de la noticia.
-            start = 0
-            shown = 0
-            while shown < 5:
-                idx = r.text.find("central-newells", start)
-                if idx == -1:
-                    break
-                ctx = re.sub(r"\s+", " ", r.text[max(0, idx - 80):idx + 80])
-                print(f"  ocurrencia #{shown + 1} en pos {idx}: {ctx!r}")
-                start = idx + 1
-                shown += 1
-
-        if len(candidates) >= MAX_ITEMS:
+        if len(candidate_links) >= CANDIDATE_POOL:
             break
 
-    for rank, (link, title) in enumerate(candidates):
+    for rank, link in enumerate(candidate_links):
+        if len(items) >= MAX_ITEMS:
+            break
+
+        title, image = get_og_meta(link)
+        if not title:
+            print(f"  ! sin titulo, se descarta: {link}")
+            continue
+
         print(f"  -> {title[:60]}")
+
         match = ARTICLE_LINK_RE.search(link)
         if match:
             y, m, d = map(int, match.groups())
@@ -216,7 +215,6 @@ def fetch_rosario3():
         # de mas nueva a mas vieja.
         pub_dt = base_date - timedelta(minutes=rank)
 
-        image = get_og_image(link)
         items.append({
             "source": "Rosario3",
             "title": title,
