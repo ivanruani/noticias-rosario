@@ -65,7 +65,7 @@ def get_og_image(url):
     r = safe_get(url)
     if not r:
         return None
-    soup = BeautifulSoup(r.text, "html.parser")
+    soup = BeautifulSoup(r.text, "lxml")
     tag = soup.find("meta", property="og:image")
     if tag and tag.get("content"):
         return tag["content"].strip()
@@ -147,7 +147,7 @@ def fetch_rosario3():
             f"contiene_2026={'-2026' in r.text} contiene_html_ext={'.html' in r.text}"
         )
 
-        soup = BeautifulSoup(r.text, "html.parser")
+        soup = BeautifulSoup(r.text, "lxml")
         found_here = 0
         for a in soup.find_all("a", href=True):
             full = urljoin(url, a["href"])
