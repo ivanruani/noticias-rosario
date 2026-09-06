@@ -111,10 +111,6 @@
   #feed.one-col{
     display:block;
   }
-  /* Sin este refuerzo, las reglas de arriba (mas especificas que el
-     comportamiento por defecto de [hidden]) hacen que el feed se siga
-     viendo aunque JS le ponga hidden=true al abrir una noticia. */
-  #feed[hidden]{ display: none !important; }
 
   .card-list{ display:flex; flex-direction:column; gap:14px; }
 
@@ -128,14 +124,14 @@
     color: inherit;
     border: 1px solid var(--line);
     transition: transform 0.12s ease;
-    cursor: pointer;
   }
   .card:active{ transform: scale(0.985); }
   .card:focus-visible{ outline: 2px solid var(--ink-soft); outline-offset: 2px; }
 
   .thumb{
     position: relative;
-    width: 128px; min-width:128px; height: 96px;
+    width: 128px; min-width:128px;
+    align-self: stretch;
     display:flex; align-items:center; justify-content:center;
     color: #fff; font-size: 1.6rem;
     overflow: hidden;
@@ -163,6 +159,15 @@
     -webkit-box-orient: vertical;
     overflow: hidden;
   }
+  .card-summary{
+    font-size: 0.85rem;
+    line-height: 1.42;
+    color: var(--ink-soft);
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
   .card-meta{
     display:flex; align-items:center; gap:6px;
     font-size: 0.74rem;
@@ -187,7 +192,7 @@
   }
 
   @media (max-width: 699px){
-    .thumb{ width: 96px; min-width: 96px; height: 84px; }
+    .thumb{ width: 96px; min-width: 96px; }
     .card-title{ font-size: 0.92rem; }
   }
 
@@ -200,60 +205,6 @@
     margin: 0 auto;
   }
 
-  /* Vista ampliada de una noticia: foto + titulo + epigrafe oficial,
-     sin salir de la app. El texto completo queda siempre en el sitio
-     original (boton "Leer la nota completa"). */
-  .detail{
-    max-width: 640px;
-    margin: 0 auto;
-  }
-  .detail-back{
-    appearance:none;
-    display:inline-flex; align-items:center; gap:6px;
-    margin: 0 0 16px;
-    padding: 8px 16px; border-radius: 999px;
-    border: 1px solid var(--line); background: var(--bg-elevated);
-    color: var(--ink); font-size: 0.85rem; cursor:pointer;
-  }
-  .detail-back:active{ transform: scale(0.97); }
-  .detail-thumb{
-    width:100%; border-radius: var(--radius); overflow:hidden;
-    aspect-ratio: 16 / 10;
-    display:flex; align-items:center; justify-content:center;
-    color:#fff; font-size: 2.4rem;
-    margin-bottom: 18px;
-  }
-  .detail-thumb.r3{ background-color: var(--r3); }
-  .detail-thumb.lc{ background-color: var(--lc); }
-  .detail-thumb img{
-    width:100%; height:100%; object-fit:cover;
-  }
-  .detail-title{
-    font-family: Georgia, "Times New Roman", serif;
-    font-size: clamp(1.25rem, 4vw, 1.55rem);
-    line-height: 1.32;
-    font-weight: 700;
-    margin: 14px 0 8px;
-  }
-  .detail-summary{
-    font-size: 1.02rem;
-    line-height: 1.6;
-    color: var(--ink);
-    margin: 0 0 24px;
-  }
-  .detail-summary.is-empty{
-    color: var(--ink-soft);
-    font-style: italic;
-  }
-  .detail-cta{
-    display:inline-flex; align-items:center; gap:8px;
-    padding: 13px 22px; border-radius: 999px;
-    color:#fff; font-weight:700; text-decoration:none;
-    font-size: 0.95rem;
-  }
-  .detail-cta.r3{ background: var(--r3); }
-  .detail-cta.lc{ background: var(--lc); }
-  .detail-cta:active{ transform: scale(0.97); }
 </style>
 </head>
 <body>
@@ -273,7 +224,6 @@
 
 <main>
   <div id="feed"></div>
-  <div id="detail" class="detail" hidden></div>
 </main>
 
 <footer class="site-footer">
@@ -285,7 +235,6 @@
   var FEED_URL = './data.json';
   var WIDE_QUERY = '(min-width: 700px)';
   var lastData = null;
-  var itemsByLink = {};
 
   function escapeHtml(str){
     return String(str).replace(/[&<>"']/g, function(c){
@@ -318,54 +267,22 @@
       ? '<img src="' + escapeHtml(item.image) + '" loading="lazy" alt="" onerror="this.remove()">'
       : '';
     var thumb = '<div class="thumb ' + cls + '">📰' + img + '</div>';
+    var summaryHtml = item.summary
+      ? '<div class="card-summary">' + escapeHtml(item.summary) + '</div>'
+      : '';
     return (
-      '<div class="card" role="button" tabindex="0" data-link="' + escapeHtml(item.link) + '">' +
+      '<a class="card" href="' + escapeHtml(item.link) + '" target="_blank" rel="noopener">' +
         thumb +
         '<div class="card-body">' +
           '<div class="card-title">' + escapeHtml(item.title) + '</div>' +
+          summaryHtml +
           '<div class="card-meta">' +
             '<span class="badge ' + cls + '">' + escapeHtml(item.source) + '</span>' +
             '<span>' + relativeTime(item.pubDate) + (item.approxTime ? ' (aprox.)' : '') + '</span>' +
           '</div>' +
         '</div>' +
-      '</div>'
+      '</a>'
     );
-  }
-
-  function detailHtml(item){
-    var cls = siteClass(item.source);
-    var img = item.image
-      ? '<img src="' + escapeHtml(item.image) + '" alt="" onerror="this.parentNode.textContent=\'📰\'">'
-      : '📰';
-    var summaryHtml = item.summary
-      ? '<p class="detail-summary">' + escapeHtml(item.summary) + '</p>'
-      : '<p class="detail-summary is-empty">Esta nota no tiene un resumen disponible. Podés leerla completa en el sitio original.</p>';
-    return (
-      '<button class="detail-back" type="button" id="detail-back">&larr; Volver</button>' +
-      '<div class="detail-thumb ' + cls + '">' + img + '</div>' +
-      '<div class="card-meta">' +
-        '<span class="badge ' + cls + '">' + escapeHtml(item.source) + '</span>' +
-        '<span>' + relativeTime(item.pubDate) + (item.approxTime ? ' (aprox.)' : '') + '</span>' +
-      '</div>' +
-      '<h2 class="detail-title">' + escapeHtml(item.title) + '</h2>' +
-      summaryHtml +
-      '<a class="detail-cta ' + cls + '" href="' + escapeHtml(item.link) + '" target="_blank" rel="noopener">Leer la nota completa en ' + escapeHtml(item.source) + ' ↗</a>'
-    );
-  }
-
-  function openDetail(link){
-    var item = itemsByLink[link];
-    if(!item) return;
-    var detail = document.getElementById('detail');
-    detail.innerHTML = detailHtml(item);
-    document.getElementById('feed').hidden = true;
-    detail.hidden = false;
-    window.scrollTo(0, 0);
-  }
-
-  function closeDetail(){
-    document.getElementById('detail').hidden = true;
-    document.getElementById('feed').hidden = false;
   }
 
   function buildColumn(title, items, accentVar){
@@ -389,9 +306,6 @@
     var isWide = window.matchMedia(WIDE_QUERY).matches;
     var r3 = (data.sites && data.sites.rosario3) || [];
     var lc = (data.sites && data.sites.lacapital) || [];
-
-    itemsByLink = {};
-    r3.concat(lc).forEach(function(item){ itemsByLink[item.link] = item; });
 
     feed.innerHTML = '';
 
@@ -448,19 +362,6 @@
   }
 
   document.getElementById('refresh-btn').addEventListener('click', function(){ load(true); });
-
-  document.getElementById('feed').addEventListener('click', function(e){
-    var card = e.target.closest('.card');
-    if(card) openDetail(card.getAttribute('data-link'));
-  });
-  document.getElementById('feed').addEventListener('keydown', function(e){
-    if(e.key !== 'Enter' && e.key !== ' ') return;
-    var card = e.target.closest('.card');
-    if(card){ e.preventDefault(); openDetail(card.getAttribute('data-link')); }
-  });
-  document.getElementById('detail').addEventListener('click', function(e){
-    if(e.target.closest('#detail-back')) closeDetail();
-  });
 
   var yearEl = document.getElementById('footer-year');
   if(yearEl) yearEl.textContent = new Date().getFullYear();
