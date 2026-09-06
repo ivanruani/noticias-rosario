@@ -1,0 +1,74 @@
+{
+  "generatedAt": "2026-09-06T12:00:00+00:00",
+  "note": "Datos de muestra iniciales. Se reemplazan automaticamente en cuanto corre el GitHub Action por primera vez (hasta 15 notas por sitio).",
+  "sites": {
+    "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Comienza en Rosario el juicio contra Agustín Gagliasso, responsable de la tragedia vial de Roca y el río",
+        "link": "https://www.rosario3.com/policiales/comienza-en-rosario-el-juicio-contra-agustin-gagliasso-responsable-de-la-tragedia-vial-de-roca-y-el-rio-20260904-0018.html",
+        "image": null,
+        "pubDate": "2026-09-04T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Central-Newell's: las rachas que se pueden romper en el clásico rosarino del domingo",
+        "link": "https://www.rosario3.com/deportes/central-newells-las-rachas-que-se-pueden-romper-en-el-clasico-rosarino-del-domingo-20260904-0079.html",
+        "image": "https://www.rosario3.com/__export/1787687155710/sites/rosario3/img/2026/08/25/clasico_central_newell-s.jpg_506286608.jpg",
+        "pubDate": "2026-09-04T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "El clima en Rosario: fresco, sin lluvias y ventoso",
+        "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-fresco-sin-lluvias-y-ventoso-20260905-0003.html",
+        "image": null,
+        "pubDate": "2026-09-05T11:58:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "La Previa del Run Run: ceños fruncidos con Alto Rosario, mega parque de diversiones chino y full negocios en el Business Forum",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-previa-del-run-run-cenos-fruncidos-con-alto-rosario-mega-parque-de-diversiones-chino-y-full-negocios-en-el-business-forum-20260904-0069.html",
+        "image": null,
+        "pubDate": "2026-09-04T11:57:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Andrés Calamaro en Rosario: el cantor, la chapa de Malvinas y \"el público con el que sueña Mick Jagger\"",
+        "link": "https://www.rosario3.com/ocio/andres-calamaro-en-rosario-el-cantor-la-chapa-de-malvinas-y-el-publico-con-el-que-suena-mick-jagger-20260905-0001.html",
+        "image": null,
+        "pubDate": "2026-09-05T11:56:00+00:00",
+        "approxTime": true
+      }
+    ],
+    "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Los Pumas estuvieron otra vez cerca pero no pudieron tomarse revancha en Mendoza",
+        "link": "https://www.lacapital.com.ar/ovacion/los-pumas-estuvieron-otra-vez-cerca-pero-no-pudieron-tomarse-revancha-mendoza-n10279424.html",
+        "image": null,
+        "pubDate": "2026-09-05T23:38:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Los concentrados en Central: apareció un jugador que ya sabe lo que es convertir en el clásico",
+        "link": "https://www.lacapital.com.ar/ovacion/los-concentrados-central-aparecio-un-jugador-que-ya-sabe-lo-que-es-convertir-el-clasico-n10279380.html",
+        "image": null,
+        "pubDate": "2026-09-05T23:25:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Top 14: Atlético del Rosario venció a Belgrano y en el triunfo encontró un desahogo",
+        "link": "https://www.lacapital.com.ar/rugby/top-14-atletico-del-rosario-vencio-belgrano-y-el-triunfo-encontro-un-desahogo-n10279418.html",
+        "image": null,
+        "pubDate": "2026-09-05T22:31:00+00:00",
+        "approxTime": false
+      }
+    ]
+  }
+}

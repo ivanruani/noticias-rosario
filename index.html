@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="es-AR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>Noticias actualizadas de Rosario</title>
+
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#e4572e">
+<link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="icons/favicon-16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="icons/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="152x152" href="icons/apple-touch-icon-152.png">
+<link rel="apple-touch-icon" sizes="167x167" href="icons/apple-touch-icon-167.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Noticias Rosario">
+<style>
+  :root{
+    --bg: #faf6f0;
+    --bg-elevated: #ffffff;
+    --ink: #2b2420;
+    --ink-soft: #756b60;
+    --line: #e8ddce;
+    --r3: #e4572e;
+    --r3-soft: #fdece4;
+    --lc: #1b6e82;
+    --lc-soft: #e3f2f4;
+    --shadow: 0 1px 3px rgba(43,36,32,0.08), 0 4px 14px rgba(43,36,32,0.06);
+    --radius: 16px;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --bg: #1b1815;
+      --bg-elevated: #262220;
+      --ink: #f2ece4;
+      --ink-soft: #ab9f92;
+      --line: #3a332c;
+      --r3: #ff8a5c;
+      --r3-soft: #3a2620;
+      --lc: #6ec9de;
+      --lc-soft: #1c3238;
+      --shadow: 0 1px 3px rgba(0,0,0,0.35), 0 6px 18px rgba(0,0,0,0.3);
+    }
+  }
+
+  *{ box-sizing: border-box; }
+  html,body{
+    margin:0; padding:0;
+    background: var(--bg);
+    color: var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  header{
+    position: sticky; top:0; z-index: 10;
+    background: linear-gradient(135deg, var(--r3) 0%, #f2734f 55%, var(--lc) 100%);
+    color: #fff;
+    padding: 18px 16px 16px;
+    box-shadow: var(--shadow);
+  }
+  header h1{
+    margin:0;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: clamp(1.3rem, 4vw, 1.7rem);
+    letter-spacing: 0.2px;
+  }
+  .subrow{
+    display:flex; align-items:center; justify-content:space-between;
+    margin-top:8px; gap:10px; flex-wrap: wrap;
+  }
+  .updated{
+    font-size: 0.8rem; opacity: 0.92;
+  }
+  #refresh-btn{
+    appearance:none; border: 1px solid rgba(255,255,255,0.6);
+    background: rgba(255,255,255,0.15); color:#fff;
+    padding: 6px 14px; border-radius: 999px; font-size: 0.8rem;
+    cursor:pointer; display:flex; align-items:center; gap:6px;
+  }
+  #refresh-btn:active{ transform: scale(0.96); }
+  #refresh-btn.spinning svg{ animation: spin 0.8s linear infinite; }
+  @keyframes spin{ to{ transform: rotate(360deg); } }
+
+  main{
+    max-width: 1100px; margin: 0 auto;
+    padding: 18px 14px 60px;
+  }
+
+  .col-title{
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 1.05rem;
+    font-weight: 700;
+    margin: 4px 0 12px;
+    padding-bottom: 8px;
+    border-bottom: 3px solid var(--accent, var(--ink));
+    display:flex; align-items:center; gap:8px;
+  }
+  .col-title .dot{
+    width:10px; height:10px; border-radius:50%; background: var(--accent, var(--ink));
+    flex-shrink:0;
+  }
+
+  #feed.two-col{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 28px;
+    align-items:start;
+  }
+  #feed.one-col{
+    display:block;
+  }
+
+  .card-list{ display:flex; flex-direction:column; gap:14px; }
+
+  .card{
+    background: var(--bg-elevated);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    overflow:hidden;
+    display:flex;
+    text-decoration:none;
+    color: inherit;
+    border: 1px solid var(--line);
+    transition: transform 0.12s ease;
+  }
+  .card:active{ transform: scale(0.985); }
+
+  .thumb{
+    position: relative;
+    width: 128px; min-width:128px; height: 96px;
+    display:flex; align-items:center; justify-content:center;
+    color: #fff; font-size: 1.6rem;
+    overflow: hidden;
+  }
+  .thumb.r3{ background-color: var(--r3); }
+  .thumb.lc{ background-color: var(--lc); }
+  .thumb img{
+    position:absolute; inset:0;
+    width:100%; height:100%;
+    object-fit: cover;
+  }
+
+  .card-body{
+    padding: 10px 14px;
+    display:flex; flex-direction:column; justify-content:center;
+    gap: 6px; min-width:0;
+  }
+  .card-title{
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 0.98rem;
+    line-height: 1.28;
+    font-weight: 600;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .card-meta{
+    display:flex; align-items:center; gap:6px;
+    font-size: 0.74rem;
+    color: var(--ink-soft);
+  }
+  .badge{
+    font-size: 0.68rem; font-weight:700; text-transform:uppercase;
+    letter-spacing: 0.3px;
+    padding: 2px 7px; border-radius: 999px;
+  }
+  .badge.r3{ background: var(--r3-soft); color: var(--r3); }
+  .badge.lc{ background: var(--lc-soft); color: var(--lc); }
+
+  .state-msg{
+    text-align:center; color: var(--ink-soft);
+    padding: 40px 20px; font-size: 0.95rem;
+  }
+  .state-msg button{
+    margin-top: 12px; padding: 8px 18px; border-radius: 999px;
+    border: 1px solid var(--line); background: var(--bg-elevated);
+    color: var(--ink); cursor:pointer;
+  }
+
+  @media (max-width: 699px){
+    .thumb{ width: 96px; min-width: 96px; height: 84px; }
+    .card-title{ font-size: 0.92rem; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>📰 Noticias actualizadas de Rosario</h1>
+  <div class="subrow">
+    <span class="updated" id="updated-text">Cargando…</span>
+    <button id="refresh-btn" type="button" aria-label="Actualizar">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+        <path d="M21 12a9 9 0 1 1-2.64-6.36"/><path d="M21 3v6h-6"/>
+      </svg>
+      Actualizar
+    </button>
+  </div>
+</header>
+
+<main>
+  <div id="feed"></div>
+</main>
+
+<script>
+(function(){
+  var FEED_URL = './data.json';
+  var WIDE_QUERY = '(min-width: 700px)';
+  var lastData = null;
+
+  function escapeHtml(str){
+    return String(str).replace(/[&<>"']/g, function(c){
+      return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];
+    });
+  }
+
+  function siteClass(source){
+    return source === 'La Capital' ? 'lc' : 'r3';
+  }
+
+  function relativeTime(iso){
+    var d = new Date(iso);
+    if(isNaN(d.getTime())) return '';
+    var diffMs = Date.now() - d.getTime();
+    var mins = Math.round(diffMs / 60000);
+    if(mins < 1) return 'recién';
+    if(mins < 60) return 'hace ' + mins + ' min';
+    var hours = Math.round(mins / 60);
+    if(hours < 24) return 'hace ' + hours + ' h';
+    var days = Math.round(hours / 24);
+    if(days === 1) return 'ayer';
+    if(days < 7) return 'hace ' + days + ' días';
+    return d.toLocaleDateString('es-AR', {day:'2-digit', month:'2-digit'});
+  }
+
+  function cardHtml(item){
+    var cls = siteClass(item.source);
+    var img = item.image
+      ? '<img src="' + escapeHtml(item.image) + '" loading="lazy" alt="" onerror="this.remove()">'
+      : '';
+    var thumb = '<div class="thumb ' + cls + '">📰' + img + '</div>';
+    return (
+      '<a class="card" href="' + escapeHtml(item.link) + '" target="_blank" rel="noopener">' +
+        thumb +
+        '<div class="card-body">' +
+          '<div class="card-title">' + escapeHtml(item.title) + '</div>' +
+          '<div class="card-meta">' +
+            '<span class="badge ' + cls + '">' + escapeHtml(item.source) + '</span>' +
+            '<span>' + relativeTime(item.pubDate) + (item.approxTime ? ' (aprox.)' : '') + '</span>' +
+          '</div>' +
+        '</div>' +
+      '</a>'
+    );
+  }
+
+  function buildColumn(title, items, accentVar){
+    var wrap = document.createElement('div');
+    var h = document.createElement('div');
+    h.className = 'col-title';
+    h.style.setProperty('--accent', accentVar);
+    h.innerHTML = '<span class="dot"></span>' + escapeHtml(title);
+    wrap.appendChild(h);
+
+    var list = document.createElement('div');
+    list.className = 'card-list';
+    list.innerHTML = items.map(cardHtml).join('');
+    wrap.appendChild(list);
+    return wrap;
+  }
+
+  function render(data){
+    lastData = data;
+    var feed = document.getElementById('feed');
+    var isWide = window.matchMedia(WIDE_QUERY).matches;
+    var r3 = (data.sites && data.sites.rosario3) || [];
+    var lc = (data.sites && data.sites.lacapital) || [];
+
+    feed.innerHTML = '';
+
+    if(!r3.length && !lc.length){
+      feed.innerHTML = '<div class="state-msg">Todavía no hay noticias cargadas.<br>El archivo data.json se completa solo cuando corre el actualizador automático.</div>';
+      return;
+    }
+
+    if(isWide){
+      feed.className = 'two-col';
+      feed.appendChild(buildColumn('Rosario3', r3, 'var(--r3)'));
+      feed.appendChild(buildColumn('La Capital', lc, 'var(--lc)'));
+    } else {
+      feed.className = 'one-col';
+      var merged = r3.concat(lc).sort(function(a, b){
+        return new Date(b.pubDate) - new Date(a.pubDate);
+      });
+      var list = document.createElement('div');
+      list.className = 'card-list';
+      list.innerHTML = merged.map(cardHtml).join('');
+      feed.appendChild(list);
+    }
+
+    var updatedEl = document.getElementById('updated-text');
+    if(data.generatedAt){
+      updatedEl.textContent = 'Actualizado ' + relativeTime(data.generatedAt);
+    } else {
+      updatedEl.textContent = '';
+    }
+  }
+
+  function load(showSpinner){
+    var btn = document.getElementById('refresh-btn');
+    if(showSpinner) btn.classList.add('spinning');
+    fetch(FEED_URL + '?t=' + Date.now(), {cache: 'no-store'})
+      .then(function(res){
+        if(!res.ok) throw new Error('HTTP ' + res.status);
+        return res.json();
+      })
+      .then(function(data){
+        render(data);
+      })
+      .catch(function(err){
+        document.getElementById('feed').innerHTML =
+          '<div class="state-msg">No se pudo cargar las noticias en este momento.<br>' +
+          '<small>' + escapeHtml(err.message) + '</small>' +
+          '<br><button id="retry-btn" type="button">Reintentar</button></div>';
+        var retry = document.getElementById('retry-btn');
+        if(retry) retry.addEventListener('click', function(){ load(true); });
+      })
+      .finally(function(){
+        if(showSpinner) btn.classList.remove('spinning');
+      });
+  }
+
+  document.getElementById('refresh-btn').addEventListener('click', function(){ load(true); });
+
+  var resizeTimer;
+  window.addEventListener('resize', function(){
+    clearTimeout(resizeTimer);
+    resizeTimer = setTimeout(function(){
+      if(lastData) render(lastData);
+    }, 150);
+  });
+
+  load(false);
+})();
+</script>
+
+</body>
+</html>
