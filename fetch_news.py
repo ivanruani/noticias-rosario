@@ -180,12 +180,24 @@ def fetch_rosario3():
                 f"<a href=\"https://...\"> encontrados={num_a_href_abs} "
                 f"slug_conocido_presente={has_known_slug}"
             )
-            idx = r.text.find("central-newells")
-            if idx == -1:
-                idx = r.text.find("informaciongeneral")
-            if idx != -1:
-                ctx = re.sub(r"\s+", " ", r.text[max(0, idx - 150):idx + 150])
-                print(f"  contexto alrededor de un slug conocido: {ctx!r}")
+            total_occ = r.text.count("central-newells")
+            has_real_anchor = 'href="/deportes/central-newells' in r.text
+            print(
+                f"  ocurrencias totales del slug={total_occ} "
+                f"anchor_real_presente={has_real_anchor}"
+            )
+            # Mostramos el contexto de CADA ocurrencia (hasta 5) para ver
+            # en cual de todas esta el <a> real de la noticia.
+            start = 0
+            shown = 0
+            while shown < 5:
+                idx = r.text.find("central-newells", start)
+                if idx == -1:
+                    break
+                ctx = re.sub(r"\s+", " ", r.text[max(0, idx - 80):idx + 80])
+                print(f"  ocurrencia #{shown + 1} en pos {idx}: {ctx!r}")
+                start = idx + 1
+                shown += 1
 
         if len(candidates) >= MAX_ITEMS:
             break
