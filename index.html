@@ -57,7 +57,7 @@
     position: sticky; top:0; z-index: 10;
     background: linear-gradient(135deg, var(--r3) 0%, #f2734f 55%, var(--lc) 100%);
     color: #fff;
-    padding: 18px 16px 16px;
+    padding: calc(18px + env(safe-area-inset-top)) 16px 16px;
     box-shadow: var(--shadow);
   }
   header h1{
@@ -184,6 +184,15 @@
     .thumb{ width: 96px; min-width: 96px; height: 84px; }
     .card-title{ font-size: 0.92rem; }
   }
+
+  footer.site-footer{
+    text-align:center;
+    color: var(--ink-soft);
+    font-size: 0.76rem;
+    padding: 10px 16px calc(28px + env(safe-area-inset-bottom));
+    max-width: 1100px;
+    margin: 0 auto;
+  }
 </style>
 </head>
 <body>
@@ -204,6 +213,10 @@
 <main>
   <div id="feed"></div>
 </main>
+
+<footer class="site-footer">
+  Web App creada por Iván Maximiliano Ruani &copy; <span id="footer-year">2026</span>
+</footer>
 
 <script>
 (function(){
@@ -333,6 +346,9 @@
   }
 
   document.getElementById('refresh-btn').addEventListener('click', function(){ load(true); });
+
+  var yearEl = document.getElementById('footer-year');
+  if(yearEl) yearEl.textContent = new Date().getFullYear();
 
   var resizeTimer;
   window.addEventListener('resize', function(){
