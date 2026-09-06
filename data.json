@@ -1,55 +1,13 @@
 {
-  "generatedAt": "2026-09-06T12:00:00+00:00",
-  "note": "Datos de muestra iniciales. Se reemplazan automaticamente en cuanto corre el GitHub Action por primera vez (hasta 15 notas por sitio).",
+  "generatedAt": "2026-09-06T07:53:40.638902+00:00",
   "sites": {
-    "rosario3": [
-      {
-        "source": "Rosario3",
-        "title": "Comienza en Rosario el juicio contra Agustín Gagliasso, responsable de la tragedia vial de Roca y el río",
-        "link": "https://www.rosario3.com/policiales/comienza-en-rosario-el-juicio-contra-agustin-gagliasso-responsable-de-la-tragedia-vial-de-roca-y-el-rio-20260904-0018.html",
-        "image": null,
-        "pubDate": "2026-09-04T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Central-Newell's: las rachas que se pueden romper en el clásico rosarino del domingo",
-        "link": "https://www.rosario3.com/deportes/central-newells-las-rachas-que-se-pueden-romper-en-el-clasico-rosarino-del-domingo-20260904-0079.html",
-        "image": "https://www.rosario3.com/__export/1787687155710/sites/rosario3/img/2026/08/25/clasico_central_newell-s.jpg_506286608.jpg",
-        "pubDate": "2026-09-04T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El clima en Rosario: fresco, sin lluvias y ventoso",
-        "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-fresco-sin-lluvias-y-ventoso-20260905-0003.html",
-        "image": null,
-        "pubDate": "2026-09-05T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La Previa del Run Run: ceños fruncidos con Alto Rosario, mega parque de diversiones chino y full negocios en el Business Forum",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-previa-del-run-run-cenos-fruncidos-con-alto-rosario-mega-parque-de-diversiones-chino-y-full-negocios-en-el-business-forum-20260904-0069.html",
-        "image": null,
-        "pubDate": "2026-09-04T11:57:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Andrés Calamaro en Rosario: el cantor, la chapa de Malvinas y \"el público con el que sueña Mick Jagger\"",
-        "link": "https://www.rosario3.com/ocio/andres-calamaro-en-rosario-el-cantor-la-chapa-de-malvinas-y-el-publico-con-el-que-suena-mick-jagger-20260905-0001.html",
-        "image": null,
-        "pubDate": "2026-09-05T11:56:00+00:00",
-        "approxTime": true
-      }
-    ],
+    "rosario3": [],
     "lacapital": [
       {
         "source": "La Capital",
         "title": "Los Pumas estuvieron otra vez cerca pero no pudieron tomarse revancha en Mendoza",
         "link": "https://www.lacapital.com.ar/ovacion/los-pumas-estuvieron-otra-vez-cerca-pero-no-pudieron-tomarse-revancha-mendoza-n10279424.html",
-        "image": null,
+        "image": "https://media.lacapital.com.ar/p/61bca3b80f8ddc36de7062a496fefb2e/adjuntos/203/imagenes/103/383/0103383161/1200x675/smart/rug-pum-mendoz-a63b-a0ecac63109a.jpg",
         "pubDate": "2026-09-05T23:38:00+00:00",
         "approxTime": false
       },
@@ -57,7 +15,7 @@
         "source": "La Capital",
         "title": "Los concentrados en Central: apareció un jugador que ya sabe lo que es convertir en el clásico",
         "link": "https://www.lacapital.com.ar/ovacion/los-concentrados-central-aparecio-un-jugador-que-ya-sabe-lo-que-es-convertir-el-clasico-n10279380.html",
-        "image": null,
+        "image": "https://media.lacapital.com.ar/p/e050fd2e9eb38e102e7fe06d47e48a32/adjuntos/203/imagenes/103/382/0103382106/duarte2cml.JPG",
         "pubDate": "2026-09-05T23:25:00+00:00",
         "approxTime": false
       },
@@ -65,8 +23,104 @@
         "source": "La Capital",
         "title": "Top 14: Atlético del Rosario venció a Belgrano y en el triunfo encontró un desahogo",
         "link": "https://www.lacapital.com.ar/rugby/top-14-atletico-del-rosario-vencio-belgrano-y-el-triunfo-encontro-un-desahogo-n10279418.html",
-        "image": null,
+        "image": "https://media.lacapital.com.ar/p/d8b3e1f153f5a02eaecbe181bb8a4631/adjuntos/203/imagenes/103/382/0103382985/82638455.jpeg",
         "pubDate": "2026-09-05T22:31:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El tiempo en Rosario: el invierno no se quiere ir y se viene un nuevo descenso de las temperaturas",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-el-invierno-no-se-quiere-ir-y-se-viene-un-nuevo-descenso-las-temperaturas-n10279413.html",
+        "image": "https://media.lacapital.com.ar/p/0a9892f9a15a6312686ac0d7ae788782/adjuntos/203/imagenes/103/382/0103382970/1200x675/smart/frio-perros-clima.jpg",
+        "pubDate": "2026-09-05T22:27:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Asociación Rosarina de Fútbol: Rosario Central goleó a Newell's y se quedó con el clásico",
+        "link": "https://www.lacapital.com.ar/ovacion/asociacion-rosarina-futbol-rosario-central-goleo-newells-y-se-quedo-el-clasico-n10279407.html",
+        "image": "https://media.lacapital.com.ar/p/30cec7d93d80640f4a4bbe0a8d17edfe/adjuntos/203/imagenes/103/382/0103382609/1200x675/smart/image-70.png",
+        "pubDate": "2026-09-05T22:12:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "SLB, Halliburton y Baker Hughes descartaron participar en proyectos petroleros en Malvinas",
+        "link": "https://www.lacapital.com.ar/politica/slb-halliburton-y-baker-hughes-descartaron-participar-proyectos-petroleros-malvinas-n10279411.html",
+        "image": "https://media.lacapital.com.ar/p/b1ee7dc25fd19b85e6092d8e26d5553c/adjuntos/203/imagenes/103/382/0103382860/1200x675/smart/image.png",
+        "pubDate": "2026-09-05T22:08:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Cómo llega Central al clásico en comparación con el disputado en el torneo pasado",
+        "link": "https://www.lacapital.com.ar/ovacion/como-llega-central-al-clasico-comparacion-el-disputado-el-torneo-pasado-n10278965.html",
+        "image": "https://media.lacapital.com.ar/p/a8222200098359597781cbfff0002553/adjuntos/203/imagenes/103/382/0103382243/clausuralv.jpg",
+        "pubDate": "2026-09-05T21:41:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Incendios en las islas: en cuatro días se consumieron más de 1.700 hectáreas",
+        "link": "https://www.lacapital.com.ar/la-ciudad/incendios-las-islas-cuatro-dias-se-consumieron-mas-1700-hectareas-n10279405.html",
+        "image": "https://media.lacapital.com.ar/p/27907da11a83eac2b9485abc108262c7/adjuntos/203/imagenes/103/382/0103382564/1200x675/smart/incendios-islas-parana-59.jpg",
+        "pubDate": "2026-09-05T21:24:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La Asamblea Legislativa de Malvinas se expidió tras el cruce entre Milei y el gobierno británico",
+        "link": "https://www.lacapital.com.ar/politica/la-asamblea-legislativa-malvinas-se-expidio-el-cruce-milei-y-el-gobierno-britanico-n10279409.html",
+        "image": "https://media.lacapital.com.ar/p/e50c1ffcd02d46b8500c6a6b4ca1d3df/adjuntos/203/imagenes/103/226/0103226179/008-001-islasmalvinas.JPG",
+        "pubDate": "2026-09-05T21:24:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Newell's concentró para el clásico con el refuerzo Santiago Solari y el regreso de Walter Núñez",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-concentro-el-clasico-el-refuerzo-santiago-solari-y-el-regreso-walter-nunez-n10279399.html",
+        "image": "https://media.lacapital.com.ar/p/812ee8d439515e52b45328eec3f70d5d/adjuntos/203/imagenes/103/382/0103382424/1200x675/smart/image-25.png",
+        "pubDate": "2026-09-05T20:54:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Primera C: Central Córdoba ganó en Tablada y Argentino empató en Valentín Alsina en la previa al clásico",
+        "link": "https://www.lacapital.com.ar/ovacion/primera-c-central-cordoba-gano-tablada-y-argentino-empato-valentin-alsina-la-previa-al-clasico-n10279393.html",
+        "image": "https://media.lacapital.com.ar/p/51d69d1af73428a7e1a2ac9c29dd95cd/adjuntos/203/imagenes/103/383/0103383088/1200x675/smart/image-71.png",
+        "pubDate": "2026-09-05T20:51:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El Santa Fe Business Forum afianza la internacionalización productiva de la provincia",
+        "link": "https://www.lacapital.com.ar/economia/el-santa-fe-business-forum-afianza-la-internacionalizacion-productiva-la-provincia-n10279394.html",
+        "image": "https://media.lacapital.com.ar/p/b70fc5ab8ac34f3811f2ca8d5b49dfa9/adjuntos/203/imagenes/103/382/0103382278/1200x675/smart/santa-fe-business-forum-2026-web.jpg",
+        "pubDate": "2026-09-05T20:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "\"Cautiva\", la serie protagonizada por Lorena Vega sobre el convento de Nogoyá",
+        "link": "https://www.lacapital.com.ar/zoom/cautiva-la-serie-protagonizada-lorena-vega-el-convento-nogoya-n10279383.html",
+        "image": "https://media.lacapital.com.ar/p/06eae6a218d64d0d3883f723fd67339c/adjuntos/203/imagenes/103/382/0103382141/1200x675/smart/image-2026-09-05t160843430.jpg",
+        "pubDate": "2026-09-05T19:42:14+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central: el equipo llegaría al clásico con retoques, incluso en la posición más cuestionada",
+        "link": "https://www.lacapital.com.ar/ovacion/central-el-equipo-llegaria-al-clasico-retoques-incluso-la-posicion-mas-cuestionada-n10279359.html",
+        "image": "https://media.lacapital.com.ar/p/507cd5de20bef6cecfb316c60b509e39/adjuntos/203/imagenes/103/306/0103306331/almilv.jpg",
+        "pubDate": "2026-09-05T19:26:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Qué ver este fin de semana en plataformas de streaming",
+        "link": "https://www.lacapital.com.ar/zoom/que-ver-este-fin-semana-plataformas-streaming-n10279218.html",
+        "image": "https://media.lacapital.com.ar/p/6bac96e2cd09c971682ad24511af68cf/adjuntos/203/imagenes/103/380/0103380115/1200x675/smart/image-3.png",
+        "pubDate": "2026-09-05T19:11:00+00:00",
         "approxTime": false
       }
     ]
