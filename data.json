@@ -1,23 +1,50 @@
 {
-  "generatedAt": "2026-09-07T21:40:00.193736+00:00",
+  "generatedAt": "2026-09-07T23:54:35.801304+00:00",
   "sites": {
     "rosario3": [
       {
         "source": "Rosario3",
-        "title": "Rosario presentó su primer taxi 100% eléctrico: cómo es y qué financiamiento se ofrece",
-        "link": "https://www.rosario3.com/informaciongeneral/rosario-presento-su-primer-taxi-100-electrico-como-es-y-que-financiamiento-se-ofrece-20260907-0044.html",
-        "image": "https://www.rosario3.com/__export/1788803484507/sites/rosario3/img/2026/09/07/captura_de_pantalla_2026-09-07_144339.png_235288684.png",
-        "summary": "El vehículo cuenta con una autonomía de 385 kilómetros por carga y abrirá una nueva era en el transporte público. Hay otras 15 unidades en proceso de adjudicación a través de créditos provinciales",
+        "title": "Riquelme II: Fran siguió dando órdenes desde la cárcel y ahora investigan a su “nueva banda”",
+        "link": "https://www.rosario3.com/policiales/riquelme-ii-fran-siguio-dando-ordenes-desde-la-carcel-y-ahora-investigan-a-su-nueva-banda-20260907-0065.html",
+        "image": "https://www.rosario3.com/__export/1788822293381/sites/rosario3/img/2023/12/06/francisco_riquelme.jpg_928314581.jpg",
+        "summary": "A pocos meses de recibir una condena a prisión perpetua, el líder narco volvió a quedar bajo investigación: los fiscales sostienen que continuó impartiendo órdenes desde Marcos Paz a través de un abogado y que su hijo Ezequiel “Cabezón” Riquelme tomó las riendas del negocio en…",
         "pubDate": "2026-09-07T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Créditos para comprar autos: \"Nunca vendimos tantas unidades con tan alta incidencia de financiación\"",
+        "link": "https://www.rosario3.com/informaciongeneral/creditos-para-comprar-autos-nunca-vendimos-tantas-unidades-con-tan-alta-incidencia-de-financiacion-20260907-0054.html",
+        "image": "https://www.rosario3.com/__export/1776093592983/sites/rosario3/img/2026/04/13/1725215132302-version1776002772223.png_1221028662.png",
+        "summary": "El Gobierno lanzó créditos de hasta US$ 65.000 a través del Banco Nación para la compra de vehículos nuevos y usados en Argentina. Marcelo Buzzoni, gerente de ventas de la concesionaria Giorgi, analizó el impacto de la medida en un mercado automotriz que hoy se sostiene gracias…",
+        "pubDate": "2026-09-07T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Milei y su hermana recibieron en Casa Rosada a Hela, una perra antidrogas de la Policía Federal",
+        "link": "https://www.rosario3.com/informaciongeneral/milei-y-su-hermana-recibieron-en-casa-rosada-a-hela-una-perra-antidrogas-de-la-policia-federal-20260907-0063.html",
+        "image": "https://www.rosario3.com/__export/1788819238098/sites/rosario3/img/2026/09/07/hela.jpg_1825222445.jpg",
+        "summary": "La can detectora de narcóticos intervino en varias investigaciones. Su guía, la sargento Susana Viamonte, permaneció dos años más en la fuerza para retirarse junto a ella",
+        "pubDate": "2026-09-07T11:58:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
         "title": "“Pará porque nos vamos a matar”: qué declaró la acompañante de Gagliasso sobre la velocidad antes de la tragedia",
         "link": "https://www.rosario3.com/policiales/para-porque-nos-vamos-a-matar-que-declaro-la-acompanante-de-gagliasso-sobre-la-velocidad-antes-de-la-tragedia-20260907-0041.html",
-        "image": "https://www.rosario3.com/__export/1788798208960/sites/rosario3/img/2026/09/07/whatsapp_image_2026-09-07_at_13_18_06.jpeg_1825222445.jpeg",
+        "image": "https://www.rosario3.com/__export/1787934015877/sites/rosario3/img/2025/08/28/centro_de_justicia_penal_rosario.jpg_1221028663.jpg",
         "summary": "La fiscal Valeria Piazza Iglesias contó que la joven que viajaba junto al acusado le pidió que bajara la velocidad antes del choque en el que murieron Tania Gandolfi y su hija Agustina García. También ratificó la persecución a un motociclista y dijo que Gagliasso estaba “como…",
-        "pubDate": "2026-09-07T11:59:00+00:00",
+        "pubDate": "2026-09-07T11:57:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Violencia de género: detuvieron a un hombre acusado de amenazar con una cuchilla a una mujer en Granadero Baigorria",
+        "link": "https://www.rosario3.com/policiales/violencia-de-genero-detuvieron-a-un-hombre-acusado-de-amenazar-con-una-cuchilla-a-una-mujer-en-granadero-baigorria-20260907-0066.html",
+        "image": "https://www.rosario3.com/__export/1788822824332/sites/rosario3/img/2026/09/07/detenido.jpg_1825222445.jpg",
+        "summary": "La víctima denunció que el sospechoso la agredió y le colocó el arma blanca en el cuello. Horas más tarde, la Policía lo encontró encerrado en una habitación y logró aprehenderlo tras una negociación",
+        "pubDate": "2026-09-07T11:56:00+00:00",
         "approxTime": true
       },
       {
@@ -26,42 +53,15 @@
         "link": "https://www.rosario3.com/informaciongeneral/el-banco-nacion-baja-la-tasa-para-refinanciar-a-las-familias-con-problemas-de-deudas-ante-la-mora-record-quienes-pueden-acceder-20260907-0056.html",
         "image": "https://www.rosario3.com/__export/1788811766574/sites/rosario3/img/2026/09/07/banco_nacion.jpg_1768679257.jpg",
         "summary": "La medida de la entidad pública apunta a reducir cuotas, extender plazos y ofrecer alternativas para usuarios que atraviesan dificultades para sostener sus pagos",
-        "pubDate": "2026-09-07T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Chocó y murió cuando escapaba de ladrones: piden 18 años para uno de los detenidos",
-        "link": "https://www.rosario3.com/policiales/choco-y-murio-cuando-escapaba-de-ladrones-piden-18-anos-para-uno-de-los-detenidos-20260907-0029.html",
-        "image": "https://www.rosario3.com/__export/1788800874234/sites/rosario3/img/2026/09/07/elias_velazquez.jpg_928314580.jpg",
-        "summary": "El caso ocurrió en diciembre de 2023 y empezó a ser juzgado desde el pasado viernes. El acusado Nahuel Meza está sindicado por homicidio en ocasión de robo",
-        "pubDate": "2026-09-07T11:57:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El gran gesto de Di María con el vendedor y su hijo robados en la previa del clásico rosarino",
-        "link": "https://www.rosario3.com/informaciongeneral/el-gran-gesto-de-di-maria-con-el-vendedor-atacado-y-robado-en-la-previa-del-clasico-rosarino-20260907-0033.html",
-        "image": "https://www.rosario3.com/__export/1788814703752/sites/rosario3/img/2026/09/07/gesto_di_maria.jpg_188576579.jpg",
-        "summary": "El ídolo de Rosario Central le envió una camiseta firmada al hijo del comerciante ambulante que sufrió el robo de su mercadería por parte de decenas de hinchas. En diálogo con el programa De 12 a 14, el hombre agradeció la solidaridad recibida, reflexionó sobre la intolerancia…",
-        "pubDate": "2026-09-07T11:56:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Exfiscal Ríos Artacho fue acusado por desvío millonario de fondos de cuentas judiciales",
-        "link": "https://www.rosario3.com/policiales/exfiscal-rios-artacho-fue-acusado-por-desvio-millonario-de-fondos-de-cuentas-judiciales-20260907-0028.html",
-        "image": "https://www.rosario3.com/__export/1788790808812/sites/rosario3/img/2026/09/07/rios_artacho.jpg_928314581.jpg",
-        "summary": "El exfuncionario del Ministerio Público de la Acusación es imputado este lunes por haber realizado vaciamiento de cuentas bancarias judiciales por un monto estimado en 425 millones de pesos. Hay otros 11 involucrados",
         "pubDate": "2026-09-07T11:55:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "La Justicia suspendió por 60 días el nuevo Régimen Penal Juvenil en la provincia de Buenos Aires",
-        "link": "https://www.rosario3.com/informaciongeneral/la-justicia-suspendio-por-60-dias-el-nuevo-regimen-penal-juvenil-en-la-provincia-de-buenos-aires-20260907-0055.html",
-        "image": "https://www.rosario3.com/__export/1788810486792/sites/rosario3/img/2026/09/07/ley_penal_juvenil.jpg_1768679257.jpg",
-        "summary": "La medida se tomó horas después de que el gobierno nacional publicara en el Boletín Oficial la reglamentación del nuevo régimen. La decisión partió del Juzgado de Responsabilidad Penal Juvenil N° 2 de Lomas de Zamora, que hizo lugar a un habeas corpus preventivo. El dictamen…",
+        "title": "Rosario presentó su primer taxi 100% eléctrico: cómo es y qué financiamiento se ofrece",
+        "link": "https://www.rosario3.com/informaciongeneral/rosario-presento-su-primer-taxi-100-electrico-como-es-y-que-financiamiento-se-ofrece-20260907-0044.html",
+        "image": "https://www.rosario3.com/__export/1788803484507/sites/rosario3/img/2026/09/07/captura_de_pantalla_2026-09-07_144339.png_235288684.png",
+        "summary": "El vehículo cuenta con una autonomía de 385 kilómetros por carga y abrirá una nueva era en el transporte público. Hay otras 15 unidades en proceso de adjudicación a través de créditos provinciales",
         "pubDate": "2026-09-07T11:54:00+00:00",
         "approxTime": true
       },
@@ -85,10 +85,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Tras el empate en el clásico, qué se les viene a Newell’s y Central en busca de la clasificación",
-        "link": "https://www.rosario3.com/deportes/tras-el-empate-en-el-clasico-que-se-les-viene-a-newells-y-central-en-busca-de-la-clasificacion-20260907-0045.html",
-        "image": "https://www.rosario3.com/__export/1788804857572/sites/rosario3/img/2026/09/07/clasico_rosarino.jpg_506286608.jpg",
-        "summary": "En un partido de pierna fuerte y poco fútbol, la igualdad agónica de la Lepra ante el Canalla en el Gigante de Arroyito apuntaló a Kudelka. Del otro lado, Almirón sumó cuestionamientos. Cómo es la agenda en la segunda parte del torneo Clausura, con ocho fechas por delante y con…",
+        "title": "Preparan una jornada de concientización por la Semana de la Epilepsia: cómo actuar para asistir a personas que presentan una crisis",
+        "link": "https://www.rosario3.com/informaciongeneral/preparan-una-jornada-de-concientizacion-por-la-semana-de-la-epilepsia-como-actuar-para-asistir-a-personas-que-presentan-una-crisis-20260907-0064.html",
+        "image": "https://www.rosario3.com/__export/1788821749252/sites/rosario3/img/2026/09/07/epilepsia.jpg_982625323.jpg",
+        "summary": "Desde la Alianza Argentina de Epilepsia invitan a participar de una actividad que tendrá lugar este miércoles 9 de septiembre en la plaza Libertad para conocer los detalles sobre su protocolo Calma y concientizar sobre esta enfermedad que, según estiman, afecta a medio millón de…",
         "pubDate": "2026-09-07T11:51:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,51 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Cerraron la causa por la muerte de Ernestina Pais: descartaron la intervención de terceros",
+        "link": "https://www.lacapital.com.ar/informacion-general/cerraron-la-causa-la-muerte-ernestina-pais-descartaron-la-intervencion-terceros-n10279720.html",
+        "image": "https://media.lacapital.com.ar/p/dd55b667ae90468780edba939ba0e120/adjuntos/203/imagenes/103/386/0103386857/2026-09-07-ernestina-pais.jpg",
+        "summary": "La fiscal indicó que todas las pericias realizadas dieron negativo, por lo que el hecho se trató de un \"accidente\"",
+        "pubDate": "2026-09-07T23:40:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Una jueza de la provincia de Buenos Aires suspendió el nuevo Régimen Penal Juvenil",
+        "link": "https://www.lacapital.com.ar/politica/una-jueza-la-provincia-buenos-aires-suspendio-el-nuevo-regimen-penal-juvenil-n10279718.html",
+        "image": "https://media.lacapital.com.ar/p/efecd10585c670d3fee6ca0a49828499/adjuntos/203/imagenes/103/386/0103386811/2026-09-07-regimen-penal-juvenil.jpg",
+        "summary": "Es una suspensión preventiva por 60 días. La normativa reduce de 16 a 14 años la edad de imputabilidad",
+        "pubDate": "2026-09-07T23:33:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Serbia rindió honores al criminal de guerra Ratko Mladic en su funeral",
+        "link": "https://www.lacapital.com.ar/el-mundo/serbia-rindio-honores-al-criminal-guerra-ratko-mladic-su-funeral-n10279709.html",
+        "image": "https://media.lacapital.com.ar/p/165859f4164943f116bcaad2e2d25d38/adjuntos/203/imagenes/103/385/0103385747/1200x675/smart/el-dia14.jpeg",
+        "summary": "El Carnicero de Bosnia murió en la cárcel en La Haya el 27 de agosto. Una multitud en Belgrado lo despidió como un héroe",
+        "pubDate": "2026-09-07T22:41:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Gerónimo Rauch: de Mambrú a conquistar Londres y Nueva York con Los Miserables",
+        "link": "https://www.lacapital.com.ar/la-capital/geronimo-rauch-mambru-broadway-los-miserables-su-lesion-y-el-anhelo-volver-al-pais-n10279621.html",
+        "image": "https://media.lacapital.com.ar/p/3d8c40cb45dcee4cd9795a2ce0ddd935/adjuntos/203/imagenes/103/385/0103385434/1200x675/smart/imagen-l.jpg",
+        "summary": "En \"Lo Resolví Pensando\" con Guido Záffora, Gerónimo Rauch repasa su brillante carrera internacional y los desafíos del teatro musical",
+        "pubDate": "2026-09-07T22:30:19+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Condenado a 18 años por matar a un vendedor barrial de drogas por orden de un preso",
+        "link": "https://www.lacapital.com.ar/policiales/condenado-18-anos-matar-un-vendedor-barrial-drogas-orden-un-preso-n10279698.html",
+        "image": "https://media.lacapital.com.ar/p/9a2cf08b7cec6bed1bd7eac8182a7701/adjuntos/203/imagenes/100/866/0100866939/1200x675/smart/vggpng.png",
+        "summary": "Ezequiel Miquelini aceptó esa pena por el asesinato de Sergio \"Flaco\" Leguizamón, baleado a través de una ventana en Villa Gobernador Gálvez a pedido del un preso de alto perfil",
+        "pubDate": "2026-09-07T22:11:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Pullaro endurece su faceta penitenciaria con nuevas cárceles y vaciado de comisarías",
         "link": "https://www.lacapital.com.ar/politica/pullaro-endurece-su-faceta-penitenciaria-nuevas-carceles-y-vaciado-comisarias-n10279643.html",
         "image": "https://media.lacapital.com.ar/p/f803e838a560ca428f8b3d3f7e90cb6c/adjuntos/203/imagenes/103/385/0103385839/1200x675/smart/presos-pullaro.jpeg",
@@ -178,7 +223,7 @@
       {
         "source": "La Capital",
         "title": "Ángel Di María y un especial regalo para la familia de vendedores asaltados por hinchas de Newell's",
-        "link": "https://www.lacapital.com.ar/angel-di-maria-y-un-especial-regalo-la-familia-vendedoresasaltadospor-hinchas-denewells-n10279682.html",
+        "link": "https://www.lacapital.com.ar/policiales/angel-di-maria-y-un-especial-regalo-la-familia-vendedoresasaltadospor-hinchas-denewells-n10279682.html",
         "image": "https://media.lacapital.com.ar/p/9d3c0b6d804d19ca2cc9b414d78dd772/adjuntos/203/imagenes/103/386/0103386357/1200x675/smart/di-maria-rondeau-olive-79-1.jpg",
         "summary": "El capitán de Rosario Central le entregó una camiseta firmada al hijo de la familia que fue víctima de despiadados ladrones en la previa del clásico rosarino. La historia del vendedor",
         "pubDate": "2026-09-07T19:59:00+00:00",
@@ -206,7 +251,7 @@
         "source": "La Capital",
         "title": "Llegan los Juegos Suramericanos 2026: calendario, cómo sacar entradas y cómo ver en vivo",
         "link": "https://www.lacapital.com.ar/juegos-suramericanos/llegan-los-juegos-suramericanos-2026-calendario-como-sacar-entradas-y-como-ver-vivo-n10279649.html",
-        "image": "https://www.lacapital.com.ar/css-custom/203/images/mtg_logo-v2.png",
+        "image": "https://media.lacapital.com.ar/p/5fdb5dceb9556f01d00ec2f5b1b4fcb1/adjuntos/203/imagenes/103/381/0103381061/1200x675/smart/image-9.jpg",
         "summary": "La competencia se disputará desde el 12 al 26 de septiembre, la cual contará con 43 deportes, 60 disciplinas y más de 4.000 atletas de 15 países diferentes",
         "pubDate": "2026-09-07T18:32:00+00:00",
         "approxTime": false
@@ -227,51 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/e51dd512bb568a0115237a3b8e2ba1c5/adjuntos/203/imagenes/103/386/0103386175/1200x675/smart/image-2026-09-07t145827468.jpg",
         "summary": "El secretario General del Sindicato de Luz y Fuerza de Rosario sostuvo que la sociedad debe prepararse para tiempos complejos e hizo un llamado a la unidad",
         "pubDate": "2026-09-07T18:31:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La lista de celulares en los que dejará de funcionar Netflix a partir de septiembre",
-        "link": "https://www.lacapital.com.ar/informacion-general/la-lista-celulares-los-que-dejara-funcionar-netflix-partir-septiembre-n10279657.html",
-        "image": "https://media.lacapital.com.ar/p/86bd7da333568d3e341028463bab1d36/adjuntos/203/imagenes/103/386/0103386096/1200x675/smart/image.png",
-        "summary": "Distintos modelos de Android y iOS no podrán descargar ni abrir la aplicación, al igual que algunos modelos antiguos de televisión. La lista completa",
-        "pubDate": "2026-09-07T18:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Rosario Fashion Sunset",
-        "link": "https://www.lacapital.com.ar/novedades/rosario-fashion-sunset-n10279650.html",
-        "image": "https://media.lacapital.com.ar/p/46dc8e73390395ce53d88412fb25b70b/adjuntos/203/imagenes/103/385/0103385973/1200x675/smart/descarga.png",
-        "summary": "El evento del año: un multitudinario \"Rosario Fashion Sunset \" reunió a Pampita, Leo Saleh, Barby Franco y Mario Guerci con polo, golf, moda y after party.",
-        "pubDate": "2026-09-07T18:21:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Venado Tuerto fue sede del Torneo Nacional de Atletismo U18",
-        "link": "https://www.lacapital.com.ar/la-region/venado-tuertofuesede-deltorneo-nacionalde-atletismou18-n10279666.html",
-        "image": "https://media.lacapital.com.ar/p/bbcf246791fdbf34786c52bb39e205d0/adjuntos/203/imagenes/103/386/0103386173/1200x675/smart/venado-atletismo1.jpeg",
-        "summary": "El evento deportivo tuvo una amplia representación federal, con más de 400 atletas inscriptos provenientes de 23 provincias que competirán durante dos días",
-        "pubDate": "2026-09-07T18:17:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El Estado gasta por mes más de $200 millones en 11 jubilaciones de privilegio: quiénes las reciben",
-        "link": "https://www.lacapital.com.ar/politica/el-estado-gasta-mes-mas-200-millones-11-jubilaciones-privilegio-quienes-las-reciben-n10279664.html",
-        "image": "https://media.lacapital.com.ar/p/e542967c8e6c491f71e2996a001ff6f8/adjuntos/203/imagenes/102/993/0102993352/1200x675/smart/macri.png",
-        "summary": "El millonario monto se destina a expresidentes, exvicepresidentes, viudas y a la hija de un exmandatario.",
-        "pubDate": "2026-09-07T18:11:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Un ex-Newell's anotó un triplete y es la figura de la revelación de La Liga de España",
-        "link": "https://www.lacapital.com.ar/ovacion/un-ex-newells-anoto-un-triplete-y-es-la-figura-la-revelacion-la-liga-espana-n10279633.html",
-        "image": "https://media.lacapital.com.ar/p/afa63dd5ada66b1bea16e7111c1ded21/adjuntos/203/imagenes/103/385/0103385644/1200x675/smart/lucas-boye-deportivo-alaves.jpg",
-        "summary": "El exdelantero de la Lepra marcó tres tantos en la goleada de Deportivo Alavés a Osasuna, para ser el único escolta apenas por detrás de Barcelona",
-        "pubDate": "2026-09-07T18:02:00+00:00",
         "approxTime": false
       }
     ]
