@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-06T23:25:08.337575+00:00",
+  "generatedAt": "2026-09-07T01:11:12.461513+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Juicio por la tragedia de Roca y el río: qué pena le puede caber a Gagliasso",
+        "link": "https://www.rosario3.com/policiales/juicio-por-la-tragedia-de-roca-y-el-rio-que-pena-le-puede-caber-a-gagliasso-20260906-0046.html",
+        "image": "https://www.rosario3.com/__export/1769024487678/sites/rosario3/img/2025/01/24/agustin_lopez.jpg_786111823.jpg",
+        "summary": "Este lunes comienza el debate oral y público en el Centro de Justicia Penal de Rosario. La acusación busca encuadrar el siniestro vial en una figura penal severa tras la muerte de Tania Gandolfi y su hija Agustina en la costa rosarina",
+        "pubDate": "2026-09-06T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "El clásico rosarino no tuvo dueño: Central lo ganaba y Newell’s lo igualó en el final por corrección del VAR",
         "link": "https://www.rosario3.com/deportes/la-ciudad-altera-su-pulso-ante-un-nuevo-clasico-rosarino-central-y-newells-cara-a-cara-en-el-gigante-de-arroyito-en-un-partido-que-es-mucho-mas-que-eso-20260904-0059.html",
         "image": "https://www.rosario3.com/__export/1788733555084/sites/rosario3/img/2026/09/06/dsc02240.jpg_2106848869.jpg",
         "summary": "Por la octava fecha del Torneo Clausura, canallas y leprosos igualaron 1 a 1 en un partido de pierna fuerte y poco fútbol. Gastón Ávila abrió el partido cuando se terminaba el primer tiempo y Cóccaro lo empató en tiempo de descuento. A los leprosos se le atragantó el grito por…",
-        "pubDate": "2026-09-04T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Un empate, como en otros tiempos, que le cae mucho mejor a Newell’s que a Central",
-        "link": "https://www.rosario3.com/opinion/un-empate-como-en-otros-tiempos-que-le-cae-mucho-mejor-a-newells-que-a-central-20260906-0041.html",
-        "image": "https://www.rosario3.com/__export/1788731729539/sites/rosario3/img/2026/09/06/clasico_1.jpeg_1848694094.jpeg",
-        "summary": "El gol agónico de Cóccaro premió la insistencia final de la Lepra y castigó la pasividad del Canalla, que se conformó con la ventaja en un clásico mediocre y volvió a quedar en deuda con su jerarquía",
-        "pubDate": "2026-09-06T11:59:00+00:00",
+        "pubDate": "2026-09-04T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -40,11 +40,29 @@
       },
       {
         "source": "Rosario3",
-        "title": "Violento choque en la autopista a Córdoba: trasladaron a una embarazada en helicóptero",
-        "link": "https://www.rosario3.com/informaciongeneral/violento-choque-en-la-autopista-a-cordoba-trasladaron-a-una-embarazada-en-helicoptero-20260906-0043.html",
-        "image": "https://www.rosario3.com/__export/1788734461421/sites/rosario3/img/2026/09/06/helic1.jpeg_504494205.jpeg",
-        "summary": "Ocurrió este domingo a la altura del arroyo Ludueña, donde colisionaron dos autos por razones que se investigan. El despliegue incluyó la asistencia del helicóptero sanitario y el traslado de otro herido al Heca",
+        "title": "Run Run: desarrollo de casi tres hectáreas al lado del Carrefour de Circunvalación, filtran en la web datos críticos de importante empresa de Rosario y el hijo de un industrial tras las rejas",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/run-run-desarrollo-de-casi-tres-hectareas-al-lado-del-carrefour-de-circunvalacion-filtran-en-la-web-datos-criticos-de-importante-un-empresa-de-rosario-y-el-hijo-de-un-industrial-tras-las-rejas-20260906-0026.html",
+        "image": "https://www.rosario3.com/__export/1788715895369/sites/rosario3/img/2026/09/06/carrefour.jpg_1318160146.jpg",
+        "summary": "Además: más ofertas por el tren del Gran Rosario pero esta vez con financiamiento propio, problemas en Alto Rosario, malestar en el gobierno provincial por una decisión “muy de casta” de la EPE, Cofano (del Grupo Roma) ya ni recibe las cartas documento pero asoma una solución…",
         "pubDate": "2026-09-06T11:56:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Ganó el peronismo en Marcos Juárez, ciudad cordobesa donde germinó el macrismo",
+        "link": "https://www.rosario3.com/politica/gano-el-peronismo-en-marcos-juarez-ciudad-cordobesa-donde-germino-el-macrismo-20260906-0045.html",
+        "image": "https://www.rosario3.com/__export/1788739053529/sites/rosario3/img/2026/09/06/font.jpg_744098474.jpg",
+        "summary": "Germán Font venció al exintendente Pedro Dellarossa y quebró más de cinco décadas de hegemonía opositora en el denominado 'kilómetro cero' de Juntos por el Cambio. La jornada estuvo marcada por una marcada baja en la participación electoral",
+        "pubDate": "2026-09-06T11:55:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Un empate, como en otros tiempos, que le cae mucho mejor a Newell’s que a Central",
+        "link": "https://www.rosario3.com/opinion/un-empate-como-en-otros-tiempos-que-le-cae-mucho-mejor-a-newells-que-a-central-20260906-0041.html",
+        "image": "https://www.rosario3.com/__export/1788731729539/sites/rosario3/img/2026/09/06/clasico_1.jpeg_1848694094.jpeg",
+        "summary": "El gol agónico de Cóccaro premió la insistencia final de la Lepra y castigó la pasividad del Canalla, que se conformó con la ventaja en un clásico mediocre y volvió a quedar en deuda con su jerarquía",
+        "pubDate": "2026-09-06T11:54:00+00:00",
         "approxTime": true
       },
       {
@@ -53,7 +71,7 @@
         "link": "https://www.rosario3.com/deportes/kudelka-tras-el-empate-de-newells-en-el-clasico--jugamos-un-primer-tiempo-emocional-y-no-racional-20260906-0037.html",
         "image": "https://www.rosario3.com/__export/1788727320677/sites/rosario3/img/2026/09/06/kudelka_-1-.jpg_506286608.jpg",
         "summary": "El director técnico leproso valoró el empate conseguido en forma agónica ante Central y marcó diferencias entre lo que hizo su equipo en la etapa inicial con respecto a la segunda. Según explicó, les faltó “pensar” más a la hora de tener la pelota",
-        "pubDate": "2026-09-06T11:55:00+00:00",
+        "pubDate": "2026-09-06T11:53:00+00:00",
         "approxTime": true
       },
       {
@@ -62,24 +80,6 @@
         "link": "https://www.rosario3.com/deportes/almiron-tras-el-clasico-hubo-un-solo-equipo-en-la-cancha-nos-da-mucha-bronca-20260906-0038.html",
         "image": "https://www.rosario3.com/__export/1788727550914/sites/rosario3/img/2026/09/06/almiron0.jpg_928314583.jpg",
         "summary": "El entrenador de Rosario Central lamentó que se les escapó la victoria en la última jugada del clásico ante Newell's. Destacó el dominio canalla y reconoció que faltó liquidar el partido a tiempo",
-        "pubDate": "2026-09-06T11:54:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Run Run: desarrollo de casi tres hectáreas al lado del Carrefour de Circunvalación, filtran en la web datos críticos de importante empresa de Rosario y el hijo de un industrial tras las rejas",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/run-run-desarrollo-de-casi-tres-hectareas-al-lado-del-carrefour-de-circunvalacion-filtran-en-la-web-datos-criticos-de-importante-un-empresa-de-rosario-y-el-hijo-de-un-industrial-tras-las-rejas-20260906-0026.html",
-        "image": "https://www.rosario3.com/__export/1788715895369/sites/rosario3/img/2026/09/06/carrefour.jpg_1318160146.jpg",
-        "summary": "Además: más ofertas por el tren del Gran Rosario pero esta vez con financiamiento propio, problemas en Alto Rosario, malestar en el gobierno provincial por una decisión “muy de casta” de la EPE, Cofano (del Grupo Roma) ya ni recibe las cartas documento pero asoma una solución…",
-        "pubDate": "2026-09-06T11:53:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Santa Fe celebra la Fiesta Provincial del Búfalo: un sector ganadero que crece y quiere conquistar productores y consumidores",
-        "link": "https://www.rosario3.com/informaciongeneral/santa-fe-celebra-la-fiesta-provincial-del-bufalo-un-sector-ganadero-que-crece-y-quiere-conquistar-productores-y-consumidores-20260906-0004.html",
-        "image": "https://www.rosario3.com/__export/1788700506796/sites/rosario3/img/2026/09/06/bufalos-santafe-fiesta.jpg_1054646157.jpg",
-        "summary": "La ciudad de Vera es sede de la primera edición provincial del encuentro, con charlas técnicas, degustaciones y remate de reproductores. Desde el INTA aseguran que la carne bubalina tiene condiciones para ganar terreno en las góndolas y buscan desterrar algunos de los mitos que…",
         "pubDate": "2026-09-06T11:52:00+00:00",
         "approxTime": true
       },
@@ -121,24 +121,42 @@
       },
       {
         "source": "Rosario3",
-        "title": "El giro de Milei sobre Malvinas: qué se juega realmente en el extremo sur",
-        "link": "https://www.rosario3.com/politica/el-giro-de-milei-sobre-malvinas-que-se-juega-realmente-en-el-extremo-sur-20260905-0002.html",
-        "image": "https://www.rosario3.com/__export/1788698320996/sites/rosario3/img/2026/09/06/malvinas.jpg_1825222445.jpg",
-        "summary": "La cadena nacional del Presidente argentino no solo reactivó el reclamo de soberanía: expuso las nuevas dimensiones económicas, militares y geopolíticas de una disputa que excede a las islas",
-        "pubDate": "2026-09-05T11:47:00+00:00",
+        "title": "Violento choque en la autopista a Córdoba: trasladaron a una embarazada en helicóptero",
+        "link": "https://www.rosario3.com/informaciongeneral/violento-choque-en-la-autopista-a-cordoba-trasladaron-a-una-embarazada-en-helicoptero-20260906-0043.html",
+        "image": "https://www.rosario3.com/__export/1788734461421/sites/rosario3/img/2026/09/06/helic1.jpeg_504494205.jpeg",
+        "summary": "Ocurrió este domingo a la altura del arroyo Ludueña, donde colisionaron dos autos por razones que se investigan. El despliegue incluyó la asistencia del helicóptero sanitario y el traslado de otro herido al Heca",
+        "pubDate": "2026-09-06T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Microdramas, ficción low cost y el Hollywood de bolsillo",
-        "link": "https://www.rosario3.com/tecnologia/microdramas-ficcion-low-cost-y-el-hollywood-de-bolsillo-20260904-0058.html",
-        "image": "https://www.rosario3.com/__export/1788552093318/sites/rosario3/img/2026/09/04/000_-_imagen_de_portada_-99-.jpg_1768679257.jpg",
-        "summary": "Nacidas en China, las series verticales ultracortas mueven miles de millones de dólares y crecen con fuerza en América Latina. Ahora, la inteligencia artificial empieza a reemplazar a actores y estudios en un formato que nació para producir rápido y barato",
-        "pubDate": "2026-09-04T11:46:00+00:00",
+        "title": "Santa Fe celebra la Fiesta Provincial del Búfalo: un sector ganadero que crece y quiere conquistar productores y consumidores",
+        "link": "https://www.rosario3.com/informaciongeneral/santa-fe-celebra-la-fiesta-provincial-del-bufalo-un-sector-ganadero-que-crece-y-quiere-conquistar-productores-y-consumidores-20260906-0004.html",
+        "image": "https://www.rosario3.com/__export/1788700506796/sites/rosario3/img/2026/09/06/bufalos-santafe-fiesta.jpg_1054646157.jpg",
+        "summary": "La ciudad de Vera es sede de la primera edición provincial del encuentro, con charlas técnicas, degustaciones y remate de reproductores. Desde el INTA aseguran que la carne bubalina tiene condiciones para ganar terreno en las góndolas y buscan desterrar algunos de los mitos que…",
+        "pubDate": "2026-09-06T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "El aporte impositivo de las grandes empresas cayó 28 % en doce años",
+        "link": "https://www.lacapital.com.ar/economia/el-aporte-impositivo-las-grandes-empresas-cayo-28-doce-anos-n10279548.html",
+        "image": "https://media.lacapital.com.ar/p/2b72518d3090139cc3b346f4f9779172/adjuntos/203/imagenes/027/621/0027621620/1200x675/smart/litio10jpg.jpg",
+        "summary": "Una investigación del Instituto de Pensamiento y Políticas Públicas analizó la contribución fiscal de las 500 empresas de mayor envergadura en el país",
+        "pubDate": "2026-09-07T00:43:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Quini 6: dos santafesinos entre los ganadores del Siempre Sale que se llevan $31 millones",
+        "link": "https://www.lacapital.com.ar/informacion-general/quini-6-dos-santafesinos-los-ganadores-del-siempre-sale-que-se-llevan-31-millones-n10279552.html",
+        "image": "https://media.lacapital.com.ar/p/573f2589a737764967b2791eedb616ba/adjuntos/203/imagenes/103/384/0103384841/2026-09-06-quini-6.jpg",
+        "summary": "Tradicional, La Segunda y Revancha quedaron vacantes. El sorteo del próximo miércoles tendrá un pozo acumulado de $12.860 millones",
+        "pubDate": "2026-09-07T00:34:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "El mar Mediterráneo alcanzó una temperatura récord de 28,54 grados",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/e72f99ddf06dee25fca85cdadb50a0c1/adjuntos/203/imagenes/103/384/0103384435/1200x675/smart/image-23.jpg",
         "summary": "Jorge Almirón dijo que su equipo mereció ganar el clásico y que la gente de Central vio que jugó un gran clásico. Pero advirtió: \"Hay que jugar hasta el último minuto\"",
         "pubDate": "2026-09-06T21:17:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Las ventas de comercios minoristas volvieron a caer en agosto",
-        "link": "https://www.lacapital.com.ar/economia/las-ventas-comercios-minoristas-volvieron-caer-agosto-n10279516.html",
-        "image": "https://media.lacapital.com.ar/p/50db57436fd005513b0430efaf1a5497/adjuntos/203/imagenes/102/363/0102363398/1200x675/smart/comerciosjpg.jpg",
-        "summary": "El informe mensual de la Confederación Argentina de la Mediana Empresa (Came) reportó bajas de 0,2% interanual y 2,7% mensual. En ocho meses de 2026 acumula una retracción de 2,4%.",
-        "pubDate": "2026-09-06T21:04:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El clásico de Central: sabor amargo por un empate que debió ser victoria",
-        "link": "https://www.lacapital.com.ar/ovacion/el-clasico-central-sabor-amargo-un-empate-que-debio-ser-victoria-n10279515.html",
-        "image": "https://media.lacapital.com.ar/p/5132db596809fb885ae6b4d8f7a23b39/adjuntos/203/imagenes/103/384/0103384329/1200x675/smart/image-22.jpg",
-        "summary": "Hizo todo para extender la racha ganadora en los clásicos. No pudo liquidarlo y sobre el final, en la única que le patearon, e triunfo se le escapó",
-        "pubDate": "2026-09-06T20:45:00+00:00",
         "approxTime": false
       }
     ]
