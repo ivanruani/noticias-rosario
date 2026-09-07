@@ -1,41 +1,68 @@
 {
-  "generatedAt": "2026-09-07T06:22:20.085364+00:00",
+  "generatedAt": "2026-09-07T12:52:37.790803+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Vendedor asaltado antes del clásico: “Soy malabarista, junté de a monedas para comprar las camisetas y salir de la calle”",
+        "link": "https://www.rosario3.com/informaciongeneral/vendedor-asaltado-antes-del-clasico-soy-malabarista-junte-de-a-monedas-para-comprar-las-camisetas-y-salir-de-la-calle-20260907-0016.html",
+        "image": "https://www.rosario3.com/__export/1788781964918/sites/rosario3/img/2026/09/07/nicolasehijo2.jpg_928314581.jpg",
+        "summary": "Nicolás tiene 35 años y este domingo sufrió un asalto por parte de un grupo de hinchas en bulevar Rondeau y Olivé. Le sacaron las camisetas que vendía en la calle para ahorrar y tratar de comprar un auto que le permita trabajar de chofer. En diálogo con Radio 2, lamentó el…",
+        "pubDate": "2026-09-07T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "El Gobierno reglamentó la nueva ley penal juvenil: el nuevo sistema de supervisores y cómo funciona la escala de sanciones",
+        "link": "https://www.rosario3.com/informaciongeneral/el-gobierno-reglamento-la-nueva-ley-penal-juvenil-el-nuevo-sistema-de-supervisores-y-como-funciona-la-escala-de-sanciones-20260907-0019.html",
+        "image": "https://www.rosario3.com/__export/1788783858746/sites/rosario3/img/2026/09/07/regimenpenaljuvenil.jpg_928314580.jpg",
+        "summary": "El nuevo régimen penal para adolescentes ya está vigente y alcanza a chicos de entre 14 y 18 años. La reglamentación establece supervisores especializados, medidas alternativas al encierro y tres modalidades de privación de la libertad",
+        "pubDate": "2026-09-07T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Comenzaron los cortes de tránsito en la zona del Parque Independencia por los Juegos Suramericanos",
+        "link": "https://www.rosario3.com/informaciongeneral/comenzaron-los-cortes-de-transito-en-la-zona-del-parque-independencia-por-los-juegos-suramericanos-20260907-0015.html",
+        "image": "https://www.rosario3.com/__export/1788781137293/sites/rosario3/img/2024/10/02/transito_.jpg_928314581.jpg",
+        "summary": "Desde este lunes y hasta el fin de la competencia que comenzará oficialmente este sábado, varias calles estarán cerradas y los colectivos modificarán sus recorridos para facilitar el movimiento de los atletas y los fanáticos en el predio",
+        "pubDate": "2026-09-07T11:58:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Un pescador halló un cráneo en el arroyo Ludueña de Rosario",
+        "link": "https://www.rosario3.com/policiales/un-pescador-hallo-un-craneo-en-el-arroyo-luduena-de-rosario-20260907-0012.html",
+        "image": "https://www.rosario3.com/__export/1788779537690/sites/rosario3/img/2026/09/07/luduexa.jpeg_928314581.jpeg",
+        "summary": "Este domingo, un hombre advirtió sobre la presencia de los restos óseos cuando pescaba y avisó a la Policía. Intervino personal de Prefectura Naval, Bomberos Zapadores y un buzo táctico. La Fiscalía de Homicidios Dolosos investiga su procedencia",
+        "pubDate": "2026-09-07T11:57:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Juicio por la tragedia de Roca y el río: qué pena le puede caber a Gagliasso",
         "link": "https://www.rosario3.com/policiales/juicio-por-la-tragedia-de-roca-y-el-rio-que-pena-le-puede-caber-a-gagliasso-20260906-0046.html",
         "image": "https://www.rosario3.com/__export/1769024487678/sites/rosario3/img/2025/01/24/agustin_lopez.jpg_786111823.jpg",
         "summary": "Este lunes comienza el debate oral y público en el Centro de Justicia Penal de Rosario. La acusación busca encuadrar el siniestro vial en una figura penal severa tras la muerte de Tania Gandolfi y su hija Agustina en la costa rosarina",
-        "pubDate": "2026-09-06T12:00:00+00:00",
+        "pubDate": "2026-09-06T11:56:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "El clásico rosarino no tuvo dueño: Central lo ganaba y Newell’s lo igualó en el final por corrección del VAR",
-        "link": "https://www.rosario3.com/deportes/la-ciudad-altera-su-pulso-ante-un-nuevo-clasico-rosarino-central-y-newells-cara-a-cara-en-el-gigante-de-arroyito-en-un-partido-que-es-mucho-mas-que-eso-20260904-0059.html",
-        "image": "https://www.rosario3.com/__export/1788733555084/sites/rosario3/img/2026/09/06/dsc02240.jpg_2106848869.jpg",
-        "summary": "Por la octava fecha del Torneo Clausura, canallas y leprosos igualaron 1 a 1 en un partido de pierna fuerte y poco fútbol. Gastón Ávila abrió el partido cuando se terminaba el primer tiempo y Cóccaro lo empató en tiempo de descuento. A los leprosos se le atragantó el grito por…",
-        "pubDate": "2026-09-04T11:59:00+00:00",
+        "title": "Transporte urbano: cambian los recorridos de la línea 121 y el Enlace Avellaneda Oeste desde este lunes",
+        "link": "https://www.rosario3.com/informaciongeneral/transporte-urbano-cambian-los-recorridos-de-la-linea-121-y-el-enlace-avellaneda-oeste-desde-este-lunes-20260906-0015.html",
+        "image": "https://www.rosario3.com/__export/1788706238326/sites/rosario3/img/2026/09/06/transporte.jpg_1825222445.jpg",
+        "summary": "Las modificaciones comenzarán a regir este 7 de septiembre e incluyen el paso por avenida Rouillón, la incorporación de nuevas paradas y mayores posibilidades de conexión con otros servicios. Los detalles",
+        "pubDate": "2026-09-06T11:55:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Seguimiento individual leproso: Cóccaro rescató a Newell’s y lleva alivio al Parque Independencia",
-        "link": "https://www.rosario3.com/deportes/seguimiento-individual-leproso-coccaro-rescato-a-newells-y-lleva-alivio-al-parque-independencia-20260906-0033.html",
-        "image": "https://www.rosario3.com/__export/1788733065194/sites/rosario3/img/2026/09/06/dsc02102.jpg_2106848869.jpg",
-        "summary": "El rendimiento de los futbolistas rojinegros en el empate ante su clásico rival en la fecha 8 del Torneo Clausura",
-        "pubDate": "2026-09-06T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Seguimiento individual canalla: Ibarra se adueñó del medio y Ávila clavó un golazo",
-        "link": "https://www.rosario3.com/deportes/seguimiento-individual-canalla-ibarra-y-avila-los-destacados-en-el-clasico-20260906-0036.html",
-        "image": "https://www.rosario3.com/__export/1788726158227/sites/rosario3/img/2026/09/06/seguimiento_central_clasico_fecha_8.jpg_506286608.jpg",
-        "summary": "El rendimiento de los jugadores de Central que empataron ante Newell's en el clásico rosarino de este domingo en el Gigante de Arroyito, por la octava fecha del torneo Clausura",
-        "pubDate": "2026-09-06T11:57:00+00:00",
+        "title": "Claves del día: créditos para autos 0km y usados hasta 100%, más hipotecarios, suben los granos y privatizaciones | Ecos365",
+        "link": "https://www.rosario3.com/ecos365/noticias/claves-del-dia-creditos-para-autos-0km-y-usados-hasta-100-mas-hipotecarios-suben-los-granos-y-privatizaciones-20260907-0001.html",
+        "image": "https://www.rosario3.com/__export/1788774656918/sites/rosario3/img/2026/09/07/claves_del_dxa_7_de_septiembre_de_2026.jpg_446026524.jpg",
+        "summary": "Las últimas noticias de Claves del día: créditos para autos 0km y usados hasta 100%, más hipotecarios, suben los granos y privatizaciones | Ecos365 Información de negocios, economía, agro y emprendimientos de la ciudad de Rosario | Ecos365.com.ar",
+        "pubDate": "2026-09-07T11:54:00+00:00",
         "approxTime": true
       },
       {
@@ -44,101 +71,191 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/run-run-desarrollo-de-casi-tres-hectareas-al-lado-del-carrefour-de-circunvalacion-filtran-en-la-web-datos-criticos-de-importante-un-empresa-de-rosario-y-el-hijo-de-un-industrial-tras-las-rejas-20260906-0026.html",
         "image": "https://www.rosario3.com/__export/1788715895369/sites/rosario3/img/2026/09/06/carrefour.jpg_1318160146.jpg",
         "summary": "Además: más ofertas por el tren del Gran Rosario pero esta vez con financiamiento propio, problemas en Alto Rosario, malestar en el gobierno provincial por una decisión “muy de casta” de la EPE, Cofano (del Grupo Roma) ya ni recibe las cartas documento pero asoma una solución…",
-        "pubDate": "2026-09-06T11:56:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Ganó el peronismo en Marcos Juárez, ciudad cordobesa donde germinó el macrismo",
-        "link": "https://www.rosario3.com/politica/gano-el-peronismo-en-marcos-juarez-ciudad-cordobesa-donde-germino-el-macrismo-20260906-0045.html",
-        "image": "https://www.rosario3.com/__export/1788739053529/sites/rosario3/img/2026/09/06/font.jpg_744098474.jpg",
-        "summary": "Germán Font venció al exintendente Pedro Dellarossa y quebró más de cinco décadas de hegemonía opositora en el denominado 'kilómetro cero' de Juntos por el Cambio. La jornada estuvo marcada por una marcada baja en la participación electoral",
-        "pubDate": "2026-09-06T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Un empate, como en otros tiempos, que le cae mucho mejor a Newell’s que a Central",
-        "link": "https://www.rosario3.com/opinion/un-empate-como-en-otros-tiempos-que-le-cae-mucho-mejor-a-newells-que-a-central-20260906-0041.html",
-        "image": "https://www.rosario3.com/__export/1788731729539/sites/rosario3/img/2026/09/06/clasico_1.jpeg_1848694094.jpeg",
-        "summary": "El gol agónico de Cóccaro premió la insistencia final de la Lepra y castigó la pasividad del Canalla, que se conformó con la ventaja en un clásico mediocre y volvió a quedar en deuda con su jerarquía",
-        "pubDate": "2026-09-06T11:54:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Kudelka tras el empate de Newell’s en el clásico:  \"Lo conseguimos con coraje\"",
-        "link": "https://www.rosario3.com/deportes/kudelka-tras-el-empate-de-newells-en-el-clasico--jugamos-un-primer-tiempo-emocional-y-no-racional-20260906-0037.html",
-        "image": "https://www.rosario3.com/__export/1788727320677/sites/rosario3/img/2026/09/06/kudelka_-1-.jpg_506286608.jpg",
-        "summary": "El director técnico leproso valoró el empate conseguido en forma agónica ante Central y marcó diferencias entre lo que hizo su equipo en la etapa inicial con respecto a la segunda. Según explicó, les faltó “pensar” más a la hora de tener la pelota",
         "pubDate": "2026-09-06T11:53:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Almirón tras el clásico: \"Hubo un solo equipo en la cancha, nos da mucha bronca\"",
-        "link": "https://www.rosario3.com/deportes/almiron-tras-el-clasico-hubo-un-solo-equipo-en-la-cancha-nos-da-mucha-bronca-20260906-0038.html",
-        "image": "https://www.rosario3.com/__export/1788727550914/sites/rosario3/img/2026/09/06/almiron0.jpg_928314583.jpg",
-        "summary": "El entrenador de Rosario Central lamentó que se les escapó la victoria en la última jugada del clásico ante Newell's. Destacó el dominio canalla y reconoció que faltó liquidar el partido a tiempo",
-        "pubDate": "2026-09-06T11:52:00+00:00",
+        "title": "El cronograma oficial de competencias y espacios de entretenimiento para los Juegos Suramericanos",
+        "link": "https://www.rosario3.com/deportes/publicaron-el-cronograma-oficial-de-competencias-y-espacios-de-entretenimiento-para-los-juegos-suramericanos-20260905-0025.html",
+        "image": "https://www.rosario3.com/__export/1788634555261/sites/rosario3/img/2026/09/05/invencible-stafe.jpg_928314580.jpg",
+        "summary": "La agenda detallada con sedes, fechas y horarios para las más de 40 disciplinas ya se encuentra disponible en la plataforma oficial del evento. El certamen se desarrollará del 12 al 26 de septiembre",
+        "pubDate": "2026-09-05T11:52:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Newell’s cortó una racha de seis derrotas al hilo con Central, pero no le gana desde 2022: cómo quedó el historial",
-        "link": "https://www.rosario3.com/deportes/newells-corto-una-racha-de-seis-derrotas-al-hilo-con-central-pero-no-le-gana-desde-2022-como-quedo-el-historial-20260906-0040.html",
-        "image": "https://www.rosario3.com/__export/1788728849202/sites/rosario3/img/2026/09/06/clxsico_rosarino.jpg_506286608.jpg",
-        "summary": "El empate de este domingo en el Gigante de Arroyito le permitió a la Lepra interrumpir la sangría más larga de la era profesional, aunque en el debe le queda volver a ganar un derby. Todas las estadísticas del clásico rosarino",
-        "pubDate": "2026-09-06T11:51:00+00:00",
+        "title": "Los secretos de la gran apertura de los Juegos Suramericanos en Rosario: \"Será más espectacular que la del Mundial\"",
+        "link": "https://www.rosario3.com/informaciongeneral/los-secretos-de-la-gran-apertura-de-los-juegos-suramericanos-en-rosario-sera-mas-espectacular-que-la-del-mundial-20260902-0079.html",
+        "image": "https://www.rosario3.com/__export/1788389910598/sites/rosario3/img/2026/09/02/surameric1.jpeg_1825222445.jpeg",
+        "summary": "A diez días de la ceremonia inaugural de los XIII Juegos Suramericanos Santa Fe 2026, Rosario3 pudo meterse en uno de los últimos ensayos del espectáculo que el próximo sábado 12 de septiembre tendrá como escenario al Monumento Nacional a la Bandera. El ensayo tuvo lugar en…",
+        "pubDate": "2026-09-02T11:51:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Cóccaro, un viejo zorro en el clásico: \"Sabía que estaba habilitado\"",
-        "link": "https://www.rosario3.com/deportes/coccaro-un-viejo-zorro-en-el-clasico-sabia-que-estaba-habilitado-20260906-0034.html",
-        "image": "https://www.rosario3.com/__export/1788724961376/sites/rosario3/img/2026/09/06/coccaro_nob.jpg_506286608.jpg",
-        "summary": "El delantero marcó el gol del empate agónico para Newell's frente a Central en el Gigante de Arroyito. Tras el partido, le pidió disculpas a los hinchas rojinegros por no poder conseguir un triunfo",
-        "pubDate": "2026-09-06T11:50:00+00:00",
+        "title": "Habrá más de 2.400 voluntarios en Rosario durante los Juegos Suramericanos 2026",
+        "link": "https://www.rosario3.com/deportes/habra-mas-de-2.400-voluntarios-en-rosario-durante-los-juegos-suramericanos-2026-20260905-0026.html",
+        "image": "https://www.rosario3.com/__export/1788636610301/sites/rosario3/img/2026/09/05/voluntarios.jpg_928314580.jpg",
+        "summary": "El cuerpo de colaboradores recibió las pautas operativas para la atención de delegaciones y deportistas. El certamen comenzará formalmente el 12 de septiembre con la ceremonia de apertura en el Monumento Nacional a la Bandera",
+        "pubDate": "2026-09-05T11:50:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Estocada del Zorro: el gol de Cóccaro para el empate agónico de Newell’s en el clásico",
-        "link": "https://www.rosario3.com/deportes/estocada-del-zorro-el-gol-de-coccaro-para-el-empate-agonico-de-newells-en-el-clasico-20260906-0035.html",
-        "image": "https://www.rosario3.com/__export/1788724567381/sites/rosario3/img/2026/09/06/coccaro.jpeg_982625323.jpeg",
-        "summary": "La Lepra encontró el 1-1 en tiempo de descuento en el Gigante. Pero como el línea lo había anulado, tuvo que esperar un buen rato al VAR para poder gritarlo",
-        "pubDate": "2026-09-06T11:49:00+00:00",
+        "title": "Quiénes son Rubén Rézola y Sofía Cairó, los abanderados de Argentina en la apertura de los Juegos Suramericanos 2026",
+        "link": "https://www.rosario3.com/deportes/quienes-son-ruben-rezola-y-sofia-cairo-los-abanderados-de-argentina-en-la-ceremonia-inaugural-de-los-juegos-suramericanos-2026-20260904-0071.html",
+        "image": "https://www.rosario3.com/__export/1788562053361/sites/rosario3/img/2026/09/04/abanderados_argentina.jpg_506286608.jpg",
+        "summary": "El certamen que se desarrollará en Rosario, Santa Fe y Rafaela entre el 12 y el 26 de septiembre ya tiene definidos a los deportistas que encabezarán la delegación argentina en la ceremonia inaugural, el sábado de la próxima semana en el Monumento a la Bandera",
+        "pubDate": "2026-09-04T11:49:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Video: el bombazo de Gastón Ávila con el que Central abrió el clásico ante Newell’s",
-        "link": "https://www.rosario3.com/deportes/video-el-bombazo-de-gaston-avila-con-el-que-central-vence-a-newells-en-el-clasico-rosarino-20260906-0031.html",
-        "image": "https://www.rosario3.com/__export/1788720161572/sites/rosario3/img/2026/09/06/volea_avila_clasico.jpg_506286608.jpg",
-        "summary": "En la última jugada del primer tiempo, la pelota quedó boyando en el área rojinegra y el defensor la empalmó de volea para romperle el arco al arquero Josué Reinatti. Fue el 1-0 para el Canalla en un momento clave del encuentro",
-        "pubDate": "2026-09-06T11:48:00+00:00",
+        "title": "Con siete campeonas del mundo, Las Leonas confirmaron a las 18 jugadoras para los Suramericanos",
+        "link": "https://www.rosario3.com/deportes/con-siete-campeonas-del-mundo-las-leonas-confirmaron-a-las-18-jugadoras-para-los-suramericanos-20260904-0025.html",
+        "image": "https://www.rosario3.com/__export/1788529672170/sites/rosario3/img/2026/09/04/las-leonas.jpg_928314580.jpg",
+        "summary": "El combinado nacional del hockey femenino jugará ante Paraguay, Uruguay, Chile y Perú en Santa Fe donde buscarán volver a conseguir la medalla dorada",
+        "pubDate": "2026-09-04T11:48:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Violento choque en la autopista a Córdoba: trasladaron a una embarazada en helicóptero",
-        "link": "https://www.rosario3.com/informaciongeneral/violento-choque-en-la-autopista-a-cordoba-trasladaron-a-una-embarazada-en-helicoptero-20260906-0043.html",
-        "image": "https://www.rosario3.com/__export/1788734461421/sites/rosario3/img/2026/09/06/helic1.jpeg_504494205.jpeg",
-        "summary": "Ocurrió este domingo a la altura del arroyo Ludueña, donde colisionaron dos autos por razones que se investigan. El despliegue incluyó la asistencia del helicóptero sanitario y el traslado de otro herido al Heca",
-        "pubDate": "2026-09-06T11:47:00+00:00",
+        "title": "Así es la Villa Olímpica de Rosario: los detalles del complejo que alojará a los atletas de los Juegos Suramericanos",
+        "link": "https://www.rosario3.com/deportes/asi-es-la-villa-olimpica-de-rosario-los-detalles-del-complejo-que-alojara-a-los-atletas-de-los-juegos-suramericanos-20260830-0032.html",
+        "image": "https://www.rosario3.com/__export/1788130523313/sites/rosario3/img/2026/08/30/villa_suramericana_rosario.jpg_506286608.jpg",
+        "summary": "Este domingo quedó habilitado el complejo habitacional del ex Batallón 121, con 245 departamentos y capacidad para 1.485 camas. El evento deportivo comenzará el 12 de septiembre, con Santa Fe capital y Rafaela como las otras dos sedes de la provincia",
+        "pubDate": "2026-08-30T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Santa Fe celebra la Fiesta Provincial del Búfalo: un sector ganadero que crece y quiere conquistar productores y consumidores",
-        "link": "https://www.rosario3.com/informaciongeneral/santa-fe-celebra-la-fiesta-provincial-del-bufalo-un-sector-ganadero-que-crece-y-quiere-conquistar-productores-y-consumidores-20260906-0004.html",
-        "image": "https://www.rosario3.com/__export/1788700506796/sites/rosario3/img/2026/09/06/bufalos-santafe-fiesta.jpg_1054646157.jpg",
-        "summary": "La ciudad de Vera es sede de la primera edición provincial del encuentro, con charlas técnicas, degustaciones y remate de reproductores. Desde el INTA aseguran que la carne bubalina tiene condiciones para ganar terreno en las góndolas y buscan desterrar algunos de los mitos que…",
-        "pubDate": "2026-09-06T11:46:00+00:00",
+        "title": "Robaron a un puestero antes del clásico, escaparon en moto y terminaron detenidos tras chocar un patrullero",
+        "link": "https://www.rosario3.com/informaciongeneral/robaron-a-un-puestero-antes-del-clasico-escaparon-en-moto-y-terminaron-detenidos-tras-chocar-un-patrullero-20260907-0001.html",
+        "image": "https://www.rosario3.com/__export/1788773624511/sites/rosario3/img/2026/09/07/image_-62-.jpg_928314580.jpg",
+        "summary": "Ocurrió en Bulevar Rondeau y Olive, en la previa del clásico rosarino. Un vendedor fue abordado por personas identificadas con la camiseta de Newell's. Horas después, dos jóvenes de Oliveros fueron arrestados tras una persecución policial que finalizó en el viaducto",
+        "pubDate": "2026-09-07T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Violento robo a un vendedor ambulante de camisetas de Central: dos detenidos",
+        "link": "https://www.lacapital.com.ar/la-ciudad/violento-robo-un-vendedor-ambulante-camisetas-central-dos-detenidos-n10279582.html",
+        "image": "https://media.lacapital.com.ar/p/b2d86bca75a07348b1c91dc15f557b6a/adjuntos/203/imagenes/103/385/0103385149/1200x675/smart/image-2026-09-07t085027658.png",
+        "summary": "El hecho ocurrió cerca del Gigante de Arroyito. Dos jóvenes con camisetas de Newell's fueron apresados tras una persecución policial",
+        "pubDate": "2026-09-07T12:31:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Estalló todo entre La Joaqui y Luck Ra: entre acusaciones cruzadas cayó Tiago PZK",
+        "link": "https://www.lacapital.com.ar/zoom/estallo-todo-la-joaqui-y-luck-ra-acusaciones-cruzadas-cayo-tiago-pzk-n10279580.html",
+        "image": "https://media.lacapital.com.ar/p/f8ffaaaa6ab0acbaacabe3dbf4610171/adjuntos/203/imagenes/102/545/0102545567/la-joaqui-y-luck-ra-1.jpg",
+        "summary": "Los artistas se separaron en julio con un comunicado conjunto pero pronto comenzaron a sacar los trapitos al sol e intercambiaron fuertes palabras",
+        "pubDate": "2026-09-07T12:27:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Tragedia en la Costanera: la familia de las víctimas espera alivio y confía en la justicia",
+        "link": "https://www.lacapital.com.ar/tragedia-la-costanera-la-familia-las-victimas-espera-alivio-y-confia-la-justicia-n10279583.html",
+        "image": "https://media.lacapital.com.ar/p/cbf4541ecc793281a8ec5653acf80183/adjuntos/203/imagenes/103/385/0103385150/1200x675/smart/juicio-tragedia-costanera.jpg",
+        "summary": "Diego García, padre y esposo de las fallecidas, fue el primero en dar testimonio en el juicio. Confió en que se llegará a una condena de 18 años al conductor",
+        "pubDate": "2026-09-07T12:19:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Cuánto falta para el próximo feriado y cuántos findes largos quedan en 2026",
+        "link": "https://www.lacapital.com.ar/informacion-general/cuanto-falta-el-proximo-feriado-y-cuantos-findes-largos-quedan-2026-n10278272.html",
+        "image": "https://media.lacapital.com.ar/p/4340ac7475c47ea8b837e33425253209/adjuntos/203/imagenes/103/342/0103342999/ola-turismo-2.jpg",
+        "summary": "Son muchos los que revisan el calendario para ver cuándo llega otra chance de descanso. Un repaso por los feriados que quedan en el final del año",
+        "pubDate": "2026-09-07T11:40:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Quini 6, vacante: cuántos millones se llevaron los ganadores del Siempre Sale",
+        "link": "https://www.lacapital.com.ar/informacion-general/quini-6-vacante-cuantos-millones-se-llevaron-los-ganadores-del-siempre-sale-n10279574.html",
+        "image": "https://media.lacapital.com.ar/p/22ebb259d82866d950abd2f69be0efc2/adjuntos/203/imagenes/103/307/0103307810/1200x675/smart/quini.jpg",
+        "summary": "No hubo afortunados, nadie se llevó los principales premios de las modalidades más importantes, pero la contracara fue el Siempre Sale con 16 ganadores",
+        "pubDate": "2026-09-07T11:16:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Sin Lionel Messi, la selección argentina enfrentaría a un equipo africano",
+        "link": "https://www.lacapital.com.ar/ovacion/sin-lionel-messi-la-seleccion-argentina-enfrentaria-un-equipo-africano-n10279567.html",
+        "image": "https://media.lacapital.com.ar/p/523c7680f24d9fe856d65b4d9c26b449/adjuntos/203/imagenes/103/384/0103384996/1200x675/smart/image-13.jpg",
+        "summary": "El equipo de Lionel Scaloni haría su presentación en Buenos Aires ante Burkina Faso. La AFA no lo confirmó pero este lunes anunciaría amistosos",
+        "pubDate": "2026-09-07T11:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Juegos Suramericanos 2026: comenzó el operativo de tránsito en bulevar Oroño",
+        "link": "https://www.lacapital.com.ar/la-ciudad/juegos-suramericanos-2026-comenzo-el-operativo-transito-bulevar-orono-n10279569.html",
+        "image": "https://media.lacapital.com.ar/p/13a80b918a372023f9064171b48f4911/adjuntos/203/imagenes/103/384/0103384968/1200x675/smart/orono-corte-transito.jpg",
+        "summary": "Desde este lunes no se podrá circular en el tramo comprendido entre 27 de Febrero y Cochabamba",
+        "pubDate": "2026-09-07T10:41:59+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Tragedia en la costanera de Rosario: juzgan a un joven por las muertes de una mujer y su hija",
+        "link": "https://www.lacapital.com.ar/la-ciudad/tragedia-la-costanera-rosario-juzgan-un-joven-las-muertes-una-mujer-y-su-hija-n10279374.html",
+        "image": "https://media.lacapital.com.ar/p/ad235bf0878f15e77073b7987f9bd430/adjuntos/203/imagenes/102/150/0102150908/1200x675/smart/accidente-pte-roca03ajpg.jpg",
+        "summary": "El hecho ocurrió en enero 2025 en Illia y Presidente Roca. Agustín López Gagliasso enfrenta un pedido de pena de 18 años de prisión",
+        "pubDate": "2026-09-07T09:50:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Juegos Suramericanos 2026: la provincia distribuye insumos y equipamiento para el operativo sanitario",
+        "link": "https://www.lacapital.com.ar/juegos-suramericanos-2026-la-provincia-distribuye-insumos-y-equipamiento-el-operativo-sanitario-n10279494.html",
+        "image": "https://media.lacapital.com.ar/p/b6ac11fb1cd78f0533b2e6538c4fa747/adjuntos/203/imagenes/103/384/0103384035/1200x675/smart/image-2026-09-06t142812808.jpg",
+        "summary": "Se destina a las tres ciudades sede —Rosario, Santa Fe y Rafaela— para la atención de atletas, delegaciones y público. Será parte del legado de los Juegos",
+        "pubDate": "2026-09-07T09:40:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El municipio lleva trámites a los barrios para quienes tienen dificultades digitales",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-municipio-lleva-tramites-los-barrios-quienes-tienen-dificultades-digitales-n10279510.html",
+        "image": "https://media.lacapital.com.ar/p/07df1e554375a0b867d26babf3c349c1/adjuntos/203/imagenes/103/384/0103384211/1200x675/smart/dsc_0067.jpg",
+        "summary": "El programa pensado para personas mayores o con discapacidad recorre clubes, vecinales y centros municipales para ayudar a vecinos a realizar gestiones online, sacar turnos y cargar documentación",
+        "pubDate": "2026-09-07T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Cartelera económica: jornada sobre memorias de la clase obrera",
+        "link": "https://www.lacapital.com.ar/economia/cartelera-economica-jornada-memorias-la-clase-obrera-n10279045.html",
+        "image": "https://media.lacapital.com.ar/p/7777b7b852c725501ef4595cc2df90d3/adjuntos/203/imagenes/005/970/0005970448/1200x675/smart/la-plaza-mayo-esta-tarde-la-protesta-la-cgt-y-la-cta.jpg",
+        "summary": "Organizado por Núcleo de Estudios del Trabajo y la Conflictividad Social se realizará este lunes en la Facultad de Humanidades un panel sobre el movimiento obrero en la dictadura y un debate sobre la reforma laboral. El martes, en la ciudad de Santa Fe, Casfog organiza el Día…",
+        "pubDate": "2026-09-07T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El peronismo espera la primavera",
+        "link": "https://www.lacapital.com.ar/suscriptores/el-peronismo-espera-la-primavera-n10279351.html",
+        "image": "https://media.lacapital.com.ar/p/d758e16aba5be908db0e90087563f347/adjuntos/203/imagenes/103/381/0103381688/1200x675/smart/peronismo-santa-fe.jpg",
+        "summary": "Las tribus del justicialismo salieron de un letargo y parece que quieren ponerse de acuerdo para disputar la Gobernación en 2027",
+        "pubDate": "2026-09-07T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La siembra de maíz temprano registra un avance del 10%",
+        "link": "https://www.lacapital.com.ar/agro/la-siembra-maiz-temprano-registra-un-avance-del-10-n10279555.html",
+        "image": "https://media.lacapital.com.ar/p/429b79f92cdad8a9fa2f036970d75113/adjuntos/203/imagenes/102/949/0102949291/1200x675/516x434:536x454/maiz.jpg",
+        "summary": "El último reporte de la Guía Estratégica para el Agro (GEA) señaló que es el mayor progreso registrado al menos de las últimas cinco campañas. Las razones del madrugón en un ciclo condicionado por el Niño",
+        "pubDate": "2026-09-07T09:15:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "El tiempo en Rosario: lunes con sol pero el frío todavía no se va",
@@ -155,123 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/b92c3d2b7c4cd6a76bc43a90b5428ae3/adjuntos/203/imagenes/103/384/0103384906/zoooooo.jpeg",
         "summary": "Newell’s está de pie, pelea contra sus propias carencias y se para arriba del ring con las ganas de, lentamente, volver a ser el que fue",
         "pubDate": "2026-09-07T01:37:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Al menos 10 muertos tras explotar pirotecnia en una parroquia de México",
-        "link": "https://www.lacapital.com.ar/informacion-general/al-menos-10-muertos-explotar-pirotecnia-una-parroquia-mexico-n10279559.html",
-        "image": "https://media.lacapital.com.ar/p/3ccd77aa4f71c0dea61c7114ec134b33/adjuntos/203/imagenes/103/384/0103384929/2026-09-06-pirotecnia-mexico.jpg",
-        "summary": "Fue durante una fiesta patronal en Santa María Canchesdá, en el estado de México",
-        "pubDate": "2026-09-07T01:33:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central: fortaleza atrás, terrenal adelante y un empate con sabor a muy poco",
-        "link": "https://www.lacapital.com.ar/opinion/central-fortaleza-atras-terrenal-adelante-y-un-empate-sabor-muy-poco-n10279558.html",
-        "image": "https://media.lacapital.com.ar/p/c944770d250341c8078be8dc9c4fff2e/adjuntos/203/imagenes/103/384/0103384895/1200x675/smart/image-29.jpg",
-        "summary": "Central se apoyó en sus zagueros centrales e Ibarra, con una ofensiva que no estuvo a la altura. Así y todo lo ganaba bien pero el gol de Newell's lo castigó",
-        "pubDate": "2026-09-07T01:24:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Clásico emocionante, pero sin fútbol: Newell's no ganó pero se alivió y en Central perdió Almirón",
-        "link": "https://www.lacapital.com.ar/ovacion/clasico-emocionante-pero-futbol-newells-no-gano-pero-se-alivio-y-central-perdio-almiron-n10279550.html",
-        "image": "https://media.lacapital.com.ar/p/5826b0a44990e1ede0b68a4e95ac30a2/adjuntos/203/imagenes/103/384/0103384817/lucha21.jpeg",
-        "summary": "El empate clásico cayó mejor en el Parque que en Arroyito. Al Canalla se le escapó al final y la Lepra cortó la racha de derrotas para ilusionarse con más",
-        "pubDate": "2026-09-07T01:16:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El aporte impositivo de las grandes empresas cayó 28 % en doce años",
-        "link": "https://www.lacapital.com.ar/economia/el-aporte-impositivo-las-grandes-empresas-cayo-28-doce-anos-n10279548.html",
-        "image": "https://media.lacapital.com.ar/p/2b72518d3090139cc3b346f4f9779172/adjuntos/203/imagenes/027/621/0027621620/1200x675/smart/litio10jpg.jpg",
-        "summary": "Una investigación del Instituto de Pensamiento y Políticas Públicas analizó la contribución fiscal de las 500 empresas de mayor envergadura en el país",
-        "pubDate": "2026-09-07T00:43:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Quini 6: dos santafesinos entre los ganadores del Siempre Sale que se llevan $31 millones",
-        "link": "https://www.lacapital.com.ar/informacion-general/quini-6-dos-santafesinos-los-ganadores-del-siempre-sale-que-se-llevan-31-millones-n10279552.html",
-        "image": "https://media.lacapital.com.ar/p/573f2589a737764967b2791eedb616ba/adjuntos/203/imagenes/103/384/0103384841/2026-09-06-quini-6.jpg",
-        "summary": "Tradicional, La Segunda y Revancha quedaron vacantes. El sorteo del próximo miércoles tendrá un pozo acumulado de $12.860 millones",
-        "pubDate": "2026-09-07T00:34:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El mar Mediterráneo alcanzó una temperatura récord de 28,54 grados",
-        "link": "https://www.lacapital.com.ar/informacion-general/el-mar-mediterraneo-alcanzo-una-temperatura-record-2854-grados-n10279543.html",
-        "image": "https://media.lacapital.com.ar/p/773fe7518acfc1e8e1928846959c49c2/adjuntos/203/imagenes/103/384/0103384686/2026-09-06-mediterraneo.jpg",
-        "summary": "Es el nivel más alto registrado por Aemet desde 1940. Ya en junio había superado el promedio de agosto, que es la época en que el mar está más cálido",
-        "pubDate": "2026-09-06T23:12:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central y Newell's empataron en Arroyito, pero uno se sintió ganador y el otro lo lamentó",
-        "link": "https://www.lacapital.com.ar/ovacion/central-y-newells-empataron-arroyito-pero-uno-se-sintio-ganador-y-el-otro-lo-lamento-n10279540.html",
-        "image": "https://media.lacapital.com.ar/p/b0a18c69d4befa7a101842122d4ca086/adjuntos/203/imagenes/103/384/0103384622/1200x675/smart/image-3.jpg",
-        "summary": "El Canalla debió ganar el partido en el Gigante pero lo sintió como una derrota. El Rojinegro debió perderlo, pero lo vivió como un triunfo",
-        "pubDate": "2026-09-06T22:41:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La ultraderecha arrasó en unas elecciones regionales en Alemania",
-        "link": "https://www.lacapital.com.ar/el-mundo/la-ultraderecha-arraso-unas-elecciones-regionales-alemania-n10279533.html",
-        "image": "https://media.lacapital.com.ar/p/59767a7fa52eac37876167d9bbcd3a80/adjuntos/203/imagenes/103/384/0103384542/2026-09-06-elecciones-alemania-82641170.jpg",
-        "summary": "La AfD se encaminaba a conseguir la mayoría absoluta. Si logra constituir gobierno sería el primero de extrema derecha en el país desde la Segunda Guerra Mundial",
-        "pubDate": "2026-09-06T22:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central: el grito de Ávila que valía oro ante la sequía goleadora de los centrodelanteros",
-        "link": "https://www.lacapital.com.ar/ovacion/central-el-grito-avila-que-valia-oro-la-sequia-goleadora-los-centrodelanteros-n10279523.html",
-        "image": "https://media.lacapital.com.ar/p/04c2704ccf72032176716c6dfed4d39b/adjuntos/203/imagenes/103/384/0103384553/1200x675/smart/image-28.jpg",
-        "summary": "Esta vez fue el Gato quien se calzó el traje de goleador en un equipo en el que los 9 del Canalla no pueden sacar lo pies del plato de la sequía",
-        "pubDate": "2026-09-06T22:27:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Matías Cóccaro ratificó por qué es un futbolista imprescindible",
-        "link": "https://www.lacapital.com.ar/ovacion/matias-coccaro-ratifico-que-es-un-futbolista-imprescindible-n10279532.html",
-        "image": "https://media.lacapital.com.ar/p/a62760b9016f198efbca60f749f9eb07/adjuntos/203/imagenes/103/384/0103384530/1200x675/smart/image-27.jpg",
-        "summary": "El delantero de Newell's ratificó sus dotes de goleador con el tanto de la igualdad del clásico, pese a que tuvo poca incidencia en el juego ofensivo en sí.",
-        "pubDate": "2026-09-06T22:25:12+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Un avión de carga se despistó y se incendió en el Aeropuerto de Miami: al menos cinco muertos",
-        "link": "https://www.lacapital.com.ar/el-mundo/un-avion-carga-se-despisto-y-se-incendio-el-aeropuerto-miami-al-menos-cinco-muertos-n10279513.html",
-        "image": "https://media.lacapital.com.ar/p/c9e0f29c9b5fbd2f1e6320f9d69354f9/adjuntos/203/imagenes/103/384/0103384327/1200x675/smart/image-2026-09-06t174203759.jpg",
-        "summary": "La aeronave, que operaba para Amazon, se despistó durante el aterrizaje. El siniestro provocó la suspensión temporal de las operaciones de la estación aérea",
-        "pubDate": "2026-09-06T22:17:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Juzgan a dos gatilleros por balaceras con mensajes mafiosos a sedes policiales y un crimen al azar",
-        "link": "https://www.lacapital.com.ar/policiales/juzgan-dos-gatilleros-balaceras-mensajes-mafiosos-sedes-policiales-y-un-crimen-al-azar-n10279524.html",
-        "image": "https://media.lacapital.com.ar/p/fc5a3116b00a77bef248b3beb8c62a19/adjuntos/203/imagenes/100/961/0100961806/1200x675/smart/whatsapp-image-2023-09-01-at-201010jpeg.jpeg",
-        "summary": "Los ataques fueron en 2023 contra la actual PDI y un destacamento, donde arrojaron carteles con amenazas a un fiscal. Piden penas de 25 a 32 años para los acusados",
-        "pubDate": "2026-09-06T22:01:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Entró en erupción Krakatoa, uno de los volcanes más peligrosos de la historia",
-        "link": "https://www.lacapital.com.ar/informacion-general/entro-erupcion-krakatoa-uno-los-volcanes-mas-peligrosos-la-historia-n10279525.html",
-        "image": "https://media.lacapital.com.ar/p/21cadcc9e89e2f75014f93f175e2930a/adjuntos/203/imagenes/103/384/0103384498/2026-09-06-volcan-krakatoa.jpg",
-        "summary": "Más de 500 vuelos fueron cancelados, lo que afectó a unos 22.800 pasajeros. En 1883 provocó un tsunami que mató 36.000 personas y en 2018 hubo 430 fallecidos",
-        "pubDate": "2026-09-06T22:00:00+00:00",
         "approxTime": false
       }
     ]
