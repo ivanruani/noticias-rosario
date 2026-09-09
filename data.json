@@ -1,14 +1,32 @@
 {
-  "generatedAt": "2026-09-08T22:50:37.355552+00:00",
+  "generatedAt": "2026-09-09T00:59:28.481445+00:00",
   "sites": {
     "rosario3": [
       {
         "source": "Rosario3",
-        "title": "Crimen del policía Damián López: le dieron prisión domiciliaria a uno de los imputados",
+        "title": "Central aportó a la causa del vendedor ambulante que perdió su mercadería antes del clásico y tuvo \"un final que parece un cuento\"",
+        "link": "https://www.rosario3.com/informaciongeneral/central-aporto-a-la-causa-del-vendedor-ambulante-que-perdio-su-mercaderia-antes-del-clasico-y-tuvo-un-final-que-parece-un-cuento-20260908-0082.html",
+        "image": "https://www.rosario3.com/__export/1788912092090/sites/rosario3/img/2026/09/08/rc_solidario.jpg_928314581.jpg",
+        "summary": "La ola de solidaridad que despertó, y que incluyó al propio Ángel Di María, quien le envió una camiseta firmada al hijo del comerciante, provocó más adhesiones y se transformó en un recuerdo con final feliz",
+        "pubDate": "2026-09-08T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Video: un motociclista atropelló a un peatón que cruzaba por la senda en avenida San Martín",
+        "link": "https://www.rosario3.com/informaciongeneral/video-un-motociclista-atropello-a-un-peaton-que-cruzaba-por-la-senda-en-avenida-san-martin-20260908-0083.html",
+        "image": "https://www.rosario3.com/__export/1788912187418/sites/rosario3/img/2026/09/08/choque_peaton.jpg_1825222445.jpg",
+        "summary": "El hombre fue trasladado por el Sies, aunque no presentaba heridas de gravedad. El fuerte impacto quedó registrado por una cámara de seguridad de la zona",
+        "pubDate": "2026-09-08T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Crimen del policía Damián López: le dieron libertad condicional a uno de los imputados",
         "link": "https://www.rosario3.com/policiales/crimen-del-policia-damian-lopez-le-dieron-prision-domiciliaria-a-uno-de-los-imputados-20260908-0076.html",
         "image": "https://www.rosario3.com/__export/1788905723824/sites/rosario3/img/2026/09/08/caso_damian_lopez_justicia.jpg_672794304.jpg",
         "summary": "A más de dos meses del crimen, la investigación por el brutal ataque a traición de una horda de hinchas violentos contra el policía Damián López permanece estancada pese a una recompensa de $25 millones. Mientras otro imputado sigue detenido, el fiscal Juan Pablo Baños apelará…",
-        "pubDate": "2026-09-08T12:00:00+00:00",
+        "pubDate": "2026-09-08T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -17,16 +35,16 @@
         "link": "https://www.rosario3.com/informaciongeneral/discapacidad-transportistas-santafesinos-movilizan-al-congreso-por-la-emergencia-20260908-0070.html",
         "image": "https://www.rosario3.com/__export/1788900527554/sites/rosario3/img/2026/09/08/discapacidad.jpg_1825222445.jpg",
         "summary": "Prestadores nucleados en Atraes participarán este miércoles de una concentración en Buenos Aires para reclamar la prórroga de la emergencia hasta fines de 2027. La protesta coincidirá con una sesión especial en Diputados",
-        "pubDate": "2026-09-08T11:59:00+00:00",
+        "pubDate": "2026-09-08T11:57:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "La actividad industrial cayó 4,9% en julio y solo cuatro sectores registraron números positivos",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-actividad-industrial-cayo-49-en-julio-y-solo-cuatro-sectores-registraron-numeros-positivos-20260908-0066.html",
-        "image": "https://www.rosario3.com/__export/1788898783080/sites/rosario3/img/2026/09/08/industria.jpg_982625323.jpg",
-        "summary": "El Índice de Producción Industrial Manufacturero que mide el Indec arrojó que, durante los primeros siete meses del año, se acumuló una baja de 2,6% frente al mismo período de 2025. La fabricación de equipos de informática, televisión y comunicaciones lideró las caídas",
-        "pubDate": "2026-09-08T11:58:00+00:00",
+        "title": "Cinco allanamientos por dos robos investigados con el sistema Lince",
+        "link": "https://www.rosario3.com/policiales/cinco-allanamientos-por-dos-robos-investigados-con-el-sistema-lince-20260908-0077.html",
+        "image": "https://www.rosario3.com/__export/1788905488727/sites/rosario3/img/2026/09/08/lince_pdi.jpeg_1825222445.jpeg",
+        "summary": "El análisis de cámaras permitió reconstruir el recorrido de vehículos vinculados a ambos hechos y derivó en procedimientos en Rosario y Pérez, con tres personas trasladadas y distintos elementos secuestrados",
+        "pubDate": "2026-09-08T11:56:00+00:00",
         "approxTime": true
       },
       {
@@ -35,24 +53,6 @@
         "link": "https://www.rosario3.com/policiales/reves-judicial-para-un-empresario-de-la-region-condenado-por-lavado-de-activos-ratificaron-el-decomiso-de-sus-bienes-20260908-0057.html",
         "image": "https://www.rosario3.com/__export/1788893062377/sites/rosario3/img/2026/09/08/ford_mustang.jpg_672794304.jpg",
         "summary": "Casación rechazó los recursos de las defensas de Matías Matarochi y de otras tres personas y ratificó que los bienes incautados y decomisados –entre ellos sumas millonarias de dinero, propiedades y vehículos de lujo– estaban vinculados a la actividad ilícita de la organización…",
-        "pubDate": "2026-09-08T11:57:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Fue acusada por dormir y robar a un hombre que luego fue hallado con un ACV en su auto en el centro",
-        "link": "https://www.rosario3.com/policiales/fue-acusada-por-dormir-y-robar-a-un-hombre-que-luego-fue-hallado-con-un-acv-en-su-auto-en-el-centro-20260908-0051.html",
-        "image": "https://www.rosario3.com/__export/1776106430201/sites/rosario3/img/2024/11/11/_dsc7953.jpg_928314580.jpg",
-        "summary": "Brenda Barrios, que el año pasado había sido condenada por estafas, ahora fue imputada por haber realizado compras con las tarjetas de un hombre que había sido atacado por ella, una cómplice y un hombre",
-        "pubDate": "2026-09-08T11:56:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Un trabajador resultó herido en barrio Abasto mientras arreglaba el ascensor de un edificio",
-        "link": "https://www.rosario3.com/informaciongeneral/un-trabajador-resulto-herido-en-barrio-abasto-mientras-arreglaba-el-ascensor-de-un-edificio-20260908-0050.html",
-        "image": "https://www.rosario3.com/__export/1788890386042/sites/rosario3/img/2026/09/08/whatsapp_image_2026-09-08_at_2_05_16_pm.jpeg_982625323.jpeg",
-        "summary": "El hombre se encontraba en el tercer piso de una torre en Ituzaingo al 1200 cuando un contrapeso le aplastó una de sus piernas. Fue trasladado a un sanatorio",
         "pubDate": "2026-09-08T11:55:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,51 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Una empresa ofrece salvar al planeta del calentamiento global por 10.000 millones de dólares anuales",
+        "link": "https://www.lacapital.com.ar/informacion-general/una-empresa-ofrece-salvar-al-planeta-del-calentamiento-global-10000-millones-dolares-anuales-n10279954.html",
+        "image": "https://media.lacapital.com.ar/p/265b9e8e9ab9d331a0dcd182756c89cc/adjuntos/203/imagenes/103/389/0103389472/2026-09-08-calentamiento-global.jpg",
+        "summary": "Stardust Solutions quiere rociar en la atmósfera millones de \"sombrillas artificiales microscópicas\". Científicos temen consecuencias globales desastrosas",
+        "pubDate": "2026-09-09T00:19:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Vóley: en el Normal 3 hay \"futuro nacional\" por un largo rato",
+        "link": "https://www.lacapital.com.ar/ovacion/voley-el-normal-3-hay-futuro-nacional-un-largo-rato-n10279933.html",
+        "image": "https://media.lacapital.com.ar/p/b5c841d65e34958691b18c90db61b4b5/adjuntos/203/imagenes/103/389/0103389090/1200x675/smart/volll-82647177.jpg",
+        "summary": "El Normalito cumplió 40 años de vida. Tras tres días de competencia Sonder se llevó las Copas Challenger, en ambas ramas",
+        "pubDate": "2026-09-08T23:17:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Un rosarino campeón argentino de kickboxing y muay thai clasificó al Mundial y necesita apoyo",
+        "link": "https://www.lacapital.com.ar/ovacion/un-rosarino-campeon-argentino-kickboxing-y-muay-thai-clasifico-al-mundial-y-necesita-apoyo-n10279938.html",
+        "image": "https://media.lacapital.com.ar/p/c6996936f435ce6c41196591e56b8daa/adjuntos/203/imagenes/103/389/0103389146/est-01-8446d986c.jpg",
+        "summary": "Esteban Povrzenic logró la doble corona en la Copa Argentina y la plaza para el Mundial que se hará en octubre en Colombia. Busca sponsors para viajar",
+        "pubDate": "2026-09-08T23:14:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Malvinas: el gobierno amplía sanciones y prepara una nueva ley",
+        "link": "https://www.lacapital.com.ar/politica/malvinas-el-gobierno-amplia-sanciones-y-prepara-una-nueva-ley-n10279918.html",
+        "image": "https://media.lacapital.com.ar/p/15d75291b44324d9873c2e9193b7176f/adjuntos/203/imagenes/103/388/0103388991/1200x675/smart/petroleo-malvinas.jpg",
+        "summary": "La Casa Rosada inició sumarios contra otros 15 involucrados en negocios petroleros en las islas. La mesa política trabaja el proyecto, que entrará por Diputados",
+        "pubDate": "2026-09-08T22:56:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Los alrededores del Coliseo de Roma fueron declarados \"zona roja\" por la inseguridad",
+        "link": "https://www.lacapital.com.ar/informacion-general/los-alrededores-del-coliseo-roma-fueron-declarados-zona-roja-la-inseguridad-n10279937.html",
+        "image": "https://media.lacapital.com.ar/p/fc79c2c0d0838a92138890f112ebc108/adjuntos/203/imagenes/103/389/0103389125/2026-09-08-coliseo-carabinieri.jpg",
+        "summary": "Reportaron un aumento de los robos, el tráfico de drogas y las agresiones violentas. Se ordenó un despliegue policial permanente de veinticuatro horas",
+        "pubDate": "2026-09-08T22:55:41+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Newell's y Central conocen los árbitros para sus partidos por la novena fecha",
         "link": "https://www.lacapital.com.ar/ovacion/newells-y-central-conocen-los-arbitros-sus-partidos-la-novena-fecha-n10279927.html",
         "image": "https://media.lacapital.com.ar/p/ec968609a6ea6113344b331e0940d9cd/adjuntos/203/imagenes/103/388/0103388999/1200x675/smart/arbitri.JPG",
@@ -227,51 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/5c00d810e90b34a2cd5a8bf263f166f3/adjuntos/203/imagenes/103/388/0103388942/1200x675/smart/imagehebron.jpg",
         "summary": "Canadá, Francia, Reino Unido y otros nueve gobiernos europeos apuntaron contra los asentamientos israelíes en territorio palestino ocupado. Israel respondió con el cierre del consulado británico en Jerusalén Este.",
         "pubDate": "2026-09-08T20:45:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "A dos pianos: Eduardo Spinassi y Joel Tortul se presentan en el túnel del Astengo",
-        "link": "https://www.lacapital.com.ar/zoom/a-dos-pianos-eduardo-spinassi-y-joel-tortul-se-presentan-el-tunel-del-astengo-n10279902.html",
-        "image": "https://media.lacapital.com.ar/p/e9aeb3e04c1ea4647560da4fa93a3a24/adjuntos/203/imagenes/103/388/0103388843/1200x675/smart/image-2026-09-08t163706969.jpg",
-        "summary": "Se trata de un encuentro musical donde conversan lo tradicional y la vanguardia. La cita es este jueves en Mitre 760",
-        "pubDate": "2026-09-08T20:02:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Los Juegos Suramericanos tendrán cinco Fan Fest con música, shows y gastronomía",
-        "link": "https://www.lacapital.com.ar/juegos-suramericanos/los-juegos-suramericanos-tendran-cinco-fan-fest-musica-shows-y-gastronomia-n10279893.html",
-        "image": "https://media.lacapital.com.ar/p/1e37c53d61d265f290d8c2323ade02d2/adjuntos/203/imagenes/103/388/0103388841/1200x675/smart/image-2026-09-08t160902243.png",
-        "summary": "La celebración trascenderá el deporte con una agenda de actividades para toda la familia. Habrá cinco Fan Fest, con acceso libre y gratuito e inscripción previa",
-        "pubDate": "2026-09-08T19:48:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El vendedor asaltado antes del clásico volvió a Rondeau y Olivé: \"Más que agradecido a la gente\"",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-vendedor-asaltado-antes-del-clasico-volvio-rondeau-y-olive-mas-que-agradecido-la-gente-n10279895.html",
-        "image": "https://media.lacapital.com.ar/p/59b49243abbbf630e9e1137611bdf41e/adjuntos/203/imagenes/103/388/0103388763/1200x675/smart/rondeau-y-olive-89-lv-2.jpg",
-        "summary": "Nicolás sufrió un despiadado robo por parte de hinchas de Newell’s, pero la solidaridad de los rosarinos ayudó para reactivar su puesto en el barrio de Arroyito",
-        "pubDate": "2026-09-08T19:41:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Dos deportes de los Juegos Suramericanos 2026 no se disputarán en la provincia de Santa Fe: cuáles son y por qué",
-        "link": "https://www.lacapital.com.ar/juegos-suramericanos/dos-deportes-los-juegos-suramericanos-2026-no-se-disputaran-la-provincia-santa-fe-cuales-son-y-que-n10279869.html",
-        "image": "https://media.lacapital.com.ar/p/72a851519a210de17d1c962b689b7158/adjuntos/203/imagenes/103/388/0103388840/1200x675/smart/image-2026-09-08t162101854.jpg",
-        "summary": "Aunque Rosario, Santa Fe y Rafaela serán las sedes principales, dos disciplinas deberán competir fuera de la provincia por razones vinculadas a las condiciones necesarias para su desarrollo",
-        "pubDate": "2026-09-08T19:39:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Un ex-Newell's que forjó su carrera en Alemania: \"Dios me mostró el lugar donde jugar\"",
-        "link": "https://www.lacapital.com.ar/ovacion/un-ex-newells-que-forjo-su-carrera-alemania-dios-me-mostro-el-lugar-donde-jugar-n10278520.html",
-        "image": "https://media.lacapital.com.ar/p/3f65bed3675e8e6068e654fd86a12b60/adjuntos/203/imagenes/103/375/0103375058/1200x675/smart/aalen-alemania-grech.jpg",
-        "summary": "Leandro Grech edificó una respetable trayectoria en el exigente fútbol germano. En una charla con Ovación, repasó su historia y el valor de la fe para transitar su camino",
-        "pubDate": "2026-09-08T19:22:00+00:00",
         "approxTime": false
       }
     ]
