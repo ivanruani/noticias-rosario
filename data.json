@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T01:16:05.832866+00:00",
+  "generatedAt": "2026-09-10T06:16:59.929552+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El tiempo en Rosario: jueves con 22º de máxima y bastante viento",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-jueves-22-maxima-y-bastante-viento-n10280190.html",
+        "image": "https://media.lacapital.com.ar/p/7c586b3d93161b8ad6a781d253c9ab40/adjuntos/203/imagenes/103/391/0103391811/2026-09-09-clima-by-cmutti-79405233.jpg",
+        "summary": "El viernes se anuncia muy nublado y con un desplome de la máxima, y el sábado habría fuertes ráfagas de viento",
+        "pubDate": "2026-09-10T02:12:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Se hundió el suelo frente a la mansión de Nicolas Cage en Malibú y evacuaron varias casas",
+        "link": "https://www.lacapital.com.ar/zoom/se-hundio-el-suelo-frente-la-mansion-nicolas-cage-malibu-y-evacuaron-varias-casas-n10280189.html",
+        "image": "https://media.lacapital.com.ar/p/6cae08dd47ca8a911925b2cfdc359f12/adjuntos/203/imagenes/103/391/0103391790/2026-09-09-nicolas-cage.jpg",
+        "summary": "El incidente se produjo por el fuerte oleaje provocado por el paso del huracán Marie por Estados Unidos",
+        "pubDate": "2026-09-10T01:38:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "En el último año, Rosario recuperó 110 puntos crónicos de arrojo de residuos",
         "link": "https://www.lacapital.com.ar/en-el-ultimo-ano-rosario-recupero-110-puntos-cronicos-arrojo-residuos-n10280129.html",
         "image": "https://media.lacapital.com.ar/p/5bddeea3773648b35e05fec13e25ff47/adjuntos/203/imagenes/103/391/0103391086/1200x675/smart/image-2026-09-09t163423517.jpg",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/da25a7f66e91278c6a3b193fc12c40e1/adjuntos/203/imagenes/103/368/0103368423/1200x675/smart/imagevilla.jpg",
         "summary": "Estarán disponibles en Rosario, Santa Fe y Rafaela durante las dos semanas de competencia. La medida forma parte de un operativo sanitario que demandó más de $230 millones e incluye acciones de prevención de infecciones de transmisión sexual.",
         "pubDate": "2026-09-09T22:22:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Un alemán retrató la inauguración del Monumento y 70 años después aparecieron sus fotos inéditas",
-        "link": "https://www.lacapital.com.ar/la-ciudad/un-aleman-retrato-la-inauguracion-del-monumento-y-70-anos-despues-aparecieron-sus-fotos-ineditas-n10280090.html",
-        "image": "https://media.lacapital.com.ar/p/b43b463558c35f73c19df91d385bf3ef/adjuntos/203/imagenes/103/391/0103391282/1200x675/smart/image-2026-09-09t181423791.jpg",
-        "summary": "Herbert Hirschfeld registró con su cámara aquel histórico 20 de junio de 1957. Su bisnieto donó más de cien diapositivas al Conicet Rosario, que las digitalizó y las puso a disposición del público",
-        "pubDate": "2026-09-09T22:19:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Marcela Silvi: la mujer que tomó las riendas de Erca para liderar en la maquinaria agrícola",
-        "link": "https://www.lacapital.com.ar/la-capital/marcela-silvi-la-mujer-que-tomo-las-riendas-erca-liderar-la-maquinaria-agricola-n10279617.html",
-        "image": "https://media.lacapital.com.ar/p/1d821316467aaec9c958d5f5a8449ab6/adjuntos/203/imagenes/103/390/0103390634/silvi-y-neffen.jpeg",
-        "summary": "La gerenta general de Erca dio una entrevista al programa Negocios de La Capital +, donde habló sobre la historia familiar de la empresa y los desafíos que sortearon para poder crecer",
-        "pubDate": "2026-09-09T22:15:00+00:00",
         "approxTime": false
       }
     ]
