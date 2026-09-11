@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-09-11T01:18:01.942720+00:00",
+  "generatedAt": "2026-09-11T06:20:16.358215+00:00",
   "sites": {
     "rosario3": [
       {
         "source": "Rosario3",
-        "title": "La ciclista atropellada en Echesortu fue sometida a una compleja cirugía y sigue en terapia intensiva",
-        "link": "https://www.rosario3.com/informaciongeneral/la-ciclista-atropellada-en-echesortu-fue-sometida-a-una-compleja-cirugia-y-sigue-en-terapia-intensiva-20260910-0077.html",
-        "image": "https://www.rosario3.com/__export/1789083320413/sites/rosario3/img/2026/09/10/echesortu.jpg_1825222445.jpg",
-        "summary": "Según se informó en El Tres, la mujer de 39 años fue sometida a un bypass vascular con el objetivo de preservar la extremidad y volver a caminar. Se aguarda la evolución tras la operación",
+        "title": "El dolor del sobreviviente de la tragedia de Roca y río, tras escuchar al asesino de su familia: \"Esperaba que pidiera perdón y no pusiera excusas\"",
+        "link": "https://www.rosario3.com/informaciongeneral/el-dolor-del-sobreviviente-de-la-tragedia-de-roca-y-rio-tras-escuchar-al-asesino-de-su-familia-esperaba-que-pidiera-perdon-y-no-pusiera-excusas-20260910-0078.html",
+        "image": "https://www.rosario3.com/__export/1789089413690/sites/rosario3/img/2026/09/10/diego_sobreviviente.jpg_928314580.jpg",
+        "summary": "Diego perdió a su mujer y a una de sus hijas en enero de 2025. Este jueves se sentó a escuchar al joven que le arrebató la vida de las personas que más amaba y contó sus sentimientos en El Tres: “No tiene defensa alguna lo que hizo”",
         "pubDate": "2026-09-10T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Detuvieron a los padres de un nene que ingresó al hospital con convulsiones y le detectaron cocaína",
+        "link": "https://www.rosario3.com/policiales/detuvieron-a-los-padres-de-un-nene-que-ingreso-al-hospital-con-convulsiones-y-le-detectaron-cocaina-20260910-0079.html",
+        "image": "https://www.rosario3.com/__export/1789086873723/sites/rosario3/img/2026/09/10/padres_detenidos.jpg_1825222445.jpg",
+        "summary": "El chico fue trasladado al Vilela el 8 de septiembre y los análisis revelaron la presencia de la sustancia en su organismo. La causa se investiga como tentativa de homicidio agravado por el vínculo y suministro de estupefacientes a un menor",
+        "pubDate": "2026-09-10T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,24 +26,15 @@
         "link": "https://www.rosario3.com/informaciongeneral/cuenta-regresiva-la-villa-olimpica-ya-late-y-las-obras-se-terminan-contrarreloj-20260910-0043.html",
         "image": "https://www.rosario3.com/__export/1789066023862/sites/rosario3/img/2026/09/10/dsc03197.jpg_2106848869.jpg",
         "summary": "Las delegaciones ya empezaron a instalarse en Rosario y los atletas sueñan con medallas. Mientras tanto, obreros, técnicos y voluntarios aceleran los últimos preparativos en los escenarios que desde el domingo recibirán las competencias. Un “estallido” en ciernes",
-        "pubDate": "2026-09-10T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La Provincia presentó un proyecto de ley para prevenir la violencia de género: evaluación de riesgo, tobilleras y arrestos",
-        "link": "https://www.rosario3.com/informaciongeneral/la-provincia-presento-un-proyecto-de-ley-para-prevenir-la-violencia-de-genero-evaluacion-de-riesgo-tobilleras-y-arrestos-20260910-0057.html",
-        "image": "https://www.rosario3.com/__export/1789071461719/sites/rosario3/img/2026/09/10/violencia_de_genero.jpg_1825222445.jpg",
-        "summary": "Los funcionarios explicaron que el objetivo es intervenir de manera temprana ante hechos que puedan derivar en situaciones de violencia. La iniciativa será enviada a la Legislatura provincial para su tratamiento",
         "pubDate": "2026-09-10T11:58:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Casilda: cayó Beto, un exconvicto investigado por venta de drogas",
-        "link": "https://www.rosario3.com/policiales/casilda-cayo-beto-un-exconvicto-investigado-por-venta-de-drogas-20260910-0069.html",
-        "image": "https://www.rosario3.com/__export/1789076966163/sites/rosario3/img/2026/09/10/rioja_1200_casilda.jpg_1825222445.jpg",
-        "summary": "Prefectura y Policía Federal realizaron siete allanamientos en distintos barrios de la ciudad y detuvieron a otras seis personas. El sospechoso, quien se define como “comerciante gastronómico”, cuenta con causas previas por narcomenudeo",
+        "title": "La ciclista atropellada en Echesortu fue sometida a una compleja cirugía y sigue en terapia intensiva",
+        "link": "https://www.rosario3.com/informaciongeneral/la-ciclista-atropellada-en-echesortu-fue-sometida-a-una-compleja-cirugia-y-sigue-en-terapia-intensiva-20260910-0077.html",
+        "image": "https://www.rosario3.com/__export/1789083320413/sites/rosario3/img/2026/09/10/echesortu.jpg_1825222445.jpg",
+        "summary": "Según se informó en El Tres, la mujer de 39 años fue sometida a un bypass vascular con el objetivo de preservar la extremidad y volver a caminar. Se aguarda la evolución tras la operación",
         "pubDate": "2026-09-10T11:57:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,24 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "El tiempo en Rosario: viernes todavía templado pero con chances de chaparrones",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-viernes-todavia-templado-pero-chances-chaparrones-n10280423.html",
+        "image": "https://media.lacapital.com.ar/p/c2c07cff02786f36204c782b8c4a6485/adjuntos/203/imagenes/103/394/0103394743/2026-09-10-clima-by_vbenedetto-78816533.jpg",
+        "summary": "Para el sábado se anuncia mucho viento y un marcado descenso en los termómetros",
+        "pubDate": "2026-09-11T02:23:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Un menor llegó con convulsiones al Vilela y descubrieron cocaína en su organismo",
+        "link": "https://www.lacapital.com.ar/policiales/un-menor-llego-convulsiones-al-vilela-y-descubrieron-cocaina-su-organismo-n10280421.html",
+        "image": "https://media.lacapital.com.ar/p/23ec96303f532b45b95871cfb4b2aa8e/adjuntos/203/imagenes/103/394/0103394720/2026-09-10-nene-cocaina-vilela.jpg",
+        "summary": "Ambos padres fueron detenidos este jueves y quedaron a disposición de la Fiscalía mientras continúa la investigación",
+        "pubDate": "2026-09-11T01:57:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "El brote de ébola se está propagando rápidamente por El Congo",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/a268916d4fcadc812b3c7060a0c486e2/adjuntos/203/imagenes/102/324/0102324789/1200x675/smart/image-2025-04-13t182502279jpg.jpg",
         "summary": "La nueva línea tendrá préstamos de hasta 150.000 UVAs y plazos que pueden llegar a los 20 años. Es exclusiva para clientes que acrediten sus haberes en el banco",
         "pubDate": "2026-09-10T21:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Etchevers: \"La inteligencia artificial desafía la sustentabilidad de los medios y obliga a construir nuevas respuestas\"",
-        "link": "https://www.lacapital.com.ar/informacion-general/etchevers-la-inteligencia-artificial-desafia-la-sustentabilidad-los-medios-y-obliga-construir-nuevas-respuestas-n10280379.html",
-        "image": "https://media.lacapital.com.ar/p/d1869e5b00c6dec6a6916e6212281d1a/adjuntos/203/imagenes/103/394/0103394072/1200x675/smart/imageadepa.jpg",
-        "summary": "Adepa inauguró en Tucumán su 64ª Asamblea General Ordinaria, con un llamado a defender la libertad de prensa, fortalecer la sustentabilidad de los medios y construir respuestas frente a la transformación tecnológica y la inteligencia artificial.",
-        "pubDate": "2026-09-10T21:14:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Condenaron a una mujer que mandó a matar a un joven al que acusó de robarle droga",
-        "link": "https://www.lacapital.com.ar/policiales/condenaron-una-mujer-que-mando-matar-un-joven-al-que-acuso-robarle-droga-n10280302.html",
-        "image": "https://media.lacapital.com.ar/p/8344592518684cddf3629fa51f358597/adjuntos/203/imagenes/102/710/0102710761/cjp4jpg.jpg",
-        "summary": "Rocío Parra Zalazar fue condenada a 14 años de prisión por el asesinato en 2015 de Diego Miño y el ataque a otro joven que sobrevivió",
-        "pubDate": "2026-09-10T20:51:00+00:00",
         "approxTime": false
       }
     ]
