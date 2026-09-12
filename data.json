@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T02:47:19.022776+00:00",
+  "generatedAt": "2026-09-12T07:37:07.135162+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Una argentina rumbo a la Presidencia Mundial de FCEM",
+        "link": "https://www.lacapital.com.ar/novedades/una-argentina-rumbo-la-presidencia-mundial-fcem-n10280590.html",
+        "image": "https://media.lacapital.com.ar/p/14bab06e07349adf07e119d2f02d370b/adjuntos/203/imagenes/103/396/0103396291/1200x675/smart/patricia-garciajpg.jpeg",
+        "summary": "Patricia Isabel García fue oficialmente admitida como candidata a la Presidencia Mundial de FCEM, la organización internacional que reúne a mujeres empresarias de todo el mundo",
+        "pubDate": "2026-09-12T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El tiempo en Rosario: sábado gris, con fuertes vientos y descenso de temperaturas",
         "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-sabado-gris-fuertes-vientos-y-descenso-temperaturas-n10280628.html",
         "image": "https://media.lacapital.com.ar/p/f84b90082039d95f2dbdb5792687b611/adjuntos/203/imagenes/100/902/0100902330/2023-08-10-viento-by_cmutti-77926187jpg.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/a20e46490a26fbed16ffa1d3891677bc/adjuntos/203/imagenes/103/396/0103396257/1200x675/smart/image-36.jpg",
         "summary": "La AFA implementó el aplauso a Lionel Messi en la fecha anterior, pero en su regreso al Coloso del Parque los hinchas de Newell's armaron el suyo",
         "pubDate": "2026-09-11T20:51:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "UGR lanza el primer Doctorado en Ciencias de la Rehabilitación del país",
-        "link": "https://www.lacapital.com.ar/novedades/ugr-lanza-el-primer-doctorado-ciencias-la-rehabilitacion-del-pais-n10280559.html",
-        "image": "https://media.lacapital.com.ar/p/8bf6feb9d2f8263dddba4143cb155bd0/adjuntos/203/imagenes/103/395/0103395970/1200x675/smart/imagen-nota.jpg",
-        "summary": "La Universidad del Gran Rosario presenta su primer doctorado: modalidad 100% virtual, enfoque transdisciplinario e inscripciones abiertas desde mediados de septiembre",
-        "pubDate": "2026-09-11T20:08:39+00:00",
         "approxTime": false
       }
     ]
