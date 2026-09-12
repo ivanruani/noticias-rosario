@@ -1,14 +1,41 @@
 {
-  "generatedAt": "2026-09-12T11:55:06.819604+00:00",
+  "generatedAt": "2026-09-12T14:52:52.944212+00:00",
   "sites": {
     "rosario3": [
       {
         "source": "Rosario3",
+        "title": "Incendio en un depósito de patrulleros de Rosario: móviles que iban a compactación quedaron destruidos",
+        "link": "https://www.rosario3.com/policiales/incendio-en-un-deposito-de-patrulleros-de-rosario-moviles-que-iban-a-compactacion-quedaron-destruidos-20260912-0009.html",
+        "image": "https://www.rosario3.com/__export/1789218644557/sites/rosario3/img/2026/09/12/incendio_focus_tarragona_patrulleros.jpeg_194654402.jpeg",
+        "summary": "El fuego se desató de madrugada en la base Tarragona, en la zona de La República y Tarragona. La pericia de Bomberos determinó que el origen fue intencional; los seis Ford Focus estaban fuera de servicio y tenían prevista su compactación para fin de mes",
+        "pubDate": "2026-09-12T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Rosario abre los Juegos Suramericanos 2026: cómo será la gran apertura y todo lo que hay que saber",
         "link": "https://www.rosario3.com/deportes/rosario-abre-los-juegos-suramericanos-2026-como-sera-la-gran-apertura-y-todo-lo-que-hay-que-saber-20260911-0051.html",
-        "image": "https://www.rosario3.com/__export/1789164379196/sites/rosario3/img/2026/09/11/atleta_juegos.jpg_2106848869.jpg",
+        "image": "https://www.rosario3.com/__export/1789214607778/sites/rosario3/img/2026/09/12/whatsapp_image_2026-09-12_at_08_57_36_version1789214607053.jpeg_1825222445.jpeg",
         "summary": "La XIII edición de los Juegos Suramericanos comienza este sábado con una ceremonia en el Monumento Nacional a la Bandera. Participarán más de 4 mil atletas de 15 países, que durante 14 días competirán en Rosario, Santa Fe y Rafaela. Sedes, deportes, espectáculos, Fan Fest…",
-        "pubDate": "2026-09-11T12:00:00+00:00",
+        "pubDate": "2026-09-11T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "¿Cuándo juega la Selección?: las sedes en duda, la confirmación que falta y Scaloni en modo padre en España",
+        "link": "https://www.rosario3.com/deportes/cuando-juega-la-seleccion-las-sedes-en-duda-la-confirmacion-que-falta-y-scaloni-en-modo-padre-en-espana-20260912-0005.html",
+        "image": "https://www.rosario3.com/__export/1789216008204/sites/rosario3/img/2026/09/12/image1_-1-.jpg_351078598.jpg",
+        "summary": "Mientras en AFA se estiran los plazos para hacer oficial la agenda de partidos de fines de septiembre y primeros días de octubre, la única postal confirmada del DT nacional —quien tiene contrato vigente hasta diciembre— es la de un hincha más en Mallorca viendo jugar a su hijo",
+        "pubDate": "2026-09-12T11:58:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Charlas de Mercado: la apuesta que fue un éxito y una operatoria con cheques que es observada por el fisco",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/charlas-de-mercado-la-apuesta-que-fue-un-exito-y-una-operatoria-con-cheques-que-es-observada-por-el-fisco-20260912-0007.html",
+        "image": "https://www.rosario3.com/__export/1789219372175/sites/rosario3/img/2026/09/12/disen-o_sin_ti-tulo_-59-.png_928314581.png",
+        "summary": "Además: el A3 salió a recomprar sus acciones porque quiere evitar que los precios sean inconsistentes con su realidad económica y un dato que está pasando casi desapercibido, pero podría estar mostrando un cambio importante en el mercado de granos",
+        "pubDate": "2026-09-12T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +44,25 @@
         "link": "https://www.rosario3.com/informaciongeneral/rosario-despues-de-los-juegos-obras-nuevos-deportes-y-el-desafio-de-que-el-legado-perdure-20260911-0042.html",
         "image": "https://www.rosario3.com/__export/1789136378410/sites/rosario3/img/2026/09/10/dsc03045.jpg_2106848869.jpg",
         "summary": "Una inversión millonaria, nueva infraestructura deportiva y proyectos urbanos que se aceleraron al calor de Santa Fe 2026. Los antecedentes de Asunción, Lima, Toronto y Guadalajara muestran qué puede pasar cuando se apaga la llama y empieza el desafío de sostener el legado",
-        "pubDate": "2026-09-11T11:59:00+00:00",
+        "pubDate": "2026-09-11T11:56:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "“Hagan plata y no miren al de al lado”: detuvieron a un instructor de parapente de San Nicolás en la mira por venta de drogas",
+        "link": "https://www.rosario3.com/policiales/hagan-plata-y-no-miren-al-de-al-lado-detuvieron-a-un-instructor-de-parapente-de-san-nicolas-en-la-mira-por-venta-de-drogas-20260912-0010.html",
+        "image": "https://www.rosario3.com/__export/1789223807742/sites/rosario3/img/2026/09/12/maxi_cafiero_casa_barco_-diario_norte.jpg_672794305.jpg",
+        "summary": "“Maxi” Cafiero, de 29 años, piloto acrobático y habitué de los autos de lujo, quedó detenido en una causa narco. En sus redes exhibía su vida de alto vuelo y una consigna desafiante: “Todo lo bueno empieza con un poco de miedo”",
+        "pubDate": "2026-09-12T11:55:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Trump tildó de \"desastre potencial\" un conflicto entre Argentina y el Reino Unido por Malvinas y dijo que podría intervenir",
+        "link": "https://www.rosario3.com/informaciongeneral/trump-tildo-de-desastre-potencial-un-conflicto-entre-argentina-y-el-reino-unido-por-malvinas-y-dijo-que-podria-intervenir-20260912-0008.html",
+        "image": "https://www.rosario3.com/__export/1789218274207/sites/rosario3/img/2026/09/12/93c731d9d5faede85fa078534779f086efd9d887_version1789218273687.jpg_928314580.jpg",
+        "summary": "El presidente de Estados Unidos dijo que está dispuesto a mediar si Argentina y el Reino Unido se lo pidieran y aseguró que probablemente podría “solucionarlo”. También cuestionó a Londres por su posición frente a Irán y por la explotación de petróleo en el Mar del Norte",
+        "pubDate": "2026-09-12T11:54:00+00:00",
         "approxTime": true
       },
       {
@@ -26,7 +71,7 @@
         "link": "https://www.rosario3.com/deportes/por-que-luego-de-los-juegos-se-puede-abrir-una-nueva-era-para-los-deportes-acuaticos-de-rosario-20260911-0046.html",
         "image": "https://www.rosario3.com/__export/1789140343758/sites/rosario3/img/2026/09/11/piletasaltos_2.jpg_982625323.jpg",
         "summary": "Franco Scuderi, secretario de la Federación Rosario de Natación, destacó que la nueva infraestructura permitirá llevar a otro nivel los deportes que ya se practican en la ciudad, pero además permitirá desarrollar nuevas disciplinas",
-        "pubDate": "2026-09-11T11:58:00+00:00",
+        "pubDate": "2026-09-11T11:53:00+00:00",
         "approxTime": true
       },
       {
@@ -35,52 +80,7 @@
         "link": "https://www.rosario3.com/deportes/donde-y-cuando-compiten-los-47-rosarinos-en-los-juegos-suramericanos-20260910-0028.html",
         "image": "https://www.rosario3.com/__export/1788875525630/sites/rosario3/img/2026/09/08/atletas-coa.jpg_928314580.jpg",
         "summary": "Desde el domingo 13 hasta el sábado 26 habrá jornadas con múltiple participación de los deportistas locales que buscan hacer podio; Facundo Guch no fue cedido por Newell's y en fútbol no habrá jugadores locales",
-        "pubDate": "2026-09-10T11:57:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Matemática en el aula: Pruebas PISA, récord de resultados magros en Argentina y la autoevaluación de docentes rosarinos",
-        "link": "https://www.rosario3.com/opinion/matematica-en-el-aula-pruebas-pisa-record-de-resultados-magros-en-argentina-y-la-autoevaluacion-de-docentes-rosarinos-20260909-0072.html",
-        "image": "https://www.rosario3.com/__export/1789071610351/sites/rosario3/img/2026/09/10/matematica.jpg_1768679257.jpg",
-        "summary": "El país tuvo su peor resultado de los últimos 20 años y quedó en el puesto 72 de 91 países. Casi 8 de cada 10 estudiantes no alcanzan el nivel básico en Matemática y 6 de cada 10 no lo hacen en Lectura y en Ciencias. Docentes de escuelas de la ciudad señalan: dificultad en…",
-        "pubDate": "2026-09-09T11:56:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La Previa del Run Run: caras largas en la industria y la hidrovía será protagonista de la apertura de los Suramericanos",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-previa-del-run-run-caras-largas-en-la-industria-y-la-hidrovia-sera-protagonista-de-la-apertura-de-los-suramericanos-20260911-0079.html",
-        "image": "https://www.rosario3.com/__export/1789167090572/sites/rosario3/img/2026/09/11/marianoportada_jpg.jpeg_506286608.jpeg",
-        "summary": "El podcast con el anticipo de las novedades económicas y corporativas que se publicarán en la tradicional columna de los domingos en Rosario3",
-        "pubDate": "2026-09-11T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "¿Ronda por tu cabeza el pensamiento del suicidio? Las casos aumentan y especialistas insisten en hablar para prevenir",
-        "link": "https://www.rosario3.com/especiales/ronda-por-tu-cabeza-el-pensamiento-del-suicidio-las-casos-aumentan-y-especialistas-insisten-en-hablar-para-prevenir-20260911-0072.html",
-        "image": "https://www.rosario3.com/__export/1789159685287/sites/rosario3/img/2026/09/11/suicidio.jpg_928314580.jpg",
-        "summary": "Las cifras vinculadas al suicidio y la salud mental generan una creciente preocupación en Argentina y particularmente en Santa Fe, donde durante 2025 esta problemática se convirtió en la principal causa de muerte violenta. Frente a un escenario que muestra un incremento…",
-        "pubDate": "2026-09-11T11:54:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Maradona, Messi, ¿y después? ¿Parirá el fútbol argentino a un nuevo héroe?",
-        "link": "https://www.rosario3.com/deportes/maradona-messi-y-despues-parira-el-futbol-argentino-a-un-nuevo-heroe-20260911-0065.html",
-        "image": "https://www.rosario3.com/__export/1784054642778/sites/rosario3/img/2026/07/14/diego_y_leo.jpg_1768679258.jpg",
-        "summary": "El anuncio de la despedida de Leo es muy reciente, pero el inconsciente futbolero ya busca a su nuevo “protector”",
-        "pubDate": "2026-09-11T11:53:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Comienzan las actividades del Roldán Future Pro con dos torneos amateurs",
-        "link": "https://www.rosario3.com/deportes/comienzan-las-actividades-del-roldan-future-pro-con-dos-torneos-amateurs-20260911-0009.html",
-        "image": "https://www.rosario3.com/__export/1785166926300/sites/rosario3/img/2026/07/27/tenis.jpg_928314580.jpg",
-        "summary": "Del 3 al 11 de octubre, la región se prepara para recibir dos torneos en la previa de la competencia profesional de Roldán Future Pro. Los detalles",
-        "pubDate": "2026-09-11T11:52:00+00:00",
+        "pubDate": "2026-09-10T11:52:00+00:00",
         "approxTime": true
       },
       {
@@ -94,20 +94,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Los Juegos Suramericanos en la cuenta regresiva: la Villa Olímpica ya late y las obras se terminan contrarreloj",
-        "link": "https://www.rosario3.com/informaciongeneral/cuenta-regresiva-la-villa-olimpica-ya-late-y-las-obras-se-terminan-contrarreloj-20260910-0043.html",
-        "image": "https://www.rosario3.com/__export/1789066023862/sites/rosario3/img/2026/09/10/dsc03197.jpg_2106848869.jpg",
-        "summary": "Las delegaciones ya empezaron a instalarse en Rosario y los atletas sueñan con medallas. Mientras tanto, obreros, técnicos y voluntarios aceleran los últimos preparativos en los escenarios que desde el domingo recibirán las competencias. Un “estallido” en ciernes. Imágenes: así…",
-        "pubDate": "2026-09-10T11:50:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Juegos Suramericanos 2026 en Rosario: calendario, sedes, entradas, Fan Fest y dónde verlos en vivo",
-        "link": "https://www.rosario3.com/deportes/juegos-suramericanos-2026-en-rosario-calendario-sedes-entradas-fan-fest-y-donde-verlos-en-vivo-20260907-0023.html",
-        "image": "https://www.rosario3.com/__export/1788787406014/sites/rosario3/img/2026/08/25/marisol_tozzi.jpg_506286608.jpg",
-        "summary": "Los XIII Juegos Suramericanos Santa Fe 2026 se disputarán del 12 al 26 de septiembre y tendrán a Rosario como principal centro de actividad. Más de 4.000 atletas de 15 países competirán en 43 deportes y 60 disciplinas. Cuándo es la apertura, cómo conseguir entradas, qué deportes…",
-        "pubDate": "2026-09-07T11:49:00+00:00",
+        "title": "Sedes, días y horarios para alentar a la celeste y blanca: cuándo compiten los deportistas argentinos en los Juegos Suramericanos",
+        "link": "https://www.rosario3.com/deportes/sedes-dias-y-horarios-para-alentar-a-la-celeste-y-blanca-cuando-compiten-los-deportistas-argentinos-en-los-juegos-suramericanos-20260911-0015.html",
+        "image": "https://www.rosario3.com/__export/1789125870538/sites/rosario3/img/2026/09/11/image_-69-.jpg_1825222445.jpg",
+        "summary": "La delegación nacional ya está preparada para hacer su estreno en las distintas disciplinas de Santa Fe 2026. En la web oficial se puede conocer toda la información y cómo acceder a una competencia determinada o gestionar el ingreso a los Fan Fest. Además, hay una app Santa Fe…",
+        "pubDate": "2026-09-11T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -116,164 +107,37 @@
         "link": "https://www.rosario3.com/informaciongeneral/el-tres-tv-transmitira-en-vivo-la-apertura-de-los-juegos-suramericanos-santa-fe-2026-en-rosario-20260911-0033.html",
         "image": "https://www.rosario3.com/__export/1789133704821/sites/rosario3/img/2026/09/11/monumento_noche.jpg_928314581.jpg",
         "summary": "La ceremonia inaugural será televisada desde el Monumento a la Bandera este sábado, desde las 19.30 por la pantalla de El Tres. Con la conducción de Analía Bocassi y Agustín Rada Aristarán, se espera una superproducción que incluirá más de 100 artistas de distintas generaciones…",
+        "pubDate": "2026-09-11T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "De La Paz 1978 a Santa Fe 2026: qué son los Juegos Suramericanos y qué importancia tienen en el \"ciclo Olímpico\"",
+        "link": "https://www.rosario3.com/deportes/de-la-paz-1978-a-santa-fe-2026-que-son-los-juegos-suramericanos-y-que-importancia-tienen-en-el-ciclo-olimpico-20260911-0018.html",
+        "image": "https://www.rosario3.com/__export/1789128629019/sites/rosario3/img/2026/09/11/juegos_-1-.jpg_928314580.jpg",
+        "summary": "Qué peso tienen en el camino hacia los Juegos Olímpicos, cómo se comparan con los Panamericanos y los datos clave para entender por qué Rosario vuelve a estar en el centro de la escena deportiva continental",
         "pubDate": "2026-09-11T11:48:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Operativo por la apertura de los Juegos Suramericanos en el Monumento: cortes, accesos y lugares de estacionamiento",
-        "link": "https://www.rosario3.com/informaciongeneral/operativo-por-la-apertura-de-los-juegos-suramericanos-en-el-monumento-cortes-accesos-y-lugares-de-estacionamiento-20260909-0015.html",
-        "image": "https://www.rosario3.com/__export/1788958395519/sites/rosario3/img/2026/09/09/operativo_juego_suramericanos_-4-.jpg_506286608.jpg",
-        "summary": "Rosario y la provincia de Santa Fe se preparan para la gran ceremonia de este sábado a la tarde. Habrá un esquema de 21 cortes de tránsito en la zona del Monumento Nacional a la Bandera y restricciones peatonales. El evento comenzará a las 18 y será el puntapié inicial para la…",
-        "pubDate": "2026-09-09T11:47:00+00:00",
+        "title": "Todos los shows de los Juegos Suramericanos en Rosario: artistas, escenarios, Fan Fest, entradas y cómo conseguir el QR",
+        "link": "https://www.rosario3.com/informaciongeneral/todos-los-shows-de-los-juegos-suramericanos-en-rosario-artistas-escenarios-fan-fest-entradas-y-como-conseguir-el-qr-20260911-0004.html",
+        "image": "https://www.rosario3.com/__export/1789122834890/sites/rosario3/img/2026/09/11/collage_artistas_juegos.jpg_1783880222.jpg",
+        "summary": "Los Juegos Suramericanos tendrán dos Fan Fest en Rosario, tres escenarios y actividades durante dos semanas. Qué es gratis, cuándo hace falta QR y cómo funcionan las entradas de 10 mil pesos para las competencias",
+        "pubDate": "2026-09-11T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "La Villa Suramericana por dentro: cómo es y qué hay en la casa de los 15 países que llegan a Rosario",
-        "link": "https://www.rosario3.com/deportes/la-villa-suramericana-por-dentro-como-es-y-que-hay-en-la-casa-de-los-15-paises-que-llegan-a-rosario-20260909-0061.html",
-        "image": "https://www.rosario3.com/__export/1788986034305/sites/rosario3/img/2026/09/09/villa_suramericana_-6-.jpg_1869888184.jpg",
-        "summary": "Las cinco torres que se levantaron en zona sur albergarán a casi 1.500 atletas para los Juegos Suramericanos Santa Fe 2026. Alimentarse, descansar, recrearse y entrenar son algunas de las actividades que podrán realizar en el lugar. Las imágenes por dentro",
+        "title": "Uno por uno, quiénes son los rosarinos que participarán de los Juegos Suramericanos 2026",
+        "link": "https://www.rosario3.com/deportes/uno-por-uno-quienes-son-los-rosarinos-que-participaran-de-los-juegos-suramericanos-2026-20260909-0044.html",
+        "image": "https://www.rosario3.com/__export/1788972021639/sites/rosario3/img/2026/09/09/deportitas-rosarinos.jpg_928314580.jpg",
+        "summary": "Habrá 48 deportistas locales que integrarán la delegación argentina en 19 deportes diferentes. Los atletas competirán tanto en la ciudad como en la capital provincial",
         "pubDate": "2026-09-09T11:46:00+00:00",
         "approxTime": true
       }
     ],
-    "lacapital": [
-      {
-        "source": "La Capital",
-        "title": "Funes: \"Hay que construir el escenario para que las infancias jueguen su partido de fútbol\"",
-        "link": "https://www.lacapital.com.ar/la-region/funes-hay-que-construir-el-escenario-que-las-infancias-jueguen-su-partido-futbol-n10280080.html",
-        "image": "https://media.lacapital.com.ar/p/9f140c946baa6441408fb8bffe24e802/adjuntos/203/imagenes/103/390/0103390725/1200x675/smart/funes-1.jpeg",
-        "summary": "Funes debate este sábado desde las 10 sobre infancias, participación, juegos y espacio público, con el objetivo de poner en marcha su Consejo de Niñas y Niños",
-        "pubDate": "2026-09-12T11:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Pilar Gamboa: \"El espíritu artístico argentino es muy difícil de derribar\"",
-        "link": "https://www.lacapital.com.ar/zoom/pilar-gamboa-el-espiritu-artistico-argentino-es-muy-dificil-derribar-n10280616.html",
-        "image": "https://media.lacapital.com.ar/p/49cfef69ea55c42223ec1b1994332114/adjuntos/203/imagenes/103/396/0103396665/1200x675/smart/image-75.jpg",
-        "summary": "La actriz de “Viudas negras” llega a Rosario con la gira de “Las hijas”, la exitosa obra dirigida por Adrián Suar, que coprotagoniza junto a Soledad Villamil y Florencia Peña",
-        "pubDate": "2026-09-12T11:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Prevención del suicidio: cinco preguntas y cinco acciones fundamentales",
-        "link": "https://www.lacapital.com.ar/informacion-general/prevencion-del-suicidio-cinco-preguntas-y-cinco-acciones-fundamentales-n10280484.html",
-        "image": "https://media.lacapital.com.ar/p/532a2f76909ae6b9808fbd0fb6286bf9/adjuntos/203/imagenes/103/395/0103395548/1200x675/smart/adolecente-angustia-depresion.jpg",
-        "summary": "La médica psiquiatra Estefanía Niccia ofrece pautas para acompañar y guiar a alguien en un momento difícil. Los mitos y la realidad de un problema preocupante",
-        "pubDate": "2026-09-12T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "¿Organizado o impulsivo? Un estudio revela cómo se preparan los argentinos para viajar",
-        "link": "https://www.lacapital.com.ar/turismo/organizado-o-impulsivo-un-estudio-revela-como-se-preparan-los-argentinos-viajar-n10280510.html",
-        "image": "https://media.lacapital.com.ar/p/15acda83a7de0ae0e845d42ab0ffaf84/adjuntos/203/imagenes/103/396/0103396033/imagen-nota.jpg",
-        "summary": "Una investigación entre más de mil personas identificó cinco estilos marcados a la hora de armar las valijas. Planificación e improvisación marcan los extremos",
-        "pubDate": "2026-09-12T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Superó a Notre Dame y Florencia: la catedral argentina elegida como la más linda del mundo",
-        "link": "https://www.lacapital.com.ar/turismo/supero-notre-dame-y-florencia-la-catedral-argentina-elegida-como-la-mas-linda-del-mundo-n10280512.html",
-        "image": "https://media.lacapital.com.ar/p/fa0d62e30c44cef6e457e1bce7ca001a/adjuntos/203/imagenes/103/395/0103395637/notre-dame.jpg",
-        "summary": "El templo de La Plata ganó el denominado “Mundial de Catedrales”, una competencia en Instagram que sumó a algunos de los edificios religosos más emblemáticos",
-        "pubDate": "2026-09-12T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Dunas de Tatón: el paisaje de Catamarca que sorprende entre gigantes de arena",
-        "link": "https://www.lacapital.com.ar/turismo/dunas-taton-el-paisaje-catamarca-que-sorprende-gigantes-arena-n10280513.html",
-        "image": "https://media.lacapital.com.ar/p/72384c765ce205e0127d2a475edcf51d/adjuntos/203/imagenes/103/396/0103396239/imagen-nota.jpg",
-        "summary": "Con una ruta icónica, que atrae cada vez más turismo, este destino combina aventura, extensiones de médanos y una de las formaciones más impactantes del país",
-        "pubDate": "2026-09-12T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Auroras boreales desde un tren: el viaje nocturno que atraviesa el Ártico noruego",
-        "link": "https://www.lacapital.com.ar/turismo/auroras-boreales-un-tren-el-viaje-nocturno-que-atraviesa-el-artico-noruego-n10280514.html",
-        "image": "https://media.lacapital.com.ar/p/28f6db5b6fdfa3898f9088f7de7d0a2f/adjuntos/203/imagenes/103/396/0103396099/imagen-nota.jpg",
-        "summary": "El recorrido nocturno parte de Narvik y atraviesa la línea de Ofoten, con vagones panorámicos, paradas en paisajes soñados y una experiencia para mirar el cielo",
-        "pubDate": "2026-09-12T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Aerolíneas anunció los vuelos de verano a Curazao y Cartagena",
-        "link": "https://www.lacapital.com.ar/aerolineas-anuncio-los-vuelos-verano-curazao-y-cartagena-n10280581.html",
-        "image": "https://media.lacapital.com.ar/p/9d1271d0bc8b31810dfa63c477e13902/adjuntos/203/imagenes/102/986/0102986903/2026-02-18-aeropuerto-rosario-aerolineas-argentinas-80607096.jpg",
-        "summary": "La aerolínea dio a conocer la nueva frecuencia de vuelos que sumará de cara a la temporada de verano, la cual incluirá dos destinos internacionales",
-        "pubDate": "2026-09-12T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Juegos Suramericanos: Rosario está lista para aprovechar al máximo la presencia de visitantes",
-        "link": "https://www.lacapital.com.ar/la-ciudad/juegos-suramericanos-rosario-esta-lista-aprovechar-al-maximo-la-presencia-visitantes-n10280313.html",
-        "image": "https://media.lacapital.com.ar/p/870329b8c4e1031c8613b0aa1ba20679/adjuntos/203/imagenes/103/393/0103393613/1200x675/smart/82653687.jpeg",
-        "summary": "Con el desembarco de 4 mil atletas y sus delegaciones, se espera un lleno total de la capacidad hotelera. El plan contempla traslados, circuitos, ofertas en gastronomía, información sobre atractivos turísticos y múltiples eventos",
-        "pubDate": "2026-09-12T09:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Tragedia en la costanera: las claves de un juicio atravesado por testimonios dolorosos",
-        "link": "https://www.lacapital.com.ar/policiales/tragedia-la-costanera-las-claves-un-juicio-atravesado-testimonios-dolorosos-n10280531.html",
-        "image": "https://media.lacapital.com.ar/p/ad235bf0878f15e77073b7987f9bd430/adjuntos/203/imagenes/102/150/0102150908/1200x675/smart/accidente-pte-roca03ajpg.jpg",
-        "summary": "El martes se conocerá la sentencia del juicio oral a Agustín López Gagliasso, conductor del Peugeot 206 que atropelló y mató a una madre y su hija",
-        "pubDate": "2026-09-12T09:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Adiós a la Librería Técnica: cerró el comercio de referencia para estudiantes universitarios y escuelas",
-        "link": "https://www.lacapital.com.ar/la-ciudad/adios-la-libreria-tecnicacerro-el-comercio-referencia-estudiantesuniversitarios-y-escuelas-n10280585.html",
-        "image": "https://media.lacapital.com.ar/p/ef37c8285f7d981a4706c766e276a200/adjuntos/203/imagenes/103/396/0103396289/1200x675/smart/libreria-tecnica-119-hr.jpg",
-        "summary": "El negocio que vivió épocas doradas se vio en una encerrona por múltiples factores y sus titulares decidieron dejar de vender libros luego de 55 años",
-        "pubDate": "2026-09-12T09:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Histórica restauración en  Villa Hortensia: el Distrito Norte atenderá en el Portal",
-        "link": "https://www.lacapital.com.ar/historica-restauracion-villa-hortensia-el-distrito-norte-atendera-el-portal-n10280619.html",
-        "image": "https://media.lacapital.com.ar/p/234830c4cc7490d646a0b35ea8559c62/adjuntos/203/imagenes/103/396/0103396641/1200x675/smart/images-21.jpg",
-        "summary": "Será a partir de diciembre. El traslado permitirá desocupar el emblemático edificio para dar inicio a un ambicioso plan de obras",
-        "pubDate": "2026-09-12T09:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Ander Etxeberria: \"El cooperativismo es más necesario que nunca en este mundo\"",
-        "link": "https://www.lacapital.com.ar/agro/ander-etxeberria-el-cooperativismo-es-mas-necesario-que-nunca-este-mundo-n10280393.html",
-        "image": "https://media.lacapital.com.ar/p/1f8e88e94a842d889fa0f7c8ae986d2f/adjuntos/203/imagenes/103/394/0103394247/1200x675/433x381:453x401/mondragon1.jpg",
-        "summary": "El responsable de Difusión de la Cooperativa de Mondragón estuvo en Rosario y destacó el valor de un modelo que combina innovación, participación y empleo de calidad. La experiencia vasca reúne a 70.000 personas",
-        "pubDate": "2026-09-12T09:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La mitad de los asalariados registrados cobra menos de $ 1,4 millones de bolsillo",
-        "link": "https://www.lacapital.com.ar/economia/la-mitad-los-asalariados-registrados-cobra-menos-14-millones-bolsillo-n10280624.html",
-        "image": "https://media.lacapital.com.ar/p/8320a48cb563d3b433463c316352ff8c/adjuntos/203/imagenes/101/293/0101293150/1200x675/smart/marcha-cgtjpg.jpg",
-        "summary": "Los datos a junio del Sistema Integrado Previsional Argentino muestran que un 50% de los empleados en blanco cobran menos que la canasta de pobreza. El poder adquisitivo de la remuneración promedio cayó 2,8% en el último año",
-        "pubDate": "2026-09-12T09:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Primera C: Leones FC se presenta en Tapiales ante Lugano en busca de asegurar un lugar en el Reducido",
-        "link": "https://www.lacapital.com.ar/ovacion/primera-c-leones-fc-se-presenta-tapiales-lugano-busca-asegurar-un-lugar-el-reducido-n10280602.html",
-        "image": "https://media.lacapital.com.ar/p/45609a7d32980a6bd8f90eafb2156737/adjuntos/203/imagenes/103/396/0103396500/1200x675/smart/image-85.png",
-        "summary": "El equipo dirigido por Alejandro Ojeda, tercero en la Zona B, quiere seguir escalando para clasificarse entre los siete primeroS en Primera C",
-        "pubDate": "2026-09-12T09:10:00+00:00",
-        "approxTime": false
-      }
-    ]
+    "lacapital": []
   }
 }
