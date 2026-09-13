@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-09-12T22:26:37.090952+00:00",
+  "generatedAt": "2026-09-13T00:07:17.564404+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "EN VIVO: Seguí la apertura de los Juegos Suramericanos por El Tres TV",
+        "link": "https://www.rosario3.com/informaciongeneral/el-tres-tv-transmitira-en-vivo-la-apertura-de-los-juegos-suramericanos-santa-fe-2026-en-rosario-20260911-0033.html",
+        "image": "https://www.rosario3.com/__export/1789255372614/sites/rosario3/img/2026/09/12/sole.jpg_2106848869.jpg",
+        "summary": "La ceremonia inaugural se puede ver en vivo y en directo desde la pantalla de El Tres y por su canal de youtube con la conducción de Analía Bocassi y Agustín Rada Aristarán. La superproducción incluye más de 100 artistas de distintas generaciones y estilos. Seguila en vivo",
+        "pubDate": "2026-09-11T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Comenzó la apertura de los Juegos Suramericanos 2026: todo lo que hay que saber sobre el gran evento en Rosario",
         "link": "https://www.rosario3.com/deportes/rosario-abre-los-juegos-suramericanos-2026-como-sera-la-gran-apertura-y-todo-lo-que-hay-que-saber-20260911-0051.html",
         "image": "https://www.rosario3.com/__export/1789244215798/sites/rosario3/img/2026/09/12/juegos4.jpg_2106848869.jpg",
         "summary": "La XIII edición de los Juegos Suramericanos comienza este sábado con una ceremonia en el Monumento Nacional a la Bandera. Participarán más de 4 mil atletas de 15 países, que durante 14 días competirán en Rosario, Santa Fe y Rafaela. Sedes, deportes, espectáculos, Fan Fest…",
-        "pubDate": "2026-09-11T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "EN VIVO: Seguí la apertura de los Juegos Suramericanos por El Tres TV",
-        "link": "https://www.rosario3.com/informaciongeneral/el-tres-tv-transmitira-en-vivo-la-apertura-de-los-juegos-suramericanos-santa-fe-2026-en-rosario-20260911-0033.html",
-        "image": "https://www.rosario3.com/__export/1789249731580/sites/rosario3/img/2026/09/12/aperturajuegos.jpg_2106848869.jpg",
-        "summary": "La ceremonia inaugural se puede ver en vivo y en directo desde la pantalla de El Tres y por su canal de youtube con la conducción de Analía Bocassi y Agustín Rada Aristarán. Se espera una superproducción que incluirá más de 100 artistas de distintas generaciones y estilos…",
         "pubDate": "2026-09-11T11:59:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,42 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Central informó la causa por la que Marco Ruben no jugará ante Tigre",
+        "link": "https://www.lacapital.com.ar/ovacion/central-informo-la-causa-la-que-marco-ruben-no-jugara-tigre-n10280737.html",
+        "image": "https://media.lacapital.com.ar/p/72e8ff4ce93334a37ee7d4e976b46ba1/adjuntos/203/imagenes/103/398/0103398369/mmm.JPG",
+        "summary": "El referente de Central no está disponible para enfrentar a Tigre por un cuadro de salud que le impide jugar",
+        "pubDate": "2026-09-12T23:36:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El tiempo en Rosario: domingo con mucho frío y un último pulso invernal antes de la primavera",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-domingo-mucho-frio-y-un-ultimo-pulso-invernal-antes-la-primavera-n10280733.html",
+        "image": "https://media.lacapital.com.ar/p/eeb9692319295b597cb3d1fcd49f0a8a/adjuntos/203/imagenes/101/833/0101833517/1200x675/smart/frio03jpg.jpg",
+        "summary": "La temperatura se acercará 0º y el cielo estará mayormente cubierto durante toda la jornada. Con el correr de los días, los termómetros volverán a subir",
+        "pubDate": "2026-09-12T23:08:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Atlético del Rosario no aprovechó el envión y cayó por goleada en la visita a SIC por el Top 14 de la Urba",
+        "link": "https://www.lacapital.com.ar/ovacion/atletico-del-rosario-no-aprovecho-el-envion-y-cayo-goleada-la-visita-sic-el-top-14-la-urba-n10280719.html",
+        "image": "https://media.lacapital.com.ar/p/41f4d7b24750519f9341a68a0e140acf/adjuntos/203/imagenes/103/398/0103398193/1200x675/smart/image-43.jpg",
+        "summary": "Plaza Jewell venía de ganarle a Belgrano en el pasaje Gould con la última patada, pero cayó con contundencia frente a SIC, al que le ganó en la primera rueda.",
+        "pubDate": "2026-09-12T22:55:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Juegos Suramericanos: el CAF aportó financiamiento por 75 millones de dólares",
+        "link": "https://www.lacapital.com.ar/juegos-suramericanos-el-caf-aporto-financiamiento-75-millones-dolares-n10280724.html",
+        "image": "https://media.lacapital.com.ar/p/2c11454772a46b8e8885f95969736028/adjuntos/203/imagenes/103/398/0103398195/1200x675/smart/whatsapp-image-2026-09-12-at-190015.jpeg",
+        "summary": "El Banco de Desarrollo de América Latina y el Caribe acompañó la puesta en marcha del evento, que reúne a más de 4 mil atletas en 43 deportes y 60 disciplinas",
+        "pubDate": "2026-09-12T22:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El gobierno analiza decretar un feriado durante la visita del Papa León XIV: qué fechas se evalúan",
         "link": "https://www.lacapital.com.ar/informacion-general/el-gobierno-analiza-decretar-un-feriado-la-visita-del-papa-leon-xiv-que-fechas-se-evaluan-n10280714.html",
         "image": "https://media.lacapital.com.ar/p/f1ee5a0ebb989d0aea7f960458010f3f/adjuntos/203/imagenes/103/398/0103398149/1200x675/smart/milei-papa-leon-xiv.jpg",
@@ -168,10 +204,10 @@
       },
       {
         "source": "La Capital",
-        "title": "Juegos Suramericanos: comenzó la ceremonia de apertura con artistas emergentes",
-        "link": "https://www.lacapital.com.ar/juegos-suramericanos/juegos-suramericanos-comenzo-la-ceremonia-apertura-artistas-emergentes-n10280699.html",
-        "image": "https://media.lacapital.com.ar/p/eafe1464255019859beef83156be3bc5/adjuntos/203/imagenes/103/398/0103398102/1200x675/smart/image-13.png",
-        "summary": "El esperado evento inaugural comenzó puntual, a las 18, con un pre-show con artistas emergentes de la provincia",
+        "title": "Juegos Suramericanos: comenzó la ceremonia de apertura",
+        "link": "https://www.lacapital.com.ar/juegos-suramericanos/juegos-suramericanos-comenzo-la-ceremonia-apertura-n10280699.html",
+        "image": "https://media.lacapital.com.ar/p/b8bd8b2efe02722ab62f58b7d80bd1ba/adjuntos/203/imagenes/103/398/0103398305/1200x675/smart/image-2026-09-12t204734501.jpg",
+        "summary": "El esperado evento inaugural ya está en pleno desarrollo sobre el gran escenario del Monumento a la Bandera",
         "pubDate": "2026-09-12T21:10:00+00:00",
         "approxTime": false
       },
@@ -236,42 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/85d2bc63a2a3e625286a55c0fd0edd4f/adjuntos/203/imagenes/103/397/0103397607/1200x675/smart/image-6.jpg",
         "summary": "El entrenador de Tigre, Diego Davobe, habló de las virtudes de Central antes del choque de este domingo en Victoria por el torneo Clausura",
         "pubDate": "2026-09-12T19:19:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Delegaciones, shows y llama olímpica: así será la apertura de los Juegos Suramericanos",
-        "link": "https://www.lacapital.com.ar/juegos-suramericanos/delegaciones-shows-y-llama-olimpica-asi-sera-la-apertura-los-juegos-suramericanos-n10280684.html",
-        "image": "https://media.lacapital.com.ar/p/5c7980c47cde9d5d2f5d833fbad5ad48/adjuntos/203/imagenes/103/397/0103397604/1200x675/smart/apertura-suramericanos-129.jpg",
-        "summary": "El Monumento a la Bandera recibirá la ceremonia inaugural del evento con un show de primer nivel, deportistas y una llama que se encenderá al ritmo del evento",
-        "pubDate": "2026-09-12T19:16:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Juegos Suramericanos: cortes de tránsito y accesos por la ceremonia inaugural en el Monumento",
-        "link": "https://www.lacapital.com.ar/la-ciudad/juegos-suramericanos-cortes-transito-y-accesos-la-ceremonia-inaugural-el-monumento-n10280683.html",
-        "image": "https://media.lacapital.com.ar/p/c4ac199d7b61edd268e8adff788aa1c6/adjuntos/203/imagenes/103/397/0103397603/1200x675/smart/suramericanos-apertura-monumento.jpeg",
-        "summary": "Rosario se prepara un operativo especial por el acto de inicio de la competencia, donde habrá cambios en la circulación ante la gran convocatoria prevista",
-        "pubDate": "2026-09-12T19:04:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Plataformas de streaming: tres recomendaciones para el fin de semana",
-        "link": "https://www.lacapital.com.ar/zoom/plataformas-streaming-tres-recomendaciones-el-fin-semana-n10280594.html",
-        "image": "https://media.lacapital.com.ar/p/d30bf2299377f60017209ba75bddf167/adjuntos/203/imagenes/103/396/0103396451/1200x675/smart/image-8.png",
-        "summary": "Opciones de drama, romance y comedia se suman al catálogo para disfrutar en las distintas plataformas",
-        "pubDate": "2026-09-12T18:42:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Las exportaciones lácteas batieron récord",
-        "link": "https://www.lacapital.com.ar/agro/las-exportaciones-lacteas-batieron-record-n10279953.html",
-        "image": "https://media.lacapital.com.ar/p/12908cf55ecf142e1e8d8ad03463ed3b/adjuntos/203/imagenes/103/389/0103389314/1200x675/smart/leche_en_polvo.jpg",
-        "summary": "Un informe de la Dirección Nacional de Lechería señaló que en siete meses de 2026 se vendieron productos por valor de u$s 987 millones. El 29% de la producción va al mercado externo",
-        "pubDate": "2026-09-12T18:35:00+00:00",
         "approxTime": false
       }
     ]
