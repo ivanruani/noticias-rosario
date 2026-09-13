@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T05:07:03.472873+00:00",
+  "generatedAt": "2026-09-13T10:26:36.323221+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,123 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "A 50 años del atentado más sangriento de Montoneros en Rosario",
+        "link": "https://www.lacapital.com.ar/la-ciudad/a-50-anos-del-atentado-mas-sangriento-montoneros-rosario-n10280133.html",
+        "image": "https://media.lacapital.com.ar/p/ce3307eafe4f43cec6c8e56d29e4f178/adjuntos/203/imagenes/103/391/0103391165/1200x675/smart/80508757.jpg",
+        "summary": "El 12 de septiembre de 1976 un Citroën lleno de bulones impregnados de materia fecal estalló cuando pasaba un colectivo de la policía. Murieron 9 efectivos y dos civiles",
+        "pubDate": "2026-09-13T10:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Los diez edificios que proyectan cambiar el área central de Rosario",
+        "link": "https://www.lacapital.com.ar/los-diez-edificios-que-proyectan-cambiar-el-area-central-rosario-n10279797.html",
+        "image": "https://media.lacapital.com.ar/p/7a5c882798030791f33e5470171ea8b6/adjuntos/203/imagenes/103/391/0103391059/1200x675/smart/fundar-1.jpeg",
+        "summary": "Desde 2025, en el microcentro se autorizó la construcción de unos 50 mil metros cuadrados. ¿Cuáles son los desarrollos que vienen?",
+        "pubDate": "2026-09-13T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Patrimonio: el edificio que parece abandonado y guarda más de un siglo de historias de Rosario",
+        "link": "https://www.lacapital.com.ar/patrimonio-el-edificio-que-parece-abandonado-y-guarda-mas-un-siglo-historias-rosario-n10280275.html",
+        "image": "https://media.lacapital.com.ar/p/f97c3cf7b134ad30712acd38f4ef2491/adjuntos/203/imagenes/103/398/0103398580/1200x675/smart/82656130jpegthumb.jpg",
+        "summary": "Está en Santa Fe y San Martín, fue una de las primeras sucursales bancarias de la ciudad y hoy funciona como archivo de los Tribunales Federales",
+        "pubDate": "2026-09-13T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Por más inflación y menor crecimiento, el presupuesto para 2026 se quedó corto",
+        "link": "https://www.lacapital.com.ar/economia/por-mas-inflacion-y-menor-crecimiento-el-presupuesto-2026-se-quedo-corto-n10280736.html",
+        "image": "https://media.lacapital.com.ar/p/7555b79d20f6ded948b1e05acba70869/adjuntos/203/imagenes/103/093/0103093800/1200x675/smart/caputo-fmi.jpg",
+        "summary": "Un informe de la Asociación Argentina de Presupuesto alertó sobre la dinámica de la recaudación y el gasto. Se complica la meta con el FMI",
+        "pubDate": "2026-09-13T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Baja la presión cambiaria pero se profundiza el freno de la actividad",
+        "link": "https://www.lacapital.com.ar/economia/baja-la-presion-cambiaria-pero-se-profundiza-el-freno-la-actividad-n10280732.html",
+        "image": "https://media.lacapital.com.ar/p/a5919fa7298ba6dec435102d5e0d30e2/adjuntos/203/imagenes/103/221/0103221495/1200x675/smart/ministerio-economia.png",
+        "summary": "El apretón monetario y una mejora en el contexto externo tranquilizó por ahora el mercado del dólar. Expectativa por la tasa",
+        "pubDate": "2026-09-13T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La dirigencia se alista para la carrera por la Gobernación y la Intendencia de Rosario",
+        "link": "https://www.lacapital.com.ar/politica/la-dirigencia-se-alista-la-carrera-la-gobernacion-y-la-intendencia-rosario-n10280676.html",
+        "image": "https://media.lacapital.com.ar/p/5e2df19ace5e674d52600762bb048315/adjuntos/203/imagenes/025/123/0025123312/1200x675/smart/3103772jpgthumbjpg.jpg",
+        "summary": "Promulgada la reforma electoral, y una vez finalizados los Juegos Suramericanos 2026, Unidos, el peronismo y La Libertad Avanza comenzarán a ordenar sus fichas para los comicios del año próximo",
+        "pubDate": "2026-09-13T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Maíz: diagnóstico, nutrición y agua, tres claves para aprovechar el potencial de rendimiento",
+        "link": "https://www.lacapital.com.ar/agro/maiz-diagnostico-nutricion-y-agua-tres-claves-aprovechar-el-potencial-rendimiento-n10280328.html",
+        "image": "https://media.lacapital.com.ar/p/0804965d46597cbdc4c50b8e11c65c57/adjuntos/305/imagenes/030/800/0030800532/1200x675/smart/whatsapp-image-2021-11-30-at-152455jpeg.jpeg",
+        "summary": "Con buenas condiciones hídricas para el inicio de la campaña, pero con suelos que muestran un progresivo empobrecimiento nutricional, desde Fertilizar AC destacan la importancia de realizar análisis de suelos y ajustar la fertilización para aprovechar el potencial del cultivo de…",
+        "pubDate": "2026-09-13T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central va por un shock de confianza y Almirón define al arquero",
+        "link": "https://www.lacapital.com.ar/ovacion/central-va-un-shock-confianza-y-almiron-define-al-arquero-n10280757.html",
+        "image": "https://media.lacapital.com.ar/p/7abcad31153bf740994efa6396e8162b/adjuntos/203/imagenes/103/398/0103398657/dossss.jpg",
+        "summary": "El DT analiza si continúa Ledesma o ataja Werner esta tarde ante Tigre, donde Central quiere cortar una racha de cuatro sin ganar",
+        "pubDate": "2026-09-13T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Juegos Suramericanos: primer día de competencia con nutrida presencia de atletas rosarinos",
+        "link": "https://www.lacapital.com.ar/juegos-suramericanos/juegos-suramericanos-primer-dia-competencia-nutrida-presencia-atletas-rosarinos-n10280755.html",
+        "image": "https://media.lacapital.com.ar/p/2276cf22c024de3eaefd60cb3cbe2468/adjuntos/203/imagenes/103/398/0103398545/1200x675/smart/image-45.jpg",
+        "summary": "La actividad en las tres sedes será intensa en el primer día de los Juegos Suramericanos, con una agenda que irá creciendo con el correr de los días hasta el 26 de septiembre",
+        "pubDate": "2026-09-13T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Primera C: Central Córdoba y Argentino se juegan el presente y futuro",
+        "link": "https://www.lacapital.com.ar/ovacion/primera-c-central-cordoba-y-argentino-se-juegan-el-presente-y-futuro-n10280706.html",
+        "image": "https://media.lacapital.com.ar/p/e0181fcf3bb6930c07381cb7f7d4dc79/adjuntos/203/imagenes/103/398/0103398007/1200x675/smart/image-88.png",
+        "summary": "Charrúas y salaítos se enfrentan en una nueva edición del clásico del ascenso rosarino, este domingo a las 15 en el Gabino Sosa y con ambas hinchadas por la Primera C",
+        "pubDate": "2026-09-13T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Marcos Juárez: ¿un nuevo \"kilómetro 0\"?",
+        "link": "https://www.lacapital.com.ar/opinion/marcos-juarez-un-nuevo-kilometro-0-n10280541.html",
+        "image": "https://media.lacapital.com.ar/p/0899dbb1b85a0973d6eee2479a99c6f1/adjuntos/203/imagenes/103/395/0103395773/1200x675/smart/gf.jpg",
+        "summary": "Datos clave del histórico triunfo peronista en la ciudad cordobesa donde años atrás nació Cambiemos",
+        "pubDate": "2026-09-13T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "San Lorenzo sumó 2.240 nuevos árboles a través de distintas acciones de forestación",
+        "link": "https://www.lacapital.com.ar/san-lorenzo-sumo-2240-nuevos-arboles-traves-distintas-acciones-forestacion-n10280727.html",
+        "image": "https://media.lacapital.com.ar/p/7b40dc505248908e50948f1e586ad833/adjuntos/203/imagenes/103/398/0103398196/1200x675/smart/whatsapp-image-2026-09-12-at-190541.jpeg",
+        "summary": "Con entregas a vecinos y trabajos de reforestación en espacios públicos, en los últimos 60 días la ciudad incorporó ejemplares de distintas especies, entre frutales y árboles de sombra",
+        "pubDate": "2026-09-13T09:05:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La marca Rosario y la carrera hacia 2027: la política también busca su medalla",
+        "link": "https://www.lacapital.com.ar/suscriptores/la-marca-rosario-y-la-carrera-2027-la-politica-tambien-busca-su-medalla-n10280734.html",
+        "image": "https://media.lacapital.com.ar/p/031920f09dbfd14d7239051d9c79f4b3/adjuntos/203/imagenes/103/398/0103398355/1200x675/smart/pullaro-javkin-reloj-juegos-suramericanos-web.jpg",
+        "summary": "Los Juegos Suramericanos, otra oportunidad para reconstruir la reputación de la ciudad después de años de violencia. Negociación transversal y la silla vacía de Milei. Una vidriera para Pullaro y Javkin en la previa del año electoral",
+        "pubDate": "2026-09-13T09:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Juegos Suramericanos: Rosario izó la bandera del deporte y empieza a disfrutar de los Juegos",
         "link": "https://www.lacapital.com.ar/juegos-suramericanos/juegos-suramericanos-rosario-izo-la-bandera-del-deporte-y-empieza-disfrutar-los-juegos-n10280753.html",
         "image": "https://media.lacapital.com.ar/p/94549dbeab6161acbda95b0b8b13704f/adjuntos/203/imagenes/103/398/0103398568/l42.jpeg",
@@ -155,123 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/76c27295944a5eb3e026f29ce5ff4638/adjuntos/203/imagenes/103/398/0103398487/1200x675/smart/informaticos.jpg",
         "summary": "Referentes de la Asociación Gremial de Computación (AGC) oficializaron las presencia del sindicato en Santa Fe, durante una reunión con el titular de la central obrera local",
         "pubDate": "2026-09-13T00:35:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Turismo Carretera: primera pole del RUS Med Team de Rosario con Josito Di Palma",
-        "link": "https://www.lacapital.com.ar/ovacion/turismo-carretera-primera-pole-del-rus-med-team-rosario-josito-di-palma-n10280740.html",
-        "image": "https://media.lacapital.com.ar/p/1e04f1e3effc51f66c5959ffc9ac4d21/adjuntos/203/imagenes/103/398/0103398427/1200x675/smart/image-44.jpg",
-        "summary": "La Copa de Oro comenzó San Luis y Josito Di Palma se despachó bajo el agua con el uno para el team de Mauro Medina, que en San Juan celebró su primer triunfo",
-        "pubDate": "2026-09-13T00:26:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Arrancaron los Juegos Suramericanos 2026: calendario, cómo sacar entradas y cómo ver en vivo",
-        "link": "https://www.lacapital.com.ar/juegos-suramericanos/arrancaron-los-juegos-suramericanos-2026-calendario-como-sacar-entradas-y-como-ver-vivo-n10280743.html",
-        "image": "https://media.lacapital.com.ar/p/d799779a5ddd84cb17ebe4250a423696/adjuntos/203/imagenes/103/391/0103391270/js970.jpeg",
-        "summary": "La competencia se disputará desde el 12 al 26 de septiembre, la cual contará con 43 deportes, 60 disciplinas y más de 4.000 atletas de 15 países diferentes",
-        "pubDate": "2026-09-13T00:16:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central informó la causa por la que Marco Ruben no jugará ante Tigre",
-        "link": "https://www.lacapital.com.ar/ovacion/central-informo-la-causa-la-que-marco-ruben-no-jugara-tigre-n10280737.html",
-        "image": "https://media.lacapital.com.ar/p/72e8ff4ce93334a37ee7d4e976b46ba1/adjuntos/203/imagenes/103/398/0103398369/mmm.JPG",
-        "summary": "El referente de Central no está disponible para enfrentar a Tigre por un cuadro de salud que le impide jugar",
-        "pubDate": "2026-09-12T23:36:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El tiempo en Rosario: domingo con mucho frío y un último pulso invernal antes de la primavera",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-domingo-mucho-frio-y-un-ultimo-pulso-invernal-antes-la-primavera-n10280733.html",
-        "image": "https://media.lacapital.com.ar/p/eeb9692319295b597cb3d1fcd49f0a8a/adjuntos/203/imagenes/101/833/0101833517/1200x675/smart/frio03jpg.jpg",
-        "summary": "La temperatura se acercará 0º y el cielo estará mayormente cubierto durante toda la jornada. Con el correr de los días, los termómetros volverán a subir",
-        "pubDate": "2026-09-12T23:08:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Atlético del Rosario no aprovechó el envión y cayó por goleada en la visita a SIC por el Top 14 de la Urba",
-        "link": "https://www.lacapital.com.ar/ovacion/atletico-del-rosario-no-aprovecho-el-envion-y-cayo-goleada-la-visita-sic-el-top-14-la-urba-n10280719.html",
-        "image": "https://media.lacapital.com.ar/p/41f4d7b24750519f9341a68a0e140acf/adjuntos/203/imagenes/103/398/0103398193/1200x675/smart/image-43.jpg",
-        "summary": "Plaza Jewell venía de ganarle a Belgrano en el pasaje Gould con la última patada, pero cayó con contundencia frente a SIC, al que le ganó en la primera rueda.",
-        "pubDate": "2026-09-12T22:55:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Juegos Suramericanos: el CAF aportó financiamiento por 75 millones de dólares",
-        "link": "https://www.lacapital.com.ar/juegos-suramericanos-el-caf-aporto-financiamiento-75-millones-dolares-n10280724.html",
-        "image": "https://media.lacapital.com.ar/p/2c11454772a46b8e8885f95969736028/adjuntos/203/imagenes/103/398/0103398195/1200x675/smart/whatsapp-image-2026-09-12-at-190015.jpeg",
-        "summary": "El Banco de Desarrollo de América Latina y el Caribe acompañó la puesta en marcha del evento, que reúne a más de 4 mil atletas en 43 deportes y 60 disciplinas",
-        "pubDate": "2026-09-12T22:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El gobierno analiza decretar un feriado durante la visita del Papa León XIV: qué fechas se evalúan",
-        "link": "https://www.lacapital.com.ar/informacion-general/el-gobierno-analiza-decretar-un-feriado-la-visita-del-papa-leon-xiv-que-fechas-se-evaluan-n10280714.html",
-        "image": "https://media.lacapital.com.ar/p/f1ee5a0ebb989d0aea7f960458010f3f/adjuntos/203/imagenes/103/398/0103398149/1200x675/smart/milei-papa-leon-xiv.jpg",
-        "summary": "La Casa Rosada coordina con la Iglesia y las jurisdicciones involucradas, Buenos Aires, Córdoba y Luján, los detalles logísticos y de seguridad del viaje",
-        "pubDate": "2026-09-12T22:09:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Jockey Club y Duendes pisaron fuerte y jugarán una de las semifinales del Torneo del Interior",
-        "link": "https://www.lacapital.com.ar/ovacion/jockey-club-y-duendes-pisaron-fuerte-y-jugaran-una-las-semifinales-del-torneo-del-interior-n10280705.html",
-        "image": "https://media.lacapital.com.ar/p/cf94612e48b668473939e03fec06030c/adjuntos/203/imagenes/103/398/0103398079/1200x675/smart/image-42.jpg",
-        "summary": "Jockey Club ganó de local en un duelo del Litoral ante Estudiantes y Duendes obtuvo un triunfo enorme en Tucumán. En 15 días chocan en las Cuatro Hectáreas.",
-        "pubDate": "2026-09-12T21:51:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Newell's sorprende y saca cartas de la manga en los tramos decisivos del Clausura",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-sorprende-y-saca-cartas-la-manga-los-tramos-decisivos-del-clausura-n10280709.html",
-        "image": "https://media.lacapital.com.ar/p/cfcc9dc10782c388c0befcc2b93ae898/adjuntos/203/imagenes/103/398/0103398044/nob-sonora-525.jpg",
-        "summary": "El equipo encuentra reacciones, individuales y colectivas, siempre en los segundos tiempos, que le permiten sumar y mantener la senda positiva en el torneo",
-        "pubDate": "2026-09-12T21:41:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Los Juegos Suramericanos comenzaron con una histórica ceremonia de apertura",
-        "link": "https://www.lacapital.com.ar/juegos-suramericanos/los-juegos-suramericanos-comenzaron-una-historica-ceremonia-apertura-n10280699.html",
-        "image": "https://media.lacapital.com.ar/p/64171c5ebbfdbb04a80d25824d745ef8/adjuntos/203/imagenes/103/398/0103398481/1200x675/smart/suramericanos-apertura.jpeg",
-        "summary": "El esperado evento inaugural ya está en pleno desarrollo sobre el gran escenario del Monumento a la Bandera",
-        "pubDate": "2026-09-12T21:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Bullrich, preocupada por la \"velocidad\" de la recuperación económica",
-        "link": "https://www.lacapital.com.ar/politica/bullrich-preocupada-la-velocidad-la-recuperacion-economica-n10280697.html",
-        "image": "https://media.lacapital.com.ar/p/5510b00e6ee40f7eaca1efb34bd85522/adjuntos/203/imagenes/103/397/0103397757/1200x675/smart/patricia-bullrich-conferencia-prensa-rosario-web.png",
-        "summary": "La jefa del bloque oficialista en el Senado planteó su inquietud por los beneficios del Rigi y propuso “bajar impuestos para todos”",
-        "pubDate": "2026-09-12T20:50:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Primera C: Leones FC se trajo un buen punto desde Tapiales y quedó cerca de clasificar al Reducido",
-        "link": "https://www.lacapital.com.ar/ovacion/primera-c-leones-fc-se-trajo-un-buen-punto-tapiales-y-quedo-cerca-clasificar-al-reducido-n10280678.html",
-        "image": "https://media.lacapital.com.ar/p/1ea8b920c7e31539ea9f8dfc03c2af4c/adjuntos/203/imagenes/103/397/0103397601/1200x675/smart/image-87.png",
-        "summary": "El elenco de Alvear hizo un aceptable encuentro y empató ante Lugano sin goles, en el marco de la 28ª fecha. Quedó tercero en la Zona B de la Primera C",
-        "pubDate": "2026-09-12T20:22:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central: Almirón analiza cambiar el arquero y un referente no concentra para ir a Victoria",
-        "link": "https://www.lacapital.com.ar/ovacion/central-almiron-analiza-cambiar-el-arquero-y-un-referente-no-concentra-ir-victoria-n10280691.html",
-        "image": "https://media.lacapital.com.ar/p/add534d4130d40ad60d495980124452b/adjuntos/203/imagenes/103/397/0103397745/arquero.jpg",
-        "summary": "Central visitará el domingo a Tigre. La duda principal está bajo los tres palos, entre la continuidad de Ledesma o el ingreso de Axel Werner",
-        "pubDate": "2026-09-12T20:21:00+00:00",
         "approxTime": false
       }
     ]
