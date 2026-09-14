@@ -1,32 +1,59 @@
 {
-  "generatedAt": "2026-09-14T05:41:05.290503+00:00",
+  "generatedAt": "2026-09-14T11:34:05.836448+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Triple choque en barrio Lourdes: un auto destrozado y otro volcado en Rioja y Pueyrredón",
+        "link": "https://www.rosario3.com/informaciongeneral/triple-choque-en-barrio-lourdes-un-auto-destrozado-y-otro-volcado-en-rioja-y-pueyrredon-20260914-0010.html",
+        "image": "https://www.rosario3.com/__export/1789384748985/sites/rosario3/img/2026/09/14/choque_rioja_y_pueyrredon.jpg_928314580.jpg",
+        "summary": "Este lunes por la mañana tres automovilistas protagonizaron un accidente en la esquina. El impacto fue tan fuerte que uno de los coches terminó dado vuelta, y otro con la trompa totalmente destrozada. Hay un tercer coche que también requiere de ser movido por una grúa, pero no…",
+        "pubDate": "2026-09-14T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Agenda de los XIII Juegos Suramericanos Santa Fe 2026: qué deportes compiten hoy, lunes 14 de septiembre, con horarios en Rosario",
+        "link": "https://www.rosario3.com/deportes/agenda-de-los-xiii-juegos-suramericanos-santa-fe-2026-que-deportes-compiten-hoy-lunes-14-de-septiembre-con-horarios-en-rosario-20260911-0040.html",
+        "image": "https://www.rosario3.com/__export/1789135161567/sites/rosario3/img/2026/09/11/gimnasia.jpg_928314580.jpg",
+        "summary": "El cronograma completo de las actividades que se realizarán en Rosario y cuáles otorgarán medallas",
+        "pubDate": "2026-09-11T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Claves del día: Milei prepara el Presupuesto, el dólar recalcula y los bancos pelean por los fondos para despidos | Ecos365",
+        "link": "https://www.rosario3.com/ecos365/noticias/claves-del-dia-milei-prepara-el-presupuesto-el-dolar-recalcula-y-los-bancos-pelean-por-los-fondos-para-despidos-20260914-0001.html",
+        "image": "https://www.rosario3.com/__export/1789379906210/sites/rosario3/img/2026/09/14/claves_del_dxa_14_de_septiembre_de_2026.jpg_446026524.jpg",
+        "summary": "Las últimas noticias de Claves del día: Milei prepara el Presupuesto, el dólar recalcula y los bancos pelean por los fondos para despidos | Ecos365 Información de negocios, economía, agro y emprendimientos de la ciudad de Rosario | Ecos365.com.ar",
+        "pubDate": "2026-09-14T11:58:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "El clima en Rosario: arranque de semana frío, pero con sol",
+        "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-arranque-de-semana-frio-pero-con-sol-20260914-0001.html",
+        "image": "https://www.rosario3.com/__export/1789377444418/sites/rosario3/img/2026/07/14/belgranosol.jpg_928314581.jpg",
+        "summary": "La ciudad amaneció con abrigo obligatorio tras el paso del aire frío del fin de semana. El Servicio Meteorológico Nacional prevé un lunes estable, con sol entre nubes y una máxima de 16 grados, dando paso a una semana de paulatino calentamiento",
+        "pubDate": "2026-09-14T11:57:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "La UNR encara otra semana de protestas y define más medidas antes de la marcha federal",
         "link": "https://www.rosario3.com/informaciongeneral/la-unr-encara-otra-semana-de-protestas-y-define-mas-medidas-antes-de-la-marcha-federal-20260913-0038.html",
         "image": "https://www.rosario3.com/__export/1789347942460/sites/rosario3/img/2026/09/13/coad.jpg_2106848869.jpg",
         "summary": "Los docentes nucleados en Coad iniciarán el martes una consulta presencial en todas las facultades para votar el alcance de las medidas de fuerza. El frente sindical suma clases públicas y apunta a la movilización nacional de octubre",
-        "pubDate": "2026-09-13T12:00:00+00:00",
+        "pubDate": "2026-09-13T11:56:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Primeras medallas para Argentina en los Juegos Suramericanos: oros en esgrima, natación y un rosarino de bronce",
+        "title": "Argentina logró 11 medallas en el primer día de los Juegos Suramericanos: oros en esgrima, natación y un rosarino de bronce",
         "link": "https://www.rosario3.com/deportes/primeras-medallas-de-oro-para-argentina-en-los-suramericanos-pascual-di-tella-en-esgrima-y-macarena-ceballos-y-cecilia-dieleke-en-natacion-20260913-0034.html",
         "image": "https://www.rosario3.com/__export/1789340429801/sites/rosario3/img/2026/09/13/medallas_de_oro.jpg_506286608.jpg",
         "summary": "El esgrimista Pascual Di Tella ganó en sable individual masculino en la final disputada en el estadio Salvador Bonilla de Provincial. La ríocuartense Macarena Ceballos se quedó con la prueba de 100M pecho y compartió el podio con Martina Barbeito, quien finalizó segunda. Además…",
-        "pubDate": "2026-09-13T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Central lo destrabó con un penal de Di María, volvió a ganar ante Tigre y se acomoda",
-        "link": "https://www.rosario3.com/deportes/rosario-central-visita-a-tigre-con-la-idea-de-dejar-atras-la-racha-sin-triunfos-y-volver-a-pelear-en-el-clausura-20260912-0031.html",
-        "image": "https://www.rosario3.com/__export/1789329549412/sites/rosario3/img/2026/09/13/central_tigre.jpg_506286608.jpg",
-        "summary": "Se impuso 1-0 este domingo en Victoria por la fecha 9 del Clausura luego de tres partidos sin triunfos. El resultado se abrió con el grito de Fideo en el segundo tiempo, tras un penal que le hicieron a Jaminton Campaz. El equipo de Jorge Almirón terminó con diez por la expulsión…",
-        "pubDate": "2026-09-12T11:58:00+00:00",
+        "pubDate": "2026-09-13T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -35,7 +62,7 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/run-run-los-muchos-padres-del-narco-puerto-de-rosario-y-la-refundacion-de-fiscalia-20260913-0019.html",
         "image": "https://www.rosario3.com/__export/1789315247754/sites/rosario3/img/2022/11/01/puerto.jfif_1156340376.jfif",
         "summary": "Además: la vuelta del crédito hipotecario activa el reclamo de desarrolladores a la Provincia para que apure las habilitaciones, las facturas que deja de pagar las ART le empiezan a llegar a los empresarios y el nuevo dicho del cordón industrial: “más sola que la jueza laboral…",
-        "pubDate": "2026-09-13T11:57:00+00:00",
+        "pubDate": "2026-09-13T11:54:00+00:00",
         "approxTime": true
       },
       {
@@ -44,52 +71,7 @@
         "link": "https://www.rosario3.com/deportes/el-debut-sonado-color-emocion-y-triunfos-en-el-primer-dia-de-los-juegos-suramericanos-santa-fe-2026-20260913-0028.html",
         "image": "https://www.rosario3.com/__export/1789333349677/sites/rosario3/img/2026/09/13/dia1.jpg_928314580.jpg",
         "summary": "El inicio de los XIII Juegos Suramericanos en la ciudad combinó triunfos albicelestes en beach voley, tribunas repletas en gimnasia artística y una fiesta popular a pleno sol en el Parque Independencia",
-        "pubDate": "2026-09-13T11:56:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Di María tras el triunfo y las críticas: \"Es más lo que se habla que lo que realmente pasa\"",
-        "link": "https://www.rosario3.com/deportes/di-maria-tras-el-triunfo-y-las-criticas-es-mas-lo-que-se-habla-que-lo-que-realmente-pasa-20260913-0029.html",
-        "image": "https://www.rosario3.com/__export/1789333532556/sites/rosario3/img/2026/09/13/penal_di_maria.jpg_506286608.jpg",
-        "summary": "El capitán canalla sostuvo que fueron superiores y merecieron la victoria ante Tigre, remarcó la banca de los hinchas pese a la irregularidad del equipo y anticipó los partidos clave que se le vienen en la temporada",
-        "pubDate": "2026-09-13T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Seguimiento individual canalla: el altruista Copetti y Ávila, las figuras",
-        "link": "https://www.rosario3.com/deportes/seguimiento-individual-canalla-el-altruista-copetti-y-avila-las-figuras-20260913-0027.html",
-        "image": "https://www.rosario3.com/__export/1789330945404/sites/rosario3/img/2026/09/13/central_tigre_-1-.jpg_506286608.jpg",
-        "summary": "El rendimiento de los jugadores de Central que vencieron a Tigre este domingo en Victoria por la fecha 9 del torneo Clausura",
-        "pubDate": "2026-09-13T11:54:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "¿Puede el peronismo poner en jaque la reelección de Pullaro?",
-        "link": "https://www.rosario3.com/opinion/puede-el-peronismo-poner-en-jaque-la-reeleccion-de-pullaro-20260912-0028.html",
-        "image": "https://www.rosario3.com/__export/1789262724384/sites/rosario3/img/2026/09/12/pullarojuegos.jpg_982625323.jpg",
-        "summary": "Unidos llega con ventaja al año electoral, mientras un fragmentado PJ santafesino intenta ordenar sus tribus y La Libertad Avanza se enfoca en la reelección de Milei. El gobernador apuesta a convertir los Juegos Suramericanos en la marca simbólica del fin de la etapa de…",
-        "pubDate": "2026-09-12T11:53:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Año electoral en marcha: joven intendente, ingeniero agrónomo y admirador del modelo Funes",
-        "link": "https://www.rosario3.com/politica/ano-electoral-en-marcha-joven-intendente-ingeniero-agronomo-y-admirador-del-modelo-funes-20260910-0044.html",
-        "image": "https://www.rosario3.com/__export/1789139701489/sites/rosario3/img/2026/09/11/1.jpg_928314581.jpg",
-        "summary": "Es Germán Font, quien se impuso en Marcos Juárez donde hace 12 años empezó Juntos por el Cambio. Esta vez ganó una alianza local con el peronismo adentro. El flamante alcalde destacó la gestión de Roly Santacroce en materia de seguridad y producción. Dijo que las gestiones…",
-        "pubDate": "2026-09-10T11:52:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "“Sin periodismo todo sería peor”: los nuevos ataques al oficio, la inteligencia artificial y el regreso a las fuentes",
-        "link": "https://www.rosario3.com/informaciongeneral/sin-periodismo-todo-seria-peor-los-nuevos-ataques-al-oficio-la-inteligencia-artificial-y-el-regreso-a-las-fuentes-20260913-0012.html",
-        "image": "https://www.rosario3.com/__export/1789309316651/sites/rosario3/img/2026/09/13/itp_personal_belzunce.jpg_1768679313.jpg",
-        "summary": "Fernando Belzunce, director editorial del Grupo Vocento de España, estuvo en Rosario para reflexionar sobre los desafíos que enfrenta el periodismo ante la polarización, los ataques desde el poder y el avance de la inteligencia artificial. Defendió el uso de las nuevas…",
-        "pubDate": "2026-09-13T11:51:00+00:00",
+        "pubDate": "2026-09-13T11:53:00+00:00",
         "approxTime": true
       },
       {
@@ -98,7 +80,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/el-deporte-como-refugio-e-identidad-rosario-encendio-la-llama-de-los-juegos-suramericanos-santa-fe-2026-20260912-0030.html",
         "image": "https://www.rosario3.com/__export/1789265590411/sites/rosario3/img/2026/09/12/dsc06303.jpg_928314580.jpg",
         "summary": "Una multitud se reunió este sábado en el Monumento a la Bandera. Una ceremonia atravesada por la música, la cultura y las grandes figuras. El show ofreció una idea que atraviesa la historia de la provincia y de la ciudad: el deporte como espacio de encuentro, transformación y…",
-        "pubDate": "2026-09-12T11:50:00+00:00",
+        "pubDate": "2026-09-12T11:52:00+00:00",
         "approxTime": true
       },
       {
@@ -107,7 +89,7 @@
         "link": "https://www.rosario3.com/deportes/sedes-dias-y-horarios-para-alentar-a-la-celeste-y-blanca-cuando-compiten-los-deportistas-argentinos-en-los-juegos-suramericanos-20260911-0015.html",
         "image": "https://www.rosario3.com/__export/1789125870538/sites/rosario3/img/2026/09/11/image_-69-.jpg_1825222445.jpg",
         "summary": "La delegación nacional ya está preparada para hacer su estreno en las distintas disciplinas de Santa Fe 2026. En la web oficial se puede conocer toda la información y cómo acceder a una competencia determinada o gestionar el ingreso a los Fan Fest. Además, hay una app Santa Fe…",
-        "pubDate": "2026-09-11T11:49:00+00:00",
+        "pubDate": "2026-09-11T11:51:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +98,7 @@
         "link": "https://www.rosario3.com/deportes/de-la-paz-1978-a-santa-fe-2026-que-son-los-juegos-suramericanos-y-que-importancia-tienen-en-el-ciclo-olimpico-20260911-0018.html",
         "image": "https://www.rosario3.com/__export/1789128629019/sites/rosario3/img/2026/09/11/juegos_-1-.jpg_928314580.jpg",
         "summary": "Qué peso tienen en el camino hacia los Juegos Olímpicos, cómo se comparan con los Panamericanos y los datos clave para entender por qué Rosario vuelve a estar en el centro de la escena deportiva continental",
-        "pubDate": "2026-09-11T11:48:00+00:00",
+        "pubDate": "2026-09-11T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -125,7 +107,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/todos-los-shows-de-los-juegos-suramericanos-en-rosario-artistas-escenarios-fan-fest-entradas-y-como-conseguir-el-qr-20260911-0004.html",
         "image": "https://www.rosario3.com/__export/1789122834890/sites/rosario3/img/2026/09/11/collage_artistas_juegos.jpg_1783880222.jpg",
         "summary": "Los Juegos Suramericanos tendrán dos Fan Fest en Rosario, tres escenarios y actividades durante dos semanas. Qué es gratis, cuándo hace falta QR y cómo funcionan las entradas de 10 mil pesos para las competencias",
-        "pubDate": "2026-09-11T11:47:00+00:00",
+        "pubDate": "2026-09-11T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -134,146 +116,28 @@
         "link": "https://www.rosario3.com/deportes/uno-por-uno-quienes-son-los-rosarinos-que-participaran-de-los-juegos-suramericanos-2026-20260909-0044.html",
         "image": "https://www.rosario3.com/__export/1788972021639/sites/rosario3/img/2026/09/09/deportitas-rosarinos.jpg_928314580.jpg",
         "summary": "Habrá 48 deportistas locales que integrarán la delegación argentina en 19 deportes diferentes. Los atletas competirán tanto en la ciudad como en la capital provincial",
-        "pubDate": "2026-09-09T11:46:00+00:00",
+        "pubDate": "2026-09-09T11:48:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Juegos Suramericanos 2026 en Rosario: calendario, sedes, entradas, Fan Fest y dónde verlos en vivo",
+        "link": "https://www.rosario3.com/deportes/juegos-suramericanos-2026-en-rosario-calendario-sedes-entradas-fan-fest-y-donde-verlos-en-vivo-20260907-0023.html",
+        "image": "https://www.rosario3.com/__export/1788787406014/sites/rosario3/img/2026/08/25/marisol_tozzi.jpg_506286608.jpg",
+        "summary": "Los XIII Juegos Suramericanos Santa Fe 2026 se disputarán del 12 al 26 de septiembre y tendrán a Rosario como principal centro de actividad. Más de 4.000 atletas de 15 países competirán en 43 deportes y 60 disciplinas. Cuándo es la apertura, cómo conseguir entradas, qué deportes…",
+        "pubDate": "2026-09-07T11:47:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Tragedia en Indonesia: al menos seis muertos y 129 desaparecidos tras el naufragio de un barco",
+        "link": "https://www.rosario3.com/informaciongeneral/tragedia-en-indonesia-al-menos-seis-muertos-y-129-desaparecidos-tras-el-naufragio-de-un-barco-20260914-0005.html",
+        "image": "https://www.rosario3.com/__export/1789381519610/sites/rosario3/img/2026/09/14/indonesia.jpg_928314580.jpg",
+        "summary": "La embarcación transportaba a 243 personas cuando naufragó en el mar de Java, según informaron las autoridades indonesias",
+        "pubDate": "2026-09-14T11:46:00+00:00",
         "approxTime": true
       }
     ],
-    "lacapital": [
-      {
-        "source": "La Capital",
-        "title": "Con sólo $100.000 ya se puede reservar la Yamaha  Crypton Finn",
-        "link": "https://www.lacapital.com.ar/novedades/con-solo-100000-ya-se-puede-reservar-la-yamaha-crypton-finn-n10280579.html",
-        "image": "https://media.lacapital.com.ar/p/e84a13a3368e977d252df90bb5352161/adjuntos/203/imagenes/103/396/0103396286/1200x675/smart/vertical_crypton-finn.jpg",
-        "summary": "La preventa se abre en toda la red de concesionarios oficiales del país. Las primeras 1.200 unidades señadas durante septiembre incluyen el primer servicio de mantenimiento sin cargo, y las entregas comienzan en octubre.",
-        "pubDate": "2026-09-14T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El tiempo en Rosario: lunes con nubosidad variable y temperatura en ascenso",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-lunes-nubosidad-variable-y-temperatura-ascenso-n10280892.html",
-        "image": "https://media.lacapital.com.ar/p/f3665bb83ee749724a11d37f87ba008b/adjuntos/203/imagenes/103/400/0103400624/2026-09-13-clima-by-vbenedetto-81069202.jpg",
-        "summary": "La máxima llegaría a 16º y subiría paulatinamente los próximos días hasta llegar a 26º el fin de semana",
-        "pubDate": "2026-09-14T02:32:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El gobierno de Turquía endurece la represión contra grupos LGBT",
-        "link": "https://www.lacapital.com.ar/el-gobierno-turquia-endurece-la-represion-contra-grupos-lgbt-n10280891.html",
-        "image": "https://media.lacapital.com.ar/p/c4e554e700fb7bcfbcdbd0f6a60b6b51/adjuntos/203/imagenes/103/400/0103400581/2026-09-13-estambul-lgbt-82666211.jpg",
-        "summary": "Denunciaron \"una operación política\" y cargos falsos. Las autoridades afirmaron que protegen \"a los niños, la institución de la familia y el orden público\"",
-        "pubDate": "2026-09-14T02:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Paulo Killer: \"Soñaba con hacer un gol en el clásico y darle el triunfo a Central Córdoba",
-        "link": "https://www.lacapital.com.ar/ovacion/paulo-killer-sonaba-hacer-un-gol-el-clasico-y-darle-el-triunfo-central-cordoba-n10280870.html",
-        "image": "https://media.lacapital.com.ar/p/3e29766c8d9ec97e40a9289f19a45b44/adjuntos/203/imagenes/103/400/0103400358/1200x675/smart/image-89.png",
-        "summary": "Central Córdoba se quedó con el derbi del ascenso ante Argentino y los protagonistas del ganador dialogaron con Ovación. Paulo Killer fue figura",
-        "pubDate": "2026-09-14T01:23:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Primera C: Central Córdoba goleó a Argentino y celebró en el clásico del ascenso",
-        "link": "https://www.lacapital.com.ar/ovacion/primera-c-central-cordoba-goleo-argentino-y-celebro-el-clasico-del-ascenso-n10280883.html",
-        "image": "https://media.lacapital.com.ar/p/44f2d0cfddea60dc0a0675ed73850527/adjuntos/203/imagenes/103/400/0103400503/1200x675/smart/image-90.png",
-        "summary": "Los charrúas se impusieron 3 a 0 en el Gabino Sosa y se afirman en el Reducido, mientras que los salaítos sufren en el fondo de la tabla de la Primera C",
-        "pubDate": "2026-09-14T01:22:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Juegos Suramericanos, día 2: todo lo que hay que saber de las competencias en Rosario y Santa Fe",
-        "link": "https://www.lacapital.com.ar/juegos-suramericanos/juegos-suramericanos-dia-2-todo-lo-que-hay-que-saber-las-competencias-rosario-y-santa-fe-n10280886.html",
-        "image": "https://media.lacapital.com.ar/p/c259efe642e3e8392783d511c39c69ce/adjuntos/203/imagenes/103/400/0103400480/1200x675/smart/image-65.jpg",
-        "summary": "Al igual que la primera jornada, el segundo día de los Juegos Suramericanos promete mucha adrenalina en los distintos escenarios y con rosarinos compitiendo",
-        "pubDate": "2026-09-14T01:20:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Con un gol mal cobrado, Manchester City se quedó con el derbi",
-        "link": "https://www.lacapital.com.ar/ovacion/con-un-gol-mal-cobrado-manchester-city-se-quedo-el-derbi-n10280885.html",
-        "image": "https://media.lacapital.com.ar/p/54b41d06c5c913440d3bd873750b03fe/adjuntos/203/imagenes/103/400/0103400514/2026-09-13-manchester-82667604.jpg",
-        "summary": "Ya con el resultado consumado, el organismo rector de los árbitros de la Liga Premier admitió que Enzo Fernández estaba adelantado y reconoció un “error de juicio”",
-        "pubDate": "2026-09-14T01:13:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El primer día de los Juegos Suramericanos: medallas de oro, plata y bronce para Argentina",
-        "link": "https://www.lacapital.com.ar/juegos-suramericanos/el-primer-dia-los-juegos-suramericanos-medallas-oro-plata-y-bronce-argentina-n10280884.html",
-        "image": "https://media.lacapital.com.ar/p/278286010b5832648f19ffa0269f03a5/adjuntos/203/imagenes/103/400/0103400479/1200x675/smart/image-64.jpg",
-        "summary": "En el primer día Argentina sumó tres oros con Pascual Di Tella (esgrima), Ceballos y Dieleke (natación). Y la primera rosarina fue de Alfieri (gimnasia)",
-        "pubDate": "2026-09-14T00:56:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El Quini 6 quedó vacante y el pozo del próximo miércoles será de $15.250.000.000",
-        "link": "https://www.lacapital.com.ar/informacion-general/el-quini-6-quedo-vacante-y-el-pozo-del-proximo-miercoles-sera-15250000000-n10280872.html",
-        "image": "https://media.lacapital.com.ar/p/e38ff322db03a26f1da53018f2f31d38/adjuntos/203/imagenes/103/400/0103400345/2026-09-13-quini-6.jpg",
-        "summary": "Tres de los 24 ganadores del Siempre Sale hicieron sus apuestas en la provincia de Santa Fe. Cada uno cobrará algo más de 20 millones de pesos",
-        "pubDate": "2026-09-14T00:32:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "En medio de las predicciones apocalípticas, Trump no quiere controlar las IA",
-        "link": "https://www.lacapital.com.ar/informacion-general/en-medio-las-predicciones-apocalipticas-trump-no-quiere-controlar-las-ia-n10280861.html",
-        "image": "https://media.lacapital.com.ar/p/c5ec3942bd42828dd0a7195b4dc889c1/adjuntos/203/imagenes/103/400/0103400265/2026-09-13-trump-82662632.jpg",
-        "summary": "El mandatario estadounidense afirmó que se dicen \"cosas que no van a suceder\" y sostuvo que detener los avances de la inteligencia artificial sería ceder la ventaja a China",
-        "pubDate": "2026-09-13T23:41:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La Casa Rosada envía el presupuesto a Diputados y activa las negociaciones",
-        "link": "https://www.lacapital.com.ar/politica/la-casa-rosada-envia-el-presupuesto-diputados-y-activa-las-negociaciones-n10280894.html",
-        "image": "https://media.lacapital.com.ar/p/67bd2f048644122a937050b4898b8e67/adjuntos/203/imagenes/103/400/0103400648/2026-09-13-milei-82459417.jpg",
-        "summary": "La campaña electoral en ciernes podría complicar las tratativas del oficialismo con los gobernadores y los bloques dialoguistas",
-        "pubDate": "2026-09-13T23:25:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La primera medalla rosarina en los Juegos Suramericanos llegó del lado de la gimnasia artística",
-        "link": "https://www.lacapital.com.ar/juegos-suramericanos/la-primera-medalla-rosarina-los-juegos-suramericanos-llego-del-lado-la-gimnasia-artistica-n10280860.html",
-        "image": "https://media.lacapital.com.ar/p/0086251e2809e70cf073ba6de000dc20/adjuntos/203/imagenes/103/400/0103400334/1200x675/smart/image-62.jpg",
-        "summary": "Luca Alfieri consiguió el tercer puesto en gimnasia por equipos, en una de las varias medallas conseguidas por la selección argentina en los Juegos Suramericanos",
-        "pubDate": "2026-09-13T23:13:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Arrancó en Rosario el Fan Fest de los Juegos Suramericanos ante una multitud",
-        "link": "https://www.lacapital.com.ar/juegos-suramericanos/arranco-rosario-el-fan-fest-los-juegos-suramericanos-una-multitud-n10280822.html",
-        "image": "https://media.lacapital.com.ar/p/87709464fce0245a2df1bf8561783255/adjuntos/203/imagenes/103/399/0103399693/1200x675/smart/imagejuegos2.jpg",
-        "summary": "La ciudad tuvo este domingo la mayor convocatoria entre las tres sedes del evento deportivo, con 27 mil pases generados. El Parque Independencia ofreció música, gastronomía, tecnología y actividades gratuitas.",
-        "pubDate": "2026-09-13T22:53:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Almirón: \"El clásico fue un golpe fuerte y Central mostró personalidad con Tigre\"",
-        "link": "https://www.lacapital.com.ar/ovacion/almiron-el-clasico-fue-un-golpe-fuerte-y-central-mostro-personalidad-tigre-n10280854.html",
-        "image": "https://media.lacapital.com.ar/p/bea62a57a5277feb1acc8bb1926765f3/adjuntos/203/imagenes/103/400/0103400154/jjaa3.jpeg",
-        "summary": "Jorge Almirón resaltó la capacidad de asimilar el triunfo que se les escapó ante la Lepra y habló de “un premio a la insistencia, tras el 1-0 sobre Tigre",
-        "pubDate": "2026-09-13T22:45:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Después de 28 años, Sandra Bullock y Nicole Kidman se reúnen con un éxito",
-        "link": "https://www.lacapital.com.ar/zoom/despues-28-anos-sandra-bullock-y-nicole-kidman-se-reunen-un-exito-n10280856.html",
-        "image": "https://media.lacapital.com.ar/p/91028826dcc933e0fc81115c3f8314c4/adjuntos/203/imagenes/103/400/0103400110/2026-09-13-kidman-bullock.jpg",
-        "summary": "\"Hechizo de amor: La magia continúa\" quedó primera en la taquilla estadounidense en el fin de semana de su estreno",
-        "pubDate": "2026-09-13T22:44:00+00:00",
-        "approxTime": false
-      }
-    ]
+    "lacapital": []
   }
 }
