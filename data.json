@@ -1,68 +1,86 @@
 {
-  "generatedAt": "2026-09-14T17:29:28.985566+00:00",
+  "generatedAt": "2026-09-14T21:02:05.013546+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Del exilio forzado al regreso a los negocios: las casas y autos del Colombianito, bajo la lupa por lavado narco",
+        "link": "https://www.rosario3.com/policiales/del-exilio-forzado-al-regreso-a-los-negocios-las-casas-y-autos-del-colombianito-bajo-la-lupa-por-lavado-narco-20260914-0054.html",
+        "image": "https://www.rosario3.com/__export/1789411710836/sites/rosario3/img/2026/02/28/figueroa_acevedo_2026_1.jpeg_672794304.jpeg",
+        "summary": "Víctor Sleyner Acevedo Figueroa, alias Nene o Colombianito, había sido expulsado del país en 2023, pero reingresó de manera ilegal y fue detenido nuevamente en marzo de este año por venta de drogas. Ahora, mientras permanece en prisión preventiva, sumó un nuevo frente judicial…",
+        "pubDate": "2026-09-14T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "A casi 30 años del crimen de dos mochileras, una de ellas santafesina, una nueva sentencia revive el caso",
+        "link": "https://www.rosario3.com/informaciongeneral/a-casi-30-anos-del-crimen-de-dos-mochileras-una-de-ellas-santafesina-una-nueva-sentencia-revive-el-caso-20260914-0045.html",
+        "image": "https://www.rosario3.com/__export/1789405174504/sites/rosario3/img/2026/09/14/irina_mochilera_chaxar_ladeado_-_.png_928314581.png",
+        "summary": "La Justicia de Bahía Blanca confirmó parcialmente una nueva condena contra Eduardo Fermín Eliçabe y extendió la responsabilidad al dueño de la empresa de seguridad para la que trabajaba. Deberán pagar $21.060.000 más intereses si el fallo queda firme",
+        "pubDate": "2026-09-14T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Inflación: más de la mitad de las provincias registró en agosto una suba superior al IPC del Indec",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/inflacion-mas-de-la-mitad-de-las-provincias-registro-en-agosto-una-suba-superior-al-ipc-del-indec-20260914-0050.html",
+        "image": "https://www.rosario3.com/__export/1789411574800/sites/rosario3/img/2026/09/14/supermercado.jpg_1768679257.jpg",
+        "summary": "Aunque el costo de vida nacional marcó su menor ritmo de suba desde junio de 2025, un informe reveló que seis de cada diez provincias con medición propia superaron la cifra oficial. Aumentos en tarifas y educación traccionaron los precios en el interior. Santa Fe es una de las…",
+        "pubDate": "2026-09-14T11:58:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Fernando Contreras, oro histórico para Argentina en Mountain Bike: “Este triunfo es para mi viejo”",
+        "link": "https://www.rosario3.com/deportes/fernando-contreras-oro-historico-para-argentina-en-mountain-bike-este-triunfo-es-para-mi-viejo-20260914-0048.html",
+        "image": "https://www.rosario3.com/__export/1789408358937/sites/rosario3/img/2026/09/14/contreras_oro.png_1478468396.png",
+        "summary": "El mendocino se convirtió en el primer argentino en conquistar esta prueba en la historia de los Juegos Suramericanos y logró la cuarta medalla dorada para el país en Santa Fe. Tras cruzar la meta entre lágrimas, recordó a su padre, fallecido este año",
+        "pubDate": "2026-09-14T11:57:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Lavarropas chinos: la decisión que pone el foco en el futuro de fábrica de Electrolux en Rosario | Ecos365",
+        "link": "https://www.rosario3.com/ecos365/noticias/lavarropas-chinos-la-decision-que-pone-el-foco-en-el-futuro-de-electrolux-en-rosario-20260914-0009.html",
+        "image": "https://www.rosario3.com/__export/1777474280601/sites/rosario3/img/2026/04/29/electrolux_rosario.jpg_577725344.jpg",
+        "summary": "Las últimas noticias de Lavarropas chinos: la decisión que pone el foco en el futuro de fábrica de Electrolux en Rosario | Ecos365 Información de negocios, economía, agro y emprendimientos de la ciudad de Rosario | Ecos365.com.ar",
+        "pubDate": "2026-09-14T11:56:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Cristina Kirchner volvió a cobrar la pensión de Néstor Kirchner: recibió más de $16 millones",
+        "link": "https://www.rosario3.com/politica/cristina-kirchner-volvio-a-cobrar-la-pension-de-nestor-kirchner-recibio-mas-de-16-millones-20260914-0061.html",
+        "image": "https://www.rosario3.com/__export/1789417825712/sites/rosario3/img/2026/09/14/cristina.jpg_1768679257.jpg",
+        "summary": "Ansés liquidó el beneficio correspondiente a agosto por $16.090.877,01 brutos, luego de que la Justicia ordenara restituirlo de manera provisoria",
+        "pubDate": "2026-09-14T11:55:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Malvinas: isleños acusan a Javier Milei de usar el reclamo como distracción",
+        "link": "https://www.rosario3.com/informaciongeneral/malvinas-islenos-acusan-a-javier-milei-de-usar-el-reclamo-como-distraccion-20260914-0055.html",
+        "image": "https://www.rosario3.com/__export/1789414539201/sites/rosario3/img/2026/09/14/malvinas2_efe.jpg_1010838702.jpg",
+        "summary": "En el archipiélago aseguran que la reciente ofensiva contra las petroleras es una maniobra para tapar la situación económica interna. Y califican los anuncios del Gobierno argentino como 'ruido' habitual",
+        "pubDate": "2026-09-14T11:54:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Los Suramericanos los ponen mimosos: tras los elogios de LLA, el pullarismo avisa que vota la suspensión de las Paso",
+        "link": "https://www.rosario3.com/politica/los-suramericanos-los-pone-mimosos-tras-los-elogios-de-lla-el-pullarismo-avisa-que-vota-la-suspension-de-las-paso-20260914-0031.html",
+        "image": "https://www.rosario3.com/__export/1789399132943/sites/rosario3/img/2026/09/14/pullaroscaglia.jpg_982625323.jpg",
+        "summary": "Gisela Scaglia pide ficha limpia a cambio de apoyar el archivo de las primarias, estrategia que el gobierno nacional cree fundamental para garantizar la reelección de Milei. El socialismo no acompaña y cuestiona a sus socios en Unidos. ¿El primer paso de un acuerdo más amplio…",
+        "pubDate": "2026-09-14T11:53:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Apertura de los Juegos Suramericanos:  \"A la gente le cuesta llegar a fin de mes, pero en Santa Fe los invitamos a disfrutar\"",
         "link": "https://www.rosario3.com/informaciongeneral/apertura-de-los-juegos-suramericanos--a-la-gente-le-cuesta-llegar-a-fin-de-mes-pero-en-santa-fe-los-invitamos-a-disfrutar-20260914-0028.html",
         "image": "https://www.rosario3.com/__export/1789395512432/sites/rosario3/img/2026/09/14/pullarojuegos.jpg_928314581.jpg",
         "summary": "El gobernador Maximiliano Pullaro realizó un balance sobre la inauguración y los primeros días de los Juegos Suramericanos en la provincia. Destacó la masiva convocatoria en Rosario, el impacto turístico y la creación de empleo. Además, valoró el acompañamiento de Daniel Scioli…",
-        "pubDate": "2026-09-14T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Los Suramericanos los pone mimosos: tras los elogios de LLA, el pullarismo avisa que vota la suspensión de las Paso",
-        "link": "https://www.rosario3.com/politica/los-suramericanos-los-pone-mimosos-tras-los-elogios-de-lla-el-pullarismo-avisa-que-vota-la-suspension-de-las-paso-20260914-0031.html",
-        "image": "https://www.rosario3.com/__export/1789399132943/sites/rosario3/img/2026/09/14/pullaroscaglia.jpg_982625323.jpg",
-        "summary": "Gisela Scaglia pide ficha limpia a cambio de apoyar el archivo de las primarias, estrategia que el gobierno nacional cree fundamental para garantizar la reelección de Milei. El socialismo no acompaña y cuestiona a sus socios en Unidos. ¿El primer paso de un acuerdo más amplio…",
-        "pubDate": "2026-09-14T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Una anciana fue asesinada a golpes en su casa de barrio Ludueña en ocasión de robo",
-        "link": "https://www.rosario3.com/policiales/una-anciana-fue-asesinada-a-golpes-en-su-casa-de-barrio-luduena-en-ocasion-de-robo-20260914-0040.html",
-        "image": "https://www.rosario3.com/__export/1774952488789/sites/rosario3/img/2025/08/10/patrullero_policia.jpg_1825222445.jpg",
-        "summary": "El cuerpo fue encontrado en la mañana de este lunes en Minetti al 5800. La fiscal afirmó que el domicilio estaba todo revuelto y que la víctima tenía múltiples lesiones y una bolsa de consorcio en la cabeza",
-        "pubDate": "2026-09-14T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "“Tenía una luz propia que a él le molestaba”: el dolor de la familia de Camila, la aspirante rosarina a Gendarmería asesinada en San Juan",
-        "link": "https://www.rosario3.com/informaciongeneral/tenia-una-luz-propia-que-a-el-le-molestaba-el-dolor-de-la-familia-de-camila-la-aspirante-rosarina-a-gendarmeria-asesinada-en-san-juan-20260914-0038.html",
-        "image": "https://www.rosario3.com/__export/1789399819049/sites/rosario3/img/2026/09/14/camila_1.png_786111822.png",
-        "summary": "La joven de 26 años fue encontrada muerta en Barreal, donde finalizaba su formación para ingresar a la fuerza. Sus familiares aseguran que había denunciado situaciones de violencia y cuestionaron que nadie de la institución se haya comunicado con ellos. Ahora piden que el cuerpo…",
-        "pubDate": "2026-09-14T11:57:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Juegos Suramericanos en pesos: millones invertidos, el destino de la recaudación y las becas a atletas santafesinos",
-        "link": "https://www.rosario3.com/informaciongeneral/juegos-suramericanos-en-pesos-millones-invertidos-el-destino-de-la-recaudacion-y-las-becas-a-atletas-santafesinos-20260914-0011.html",
-        "image": "https://www.rosario3.com/__export/1789385970358/sites/rosario3/img/2026/09/14/juegos1.jpg_928314581.jpg",
-        "summary": "El coordinador general del comité de los Juegos Suramericanos, Julián Galdeano, analizó el impacto del evento en Rosario y la provincia de Santa Fe. Detalló que la inversión total rondó los 135 millones de dólares y destacó el acompañamiento de todo el arco político. Además…",
-        "pubDate": "2026-09-14T11:56:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El Senado busca convertir en ley esta semana Inocencia Fiscal y la reforma de la Carta Orgánica del Banco Central",
-        "link": "https://www.rosario3.com/informaciongeneral/el-senado-busca-convertir-en-ley-esta-semana-inocencia-fiscal-y-la-reforma-de-la-carta-organica-del-banco-central-20260914-0022.html",
-        "image": "https://www.rosario3.com/__export/1789391690909/sites/rosario3/img/2026/09/14/15629.jpg_928314580.jpg",
-        "summary": "La Cámara alta prevé sesionar este jueves 17 de septiembre para tratar dos iniciativas impulsadas por el Gobierno de Javier Milei que ya cuentan con dictamen. También podría sumarse la reforma de Biocombustibles",
-        "pubDate": "2026-09-14T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "¿Por qué no afloja el frío?: el ciclo de frentes gélidos que impacta en Rosario a días de la primavera y cuándo termina",
-        "link": "https://www.rosario3.com/informaciongeneral/por-que-no-afloja-el-frio-el-ciclo-de-frentes-gelidos-que-impacta-en-rosario-a-dias-de-la-primavera-y-cuando-termina-20260914-0018.html",
-        "image": "https://www.rosario3.com/__export/1789390548139/sites/rosario3/img/2026/09/14/frio_y_viento_en_rosario_centro_peatonal.jpg_1558489318.jpg",
-        "summary": "El técnico en Meteorología Facundo Azar explicó que las bajas temperaturas y la baja sensación térmica obedecen al ingreso de pulsos fríos “cada unos cinco a siete días” y al viento constante. Sin embargo, adelantó que a mediados de semana las marcas térmicas comenzarán a subir…",
-        "pubDate": "2026-09-14T11:54:00+00:00",
+        "pubDate": "2026-09-14T11:52:00+00:00",
         "approxTime": true
       },
       {
@@ -71,25 +89,16 @@
         "link": "https://www.rosario3.com/deportes/arrollador-debut-de-las-leonas-en-los-juegos-suramericanos-golearon-14-0-a-paraguay-20260914-0041.html",
         "image": "https://www.rosario3.com/__export/1789402958579/sites/rosario3/img/2026/09/14/leonas_-1-.png_786111822.png",
         "summary": "Con carácter, contundencia y efectividad, la Selección argentina se impuso en Santa Fe y comenzó su participación con el pie derecho. Siete de las jugadoras que fueron campeonas del mundo integran el plantel que disputa el certamen",
-        "pubDate": "2026-09-14T11:53:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Juegos Suramericanos: las visitas de las escuelas, una herramienta para acercar a los chicos al deporte",
-        "link": "https://www.rosario3.com/informaciongeneral/juegos-suramericanos-las-visitas-de-las-escuelas-una-herramienta-para-acercar-a-los-chicos-al-deporte-20260914-0020.html",
-        "image": "https://www.rosario3.com/__export/1789390443002/sites/rosario3/img/2026/09/14/whatsapp_image_2026-09-14_at_09-43-54_-1-.jpeg_928314581.jpeg",
-        "summary": "Este lunes comenzaron a llegar al parque Independencia los contingentes de distintos colegios. En total, participarán más de 160 mil alumnos de 3.230 instituciones educativas",
-        "pubDate": "2026-09-14T11:52:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Fotogalería: piruetas y saltos, en la segunda mañana de los Juegos Suramericanos 2026",
-        "link": "https://www.rosario3.com/informaciongeneral/fotogaleria-piruetas-y-saltos-en-la-segunda-manana-de-los-juegos-suramericanos-2026-20260914-0025.html",
-        "image": "https://www.rosario3.com/__export/1789394191057/sites/rosario3/img/2026/09/14/gimnasia_odesur_2026.jpg_982625323.jpg",
-        "summary": "Este lunes siguen las competiciones de los Odesur Santa Fe en los distintos predios de Rosario, Rafaela y Santa Fe. Rosario3 recorrió los estadios Invencible Arena e Invencible Rosario donde los atletas de Gimnasia artística y Patinaje artístico se lucieron desde temprano con…",
         "pubDate": "2026-09-14T11:51:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "El debut soñado: color, emoción y triunfos en el primer día de los Juegos Suramericanos Santa Fe 2026",
+        "link": "https://www.rosario3.com/deportes/el-debut-sonado-color-emocion-y-triunfos-en-el-primer-dia-de-los-juegos-suramericanos-santa-fe-2026-20260913-0028.html",
+        "image": "https://www.rosario3.com/__export/1789333349677/sites/rosario3/img/2026/09/13/dia1.jpg_928314580.jpg",
+        "summary": "El inicio de los XIII Juegos Suramericanos en la ciudad combinó triunfos albicelestes en beach voley, tribunas repletas en gimnasia artística y una fiesta popular a pleno sol en el Parque Independencia",
+        "pubDate": "2026-09-13T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -98,7 +107,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/el-deporte-como-refugio-e-identidad-rosario-encendio-la-llama-de-los-juegos-suramericanos-santa-fe-2026-20260912-0030.html",
         "image": "https://www.rosario3.com/__export/1789265590411/sites/rosario3/img/2026/09/12/dsc06303.jpg_928314580.jpg",
         "summary": "Una multitud se reunió este sábado en el Monumento a la Bandera. Una ceremonia atravesada por la música, la cultura y las grandes figuras. El show ofreció una idea que atraviesa la historia de la provincia y de la ciudad: el deporte como espacio de encuentro, transformación y…",
-        "pubDate": "2026-09-12T11:50:00+00:00",
+        "pubDate": "2026-09-12T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -107,7 +116,7 @@
         "link": "https://www.rosario3.com/deportes/primeras-medallas-de-oro-para-argentina-en-los-suramericanos-pascual-di-tella-en-esgrima-y-macarena-ceballos-y-cecilia-dieleke-en-natacion-20260913-0034.html",
         "image": "https://www.rosario3.com/__export/1789340429801/sites/rosario3/img/2026/09/13/medallas_de_oro.jpg_506286608.jpg",
         "summary": "El esgrimista Pascual Di Tella ganó en sable individual masculino en la final disputada en el estadio Salvador Bonilla de Provincial. La ríocuartense Macarena Ceballos se quedó con la prueba de 100M pecho y compartió el podio con Martina Barbeito, quien finalizó segunda. Además…",
-        "pubDate": "2026-09-13T11:49:00+00:00",
+        "pubDate": "2026-09-13T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +125,7 @@
         "link": "https://www.rosario3.com/opinion/fuimos-felices-la-noche-donde-rosario-cosecho-parte-de-su-nueva-siembra-20260913-0016.html",
         "image": "https://www.rosario3.com/__export/1789313104516/sites/rosario3/img/2026/09/13/inauguracion_suramericanos_-16-.jpg_1947460442.jpg",
         "summary": "Cómo hacer una descripción política sobre el rol de estado para transformar el miedo en esperanza sin caer en excesos. Más allá de banderías y trincheras, el evento de anoche fue también un acto de resistencia",
-        "pubDate": "2026-09-13T11:48:00+00:00",
+        "pubDate": "2026-09-13T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,15 +134,6 @@
         "link": "https://www.rosario3.com/deportes/sedes-dias-y-horarios-para-alentar-a-la-celeste-y-blanca-cuando-compiten-los-deportistas-argentinos-en-los-juegos-suramericanos-20260911-0015.html",
         "image": "https://www.rosario3.com/__export/1789125870538/sites/rosario3/img/2026/09/11/image_-69-.jpg_1825222445.jpg",
         "summary": "La delegación nacional ya está preparada para hacer su estreno en las distintas disciplinas de Santa Fe 2026. En la web oficial se puede conocer toda la información y cómo acceder a una competencia determinada o gestionar el ingreso a los Fan Fest. Además, hay una app Santa Fe…",
-        "pubDate": "2026-09-11T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Todos los shows de los Juegos Suramericanos en Rosario: artistas, escenarios, Fan Fest, entradas y cómo conseguir el QR",
-        "link": "https://www.rosario3.com/informaciongeneral/todos-los-shows-de-los-juegos-suramericanos-en-rosario-artistas-escenarios-fan-fest-entradas-y-como-conseguir-el-qr-20260911-0004.html",
-        "image": "https://www.rosario3.com/__export/1789122834890/sites/rosario3/img/2026/09/11/collage_artistas_juegos.jpg_1783880222.jpg",
-        "summary": "Los Juegos Suramericanos tendrán dos Fan Fest en Rosario, tres escenarios y actividades durante dos semanas. Qué es gratis, cuándo hace falta QR y cómo funcionan las entradas de 10 mil pesos para las competencias",
         "pubDate": "2026-09-11T11:46:00+00:00",
         "approxTime": true
       }
@@ -141,137 +141,137 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "El ciclista que logró el cuarto oro argentino en los Suramericanos rompió en llanto: \"Es para mi papá\"",
-        "link": "https://www.lacapital.com.ar/juegos-suramericanos/el-ciclista-que-logro-el-cuarto-oro-argentino-los-suramericanos-rompio-llanto-es-mi-papa-n10280991.html",
-        "image": "https://media.lacapital.com.ar/p/9fe39bf5e3b2c9b4015e91b72dac9e77/adjuntos/203/imagenes/103/401/0103401420/1200x675/smart/ciclismo-contreras-149-1.jpg",
-        "summary": "El mendocino compitió en Cross-Country en el Autódromo de Rafaela y tras cruzar la meta no pudo contener la emoción. Le dedicó la presea a su padre, fallecido este año",
-        "pubDate": "2026-09-14T17:19:00+00:00",
+        "title": "Cómo hacer pancakes: receta ideal para el desayuno",
+        "link": "https://www.lacapital.com.ar/informacion-general/como-hacer-pancakes-receta-ideal-el-desayuno-n10281032.html",
+        "image": "https://media.lacapital.com.ar/p/efa1a7a25d0b522c164445635996cd8d/adjuntos/203/imagenes/103/401/0103401962/1200x675/smart/image-12.png",
+        "summary": "Los pancakes o tortitas americanas son una de las opciones más simples y versátiles para sumar al desayuno. Receta simple y trucos para que salgan exquisitos",
+        "pubDate": "2026-09-14T20:32:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Villa Constitución reunió a emprendedores y productores de toda la región",
-        "link": "https://www.lacapital.com.ar/la-region/villa-constitucion-reunio-emprendedores-y-productores-toda-la-region-n10280971.html",
-        "image": "https://media.lacapital.com.ar/p/de71d369c6b63d02f4721e6e1c392c99/adjuntos/203/imagenes/103/401/0103401180/1200x675/smart/vconstitucion-emprendedores-1.jpeg",
-        "summary": "La ciudad fue sede del Primer Encuentro de Emprendedores Productivos del Sur de Santa Fe, una propuesta que convocó a participantes de distintas localidades y ofreció feria, capacitaciones y espacios de intercambio",
-        "pubDate": "2026-09-14T17:00:00+00:00",
+        "title": "Las rosarinas Morena Abdala y Agostina Ghigliazza perdieron pero están en cuartos del voleibol de playa",
+        "link": "https://www.lacapital.com.ar/juegos-suramericanos/las-rosarinas-morena-abdala-y-agostina-ghigliazza-perdieron-pero-estan-cuartos-del-voleibol-playa-n10281033.html",
+        "image": "https://media.lacapital.com.ar/p/a42b285c4aff25499fa46ec0927a3939/adjuntos/203/imagenes/103/401/0103401961/1200x675/smart/image-4.jpg",
+        "summary": "El triunfo del domingo les aseguró el pase a cuartos de final en el voleibol de playa de los Juegos Suramericanos, este miércoles ante dupla brasileña",
+        "pubDate": "2026-09-14T20:32:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Furor por Capi en los Juegos Suramericanos: el peluche se agotó y hubo que reponer stock",
-        "link": "https://www.lacapital.com.ar/la-ciudad/furor-capi-los-juegos-suramericanos-el-peluche-se-agoto-y-hubo-que-reponer-stock-n10280951.html",
-        "image": "https://media.lacapital.com.ar/p/33039e427a8f33d034f8342128686673/adjuntos/203/imagenes/103/401/0103401124/1200x675/smart/capi-peluche-2.png",
-        "summary": "El peluche de Capi se convirtió en uno de los recuerdos más buscados a pocos días del inicio de los Juegos. Hasta Pullaro destacó el fenómeno",
-        "pubDate": "2026-09-14T16:54:00+00:00",
+        "title": "Qué se sabe del crimen de la mujer de 86 años hallada con una bolsa en la cabeza en barrio Ludueña",
+        "link": "https://www.lacapital.com.ar/policiales/que-se-sabe-del-crimen-la-mujer-86-anos-hallada-una-bolsa-la-cabeza-barrio-luduena-n10281034.html",
+        "image": "https://media.lacapital.com.ar/p/2ecc4a2acc131c5966185c97b5a217a0/adjuntos/203/imagenes/103/097/0103097861/1200x675/smart/carla-ranciardi.jpg",
+        "summary": "Clorinda Medina vivía sola y fue encontrada por una sobrina que había viajado casi 500 kilómetros para acompañarla al médico. La casa estaba revuelta, la víctima presentaba golpes y la Fiscalía investiga si la mataron durante un robo.",
+        "pubDate": "2026-09-14T20:25:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Milei y el peronismo frente a las elecciones presidenciales de 2027: qué reveló una nueva encuesta",
-        "link": "https://www.lacapital.com.ar/politica/milei-y-el-peronismo-frente-las-elecciones-presidenciales-2027-que-revelo-una-nueva-encuesta-n10280990.html",
-        "image": "https://media.lacapital.com.ar/p/64314ca4d8a977db307665697e3cea27/adjuntos/203/imagenes/103/401/0103401397/1200x675/smart/imageurnas.jpg",
-        "summary": "La consultora Analogías caracterizó el escenario electoral nacional como de una “polarización sucia” y también indagó sobre el posicionamiento político de los entrevistados.",
-        "pubDate": "2026-09-14T16:53:00+00:00",
+        "title": "El lado B: cómo impacta la competición en la economía de Rosario",
+        "link": "https://www.lacapital.com.ar/juegos-suramericanos/el-lado-b-como-impacta-la-competicion-la-economia-rosario-n10280970.html",
+        "image": "https://media.lacapital.com.ar/p/e7a866c63b36ed620513c74f2ef2c6aa/adjuntos/203/imagenes/103/401/0103401168/1200x675/smart/gente-juegos-suramericanos.jpg",
+        "summary": "El gobierno de Santa Fe quiere que los Juegos Suramericanos sean un motor para que se movilice la actividad ahora y en el futuro. Infraestructura, la clave",
+        "pubDate": "2026-09-14T20:06:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Bono de $70 mil de Anses: cómo funciona en septiembre",
-        "link": "https://www.lacapital.com.ar/informacion-general/bono-70-mil-anses-como-funciona-septiembre-n10280978.html",
-        "image": "https://media.lacapital.com.ar/p/2c6cb69e78398486205eeed94fd72cf9/adjuntos/203/imagenes/102/621/0102621116/1200x675/smart/anses-prestamo.webp",
-        "summary": "El refuerzo extraordinario está destinado a distintos grupos de beneficiarios y se cobra junto con los haberes de cada mes",
-        "pubDate": "2026-09-14T16:40:00+00:00",
+        "title": "El rosarino Donato Mastroianni se lució en el primer día de patinaje artístico",
+        "link": "https://www.lacapital.com.ar/juegos-suramericanos/el-rosarino-donato-mastroianni-se-lucio-el-primer-dia-patinaje-artistico-n10281021.html",
+        "image": "https://media.lacapital.com.ar/p/cb959524f5cbd85ad7280c522bc41fe6/adjuntos/203/imagenes/103/401/0103401957/1200x675/smart/image-3.jpg",
+        "summary": "La acción del patinaje artístico empezó en los Juegos Suramericanos y Donato Mastroainni finalizó tercero en la primera modalidad. Este miércoles, a escena",
+        "pubDate": "2026-09-14T20:02:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Donald Trump rechazó limitar la inteligencia artificial y denunció una \"conspiración enfermiza\"",
-        "link": "https://www.lacapital.com.ar/el-mundo/donald-trump-rechazo-limitar-la-inteligencia-artificial-y-denuncio-una-conspiracion-enfermiza-n10280984.html",
-        "image": "https://media.lacapital.com.ar/p/a017c96a188a9d4b82fe75bb35e42c87/adjuntos/203/imagenes/103/401/0103401280/1200x675/smart/image-2026-09-14t131512616.png",
-        "summary": "El presidente de Estados Unidos cuestionó los pedidos de las empresas tecnológicas para limitar la IA y advirtió por la ventaja que podría obtener China",
-        "pubDate": "2026-09-14T16:39:00+00:00",
+        "title": "Juegos Suramericanos: más de 16 mil estudiantes visitaron el Parque Independencia",
+        "link": "https://www.lacapital.com.ar/juegos-suramericanos-mas-16-mil-estudiantes-visitaron-el-parque-independencia-n10281023.html",
+        "image": "https://media.lacapital.com.ar/p/7d2fccf3c95b9087c8865b85768329fd/adjuntos/203/imagenes/103/401/0103401839/1200x675/smart/image.jpg",
+        "summary": "En el marco de la primera jornada del programa Visitas Guiadas, miles de alumnos de la ciudad y de la región visitaron el parque",
+        "pubDate": "2026-09-14T20:02:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Hallan muerta en su casa a una mujer de 86 años: tenía golpes y la cabeza tapada con una bolsa",
-        "link": "https://www.lacapital.com.ar/policiales/hallan-muerta-su-casa-una-mujer-86-anos-tenia-golpes-y-la-cabeza-tapada-una-bolsa-n10280982.html",
-        "image": "https://media.lacapital.com.ar/p/3040386429e729b68e57a820b32d0fcc/adjuntos/203/imagenes/103/401/0103401281/1200x675/smart/minetti.jpg",
-        "summary": "La principal hipótesis de la Fiscalía es que la mataron a golpes y por asfixia. Investigan robo porque el interior de la casa estaba revuelto",
-        "pubDate": "2026-09-14T16:25:00+00:00",
+        "title": "Una miniserie de origen neerlandés revoluciona Netflix",
+        "link": "https://www.lacapital.com.ar/zoom/una-miniserie-origen-neerlandes-revoluciona-netflix-n10281017.html",
+        "image": "https://media.lacapital.com.ar/p/b17cde1ef0eba2c5999e7df8756d1d22/adjuntos/203/imagenes/103/401/0103401841/1200x675/smart/image.png",
+        "summary": "Los usuarios no dejan de darle play a este thriller dramático y psicológico de 7 capítulos que acaba de desembarcar en la plataforma. De qué se trata",
+        "pubDate": "2026-09-14T19:45:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Quedó preso un joven acusado por un crimen ocurrido en Villa Gobernador Gálvez",
-        "link": "https://www.lacapital.com.ar/policiales/quedo-preso-un-joven-acusado-un-crimen-ocurrido-villa-gobernador-galvez-n10280974.html",
-        "image": "https://media.lacapital.com.ar/p/ee0ba2790c04f5970c7155775bdf6bfe/adjuntos/203/imagenes/103/401/0103401226/1200x675/smart/whatsapp-image-2026-09-14-at-124230.jpeg",
-        "summary": "Brian S., de 20 años, fue imputado como coautor del asesinato de Nehemías Altamirano, de 19 años, ocurrido en mayo pasado en la ciudad vecina",
-        "pubDate": "2026-09-14T15:55:23+00:00",
+        "title": "Más de 500 mil préstamos en mora ya fueron refinanciados por los bancos",
+        "link": "https://www.lacapital.com.ar/economia/mas-500-mil-prestamos-mora-ya-fueron-refinanciados-los-bancos-n10281019.html",
+        "image": "https://media.lacapital.com.ar/p/05c5c078bce9140c0eba20dffcb6a014/adjuntos/203/imagenes/102/491/0102491365/1200x675/smart/dinero-plata-pesos-01jpg.jpg",
+        "summary": "Los bancos informaron al BCRA más de 500 mil préstamos reestructurados, mientras que las entidades no bancarias iniciaron contactos con unos 2 millones de clientes. La mora alcanza al 26,6% de los titulares de créditos",
+        "pubDate": "2026-09-14T19:45:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Talleres gratuitos de Pami: cómo anotarse en Rosario",
-        "link": "https://www.lacapital.com.ar/informacion-general/talleres-gratuitos-pami-como-anotarse-rosario-n10280972.html",
-        "image": "https://media.lacapital.com.ar/p/01cd188d84ed3c3ccf823c06fd5303e3/adjuntos/203/imagenes/102/567/0102567637/1200x675/smart/upami-pami.png",
-        "summary": "Los afiliados a la obra social podrán encontrar en todas las provincias distintos talleres para todos los gustos. Cómo conocer la oferta y anotarse",
-        "pubDate": "2026-09-14T15:50:57+00:00",
+        "title": "Premios Emmy 2026: dónde verlos y quiénes son los nominados",
+        "link": "https://www.lacapital.com.ar/zoom/premios-emmy-2026-donde-verlos-y-quienes-son-los-nominados-n10281009.html",
+        "image": "https://media.lacapital.com.ar/p/8665bfd2353d7aa316bec52cf21387af/adjuntos/203/imagenes/103/401/0103401702/image-11.png",
+        "summary": "Las series de televisión compiten por distintos premios esta misma noche en una ceremonia en Los Ángeles que se transmitirá en vivo. Todos los detalles del evento y los nominados",
+        "pubDate": "2026-09-14T19:06:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Las Leonas ganaron 14-0 a Paraguay en su debut de los Juegos Suramericanos",
-        "link": "https://www.lacapital.com.ar/ovacion/las-leonas-ganaron-14-0-paraguay-su-debut-los-juegos-suramericanos-n10280959.html",
-        "image": "https://media.lacapital.com.ar/p/43e6b023b3a9050dedef34a432a289ca/adjuntos/203/imagenes/103/401/0103401154/1200x675/smart/image-2026-09-14t120629148.png",
-        "summary": "Tras haberse consagrado campeonas del mundo, la selección argentina de hockey femenino arrancó el torneo con un contundente triunfo en Santa Fe",
-        "pubDate": "2026-09-14T15:38:10+00:00",
+        "title": "Anmat prohíbe la venta de un desinfectante de superficies",
+        "link": "https://www.lacapital.com.ar/informacion-general/anmat-prohibe-la-venta-un-desinfectante-superficies-n10281001.html",
+        "image": "https://media.lacapital.com.ar/p/2dac72a55c3ba7e6bdd4399f0419d728/adjuntos/203/imagenes/102/360/0102360480/productos-limpiezapng.png",
+        "summary": "El producto no se encontraba registrado ante el organismo y fue considerado ilegítimo",
+        "pubDate": "2026-09-14T19:05:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "La historia de la bandera argentina que Colapinto agitó ante la mirada de toda la Fórmula 1",
-        "link": "https://www.lacapital.com.ar/ovacion/la-historia-la-bandera-argentina-que-colapinto-agito-la-mirada-toda-la-formula-1-n10280961.html",
-        "image": "https://media.lacapital.com.ar/p/caf4ab21e4a76e2b66b672ef334e4645/adjuntos/203/imagenes/103/401/0103401151/1200x675/smart/image-2026-09-14t120146580.png",
-        "summary": "El piloto recibió la enseña en manos de un comisario de pista que se arrimó para celebrar sus seis puntos con Alpine en Madrid este domingo",
-        "pubDate": "2026-09-14T15:22:00+00:00",
+        "title": "Encontraron asesinada a una rosarina que aspiraba a ser gendarme y detuvieron a su pareja",
+        "link": "https://www.lacapital.com.ar/policiales/encontraron-asesinada-una-rosarina-que-aspiraba-ser-gendarme-y-detuvieron-su-pareja-n10281003.html",
+        "image": "https://media.lacapital.com.ar/p/cf8f8860170ed75013e9a307c313364a/adjuntos/203/imagenes/103/401/0103401642/1200x675/smart/image-2026-09-14t151000478.jpg",
+        "summary": "La víctima de 26 años estaba en San Juan terminando su formación en Gendarmería. Por el hecho detuvieron a un joven que habría intentado quitarse la vida tras el ataque",
+        "pubDate": "2026-09-14T18:57:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Los equipos de Desarrollo Social de Puerto San Martín y Roldán realizaron una jornada de capacitación conjunta",
-        "link": "https://www.lacapital.com.ar/la-region/los-equipos-desarrollo-socialde-puerto-san-martin-y-roldan-realizaron-una-jornada-capacitacion-conjunta-n10280935.html",
-        "image": "https://media.lacapital.com.ar/p/06b92d5befd740825b7cc2e82ad8acc4/adjuntos/203/imagenes/103/400/0103400974/1200x675/smart/pgsm-capacitacion-1.jpeg",
-        "summary": "La actividad realizada en Roldán tuvo como objetivo fortalecer el conocimiento y las herramientas de intervención de los equipos profesionales que trabajan en territorio",
-        "pubDate": "2026-09-14T15:00:00+00:00",
+        "title": "Una tarde en el shopping",
+        "link": "https://www.lacapital.com.ar/es-social/una-tarde-el-shopping-n10279841.html",
+        "image": "https://media.lacapital.com.ar/p/d198425c505f95be2284f6cabb8b40c7/adjuntos/203/imagenes/103/388/0103388224/1200x675/smart/altptarde-1.jpg",
+        "summary": "La Capital",
+        "pubDate": "2026-09-14T18:40:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Pullaro: \"En Rosario teníamos alta la expectativa, pero ya se superó\"",
-        "link": "https://www.lacapital.com.ar/juegos-suramericanos/pullaro-en-rosario-teniamos-alta-la-expectativa-pero-ya-se-supero-n10280960.html",
-        "image": "https://media.lacapital.com.ar/p/a3708e2dc57ca5ce657c874be6325087/adjuntos/203/imagenes/103/401/0103401125/1200x675/smart/pullaro-juegos.jpeg",
-        "summary": "El gobernador de Santa Fe realizó un balance tras el primer día de los Juegos Suramericanos 2026. \"Ayer tuvimos 457 mil tickets cortados por el QR\", dijo",
-        "pubDate": "2026-09-14T14:59:00+00:00",
+        "title": "Mirta de Fussi: una invitación a mantenerse activo a cualquier edad",
+        "link": "https://www.lacapital.com.ar/es-social/mirta-fussi-una-invitacion-mantenerse-activo-cualquier-edad-n10279834.html",
+        "image": "https://media.lacapital.com.ar/p/81f878198e4cb36dbf7def52523ffef2/adjuntos/203/imagenes/103/388/0103388118/1200x675/smart/whatsapp-image-2026-09-05-at-181253.jpeg",
+        "summary": "La Capital",
+        "pubDate": "2026-09-14T18:39:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "De testigo protegida a prisión: Mariana Ortigala, aliada de Los Monos, fue condenada por extorsión",
-        "link": "https://www.lacapital.com.ar/policiales/de-testigo-protegida-prision-mariana-ortigala-aliada-los-monos-fue-condenada-extorsion-n10280948.html",
-        "image": "https://media.lacapital.com.ar/p/aa9637c13e97a0daccf25595dde7bdde/adjuntos/203/imagenes/101/014/0101014329/1200x675/smart/ortigala-2png.png",
-        "summary": "La corredora inmobiliaria, testigo contra Esteban Alvarado y sospechosa de ser testaferro de Los Monos, acordó una pena a 5 años y 4 meses de prisión",
-        "pubDate": "2026-09-14T14:38:43+00:00",
+        "title": "Luca Alfieri, primer medallista rosarino en los Juegos Suramericanos 2026: \"Ni en mis mejores sueños estaba\"",
+        "link": "https://www.lacapital.com.ar/juegos-suramericanos/luca-alfieri-primer-medallista-rosarino-los-juegos-suramericanos-2026-ni-mis-mejores-suenos-estaba-n10281005.html",
+        "image": "https://media.lacapital.com.ar/p/e4ff9a04be2b679c505c5a9c48a88340/adjuntos/203/imagenes/103/401/0103401636/1200x675/smart/image-1.jpg",
+        "summary": "El joven de 24 años levantó la presea de bronce en gimnasia artística por equipos y peleará por otra medalla este miércoles en la categoría barras",
+        "pubDate": "2026-09-14T18:37:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Cartas coleccionables: el negocio detrás de un mercado que mezcla juego e inversión",
-        "link": "https://www.lacapital.com.ar/negocios/cartas-coleccionables-el-negocio-detras-un-mercado-que-mezcla-juego-e-inversion-n10279638.html",
-        "image": "https://media.lacapital.com.ar/p/8015bb41966ca6ae0cac3816aa1a417c/adjuntos/203/imagenes/103/385/0103385758/82631644.jpeg",
-        "summary": "En Rosario abrió hace muy poco un local especializado en importar y comercializar cartas de colección. ¿Por qué estos productos pueden cotizarse en cientos de dólares?",
-        "pubDate": "2026-09-14T14:24:55+00:00",
+        "title": "Andrés Calamaro se presentó en Rosario con su gira \"Como cantor\"",
+        "link": "https://www.lacapital.com.ar/es-social/andres-calamaro-se-presento-rosario-su-gira-como-cantor-n10279838.html",
+        "image": "https://media.lacapital.com.ar/p/42c7e129581bdc0d6a64f6b0269a3965/adjuntos/203/imagenes/103/388/0103388122/1200x675/smart/calamaro-1.jpg",
+        "summary": "La Capital",
+        "pubDate": "2026-09-14T18:36:00+00:00",
         "approxTime": false
       }
     ]
