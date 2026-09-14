@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-09-14T00:37:55.557562+00:00",
+  "generatedAt": "2026-09-14T05:41:05.290503+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "La UNR encara otra semana de protestas y define más medidas antes de la marcha federal",
+        "link": "https://www.rosario3.com/informaciongeneral/la-unr-encara-otra-semana-de-protestas-y-define-mas-medidas-antes-de-la-marcha-federal-20260913-0038.html",
+        "image": "https://www.rosario3.com/__export/1789347942460/sites/rosario3/img/2026/09/13/coad.jpg_2106848869.jpg",
+        "summary": "Los docentes nucleados en Coad iniciarán el martes una consulta presencial en todas las facultades para votar el alcance de las medidas de fuerza. El frente sindical suma clases públicas y apunta a la movilización nacional de octubre",
+        "pubDate": "2026-09-13T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Primeras medallas para Argentina en los Juegos Suramericanos: oros en esgrima, natación y un rosarino de bronce",
         "link": "https://www.rosario3.com/deportes/primeras-medallas-de-oro-para-argentina-en-los-suramericanos-pascual-di-tella-en-esgrima-y-macarena-ceballos-y-cecilia-dieleke-en-natacion-20260913-0034.html",
         "image": "https://www.rosario3.com/__export/1789340429801/sites/rosario3/img/2026/09/13/medallas_de_oro.jpg_506286608.jpg",
         "summary": "El esgrimista Pascual Di Tella ganó en sable individual masculino en la final disputada en el estadio Salvador Bonilla de Provincial. La ríocuartense Macarena Ceballos se quedó con la prueba de 100M pecho y compartió el podio con Martina Barbeito, quien finalizó segunda. Además…",
-        "pubDate": "2026-09-13T12:00:00+00:00",
+        "pubDate": "2026-09-13T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,16 +26,7 @@
         "link": "https://www.rosario3.com/deportes/rosario-central-visita-a-tigre-con-la-idea-de-dejar-atras-la-racha-sin-triunfos-y-volver-a-pelear-en-el-clausura-20260912-0031.html",
         "image": "https://www.rosario3.com/__export/1789329549412/sites/rosario3/img/2026/09/13/central_tigre.jpg_506286608.jpg",
         "summary": "Se impuso 1-0 este domingo en Victoria por la fecha 9 del Clausura luego de tres partidos sin triunfos. El resultado se abrió con el grito de Fideo en el segundo tiempo, tras un penal que le hicieron a Jaminton Campaz. El equipo de Jorge Almirón terminó con diez por la expulsión…",
-        "pubDate": "2026-09-12T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Choque en cadena en el ingreso a Rosario por la autopista a Buenos Aires: un herido",
-        "link": "https://www.rosario3.com/informaciongeneral/choque-en-cadena-en-el-ingreso-a-rosario-por-la-autopista-a-buenos-aires-un-herido-20260913-0036.html",
-        "image": "https://www.rosario3.com/__export/1789343689714/sites/rosario3/img/2026/09/13/choque1.jpg_1215345973.jpg",
-        "summary": "Tres vehículos colisionaron a la altura del kilómetro 1, sobre la colectora José María Rosa. El conductor de un automóvil sufrió lesiones y debió ser asistido por el Sies",
-        "pubDate": "2026-09-13T11:58:00+00:00",
+        "pubDate": "2026-09-12T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -141,6 +141,78 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Con sólo $100.000 ya se puede reservar la Yamaha  Crypton Finn",
+        "link": "https://www.lacapital.com.ar/novedades/con-solo-100000-ya-se-puede-reservar-la-yamaha-crypton-finn-n10280579.html",
+        "image": "https://media.lacapital.com.ar/p/e84a13a3368e977d252df90bb5352161/adjuntos/203/imagenes/103/396/0103396286/1200x675/smart/vertical_crypton-finn.jpg",
+        "summary": "La preventa se abre en toda la red de concesionarios oficiales del país. Las primeras 1.200 unidades señadas durante septiembre incluyen el primer servicio de mantenimiento sin cargo, y las entregas comienzan en octubre.",
+        "pubDate": "2026-09-14T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El tiempo en Rosario: lunes con nubosidad variable y temperatura en ascenso",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-lunes-nubosidad-variable-y-temperatura-ascenso-n10280892.html",
+        "image": "https://media.lacapital.com.ar/p/f3665bb83ee749724a11d37f87ba008b/adjuntos/203/imagenes/103/400/0103400624/2026-09-13-clima-by-vbenedetto-81069202.jpg",
+        "summary": "La máxima llegaría a 16º y subiría paulatinamente los próximos días hasta llegar a 26º el fin de semana",
+        "pubDate": "2026-09-14T02:32:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El gobierno de Turquía endurece la represión contra grupos LGBT",
+        "link": "https://www.lacapital.com.ar/el-gobierno-turquia-endurece-la-represion-contra-grupos-lgbt-n10280891.html",
+        "image": "https://media.lacapital.com.ar/p/c4e554e700fb7bcfbcdbd0f6a60b6b51/adjuntos/203/imagenes/103/400/0103400581/2026-09-13-estambul-lgbt-82666211.jpg",
+        "summary": "Denunciaron \"una operación política\" y cargos falsos. Las autoridades afirmaron que protegen \"a los niños, la institución de la familia y el orden público\"",
+        "pubDate": "2026-09-14T02:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Paulo Killer: \"Soñaba con hacer un gol en el clásico y darle el triunfo a Central Córdoba",
+        "link": "https://www.lacapital.com.ar/ovacion/paulo-killer-sonaba-hacer-un-gol-el-clasico-y-darle-el-triunfo-central-cordoba-n10280870.html",
+        "image": "https://media.lacapital.com.ar/p/3e29766c8d9ec97e40a9289f19a45b44/adjuntos/203/imagenes/103/400/0103400358/1200x675/smart/image-89.png",
+        "summary": "Central Córdoba se quedó con el derbi del ascenso ante Argentino y los protagonistas del ganador dialogaron con Ovación. Paulo Killer fue figura",
+        "pubDate": "2026-09-14T01:23:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Primera C: Central Córdoba goleó a Argentino y celebró en el clásico del ascenso",
+        "link": "https://www.lacapital.com.ar/ovacion/primera-c-central-cordoba-goleo-argentino-y-celebro-el-clasico-del-ascenso-n10280883.html",
+        "image": "https://media.lacapital.com.ar/p/44f2d0cfddea60dc0a0675ed73850527/adjuntos/203/imagenes/103/400/0103400503/1200x675/smart/image-90.png",
+        "summary": "Los charrúas se impusieron 3 a 0 en el Gabino Sosa y se afirman en el Reducido, mientras que los salaítos sufren en el fondo de la tabla de la Primera C",
+        "pubDate": "2026-09-14T01:22:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Juegos Suramericanos, día 2: todo lo que hay que saber de las competencias en Rosario y Santa Fe",
+        "link": "https://www.lacapital.com.ar/juegos-suramericanos/juegos-suramericanos-dia-2-todo-lo-que-hay-que-saber-las-competencias-rosario-y-santa-fe-n10280886.html",
+        "image": "https://media.lacapital.com.ar/p/c259efe642e3e8392783d511c39c69ce/adjuntos/203/imagenes/103/400/0103400480/1200x675/smart/image-65.jpg",
+        "summary": "Al igual que la primera jornada, el segundo día de los Juegos Suramericanos promete mucha adrenalina en los distintos escenarios y con rosarinos compitiendo",
+        "pubDate": "2026-09-14T01:20:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Con un gol mal cobrado, Manchester City se quedó con el derbi",
+        "link": "https://www.lacapital.com.ar/ovacion/con-un-gol-mal-cobrado-manchester-city-se-quedo-el-derbi-n10280885.html",
+        "image": "https://media.lacapital.com.ar/p/54b41d06c5c913440d3bd873750b03fe/adjuntos/203/imagenes/103/400/0103400514/2026-09-13-manchester-82667604.jpg",
+        "summary": "Ya con el resultado consumado, el organismo rector de los árbitros de la Liga Premier admitió que Enzo Fernández estaba adelantado y reconoció un “error de juicio”",
+        "pubDate": "2026-09-14T01:13:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El primer día de los Juegos Suramericanos: medallas de oro, plata y bronce para Argentina",
+        "link": "https://www.lacapital.com.ar/juegos-suramericanos/el-primer-dia-los-juegos-suramericanos-medallas-oro-plata-y-bronce-argentina-n10280884.html",
+        "image": "https://media.lacapital.com.ar/p/278286010b5832648f19ffa0269f03a5/adjuntos/203/imagenes/103/400/0103400479/1200x675/smart/image-64.jpg",
+        "summary": "En el primer día Argentina sumó tres oros con Pascual Di Tella (esgrima), Ceballos y Dieleke (natación). Y la primera rosarina fue de Alfieri (gimnasia)",
+        "pubDate": "2026-09-14T00:56:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El Quini 6 quedó vacante y el pozo del próximo miércoles será de $15.250.000.000",
         "link": "https://www.lacapital.com.ar/informacion-general/el-quini-6-quedo-vacante-y-el-pozo-del-proximo-miercoles-sera-15250000000-n10280872.html",
         "image": "https://media.lacapital.com.ar/p/e38ff322db03a26f1da53018f2f31d38/adjuntos/203/imagenes/103/400/0103400345/2026-09-13-quini-6.jpg",
@@ -155,6 +227,15 @@
         "image": "https://media.lacapital.com.ar/p/c5ec3942bd42828dd0a7195b4dc889c1/adjuntos/203/imagenes/103/400/0103400265/2026-09-13-trump-82662632.jpg",
         "summary": "El mandatario estadounidense afirmó que se dicen \"cosas que no van a suceder\" y sostuvo que detener los avances de la inteligencia artificial sería ceder la ventaja a China",
         "pubDate": "2026-09-13T23:41:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La Casa Rosada envía el presupuesto a Diputados y activa las negociaciones",
+        "link": "https://www.lacapital.com.ar/politica/la-casa-rosada-envia-el-presupuesto-diputados-y-activa-las-negociaciones-n10280894.html",
+        "image": "https://media.lacapital.com.ar/p/67bd2f048644122a937050b4898b8e67/adjuntos/203/imagenes/103/400/0103400648/2026-09-13-milei-82459417.jpg",
+        "summary": "La campaña electoral en ciernes podría complicar las tratativas del oficialismo con los gobernadores y los bloques dialoguistas",
+        "pubDate": "2026-09-13T23:25:00+00:00",
         "approxTime": false
       },
       {
@@ -191,87 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/91028826dcc933e0fc81115c3f8314c4/adjuntos/203/imagenes/103/400/0103400110/2026-09-13-kidman-bullock.jpg",
         "summary": "\"Hechizo de amor: La magia continúa\" quedó primera en la taquilla estadounidense en el fin de semana de su estreno",
         "pubDate": "2026-09-13T22:44:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Juegos Suramericanos: cómo ingresar a las sedes, escenarios deportivos y Fan Fest",
-        "link": "https://www.lacapital.com.ar/juegos-suramericanos-como-ingresar-las-sedes-escenarios-deportivos-y-fan-fest-n10280849.html",
-        "image": "https://media.lacapital.com.ar/p/efc3a651f6ad47c6f0dee6a7165d8675/adjuntos/203/imagenes/103/399/0103399952/1200x675/smart/image-2026-09-13t190052783.jpg",
-        "summary": "Para asistir de manera gratuita a las competencias y a los Fan Fest es necesario contar con un QR, que debe generarse para cada día",
-        "pubDate": "2026-09-13T22:07:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El ex primer ministro británico Boris Johnson estuvo muy cerca de un ataque ruso con drones",
-        "link": "https://www.lacapital.com.ar/el-mundo/el-ex-primer-ministro-britanico-boris-johnson-estuvo-muy-cerca-un-ataque-ruso-drones-n10280848.html",
-        "image": "https://media.lacapital.com.ar/p/6e4eb09897f9df5069d6915d097f8e1f/adjuntos/203/imagenes/103/399/0103399964/2026-09-13-boris-johnson.jpg",
-        "summary": "El exmandatario viajaba en un tren diplomático a dos kilómetros de la frontera entre Ucrania y Polonia cuando ocurrió el ataque",
-        "pubDate": "2026-09-13T22:06:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Esgrima: la rosarina Valentina Cassanello quedó entre las ocho mejores",
-        "link": "https://www.lacapital.com.ar/juegos-suramericanos/esgrima-la-rosarina-valentina-cassanello-quedo-las-ocho-mejores-n10280841.html",
-        "image": "https://media.lacapital.com.ar/p/3da0ee436e4c1f33186eaaf21f250420/adjuntos/203/imagenes/103/400/0103400044/1200x675/smart/image-59.jpg",
-        "summary": "Valentina Cassanello cumplió un gran papel en florete individual y cayó en los cuartos de final. Luego Pascual Di Tella le daría una medalla de oro a Argentina, en sable",
-        "pubDate": "2026-09-13T21:57:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Condenado a 18 años de prisión por el mortal asalto a un motociclista en la zona sur",
-        "link": "https://www.lacapital.com.ar/policiales/condenado-18-anos-prision-el-mortal-asalto-un-motociclista-la-zona-sur-n10280838.html",
-        "image": "https://media.lacapital.com.ar/p/739668245349d9c488f468a17e387f8e/adjuntos/203/imagenes/101/262/0101262669/1200x675/smart/sangrejpg.jpg",
-        "summary": "Nahuel Meza recibió esa pena por el crimen de Elías \"Barba\" Vázquez, quien se estrelló contra un poste al escapar de ladrones que lo acorralaron a fines de 2023",
-        "pubDate": "2026-09-13T21:41:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Un diputado nacional del peronismo chocó contra un camión en la ruta 11",
-        "link": "https://www.lacapital.com.ar/informacion-general/un-diputado-nacional-del-peronismo-choco-contra-un-camion-la-ruta-11-n10280844.html",
-        "image": "https://media.lacapital.com.ar/p/7519c0bbca9a1613fa85d202e61bbaa2/adjuntos/203/imagenes/103/399/0103399916/2026-09-13-diputado-choque.jpg",
-        "summary": "Aldo Leiva resultó ileso en el siniestro ocurrido en la provincia de Chaco. El control de alcoholemia dio negativo",
-        "pubDate": "2026-09-13T21:40:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central y una victoria construida con un mayor cimiento desde lo colectivo",
-        "link": "https://www.lacapital.com.ar/ovacion/central-y-una-victoria-construida-un-mayor-cimiento-lo-colectivo-n10280840.html",
-        "image": "https://media.lacapital.com.ar/p/4e06a53c88112f4c588517b2b8a5ebbb/adjuntos/203/imagenes/103/399/0103399461/1200x675/smart/image-2026-09-13t161510729.png",
-        "summary": "Nadie brilló ni la rompió ante Tigre, pero hubo una levantada en varios jugadores. Un buen dato cuando se acerca una final para el Canalla",
-        "pubDate": "2026-09-13T21:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Quién es Julia Mancilla, la nena de 10 años que deslumbró en la apertura de los Juegos Suramericanos",
-        "link": "https://www.lacapital.com.ar/juegos-suramericanos/quien-es-julia-mancilla-la-nena-10-anos-que-deslumbro-la-apertura-los-juegos-suramericanos-n10280827.html",
-        "image": "https://media.lacapital.com.ar/p/fbad0dcc93ce09327d16e20dc0d55c52/adjuntos/203/imagenes/103/399/0103399686/1200x675/smart/image-2026-09-13t170113793.jpg",
-        "summary": "Cantó con Juan Carlos Baglietto, acompañó a Abel Pintos y Soledad Pastorutti y terminó convertida en una de las protagonistas inesperadas de la noche.",
-        "pubDate": "2026-09-13T21:19:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Los Capogrosso empezaron con todo los Juegos Suramericanos, ante una multitud en el parque Independencia",
-        "link": "https://www.lacapital.com.ar/juegos-suramericanos/los-capogrosso-empezaron-todo-los-juegos-suramericanos-una-multitud-el-parque-independencia-n10280834.html",
-        "image": "https://media.lacapital.com.ar/p/f5c270a7a18573ac824841d6dffb75d9/adjuntos/203/imagenes/103/399/0103399987/1200x675/smart/image-58.jpg",
-        "summary": "Nicolás y Tomás Capogrosso hicieron pesar su favoritismo en el debut del voleibol de playa y ganaron también las rosarinas Morena Abdala y Agostina Ghigliazza",
-        "pubDate": "2026-09-13T21:13:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Primer oro para Argentina: Torregiani hizo historia en el billar de los Suramericanos",
-        "link": "https://www.lacapital.com.ar/juegos-suramericanos/primer-oro-argentina-torregiani-hizo-historia-el-billar-los-suramericanos-n10280833.html",
-        "image": "https://media.lacapital.com.ar/p/41d98934b6262c506b21371b8694ad8a/adjuntos/203/imagenes/103/399/0103399724/1200x675/smart/imagebillar.jpg",
-        "summary": "El argentino se consagró campeón en Santa Fe y se convirtió en el primer medallista de la delegación nacional en los Juegos Suramericanos 2026, justo en el estreno de la disciplina como invitada.",
-        "pubDate": "2026-09-13T20:51:00+00:00",
         "approxTime": false
       }
     ]
