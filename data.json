@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-09-15T21:35:12.664477+00:00",
+  "generatedAt": "2026-09-15T23:54:41.812835+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Incendios en las islas: nuevas quemas frente a Rosario y el cordón industrial",
+        "link": "https://www.rosario3.com/informaciongeneral/incendios-en-las-islas-nuevas-quemas-frente-a-rosario-y-el-cordon-industrial-20260915-0073.html",
+        "image": "https://www.rosario3.com/__export/1789515352790/sites/rosario3/img/2026/09/15/incendio_islas.jpg_1825222445.jpg",
+        "summary": "Las llamas se observan en distintos puntos del humedal entrerriano y el humo afecta por momentos la visibilidad sobre la ruta a Victoria. La falta de lluvias y el viento podrían favorecer su propagación",
+        "pubDate": "2026-09-15T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Condenaron a cuatro años de prisión a un integrante de la banda que robaba transformadores de la EPE",
+        "link": "https://www.rosario3.com/policiales/condenaron-a-cuatro-anos-de-prision-a-un-integrante-de-la-banda-que-robaba-transformadores-de-la-epe-20260915-0067.html",
+        "image": "https://www.rosario3.com/__export/1789509810032/sites/rosario3/img/2024/05/04/tranformador.jpg_506286608.jpg",
+        "summary": "Joel Espíndola fue encontrado culpable de integrar la organización que sustraía los equipos mediante falsas órdenes de retiro y luego los llevaba a depósitos para extraer el cobre. Era el último de los acusados que tenía pendiente su situación procesal",
+        "pubDate": "2026-09-15T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Presupuesto 2027: el Gobierno proyecta inflación del 21,1%, dólar promedio a $1.728 y crecimiento del 4%",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/presupuesto-2027-el-gobierno-proyecta-inflacion-del-211-dolar-promedio-a-1.728-y-crecimiento-del-4-20260915-0061.html",
+        "image": "https://www.rosario3.com/__export/1777427396415/sites/rosario3/img/2026/04/28/caputo_1.jpg_1825222445.jpg",
+        "summary": "El Ejecutivo dio a conocer las principales variables económicas incluidas en el proyecto que enviará a la Cámara de Diputados. También prevé mantener el superávit financiero",
+        "pubDate": "2026-09-15T11:58:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "El juego como puerta de entrada: cuando la curiosidad encuentra al deporte",
         "link": "https://www.rosario3.com/informaciongeneral/el-juego-como-puerta-de-entrada-cuando-la-curiosidad-encuentra-al-deporte-20260915-0047.html",
         "image": "https://www.rosario3.com/__export/1789499959914/sites/rosario3/img/2026/09/15/nota_1.png_786111822.png",
         "summary": "Un peluche de Capi, un dibujo, una bicicleta, un inflable. En el Parque Independencia, los Juegos Suramericanos también se descubren así: a través del juego, la inquietud y esas preguntas que pueden ser el primer acercamiento a una disciplina o a una pasión",
-        "pubDate": "2026-09-15T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Tenían sexo en la calle y los arrestaron: él rompió un patrullero a patadas y se escudó en su padre, un ex juez",
-        "link": "https://www.rosario3.com/policiales/tenian-sexo-en-la-calle-y-los-arrestaron-el-rompio-un-patrullero-a-patadas-y-se-escudo-en-su-padre-un-ex-juez-20260915-0050.html",
-        "image": "https://www.rosario3.com/__export/1775862626290/sites/rosario3/img/2025/01/03/patrullero_policia_santa_fe.jpg_1010838702.jpg",
-        "summary": "La particular situación tuvo lugar el domingo por la mañana en Laprida y Garibaldi. La mujer, cabo de Prefectura, recuperó la libertad. El hombre también, pero con formación de causa penal",
-        "pubDate": "2026-09-15T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Dos sicarios fueron condenados por un asesinato al voleo y por dos atentados de 2023",
-        "link": "https://www.rosario3.com/policiales/dos-sicarios-fueron-condenados-por-un-asesinato-al-voleo-y-por-dos-atentados-de-2023-20260915-0045.html",
-        "image": "https://www.rosario3.com/__export/1789492356194/sites/rosario3/img/2026/09/15/familiares_laureano_cardozo_1.jpg_928314581.jpg",
-        "summary": "Lautaro Román Núñez y Roberto Chapire recibieron 28 años y 18, respectivamente, en un fallo que tuvo lugar este martes en el Centro de Justicia Penal. Se los halló responsables del crimen de Laureano Cardozo, que fue acribillado mientras paseaba a su perra, y por balaceras…",
-        "pubDate": "2026-09-15T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Tragedia en Roca y el río: Gagliasso fue condenado a 16 años de prisión por matar a Tania Gandolfi y a su hija Agustina García",
-        "link": "https://www.rosario3.com/policiales/tragedia-en-roca-y-el-rio-este-martes-se-conoce-el-veredicto-contra-agustin-gagliasso-20260915-0002.html",
-        "image": "https://www.rosario3.com/__export/1789484912149/sites/rosario3/img/2026/09/15/rocayelrio1.jpg_928314581.jpg",
-        "summary": "Las jueces sentenciaron al joven, que está detenido en la cárcel de Piñero, por homicidio con dolo eventual al comprobarse que pudo representarse claramente el riesgo de muerte que generaba al conducir a más de 120 km h por una zona peatonal y céntrica para perseguir a un…",
         "pubDate": "2026-09-15T11:57:00+00:00",
         "approxTime": true
       },
@@ -58,11 +58,20 @@
       },
       {
         "source": "Rosario3",
-        "title": "Comienza la era post Messi: la Selección confirmó amistosos, uno de ellos en el interior pero no en Rosario",
-        "link": "https://www.rosario3.com/deportes/comienza-la-era-post-messi-la-seleccion-confirmo-amistosos-uno-de-ellos-en-el-interior-pero-no-en-rosario-20260915-0055.html",
-        "image": "https://www.rosario3.com/__export/1789499639129/sites/rosario3/img/2026/09/15/00024613-04.jpg_760805515.jpg",
-        "summary": "La AFA anunció una triple fecha entre el 21 de septiembre y el 6 de octubre. El equipo de Lionel Scaloni jugará en Córdoba y Buenos Aires en sus primeros compromisos tras el retiro del capitán",
+        "title": "Pullaro sobre los Juegos Suramericanos 2026: \"En tres días ya llevamos 650.000 entradas sacadas por internet\"",
+        "link": "https://www.rosario3.com/informaciongeneral/pullaro-sobre-los-juegos-suramericanos-2026-en-tres-dias-ya-llevamos-650.000-entradas-sacadas-por-internet-20260915-0065.html",
+        "image": "https://www.rosario3.com/__export/1789508556703/sites/rosario3/img/2026/09/15/pullaro.jpeg_1825222445.jpeg",
+        "summary": "Durante una recorrida por localidades del norte provincial, el gobernador vinculó la realización del evento y la presencia masiva de público con la situación de seguridad",
         "pubDate": "2026-09-15T11:54:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "La nueva piel canalla: Central presentó \"La Calesita\", su tercera camiseta para 2026",
+        "link": "https://www.rosario3.com/deportes/la-nueva-piel-canalla-central-presento-la-calesita-su-tercera-camiseta-para-2026-20260915-0070.html",
+        "image": "https://www.rosario3.com/__export/1789510953836/sites/rosario3/img/2026/09/15/camisetarc.jpg_928314581.jpg",
+        "summary": "La indumentaria de Le Coq Sportif completa la colección especial por los 100 años del Gigante de Arroyito. Es de color petróleo y está inspirada en uno de los grandes símbolos de la hinchada auriazul. Sale a la venta este jueves",
+        "pubDate": "2026-09-15T11:53:00+00:00",
         "approxTime": true
       },
       {
@@ -71,15 +80,6 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/bancarios-cuanto-queda-el-salario-inicial-tras-la-ultima-actualizacion-y-cuanto-cobraran-por-su-dia-20260915-0042.html",
         "image": "https://www.rosario3.com/__export/1789491957152/sites/rosario3/img/2026/09/15/789086423_1529117692562952_6253268502301851172_n_1.jpg_928314581.jpg",
         "summary": "La Asociación Bancaria informó una suba del 1,7% correspondiente a agosto. Con el adicional por participación en las ganancias, el ingreso inicial supera los $2,57 millones. También se estableció un monto mínimo para el Día del Bancario",
-        "pubDate": "2026-09-15T11:53:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Temporada de polen y frío atípico en Rosario: cómo diferenciar una alergia primaveral de un virus y cada cuánto ventilar la casa",
-        "link": "https://www.rosario3.com/salud/temporada-de-polen-y-frio-atipico-en-rosario-como-diferenciar-una-alergia-primaveral-de-un-virus-y-cada-cuanto-ventilar-la-casa-20260915-0034.html",
-        "image": "https://www.rosario3.com/__export/1789486260737/sites/rosario3/img/2026/09/15/centro_rosario_fresco.jpg_939527452.jpg",
-        "summary": "Frente al cruce entre el polen de árboles y las bajas temperaturas, la alergóloga e inmunóloga Soledad Crisci explicó cómo distinguir un cuadro alérgico de un resfrío pasajero. Claves, lapsos precisos para abrir las ventanas y consejos para ganarle al cambio estacional",
         "pubDate": "2026-09-15T11:52:00+00:00",
         "approxTime": true
       },
@@ -138,6 +138,142 @@
         "approxTime": true
       }
     ],
-    "lacapital": []
+    "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "En la reunión de la mesa política, Caputo prometió crecimiento del salario y menor inflación",
+        "link": "https://www.lacapital.com.ar/politica/en-la-reunion-la-mesa-politica-caputo-prometio-crecimiento-del-salario-y-menor-inflacion-n10281294.html",
+        "image": "https://media.lacapital.com.ar/p/7b7fce38fc3488e6a05bbe650cacb994/adjuntos/203/imagenes/103/391/0103391363/1200x675/smart/image.png",
+        "summary": "Cumbre en la Casa Rosada con el presupuesto 2027 y la cuestión de Malvinas como ejes centrales. Sin acuerdo en el Senado por la eliminación de las Paso",
+        "pubDate": "2026-09-15T23:37:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Las mejores imágenes de una nueva jornada de los Juegos Suramericanos",
+        "link": "https://www.lacapital.com.ar/las-mejores-imagenes-una-nueva-jornada-los-juegos-suramericanos-n10281282.html",
+        "image": "https://media.lacapital.com.ar/p/314b1d43028fd295d075922fd6d2af85/adjuntos/203/imagenes/103/404/0103404521/1200x675/smart/82674114.jpg",
+        "summary": "La Capital",
+        "pubDate": "2026-09-15T23:28:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El rosarino Santino Basaldella se hizo de oro con una tabla y un remo",
+        "link": "https://www.lacapital.com.ar/juegos-suramericanos/el-rosarino-santino-basaldella-se-hizo-oro-una-tabla-y-un-remo-n10281295.html",
+        "image": "https://media.lacapital.com.ar/p/ed022ada6642d51e2d03876a5b7ac031/adjuntos/203/imagenes/103/404/0103404656/1200x675/smart/image-3.jpg",
+        "summary": "En una jornada inolvidable para el SUP, Santino Basaldella se impuso en el sprint masculino y ganó el primer oro rosarino en los Juegos Suramericanos",
+        "pubDate": "2026-09-15T23:18:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Volvieron los incendios en las islas frente al Gran Rosario",
+        "link": "https://www.lacapital.com.ar/la-ciudad/volvieron-los-incendios-las-islas-frente-al-gran-rosario-n10281286.html",
+        "image": "https://media.lacapital.com.ar/p/64718f4b01e541d9710416d4047e78eb/adjuntos/203/imagenes/103/404/0103404522/1200x675/smart/incendiosislas.jpg",
+        "summary": "Prefectura de San Lorenzo detectó columnas de humo en las islas entrerrianas a la altura de los kilómetros 445 y 447 del Paraná. Se dio aviso a Fiscalía federal",
+        "pubDate": "2026-09-15T23:17:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Kim Kardashian fue indemnizada por el robo de joyas en París: recibirá un euro",
+        "link": "https://www.lacapital.com.ar/informacion-general/kim-kardashian-fue-indemnizada-el-robo-joyas-paris-recibira-un-euro-n10281287.html",
+        "image": "https://media.lacapital.com.ar/p/b98e75e4c17feca05d3b4a6d169353ed/adjuntos/203/imagenes/103/404/0103404577/2026-09-15-kim-kardashian.jpg",
+        "summary": "Un exrecepcionista recibirá 109.516 euros y el hotel donde ocurrió el asalto será compensado con 50.000 euros",
+        "pubDate": "2026-09-15T22:52:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Revolución Federal: sobreseyeron a los hermanos de Caputo y enviarán a juicio a los miembros de la agrupación",
+        "link": "https://www.lacapital.com.ar/politica/revolucion-federal-sobreseyeron-los-hermanos-caputo-y-enviaran-juicio-los-miembros-la-agrupacion-n10281284.html",
+        "image": "https://media.lacapital.com.ar/p/9ddff4d3ff1ac1b1128610df197a413e/adjuntos/203/imagenes/101/445/0101445876/1200x675/smart/revolucion-federal-guillotina-plazajpg.jpg",
+        "summary": "El juez federal Marcelo Martínez de Giorgi apartó a los Caputo por considerar que no estuvieron involucrados en los hechos de violencia cometidos por los militantes de la entidad",
+        "pubDate": "2026-09-15T22:25:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Quién era Camila, la rosarina asesinada en San Juan: el sueño de ser gendarme, su vocación de servicio y el pedido de justicia",
+        "link": "https://www.lacapital.com.ar/policiales/quien-era-camila-la-rosarina-asesinada-san-juan-el-sueno-ser-gendarme-su-vocacion-servicio-y-el-pedido-justicia-n10281269.html",
+        "image": "https://media.lacapital.com.ar/p/f47ae9e4165b964827e40d9f8d4edb9c/adjuntos/203/imagenes/103/404/0103404339/1200x675/smart/camila-vecchiarello-159-3.jpg",
+        "summary": "Tenía 26 años, había estudiado enfermería en Rosario y estaba a punto de recibirse de gendarme. Su familia reclama justicia. La investigación apuntó rápidamente hacia su marido, que fue detenido",
+        "pubDate": "2026-09-15T22:07:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Tensión en la esgrima de los Juegos Suramericanos: le festejó la victoria, le negó el saludo y casi terminan peleando",
+        "link": "https://www.lacapital.com.ar/juegos-suramericanos/tension-la-esgrima-los-juegos-suramericanos-le-festejo-la-victoria-le-nego-el-saludo-y-casi-terminan-peleando-n10281279.html",
+        "image": "https://media.lacapital.com.ar/p/a9c0c92a6f7f86efecebaaa14eea2635/adjuntos/203/imagenes/103/404/0103404407/1200x675/smart/image-2.jpg",
+        "summary": "En Rosario, el duelo de cuartos de final de espada masculina en los Juegos Suramericanos terminó a los empujones entre los rivales",
+        "pubDate": "2026-09-15T21:58:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El Gigante recibirá a un partido grande de la Copa Argentina: Boca-Racing",
+        "link": "https://www.lacapital.com.ar/ovacion/el-gigante-recibira-un-partido-grande-la-copa-argentina-boca-racing-n10281277.html",
+        "image": "https://media.lacapital.com.ar/p/92a46a1f01b2ebc04403ac2cec59dd10/adjuntos/203/imagenes/103/404/0103404411/1200x675/smart/image-8.jpg",
+        "summary": "El partido se jugará en Arroyito el domingo 27 a las 17 en Arroyito y el ganador se cruzará con Banfield por un lugar en la final del certamen",
+        "pubDate": "2026-09-15T21:46:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Los simuladores de la EPE: condenan al último miembro de una banda que robaba transformadores",
+        "link": "https://www.lacapital.com.ar/policiales/los-simuladores-la-epe-condenan-al-ultimo-miembro-una-banda-que-robaba-transformadores-n10281272.html",
+        "image": "https://media.lacapital.com.ar/p/feff15ffb8c578e4de7eccde529f914f/adjuntos/203/imagenes/103/404/0103404340/1200x675/smart/whatsapp-image-2026-09-15-at-172730.jpeg",
+        "summary": "Se hacían pasar por empleados de la Empresa Provincial de la Energía y, mediante una grúa, se llevaban transformadores para extraer el cobre",
+        "pubDate": "2026-09-15T21:31:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La genética Angus vuelve a pista con 300 reproductores de todo el país",
+        "link": "https://www.lacapital.com.ar/agro/la-genetica-angus-vuelve-pista-300-reproductores-todo-el-pais-n10281224.html",
+        "image": "https://media.lacapital.com.ar/p/7c76f49932ee033b3dc976f5dac7ac04/adjuntos/305/imagenes/102/669/0102669729/1200x675/smart/angus4.jpg",
+        "summary": "Del 21 al 25 de septiembre se realizará la Semana Angus de Primavera, que reunirá a 300 reproductores de pedigree de 60 cabañas. Habrá juras, remates, financiamiento y actividades para chicos y jóvenes",
+        "pubDate": "2026-09-15T21:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Vóleibol de playa: los Capogrosso a semifinales, mientras que Abdala-Ghigliazza se quedaron en cuartos",
+        "link": "https://www.lacapital.com.ar/juegos-suramericanos/voleibol-playa-los-capogrosso-semifinales-mientras-que-abdala-ghigliazza-se-quedaron-cuartos-n10281258.html",
+        "image": "https://media.lacapital.com.ar/p/117b4577bc1c387d4bc34ba3fe336b20/adjuntos/203/imagenes/103/404/0103404312/1200x675/smart/image-1.jpg",
+        "summary": "Los hermanos rosarinos quedaron a las puertas de la medalla y las también rosarinas pelearán por el 5º puesto",
+        "pubDate": "2026-09-15T21:11:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Julieta Prandi y Emanuel Ortega se casaron: \"No le avisamos a nadie hasta ayer\"",
+        "link": "https://www.lacapital.com.ar/zoom/julieta-prandi-y-emanuel-ortega-se-casaron-no-le-avisamos-nadie-ayer-n10281267.html",
+        "image": "https://media.lacapital.com.ar/p/0e2e1e02dfa41d2d8ac404d9482cc284/adjuntos/203/imagenes/103/404/0103404311/1200x675/smart/emanuel-y-julieta.jpg",
+        "summary": "Después de más de seis años de relación, la modelo y el cantante dieron el \"si” en el Registro Civil de San Isidro, rodeados de familiares y amigos",
+        "pubDate": "2026-09-15T21:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "En Newell's, Kudelka piensa en algunos retoques para ir a Vicente López",
+        "link": "https://www.lacapital.com.ar/ovacion/en-newells-kudelka-piensa-algunos-retoques-ir-vicente-lopez-n10281264.html",
+        "image": "https://media.lacapital.com.ar/p/67fd04ed8bc1c6bd5c56ad88065aace8/adjuntos/203/imagenes/103/404/0103404256/nobkud-660646.jpg",
+        "summary": "Para poder volver a la senda del triunfo, el DT de Newell's está analizando si ajusta piezas en el medio y en el fondo para medirse con Platense",
+        "pubDate": "2026-09-15T20:56:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Presupuesto nacional 2027: el gobierno proyecta una inflación del 21,1% y un dólar promedio de $1.728",
+        "link": "https://www.lacapital.com.ar/economia/presupuesto-nacional-2027-el-gobierno-proyecta-una-inflacion-del-211-y-un-dolar-promedio-1728-n10281270.html",
+        "image": "https://media.lacapital.com.ar/p/f54cdbf0d8797397e8daf9e68e9aa7ba/adjuntos/203/imagenes/103/121/0103121273/2026-04-28-caputo.jpg",
+        "summary": "El proyecto contempla además un crecimiento del 4%, exportaciones por más de u$s 130.000 millones y un nuevo superávit financiero.",
+        "pubDate": "2026-09-15T20:54:22+00:00",
+        "approxTime": false
+      }
+    ]
   }
 }
