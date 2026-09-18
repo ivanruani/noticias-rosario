@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-09-18T21:23:42.006632+00:00",
+  "generatedAt": "2026-09-18T23:26:50.165394+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "\"Chau Che\": La Libertad Avanza quiere borrar a Ernesto Guevara de los espacios públicos de Rosario",
+        "link": "https://www.rosario3.com/informaciongeneral/chau-che-la-libertad-avanza-quiere-borrar-a-ernesto-guevara-de-los-espacios-publicos-de-rosario-20260918-0064.html",
+        "image": "https://www.rosario3.com/__export/1789768935112/sites/rosario3/img/2026/09/18/plaza_del_che.jpg_928314580.jpg",
+        "summary": "La Libertad Avanza presentó en el Concejo Municipal de Rosario una serie de proyectos para que la ciudad deje de homenajear en sus espacios públicos a figuras vinculadas a “fusilamientos y a procesos violentos de la historia”",
+        "pubDate": "2026-09-18T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "La partera de 88 años acusada de vender bebés en Rosario: ocho denuncias y una historia de identidades robadas",
         "link": "https://www.rosario3.com/informaciongeneral/la-partera-de-88-anos-acusada-de-vender-bebes-en-rosario-ocho-denuncias-y-una-historia-de-identidades-robadas-20260918-0055.html",
         "image": "https://www.rosario3.com/__export/1789761136959/sites/rosario3/img/2026/09/18/tribunales_federales_rosario.jpg_1853120996.jpg",
         "summary": "Dolly Viale de Garrido, quien trabajó durante años en el Hospital Roque Sáenz Peña, fue imputada por la entrega de una beba en 1970 a cambio de dinero. La investigación federal reúne otras denuncias de personas que buscan conocer su origen biológico y también alcanza a su…",
-        "pubDate": "2026-09-18T12:00:00+00:00",
+        "pubDate": "2026-09-18T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/deportes/son-los-juegos-de-la-gente-el-fenomeno-social-y-el-legado-de-los-juegos-suramericanos-santa-fe-2026-20260918-0030.html",
         "image": "https://www.rosario3.com/__export/1789742606060/sites/rosario3/img/2026/09/16/esgrima_suramericanos_rosario_-20-.jpeg_982625323.jpeg",
         "summary": "Diego Sebben, subsecretario de Deporte de la Municipalidad de Rosario y director ejecutivo del certamen, destacó la enorme concurrencia en la ciudad, repasó el camino que se inició hace más de una década y aseguró que el mayor capital es el impacto humano y cultural",
-        "pubDate": "2026-09-18T11:59:00+00:00",
+        "pubDate": "2026-09-18T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,16 +35,25 @@
         "link": "https://www.rosario3.com/informaciongeneral/por-los-juegos-suramericanos-este-sabado-estara-cortada-la-conexion-entre-funes-y-rosario-a-traves-de-calle-mendoza-20260918-0056.html",
         "image": "https://www.rosario3.com/__export/1789761232577/sites/rosario3/img/2026/09/18/calles.jpg_1768679257.jpg",
         "summary": "Es por la competencia Ecuestre que se realizará en el Jockey Club de Rosario",
-        "pubDate": "2026-09-18T11:58:00+00:00",
+        "pubDate": "2026-09-18T11:57:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Volvieron a internar a Mirtha Legrand y hay preocupación por su salud",
-        "link": "https://www.rosario3.com/ocio/volvieron-a-internar-a-mirtha-legrand-y-hay-preocupacion-por-su-salud-20260918-0051.html",
-        "image": "https://www.rosario3.com/__export/1789760314729/sites/rosario3/img/2026/09/18/mirtha_legrand.png_786111822.png",
-        "summary": "La conductora ingresó este viernes al Mater Dei por un cuadro de neumopatía, cinco días después de haber recibido el alta tras permanecer internada casi una semana por un cuadro respiratorio bronquial",
-        "pubDate": "2026-09-18T11:57:00+00:00",
+        "title": "Juegos Suramericanos: “Sentimos que estamos en Vaca Muerta, no queremos que se termine”, destacó el sector privado en Rosario",
+        "link": "https://www.rosario3.com/informaciongeneral/juegos-suramericanos-sentimos-que-estamos-en-vaca-muerta-no-queremos-que-se-termine-destaco-el-sector-privado-en-rosario-20260918-0067.html",
+        "image": "https://www.rosario3.com/__export/1789770390886/sites/rosario3/img/2026/09/18/juegos_3.jpg_1768679258.jpg",
+        "summary": "Hoteleros, gastronómicos y autoridades provinciales realizaron un balance del movimiento generado por la competencia. El ministro Gustavo Puccini y el integrante del Comité Organizador de los Juegos, Joaquín Blanco, destacaron el efecto de los Juegos sobre el empleo, la…",
+        "pubDate": "2026-09-18T11:56:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "La morosidad batió un nuevo récord y alcanzó a casi el 13% del crédito a las familias",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-morosidad-batio-un-nuevo-record-y-alcanzo-a-casi-el-13-del-credito-a-las-familias-20260918-0063.html",
+        "image": "https://www.rosario3.com/__export/1789769321863/sites/rosario3/img/2026/09/18/deuda.jpg_1768679258.jpg",
+        "summary": "En julio, la mora aumentó 0,1 puntos porcentuales respecto al mes anterior. El nivel de irregularidad de las empresas se ubicó en 3,6 por ciento",
+        "pubDate": "2026-09-18T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -44,42 +62,24 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/los-datos-que-explican-el-aumento-del-desempleo-en-rosario-que-cambio-en-un-ano-20260918-0033.html",
         "image": "https://www.rosario3.com/__export/1789677473785/sites/rosario3/img/2026/09/17/locales_vacios.jpg_1825222445.jpg",
         "summary": "La tasa de desocupación llegó a 11,5% en el segundo trimestre, la más alta del país. En un año, el Gran Rosario pasó de tener 663 mil a 641 mil ocupados, mientras que la cantidad de desocupados aumentó de 55 mil a 83 mil. Además, casi 100 mil personas que tienen trabajo buscan…",
-        "pubDate": "2026-09-18T11:56:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Harry Kane recordó la derrota de Inglaterra ante Argentina en el Mundial y habló de Lionel Messi",
-        "link": "https://www.rosario3.com/deportes/harry-kane-recordo-la-derrota-de-inglaterra-ante-argentina-en-el-mundial-y-hablo-de-lionel-messi-20260918-0046.html",
-        "image": "https://www.rosario3.com/__export/1789757006624/sites/rosario3/img/2026/09/18/kane_messi.png_786111822.png",
-        "summary": "A dos meses de la semifinal mundialista, el capitán de Inglaterra habló sobre la eliminación ante la Albiceleste, recordó el abrazo con el rosarino tras el partido y destacó la humildad y trayectoria del capitán argentino",
-        "pubDate": "2026-09-18T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Bartolacci advirtió que con el actual presupuesto está en riesgo el comienzo de la actividad en universidades en 2027",
-        "link": "https://www.rosario3.com/informaciongeneral/bartolacci-advirtio-que-con-el-actual-presupuesto-esta-en-riesgo-el-comienzo-de-la-actividad-en-universidades-en-2027-20260918-0040.html",
-        "image": "https://www.rosario3.com/__export/1789751645212/sites/rosario3/img/2026/09/18/bartolacci.png_786111822.png",
-        "summary": "El rector de la UNR cuestionó el proyecto de Presupuesto 2027 presentado por el Gobierno nacional y marcó la diferencia entre los $11 billones que reclama el CIN y los $7,2 billones previstos por el Ejecutivo. Advirtió que, sin modificaciones, las universidades podrían afrontar…",
         "pubDate": "2026-09-18T11:54:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Otra dorada para Argentina en los Suramericanos: la mendocina Julieta Benedetti conquistó la prueba femenina de ciclismo de ruta",
-        "link": "https://www.rosario3.com/deportes/otra-dorada-para-argentina-en-los-suramericanos-la-mendocina-julieta-benedetti-conquisto-la-prueba-femenina-de-ciclismo-de-ruta-20260918-0054.html",
-        "image": "https://www.rosario3.com/__export/1789761818781/sites/rosario3/img/2026/09/18/ciclista.jpg_982625323.jpg",
-        "summary": "La campeona de 22 años se impuso en el sprint final después de 2 horas, 47 minutos y 47 segundos de carrera, el mismo tiempo oficial que registraron otras cinco competidoras. La posición final quedó determinada por el orden de llegada",
+        "title": "Qué es una neumopatía y cuáles son los síntomas de la afección por la que volvieron a internar a Mirtha Legrand",
+        "link": "https://www.rosario3.com/salud/que-es-una-neumopatia-y-cuales-son-los-sintomas-de-la-afeccion-por-la-que-volvieron-a-internar-a-mirtha-legrand-20260918-0066.html",
+        "image": "https://www.rosario3.com/__export/1789769660591/sites/rosario3/img/2026/09/18/pulmones.jpg_982625323.jpg",
+        "summary": "La conductora de 99 años fue ingresada en el Sanatorio Mater Dei con un cuadro de alteración de sus pulmones. Aunque el parte médico no brindó mayores precisiones, su condición podría deberse a infecciones respiratorias, procesos inflamatorios, enfermedades obstructivas o…",
         "pubDate": "2026-09-18T11:53:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Las Leonas arrollaron a Chile, quedaron primeras y se metieron en la final de los Suramericanos",
-        "link": "https://www.rosario3.com/deportes/las-leonas-arrollaron-a-chile-quedaron-primeras-y-se-metieron-en-la-final-de-los-suramericanos-20260918-0048.html",
-        "image": "https://www.rosario3.com/__export/1789759236651/sites/rosario3/img/2026/09/18/leoans.png_786111822.png",
-        "summary": "El seleccionado argentino femenino de hockey sobre césped se impuso 5-1, aseguró el primer puesto del grupo y se clasificó a la definición por la medalla de oro en los Juegos Suramericanos Santa Fe 2026",
+        "title": "Volvieron a internar a Mirtha Legrand y hay preocupación por su salud",
+        "link": "https://www.rosario3.com/ocio/volvieron-a-internar-a-mirtha-legrand-y-hay-preocupacion-por-su-salud-20260918-0051.html",
+        "image": "https://www.rosario3.com/__export/1789760314729/sites/rosario3/img/2026/09/18/mirtha_legrand.png_786111822.png",
+        "summary": "La conductora ingresó este viernes al Mater Dei por un cuadro de neumopatía, cinco días después de haber recibido el alta tras permanecer internada casi una semana por un cuadro respiratorio bronquial",
         "pubDate": "2026-09-18T11:52:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,51 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Emotivo reclamo de justicia por Camila, la rosarina víctima de femicidio en San Juan",
+        "link": "https://www.lacapital.com.ar/la-ciudad/emotivo-reclamo-justicia-camila-la-rosarina-victima-femicidio-san-juan-n10281923.html",
+        "image": "https://media.lacapital.com.ar/p/8b5d713ffa6b46408eace004abd043b7/adjuntos/203/imagenes/103/412/0103412196/1200x675/smart/camila-vecchiarello-189-hr-2.jpg",
+        "summary": "La imagen de la joven gendarme invadió la plaza 25 de Mayo con un pedido unánime. Elio, su hermano, aseguró: \"Vi cómo el femicida quiso cubrir todo\"",
+        "pubDate": "2026-09-18T23:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Fallas en WhatsApp: cómo solucionar problemas para enviar o recibir mensajes",
+        "link": "https://www.lacapital.com.ar/informacion-general/fallas-whatsapp-como-solucionar-problemas-enviar-o-recibir-mensajes-n10281861.html",
+        "image": "https://media.lacapital.com.ar/p/09f532d5bfb655505c6fe86b89b57000/adjuntos/203/imagenes/102/727/0102727822/1200x675/smart/whatsapp-celular.png",
+        "summary": "La entrega y recepción de mensajes puede fallar por diversas causas. Cómo detectar los motivos y cómo solucionarlo",
+        "pubDate": "2026-09-18T22:29:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El remo de Rosario volvió a cosechar medallas en los Juegos Suramericanos",
+        "link": "https://www.lacapital.com.ar/juegos-suramericanos/el-remo-rosario-volvio-cosechar-medallas-los-juegos-suramericanos-n10281881.html",
+        "image": "https://media.lacapital.com.ar/p/ae80149d5ee046e06ac290e081faf0da/adjuntos/203/imagenes/103/412/0103412172/1200x675/smart/image-13.jpg",
+        "summary": "Ignacio Pacheco y Emiliano Calderón, de Regatas Rosario, integraron el cuatro pares remos cortos que terminó tercero",
+        "pubDate": "2026-09-18T22:20:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La Libertad Avanza quiere borrar al Che Guevara de los espacios públicos de Rosario",
+        "link": "https://www.lacapital.com.ar/la-ciudad/la-libertad-avanza-quiere-borrar-al-che-guevara-los-espacios-publicos-rosario-n10281920.html",
+        "image": "https://media.lacapital.com.ar/p/f4fd9d8e73fcb46ca9026f0b0d1d84c4/adjuntos/203/imagenes/103/240/0103240388/1200x675/smart/plaza-2.jpg",
+        "summary": "El bloque libertario en el Concejo presentó una serie de proyectos para modificar los nombres de una plaza y el viaducto, además de la imagen de un mural",
+        "pubDate": "2026-09-18T22:09:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Ingreso por guardia y estudios: qué dice el parte médico de Mirtha Legrand",
+        "link": "https://www.lacapital.com.ar/zoom/ingreso-guardia-y-estudios-que-dice-el-parte-medico-mirtha-legrand-n10281915.html",
+        "image": "https://media.lacapital.com.ar/p/71e999ee2a1b6c941b26ea68cf63a8c2/adjuntos/203/imagenes/101/401/0101401529/1200x675/smart/mirtha-legrandpng.png",
+        "summary": "La diva de los almuerzos volvió a quedar internada en el sanatorio Mater Dei de la Ciudad de Buenos Aires a pocos días de que le den el alta",
+        "pubDate": "2026-09-18T21:43:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Cierra una fábrica de Pueblo Esther y proveedora de General Motors: 70 trabajadores despedidos",
@@ -222,56 +267,11 @@
       },
       {
         "source": "La Capital",
-        "title": "Newell's y Platense jugarán a puertas cerradas: la razón por la que el Calamar no contará con sus hinchas",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-y-platense-jugaran-puertas-cerradas-la-razon-la-que-el-calamar-no-contara-sus-hinchas-n10281883.html",
+        "title": "Newell's y Platense jugarán sin público: la razón por la el partido será a puertas cerradas",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-y-platense-jugaran-publico-la-razon-la-el-partido-sera-puertas-cerradas-n10281883.html",
         "image": "https://media.lacapital.com.ar/p/d9df8c18baa03e35c4d4789a28ae83a7/adjuntos/203/imagenes/103/411/0103411773/1200x675/smart/image-6.jpg",
         "summary": "La decisión la tomó la Agencia de Prevención de la Violencia en el Deporte (Aprevide), que sancionó al club de Vicente López por dos fechas",
         "pubDate": "2026-09-18T19:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Una familia de zona oeste perdió todo por un incendio y apelan a la solidaridad para reconstruir su casa",
-        "link": "https://www.lacapital.com.ar/la-ciudad/una-familia-zona-oeste-perdio-todo-un-incendio-y-apelan-la-solidaridad-reconstruir-su-casa-n10281859.html",
-        "image": "https://media.lacapital.com.ar/p/73f74e091f0a73dbd1d19df00cb0774a/adjuntos/203/imagenes/103/411/0103411584/1200x675/smart/incendio-189-2.jpg",
-        "summary": "La vivienda ubicada en Calasanz al 9300 sufrió las llamas y quedó con peligro de derrumbe, por lo que Nicolás y su familia tiene que empezar de cero.",
-        "pubDate": "2026-09-18T19:02:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Rosario adhiere a la ley que prohíbe la actividad de cuidacoches",
-        "link": "https://www.lacapital.com.ar/la-ciudad/rosario-adhiere-la-ley-que-prohibe-la-actividad-cuidacoches-n10281857.html",
-        "image": "https://media.lacapital.com.ar/p/e513577a81408449ac46dd9ba16f7a5c/adjuntos/203/imagenes/103/029/0103029427/1200x675/smart/cuidacoches.jpg",
-        "summary": "El municipio enviará el mensaje de adhesión al Concejo para que la norma aprobada ayer en el Senado provincial se pueda aplicar en la ciudad",
-        "pubDate": "2026-09-18T18:49:46+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Netflix presentó el trailer de la nueva película con Darín y Peretti",
-        "link": "https://www.lacapital.com.ar/zoom/netflix-presento-el-trailer-la-nueva-pelicula-darin-y-peretti-n10281835.html",
-        "image": "https://media.lacapital.com.ar/p/8f077d0ed2f2c6fb146877b926ed9c2b/adjuntos/203/imagenes/103/411/0103411429/1200x675/smart/image-30.png",
-        "summary": "“Lo dejamos acá” estará disponible en la plataforma a partir del 16 de octubre. El trailer y todo lo que se sabe de su trama en esta nota",
-        "pubDate": "2026-09-18T18:49:33+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Hotel Pullman Rosario será la casa de tres delegaciones en los Juegos Suramericanos 2026",
-        "link": "https://www.lacapital.com.ar/novedades/hotel-pullman-rosario-sera-la-casa-tres-delegaciones-los-juegos-suramericanos-2026-n10281844.html",
-        "image": "https://media.lacapital.com.ar/p/f4a69fa5b33f58fde0a40aa2392121f4/adjuntos/203/imagenes/103/411/0103411581/1200x675/smart/fachada.jpg",
-        "summary": "En el marco de los XIII Juegos Suramericanos que se disputarán en Rosario, Santa Fe y Rafaela del 12 al 26 de septiembre, Hotel Pullman Rosario fue seleccionado como una de las sedes oficiales para albergar a los atletas, cuerpos técnicos y oficiales de las delegaciones de…",
-        "pubDate": "2026-09-18T18:47:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Milei le bajó el tono al video de Bullrich con una canción de Lali",
-        "link": "https://www.lacapital.com.ar/politica/milei-le-el-tono-al-video-bullrich-una-cancion-lali-n10281858.html",
-        "image": "https://media.lacapital.com.ar/p/9124f2a37d967fb60a78e5109514efba/adjuntos/203/imagenes/103/199/0103199543/1200x675/smart/javier-milei-y-patricia-bullrich.jpg",
-        "summary": "El presidente dijo que “es una tontería mayúscula politizar el arte”, pero no aludió a las tensiones internas en el oficialismo. Y reconoció que escuchó temas de la cantante",
-        "pubDate": "2026-09-18T18:44:00+00:00",
         "approxTime": false
       }
     ]
