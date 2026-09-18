@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-09-18T01:10:41.580814+00:00",
+  "generatedAt": "2026-09-18T06:14:41.877209+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "El barrio de Lionel Messi se transforma ante los ojos de los turistas: comenzaron a pintar nuevos murales junto a la casa donde creció",
+        "link": "https://www.rosario3.com/informaciongeneral/el-barrio-de-lionel-messi-se-transforma-ante-los-ojos-de-los-turistas-comenzaron-a-pintar-nuevos-murales-junto-a-la-casa-donde-crecio-20260917-0078.html",
+        "image": "https://www.rosario3.com/__export/1789693494376/sites/rosario3/img/2026/09/17/messi_mural.jpg_928314580.jpg",
+        "summary": "Muralistas y vecinos trabajan en las fachadas de La Bajada para renovar el paisaje del barrio donde creció el capitán de la selección. La intervención ya genera sorpresa y emoción entre rosarinos y turistas que llegan hasta la casa de Leo, especialmente en el marco de los Juegos…",
+        "pubDate": "2026-09-17T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "El Senado provincial convirtió en ley el proyecto que sanciona la actividad de cuidacoches en Santa Fe",
         "link": "https://www.rosario3.com/informaciongeneral/el-senado-provincial-convirtio-en-ley-el-proyecto-que-sanciona-la-actividad-de-cuidacoches-en-santa-fe-20260917-0073.html",
         "image": "https://www.rosario3.com/__export/1789685496211/sites/rosario3/img/2026/09/17/cuidacoche03.jpg_1825222445.jpg",
         "summary": "La iniciativa del senador departamental por Rosario, Ciro Seisas, insistió con la versión original que había aprobado en marzo y rechazó las modificaciones de Diputados. Establece modificaciones al Código de Convivencia con sanciones a toda conducta o actividad relacionada con…",
-        "pubDate": "2026-09-17T12:00:00+00:00",
+        "pubDate": "2026-09-17T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/matrimonio-de-jubilados-perdio-todo-en-un-incendio-y-los-vecinos-piden-ayuda-para-reconstruir-su-casa-20260917-0077.html",
         "image": "https://www.rosario3.com/__export/1789691994423/sites/rosario3/img/2026/09/17/incendio.jpg_1825222445.jpg",
         "summary": "Cecilia, de 81 años, y Lucio, de 79, sufrieron la destrucción de su vivienda en Campbell y Amenábar. Una campaña solidaria busca reunir materiales y aportes económicos para que puedan empezar de nuevo",
-        "pubDate": "2026-09-17T11:59:00+00:00",
+        "pubDate": "2026-09-17T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/paro-universitario-no-habra-clases-este-viernes-18-ni-el-martes-22-en-la-unr-y-la-utn-20260917-0070.html",
         "image": "https://www.rosario3.com/__export/1789683418901/sites/rosario3/img/2026/09/17/unr.jpg_1825222445.jpg",
         "summary": "Le medida de fuerza fue lanzada en rechazo a la propuesta salarial del gobierno nacional en paritarias. Además, los gremios convocan a la nueva marcha federal del 15 de octubre",
-        "pubDate": "2026-09-17T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El desempleo trepó al 11,5% en el Gran Rosario, el más alto del país",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/el-desempleo-trepo-al-115-en-el-gran-rosario-el-mas-alto-del-pais-20260917-0064.html",
-        "image": "https://www.rosario3.com/__export/1789677473785/sites/rosario3/img/2026/09/17/locales_vacios.jpg_1825222445.jpg",
-        "summary": "La desocupación aumentó 3,8 puntos porcentuales en un año y 3,3 respecto del trimestre anterior. A nivel nacional, el índice se ubicó en 7,9%",
         "pubDate": "2026-09-17T11:57:00+00:00",
         "approxTime": true
       },
@@ -85,11 +85,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Estafador compulsivo: un candidato a intendente de la región fue acusado por engaños de todo tipo y quedó preso",
-        "link": "https://www.rosario3.com/policiales/estafador-compulsivo-un-candidato-a-intendente-de-la-region-fue-acusado-por-enganos-de-todo-tipo-y-quedo-preso-20260917-0025.html",
-        "image": "https://www.rosario3.com/__export/1787248279274/sites/rosario3/img/2025/05/13/cjp.jpg_928314581.jpg",
-        "summary": "Se trata de Eduardo Nicolás Gómez, que se presentó en 2023 como aspirante a la intendencia de Arroyo Seco por el “Proyecto Libertario”, dentro del sello de Unite. El fiscal Ramiro González Raggio lo acusó este miércoles en Rosario por haber estafado a una agencia de viajes, una…",
-        "pubDate": "2026-09-17T11:51:00+00:00",
+        "title": "Medallero de los Juegos Suramericanos Santa Fe 2026: así están las posiciones",
+        "link": "https://www.rosario3.com/deportes/medallero-de-los-juegos-suramericanos-santa-fe-2026-asi-estan-las-posiciones-20260914-0047.html",
+        "image": "https://www.rosario3.com/__export/1789694414009/sites/rosario3/img/2026/09/17/fxtbol.jpg_7935904.jpg",
+        "summary": "La tabla con las preseas obtenidas por cada país en la cita continental que tiene a Rosario como una de las sedes",
+        "pubDate": "2026-09-14T11:51:00+00:00",
         "approxTime": true
       },
       {
@@ -139,6 +139,24 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "El tiempo en Rosario: viernes con muchas nubes pero cada vez más caluroso",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-viernes-muchas-nubes-pero-cada-vez-mas-caluroso-n10281752.html",
+        "image": "https://media.lacapital.com.ar/p/690f0845425b4ea57e79546aa83ea97b/adjuntos/203/imagenes/103/410/0103410526/2026-09-17-clima-by_lvincenti-81828743.jpg",
+        "summary": "La temperatura máxima sería de 25º, subiría a 27º el sábado y podría alcanzar los 28º el domingo",
+        "pubDate": "2026-09-18T02:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El DT inglés recordó la derrota ante Argentina: \"Era como esperar la muerte\"",
+        "link": "https://www.lacapital.com.ar/ovacion/el-dt-ingles-recordo-la-derrota-argentina-era-como-esperar-la-muerte-n10281750.html",
+        "image": "https://media.lacapital.com.ar/p/4841b25e8503bea3cfb40a40fd6c42dd/adjuntos/203/imagenes/103/410/0103410505/2026-09-17-tuchel-tecnico-inglaterra.jpg",
+        "summary": "En el avance de un documental, Tuchel dijo que repasar esa derrota en semifinales del Mundial es \"una agonía de proporciones épicas\"",
+        "pubDate": "2026-09-18T01:35:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Juegos Suramericanos: el vóley playa y el tradicional no tuvieron un buen día",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/f89a59285564e74e1d399ef2c5301abd/adjuntos/203/imagenes/103/408/0103408856/1200x675/smart/image-2026-09-17t132142849.png",
         "summary": "La artista argentina se presenta el 25 de septiembre, en el Centro Cultural Parque de España, con sus trabajos \"Apapacho\" y \"Madre Selva\"",
         "pubDate": "2026-09-17T21:25:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El Senado convirtió en ley el proyecto de Inocencia Fiscal II",
-        "link": "https://www.lacapital.com.ar/politica/el-senado-convirtio-ley-el-proyecto-inocencia-fiscal-ii-n10281712.html",
-        "image": "https://media.lacapital.com.ar/p/c6f0bc4966642c23a99813d068fc5f41/adjuntos/203/imagenes/103/410/0103410029/1200x675/smart/pato-bullrich.jpg",
-        "summary": "La iniciativa se aprobó con 44 votos a favor y 23 en contra. La nueva norma busca incentivar el ingreso al circuito financiero de dólares que están fuera del sistema",
-        "pubDate": "2026-09-17T21:25:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cómo mejorar el rendimiento de un celular viejo",
-        "link": "https://www.lacapital.com.ar/informacion-general/como-mejorar-el-rendimiento-un-celular-viejo-n10281663.html",
-        "image": "https://media.lacapital.com.ar/p/8bf2e162b579296d37a74f73bee2e191/adjuntos/203/imagenes/102/381/0102381928/celularpng.png",
-        "summary": "A partir de ciertos procedimientos, los usuarios pueden optimizar el celular desde distintos aspectos antes de decidir descartarlo. El paso a paso",
-        "pubDate": "2026-09-17T21:04:00+00:00",
         "approxTime": false
       }
     ]
