@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T06:13:38.483949+00:00",
+  "generatedAt": "2026-09-19T11:18:21.798463+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,18 +141,108 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "Recorrida Semanal",
-        "link": "https://www.lacapital.com.ar/es-social/recorrida-semanal-n10281206.html",
-        "image": "https://media.lacapital.com.ar/p/00eb33bf2bce402501df070f44a36c0e/adjuntos/203/imagenes/103/403/0103403947/1200x675/smart/chicharra-1.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-09-19T03:00:00+00:00",
+        "title": "Vuelve el Festival Internacional de Artes Escénicas de Rosario",
+        "link": "https://www.lacapital.com.ar/zoom/vuelve-el-festival-internacional-artes-escenicas-rosario-n10281847.html",
+        "image": "https://media.lacapital.com.ar/p/8fb934680b4978baf73cc88f1bda4ea9/adjuntos/203/imagenes/103/411/0103411521/1200x675/smart/image-2026-09-18t152709354.jpg",
+        "summary": "Del miércoles 23 al domingo 27 de septiembre habrá más de 20 actividades y una programación que reúne propuestas locales, nacionales e internacionales",
+        "pubDate": "2026-09-19T11:00:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Aida se presentó en el teatro Broadway",
-        "link": "https://www.lacapital.com.ar/es-social/aida-se-presento-el-teatro-broadway-n10281195.html",
-        "image": "https://media.lacapital.com.ar/p/516a3f8bd7562a8e8f178c66fbfe71d5/adjuntos/203/imagenes/103/403/0103403828/1200x675/smart/aida-2.jpg",
+        "title": "El microcentro se renueva: edificios de oficinas empiezan a transformarse en viviendas",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-microcentro-se-renueva-edificios-oficinas-empiezan-transformarse-viviendas-n10281160.html",
+        "image": "https://media.lacapital.com.ar/p/ec11fc3c51c38833c454751e29adca66/adjuntos/203/imagenes/103/408/0103408697/1200x675/smart/edificio-la-esmeralda2-1.jpeg",
+        "summary": "Aunque incipiente, el fenómeno abre una oportunidad para sumar habitantes y nuevos usos al área central de Rosario",
+        "pubDate": "2026-09-19T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Cómo es el megaoperativo de salud para cuidar a los atletas en los Juegos Suramericanos",
+        "link": "https://www.lacapital.com.ar/la-ciudad/como-es-el-megaoperativo-salud-cuidar-los-atletas-los-juegos-suramericanos-n10281803.html",
+        "image": "https://media.lacapital.com.ar/p/3a03d2afb561d06d4e5cdf71a4fbe8a2/adjuntos/203/imagenes/103/411/0103411349/1200x675/smart/img-20260917-wa0018.jpg",
+        "summary": "Qué lesiones se atendieron. Cómo funciona la articulación del sistema público y privado para proteger a los deportistas y a la concurrencia",
+        "pubDate": "2026-09-19T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Almas limpias de derecha extrema",
+        "link": "https://www.lacapital.com.ar/politica/almas-limpias-derecha-extrema-n10281912.html",
+        "image": "https://media.lacapital.com.ar/p/f20cb10f2d66ad334c1f96410dd986ac/adjuntos/203/imagenes/103/346/0103346679/2026-08-20-milei.jpg",
+        "summary": "Fenómeno Milei colapsa aunque resulte reelecto",
+        "pubDate": "2026-09-19T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Nuevas carreras en la UNR: lanzan la Licenciatura en Musicoterapia",
+        "link": "https://www.lacapital.com.ar/la-ciudad/nuevas-carreras-la-unr-lanzan-la-licenciatura-musicoterapia-n10281196.html",
+        "image": "https://media.lacapital.com.ar/p/1eb9d0dfa1b866d7437db767953624d4/adjuntos/203/imagenes/023/186/0023186588/1200x675/smart/psicologiajpg.jpg",
+        "summary": "La Capital",
+        "pubDate": "2026-09-19T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El escenario que se viene para la campaña agrícola 2026/27",
+        "link": "https://www.lacapital.com.ar/agro/el-escenario-que-se-viene-la-campana-agricola-202627-n10281446.html",
+        "image": "https://media.lacapital.com.ar/p/45e69bb42c03317812d3f84a342430ea/adjuntos/203/imagenes/027/934/0027934511/1200x675/623x308:643x328/2020-02-13-eco-75243456jpg.jpg",
+        "summary": "La Bolsa de Cereales de Buenos Aires realizará el martes 22 de septiembre una jornada en la que analizará las perspectivas productivas y económicas del nuevo ciclo agrícola y los desafíos del Mercosur en los próximos diez años",
+        "pubDate": "2026-09-19T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Alcaucil, una tradición productiva de Rosario que busca nuevos consumidores",
+        "link": "https://www.lacapital.com.ar/agro/alcaucil-una-tradicion-productiva-rosario-que-busca-nuevos-consumidores-n10281246.html",
+        "image": "https://media.lacapital.com.ar/p/86ef97c61b909b087e428b36286f691a/adjuntos/203/imagenes/103/404/0103404161/1200x675/smart/alcaucil.jpg",
+        "summary": "La Facultad de Ciencias Agrarias de la UNR fue sede de una jornada sobre la cadena de valor del alcaucil. El objetivo fue acercar el cultivo a las nuevas generaciones y mostrar las alternativas para incorporarlo a la alimentación",
+        "pubDate": "2026-09-19T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La producción industrial de la provincia acumula una caída de 3,5% en 2026",
+        "link": "https://www.lacapital.com.ar/economia/la-produccion-industrial-la-provincia-acumula-una-caida-35-2026-n10281937.html",
+        "image": "https://media.lacapital.com.ar/p/c67db0eb039f7fcb767cebf94298dae8/adjuntos/203/imagenes/020/178/0020178829/1200x675/smart/7621672jpgthumbjpg.jpg",
+        "summary": "Según el último reporte de Fisfe, la actividad manufacturera bajó 2,9% interanual en julio. El 66% de las ramas fabriles experimentó bajas. Alertan sobre la irregularidad del crédito en el sector.",
+        "pubDate": "2026-09-19T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central: Almirón y una semana para que el pueblo canalla lo abrace o lo suelte definitivamente",
+        "link": "https://www.lacapital.com.ar/ovacion/central-almiron-y-una-semana-que-el-pueblo-canalla-lo-abrace-o-lo-suelte-definitivamente-n10281935.html",
+        "image": "https://media.lacapital.com.ar/p/edadfe204c6dd0a5eb302eb81787d48a/adjuntos/203/imagenes/103/412/0103412329/ja.jpeg",
+        "summary": "El domingo con Argentinos y, en especial, el sábado que viene con Estudiantes, el DT de Central se juega el respaldo o acentúa la reprobación",
+        "pubDate": "2026-09-19T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Asociación Rosarina de Fútbol: Ludueña se paraliza con el clásico entre Social Lux y Defensores Unidos",
+        "link": "https://www.lacapital.com.ar/ovacion/asociacion-rosarina-futbol-luduena-se-paraliza-el-clasico-social-lux-y-defensores-unidos-n10281894.html",
+        "image": "https://media.lacapital.com.ar/p/13db346875af895967c07884d66cb4a4/adjuntos/203/imagenes/103/412/0103412314/1200x675/smart/defesnores-15.jpg",
+        "summary": "Este sábado a las 16, en la cancha del Mercadito se jugará unos de los clásicos importante de la Rosarina por la Primera B. También se jugará la Primera A y C",
+        "pubDate": "2026-09-19T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Primera C: Golpeado por el presente, Argentino juega las últimas fichas ante Berazategui",
+        "link": "https://www.lacapital.com.ar/ovacion/primera-c-golpeado-el-presente-argentino-juega-las-ultimas-fichas-berazategui-n10281865.html",
+        "image": "https://media.lacapital.com.ar/p/fc92fbc41b6945118087ab73354050c5/adjuntos/203/imagenes/103/411/0103411820/1200x675/smart/image-95.png",
+        "summary": "El equipo de barrio Sarmiento complicado con el descenso recibe este sábado a las 15, al Naranja con la obligación de conseguir un triunfo en Primera C",
+        "pubDate": "2026-09-19T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Entre Cuerdas y Letras invitó a Mariano Rey",
+        "link": "https://www.lacapital.com.ar/es-social/entre-cuerdas-y-letras-invito-mariano-rey-n10281390.html",
+        "image": "https://media.lacapital.com.ar/p/0b0f6d91770504400641857338f37721/adjuntos/203/imagenes/103/405/0103405919/1200x675/smart/diariolacapital-1.jpg",
         "summary": "La Capital",
         "pubDate": "2026-09-19T03:00:00+00:00",
         "approxTime": false
@@ -168,9 +258,9 @@
       },
       {
         "source": "La Capital",
-        "title": "Entre Cuerdas y Letras invitó a Mariano Rey",
-        "link": "https://www.lacapital.com.ar/es-social/entre-cuerdas-y-letras-invito-mariano-rey-n10281390.html",
-        "image": "https://media.lacapital.com.ar/p/0b0f6d91770504400641857338f37721/adjuntos/203/imagenes/103/405/0103405919/1200x675/smart/diariolacapital-1.jpg",
+        "title": "Palito Ortega visitó Rosario",
+        "link": "https://www.lacapital.com.ar/es-social/palito-ortega-visito-rosario-n10281384.html",
+        "image": "https://media.lacapital.com.ar/p/f18131274b6c56686b7ef7cad176db0f/adjuntos/203/imagenes/103/405/0103405872/1200x675/smart/palitoortega-1.jpg",
         "summary": "La Capital",
         "pubDate": "2026-09-19T03:00:00+00:00",
         "approxTime": false
@@ -182,96 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/74787dbf961965e59ccea36500c06b2b/adjuntos/203/imagenes/103/404/0103404009/1200x675/smart/cataforest-1.jpg",
         "summary": "La Capital",
         "pubDate": "2026-09-19T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Palito Ortega visitó Rosario",
-        "link": "https://www.lacapital.com.ar/es-social/palito-ortega-visito-rosario-n10281384.html",
-        "image": "https://media.lacapital.com.ar/p/f18131274b6c56686b7ef7cad176db0f/adjuntos/203/imagenes/103/405/0103405872/1200x675/smart/palitoortega-1.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-09-19T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El tiempo en Rosario: la temperatura sigue subiendo pero las tormentas ya se asoman",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-la-temperatura-sigue-subiendo-pero-las-tormentas-ya-se-asoman-n10281950.html",
-        "image": "https://media.lacapital.com.ar/p/b0b1b374b418940651b7355da7c35fc0/adjuntos/203/imagenes/102/004/0102004472/1200x675/smart/clima-primavera.png",
-        "summary": "El fin de semana estará marcado por registros que se acercarán a 30 grados y una chance concreta de inestabilidad",
-        "pubDate": "2026-09-19T01:50:54+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Juegos Suramericanos: Los Pumas Seven y Las Yaguaretés mostraron su ferocidad en el Óvalo",
-        "link": "https://www.lacapital.com.ar/juegos-suramericanos/juegos-suramericanos-los-pumas-seven-y-las-yaguaretes-mostraron-su-ferocidad-el-ovalo-n10281946.html",
-        "image": "https://media.lacapital.com.ar/p/b9d7e3e0c71111f07f7cec208a2d493d/adjuntos/203/imagenes/103/412/0103412398/rug-82682227.jpg",
-        "summary": "Ambos seleccionados argentinos de rugby golearon en sus primeras presentaciones en el Hipódromo rosarino. Cómo fue la 6ª jornada",
-        "pubDate": "2026-09-19T01:36:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El judo de Rosario consiguió una segunda medalla de plata en los Juegos Suramericanos",
-        "link": "https://www.lacapital.com.ar/juegos-suramericanos/el-judo-rosario-consiguio-una-segunda-medalla-plata-los-juegos-suramericanos-n10281944.html",
-        "image": "https://media.lacapital.com.ar/p/32438005803fe3a3032205817a37772c/adjuntos/203/imagenes/103/412/0103412387/1200x675/smart/image-15.jpg",
-        "summary": "Pasado el mediodía, Agustina De Lucía ganó la primera presea del judo de Rosario y a última hora lo hicieron Pablo Aguirre Brassesco y Sebastián Nunes",
-        "pubDate": "2026-09-19T01:24:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Juegos Suramericanos, día 7: todo lo que hay que saber de un sábado a full",
-        "link": "https://www.lacapital.com.ar/juegos-suramericanos/juegos-suramericanos-dia-7-todo-lo-que-hay-que-saber-un-sabado-full-n10281942.html",
-        "image": "https://media.lacapital.com.ar/p/78a24f534ac8b88c662ad57dcde8d9ef/adjuntos/203/imagenes/103/412/0103412363/1200x675/smart/image-14.jpg",
-        "summary": "La competencia cumple una semana completa y Rosario tendrá una variada oferta, con el fútbol como opción muy atractiva",
-        "pubDate": "2026-09-19T00:26:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Un exjugador de Newell's confesó que sufrió depresión y que un llamado de su psicóloga le salvó la vida",
-        "link": "https://www.lacapital.com.ar/ovacion/un-exjugador-newells-confeso-que-sufrio-depresion-y-que-un-llamado-su-psicologa-le-la-vida-n10281938.html",
-        "image": "https://media.lacapital.com.ar/p/36be4af143dd719bfcfda2dc23f98ab0/adjuntos/203/imagenes/103/412/0103412386/1200x675/smart/jonatan-cristaldo-newells.jpg",
-        "summary": "Contó que empezó a sentirse mal tras tener su primera experiencia en un club europeo y que luego tuvo problemas de alcoholismo",
-        "pubDate": "2026-09-19T00:21:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Newell's: Santiago Solari, un penal dilapidado y un caso que se está resolviendo",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-santiago-solari-un-penal-dilapidado-y-un-caso-que-se-esta-resolviendo-n10281933.html",
-        "image": "https://media.lacapital.com.ar/p/14139121a377130184a3788a6aa5d44b/adjuntos/203/imagenes/103/412/0103412316/1200x675/smart/nob-solari-660325.jpg",
-        "summary": "Tras la falla en la pena máxima ante Vélez, los focos de atención se centraron en la continuidad en el once del último refuerzo Leproso",
-        "pubDate": "2026-09-19T00:07:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Emotivo reclamo de justicia por Camila, la rosarina víctima de femicidio en San Juan",
-        "link": "https://www.lacapital.com.ar/la-ciudad/emotivo-reclamo-justicia-camila-la-rosarina-victima-femicidio-san-juan-n10281923.html",
-        "image": "https://media.lacapital.com.ar/p/8b5d713ffa6b46408eace004abd043b7/adjuntos/203/imagenes/103/412/0103412196/1200x675/smart/camila-vecchiarello-189-hr-2.jpg",
-        "summary": "La imagen de la joven gendarme invadió la plaza 25 de Mayo con un pedido unánime. Elio, su hermano, aseguró: \"Vi cómo el femicida quiso cubrir todo\"",
-        "pubDate": "2026-09-18T23:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Fallas en WhatsApp: cómo solucionar problemas para enviar o recibir mensajes",
-        "link": "https://www.lacapital.com.ar/informacion-general/fallas-whatsapp-como-solucionar-problemas-enviar-o-recibir-mensajes-n10281861.html",
-        "image": "https://media.lacapital.com.ar/p/09f532d5bfb655505c6fe86b89b57000/adjuntos/203/imagenes/102/727/0102727822/1200x675/smart/whatsapp-celular.png",
-        "summary": "La entrega y recepción de mensajes puede fallar por diversas causas. Cómo detectar los motivos y cómo solucionarlo",
-        "pubDate": "2026-09-18T22:29:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El remo de Rosario volvió a cosechar medallas en los Juegos Suramericanos",
-        "link": "https://www.lacapital.com.ar/juegos-suramericanos/el-remo-rosario-volvio-cosechar-medallas-los-juegos-suramericanos-n10281881.html",
-        "image": "https://media.lacapital.com.ar/p/ae80149d5ee046e06ac290e081faf0da/adjuntos/203/imagenes/103/412/0103412172/1200x675/smart/image-13.jpg",
-        "summary": "Ignacio Pacheco y Emiliano Calderón, de Regatas Rosario, integraron el cuatro pares remos cortos que terminó tercero",
-        "pubDate": "2026-09-18T22:20:00+00:00",
         "approxTime": false
       }
     ]
