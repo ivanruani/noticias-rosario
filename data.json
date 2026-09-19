@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T23:26:50.165394+00:00",
+  "generatedAt": "2026-09-19T01:24:13.384747+00:00",
   "sites": {
     "rosario3": [
       {
@@ -49,19 +49,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "La morosidad batió un nuevo récord y alcanzó a casi el 13% del crédito a las familias",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-morosidad-batio-un-nuevo-record-y-alcanzo-a-casi-el-13-del-credito-a-las-familias-20260918-0063.html",
-        "image": "https://www.rosario3.com/__export/1789769321863/sites/rosario3/img/2026/09/18/deuda.jpg_1768679258.jpg",
-        "summary": "En julio, la mora aumentó 0,1 puntos porcentuales respecto al mes anterior. El nivel de irregularidad de las empresas se ubicó en 3,6 por ciento",
+        "title": "Julio Lamas en los Juegos Suramericanos: \"Rosario está dando un paso para adelante como la ciudad del deporte\"",
+        "link": "https://www.rosario3.com/deportes/julio-lamas-en-los-juegos-suramericanos-rosario-esta-dando-un-paso-para-adelante-como-la-ciudad-del-deporte-20260918-0061.html",
+        "image": "https://www.rosario3.com/__export/1789767013803/sites/rosario3/img/2026/09/18/julio_lamas.jpg_928314580.jpg",
+        "summary": "El ex entrenador de la selección de básquet recorrió los escenarios y destacó la nueva infraestructura deportiva que quedará en la ciudad",
         "pubDate": "2026-09-18T11:55:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Los datos que explican el aumento del desempleo en Rosario: qué cambió en un año",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/los-datos-que-explican-el-aumento-del-desempleo-en-rosario-que-cambio-en-un-ano-20260918-0033.html",
-        "image": "https://www.rosario3.com/__export/1789677473785/sites/rosario3/img/2026/09/17/locales_vacios.jpg_1825222445.jpg",
-        "summary": "La tasa de desocupación llegó a 11,5% en el segundo trimestre, la más alta del país. En un año, el Gran Rosario pasó de tener 663 mil a 641 mil ocupados, mientras que la cantidad de desocupados aumentó de 55 mil a 83 mil. Además, casi 100 mil personas que tienen trabajo buscan…",
+        "title": "La morosidad batió un nuevo récord y alcanzó a casi el 13% del crédito a las familias",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-morosidad-batio-un-nuevo-record-y-alcanzo-a-casi-el-13-del-credito-a-las-familias-20260918-0063.html",
+        "image": "https://www.rosario3.com/__export/1789769321863/sites/rosario3/img/2026/09/18/deuda.jpg_1768679258.jpg",
+        "summary": "En julio, la mora aumentó 0,1 puntos porcentuales respecto al mes anterior. El nivel de irregularidad de las empresas se ubicó en 3,6 por ciento",
         "pubDate": "2026-09-18T11:54:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,33 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Juegos Suramericanos, día 7: todo lo que hay que saber de un sábado a full",
+        "link": "https://www.lacapital.com.ar/juegos-suramericanos/juegos-suramericanos-dia-7-todo-lo-que-hay-que-saber-un-sabado-full-n10281942.html",
+        "image": "https://media.lacapital.com.ar/p/78a24f534ac8b88c662ad57dcde8d9ef/adjuntos/203/imagenes/103/412/0103412363/1200x675/smart/image-14.jpg",
+        "summary": "La competencia cumple una semana completa y Rosario tendrá una variada oferta, con el fútbol como opción muy atractiva",
+        "pubDate": "2026-09-19T00:26:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Un exjugador de Newell's confesó que sufrió depresión y que un llamado de su psicóloga le salvó la vida",
+        "link": "https://www.lacapital.com.ar/ovacion/un-exjugador-newells-confeso-que-sufrio-depresion-y-que-un-llamado-su-psicologa-le-la-vida-n10281938.html",
+        "image": "https://media.lacapital.com.ar/p/36be4af143dd719bfcfda2dc23f98ab0/adjuntos/203/imagenes/103/412/0103412386/1200x675/smart/jonatan-cristaldo-newells.jpg",
+        "summary": "Contó que empezó a sentirse mal tras tener su primera experiencia en un club europeo y que luego tuvo problemas de alcoholismo",
+        "pubDate": "2026-09-19T00:21:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Newell's: Santiago Solari, un penal dilapidado y un caso que se está resolviendo",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-santiago-solari-un-penal-dilapidado-y-un-caso-que-se-esta-resolviendo-n10281933.html",
+        "image": "https://media.lacapital.com.ar/p/14139121a377130184a3788a6aa5d44b/adjuntos/203/imagenes/103/412/0103412316/1200x675/smart/nob-solari-660325.jpg",
+        "summary": "Tras la falla en la pena máxima ante Vélez, los focos de atención se centraron en la continuidad en el once del último refuerzo Leproso",
+        "pubDate": "2026-09-19T00:07:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Emotivo reclamo de justicia por Camila, la rosarina víctima de femicidio en San Juan",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/86d572201a18781c8276ec41f7fa4b6f/adjuntos/203/imagenes/103/411/0103411750/1200x675/smart/huerta-san-martin-1.jpeg",
         "summary": "Se realizó una nueva jornada de capacitación, intercambio y entrega de semillas en la Agencia de Extensión Rural Inta de Carlos Pellegrini",
         "pubDate": "2026-09-18T19:41:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Julio Lamas sobre los Juegos Suramericanos en Rosario: \"Esto va a ser un antes y un después\"",
-        "link": "https://www.lacapital.com.ar/ovacion/julio-lamas-los-juegos-suramericanos-rosario-esto-va-ser-un-antes-y-un-despues-n10281863.html",
-        "image": "https://media.lacapital.com.ar/p/8f159f25280b97932059c1c34efa3bdd/adjuntos/203/imagenes/103/411/0103411655/1200x675/smart/julio-lamas.jpeg",
-        "summary": "El exentrenador de la selección de básquet estuvo presente en el Invencible Rosario y puso al \"deporte como un remedio a los problemas de la sociedad\"",
-        "pubDate": "2026-09-18T19:29:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La coincidencia que la AFA no tuvo en cuenta para la final entre Central y Estudiantes",
-        "link": "https://www.lacapital.com.ar/ovacion/la-coincidencia-que-la-afa-no-tuvo-cuenta-la-final-central-y-estudiantes-n10281871.html",
-        "image": "https://media.lacapital.com.ar/p/2f16f190c2d90616a16ec68b0f33db90/adjuntos/203/imagenes/103/411/0103411680/1200x675/smart/central_estudiantes.jpg",
-        "summary": "El mismo día se cerrarán los Juegos Suramericanos. En caso de que el Canalla se quede con el título, aumentará la movilización en las calles de la ciudad",
-        "pubDate": "2026-09-18T19:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Newell's y Platense jugarán sin público: la razón por la el partido será a puertas cerradas",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-y-platense-jugaran-publico-la-razon-la-el-partido-sera-puertas-cerradas-n10281883.html",
-        "image": "https://media.lacapital.com.ar/p/d9df8c18baa03e35c4d4789a28ae83a7/adjuntos/203/imagenes/103/411/0103411773/1200x675/smart/image-6.jpg",
-        "summary": "La decisión la tomó la Agencia de Prevención de la Violencia en el Deporte (Aprevide), que sancionó al club de Vicente López por dos fechas",
-        "pubDate": "2026-09-18T19:15:00+00:00",
         "approxTime": false
       }
     ]
