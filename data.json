@@ -1,14 +1,32 @@
 {
-  "generatedAt": "2026-09-19T17:42:34.944438+00:00",
+  "generatedAt": "2026-09-19T19:56:43.578152+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Caen seis personas en una redada antinarcóticos en barrio Alvear: encontraron droga oculta en un popular peluche",
+        "link": "https://www.rosario3.com/policiales/caen-seis-personas-en-una-redada-antinarcoticos-en-barrio-alvear-encontraron-droga-oculta-en-un-popular-peluche-20260919-0013.html",
+        "image": "https://www.rosario3.com/__export/1789837229768/sites/rosario3/img/2026/09/19/pfa_allanamientos_-3-.jpeg_672794304.jpeg",
+        "summary": "Diez allanamientos de la PFA tuvieron lugar en cercanías del potrero de Lavalle y Ameghino, en la zona sudoeste de Rosario. Entre los elementos secuestrados hubo cocaína que fue hallada dentro de un peluche con forma de capibara",
+        "pubDate": "2026-09-19T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Una nueva misión del FMI llega al país y el Gobierno espera un desembolso de US$ 900 millones",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/una-nueva-mision-del-fmi-llega-al-pais-y-el-gobierno-espera-un-desembolso-de-us-900-millones-20260919-0022.html",
+        "image": "https://www.rosario3.com/__export/1789847243536/sites/rosario3/img/2026/09/19/fmiargentina.jpg_2106848869.jpg",
+        "summary": "El monto corresponde a los fondos pendientes dentro del cronograma previsto para este año. La revisión tomará como referencia los números de la economía al cierre del segundo trimestre y pondrá el foco en dos variables centrales del programa: el resultado fiscal y la acumulación…",
+        "pubDate": "2026-09-19T11:59:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Exponen búnker tumbero en la cárcel de Piñero y amenazas a familiares de presos por deudas con drogas",
         "link": "https://www.rosario3.com/policiales/exponen-bunker-tumbero-en-la-carcel-de-pinero-y-amenazas-a-familiares-de-presos-por-deudas-con-drogas-20260919-0008.html",
         "image": "https://www.rosario3.com/__export/1789831071075/sites/rosario3/img/2021/06/29/carcelpixero1.jpg_566798741.jpg",
         "summary": "Uno de los internos espera el juicio como autor de uno de los crímenes narcoterroristas: el homicidio del chofer de la línea K Marcos Daloia, cometido en marzo de 2024. La Fiscalía sostiene que la droga ingresaba al penal con ayuda de mujeres embarazadas que eludían los…",
-        "pubDate": "2026-09-19T12:00:00+00:00",
+        "pubDate": "2026-09-19T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -17,25 +35,16 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/radiografia-de-la-mora-en-rosario-quienes-deben-cuanto-y-que-edad-tienen-los-que-mas-se-atrasan-20260919-0007.html",
         "image": "https://www.rosario3.com/__export/1789828430038/sites/rosario3/img/2026/09/19/disen-o_sin_ti-tulo_-65-.png_928314581.png",
         "summary": "Casi 500 mil personas tienen deudas registradas en la ciudad y una de cada cuatro está en mora. Un informe de MATE muestra fuertes diferencias según la edad y el tipo de prestamista. Entre los jóvenes de 20 a 24 años, el 44% aparece atrasado y el crédito rápido no bancario…",
-        "pubDate": "2026-09-19T11:59:00+00:00",
+        "pubDate": "2026-09-19T11:57:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Mataron de un tiro a un adolescente de 14 años en el extremo sur de Rosario",
-        "link": "https://www.rosario3.com/policiales/mataron-de-un-tiro-a-un-adolescente-de-14-anos-en-el-extremo-sur-de-rosario-20260919-0005.html",
-        "image": "https://www.rosario3.com/__export/1789823795488/sites/rosario3/img/2026/09/19/crotone_800_homicidio_ian_guevara.jpg_672794304.jpg",
-        "summary": "Este sábado lo encontraron muerto de un disparo en el tórax, en una calle cercana a avenida San Martín al 7000. En la escena hallaron una vaina servida. Vivía en Las Flores Sur",
-        "pubDate": "2026-09-19T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Denuncian al chofer de un fallecido empresario agropecuario por presunta falsificación de suculento testamento a su favor",
-        "link": "https://www.rosario3.com/policiales/denuncian-al-chofer-de-un-fallecido-empresario-agropecuario-por-presunta-falsificacion-de-suculento-testamento-a-su-favor-20260918-0039.html",
-        "image": "https://www.rosario3.com/__export/1789752421880/sites/rosario3/img/2026/09/18/armstrong.jpg_928314580.jpg",
-        "summary": "La presentación judicial la hizo la prima hermana de Norberto Santilli, un hombre de 82 años de Armstrong que murió 60 días después de haber firmado la herencia que benefició a su asistente. La denunciante señaló presuntas irregularidades y hasta pidió la exhumación del cuerpo…",
-        "pubDate": "2026-09-18T11:57:00+00:00",
+        "title": "Scaloni y el cuerpo técnico de la Selección viajaron a Rosario para ver el partido de la sub-19 ante Uruguay por los Suramericanos",
+        "link": "https://www.rosario3.com/informaciongeneral/scaloni-y-el-cuerpo-tecnico-de-la-seleccion-viajaron-a-rosario-para-ver-el-partido-de-la-sub-19-ante-uruguay-por-los-suramericanos-20260919-0018.html",
+        "image": "https://www.rosario3.com/__export/1789843850223/sites/rosario3/img/2026/09/19/scalonicoloso.jpg_2066215762.jpg",
+        "summary": "El entrenador y parte de su equipo de trabajo llegaron este sábado al Coloso Marcelo Bielsa para presenciar el encuentro entre el combinado nacional y la Celeste",
+        "pubDate": "2026-09-19T11:56:00+00:00",
         "approxTime": true
       },
       {
@@ -44,16 +53,7 @@
         "link": "https://www.rosario3.com/ocio/se-viene-la-primavera-vida-en-el-fan-fest-de-los-juegos-suramericanos-santa-fe-2026-20260916-0019.html",
         "image": "https://www.rosario3.com/__export/1789564827592/sites/rosario3/img/2026/09/16/fotojet_-_2026-09-16t101908_933_version1789564827023.jpg_2026709677.jpg",
         "summary": "Este sábado, desde las 17, FM Vida 97.9 copa el escenario principal del para meter un fiestón inolvidable. Ana y Agus abrirán El Bodegón, y Sebas y Mica estarán entre la gente, A las 19, Los Caligaris desplegarán sus hits y a las 20, será el cierre con la Fiesta Polenta. Además…",
-        "pubDate": "2026-09-16T11:56:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La selección rosarina de futsal llegó a la final del Argentino y va por el título ante el campeón defensor",
-        "link": "https://www.rosario3.com/deportes/la-seleccion-rosarina-de-futsal-llego-a-la-final-del-argentino-y-va-por-el-titulo-ante-el-campeon-defensor-20260919-0012.html",
-        "image": "https://www.rosario3.com/__export/1789835088556/sites/rosario3/img/2026/09/19/file_-1-_version1789835088093.jpg_2091917823.jpg",
-        "summary": "El equipo, integrado por jugadores de distintos clubes de Rosario, terminó primero en su zona y eliminó a Tucumán por penales. Este sábado enfrenta a Comodoro Rivadavia, local y campeón de la última edición",
-        "pubDate": "2026-09-19T11:55:00+00:00",
+        "pubDate": "2026-09-16T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -141,11 +141,65 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Visita de lujo en el Coloso: Scaloni siguió de cerca a los pibes de Argentina en los Juegos Suramericanos",
+        "link": "https://www.lacapital.com.ar/juegos-suramericanos/visita-lujo-el-coloso-scaloni-siguio-cerca-los-pibes-argentina-los-juegos-suramericanos-n10282018.html",
+        "image": "https://media.lacapital.com.ar/p/03f6899fe1e86c4901f43b45d7d8786f/adjuntos/203/imagenes/103/413/0103413370/1200x675/smart/scaloni-juegos-suramericanos-199.jpg",
+        "summary": "El partido que disputan Argentina y Uruguay por la competencia de fútbol en los Suramericanos tuvo la presencia del cuerpo técnico de la selección mayor",
+        "pubDate": "2026-09-19T19:36:14+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Milei vuelve a Estados Unidos para exponer en la ONU y reunirse con empresarios y un rabino",
+        "link": "https://www.lacapital.com.ar/politica/milei-vuelve-estados-unidos-exponer-la-onu-y-reunirse-empresarios-y-un-rabino-n10282015.html",
+        "image": "https://media.lacapital.com.ar/p/3e50ffba6ed1ad474c589a14befe8b7b/adjuntos/203/imagenes/103/413/0103413366/1200x675/smart/milei-eeuu-199.jpg",
+        "summary": "El mandatario argentino participará de la 81ª Asamblea General de las Naciones Unidas en New York y aprovechará para encontrarse con economistas, empresarios y un religioso muy cercano",
+        "pubDate": "2026-09-19T19:09:57+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Imputaron por regentear un búnker en Piñero a un acusado por matar al chofer de la línea K",
+        "link": "https://www.lacapital.com.ar/imputaron-regentear-un-bunker-pinero-un-acusado-matar-al-chofer-la-linea-k-n10282008.html",
+        "image": "https://media.lacapital.com.ar/p/7325e57d890202694bd9298920df34eb/adjuntos/203/imagenes/103/106/0103106000/1200x675/smart/pi.jpg",
+        "summary": "Axel Herrera está apuntado por vender drogas dentro de la cárcel con ayuda de otro interno y de su madre, que estaba en libertad",
+        "pubDate": "2026-09-19T18:14:15+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Lali Espósito habló sobre el presente del cine nacional: \"Ha sido muy atacado por el gobierno\"",
+        "link": "https://www.lacapital.com.ar/zoom/lali-esposito-hablo-el-presente-del-cine-nacional-ha-sido-muy-atacado-el-gobierno-n10282013.html",
+        "image": "https://media.lacapital.com.ar/p/082b186e5ba7c01c2d27ae2c8673f576/adjuntos/203/imagenes/103/413/0103413365/1200x675/smart/image-2026-09-19t162825035.jpg",
+        "summary": "La actriz y cantante habló con la prensa en el marco de su participación en el Festival de Cine de San Sebastián",
+        "pubDate": "2026-09-19T18:13:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Cooperativas de inclusión: un camino posible y concreto de reinserción social en Rosario",
+        "link": "https://www.lacapital.com.ar/la-ciudad/cooperativas-inclusion-un-camino-posible-y-concreto-reinsercion-social-rosario-n10281842.html",
+        "image": "https://media.lacapital.com.ar/p/6e8d690b449e2b91f84314623e29e2b2/adjuntos/203/imagenes/103/411/0103411887/1200x675/smart/horno.jpg",
+        "summary": "El trabajo cooperativo brinda espacios de formación, capacitación y nuevos saberes a partir del concepto de economía circular sustentable. Qué tipo de proyectos hay en Rosario",
+        "pubDate": "2026-09-19T17:44:38+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Llegan a Rosario los músicos uruguayos Leonardo Amuedo y Daniel Maza",
+        "link": "https://www.lacapital.com.ar/zoom/llegan-rosario-los-musicos-uruguayos-leonardo-amuedo-y-daniel-maza-n10282012.html",
+        "image": "https://media.lacapital.com.ar/p/0a3815ff574f6447a089b4e01ff3f163/adjuntos/203/imagenes/103/413/0103413142/1200x675/smart/whatsapp-image-2026-09-18-at-093614.jpeg",
+        "summary": "Es este domingo 20 de septiembre en el Complejo Cultural Atlas. Tienen una vasta y rica trayectoria internacional",
+        "pubDate": "2026-09-19T17:39:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Ivo Dargoltz, la nueva medalla del judo rosarino en los Juegos Suramericanos",
         "link": "https://www.lacapital.com.ar/ivo-dargoltz-la-nueva-medalla-del-judo-rosarino-los-juegos-suramericanos-n10282009.html",
-        "image": "https://media.lacapital.com.ar/p/c6064d8b6fd28845452ab1395f040d76/adjuntos/203/imagenes/103/413/0103413119/1200x675/smart/image.jpg",
+        "image": "https://media.lacapital.com.ar/p/19a004dc36cbf1077c2f2d60cbf6744e/adjuntos/203/imagenes/103/413/0103413321/1200x675/smart/ivo-dargoltz.jpg",
         "summary": "Es periodista deportivo, representa a Gimnasia y dijo que fue la mejor actuación de su carrera, ganando la medalla de bronce con un ippon",
-        "pubDate": "2026-09-19T17:32:16+00:00",
+        "pubDate": "2026-09-19T17:32:00+00:00",
         "approxTime": false
       },
       {
@@ -218,60 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/328032d00ad7c4f58262695077f90aee/adjuntos/203/imagenes/103/412/0103412882/1200x675/smart/imagen-nota.jpg",
         "summary": "El barco fue botado en Nueva Palmira, Uruguay, tras llegar desde Australia a bordo de un buque semisumergible. Tiene capacidad para 2.100 pasajeros y 225 vehículos y comenzará a operar entre Buenos Aires y Colonia hacia fines de octubre",
         "pubDate": "2026-09-19T15:13:29+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "San Lorenzo pone en marcha una gran obra vial: reasfaltará 25 cuadras en el corazón de la ciudad",
-        "link": "https://www.lacapital.com.ar/la-region/san-lorenzo-pone-marcha-una-gran-obra-vial-reasfaltara-25-cuadras-el-corazon-la-ciudad-n10281985.html",
-        "image": "https://media.lacapital.com.ar/p/bcfe95371dad3cfff66e793f2e01bc82/adjuntos/203/imagenes/103/412/0103412863/repavimentacion-san-lorenzo.jpeg",
-        "summary": "El plan de reformas de la Municipalidad comprende las calles General López e Hipólito Yrigoyen, dos corredores estratégicos de la ciudad",
-        "pubDate": "2026-09-19T15:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Crimen en la zona sur de Rosario: asesinaron a balazos a un chico de 14 años",
-        "link": "https://www.lacapital.com.ar/policiales/crimen-la-zona-sur-rosario-asesinaron-balazos-un-chico-14-anos-n10281980.html",
-        "image": "https://media.lacapital.com.ar/p/a5f2bf3c58f251ca79877b579f05cc36/adjuntos/203/imagenes/103/412/0103412839/ulises-siracusa.jpg",
-        "summary": "Ian Guevara falleció a primera hora de la mañana en inmediaciones del arroyo Saladillo. Los vecinos hicieron la denuncia por el ruido de disparos",
-        "pubDate": "2026-09-19T14:28:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Robo frente a la autopista Rosario-Córdoba: cuatro detenidos y una pick up recuperada",
-        "link": "https://www.lacapital.com.ar/policiales/robo-frente-la-autopista-rosario-cordoba-cuatro-detenidos-y-una-pick-up-recuperada-n10281972.html",
-        "image": "https://media.lacapital.com.ar/p/5e1c1c564a7bf41e205ccf98d60e097d/adjuntos/203/imagenes/103/412/0103412768/robo-segui-larralde-1.jpg",
-        "summary": "La policía comenzó a rastrear a los ladrones desde el puente de Wilde, donde a la mañana surgió otra denuncia de un episodio similar",
-        "pubDate": "2026-09-19T14:07:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El padre de Paula Perassi hizo una dura crítica en San Lorenzo: \"15 años sin tener nada\"",
-        "link": "https://www.lacapital.com.ar/la-region/el-padre-paula-perassi-hizo-una-dura-critica-san-lorenzo-15-anos-tener-nada-n10281959.html",
-        "image": "https://media.lacapital.com.ar/p/cd3399382f89785d47e378db4b93b8a8/adjuntos/203/imagenes/103/412/0103412517/marcha-paula-perassi.jpg",
-        "summary": "Alberto Perassi y su esposa Alicia Ostri encabezaron la marcha por el aniversario de la desaparición de su hija",
-        "pubDate": "2026-09-19T13:01:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Inscriben para una nueva edición de la Maratón Nocturna de Timbúes",
-        "link": "https://www.lacapital.com.ar/la-region/inscriben-una-nueva-edicion-la-maraton-nocturna-timbues-n10281692.html",
-        "image": "https://media.lacapital.com.ar/p/5e4858d266f93981dd38d1dc153a96d3/adjuntos/203/imagenes/103/409/0103409800/1200x675/smart/timbues-maraton4.jpg",
-        "summary": "El programa contempla una prueba de 450 metros para niños, una caminata de tres kilómetros, una categoría integrativa de seis kilómetros y la competencia principal de 12 kilómetros",
-        "pubDate": "2026-09-19T13:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Buscan endurecer las sanciones por las picadas ilegales en la provincia de Santa Fe",
-        "link": "https://www.lacapital.com.ar/la-region/buscan-endurecer-las-sanciones-las-picadas-ilegales-la-provincia-santa-fe-n10281910.html",
-        "image": "https://media.lacapital.com.ar/p/f5961d70f8891a84533810251f5f44b1/adjuntos/203/imagenes/102/222/0102222992/1200x675/smart/picadaswebp.png",
-        "summary": "El proyecto impulsado por el senador Esteban Motta, prevé multas e inhabilitaciones más severas y extiende responsabilidades",
-        "pubDate": "2026-09-19T13:00:00+00:00",
         "approxTime": false
       }
     ]
