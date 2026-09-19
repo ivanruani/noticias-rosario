@@ -1,23 +1,77 @@
 {
-  "generatedAt": "2026-09-19T11:18:21.798463+00:00",
+  "generatedAt": "2026-09-19T14:36:15.247195+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Denuncian al chofer de un fallecido empresario agropecuario por presunta falsificación de suculento testamento a su favor",
+        "link": "https://www.rosario3.com/policiales/denuncian-al-chofer-de-un-fallecido-empresario-agropecuario-por-presunta-falsificacion-de-suculento-testamento-a-su-favor-20260918-0039.html",
+        "image": "https://www.rosario3.com/__export/1789752421880/sites/rosario3/img/2026/09/18/armstrong.jpg_928314580.jpg",
+        "summary": "La presentación judicial la hizo la prima hermana de Norberto Santilli, un hombre de 82 años de Armstrong que murió 60 días después de haber firmado la herencia que benefició a su asistente. La denunciante señaló presuntas irregularidades y hasta pidió la exhumación del cuerpo…",
+        "pubDate": "2026-09-18T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "“Ganamos con el corazón, pero necesitamos plata”: el reclamo de los atletas argentinos en los Suramericanos",
+        "link": "https://www.rosario3.com/informaciongeneral/ganamos-con-el-corazon-pero-necesitamos-plata-el-reclamo-de-los-atletas-argentinos-en-los-suramericanos-20260919-0004.html",
+        "image": "https://www.rosario3.com/__export/1789823988366/sites/rosario3/img/2026/09/19/disen-o_sin_ti-tulo_-62-.png_928314581.png",
+        "summary": "Mientras Argentina suma medallas en los Juegos Suramericanos, distintos deportistas volvieron a poner sobre la mesa las dificultades económicas que atraviesa el alto rendimiento. Trabajo, becas, viajes y preparación aparecen entre las principales preocupaciones de quienes…",
+        "pubDate": "2026-09-19T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Mataron de un tiro a un adolescente de 14 años en el extremo sur de Rosario",
+        "link": "https://www.rosario3.com/policiales/mataron-de-un-tiro-a-un-adolescente-de-14-anos-en-el-extremo-sur-de-rosario-20260919-0005.html",
+        "image": "https://www.rosario3.com/__export/1789823795488/sites/rosario3/img/2026/09/19/crotone_800_homicidio_ian_guevara.jpg_672794304.jpg",
+        "summary": "Este sábado lo encontraron muerto de un disparo en el tórax, en una calle cercana a avenida San Martín al 7000. En la escena hallaron una vaina servida. Vivía en el vecino barrio Las Flores Sur",
+        "pubDate": "2026-09-19T11:58:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Charlas de Mercado: las SGR están más restrictivas para otorgar garantías y profundizan la falta de liquidez de las pymes",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/charlas-de-mercado-las-sgr-estan-mas-restrictivas-para-otorgar-garantias-y-profundizan-la-falta-de-liquidez-de-las-pymes-20260919-0006.html",
+        "image": "https://www.rosario3.com/__export/1789825048187/sites/rosario3/img/2026/09/19/fotin.jpg_1135332096.jpg",
+        "summary": "Los consultores Bergmann y Funes advierten que las avalistas exigen cada vez más sólo garantías líquidas y en moneda dura dificultando el acceso a las medianas empresas. Proponen que la Provincia, así como lo ya hace con cheques y pagarés cambiados en Bolsa, bonifique parte del…",
+        "pubDate": "2026-09-19T11:57:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "¡Es hoy!: FM Vida festeja la Primavera  en el Fan Fest de los Juegos Suramericanos Santa Fe 2026",
+        "link": "https://www.rosario3.com/ocio/se-viene-la-primavera-vida-en-el-fan-fest-de-los-juegos-suramericanos-santa-fe-2026-20260916-0019.html",
+        "image": "https://www.rosario3.com/__export/1789564827592/sites/rosario3/img/2026/09/16/fotojet_-_2026-09-16t101908_933_version1789564827023.jpg_2026709677.jpg",
+        "summary": "Este sábado, desde las 17, FM Vida 97.9 copa el escenario principal del para meter un fiestón inolvidable. Ana y Agus abrirán El Bodegón, y Sebas y Mica estarán entre la gente, A las 19, Los Caligaris desplegarán sus hits y a las 20, será el cierre con la Fiesta Polenta. Además…",
+        "pubDate": "2026-09-16T11:56:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "¿Quién decide cómo morir? La discusión por la eutanasia volvió a la agenda argentina",
+        "link": "https://www.rosario3.com/informaciongeneral/quien-decide-como-morir-la-discusion-por-la-eutanasia-volvio-a-la-agenda-argentina-20260917-0050.html",
+        "image": "https://www.rosario3.com/__export/1760651090166/sites/rosario3/img/2025/10/16/entanasia.jpg_1768679257.jpg",
+        "summary": "La presentación en el Congreso de un proyecto para establecer un régimen de muerte voluntaria médicamente asistida renueva un debate no zanjado: hasta dónde llega el derecho a decidir sobre el final de la propia vida cuando se atraviesa una enfermedad grave, irreversible o…",
+        "pubDate": "2026-09-17T11:55:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "De costearse los torneos a la medalla de plata en los Suramericanos: la historia de la rosarina Agustina De Lucía",
+        "link": "https://www.rosario3.com/deportes/de-costearse-los-torneos-a-la-medalla-de-plata-en-los-suramericanos-la-historia-de-la-rosarina-agustina-de-lucia-20260918-0042.html",
+        "image": "https://www.rosario3.com/__export/1789753267363/sites/rosario3/img/2026/09/18/agustina_de_lucia.jpg_928314580.jpg",
+        "summary": "La judoca rosarina logró el segundo puesto en la categoría -63 kg en los Juegos Suramericanos Santa Fe 2026. Detrás del logro en un Invencible Rosario colmado, la historia de una recuperación tras una severa lesión, el esfuerzo económico familiar y el sostén afectivo para volver…",
+        "pubDate": "2026-09-18T11:54:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "A 15 años del caso Paula Perassi, su familia volvió a marchar en San Lorenzo: \"Hay una desaparecida en democracia\"",
         "link": "https://www.rosario3.com/informaciongeneral/a-15-anos-de-la-desaparicion-de-paula-perassi-su-familia-volvio-a-marchar-en-san-lorenzo-hay-una-desaparecida-en-democracia-20260918-0072.html",
         "image": "https://www.rosario3.com/__export/1789780473955/sites/rosario3/img/2026/09/18/paula_perassi_alberto.jpg_928314581.jpg",
         "summary": "Alberto y Alicia encabezaron una nueva movilización por las calles de San Lorenzo para reclamar respuestas sobre el paradero de su hija. “Mientras tenga fuerzas y vida voy a seguir preguntándome qué pasó con Paula”, sostuvo su papá. La familia continúa sin conocer dónde están…",
-        "pubDate": "2026-09-18T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "\"Chau Che\": La Libertad Avanza quiere borrar a Ernesto Guevara de los espacios públicos de Rosario",
-        "link": "https://www.rosario3.com/informaciongeneral/chau-che-la-libertad-avanza-quiere-borrar-a-ernesto-guevara-de-los-espacios-publicos-de-rosario-20260918-0064.html",
-        "image": "https://www.rosario3.com/__export/1789768935112/sites/rosario3/img/2026/09/18/plaza_del_che.jpg_928314580.jpg",
-        "summary": "La Libertad Avanza presentó en el Concejo Municipal de Rosario una serie de proyectos para que la ciudad deje de homenajear en sus espacios públicos a figuras vinculadas a “fusilamientos y a procesos violentos de la historia”",
-        "pubDate": "2026-09-18T11:59:00+00:00",
+        "pubDate": "2026-09-18T11:53:00+00:00",
         "approxTime": true
       },
       {
@@ -26,70 +80,16 @@
         "link": "https://www.rosario3.com/informaciongeneral/la-partera-de-88-anos-acusada-de-vender-bebes-en-rosario-ocho-denuncias-y-una-historia-de-identidades-robadas-20260918-0055.html",
         "image": "https://www.rosario3.com/__export/1789761136959/sites/rosario3/img/2026/09/18/tribunales_federales_rosario.jpg_1853120996.jpg",
         "summary": "Dolly Viale de Garrido, quien trabajó durante años en el Hospital Roque Sáenz Peña, fue imputada por la entrega de una beba en 1970 a cambio de dinero. La investigación federal reúne otras denuncias de personas que buscan conocer su origen biológico y también alcanza a su…",
-        "pubDate": "2026-09-18T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Por los Juegos Suramericanos, este sábado estará cortada la conexión entre Funes y Rosario a través de calle Mendoza",
-        "link": "https://www.rosario3.com/informaciongeneral/por-los-juegos-suramericanos-este-sabado-estara-cortada-la-conexion-entre-funes-y-rosario-a-traves-de-calle-mendoza-20260918-0056.html",
-        "image": "https://www.rosario3.com/__export/1789761232577/sites/rosario3/img/2026/09/18/calles.jpg_1768679257.jpg",
-        "summary": "Es por la competencia Ecuestre que se realizará en el Jockey Club de Rosario",
-        "pubDate": "2026-09-18T11:57:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Juegos Suramericanos: “Sentimos que estamos en Vaca Muerta, no queremos que se termine”, destacó el sector privado en Rosario",
-        "link": "https://www.rosario3.com/informaciongeneral/juegos-suramericanos-sentimos-que-estamos-en-vaca-muerta-no-queremos-que-se-termine-destaco-el-sector-privado-en-rosario-20260918-0067.html",
-        "image": "https://www.rosario3.com/__export/1789770390886/sites/rosario3/img/2026/09/18/juegos_3.jpg_1768679258.jpg",
-        "summary": "Hoteleros, gastronómicos y autoridades provinciales realizaron un balance del movimiento generado por la competencia. El ministro Gustavo Puccini y el integrante del Comité Organizador de los Juegos, Joaquín Blanco, destacaron el efecto de los Juegos sobre el empleo, la…",
-        "pubDate": "2026-09-18T11:56:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Julio Lamas en los Juegos Suramericanos: \"Rosario está dando un paso para adelante como la ciudad del deporte\"",
-        "link": "https://www.rosario3.com/deportes/julio-lamas-en-los-juegos-suramericanos-rosario-esta-dando-un-paso-para-adelante-como-la-ciudad-del-deporte-20260918-0061.html",
-        "image": "https://www.rosario3.com/__export/1789767013803/sites/rosario3/img/2026/09/18/julio_lamas.jpg_928314580.jpg",
-        "summary": "El ex entrenador de la selección de básquet recorrió los escenarios y destacó la nueva infraestructura deportiva que quedará en la ciudad",
-        "pubDate": "2026-09-18T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "\"Son los juegos de la gente\": el fenómeno social y el legado de los Juegos Suramericanos Santa Fe 2026",
-        "link": "https://www.rosario3.com/deportes/son-los-juegos-de-la-gente-el-fenomeno-social-y-el-legado-de-los-juegos-suramericanos-santa-fe-2026-20260918-0030.html",
-        "image": "https://www.rosario3.com/__export/1789742606060/sites/rosario3/img/2026/09/16/esgrima_suramericanos_rosario_-20-.jpeg_982625323.jpeg",
-        "summary": "Diego Sebben, subsecretario de Deporte de la Municipalidad de Rosario y director ejecutivo del certamen, destacó la enorme concurrencia en la ciudad, repasó el camino que se inició hace más de una década y aseguró que el mayor capital es el impacto humano y cultural",
-        "pubDate": "2026-09-18T11:54:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Qué es una neumopatía y cuáles son los síntomas de la afección por la que volvieron a internar a Mirtha Legrand",
-        "link": "https://www.rosario3.com/salud/que-es-una-neumopatia-y-cuales-son-los-sintomas-de-la-afeccion-por-la-que-volvieron-a-internar-a-mirtha-legrand-20260918-0066.html",
-        "image": "https://www.rosario3.com/__export/1789769660591/sites/rosario3/img/2026/09/18/pulmones.jpg_982625323.jpg",
-        "summary": "La conductora de 99 años fue ingresada en el Sanatorio Mater Dei con un cuadro de alteración de sus pulmones. Aunque el parte médico no brindó mayores precisiones, su condición podría deberse a infecciones respiratorias, procesos inflamatorios, enfermedades obstructivas o…",
-        "pubDate": "2026-09-18T11:53:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Volvieron a internar a Mirtha Legrand y hay preocupación por su salud",
-        "link": "https://www.rosario3.com/ocio/volvieron-a-internar-a-mirtha-legrand-y-hay-preocupacion-por-su-salud-20260918-0051.html",
-        "image": "https://www.rosario3.com/__export/1789760314729/sites/rosario3/img/2026/09/18/mirtha_legrand.png_786111822.png",
-        "summary": "La conductora ingresó este viernes al Mater Dei por un cuadro de neumopatía, cinco días después de haber recibido el alta tras permanecer internada casi una semana por un cuadro respiratorio bronquial",
         "pubDate": "2026-09-18T11:52:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Medallero de los Juegos Suramericanos Santa Fe 2026: así están las posiciones",
-        "link": "https://www.rosario3.com/deportes/medallero-de-los-juegos-suramericanos-santa-fe-2026-asi-estan-las-posiciones-20260914-0047.html",
-        "image": "https://www.rosario3.com/__export/1789781394894/sites/rosario3/img/2026/09/18/medallas_capi_2.jpg_1825222445.jpg",
-        "summary": "La tabla con las preseas obtenidas por cada país en la cita continental que tiene a Rosario como una de las sedes",
-        "pubDate": "2026-09-14T11:51:00+00:00",
+        "title": "La Previa del Run Run: balance financiero terrorífico de la Terminal de Ómnibus y Jumbo renace en el Portal",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-previa-del-run-run-balance-financiero-terrorifico-de-la-terminal-de-omnibus-y-jumbo-renace-en-el-portal-20260919-0001.html",
+        "image": "https://www.rosario3.com/__export/1789167090572/sites/rosario3/img/2026/09/11/marianoportada_jpg.jpeg_506286608.jpeg",
+        "summary": "El podcast con el anticipo de las novedades económicas y corporativas que se publicarán en la tradicional columna de los domingos en Rosario3",
+        "pubDate": "2026-09-19T11:51:00+00:00",
         "approxTime": true
       },
       {
@@ -141,6 +141,69 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Crimen en la zona sur de Rosario: asesinaron a balazos a un chico de 14 años",
+        "link": "https://www.lacapital.com.ar/policiales/crimen-la-zona-sur-rosario-asesinaron-balazos-un-chico-14-anos-n10281980.html",
+        "image": "https://media.lacapital.com.ar/p/a5f2bf3c58f251ca79877b579f05cc36/adjuntos/203/imagenes/103/412/0103412839/ulises-siracusa.jpg",
+        "summary": "Ian Guevara falleció a primera hora de la mañana en inmediaciones del arroyo Saladillo. Los vecinos hicieron la denuncia por el ruido de disparos",
+        "pubDate": "2026-09-19T14:28:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Robo frente a la autopista Rosario-Córdoba: cuatro detenidos y una pick up recuperada",
+        "link": "https://www.lacapital.com.ar/policiales/robo-frente-la-autopista-rosario-cordoba-cuatro-detenidos-y-una-pick-up-recuperada-n10281972.html",
+        "image": "https://media.lacapital.com.ar/p/5e1c1c564a7bf41e205ccf98d60e097d/adjuntos/203/imagenes/103/412/0103412768/robo-segui-larralde-1.jpg",
+        "summary": "La policía comenzó a rastrear a los ladrones desde el puente de Wilde, donde a la mañana surgió otra denuncia de un episodio similar",
+        "pubDate": "2026-09-19T14:07:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El padre de Paula Perassi hizo una dura crítica en San Lorenzo: \"15 años sin tener nada\"",
+        "link": "https://www.lacapital.com.ar/la-region/el-padre-paula-perassi-hizo-una-dura-critica-san-lorenzo-15-anos-tener-nada-n10281959.html",
+        "image": "https://media.lacapital.com.ar/p/cd3399382f89785d47e378db4b93b8a8/adjuntos/203/imagenes/103/412/0103412517/marcha-paula-perassi.jpg",
+        "summary": "Alberto Perassi y su esposa Alicia Ostri encabezaron la marcha por el aniversario de la desaparición de su hija",
+        "pubDate": "2026-09-19T13:01:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Inscriben para una nueva edición de la Maratón Nocturna de Timbúes",
+        "link": "https://www.lacapital.com.ar/la-region/inscriben-una-nueva-edicion-la-maraton-nocturna-timbues-n10281692.html",
+        "image": "https://media.lacapital.com.ar/p/5e4858d266f93981dd38d1dc153a96d3/adjuntos/203/imagenes/103/409/0103409800/1200x675/smart/timbues-maraton4.jpg",
+        "summary": "El programa contempla una prueba de 450 metros para niños, una caminata de tres kilómetros, una categoría integrativa de seis kilómetros y la competencia principal de 12 kilómetros",
+        "pubDate": "2026-09-19T13:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Buscan endurecer las sanciones por las picadas ilegales en la provincia de Santa Fe",
+        "link": "https://www.lacapital.com.ar/la-region/buscan-endurecer-las-sanciones-las-picadas-ilegales-la-provincia-santa-fe-n10281910.html",
+        "image": "https://media.lacapital.com.ar/p/f5961d70f8891a84533810251f5f44b1/adjuntos/203/imagenes/102/222/0102222992/1200x675/smart/picadaswebp.png",
+        "summary": "El proyecto impulsado por el senador Esteban Motta, prevé multas e inhabilitaciones más severas y extiende responsabilidades",
+        "pubDate": "2026-09-19T13:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El último fin de semana de invierno arrancó con un alerta por tormentas en Rosario",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-ultimo-fin-semana-invierno-arranco-un-alerta-tormentas-rosario-n10281953.html",
+        "image": "https://media.lacapital.com.ar/p/894acbfa1ca2f12da2a6c3f143f121e0/adjuntos/203/imagenes/103/412/0103412442/lluvia-tormenta-alerta-amarillo-inestabilidad.png",
+        "summary": "El pronóstico del Servicio Meteorológico Nacional anticipa un domingo con tiempo inestable y probabilidad de lluvias",
+        "pubDate": "2026-09-19T11:58:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Villa Gobernador Gálvez fortalece el empleo con una red de unidades productivas",
+        "link": "https://www.lacapital.com.ar/la-region/villa-gobernador-galvez-fortalece-el-empleo-una-red-unidades-productivas-n10281908.html",
+        "image": "https://media.lacapital.com.ar/p/cf3eb84c93418993b2b2ae937f256c71/adjuntos/203/imagenes/103/411/0103411986/1200x675/smart/villa-g-galvez-unidades-productivas-1.jpeg",
+        "summary": "Los espacios abarcan rubros como textil, gastronomía, carpintería, adoquines e inclusión laboral. Más de 200 personas participan de algunas de las propuestas, que además generan bienes y servicios",
+        "pubDate": "2026-09-19T11:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Vuelve el Festival Internacional de Artes Escénicas de Rosario",
         "link": "https://www.lacapital.com.ar/zoom/vuelve-el-festival-internacional-artes-escenicas-rosario-n10281847.html",
         "image": "https://media.lacapital.com.ar/p/8fb934680b4978baf73cc88f1bda4ea9/adjuntos/203/imagenes/103/411/0103411521/1200x675/smart/image-2026-09-18t152709354.jpg",
@@ -154,24 +217,6 @@
         "link": "https://www.lacapital.com.ar/la-ciudad/el-microcentro-se-renueva-edificios-oficinas-empiezan-transformarse-viviendas-n10281160.html",
         "image": "https://media.lacapital.com.ar/p/ec11fc3c51c38833c454751e29adca66/adjuntos/203/imagenes/103/408/0103408697/1200x675/smart/edificio-la-esmeralda2-1.jpeg",
         "summary": "Aunque incipiente, el fenómeno abre una oportunidad para sumar habitantes y nuevos usos al área central de Rosario",
-        "pubDate": "2026-09-19T09:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cómo es el megaoperativo de salud para cuidar a los atletas en los Juegos Suramericanos",
-        "link": "https://www.lacapital.com.ar/la-ciudad/como-es-el-megaoperativo-salud-cuidar-los-atletas-los-juegos-suramericanos-n10281803.html",
-        "image": "https://media.lacapital.com.ar/p/3a03d2afb561d06d4e5cdf71a4fbe8a2/adjuntos/203/imagenes/103/411/0103411349/1200x675/smart/img-20260917-wa0018.jpg",
-        "summary": "Qué lesiones se atendieron. Cómo funciona la articulación del sistema público y privado para proteger a los deportistas y a la concurrencia",
-        "pubDate": "2026-09-19T09:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Almas limpias de derecha extrema",
-        "link": "https://www.lacapital.com.ar/politica/almas-limpias-derecha-extrema-n10281912.html",
-        "image": "https://media.lacapital.com.ar/p/f20cb10f2d66ad334c1f96410dd986ac/adjuntos/203/imagenes/103/346/0103346679/2026-08-20-milei.jpg",
-        "summary": "Fenómeno Milei colapsa aunque resulte reelecto",
         "pubDate": "2026-09-19T09:30:00+00:00",
         "approxTime": false
       },
@@ -195,6 +240,24 @@
       },
       {
         "source": "La Capital",
+        "title": "Cómo es el megaoperativo de salud para cuidar a los atletas en los Juegos Suramericanos",
+        "link": "https://www.lacapital.com.ar/la-ciudad/como-es-el-megaoperativo-salud-cuidar-los-atletas-los-juegos-suramericanos-n10281803.html",
+        "image": "https://media.lacapital.com.ar/p/3a03d2afb561d06d4e5cdf71a4fbe8a2/adjuntos/203/imagenes/103/411/0103411349/1200x675/smart/img-20260917-wa0018.jpg",
+        "summary": "Qué lesiones se atendieron. Cómo funciona la articulación del sistema público y privado para proteger a los deportistas y a la concurrencia",
+        "pubDate": "2026-09-19T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Almas limpias de derecha extrema",
+        "link": "https://www.lacapital.com.ar/politica/almas-limpias-derecha-extrema-n10281912.html",
+        "image": "https://media.lacapital.com.ar/p/f20cb10f2d66ad334c1f96410dd986ac/adjuntos/203/imagenes/103/346/0103346679/2026-08-20-milei.jpg",
+        "summary": "Fenómeno Milei colapsa aunque resulte reelecto",
+        "pubDate": "2026-09-19T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Alcaucil, una tradición productiva de Rosario que busca nuevos consumidores",
         "link": "https://www.lacapital.com.ar/agro/alcaucil-una-tradicion-productiva-rosario-que-busca-nuevos-consumidores-n10281246.html",
         "image": "https://media.lacapital.com.ar/p/86ef97c61b909b087e428b36286f691a/adjuntos/203/imagenes/103/404/0103404161/1200x675/smart/alcaucil.jpg",
@@ -209,69 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/c67db0eb039f7fcb767cebf94298dae8/adjuntos/203/imagenes/020/178/0020178829/1200x675/smart/7621672jpgthumbjpg.jpg",
         "summary": "Según el último reporte de Fisfe, la actividad manufacturera bajó 2,9% interanual en julio. El 66% de las ramas fabriles experimentó bajas. Alertan sobre la irregularidad del crédito en el sector.",
         "pubDate": "2026-09-19T09:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central: Almirón y una semana para que el pueblo canalla lo abrace o lo suelte definitivamente",
-        "link": "https://www.lacapital.com.ar/ovacion/central-almiron-y-una-semana-que-el-pueblo-canalla-lo-abrace-o-lo-suelte-definitivamente-n10281935.html",
-        "image": "https://media.lacapital.com.ar/p/edadfe204c6dd0a5eb302eb81787d48a/adjuntos/203/imagenes/103/412/0103412329/ja.jpeg",
-        "summary": "El domingo con Argentinos y, en especial, el sábado que viene con Estudiantes, el DT de Central se juega el respaldo o acentúa la reprobación",
-        "pubDate": "2026-09-19T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Asociación Rosarina de Fútbol: Ludueña se paraliza con el clásico entre Social Lux y Defensores Unidos",
-        "link": "https://www.lacapital.com.ar/ovacion/asociacion-rosarina-futbol-luduena-se-paraliza-el-clasico-social-lux-y-defensores-unidos-n10281894.html",
-        "image": "https://media.lacapital.com.ar/p/13db346875af895967c07884d66cb4a4/adjuntos/203/imagenes/103/412/0103412314/1200x675/smart/defesnores-15.jpg",
-        "summary": "Este sábado a las 16, en la cancha del Mercadito se jugará unos de los clásicos importante de la Rosarina por la Primera B. También se jugará la Primera A y C",
-        "pubDate": "2026-09-19T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Primera C: Golpeado por el presente, Argentino juega las últimas fichas ante Berazategui",
-        "link": "https://www.lacapital.com.ar/ovacion/primera-c-golpeado-el-presente-argentino-juega-las-ultimas-fichas-berazategui-n10281865.html",
-        "image": "https://media.lacapital.com.ar/p/fc92fbc41b6945118087ab73354050c5/adjuntos/203/imagenes/103/411/0103411820/1200x675/smart/image-95.png",
-        "summary": "El equipo de barrio Sarmiento complicado con el descenso recibe este sábado a las 15, al Naranja con la obligación de conseguir un triunfo en Primera C",
-        "pubDate": "2026-09-19T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Entre Cuerdas y Letras invitó a Mariano Rey",
-        "link": "https://www.lacapital.com.ar/es-social/entre-cuerdas-y-letras-invito-mariano-rey-n10281390.html",
-        "image": "https://media.lacapital.com.ar/p/0b0f6d91770504400641857338f37721/adjuntos/203/imagenes/103/405/0103405919/1200x675/smart/diariolacapital-1.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-09-19T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Rapsodia presentó temporada en Alto rosario",
-        "link": "https://www.lacapital.com.ar/es-social/rapsodia-presento-temporada-alto-rosario-n10281400.html",
-        "image": "https://media.lacapital.com.ar/p/3a20174619ecad5ab0c1e184d16ea09d/adjuntos/203/imagenes/103/405/0103405998/1200x675/smart/altorapsodia-1.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-09-19T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Palito Ortega visitó Rosario",
-        "link": "https://www.lacapital.com.ar/es-social/palito-ortega-visito-rosario-n10281384.html",
-        "image": "https://media.lacapital.com.ar/p/f18131274b6c56686b7ef7cad176db0f/adjuntos/203/imagenes/103/405/0103405872/1200x675/smart/palitoortega-1.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-09-19T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Sunset Uno en Complejo Forest",
-        "link": "https://www.lacapital.com.ar/es-social/sunset-uno-complejo-forest-n10281216.html",
-        "image": "https://media.lacapital.com.ar/p/74787dbf961965e59ccea36500c06b2b/adjuntos/203/imagenes/103/404/0103404009/1200x675/smart/cataforest-1.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-09-19T03:00:00+00:00",
         "approxTime": false
       }
     ]
