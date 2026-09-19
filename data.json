@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-09-19T01:24:13.384747+00:00",
+  "generatedAt": "2026-09-19T06:13:38.483949+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "A 15 años del caso Paula Perassi, su familia volvió a marchar en San Lorenzo: \"Hay una desaparecida en democracia\"",
+        "link": "https://www.rosario3.com/informaciongeneral/a-15-anos-de-la-desaparicion-de-paula-perassi-su-familia-volvio-a-marchar-en-san-lorenzo-hay-una-desaparecida-en-democracia-20260918-0072.html",
+        "image": "https://www.rosario3.com/__export/1789780473955/sites/rosario3/img/2026/09/18/paula_perassi_alberto.jpg_928314581.jpg",
+        "summary": "Alberto y Alicia encabezaron una nueva movilización por las calles de San Lorenzo para reclamar respuestas sobre el paradero de su hija. “Mientras tenga fuerzas y vida voy a seguir preguntándome qué pasó con Paula”, sostuvo su papá. La familia continúa sin conocer dónde están…",
+        "pubDate": "2026-09-18T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "\"Chau Che\": La Libertad Avanza quiere borrar a Ernesto Guevara de los espacios públicos de Rosario",
         "link": "https://www.rosario3.com/informaciongeneral/chau-che-la-libertad-avanza-quiere-borrar-a-ernesto-guevara-de-los-espacios-publicos-de-rosario-20260918-0064.html",
         "image": "https://www.rosario3.com/__export/1789768935112/sites/rosario3/img/2026/09/18/plaza_del_che.jpg_928314580.jpg",
         "summary": "La Libertad Avanza presentó en el Concejo Municipal de Rosario una serie de proyectos para que la ciudad deje de homenajear en sus espacios públicos a figuras vinculadas a “fusilamientos y a procesos violentos de la historia”",
-        "pubDate": "2026-09-18T12:00:00+00:00",
+        "pubDate": "2026-09-18T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,15 +26,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/la-partera-de-88-anos-acusada-de-vender-bebes-en-rosario-ocho-denuncias-y-una-historia-de-identidades-robadas-20260918-0055.html",
         "image": "https://www.rosario3.com/__export/1789761136959/sites/rosario3/img/2026/09/18/tribunales_federales_rosario.jpg_1853120996.jpg",
         "summary": "Dolly Viale de Garrido, quien trabajó durante años en el Hospital Roque Sáenz Peña, fue imputada por la entrega de una beba en 1970 a cambio de dinero. La investigación federal reúne otras denuncias de personas que buscan conocer su origen biológico y también alcanza a su…",
-        "pubDate": "2026-09-18T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "\"Son los juegos de la gente\": el fenómeno social y el legado de los Juegos Suramericanos Santa Fe 2026",
-        "link": "https://www.rosario3.com/deportes/son-los-juegos-de-la-gente-el-fenomeno-social-y-el-legado-de-los-juegos-suramericanos-santa-fe-2026-20260918-0030.html",
-        "image": "https://www.rosario3.com/__export/1789742606060/sites/rosario3/img/2026/09/16/esgrima_suramericanos_rosario_-20-.jpeg_982625323.jpeg",
-        "summary": "Diego Sebben, subsecretario de Deporte de la Municipalidad de Rosario y director ejecutivo del certamen, destacó la enorme concurrencia en la ciudad, repasó el camino que se inició hace más de una década y aseguró que el mayor capital es el impacto humano y cultural",
         "pubDate": "2026-09-18T11:58:00+00:00",
         "approxTime": true
       },
@@ -58,10 +58,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "La morosidad batió un nuevo récord y alcanzó a casi el 13% del crédito a las familias",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-morosidad-batio-un-nuevo-record-y-alcanzo-a-casi-el-13-del-credito-a-las-familias-20260918-0063.html",
-        "image": "https://www.rosario3.com/__export/1789769321863/sites/rosario3/img/2026/09/18/deuda.jpg_1768679258.jpg",
-        "summary": "En julio, la mora aumentó 0,1 puntos porcentuales respecto al mes anterior. El nivel de irregularidad de las empresas se ubicó en 3,6 por ciento",
+        "title": "\"Son los juegos de la gente\": el fenómeno social y el legado de los Juegos Suramericanos Santa Fe 2026",
+        "link": "https://www.rosario3.com/deportes/son-los-juegos-de-la-gente-el-fenomeno-social-y-el-legado-de-los-juegos-suramericanos-santa-fe-2026-20260918-0030.html",
+        "image": "https://www.rosario3.com/__export/1789742606060/sites/rosario3/img/2026/09/16/esgrima_suramericanos_rosario_-20-.jpeg_982625323.jpeg",
+        "summary": "Diego Sebben, subsecretario de Deporte de la Municipalidad de Rosario y director ejecutivo del certamen, destacó la enorme concurrencia en la ciudad, repasó el camino que se inició hace más de una década y aseguró que el mayor capital es el impacto humano y cultural",
         "pubDate": "2026-09-18T11:54:00+00:00",
         "approxTime": true
       },
@@ -85,11 +85,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Once parejas se casaron al pie del Monumento Nacional a la Bandera este viernes: las imágenes",
-        "link": "https://www.rosario3.com/informaciongeneral/once-parejas-se-casaron-al-pie-del-monumento-nacional-a-la-bandera-este-viernes-las-imagenes-20260918-0050.html",
-        "image": "https://www.rosario3.com/__export/1789759854356/sites/rosario3/img/2026/09/18/monumento.jpg_1768679257.jpg",
-        "summary": "Las ceremonias civiles se realizaron este viernes en Rosario, en el marco del programa provincial “Casate con tu ciudad como testigo”, que ya permitió celebrar 350 matrimonios en espacios emblemáticos de Santa Fe",
-        "pubDate": "2026-09-18T11:51:00+00:00",
+        "title": "Medallero de los Juegos Suramericanos Santa Fe 2026: así están las posiciones",
+        "link": "https://www.rosario3.com/deportes/medallero-de-los-juegos-suramericanos-santa-fe-2026-asi-estan-las-posiciones-20260914-0047.html",
+        "image": "https://www.rosario3.com/__export/1789781394894/sites/rosario3/img/2026/09/18/medallas_capi_2.jpg_1825222445.jpg",
+        "summary": "La tabla con las preseas obtenidas por cada país en la cita continental que tiene a Rosario como una de las sedes",
+        "pubDate": "2026-09-14T11:51:00+00:00",
         "approxTime": true
       },
       {
@@ -139,6 +139,87 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Recorrida Semanal",
+        "link": "https://www.lacapital.com.ar/es-social/recorrida-semanal-n10281206.html",
+        "image": "https://media.lacapital.com.ar/p/00eb33bf2bce402501df070f44a36c0e/adjuntos/203/imagenes/103/403/0103403947/1200x675/smart/chicharra-1.jpg",
+        "summary": "La Capital",
+        "pubDate": "2026-09-19T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Aida se presentó en el teatro Broadway",
+        "link": "https://www.lacapital.com.ar/es-social/aida-se-presento-el-teatro-broadway-n10281195.html",
+        "image": "https://media.lacapital.com.ar/p/516a3f8bd7562a8e8f178c66fbfe71d5/adjuntos/203/imagenes/103/403/0103403828/1200x675/smart/aida-2.jpg",
+        "summary": "La Capital",
+        "pubDate": "2026-09-19T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Rapsodia presentó temporada en Alto rosario",
+        "link": "https://www.lacapital.com.ar/es-social/rapsodia-presento-temporada-alto-rosario-n10281400.html",
+        "image": "https://media.lacapital.com.ar/p/3a20174619ecad5ab0c1e184d16ea09d/adjuntos/203/imagenes/103/405/0103405998/1200x675/smart/altorapsodia-1.jpg",
+        "summary": "La Capital",
+        "pubDate": "2026-09-19T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Entre Cuerdas y Letras invitó a Mariano Rey",
+        "link": "https://www.lacapital.com.ar/es-social/entre-cuerdas-y-letras-invito-mariano-rey-n10281390.html",
+        "image": "https://media.lacapital.com.ar/p/0b0f6d91770504400641857338f37721/adjuntos/203/imagenes/103/405/0103405919/1200x675/smart/diariolacapital-1.jpg",
+        "summary": "La Capital",
+        "pubDate": "2026-09-19T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Sunset Uno en Complejo Forest",
+        "link": "https://www.lacapital.com.ar/es-social/sunset-uno-complejo-forest-n10281216.html",
+        "image": "https://media.lacapital.com.ar/p/74787dbf961965e59ccea36500c06b2b/adjuntos/203/imagenes/103/404/0103404009/1200x675/smart/cataforest-1.jpg",
+        "summary": "La Capital",
+        "pubDate": "2026-09-19T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Palito Ortega visitó Rosario",
+        "link": "https://www.lacapital.com.ar/es-social/palito-ortega-visito-rosario-n10281384.html",
+        "image": "https://media.lacapital.com.ar/p/f18131274b6c56686b7ef7cad176db0f/adjuntos/203/imagenes/103/405/0103405872/1200x675/smart/palitoortega-1.jpg",
+        "summary": "La Capital",
+        "pubDate": "2026-09-19T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El tiempo en Rosario: la temperatura sigue subiendo pero las tormentas ya se asoman",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-la-temperatura-sigue-subiendo-pero-las-tormentas-ya-se-asoman-n10281950.html",
+        "image": "https://media.lacapital.com.ar/p/b0b1b374b418940651b7355da7c35fc0/adjuntos/203/imagenes/102/004/0102004472/1200x675/smart/clima-primavera.png",
+        "summary": "El fin de semana estará marcado por registros que se acercarán a 30 grados y una chance concreta de inestabilidad",
+        "pubDate": "2026-09-19T01:50:54+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Juegos Suramericanos: Los Pumas Seven y Las Yaguaretés mostraron su ferocidad en el Óvalo",
+        "link": "https://www.lacapital.com.ar/juegos-suramericanos/juegos-suramericanos-los-pumas-seven-y-las-yaguaretes-mostraron-su-ferocidad-el-ovalo-n10281946.html",
+        "image": "https://media.lacapital.com.ar/p/b9d7e3e0c71111f07f7cec208a2d493d/adjuntos/203/imagenes/103/412/0103412398/rug-82682227.jpg",
+        "summary": "Ambos seleccionados argentinos de rugby golearon en sus primeras presentaciones en el Hipódromo rosarino. Cómo fue la 6ª jornada",
+        "pubDate": "2026-09-19T01:36:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El judo de Rosario consiguió una segunda medalla de plata en los Juegos Suramericanos",
+        "link": "https://www.lacapital.com.ar/juegos-suramericanos/el-judo-rosario-consiguio-una-segunda-medalla-plata-los-juegos-suramericanos-n10281944.html",
+        "image": "https://media.lacapital.com.ar/p/32438005803fe3a3032205817a37772c/adjuntos/203/imagenes/103/412/0103412387/1200x675/smart/image-15.jpg",
+        "summary": "Pasado el mediodía, Agustina De Lucía ganó la primera presea del judo de Rosario y a última hora lo hicieron Pablo Aguirre Brassesco y Sebastián Nunes",
+        "pubDate": "2026-09-19T01:24:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Juegos Suramericanos, día 7: todo lo que hay que saber de un sábado a full",
@@ -191,87 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/ae80149d5ee046e06ac290e081faf0da/adjuntos/203/imagenes/103/412/0103412172/1200x675/smart/image-13.jpg",
         "summary": "Ignacio Pacheco y Emiliano Calderón, de Regatas Rosario, integraron el cuatro pares remos cortos que terminó tercero",
         "pubDate": "2026-09-18T22:20:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La Libertad Avanza quiere borrar al Che Guevara de los espacios públicos de Rosario",
-        "link": "https://www.lacapital.com.ar/la-ciudad/la-libertad-avanza-quiere-borrar-al-che-guevara-los-espacios-publicos-rosario-n10281920.html",
-        "image": "https://media.lacapital.com.ar/p/f4fd9d8e73fcb46ca9026f0b0d1d84c4/adjuntos/203/imagenes/103/240/0103240388/1200x675/smart/plaza-2.jpg",
-        "summary": "El bloque libertario en el Concejo presentó una serie de proyectos para modificar los nombres de una plaza y el viaducto, además de la imagen de un mural",
-        "pubDate": "2026-09-18T22:09:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Ingreso por guardia y estudios: qué dice el parte médico de Mirtha Legrand",
-        "link": "https://www.lacapital.com.ar/zoom/ingreso-guardia-y-estudios-que-dice-el-parte-medico-mirtha-legrand-n10281915.html",
-        "image": "https://media.lacapital.com.ar/p/71e999ee2a1b6c941b26ea68cf63a8c2/adjuntos/203/imagenes/101/401/0101401529/1200x675/smart/mirtha-legrandpng.png",
-        "summary": "La diva de los almuerzos volvió a quedar internada en el sanatorio Mater Dei de la Ciudad de Buenos Aires a pocos días de que le den el alta",
-        "pubDate": "2026-09-18T21:43:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cierra una fábrica de Pueblo Esther y proveedora de General Motors: 70 trabajadores despedidos",
-        "link": "https://www.lacapital.com.ar/economia/cierra-una-fabrica-pueblo-esther-y-proveedora-general-motors-70-trabajadores-despedidos-n10281901.html",
-        "image": "https://media.lacapital.com.ar/p/76a60fffea0f6c378c60381a09d4fd80/adjuntos/203/imagenes/103/411/0103411937/1200x675/smart/butacas-189-1.jpg",
-        "summary": "La firma Adient había adelantado la decisión en mayo y la próxima semana será la última en la que tenga actividad en Argentina. Pasará a importar desde Brasil",
-        "pubDate": "2026-09-18T20:59:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Desbaratan a una banda narco ligada a Los Picudos",
-        "link": "https://www.lacapital.com.ar/policiales/desbaratan-una-banda-narco-ligada-los-picudos-n10281822.html",
-        "image": "https://media.lacapital.com.ar/p/45712bd53efd38b1154b6b44a6f40be6/adjuntos/203/imagenes/103/411/0103411532/1200x675/smart/9e11f354-f586-4ce0-9fc6-26b3dfc144c2.jpg",
-        "summary": "Instalaba carteles intimidatorios en escuelas y lugares públicos. Se presume que es liderada por un hombre detenido en la cárcel de Piñero",
-        "pubDate": "2026-09-18T20:38:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Harry Kane reveló qué le dijo a Messi el día que Argentina eliminó a Inglaterra en el Mundial",
-        "link": "https://www.lacapital.com.ar/ovacion/harry-kane-revelo-que-le-dijo-messi-el-dia-que-argentina-elimino-inglaterra-el-mundial-n10281896.html",
-        "image": "https://media.lacapital.com.ar/p/9468e5007cf024e22e6b446bb01c2987/adjuntos/203/imagenes/103/411/0103411886/1200x675/smart/image-7.jpg",
-        "summary": "El delantero concedió una entrevista en la que recordó el partido y valoró al rosarino como futbolista y también como persona. \"Es muy humilde\", dijo",
-        "pubDate": "2026-09-18T20:26:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Derriban dos búnkeres en Rosario y ya suman 145 en la provincia",
-        "link": "https://www.lacapital.com.ar/policiales/derriban-dos-bunkeres-rosario-y-ya-suman-145-la-provincia-n10281852.html",
-        "image": "https://media.lacapital.com.ar/p/87e44bc7dc6b0d442b23645f0208ae64/adjuntos/203/imagenes/103/411/0103411582/1200x675/smart/2026-09-18nid_287362o_4.jpeg",
-        "summary": "Estaban ubicados en barrio Las Flores. Si bien estas acciones se desarrollraon desde 2014, la ley de microtráfico le dio un marco legal",
-        "pubDate": "2026-09-18T20:25:29+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Mirtha Legrand tuvo una recaída y volvió a ser internada",
-        "link": "https://www.lacapital.com.ar/informacion-general/mirtha-legrand-tuvo-una-recaida-y-volvio-ser-internada-n10281888.html",
-        "image": "https://media.lacapital.com.ar/p/5dcc2d8b1e741b48df87b09ca1d54ade/adjuntos/203/imagenes/103/388/0103388117/1200x675/smart/mirtha-legrand.jpg",
-        "summary": "Está en el Sanatorio Mater Dei de Buenos Aires, donde había recibido el alta hace cinco días",
-        "pubDate": "2026-09-18T19:59:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Malvinas: el Reino Unido respaldó a empresas vinculadas a la explotación de recursos",
-        "link": "https://www.lacapital.com.ar/politica/malvinas-el-reino-unido-respaldo-empresas-vinculadas-la-explotacion-recursos-n10281879.html",
-        "image": "https://media.lacapital.com.ar/p/b7a6a477d1cec2be9e891be95c3b16a1/adjuntos/203/imagenes/103/408/0103408076/islas-malvinas-puerto-argentino.jpeg",
-        "summary": "Ratificó su política comercial en las islas y calificó de “inaceptables” las sanciones a las compañías impulsadas por la Argentina",
-        "pubDate": "2026-09-18T19:49:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El programa Huertas San Martín refuerza su trabajo con más formaciones",
-        "link": "https://www.lacapital.com.ar/la-region/el-programa-huertas-san-martin-refuerza-su-trabajo-mas-formaciones-n10281877.html",
-        "image": "https://media.lacapital.com.ar/p/86d572201a18781c8276ec41f7fa4b6f/adjuntos/203/imagenes/103/411/0103411750/1200x675/smart/huerta-san-martin-1.jpeg",
-        "summary": "Se realizó una nueva jornada de capacitación, intercambio y entrega de semillas en la Agencia de Extensión Rural Inta de Carlos Pellegrini",
-        "pubDate": "2026-09-18T19:41:00+00:00",
         "approxTime": false
       }
     ]
