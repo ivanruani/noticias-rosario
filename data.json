@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T05:09:03.842725+00:00",
+  "generatedAt": "2026-09-20T09:56:16.875470+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,87 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Salvaron el edificio de Berlín y tendrá una propuesta gastronómica y cultural",
+        "link": "https://www.lacapital.com.ar/la-ciudad/salvaron-el-edificio-berlin-y-tendra-una-propuesta-gastronomica-y-cultural-n10281689.html",
+        "image": "https://media.lacapital.com.ar/p/d8b51da2f2f11a5e4ccee69be0114b5b/adjuntos/203/imagenes/103/413/0103413823/1200x675/smart/82679996jpegthumb.jpg",
+        "summary": "El inmueble de 1.000 metros cuadrados del pasaje Simeoni esquivó un futuro inmobiliario y quedó en manos de un inversor que busca alquilarlo para recuperar el espíritu del histórico bar como polo de ocio, artístico y comercial",
+        "pubDate": "2026-09-20T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Insólito: el consorcio de un edificio del centro lleva 20 años tramitando el final de obra",
+        "link": "https://www.lacapital.com.ar/la-ciudad/insolito-el-consorcio-un-edificio-del-centro-lleva-20-anos-tramitando-el-final-obra-n10281333.html",
+        "image": "https://media.lacapital.com.ar/p/0b75aad10d3f99f4c3a9f17cba9d5eb4/adjuntos/203/imagenes/103/413/0103413824/1200x675/smart/82679986jpegthumb.jpg",
+        "summary": "Los departamentos de Corrientes al 200 acumulan décadas habitados, aunque no cuentan con el trámite municipal. Todavía lo están gestionando",
+        "pubDate": "2026-09-20T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Una receta para Santa Fe",
+        "link": "https://www.lacapital.com.ar/politica/una-receta-santa-fe-n10281928.html",
+        "image": "https://media.lacapital.com.ar/p/6218711f7d62070c27ab7bc7cdb851b7/adjuntos/203/imagenes/103/412/0103412257/1200x675/smart/81553281.jpg",
+        "summary": "A 46 años del fallecimiento del último mandatario desarrollista, Carlos Sylvestre Begnis",
+        "pubDate": "2026-09-20T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Llega la quinta edición de la Maratón La Capital para disfrutar Rosario desde otra perspectiva",
+        "link": "https://www.lacapital.com.ar/la-ciudad/llega-la-quinta-edicion-la-maraton-la-capital-disfrutar-rosario-otra-perspectiva-n10281956.html",
+        "image": "https://media.lacapital.com.ar/p/59fff75b241b7e28e2aa4943469ef4f4/adjuntos/203/imagenes/103/412/0103412455/1200x675/smart/maraton-la-capital.jpg",
+        "summary": "La competencia se realizará el domingo 8 de noviembre, a las 8.30, desde el parque Urquiza. Ofrecerá las distancias de 6K y 15K, además de la nueva versión de 10K. Ya están abiertas las inscripciones",
+        "pubDate": "2026-09-20T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Las infracciones graves de tránsito cayeron un 72% en los últimos tres años en Rosario",
+        "link": "https://www.lacapital.com.ar/las-infracciones-graves-transito-cayeron-un-72-los-ultimos-tres-anos-rosario-n10281932.html",
+        "image": "https://media.lacapital.com.ar/p/dde9dd26bf66f288c298288b98fad4b7/adjuntos/203/imagenes/103/413/0103413821/1200x675/smart/8316274jpgthumb.jpg",
+        "summary": "El Sistema de Alerta Temprana endurece los controles en Rosario. Quienes acumulan cinco faltas graves en dos meses sufren la suspensión inmediata de la licencia de conducir",
+        "pubDate": "2026-09-20T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La morosidad en los créditos a las familias volvió a subir durante julio",
+        "link": "https://www.lacapital.com.ar/economia/la-morosidad-los-creditos-las-familias-volvio-subir-julio-n10282043.html",
+        "image": "https://media.lacapital.com.ar/p/6ef4f93c893e8b7b71c789c015159ae5/adjuntos/203/imagenes/103/151/0103151903/1200x675/727x205:747x225/deudas-135.jpg",
+        "summary": "Un nuevo informe del Banco Central señaló que la irregularidad llegó a 12,9%. También se estancó el stock de préstamos",
+        "pubDate": "2026-09-20T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Cosecha 2026/27: las exportaciones alcancarían u$s 42 mil millones",
+        "link": "https://www.lacapital.com.ar/agro/cosecha-202627-las-exportaciones-alcancarian-us-42-mil-millones-n10281939.html",
+        "image": "https://media.lacapital.com.ar/p/2134191385345a94992ca6d8c2217551/adjuntos/203/imagenes/102/314/0102314128/1200x675/smart/campo-granos-cosechajpg.jpg",
+        "summary": "La Bolsa de Comercio de Rosario estimó que la producción del nuevo ciclo agrícola será de 155,8 millones de toneladas. El complejo soja volvería a liderar la generación de divisas, por u$s 22 mil millones",
+        "pubDate": "2026-09-20T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Newell's y su misión en Vicente López: agregarle más puntos al buen momento para la meta posible",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-y-su-mision-vicente-lopez-agregarle-mas-puntos-al-buen-momento-la-meta-posible-n10282063.html",
+        "image": "https://media.lacapital.com.ar/p/e6316f1dbf2464cd3abfd4c722b96c10/adjuntos/203/imagenes/103/414/0103414032/1200x675/smart/image-20.jpg",
+        "summary": "El equipo de Kudelka, que visita a Platense, viene de cinco fechas invicto pero tres empates al hilo que lo tienen al borde en el G8.",
+        "pubDate": "2026-09-20T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central juega con el Bicho de La Paternal, pero mira más allá del horizonte",
+        "link": "https://www.lacapital.com.ar/ovacion/central-juega-el-bicho-la-paternal-pero-mira-mas-alla-del-horizonte-n10282061.html",
+        "image": "https://media.lacapital.com.ar/p/cfbb7528afc1127201bac1d5a37ed3f4/adjuntos/203/imagenes/103/413/0103413997/ccammm.jpeg",
+        "summary": "Central recibe a Argentinos en un partido clave por las tablas de la Liga Profesional. Es la previa de la final con Estudiantes",
+        "pubDate": "2026-09-20T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Nueva medalla rosarina en los Juegos Suramericanos, la de Martina Bednarek en vóleibol",
         "link": "https://www.lacapital.com.ar/juegos-suramericanos/nueva-medalla-rosarina-los-juegos-suramericanos-la-martina-bednarek-voleibol-n10282060.html",
         "image": "https://media.lacapital.com.ar/p/11e1c5624115340bc88ea8a9716f18ca/adjuntos/203/imagenes/103/413/0103413911/1200x675/smart/image-19.jpg",
@@ -191,87 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/77954865b09c0769043d34cb7d593206/adjuntos/203/imagenes/103/413/0103413798/1200x675/smart/image-18.jpg",
         "summary": "Duendes superó con claridad a Estudiantes en Paraná y se escapó en la cima del Regional del Litoral. Jockey venció a Gimnasia",
         "pubDate": "2026-09-19T23:55:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Primera C: Argentino salvó un punto en el final pero sigue muy complicado con el descenso",
-        "link": "https://www.lacapital.com.ar/ovacion/primera-c-argentino-un-punto-el-final-pero-sigue-muy-complicado-el-descenso-n10282047.html",
-        "image": "https://media.lacapital.com.ar/p/7a763c76b555df726f6c82a84b9fcf3b/adjuntos/203/imagenes/103/413/0103413792/1200x675/smart/image-98.png",
-        "summary": "Con el tanto de Theo Guiñazú, el Salaíto igualó ante Berazategui en el Olaeta. En el cierre de la etapa inicial el cotejo estuvo parado por incidentes, clima caliente en barrio Sarmiento",
-        "pubDate": "2026-09-19T23:21:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Argentina se puso fácil 2 a 0 y ya palpita el regreso a los Qualifiers 2027 de la Copa Davis",
-        "link": "https://www.lacapital.com.ar/ovacion/argentina-se-puso-facil-2-0-y-ya-palpita-el-regreso-los-qualifiers-2027-la-copa-davis-n10282046.html",
-        "image": "https://media.lacapital.com.ar/p/3abfcb82cef3c5871fc875952945e6d9/adjuntos/203/imagenes/103/413/0103413794/1200x675/smart/image-17.jpg",
-        "summary": "En Neuquén, Fran Cerúndolo y Tirante pusieron arriba a Argentina 2 a 0 sobre Turquía. Con un punto se asegura volver a pelear la Copa Davis",
-        "pubDate": "2026-09-19T23:16:09+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Los empresarios de Idea quieren blindar las \"transformaciones\" del modelo económico",
-        "link": "https://www.lacapital.com.ar/economia/los-empresarios-idea-quieren-blindar-las-transformaciones-del-modelo-economico-n10282040.html",
-        "image": "https://media.lacapital.com.ar/p/ff602a744ddb786c7013c1372fdeebf0/adjuntos/203/imagenes/102/748/0102748003/1200x675/smart/coloquioideageneral.JPG",
-        "summary": "Los directivos de la entidad presentaron el programa del coloquio que se realizará entre el 30 de septiembre al 1º de octubre en Mar del Plata",
-        "pubDate": "2026-09-19T22:50:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Visitantes ilustres en los Suramericanos: Newell's agasajó a Scaloni, Samuel y Maxi Rodríguez",
-        "link": "https://www.lacapital.com.ar/ovacion/visitantes-ilustres-los-suramericanos-newells-agasajo-scaloni-samuel-y-maxi-rodriguez-n10282036.html",
-        "image": "https://media.lacapital.com.ar/p/e6dff962fdd897002334526ac872c35f/adjuntos/203/imagenes/103/413/0103413746/1200x675/smart/nachoboero.jpg",
-        "summary": "El entrenador de la selección mayor de Argentina, Lionel Scaloni, estuvo en el Coloso junto a sus colaboradores y Maxi Rodríguez, por los Juegos Suramericanos",
-        "pubDate": "2026-09-19T22:44:09+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Dos personas heridas fue el saldo de un incendio en una casa en Funes",
-        "link": "https://www.lacapital.com.ar/la-region/dos-personas-heridas-fue-el-saldo-un-incendio-una-casa-funes-n10282037.html",
-        "image": "https://media.lacapital.com.ar/p/5591b1c62f0791c1f5b7fd7af2948714/adjuntos/203/imagenes/103/413/0103413699/1200x675/smart/incendio-fuens.jpg",
-        "summary": "El siniestro se registró durante la tarde de este sábado en La Querencia y Espora. Las víctimas fueron hospitalizadas por quemaduras en rostro y brazos",
-        "pubDate": "2026-09-19T22:09:58+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El Coloso vibró con el triunfo de Argentina que lo puso en carrera en los Juegos Suramericanos",
-        "link": "https://www.lacapital.com.ar/juegos-suramericanos/el-coloso-vibro-el-triunfo-argentina-que-lo-puso-carrera-los-juegos-suramericanos-n10282033.html",
-        "image": "https://media.lacapital.com.ar/p/e944bd12023dc3ced8846128f508a416/adjuntos/203/imagenes/103/413/0103413631/1200x675/smart/image-16.jpg",
-        "summary": "Argentina derrotó a Uruguay y el lunes define la clasificación mano a mano con Venezuela, ante una multitud en el Coloso",
-        "pubDate": "2026-09-19T21:44:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Santilli les bajó el voltaje a los cortocircuitos con Bullrich por el presupuesto",
-        "link": "https://www.lacapital.com.ar/politica/santilli-les-el-voltaje-los-cortocircuitos-bullrich-el-presupuesto-n10282032.html",
-        "image": "https://media.lacapital.com.ar/p/64934c2de53c207fa336b4681f0c83d8/adjuntos/203/imagenes/103/413/0103413630/1200x675/smart/image.png",
-        "summary": "El jefe de Gabinete dijo que se habló del tema durante la última reunión de la mesa política del gobierno, pero advirtió que la senadora “se fue antes”",
-        "pubDate": "2026-09-19T21:28:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La Marcha de la Bronca se hizo sentir en Rosario: críticas a Milei y reclamo de un paro general",
-        "link": "https://www.lacapital.com.ar/politica/la-marcha-la-bronca-se-hizo-sentir-rosario-criticas-milei-y-reclamo-un-paro-general-n10282029.html",
-        "image": "https://media.lacapital.com.ar/p/0457652eab6750b1ff57fa25743bced0/adjuntos/203/imagenes/103/413/0103413629/1200x675/smart/marcha-la-bronca-199.jpg",
-        "summary": "Una multitudinaria movilización expuso el malestar con el gobierno nacional, exigió que las centrales obreras tomen medidas contundentes y reivindicó la lucha del sector de discapacidad y del feminismo",
-        "pubDate": "2026-09-19T21:13:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La despedida de Messi de la Selección: se confirmaron los precios de las entradas",
-        "link": "https://www.lacapital.com.ar/ovacion/la-despedida-messi-la-seleccion-se-confirmaron-los-precios-las-entradas-n10282027.html",
-        "image": "https://media.lacapital.com.ar/p/34544abb89513d6648ff86e35fe9f578/adjuntos/203/imagenes/103/380/0103380376/1200x675/smart/messi-1.jpg",
-        "summary": "El último partido del crack rosarino será ante el equipo de Benín, el martes 6 de octubre en el estadio Monumental de River Plate",
-        "pubDate": "2026-09-19T20:41:00+00:00",
         "approxTime": false
       }
     ]
