@@ -1,14 +1,32 @@
 {
-  "generatedAt": "2026-09-19T22:06:51.578510+00:00",
+  "generatedAt": "2026-09-20T00:13:19.080009+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Alerta naranja en Rosario y la región: anuncian tormentas severas para este domingo",
+        "link": "https://www.rosario3.com/informaciongeneral/alerta-naranja-en-rosario-y-la-region-anuncian-tormentas-severas-para-este-domingo-20260919-0031.html",
+        "image": "https://www.rosario3.com/__export/1789859092279/sites/rosario3/img/2024/04/15/lluvia_ciudad_1.jpg_2106848869.jpg",
+        "summary": "El anuncio fue emitido este sábado por la tarde y advierte sobre recomendaciones que son necesarias para minimizar daños. Algunos eventos previstos para el domingo ya fueron cancelados",
+        "pubDate": "2026-09-19T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Con el festejo de primavera de FM Vida, miles de personas colmaron el Fan Fest de los Juegos Suramericanos Santa Fe 2026",
         "link": "https://www.rosario3.com/ocio/se-viene-la-primavera-vida-en-el-fan-fest-de-los-juegos-suramericanos-santa-fe-2026-20260916-0019.html",
         "image": "https://www.rosario3.com/__export/1789854546906/sites/rosario3/img/2026/09/19/vida2.jpg_2106848869.jpg",
         "summary": "El evento de FM Vida 97.9, que comenzó a las 17, reunió a gran parte de quienes aprovecharon una jornada de sábado ideal para disfrutar del deporte y el entretenimiento en diferentes puntos del parque Independencia. Había música en vivo y regalos durante la tarde. A las 20 se…",
-        "pubDate": "2026-09-16T12:00:00+00:00",
+        "pubDate": "2026-09-16T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Fiesta en el Coloso: Rosario demostró que siempre está lista para vestir la Celeste y Blanca",
+        "link": "https://www.rosario3.com/deportes/fiesta-en-el-coloso-rosario-demostro-que-siempre-esta-lista-para-vestir-la-celeste-y-blanca-20260919-0032.html",
+        "image": "https://www.rosario3.com/__export/1789861213651/sites/rosario3/img/2026/09/19/rosario_de_seleccion.png_928314581.png",
+        "summary": "Con entrada libre, tribunas repletas y la visita estelar del cuerpo técnico campeón del mundo, la Selección Sub-19 tuvo un marco multitudinario en el Parque. Un mensaje contundente para la AFA",
+        "pubDate": "2026-09-19T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -17,16 +35,52 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/una-nueva-mision-del-fmi-llega-al-pais-y-el-gobierno-espera-un-desembolso-de-us-900-millones-20260919-0022.html",
         "image": "https://www.rosario3.com/__export/1789847243536/sites/rosario3/img/2026/09/19/fmiargentina.jpg_2106848869.jpg",
         "summary": "El monto corresponde a los fondos pendientes dentro del cronograma previsto para este año. La revisión tomará como referencia los números de la economía al cierre del segundo trimestre y pondrá el foco en dos variables centrales del programa: el resultado fiscal y la acumulación…",
-        "pubDate": "2026-09-19T11:59:00+00:00",
+        "pubDate": "2026-09-19T11:57:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Exponen búnker tumbero en la cárcel de Piñero y amenazas a familiares de presos por deudas con drogas",
-        "link": "https://www.rosario3.com/policiales/exponen-bunker-tumbero-en-la-carcel-de-pinero-y-amenazas-a-familiares-de-presos-por-deudas-con-drogas-20260919-0008.html",
-        "image": "https://www.rosario3.com/__export/1789831071075/sites/rosario3/img/2021/06/29/carcelpixero1.jpg_566798741.jpg",
-        "summary": "Uno de los internos espera el juicio como autor de uno de los crímenes narcoterroristas: el homicidio del chofer de la línea K Marcos Daloia, cometido en marzo de 2024. La Fiscalía sostiene que la droga ingresaba al penal con ayuda de mujeres embarazadas que eludían los…",
-        "pubDate": "2026-09-19T11:58:00+00:00",
+        "title": "Juegos Suramericanos: doble medalla rosarina en esquí náutico de la mano de los hemanos Giorgis",
+        "link": "https://www.rosario3.com/deportes/juegos-suramericanos-doble-medalla-rosarina-en-esqui-nautico-de-la-mano-de-los-hemanos-giorgis-20260919-0029.html",
+        "image": "https://www.rosario3.com/__export/1789855244888/sites/rosario3/img/2026/09/19/giorgis.jpg_928314580.jpg",
+        "summary": "Tobías y Francisco Giorgis se subieron juntos al podio de Santa Fe 2026, uno fue plata y el otro bronce. El evento tuvo lugar en Lago Sur, allí donde el oro fue para Chile",
+        "pubDate": "2026-09-19T11:56:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Judo en los Juegos Suramericanos 2026: Brasil, Argentina, Chile y Colombia, protagonistas de los podios",
+        "link": "https://www.rosario3.com/deportes/judo-en-los-juegos-suramericanos-2026-brasil-argentina-chile-y-colombia-protagonistas-de-los-podios-20260919-0034.html",
+        "image": "https://www.rosario3.com/__export/1789861906396/sites/rosario3/img/2026/09/19/judo.jpg_1825222445.jpg",
+        "summary": "La jornada en el Invencible Rosario repartió medallas entre diez países, con Brasil como principal ganador y presencia argentina en cuatro podios. Las definiciones tuvieron tribunas colmadas y protagonistas de toda la región.",
+        "pubDate": "2026-09-19T11:55:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Cumbre leprosa después del triunfo argentino en los Suramericanos: Scaloni, Samuel y Maxi Rodríguez con Ignacio Boero",
+        "link": "https://www.rosario3.com/deportes/cumbre-leprosa-despues-del-triunfo-argentino-en-los-suramericanos-scaloni-samuel-y-maxi-rodriguez-con-ignacio-boero-20260919-0027.html",
+        "image": "https://www.rosario3.com/__export/1789853538412/sites/rosario3/img/2026/09/19/scaloni_leproso.jpg_1352849977.jpg",
+        "summary": "El entrenador del seleccionado nacional estuvo presente en el estadio Marcelo Bielsa y luego fue recibido por el presidente del Newell's. Además recibió una camiseta y se llevó algún otro recuerdo",
+        "pubDate": "2026-09-19T11:54:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Fútbol: Argentina le ganó a Uruguay y logró un triunfo clave para luchar por las medallas en los Juegos Suramericanos",
+        "link": "https://www.rosario3.com/deportes/futbol-argentina-le-gano-a-uruguay-y-logro-un-triunfo-clave-para-luchar-por-las-medallas-en-los-juegos-suramericanos-20260919-0028.html",
+        "image": "https://www.rosario3.com/__export/1789854395954/sites/rosario3/img/2026/09/19/arg_fut.jpg_928314581.jpg",
+        "summary": "La selección de Diego Placente se impuso 1-0 con un gol de Franco Domínguez en el clásico rioplatense jugado en el estadio de Newell's. El lunes próximo, ante Venezuela, define el pase a las semifinales",
+        "pubDate": "2026-09-19T11:53:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Copa Davis: Argentina ganó los dos primeros puntos ante Turquía y quedó a un punto de volver a los Qualifiers",
+        "link": "https://www.rosario3.com/deportes/copa-davis-argentina-gano-los-dos-primeros-puntos-ante-turquia-y-quedo-a-un-punto-de-volver-a-los-qualifiers-20260919-0024.html",
+        "image": "https://www.rosario3.com/__export/1789850807233/sites/rosario3/img/2026/09/19/cerundolo.jpg_879139882.jpg",
+        "summary": "Francisco Cerúndolo y Thiago Tirante ganaron sus respectivos partidos ante Yanki Erel y Mert Alkaya y dejaron a Argentina 2-0 arriba en la serie ante Turquía. El equipo de Javier Frana buscará cerrar la eliminatoria este domingo con el dobles y asegurar su lugar en el Grupo…",
+        "pubDate": "2026-09-19T11:52:00+00:00",
         "approxTime": true
       },
       {
@@ -35,60 +89,6 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/radiografia-de-la-mora-en-rosario-quienes-deben-cuanto-y-que-edad-tienen-los-que-mas-se-atrasan-20260919-0007.html",
         "image": "https://www.rosario3.com/__export/1789828430038/sites/rosario3/img/2026/09/19/disen-o_sin_ti-tulo_-65-.png_928314581.png",
         "summary": "Casi 500 mil personas tienen deudas registradas en la ciudad y una de cada cuatro está en mora. Un informe de MATE muestra fuertes diferencias según la edad y el tipo de prestamista. Entre los jóvenes de 20 a 24 años, el 44% aparece atrasado y el crédito rápido no bancario…",
-        "pubDate": "2026-09-19T11:57:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Axel Kicillof habló de su posible candidatura para 2027 y se refirió a la interna peronista: \"Una alternativa no se construye desde una oficina\"",
-        "link": "https://www.rosario3.com/politica/axel-kicillof-hablo-de-su-posible-candidatura-para-2027-y-se-refirio-a-la-interna-peronista-una-alternativa-no-se-construye-desde-una-oficina-20260919-0026.html",
-        "image": "https://www.rosario3.com/__export/1789852887969/sites/rosario3/img/2026/09/19/axel.jpg_2106848869.jpg",
-        "summary": "El gobernador de la provincia de Buenos Aires encabezó el primer Plenario Federal del Movimiento Derecho al Futuro en la UTN de Villa Domínico. Hubo referencias a la interna, interpelaciones al rol de las provincias y críticas a la política social e internacional de Javier Milei",
-        "pubDate": "2026-09-19T11:56:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Scaloni y el cuerpo técnico de la Selección viajaron a Rosario para ver el partido de la sub-19 ante Uruguay por los Suramericanos",
-        "link": "https://www.rosario3.com/informaciongeneral/scaloni-y-el-cuerpo-tecnico-de-la-seleccion-viajaron-a-rosario-para-ver-el-partido-de-la-sub-19-ante-uruguay-por-los-suramericanos-20260919-0018.html",
-        "image": "https://www.rosario3.com/__export/1789843850223/sites/rosario3/img/2026/09/19/scalonicoloso.jpg_2066215762.jpg",
-        "summary": "El entrenador y parte de su equipo de trabajo llegaron este sábado al Coloso Marcelo Bielsa para presenciar el encuentro que terminó con el triunfo del combinado nacional frente a la Celeste",
-        "pubDate": "2026-09-19T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Caen seis personas en una redada antinarcóticos en barrio Alvear: encontraron droga oculta en un popular peluche",
-        "link": "https://www.rosario3.com/policiales/caen-seis-personas-en-una-redada-antinarcoticos-en-barrio-alvear-encontraron-droga-oculta-en-un-popular-peluche-20260919-0013.html",
-        "image": "https://www.rosario3.com/__export/1789837229768/sites/rosario3/img/2026/09/19/pfa_allanamientos_-3-.jpeg_672794304.jpeg",
-        "summary": "Diez allanamientos de la PFA tuvieron lugar en cercanías del potrero de Lavalle y Ameghino, en la zona sudoeste de Rosario. Entre los elementos secuestrados hubo cocaína que fue hallada dentro de un peluche con forma de capibara",
-        "pubDate": "2026-09-19T11:54:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "De costearse los torneos a la medalla de plata en los Suramericanos: la historia de la rosarina Agustina De Lucía",
-        "link": "https://www.rosario3.com/deportes/de-costearse-los-torneos-a-la-medalla-de-plata-en-los-suramericanos-la-historia-de-la-rosarina-agustina-de-lucia-20260918-0042.html",
-        "image": "https://www.rosario3.com/__export/1789753267363/sites/rosario3/img/2026/09/18/agustina_de_lucia.jpg_928314580.jpg",
-        "summary": "La judoca rosarina logró el segundo puesto en la categoría -63 kg en los Juegos Suramericanos Santa Fe 2026. Detrás del logro en un Invencible Rosario colmado, la historia de una recuperación tras una severa lesión, el esfuerzo económico familiar y el sostén afectivo para volver…",
-        "pubDate": "2026-09-18T11:53:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "“Ganamos con el corazón, pero necesitamos plata”: el reclamo de los atletas argentinos en los Suramericanos",
-        "link": "https://www.rosario3.com/informaciongeneral/ganamos-con-el-corazon-pero-necesitamos-plata-el-reclamo-de-los-atletas-argentinos-en-los-suramericanos-20260919-0004.html",
-        "image": "https://www.rosario3.com/__export/1789823988366/sites/rosario3/img/2026/09/19/disen-o_sin_ti-tulo_-62-.png_928314581.png",
-        "summary": "Mientras Argentina suma medallas en los Juegos Suramericanos, distintos deportistas volvieron a poner sobre la mesa las dificultades económicas que atraviesa el alto rendimiento. Trabajo, becas, viajes y preparación aparecen entre las principales preocupaciones de quienes…",
-        "pubDate": "2026-09-19T11:52:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Despedida de Messi: AFA publicó cuánto cuestan las entradas para el adiós al ídolo y el amistoso en Córdoba",
-        "link": "https://www.rosario3.com/deportes/despedida-de-messi-afa-publico-cuanto-cuestan-las-entradas-para-el-adios-al-idolo-y-el-amistoso-en-cordoba-20260919-0014.html",
-        "image": "https://www.rosario3.com/__export/1789836891602/sites/rosario3/img/2026/08/03/messi_di_maria.jpg_506286608.jpg",
-        "summary": "Las populares costarán $90.000 para los tres amistosos, mientras que las plateas para los dos partidos en el Monumental llegarán hasta $480.000. Cuándo comienza la venta",
         "pubDate": "2026-09-19T11:51:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,69 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Kicillof se mostró dispuesto a participar en la carrera presidencial",
+        "link": "https://www.lacapital.com.ar/politica/kicillof-se-mostro-dispuesto-participar-la-carrera-presidencial-n10282053.html",
+        "image": "https://media.lacapital.com.ar/p/bd0d2c252ad83986c3e44f94b1b1d2dd/adjuntos/203/imagenes/103/413/0103413822/1200x675/smart/image.png",
+        "summary": "Sin confirmar su candidatura, el gobernador de Buenos Aires anunció una recorrida por todo el país",
+        "pubDate": "2026-09-20T00:01:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Gran triunfo de Duendes ante el escolta en Paraná, para ser más líder que nunca en el Regional del Litoral",
+        "link": "https://www.lacapital.com.ar/ovacion/gran-triunfo-duendes-el-escolta-parana-ser-mas-lider-que-nunca-el-regional-del-litoral-n10282038.html",
+        "image": "https://media.lacapital.com.ar/p/77954865b09c0769043d34cb7d593206/adjuntos/203/imagenes/103/413/0103413798/1200x675/smart/image-18.jpg",
+        "summary": "Duendes superó con claridad a Estudiantes en Paraná y se escapó en la cima del Regional del Litoral. Jockey venció a Gimnasia",
+        "pubDate": "2026-09-19T23:55:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Primera C: Argentino salvó un punto en el final pero sigue muy complicado con el descenso",
+        "link": "https://www.lacapital.com.ar/ovacion/primera-c-argentino-un-punto-el-final-pero-sigue-muy-complicado-el-descenso-n10282047.html",
+        "image": "https://media.lacapital.com.ar/p/7a763c76b555df726f6c82a84b9fcf3b/adjuntos/203/imagenes/103/413/0103413792/1200x675/smart/image-98.png",
+        "summary": "Con el tanto de Theo Guiñazú, el Salaíto igualó ante Berazategui en el Olaeta. En el cierre de la etapa inicial el cotejo estuvo parado por incidentes, clima caliente en barrio Sarmiento",
+        "pubDate": "2026-09-19T23:21:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Argentina se puso fácil 2 a 0 y ya palpita el regreso a los Qualifiers 2027 de la Copa Davis",
+        "link": "https://www.lacapital.com.ar/ovacion/argentina-se-puso-facil-2-0-y-ya-palpita-el-regreso-los-qualifiers-2027-la-copa-davis-n10282046.html",
+        "image": "https://media.lacapital.com.ar/p/3abfcb82cef3c5871fc875952945e6d9/adjuntos/203/imagenes/103/413/0103413794/1200x675/smart/image-17.jpg",
+        "summary": "En Neuquén, Fran Cerúndolo y Tirante pusieron arriba a Argentina 2 a 0 sobre Turquía. Con un punto se asegura volver a pelear la Copa Davis",
+        "pubDate": "2026-09-19T23:16:09+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Los empresarios de Idea quieren blindar las \"transformaciones\" del modelo económico",
+        "link": "https://www.lacapital.com.ar/economia/los-empresarios-idea-quieren-blindar-las-transformaciones-del-modelo-economico-n10282040.html",
+        "image": "https://media.lacapital.com.ar/p/ff602a744ddb786c7013c1372fdeebf0/adjuntos/203/imagenes/102/748/0102748003/1200x675/smart/coloquioideageneral.JPG",
+        "summary": "Los directivos de la entidad presentaron el programa del coloquio que se realizará entre el 30 de septiembre al 1º de octubre en Mar del Plata",
+        "pubDate": "2026-09-19T22:50:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Visitantes ilustres en los Suramericanos: Newell's agasajó a Scaloni, Samuel y Maxi Rodríguez",
+        "link": "https://www.lacapital.com.ar/ovacion/visitantes-ilustres-los-suramericanos-newells-agasajo-scaloni-samuel-y-maxi-rodriguez-n10282036.html",
+        "image": "https://media.lacapital.com.ar/p/e6dff962fdd897002334526ac872c35f/adjuntos/203/imagenes/103/413/0103413746/1200x675/smart/nachoboero.jpg",
+        "summary": "El entrenador de la selección mayor de Argentina, Lionel Scaloni, estuvo en el Coloso junto a sus colaboradores y Maxi Rodríguez, por los Juegos Suramericanos",
+        "pubDate": "2026-09-19T22:44:09+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Dos personas heridas fue el saldo de un incendio en una casa en Funes",
+        "link": "https://www.lacapital.com.ar/la-region/dos-personas-heridas-fue-el-saldo-un-incendio-una-casa-funes-n10282037.html",
+        "image": "https://media.lacapital.com.ar/p/5591b1c62f0791c1f5b7fd7af2948714/adjuntos/203/imagenes/103/413/0103413699/1200x675/smart/incendio-fuens.jpg",
+        "summary": "El siniestro se registró durante la tarde de este sábado en La Querencia y Espora. Las víctimas fueron hospitalizadas por quemaduras en rostro y brazos",
+        "pubDate": "2026-09-19T22:09:58+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El Coloso vibró con el triunfo de Argentina que lo puso en carrera en los Juegos Suramericanos",
         "link": "https://www.lacapital.com.ar/juegos-suramericanos/el-coloso-vibro-el-triunfo-argentina-que-lo-puso-carrera-los-juegos-suramericanos-n10282033.html",
         "image": "https://media.lacapital.com.ar/p/e944bd12023dc3ced8846128f508a416/adjuntos/203/imagenes/103/413/0103413631/1200x675/smart/image-16.jpg",
@@ -159,8 +222,8 @@
       },
       {
         "source": "La Capital",
-        "title": "La Marcha de la Bronca se hizo sentir en Rosario: críticas a Milei y reclamo por paro general",
-        "link": "https://www.lacapital.com.ar/politica/la-marcha-la-bronca-se-hizo-sentir-rosario-criticas-milei-y-reclamo-paro-general-n10282029.html",
+        "title": "La Marcha de la Bronca se hizo sentir en Rosario: críticas a Milei y reclamo de un paro general",
+        "link": "https://www.lacapital.com.ar/politica/la-marcha-la-bronca-se-hizo-sentir-rosario-criticas-milei-y-reclamo-un-paro-general-n10282029.html",
         "image": "https://media.lacapital.com.ar/p/0457652eab6750b1ff57fa25743bced0/adjuntos/203/imagenes/103/413/0103413629/1200x675/smart/marcha-la-bronca-199.jpg",
         "summary": "Una multitudinaria movilización expuso el malestar con el gobierno nacional, exigió que las centrales obreras tomen medidas contundentes y reivindicó la lucha del sector de discapacidad y del feminismo",
         "pubDate": "2026-09-19T21:13:00+00:00",
@@ -208,70 +271,7 @@
         "link": "https://www.lacapital.com.ar/imputaron-regentear-un-bunker-pinero-un-acusado-matar-al-chofer-la-linea-k-n10282008.html",
         "image": "https://media.lacapital.com.ar/p/7325e57d890202694bd9298920df34eb/adjuntos/203/imagenes/103/106/0103106000/1200x675/smart/pi.jpg",
         "summary": "Axel Herrera está apuntado por vender drogas dentro de la cárcel con ayuda de otro interno y de su madre, que estaba en libertad",
-        "pubDate": "2026-09-19T18:14:15+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Lali Espósito habló sobre el presente del cine nacional: \"Ha sido muy atacado por el gobierno\"",
-        "link": "https://www.lacapital.com.ar/zoom/lali-esposito-hablo-el-presente-del-cine-nacional-ha-sido-muy-atacado-el-gobierno-n10282013.html",
-        "image": "https://media.lacapital.com.ar/p/082b186e5ba7c01c2d27ae2c8673f576/adjuntos/203/imagenes/103/413/0103413365/1200x675/smart/image-2026-09-19t162825035.jpg",
-        "summary": "La actriz y cantante habló con la prensa en el marco de su participación en el Festival de Cine de San Sebastián",
-        "pubDate": "2026-09-19T18:13:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cooperativas de inclusión: un camino posible y concreto de reinserción social en Rosario",
-        "link": "https://www.lacapital.com.ar/la-ciudad/cooperativas-inclusion-un-camino-posible-y-concreto-reinsercion-social-rosario-n10281842.html",
-        "image": "https://media.lacapital.com.ar/p/6e8d690b449e2b91f84314623e29e2b2/adjuntos/203/imagenes/103/411/0103411887/1200x675/smart/horno.jpg",
-        "summary": "El trabajo cooperativo brinda espacios de formación, capacitación y nuevos saberes a partir del concepto de economía circular sustentable. Qué tipo de proyectos hay en Rosario",
-        "pubDate": "2026-09-19T17:44:38+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Llegan a Rosario los músicos uruguayos Leonardo Amuedo y Daniel Maza",
-        "link": "https://www.lacapital.com.ar/zoom/llegan-rosario-los-musicos-uruguayos-leonardo-amuedo-y-daniel-maza-n10282012.html",
-        "image": "https://media.lacapital.com.ar/p/32cc82d4ba95e9626a91e945fadee9c1/adjuntos/203/imagenes/103/413/0103413642/whatsapp-image-2026-09-18-at-093614.jpeg",
-        "summary": "Es este domingo 20 de septiembre en el Complejo Cultural Atlas. Tienen una vasta y rica trayectoria internacional",
-        "pubDate": "2026-09-19T17:39:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Ivo Dargoltz, la nueva medalla del judo rosarino en los Juegos Suramericanos",
-        "link": "https://www.lacapital.com.ar/ivo-dargoltz-la-nueva-medalla-del-judo-rosarino-los-juegos-suramericanos-n10282009.html",
-        "image": "https://media.lacapital.com.ar/p/19a004dc36cbf1077c2f2d60cbf6744e/adjuntos/203/imagenes/103/413/0103413321/1200x675/smart/ivo-dargoltz.jpg",
-        "summary": "Es periodista deportivo, representa a Gimnasia y dijo que fue la mejor actuación de su carrera, ganando la medalla de bronce con un ippon",
-        "pubDate": "2026-09-19T17:32:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Murió Eugenio Zanetti, el artista cordobés que llegó a Hollywood y ganó el Oscar",
-        "link": "https://www.lacapital.com.ar/zoom/murio-eugenio-zanetti-el-artista-cordobes-que-llego-hollywood-y-gano-el-oscar-n10282003.html",
-        "image": "https://media.lacapital.com.ar/p/ac17f4dc2551241d5cf8e0dbfedfe79c/adjuntos/203/imagenes/103/413/0103413110/1200x675/smart/19-9-2026-eugenio-zanetti-2329516.jpeg",
-        "summary": "El artista que se quedó con el premio a la Academia por la dirección de arte de \"Restauración\" falleció a los 79 años",
-        "pubDate": "2026-09-19T17:13:50+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Detuvieron en Córdoba a un prófugo por el asesinato de dos adolescentes rosarinos",
-        "link": "https://www.lacapital.com.ar/policiales/detuvieron-cordoba-un-profugo-el-asesinato-dos-adolescentes-rosarinos-n10282002.html",
-        "image": "https://media.lacapital.com.ar/p/97b6f1a3bb530d8b86b352517c3c6f34/adjuntos/203/imagenes/103/413/0103413076/manuel-anazco.jpg",
-        "summary": "La policía local identificó a Manuel Añazco una semana después de la publicación de la recompensa ligada al doble homicidio de Valentín Solis y Eric Galli",
-        "pubDate": "2026-09-19T16:48:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Un colectivo chocó en el barrio Luis Agote y siete pasajeros sufrieron lesiones",
-        "link": "https://www.lacapital.com.ar/la-ciudad/un-colectivo-choco-el-barrio-luis-agote-y-siete-pasajeros-sufrieron-lesiones-n10281995.html",
-        "image": "https://media.lacapital.com.ar/p/3455a496a71f7b7d7ec0f300fd962033/adjuntos/203/imagenes/103/412/0103412921/choque-colectivo-107-san-lorenzo-3900.jpg",
-        "summary": "El chofer de la línea 107 fue hospitalizado después del siniestro vial registrado este sábado a la mañana, a pocas cuadras del bulevar Avellaneda",
-        "pubDate": "2026-09-19T16:04:00+00:00",
+        "pubDate": "2026-09-19T18:14:00+00:00",
         "approxTime": false
       }
     ]
