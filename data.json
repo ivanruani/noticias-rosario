@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T17:18:17.247318+00:00",
+  "generatedAt": "2026-09-20T19:36:25.116802+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,8 +141,107 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Newell's vuelve a jugar sin público en las tribunas tras cinco años",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-vuelve-jugar-publico-las-tribunas-cinco-anos-n10282105.html",
+        "image": "https://media.lacapital.com.ar/p/98775620438bb432903ff5fde4280432/adjuntos/203/imagenes/103/414/0103414729/vacia.jpg",
+        "summary": "Por una sanción, no habrá hinchas en la cancha de Platense. El último antecedente de la Lepra fue en el Coloso y con un gol de un jugador que hoy integra su plantel",
+        "pubDate": "2026-09-20T19:11:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Cómo estará el tiempo en Rosario este lunes para celebrar el Día de la Primavera",
+        "link": "https://www.lacapital.com.ar/la-ciudad/como-estara-el-tiempo-rosario-este-lunes-celebrar-el-dia-la-primavera-n10282117.html",
+        "image": "https://media.lacapital.com.ar/p/7ea46a70e557a875e86db18cc49b3c5c/adjuntos/203/imagenes/102/122/0102122033/2025-01-07-clima-by-vbenedetto-80556210jpg.jpg",
+        "summary": "Después de un domingo gris y lluvioso, este 21 de septiembre llegará con un cambio en las condiciones y un dato del pronóstico que será clave para quienes planean festejar al aire libre.",
+        "pubDate": "2026-09-20T19:05:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Primera C: Leones FC iguala en Villa Devoto ante General Lamadrid por la fecha 29",
+        "link": "https://www.lacapital.com.ar/ovacion/primera-c-leones-fc-iguala-villa-devoto-general-lamadrid-la-fecha-29-n10282111.html",
+        "image": "https://media.lacapital.com.ar/p/d952cac8cb29c177d7db4fca5acfd8db/adjuntos/203/imagenes/103/414/0103414706/1200x675/smart/image-100.png",
+        "summary": "El equipo de de Alvear empata ante el Carcelero en un partido muy parejo. Los dos planteles buscan un lugar en el Reducido en la Primera C",
+        "pubDate": "2026-09-20T19:02:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Almirón cambia al arquero en Central: juega Werner y Ledesma va al banco ante Argentinos",
+        "link": "https://www.lacapital.com.ar/ovacion/almiron-cambia-al-arquero-central-juega-werner-y-ledesma-va-al-banco-argentinos-n10282125.html",
+        "image": "https://media.lacapital.com.ar/p/3ce4e9285020658e7090f171b4bfd201/adjuntos/203/imagenes/103/414/0103414707/1200x675/smart/image-9.jpg",
+        "summary": "El entrenador también confirmó que Verón será el reemplazante de Coronel en el lateral derecho. El partido empieza a las 17.",
+        "pubDate": "2026-09-20T19:02:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Frank Kudelka tiene a los once de Newell's para visitar a Platense",
+        "link": "https://www.lacapital.com.ar/ovacion/frank-kudelka-tiene-los-once-newells-visitar-platense-n10282101.html",
+        "image": "https://media.lacapital.com.ar/p/570ce2a645e0fa4c9bc63927680bb4c7/adjuntos/203/imagenes/103/413/0103413838/fdk9.jpeg",
+        "summary": "El entrenador confirmó el equipo que buscará la primera victoria afuera de su estadio el domingo, a las 17. La Lepra llega con un invicto de 5 fechas",
+        "pubDate": "2026-09-20T18:48:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Un entrenador de hockey fue detenido bajo la acusación de abusar y ultrajar a jugadoras adolescentes",
+        "link": "https://www.lacapital.com.ar/ovacion/un-entrenador-hockey-fue-detenido-la-acusacion-abusar-y-ultrajar-jugadoras-adolescentes-n10282113.html",
+        "image": "https://media.lacapital.com.ar/p/7ce4fe756c01abf1f7270236d0885f6f/adjuntos/203/imagenes/103/414/0103414572/1200x675/smart/image-8.jpg",
+        "summary": "Los hechos ocurrieron hace entre 13 y 14 años, pero una denuncia reciente reactivó la investigación y derivó en la detención",
+        "pubDate": "2026-09-20T18:35:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central juega con el Bicho de La Paternal, pero mira más allá del horizonte",
+        "link": "https://www.lacapital.com.ar/ovacion/central-juega-el-bicho-la-paternal-pero-mira-mas-alla-del-horizonte-n10282061.html",
+        "image": "https://media.lacapital.com.ar/p/cfbb7528afc1127201bac1d5a37ed3f4/adjuntos/203/imagenes/103/413/0103413997/ccammm.jpeg",
+        "summary": "Central recibe a Argentinos en un partido clave por las tablas de la Liga Profesional. Es la previa de la final con Estudiantes",
+        "pubDate": "2026-09-20T18:12:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Newell's y su misión en Vicente López: agregarle más puntos al buen momento para la meta posible",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-y-su-mision-vicente-lopez-agregarle-mas-puntos-al-buen-momento-la-meta-posible-n10282063.html",
+        "image": "https://media.lacapital.com.ar/p/e6316f1dbf2464cd3abfd4c722b96c10/adjuntos/203/imagenes/103/414/0103414032/1200x675/smart/image-20.jpg",
+        "summary": "El equipo de Kudelka, que visita a Platense, viene de cinco fechas invicto pero tres empates al hilo que lo tienen al borde en el G8.",
+        "pubDate": "2026-09-20T18:12:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Un joven de 21 años murió apuñalado tras una pelea familiar en zona sur",
+        "link": "https://www.lacapital.com.ar/policiales/un-joven-21-anos-murio-apunalado-una-pelea-familiar-zona-sur-n10282108.html",
+        "image": "https://media.lacapital.com.ar/p/69742206f11b2db9e5b82ad35ece072d/adjuntos/203/imagenes/102/900/0102900188/1200x675/smart/timthumb.jpg",
+        "summary": "Ocurrió en la madrugada de este domingo en Pedro Pavia al 5100. Por el hecho, fue detenida la prima de la víctima",
+        "pubDate": "2026-09-20T18:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Copa Davis: Cerúndolo apabulló a su rival, Argentina ganó la serie y se clasificó a los Qualifiers 2027",
+        "link": "https://www.lacapital.com.ar/ovacion/copa-davis-cerundolo-apabullo-su-rival-argentina-gano-la-serie-y-se-clasifico-los-qualifiers-2027-n10282109.html",
+        "image": "https://media.lacapital.com.ar/p/406e4ad67ba89e029eaa58cfc585fa45/adjuntos/203/imagenes/103/414/0103414517/1200x675/smart/imagecerundolo.jpg",
+        "summary": "El número uno nacional logró un contundente triunfo ante Mert Alkaya por 6-1 y 6-0. Antes, Guido Andreozzi y Andrés Molteni habían sufrido una derrota en el dobles ante Turquía",
+        "pubDate": "2026-09-20T17:44:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Impactante incendio en barrio Martin: una unidad de la línea K quedó completamente destruida",
+        "link": "https://www.lacapital.com.ar/la-ciudad/impactante-incendio-barrio-martin-una-unidad-la-linea-k-quedo-completamente-destruida-n10282104.html",
+        "image": "https://media.lacapital.com.ar/p/f102ad4ed9546cb114d1faf3cb15de9f/adjuntos/203/imagenes/103/414/0103414478/1200x675/smart/fuego2.jpg",
+        "summary": "La unidad comenzó a arder este domingo, pasadas las 13.30, en 1º de Mayo y 3 de Febrero. Trabajaron dos dotaciones de bomberos y personal del Sies. El fuego provocó daños totales, pero no hubo personas heridas.",
+        "pubDate": "2026-09-20T17:17:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Juegos Suramericanos: por las condiciones climáticas se suspenden competencias y las actividades del Fan Fest",
-        "link": "https://www.lacapital.com.ar/la-ciudad/juegos-suramericanos-las-condiciones-climaticas-se-suspenden-competencias-y-las-actividades-del-fan-fest-n10282100.html",
+        "link": "https://www.lacapital.com.ar/juegos-suramericanos/juegos-suramericanos-las-condiciones-climaticas-se-suspenden-competencias-y-las-actividades-del-fan-fest-n10282100.html",
         "image": "https://media.lacapital.com.ar/p/f663c2f11f095aa5c62b0f46c2294f4d/adjuntos/203/imagenes/103/414/0103414454/1200x675/smart/futbol-suramericanos.JPG",
         "summary": "En Rosario se reprograman los torneos de rugby y fútbol para mañana. Quienes tenían tickets de ingreso podrán utilizarlos sin necesidad de ninguna gestión",
         "pubDate": "2026-09-20T16:29:00+00:00",
@@ -173,105 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/ca65e43f7be6dde7c34d2c57f3574eae/adjuntos/203/imagenes/103/411/0103411705/1200x675/smart/capacitacion-1.jpeg",
         "summary": "Las propuestas impulsadas por la senadora provincial Leticia Di Gregorio junto a la Fundación de Estudios Superiores y Universitarios General López continúan ampliándose en distintas localidades del departamento",
         "pubDate": "2026-09-20T14:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Día del jubilado: una jornada con poco para festejar",
-        "link": "https://www.lacapital.com.ar/la-ciudad/dia-del-jubilado-una-jornada-poco-festejar-n10282005.html",
-        "image": "https://media.lacapital.com.ar/p/03e5c5af5037c3eedae1908647f6d010/adjuntos/203/imagenes/103/413/0103413118/1200x675/smart/dia-jubilado-199.jpg",
-        "summary": "Cada 20 de septiembre se celebra el día de aquellas personas que entraron en el retiro, sin embargo, hoy son un grupo relegado que da pelea a una cruda realidad",
-        "pubDate": "2026-09-20T12:25:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Parque España: Bonafide desembarca junto a un restaurante en plena costa central",
-        "link": "https://www.lacapital.com.ar/negocios/parque-espana-bonafide-desembarca-junto-un-restaurante-plena-costa-central-n10281453.html",
-        "image": "https://media.lacapital.com.ar/p/ed311ba2d25c042a8abf800ae12fe2d4/adjuntos/203/imagenes/103/406/0103406469/bares-costa-central-del-parque-espana.jpeg",
-        "summary": "Son dos propuestas que abrirán en el espacio donde funcionó el bar El Charladero. Y habrá una sorpresa: un nuevo bar que incluirá un vagón de tren de 1945. Las imágenes del nuevo espacio",
-        "pubDate": "2026-09-20T12:23:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Juegos Suramericanos: doce disciplinas animan el domingo en Rosario",
-        "link": "https://www.lacapital.com.ar/juegos-suramericanos/juegos-suramericanos-doce-disciplinas-animan-el-domingo-rosario-n10282067.html",
-        "image": "https://media.lacapital.com.ar/p/8efc0529d21e8f6e09af07a55c9b14f4/adjuntos/203/imagenes/103/410/0103410999/1200x675/smart/juegos-suramericanos23.jpeg",
-        "summary": "Habrá competencias de fútbol, judo, rugby, gimnasia, lucha y deportes ecuestres, entre otras disciplinas, distribuidas en distintos escenarios de la ciudad desde las 8 y hasta la noche",
-        "pubDate": "2026-09-20T11:51:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Kinesiología oncológica: el ejercicio que pasó de estar prohibido a ser parte del tratamiento",
-        "link": "https://www.lacapital.com.ar/salud/kinesiologia-oncologica-el-ejercicio-que-paso-estar-prohibido-ser-parte-del-tratamiento-n10281708.html",
-        "image": "https://media.lacapital.com.ar/p/cc32c46bce3d7dcc80aad5f2f71e9666/adjuntos/203/imagenes/103/409/0103409954/1200x675/smart/imagen-nota.jpg",
-        "summary": "GO Kinesio, el centro especializado de Grupo Oroño, trabaja con pacientes en quimioterapia, prehabilitación quirúrgica y recuperación con planes de actividad física supervisada",
-        "pubDate": "2026-09-20T11:49:41+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Dermatitis atópica: qué la causa, cómo reconocerla y cómo tratarla",
-        "link": "https://www.lacapital.com.ar/salud/dermatitis-atopica-que-la-causa-como-reconocerla-y-como-tratarla-n10281707.html",
-        "image": "https://media.lacapital.com.ar/p/52b99d62d9d71ad4a994ea9905d2240f/adjuntos/203/imagenes/103/409/0103409953/1200x675/smart/imagen-nota.jpg",
-        "summary": "Picazón intensa, sequedad y brotes recurrentes son las señales de alerta. El especialista de Grupo Gamma explica cómo diagnosticarla y mantenerla bajo control",
-        "pubDate": "2026-09-20T11:46:04+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El tiempo en Rosario: domingo con alerta naranja por tormentas fuertes",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-domingo-alerta-naranja-tormentas-fuertes-n10282066.html",
-        "image": "https://media.lacapital.com.ar/p/ad42cc841b58df42114f4a6f22a7f701/adjuntos/203/imagenes/103/339/0103339484/1200x675/smart/lluvia-rosario-problemas.jpg",
-        "summary": "El Servicio Meteorológico Nacional anticipa lluvias intensas, posible caída de granizo y ráfagas que podrían superar los 90 kilómetros por hora. El alerta rige para la tarde y baja a nivel amarillo durante la noche",
-        "pubDate": "2026-09-20T11:16:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cartelera económica: Bernardo Kosacoff diserta sobre desarrollo",
-        "link": "https://www.lacapital.com.ar/economia/cartelera-economica-bernardo-kosacoff-diserta-desarrollo-n10282039.html",
-        "image": "https://media.lacapital.com.ar/p/7d7ea2d541f88f955d8b0f2d69672f15/adjuntos/203/imagenes/100/801/0100801109/1200x675/smart/kosacoff22jpg.jpg",
-        "summary": "El economista especializado en industria dará una conferencia en el auditorio Coinag, invitado por el IDR. Se vienen las jornadas de economía crítica. Faro traza el rumbo de la innovación en el agro",
-        "pubDate": "2026-09-20T11:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Voss2000 consolidó junto a Dielfe su feria industrial mostrando lo mejor de sus productos",
-        "link": "https://www.lacapital.com.ar/negocios/voss2000-consolido-junto-dielfe-su-feria-industrial-mostrando-lo-mejor-sus-productos-n10281261.html",
-        "image": "https://media.lacapital.com.ar/p/d58de2c6af0425e430dab4dc8f22fe48/adjuntos/203/imagenes/103/411/0103411337/image-2026-09-18t124432024.png",
-        "summary": "Por tercer año consecutivo, los industriales mostraron su fuerza ante clientes y distribuidores. El evento se transformó en un punto de encuentro para el sector",
-        "pubDate": "2026-09-20T11:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Pablo Cerra: \"La actividad industrial en la región está en un escenario terminal\"",
-        "link": "https://www.lacapital.com.ar/la-region/pablo-cerra-la-actividad-industrial-la-region-esta-un-escenario-terminal-n10281645.html",
-        "image": "https://media.lacapital.com.ar/p/583497d0f4e37f9477276c55d20174e3/adjuntos/203/imagenes/103/409/0103409242/1200x675/smart/pablo-cerra1.jpeg",
-        "summary": "El abogado y docente universitario advirtió sobre la situación del aparato productivo de Rosario y la región. Reclamó políticas de Estado de largo plazo y analizó los cambios en el trabajo, el sindicalismo y el impacto de las nuevas tecnologías",
-        "pubDate": "2026-09-20T11:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La constructora que supo diversificarse para tener solidez en todo contexto",
-        "link": "https://www.lacapital.com.ar/negocios/la-constructora-que-supo-diversificarse-tener-solidez-todo-contexto-n10281691.html",
-        "image": "https://media.lacapital.com.ar/p/c33b9d2a3d3d4c91720c91dddc398074/adjuntos/203/imagenes/103/409/0103409863/image-2026-09-17t165305136.png",
-        "summary": "La empresa nació como constructora pero rápidamente entró en los negocios del agro. Hoy el Grupo Gagliardo tiene cinco unidades de negocios. En esta entrevista, Franco Gagliardo habla de todos los temas de coyuntura del sector",
-        "pubDate": "2026-09-20T11:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Diego Torres: \"La gente me abrió las puertas para acompañar su vida\"",
-        "link": "https://www.lacapital.com.ar/zoom/diego-torres-la-gente-me-abrio-las-puertas-acompanar-su-vida-n10281890.html",
-        "image": "https://media.lacapital.com.ar/p/903dd000d4a12f5d948ba1a0cf648200/adjuntos/203/imagenes/103/412/0103412055/1200x675/smart/image-2026-09-18t182602783.png",
-        "summary": "El cantautor se presentará en Rosario el 12 de noviembre, en el marco de la gira internacional “Mi Norte & Mi Sur”",
-        "pubDate": "2026-09-20T11:00:00+00:00",
         "approxTime": false
       }
     ]
