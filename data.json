@@ -1,95 +1,77 @@
 {
-  "generatedAt": "2026-09-20T09:56:16.875470+00:00",
+  "generatedAt": "2026-09-20T13:56:44.013476+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Nueva Ley Penal Juvenil: marchas y contramarchas de una implementación signada por falencias e imprevisiones",
+        "link": "https://www.rosario3.com/opinion/nueva-ley-penal-juvenil-marchas-y-contramarchas-de-una-implementacion-signada-por-falencias-e-imprevisiones-20260917-0058.html",
+        "image": "https://www.rosario3.com/__export/1789676246182/sites/rosario3/img/2026/09/17/ley_penal_juvenil.jpg_1768679258.jpg",
+        "summary": "Funcionarios judiciales denuncian falta de jueces, defensores y fiscales especializados en derecho penal juvenil y ausencia de la partida anunciada de 23 mil millones de pesos para infraestructura que aún no llegó a las provincias, incluida Santa Fe. Hábeas corpus que llevan…",
+        "pubDate": "2026-09-17T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "¿Por qué y cómo querría matarnos una inteligencia artificial?",
+        "link": "https://www.rosario3.com/tecnologia/por-que-y-como-querria-matarnos-una-inteligencia-artificial-20260918-0058.html",
+        "image": "https://www.rosario3.com/__export/1789763356674/sites/rosario3/img/2026/09/18/000_-_imagen_de_portada_-_2026-09-18t172809_844.jpg_1768679257.jpg",
+        "summary": "Los principales referentes de la industria de la IA advirtieron en los últimos días sobre los riesgos de perder el control de esta tecnología. El problema no es que las máquinas nos odien, sino que podrían eliminarnos sin siquiera proponérselo",
+        "pubDate": "2026-09-18T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "La ONU abre su Asamblea anual ante un mundo en reordenamiento",
+        "link": "https://www.rosario3.com/politica/la-onu-abre-su-asamblea-anual-ante-un-mundo-en-reordenamiento-20260919-0002.html",
+        "image": "https://www.rosario3.com/__export/1789904988887/sites/rosario3/img/2026/09/20/onu.jpg_1825222445.jpg",
+        "summary": "La sucesión de Guterres, las guerras de Gaza y Ucrania, la crisis financiera y el acercamiento entre antiguos aliados de Washington anticipan una semana marcada por la disputa sobre el poder y las reglas internacionales",
+        "pubDate": "2026-09-19T11:58:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "La política durante los Juegos Suramericanos: entre la llama olímpica y la realidad en llamas",
         "link": "https://www.rosario3.com/opinion/la-politica-durante-los-juegos-suramericanos-entre-la-llama-olimpica-y-la-realidad-en-llamas-20260919-0033.html",
         "image": "https://www.rosario3.com/__export/1789861495293/sites/rosario3/img/2026/09/19/whatsapp_image_2026-09-19_at_20_08_59.jpg_982625323.jpg",
         "summary": "La foto de Pullaro y otros tres gobernadores de Provincias Unidas, un mensaje en sí mismo. El debate sobre las Paso nacionales y los gestos de Bullrich, la dirigente que se convirtió en dolor de cabeza para los hermanos Milei. Las cuentas de Santa Fe, eje de debate entre el…",
-        "pubDate": "2026-09-19T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Más de 50 mil personas vibraron con la fiesta de FM Vida en el Fan Fest de los Juegos Suramericanos Santa Fe 2026",
-        "link": "https://www.rosario3.com/ocio/se-viene-la-primavera-vida-en-el-fan-fest-de-los-juegos-suramericanos-santa-fe-2026-20260916-0019.html",
-        "image": "https://www.rosario3.com/__export/1789878262926/sites/rosario3/img/2026/09/20/fiesta_vida_5.jpg_982625323.jpg",
-        "summary": "El evento de FM Vida 97.9, que comenzó a las 17, reunió a una multitud en una jornada de sábado ideal para disfrutar del deporte y el entretenimiento en diferentes puntos del parque Independencia. Hubo música en vivo y regalos durante la tarde. A las 20, el fervor de los…",
-        "pubDate": "2026-09-16T11:59:00+00:00",
+        "pubDate": "2026-09-19T11:57:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
         "title": "Alerta naranja en Rosario y la región: anuncian tormentas severas para este domingo",
         "link": "https://www.rosario3.com/informaciongeneral/alerta-naranja-en-rosario-y-la-region-anuncian-tormentas-severas-para-este-domingo-20260919-0031.html",
-        "image": "https://www.rosario3.com/__export/1789859092279/sites/rosario3/img/2024/04/15/lluvia_ciudad_1.jpg_2106848869.jpg",
-        "summary": "El anuncio fue emitido este sábado por la tarde y advierte sobre recomendaciones que son necesarias para minimizar daños. Algunos eventos previstos para el domingo ya fueron cancelados",
-        "pubDate": "2026-09-19T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Fiesta en el Coloso: Rosario demostró que siempre está lista para vestirse de celeste y blanco",
-        "link": "https://www.rosario3.com/deportes/fiesta-en-el-coloso-rosario-demostro-que-siempre-esta-lista-para-vestir-la-celeste-y-blanca-20260919-0032.html",
-        "image": "https://www.rosario3.com/__export/1789861213651/sites/rosario3/img/2026/09/19/rosario_de_seleccion.png_928314581.png",
-        "summary": "Con entrada libre, tribunas repletas y la visita estelar del cuerpo técnico campeón del mundo, la Selección Sub-19 tuvo un marco multitudinario en el Parque. Un mensaje contundente para la AFA",
-        "pubDate": "2026-09-19T11:57:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Juegos Suramericanos: doble medalla rosarina en esquí náutico de la mano de los hemanos Giorgis",
-        "link": "https://www.rosario3.com/deportes/juegos-suramericanos-doble-medalla-rosarina-en-esqui-nautico-de-la-mano-de-los-hemanos-giorgis-20260919-0029.html",
-        "image": "https://www.rosario3.com/__export/1789855244888/sites/rosario3/img/2026/09/19/giorgis.jpg_928314580.jpg",
-        "summary": "Tobías y Francisco Giorgis se subieron juntos al podio de Santa Fe 2026, uno fue plata y el otro bronce. El evento tuvo lugar en Lago Sur, allí donde el oro fue para Chile",
+        "image": "https://www.rosario3.com/__export/1789903934142/sites/rosario3/img/2026/09/20/clima_tiempo_lluvia-5.jpg_1825222445.jpg",
+        "summary": "El Servicio Meteorológico advierte por fenómenos intensos que podrían estar acompañados por abundantes precipitaciones, ocasional granizo, ráfagas y actividad eléctrica",
         "pubDate": "2026-09-19T11:56:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Judo en los Juegos Suramericanos 2026: Brasil, Argentina, Chile y Colombia, protagonistas de los podios",
-        "link": "https://www.rosario3.com/deportes/judo-en-los-juegos-suramericanos-2026-brasil-argentina-chile-y-colombia-protagonistas-de-los-podios-20260919-0034.html",
-        "image": "https://www.rosario3.com/__export/1789861906396/sites/rosario3/img/2026/09/19/judo.jpg_1825222445.jpg",
-        "summary": "La jornada en el Invencible Rosario repartió medallas entre diez países, con Brasil como principal ganador y presencia argentina en cuatro podios. Las definiciones tuvieron tribunas colmadas y protagonistas de toda la región.",
-        "pubDate": "2026-09-19T11:55:00+00:00",
+        "title": "Rosario brilla en los Juegos Suramericanos, pero puertas adentro: cierres, cambios de dueños y quién apuesta ya | Ecos365",
+        "link": "https://www.rosario3.com/ecos365/noticias/rosario-brilla-en-los-juegos-suramericanos-pero-puertas-adentro-cierres-cambios-de-duenos-y-quien-apuesta-ya-20260920-0001.html",
+        "image": "https://www.rosario3.com/__export/1789742606060/sites/rosario3/img/2026/09/16/esgrima_suramericanos_rosario_-20-.jpeg_911186587.jpeg",
+        "summary": "Las últimas noticias de Rosario brilla en los Juegos Suramericanos, pero puertas adentro: cierres, cambios de dueños y quién apuesta ya | Ecos365 Información de negocios, economía, agro y emprendimientos de la ciudad de Rosario | Ecos365.com.ar",
+        "pubDate": "2026-09-20T11:55:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Cumbre leprosa después del triunfo argentino en los Suramericanos: Scaloni, Samuel y Maxi Rodríguez con Ignacio Boero",
-        "link": "https://www.rosario3.com/deportes/cumbre-leprosa-despues-del-triunfo-argentino-en-los-suramericanos-scaloni-samuel-y-maxi-rodriguez-con-ignacio-boero-20260919-0027.html",
-        "image": "https://www.rosario3.com/__export/1789853538412/sites/rosario3/img/2026/09/19/scaloni_leproso.jpg_1352849977.jpg",
-        "summary": "El entrenador del seleccionado nacional estuvo presente en el estadio Marcelo Bielsa y luego fue recibido por el presidente del Newell's. Además recibió una camiseta y se llevó algún otro recuerdo",
-        "pubDate": "2026-09-19T11:54:00+00:00",
+        "title": "Bioética y los dilemas morales de la medicina moderna: \"Hay que sacar el debate a la calle\"",
+        "link": "https://www.rosario3.com/informaciongeneral/bioetica-y-los-dilemas-morales-de-la-medicina-moderna-hay-que-sacar-el-debate-a-la-calle-20260918-0034.html",
+        "image": "https://www.rosario3.com/__export/1789767874144/sites/rosario3/img/2026/09/18/bioetica.jpg_928314580.jpg",
+        "summary": "Así lo planteó el médico pediatra y especialista en gestión de servicios de salud, Alejandro Yacobitti, frente al fin de la vida, el consentimiento informado, el uso de la IA y el acceso a tratamientos y medicación costosas. Destacó el debate por el aborto y fue muy crítico con…",
+        "pubDate": "2026-09-18T11:54:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Fútbol: Argentina le ganó a Uruguay y logró un triunfo clave para luchar por las medallas en los Juegos Suramericanos",
-        "link": "https://www.rosario3.com/deportes/futbol-argentina-le-gano-a-uruguay-y-logro-un-triunfo-clave-para-luchar-por-las-medallas-en-los-juegos-suramericanos-20260919-0028.html",
-        "image": "https://www.rosario3.com/__export/1789854395954/sites/rosario3/img/2026/09/19/arg_fut.jpg_928314581.jpg",
-        "summary": "La selección de Diego Placente se impuso 1-0 con un gol de Franco Domínguez en el clásico rioplatense jugado en el estadio de Newell's. El lunes próximo, ante Venezuela, define el pase a las semifinales",
-        "pubDate": "2026-09-19T11:53:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Copa Davis: Argentina ganó los dos primeros puntos ante Turquía y quedó a un punto de volver a los Qualifiers",
-        "link": "https://www.rosario3.com/deportes/copa-davis-argentina-gano-los-dos-primeros-puntos-ante-turquia-y-quedo-a-un-punto-de-volver-a-los-qualifiers-20260919-0024.html",
-        "image": "https://www.rosario3.com/__export/1789850807233/sites/rosario3/img/2026/09/19/cerundolo.jpg_879139882.jpg",
-        "summary": "Francisco Cerúndolo y Thiago Tirante ganaron sus respectivos partidos ante Yanki Erel y Mert Alkaya y dejaron a Argentina 2-0 arriba en la serie ante Turquía. El equipo de Javier Frana buscará cerrar la eliminatoria este domingo con el dobles y asegurar su lugar en el Grupo…",
-        "pubDate": "2026-09-19T11:52:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Medallero de los Juegos Suramericanos Santa Fe 2026: así están las posiciones",
-        "link": "https://www.rosario3.com/deportes/medallero-de-los-juegos-suramericanos-santa-fe-2026-asi-estan-las-posiciones-20260914-0047.html",
-        "image": "https://www.rosario3.com/__export/1789866039066/sites/rosario3/img/2026/09/19/agua_fotaza.jpg_62246646.jpg",
-        "summary": "La tabla con las preseas obtenidas por cada país en la cita continental que tiene a Rosario como una de las sedes",
-        "pubDate": "2026-09-14T11:51:00+00:00",
+        "title": "Agenda de los XIII Juegos Suramericanos Santa Fe 2026: qué deportes compiten hoy, domingo 20 de septiembre, con horarios en Rosario",
+        "link": "https://www.rosario3.com/deportes/agenda-de-los-xiii-juegos-suramericanos-santa-fe-2026-que-deportes-compiten-hoy-domingo-20-de-septiembre-con-horarios-en-rosario-20260911-0060.html",
+        "image": "https://www.rosario3.com/__export/1789150362667/sites/rosario3/img/2026/09/11/lucha.jpg_928314580.jpg",
+        "summary": "El cronograma completo de las actividades que se realizarán en la ciudad y cuáles otorgarán medallas",
+        "pubDate": "2026-09-11T11:53:00+00:00",
         "approxTime": true
       },
       {
@@ -98,7 +80,16 @@
         "link": "https://www.rosario3.com/deportes/la-fiebre-de-los-pines-en-los-juegos-suramericanos-2026-el-fascinante-trueque-transnacional-entre-atletas-y-fanaticos-20260917-0028.html",
         "image": "https://www.rosario3.com/__export/1789654071822/sites/rosario3/img/2026/09/17/dsc07552_jpg.jpeg_2106848869.jpeg",
         "summary": "Más allá de las medallas y los podios, en los Odesur se juegan otras cosas, pequeñas piezas metálicas de los más variados modelos y colores. Un antiguo ritual vigente al día de hoy",
-        "pubDate": "2026-09-17T11:50:00+00:00",
+        "pubDate": "2026-09-17T11:52:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "“Ganamos con el corazón, pero necesitamos plata”: el reclamo de los atletas argentinos en los Suramericanos",
+        "link": "https://www.rosario3.com/informaciongeneral/ganamos-con-el-corazon-pero-necesitamos-plata-el-reclamo-de-los-atletas-argentinos-en-los-suramericanos-20260919-0004.html",
+        "image": "https://www.rosario3.com/__export/1789823988366/sites/rosario3/img/2026/09/19/disen-o_sin_ti-tulo_-62-.png_928314581.png",
+        "summary": "Mientras Argentina suma medallas en los Juegos Suramericanos, distintos deportistas volvieron a poner sobre la mesa las dificultades económicas que atraviesa el alto rendimiento. Trabajo, becas, viajes y preparación aparecen entre las principales preocupaciones de quienes…",
+        "pubDate": "2026-09-19T11:51:00+00:00",
         "approxTime": true
       },
       {
@@ -107,16 +98,7 @@
         "link": "https://www.rosario3.com/deportes/juegos-suramericanos-el-venezolano-angel-rodriguez-levanto-230-kilos-e-hizo-historia-en-rosario-con-un-record-mundial-juvenil-20260918-0004.html",
         "image": "https://www.rosario3.com/__export/1789726412154/sites/rosario3/img/2026/09/18/angel_rodriguez.jpg_982625323.jpg",
         "summary": "El pesista de 20 años consiguió una nueva marca mundial. Los detalles",
-        "pubDate": "2026-09-18T11:49:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Récord total en los Juegos Suramericanos: 1,8 millones de personas ya pasaron por los Fan Fest y las competencias",
-        "link": "https://www.rosario3.com/informaciongeneral/record-total-en-los-juegos-suramericanos-18-millones-de-personas-ya-pasaron-por-los-fan-fest-y-las-competencias-20260917-0059.html",
-        "image": "https://www.rosario3.com/__export/1789674279539/sites/rosario3/img/2026/09/17/jjss.jpg_1825222445.jpg",
-        "summary": "Son las cifras hasta este jueves a la mañana, quinto día del evento deportivo internacional que se desarrolla en Rosario, Santa Fe y Rafaela, y que sigue superando expectativas. De ese total, 815 mil descargaron los Qr para asistir a las competencias o los Fan Fest. El…",
-        "pubDate": "2026-09-17T11:48:00+00:00",
+        "pubDate": "2026-09-18T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -125,7 +107,7 @@
         "link": "https://www.rosario3.com/deportes/el-despertar-emocional-que-los-juegos-suramericanos-le-regalan-dia-a-dia-a-rosario-20260917-0042.html",
         "image": "https://www.rosario3.com/__export/1789670766270/sites/rosario3/img/2026/09/17/dsc05991.jpg_2106848869.jpg",
         "summary": "La masiva respuesta del público en cada escenario terminó de confirmar el verdadero impacto del torneo: la amplia oferta deportiva despertó un abanico de emociones encontradas, devolviéndole a la ciudad la fascinación, el reencuentro y las ganas de volver a empezar",
-        "pubDate": "2026-09-17T11:47:00+00:00",
+        "pubDate": "2026-09-17T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -134,18 +116,126 @@
         "link": "https://www.rosario3.com/deportes/mario-moccia-presidente-de-odesur-estamos-disfrutando-del-deporte-con-estadios-llenos-y-buena-infraestructura-20260916-0022.html",
         "image": "https://www.rosario3.com/__export/1789568801018/sites/rosario3/img/2026/09/16/moccia.jpg_928314580.jpg",
         "summary": "El dirigente dialogó en exclusiva con Rosario3 y manifestó su felicidad durante el evento. “Estamos compitiendo en las mejores condiciones y disfrutando de este evento”, comentó",
-        "pubDate": "2026-09-16T11:46:00+00:00",
+        "pubDate": "2026-09-16T11:48:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "El juego como puerta de entrada: cuando la curiosidad encuentra al deporte",
+        "link": "https://www.rosario3.com/informaciongeneral/el-juego-como-puerta-de-entrada-cuando-la-curiosidad-encuentra-al-deporte-20260915-0047.html",
+        "image": "https://www.rosario3.com/__export/1789499959914/sites/rosario3/img/2026/09/15/nota_1.png_786111822.png",
+        "summary": "Un peluche de Capi, un dibujo, una bicicleta, un inflable. En el Parque Independencia, los Juegos Suramericanos también se descubren así: a través del juego, la inquietud y esas preguntas que pueden ser el primer acercamiento a una disciplina o a una pasión",
+        "pubDate": "2026-09-15T11:47:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "La AFA confirmó a los jugadores del fútbol local convocados por Scaloni para los amistosos de la selección argentina",
+        "link": "https://www.rosario3.com/deportes/la-afa-confirmo-a-los-jugadores-del-futbol-local-convocados-por-scaloni-para-los-amistosos-de-la-seleccion-argentina-20260920-0008.html",
+        "image": "https://www.rosario3.com/__export/1789911825213/sites/rosario3/img/2026/07/24/afa_4.jpg_1768679258.jpg",
+        "summary": "La albiceleste disputará tres encuentros en una nueva fecha FIFA que comenzará este lunes y cerrará el 6 de octubre. En el partido ante Benín, Lionel Messi se despide de la Scaloneta",
+        "pubDate": "2026-09-20T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "Salvaron el edificio de Berlín y tendrá una propuesta gastronómica y cultural",
-        "link": "https://www.lacapital.com.ar/la-ciudad/salvaron-el-edificio-berlin-y-tendra-una-propuesta-gastronomica-y-cultural-n10281689.html",
-        "image": "https://media.lacapital.com.ar/p/d8b51da2f2f11a5e4ccee69be0114b5b/adjuntos/203/imagenes/103/413/0103413823/1200x675/smart/82679996jpegthumb.jpg",
-        "summary": "El inmueble de 1.000 metros cuadrados del pasaje Simeoni esquivó un futuro inmobiliario y quedó en manos de un inversor que busca alquilarlo para recuperar el espíritu del histórico bar como polo de ocio, artístico y comercial",
-        "pubDate": "2026-09-20T09:30:00+00:00",
+        "title": "Día del jubilado: una jornada con poco para festejar",
+        "link": "https://www.lacapital.com.ar/la-ciudad/dia-del-jubilado-una-jornada-poco-festejar-n10282005.html",
+        "image": "https://media.lacapital.com.ar/p/03e5c5af5037c3eedae1908647f6d010/adjuntos/203/imagenes/103/413/0103413118/1200x675/smart/dia-jubilado-199.jpg",
+        "summary": "Cada 20 de septiembre se celebra el día de aquellas personas que entraron en el retiro, sin embargo, hoy son un grupo relegado que da pelea a una cruda realidad",
+        "pubDate": "2026-09-20T12:25:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Parque España: Bonafide desembarca junto a un restaurante en plena costa central",
+        "link": "https://www.lacapital.com.ar/negocios/parque-espana-bonafide-desembarca-junto-un-restaurante-plena-costa-central-n10281453.html",
+        "image": "https://media.lacapital.com.ar/p/ed311ba2d25c042a8abf800ae12fe2d4/adjuntos/203/imagenes/103/406/0103406469/bares-costa-central-del-parque-espana.jpeg",
+        "summary": "Son dos propuestas que abrirán en el espacio donde funcionó el bar El Charladero. Y habrá una sorpresa: un nuevo bar que incluirá un vagón de tren de 1945. Las imágenes del nuevo espacio",
+        "pubDate": "2026-09-20T12:23:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Juegos Suramericanos: doce disciplinas animan el domingo en Rosario",
+        "link": "https://www.lacapital.com.ar/juegos-suramericanos/juegos-suramericanos-doce-disciplinas-animan-el-domingo-rosario-n10282067.html",
+        "image": "https://media.lacapital.com.ar/p/8efc0529d21e8f6e09af07a55c9b14f4/adjuntos/203/imagenes/103/410/0103410999/1200x675/smart/juegos-suramericanos23.jpeg",
+        "summary": "Habrá competencias de fútbol, judo, rugby, gimnasia, lucha y deportes ecuestres, entre otras disciplinas, distribuidas en distintos escenarios de la ciudad desde las 8 y hasta la noche",
+        "pubDate": "2026-09-20T11:51:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Kinesiología oncológica: el ejercicio que pasó de estar prohibido a ser parte del tratamiento",
+        "link": "https://www.lacapital.com.ar/salud/kinesiologia-oncologica-el-ejercicio-que-paso-estar-prohibido-ser-parte-del-tratamiento-n10281708.html",
+        "image": "https://media.lacapital.com.ar/p/cc32c46bce3d7dcc80aad5f2f71e9666/adjuntos/203/imagenes/103/409/0103409954/1200x675/smart/imagen-nota.jpg",
+        "summary": "GO Kinesio, el centro especializado de Grupo Oroño, trabaja con pacientes en quimioterapia, prehabilitación quirúrgica y recuperación con planes de actividad física supervisada",
+        "pubDate": "2026-09-20T11:49:41+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Dermatitis atópica: qué la causa, cómo reconocerla y cómo tratarla",
+        "link": "https://www.lacapital.com.ar/salud/dermatitis-atopica-que-la-causa-como-reconocerla-y-como-tratarla-n10281707.html",
+        "image": "https://media.lacapital.com.ar/p/52b99d62d9d71ad4a994ea9905d2240f/adjuntos/203/imagenes/103/409/0103409953/1200x675/smart/imagen-nota.jpg",
+        "summary": "Picazón intensa, sequedad y brotes recurrentes son las señales de alerta. El especialista de Grupo Gamma explica cómo diagnosticarla y mantenerla bajo control",
+        "pubDate": "2026-09-20T11:46:04+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El tiempo en Rosario: domingo con alerta naranja por tormentas fuertes",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-domingo-alerta-naranja-tormentas-fuertes-n10282066.html",
+        "image": "https://media.lacapital.com.ar/p/ad42cc841b58df42114f4a6f22a7f701/adjuntos/203/imagenes/103/339/0103339484/1200x675/smart/lluvia-rosario-problemas.jpg",
+        "summary": "El Servicio Meteorológico Nacional anticipa lluvias intensas, posible caída de granizo y ráfagas que podrían superar los 90 kilómetros por hora. El alerta rige para la tarde y baja a nivel amarillo durante la noche",
+        "pubDate": "2026-09-20T11:16:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Cartelera económica: Bernardo Kosacoff diserta sobre desarrollo",
+        "link": "https://www.lacapital.com.ar/economia/cartelera-economica-bernardo-kosacoff-diserta-desarrollo-n10282039.html",
+        "image": "https://media.lacapital.com.ar/p/7d7ea2d541f88f955d8b0f2d69672f15/adjuntos/203/imagenes/100/801/0100801109/1200x675/smart/kosacoff22jpg.jpg",
+        "summary": "El economista especializado en industria dará una conferencia en el auditorio Coinag, invitado por el IDR. Se vienen las jornadas de economía crítica. Faro traza el rumbo de la innovación en el agro",
+        "pubDate": "2026-09-20T11:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Voss2000 consolidó junto a Dielfe su feria industrial mostrando lo mejor de sus productos",
+        "link": "https://www.lacapital.com.ar/negocios/voss2000-consolido-junto-dielfe-su-feria-industrial-mostrando-lo-mejor-sus-productos-n10281261.html",
+        "image": "https://media.lacapital.com.ar/p/d58de2c6af0425e430dab4dc8f22fe48/adjuntos/203/imagenes/103/411/0103411337/image-2026-09-18t124432024.png",
+        "summary": "Por tercer año consecutivo, los industriales mostraron su fuerza ante clientes y distribuidores. El evento se transformó en un punto de encuentro para el sector",
+        "pubDate": "2026-09-20T11:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Pablo Cerra: \"La actividad industrial en la región está en un escenario terminal\"",
+        "link": "https://www.lacapital.com.ar/la-region/pablo-cerra-la-actividad-industrial-la-region-esta-un-escenario-terminal-n10281645.html",
+        "image": "https://media.lacapital.com.ar/p/583497d0f4e37f9477276c55d20174e3/adjuntos/203/imagenes/103/409/0103409242/1200x675/smart/pablo-cerra1.jpeg",
+        "summary": "El abogado y docente universitario advirtió sobre la situación del aparato productivo de Rosario y la región. Reclamó políticas de Estado de largo plazo y analizó los cambios en el trabajo, el sindicalismo y el impacto de las nuevas tecnologías",
+        "pubDate": "2026-09-20T11:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La constructora que supo diversificarse para tener solidez en todo contexto",
+        "link": "https://www.lacapital.com.ar/negocios/la-constructora-que-supo-diversificarse-tener-solidez-todo-contexto-n10281691.html",
+        "image": "https://media.lacapital.com.ar/p/c33b9d2a3d3d4c91720c91dddc398074/adjuntos/203/imagenes/103/409/0103409863/image-2026-09-17t165305136.png",
+        "summary": "La empresa nació como constructora pero rápidamente entró en los negocios del agro. Hoy el Grupo Gagliardo tiene cinco unidades de negocios. En esta entrevista, Franco Gagliardo habla de todos los temas de coyuntura del sector",
+        "pubDate": "2026-09-20T11:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Diego Torres: \"La gente me abrió las puertas para acompañar su vida\"",
+        "link": "https://www.lacapital.com.ar/zoom/diego-torres-la-gente-me-abrio-las-puertas-acompanar-su-vida-n10281890.html",
+        "image": "https://media.lacapital.com.ar/p/903dd000d4a12f5d948ba1a0cf648200/adjuntos/203/imagenes/103/412/0103412055/1200x675/smart/image-2026-09-18t182602783.png",
+        "summary": "El cantautor se presentará en Rosario el 12 de noviembre, en el marco de la gira internacional “Mi Norte & Mi Sur”",
+        "pubDate": "2026-09-20T11:00:00+00:00",
         "approxTime": false
       },
       {
@@ -154,6 +244,15 @@
         "link": "https://www.lacapital.com.ar/la-ciudad/insolito-el-consorcio-un-edificio-del-centro-lleva-20-anos-tramitando-el-final-obra-n10281333.html",
         "image": "https://media.lacapital.com.ar/p/0b75aad10d3f99f4c3a9f17cba9d5eb4/adjuntos/203/imagenes/103/413/0103413824/1200x675/smart/82679986jpegthumb.jpg",
         "summary": "Los departamentos de Corrientes al 200 acumulan décadas habitados, aunque no cuentan con el trámite municipal. Todavía lo están gestionando",
+        "pubDate": "2026-09-20T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Salvaron el edificio de Berlín y tendrá una propuesta gastronómica y cultural",
+        "link": "https://www.lacapital.com.ar/la-ciudad/salvaron-el-edificio-berlin-y-tendra-una-propuesta-gastronomica-y-cultural-n10281689.html",
+        "image": "https://media.lacapital.com.ar/p/d8b51da2f2f11a5e4ccee69be0114b5b/adjuntos/203/imagenes/103/413/0103413823/1200x675/smart/82679996jpegthumb.jpg",
+        "summary": "El inmueble de 1.000 metros cuadrados del pasaje Simeoni esquivó un futuro inmobiliario y quedó en manos de un inversor que busca alquilarlo para recuperar el espíritu del histórico bar como polo de ocio, artístico y comercial",
         "pubDate": "2026-09-20T09:30:00+00:00",
         "approxTime": false
       },
@@ -168,110 +267,11 @@
       },
       {
         "source": "La Capital",
-        "title": "Llega la quinta edición de la Maratón La Capital para disfrutar Rosario desde otra perspectiva",
-        "link": "https://www.lacapital.com.ar/la-ciudad/llega-la-quinta-edicion-la-maraton-la-capital-disfrutar-rosario-otra-perspectiva-n10281956.html",
-        "image": "https://media.lacapital.com.ar/p/59fff75b241b7e28e2aa4943469ef4f4/adjuntos/203/imagenes/103/412/0103412455/1200x675/smart/maraton-la-capital.jpg",
-        "summary": "La competencia se realizará el domingo 8 de noviembre, a las 8.30, desde el parque Urquiza. Ofrecerá las distancias de 6K y 15K, además de la nueva versión de 10K. Ya están abiertas las inscripciones",
-        "pubDate": "2026-09-20T09:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "Las infracciones graves de tránsito cayeron un 72% en los últimos tres años en Rosario",
-        "link": "https://www.lacapital.com.ar/las-infracciones-graves-transito-cayeron-un-72-los-ultimos-tres-anos-rosario-n10281932.html",
+        "link": "https://www.lacapital.com.ar/la-ciudad/las-infracciones-graves-transito-cayeron-un-72-los-ultimos-tres-anos-rosario-n10281932.html",
         "image": "https://media.lacapital.com.ar/p/dde9dd26bf66f288c298288b98fad4b7/adjuntos/203/imagenes/103/413/0103413821/1200x675/smart/8316274jpgthumb.jpg",
         "summary": "El Sistema de Alerta Temprana endurece los controles en Rosario. Quienes acumulan cinco faltas graves en dos meses sufren la suspensión inmediata de la licencia de conducir",
         "pubDate": "2026-09-20T09:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La morosidad en los créditos a las familias volvió a subir durante julio",
-        "link": "https://www.lacapital.com.ar/economia/la-morosidad-los-creditos-las-familias-volvio-subir-julio-n10282043.html",
-        "image": "https://media.lacapital.com.ar/p/6ef4f93c893e8b7b71c789c015159ae5/adjuntos/203/imagenes/103/151/0103151903/1200x675/727x205:747x225/deudas-135.jpg",
-        "summary": "Un nuevo informe del Banco Central señaló que la irregularidad llegó a 12,9%. También se estancó el stock de préstamos",
-        "pubDate": "2026-09-20T09:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cosecha 2026/27: las exportaciones alcancarían u$s 42 mil millones",
-        "link": "https://www.lacapital.com.ar/agro/cosecha-202627-las-exportaciones-alcancarian-us-42-mil-millones-n10281939.html",
-        "image": "https://media.lacapital.com.ar/p/2134191385345a94992ca6d8c2217551/adjuntos/203/imagenes/102/314/0102314128/1200x675/smart/campo-granos-cosechajpg.jpg",
-        "summary": "La Bolsa de Comercio de Rosario estimó que la producción del nuevo ciclo agrícola será de 155,8 millones de toneladas. El complejo soja volvería a liderar la generación de divisas, por u$s 22 mil millones",
-        "pubDate": "2026-09-20T09:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Newell's y su misión en Vicente López: agregarle más puntos al buen momento para la meta posible",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-y-su-mision-vicente-lopez-agregarle-mas-puntos-al-buen-momento-la-meta-posible-n10282063.html",
-        "image": "https://media.lacapital.com.ar/p/e6316f1dbf2464cd3abfd4c722b96c10/adjuntos/203/imagenes/103/414/0103414032/1200x675/smart/image-20.jpg",
-        "summary": "El equipo de Kudelka, que visita a Platense, viene de cinco fechas invicto pero tres empates al hilo que lo tienen al borde en el G8.",
-        "pubDate": "2026-09-20T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central juega con el Bicho de La Paternal, pero mira más allá del horizonte",
-        "link": "https://www.lacapital.com.ar/ovacion/central-juega-el-bicho-la-paternal-pero-mira-mas-alla-del-horizonte-n10282061.html",
-        "image": "https://media.lacapital.com.ar/p/cfbb7528afc1127201bac1d5a37ed3f4/adjuntos/203/imagenes/103/413/0103413997/ccammm.jpeg",
-        "summary": "Central recibe a Argentinos en un partido clave por las tablas de la Liga Profesional. Es la previa de la final con Estudiantes",
-        "pubDate": "2026-09-20T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Nueva medalla rosarina en los Juegos Suramericanos, la de Martina Bednarek en vóleibol",
-        "link": "https://www.lacapital.com.ar/juegos-suramericanos/nueva-medalla-rosarina-los-juegos-suramericanos-la-martina-bednarek-voleibol-n10282060.html",
-        "image": "https://media.lacapital.com.ar/p/11e1c5624115340bc88ea8a9716f18ca/adjuntos/203/imagenes/103/413/0103413911/1200x675/smart/image-19.jpg",
-        "summary": "El sábado cerró con una nueva medalla de plata rosarina, la de la Martina Bednarek en el vóleibol femenino en un repleto estadio de Newell",
-        "pubDate": "2026-09-20T01:11:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central recupera a un referente para Argentinos y tiene una baja más para la final con Estudiantes",
-        "link": "https://www.lacapital.com.ar/ovacion/central-recupera-un-referente-argentinos-y-tiene-una-baja-mas-la-final-estudiantes-n10282058.html",
-        "image": "https://media.lacapital.com.ar/p/d44d2a4ab8ce02ec9529b67df475d531/adjuntos/203/imagenes/103/413/0103413974/mrr7.jpeg",
-        "summary": "Central recibe este domingo, a las 17, a Argentinos en el Gigante de Arroyito, por la décima fecha del Clausura",
-        "pubDate": "2026-09-20T01:08:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Juegos Suramericanos, día 7: los Giorgis volaron sobre el agua y se colgaron las preseas de plata y bronce",
-        "link": "https://www.lacapital.com.ar/juegos-suramericanos/juegos-suramericanos-dia-7-los-giorgis-volaron-el-agua-y-se-colgaron-las-preseas-plata-y-bronce-n10282056.html",
-        "image": "https://media.lacapital.com.ar/p/5514005d34605f089684b0aac19e433b/adjuntos/203/imagenes/103/413/0103413827/1200x675/smart/image-99.png",
-        "summary": "En el Lago Sur de la capital provincial Tobías y Francisco mostraron su nivel frente a los mejores exponentes de la región. Plata del voley con la rosarina Martina Bednarek",
-        "pubDate": "2026-09-20T00:41:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El Rojo le dio una mano y Newell's se metió en zona de playoffs antes de enfrentar a Platense",
-        "link": "https://www.lacapital.com.ar/ovacion/el-rojo-le-dio-una-mano-y-newells-se-metio-zona-playoffs-antes-enfrentar-platense-n10282054.html",
-        "image": "https://media.lacapital.com.ar/p/570ce2a645e0fa4c9bc63927680bb4c7/adjuntos/203/imagenes/103/413/0103413838/fdk9.jpeg",
-        "summary": "La derrota de Unión ante Independiente reposicionó a Newell's entre los ocho que clasifican a octavos de final. Concentrados para Platense",
-        "pubDate": "2026-09-20T00:35:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Kicillof se mostró dispuesto a participar en la carrera presidencial",
-        "link": "https://www.lacapital.com.ar/politica/kicillof-se-mostro-dispuesto-participar-la-carrera-presidencial-n10282053.html",
-        "image": "https://media.lacapital.com.ar/p/bd0d2c252ad83986c3e44f94b1b1d2dd/adjuntos/203/imagenes/103/413/0103413822/1200x675/smart/image.png",
-        "summary": "Sin confirmar su candidatura, el gobernador de Buenos Aires anunció una recorrida por todo el país",
-        "pubDate": "2026-09-20T00:01:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Gran triunfo de Duendes ante el escolta en Paraná, para ser más líder que nunca en el Regional del Litoral",
-        "link": "https://www.lacapital.com.ar/ovacion/gran-triunfo-duendes-el-escolta-parana-ser-mas-lider-que-nunca-el-regional-del-litoral-n10282038.html",
-        "image": "https://media.lacapital.com.ar/p/77954865b09c0769043d34cb7d593206/adjuntos/203/imagenes/103/413/0103413798/1200x675/smart/image-18.jpg",
-        "summary": "Duendes superó con claridad a Estudiantes en Paraná y se escapó en la cima del Regional del Litoral. Jockey venció a Gimnasia",
-        "pubDate": "2026-09-19T23:55:00+00:00",
         "approxTime": false
       }
     ]
