@@ -1,14 +1,32 @@
 {
-  "generatedAt": "2026-09-21T20:44:55.856517+00:00",
+  "generatedAt": "2026-09-21T23:47:03.613572+00:00",
   "sites": {
     "rosario3": [
       {
         "source": "Rosario3",
-        "title": "Engañó a un conocido con la venta de un auto y fue condenado por matarlo a puñaladas",
-        "link": "https://www.rosario3.com/policiales/engano-a-un-conocido-con-la-venta-de-un-auto-y-fue-condenado-por-matarlo-a-punaladas-20260921-0068.html",
-        "image": "https://www.rosario3.com/__export/1790015438293/sites/rosario3/img/2023/02/18/crimen_1.jpg_982625323.jpg",
-        "summary": "Un ex taxista terminó condenado por matar a Daniel Quintilli, quien llevaba 2 millones de pesos tras vender una casa. La Fiscalía había pedido perpetua, pero el tribunal entendió que correspondía homicidio simple. El hecho tuvo lugar en febrero de 2023",
+        "title": "Fuerte choque entre un auto y una moto en zona oeste",
+        "link": "https://www.rosario3.com/informaciongeneral/fuerte-choque-entre-un-auto-y-una-moto-en-zona-oeste-20260921-0087.html",
+        "image": "https://www.rosario3.com/__export/1790032720724/sites/rosario3/img/2026/09/21/choque.jpg_1825222445.jpg",
+        "summary": "Ocurrió este lunes al atardecer en Mendoza y Guatemala. El motociclista fue asistido por personal del Sies y trasladado en ambulancia. El conductor del vehículo aseguró que tenía el semáforo en verde al momento del impacto",
         "pubDate": "2026-09-21T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Buscaban a una mujer con pedido de captura en barrio Las Flores y encontraron un arsenal",
+        "link": "https://www.rosario3.com/policiales/buscaban-a-una-mujer-con-pedido-de-captura-en-barrio-las-flores-y-encontraron-un-arsenal-20260921-0075.html",
+        "image": "https://www.rosario3.com/__export/1790022290084/sites/rosario3/img/2026/09/21/armas_las_flores_pdi_rosa_blanca_6900.jpg_672794304.jpg",
+        "summary": "La PDI allanó una vivienda de Rosa Blanca al 6900 y secuestró cinco pistolas 9 milímetros, una ametralladora FMK3, un revólver, cargadores y unas 120 municiones. Tres de las pistolas y la ametralladora tenían la numeración suprimida",
+        "pubDate": "2026-09-21T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Susto en San Lorenzo: coche fúnebre cayó por una barranca y quedó a metros del arroyo",
+        "link": "https://www.rosario3.com/informaciongeneral/susto-en-san-lorenzo-coche-funebre-cayo-por-una-barranca-y-quedo-a-metros-del-arroyo-20260921-0078.html",
+        "image": "https://www.rosario3.com/__export/1790023923921/sites/rosario3/img/2026/09/21/san_lorenzp.png_1825222445.png",
+        "summary": "El episodio ocurrió este lunes cerca de las 13, en barrio Norte. El vehículo quedó atrapado entre la vegetación y no se registraron personas heridas",
+        "pubDate": "2026-09-21T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -17,24 +35,6 @@
         "link": "https://www.rosario3.com/politica/renuncio-el-secretario-nacional-de-discapacidad-en-medio-del-ajuste-en-ese-sector-del-gobierno-20260921-0073.html",
         "image": "https://www.rosario3.com/__export/1790019441009/sites/rosario3/img/2026/09/21/vilches.jpg_1768679258.jpg",
         "summary": "La renuncia de Alejandro Vilches ocurrió este mediodía, en forma sorpresiva, a través de una carta en la que el funcionario adujo razones personales. Su salida se da luego del conflicto interno que produjeron los recortes previstos en el Presupuesto 2027. Está en evaluación su…",
-        "pubDate": "2026-09-21T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Piden colaboración para recibir información sobre el asesinato en ocasión de robo de una anciana",
-        "link": "https://www.rosario3.com/policiales/piden-colaboracion-para-recibir-informacion-sobre-el-asesinato-en-ocasion-de-robo-de-una-anciana-20260921-0059.html",
-        "image": "https://www.rosario3.com/__export/1789474501644/sites/rosario3/img/2026/09/15/crimen_anciana_clorinda_medina.jpg_928314580.jpg",
-        "summary": "Se trata del homicidio de Clorinda Medina, la mujer de 86 años, cuyo cuerpo fue encontrado el 14 de septiembre en su domicilio de Pasaje Minetti al 5800, en barrio Ludueña, con golpes y una bolsa de consorcio en la cabeza",
-        "pubDate": "2026-09-21T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Dólares, pelea y amenazas: confuso episodio terminó con un hombre detenido en supermercado de Funes",
-        "link": "https://www.rosario3.com/policiales/dolares-pelea-y-amenazas-confuso-episodio-termino-con-un-hombre-detenido-en-un-supermercado-de-funes-20260921-0060.html",
-        "image": "https://www.rosario3.com/__export/1790010541173/sites/rosario3/img/2026/09/21/super.png_928314580.png",
-        "summary": "El hecho ocurrió en un comercio de Ruta 9 y Lavalle. Según el parte policial, un cliente se ofuscó cuando le rechazaron una operación con dólares, agredió a dos personas y amenazó con incendiar el local",
         "pubDate": "2026-09-21T11:57:00+00:00",
         "approxTime": true
       },
@@ -49,19 +49,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "\"El hombre que pedí\": Mauro Icardi quedó inhabilitado para conducir por un video que la China Suárez compartió en redes",
-        "link": "https://www.rosario3.com/informaciongeneral/el-hombre-que-pedi-mauro-icardi-quedo-inhabilitado-para-conducir-por-un-video-que-la-china-suarez-compartio-en-redes-20260921-0074.html",
-        "image": "https://www.rosario3.com/__export/1790020975454/sites/rosario3/img/2026/09/21/chinaicardi.jpg_982625323.jpg",
-        "summary": "El Ministerio de Transporte de la Provincia de Buenos Aires dispuso la inhabilitación preventiva de la licencia del futbolista por considerar que mantuvo una conducta negligente al volante",
+        "title": "La actividad metalúrgica volvió a caer en agosto y acumuló una baja de 5,6% durante los primeros ocho meses del año",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-actividad-metalurgica-volvio-a-caer-en-agosto-y-acumulo-una-baja-de-56-durante-los-primeros-ocho-meses-del-ano-20260921-0081.html",
+        "image": "https://www.rosario3.com/__export/1790026157620/sites/rosario3/img/2026/09/21/metalurgica.jpg_982625323.jpg",
+        "summary": "Un informe de la Asociación de Industriales Metalúrgicos reportó una caída de la producción del 6,1% interanual y advirtió que la utilización de la capacidad instalada se ubicó en 39,6%. Señalaron también que el indicador se encuentra en niveles similares a los registrados…",
         "pubDate": "2026-09-21T11:55:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Un argentino entre los detenidos por un millonario cargamento de cocaína en España",
-        "link": "https://www.rosario3.com/informaciongeneral/un-argentino-entre-los-detenidos-por-un-millonario-cargamento-de-cocaina-en-espana-20260921-0070.html",
-        "image": "https://www.rosario3.com/__export/1790017334545/sites/rosario3/img/2026/09/21/cocaina_espaxa.jpg_1010838702.jpg",
-        "summary": "Cayó una banda internacional que intentaba ingresar más de 2.000 kilos de droga a Europa en un velero. La embarcación fue interceptada a 400 millas de las costas de Galicia",
+        "title": "\"El hombre que pedí\": Mauro Icardi quedó inhabilitado para conducir por un video que la China Suárez compartió en redes",
+        "link": "https://www.rosario3.com/informaciongeneral/el-hombre-que-pedi-mauro-icardi-quedo-inhabilitado-para-conducir-por-un-video-que-la-china-suarez-compartio-en-redes-20260921-0074.html",
+        "image": "https://www.rosario3.com/__export/1790020975454/sites/rosario3/img/2026/09/21/chinaicardi.jpg_982625323.jpg",
+        "summary": "El Ministerio de Transporte de la Provincia de Buenos Aires dispuso la inhabilitación preventiva de la licencia del futbolista por considerar que mantuvo una conducta negligente al volante",
         "pubDate": "2026-09-21T11:54:00+00:00",
         "approxTime": true
       },
@@ -76,10 +76,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Qué dijo Gastón Ávila tras el fuerte choque que involucró a su camioneta cerca del Aeropuerto",
-        "link": "https://www.rosario3.com/policiales/que-dijo-gaston-avila-tras-el-fuerte-choque-que-involucro-a-su-camioneta-cerca-del-aeropuerto-20260921-0037.html",
-        "image": "https://www.rosario3.com/__export/1771201512593/sites/rosario3/img/2026/02/15/avila.jpg_474900683.jpg",
-        "summary": "El futbolista de Rosario Central publicó una imagen en sus redes sociales para aclarar su situación tras el violento siniestro vial registrado este lunes por la mañana en la zona noroeste",
+        "title": "Un argentino entre los detenidos por un millonario cargamento de cocaína en España",
+        "link": "https://www.rosario3.com/informaciongeneral/un-argentino-entre-los-detenidos-por-un-millonario-cargamento-de-cocaina-en-espana-20260921-0070.html",
+        "image": "https://www.rosario3.com/__export/1790017334545/sites/rosario3/img/2026/09/21/cocaina_espaxa.jpg_1010838702.jpg",
+        "summary": "Cayó una banda internacional que intentaba ingresar más de 2.000 kilos de droga a Europa en un velero. La embarcación fue interceptada a 400 millas de las costas de Galicia",
         "pubDate": "2026-09-21T11:52:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,87 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Inhabilitaron a Icardi para manejar tras un polémico video de la China Suárez",
+        "link": "https://www.lacapital.com.ar/zoom/inhabilitaron-icardi-manejar-un-polemico-video-la-china-suarez-n10282348.html",
+        "image": "https://media.lacapital.com.ar/p/77dd85f1f7506015cd0eba57b8b803b8/adjuntos/203/imagenes/103/417/0103417419/2026-09-21-china-suarez.jpg",
+        "summary": "La actriz se mostró en redes sociales cantando una canción mientras estaba asomada a la ventanilla de un auto. Manejaba el futbolista, que tenía la licencia vencida",
+        "pubDate": "2026-09-21T22:43:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El Niño pone al clima en el centro de la campaña gruesa",
+        "link": "https://www.lacapital.com.ar/agro/el-nino-pone-al-clima-el-centro-la-campana-gruesa-n10282276.html",
+        "image": "https://media.lacapital.com.ar/p/1130bf4890efc38aab519d8c79c85a29/adjuntos/203/imagenes/101/112/0101112792/1200x675/smart/lluviajpg.jpg",
+        "summary": "Las proyecciones anticipan un fenómeno de El Niño intenso, mientras los productores ajustan sus decisiones de siembra. El antecedente de una fuerte manga de granizo que atravesó tres provincias vuelve a poner el foco en la gestión del riesgo",
+        "pubDate": "2026-09-21T22:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Insólito accidente en San Lorenzo: un coche fúnebre cayó por una barranca y quedó al borde del arroyo",
+        "link": "https://www.lacapital.com.ar/la-region/insolito-accidente-san-lorenzo-un-coche-funebre-cayo-una-barranca-y-quedo-al-borde-del-arroyo-n10282344.html",
+        "image": "https://media.lacapital.com.ar/p/92659a85a41fc8f21ddd22e4577deae9/adjuntos/203/imagenes/103/417/0103417385/1200x675/smart/imagefunebre.jpg",
+        "summary": "El vehículo despistó este lunes al mediodía cuando circulaba por calle Clemente Albelo, en barrio Norte. No llegó a caer al agua y quedó atascado sobre la pendiente.",
+        "pubDate": "2026-09-21T22:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Netflix recibió la nueva temporada de la exitosa serie criminal \"Monstruo\"",
+        "link": "https://www.lacapital.com.ar/zoom/netflix-recibio-la-nueva-temporada-la-exitosa-serie-criminal-monstruo-n10282326.html",
+        "image": "https://media.lacapital.com.ar/p/4f7987aa2768193a6f9d34a3a73d2ff4/adjuntos/203/imagenes/103/417/0103417216/1200x675/smart/image-34.png",
+        "summary": "La producción de Ryan Murphy reconstruye algunos de los casos criminales más impactantes de la historia. En esta ocasión desembarca su cuarta temporada, centrada en Lizzie Borden",
+        "pubDate": "2026-09-21T22:14:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Cristina Kirchner cumplió \"adecuadamente\" con la domiciliaria y seguirá en San José 1111",
+        "link": "https://www.lacapital.com.ar/politica/cristina-kirchner-cumplio-adecuadamente-la-domiciliaria-y-seguira-san-jose-1111-n10282331.html",
+        "image": "https://media.lacapital.com.ar/p/d8b81ab7a301a96f966156414194b7fe/adjuntos/203/imagenes/103/417/0103417252/2026-09-21-cristina.jpg",
+        "summary": "La Justicia indicó que las visitas que recibió la expresidenta \"se ajustaron a los permisos concedidos por el Tribunal”",
+        "pubDate": "2026-09-21T22:14:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Ideal para días nublados: cómo hacer tortas fritas de forma fácil y en casa",
+        "link": "https://www.lacapital.com.ar/informacion-general/ideal-dias-nublados-como-hacer-tortas-fritas-forma-facil-y-casa-n10282335.html",
+        "image": "https://media.lacapital.com.ar/p/bf029bb8c761266b948801857b2a3d7e/adjuntos/203/imagenes/103/417/0103417309/1200x675/smart/image-35.png",
+        "summary": "El tiempo invita a ponerse a amasar unas tortas fritas, una opción simple, barata y tradicional para merendar",
+        "pubDate": "2026-09-21T22:14:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Gonzalo Bonadeo, entre el fervor de Rosario y la falta de apoyo al deporte: \"Valoremos las medallas\"",
+        "link": "https://www.lacapital.com.ar/juegos-suramericanos/gonzalo-bonadeo-el-fervor-rosario-y-la-falta-apoyo-al-deporte-valoremos-las-medallas-n10282330.html",
+        "image": "https://media.lacapital.com.ar/p/da52e37ac109c35bcc0a2a83db0f5f4a/adjuntos/203/imagenes/103/417/0103417217/1200x675/smart/bonadeo-219-mb-1.jpg",
+        "summary": "Desde el centro de prensa de los Juegos Suramericanos, el periodista destacó la respuesta del público local y el nivel de organización de este evento, pero puso el foco en el escaso respaldo institucional que reciben los atletas argentinos.",
+        "pubDate": "2026-09-21T21:32:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Incidentes con All Boys en Rosario: qué dice el informe arbitral a la AFA sobre los hinchas de Central",
+        "link": "https://www.lacapital.com.ar/ovacion/incidentes-all-boys-rosario-que-dice-el-informe-arbitral-la-afa-los-hinchas-central-n10282321.html",
+        "image": "https://media.lacapital.com.ar/p/0fafffd0162d97c28df86861f5875df4/adjuntos/203/imagenes/103/415/0103415991/1200x675/smart/image-2026-09-21t101733290.png",
+        "summary": "El árbitro del partido de futsal ante Provincial elevó un escrito oficial después de los incidentes ocurridos en Náutico Sportivo Avellaneda. El documento ya está en manos de las autoridades de la AFA.",
+        "pubDate": "2026-09-21T21:16:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "FMI comenzó la tercera revisión del programa con Argentina",
+        "link": "https://www.lacapital.com.ar/fmi-comenzo-la-tercera-revision-del-programa-argentina-n10282320.html",
+        "image": "https://media.lacapital.com.ar/p/0fa7419e4c35bb50718b7dd5973749a1/adjuntos/203/imagenes/103/417/0103417189/1200x675/588x166:608x186/joyce-wong-fmi-argentina.jpg",
+        "summary": "Si es aprobada la revisión del acuerdo con el FMI se destrabará un desembolso de u$s900 millones",
+        "pubDate": "2026-09-21T21:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "La actividad metalúrgica cayó 6,1% y no hubo ningún sector que escapara a la baja",
         "link": "https://www.lacapital.com.ar/economia/la-actividad-metalurgica-cayo-61-y-no-hubo-ningun-sector-que-escapara-la-baja-n10282309.html",
         "image": "https://media.lacapital.com.ar/p/ec4116268a9aac545fc80a0b5e7dea21/adjuntos/203/imagenes/100/041/0100041693/1200x675/805x198:825x218/metalurgiajpg.jpg",
@@ -162,7 +243,7 @@
         "title": "El fútbol de Argentina clasificó con el corazón en la boca a las semis de los Juegos Suramericanos",
         "link": "https://www.lacapital.com.ar/juegos-suramericanos/el-futbol-argentina-clasifico-el-corazon-la-boca-las-semis-los-juegos-suramericanos-n10282312.html",
         "image": "https://media.lacapital.com.ar/p/65ccfc89b1efc9527528f4d5273419e3/adjuntos/203/imagenes/103/417/0103417070/1200x675/smart/image.jpg",
-        "summary": "En el último minuto consiguió la clasificación, cuando Venezuela le ganaba y lo dejaba afuera. En semis enfrentará a Chile",
+        "summary": "En el último minuto consiguió la clasificación, cuando Venezuela le ganaba y lo dejaba afuera. En semis enfrentará a Perú",
         "pubDate": "2026-09-21T20:28:00+00:00",
         "approxTime": false
       },
@@ -191,87 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/5857c38b5f08e6e6124deec86414d218/adjuntos/203/imagenes/103/416/0103416934/1200x675/smart/imagevapear.jpg",
         "summary": "El Concejo mantuvo los montos de las multas, pero eliminó la clausura ante la primera infracción y también redujo el castigo en caso de reincidencia.",
         "pubDate": "2026-09-21T19:40:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La lista de celulares que se quedará sin WhatsApp a fines de septiembre",
-        "link": "https://www.lacapital.com.ar/informacion-general/la-lista-celulares-que-se-quedara-whatsapp-fines-septiembre-n10282286.html",
-        "image": "https://media.lacapital.com.ar/p/691c08fcbb14e41889a2a670b987fdb3/adjuntos/203/imagenes/102/317/0102317802/1200x675/smart/whatsapp-celular-chatwebp.png",
-        "summary": "Distintos modelos de Android y iOS no podrán descargar ni abrir la aplicación. La lista completa y algunos consejos para evitar perder datos importantes",
-        "pubDate": "2026-09-21T19:38:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cataratas del Iguazú: cierran 40 días la Garganta del Diablo por el riesgo de crecidas de El Niño",
-        "link": "https://www.lacapital.com.ar/informacion-general/cataratas-del-iguazu-cierran-40-dias-la-garganta-del-diablo-el-riesgo-crecidas-el-nino-n10282280.html",
-        "image": "https://media.lacapital.com.ar/p/8e57cac4eb01a50942bece6d995411af/adjuntos/203/imagenes/103/416/0103416713/1200x675/smart/imagegarganta.jpg",
-        "summary": "La medida será preventiva e incluirá el retiro de las pasarelas. El resto de los circuitos del Parque Nacional Iguazú continuará abierto a los visitantes.",
-        "pubDate": "2026-09-21T18:34:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Descuentos de Ansés para transporte urbano: cómo activar el beneficio en la Sube",
-        "link": "https://www.lacapital.com.ar/informacion-general/descuentos-anses-transporte-urbano-como-activar-el-beneficio-la-sube-n10282274.html",
-        "image": "https://media.lacapital.com.ar/p/2645ef11288d9ac40e894db55e30688f/adjuntos/203/imagenes/101/398/0101398012/1200x675/smart/transporte-subejpg.jpg",
-        "summary": "Los jubilados pueden acceder a una tarifa con descuento para viajar en colectivo. Los detalles del trámite, en esta nota",
-        "pubDate": "2026-09-21T18:20:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Anmat prohibió una marca de medicamentos y productos médicos",
-        "link": "https://www.lacapital.com.ar/informacion-general/anmat-prohibio-una-marca-medicamentos-y-productos-medicos-n10282270.html",
-        "image": "https://media.lacapital.com.ar/p/b635e9c078a90978b9cb35e5fe61f0b3/adjuntos/203/imagenes/102/682/0102682588/1200x675/smart/laboratorioooo.png",
-        "summary": "Los productos no contaban con la autorización sanitaria exigida y fueron considerados ilegales",
-        "pubDate": "2026-09-21T18:03:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Abren convocatoria para instalar proyectos de economía circular en Venado Tuerto",
-        "link": "https://www.lacapital.com.ar/la-region/abren-convocatoria-instalar-proyectos-economia-circular-venado-tuerto-n10282265.html",
-        "image": "https://media.lacapital.com.ar/p/b04f972ccd1490a88a08ffcda089bd63/adjuntos/203/imagenes/004/876/0004876792/1200x675/smart/la-fuerza-del-sol-junto-materiales-reciclados-nace-un-calefactor-solar.jpg",
-        "summary": "El objetivo es reducir la cantidad de residuos enviados a disposición final, generar empleo verde y agregar valor a los materiales recuperados en la ciudad",
-        "pubDate": "2026-09-21T17:35:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Accidente en los Juegos Suramericanos: una ciclista brasileña se cayó y otras competidoras la pasaron por encima",
-        "link": "https://www.lacapital.com.ar/juegos-suramericanos/accidente-los-juegos-suramericanos-una-ciclista-brasilena-se-cayo-y-otras-competidoras-la-pasaron-encima-n10282267.html",
-        "image": "https://media.lacapital.com.ar/p/6a41b7861046e272441ec8d4a21f58b1/adjuntos/203/imagenes/103/416/0103416510/1200x675/smart/imageacci.jpg",
-        "summary": "Nicolle Borges sufrió una caída y un posterior golpe en la competencia de ciclismo de pista en los juegos disputados en Rafaela.",
-        "pubDate": "2026-09-21T17:32:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Purga en la Quinta de Olivos: 12 despidos, control militar y la renuncia de la mano derecha de Karina Milei",
-        "link": "https://www.lacapital.com.ar/politica/purga-la-quinta-olivos-12-despidos-control-militar-y-la-renuncia-la-mano-derecha-karina-milei-n10282260.html",
-        "image": "https://media.lacapital.com.ar/p/571e3ff202e489ecbb456d1be43acdde/adjuntos/203/imagenes/103/416/0103416568/imagepurga.jpg",
-        "summary": "María Belén Agudiez dejó la Subsecretaría de Planificación General, que tenía bajo su órbita el funcionamiento de la residencia presidencial.",
-        "pubDate": "2026-09-21T16:46:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "UCA Rosario: estudiantes organizan una jornada federal de ciencia política",
-        "link": "https://www.lacapital.com.ar/uca-rosario-estudiantes-organizan-una-jornada-federal-ciencia-politica-n10282249.html",
-        "image": "https://media.lacapital.com.ar/p/374f55f158d6dc43531f815674d66f20/adjuntos/203/imagenes/101/176/0101176533/uca-frente-gral-rosariojpg.jpg",
-        "summary": "Con paneles con figuras de peso nacional e internacional, la universidad será sede de un evento impulsado por su centro de estudiantes",
-        "pubDate": "2026-09-21T16:27:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Pami entrega accesorios gratuitos a jubilados: cuáles son y cómo solicitarlos",
-        "link": "https://www.lacapital.com.ar/informacion-general/pami-entrega-accesorios-gratuitos-jubilados-cuales-son-y-como-solicitarlos-n10282254.html",
-        "image": "https://media.lacapital.com.ar/p/703991a6e2921ad1bef4e9acd71fe613/adjuntos/203/imagenes/101/685/0101685875/2024-06-12-pamijpg.jpg",
-        "summary": "El programa “Accesorios” está destinado a cubrir las necesidades de los jubilados con movilidad reducida y quienes cumplan con los requisitos podrán acceder de forma gratuita",
-        "pubDate": "2026-09-21T16:27:00+00:00",
         "approxTime": false
       }
     ]
