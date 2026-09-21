@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-09-21T00:22:50.666403+00:00",
+  "generatedAt": "2026-09-21T05:14:25.578390+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Inician obras en la ruta Rosario-Victoria: tránsito alternado por un mes y medio",
+        "link": "https://www.rosario3.com/informaciongeneral/inician-obras-en-la-ruta-rosario-victoria-transito-alternado-por-un-mes-y-medio-20260920-0024.html",
+        "image": "https://www.rosario3.com/__export/1783269829475/sites/rosario3/img/2026/07/05/rutas_provinciales.jpg_54252852.jpg",
+        "summary": "Los trabajos de pavimentación comenzarán este lunes en el kilómetro 59,2. Se habilitará un solo carril de circulación de forma permanente, por lo que prevén demoras en la traza",
+        "pubDate": "2026-09-20T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Central derrotó y alcanzó al líder Argentinos en el Gigante y llega entonado a la Supercopa",
         "link": "https://www.rosario3.com/deportes/con-un-ojo-puesto-en-santiago-rosario-central-recibe-a-argentinos-lider-de-su-zona-20260919-0023.html",
         "image": "https://www.rosario3.com/__export/1789939032139/sites/rosario3/img/2026/09/20/rc_ovando_-2-.jpg_1390072036.jpg",
         "summary": "Con lluvia por momentos en Arroyito, el local pegó en el momento justo con un cabezazo de Ovando en el primer tiempo y tuvo varias para liquidarlo en el segundo. Ambos quedaron con 18 puntos en la zona B y el Canalla se ubicó cuarto en la tabla anual, de cara a la final del…",
-        "pubDate": "2026-09-19T12:00:00+00:00",
+        "pubDate": "2026-09-19T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,16 +26,7 @@
         "link": "https://www.rosario3.com/deportes/newells-visita-a-platense-con-la-idea-de-prolongar-su-buena-racha-y-seguir-sumando-puntos-en-el-clausura-20260919-0021.html",
         "image": "https://www.rosario3.com/__export/1789937097090/sites/rosario3/img/2026/09/20/nob-platense.jpg_928314580.jpg",
         "summary": "Por la mínima, la Lepra se quedó con los tres puntos en su visita a Buenos Aires. Con el gol del 32 y gracias a dos buenas atajadas de Reinatti sobre el final, los dirigidos por Kudelka se vuelven a Rosario con la victoria",
-        "pubDate": "2026-09-19T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "De conocer una gran ciudad a descubrir un deporte: la oportunidad que los Juegos les abren a 175 mil chicos de la provincia",
-        "link": "https://www.rosario3.com/informaciongeneral/de-conocer-una-gran-ciudad-a-descubrir-un-deporte-la-oportunidad-que-los-juegos-les-abren-a-175-mil-chicos-de-la-provincia-20260920-0012.html",
-        "image": "https://www.rosario3.com/__export/1789915486424/sites/rosario3/img/2026/09/20/juegos-capi1.jpeg_1768679313.jpeg",
-        "summary": "El gobierno provincial buscó aprovechar los Juegos Suramericanos como una experiencia educativa: primero llevó las competencias a las aulas y ahora traslada a estudiantes de las 365 localidades santafesinas a las tres sedes. “Dentro de diez años nos vamos a encontrar con chicos…",
-        "pubDate": "2026-09-20T11:58:00+00:00",
+        "pubDate": "2026-09-19T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -40,10 +40,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Activaron un operativo especial de drenaje e higiene ante la doble alerta por tormentas",
-        "link": "https://www.rosario3.com/informaciongeneral/activaron-un-operativo-especial-de-drenaje-e-higiene-ante-la-doble-alerta-por-tormentas-20260920-0029.html",
-        "image": "https://www.rosario3.com/__export/1789946024046/sites/rosario3/img/2026/09/20/tormenta.jpg_928314580.jpg",
-        "summary": "La Secretaría de Ambiente y Espacio Público desplegó cuadrillas de mantenimiento urbano en el macrocentro, avenidas y barrios propensos a anegamientos. La medida busca prevenir la acumulación de agua ante el temporal",
+        "title": "De conocer una gran ciudad a descubrir un deporte: la oportunidad que los Juegos les abren a 175 mil chicos de la provincia",
+        "link": "https://www.rosario3.com/informaciongeneral/de-conocer-una-gran-ciudad-a-descubrir-un-deporte-la-oportunidad-que-los-juegos-les-abren-a-175-mil-chicos-de-la-provincia-20260920-0012.html",
+        "image": "https://www.rosario3.com/__export/1789915486424/sites/rosario3/img/2026/09/20/juegos-capi1.jpeg_1768679313.jpeg",
+        "summary": "El gobierno provincial buscó aprovechar los Juegos Suramericanos como una experiencia educativa: primero llevó las competencias a las aulas y ahora traslada a estudiantes de las 365 localidades santafesinas a las tres sedes. “Dentro de diez años nos vamos a encontrar con chicos…",
         "pubDate": "2026-09-20T11:56:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,60 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Italia quiere prohibir el velo musulmán en escuelas y limitar la cantidad de inmigrantes",
+        "link": "https://www.lacapital.com.ar/el-mundo/italia-quiere-prohibir-el-velo-musulman-escuelas-y-limitar-la-cantidad-inmigrantes-n10282177.html",
+        "image": "https://media.lacapital.com.ar/p/a4d4393ee9048b74e268a05e36e4cddf/adjuntos/203/imagenes/103/415/0103415531/2026-09-20-giorgia-meloni-82676168.jpg",
+        "summary": "“Cualquiera que venga a Italia y quiera construir aquí su futuro debe aprender nuestro idioma, comprender nuestra cultura y respetar nuestras reglas”, afirmó",
+        "pubDate": "2026-09-21T02:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El tiempo en Rosario: el Día de la Primavera llega con alerta amarillo",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-el-dia-la-primavera-llega-alerta-amarillo-n10282176.html",
+        "image": "https://media.lacapital.com.ar/p/de30e429eb4f3e8a57b034f97ea7220d/adjuntos/203/imagenes/103/415/0103415509/2026-09-20-clima-by-cmutti-79490495.jpg",
+        "summary": "Se esperan durante casi toda la jornada vientos de entre 40 y 50 km/h y ráfagas que podrían llegar a los 80 km/h",
+        "pubDate": "2026-09-21T01:56:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Resumen del día 8 de los Juegos Suramericanos: oro y bronce rosarino, y otras medallas para Argentina",
+        "link": "https://www.lacapital.com.ar/juegos-suramericanos/resumen-del-dia-8-los-juegos-suramericanos-oro-y-bronce-rosarino-y-otras-medallas-argentina-n10282170.html",
+        "image": "https://media.lacapital.com.ar/p/7af35193c7b9580ca708f22365d4013e/adjuntos/203/imagenes/103/415/0103415421/1200x675/smart/image.png",
+        "summary": "El esquí náutico y el judo le dieron medallas a Rosario, pero también otros deportistas argentinos sumaron para la cosecha. El resumen del domingo",
+        "pubDate": "2026-09-21T01:41:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Las Fiestas Patrias en Chile tuvieron 18 muertes en rutas y 282 conductores detenidos",
+        "link": "https://www.lacapital.com.ar/informacion-general/las-fiestas-patrias-chile-tuvieron-18-muertes-rutas-y-282-conductores-detenidos-n10282173.html",
+        "image": "https://media.lacapital.com.ar/p/6fce77684d00d09484af06eb97c2a60d/adjuntos/203/imagenes/103/415/0103415460/2026-09-20-choques-chile.jpg",
+        "summary": "En el país trasandino hubo 50.000 operativos de tránsito por el aniversario de la Primera Junta Nacional de Gobierno",
+        "pubDate": "2026-09-21T01:20:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Asociación Rosarina de Fútbol: Social Lux y Defensores Unidos igualaron en el clásico de Ludueña",
+        "link": "https://www.lacapital.com.ar/ovacion/asociacion-rosarina-futbol-social-lux-y-defensores-unidos-igualaron-el-clasico-luduena-n10282139.html",
+        "image": "https://media.lacapital.com.ar/p/4bfac1df1abb53f9f564fd8d6c06c1e2/adjuntos/203/imagenes/103/415/0103415354/1200x675/smart/image-2026-09-20t204921129.png",
+        "summary": "El Mercadito y el Rojo empataron 1 a 1 en la lucha por el ascenso de la B. Central está imparable en la A y Juan XXIII da pelea en la C de la Rosarina",
+        "pubDate": "2026-09-21T00:53:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Récord megamillonario en el Quini 6: un apostador ganó $9.100 millones",
+        "link": "https://www.lacapital.com.ar/informacion-general/record-megamillonario-el-quini-6-un-apostador-gano-9100-millones-n10282168.html",
+        "image": "https://media.lacapital.com.ar/p/a8ebb297d8e7f0808c58ec00b4da4594/adjuntos/203/imagenes/103/415/0103415369/2026-09-20-quini-6.jpg",
+        "summary": "Es el mayor premio para un solo apostador en toda la historia del juego. En el Siempre Sale hubo 17 ganadores, entre ellos uno de la provincia de Santa Fe",
+        "pubDate": "2026-09-21T00:44:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Argentino quedó más complicado en la permanencia con la victoria de Deportivo Paraguayo",
         "link": "https://www.lacapital.com.ar/ovacion/argentino-quedo-mas-complicado-la-permanencia-la-victoria-deportivo-paraguayo-n10282156.html",
         "image": "https://media.lacapital.com.ar/p/9a99199976351fa479ac48814b3f04f0/adjuntos/203/imagenes/103/415/0103415284/1200x675/smart/image-2026-09-20t201629242.png",
@@ -218,60 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/c07bb1798331a2b6f34c163d04242398/adjuntos/203/imagenes/103/415/0103415137/2026-09-20-nepal-82678314.jpg",
         "summary": "Unas 13.800 personas ya fueron rescatadas tras la riada del pasado 26 de agosto",
         "pubDate": "2026-09-20T22:35:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Milei llevará doce gobernadores a París, pero Pullaro no sería de la partida",
-        "link": "https://www.lacapital.com.ar/politica/milei-llevara-doce-gobernadores-paris-pero-pullaro-no-seria-la-partida-n10282141.html",
-        "image": "https://media.lacapital.com.ar/p/2701760868c1aa353a5b8e9c065f2c79/adjuntos/203/imagenes/103/414/0103414983/2026-09-20-milei.jpg",
-        "summary": "El presidente llevará la comitiva a la capital francesa para participar de Argentina Week, un encuentro destinado a promocionar oportunidades de inversión en el país",
-        "pubDate": "2026-09-20T22:34:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El gol del triunfo de Ovando llegó con la jugada de dos que faltarán en la Supercopa Internacional",
-        "link": "https://www.lacapital.com.ar/ovacion/el-gol-del-triunfo-ovando-llego-la-jugada-dos-que-faltaran-la-supercopa-internacional-n10282151.html",
-        "image": "https://media.lacapital.com.ar/p/da384b5a88b736a86aab65e896b82a13/adjuntos/203/imagenes/103/415/0103415126/1200x675/smart/image-29.jpg",
-        "summary": "Vicente Pizarro y Jaminton Campaz armaron la acción para el grito de Ignacio Ovando, y ambos no estarán en la Supercopa Internacional",
-        "pubDate": "2026-09-20T22:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El uno x uno de Newell's: Mazzantti quebró de principio a fin la defensa calamar",
-        "link": "https://www.lacapital.com.ar/ovacion/el-uno-x-uno-newells-mazzantti-quebro-principio-fin-la-defensa-calamar-n10282121.html",
-        "image": "https://media.lacapital.com.ar/p/4eeba4c6ff98cd9e02efdc9f3a8d8f71/adjuntos/203/imagenes/103/414/0103414886/equiponob.jpg",
-        "summary": "El delantero siempre fue una opción ofensiva de la Lepra, aunque sus mejores apariciones fueron en la primera etapa. Importante en el triunfo por 1 a 0",
-        "pubDate": "2026-09-20T22:25:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Newell's cantó la primera victoria de visitante, merecida y con un innecesario sufrimiento",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-canto-la-primera-victoria-visitante-merecida-y-un-innecesario-sufrimiento-n10282122.html",
-        "image": "https://media.lacapital.com.ar/p/0be7d90a4606ccad70650443d496d17c/adjuntos/203/imagenes/103/415/0103415070/gol8.jpg",
-        "summary": "El conjunto de Frank Kudelka impuso condiciones y fue superior a Platense, pero un quedo en los instantes finales casi lo priva de la victoria",
-        "pubDate": "2026-09-20T22:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Ovando, un defensor con una fuerte ovación ofensiva que le aporta goles a Central",
-        "link": "https://www.lacapital.com.ar/ovacion/ovando-un-defensor-una-fuerte-ovacion-ofensiva-que-le-aporta-goles-central-n10282145.html",
-        "image": "https://media.lacapital.com.ar/p/44f880a7efa9dfe4cd79c489efc0b4f7/adjuntos/203/imagenes/103/415/0103415041/1200x675/smart/image-10.jpg",
-        "summary": "Con el que le hizo a Argentinos Juniors ya suma cinco desde que juega en la primera división del Canalla, incluidos dos en la Libertadores. \"Estoy feliz\", dijo",
-        "pubDate": "2026-09-20T22:13:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "En vivo: Newell's le ganó a Platense con gol de Santiago Solari y se afianzó en zona de playoffs",
-        "link": "https://www.lacapital.com.ar/ovacion/en-vivo-newells-le-gano-platense-gol-santiago-solari-y-se-afianzo-zona-playoffs-n10282126.html",
-        "image": "https://media.lacapital.com.ar/p/6f2b31c53a8093c28876b7ea4035804d/adjuntos/203/imagenes/103/414/0103414908/sssoari.jpg",
-        "summary": "El rojinegro venció 1 a 0 a Platense en Vicente López con gol de Santiago Solari y trepó en la tabla de la zona A",
-        "pubDate": "2026-09-20T22:02:00+00:00",
         "approxTime": false
       }
     ]
