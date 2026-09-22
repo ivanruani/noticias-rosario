@@ -1,32 +1,41 @@
 {
-  "generatedAt": "2026-09-22T20:47:26.139040+00:00",
+  "generatedAt": "2026-09-22T23:26:18.622757+00:00",
   "sites": {
     "rosario3": [
       {
         "source": "Rosario3",
-        "title": "Censo a repartidores rosarinos: casi el 70% usa moto y más de la mitad son hombres jóvenes, en su mayoría con secundario completo",
-        "link": "https://www.rosario3.com/informaciongeneral/censo-a-repartidores-rosarinos-casi-el-70-usa-moto-y-mas-de-la-mitad-son-hombres-jovenes-en-su-mayoria-con-secundario-completo-20260922-0062.html",
-        "image": "https://www.rosario3.com/__export/1790105431820/sites/rosario3/img/2026/09/22/repartidores_portada.jpg_1768679257.jpg",
-        "summary": "La iniciativa de la Secretaría de Desarrollo Humano y Hábitat busca transformar las demandas del sector de la economía de plataformas en políticas públicas enfocadas en la formación y el cuidado. Tras dar a conocer los resultados, también indicaron las primeras acciones e…",
+        "title": "Choques múltiples, despiste y vuelco en los ingresos a Rosario: un herido grave en San Genaro y una traffic con 14 trabajadores lesionados en puente Saladillo",
+        "link": "https://www.rosario3.com/informaciongeneral/choques-multiples-despiste-y-vuelco-en-los-ingresos-a-rosario-un-herido-grave-en-san-genaro-y-una-traffic-con-14-trabajadores-lesionados-en-puente-saladillo-20260922-0074.html",
+        "image": "https://www.rosario3.com/__export/1790112097152/sites/rosario3/img/2026/09/22/choque_autopista.jpg_938818496.jpg",
+        "summary": "En la autopista Rosario-Córdoba, se produjo un siniestro vial que dejó como saldo tres personas heridas; todos fuera de peligro. Además, hubo otro choque en la ruta 34, con un herido de gravedad y la participación del helicóptero sanitario. En el ingreso desde Buenos Aires dos…",
         "pubDate": "2026-09-22T12:00:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "La Justicia ordenó al Estado a cumplir con la Ley de Financiamiento Universitario y le dio un plazo de 5 días",
-        "link": "https://www.rosario3.com/informaciongeneral/la-justicia-ordeno-al-estado-a-cumplir-con-la-ley-de-financiamiento-universitario-y-le-dio-un-plazo-de-5-dias-20260922-0060.html",
-        "image": "https://www.rosario3.com/__export/1790103229313/sites/rosario3/img/2026/09/22/unr.jpg_1768679257.jpg",
-        "summary": "El juez federal Martín Cormick intimó al Estado Nacional a cumplir en cinco días con la medida cautelar que exige aplicar la Ley 27.795, bajo apercibimiento de aplicarle multas diarias por cada día de demora",
+        "title": "El Gobierno confirmó un nuevo feriado nacional por la visita del papa León XIV",
+        "link": "https://www.rosario3.com/informaciongeneral/el-gobierno-confirmo-un-nuevo-feriado-nacional-por-la-visita-del-papa-leon-xiv-20260922-0077.html",
+        "image": "https://www.rosario3.com/__export/1790116579880/sites/rosario3/img/2026/09/22/papa.jpg_1825222445.jpg",
+        "summary": "Será el lunes 9 de noviembre, cuando el pontífice encabece una misa en la Ciudad de Buenos Aires. Para el martes 10 y miércoles 11 se prevén medidas similares, pero limitadas a las jurisdicciones incluidas en su recorrido",
         "pubDate": "2026-09-22T11:59:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Piden 13 años de prisión a un acusado de hacer grooming y abusar a una adolescente de 14 años",
-        "link": "https://www.rosario3.com/policiales/piden-13-anos-de-prision-a-un-acusado-de-hacer-grooming-y-abusar-a-una-adolescente-de-14-anos-20260922-0052.html",
-        "image": "https://www.rosario3.com/__export/1788909548016/sites/rosario3/img/2026/09/08/centro_de_justicia_penal.jpg_1825222445.jpg",
-        "summary": "Juan José Ortiz comenzó a ser juzgado desde este lunes en Rosario por los delitos cometidos entre octubre y noviembre de 2023 en Piñero",
+        "title": "Trump volvió a respaldar a Milei: \"Tuvimos una gran victoria en Argentina\"",
+        "link": "https://www.rosario3.com/informaciongeneral/trump-volvio-a-respaldar-a-milei-tuvimos-una-gran-victoria-en-argentina-20260922-0076.html",
+        "image": "https://www.rosario3.com/__export/1790115313240/sites/rosario3/img/2026/09/22/milei_trump.jpg_1825222445.jpg",
+        "summary": "Los presidentes coincidieron este martes en Nueva York durante una reunión del Escudo de las Américas, realizada en el marco de la Asamblea General de la ONU. El mandatario estadounidense destacó los triunfos electorales del oficialismo argentino, mientras Milei ratificó su…",
         "pubDate": "2026-09-22T11:58:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Juegos Suramericanos: cambió el horario de la semifinal del fútbol masculino entre Argentina y Perú en el Coloso",
+        "link": "https://www.rosario3.com/deportes/juegos-suramericanos-cambio-el-horario-de-la-semifinal-del-futbol-masculino-entre-argentina-y-peru-en-el-coloso-20260922-0070.html",
+        "image": "https://www.rosario3.com/__export/1790110698082/sites/rosario3/img/2026/09/22/coloso.jpg_982625323.jpg",
+        "summary": "Por cuestiones de organización, el partido del seleccionado nacional sub 19 dirigido por Diego Placente pasó de la mañana a la tarde este miércoles. También se reforzará la seguridad. Todos los detalles",
+        "pubDate": "2026-09-22T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -35,33 +44,24 @@
         "link": "https://www.rosario3.com/deportes/el-deporte-argentino-dio-un-paso-historico-con-la-firma-del-crear-federal-en-rosario-20260922-0058.html",
         "image": "https://www.rosario3.com/__export/1790102748124/sites/rosario3/img/2026/09/22/crear_federal2.jpg_928314580.jpg",
         "summary": "En la Casa Suramericana y en el marco de Santa Fe 2026, 22 secretarios de deportes provinciales sellaron la adhesión al programa impulsado por el COA y el COPAR. Nacida como una metodología local, la iniciativa busca democratizar el acceso a herramientas de evaluación, formación…",
-        "pubDate": "2026-09-22T11:57:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Fuego, humo y susto en la cocina de un conocido bar del microcentro de Rosario",
-        "link": "https://www.rosario3.com/informaciongeneral/fuego-humo-y-susto-en-la-cocina-de-un-conocido-bar-del-microcentro-de-rosario-20260922-0044.html",
-        "image": "https://www.rosario3.com/__export/1790093496500/sites/rosario3/img/2026/09/22/humo_en_el_bar_1.jpg_982625323.jpg",
-        "summary": "Este mediodía, hubo alarma en la zona de la peatonal por un incendio en el interior de un local gastronómico seguido de una columna de humo que se elevó y que podía observarse desde otros puntos cercanos de la ciudad. Las imágenes",
         "pubDate": "2026-09-22T11:56:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "¿Cuánto dura la comida en la heladera? Claves para organizar los alimentos, evitar el desperdicio y cuidar el bolsillo",
-        "link": "https://www.rosario3.com/informaciongeneral/cuanto-dura-la-comida-en-la-heladera-claves-para-organizar-los-alimentos-evitar-el-desperdicio-y-cuidar-el-bolsillo-20260922-0066.html",
-        "image": "https://www.rosario3.com/__export/1790109415324/sites/rosario3/img/2026/09/22/alimentos_en_la_heladera.jpg_2106848869.jpg",
-        "summary": "Datos fundamentales a tener en cuenta al guardar alimentos en la heladera. A nivel mundial se pierden o desperdician 1.300 millones de toneladas de alimentos cada año",
+        "title": "Lula inauguró la Asamblea de la ONU con un fuerte discurso contra las presiones de EE. UU.: “Brasil no es el patio trasero de nadie”",
+        "link": "https://www.rosario3.com/informaciongeneral/lula-inauguro-la-asamblea-de-la-onu-con-un-fuerte-discurso-contra-las-presiones-de-ee.-uu.-brasil-no-es-el-patio-trasero-de-nadie-20260922-0072.html",
+        "image": "https://www.rosario3.com/__export/1790112033072/sites/rosario3/img/2026/09/22/lulaonu.jpg_982625323.jpg",
+        "summary": "El presidente de Brasil lanzó una enfática defensa de la soberanía brasileña y criticó cualquier intento de interferencia extranjera de cara a las elecciones del próximo 4 de octubre",
         "pubDate": "2026-09-22T11:55:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Vialidad Nacional cerrará este miércoles el puente sobre el río Carcarañá para realizar estudios estructurales",
-        "link": "https://www.rosario3.com/informaciongeneral/vialidad-nacional-cerrara-este-miercoles-el-puente-sobre-el-rio-carcarana-para-realizar-estudios-estructurales-20260922-0030.html",
-        "image": "https://www.rosario3.com/__export/1790087925601/sites/rosario3/img/2026/09/22/whatsapp_image_2026-09-22_at_10_44_28_version1790087925027.jpeg_1895404345.jpeg",
-        "summary": "El corte total será entre las 10 y las 18 en el puente de la ex ruta nacional 9, entre Carcarañá y Correa. Se realizará una prueba de cargas y controles con instrumentos especiales. El desvío será por la autopista Rosario-Córdoba.",
+        "title": "La Justicia ordenó al Estado a cumplir con la Ley de Financiamiento Universitario y le dio un plazo de 5 días",
+        "link": "https://www.rosario3.com/informaciongeneral/la-justicia-ordeno-al-estado-a-cumplir-con-la-ley-de-financiamiento-universitario-y-le-dio-un-plazo-de-5-dias-20260922-0060.html",
+        "image": "https://www.rosario3.com/__export/1790103229313/sites/rosario3/img/2026/09/22/unr.jpg_1768679257.jpg",
+        "summary": "El juez federal Martín Cormick intimó al Estado Nacional a cumplir en cinco días con la medida cautelar que exige aplicar la Ley 27.795, bajo apercibimiento de aplicarle multas diarias por cada día de demora",
         "pubDate": "2026-09-22T11:54:00+00:00",
         "approxTime": true
       },
@@ -85,10 +85,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "De La Bajada al mundo, así quedó el \"Circuito Messi\" tras su renovación",
-        "link": "https://www.rosario3.com/informaciongeneral/de-la-bajada-al-mundo-asi-quedo-el-circuito-messi-tras-su-renovacion-20260922-0031.html",
-        "image": "https://www.rosario3.com/__export/1790088882355/sites/rosario3/img/2026/09/22/mural_messi_14.jpg_64756139.jpg",
-        "summary": "Desde el potrero de Grandoli hasta la escuela primaria de Estado de Israel, el histórico trayecto del astro rosarino luce restaurado. Mirá las postas principales que integran la fotogalería sobre los orígenes del capitán de la Selección",
+        "title": "Se postergó el inicio de la venta de entradas para ver a la selección argentina en la despedida de Messi: cuándo se podrán comprar",
+        "link": "https://www.rosario3.com/deportes/se-postergo-el-inicio-de-la-venta-de-entradas-para-ver-a-la-seleccion-argentina-en-la-despedida-de-messi-cuando-se-podran-comprar-20260922-0064.html",
+        "image": "https://www.rosario3.com/__export/1782149932212/sites/rosario3/img/2026/06/22/messi_se_lamenta.jpg_928315423.jpg",
+        "summary": "La venta para el partido que marcará el cierre de Lionel Messi con la selección argentina estaba prevista para este martes, pero la organización anunció un cambio de último momento",
         "pubDate": "2026-09-22T11:51:00+00:00",
         "approxTime": true
       },
@@ -141,137 +141,137 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Pullaro confirmó que no viajará a Francia con Milei y los gobernadores",
+        "link": "https://www.lacapital.com.ar/politica/pullaro-confirmo-que-no-viajara-francia-milei-y-los-gobernadores-n10282573.html",
+        "image": "https://media.lacapital.com.ar/p/1e118bf2c571e331645e27075f8ada45/adjuntos/203/imagenes/103/420/0103420096/2026-09-22-pullaro-82176237-at_hrio.jpg",
+        "summary": "\"Tenemos muchos temas en Santa Fe que requieren mi presencia\", argumentó el mandatario provincial",
+        "pubDate": "2026-09-22T22:50:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Básquet: Sergio Gatti felicitó el trabajo de Rosario y la provincia de Santa Fe",
+        "link": "https://www.lacapital.com.ar/ovacion/basquet-sergio-gatti-felicito-el-trabajo-rosario-y-la-provincia-santa-fe-n10282574.html",
+        "image": "https://media.lacapital.com.ar/p/0971cb22a7fb1b0793457744e8a7b660/adjuntos/203/imagenes/103/420/0103420006/bas11.jpeg",
+        "summary": "El presidente de la Confederación Argentina de Básquet (CAB) estuvo en la sede de la Asociación Rosarina, en pleno festejo por el centenario",
+        "pubDate": "2026-09-22T22:40:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El gobierno confirmó que el lunes 9 de noviembre será feriado nacional por la visita del Papa León XIV",
+        "link": "https://www.lacapital.com.ar/informacion-general/el-gobierno-confirmo-que-el-lunes-9-noviembre-sera-feriado-nacional-la-visita-del-papa-leon-xiv-n10282569.html",
+        "image": "https://media.lacapital.com.ar/p/6c77bcccef3cc9e5d04c7aefcf091bc8/adjuntos/203/imagenes/103/419/0103419995/1200x675/smart/plantillona-5-fue-capturado-el-hombre-que-secuestro-su-hijo-tr-1.jpeg",
+        "summary": "El Sumo Pontífice llegará a la ciudad de Buenos Aires el domingo 8 de noviembre y se quedará en el país hasta el día 11",
+        "pubDate": "2026-09-22T22:25:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Bullrich expuso sus diferencias en la mesa política",
+        "link": "https://www.lacapital.com.ar/politica/bullrich-expuso-sus-diferencias-la-mesa-politica-n10282568.html",
+        "image": "https://media.lacapital.com.ar/p/e0ea2b481a3cb8cac773e68c072af4c1/adjuntos/203/imagenes/103/419/0103419991/1200x675/smart/bullrich11.jpg",
+        "summary": "La jefa del bloque libertario en el Senado mantuvo su posición, pero le pidieron que canalice internamente las críticas",
+        "pubDate": "2026-09-22T22:21:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Oscar 2027: cuáles son las cuatro películas argentinas preseleccionadas para representar al país",
+        "link": "https://www.lacapital.com.ar/oscar-2027-cuales-son-las-cuatro-peliculas-argentinas-preseleccionadas-representar-al-pais-n10282534.html",
+        "image": "https://media.lacapital.com.ar/p/d7decde07726b49c97f61802b9aa00f6/adjuntos/203/imagenes/103/419/0103419656/1200x675/smart/el-chofer-que-murio-intentar-rescatar-las-ninas-desaparecidas-el-temporal-bahia-blanca-40.png",
+        "summary": "Cuatro películas nacionales quedaron en carrera para representar a la Argentina. Solo uno de los filmes representará efectivamente al país",
+        "pubDate": "2026-09-22T22:20:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Dos crímenes que sacudieron a Rosario, un acusado y testigos reservados: la clave que unió las causas",
+        "link": "https://www.lacapital.com.ar/policiales/dos-crimenes-que-sacudieron-rosario-un-acusado-y-testigos-reservados-la-clave-que-unio-las-causas-n10282520.html",
+        "image": "https://media.lacapital.com.ar/p/c23cc77ed5a0bd16e663d054a88b037a/adjuntos/203/imagenes/030/671/0030671188/1200x675/smart/joaquinperez01bjpg.jpg",
+        "summary": "Las declaraciones de personas de su entorno permitieron señalar a Cristian López, acusado por los crímenes del arquitecto Joaquín Pérez y del comisionista Ariel Simoncini. Afronta un pedido de prisión perpetua por ambos hechos.",
+        "pubDate": "2026-09-22T22:06:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Malvinas: la Argentina presentó una \"protesta formal\" en medio de la Asamblea de la ONU",
+        "link": "https://www.lacapital.com.ar/politica/malvinas-la-argentina-presento-una-protesta-formal-medio-la-asamblea-la-onu-n10282560.html",
+        "image": "https://media.lacapital.com.ar/p/c2048c527262201099bcd6826ba87fc1/adjuntos/203/imagenes/103/192/0103192124/2026-06-02-canciller-quirno.jpg",
+        "summary": "El planteo fue realizado por instrucción del canciller Pablo Quirno, un día antes de la exposición del presidente Javier Milei ante las Naciones Unidas",
+        "pubDate": "2026-09-22T21:57:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Juegos Suramericanos 2026: aumenta la seguridad para el partido de Argentina y Perú",
+        "link": "https://www.lacapital.com.ar/ovacion/juegos-suramericanos-2026-aumenta-la-seguridad-el-partido-argentina-y-peru-n10282463.html",
+        "image": "https://media.lacapital.com.ar/p/93469f206364e90e5288b9c8ec36f01a/adjuntos/203/imagenes/103/419/0103419148/publico-juegos-suramericanos-newells.jpeg",
+        "summary": "El gobierno de Santa Fe anunció la utilización del protocolo AFA para las semifinales de fútbol masculino en la cancha de Newell's",
+        "pubDate": "2026-09-22T21:21:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Las Leonas también consiguieron el oro tras golear a Chile en Santa Fe",
+        "link": "https://www.lacapital.com.ar/juegos-suramericanos/las-leonas-tambien-consiguieron-el-oro-golear-chile-santa-fe-n10282555.html",
+        "image": "https://media.lacapital.com.ar/p/c966595c689ea7718c6633e74cd8c485/adjuntos/203/imagenes/103/419/0103419802/1200x675/smart/image-4.jpg",
+        "summary": "La selección argentina se impuso ante el equipo chileno por 5 a 0 en la final de hockey femenino y cerró un torneo perfecto",
+        "pubDate": "2026-09-22T21:18:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Juegos Suramericanos: así funciona desde Rosario el gigantesco operativo de TV que llega a todo el mundo",
+        "link": "https://www.lacapital.com.ar/juegos-suramericanos/juegos-suramericanos-asi-funciona-rosario-el-gigantesco-operativo-tv-que-llega-todo-el-mundo-n10282522.html",
+        "image": "https://media.lacapital.com.ar/p/95c5e12969fbca35fbb0b05da7e9d748/adjuntos/203/imagenes/103/420/0103420085/1200x675/smart/imagejuego.jpg",
+        "summary": "El Isef Nº 11, habitualmente ocupado por estudiantes y docentes, fue transformado en un centro de producción televisiva. Allí trabajan TyC Sports, con Gonzalo Bonadeo, y la empresa española que coordina 12 señales, 120 cámaras y más de 300 personas.",
+        "pubDate": "2026-09-22T21:14:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Juegos Suramericanos: la semifinal de fútbol de Argentina de este miércoles cambió de horario",
+        "link": "https://www.lacapital.com.ar/juegos-suramericanos/juegos-suramericanos-la-semifinal-futbol-argentina-este-miercoles-cambio-horario-n10282550.html",
+        "image": "https://media.lacapital.com.ar/p/3094e1d3c477c4cf66db540dbae4e545/adjuntos/203/imagenes/103/419/0103419790/argentina.jpeg",
+        "summary": "El partido por las semifinales de fútbol en los Juegos Suramericanos cambió el horario. Ahora Argentina y Perú jugarán el miércoles, a las 14, en el Coloso",
+        "pubDate": "2026-09-22T21:12:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Histórico giro de los Testigos de Jehová: cambian su postura sobre las transfusiones",
+        "link": "https://www.lacapital.com.ar/informacion-general/historico-giro-los-testigos-jehova-cambian-su-postura-las-transfusiones-n10282556.html",
+        "image": "https://media.lacapital.com.ar/p/b41faadda536549c42475ec3f8c9bafd/adjuntos/203/imagenes/103/419/0103419779/1200x675/smart/imagejehova.jpg",
+        "summary": "El Cuerpo Gobernante modificó por primera vez desde 1945 su doctrina sobre uno de los temas más controvertidos de la comunidad religiosa y dejó en manos de cada fiel la decisión de aceptar o rechazar glóbulos rojos, glóbulos blancos, plasma y plaquetas de un donante.",
+        "pubDate": "2026-09-22T21:04:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El equipo de futsal del Club Regatas será distinguido por el Concejo Municipal de Rosario",
+        "link": "https://www.lacapital.com.ar/ovacion/el-equipo-futsal-del-club-regatas-sera-distinguido-el-concejo-municipal-rosario-n10282530.html",
+        "image": "https://media.lacapital.com.ar/p/6f77edc80050dd5d93354c31a0389004/adjuntos/203/imagenes/103/419/0103419904/rrr2.jpg",
+        "summary": "Regatas Rosario se consagró campeón del torneo rosarino de futsal de primera división masculina por segundo año consecutivo",
+        "pubDate": "2026-09-22T20:46:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Antes de la final con Central, el DT de Estudiantes le mete presión al árbitro: \"Espero que esté a la altura\"",
+        "link": "https://www.lacapital.com.ar/ovacion/antes-la-final-central-el-dt-estudiantes-le-mete-presion-al-arbitro-espero-que-este-la-altura-n10282546.html",
+        "image": "https://media.lacapital.com.ar/p/35f9b0802b06fc3cf768a0bf0a6a913f/adjuntos/203/imagenes/103/343/0103343890/1200x675/smart/image-2.jpg",
+        "summary": "Alexander Medina cuestionó los últimos arbitrajes y el uso del VAR. \"Hay mucha confusión, no sé cuál es el criterio para tirar líneas\", dijo",
+        "pubDate": "2026-09-22T20:41:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Los Leones vencieron a Chile y conquistaron la medalla dorada en Santa Fe",
         "link": "https://www.lacapital.com.ar/juegos-suramericanos/los-leones-vencieron-chile-y-conquistaron-la-medalla-dorada-santa-fe-n10282542.html",
         "image": "https://media.lacapital.com.ar/p/0419b8bc04a69d3334654514d633f584/adjuntos/203/imagenes/103/419/0103419657/1200x675/smart/image-3.jpg",
         "summary": "Argentina superó al equipo chileno por 3 a 1 en la final de hockey masculino en los Juegos Suramericanos. Fue con goles de Tarazona, Ferreiro y Agostini.",
         "pubDate": "2026-09-22T20:39:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Las exportaciones agroindustriales marcaron un récord: crecieron 10% y superaron las 84 millones de toneladas",
-        "link": "https://www.lacapital.com.ar/agro/las-exportaciones-agroindustriales-marcaron-un-record-crecieron-10-y-superaron-las-84-millones-toneladas-n10282543.html",
-        "image": "https://media.lacapital.com.ar/p/7bcc2e9ad56ebee3bd89f40c7f2324f3/adjuntos/203/imagenes/100/056/0100056305/1200x675/526x364:546x384/2022-03-16-frigorificosjpg.jpg",
-        "summary": "Entre enero y agosto, el sector exportó 84,26 millones de toneladas por u$s37.525 millones. Los envíos aumentaron 10% en volumen y 13% en valor frente al mismo período del año pasado",
-        "pubDate": "2026-09-22T20:32:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Juampi González llega a Rosario con su unipersonal \"Oveja Negra\"",
-        "link": "https://www.lacapital.com.ar/zoom/juampi-gonzalez-llega-rosario-su-unipersonal-oveja-negra-n10282528.html",
-        "image": "https://media.lacapital.com.ar/p/3c6024eb7c822cde2e571c32609f0be7/adjuntos/203/imagenes/103/419/0103419554/1200x675/smart/juampi-gonzalez.jpg",
-        "summary": "El comediante se presenta este viernes en el Teatro Mateo Booz, como parte de su nueva gira nacional",
-        "pubDate": "2026-09-22T20:04:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Dánica cierra su planta de Llavallol y crece el conflicto por los puestos de trabajo",
-        "link": "https://www.lacapital.com.ar/economia/danica-cierra-su-planta-llavallol-y-crece-el-conflicto-los-puestos-trabajo-n10282527.html",
-        "image": "https://media.lacapital.com.ar/p/6fe783b0a9f2f7106d30fca0798d0eb8/adjuntos/203/imagenes/103/419/0103419540/1200x675/792x363:812x383/danica.jpg",
-        "summary": "Dorada SA anunció que la fábrica de su emblemática marca Dánica dejará de operar el 30 de septiembre. Los 30 trabajadores mantienen una protesta frente al establecimiento",
-        "pubDate": "2026-09-22T20:03:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Andis: la Justicia procesó a Diego Spagnuolo por las supuestas coimas",
-        "link": "https://www.lacapital.com.ar/politica/andis-la-justicia-proceso-diego-spagnuolo-las-supuestas-coimas-n10282526.html",
-        "image": "https://media.lacapital.com.ar/p/660f33a5b8c819773b78a32fa24ee496/adjuntos/203/imagenes/102/622/0102622353/1200x675/smart/spagnoulo-y-milei.jpg",
-        "summary": "La medida judicial también abarcó a 18 personas. Se los acusa de haber conformado una asociación ilícita",
-        "pubDate": "2026-09-22T20:03:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El gobierno designó a Pablo Di Liscia como nuevo secretario de Discapacidad",
-        "link": "https://www.lacapital.com.ar/el-gobierno-designo-pablo-di-liscia-como-nuevo-secretario-discapacidad-n10282523.html",
-        "image": "https://media.lacapital.com.ar/p/9175c20a9188462f3e9ac864731bc652/adjuntos/203/imagenes/103/419/0103419564/1200x675/smart/image-2.jpg",
-        "summary": "El Ministerio de Salud confirmó su designación al cargo tras la sorpresiva renuncia de Alejandro Vilches este lunes por motivos personales",
-        "pubDate": "2026-09-22T20:03:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Newell's jugará ante Lanús el mismo día en que la selección afrontará su segundo partido de la fecha Fifa",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-jugara-lanus-el-mismo-dia-que-la-seleccion-afrontara-su-segundo-partido-la-fecha-fifa-n10282538.html",
-        "image": "https://media.lacapital.com.ar/p/b1809470056aaf3ed8bfa4d8981d9ef1/adjuntos/203/imagenes/103/419/0103419583/1200x675/smart/image-2.jpg",
-        "summary": "Como el horario del partido de Argentina aún no está definido, tampoco se sabe a qué hora se enfrentarán en el Coloso rojinegros y granates",
-        "pubDate": "2026-09-22T20:02:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Financiamiento universitario: la Justicia le dio cinco días al gobierno nacional para cumplir la ley",
-        "link": "https://www.lacapital.com.ar/politica/financiamiento-universitario-la-justicia-le-dio-cinco-dias-al-gobierno-nacional-cumplir-la-ley-n10282537.html",
-        "image": "https://media.lacapital.com.ar/p/28eebb5af8b9289248f5b32d3d4063fd/adjuntos/203/imagenes/103/151/0103151083/1200x675/1332x277:1352x297/marcha-universitaria.png",
-        "summary": "El juez Martín Cormick hizo lugar a una cautelar impulsada por el Consejo Interuniversitario Nacional y ordenó aplicar los artículos que disponen la recomposición salarial de docentes y no docentes y la actualización de las becas estudiantiles.",
-        "pubDate": "2026-09-22T19:58:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Santa Fe: hallan a una mujer asesinada en el barrio Siete Jefes",
-        "link": "https://www.lacapital.com.ar/policiales/santa-fe-hallan-una-mujer-asesinada-el-barrio-siete-jefes-n10282504.html",
-        "image": "https://media.lacapital.com.ar/p/74a57367761773330665e94663addb78/adjuntos/203/imagenes/103/419/0103419335/1200x675/smart/casitax.jpg",
-        "summary": "La Policía de Investigaciones no descartó que se haya tratado de un crimen en ocasión de robo.",
-        "pubDate": "2026-09-22T19:49:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Autos de época unieron historia, producción y cultura en la 7ª Vuelta a las Estancias",
-        "link": "https://www.lacapital.com.ar/la-region/autos-epoca-unieron-historia-produccion-y-cultura-la-7-vuelta-las-estancias-n10282496.html",
-        "image": "https://media.lacapital.com.ar/p/c0c21177924df5bc65f96eb2ef015605/adjuntos/203/imagenes/103/419/0103419276/1200x675/smart/canada-rosquin-autos-antiguos-8.jpeg",
-        "summary": "Recorrieron caminos rurales de Cañada Rosquín y San Martín de las Escobas. Visitaron empresas, una escuela rural, museos y el Espacio León Gieco",
-        "pubDate": "2026-09-22T19:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central se puso en modo Supercopa Internacional, con ausencias que ya son notorias",
-        "link": "https://www.lacapital.com.ar/ovacion/central-se-puso-modo-supercopa-internacional-ausencias-que-ya-son-notorias-n10282450.html",
-        "image": "https://media.lacapital.com.ar/p/af66c733ada6633ea8b871e0783b70e4/adjuntos/203/imagenes/103/419/0103419079/practicml.jpeg",
-        "summary": "Tras el triunfo ante Argentinos, el Canalla inició la semana de trabajo que desembocará en el choque en Santiago. Campaz y Pizarro ya viajaron a sus selecciones",
-        "pubDate": "2026-09-22T19:29:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cómo encontrar tu próxima serie favorita en Netflix",
-        "link": "https://www.lacapital.com.ar/zoom/como-encontrar-tu-proxima-serie-favorita-netflix-n10282517.html",
-        "image": "https://media.lacapital.com.ar/p/2f9e8950a890a44ff915affd5c2bc670/adjuntos/203/imagenes/103/419/0103419469/1200x675/smart/image-38.png",
-        "summary": "“Atrapan desde el primer episodio” es una lista con las series imperdibles en la plataforma que los usuarios no se pueden perder",
-        "pubDate": "2026-09-22T19:09:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cartelera económica: Rosario será sede de las Jornadas de Economía Crítica y Economía Feminista",
-        "link": "https://www.lacapital.com.ar/economia/cartelera-economica-rosario-sera-sede-las-jornadas-economia-critica-y-economia-feminista-n10282487.html",
-        "image": "https://media.lacapital.com.ar/p/6c5fe1eab03acee2bb3838efc0db336b/adjuntos/203/imagenes/005/994/0005994613/1200x675/318x88:338x108/mas-1500-personas-una-decena-paises-participaron-las-quintas-jornadas-economia-critica-que-se-realizaron-la-universidad-buenos-aires.jpg",
-        "summary": "El encuentro se realizará del 1º al 3 de octubre en la UNR, con entrada libre y gratuita. Además, el economista Bernardo Kosacoff dará una conferencia en el auditorio Coinag Se viene Faro, el encuentro que traza el rumbo de la innovación en el agro",
-        "pubDate": "2026-09-22T19:09:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Los Juegos Suramericanos se consolidan como vidriera política con visitas de peso",
-        "link": "https://www.lacapital.com.ar/politica/los-juegos-suramericanos-se-consolidan-como-vidriera-politica-visitas-peso-n10282509.html",
-        "image": "https://media.lacapital.com.ar/p/490a81ff4208beeec53f1d8822dad885/adjuntos/203/imagenes/103/419/0103419286/1200x675/smart/image.png",
-        "summary": "El certamen deportivo oficia como imán para funcionarios nacionales y aspirantes presidenciales: Scioli, Lacunza y posiblemente Santilli, con agenda en Rosario",
-        "pubDate": "2026-09-22T19:07:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La provincia intima a Damfiled a devolver el predio a su estado natural ante el riesgo del fenómeno de El Niño",
-        "link": "https://www.lacapital.com.ar/la-provincia-intima-damfiled-devolver-el-predio-su-estado-natural-el-riesgo-del-fenomeno-el-nino-n10282518.html",
-        "image": "https://media.lacapital.com.ar/p/5e3c80a87ba0a40bd67cb49ff7cfe3d3/adjuntos/203/imagenes/102/463/0102463193/1200x675/smart/damfieldjpg.jpg",
-        "summary": "Advierte que el emprendimiento, que fue avalado por la misma provincia a iniciar las obras, está dentro del vaso de la represa del Ludueña y puede causar inundaciones",
-        "pubDate": "2026-09-22T19:05:00+00:00",
         "approxTime": false
       }
     ]
