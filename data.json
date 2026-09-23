@@ -1,23 +1,14 @@
 {
-  "generatedAt": "2026-09-23T01:38:23.912081+00:00",
+  "generatedAt": "2026-09-23T07:12:43.423234+00:00",
   "sites": {
     "rosario3": [
       {
         "source": "Rosario3",
-        "title": "Choques múltiples, despiste y vuelco en los ingresos a Rosario: un herido grave en San Genaro y una traffic con 14 trabajadores lesionados en puente Saladillo",
-        "link": "https://www.rosario3.com/informaciongeneral/choques-multiples-despiste-y-vuelco-en-los-ingresos-a-rosario-un-herido-grave-en-san-genaro-y-una-traffic-con-14-trabajadores-lesionados-en-puente-saladillo-20260922-0074.html",
-        "image": "https://www.rosario3.com/__export/1790112097152/sites/rosario3/img/2026/09/22/choque_autopista.jpg_938818496.jpg",
-        "summary": "En la autopista Rosario-Córdoba, se produjo un siniestro vial que dejó como saldo tres personas heridas; todos fuera de peligro. Además, hubo otro choque en la ruta 34, con un herido de gravedad y la participación del helicóptero sanitario. En el ingreso desde Buenos Aires dos…",
+        "title": "Salud mental y adicciones: Santa Fe amplia las medidas de prevención en los lugares de trabajo",
+        "link": "https://www.rosario3.com/informaciongeneral/salud-mental-y-adicciones-santa-fe-amplia-las-medidas-de-prevencion-en-los-lugares-de-trabajo-20260922-0069.html",
+        "image": "https://www.rosario3.com/__export/1790128180889/sites/rosario3/img/2026/09/22/hruciqkwkaadnhk.jpg_1825222445.jpg",
+        "summary": "La nueva ley alcanza a empresas privadas y organismos públicos con más de 50 empleados. Incorpora protocolos para detectar, intervenir y dar seguimiento a consumos problemáticos y riesgos psicosociales",
         "pubDate": "2026-09-22T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "En una tarde dorada, Argentina frustró el sueño del hockey chileno y confirmó la jerarquía de Las Leonas y Los Leones",
-        "link": "https://www.rosario3.com/deportes/en-una-tarde-dorada-argentina-frustro-el-sueno-del-hockey-chileno-y-confirmo-la-jerarquia-de-las-leonas-y-los-leones-20260922-0078.html",
-        "image": "https://www.rosario3.com/__export/1790119387109/sites/rosario3/img/2026/09/22/jjss_2026_-_hockey_cexsped_fem_-_jornada_8_x_arg_v_chi_039.jpg_928314581.jpg",
-        "summary": "Los seleccionados albicelestes se consagraron campeones de los Juegos Suramericanos Santa Fe 2026 tras vencer a Chile en las finales. Los varones conquistaron su quinto oro consecutivo, mientras que las mujeres se sacaron la espina de Asunción 2022, cuando el seleccionado…",
-        "pubDate": "2026-09-22T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -26,6 +17,15 @@
         "link": "https://www.rosario3.com/informaciongeneral/denuncias-por-presunto-acoso-en-el-colegio-sarmiento-un-docente-fue-demorado-20260922-0080.html",
         "image": "https://www.rosario3.com/__export/1790121115063/sites/rosario3/img/2026/09/22/colegio.jpg_1825222445.jpg",
         "summary": "El profesor de inglés, de 52 años, fue trasladado a la comisaría 2ª tras el reclamo de alumnas y familiares. Educación abrió un sumario administrativo y la Fiscalía deberá definir su situación",
+        "pubDate": "2026-09-22T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Choques múltiples, despiste y vuelco en los ingresos a Rosario: un herido grave en San Genaro y una traffic con 14 trabajadores lesionados en puente Saladillo",
+        "link": "https://www.rosario3.com/informaciongeneral/choques-multiples-despiste-y-vuelco-en-los-ingresos-a-rosario-un-herido-grave-en-san-genaro-y-una-traffic-con-14-trabajadores-lesionados-en-puente-saladillo-20260922-0074.html",
+        "image": "https://www.rosario3.com/__export/1790112097152/sites/rosario3/img/2026/09/22/choque_autopista.jpg_938818496.jpg",
+        "summary": "En la autopista Rosario-Córdoba, se produjo un siniestro vial que dejó como saldo tres personas heridas; todos fuera de peligro. Además, hubo otro choque en la ruta 34, con un herido de gravedad y la participación del helicóptero sanitario. En el ingreso desde Buenos Aires dos…",
         "pubDate": "2026-09-22T11:58:00+00:00",
         "approxTime": true
       },
@@ -40,11 +40,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "En una tarde dorada, Argentina frustró el sueño del hockey chileno y confirmó la jerarquía de Las Leonas y Los Leones",
+        "link": "https://www.rosario3.com/deportes/en-una-tarde-dorada-argentina-frustro-el-sueno-del-hockey-chileno-y-confirmo-la-jerarquia-de-las-leonas-y-los-leones-20260922-0078.html",
+        "image": "https://www.rosario3.com/__export/1790119387109/sites/rosario3/img/2026/09/22/jjss_2026_-_hockey_cexsped_fem_-_jornada_8_x_arg_v_chi_039.jpg_928314581.jpg",
+        "summary": "Los seleccionados albicelestes se consagraron campeones de los Juegos Suramericanos Santa Fe 2026 tras vencer a Chile en las finales. Los varones conquistaron su quinto oro consecutivo, mientras que las mujeres se sacaron la espina de Asunción 2022, cuando el seleccionado…",
+        "pubDate": "2026-09-22T11:56:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Juegos Suramericanos: cambió el horario de la semifinal del fútbol masculino entre Argentina y Perú en el Coloso",
         "link": "https://www.rosario3.com/deportes/juegos-suramericanos-cambio-el-horario-de-la-semifinal-del-futbol-masculino-entre-argentina-y-peru-en-el-coloso-20260922-0070.html",
         "image": "https://www.rosario3.com/__export/1790110698082/sites/rosario3/img/2026/09/22/coloso.jpg_982625323.jpg",
         "summary": "Por cuestiones de organización, el partido del seleccionado nacional sub 19 dirigido por Diego Placente pasó de la mañana a la tarde este miércoles. También se reforzará la seguridad. Todos los detalles",
-        "pubDate": "2026-09-22T11:56:00+00:00",
+        "pubDate": "2026-09-22T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -53,15 +62,6 @@
         "link": "https://www.rosario3.com/deportes/chiqui-tapia-anuncio-la-recopa-de-campeones-como-sera-el-nuevo-torneo-del-futbol-argentino-en-2027-20260922-0081.html",
         "image": "https://www.rosario3.com/__export/1789154798742/sites/rosario3/img/2026/09/11/tapia.jpg_1768679257.jpg",
         "summary": "A partir del año que viene habrá un certamen con formato de triangular entre los campeones de la Copa Argentina, la Supercopa Argentina y la Supercopa Internacional. De esta manera habrá ocho títulos en juego por temporada",
-        "pubDate": "2026-09-22T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Trump volvió a respaldar a Milei: \"Tuvimos una gran victoria en Argentina\"",
-        "link": "https://www.rosario3.com/informaciongeneral/trump-volvio-a-respaldar-a-milei-tuvimos-una-gran-victoria-en-argentina-20260922-0076.html",
-        "image": "https://www.rosario3.com/__export/1790115313240/sites/rosario3/img/2026/09/22/milei_trump.jpg_1825222445.jpg",
-        "summary": "Los presidentes coincidieron este martes en Nueva York durante una reunión del Escudo de las Américas, realizada en el marco de la Asamblea General de la ONU. El mandatario estadounidense destacó los triunfos electorales del oficialismo argentino, mientras Milei ratificó su…",
         "pubDate": "2026-09-22T11:54:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,33 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "El Niño 2026: cómo prepararse y cuidar la salud ante un fenómeno que ya está presente",
+        "link": "https://www.lacapital.com.ar/novedades/el-nino-2026-como-prepararse-y-cuidar-la-salud-un-fenomeno-que-ya-esta-presente-n10281812.html",
+        "image": "https://media.lacapital.com.ar/p/a88ff9e80a2ff9e2f4e740ff5f0a9554/adjuntos/203/imagenes/103/411/0103411174/1200x675/smart/publinota-septiembre-b.jpg",
+        "summary": "Lluvias intensas, altas temperaturas, mayor humedad e inundaciones pueden convertirse también en un desafío para la salud. Desde Grupo Emerger brindan recomendaciones para anticiparse a los posibles efectos del fenómeno de El Niño y reconocer aquellas situaciones que requieren…",
+        "pubDate": "2026-09-23T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Juegos Suramericanos: la posta 4x100 mixta cosechó otra medalla de plata para Argentina",
+        "link": "https://www.lacapital.com.ar/juegos-suramericanos/juegos-suramericanos-la-posta-4x100-mixta-cosecho-otra-medalla-plata-argentina-n10282598.html",
+        "image": "https://media.lacapital.com.ar/p/53bac6b1ad1b05d7992fa9ad75d8a057/adjuntos/203/imagenes/103/420/0103420399/1200x675/smart/jueg-medal-82695345.jpg",
+        "summary": "Del cuarteto nacional formó parte la corredora de Murphy que representa a Rosario: Guillermina Cossio. Venezuela se quedó con el oro",
+        "pubDate": "2026-09-23T02:08:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El tiempo en Rosario: el miércoles empieza a traer de a poco el calor",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-el-miercoles-empieza-traer-poco-el-calor-n10282604.html",
+        "image": "https://media.lacapital.com.ar/p/11aa7af8fa034456a1388e4d42a64857/adjuntos/203/imagenes/103/420/0103420545/2026-09-22-clima-by_cmutti-79879523.jpg",
+        "summary": "La máxima rondaría los 21º y el jueves podría trepar hasta los 27º",
+        "pubDate": "2026-09-23T02:07:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Un juez ordenó que todos los presos de Texas tengan aire acondicionado",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/c2048c527262201099bcd6826ba87fc1/adjuntos/203/imagenes/103/192/0103192124/2026-06-02-canciller-quirno.jpg",
         "summary": "El planteo fue realizado por instrucción del canciller Pablo Quirno, un día antes de la exposición del presidente Javier Milei ante las Naciones Unidas",
         "pubDate": "2026-09-22T21:57:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Juegos Suramericanos 2026: aumenta la seguridad para el partido de Argentina y Perú",
-        "link": "https://www.lacapital.com.ar/ovacion/juegos-suramericanos-2026-aumenta-la-seguridad-el-partido-argentina-y-peru-n10282463.html",
-        "image": "https://media.lacapital.com.ar/p/93469f206364e90e5288b9c8ec36f01a/adjuntos/203/imagenes/103/419/0103419148/publico-juegos-suramericanos-newells.jpeg",
-        "summary": "El gobierno de Santa Fe anunció la utilización del protocolo AFA para las semifinales de fútbol masculino en la cancha de Newell's",
-        "pubDate": "2026-09-22T21:21:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Las Leonas también consiguieron el oro tras golear a Chile en Santa Fe",
-        "link": "https://www.lacapital.com.ar/juegos-suramericanos/las-leonas-tambien-consiguieron-el-oro-golear-chile-santa-fe-n10282555.html",
-        "image": "https://media.lacapital.com.ar/p/c966595c689ea7718c6633e74cd8c485/adjuntos/203/imagenes/103/419/0103419802/1200x675/smart/image-4.jpg",
-        "summary": "La selección argentina se impuso ante el equipo chileno por 5 a 0 en la final de hockey femenino y cerró un torneo perfecto",
-        "pubDate": "2026-09-22T21:18:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Juegos Suramericanos: así funciona desde Rosario el gigantesco operativo de TV que llega a todo el mundo",
-        "link": "https://www.lacapital.com.ar/juegos-suramericanos/juegos-suramericanos-asi-funciona-rosario-el-gigantesco-operativo-tv-que-llega-todo-el-mundo-n10282522.html",
-        "image": "https://media.lacapital.com.ar/p/95c5e12969fbca35fbb0b05da7e9d748/adjuntos/203/imagenes/103/420/0103420085/1200x675/smart/imagejuego.jpg",
-        "summary": "El Isef Nº 11, habitualmente ocupado por estudiantes y docentes, fue transformado en un centro de producción televisiva. Allí trabajan TyC Sports, con Gonzalo Bonadeo, y la empresa española que coordina 12 señales, 120 cámaras y más de 300 personas.",
-        "pubDate": "2026-09-22T21:14:00+00:00",
         "approxTime": false
       }
     ]
