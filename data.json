@@ -1,50 +1,59 @@
 {
-  "generatedAt": "2026-09-23T20:58:43.594153+00:00",
+  "generatedAt": "2026-09-23T23:29:15.640635+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Polvos de colores: analizaron tusi y apareció la “droga del miedo” en Rosario",
+        "link": "https://www.rosario3.com/policiales/polvos-de-colores-analizaron-tusi-y-aparecio-la-droga-del-miedo-en-rosario-20260923-0066.html",
+        "image": "https://www.rosario3.com/__export/1790201456337/sites/rosario3/img/2026/09/23/tusi_brolamfetamina.jpg_506286608.jpg",
+        "summary": "Un allanamiento por una tentativa de homicidio en Parque Casas terminó con el secuestro de un polvo amarillo que a simple vista parecía tusi. La prueba de campo dio otro resultado: brolamfetamina, una sustancia prácticamente desconocida en Argentina y cuyos efectos todavía abren…",
+        "pubDate": "2026-09-23T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Una motociclista sufrió graves heridas en un choque y fue trasladada en helicóptero al Heca",
+        "link": "https://www.rosario3.com/informaciongeneral/una-motociclista-sufrio-graves-heridas-en-un-choque-y-fue-trasladada-en-helicoptero-al-heca-20260923-0063.html",
+        "image": "https://www.rosario3.com/__export/1790197566979/sites/rosario3/img/2026/09/23/siniestro.jpg_1825222445.jpg",
+        "summary": "El siniestro vial ocurrió en el inicio de la ruta nacional 34 donde la conductora de la moto chocó contra un automóvil. Tenía importantes lesiones en una pierna y fue derivada al Hospital de Emergencias Clemente Álvarez bajo código rojo",
+        "pubDate": "2026-09-23T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Consumo: las ventas volvieron a caer en supermercados durante julio, pero repuntaron en shoppings y mayoristas",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/consumo-las-ventas-volvieron-a-caer-en-supermercados-durante-julio-pero-repuntaron-en-shoppings-y-mayoristas-20260923-0061.html",
+        "image": "https://www.rosario3.com/__export/1790196209889/sites/rosario3/img/2026/09/23/inflacixn_compras_canasta_bxsica-3701.jpg_1825222445.jpg",
+        "summary": "Los datos del Indec mostraron una baja del 0,7% respecto de junio en las grandes cadenas, mientras los autoservicios avanzaron 1,2% y los centros de compras, 0,5%",
+        "pubDate": "2026-09-23T11:58:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Crecida del Paraná: advierten por riesgos en la navegación y posibles desbordes de los arroyos",
         "link": "https://www.rosario3.com/informaciongeneral/crecida-del-parana-advierten-por-riesgos-en-la-navegacion-y-los-arroyos-20260923-0034.html",
         "image": "https://www.rosario3.com/__export/1787923183542/sites/rosario3/img/2025/11/18/lanchas_rio.jpg_506286608.jpg",
         "summary": "El nivel del curso de agua alcanzaría los 3,20 metros hacia fin de mes por lluvias en el norte y Brasil. Desde el Observatorio Ambiental de la UNR brindaron recomendaciones, analizaron el impacto de El Niño y aclararon qué pasa con el Ludueña y el Saladillo",
-        "pubDate": "2026-09-23T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Jinetes armados balearon la casa de una familia en la costa de Pueblo Esther",
-        "link": "https://www.rosario3.com/policiales/jinetes-armados-balearon-la-casa-de-una-familia-en-la-costa-de-pueblo-esther-20260923-0055.html",
-        "image": "https://www.rosario3.com/__export/1790190046071/sites/rosario3/img/2026/09/23/bajada_barbi_pueblo_esther.jpg_672794304.jpg",
-        "summary": "Un grupo de tres hombres a caballo abrió fuego contra una vivienda del barrio Vignaduzzi, en la vecina localidad. Varios de los disparos ingresaron al inmueble y los agresores amenazaron con regresar. La familia negó tener vínculos con el robo de equinos, una de las versiones…",
-        "pubDate": "2026-09-23T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Tenía pedido de captura hace 4 años por lavado narco y cayó mientras iba a un gimnasio en Pérez",
-        "link": "https://www.rosario3.com/policiales/tenia-pedido-de-captura-hace-4-anos-por-lavado-narco-y-cayo-mientras-iba-a-un-gimnasio-en-perez-20260923-0047.html",
-        "image": "https://www.rosario3.com/__export/1790181247627/sites/rosario3/img/2026/09/23/operativo_hallazgo_jpg_1756841869.jpg_928314580.jpg",
-        "summary": "Maximiliano José Cáceres (36) fue detenido este miércoles en un operativo de la Policía de Seguridad Aeroportuaria. Está sindicado de tener conexión con una condenada estructura que vendía droga bajo la modalidad delivery en el centro y macrocentro de Rosario",
-        "pubDate": "2026-09-23T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Milei dijo que Malvinas es una causa nacional y criticó a la ONU por \"mirar para otro lado\"",
-        "link": "https://www.rosario3.com/politica/milei-dijo-que-malvinas-es-una-causa-nacional-y-critico-a-la-onu-por-mirar-para-otro-lado-20260923-0041.html",
-        "image": "https://www.rosario3.com/__export/1790178021222/sites/rosario3/img/2026/09/23/whatsapp_image_2026-09-23_at_12_36_14.jpeg_928314581.jpeg",
-        "summary": "El su tercer discurso ante la asamblea general del organismo, el presidente por primera vez habló del reclamo argentino por la soberanía en las islas. “No nos vamos a sentar a esperar que la ONU actúe, vamos a tomar cartas en el asunto”, advirtió",
         "pubDate": "2026-09-23T11:57:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Con otro sufrido triunfo en el final, Argentina sub 19 es finalista de los Suramericanos",
-        "link": "https://www.rosario3.com/deportes/con-otro-sufrido-triunfo-en-el-final-argentina-sub-19-es-finalista-de-los-suramericanos-20260923-0058.html",
-        "image": "https://www.rosario3.com/__export/1790190808567/sites/rosario3/img/2026/09/23/arg_par.jpg_349986996.jpg",
-        "summary": "La selección de fútbol masculino venció por 1-0 a Perú con un gol de Santiago Espíndola cuando el partido en el Coloso se iba, igual que contra Venezuela. La definición será el viernes contra Chile o Paraguay",
+        "title": "Cuándo juega la selección argentina de fútbol la final de los Juegos Suramericanos y quién será su rival",
+        "link": "https://www.rosario3.com/deportes/cuando-juega-la-seleccion-argentina-de-futbol-la-final-de-los-juegos-suramericanos-y-quien-sera-su-rival-20260923-0064.html",
+        "image": "https://www.rosario3.com/__export/1790198969511/sites/rosario3/img/2026/09/23/jjss_2026_-_futbol_masculino_-_jornada_7_-_argentina_vs_peru-5.jpg_928314580.jpg",
+        "summary": "El equipo que dirige Diego Placente tendrá la posibilidad de tomarse revancha del único equipo que lo superó en estos juegos",
         "pubDate": "2026-09-23T11:56:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Discapacidad: el oficialismo logró dictamen de mayoría con un nuevo proyecto y la oposición insistió con prorrogar la emergencia",
+        "link": "https://www.rosario3.com/informaciongeneral/discapacidad-el-oficialismo-logro-dictamen-de-mayoria-con-un-nuevo-proyecto-y-la-oposicion-insistio-con-prorrogar-la-emergencia-20260923-0067.html",
+        "image": "https://www.rosario3.com/__export/1790201222206/sites/rosario3/img/2026/09/23/comisiones_diputados.jpg_1825222445.jpg",
+        "summary": "La iniciativa de La Libertad Avanza mantiene las pensiones no contributivas, su compatibilidad con el empleo formal y plantea garantizar partidas presupuestarias para el área. Unión por la Patria y otros bloques sostuvieron la extensión de la legislación vigente hasta fines de…",
+        "pubDate": "2026-09-23T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -53,15 +62,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/nadia-beller-declaro-en-la-causa-andis-y-puso-a-disposicion-de-la-justicia-sus-chats-con-fernando-cerimedo-20260923-0057.html",
         "image": "https://www.rosario3.com/__export/1790191214611/sites/rosario3/img/2026/09/23/beller.jpg_982625323.jpg",
         "summary": "La expareja del consultor ratificó afirmaciones que había realizado públicamente después del ataque a tiros que sufrió el 17 de agosto en Santa Cruz de la Sierra. Cerimedo, que permanece detenido en Bolivia en una causa vinculada al ataque que sufrió la abogada, ya había…",
-        "pubDate": "2026-09-23T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Almacén de barrio Godoy sufrió un escruche: “Se armaron un cumpleañito”, dijo el dueño",
-        "link": "https://www.rosario3.com/policiales/almacen-de-barrio-godoy-sufrio-un-escruche-se-armaron-un-cumpleanito-dijo-el-dueno-20260923-0052.html",
-        "image": "https://www.rosario3.com/__export/1790185335511/sites/rosario3/img/2026/09/23/almacen_barrio_godoy.jpg_928314580.jpg",
-        "summary": "El robo tuvo lugar en la madrugada de este miércoles en Irurtia al 7700, en la zona oeste. La víctima señaló que los delincuentes estuvieron aproximadamente dentro de una hora dentro del local",
         "pubDate": "2026-09-23T11:54:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,96 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El Senado trata este jueves la reforma del Banco Central y el régimen de Zonas Frías",
+        "link": "https://www.lacapital.com.ar/politica/el-senado-trata-este-jueves-la-reforma-del-banco-central-y-el-regimen-zonas-frias-n10282817.html",
+        "image": "https://media.lacapital.com.ar/p/067d4618d0093ad1f78e971b5587fe0f/adjuntos/203/imagenes/103/422/0103422998/1200x675/smart/image.png",
+        "summary": "El oficialismo y la oposición dialoguista en la Cámara alta acordaron cambiar el proyecto que modifica la carta orgánica de la entidad",
+        "pubDate": "2026-09-23T23:24:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El huracán Polo recorre la costa del Pacífico de México con vientos de 240 km/h",
+        "link": "https://www.lacapital.com.ar/informacion-general/el-huracan-polo-recorre-la-costa-del-pacifico-mexico-vientos-240-kmh-n10282812.html",
+        "image": "https://media.lacapital.com.ar/p/75b187610e0329ec90381fa40e659963/adjuntos/203/imagenes/103/423/0103423032/2026-09-23-huracan-polo.jpg",
+        "summary": "Se convirtió en una de las tres tormentas más rápidas en llegar a categoría 5 en la historia de los registros en el océano Pacífico",
+        "pubDate": "2026-09-23T23:14:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Condenaron a 15 años de prisión al productor de Hollywood Harvey Weinstein",
+        "link": "https://www.lacapital.com.ar/informacion-general/condenaron-15-anos-prision-al-productor-hollywood-harvey-weinstein-n10282802.html",
+        "image": "https://media.lacapital.com.ar/p/2bb660c2a920af7e66a257be00a56b40/adjuntos/203/imagenes/103/422/0103422937/2026-09-23-harvey-weinstein.jpg",
+        "summary": "El proceso judicial que se prolongó por más de seis años. \"Siento remordimiento por el dolor de Miriam Haley, pero tengo que reiterar mi inocencia”, dijo",
+        "pubDate": "2026-09-23T22:49:21+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El PRO criticó al gobierno de Milei por su manejo errático de la política de discapacidad",
+        "link": "https://www.lacapital.com.ar/politica/el-pro-critico-al-gobierno-milei-su-manejo-erratico-la-politica-discapacidad-n10282798.html",
+        "image": "https://media.lacapital.com.ar/p/e542967c8e6c491f71e2996a001ff6f8/adjuntos/203/imagenes/102/993/0102993352/1200x675/smart/macri.png",
+        "summary": "El partido liderado por Macri recordó ejemplos de mala praxis en la materia y habló de \"marcar límites\" para \"blindar el cambio\" en la Argentina",
+        "pubDate": "2026-09-23T22:39:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Quién es el amigo rosarino que le regaló a Milei la corbata de Adam Smith que lució ante la ONU",
+        "link": "https://www.lacapital.com.ar/politica/quien-es-el-amigo-rosarino-que-le-regalo-milei-la-corbata-adam-smith-que-lucio-la-onu-n10282808.html",
+        "image": "https://media.lacapital.com.ar/p/749dd57d25c476676428199b57429909/adjuntos/203/imagenes/103/422/0103422901/1200x675/smart/imagecorbata2.jpg",
+        "summary": "La prenda tiene más de medio siglo de historia y está asociada al liberalismo económico. El propio presidente contó quién se la obsequió y por qué le tiene un especial afecto",
+        "pubDate": "2026-09-23T22:34:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Juegos Suramericanos: Argentina venció a Perú en fútbol y jugará por el oro ante Paraguay",
+        "link": "https://www.lacapital.com.ar/juegos-suramericanos/juegos-suramericanos-argentina-vencio-peru-futbol-y-jugara-el-oro-paraguay-n10282791.html",
+        "image": "https://media.lacapital.com.ar/p/246e272efff22361dc5e3f50ea6f4da0/adjuntos/203/imagenes/103/422/0103422818/pibes71.jpeg",
+        "summary": "La selección albiceleste superó en el cierre del partido 1 a 0 a los incaicos en un Coloso repleto. El viernes buscará el título en los Juegos Suramericanos",
+        "pubDate": "2026-09-23T22:02:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Fue campeón mundial con la selección, no jugó más con la albiceleste y ahora seguirá su carrera en Asia",
+        "link": "https://www.lacapital.com.ar/ovacion/fue-campeon-mundial-la-seleccion-no-jugo-mas-la-albiceleste-y-ahora-seguira-su-carrera-asia-n10282794.html",
+        "image": "https://media.lacapital.com.ar/p/ceff8b060eb657849ec110bd118f3bfd/adjuntos/203/imagenes/030/206/0030206853/1200x675/smart/2-ovacion_error-el-credito_77735294__29-06-2021__2040x1430jpg.jpg",
+        "summary": "Un futbolista argentino rescindió su contrato con el Padova de Italia y ahora jugará en un equipo del ascenso en Emiratos Árabes",
+        "pubDate": "2026-09-23T21:55:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Una mujer fue internada en el Heca tras un siniestro en la ruta 34",
+        "link": "https://www.lacapital.com.ar/la-region/una-mujer-fue-internada-el-heca-un-siniestro-la-ruta-34-n10282782.html",
+        "image": "https://media.lacapital.com.ar/p/94bb4da7461fd0fb6298c05e86979757/adjuntos/203/imagenes/103/314/0103314336/heca.jpg",
+        "summary": "Sucedió este miércoles por la tarde en la intersección con Salvat. La mujer debió ser trasladada en helicóptero sanitario",
+        "pubDate": "2026-09-23T21:18:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Malvinas: el Reino Unido cuestionó a Milei y volvió a defender la autodeterminación de los isleños",
+        "link": "https://www.lacapital.com.ar/politica/malvinas-el-reino-unido-cuestiono-milei-y-volvio-defender-la-autodeterminacion-los-islenos-n10282774.html",
+        "image": "https://media.lacapital.com.ar/p/fb969c013c1fa34f5011bd85f316cf36/adjuntos/203/imagenes/103/422/0103422648/1200x675/smart/andy-burnham-reino-unido-onu.jpeg",
+        "summary": "Tras el discurso del presidente en la ONU, en el gobierno inglés manifestaron que su par argentino tiene \"comportamientos incompatibles con los de una democracia”",
+        "pubDate": "2026-09-23T21:17:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Las ventas en supermercados volvieron a caer en julio, mientras repuntaron mayoristas y shoppings",
+        "link": "https://www.lacapital.com.ar/economia/las-ventas-supermercados-volvieron-caer-julio-mientras-repuntaron-mayoristas-y-shoppings-n10282776.html",
+        "image": "https://media.lacapital.com.ar/p/34b501514b882523fa2a0f69dba59a1b/adjuntos/203/imagenes/103/192/0103192859/1200x675/smart/supermercado-2.jpg",
+        "summary": "Las ventas en supermercados acumularon una baja del 2,7% en los primeros siete meses del año. El dato del Indec contrasta con los autoservicios mayoristas que crecieron 1,2% mensual, y los shoppings que avanzaron 0,5%",
+        "pubDate": "2026-09-23T21:17:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Sorpresivos insultos de los hinchas argentinos a la selección sub 19 antes del triunfo agónico ante Perú",
         "link": "https://www.lacapital.com.ar/juegos-suramericanos/sorpresivos-insultos-los-hinchas-argentinos-la-seleccion-sub-19-antes-del-triunfo-agonico-peru-n10282755.html",
         "image": "https://media.lacapital.com.ar/p/5010be4b49c9e59787f3e11afe4e5ffa/adjuntos/203/imagenes/103/422/0103422594/1200x675/smart/hinchada-sub-19-jjss-239-mb.jpg",
@@ -182,96 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/6f34fc4b11b7c97dc38b0f0bd1161d39/adjuntos/203/imagenes/102/970/0102970775/1200x675/smart/supermercados-92.jpg",
         "summary": "Las ventas retrocedieron 2,7% en lo que va de 2026, reveló un informe de Scentia. Supermercados, mayoristas, autoservicios y comercios de barrio registraron bajas. El ecommerce marca otro rumbo: creció casi 37% interanual",
         "pubDate": "2026-09-23T19:45:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La expareja de Cerimedo declaró como testigo en la causa Andis",
-        "link": "https://www.lacapital.com.ar/politica/la-expareja-cerimedo-declaro-como-testigo-la-causa-andis-n10282748.html",
-        "image": "https://media.lacapital.com.ar/p/6d413e33bb84d9308d66775068a1472d/adjuntos/203/imagenes/103/422/0103422342/1200x675/smart/image.png",
-        "summary": "Desde Bolivia, Nadia Beller ratificó ante la Justicia argentina que tiene pruebas sobre los audios que iniciaron la investigación. Puso a disposición su celular",
-        "pubDate": "2026-09-23T19:45:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La AFA amenaza con desafiliar a Vélez si lleva a la justicia ordinaria el reclamo por un error de Boca",
-        "link": "https://www.lacapital.com.ar/ovacion/la-afa-amenaza-desafiliar-velez-si-lleva-la-justicia-ordinaria-el-reclamo-un-error-boca-n10282759.html",
-        "image": "https://media.lacapital.com.ar/p/631c178ad97a90205e28184061ed7a07/adjuntos/203/imagenes/103/422/0103422392/1200x675/smart/image.jpg",
-        "summary": "El club de Liniers pretende que se de por perdido al xeneize un partido por la Copa Argentina. \"Si hace eso, corre el riesgo de desafiliación\", advierten en la AFA",
-        "pubDate": "2026-09-23T19:23:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La Ocde recortó a 2,6% el crecimiento de Argentina",
-        "link": "https://www.lacapital.com.ar/economia/la-ocde-recorto-26-el-crecimiento-argentina-n10282734.html",
-        "image": "https://media.lacapital.com.ar/p/beeaec92f7ba696da6c0e27bcfba3803/adjuntos/203/imagenes/103/018/0103018999/2026-03-08-teheran-petroleo-82110915.jpg",
-        "summary": "Después de la expansión del 4,5% de 2025, el organismo anticipa una pérdida de impulso de la economía argentina. A nivel global, mejoró levemente sus perspectivas pese al impacto de las tensiones geopolíticas",
-        "pubDate": "2026-09-23T19:09:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Desde EEUU, Kicillof cuestionó el \"milagro económico\" de Milei",
-        "link": "https://www.lacapital.com.ar/politica/desde-eeuu-kicillof-cuestiono-el-milagro-economico-milei-n10282741.html",
-        "image": "https://media.lacapital.com.ar/p/816c4fa1e4238517d4197b079f01b8da/adjuntos/203/imagenes/103/422/0103422104/1200x675/smart/image.png",
-        "summary": "“Es una verdadera catástrofe”, graficó el gobernador bonaerense luego de compartir un desayuno de trabajo en Nueva York con el alcalde Zohran Mamdani y el presidente de España, Pedro Sánchez, entre otros dirigentes",
-        "pubDate": "2026-09-23T19:09:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Un diputado socialista de Entre Ríos negó haber consumido droga en plena sesión",
-        "link": "https://www.lacapital.com.ar/politica/un-diputado-socialista-rios-nego-haber-consumido-droga-plena-sesion-n10282749.html",
-        "image": "https://media.lacapital.com.ar/p/15c7ca7e0b6e36a0866c40ab93df0488/adjuntos/203/imagenes/103/422/0103422282/1200x675/smart/imagebirome.jpg",
-        "summary": "Juan Manuel Rossi, legislador que responde al gobernador Rogelio Frigerio, respondió a las acusaciones y aseguró que se rascó el ombligo con una birome; apuntó contra la oposición y denunció una “operación” en su contra",
-        "pubDate": "2026-09-23T19:08:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Juegos Suramericanos: Argentina derrotó a Perú en el final y jugará por el oro en fútbol",
-        "link": "https://www.lacapital.com.ar/juegos-suramericanos/juegos-suramericanos-argentina-derroto-peru-el-final-y-jugara-el-oro-futbol-n10282737.html",
-        "image": "https://media.lacapital.com.ar/p/caf5a064630d69c15a9e9cad362c2132/adjuntos/203/imagenes/103/422/0103422265/jueggarrrr.jpg",
-        "summary": "La selección argentina superó 1 a 0 a Perú en un Coloso repleto de público. El gol lo anotó a los 89' Santiago Espíndola",
-        "pubDate": "2026-09-23T19:03:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central: la larga lista de los jugadores que fueron parte de la gran campaña de 2025 y ya no están",
-        "link": "https://www.lacapital.com.ar/ovacion/central-la-larga-lista-los-jugadores-que-fueron-parte-la-gran-campana-2025-y-ya-no-estan-n10282558.html",
-        "image": "https://media.lacapital.com.ar/p/22745b2716e6882c9707836b9cd541ad/adjuntos/203/imagenes/103/419/0103419882/fueronmb.jpg",
-        "summary": "Fueron muchos los futbolistas que tuvieron al menos algunos minutos en cancha el año pasado y que este sábado no serán parte de la Supercopa Internacional",
-        "pubDate": "2026-09-23T18:38:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Patentes 2027: Buenos Aires anunció fuertes rebajas y qué pasará en Santa Fe",
-        "link": "https://www.lacapital.com.ar/la-ciudad/patentes-2027-buenos-aires-anuncio-fuertes-rebajas-y-que-pasara-santa-fe-n10282740.html",
-        "image": "https://media.lacapital.com.ar/p/e53993b87d436b7522895a743612eb3a/adjuntos/203/imagenes/102/005/0102005050/1200x675/smart/patente-automotor-911jpg.jpg",
-        "summary": "La Ciudad de Buenos Aires anunció que seis de cada diez vehículos pagarán menos o directamente quedarán exentos, mientras que ninguno tendrá aumentos. En Santa Fe, el esquema para 2027 todavía no está definido y se conocerá cuando se presente el Presupuesto provincial.",
-        "pubDate": "2026-09-23T18:38:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central potenció un aspecto clave frente a un partido a todo o nada, con título de por medio",
-        "link": "https://www.lacapital.com.ar/ovacion/central-potencio-un-aspecto-clave-frente-un-partido-todo-o-nada-titulo-medio-n10282434.html",
-        "image": "https://media.lacapital.com.ar/p/f00fb62db3c4909e47166c12a22a1814/adjuntos/203/imagenes/103/418/0103418731/equi.JPG",
-        "summary": "Las dos últimas victorias las construyó a partir de un mejor juego colectivo y no basado en el peso de sus individualidades",
-        "pubDate": "2026-09-23T18:29:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "A Newell's se le vienen dos rivales directos que tiene arriba y muy cerca",
-        "link": "https://www.lacapital.com.ar/ovacion/a-newells-se-le-vienen-dos-rivales-directos-que-tiene-arriba-y-muy-cerca-n10282580.html",
-        "image": "https://media.lacapital.com.ar/p/f15a670e41bbf1f01327fde827e7f1ea/adjuntos/203/imagenes/103/420/0103420118/nob-arriba-254.jpg",
-        "summary": "Otra vez en zona de clasificación, los próximos compromisos de Newell's serán determinantes para ver cómo llega al final de la etapa de grupos",
-        "pubDate": "2026-09-23T18:29:00+00:00",
         "approxTime": false
       }
     ]
