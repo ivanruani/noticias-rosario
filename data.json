@@ -1,14 +1,32 @@
 {
-  "generatedAt": "2026-09-24T01:36:32.581423+00:00",
+  "generatedAt": "2026-09-24T07:04:37.642578+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Buscan a Sol en Rosario: su familia llegó desde Paraná para intentar dar con su paradero",
+        "link": "https://www.rosario3.com/informaciongeneral/buscan-a-sol-en-rosario-su-familia-llego-desde-parana-para-intentar-dar-con-su-paradero-20260923-0072.html",
+        "image": "https://www.rosario3.com/__export/1790206760912/sites/rosario3/img/2026/09/23/sol.jpg_1825222445.jpg",
+        "summary": "La mujer, de 36 años, debía regresar el 11 de septiembre, pero nunca arribó a destino. Sus padres viajaron este miércoles a la ciudad y pidieron información que permita localizarla",
+        "pubDate": "2026-09-23T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Polvos de colores: analizaron tusi y apareció la “droga del miedo” en Rosario",
         "link": "https://www.rosario3.com/policiales/polvos-de-colores-analizaron-tusi-y-aparecio-la-droga-del-miedo-en-rosario-20260923-0066.html",
         "image": "https://www.rosario3.com/__export/1790201456337/sites/rosario3/img/2026/09/23/tusi_brolamfetamina.jpg_506286608.jpg",
         "summary": "Un allanamiento por una tentativa de homicidio en Parque Casas terminó con el secuestro de un polvo amarillo que a simple vista parecía tusi. La prueba de campo dio otro resultado: brolamfetamina, una sustancia prácticamente desconocida en Argentina y cuyos efectos todavía abren…",
-        "pubDate": "2026-09-23T12:00:00+00:00",
+        "pubDate": "2026-09-23T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Por milímetros zafó de una grave lesión: jinetes del extremo oeste le dispararon en la cabeza y terminaron detenidos",
+        "link": "https://www.rosario3.com/policiales/por-milimetros-zafo-de-una-grave-lesion-jinetes-del-extremo-oeste-le-dispararon-en-la-cabeza-y-terminaron-detenidos-20260923-0069.html",
+        "image": "https://www.rosario3.com/__export/1790204446435/sites/rosario3/img/2020/11/09/hecahospital4.jpg_566798741.jpg",
+        "summary": "El ataque ocurrió este miércoles por la tarde en Colombres al 2800. La víctima, de 37 años, recibió un roce en la sien izquierda; a uno de los cuatro detenidos le encontraron ocho vainas calibre .32 en un bolsillo, pero no apareció el arma",
+        "pubDate": "2026-09-23T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -17,24 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/una-motociclista-sufrio-graves-heridas-en-un-choque-y-fue-trasladada-en-helicoptero-al-heca-20260923-0063.html",
         "image": "https://www.rosario3.com/__export/1790197566979/sites/rosario3/img/2026/09/23/siniestro.jpg_1825222445.jpg",
         "summary": "El siniestro vial ocurrió en el inicio de la ruta nacional 34 donde la conductora de la moto chocó contra un automóvil. Tenía importantes lesiones en una pierna y fue derivada al Hospital de Emergencias Clemente Álvarez bajo código rojo",
-        "pubDate": "2026-09-23T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Argentina y Estados Unidos anunciaron un corredor entre los Andes y el Atlántico para transportar petróleo, gas y minerales",
-        "link": "https://www.rosario3.com/informaciongeneral/argentina-y-estados-unidos-anunciaron-un-corredor-entre-los-andes-y-el-atlantico-para-transportar-petroleo-gas-y-minerales-20260923-0075.html",
-        "image": "https://www.rosario3.com/__export/1790210931948/sites/rosario3/img/2026/09/23/milei.jpg_1825222445.jpg",
-        "summary": "El proyecto apunta a mejorar la infraestructura para exportar minerales, petróleo y gas. Estados Unidos anunció instrumentos de financiamiento por hasta 7.000 millones de dólares",
-        "pubDate": "2026-09-23T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Consumo: las ventas volvieron a caer en supermercados durante julio, pero repuntaron en shoppings y mayoristas",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/consumo-las-ventas-volvieron-a-caer-en-supermercados-durante-julio-pero-repuntaron-en-shoppings-y-mayoristas-20260923-0061.html",
-        "image": "https://www.rosario3.com/__export/1790196209889/sites/rosario3/img/2026/09/23/inflacixn_compras_canasta_bxsica-3701.jpg_1825222445.jpg",
-        "summary": "Los datos del Indec mostraron una baja del 0,7% respecto de junio en las grandes cadenas, mientras los autoservicios avanzaron 1,2% y los centros de compras, 0,5%",
         "pubDate": "2026-09-23T11:57:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,33 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El tiempo en Rosario: jueves con algo de sol y 27º de temperatura máxima",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-jueves-algo-sol-y-27-temperatura-maxima-n10282837.html",
+        "image": "https://media.lacapital.com.ar/p/00d548c229204dcf05c46a63e823e22f/adjuntos/203/imagenes/103/423/0103423307/2026-09-23-clima-by_vbenedetto-0c9cd8fb-a5b4-4879-9aef-ea0412bcd5c8.jpg",
+        "summary": "Los registros irían en leve descenso y para el domingo se anuncian posibles chaparrones",
+        "pubDate": "2026-09-24T02:27:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Juegos Suramericanos, día 12: la agenda de los deportistas rosarinos para este jueves",
+        "link": "https://www.lacapital.com.ar/juegos-suramericanos/juegos-suramericanos-dia-12-la-agenda-los-deportistas-rosarinos-este-jueves-n10282830.html",
+        "image": "https://media.lacapital.com.ar/p/3b6d503ac6c123f8a92a376b6b99ca55/adjuntos/203/imagenes/103/423/0103423218/ppp1.jpeg",
+        "summary": "Los atletas rosarinos continúan participando en los Juegos Suramericanos. Este jueves varios van por medallas",
+        "pubDate": "2026-09-24T01:55:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Una mujer denuncia a su madre adoptiva por robo de bebés: \"Se apropió de mí\"",
+        "link": "https://www.lacapital.com.ar/la-ciudad/una-mujer-denuncia-su-madre-adoptiva-robo-bebes-se-apropio-mi-n10282834.html",
+        "image": "https://media.lacapital.com.ar/p/2840997455faa36d1a7f5ab90bb1cd1b/adjuntos/203/imagenes/103/423/0103423285/2026-09-23-robo-bebes.jpg",
+        "summary": "Imputaron a una mujer de 88 años que fue partera del Roque Sáenz Peña en la dictadura. Su hija adoptiva afirmó que \"para ella los bebés eran un signo pesos\"",
+        "pubDate": "2026-09-24T01:50:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El Quini 6 quedó vacante y el Siempre Sale tuvo un muy buen reparto",
         "link": "https://www.lacapital.com.ar/informacion-general/el-quini-6-quedo-vacante-y-el-siempre-sale-tuvo-un-muy-buen-reparto-n10282828.html",
         "image": "https://media.lacapital.com.ar/p/dfab1872b00d933542cb386f685224e7/adjuntos/203/imagenes/103/423/0103423194/2026-09-23-quini-6.jpg",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/94bb4da7461fd0fb6298c05e86979757/adjuntos/203/imagenes/103/314/0103314336/heca.jpg",
         "summary": "Sucedió este miércoles por la tarde en la intersección con Salvat. La mujer debió ser trasladada en helicóptero sanitario",
         "pubDate": "2026-09-23T21:18:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Malvinas: el Reino Unido cuestionó a Milei y volvió a defender la autodeterminación de los isleños",
-        "link": "https://www.lacapital.com.ar/politica/malvinas-el-reino-unido-cuestiono-milei-y-volvio-defender-la-autodeterminacion-los-islenos-n10282774.html",
-        "image": "https://media.lacapital.com.ar/p/fb969c013c1fa34f5011bd85f316cf36/adjuntos/203/imagenes/103/422/0103422648/1200x675/smart/andy-burnham-reino-unido-onu.jpeg",
-        "summary": "Tras el discurso del presidente en la ONU, en el gobierno inglés manifestaron que su par argentino tiene \"comportamientos incompatibles con los de una democracia”",
-        "pubDate": "2026-09-23T21:17:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Las ventas en supermercados volvieron a caer en julio, mientras repuntaron mayoristas y shoppings",
-        "link": "https://www.lacapital.com.ar/economia/las-ventas-supermercados-volvieron-caer-julio-mientras-repuntaron-mayoristas-y-shoppings-n10282776.html",
-        "image": "https://media.lacapital.com.ar/p/34b501514b882523fa2a0f69dba59a1b/adjuntos/203/imagenes/103/192/0103192859/1200x675/smart/supermercado-2.jpg",
-        "summary": "Las ventas en supermercados acumularon una baja del 2,7% en los primeros siete meses del año. El dato del Indec contrasta con los autoservicios mayoristas que crecieron 1,2% mensual, y los shoppings que avanzaron 0,5%",
-        "pubDate": "2026-09-23T21:17:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Sorpresivos insultos de los hinchas argentinos a la selección sub 19 antes del triunfo agónico ante Perú",
-        "link": "https://www.lacapital.com.ar/juegos-suramericanos/sorpresivos-insultos-los-hinchas-argentinos-la-seleccion-sub-19-antes-del-triunfo-agonico-peru-n10282755.html",
-        "image": "https://media.lacapital.com.ar/p/5010be4b49c9e59787f3e11afe4e5ffa/adjuntos/203/imagenes/103/422/0103422594/1200x675/smart/hinchada-sub-19-jjss-239-mb.jpg",
-        "summary": "La hinchada de la selección argentina en los Juegos Suramericanos no soportó el empate parcial en las semifinales del torneo y exigió más actitud al equipo",
-        "pubDate": "2026-09-23T20:13:00+00:00",
         "approxTime": false
       }
     ]
