@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T03:43:25.016165+00:00",
+  "generatedAt": "2026-09-25T09:18:03.067893+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Hernán Lacunza: \"Hay un electorado huérfano en busca de un liderazgo\"",
+        "link": "https://www.lacapital.com.ar/politica/hernan-lacunza-hay-un-electorado-huerfano-busca-un-liderazgo-n10283048.html",
+        "image": "https://media.lacapital.com.ar/p/c1a3f629092f8c9e0127aa77b4feaeb6/adjuntos/203/imagenes/103/425/0103425626/1200x675/smart/hernan-lacunza-web.jpg",
+        "summary": "Tras reunirse con Pullaro, el anotado en la carrera presidencial por el PRO advirtió sobre los límites del modelo de Milei",
+        "pubDate": "2026-09-25T09:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central: Navarro, el soldado que está siempre listo y vuelve a tener una chance como titular",
+        "link": "https://www.lacapital.com.ar/ovacion/central-navarro-el-soldado-que-esta-siempre-listo-y-vuelve-tener-una-chance-como-titular-n10282899.html",
+        "image": "https://media.lacapital.com.ar/p/0f4a086e7532908402113b6e2b201f12/adjuntos/203/imagenes/103/424/0103424754/navarrolv.jpg",
+        "summary": "El volante central es una alternativa habitual para Almirón, pero siempre desde el banco. Su última vez desde el inicio fue ante Corinthians. Va por Pizarro",
+        "pubDate": "2026-09-25T09:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Según el Indec, la tasa de indigencia subió fuerte en el Gran Rosario",
         "link": "https://www.lacapital.com.ar/economia/segun-el-indec-la-tasa-indigencia-subio-fuerte-el-gran-rosario-n10283059.html",
         "image": "https://media.lacapital.com.ar/p/485da594c6e7dec0cc135b0a610676f7/adjuntos/203/imagenes/102/283/0102283595/1200x675/smart/pobreza2jpg.jpg",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/d9bfb0e527ed9d954074a7c1bc9e85fa/adjuntos/203/imagenes/103/425/0103425290/1200x675/smart/image-8.jpg",
         "summary": "El fin de semana hay promesa de gran espectáculo en el Fangio de Rosario, con el TC Mouras, TCPM, TC 4000, la F-3 Metropolitana y la Copa Bora",
         "pubDate": "2026-09-24T21:43:04+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Pasó por Central, hizo más de 230 goles en su carrera y a los 41 años anunció que se retira",
-        "link": "https://www.lacapital.com.ar/ovacion/paso-central-hizo-mas-230-goles-su-carrera-y-los-41-anos-anuncio-que-se-retira-n10283018.html",
-        "image": "https://media.lacapital.com.ar/p/f6a9d673524ffadd84ffba23f248a630/adjuntos/203/imagenes/103/425/0103425197/1200x675/smart/image-4.jpg",
-        "summary": "Jugó una temporada en Arroyito, donde participó en 25 partidos del Canalla en los que marcó cinco tantos",
-        "pubDate": "2026-09-24T21:05:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Buscan completar un gasoducto clave para abastecer a la industria santafesina",
-        "link": "https://www.lacapital.com.ar/economia/buscan-completar-un-gasoducto-clave-abastecer-la-industria-santafesina-n10283003.html",
-        "image": "https://media.lacapital.com.ar/p/5fa9052d663be6cfa8aa567043fa5dad/adjuntos/203/imagenes/103/425/0103425056/1200x675/smart/soepu.jpg",
-        "summary": "El gremio petroquímico presentó una iniciativa para completar unos 524 kilómetros de infraestructura y conectar a la industria santafesina con el gas de Vaca Muerta. También expuso sobre el impacto del cierre de la planta de caucho sintético de Pampa Energía en Puerto General…",
-        "pubDate": "2026-09-24T21:02:00+00:00",
         "approxTime": false
       }
     ]
