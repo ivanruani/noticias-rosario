@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T14:01:24.483538+00:00",
+  "generatedAt": "2026-09-26T14:31:09.990305+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Denuncian que el fenómeno El Niño puede provocar derrumbe y contaminación del río Paraná",
+        "link": "https://www.lacapital.com.ar/la-region/denuncian-que-el-fenomeno-el-nino-puede-provocar-derrumbe-y-contaminacion-del-rio-parana-n10283321.html",
+        "image": "https://media.lacapital.com.ar/p/bfb5317b3b6a1bcb48b645d3f1c02bae/adjuntos/203/imagenes/101/624/0101624238/1200x675/smart/rio-parana1pngwebp.png",
+        "summary": "La Justicia santafesina ordenó el apuntalamiento urgente de la barranca de Ar-Zinc, una empresa química cerrada años atrás en Fray Luis Beltrán",
+        "pubDate": "2026-09-26T14:19:03+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Los hinchas de Central pusieron toda la carne al asador antes del duelo con Estudiantes",
         "link": "https://www.lacapital.com.ar/ovacion/los-hinchas-central-pusieron-toda-la-carne-al-asador-antes-del-duelo-estudiantes-n10283318.html",
         "image": "https://media.lacapital.com.ar/p/f28c13a5dffc31db64da7c096d60f81e/adjuntos/203/imagenes/103/428/0103428657/hinchas-central-santiago-del-estero-1.jpeg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/19cf7adb2951f986f146506b85a4cde6/adjuntos/203/imagenes/103/428/0103428200/1200x675/smart/82665066jpegthumb.jpg",
         "summary": "La actividad central será en Santa Fe e incluirá el cambio de banderas oficiales y un reconocimiento a los voluntarios. Rosario también tendrá música y diversión",
         "pubDate": "2026-09-26T09:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Coninagro: \"Si no fuera por el cooperativismo muchas producciones ya no existirían\"",
-        "link": "https://www.lacapital.com.ar/agro/coninagro-si-no-fuera-el-cooperativismo-muchas-producciones-ya-no-existirian-n10282937.html",
-        "image": "https://media.lacapital.com.ar/p/3664d5cd7e93b3fb5f1f48f90b02f722/adjuntos/203/imagenes/103/424/0103424617/1200x675/551x245:571x265/coninagro.jpeg",
-        "summary": "Coninagro habló de productores descapitalizados y dificultades para la reconversión. A pesar de que muchas economías regionales siguen estando en situación crítica desde hace décadas, la suma sigue dando una señal positiva hacia la recuperación",
-        "pubDate": "2026-09-26T09:15:00+00:00",
         "approxTime": false
       }
     ]
