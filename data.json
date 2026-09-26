@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T09:01:13.531307+00:00",
+  "generatedAt": "2026-09-26T09:31:01.628111+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,11 +141,56 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "Recorrida semanal",
-        "link": "https://www.lacapital.com.ar/es-social/recorrida-semanal-n10282659.html",
-        "image": "https://media.lacapital.com.ar/p/75414a186ab5d0ed9abb9897ec51ae69/adjuntos/203/imagenes/103/421/0103421114/1200x675/smart/rock-6.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-09-26T03:00:00+00:00",
+        "title": "El índice de actividad agropecuaria alcanzó un máximo en agosto",
+        "link": "https://www.lacapital.com.ar/agro/el-indice-actividad-agropecuaria-alcanzo-un-maximo-agosto-n10283260.html",
+        "image": "https://media.lacapital.com.ar/p/9f2bd1c64aae5eabeda9b38744770702/adjuntos/203/imagenes/027/574/0027574965/1200x675/smart/agro_08_01_lc_69283382__08-11-2019__000x000jpg.jpg",
+        "summary": "El Iaca, indicador que elabora la Bolsa de Comercio de Rosario mostró una expansión de 1,1 % mensual y 19% interanual. Fuerte tracción de la producción primaria",
+        "pubDate": "2026-09-26T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Coninagro: \"Si no fuera por el cooperativismo muchas producciones ya no existirían\"",
+        "link": "https://www.lacapital.com.ar/agro/coninagro-si-no-fuera-el-cooperativismo-muchas-producciones-ya-no-existirian-n10282937.html",
+        "image": "https://media.lacapital.com.ar/p/3664d5cd7e93b3fb5f1f48f90b02f722/adjuntos/203/imagenes/103/424/0103424617/1200x675/551x245:571x265/coninagro.jpeg",
+        "summary": "Coninagro habló de productores descapitalizados y dificultades para la reconversión. A pesar de que muchas economías regionales siguen estando en situación crítica desde hace décadas, la suma sigue dando una señal positiva hacia la recuperación",
+        "pubDate": "2026-09-26T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Rugby: gran semifinal del Torneo del Interior en Fisherton y partido clave de Plaza en la Urba",
+        "link": "https://www.lacapital.com.ar/ovacion/rugby-gran-semifinal-del-torneo-del-interior-fisherton-y-partido-clave-plaza-la-urba-n10283289.html",
+        "image": "https://media.lacapital.com.ar/p/3689d0cbf89c33bafaac8b05bb6d26c4/adjuntos/203/imagenes/103/428/0103428397/1200x675/smart/image-5.jpg",
+        "summary": "Jockey y Duendes animan la semi del Torneo del Interior, mientras que Atlético del Rosario recibe al puntero de la Urba, Newman. Sábado de rugby",
+        "pubDate": "2026-09-26T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central Córdoba juega para asegurar su plaza en el Reducido y Argentino por evitar la desafiliación",
+        "link": "https://www.lacapital.com.ar/ovacion/central-cordoba-juega-asegurar-su-plaza-el-reducido-y-argentino-evitar-la-desafiliacion-n10283212.html",
+        "image": "https://media.lacapital.com.ar/p/ca4b7bd6aa500ca7545c3952304b6084/adjuntos/203/imagenes/103/427/0103427688/1200x675/smart/image.jpg",
+        "summary": "Dos de los tres equipos de Rosario de la Primera C juegan este sábado a las 15. Central Córdoba recibe a Claypole y Argentino visita a Estrella del Sur",
+        "pubDate": "2026-09-26T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central busca el brillo de otra estrella ante Estudiantes en la Supercopa Internacional",
+        "link": "https://www.lacapital.com.ar/ovacion/central-busca-el-brillo-otra-estrella-estudiantes-la-supercopa-internacional-n10283290.html",
+        "image": "https://media.lacapital.com.ar/p/3f1e4544847089db944ee7cce1cf1fce/adjuntos/203/imagenes/103/428/0103428419/aadd.jpeg",
+        "summary": "Central define con Estudiantes de La Plata en el estadio Madre de Ciudades de Santiago del Estero. Va por el noveno título en la era profesional",
+        "pubDate": "2026-09-26T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La Corte Suprema nacional cerró el caso Sastre y dejó firme el límite de 1.000 metros para fumigaciones",
+        "link": "https://www.lacapital.com.ar/la-region/la-corte-suprema-nacional-cerro-el-caso-sastre-y-dejo-firme-el-limite-1000-metros-fumigaciones-n10283215.html",
+        "image": "https://media.lacapital.com.ar/p/fad8b57d370d2230b2b6cc0246e391de/adjuntos/203/imagenes/103/427/0103427719/1200x675/smart/sastre-aerea-1.jpg",
+        "summary": "Se convalidó una de las sentencias ambientales más importantes de la Argentina, un antecedente que influirá en conflictos similares de todo el país",
+        "pubDate": "2026-09-26T09:00:00+00:00",
         "approxTime": false
       },
       {
@@ -159,9 +204,9 @@
       },
       {
         "source": "La Capital",
-        "title": "Experiencia Endeavor Rosario 2026",
-        "link": "https://www.lacapital.com.ar/es-social/experiencia-endeavor-rosario-2026-n10282676.html",
-        "image": "https://media.lacapital.com.ar/p/bbb74fc8dc26e03ef8a23e9a9c99acbc/adjuntos/203/imagenes/103/421/0103421297/1200x675/smart/endeavor-1.jpg",
+        "title": "Recorrida semanal",
+        "link": "https://www.lacapital.com.ar/es-social/recorrida-semanal-n10282659.html",
+        "image": "https://media.lacapital.com.ar/p/75414a186ab5d0ed9abb9897ec51ae69/adjuntos/203/imagenes/103/421/0103421114/1200x675/smart/rock-6.jpg",
         "summary": "La Capital",
         "pubDate": "2026-09-26T03:00:00+00:00",
         "approxTime": false
@@ -180,6 +225,15 @@
         "title": "Gimnasia con formas esféricas en el Instituto Mirta de Fussi",
         "link": "https://www.lacapital.com.ar/es-social/gimnasia-formas-esfericas-el-instituto-mirta-fussi-n10282665.html",
         "image": "https://media.lacapital.com.ar/p/44ef61e0ebb6257a694d14312ae83ffb/adjuntos/203/imagenes/103/421/0103421131/1200x675/smart/01-esferasjpg-1.jpeg",
+        "summary": "La Capital",
+        "pubDate": "2026-09-26T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Experiencia Endeavor Rosario 2026",
+        "link": "https://www.lacapital.com.ar/es-social/experiencia-endeavor-rosario-2026-n10282676.html",
+        "image": "https://media.lacapital.com.ar/p/bbb74fc8dc26e03ef8a23e9a9c99acbc/adjuntos/203/imagenes/103/421/0103421297/1200x675/smart/endeavor-1.jpg",
         "summary": "La Capital",
         "pubDate": "2026-09-26T03:00:00+00:00",
         "approxTime": false
@@ -218,60 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/7e61f87259c1905f7f620e43f97f0be3/adjuntos/203/imagenes/103/428/0103428235/tenissss.jpeg",
         "summary": "En la cosecha de los rosarinos el viernes en los Juegos Suramericanos, Ambrogi sumó una de plata, al igual que la arquera Pueyo. La corredora Cossio fue bronce",
         "pubDate": "2026-09-26T00:19:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Juegos Suramericanos: el oro del waterpolo se define entre Argentina y Brasil",
-        "link": "https://www.lacapital.com.ar/juegos-suramericanos/juegos-suramericanos-el-oro-del-waterpolo-se-define-argentina-y-brasil-n10283274.html",
-        "image": "https://media.lacapital.com.ar/p/ed1adbbc6a29312d5b6e50fef2660910/adjuntos/203/imagenes/103/428/0103428175/1200x675/smart/water-arg-e89-9b29-011fd04c4eab.jpg",
-        "summary": "Los varones y las mujeres superaron a Colombia en semifinales y se viene un imperdible sábado de superacción en el centro acuático de la zona sur de Rosario",
-        "pubDate": "2026-09-26T00:13:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Ovando, González Pirez, el pasillo y la postura firme de Central: \"Nos faltaron el respeto\"",
-        "link": "https://www.lacapital.com.ar/ovacion/ovando-gonzalez-pirez-el-pasillo-y-la-postura-firme-central-nos-faltaron-el-respeto-n10283267.html",
-        "image": "https://media.lacapital.com.ar/p/623aaf0a87882e292e6e33d3a17fa4a3/adjuntos/203/imagenes/103/428/0103428199/1200x675/smart/image-2.jpg",
-        "summary": "El defensor Canalla plantó bandera sobre la situación vivida el año pasado y el jugador de Estudiantes quiso dejarlo en el pasado",
-        "pubDate": "2026-09-26T00:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Newell's: al final no se correría el horario del choque con Lanús",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-al-final-no-se-correria-el-horario-del-choque-lanus-n10283259.html",
-        "image": "https://media.lacapital.com.ar/p/9ea6009497349b863dda83c87b34c24a/adjuntos/203/imagenes/103/428/0103428127/1200x675/smart/nob-hinchada-82660627.jpg",
-        "summary": "Hasta ahora no hubo ninguna comunicación oficial y la Lepra recibiría al Granate, un rival directo, como estaba programado",
-        "pubDate": "2026-09-25T23:41:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Docentes de la UNR se despegan de Conadu y lanzan un paro a semana completa",
-        "link": "https://www.lacapital.com.ar/la-ciudad/docentes-la-unr-se-despegan-conadu-y-lanzan-un-paro-semana-completa-n10283253.html",
-        "image": "https://media.lacapital.com.ar/p/ef1660217655f7349ea2d3efc1639649/adjuntos/203/imagenes/101/985/0101985397/1200x675/smart/antorchassjpg.jpg",
-        "summary": "El gremio de Rosario anunció una medida en conjunto con la Universidad Nacional de Córdoba para la semana que viene. La federación nacional aún no definió",
-        "pubDate": "2026-09-25T23:13:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Tres miniseries que la rompen en Netflix",
-        "link": "https://www.lacapital.com.ar/zoom/tres-miniseries-que-la-rompen-netflix-n10283180.html",
-        "image": "https://media.lacapital.com.ar/p/17d7bedf97f1300f8018e818e52a4bab/adjuntos/203/imagenes/103/427/0103427194/1200x675/smart/image-6.png",
-        "summary": "Drama, suspenso y thriller lideran el ranking de lo más visto. De qué se tratan esas series que están conquistando a todos los usuarios",
-        "pubDate": "2026-09-25T23:01:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Macri elogió a Milei y destacó el apoyo del PRO al gobierno",
-        "link": "https://www.lacapital.com.ar/politica/macri-elogio-milei-y-destaco-el-apoyo-del-pro-al-gobierno-n10283263.html",
-        "image": "https://media.lacapital.com.ar/p/431ff75c12ac2c08d7ba7b501ae0d257/adjuntos/203/imagenes/103/428/0103428146/1200x675/smart/image.png",
-        "summary": "El expresidente desembarcó en Jujuy, donde se reunió con el gobernador Sadir y encabezó un encuentro con referentes del partido amarillo",
-        "pubDate": "2026-09-25T22:56:00+00:00",
         "approxTime": false
       }
     ]
