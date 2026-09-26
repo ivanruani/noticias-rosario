@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T10:01:23.505676+00:00",
+  "generatedAt": "2026-09-26T10:31:09.678462+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,11 +141,65 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "Buscan renovar el túnel Illia y crear el Paseo de las Celebridades de Rosario",
-        "link": "https://www.lacapital.com.ar/la-ciudad/buscan-renovar-el-tunel-illia-y-crear-el-paseo-las-celebridades-rosario-n10283245.html",
-        "image": "https://media.lacapital.com.ar/p/285a368f1a4e4c044fa50c902c9d2f02/adjuntos/203/imagenes/103/427/0103427946/1200x675/smart/proyecto-gavira-tunel-illia-259.jpg",
-        "summary": "La iniciativa pretende revalorizar el tramo cubierto de la avenida con los colores de la bandera argentina y las figuras rosarinas del deporte y el arte",
-        "pubDate": "2026-09-26T09:30:00+00:00",
+        "title": "Disney+ estrena \"El rescate de los mineros chilenos\" y retoma la historia que conmovió al mundo",
+        "link": "https://www.lacapital.com.ar/zoom/disney-estrena-el-rescate-los-mineros-chilenos-y-retoma-la-historia-que-conmovio-al-mundo-n10283216.html",
+        "image": "https://media.lacapital.com.ar/p/c9de2ad4093fb88969257b7d94f01733/adjuntos/203/imagenes/103/427/0103427765/1200x675/smart/image-2026-09-25t172323034.png",
+        "summary": "La serie tiene tres capítulos y recopila desde imágenes inéditas grabadas con celulares hasta entrevistas con sobrevivientes, familiares y rescatistas. “Todos los esfuerzos de rescate fueron principalmente nacionales\", sostuvo Igor Proestakis, el ingeniero que con 24 años ideó…",
+        "pubDate": "2026-09-26T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La experiencia de quedarse frente al mar",
+        "link": "https://www.lacapital.com.ar/la-experiencia-quedarse-frente-al-mar-n10283223.html",
+        "image": "https://media.lacapital.com.ar/p/05bd9b909ec2077171cb1f502e9eb781/adjuntos/203/imagenes/103/427/0103427702/004-002-the-pyramid-cancun-2.JPG",
+        "summary": "Oasis Hotels & Resorts propone una experiencia todo incluido que reúne descanso, gastronomía y entretenimiento para disfrutar Cancún sin salir del hotel",
+        "pubDate": "2026-09-26T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La playa brasileña escondida entre acantilados que enamora a viajeros de todo el mundo",
+        "link": "https://www.lacapital.com.ar/turismo/la-playa-brasilena-escondida-acantilados-que-enamora-viajeros-todo-el-mundo-n10283198.html",
+        "image": "https://media.lacapital.com.ar/p/8ed023cf96a6ce79b6f4005e12f0803c/adjuntos/203/imagenes/103/427/0103427538/imagen-nota.jpg",
+        "summary": "En Fernando de Noronha, este destino combina aguas transparentes, arena clara, acantilados cubiertos de vegetación y una extraordinaria vida marina",
+        "pubDate": "2026-09-26T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Jujuy, el destino argentino que invita a viajar entre montañas, salares y pueblos históricos",
+        "link": "https://www.lacapital.com.ar/turismo/jujuy-el-destino-argentino-que-invita-viajar-montanas-salares-y-pueblos-historicos-n10283197.html",
+        "image": "https://media.lacapital.com.ar/p/956fe9f06228e926f5fb9d092846f02a/adjuntos/203/imagenes/103/427/0103427516/imagen-nota.jpg",
+        "summary": "La provincia fue distinguida como Mejor Destino de Montaña de Sudamérica en los Mountain Destination Awards 2026",
+        "pubDate": "2026-09-26T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Cancún, una experiencia que va más allá de la playa",
+        "link": "https://www.lacapital.com.ar/turismo/cancun-una-experiencia-que-va-mas-alla-la-playa-n10283195.html",
+        "image": "https://media.lacapital.com.ar/p/5e8e5bd7389c1070dc3d00940ea4b6d7/adjuntos/203/imagenes/103/427/0103427585/imagen-nota.jpg",
+        "summary": "Del Caribe a la Laguna Nichupté, de los vestigios mayas a la cocina yucateca: un recorrido por los paisajes y experiencias que aparecen cuando se mira más allá",
+        "pubDate": "2026-09-26T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El aeropuerto de Rosario crece y los vuelos internacionales son los grandes protagonistas",
+        "link": "https://www.lacapital.com.ar/turismo/el-aeropuerto-rosario-crece-y-los-vuelos-internacionales-son-los-grandes-protagonistas-n10283194.html",
+        "image": "https://media.lacapital.com.ar/p/aa5584fe426e101e7526fe5db8b3218b/adjuntos/203/imagenes/103/427/0103427427/imagen-nota.jpg",
+        "summary": "Fisherton movilizó 452.459 pasajeros entre enero y agosto, un 18% más que en el 2025. El salto se impulso por las conexiones internacionales, que crecieron 43%",
+        "pubDate": "2026-09-26T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "En cada detalle: el desafío de construir confianza desde el primer contacto",
+        "link": "https://www.lacapital.com.ar/turismo/en-cada-detalle-el-desafio-construir-confianza-el-primer-contacto-n10283196.html",
+        "image": "https://media.lacapital.com.ar/p/8a0c0767c8a17df9826ac197fa2a3e83/adjuntos/203/imagenes/103/427/0103427632/agencia-final.jpg",
+        "summary": "Con tres años de trayectoria en Casilda, Bross Travel apuesta por la atención personalizada, el asesoramiento profesional y acompañamiento después de cada viaje",
+        "pubDate": "2026-09-26T10:00:00+00:00",
         "approxTime": false
       },
       {
@@ -154,6 +208,15 @@
         "link": "https://www.lacapital.com.ar/la-ciudad/inolvidables-los-juegos-suramericanos-culminan-este-sabado-pura-fiesta-y-desfile-n10283280.html",
         "image": "https://media.lacapital.com.ar/p/19cf7adb2951f986f146506b85a4cde6/adjuntos/203/imagenes/103/428/0103428200/1200x675/smart/82665066jpegthumb.jpg",
         "summary": "La actividad central será en Santa Fe e incluirá el cambio de banderas oficiales y un reconocimiento a los voluntarios. Rosario también tendrá música y diversión",
+        "pubDate": "2026-09-26T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Buscan renovar el túnel Illia y crear el Paseo de las Celebridades de Rosario",
+        "link": "https://www.lacapital.com.ar/la-ciudad/buscan-renovar-el-tunel-illia-y-crear-el-paseo-las-celebridades-rosario-n10283245.html",
+        "image": "https://media.lacapital.com.ar/p/285a368f1a4e4c044fa50c902c9d2f02/adjuntos/203/imagenes/103/427/0103427946/1200x675/smart/proyecto-gavira-tunel-illia-259.jpg",
+        "summary": "La iniciativa pretende revalorizar el tramo cubierto de la avenida con los colores de la bandera argentina y las figuras rosarinas del deporte y el arte",
         "pubDate": "2026-09-26T09:30:00+00:00",
         "approxTime": false
       },
@@ -209,69 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/ca4b7bd6aa500ca7545c3952304b6084/adjuntos/203/imagenes/103/427/0103427688/1200x675/smart/image.jpg",
         "summary": "Dos de los tres equipos de Rosario de la Primera C juegan este sábado a las 15. Central Córdoba recibe a Claypole y Argentino visita a Estrella del Sur",
         "pubDate": "2026-09-26T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La Corte Suprema nacional cerró el caso Sastre y dejó firme el límite de 1.000 metros para fumigaciones",
-        "link": "https://www.lacapital.com.ar/la-region/la-corte-suprema-nacional-cerro-el-caso-sastre-y-dejo-firme-el-limite-1000-metros-fumigaciones-n10283215.html",
-        "image": "https://media.lacapital.com.ar/p/fad8b57d370d2230b2b6cc0246e391de/adjuntos/203/imagenes/103/427/0103427719/1200x675/smart/sastre-aerea-1.jpg",
-        "summary": "Se convalidó una de las sentencias ambientales más importantes de la Argentina, un antecedente que influirá en conflictos similares de todo el país",
-        "pubDate": "2026-09-26T09:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Alto Rosario también te ofrece las mejores meriendas",
-        "link": "https://www.lacapital.com.ar/es-social/alto-rosario-tambien-te-ofrece-las-mejores-meriendas-n10282488.html",
-        "image": "https://media.lacapital.com.ar/p/031bdda3716c26fec2be33abd85c8bff/adjuntos/203/imagenes/103/419/0103419268/1200x675/smart/altomeriendas-2.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-09-26T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Recorrida semanal",
-        "link": "https://www.lacapital.com.ar/es-social/recorrida-semanal-n10282659.html",
-        "image": "https://media.lacapital.com.ar/p/75414a186ab5d0ed9abb9897ec51ae69/adjuntos/203/imagenes/103/421/0103421114/1200x675/smart/rock-6.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-09-26T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Carolina Della Ceca volvió a hacer vibrar Metropolitano con la 25ª edición de Lanka Models Mega Fashion Show",
-        "link": "https://www.lacapital.com.ar/es-social/carolina-della-ceca-volvio-hacer-vibrar-metropolitano-la-25-edicion-lanka-models-mega-fashion-show-n10282662.html",
-        "image": "https://media.lacapital.com.ar/p/d22864f0a3e409da5d25280360cda4bd/adjuntos/203/imagenes/103/421/0103421120/1200x675/smart/desfile-1.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-09-26T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Gimnasia con formas esféricas en el Instituto Mirta de Fussi",
-        "link": "https://www.lacapital.com.ar/es-social/gimnasia-formas-esfericas-el-instituto-mirta-fussi-n10282665.html",
-        "image": "https://media.lacapital.com.ar/p/44ef61e0ebb6257a694d14312ae83ffb/adjuntos/203/imagenes/103/421/0103421131/1200x675/smart/01-esferasjpg-1.jpeg",
-        "summary": "La Capital",
-        "pubDate": "2026-09-26T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Experiencia Endeavor Rosario 2026",
-        "link": "https://www.lacapital.com.ar/es-social/experiencia-endeavor-rosario-2026-n10282676.html",
-        "image": "https://media.lacapital.com.ar/p/bbb74fc8dc26e03ef8a23e9a9c99acbc/adjuntos/203/imagenes/103/421/0103421297/1200x675/smart/endeavor-1.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-09-26T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Juegos Suramericanos: más medallas de Argentina y agenda rosarina del último día de competencia",
-        "link": "https://www.lacapital.com.ar/juegos-suramericanos/juegos-suramericanos-mas-medallas-argentina-y-agenda-rosarina-del-ultimo-dia-competencia-n10283286.html",
-        "image": "https://media.lacapital.com.ar/p/4228c2414f3f6fa60375ebe3dfd4ca08/adjuntos/203/imagenes/103/428/0103428434/1200x675/smart/suramericanos-ambrogi.jpeg",
-        "summary": "En un viernes fructífero, la delegación albiceleste se hizo presente en los podios y alcanzó las 78 preseas doradas. Agenda del sábado que cierra los Juegos",
-        "pubDate": "2026-09-26T02:00:00+00:00",
         "approxTime": false
       }
     ]
