@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-09-26T11:01:19.646394+00:00",
+  "generatedAt": "2026-09-26T11:31:03.409067+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Mugre bajo la alfombra: la precaria realidad de las trabajadoras que limpian casas en Rosario",
+        "link": "https://www.rosario3.com/informaciongeneral/mugre-bajo-la-alfombra-la-precaria-realidad-de-las-trabajadoras-que-limpian-casas-en-rosario-20260920-0025.html",
+        "image": "https://www.rosario3.com/__export/1789943961129/sites/rosario3/img/2026/09/20/cp1.jpg_928314581.jpg",
+        "summary": "A los salarios insuficientes que cobran históricamente y la creciente informalización, se suman los recortes de horas a los que recurren sus empleadores cuando son despedidos o no les cierran las cuentas. Una foto del trabajo doméstico en la ciudad, con las voces de dos “chicas…",
+        "pubDate": "2026-09-20T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Rosario registró un fuerte incremento de la indigencia y la demanda de asistencia social subió un 60% durante el último año",
         "link": "https://www.rosario3.com/informaciongeneral/rosario-registro-un-fuerte-incremento-de-la-indigencia-y-la-demanda-de-asistencia-social-subio-un-60-durante-el-ultimo-ano-20260925-0052.html",
         "image": "https://www.rosario3.com/__export/1790368274913/sites/rosario3/img/2025/09/26/pobreza.jpg_928314581.jpg",
         "summary": "El secretario de Desarrollo Humano del municipio, Nicolás Gianelloni, analizó los datos difundidos por el Indec y explicó que, si bien el índice general de pobreza en la ciudad se ubicó por debajo de la media del país, la indigencia sí registró un salto. Además, destacó el rol…",
-        "pubDate": "2026-09-25T12:00:00+00:00",
+        "pubDate": "2026-09-25T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,25 +26,16 @@
         "link": "https://www.rosario3.com/informaciongeneral/una-de-terror-iban-al-cine-en-familia-y-les-cayo-una-lancha-sobre-la-camioneta-20260925-0060.html",
         "image": "https://www.rosario3.com/__export/1790375609798/sites/rosario3/img/2026/09/25/accidente_lancha.jpg_506286608.jpg",
         "summary": "Ocurrió este viernes cerca de las siete de la tarde en Presidente Perón al 7300, en la zona oeste. Por razones que se tratan de establecer, la embarcación se desprendió de un tráiler e impactó contra una chata en la que iban cinco personas rumbo a Rosario. Resultaron con golpes…",
-        "pubDate": "2026-09-25T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "“Sentía que estaba loca”: el ADN que le confirmó a Carmen que había sido adoptada al nacer",
-        "link": "https://www.rosario3.com/informaciongeneral/sentia-que-estaba-loca-el-adn-que-le-confirmo-a-carmen-que-habia-sido-adoptada-al-nacer-20260925-0050.html",
-        "image": "https://www.rosario3.com/__export/1790367303316/sites/rosario3/img/2026/09/25/carmen_quiroga_-1-.jpg_672794304.jpg",
-        "summary": "La historia de la rosarina Carmen Quiroga se ventiló la semana pasada a la Justicia federal, con la imputación de la partera Dolly Viale de Garrido, acusada de separarla de su madre biológica poco después de su nacimiento, en el Hospital Roque Sáenz Peña. Desde Bariloche, contó…",
         "pubDate": "2026-09-25T11:58:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Tiene Alzheimer, se fue en auto y estuvo 15 horas desaparecido: lo encontraron por una cadena de oyentes de Radio 2",
-        "link": "https://www.rosario3.com/informaciongeneral/tiene-alzheimer-se-fue-en-auto-y-estuvo-15-horas-desaparecido-lo-encontraron-por-una-cadena-de-oyentes-de-radio-2-20260925-0027.html",
-        "image": "https://www.rosario3.com/__export/1790346711228/sites/rosario3/img/2026/09/25/autopista_1.png_928314580.png",
-        "summary": "Oscar vive con su hija y se llevó el auto de ella. Aparentemente quería ir a Pérez, donde tiene amigos, pero se desorientó y terminó sobre la autopista a Buenos Aires. Su familia lo buscó durante 15 horas hasta que una cadena de llamados a De boca en boca permitió ubicarlo cerca…",
-        "pubDate": "2026-09-25T11:57:00+00:00",
+        "title": "La previa del Run Run: John Deere reestructura y el enigma post cierre de Electrolux",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-previa-del-run-run-john-deere-reestructura-y-el-enigma-post-cierre-de-electrolux-20260926-0001.html",
+        "image": "https://www.rosario3.com/__export/1789167090572/sites/rosario3/img/2026/09/11/marianoportada_jpg.jpeg_506286608.jpeg",
+        "summary": "El podcast con el anticipo de las novedades económicas y corporativas que se publicarán en la tradicional columna de los domingos en Rosario3",
+        "pubDate": "2026-09-26T11:57:00+00:00",
         "approxTime": true
       },
       {
