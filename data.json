@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T18:01:16.794095+00:00",
+  "generatedAt": "2026-09-26T18:31:04.852031+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,11 +13,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Ataja Werner y Central sale con cuatro cambios en la final ante Estudiantes",
+        "link": "https://www.rosario3.com/deportes/las-incognitas-de-almiron-y-el-equipo-de-central-para-la-final-ante-estudiantes-20260925-0051.html",
+        "image": "https://www.rosario3.com/__export/1790367233648/sites/rosario3/img/2026/09/25/central.jpg_506286608.jpg",
+        "summary": "El Canalla se mide este sábado contra el Pincha en Santiago del Estero por el título de la Supercopa Internacional. Con ausencias por lesión y convocatorias a selecciones, el DT auriazul está obligado a meter mano, aunque del otro lado el Cacique Medina también debe cambiar",
+        "pubDate": "2026-09-25T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Cierre de Electrolux: “Es parte del reacomodamiento de la economía”",
         "link": "https://www.rosario3.com/-economia-negocios-agro-/cierre-de-electrolux-esto-es-parte-del-reacomodamiento-de-la-economia-20260926-0012.html",
         "image": "https://www.rosario3.com/__export/1790438846605/sites/rosario3/img/2026/09/26/disen-o_sin_ti-tulo_-68-.png_928314581.png",
         "summary": "El presidente de la Cámara de Electrodomésticos de Rosario, Claudio Sexer, analizó el cierre de la planta de electrodomésticos y sostuvo que las empresas del sector están adaptándose a un nuevo escenario, con más productos importados y una mayor variedad para los consumidores…",
-        "pubDate": "2026-09-26T11:59:00+00:00",
+        "pubDate": "2026-09-26T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,16 +35,7 @@
         "link": "https://www.rosario3.com/policiales/en-la-puerta-de-su-casa-dos-en-moto-balearon-a-un-hombre-en-barrio-godoy-20260926-0013.html",
         "image": "https://www.rosario3.com/__export/1790441160682/sites/rosario3/img/2026/09/26/hospital_eva_peron.jpg_1613903135.jpg",
         "summary": "El hombre, de 42 años, recibió un disparo en el glúteo y quedó internado en el Eva Perón. En pocas horas también ingresaron al Heca dos baleados de La Cerámica y Felipe Moré y Biedma.",
-        "pubDate": "2026-09-26T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Juegos Suramericanos: cómo será el cierre este sábado en Rosario, Santa Fe y Rafaela",
-        "link": "https://www.rosario3.com/informaciongeneral/cuando-terminan-y-como-se-despiden-los-xiii-juegos-suramericanos-en-santa-fe-20260924-0024.html",
-        "image": "https://www.rosario3.com/__export/1790257988625/sites/rosario3/img/2026/09/24/ff.jpg_928314581.jpg",
-        "summary": "El final será el sábado 26 de septiembre, jornada en la que se realizarán ceremonias de clausura en cada una de las sedes. La vocera del gobierno provincial, Virginia Coudannes, brindó los detalles sobre Rosario y Rafaela",
-        "pubDate": "2026-09-24T11:57:00+00:00",
+        "pubDate": "2026-09-26T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -85,11 +85,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Rosario Central y Estudiantes, una final con morbo y por otra estrella: en Santiago se pone en juego la Supercopa Internacional",
-        "link": "https://www.rosario3.com/deportes/rosario-central-y-estudiantes-una-final-con-morbo-y-por-otra-estrella-en-santiago-se-pone-en-juego-la-supercopa-internacional-20260925-0053.html",
-        "image": "https://www.rosario3.com/__export/1790371385341/sites/rosario3/img/2026/09/25/rc-estu.jpg_928314580.jpg",
-        "summary": "El Canalla y el Pincha se enfrentan este sábado en el estadio Madre de ciudades por el título que reúne al campeón de la Liga Profesional 2025 y al ganador del Trofeo de Campeones. Jorge Almirón tendrá varias bajas y deberá rearmar el equipo. Darío Herrera será el árbitro y…",
-        "pubDate": "2026-09-25T11:51:00+00:00",
+        "title": "Juegos Suramericanos: cómo será el cierre este sábado en Rosario, Santa Fe y Rafaela",
+        "link": "https://www.rosario3.com/informaciongeneral/cuando-terminan-y-como-se-despiden-los-xiii-juegos-suramericanos-en-santa-fe-20260924-0024.html",
+        "image": "https://www.rosario3.com/__export/1790257988625/sites/rosario3/img/2026/09/24/ff.jpg_928314581.jpg",
+        "summary": "El final será el sábado 26 de septiembre, jornada en la que se realizarán ceremonias de clausura en cada una de las sedes. La vocera del gobierno provincial, Virginia Coudannes, brindó los detalles sobre Rosario y Rafaela",
+        "pubDate": "2026-09-24T11:51:00+00:00",
         "approxTime": true
       },
       {
@@ -141,6 +141,42 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Duro castigo de la FIA A Franco Colapinto por el choque en el GP de Azerbaiyán de Fórmula 1",
+        "link": "https://www.lacapital.com.ar/ovacion/duro-castigo-la-fia-franco-colapinto-el-choque-el-gp-azerbaiyan-formula-1-n10283351.html",
+        "image": "https://media.lacapital.com.ar/p/5639e10cbcdd392fe87c8ac3b385ef56/adjuntos/203/imagenes/103/429/0103429040/1200x675/smart/image-11.jpg",
+        "summary": "El piloto argentino fue el responsable de un triple choque que lo sacó de la carrera, al igual que a Pierre Gasly y Lando Norris",
+        "pubDate": "2026-09-26T18:14:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Los jubilados transformaron la lucha en alegría con un festival en el cruce de las peatonales",
+        "link": "https://www.lacapital.com.ar/la-ciudad/los-jubilados-transformaron-la-lucha-alegria-un-festival-el-cruce-las-peatonales-n10283340.html",
+        "image": "https://media.lacapital.com.ar/p/886f1b1dcd7cbdfa7338adf13bc6a0e1/adjuntos/203/imagenes/103/428/0103428988/1200x675/smart/jubilados1.jpg",
+        "summary": "El Frente de Jubilados en Lucha organizó una jornada en el Día del Jubilado, con shows, música y baile",
+        "pubDate": "2026-09-26T18:12:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central tiene equipo confirmado para la gran final: Almirón mantiene a Werner pero mete cuatro cambios",
+        "link": "https://www.lacapital.com.ar/ovacion/central-tiene-equipo-confirmado-la-gran-final-almiron-mantiene-werner-pero-mete-cuatro-cambios-n10283296.html",
+        "image": "https://media.lacapital.com.ar/p/2a62d632ff8120783a56e73d2969945a/adjuntos/203/imagenes/103/428/0103428448/almironcml.jpeg",
+        "summary": "El DT canalla dejó otra vez a Ledesma en el banco. Vuelve Emanuel Coronel y juegan Federico Navarro, Giovanni Cantizano y Gaspar Duarte",
+        "pubDate": "2026-09-26T18:09:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Día de la Seguridad Vial Infantil en Santa Fe: la importancia de cuidar a los más chicos",
+        "link": "https://www.lacapital.com.ar/motores/dia-la-seguridad-vial-infantil-santa-fe-la-importancia-cuidar-los-mas-chicos-n10283154.html",
+        "image": "https://media.lacapital.com.ar/p/84b082586354310e628b93a22c0ca453/adjuntos/203/imagenes/103/427/0103427069/1200x675/smart/seguridad-vial-infantil.jpg",
+        "summary": "La Agencia Provincial de Seguridad Vial difundió estadísticas y recomendaciones para proteger a las infancias de los riegos viales durante los traslados en vehículos",
+        "pubDate": "2026-09-26T17:59:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "La levantada de Newell's tiene a un protagonista cada vez más firme en el arco: Josué Reinatti",
         "link": "https://www.lacapital.com.ar/ovacion/la-levantada-newells-tiene-un-protagonista-cada-vez-mas-firme-el-arco-josue-reinatti-n10283231.html",
         "image": "https://media.lacapital.com.ar/p/6260b124e66ced8359ec28b45cb23105/adjuntos/203/imagenes/103/350/0103350875/1200x675/smart/image-21.jpg",
@@ -150,19 +186,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Central busca el brillo de otra estrella ante Estudiantes en la Supercopa Internacional",
-        "link": "https://www.lacapital.com.ar/ovacion/central-busca-el-brillo-otra-estrella-estudiantes-la-supercopa-internacional-n10283290.html",
-        "image": "https://media.lacapital.com.ar/p/3f1e4544847089db944ee7cce1cf1fce/adjuntos/203/imagenes/103/428/0103428419/aadd.jpeg",
-        "summary": "Define con Estudiantes de La Plata en el estadio Madre de Ciudades de Santiago del Estero. Va por el noveno título en la era profesional",
+        "title": "Un arquero de las inferiores de Central fue medalla de oro con Paraguay en los Suramericanos",
+        "link": "https://www.lacapital.com.ar/ovacion/un-arquero-las-inferiores-central-fue-medalla-oro-paraguay-los-suramericanos-n10283242.html",
+        "image": "https://media.lacapital.com.ar/p/91d9f7de2357db9822d22db9da0d6dfc/adjuntos/203/imagenes/103/427/0103427919/1200x675/smart/image-9.jpg",
+        "summary": "Leonardo Sosa llegó a Arroyito cuando tenía 14 años desde María Susana. Nació en Paraguay pero vive en el país desde los seis meses.",
         "pubDate": "2026-09-26T17:58:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Un arquero de las inferiores de Central fue medalla de oro con Paraguay en los Suramericanos",
-        "link": "https://www.lacapital.com.ar/ovacion/un-arquero-las-inferiores-central-fue-medalla-oro-paraguay-los-suramericanos-n10283242.html",
-        "image": "https://media.lacapital.com.ar/p/91d9f7de2357db9822d22db9da0d6dfc/adjuntos/203/imagenes/103/427/0103427919/1200x675/smart/image-9.jpg",
-        "summary": "Leonardo Sosa llegó a Arroyito cuando tenía 14 años desde María Susana. Nació en Paraguay pero vive en el país desde los seis meses.",
+        "title": "Central busca el brillo de otra estrella ante Estudiantes en la Supercopa Internacional",
+        "link": "https://www.lacapital.com.ar/ovacion/central-busca-el-brillo-otra-estrella-estudiantes-la-supercopa-internacional-n10283290.html",
+        "image": "https://media.lacapital.com.ar/p/3f1e4544847089db944ee7cce1cf1fce/adjuntos/203/imagenes/103/428/0103428419/aadd.jpeg",
+        "summary": "Define con Estudiantes de La Plata en el estadio Madre de Ciudades de Santiago del Estero. Va por el noveno título en la era profesional",
         "pubDate": "2026-09-26T17:58:00+00:00",
         "approxTime": false
       },
@@ -236,42 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/f28c13a5dffc31db64da7c096d60f81e/adjuntos/203/imagenes/103/428/0103428657/hinchas-central-santiago-del-estero-1.jpeg",
         "summary": "La previa de la Supercopa Internacional 2026 arrancó temprano con parrillas encendidas a pesar del pronóstico de altas temperaturas",
         "pubDate": "2026-09-26T13:24:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Un ex-Newell's fue citado para enfrentar a Central en busca de su primer título",
-        "link": "https://www.lacapital.com.ar/ovacion/un-ex-newells-fue-citado-enfrentar-central-busca-su-primer-titulo-n10283311.html",
-        "image": "https://media.lacapital.com.ar/p/f5c46849ef29c08c800aed081d5f24e7/adjuntos/203/imagenes/103/428/0103428520/brian-aguirre.jpg",
-        "summary": "El delantero de Estudiantes viajó a Santiago del Estero para disputar la Supercopa Internacional en el estadio Madre de Ciudades",
-        "pubDate": "2026-09-26T12:55:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Revelaron nuevos detalles sobre un intento de femicidio en la zona norte rosarina",
-        "link": "https://www.lacapital.com.ar/policiales/revelaron-nuevos-detalles-un-intento-femicidio-la-zona-norte-rosarina-n10283302.html",
-        "image": "https://media.lacapital.com.ar/p/2d3baba34a4ddae8ec74756ced0758a8/adjuntos/203/imagenes/103/304/0103304401/1200x675/smart/centrojusticia9_jpg_1572130063_jpg_1756841869jpg_1192065467.jpg",
-        "summary": "La fiscal del caso registrado en el barrio Sarmiento denunció que Juan Andrés C. se llevó dinero de su expareja y trató de ocultar el ataque",
-        "pubDate": "2026-09-26T12:01:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cancún, una experiencia que va más allá de la playa",
-        "link": "https://www.lacapital.com.ar/turismo/cancun-una-experiencia-que-va-mas-alla-la-playa-n10283195.html",
-        "image": "https://media.lacapital.com.ar/p/5e8e5bd7389c1070dc3d00940ea4b6d7/adjuntos/203/imagenes/103/427/0103427585/imagen-nota.jpg",
-        "summary": "Del Caribe a la Laguna Nichupté, de los vestigios mayas a la cocina yucateca: un recorrido por los paisajes y experiencias que aparecen cuando se mira más allá",
-        "pubDate": "2026-09-26T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La experiencia de quedarse frente al mar",
-        "link": "https://www.lacapital.com.ar/la-experiencia-quedarse-frente-al-mar-n10283223.html",
-        "image": "https://media.lacapital.com.ar/p/05bd9b909ec2077171cb1f502e9eb781/adjuntos/203/imagenes/103/427/0103427702/004-002-the-pyramid-cancun-2.JPG",
-        "summary": "Oasis Hotels & Resorts propone una experiencia todo incluido que reúne descanso, gastronomía y entretenimiento para disfrutar Cancún sin salir del hotel",
-        "pubDate": "2026-09-26T10:00:00+00:00",
         "approxTime": false
       }
     ]
