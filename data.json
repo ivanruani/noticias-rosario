@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-26T19:47:25.307890+00:00",
+  "generatedAt": "2026-09-26T20:01:15.589096+00:00",
   "sites": {
     "rosario3": [
       {
         "source": "Rosario3",
-        "title": "Di María rescató a Central de tiro libre y ahora empata con Estudiantes por la Supercopa Internacional",
+        "title": "Di María rescató a Central, que empata con Estudiantes por la Supercopa Internacional",
         "link": "https://www.rosario3.com/deportes/rosario-central-y-estudiantes-una-final-con-morbo-y-por-otra-estrella-en-santiago-se-pone-en-juego-la-supercopa-internacional-20260925-0053.html",
         "image": "https://www.rosario3.com/__export/1790451956044/sites/rosario3/img/2026/09/26/di_maria_central_estudiantes.jpg_506286608.jpg",
         "summary": "El Canalla y el Pincha se enfrentan este sábado en el estadio Madre de ciudades por el título que reúne al campeón de la Liga Profesional 2025 y al ganador del Trofeo de Campeones. Jorge Almirón tiene varias bajas y realiza cuatro cambios. Darío Herrera será el árbitro y…",
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Tumbaron un búnker de Villa Banana que controlaba la banda del \"Clan Muñoz\"",
+        "link": "https://www.lacapital.com.ar/policiales/tumbaron-un-bunker-villa-banana-que-controlaba-la-banda-del-clan-munoz-n10283324.html",
+        "image": "https://media.lacapital.com.ar/p/bc8e78d1323df33acf1436e36c8f973f/adjuntos/203/imagenes/103/428/0103428852/1200x675/smart/bani.jpg",
+        "summary": "Fueron los responsables de la muerte del policía federal Rodolfo Manfredi en junio pasado en extrañas circunstancias. El lugar de venta de drogas estaba en Cerrito y las vías",
+        "pubDate": "2026-09-26T19:53:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Pedro Rosemblat adelantó cómo será su casamiento con Lali Espósito",
+        "link": "https://www.lacapital.com.ar/zoom/pedro-rosemblat-adelanto-como-sera-su-casamiento-lali-esposito-n10283358.html",
+        "image": "https://media.lacapital.com.ar/p/c544f8a3183c5413d8460cae77905944/adjuntos/203/imagenes/101/442/0101442494/1200x675/smart/pedro-rosemblat-lali-esposito.jpg",
+        "summary": "El conductor estuvo como invitado en el programa de Mario Pergolini y aseguró que será un evento “íntimo”",
+        "pubDate": "2026-09-26T19:49:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Un jugador de Estudiantes tuvo que salir derecho al hospital y el que lo reemplazó se lesionó también",
         "link": "https://www.lacapital.com.ar/ovacion/un-jugador-estudiantes-tuvo-que-salir-derecho-al-hospital-y-el-que-lo-reemplazo-se-lesiono-tambien-n10283365.html",
         "image": "https://media.lacapital.com.ar/p/d98210f17c62d51e411272e9a0deaf82/adjuntos/203/imagenes/103/429/0103429188/1200x675/smart/image-1.jpg",
@@ -177,15 +195,6 @@
       },
       {
         "source": "La Capital",
-        "title": "Un influencer de caza subió fotos tras matar aves protegidas por ley en Santa Fe y fue denunciado",
-        "link": "https://www.lacapital.com.ar/la-region/un-influencer-caza-subio-fotos-matar-aves-protegidas-ley-santa-fe-y-fue-denunciado-n10283006.html",
-        "image": "https://media.lacapital.com.ar/p/50e026308c05fcb8106f55449375adfc/adjuntos/203/imagenes/103/429/0103429091/1200x675/smart/image-2026-09-26t161621117.png",
-        "summary": "La presentación fue efectuada por el Ministerio de Ambiente provincial a partir de la difusión del contenido por parte de una organización ambientalista",
-        "pubDate": "2026-09-26T19:17:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "Primera C: Central Córdoba y Argentino, con resultados dispares en la fecha 30",
         "link": "https://www.lacapital.com.ar/ovacion/primera-c-central-cordoba-y-argentino-resultados-dispares-la-fecha-30-n10283354.html",
         "image": "https://media.lacapital.com.ar/p/a2c35726ce394c5f4a17c4928a5c0a76/adjuntos/203/imagenes/103/429/0103429065/1200x675/smart/image-2026-09-26t153720526.png",
@@ -195,9 +204,18 @@
       },
       {
         "source": "La Capital",
-        "title": "En vivo: Ángel Di María le entró con rosca en un tiro libre y anotó un golazo",
-        "link": "https://www.lacapital.com.ar/ovacion/en-vivo-angel-di-maria-le-entro-rosca-un-tiro-libre-y-anoto-un-golazo-n10283285.html",
-        "image": "https://media.lacapital.com.ar/p/2ef4e3fab49dfc338781d7d7ed69402f/adjuntos/203/imagenes/103/429/0103429141/1200x675/smart/image-2026-09-26t162858299.png",
+        "title": "Un influencer de caza subió fotos tras matar aves protegidas por ley en Santa Fe y fue denunciado",
+        "link": "https://www.lacapital.com.ar/la-region/un-influencer-caza-subio-fotos-matar-aves-protegidas-ley-santa-fe-y-fue-denunciado-n10283006.html",
+        "image": "https://media.lacapital.com.ar/p/50e026308c05fcb8106f55449375adfc/adjuntos/203/imagenes/103/429/0103429091/1200x675/smart/image-2026-09-26t161621117.png",
+        "summary": "La presentación fue efectuada por el Ministerio de Ambiente provincial a partir de la difusión del contenido por parte de una organización ambientalista",
+        "pubDate": "2026-09-26T19:17:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "En vivo: Axel Werner estuvo bien parado y tapó un fuerte remate de Mancuso",
+        "link": "https://www.lacapital.com.ar/ovacion/en-vivo-axel-werner-estuvo-bien-parado-y-tapo-un-fuerte-remate-mancuso-n10283285.html",
+        "image": "https://media.lacapital.com.ar/p/49e1d0728ed7bc63cdeb5cc432d29426/adjuntos/203/imagenes/103/429/0103429190/1200x675/smart/image-2026-09-26t164405952.png",
         "summary": "Central busca un nuevo título para su vitrina, ante el duro Estudiantes en Santiago del Estero. Seguilo en vivo por La Capital.",
         "pubDate": "2026-09-26T19:14:00+00:00",
         "approxTime": false
@@ -231,19 +249,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Fuerte castigo de la FIA a Franco Colapinto por el choque en el GP de Azerbaiyán de Fórmula 1",
-        "link": "https://www.lacapital.com.ar/ovacion/fuerte-castigo-la-fia-franco-colapinto-el-choque-el-gp-azerbaiyan-formula-1-n10283351.html",
-        "image": "https://media.lacapital.com.ar/p/5639e10cbcdd392fe87c8ac3b385ef56/adjuntos/203/imagenes/103/429/0103429040/1200x675/smart/image-11.jpg",
-        "summary": "El piloto argentino fue el responsable de un triple choque que lo sacó de la carrera, al igual que a Pierre Gasly y Lando Norris",
+        "title": "\"Fue un error grave\": la autocrítica de Colapinto luego del triple choque que protagonizó en la Fórmula 1",
+        "link": "https://www.lacapital.com.ar/ovacion/fue-un-error-grave-la-autocritica-colapinto-luego-del-triple-choque-que-protagonizo-la-formula-1-n10283355.html",
+        "image": "https://media.lacapital.com.ar/p/75371311bf97cbd75fd58a3540f061ec/adjuntos/203/imagenes/103/429/0103429042/1200x675/smart/image-12.jpg",
+        "summary": "El argentino habló después de quedar afuera de la carrera por un fallo suyo que también obligó a abandonar a Gasly y Norris",
         "pubDate": "2026-09-26T18:14:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "\"Fue un error grave\": la autocrítica de Colapinto luego del triple choque que protagonizó en la Fórmula 1",
-        "link": "https://www.lacapital.com.ar/ovacion/fue-un-error-grave-la-autocritica-colapinto-luego-del-triple-choque-que-protagonizo-la-formula-1-n10283355.html",
-        "image": "https://media.lacapital.com.ar/p/75371311bf97cbd75fd58a3540f061ec/adjuntos/203/imagenes/103/429/0103429042/1200x675/smart/image-12.jpg",
-        "summary": "El argentino habló después de quedar afuera de la carrera por un fallo suyo que también obligó a abandonar a Gasly y Norris",
+        "title": "Fuerte castigo de la FIA a Franco Colapinto por el choque en el GP de Azerbaiyán de Fórmula 1",
+        "link": "https://www.lacapital.com.ar/ovacion/fuerte-castigo-la-fia-franco-colapinto-el-choque-el-gp-azerbaiyan-formula-1-n10283351.html",
+        "image": "https://media.lacapital.com.ar/p/5639e10cbcdd392fe87c8ac3b385ef56/adjuntos/203/imagenes/103/429/0103429040/1200x675/smart/image-11.jpg",
+        "summary": "El piloto argentino fue el responsable de un triple choque que lo sacó de la carrera, al igual que a Pierre Gasly y Lando Norris",
         "pubDate": "2026-09-26T18:14:00+00:00",
         "approxTime": false
       },
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/886f1b1dcd7cbdfa7338adf13bc6a0e1/adjuntos/203/imagenes/103/428/0103428988/1200x675/smart/jubilados1.jpg",
         "summary": "El Frente de Jubilados en Lucha organizó una jornada en el Día del Jubilado, con shows, música y baile",
         "pubDate": "2026-09-26T18:12:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central tiene equipo confirmado para la gran final: Almirón mantiene a Werner pero mete cuatro cambios",
-        "link": "https://www.lacapital.com.ar/ovacion/central-tiene-equipo-confirmado-la-gran-final-almiron-mantiene-werner-pero-mete-cuatro-cambios-n10283296.html",
-        "image": "https://media.lacapital.com.ar/p/2a62d632ff8120783a56e73d2969945a/adjuntos/203/imagenes/103/428/0103428448/almironcml.jpeg",
-        "summary": "El DT canalla dejó otra vez a Ledesma en el banco. Vuelve Emanuel Coronel y juegan Federico Navarro, Giovanni Cantizano y Gaspar Duarte",
-        "pubDate": "2026-09-26T18:09:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Día de la Seguridad Vial Infantil en Santa Fe: la importancia de cuidar a los más chicos",
-        "link": "https://www.lacapital.com.ar/motores/dia-la-seguridad-vial-infantil-santa-fe-la-importancia-cuidar-los-mas-chicos-n10283154.html",
-        "image": "https://media.lacapital.com.ar/p/84b082586354310e628b93a22c0ca453/adjuntos/203/imagenes/103/427/0103427069/1200x675/smart/seguridad-vial-infantil.jpg",
-        "summary": "La Agencia Provincial de Seguridad Vial difundió estadísticas y recomendaciones para proteger a las infancias de los riegos viales durante los traslados en vehículos",
-        "pubDate": "2026-09-26T17:59:00+00:00",
         "approxTime": false
       }
     ]
