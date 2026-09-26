@@ -1,8 +1,18 @@
 name: Actualizar noticias
 
+# El cron de GitHub Actions ("schedule") no es confiable para intervalos
+# cortos: en la practica, GitHub puede posponer estas corridas varias
+# horas, sobre todo en repos publicos con poca actividad. Por eso este
+# workflow tambien escucha "repository_dispatch": un servicio externo
+# (cron-job.org) llama a la API de GitHub cada 30 minutos para disparar
+# el evento "actualizar-noticias" de forma puntual. El cron de abajo
+# queda como respaldo (corre una vez por hora, en un minuto que no es
+# ni :00 ni :30, para evitar el momento de mas congestion).
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "13 * * * *"
+  repository_dispatch:
+    types: [actualizar-noticias]
   workflow_dispatch: {}
 
 permissions:
