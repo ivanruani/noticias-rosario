@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T23:01:18.164032+00:00",
+  "generatedAt": "2026-09-26T23:31:02.621435+00:00",
   "sites": {
     "rosario3": [
       {
@@ -40,11 +40,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Comenzó la ceremonia de clausura de los Juegos Suramericanos: cómo es el cierre este sábado en Rosario, Santa Fe y Rafaela",
-        "link": "https://www.rosario3.com/informaciongeneral/cuando-terminan-y-como-se-despiden-los-xiii-juegos-suramericanos-en-santa-fe-20260924-0024.html",
-        "image": "https://www.rosario3.com/__export/1790257988625/sites/rosario3/img/2026/09/24/ff.jpg_928314581.jpg",
-        "summary": "Durante la jornada en la que se realizarán ceremonias de clausura en cada una de las sedes. La vocera del gobierno provincial, Virginia Coudannes, brindó los detalles sobre Rosario y Rafaela",
-        "pubDate": "2026-09-24T11:56:00+00:00",
+        "title": "En una participación histórica, Argentina concluyó como escolta del medallero en los Juegos Suramericanos Santa Fe 2026",
+        "link": "https://www.rosario3.com/deportes/en-una-participacion-historica-argentina-concluyo-como-escolta-del-medallero-en-los-juegos-suramericanos-santa-fe-2026-20260926-0024.html",
+        "image": "https://www.rosario3.com/__export/1789781394894/sites/rosario3/img/2026/09/18/medallas_capi_2.jpg_1825222445.jpg",
+        "summary": "La delegación nacional acumuló un total de 293 preseas y finalizó en el segundo lugar por detrás de Brasil. Con 81 títulos dorados, la representación albiceleste superó con amplitud la marca alcanzada en la edición anterior de Asunción 2022. Uno por uno, todos los medallistas",
+        "pubDate": "2026-09-26T11:56:00+00:00",
         "approxTime": true
       },
       {
@@ -60,7 +60,7 @@
         "source": "Rosario3",
         "title": "Incidentes entre Central y Estudiantes: el Pincha retiró el equipo, volaron piñas y Verón apuntó al árbitro Herrera",
         "link": "https://www.rosario3.com/deportes/incidentes-entre-central-y-estudiantes-el-pincha-retiro-el-equipo-volaron-pinas-y-veron-apunto-al-arbitro-herrera-20260926-0026.html",
-        "image": "https://www.rosario3.com/__export/1790458126716/sites/rosario3/img/2026/09/26/central_gol.jpg_928314580.jpg",
+        "image": "https://www.rosario3.com/__export/1790463805691/sites/rosario3/img/2026/09/26/veron.jpg_506286608.jpg",
         "summary": "Con un Estudiantes tirado al ataque, el Canalla sentenció el partido con un contragolpe letal que culminó en gol de Julián Fernández. A partir de ese momento hubo golpes de puño luego entre los planteles, tanto en la cancha como en el túnel camino a los vestuarios, cuando el…",
         "pubDate": "2026-09-26T11:54:00+00:00",
         "approxTime": true
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Jorge Almirón tocó el cielo auriazul con las manos por la obtención de la Superliga Internacional",
+        "link": "https://www.lacapital.com.ar/ovacion/jorge-almiron-toco-el-cielo-auriazul-las-manos-la-obtencion-la-superliga-internacional-n10283395.html",
+        "image": "https://media.lacapital.com.ar/p/3a00f509e92c2bc9280fda6bb179a043/adjuntos/203/imagenes/103/429/0103429618/1200x675/smart/image-2026-09-26t201128605.png",
+        "summary": "El entrenador, resistido por las eliminaciones en el Apertura, la Libertadores y la Copa Argentina, se reivindicó y entró en la historia de Central",
+        "pubDate": "2026-09-26T23:19:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Ángel Di María, la estrella de Central que brilla y resplandece como el sol",
+        "link": "https://www.lacapital.com.ar/ovacion/angel-di-maria-la-estrella-central-que-brilla-y-resplandece-como-el-sol-n10283398.html",
+        "image": "https://media.lacapital.com.ar/p/cb5de928c70c5b9d280f1c35348e34d4/adjuntos/203/imagenes/103/429/0103429527/1200x675/smart/image-5.jpg",
+        "summary": "Fideo, ese campeón del mundo que volvió a Arroyito por más gloria de la que ya tenía, fue la bandera de este equipo canalla que volvió a gritar campeón",
+        "pubDate": "2026-09-26T23:04:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "La premiación de Central, con camisetas para la ocasión, sin pasillo y aplausos de Estudiantes",
         "link": "https://www.lacapital.com.ar/ovacion/la-premiacion-central-camisetas-la-ocasion-pasillo-y-aplausos-estudiantes-n10283392.html",
         "image": "https://media.lacapital.com.ar/p/2d1a1447d12b265a303567c105af5ef6/adjuntos/203/imagenes/103/429/0103429523/1200x675/smart/image-4.jpg",
@@ -171,7 +189,7 @@
         "title": "Juegos Suramericanos: ya está en marcha la ceremonia de clausura",
         "link": "https://www.lacapital.com.ar/zoom/juegos-suramericanos-ya-esta-marcha-la-ceremonia-clausura-n10283391.html",
         "image": "https://media.lacapital.com.ar/p/eda47f9aa4043e565db219fdc9eecdeb/adjuntos/203/imagenes/103/429/0103429455/1200x675/smart/image-2026-09-26t194134018.jpg",
-        "summary": "El evento de cierre comenzó a las 19 en la ciudad de Santa Fe: habrá desfile de las delegaciones, traspaso de banderas, homenaje a los voluntarios y el apagado del fuego olímpico",
+        "summary": "El evento de cierre comenzó a las 19 en la capital provincial, con el desfile de las delegaciones, traspaso de banderas, homenaje a los voluntarios y el apagado del fuego olímpico. El presidente del Comité Olímpico Argentino afirmó que esta edición del certamen fue la que más…",
         "pubDate": "2026-09-26T22:00:00+00:00",
         "approxTime": false
       },
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/59569501273b45ee2a5885c0ede4cdb3/adjuntos/203/imagenes/103/429/0103429189/1200x675/smart/image.png",
         "summary": "Atlético del Rosario hizo un digno partido en el Pasaje Gould ante el puntero, en un partido try a try. La permanencia sigue en veremos",
         "pubDate": "2026-09-26T20:28:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Un thriller dramático italiano llegó a Netflix",
-        "link": "https://www.lacapital.com.ar/zoom/un-thriller-dramatico-italiano-llego-netflix-n10283191.html",
-        "image": "https://media.lacapital.com.ar/p/214a61f1da7fac42a6dbd1606b55574a/adjuntos/203/imagenes/103/427/0103427334/1200x675/smart/image-7.png",
-        "summary": "En ocho capítulos, la serie sigue a un joven que ingresa en una escuela militar para investigar sobre la desaparición de su amigo",
-        "pubDate": "2026-09-26T20:25:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Bullrich se diferenció otra vez de Milei y cuestionó un fallo contra periodistas en Formosa",
-        "link": "https://www.lacapital.com.ar/politica/bullrich-se-diferencio-otra-vez-milei-y-cuestiono-un-fallo-contra-periodistas-formosa-n10283370.html",
-        "image": "https://media.lacapital.com.ar/p/e451ff8d3442681dfa7c4b44e596f8b4/adjuntos/203/imagenes/103/429/0103429236/1200x675/smart/bullric-senado.jpg",
-        "summary": "La jefa del bloque oficialista en el Senado criticó al gobernador de esa provincia, Gildo Insfrán. “La libertad de prensa se respeta”, planteó",
-        "pubDate": "2026-09-26T20:23:00+00:00",
         "approxTime": false
       }
     ]
