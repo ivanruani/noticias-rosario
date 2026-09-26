@@ -1,23 +1,32 @@
 {
-  "generatedAt": "2026-09-26T13:31:04.103833+00:00",
+  "generatedAt": "2026-09-26T14:01:24.483538+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Alerta ambiental y posible derrumbe en el Paraná: juez solicitó medidas urgentes en predio de la ex firma Ar Zinc",
+        "link": "https://www.rosario3.com/informaciongeneral/alerta-ambiental-y-posible-derrumbe-en-el-parana-juez-solicito-medidas-urgentes-en-predio-de-la-ex-firma-ar-zinc-20260926-0006.html",
+        "image": "https://www.rosario3.com/__export/1790429328670/sites/rosario3/img/2026/09/26/arzinc.jpg_672794304.jpg",
+        "summary": "El magistrado Eugenio Romanini dispuso medidas “urgentes” para el predio de AR ZINC en Fray Luis Beltrán: deberá presentar en 10 días un plan para tratar o remover los residuos y ejecutar las obras bajo supervisión estatal. La fábrica, propiedad de la multinacional Glencore…",
+        "pubDate": "2026-09-26T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Mugre bajo la alfombra: la precaria realidad de las trabajadoras que limpian casas en Rosario",
         "link": "https://www.rosario3.com/informaciongeneral/mugre-bajo-la-alfombra-la-precaria-realidad-de-las-trabajadoras-que-limpian-casas-en-rosario-20260920-0025.html",
         "image": "https://www.rosario3.com/__export/1789943961129/sites/rosario3/img/2026/09/20/cp1.jpg_928314581.jpg",
         "summary": "A los salarios insuficientes que cobran históricamente y la creciente informalización, se suman los recortes de horas a los que recurren sus empleadores cuando son despedidos o no les cierran las cuentas. Una foto del trabajo doméstico en la ciudad, con las voces de dos “chicas…",
-        "pubDate": "2026-09-20T12:00:00+00:00",
+        "pubDate": "2026-09-20T11:59:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "El ruido, el contaminante invisible: cómo se mide, cuándo puede afectar la audición y qué dice la normativa",
-        "link": "https://www.rosario3.com/informaciongeneral/el-ruido-el-contaminante-invisible-como-se-mide-cuando-puede-afectar-la-audicion-y-que-dice-la-normativa-20260924-0040.html",
-        "image": "https://www.rosario3.com/__export/1790267816540/sites/rosario3/img/2026/09/24/contaminacion_sonora.png_786111822.png",
-        "summary": "El ingeniero en sonido Pablo Miechi explicó qué son los decibeles, cómo se determina el nivel de exposición y cuáles son los principales riesgos vinculados al ruido. Además, realizó una medición en una esquina de Rosario que registró un promedio de 69,7 decibeles durante cinco…",
-        "pubDate": "2026-09-24T11:59:00+00:00",
+        "title": "Susto en inmediaciones de la terminal por el incendio de basura en un terreno baldío",
+        "link": "https://www.rosario3.com/informaciongeneral/susto-en-inmediaciones-de-la-terminal-por-el-incendio-de-basura-en-un-terreno-baldio-20260926-0007.html",
+        "image": "https://www.rosario3.com/__export/1790430175787/sites/rosario3/img/2026/09/26/whatsapp_image_2026-09-26_at_09_30_20_version1790430127375.jpeg_1768679257.jpeg",
+        "summary": "El fuego se desató en un predio ubicado en Pasaje Quintanilla al 600, lindero a un hotel. Bomberos Voluntarios ingresaron al lugar y lograron controlar las llamas que afectaban distintos montículos de residuos.",
+        "pubDate": "2026-09-26T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,16 +35,7 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/charlas-de-mercado-los-agentes-vuelven-a-la-bolsa-20260926-0004.html",
         "image": "https://www.rosario3.com/__export/1790424994347/sites/rosario3/img/2024/11/05/bolsa-de-comercio-.jpg_1768679290.jpg",
         "summary": "Los operadores bursátiles de la región buscan ocupar un lugar institucional más protagónico en las conversaciones para el desarrollo del mercado de capitales, y la realización el próximo lunes del evento “Miradas al Futuro” servirá para presentar en público el renovado impulso…",
-        "pubDate": "2026-09-26T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Rosario Central y Estudiantes, una final con morbo y por otra estrella: en Santiago se pone en juego la Supercopa Internacional",
-        "link": "https://www.rosario3.com/deportes/rosario-central-y-estudiantes-una-final-con-morbo-y-por-otra-estrella-en-santiago-se-pone-en-juego-la-supercopa-internacional-20260925-0053.html",
-        "image": "https://www.rosario3.com/__export/1790371385341/sites/rosario3/img/2026/09/25/rc-estu.jpg_928314580.jpg",
-        "summary": "El Canalla y el Pincha se enfrentan este sábado en el estadio Madre de ciudades por el título que reúne al campeón de la Liga Profesional 2025 y al ganador del Trofeo de Campeones. Jorge Almirón tendrá varias bajas y deberá rearmar el equipo. Darío Herrera será el árbitro y…",
-        "pubDate": "2026-09-25T11:57:00+00:00",
+        "pubDate": "2026-09-26T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -58,38 +58,38 @@
       },
       {
         "source": "Rosario3",
-        "title": "Todos los datos en la previa a la final entre Rosario Central y Estudiantes de La Plata en Santiago del Estero",
-        "link": "https://www.rosario3.com/deportes/todos-los-datos-en-la-previa-a-la-final-entre-rosario-central-y-estudiantes-de-la-plata-en-santiago-del-estero-20260925-0019.html",
-        "image": "https://www.rosario3.com/__export/1789329549412/sites/rosario3/img/2026/09/13/central_tigre.jpg_506286608.jpg",
-        "summary": "Los Canallas enfrentarán a Estudiantes, rival ante el que tienen antecedentes muy parejos aunque en el último tiempo los eliminó 2 veces; aún quedan entradas disponibles",
-        "pubDate": "2026-09-25T11:54:00+00:00",
+        "title": "El ruido, el contaminante invisible: cómo se mide, cuándo puede afectar la audición y qué dice la normativa",
+        "link": "https://www.rosario3.com/informaciongeneral/el-ruido-el-contaminante-invisible-como-se-mide-cuando-puede-afectar-la-audicion-y-que-dice-la-normativa-20260924-0040.html",
+        "image": "https://www.rosario3.com/__export/1790267816540/sites/rosario3/img/2026/09/24/contaminacion_sonora.png_786111822.png",
+        "summary": "El ingeniero en sonido Pablo Miechi explicó qué son los decibeles, cómo se determina el nivel de exposición y cuáles son los principales riesgos vinculados al ruido. Además, realizó una medición en una esquina de Rosario que registró un promedio de 69,7 decibeles durante cinco…",
+        "pubDate": "2026-09-24T11:54:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Seis medallas rosarinas en una penúltima jornada inolvidable de los Juegos Suramericanos Santa Fe 2026",
-        "link": "https://www.rosario3.com/deportes/seis-medallas-rosarinas-en-una-penultima-jornada-inolvidable-de-los-juegos-suramericanos-santa-fe-2026-20260925-0065.html",
-        "image": "https://www.rosario3.com/__export/1790384276973/sites/rosario3/img/2026/09/25/alma_pueyo.jpg_928314580.jpg",
-        "summary": "Una de oro, 3 de plata y 2 de bronce. Los protagonistas fueron Luisina Giovannini, Franco Domínguez Ávila, Luciano Ambrogi, Guillermina Cossio y Alma Pueyo López. Este sábado se apaga el fuego",
+        "title": "Todos los datos en la previa a la final entre Rosario Central y Estudiantes de La Plata en Santiago del Estero",
+        "link": "https://www.rosario3.com/deportes/todos-los-datos-en-la-previa-a-la-final-entre-rosario-central-y-estudiantes-de-la-plata-en-santiago-del-estero-20260925-0019.html",
+        "image": "https://www.rosario3.com/__export/1789329549412/sites/rosario3/img/2026/09/13/central_tigre.jpg_506286608.jpg",
+        "summary": "Los Canallas enfrentarán a Estudiantes, rival ante el que tienen antecedentes muy parejos aunque en el último tiempo los eliminó 2 veces; aún quedan entradas disponibles",
         "pubDate": "2026-09-25T11:53:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Una rosarina logró la primera medalla de oro para el tenis argentino en los Juegos Suramericanos",
-        "link": "https://www.rosario3.com/deportes/una-rosarina-logro-la-primera-medalla-de-oro-para-el-tenis-argentino-en-los-juegos-suramericanos-20260925-0058.html",
-        "image": "https://www.rosario3.com/__export/1790372984097/sites/rosario3/img/2026/09/25/giovannini.jpg_928314581.jpg",
-        "summary": "Luisina Giovannini y Jazmin Ortenzi se consagraron campeonas en la final de dobles femenino al derrotar 6-2 y 6-4 a la dupla chilena en el partido decisivo del certamen",
+        "title": "Rosario Central y Estudiantes, una final con morbo y por otra estrella: en Santiago se pone en juego la Supercopa Internacional",
+        "link": "https://www.rosario3.com/deportes/rosario-central-y-estudiantes-una-final-con-morbo-y-por-otra-estrella-en-santiago-se-pone-en-juego-la-supercopa-internacional-20260925-0053.html",
+        "image": "https://www.rosario3.com/__export/1790371385341/sites/rosario3/img/2026/09/25/rc-estu.jpg_928314580.jpg",
+        "summary": "El Canalla y el Pincha se enfrentan este sábado en el estadio Madre de ciudades por el título que reúne al campeón de la Liga Profesional 2025 y al ganador del Trofeo de Campeones. Jorge Almirón tendrá varias bajas y deberá rearmar el equipo. Darío Herrera será el árbitro y…",
         "pubDate": "2026-09-25T11:52:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Iban al cine en familia y les cayó una lancha sobre la camioneta",
-        "link": "https://www.rosario3.com/informaciongeneral/una-de-terror-iban-al-cine-en-familia-y-les-cayo-una-lancha-sobre-la-camioneta-20260925-0060.html",
-        "image": "https://www.rosario3.com/__export/1790375609798/sites/rosario3/img/2026/09/25/accidente_lancha.jpg_506286608.jpg",
-        "summary": "Ocurrió este viernes cerca de las siete de la tarde en Presidente Perón al 7300, en la zona oeste. Por razones que se tratan de establecer, la embarcación se desprendió de un tráiler e impactó contra una chata en la que iban cinco personas rumbo a Rosario. Resultaron con golpes…",
-        "pubDate": "2026-09-25T11:51:00+00:00",
+        "title": "Agenda de los XIII Juegos Suramericanos Santa Fe 2026: qué deportes compiten en Rosario en esta última jornada, con horarios",
+        "link": "https://www.rosario3.com/deportes/agenda-de-los-xiii-juegos-suramericanos-santa-fe-2026-que-deportes-compiten-en-rosario-en-esta-ultima-jornada-con-horarios-20260920-0031.html",
+        "image": "https://www.rosario3.com/__export/1789948160612/sites/rosario3/img/2026/09/20/agenda.jpg_928314580.jpg",
+        "summary": "El cronograma completo de las actividades que se realizarán en la ciudad y cuáles otorgarán medallas",
+        "pubDate": "2026-09-20T11:51:00+00:00",
         "approxTime": true
       },
       {
@@ -204,28 +204,10 @@
       },
       {
         "source": "La Capital",
-        "title": "La experiencia de quedarse frente al mar",
-        "link": "https://www.lacapital.com.ar/la-experiencia-quedarse-frente-al-mar-n10283223.html",
-        "image": "https://media.lacapital.com.ar/p/05bd9b909ec2077171cb1f502e9eb781/adjuntos/203/imagenes/103/427/0103427702/004-002-the-pyramid-cancun-2.JPG",
-        "summary": "Oasis Hotels & Resorts propone una experiencia todo incluido que reúne descanso, gastronomía y entretenimiento para disfrutar Cancún sin salir del hotel",
-        "pubDate": "2026-09-26T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "Jujuy, el destino argentino que invita a viajar entre montañas, salares y pueblos históricos",
         "link": "https://www.lacapital.com.ar/turismo/jujuy-el-destino-argentino-que-invita-viajar-montanas-salares-y-pueblos-historicos-n10283197.html",
         "image": "https://media.lacapital.com.ar/p/956fe9f06228e926f5fb9d092846f02a/adjuntos/203/imagenes/103/427/0103427516/imagen-nota.jpg",
         "summary": "La provincia fue distinguida como Mejor Destino de Montaña de Sudamérica en los Mountain Destination Awards 2026",
-        "pubDate": "2026-09-26T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Disney+ estrena \"El rescate de los mineros chilenos\" y retoma la historia que conmovió al mundo",
-        "link": "https://www.lacapital.com.ar/zoom/disney-estrena-el-rescate-los-mineros-chilenos-y-retoma-la-historia-que-conmovio-al-mundo-n10283216.html",
-        "image": "https://media.lacapital.com.ar/p/c9de2ad4093fb88969257b7d94f01733/adjuntos/203/imagenes/103/427/0103427765/1200x675/smart/image-2026-09-25t172323034.png",
-        "summary": "La serie tiene tres capítulos y recopila desde imágenes inéditas grabadas con celulares hasta entrevistas con sobrevivientes, familiares y rescatistas. “Todos los esfuerzos de rescate fueron principalmente nacionales\", sostuvo Igor Proestakis, el ingeniero que con 24 años ideó…",
         "pubDate": "2026-09-26T10:00:00+00:00",
         "approxTime": false
       },
@@ -240,19 +222,28 @@
       },
       {
         "source": "La Capital",
-        "title": "El furor por Capi, la mascota de los Juegos Suramericanos, pone bajo la lupa la venta ilegal de carpinchos",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-furor-capi-la-mascota-los-juegos-suramericanos-pone-la-lupa-la-venta-ilegal-carpinchos-n10283200.html",
-        "image": "https://media.lacapital.com.ar/p/f4af3b184fcc709250c40552fab9d15d/adjuntos/203/imagenes/030/540/0030540021/1200x675/smart/2021-08-29-carpinchosjpg.jpg",
-        "summary": "Este ejemplar autóctono de los humedales es blanco de la crueldad de la caza furtiva y el comercio clandestino en redes sociales. Recomendaciones de las organizaciones ambientalistas",
-        "pubDate": "2026-09-26T09:30:00+00:00",
+        "title": "Disney+ estrena \"El rescate de los mineros chilenos\" y retoma la historia que conmovió al mundo",
+        "link": "https://www.lacapital.com.ar/zoom/disney-estrena-el-rescate-los-mineros-chilenos-y-retoma-la-historia-que-conmovio-al-mundo-n10283216.html",
+        "image": "https://media.lacapital.com.ar/p/c9de2ad4093fb88969257b7d94f01733/adjuntos/203/imagenes/103/427/0103427765/1200x675/smart/image-2026-09-25t172323034.png",
+        "summary": "La serie tiene tres capítulos y recopila desde imágenes inéditas grabadas con celulares hasta entrevistas con sobrevivientes, familiares y rescatistas. “Todos los esfuerzos de rescate fueron principalmente nacionales\", sostuvo Igor Proestakis, el ingeniero que con 24 años ideó…",
+        "pubDate": "2026-09-26T10:00:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Inolvidables: los Juegos Suramericanos culminan este sábado a pura fiesta y desfile",
-        "link": "https://www.lacapital.com.ar/la-ciudad/inolvidables-los-juegos-suramericanos-culminan-este-sabado-pura-fiesta-y-desfile-n10283280.html",
-        "image": "https://media.lacapital.com.ar/p/19cf7adb2951f986f146506b85a4cde6/adjuntos/203/imagenes/103/428/0103428200/1200x675/smart/82665066jpegthumb.jpg",
-        "summary": "La actividad central será en Santa Fe e incluirá el cambio de banderas oficiales y un reconocimiento a los voluntarios. Rosario también tendrá música y diversión",
+        "title": "La experiencia de quedarse frente al mar",
+        "link": "https://www.lacapital.com.ar/la-experiencia-quedarse-frente-al-mar-n10283223.html",
+        "image": "https://media.lacapital.com.ar/p/05bd9b909ec2077171cb1f502e9eb781/adjuntos/203/imagenes/103/427/0103427702/004-002-the-pyramid-cancun-2.JPG",
+        "summary": "Oasis Hotels & Resorts propone una experiencia todo incluido que reúne descanso, gastronomía y entretenimiento para disfrutar Cancún sin salir del hotel",
+        "pubDate": "2026-09-26T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El furor por Capi, la mascota de los Juegos Suramericanos, pone bajo la lupa la venta ilegal de carpinchos",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-furor-capi-la-mascota-los-juegos-suramericanos-pone-la-lupa-la-venta-ilegal-carpinchos-n10283200.html",
+        "image": "https://media.lacapital.com.ar/p/f4af3b184fcc709250c40552fab9d15d/adjuntos/203/imagenes/030/540/0030540021/1200x675/smart/2021-08-29-carpinchosjpg.jpg",
+        "summary": "Este ejemplar autóctono de los humedales es blanco de la crueldad de la caza furtiva y el comercio clandestino en redes sociales. Recomendaciones de las organizaciones ambientalistas",
         "pubDate": "2026-09-26T09:30:00+00:00",
         "approxTime": false
       },
@@ -267,10 +258,19 @@
       },
       {
         "source": "La Capital",
-        "title": "El índice de actividad agropecuaria alcanzó un máximo en agosto",
-        "link": "https://www.lacapital.com.ar/agro/el-indice-actividad-agropecuaria-alcanzo-un-maximo-agosto-n10283260.html",
-        "image": "https://media.lacapital.com.ar/p/9f2bd1c64aae5eabeda9b38744770702/adjuntos/203/imagenes/027/574/0027574965/1200x675/smart/agro_08_01_lc_69283382__08-11-2019__000x000jpg.jpg",
-        "summary": "El Iaca, indicador que elabora la Bolsa de Comercio de Rosario mostró una expansión de 1,1 % mensual y 19% interanual. Fuerte tracción de la producción primaria",
+        "title": "Inolvidables: los Juegos Suramericanos culminan este sábado a pura fiesta y desfile",
+        "link": "https://www.lacapital.com.ar/la-ciudad/inolvidables-los-juegos-suramericanos-culminan-este-sabado-pura-fiesta-y-desfile-n10283280.html",
+        "image": "https://media.lacapital.com.ar/p/19cf7adb2951f986f146506b85a4cde6/adjuntos/203/imagenes/103/428/0103428200/1200x675/smart/82665066jpegthumb.jpg",
+        "summary": "La actividad central será en Santa Fe e incluirá el cambio de banderas oficiales y un reconocimiento a los voluntarios. Rosario también tendrá música y diversión",
+        "pubDate": "2026-09-26T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Coninagro: \"Si no fuera por el cooperativismo muchas producciones ya no existirían\"",
+        "link": "https://www.lacapital.com.ar/agro/coninagro-si-no-fuera-el-cooperativismo-muchas-producciones-ya-no-existirian-n10282937.html",
+        "image": "https://media.lacapital.com.ar/p/3664d5cd7e93b3fb5f1f48f90b02f722/adjuntos/203/imagenes/103/424/0103424617/1200x675/551x245:571x265/coninagro.jpeg",
+        "summary": "Coninagro habló de productores descapitalizados y dificultades para la reconversión. A pesar de que muchas economías regionales siguen estando en situación crítica desde hace décadas, la suma sigue dando una señal positiva hacia la recuperación",
         "pubDate": "2026-09-26T09:15:00+00:00",
         "approxTime": false
       }
