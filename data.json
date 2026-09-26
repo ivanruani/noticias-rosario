@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-09-26T01:07:40.442595+00:00",
+  "generatedAt": "2026-09-26T06:20:23.094084+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Rosario registró un fuerte incremento de la indigencia y la demanda de asistencia social subió un 60% durante el último año",
+        "link": "https://www.rosario3.com/informaciongeneral/rosario-registro-un-fuerte-incremento-de-la-indigencia-y-la-demanda-de-asistencia-social-subio-un-60-durante-el-ultimo-ano-20260925-0052.html",
+        "image": "https://www.rosario3.com/__export/1790368274913/sites/rosario3/img/2025/09/26/pobreza.jpg_928314581.jpg",
+        "summary": "El secretario de Desarrollo Humano del municipio, Nicolás Gianelloni, analizó los datos difundidos por el Indec y explicó que, si bien el índice general de pobreza en la ciudad se ubicó por debajo de la media del país, la indigencia sí registró un salto. Además, destacó el rol…",
+        "pubDate": "2026-09-25T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Iban al cine en familia y les cayó una lancha sobre la camioneta",
         "link": "https://www.rosario3.com/informaciongeneral/una-de-terror-iban-al-cine-en-familia-y-les-cayo-una-lancha-sobre-la-camioneta-20260925-0060.html",
         "image": "https://www.rosario3.com/__export/1790375609798/sites/rosario3/img/2026/09/25/accidente_lancha.jpg_506286608.jpg",
         "summary": "Ocurrió este viernes cerca de las siete de la tarde en Presidente Perón al 7300, en la zona oeste. Por razones que se tratan de establecer, la embarcación se desprendió de un tráiler e impactó contra una chata en la que iban cinco personas rumbo a Rosario. Resultaron con golpes…",
-        "pubDate": "2026-09-25T12:00:00+00:00",
+        "pubDate": "2026-09-25T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/sentia-que-estaba-loca-el-adn-que-le-confirmo-a-carmen-que-habia-sido-adoptada-al-nacer-20260925-0050.html",
         "image": "https://www.rosario3.com/__export/1790367303316/sites/rosario3/img/2026/09/25/carmen_quiroga_-1-.jpg_672794304.jpg",
         "summary": "La historia de la rosarina Carmen Quiroga se ventiló la semana pasada a la Justicia federal, con la imputación de la partera Dolly Viale de Garrido, acusada de separarla de su madre biológica poco después de su nacimiento, en el Hospital Roque Sáenz Peña. Desde Bariloche, contó…",
-        "pubDate": "2026-09-25T11:59:00+00:00",
+        "pubDate": "2026-09-25T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/tiene-alzheimer-se-fue-en-auto-y-estuvo-15-horas-desaparecido-lo-encontraron-por-una-cadena-de-oyentes-de-radio-2-20260925-0027.html",
         "image": "https://www.rosario3.com/__export/1790346711228/sites/rosario3/img/2026/09/25/autopista_1.png_928314580.png",
         "summary": "Oscar vive con su hija y se llevó el auto de ella. Aparentemente quería ir a Pérez, donde tiene amigos, pero se desorientó y terminó sobre la autopista a Buenos Aires. Su familia lo buscó durante 15 horas hasta que una cadena de llamados a De boca en boca permitió ubicarlo cerca…",
-        "pubDate": "2026-09-25T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Corte total de agua en Rosario este domingo: qué trabajos realizarán y cuánto durará la interrupción",
-        "link": "https://www.rosario3.com/informaciongeneral/corte-total-de-agua-en-rosario-este-domingo-que-trabajos-realizaran-y-cuanto-durara-la-interrupcion-20260925-0043.html",
-        "image": "https://www.rosario3.com/__export/1790356956283/sites/rosario3/img/2026/09/25/aguas_domingo.png_786111822.png",
-        "summary": "La interrupción se debe a una obra programada en la Planta Potabilizadora Arroyito para renovar componentes del sistema de impulsión. Desde Aguas pidieron hacer un uso responsable de las reservas domiciliarias durante la jornada",
         "pubDate": "2026-09-25T11:57:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,78 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Recorrida semanal",
+        "link": "https://www.lacapital.com.ar/es-social/recorrida-semanal-n10282659.html",
+        "image": "https://media.lacapital.com.ar/p/75414a186ab5d0ed9abb9897ec51ae69/adjuntos/203/imagenes/103/421/0103421114/1200x675/smart/rock-6.jpg",
+        "summary": "La Capital",
+        "pubDate": "2026-09-26T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Alto Rosario también te ofrece las mejores meriendas",
+        "link": "https://www.lacapital.com.ar/es-social/alto-rosario-tambien-te-ofrece-las-mejores-meriendas-n10282488.html",
+        "image": "https://media.lacapital.com.ar/p/031bdda3716c26fec2be33abd85c8bff/adjuntos/203/imagenes/103/419/0103419268/1200x675/smart/altomeriendas-2.jpg",
+        "summary": "La Capital",
+        "pubDate": "2026-09-26T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Experiencia Endeavor Rosario 2026",
+        "link": "https://www.lacapital.com.ar/es-social/experiencia-endeavor-rosario-2026-n10282676.html",
+        "image": "https://media.lacapital.com.ar/p/bbb74fc8dc26e03ef8a23e9a9c99acbc/adjuntos/203/imagenes/103/421/0103421297/1200x675/smart/endeavor-1.jpg",
+        "summary": "La Capital",
+        "pubDate": "2026-09-26T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Carolina Della Ceca volvió a hacer vibrar Metropolitano con la 25ª edición de Lanka Models Mega Fashion Show",
+        "link": "https://www.lacapital.com.ar/es-social/carolina-della-ceca-volvio-hacer-vibrar-metropolitano-la-25-edicion-lanka-models-mega-fashion-show-n10282662.html",
+        "image": "https://media.lacapital.com.ar/p/d22864f0a3e409da5d25280360cda4bd/adjuntos/203/imagenes/103/421/0103421120/1200x675/smart/desfile-1.jpg",
+        "summary": "La Capital",
+        "pubDate": "2026-09-26T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Gimnasia con formas esféricas en el Instituto Mirta de Fussi",
+        "link": "https://www.lacapital.com.ar/es-social/gimnasia-formas-esfericas-el-instituto-mirta-fussi-n10282665.html",
+        "image": "https://media.lacapital.com.ar/p/44ef61e0ebb6257a694d14312ae83ffb/adjuntos/203/imagenes/103/421/0103421131/1200x675/smart/01-esferasjpg-1.jpeg",
+        "summary": "La Capital",
+        "pubDate": "2026-09-26T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Juegos Suramericanos: más medallas de Argentina y agenda rosarina del último día de competencia",
+        "link": "https://www.lacapital.com.ar/juegos-suramericanos/juegos-suramericanos-mas-medallas-argentina-y-agenda-rosarina-del-ultimo-dia-competencia-n10283286.html",
+        "image": "https://media.lacapital.com.ar/p/4228c2414f3f6fa60375ebe3dfd4ca08/adjuntos/203/imagenes/103/428/0103428434/1200x675/smart/suramericanos-ambrogi.jpeg",
+        "summary": "En un viernes fructífero, la delegación albiceleste se hizo presente en los podios y alcanzó las 78 preseas doradas. Agenda del sábado que cierra los Juegos",
+        "pubDate": "2026-09-26T02:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Ivo Dargoltz, del tatami de GER a las medallas en los Juegos Suramericanos y el Mundial de Bakú",
+        "link": "https://www.lacapital.com.ar/juegos-suramericanos/ivo-dargoltz-del-tatami-ger-las-medallas-los-juegos-suramericanos-y-el-mundial-baku-n10283293.html",
+        "image": "https://media.lacapital.com.ar/p/cc7d11ab0cc0c67d41960ff64cdb0026/adjuntos/203/imagenes/103/428/0103428431/1200x675/smart/image-6.jpg",
+        "summary": "El judoca rosarino fue homenajeado en Gimnasia y Esgrima tras sus dos bronces en los Juegos Suramericanos. Ahora afrontará su primer Mundial senior en Azerbaiyán",
+        "pubDate": "2026-09-26T01:54:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El tiempo en Rosario: el sábado será un poco caluroso y puede cerrar con lluvias",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-el-sabado-sera-un-poco-caluroso-y-puede-cerrar-lluvias-n10283294.html",
+        "image": "https://media.lacapital.com.ar/p/fab794742941434ca1cc4311ed3bad50/adjuntos/203/imagenes/103/389/0103389700/2026-09-08-clima-by_ssmeccia-74610964.jpg",
+        "summary": "Después de un repunte en las temperaturas que se profundizó en el último tramo de la semana, las chances de inestabilidad empiezan a crecer",
+        "pubDate": "2026-09-26T01:50:06+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Juegos Suramericanos: con la rosarina Giovannini, el tenis ofreció su oro en el doble femenino",
         "link": "https://www.lacapital.com.ar/juegos-suramericanos/juegos-suramericanos-la-rosarina-giovannini-el-tenis-ofrecio-su-oro-el-doble-femenino-n10283278.html",
         "image": "https://media.lacapital.com.ar/p/7e61f87259c1905f7f620e43f97f0be3/adjuntos/203/imagenes/103/428/0103428235/tenissss.jpeg",
@@ -200,78 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/431ff75c12ac2c08d7ba7b501ae0d257/adjuntos/203/imagenes/103/428/0103428146/1200x675/smart/image.png",
         "summary": "El expresidente desembarcó en Jujuy, donde se reunió con el gobernador Sadir y encabezó un encuentro con referentes del partido amarillo",
         "pubDate": "2026-09-25T22:56:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Galletitas con chips de chocolate: una receta infalible y deliciosa",
-        "link": "https://www.lacapital.com.ar/informacion-general/galletitas-chips-chocolate-una-receta-infalible-y-deliciosa-n10282999.html",
-        "image": "https://media.lacapital.com.ar/p/0e355b7150eb40b2c1aab91772c15af8/adjuntos/203/imagenes/103/425/0103425029/1200x675/smart/image-2.png",
-        "summary": "Ideales para acompañar juntadas y llevar a cualquier reunión, las galletitas con chips de chocolate son un clásico. Cuáles son los trucos para que salgan perfectas",
-        "pubDate": "2026-09-25T22:46:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Asoma un nuevo alerta amarillo por tormentas para Rosario",
-        "link": "https://www.lacapital.com.ar/la-ciudad/asoma-un-nuevo-alerta-amarillo-tormentas-rosario-n10283262.html",
-        "image": "https://media.lacapital.com.ar/p/8ed6ce4cdf1a4fd5c0cd0101163729e7/adjuntos/203/imagenes/103/312/0103312458/lluvia-alerta-amarillo-tormentas.png",
-        "summary": "El Servicio Meteorológico Nacional prevé que parte del fin de semana esté dominado por eventos de distinta intensidad en todo el sur de Santa Fe",
-        "pubDate": "2026-09-25T22:34:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Después de las petroleras extranjeras, YPF aumenta sus combustibles desde este sábado",
-        "link": "https://www.lacapital.com.ar/economia/despues-las-petroleras-extranjeras-ypf-aumenta-sus-combustibles-este-sabado-n10283254.html",
-        "image": "https://media.lacapital.com.ar/p/e1997462bb9f050105e191efe814f293/adjuntos/203/imagenes/101/371/0101371960/1200x675/smart/naftapng.png",
-        "summary": "El incremento se da en medio de la escalada del precio internacional del Brent y no descartaron hacer más ajustes de precios",
-        "pubDate": "2026-09-25T22:14:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Una miniserie judicial brasilera desembarcó con fuerza en Netflix",
-        "link": "https://www.lacapital.com.ar/zoom/una-miniserie-judicial-brasilera-desembarco-fuerza-netflix-n10282988.html",
-        "image": "https://media.lacapital.com.ar/p/59ea704e0712adcb8b7270fc5dbfd57c/adjuntos/203/imagenes/103/424/0103424885/1200x675/smart/image.png",
-        "summary": "La trama sigue a un grupo de estudiantes de Derecho que intentan limpiar el nombre de un sentenciado, lo que los lleva a destapar una oscura conspiración",
-        "pubDate": "2026-09-25T21:57:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Compró drogas con pertenencias de sus padres y el vendedor lo amenazó, pero lo detuvieron",
-        "link": "https://www.lacapital.com.ar/policiales/compro-drogas-pertenencias-sus-padres-y-el-vendedor-lo-amenazo-pero-lo-detuvieron-n10283208.html",
-        "image": "https://media.lacapital.com.ar/p/4141c59af2fe383bbab589a1517460f1/adjuntos/203/imagenes/103/427/0103427528/1200x675/smart/allanamientojpg_815021172.jpg",
-        "summary": "El joven lo denunció, pero el dealer lo atacó e incluso quiso agredirlo con dos perros pitbull. La policía allanó su casa, en Villa Constitución, y encontró armas y estupefacientes",
-        "pubDate": "2026-09-25T21:49:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La Cámara revocó el fallo que había invalidado el Régimen Penal Juvenil",
-        "link": "https://www.lacapital.com.ar/politica/la-camara-revoco-el-fallo-que-habia-invalidado-el-regimen-penal-juvenil-n10283246.html",
-        "image": "https://media.lacapital.com.ar/p/6777ac638af84813c1b899565808e236/adjuntos/203/imagenes/103/427/0103427991/1200x675/smart/jueza.jpg",
-        "summary": "También apartó a la jueza Laura De Marinis de un caso por tentativa de robo agravado, por el cual había sobreseído a un menor de 14 años",
-        "pubDate": "2026-09-25T21:44:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Juegos Suramericanos: Argentina y Paraguay, final caliente, Coloso repleto y oro guaraní",
-        "link": "https://www.lacapital.com.ar/juegos-suramericanos/juegos-suramericanos-argentina-y-paraguay-final-caliente-coloso-repleto-y-oro-guarani-n10283243.html",
-        "image": "https://media.lacapital.com.ar/p/95c455e7234f0f2c01db07e024dc77c5/adjuntos/203/imagenes/103/427/0103427956/pierde6.jpeg",
-        "summary": "Argentina cayó por penales ante Paraguay en el Coloso en la final de fútbol de los Juegos Suramericanos Santa Fe 2026",
-        "pubDate": "2026-09-25T21:31:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Allanamientos por un ataque a balazos revelaron las primeras dosis de la \"droga del miedo\" en Rosario",
-        "link": "https://www.lacapital.com.ar/policiales/allanamientos-un-ataque-balazos-revelaron-las-primeras-dosis-la-droga-del-miedo-rosario-n10283235.html",
-        "image": "https://media.lacapital.com.ar/p/4d9938e3125e76b8e526d73cd6a77932/adjuntos/203/imagenes/103/427/0103427814/1200x675/smart/droga-del-miedo-rosario-259.jpg",
-        "summary": "Se incautaron seis paquetes con un polvo que fue analizado y resultó ser brolamfetamina, que causa efectos alucinógenos severos y de larga duración. Es la primera vez que se detecta en la ciudad",
-        "pubDate": "2026-09-25T21:27:00+00:00",
         "approxTime": false
       }
     ]
