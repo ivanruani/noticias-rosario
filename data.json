@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T12:01:20.794049+00:00",
+  "generatedAt": "2026-09-26T12:31:09.262131+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Franco Colapinto cometió un gran error y arruinó la carrera de los dos Alpine",
+        "link": "https://www.lacapital.com.ar/ovacion/franco-colapinto-cometio-un-gran-error-y-arruino-la-carrera-los-dos-alpine-n10283281.html",
+        "image": "https://media.lacapital.com.ar/p/f9db4378f68f4b911ec15df3511f5cd4/adjuntos/203/imagenes/103/428/0103428509/1200x675/smart/image-11.jpg",
+        "summary": "El argentino se llevó puesto a Pierre Gasly en el relanzamiento en Bakú, por un exceso cuando los dos Alpine estaban en los puntos",
+        "pubDate": "2026-09-26T12:20:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Revelaron nuevos detalles sobre un intento de femicidio en la zona norte rosarina",
+        "link": "https://www.lacapital.com.ar/policiales/revelaron-nuevos-detalles-un-intento-femicidio-la-zona-norte-rosarina-n10283302.html",
+        "image": "https://media.lacapital.com.ar/p/2d3baba34a4ddae8ec74756ced0758a8/adjuntos/203/imagenes/103/304/0103304401/1200x675/smart/centrojusticia9_jpg_1572130063_jpg_1756841869jpg_1192065467.jpg",
+        "summary": "La fiscal del caso registrado en el barrio Sarmiento denunció que Juan Andrés C. se llevó dinero de su expareja y trató de ocultar el ataque",
+        "pubDate": "2026-09-26T12:01:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El aeropuerto de Rosario crece y los vuelos internacionales son los grandes protagonistas",
         "link": "https://www.lacapital.com.ar/turismo/el-aeropuerto-rosario-crece-y-los-vuelos-internacionales-son-los-grandes-protagonistas-n10283194.html",
         "image": "https://media.lacapital.com.ar/p/aa5584fe426e101e7526fe5db8b3218b/adjuntos/203/imagenes/103/427/0103427427/imagen-nota.jpg",
@@ -253,24 +271,6 @@
         "link": "https://www.lacapital.com.ar/ovacion/central-cordoba-juega-asegurar-su-plaza-el-reducido-y-argentino-evitar-la-desafiliacion-n10283212.html",
         "image": "https://media.lacapital.com.ar/p/ca4b7bd6aa500ca7545c3952304b6084/adjuntos/203/imagenes/103/427/0103427688/1200x675/smart/image.jpg",
         "summary": "Dos de los tres equipos de Rosario de la Primera C juegan este sábado a las 15. Central Córdoba recibe a Claypole y Argentino visita a Estrella del Sur",
-        "pubDate": "2026-09-26T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Rugby: gran semifinal del Torneo del Interior en Fisherton y partido clave de Plaza en la Urba",
-        "link": "https://www.lacapital.com.ar/ovacion/rugby-gran-semifinal-del-torneo-del-interior-fisherton-y-partido-clave-plaza-la-urba-n10283289.html",
-        "image": "https://media.lacapital.com.ar/p/3689d0cbf89c33bafaac8b05bb6d26c4/adjuntos/203/imagenes/103/428/0103428397/1200x675/smart/image-5.jpg",
-        "summary": "Jockey y Duendes animan la semi del Torneo del Interior, mientras que Atlético del Rosario recibe al puntero de la Urba, Newman. Sábado de rugby",
-        "pubDate": "2026-09-26T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central busca el brillo de otra estrella ante Estudiantes en la Supercopa Internacional",
-        "link": "https://www.lacapital.com.ar/ovacion/central-busca-el-brillo-otra-estrella-estudiantes-la-supercopa-internacional-n10283290.html",
-        "image": "https://media.lacapital.com.ar/p/3f1e4544847089db944ee7cce1cf1fce/adjuntos/203/imagenes/103/428/0103428419/aadd.jpeg",
-        "summary": "Central define con Estudiantes de La Plata en el estadio Madre de Ciudades de Santiago del Estero. Va por el noveno título en la era profesional",
         "pubDate": "2026-09-26T09:10:00+00:00",
         "approxTime": false
       }
