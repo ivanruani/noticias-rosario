@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-09-26T17:06:42.952482+00:00",
+  "generatedAt": "2026-09-26T17:30:59.906902+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Amplio operativo para contener un incendio en la isla de los Mástiles",
+        "link": "https://www.rosario3.com/informaciongeneral/amplio-operativo-para-contener-un-incendio-en-la-isla-de-los-mastiles-20260926-0016.html",
+        "image": "https://www.rosario3.com/__export/1790443656009/sites/rosario3/img/2026/09/26/whatsapp_image_2026-09-26_at_13_38_19_version1790443655439.jpeg_1825222445.jpeg",
+        "summary": "El foco fue detectado este viernes por la tarde frente a Granadero Baigorria. Desde esta mañana trabajan bomberos de distintas localidades y Protección Civil. El fuego está contenido y realizan tareas de enfriamiento para evitar que se reactive",
+        "pubDate": "2026-09-26T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Cierre de Electrolux: “Es parte del reacomodamiento de la economía”",
         "link": "https://www.rosario3.com/-economia-negocios-agro-/cierre-de-electrolux-esto-es-parte-del-reacomodamiento-de-la-economia-20260926-0012.html",
         "image": "https://www.rosario3.com/__export/1790438846605/sites/rosario3/img/2026/09/26/disen-o_sin_ti-tulo_-68-.png_928314581.png",
         "summary": "El presidente de la Cámara de Electrodomésticos de Rosario, Claudio Sexer, analizó el cierre de la planta de electrodomésticos y sostuvo que las empresas del sector están adaptándose a un nuevo escenario, con más productos importados y una mayor variedad para los consumidores…",
-        "pubDate": "2026-09-26T12:00:00+00:00",
+        "pubDate": "2026-09-26T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,24 +26,15 @@
         "link": "https://www.rosario3.com/informaciongeneral/alerta-ambiental-y-posible-derrumbe-en-el-parana-juez-solicito-medidas-urgentes-en-predio-de-la-ex-firma-ar-zinc-20260926-0006.html",
         "image": "https://www.rosario3.com/__export/1790429328670/sites/rosario3/img/2026/09/26/arzinc.jpg_672794304.jpg",
         "summary": "El magistrado Eugenio Romanini dispuso medidas “urgentes” para el predio de AR ZINC en Fray Luis Beltrán: deberá presentar en 10 días un plan para tratar o remover los residuos y ejecutar las obras bajo supervisión estatal. La fábrica, propiedad de la multinacional Glencore…",
-        "pubDate": "2026-09-26T11:59:00+00:00",
+        "pubDate": "2026-09-26T11:58:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Juegos Suramericanos: cómo será el cierre este sábado en Rosario, Santa Fe y Rafaela",
-        "link": "https://www.rosario3.com/informaciongeneral/cuando-terminan-y-como-se-despiden-los-xiii-juegos-suramericanos-en-santa-fe-20260924-0024.html",
-        "image": "https://www.rosario3.com/__export/1790257988625/sites/rosario3/img/2026/09/24/ff.jpg_928314581.jpg",
-        "summary": "El final será el sábado 26 de septiembre, jornada en la que se realizarán ceremonias de clausura en cada una de las sedes. La vocera del gobierno provincial, Virginia Coudannes, brindó los detalles sobre Rosario y Rafaela",
-        "pubDate": "2026-09-24T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Charlas de Mercado: los agentes \"vuelven\" a la Bolsa",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/charlas-de-mercado-los-agentes-vuelven-a-la-bolsa-20260926-0004.html",
-        "image": "https://www.rosario3.com/__export/1790424994347/sites/rosario3/img/2024/11/05/bolsa-de-comercio-.jpg_1768679290.jpg",
-        "summary": "Los operadores bursátiles de la región buscan ocupar un lugar institucional más protagónico en las conversaciones para el desarrollo del mercado de capitales, y la realización el próximo lunes del evento “Miradas al Futuro” servirá para presentar en público el renovado impulso…",
+        "title": "En la puerta de su casa: dos en moto balearon a un hombre en barrio Godoy",
+        "link": "https://www.rosario3.com/policiales/en-la-puerta-de-su-casa-dos-en-moto-balearon-a-un-hombre-en-barrio-godoy-20260926-0013.html",
+        "image": "https://www.rosario3.com/__export/1790441160682/sites/rosario3/img/2026/09/26/hospital_eva_peron.jpg_1613903135.jpg",
+        "summary": "El hombre, de 42 años, recibió un disparo en el glúteo y quedó internado en el Eva Perón. En pocas horas también ingresaron al Heca dos baleados de La Cerámica y Felipe Moré y Biedma.",
         "pubDate": "2026-09-26T11:57:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Un reconocido periodista de Santa Fe se descompensó y falleció a los 55 años",
+        "link": "https://www.lacapital.com.ar/la-region/un-reconocido-periodista-santa-fe-se-descompenso-y-fallecio-los-55-anos-n10283343.html",
+        "image": "https://media.lacapital.com.ar/p/f77d4f3ac4feef5b84188037179db310/adjuntos/203/imagenes/103/428/0103428999/gustavo-aguirre.jpg",
+        "summary": "El trabajador de prensa de Canal 13 tuvo un problema de salud mientras iba en un vehículo de alquiler y el chofer intentó reanimarlo.",
+        "pubDate": "2026-09-26T17:08:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Directivos de CAF destacaron el legado de los Juegos Suramericanos en Santa Fe",
@@ -262,15 +271,6 @@
         "link": "https://www.lacapital.com.ar/zoom/disney-estrena-el-rescate-los-mineros-chilenos-y-retoma-la-historia-que-conmovio-al-mundo-n10283216.html",
         "image": "https://media.lacapital.com.ar/p/c9de2ad4093fb88969257b7d94f01733/adjuntos/203/imagenes/103/427/0103427765/1200x675/smart/image-2026-09-25t172323034.png",
         "summary": "La serie tiene tres capítulos y recopila desde imágenes inéditas grabadas con celulares hasta entrevistas con sobrevivientes, familiares y rescatistas. “Todos los esfuerzos de rescate fueron principalmente nacionales\", sostuvo Igor Proestakis, el ingeniero que con 24 años ideó…",
-        "pubDate": "2026-09-26T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La experiencia de quedarse frente al mar",
-        "link": "https://www.lacapital.com.ar/la-experiencia-quedarse-frente-al-mar-n10283223.html",
-        "image": "https://media.lacapital.com.ar/p/05bd9b909ec2077171cb1f502e9eb781/adjuntos/203/imagenes/103/427/0103427702/004-002-the-pyramid-cancun-2.JPG",
-        "summary": "Oasis Hotels & Resorts propone una experiencia todo incluido que reúne descanso, gastronomía y entretenimiento para disfrutar Cancún sin salir del hotel",
         "pubDate": "2026-09-26T10:00:00+00:00",
         "approxTime": false
       }
