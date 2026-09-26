@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-26T21:01:19.687311+00:00",
+  "generatedAt": "2026-09-26T21:31:14.862849+00:00",
   "sites": {
     "rosario3": [
       {
         "source": "Rosario3",
-        "title": "Central lo dio vuelta ante Estudiantes con un penal de VAR que convirtió Di María",
+        "title": "En una final caliente que terminó a las piñas, Central venció a Estudiantes y conquistó la Supercopa Internacional",
         "link": "https://www.rosario3.com/deportes/rosario-central-y-estudiantes-una-final-con-morbo-y-por-otra-estrella-en-santiago-se-pone-en-juego-la-supercopa-internacional-20260925-0053.html",
         "image": "https://www.rosario3.com/__export/1790455846228/sites/rosario3/img/2026/09/26/di_maria.jpg_506286608.jpg",
-        "summary": "El Canalla y el Pincha se enfrentan este sábado en el estadio Madre de ciudades por el título que reúne al campeón de la Liga Profesional 2025 y al ganador del Trofeo de Campeones. Alexis Castro puso en ventaja al conjunto de La Plata, pero los rosarinos torcieron la historia…",
+        "summary": "Se impuso 2-1 este sábado en el estadio Madre de Ciudades de Santiago del Estero. Empezó abajo por el gol de Castro al minuto de juego, pero lo dio vuelta en el primer tiempo con gritos de Di María, uno de tiro libre y otro de penal. Para el Canalla fue una especie de revancha…",
         "pubDate": "2026-09-25T12:00:00+00:00",
         "approxTime": true
       },
@@ -40,7 +40,7 @@
       },
       {
         "source": "Rosario3",
-        "title": "Penal, polémica y aplausos de Verón: así fue la acción sobre Copetti sancionada con VAR que Di María cambió por gol",
+        "title": "Penal, polémica y aplausos de Verón: así fue la falta sobre Copetti sancionada con VAR que Di María cambió por gol",
         "link": "https://www.rosario3.com/deportes/penal-polemica-y-aplausos-de-veron-asi-fue-la-accion-sobre-copetti-sancionada-con-var-que-di-maria-cambio-por-gol-20260926-0023.html",
         "image": "https://www.rosario3.com/__export/1790453880137/sites/rosario3/img/2026/09/26/dimaria2.jpg_928314580.jpg",
         "summary": "El defensor González Pirez tumbó al delantero canalla y, tras la revisión del videoarbitraje, Darío Herrera marcó la pena máxima que el capitán del equipo rosarino se encargó de transformar en el 2-1, en medio del reclamo del equipo platense y de una reacción irónica de la…",
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Jockey Club es finalista del Torneo del Interior, luego de vencer a un durísimo Duendes",
+        "link": "https://www.lacapital.com.ar/ovacion/jockey-club-es-finalista-del-torneo-del-interior-luego-vencer-un-durisimo-duendes-n10283375.html",
+        "image": "https://media.lacapital.com.ar/p/3d05ef5aa08182b60cb70a8387220a3f/adjuntos/203/imagenes/103/429/0103429290/1200x675/smart/image-2.jpg",
+        "summary": "En una semifinal muy disputada, ganó en las Cuatro Hectáreas y definirá en Córdoba el título ante Tala",
+        "pubDate": "2026-09-26T21:03:47+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Barrio Godoy: dos ataques a balazos en una semana, uno de ellos perpetrado por hombres a caballo",
@@ -249,8 +258,8 @@
       },
       {
         "source": "La Capital",
-        "title": "En vivo: Santiago Núñez cabeceó solo y la pelota pasó cerca del arco canalla",
-        "link": "https://www.lacapital.com.ar/ovacion/en-vivo-santiago-nunez-cabeceo-solo-y-la-pelota-paso-cerca-del-arco-canalla-n10283285.html",
+        "title": "En vivo: el partido se interrumpió por peleas y discusiones entre ambos planteles",
+        "link": "https://www.lacapital.com.ar/ovacion/en-vivo-el-partido-se-interrumpio-peleas-y-discusiones-ambos-planteles-n10283285.html",
         "image": "https://media.lacapital.com.ar/p/fd9549159de285324e2b017fb5df01b8/adjuntos/203/imagenes/103/429/0103429289/1200x675/smart/image-2026-09-26t175121671.png",
         "summary": "Central busca un nuevo título para su vitrina, ante el duro Estudiantes en Santiago del Estero. Seguilo en vivo por La Capital.",
         "pubDate": "2026-09-26T19:14:00+00:00",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/eec8b4fb3f0fd60eff28b7a0097336ab/adjuntos/203/imagenes/103/428/0103428828/1200x675/smart/image-12.jpg",
         "summary": "Newell's enfrentará al granate medio año después de perder 5 a 0 y de las duras palabras del DT: “No estamos a la altura de la camiseta que llevamos”",
         "pubDate": "2026-09-26T19:06:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Almirón disipó las dudas en Central: ataja Werner y Ledesma está en el banco",
-        "link": "https://www.lacapital.com.ar/ovacion/almiron-disipo-las-dudas-central-ataja-werner-y-ledesma-esta-el-banco-n10283360.html",
-        "image": "https://media.lacapital.com.ar/p/3ce4e9285020658e7090f171b4bfd201/adjuntos/203/imagenes/103/414/0103414707/1200x675/smart/image-9.jpg",
-        "summary": "El entrenador se inclinó por el arquero rafaelino para enfrentar a Estudiantes en la final de la Supercopa Internacional",
-        "pubDate": "2026-09-26T19:03:00+00:00",
         "approxTime": false
       }
     ]
