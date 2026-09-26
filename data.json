@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T12:31:09.262131+00:00",
+  "generatedAt": "2026-09-26T13:01:09.334709+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,11 +13,20 @@
       },
       {
         "source": "Rosario3",
-        "title": "La previa del Run Run: John Deere reestructura y el enigma post cierre de Electrolux",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-previa-del-run-run-john-deere-reestructura-y-el-enigma-post-cierre-de-electrolux-20260926-0001.html",
-        "image": "https://www.rosario3.com/__export/1789167090572/sites/rosario3/img/2026/09/11/marianoportada_jpg.jpeg_506286608.jpeg",
-        "summary": "El podcast con el anticipo de las novedades económicas y corporativas que se publicarán en la tradicional columna de los domingos en Rosario3",
-        "pubDate": "2026-09-26T11:59:00+00:00",
+        "title": "El ruido, el contaminante invisible: cómo se mide, cuándo puede afectar la audición y qué dice la normativa",
+        "link": "https://www.rosario3.com/informaciongeneral/el-ruido-el-contaminante-invisible-como-se-mide-cuando-puede-afectar-la-audicion-y-que-dice-la-normativa-20260924-0040.html",
+        "image": "https://www.rosario3.com/__export/1790267816540/sites/rosario3/img/2026/09/24/contaminacion_sonora.png_786111822.png",
+        "summary": "El ingeniero en sonido Pablo Miechi explicó qué son los decibeles, cómo se determina el nivel de exposición y cuáles son los principales riesgos vinculados al ruido. Además, realizó una medición en una esquina de Rosario que registró un promedio de 69,7 decibeles durante cinco…",
+        "pubDate": "2026-09-24T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Charlas de Mercado: los agentes \"vuelven\" a la Bolsa",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/charlas-de-mercado-los-agentes-vuelven-a-la-bolsa-20260926-0004.html",
+        "image": "https://www.rosario3.com/__export/1790424994347/sites/rosario3/img/2024/11/05/bolsa-de-comercio-.jpg_1768679290.jpg",
+        "summary": "Los operadores bursátiles de la región buscan ocupar un lugar institucional más protagónico en las conversaciones para el desarrollo del mercado de capitales, y la realización el próximo lunes del evento “Miradas al Futuro” servirá para presentar en público el renovado impulso…",
+        "pubDate": "2026-09-26T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,42 +35,33 @@
         "link": "https://www.rosario3.com/deportes/rosario-central-y-estudiantes-una-final-con-morbo-y-por-otra-estrella-en-santiago-se-pone-en-juego-la-supercopa-internacional-20260925-0053.html",
         "image": "https://www.rosario3.com/__export/1790371385341/sites/rosario3/img/2026/09/25/rc-estu.jpg_928314580.jpg",
         "summary": "El Canalla y el Pincha se enfrentan este sábado en el estadio Madre de ciudades por el título que reúne al campeón de la Liga Profesional 2025 y al ganador del Trofeo de Campeones. Jorge Almirón tendrá varias bajas y deberá rearmar el equipo. Darío Herrera será el árbitro y…",
-        "pubDate": "2026-09-25T11:58:00+00:00",
+        "pubDate": "2026-09-25T11:57:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Agenda de los XIII Juegos Suramericanos Santa Fe 2026: qué deportes compiten en Rosario en esta última jornada, con horarios",
-        "link": "https://www.rosario3.com/deportes/agenda-de-los-xiii-juegos-suramericanos-santa-fe-2026-que-deportes-compiten-en-rosario-en-esta-ultima-jornada-con-horarios-20260920-0031.html",
-        "image": "https://www.rosario3.com/__export/1789948160612/sites/rosario3/img/2026/09/20/agenda.jpg_928314580.jpg",
-        "summary": "El cronograma completo de las actividades que se realizarán en la ciudad y cuáles otorgarán medallas",
-        "pubDate": "2026-09-20T11:57:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El clima en Rosario: sábado agradable y un domingo con lluvias, tormentas y ráfagas",
-        "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-sabado-agradable-y-un-domingo-con-lluvias-tormentas-y-rafagas-20260926-0002.html",
-        "image": "https://www.rosario3.com/__export/1790421610675/sites/rosario3/img/2026/09/26/p1k3c9khqv12fa18tm3d0469mk09_version1790421572134.jpg_1508060056.jpg",
-        "summary": "La jornada de este sábado tendrá una máxima de 27°C y condiciones mayormente buenas, aunque hacia la noche podría aumentar la inestabilidad. El domingo se espera un cambio en el tiempo, con lluvias y tormentas, descenso de temperatura y ráfagas de hasta 50 km h",
+        "title": "Video: así fue la maniobra de Colapinto que terminó en un fuerte choque contra Gasly y Norris",
+        "link": "https://www.rosario3.com/deportes/video-asi-fue-la-maniobra-de-colapinto-que-termino-en-un-fuerte-choque-contra-gasly-y-norris-20260926-0005.html",
+        "image": "https://www.rosario3.com/__export/1790426351369/sites/rosario3/img/2026/09/26/captura_de_pantalla_2026-09-26_a_la-s-_9-37-00-a--m-_version1790426350199.png_107854661.png",
+        "summary": "El piloto argentino intentó ir por dentro de una curva, bloqueó y terminó impactando contra el Alpine de su compañero que a su vez chocó el McLaren del último campeón del mundo. Los tres terminaron afuera",
         "pubDate": "2026-09-26T11:56:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Rosario registró un fuerte incremento de la indigencia y la demanda de asistencia social subió un 60% durante el último año",
-        "link": "https://www.rosario3.com/informaciongeneral/rosario-registro-un-fuerte-incremento-de-la-indigencia-y-la-demanda-de-asistencia-social-subio-un-60-durante-el-ultimo-ano-20260925-0052.html",
-        "image": "https://www.rosario3.com/__export/1790368274913/sites/rosario3/img/2025/09/26/pobreza.jpg_928314581.jpg",
-        "summary": "El secretario de Desarrollo Humano del municipio, Nicolás Gianelloni, analizó los datos difundidos por el Indec y explicó que, si bien el índice general de pobreza en la ciudad se ubicó por debajo de la media del país, la indigencia sí registró un salto. Además, destacó el rol…",
-        "pubDate": "2026-09-25T11:55:00+00:00",
+        "title": "La previa del Run Run: John Deere reestructura y el enigma post cierre de Electrolux",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-previa-del-run-run-john-deere-reestructura-y-el-enigma-post-cierre-de-electrolux-20260926-0001.html",
+        "image": "https://www.rosario3.com/__export/1789167090572/sites/rosario3/img/2026/09/11/marianoportada_jpg.jpeg_506286608.jpeg",
+        "summary": "El podcast con el anticipo de las novedades económicas y corporativas que se publicarán en la tradicional columna de los domingos en Rosario3",
+        "pubDate": "2026-09-26T11:55:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Iban al cine en familia y les cayó una lancha sobre la camioneta",
-        "link": "https://www.rosario3.com/informaciongeneral/una-de-terror-iban-al-cine-en-familia-y-les-cayo-una-lancha-sobre-la-camioneta-20260925-0060.html",
-        "image": "https://www.rosario3.com/__export/1790375609798/sites/rosario3/img/2026/09/25/accidente_lancha.jpg_506286608.jpg",
-        "summary": "Ocurrió este viernes cerca de las siete de la tarde en Presidente Perón al 7300, en la zona oeste. Por razones que se tratan de establecer, la embarcación se desprendió de un tráiler e impactó contra una chata en la que iban cinco personas rumbo a Rosario. Resultaron con golpes…",
+        "title": "Todos los datos en la previa a la final entre Rosario Central y Estudiantes de La Plata en Santiago del Estero",
+        "link": "https://www.rosario3.com/deportes/todos-los-datos-en-la-previa-a-la-final-entre-rosario-central-y-estudiantes-de-la-plata-en-santiago-del-estero-20260925-0019.html",
+        "image": "https://www.rosario3.com/__export/1789329549412/sites/rosario3/img/2026/09/13/central_tigre.jpg_506286608.jpg",
+        "summary": "Los Canallas enfrentarán a Estudiantes, rival ante el que tienen antecedentes muy parejos aunque en el último tiempo los eliminó 2 veces; aún quedan entradas disponibles",
         "pubDate": "2026-09-25T11:54:00+00:00",
         "approxTime": true
       },
@@ -85,10 +85,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "“Sentía que estaba loca”: el ADN que le confirmó a Carmen que había sido adoptada al nacer",
-        "link": "https://www.rosario3.com/informaciongeneral/sentia-que-estaba-loca-el-adn-que-le-confirmo-a-carmen-que-habia-sido-adoptada-al-nacer-20260925-0050.html",
-        "image": "https://www.rosario3.com/__export/1790367303316/sites/rosario3/img/2026/09/25/carmen_quiroga_-1-.jpg_672794304.jpg",
-        "summary": "La historia de la rosarina Carmen Quiroga se ventiló la semana pasada a la Justicia federal, con la imputación de la partera Dolly Viale de Garrido, acusada de separarla de su madre biológica poco después de su nacimiento, en el Hospital Roque Sáenz Peña. Desde Bariloche, contó…",
+        "title": "Iban al cine en familia y les cayó una lancha sobre la camioneta",
+        "link": "https://www.rosario3.com/informaciongeneral/una-de-terror-iban-al-cine-en-familia-y-les-cayo-una-lancha-sobre-la-camioneta-20260925-0060.html",
+        "image": "https://www.rosario3.com/__export/1790375609798/sites/rosario3/img/2026/09/25/accidente_lancha.jpg_506286608.jpg",
+        "summary": "Ocurrió este viernes cerca de las siete de la tarde en Presidente Perón al 7300, en la zona oeste. Por razones que se tratan de establecer, la embarcación se desprendió de un tráiler e impactó contra una chata en la que iban cinco personas rumbo a Rosario. Resultaron con golpes…",
         "pubDate": "2026-09-25T11:51:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Un ex-Newell's fue citado para enfrentar a Central en busca de su primer título",
+        "link": "https://www.lacapital.com.ar/ovacion/un-ex-newells-fue-citado-enfrentar-central-busca-su-primer-titulo-n10283311.html",
+        "image": "https://media.lacapital.com.ar/p/f5c46849ef29c08c800aed081d5f24e7/adjuntos/203/imagenes/103/428/0103428520/brian-aguirre.jpg",
+        "summary": "El delantero de Estudiantes viajó a Santiago del Estero para disputar la Supercopa Internacional en el estadio Madre de Ciudades",
+        "pubDate": "2026-09-26T12:55:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Franco Colapinto cometió un gran error y arruinó la carrera de los dos Alpine",
         "link": "https://www.lacapital.com.ar/ovacion/franco-colapinto-cometio-un-gran-error-y-arruino-la-carrera-los-dos-alpine-n10283281.html",
         "image": "https://media.lacapital.com.ar/p/f9db4378f68f4b911ec15df3511f5cd4/adjuntos/203/imagenes/103/428/0103428509/1200x675/smart/image-11.jpg",
@@ -186,19 +195,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Jujuy, el destino argentino que invita a viajar entre montañas, salares y pueblos históricos",
-        "link": "https://www.lacapital.com.ar/turismo/jujuy-el-destino-argentino-que-invita-viajar-montanas-salares-y-pueblos-historicos-n10283197.html",
-        "image": "https://media.lacapital.com.ar/p/956fe9f06228e926f5fb9d092846f02a/adjuntos/203/imagenes/103/427/0103427516/imagen-nota.jpg",
-        "summary": "La provincia fue distinguida como Mejor Destino de Montaña de Sudamérica en los Mountain Destination Awards 2026",
+        "title": "La experiencia de quedarse frente al mar",
+        "link": "https://www.lacapital.com.ar/la-experiencia-quedarse-frente-al-mar-n10283223.html",
+        "image": "https://media.lacapital.com.ar/p/05bd9b909ec2077171cb1f502e9eb781/adjuntos/203/imagenes/103/427/0103427702/004-002-the-pyramid-cancun-2.JPG",
+        "summary": "Oasis Hotels & Resorts propone una experiencia todo incluido que reúne descanso, gastronomía y entretenimiento para disfrutar Cancún sin salir del hotel",
         "pubDate": "2026-09-26T10:00:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "La playa brasileña escondida entre acantilados que enamora a viajeros de todo el mundo",
-        "link": "https://www.lacapital.com.ar/turismo/la-playa-brasilena-escondida-acantilados-que-enamora-viajeros-todo-el-mundo-n10283198.html",
-        "image": "https://media.lacapital.com.ar/p/8ed023cf96a6ce79b6f4005e12f0803c/adjuntos/203/imagenes/103/427/0103427538/imagen-nota.jpg",
-        "summary": "En Fernando de Noronha, este destino combina aguas transparentes, arena clara, acantilados cubiertos de vegetación y una extraordinaria vida marina",
+        "title": "Jujuy, el destino argentino que invita a viajar entre montañas, salares y pueblos históricos",
+        "link": "https://www.lacapital.com.ar/turismo/jujuy-el-destino-argentino-que-invita-viajar-montanas-salares-y-pueblos-historicos-n10283197.html",
+        "image": "https://media.lacapital.com.ar/p/956fe9f06228e926f5fb9d092846f02a/adjuntos/203/imagenes/103/427/0103427516/imagen-nota.jpg",
+        "summary": "La provincia fue distinguida como Mejor Destino de Montaña de Sudamérica en los Mountain Destination Awards 2026",
         "pubDate": "2026-09-26T10:00:00+00:00",
         "approxTime": false
       },
@@ -213,19 +222,19 @@
       },
       {
         "source": "La Capital",
-        "title": "La experiencia de quedarse frente al mar",
-        "link": "https://www.lacapital.com.ar/la-experiencia-quedarse-frente-al-mar-n10283223.html",
-        "image": "https://media.lacapital.com.ar/p/05bd9b909ec2077171cb1f502e9eb781/adjuntos/203/imagenes/103/427/0103427702/004-002-the-pyramid-cancun-2.JPG",
-        "summary": "Oasis Hotels & Resorts propone una experiencia todo incluido que reúne descanso, gastronomía y entretenimiento para disfrutar Cancún sin salir del hotel",
+        "title": "La playa brasileña escondida entre acantilados que enamora a viajeros de todo el mundo",
+        "link": "https://www.lacapital.com.ar/turismo/la-playa-brasilena-escondida-acantilados-que-enamora-viajeros-todo-el-mundo-n10283198.html",
+        "image": "https://media.lacapital.com.ar/p/8ed023cf96a6ce79b6f4005e12f0803c/adjuntos/203/imagenes/103/427/0103427538/imagen-nota.jpg",
+        "summary": "En Fernando de Noronha, este destino combina aguas transparentes, arena clara, acantilados cubiertos de vegetación y una extraordinaria vida marina",
         "pubDate": "2026-09-26T10:00:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "El furor por Capi, la mascota de los Juegos Suramericanos, pone bajo la lupa la venta ilegal de carpinchos",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-furor-capi-la-mascota-los-juegos-suramericanos-pone-la-lupa-la-venta-ilegal-carpinchos-n10283200.html",
-        "image": "https://media.lacapital.com.ar/p/f4af3b184fcc709250c40552fab9d15d/adjuntos/203/imagenes/030/540/0030540021/1200x675/smart/2021-08-29-carpinchosjpg.jpg",
-        "summary": "Este ejemplar autóctono de los humedales es blanco de la crueldad de la caza furtiva y el comercio clandestino en redes sociales. Recomendaciones de las organizaciones ambientalistas",
+        "title": "Inolvidables: los Juegos Suramericanos culminan este sábado a pura fiesta y desfile",
+        "link": "https://www.lacapital.com.ar/la-ciudad/inolvidables-los-juegos-suramericanos-culminan-este-sabado-pura-fiesta-y-desfile-n10283280.html",
+        "image": "https://media.lacapital.com.ar/p/19cf7adb2951f986f146506b85a4cde6/adjuntos/203/imagenes/103/428/0103428200/1200x675/smart/82665066jpegthumb.jpg",
+        "summary": "La actividad central será en Santa Fe e incluirá el cambio de banderas oficiales y un reconocimiento a los voluntarios. Rosario también tendrá música y diversión",
         "pubDate": "2026-09-26T09:30:00+00:00",
         "approxTime": false
       },
@@ -240,10 +249,10 @@
       },
       {
         "source": "La Capital",
-        "title": "Inolvidables: los Juegos Suramericanos culminan este sábado a pura fiesta y desfile",
-        "link": "https://www.lacapital.com.ar/la-ciudad/inolvidables-los-juegos-suramericanos-culminan-este-sabado-pura-fiesta-y-desfile-n10283280.html",
-        "image": "https://media.lacapital.com.ar/p/19cf7adb2951f986f146506b85a4cde6/adjuntos/203/imagenes/103/428/0103428200/1200x675/smart/82665066jpegthumb.jpg",
-        "summary": "La actividad central será en Santa Fe e incluirá el cambio de banderas oficiales y un reconocimiento a los voluntarios. Rosario también tendrá música y diversión",
+        "title": "El furor por Capi, la mascota de los Juegos Suramericanos, pone bajo la lupa la venta ilegal de carpinchos",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-furor-capi-la-mascota-los-juegos-suramericanos-pone-la-lupa-la-venta-ilegal-carpinchos-n10283200.html",
+        "image": "https://media.lacapital.com.ar/p/f4af3b184fcc709250c40552fab9d15d/adjuntos/203/imagenes/030/540/0030540021/1200x675/smart/2021-08-29-carpinchosjpg.jpg",
+        "summary": "Este ejemplar autóctono de los humedales es blanco de la crueldad de la caza furtiva y el comercio clandestino en redes sociales. Recomendaciones de las organizaciones ambientalistas",
         "pubDate": "2026-09-26T09:30:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/9f2bd1c64aae5eabeda9b38744770702/adjuntos/203/imagenes/027/574/0027574965/1200x675/smart/agro_08_01_lc_69283382__08-11-2019__000x000jpg.jpg",
         "summary": "El Iaca, indicador que elabora la Bolsa de Comercio de Rosario mostró una expansión de 1,1 % mensual y 19% interanual. Fuerte tracción de la producción primaria",
         "pubDate": "2026-09-26T09:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central Córdoba juega para asegurar su plaza en el Reducido y Argentino por evitar la desafiliación",
-        "link": "https://www.lacapital.com.ar/ovacion/central-cordoba-juega-asegurar-su-plaza-el-reducido-y-argentino-evitar-la-desafiliacion-n10283212.html",
-        "image": "https://media.lacapital.com.ar/p/ca4b7bd6aa500ca7545c3952304b6084/adjuntos/203/imagenes/103/427/0103427688/1200x675/smart/image.jpg",
-        "summary": "Dos de los tres equipos de Rosario de la Primera C juegan este sábado a las 15. Central Córdoba recibe a Claypole y Argentino visita a Estrella del Sur",
-        "pubDate": "2026-09-26T09:10:00+00:00",
         "approxTime": false
       }
     ]
