@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T09:31:00.378831+00:00",
+  "generatedAt": "2026-09-27T10:01:20.222608+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,11 +141,56 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "Kosacoff: \"La industria no es el problema sino parte de la solución\"",
-        "link": "https://www.lacapital.com.ar/economia/kosacoff-la-industria-no-es-el-problema-sino-parte-la-solucion-n10283407.html",
-        "image": "https://media.lacapital.com.ar/p/fbcb459af392145585d71410d1bb569f/adjuntos/203/imagenes/100/781/0100781003/1200x675/smart/kosacoffjpg.jpg",
-        "summary": "El ex director de la Cepal y reconocido investigador sobre desarrollo económico lamentó la “baja reputación” del sector en las políticas públicas",
-        "pubDate": "2026-09-27T09:15:00+00:00",
+        "title": "Efecto derrame: los Juegos Suramericanos dejaron más de $34 mil millones en Rosario",
+        "link": "https://www.lacapital.com.ar/la-ciudad/efecto-derrame-los-juegos-suramericanos-dejaron-mas-34-mil-millones-rosario-n10282793.html",
+        "image": "https://media.lacapital.com.ar/p/dd5128f2064d8e0b9c55636adb104c6a/adjuntos/203/imagenes/103/429/0103429765/1200x675/smart/0fb71eb2-c42b-4dc6-901e-36be79682f1b-1.jpg",
+        "summary": "La ocupación hotelera se ubicó entre el 82 y el ciento por ciento en los Juegos Suramericanos. El 50% de los turistas visitó la ciudad por primera vez",
+        "pubDate": "2026-09-27T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "\"La gente se adueñó de los Juegos Suramericanos\"",
+        "link": "https://www.lacapital.com.ar/la-ciudad/la-gente-se-adueno-los-juegos-suramericanos-n10282758.html",
+        "image": "https://media.lacapital.com.ar/p/4ce92ff2a2a9128264ae71a34a560f22/adjuntos/203/imagenes/103/422/0103422760/1200x675/smart/javkin1.jpg",
+        "summary": "\"Vamos por un Cenard federal en Rosario\", auguró el intendente Pablo Javkin tras los Juegos Suramericanos al acotar: \"Recuperamos nuestro orgullo que estaba herido\"",
+        "pubDate": "2026-09-27T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Un bonaerense en Nueva York",
+        "link": "https://www.lacapital.com.ar/opinion/un-bonaerense-nueva-york-n10283261.html",
+        "image": "https://media.lacapital.com.ar/p/816c4fa1e4238517d4197b079f01b8da/adjuntos/203/imagenes/103/422/0103422104/1200x675/smart/image.png",
+        "summary": "Los caminos de Axel Kicillof hacia la Casa Rosada en medio de la interna del peronismo",
+        "pubDate": "2026-09-27T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Asociación Rosarina: se juega otra jornada en el fútbol local en las tres categorías",
+        "link": "https://www.lacapital.com.ar/ovacion/asociacion-rosarina-se-juega-otra-jornada-el-futbol-local-las-tres-categorias-n10283379.html",
+        "image": "https://media.lacapital.com.ar/p/3ba4829b29be304217fee22b88215670/adjuntos/203/imagenes/103/429/0103429524/1200x675/smart/image-2026-09-26t191544336.png",
+        "summary": "Este domingo a las 16, Central, líder de la A, recibe a Unión de Álvarez. En la B, el puntero Club del Rosario visita a Defensores Unidos. Y en la C, Provincial B a San Roque",
+        "pubDate": "2026-09-27T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "IRT Medicina para Empresas se suma a un encuentro clave sobre el futuro del trabajo",
+        "link": "https://www.lacapital.com.ar/la-ciudad/irt-medicina-empresas-se-suma-un-encuentro-clave-el-futuro-del-trabajo-n10283400.html",
+        "image": "https://media.lacapital.com.ar/p/c04b48944f51b34625aeefa104b3af31/adjuntos/203/imagenes/103/429/0103429572/1200x675/smart/b9424128-8ef6-4bc8-be8c-54dbdf536ce0.jpg",
+        "summary": "Más de 2.000 profesionales de 43 países llegarán a Rosario para participar del Congreso Internacional ORP. Los nuevos desafíos de la salud y la gestión en el ámbito laboral",
+        "pubDate": "2026-09-27T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Guardamuebles: crece el negocio de depositar objetos fuera de casa",
+        "link": "https://www.lacapital.com.ar/la-ciudad/guardamuebles-crece-el-negocio-depositar-objetos-fuera-casa-n10282938.html",
+        "image": "https://media.lacapital.com.ar/p/580e3f72a1e2a579fa80a6d19cc65b7a/adjuntos/203/imagenes/103/429/0103429617/1200x675/smart/img_1303-1024x683.jpg",
+        "summary": "Mudanzas, divorcios, viajes al exterior, fallecimientos y estudiantes son las razones para necesitar espacio. Los depósitos trabajan con altos niveles de ocupación y el rubro tiene cada vez más jugadores, pero la demanda cambia según los vaivenes económicos",
+        "pubDate": "2026-09-27T09:30:00+00:00",
         "approxTime": false
       },
       {
@@ -154,6 +199,15 @@
         "link": "https://www.lacapital.com.ar/agro/cronicas-campana-el-70-la-region-agricola-pide-agua-n10283417.html",
         "image": "https://media.lacapital.com.ar/p/e5f5bd3d0362066646fc5bcdf2c188e1/adjuntos/203/imagenes/100/491/0100491522/1200x675/smart/trigo-secojpeg.jpeg",
         "summary": "Las últimas lluvias del invierno no alcanzaron para revertir el déficit hídrico en el centro-oeste de la región. La Guía Estratégica para el Agro advierte que el trigo pierde condición y el maíz encuentra dificultades para avanzar con la siembra.",
+        "pubDate": "2026-09-27T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Kosacoff: \"La industria no es el problema sino parte de la solución\"",
+        "link": "https://www.lacapital.com.ar/economia/kosacoff-la-industria-no-es-el-problema-sino-parte-la-solucion-n10283407.html",
+        "image": "https://media.lacapital.com.ar/p/fbcb459af392145585d71410d1bb569f/adjuntos/203/imagenes/100/781/0100781003/1200x675/smart/kosacoffjpg.jpg",
+        "summary": "El ex director de la Cepal y reconocido investigador sobre desarrollo económico lamentó la “baja reputación” del sector en las políticas públicas",
         "pubDate": "2026-09-27T09:15:00+00:00",
         "approxTime": false
       },
@@ -218,60 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/51b4876a73f164178eb1142fc588f8da/adjuntos/203/imagenes/103/429/0103429620/1200x675/smart/milei-estados-unidos-escudo-las-americas.jpg",
         "summary": "El aumento de la pobreza y el freno de la economía ponen a prueba el contrato del gobierno con la sociedad. Las tensiones en la intimidad del poder y la demanda de un Estado más presente",
         "pubDate": "2026-09-27T09:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central Córdoba con Cacho Sialle se clasificó al Reducido con una tremenda racha sin perder",
-        "link": "https://www.lacapital.com.ar/ovacion/central-cordoba-cacho-sialle-se-clasifico-al-reducido-una-tremenda-racha-perder-n10283403.html",
-        "image": "https://media.lacapital.com.ar/p/58193bbc18afbf727e1a0bac23df29e8/adjuntos/203/imagenes/103/429/0103429772/1200x675/smart/image-2026-09-26t213615175.png",
-        "summary": "El Charrúa con Cacho Sialle pudo revertir en mal arranque en el primer semestre y dos fechas el torneo logró meterse entre los siete en la Zona B",
-        "pubDate": "2026-09-27T00:53:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Jorge Almirón: \"Todo en la vida es un proceso y ganamos bien\"",
-        "link": "https://www.lacapital.com.ar/ovacion/jorge-almiron-todo-la-vida-es-un-proceso-y-ganamos-bien-n10283416.html",
-        "image": "https://media.lacapital.com.ar/p/b953cd016827bd6fd4b3d686ff4a4ac2/adjuntos/203/imagenes/103/429/0103429771/1200x675/smart/image-2026-09-26t212539404.png",
-        "summary": "El entrenador de Central manifestó que la obtención de la Supercopa Interancional no fue casualidad y consideró que fueron \"justos ganadores\"",
-        "pubDate": "2026-09-27T00:36:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Los festejos de Central comenzaron en Santiago del Estero y continuaron en distintos puntos de la ciudad",
-        "link": "https://www.lacapital.com.ar/ovacion/los-festejos-central-comenzaron-santiago-del-estero-y-continuaron-distintos-puntos-la-ciudad-n10283406.html",
-        "image": "https://media.lacapital.com.ar/p/473447d5704ec0540d19726d8f94cc8a/adjuntos/203/imagenes/103/429/0103429760/1200x675/smart/image-2026-09-26t210003215.png",
-        "summary": "Central se coronó campeón y sus hinchas armaron su propio carnaval auriazul que arrancó en el estadio Madre de Ciudades y siguió en distintos puntos de Rosario",
-        "pubDate": "2026-09-27T00:21:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El golazo de Di María que se inspiró en uno similar a la de su amigo Lionel Messi",
-        "link": "https://www.lacapital.com.ar/ovacion/el-golazo-di-maria-que-se-inspiro-uno-similar-la-su-amigo-lionel-messi-n10283402.html",
-        "image": "https://media.lacapital.com.ar/p/40bd798aa3f45b2d3a6674f339993d3e/adjuntos/203/imagenes/103/429/0103429667/1200x675/smart/image-7.jpg",
-        "summary": "Ángel Di María refirió que el gol del empate de Central ante Estudiantes trató de hacerlo parecido al de Leo en la Copa América 2016",
-        "pubDate": "2026-09-26T23:52:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Jorge Almirón tocó el cielo auriazul con las manos por la obtención de la Superliga Internacional",
-        "link": "https://www.lacapital.com.ar/ovacion/jorge-almiron-toco-el-cielo-auriazul-las-manos-la-obtencion-la-superliga-internacional-n10283395.html",
-        "image": "https://media.lacapital.com.ar/p/3a00f509e92c2bc9280fda6bb179a043/adjuntos/203/imagenes/103/429/0103429618/1200x675/smart/image-2026-09-26t201128605.png",
-        "summary": "El entrenador, resistido por las eliminaciones en el Apertura, la Libertadores y la Copa Argentina, se reivindicó y entró en la historia de Central",
-        "pubDate": "2026-09-26T23:19:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Ángel Di María, la estrella de Central que brilla y resplandece como el sol",
-        "link": "https://www.lacapital.com.ar/ovacion/angel-di-maria-la-estrella-central-que-brilla-y-resplandece-como-el-sol-n10283398.html",
-        "image": "https://media.lacapital.com.ar/p/0dd460515a5585c72d091a2e905e5aff/adjuntos/203/imagenes/103/429/0103429691/1200x675/smart/image-6.jpg",
-        "summary": "Fideo, ese campeón del mundo que volvió a Arroyito por más gloria de la que ya tenía, fue la bandera de este equipo canalla que volvió a gritar campeón",
-        "pubDate": "2026-09-26T23:04:00+00:00",
         "approxTime": false
       }
     ]
