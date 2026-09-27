@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T00:31:04.217651+00:00",
+  "generatedAt": "2026-09-27T01:01:13.953575+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Central Córdoba con Cacho Sialle se clasificó al Reducido con una tremenda racha sin perder",
+        "link": "https://www.lacapital.com.ar/ovacion/central-cordoba-cacho-sialle-se-clasifico-al-reducido-una-tremenda-racha-perder-n10283403.html",
+        "image": "https://media.lacapital.com.ar/p/58193bbc18afbf727e1a0bac23df29e8/adjuntos/203/imagenes/103/429/0103429772/1200x675/smart/image-2026-09-26t213615175.png",
+        "summary": "El Charrúa con Cacho Sialle pudo revertir en mal arranque en el primer semestre y dos fechas el torneo logró meterse entre los siete en la Zona B",
+        "pubDate": "2026-09-27T00:53:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Jorge Almirón: \"Todo en la vida es un proceso y ganamos bien\"",
+        "link": "https://www.lacapital.com.ar/ovacion/jorge-almiron-todo-la-vida-es-un-proceso-y-ganamos-bien-n10283416.html",
+        "image": "https://media.lacapital.com.ar/p/b953cd016827bd6fd4b3d686ff4a4ac2/adjuntos/203/imagenes/103/429/0103429771/1200x675/smart/image-2026-09-26t212539404.png",
+        "summary": "El entrenador de Central manifestó que la obtención de la Supercopa Interancional no fue casualidad y consideró que fueron \"justos ganadores\"",
+        "pubDate": "2026-09-27T00:36:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Los festejos de Central comenzaron en Santiago del Estero y continuaron en distintos puntos de la ciudad",
         "link": "https://www.lacapital.com.ar/ovacion/los-festejos-central-comenzaron-santiago-del-estero-y-continuaron-distintos-puntos-la-ciudad-n10283406.html",
         "image": "https://media.lacapital.com.ar/p/473447d5704ec0540d19726d8f94cc8a/adjuntos/203/imagenes/103/429/0103429760/1200x675/smart/image-2026-09-26t210003215.png",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/3e2144f1c6104e8f8f102fec578842bf/adjuntos/203/imagenes/103/429/0103429454/1200x675/smart/image-1.jpg",
         "summary": "El Canalla lo empezó perdiendo antes del minuto, pero lo dio vuelta ya en el primer tiempo con un doblete de Di María. Lo sentenció en los segundos finales",
         "pubDate": "2026-09-26T21:41:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Jockey Club es finalista del Torneo del Interior, luego de vencer a un durísimo Duendes",
-        "link": "https://www.lacapital.com.ar/ovacion/jockey-club-es-finalista-del-torneo-del-interior-luego-vencer-un-durisimo-duendes-n10283375.html",
-        "image": "https://media.lacapital.com.ar/p/3d05ef5aa08182b60cb70a8387220a3f/adjuntos/203/imagenes/103/429/0103429290/1200x675/smart/image-2.jpg",
-        "summary": "En una semifinal muy disputada, ganó en las Cuatro Hectáreas y definirá en Córdoba el título ante Tala",
-        "pubDate": "2026-09-26T21:03:47+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Barrio Godoy: dos ataques a balazos en una semana, uno de ellos perpetrado por hombres a caballo",
-        "link": "https://www.lacapital.com.ar/policiales/barrio-godoy-dos-ataques-balazos-una-semana-uno-ellos-perpetrado-hombres-caballo-n10283347.html",
-        "image": "https://media.lacapital.com.ar/p/9900adf58b32be8a40bc3e6112831523/adjuntos/203/imagenes/103/429/0103429038/1200x675/smart/god.jpg",
-        "summary": "Las víctimas están fuera de peligro y los hechos ocurrieron a escasos metros entre sí, aunque en diferentes días",
-        "pubDate": "2026-09-26T20:45:00+00:00",
         "approxTime": false
       }
     ]
