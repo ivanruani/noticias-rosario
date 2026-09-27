@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-09-27T12:01:15.300559+00:00",
+  "generatedAt": "2026-09-27T12:31:05.126776+00:00",
   "sites": {
     "rosario3": [
       {
         "source": "Rosario3",
-        "title": "Central campeón de la Supercopa Internacional: venció a Estudiantes en una final muy caliente",
-        "link": "https://www.rosario3.com/deportes/rosario-central-y-estudiantes-una-final-con-morbo-y-por-otra-estrella-en-santiago-se-pone-en-juego-la-supercopa-internacional-20260925-0053.html",
-        "image": "https://www.rosario3.com/__export/1790462132359/sites/rosario3/img/2026/09/26/central_campeon.jpg_506286608.jpg",
-        "summary": "Se impuso 2-1 este sábado en el estadio Madre de Ciudades de Santiago del Estero. Empezó abajo por el gol de Castro al minuto de juego, pero lo dio vuelta en el primer tiempo con gritos de Di María, uno de tiro libre y otro de penal. Para el Canalla fue una especie de revancha…",
-        "pubDate": "2026-09-25T12:00:00+00:00",
+        "title": "De Pullaro a Monteverde: los que ganaron, los que no jugaron y lo que viene después de los Juegos Suramericanos",
+        "link": "https://www.rosario3.com/opinion/de-pullaro-a-monteverde-los-que-ganaron-los-que-no-jugaron-y-lo-que-viene-despues-de-los-juegos-suramericanos-20260926-0035.html",
+        "image": "https://www.rosario3.com/__export/1790466648269/sites/rosario3/img/2026/09/18/juegos_2.jpg_1768679258.jpg",
+        "summary": "Los Juegos dejaron infraestructura, multitudes y una fuerte postal de celebración colectiva, pero también movimientos en el tablero político. El oficialismo buscó capitalizar el acontecimiento, algunos sectores de la oposición participari y otros eligieron correrse de la escena…",
+        "pubDate": "2026-09-26T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "VIH en Rosario: a 3 años de su aplicación, sube la demanda de profilaxis pre y post exposición al virus",
+        "link": "https://www.rosario3.com/informaciongeneral/vih-en-rosario-a-3-anos-de-su-aplicacion-sube-la-demanda-de-profilaxis-pre-y-post-exposicion-al-virus-20260923-0065.html",
+        "image": "https://www.rosario3.com/__export/1790203826107/sites/rosario3/img/2026/09/23/prep_2.jpg_1768679257.jpg",
+        "summary": "Los métodos Pre-Exposición (PrEP) y Post-Exposición (PEP) al VIH son procedimientos de prevención y emergencia, respectivamente, cada vez más solicitados en la Salud Pública. Están disponible desde 2023 y actualmente, 150 personas acceden al Programa en efectores municipales. En…",
+        "pubDate": "2026-09-23T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/politica/milei-en-la-onu-cuanto-poder-gana-la-argentina-con-su-alianza-con-trump-20260926-0003.html",
         "image": "https://www.rosario3.com/__export/1790510128066/sites/rosario3/img/2026/09/27/milei.jpg_1825222445.jpg",
         "summary": "El acercamiento a Washington promete inversiones y respaldo internacional, pero los casos de Malvinas, el corredor energético y la inteligencia artificial exponen los límites de esa apuesta y el desafío de preservar los intereses nacionales",
-        "pubDate": "2026-09-26T11:59:00+00:00",
+        "pubDate": "2026-09-26T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,16 +35,7 @@
         "link": "https://www.rosario3.com/politica/myriam-bregman-si-el-gobierno-cambia-las-condiciones-electorales-la-situacion-va-a-ser-mas-critica-para-los-trabajadores-20260925-0041.html",
         "image": "https://www.rosario3.com/__export/1790368000148/sites/rosario3/img/2026/09/25/mirian_bregman.jpg_982625323.jpg",
         "summary": "La diputada nacional por la izquierda cuestionó el proyecto oficial de reforma electoral y lo tildó de “antidemocrático”. Dijo que hablar de elecciones le conviene tanto al oficialismo como a la oposición tradicional. Cree que “ahora” es el momento para rechazar el proyecto de…",
-        "pubDate": "2026-09-25T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Alerta por tormentas en Rosario: anticipan lluvias hasta el martes",
-        "link": "https://www.rosario3.com/informaciongeneral/alerta-por-tormentas-en-rosario-anticipan-lluvias-hasta-el-martes-20260927-0002.html",
-        "image": "https://www.rosario3.com/__export/1790508751751/sites/rosario3/img/2026/09/27/clima_tiempo_lluvia-15.jpg_1825222445.jpg",
-        "summary": "El Servicio Meteorológico mantiene la advertencia por fenómenos intensos para la mañana y la tarde de este domingo. Además, la inestabilidad y las lluvias se quedarán en el inicio de semana",
-        "pubDate": "2026-09-27T11:57:00+00:00",
+        "pubDate": "2026-09-25T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -49,20 +49,20 @@
       },
       {
         "source": "Rosario3",
-        "title": "Los Juegos Suramericanos 2026 llegaron a su fin con una gran ceremonia de cierre en Santa Fe",
-        "link": "https://www.rosario3.com/informaciongeneral/cuando-terminan-y-como-se-despiden-los-xiii-juegos-suramericanos-en-santa-fe-20260924-0024.html",
-        "image": "https://www.rosario3.com/__export/1790467218984/sites/rosario3/img/2026/09/26/clausura_juegos.jpg_506286608.jpg",
-        "summary": "Durante la jornada de este sábado hubo, además de las últimas competencias, eventos en todas las sedes, tanto Rosario como Santa Fe capital y Rafaela",
-        "pubDate": "2026-09-24T11:55:00+00:00",
+        "title": "Juegos Suramericanos 2026: Argentina obtuvo un muy meritorio 2° lugar en el medallero...¿y ahora qué?",
+        "link": "https://www.rosario3.com/deportes/juegos-suramericanos-2026-argentina-obtuvo-un-muy-meritorio-2-lugar-en-el-medallero...y-ahora-que-20260927-0001.html",
+        "image": "https://www.rosario3.com/__export/1790112224274/sites/rosario3/img/2026/09/22/720_-14-_-1-.jpg_802939107.jpg",
+        "summary": "La delegación albiceleste tuvo una destacadísima labor en los Juegos que se desarrollaron en nuestra ciudad obteniendo 81 medallas de oro y 293 en total; pero ¿Qué posibilidades hay de llevar esto a escala mundial?",
+        "pubDate": "2026-09-27T11:55:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "El ciclo virtuoso que se inauguró hace menos de tres años con Russo, sumó una nueva estrella para las vitrinas canallas",
-        "link": "https://www.rosario3.com/deportes/el-ciclo-virtuoso-que-se-inauguro-hace-menos-de-tres-anos-con-russo-sumo-una-nueva-estrella-para-las-vitrinas-canallas-20260926-0032.html",
-        "image": "https://www.rosario3.com/__export/1790463407753/sites/rosario3/img/2026/09/26/central_campeon_-1-.jpg_506286608.jpg",
-        "summary": "Central no debería dejar pasar la oportunidad de seguir creciendo futbolística e institucionalmente. Debe subirse al tren del éxito, no es algo de todos los días",
-        "pubDate": "2026-09-26T11:54:00+00:00",
+        "title": "Alerta por tormentas en Rosario: anticipan lluvias hasta el martes",
+        "link": "https://www.rosario3.com/informaciongeneral/alerta-por-tormentas-en-rosario-anticipan-lluvias-hasta-el-martes-20260927-0002.html",
+        "image": "https://www.rosario3.com/__export/1790508751751/sites/rosario3/img/2026/09/27/clima_tiempo_lluvia-15.jpg_1825222445.jpg",
+        "summary": "El Servicio Meteorológico mantiene la advertencia por fenómenos intensos para la mañana y la tarde de este domingo. Además, la inestabilidad y las lluvias se quedarán en el inicio de semana",
+        "pubDate": "2026-09-27T11:54:00+00:00",
         "approxTime": true
       },
       {
@@ -130,15 +130,33 @@
       },
       {
         "source": "Rosario3",
-        "title": "Almirón se sacó una espina en Central: “La gente se puso exigente, los equipos grandes son así”",
-        "link": "https://www.rosario3.com/deportes/almiron-se-saco-una-espina-en-central-la-gente-se-puso-exigente-los-equipos-grandes-son-asi-20260926-0029.html",
-        "image": "https://www.rosario3.com/__export/1790461755656/sites/rosario3/img/2026/09/26/almiron.jpg_506286608.jpg",
-        "summary": "El entrenador canalla obtuvo la estrella en la Supercopa Internacional tras vencer en la final a Estudiantes de La Plata. Llegaba cuestionado por los hinchas a raíz de algunos malos resultados en momentos clave. Esta vez pudo festejar",
+        "title": "Los hinchas de Central inundaron las calles para festejar la Supercopa Internacional, con dedicatoria especial a Estudiantes",
+        "link": "https://www.rosario3.com/deportes/los-hinchas-de-central-inundaron-las-calles-para-festejar-la-supercopa-internacional-con-dedicatoria-especial-a-estudiantes-20260926-0033.html",
+        "image": "https://www.rosario3.com/__export/1790465291561/sites/rosario3/img/2026/09/26/central-hinchas.jpg_928314580.jpg",
+        "summary": "Miles de fanáticos canallas salieron a festejar la obtención de la Supercopa Internacional luego de la victoria ante Estudiantes de La Plata en Santiago del Estero. El Gigante de Arroyito, la sede Fundacional y las principales avenidas de la ciudad se tiñeron de azul y amarillo",
         "pubDate": "2026-09-26T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Alzheimer: señales de alerta, tratamientos disponibles y el rol de la familia",
+        "link": "https://www.lacapital.com.ar/salud/alzheimer-senales-alerta-tratamientos-disponibles-y-el-rol-la-familia-n10282932.html",
+        "image": "https://media.lacapital.com.ar/p/0a1daa6306c0ce7f51f4b445a0aa153a/adjuntos/203/imagenes/103/424/0103424597/1200x675/smart/imagen-nota.jpg",
+        "summary": "La neuróloga de Grupo Gamma, Virginia Tejada Jacob, explica cómo identificar los primeros síntomas, qué opciones terapéuticas existen y cómo acompañar a quienes reciben el diagnóstico",
+        "pubDate": "2026-09-27T12:02:30+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "VGG como aula abierta: más de 700 alumnos de primaria recorrieron el Circuito Educativo Municipal",
+        "link": "https://www.lacapital.com.ar/la-region/vgg-como-aula-abierta-mas-700-alumnos-primaria-recorrieron-el-circuito-educativo-municipal-n10283190.html",
+        "image": "https://media.lacapital.com.ar/p/ff03815f7bec1328544f6c21d500803b/adjuntos/203/imagenes/103/427/0103427306/1200x675/smart/vgg-circuito3.jpeg",
+        "summary": "Más de diez escuelas locales ya participaron de la propuesta gratuita para conocer instituciones, espacios históricos y emblemas de la vida comunitaria",
+        "pubDate": "2026-09-27T12:00:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Hallaron un cuerpo calcinado dentro de un pozo en Villa Gobernador Gálvez",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/3ba4829b29be304217fee22b88215670/adjuntos/203/imagenes/103/429/0103429524/1200x675/smart/image-2026-09-26t191544336.png",
         "summary": "Este domingo a las 16, Central, líder de la A, recibe a Unión de Álvarez. En la B, el puntero Club del Rosario visita a Defensores Unidos. Y en la C, Provincial B a San Roque",
         "pubDate": "2026-09-27T09:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "IRT Medicina para Empresas se suma a un encuentro clave sobre el futuro del trabajo",
-        "link": "https://www.lacapital.com.ar/la-ciudad/irt-medicina-empresas-se-suma-un-encuentro-clave-el-futuro-del-trabajo-n10283400.html",
-        "image": "https://media.lacapital.com.ar/p/c04b48944f51b34625aeefa104b3af31/adjuntos/203/imagenes/103/429/0103429572/1200x675/smart/b9424128-8ef6-4bc8-be8c-54dbdf536ce0.jpg",
-        "summary": "Más de 2.000 profesionales de 43 países llegarán a Rosario para participar del Congreso Internacional ORP. Los nuevos desafíos de la salud y la gestión en el ámbito laboral",
-        "pubDate": "2026-09-27T09:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Más escala y tecnología: así se transforma el negocio porcino en Santa Fe",
-        "link": "https://www.lacapital.com.ar/agro/mas-escala-y-tecnologia-asi-se-transforma-el-negocio-porcino-santa-fe-n10282945.html",
-        "image": "https://media.lacapital.com.ar/p/2217a064853640376250d4b81e1aa48c/adjuntos/305/imagenes/102/720/0102720828/1200x675/smart/porcinos55e64.jpg",
-        "summary": "Con el 18,4% de la producción porcina argentina, la provincia consolida su peso en la cadena. Mejoras genéticas, bioseguridad y climatización elevan la productividad. Cae el número de pequeños establecimientos no integrados",
-        "pubDate": "2026-09-27T09:15:00+00:00",
         "approxTime": false
       }
     ]
