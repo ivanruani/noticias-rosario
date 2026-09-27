@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T09:01:14.394528+00:00",
+  "generatedAt": "2026-09-27T09:31:00.378831+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,87 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Kosacoff: \"La industria no es el problema sino parte de la solución\"",
+        "link": "https://www.lacapital.com.ar/economia/kosacoff-la-industria-no-es-el-problema-sino-parte-la-solucion-n10283407.html",
+        "image": "https://media.lacapital.com.ar/p/fbcb459af392145585d71410d1bb569f/adjuntos/203/imagenes/100/781/0100781003/1200x675/smart/kosacoffjpg.jpg",
+        "summary": "El ex director de la Cepal y reconocido investigador sobre desarrollo económico lamentó la “baja reputación” del sector en las políticas públicas",
+        "pubDate": "2026-09-27T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Crónicas de campaña: el 70% de la región agrícola pide agua",
+        "link": "https://www.lacapital.com.ar/agro/cronicas-campana-el-70-la-region-agricola-pide-agua-n10283417.html",
+        "image": "https://media.lacapital.com.ar/p/e5f5bd3d0362066646fc5bcdf2c188e1/adjuntos/203/imagenes/100/491/0100491522/1200x675/smart/trigo-secojpeg.jpeg",
+        "summary": "Las últimas lluvias del invierno no alcanzaron para revertir el déficit hídrico en el centro-oeste de la región. La Guía Estratégica para el Agro advierte que el trigo pierde condición y el maíz encuentra dificultades para avanzar con la siembra.",
+        "pubDate": "2026-09-27T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Más escala y tecnología: así se transforma el negocio porcino en Santa Fe",
+        "link": "https://www.lacapital.com.ar/agro/mas-escala-y-tecnologia-asi-se-transforma-el-negocio-porcino-santa-fe-n10282945.html",
+        "image": "https://media.lacapital.com.ar/p/2217a064853640376250d4b81e1aa48c/adjuntos/305/imagenes/102/720/0102720828/1200x675/smart/porcinos55e64.jpg",
+        "summary": "Con el 18,4% de la producción porcina argentina, la provincia consolida su peso en la cadena. Mejoras genéticas, bioseguridad y climatización elevan la productividad. Cae el número de pequeños establecimientos no integrados",
+        "pubDate": "2026-09-27T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Rosario avanza hacia un estacionamiento medido con tecnología predictiva",
+        "link": "https://www.lacapital.com.ar/novedades/rosario-avanza-un-estacionamiento-medido-tecnologia-predictiva-n10283371.html",
+        "image": "https://media.lacapital.com.ar/p/0c8a31bc7b3347c78ad71ffb079c95d4/adjuntos/203/imagenes/103/429/0103429258/1200x675/smart/impreso-publinota-estacionamiento-medido.png",
+        "summary": "La propuesta presentada por SONDA obtuvo la mejor evaluación técnica del proceso y reúne tecnología predictiva implementada en Europa, experiencia regional y condiciones económicas convenientes para la ciudadanía. Con la instancia de evaluación técnica superada, la compañía ya…",
+        "pubDate": "2026-09-27T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Pullaro, Unidos y la agenda del día después de los Juegos Suramericanos",
+        "link": "https://www.lacapital.com.ar/politica/pullaro-unidos-y-la-agenda-del-dia-despues-los-juegos-suramericanos-n10283341.html",
+        "image": "https://media.lacapital.com.ar/p/3318cc8b8f17a49ca9bbfd6452efd507/adjuntos/203/imagenes/103/256/0103256169/casa-gris.jpg",
+        "summary": "Capitalización del deporte, escenario judicial, obras, inversiones y debate interno para garantizar la continuidad en el poder: temas clave para el oficialismo",
+        "pubDate": "2026-09-27T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Myriam Bregman: \"Con una huelga general que logre paralizar el país se puede derrotar al gobierno\"",
+        "link": "https://www.lacapital.com.ar/politica/myriam-bregman-con-una-huelgageneral-que-logre-paralizar-el-pais-se-puede-derrotar-al-gobierno-n10282818.html",
+        "image": "https://media.lacapital.com.ar/p/4d092ceca0ed20d7412b4f1596ac07ef/adjuntos/203/imagenes/103/423/0103423047/1200x675/smart/rusa.jpg",
+        "summary": "La principal referente de la izquierda argentina sostiene que es posible jaquear a Milei con lucha callejera y movilizaciones permanentes. Críticas a los moderados y a Kicillof",
+        "pubDate": "2026-09-27T09:05:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El vivero inclusivo de San Lorenzo celebró su Feria de Primavera",
+        "link": "https://www.lacapital.com.ar/el-vivero-inclusivo-san-lorenzo-celebro-su-feria-primavera-n10283394.html",
+        "image": "https://media.lacapital.com.ar/p/40e1646f55b848b9eef0933d79a352e0/adjuntos/203/imagenes/103/429/0103429478/1200x675/smart/whatsapp-image-2026-09-26-at-185500.jpeg",
+        "summary": "Los jóvenes que participan del espacio ofrecieron diversos plantines de producción propia. La propuesta convocó a una gran cantidad de vecinos y permitió compartir el resultado del trabajo que realizan durante el taller",
+        "pubDate": "2026-09-27T09:05:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La ciudad será sede de la segunda Semana del Clima Rosario",
+        "link": "https://www.lacapital.com.ar/la-ciudad/la-ciudad-sera-sede-la-segunda-semana-del-clima-rosario-n10283372.html",
+        "image": "https://media.lacapital.com.ar/p/b1febe507e5de4b09777e20c2c5e430f/adjuntos/203/imagenes/103/429/0103429260/1200x675/smart/image-2026-09-26t171102800.png",
+        "summary": "El encuentro se realizará entre el 13 y el 16 octubre en la Terminal Fluvial y abordará la adaptación al cambio climático, la innovación productiva, la transición justa y los pasos entre los acuerdos globales y la acción local",
+        "pubDate": "2026-09-27T09:05:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Milei vs. Milei: promesas demoradas y la pelea por el voto impaciente",
+        "link": "https://www.lacapital.com.ar/suscriptores/milei-vs-milei-promesas-demoradas-y-la-pelea-el-voto-impaciente-n10283404.html",
+        "image": "https://media.lacapital.com.ar/p/51b4876a73f164178eb1142fc588f8da/adjuntos/203/imagenes/103/429/0103429620/1200x675/smart/milei-estados-unidos-escudo-las-americas.jpg",
+        "summary": "El aumento de la pobreza y el freno de la economía ponen a prueba el contrato del gobierno con la sociedad. Las tensiones en la intimidad del poder y la demanda de un Estado más presente",
+        "pubDate": "2026-09-27T09:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Central Córdoba con Cacho Sialle se clasificó al Reducido con una tremenda racha sin perder",
         "link": "https://www.lacapital.com.ar/ovacion/central-cordoba-cacho-sialle-se-clasifico-al-reducido-una-tremenda-racha-perder-n10283403.html",
         "image": "https://media.lacapital.com.ar/p/58193bbc18afbf727e1a0bac23df29e8/adjuntos/203/imagenes/103/429/0103429772/1200x675/smart/image-2026-09-26t213615175.png",
@@ -191,87 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/0dd460515a5585c72d091a2e905e5aff/adjuntos/203/imagenes/103/429/0103429691/1200x675/smart/image-6.jpg",
         "summary": "Fideo, ese campeón del mundo que volvió a Arroyito por más gloria de la que ya tenía, fue la bandera de este equipo canalla que volvió a gritar campeón",
         "pubDate": "2026-09-26T23:04:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La premiación de Central, con camisetas para la ocasión, sin pasillo y aplausos de Estudiantes",
-        "link": "https://www.lacapital.com.ar/ovacion/la-premiacion-central-camisetas-la-ocasion-pasillo-y-aplausos-estudiantes-n10283392.html",
-        "image": "https://media.lacapital.com.ar/p/2d1a1447d12b265a303567c105af5ef6/adjuntos/203/imagenes/103/429/0103429523/1200x675/smart/image-4.jpg",
-        "summary": "El Chiqui Tapia le entregó las medallas a los jugadores de Central campeón, con los futbolistas de Estudiantes a un costado",
-        "pubDate": "2026-09-26T22:17:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Pami: cómo solicitar pañales a domicilio y cada cuánto renovar la solicitud",
-        "link": "https://www.lacapital.com.ar/informacion-general/pami-como-solicitar-panales-domicilio-y-cada-cuanto-renovar-la-solicitud-n10283164.html",
-        "image": "https://media.lacapital.com.ar/p/f93ca39c625eb0f06a325209e45789d2/adjuntos/203/imagenes/102/559/0102559916/1200x675/smart/panales-pami.jpg",
-        "summary": "A partir del nuevo sistema, los afiliados reciben los pañales en sus casas pero deben mantener su solicitud actualizada para acceder al servicio",
-        "pubDate": "2026-09-26T22:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Di María goleador, emocionado y campeón : \"Volví a Central para darle alegría a la gente\"",
-        "link": "https://www.lacapital.com.ar/ovacion/di-maria-goleador-emocionado-y-campeon-volvi-central-darle-alegria-la-gente-n10283388.html",
-        "image": "https://media.lacapital.com.ar/p/4223f47676c04204274a38ee78546ab8/adjuntos/203/imagenes/103/429/0103429489/di-marrrr.jpg",
-        "summary": "Ángel Di María se emocionó hasta las lágrimas tras ganar la Supercopa Internacional ante Estudiantes. \"Lo soñé toda mi vida\", confió",
-        "pubDate": "2026-09-26T22:03:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Los Juegos Suramericanos cerraron con récord histórico de asistentes y fiesta en Santa Fe",
-        "link": "https://www.lacapital.com.ar/la-ciudad/los-juegos-suramericanos-cerraron-record-historico-asistentes-y-fiesta-santa-fe-n10283391.html",
-        "image": "https://media.lacapital.com.ar/p/c2d4b90ba0c41b5207622836748b49a9/adjuntos/203/imagenes/103/429/0103429763/1200x675/smart/57da711d-a8cd-401f-a255-d6efda446c39.jpg",
-        "summary": "El evento final tuvo desfile de las delegaciones, traspaso de banderas, homenaje a voluntarios y el apagado del fuego olímpico. El presidente del Comité Olímpico Argentino afirmó que esta edición fue la que más público tuvo en su historia, con más de 3 millones y medio de…",
-        "pubDate": "2026-09-26T22:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El secretario de Defensa del Reino Unido dijo que tienen la capacidad de \"defender\" las Malvinas",
-        "link": "https://www.lacapital.com.ar/politica/el-secretario-defensa-del-reino-unido-dijo-que-tienen-la-capacidad-defender-las-malvinas-n10283376.html",
-        "image": "https://media.lacapital.com.ar/p/61b354f1aac59a8526cd8ee4edca75f0/adjuntos/203/imagenes/103/429/0103429288/1200x675/smart/image.png",
-        "summary": "Wes Streeting rechazó los reclamos de Javier Milei y advirtió que su país dispone de recursos para proteger el archipiélago en caso de una escalada",
-        "pubDate": "2026-09-26T21:55:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El SMN renovó el alerta amarillo por tormentas fuertes para Rosario",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-smn-renovo-el-alerta-amarillo-tormentas-fuertes-rosario-n10283384.html",
-        "image": "https://media.lacapital.com.ar/p/96c74cfea8a5b8b255a8c46025b3acdb/adjuntos/203/imagenes/019/527/0019527377/1200x675/smart/alluvia2jpg.jpg",
-        "summary": "Durante el domingo, se desarrollarán eventos de distinta intensidad en todo el sur y algunos departamentos del este de Santa Fe",
-        "pubDate": "2026-09-26T21:52:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El uno x uno de Central: Di María y su zurda, los destacados del triunfo con título incluido",
-        "link": "https://www.lacapital.com.ar/ovacion/el-uno-x-uno-central-di-maria-y-su-zurda-los-destacados-del-triunfo-titulo-incluido-n10283295.html",
-        "image": "https://media.lacapital.com.ar/p/1c597e5371234153076b72fecef220f1/adjuntos/203/imagenes/103/429/0103429453/1200x675/smart/image-2026-09-26t184221005.png",
-        "summary": "El capitán canalla metió un tiro libre increíble para lograr el empate y dio vuelta la historia con un penal. El gran ganador en la tarde de Santiago",
-        "pubDate": "2026-09-26T21:50:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La bronca de Estudiantes en un final bochornoso y todos los dardos para Darío Herrera",
-        "link": "https://www.lacapital.com.ar/ovacion/la-bronca-estudiantes-un-final-bochornoso-y-todos-los-dardos-dario-herrera-n10283382.html",
-        "image": "https://media.lacapital.com.ar/p/880986746f1a158979e47426ca1c90a2/adjuntos/203/imagenes/103/429/0103429430/1200x675/smart/image-3.jpg",
-        "summary": "Las quejas de Estudiantes fueron por el penal sancionado a Central, el que le reclamaron al final por el brazo de Ovando, y por no expulsar al pibe Verón.",
-        "pubDate": "2026-09-26T21:48:05+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central campeón de la Supercopa Internacional: de la oscuridad del inicio del partido al brillo del final",
-        "link": "https://www.lacapital.com.ar/ovacion/central-campeon-la-supercopa-internacional-la-oscuridad-del-inicio-del-partido-al-brillo-del-final-n10283386.html",
-        "image": "https://media.lacapital.com.ar/p/3e2144f1c6104e8f8f102fec578842bf/adjuntos/203/imagenes/103/429/0103429454/1200x675/smart/image-1.jpg",
-        "summary": "El Canalla lo empezó perdiendo antes del minuto, pero lo dio vuelta ya en el primer tiempo con un doblete de Di María. Lo sentenció en los segundos finales",
-        "pubDate": "2026-09-26T21:41:00+00:00",
         "approxTime": false
       }
     ]
