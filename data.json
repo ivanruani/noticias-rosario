@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-09-27T21:01:19.001545+00:00",
+  "generatedAt": "2026-09-27T21:31:08.927186+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Cierre de Electrolux: la UOM se moviliza al Ministerio de Trabajo por despidos \"ilegales\"",
+        "link": "https://www.rosario3.com/informaciongeneral/cierre-de-electrolux-la-uom-se-moviliza-al-ministerio-de-trabajo-por-despidos-ilegales-20260927-0028.html",
+        "image": "https://www.rosario3.com/__export/1790543693401/sites/rosario3/img/2026/09/27/uom.jpg_669612975.jpg",
+        "summary": "El gremio metalúrgico exigirá este lunes la nulidad de las desvinculaciones en la planta de Frimetal SA y reclamará la reapertura del procedimiento preventivo de crisis para resguardar las fuentes de trabajo",
+        "pubDate": "2026-09-27T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Run Run: interna complicada en el puerto, un imprevisto en el Aeropuerto y aparecen legajos a favor de Damfield",
         "link": "https://www.rosario3.com/-economia-negocios-agro-/run-run-interna-complicada-en-el-puerto-un-imprevisto-en-el-aeropuerto-y-aparecen-legajos-a-favor-de-damfield-20260927-0019.html",
         "image": "https://www.rosario3.com/__export/1781782552515/sites/rosario3/img/2026/06/18/vuelo1.jpg_982625323.jpg",
         "summary": "Además: importantes novedades en la investigación de las presuntas estafas de la financiera Ciag que avizoran un avances de Fiscalía",
-        "pubDate": "2026-09-27T12:00:00+00:00",
+        "pubDate": "2026-09-27T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,16 +26,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/regimen-penal-juvenil-como-sera-el-seguimiento-de-los-adolescentes-y-que-rol-tendran-los-nuevos-supervisores-20260925-0034.html",
         "image": "https://www.rosario3.com/__export/1790349617313/sites/rosario3/img/2026/09/21/ley_penal_juvenil.jpg_1768679257.jpg",
         "summary": "El Ministerio de Justicia puso en marcha el programa para implementar la Ley 27.801 y aprobó el reglamento del Registro de Supervisores, las normas de asistencia a víctimas y un manual de 298 páginas para quienes tendrán a cargo el seguimiento de adolescentes. La nueva…",
-        "pubDate": "2026-09-25T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Estafaron a dos hinchas de Boca en Rosario: pagaron $150 mil por entradas truchas",
-        "link": "https://www.rosario3.com/deportes/estafaron-a-dos-hinchas-de-boca-en-rosario-pagaron-150-mil-por-entradas-truchas-20260927-0026.html",
-        "image": "https://www.rosario3.com/__export/1790541299599/sites/rosario3/img/2026/09/27/boca_gigante.jpg_1997116156.jpg",
-        "summary": "Viajaron 400 kilómetros desde el interior de Córdoba para alentar a su equipo en el Gigante de Arroyito frente a Racing, por Copa Argentina. Pero al llegar al control descubrieron la estafa. Además, reportaron demoras en los accesos y tensiones con la policía en las tribunas",
-        "pubDate": "2026-09-27T11:58:00+00:00",
+        "pubDate": "2026-09-25T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -42,7 +42,7 @@
         "source": "Rosario3",
         "title": "Boca y Racing se juegan el pasaje a las semifinales de la Copa Argentina en el Gigante de Arroyito",
         "link": "https://www.rosario3.com/deportes/boca-y-racing-se-juegan-el-pasaje-a-las-semifinales-de-la-copa-argentina-en-el-gigante-de-arroyito-20260927-0022.html",
-        "image": "https://www.rosario3.com/__export/1790531566760/sites/rosario3/img/2026/09/27/boca_racing_1.jpg_928314580.jpg",
+        "image": "https://www.rosario3.com/__export/1790543139605/sites/rosario3/img/2026/09/27/boca_racing_ok.jpg_928314580.jpg",
         "summary": "El Xeneize y la Academia se enfrentan este domingo desde las 17 en el Gigante de Arroyito. Andrés Gariano será el árbitro que se disputa en Rosario. Transmite Radio 2",
         "pubDate": "2026-09-27T11:56:00+00:00",
         "approxTime": true
@@ -58,10 +58,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Rosario se prepara para la 20ª Marcha del Orgullo: habrá una semana de actividades",
-        "link": "https://www.rosario3.com/informaciongeneral/rosario-se-prepara-para-la-20-marcha-del-orgullo-habra-una-semana-de-actividades-20260927-0016.html",
-        "image": "https://www.rosario3.com/__export/1790523401730/sites/rosario3/img/2026/09/27/-orne-avedikian_-dsc2786.jpg_1753805602.jpg",
-        "summary": "La agenda comenzará este domingo en Plataforma Lavardén con propuestas culturales gratuitas y culminará el sábado 3 con la movilización desde Mitre y Pasco hasta el Monumento a la Bandera",
+        "title": "Estafaron a dos hinchas de Boca en Rosario: pagaron $150 mil por entradas truchas",
+        "link": "https://www.rosario3.com/deportes/estafaron-a-dos-hinchas-de-boca-en-rosario-pagaron-150-mil-por-entradas-truchas-20260927-0026.html",
+        "image": "https://www.rosario3.com/__export/1790541299599/sites/rosario3/img/2026/09/27/boca_gigante.jpg_1997116156.jpg",
+        "summary": "Viajaron 400 kilómetros desde el interior de Córdoba para alentar a su equipo en el Gigante de Arroyito frente a Racing, por Copa Argentina. Pero al llegar al control descubrieron la estafa. Además, reportaron demoras en los accesos y tensiones con la policía en las tribunas",
         "pubDate": "2026-09-27T11:54:00+00:00",
         "approxTime": true
       },
@@ -85,11 +85,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Rosario se prepara para la 20ª Marcha del Orgullo: habrá una semana de actividades",
+        "link": "https://www.rosario3.com/informaciongeneral/rosario-se-prepara-para-la-20-marcha-del-orgullo-habra-una-semana-de-actividades-20260927-0016.html",
+        "image": "https://www.rosario3.com/__export/1790523401730/sites/rosario3/img/2026/09/27/-orne-avedikian_-dsc2786.jpg_1753805602.jpg",
+        "summary": "La agenda comenzará este domingo en Plataforma Lavardén con propuestas culturales gratuitas y culminará el sábado 3 con la movilización desde Mitre y Pasco hasta el Monumento a la Bandera",
+        "pubDate": "2026-09-27T11:51:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "El motor silencioso de los Juegos: historias, pasión y entrega de los más de 4.400 voluntarios de Santa Fe 2026",
         "link": "https://www.rosario3.com/deportes/el-motor-silencioso-de-los-juegos-historias-pasion-y-entrega-de-los-mas-de-4.400-voluntarios-de-santa-fe-2026-20260923-0053.html",
         "image": "https://www.rosario3.com/__export/1790249420568/sites/rosario3/img/2026/09/24/voluntarios4.jpg_928314580.jpg",
         "summary": "Repartidos entre Rosario, la capital provincial y Rafaela, los colaboradores garantizan el funcionamiento diario del certamen suramericano. Desde estudiantes universitarios hasta adultos que se tomaron vacaciones laborales para sumarse, su presencia resulta indispensable en…",
-        "pubDate": "2026-09-23T11:51:00+00:00",
+        "pubDate": "2026-09-23T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -98,7 +107,7 @@
         "link": "https://www.rosario3.com/deportes/pedro-de-haro-un-campeon-con-valores-visito-a-las-infantiles-de-provincial-a-menos-de-24-horas-del-oro-suramericano-20260924-0042.html",
         "image": "https://www.rosario3.com/__export/1790269748526/sites/rosario3/img/2026/09/24/rugby3_1.jpeg_419505748.jpeg",
         "summary": "El rosarino formado en Atlético del Rosario celebró la medalla dorada obtenida con Los Pumas 7s en Santa Fe 2026 acercándose a la Sede de Provincial para compartir un momento inolvidable con los más chicos",
-        "pubDate": "2026-09-24T11:50:00+00:00",
+        "pubDate": "2026-09-24T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -107,7 +116,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/capi-salio-del-fan-fest-y-llego-al-vilela-la-otra-cara-de-los-juegos-y-la-tarea-diaria-de-las-voluntarias-para-que-los-chicos-nunca-dejen-de-jugar-20260924-0035.html",
         "image": "https://www.rosario3.com/__export/1790264357983/sites/rosario3/img/2026/09/24/capi_vilela.png_786111822.png",
         "summary": "La mascota de los Juegos Suramericanos Santa Fe 2026 recorrió durante una hora y media los pasillos del Hospital de Niños Víctor J. Vilela, donde se encontró con chicos internados, familias y trabajadores. La visita también permitió conocer la tarea de las voluntarias, que…",
-        "pubDate": "2026-09-24T11:49:00+00:00",
+        "pubDate": "2026-09-24T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +125,7 @@
         "link": "https://www.rosario3.com/deportes/la-argentina-del-milagro-deportivo-como-se-financia-el-alto-rendimiento-y-por-que-los-atletas-reclaman-mas-apoyo-20260923-0043.html",
         "image": "https://www.rosario3.com/__export/1790181154482/sites/rosario3/img/2026/09/23/atletismo.jpg_506286608.jpg",
         "summary": "Las demandas de los atletas durante los Juegos Suramericanos 2026 reabrieron el debate sobre el respaldo al deporte de élite. Qué recursos aporta el Estado argentino, cómo funciona el sistema de becas del Enard y qué hacen otros países de la región como Brasil y Colombia. Daniel…",
-        "pubDate": "2026-09-23T11:48:00+00:00",
+        "pubDate": "2026-09-23T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,25 +134,52 @@
         "link": "https://www.rosario3.com/deportes/inspira-a-la-sociedad-y-a-los-jovenes-sebastian-crismanich-destaco-el-legado-y-el-fervor-popular-de-los-juegos-suramericanos-santa-fe-20260923-0028.html",
         "image": "https://www.rosario3.com/__export/1790171903246/sites/rosario3/img/2026/09/23/crismanich.jpg_928314580.jpg",
         "summary": "El campeón olímpico en Londres 2012 visitó la ciudad en su rol de entrenador del equipo paraguayo, junto a su familia. En diálogo con Rosario3, valoró el impacto de la infraestructura, la masiva convocatoria en el Fan Fest y la inspiración para las futuras generaciones de cara a…",
-        "pubDate": "2026-09-23T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "“Ganamos con el corazón, pero necesitamos plata”: el reclamo de los atletas argentinos en los Suramericanos",
-        "link": "https://www.rosario3.com/informaciongeneral/ganamos-con-el-corazon-pero-necesitamos-plata-el-reclamo-de-los-atletas-argentinos-en-los-suramericanos-20260919-0004.html",
-        "image": "https://www.rosario3.com/__export/1789823988366/sites/rosario3/img/2026/09/19/disen-o_sin_ti-tulo_-62-.png_928314581.png",
-        "summary": "Mientras Argentina suma medallas en los Juegos Suramericanos, distintos deportistas volvieron a poner sobre la mesa las dificultades económicas que atraviesa el alto rendimiento. Trabajo, becas, viajes y preparación aparecen entre las principales preocupaciones de quienes…",
-        "pubDate": "2026-09-19T11:46:00+00:00",
+        "pubDate": "2026-09-23T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Juegos Suramericanos: cómo se mantendrán los nuevos estadios después de la competencia",
+        "link": "https://www.lacapital.com.ar/la-ciudad/juegos-suramericanos-como-se-mantendran-los-nuevos-estadios-despues-la-competencia-n10283452.html",
+        "image": "https://media.lacapital.com.ar/p/5fdb5dceb9556f01d00ec2f5b1b4fcb1/adjuntos/203/imagenes/103/381/0103381061/1200x675/smart/image-9.jpg",
+        "summary": "La provincia trabaja en un esquema de concesiones y cobro de cánones a las instituciones que utilicen los predios deportivos para garantizar su mantenimiento",
+        "pubDate": "2026-09-27T21:13:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Crecimiento sin empleo: ocho de los diez sectores más dinámicos redujeron puestos de trabajo",
+        "link": "https://www.lacapital.com.ar/economia/crecimiento-empleo-ocho-los-diez-sectores-mas-dinamicos-redujeron-puestos-trabajo-n10283494.html",
+        "image": "https://media.lacapital.com.ar/p/2134191385345a94992ca6d8c2217551/adjuntos/203/imagenes/102/314/0102314128/1200x675/smart/campo-granos-cosechajpg.jpg",
+        "summary": "Entre los diez sectores mejor ubicados por su evolución productiva, solo el agro y la enseñanza sumaron puestos registrados, según un relevamiento de la UBA",
+        "pubDate": "2026-09-27T21:11:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Una escuela de Rosario ganó la Copa Robótica 2026 y representará a Argentina en el Mundial",
+        "link": "https://www.lacapital.com.ar/una-escuela-rosario-gano-la-copa-robotica-2026-y-representara-argentina-el-mundial-n10283495.html",
+        "image": "https://media.lacapital.com.ar/p/4644f09e18667cb5de1955b76bb15840/adjuntos/203/imagenes/103/430/0103430873/1200x675/smart/image-2026-09-27t174908047.jpg",
+        "summary": "El equipo Sanjobits101, de la Escuela Técnico Profesional y Secundaria Nº 8013 San José, se consagró campeón nacional en Neuquén",
+        "pubDate": "2026-09-27T21:07:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central volvió a cargar a Estudiantes tras el título y usó una frase de Los Simuladores",
+        "link": "https://www.lacapital.com.ar/ovacion/central-volvio-cargar-estudiantes-el-titulo-y-uso-una-frase-los-simuladores-n10283501.html",
+        "image": "https://media.lacapital.com.ar/p/fc34eaffee9139ef23f4448e55f9c110/adjuntos/203/imagenes/103/430/0103430896/1200x675/smart/imagedelia.jpg",
+        "summary": "El Canalla publicó una foto de Jorge Almirón con la medalla de campeón y escribió “¿Fuego tiene?”, una referencia directa a Federico D’Elía, reconocido hincha del Pincha.",
+        "pubDate": "2026-09-27T21:06:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Día del Empleado de Comercio: la federación advirtió por la pérdida salarial y el deterioro laboral",
         "link": "https://www.lacapital.com.ar/economia/dia-del-empleado-comercio-la-federacion-advirtio-la-perdida-salarial-y-el-deterioro-laboral-n10283492.html",
-        "image": "https://media.lacapital.com.ar/p/9edb1f56a0b6f519bc9092947aa75ae1/adjuntos/203/imagenes/101/027/0101027101/1200x675/smart/dia-del-empleado-comerciojpg.jpg",
+        "image": "https://media.lacapital.com.ar/p/f70c9485d007bcada750000ab2232111/adjuntos/203/imagenes/018/338/0018338721/1200x675/555x614:575x634/feriadojpg.jpg",
         "summary": "En un comunicado por el día del empleado de comercio, Faecys expresó su preocupación por la pérdida de poder adquisitivo y la calidad de vida de los trabajadores. Este lunes no abrirán supermercados, shoppings ni grandes cadenas",
         "pubDate": "2026-09-27T20:36:00+00:00",
         "approxTime": false
@@ -152,8 +188,8 @@
         "source": "La Capital",
         "title": "El túnel Illia y 150 años de historia: por qué rechazan transformarlo en un paseo de celebridades",
         "link": "https://www.lacapital.com.ar/la-ciudad/el-tunel-illia-y-150-anos-historia-que-rechazan-transformarlo-un-paseo-celebridades-n10283482.html",
-        "image": "https://media.lacapital.com.ar/p/44353cf4f70a31b03c9f929985e2eb20/adjuntos/203/imagenes/103/430/0103430518/1200x675/smart/image-2026-09-27t150440110.jpg",
-        "summary": "El corredor nació como enlace ferroviario con el puerto y conserva huellas de aquella Rosario agroexportadora. Un proyecto para intervenirlo abrió un fuerte debate sobre su valor patrimonial.",
+        "image": null,
+        "summary": null,
         "pubDate": "2026-09-27T20:27:00+00:00",
         "approxTime": false
       },
@@ -236,42 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/9a90a425044da3a55d28ad9c79fff891/adjuntos/203/imagenes/103/335/0103335913/1200x675/smart/indian.jpg",
         "summary": "La cadena de indumentaria uruguaya había anunciado su desembarco en un local de Córdoba al 1000 sobre fin de año, pero la apertura se postergó para 2027",
         "pubDate": "2026-09-27T14:09:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Puerto General San Martín busca ampliar su oferta de títulos universitarios",
-        "link": "https://www.lacapital.com.ar/la-region/puerto-general-san-martin-busca-ampliar-su-oferta-titulos-universitarios-n10283199.html",
-        "image": "https://media.lacapital.com.ar/p/401e800b2621030196908ed2ca28ac66/adjuntos/203/imagenes/103/427/0103427359/1200x675/smart/puerto-san-martin-expo-carreras-1.jpg",
-        "summary": "Desde el municipio mantienen gestiones con la UNR para incorporar extensiones áulicas de las carreras de medicina y psicología",
-        "pubDate": "2026-09-27T14:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cómo serán los papamóviles que trasladarán a León XIV en Argentina",
-        "link": "https://www.lacapital.com.ar/motores/como-seran-los-papamoviles-que-trasladaran-leon-xiv-argentina-n10283176.html",
-        "image": "https://media.lacapital.com.ar/p/c26b6657d36143200d4483c615070a95/adjuntos/203/imagenes/103/427/0103427170/1200x675/smart/papa-leon-xiv-papamovil.jpg",
-        "summary": "Toyota adaptará dos modelos de Hilux bajo protocolo vaticano. Los vehículos trasladarán al Pontífice por Buenos Aires y Córdoba durante su gira apostólica de noviembre",
-        "pubDate": "2026-09-27T13:39:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Alzheimer: señales de alerta, tratamientos disponibles y el rol de la familia",
-        "link": "https://www.lacapital.com.ar/salud/alzheimer-senales-alerta-tratamientos-disponibles-y-el-rol-la-familia-n10282932.html",
-        "image": "https://media.lacapital.com.ar/p/0a1daa6306c0ce7f51f4b445a0aa153a/adjuntos/203/imagenes/103/424/0103424597/1200x675/smart/imagen-nota.jpg",
-        "summary": "La neuróloga de Grupo Gamma, Virginia Tejada Jacob, explica cómo identificar los primeros síntomas, qué opciones terapéuticas existen y cómo acompañar a quienes reciben el diagnóstico",
-        "pubDate": "2026-09-27T12:02:30+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "VGG como aula abierta: más de 700 alumnos de primaria recorrieron el Circuito Educativo Municipal",
-        "link": "https://www.lacapital.com.ar/la-region/vgg-como-aula-abierta-mas-700-alumnos-primaria-recorrieron-el-circuito-educativo-municipal-n10283190.html",
-        "image": "https://media.lacapital.com.ar/p/ff03815f7bec1328544f6c21d500803b/adjuntos/203/imagenes/103/427/0103427306/1200x675/smart/vgg-circuito3.jpeg",
-        "summary": "Más de diez escuelas locales ya participaron de la propuesta gratuita para conocer instituciones, espacios históricos y emblemas de la vida comunitaria",
-        "pubDate": "2026-09-27T12:00:00+00:00",
         "approxTime": false
       }
     ]
