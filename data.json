@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T13:31:03.345069+00:00",
+  "generatedAt": "2026-09-27T13:53:23.308982+00:00",
   "sites": {
     "rosario3": [
       {
@@ -16,7 +16,7 @@
         "title": "VIH en Rosario: a 3 años de su aplicación, sube la demanda de profilaxis pre y post exposición al virus",
         "link": "https://www.rosario3.com/informaciongeneral/vih-en-rosario-a-3-anos-de-su-aplicacion-sube-la-demanda-de-profilaxis-pre-y-post-exposicion-al-virus-20260923-0065.html",
         "image": "https://www.rosario3.com/__export/1790203826107/sites/rosario3/img/2026/09/23/prep_2.jpg_1768679257.jpg",
-        "summary": "Los métodos Pre-Exposición (PrEP) y Post-Exposición (PEP) al VIH son procedimientos de prevención y emergencia, respectivamente, cada vez más solicitados en la Salud Pública. Están disponible desde 2023 y actualmente, 150 personas acceden al Programa en efectores municipales. En…",
+        "summary": "Los métodos Pre-Exposición (PrEP) y Post-Exposición (PEP) al VIH son procedimientos de prevención y emergencia, respectivamente, cada vez más solicitados en la Salud Pública. Están disponibles desde 2023 y actualmente, 150 personas acceden al Programa en efectores municipales…",
         "pubDate": "2026-09-23T11:59:00+00:00",
         "approxTime": true
       },
@@ -130,15 +130,24 @@
       },
       {
         "source": "Rosario3",
-        "title": "El comunicado de Alpine tras el choque de Franco Colapintos y el “hateo “en redes sociales: “Ya no se puede tolerar”",
-        "link": "https://www.rosario3.com/deportes/el-comunicado-de-alpine-tras-el-choque-de-franco-colapintos-y-el-hateo-en-redes-sociales-ya-no-se-puede-tolerar-20260927-0004.html",
-        "image": "https://www.rosario3.com/__export/1790515373781/sites/rosario3/img/2026/09/27/image_-60-_version1790515373306.jpg_1559198253.jpg",
-        "summary": "El través de una publicación en redes sociales, la escudería se refirió a lo ocurrido el último sábado en el Gran Premio de Azerbaiyán, en el que el piloto argentino recibió una sanción de la FIA por una maniobra. “Los errores ocurren cuando se corre al límite”, se lee en el…",
+        "title": "Dos tiroteos masivos en Sudáfrica dejaron 27 muertos y decenas de heridos",
+        "link": "https://www.rosario3.com/informaciongeneral/dos-tiroteos-masivos-en-sudafrica-dejaron-27-muertos-y-decenas-de-heridos-20260927-0007.html",
+        "image": "https://www.rosario3.com/__export/1790516416708/sites/rosario3/img/2026/09/27/sudafrica.jpg_1825222445.jpg",
+        "summary": "Los ataques ocurrieron en locales nocturnos de las zonas de Johannesburgo y Ciudad del Cabo. La Policía busca a los responsables e investiga las circunstancias de ambos hechos",
         "pubDate": "2026-09-27T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Cómo serán los papamóviles que trasladarán a León XIV en Argentina",
+        "link": "https://www.lacapital.com.ar/motores/como-seran-los-papamoviles-que-trasladaran-leon-xiv-argentina-n10283176.html",
+        "image": "https://media.lacapital.com.ar/p/c26b6657d36143200d4483c615070a95/adjuntos/203/imagenes/103/427/0103427170/1200x675/smart/papa-leon-xiv-papamovil.jpg",
+        "summary": "Toyota adaptará dos modelos de Hilux bajo protocolo vaticano. Los vehículos trasladarán al Pontífice por Buenos Aires y Córdoba durante su gira apostólica de noviembre",
+        "pubDate": "2026-09-27T13:39:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Alzheimer: señales de alerta, tratamientos disponibles y el rol de la familia",
@@ -262,15 +271,6 @@
         "link": "https://www.lacapital.com.ar/opinion/un-bonaerense-nueva-york-n10283261.html",
         "image": "https://media.lacapital.com.ar/p/816c4fa1e4238517d4197b079f01b8da/adjuntos/203/imagenes/103/422/0103422104/1200x675/smart/image.png",
         "summary": "Los caminos de Axel Kicillof hacia la Casa Rosada en medio de la interna del peronismo",
-        "pubDate": "2026-09-27T09:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Asociación Rosarina: se juega otra jornada en el fútbol local en las tres categorías",
-        "link": "https://www.lacapital.com.ar/ovacion/asociacion-rosarina-se-juega-otra-jornada-el-futbol-local-las-tres-categorias-n10283379.html",
-        "image": "https://media.lacapital.com.ar/p/3ba4829b29be304217fee22b88215670/adjuntos/203/imagenes/103/429/0103429524/1200x675/smart/image-2026-09-26t191544336.png",
-        "summary": "Este domingo a las 16, Central, líder de la A, recibe a Unión de Álvarez. En la B, el puntero Club del Rosario visita a Defensores Unidos. Y en la C, Provincial B a San Roque",
         "pubDate": "2026-09-27T09:30:00+00:00",
         "approxTime": false
       }
