@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T06:31:02.633151+00:00",
+  "generatedAt": "2026-09-27T07:01:35.730985+00:00",
   "sites": {
     "rosario3": [
       {
@@ -54,15 +54,6 @@
         "image": "https://www.rosario3.com/__export/1790467218984/sites/rosario3/img/2026/09/26/clausura_juegos.jpg_506286608.jpg",
         "summary": "Durante la jornada de este sábado hubo, además de las últimas competencias, eventos en todas las sedes, tanto Rosario como Santa Fe capital y Rafaela",
         "pubDate": "2026-09-24T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Hallaron un cuerpo calcinado dentro de un pozo en Villa Gobernador Gálvez",
-        "link": "https://www.rosario3.com/policiales/hallaron-un-cuerpo-calcinado-dentro-de-un-pozo-en-villa-gobernador-galvez-20260926-0031.html",
-        "image": "https://www.rosario3.com/__export/1790462625702/sites/rosario3/img/2026/03/01/policia_patrullero.jpg_1825222445.jpg",
-        "summary": "Fue encontrado este sábado a la tarde en un sector cercano a la ruta provincial S22 y al arroyo Saladillo. Por ahora el cuerpo no fue identificado y se investigan las circustancias de la muerte",
-        "pubDate": "2026-09-26T11:54:00+00:00",
         "approxTime": true
       },
       {
@@ -135,6 +126,15 @@
         "image": "https://www.rosario3.com/__export/1790171903246/sites/rosario3/img/2026/09/23/crismanich.jpg_928314580.jpg",
         "summary": "El campeón olímpico en Londres 2012 visitó la ciudad en su rol de entrenador del equipo paraguayo, junto a su familia. En diálogo con Rosario3, valoró el impacto de la infraestructura, la masiva convocatoria en el Fan Fest y la inspiración para las futuras generaciones de cara a…",
         "pubDate": "2026-09-23T11:46:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "“Ganamos con el corazón, pero necesitamos plata”: el reclamo de los atletas argentinos en los Suramericanos",
+        "link": "https://www.rosario3.com/informaciongeneral/ganamos-con-el-corazon-pero-necesitamos-plata-el-reclamo-de-los-atletas-argentinos-en-los-suramericanos-20260919-0004.html",
+        "image": "https://www.rosario3.com/__export/1789823988366/sites/rosario3/img/2026/09/19/disen-o_sin_ti-tulo_-62-.png_928314581.png",
+        "summary": "Mientras Argentina suma medallas en los Juegos Suramericanos, distintos deportistas volvieron a poner sobre la mesa las dificultades económicas que atraviesa el alto rendimiento. Trabajo, becas, viajes y preparación aparecen entre las principales preocupaciones de quienes…",
+        "pubDate": "2026-09-19T11:45:00+00:00",
         "approxTime": true
       }
     ],
