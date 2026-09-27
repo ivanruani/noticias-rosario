@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T22:04:11.702118+00:00",
+  "generatedAt": "2026-09-27T22:30:58.994686+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,11 +13,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "El clima en Rosario: se mantiene el alerta por tormentas hasta la tarde del lunes inclusive",
+        "link": "https://www.rosario3.com/informaciongeneral/alerta-por-tormentas-en-rosario-anticipan-lluvias-hasta-el-martes-20260927-0002.html",
+        "image": "https://www.rosario3.com/__export/1771840200692/sites/rosario3/img/2022/01/25/tormenta.jpg_1116834287.jpg",
+        "summary": "Tras una jornada ventosa e inestable con lluvias aisladas, el Servicio Meteorológico Nacional sostiene el alerta amarillo para la ciudad y la región. Prevén intensas ráfagas, actividad eléctrica y probable caída de granizo",
+        "pubDate": "2026-09-27T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Run Run: interna complicada en el puerto, un imprevisto en el Aeropuerto y aparecen legajos a favor de Damfield",
         "link": "https://www.rosario3.com/-economia-negocios-agro-/run-run-interna-complicada-en-el-puerto-un-imprevisto-en-el-aeropuerto-y-aparecen-legajos-a-favor-de-damfield-20260927-0019.html",
         "image": "https://www.rosario3.com/__export/1781782552515/sites/rosario3/img/2026/06/18/vuelo1.jpg_982625323.jpg",
         "summary": "Además: importantes novedades en la investigación de las presuntas estafas de la financiera Ciag que avizoran un avances de Fiscalía",
-        "pubDate": "2026-09-27T11:59:00+00:00",
+        "pubDate": "2026-09-27T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,16 +35,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/regimen-penal-juvenil-como-sera-el-seguimiento-de-los-adolescentes-y-que-rol-tendran-los-nuevos-supervisores-20260925-0034.html",
         "image": "https://www.rosario3.com/__export/1790349617313/sites/rosario3/img/2026/09/21/ley_penal_juvenil.jpg_1768679257.jpg",
         "summary": "El Ministerio de Justicia puso en marcha el programa para implementar la Ley 27.801 y aprobó el reglamento del Registro de Supervisores, las normas de asistencia a víctimas y un manual de 298 páginas para quienes tendrán a cargo el seguimiento de adolescentes. La nueva…",
-        "pubDate": "2026-09-25T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Fronteras calientes: ¿por qué los inmigrantes tienen miedo de salir de sus casas en EE.UU.?",
-        "link": "https://www.rosario3.com/opinion/fronteras-calientes-por-que-los-inmigrantes-tienen-miedo-de-salir-de-sus-casas-en-ee.uu.-20260927-0012.html",
-        "image": "https://www.rosario3.com/__export/1790520551393/sites/rosario3/img/2026/09/27/ice.jpg_1825222445.jpg",
-        "summary": "En Miami, la comunidad latina se esconde para evitar ser deportados. La promesa electoral de Donald Trump se cumple a rajatabla. “Ningún extranjero será del todo bienvenido”, dicen",
-        "pubDate": "2026-09-27T11:57:00+00:00",
+        "pubDate": "2026-09-25T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -43,7 +43,7 @@
         "title": "Boca a semifinales de la Copa Argentina gracias a un Valencia épico: Racing tenía dos de ventaja y el ecuatoriano lo dio vuelta",
         "link": "https://www.rosario3.com/deportes/boca-y-racing-se-juegan-el-pasaje-a-las-semifinales-de-la-copa-argentina-en-el-gigante-de-arroyito-20260927-0022.html",
         "image": "https://www.rosario3.com/__export/1790546200651/sites/rosario3/img/2026/09/27/valecia.jpg_928314580.jpg",
-        "summary": "Partidazo en el Gigante de Arroyito. Andrés Gariano será el árbitro que se disputa en Rosario. Transmite Radio 2",
+        "summary": "Partidazo en el Gigante de Arroyito. El equipo de Vojvoda festejaba, pero en una ráfaga el xeneize logró primero un gran alivio y luego el desahogo. Lo espera Banfield",
         "pubDate": "2026-09-27T11:56:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,24 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Continúa el acampe en el centro de Madrid para reclamar por la crisis de la vivienda",
+        "link": "https://www.lacapital.com.ar/el-mundo/continua-el-acampe-el-centro-madrid-reclamar-la-crisis-la-vivienda-n10283513.html",
+        "image": "https://media.lacapital.com.ar/p/ac11af99b90ea17a0b68a1371dba0393/adjuntos/203/imagenes/103/431/0103431065/2026-09-27-acampe-puerta-del-sol-madrid-82714893.jpg",
+        "summary": "Unas 500 personas pasaron la noche del sábado en Puerta del Sol y este domingo más gente se sumaba tras la indignación que provocó el desalojo de una anciana",
+        "pubDate": "2026-09-27T22:21:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "JP Morgan recortó fuerte su proyección de actividad económica para Argentina y anticipó una recesión en el tercer trimestre",
+        "link": "https://www.lacapital.com.ar/economia/jp-morgan-recorto-fuerte-su-proyeccion-actividad-economica-argentina-y-anticipo-una-recesion-el-tercer-trimestre-n10283506.html",
+        "image": "https://media.lacapital.com.ar/p/bc87e07099b0bb8b192e22662c899158/adjuntos/203/imagenes/103/291/0103291372/1200x675/644x713:664x733/vgg-industria.jpeg",
+        "summary": "Tras el retroceso de la actividad en julio, el banco redujo de 2,7% a 1,5% su estimación de crecimiento para 2026. Si el tercer trimestre termina en baja, se acumularán dos trimestres consecutivos de contracción",
+        "pubDate": "2026-09-27T22:05:26+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Juegos Suramericanos: cómo se mantendrán los nuevos estadios después de la competencia",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/9168ad1cd174fdd6da4cdc3fbd5e4055/adjuntos/203/imagenes/103/427/0103427945/1200x675/smart/gavira-tunel-illia-259.jpg",
         "summary": "Desde el Colegio de Arquitectura y Urbanismo de Rosario piden al Concejo que no se pinte el viaducto y que se preserve su valor patrimonial",
         "pubDate": "2026-09-27T16:38:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Detenido también gasta: cuánto combustible consume un auto frenado",
-        "link": "https://www.lacapital.com.ar/motores/detenido-tambien-gasta-cuanto-combustible-consume-un-auto-frenado-n10283173.html",
-        "image": "https://media.lacapital.com.ar/p/1e399e1d005ddc8fbc13c70dda0812ce/adjuntos/203/imagenes/102/807/0102807264/1200x675/smart/image-2025-11-13t120339068.jpg",
-        "summary": "Un informe de la Agencia Nacional de Seguridad Vial precisó la cantidad de nafta o gasoil consumido por hora mientras los vehículos permanecen parados",
-        "pubDate": "2026-09-27T14:12:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Indian posterga su apertura en la peatonal Córdoba, mientras se define el futuro de La Favorita",
-        "link": "https://www.lacapital.com.ar/la-ciudad/indian-posterga-su-apertura-la-peatonal-cordoba-mientras-se-define-el-futuro-la-favorita-n10283445.html",
-        "image": "https://media.lacapital.com.ar/p/9a90a425044da3a55d28ad9c79fff891/adjuntos/203/imagenes/103/335/0103335913/1200x675/smart/indian.jpg",
-        "summary": "La cadena de indumentaria uruguaya había anunciado su desembarco en un local de Córdoba al 1000 sobre fin de año, pero la apertura se postergó para 2027",
-        "pubDate": "2026-09-27T14:09:00+00:00",
         "approxTime": false
       }
     ]
