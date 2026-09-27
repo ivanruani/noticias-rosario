@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T20:01:11.278362+00:00",
+  "generatedAt": "2026-09-27T20:31:04.056437+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El túnel Illia y 150 años de historia: por qué rechazan transformarlo en un paseo de celebridades",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-tunel-illia-y-150-anos-historia-que-rechazan-transformarlo-un-paseo-celebridades-n10283482.html",
+        "image": "https://media.lacapital.com.ar/p/44353cf4f70a31b03c9f929985e2eb20/adjuntos/203/imagenes/103/430/0103430518/1200x675/smart/image-2026-09-27t150440110.jpg",
+        "summary": "El corredor nació como enlace ferroviario con el puerto y conserva huellas de aquella Rosario agroexportadora. Un proyecto para intervenirlo abrió un fuerte debate sobre su valor patrimonial.",
+        "pubDate": "2026-09-27T20:27:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El cuerpo calcinado hallado en una fosa sigue sin identidad: investigan si fue incinerado tiempo atrás",
+        "link": "https://www.lacapital.com.ar/policiales/el-cuerpo-calcinado-hallado-una-fosa-sigue-identidad-investigan-si-fue-incinerado-tiempo-atras-n10283485.html",
+        "image": "https://media.lacapital.com.ar/p/3768564946daceff1f5b0378d8e04142/adjuntos/203/imagenes/102/267/0102267372/1200x675/smart/instituto-medico-legal-piedrazosjpg.jpg",
+        "summary": "El cadáver apareció en un pozo de cemento de unos tres metros de profundidad, en Villa Gobernador Gálvez. Aún no pudieron determinar si era un hombre o una mujer ni establecer su edad.",
+        "pubDate": "2026-09-27T20:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El exárbitro Miguel Scime consideró que fue penal a Copetti y que Elías Verón debió ser expulsado",
         "link": "https://www.lacapital.com.ar/ovacion/el-exarbitro-miguel-scime-considero-que-fue-penal-copetti-y-que-elias-veron-debio-ser-expulsado-n10283473.html",
         "image": "https://media.lacapital.com.ar/p/f4da373930941fdbec968d7eaf5cd25e/adjuntos/203/imagenes/103/430/0103430638/1200x675/smart/image-2026-09-27t160747308.png",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/cdfe4898fdc8d2f076921de291e381e7/adjuntos/203/imagenes/023/084/0023084281/1200x675/smart/patrullerosantafejpg.jpg",
         "summary": "El hallazgo se produjo este sábado por la tarde en la zona del terraplén de la ruta provincial S22. La policía llegó al lugar tras recibir llamados al 911 que alertaban sobre la presencia de una persona sin vida",
         "pubDate": "2026-09-27T11:52:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Día Mundial del Corazón: conocer el riesgo para actuar a tiempo",
-        "link": "https://www.lacapital.com.ar/salud/dia-mundial-del-corazon-conocer-el-riesgo-actuar-tiempo-n10282934.html",
-        "image": "https://media.lacapital.com.ar/p/51371a9a0c99d2b8629faca380156491/adjuntos/203/imagenes/103/424/0103424600/1200x675/smart/adobestock_1089650903.jpeg",
-        "summary": "El Instituto Cardiovascular de Rosario (ICR) invita a identificar los factores de riesgo cardiovascular y transformar la prevención en una decisión cotidiana",
-        "pubDate": "2026-09-27T11:46:15+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Giselle Massoud: \"Después de lo vivido, doy gracias cada día\"",
-        "link": "https://www.lacapital.com.ar/la-capital/giselle-massoud-despues-lo-vivido-doy-gracias-cada-dia-n10282871.html",
-        "image": "https://media.lacapital.com.ar/p/1866dd49715fe5f61357aad1da46c828/adjuntos/203/imagenes/103/429/0103429886/1200x675/smart/imagen-l.jpeg",
-        "summary": "La conductora de Telenoche y Top Tv estuvo en Más Cerca, el programa de La Capital Más. Su trayectoria y su historia de resiliencia",
-        "pubDate": "2026-09-27T11:41:00+00:00",
         "approxTime": false
       }
     ]
