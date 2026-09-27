@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-09-27T18:18:52.908764+00:00",
+  "generatedAt": "2026-09-27T18:31:09.386788+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Run Run: interna complicada en el puerto, un imprevisto en el Aeropuerto y aparecen legajos a favor de Damfield",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/run-run-interna-complicada-en-el-puerto-un-imprevisto-en-el-aeropuerto-y-aparecen-legajos-a-favor-de-damfield-20260927-0019.html",
+        "image": "https://www.rosario3.com/__export/1781782552515/sites/rosario3/img/2026/06/18/vuelo1.jpg_982625323.jpg",
+        "summary": "Además: importantes novedades en la investigación de las presuntas estafas de la financiera Ciag que avizoran un avances de Fiscalía",
+        "pubDate": "2026-09-27T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Régimen Penal Juvenil: cómo será el seguimiento de los adolescentes y qué rol tendrán los nuevos supervisores",
         "link": "https://www.rosario3.com/informaciongeneral/regimen-penal-juvenil-como-sera-el-seguimiento-de-los-adolescentes-y-que-rol-tendran-los-nuevos-supervisores-20260925-0034.html",
         "image": "https://www.rosario3.com/__export/1790349617313/sites/rosario3/img/2026/09/21/ley_penal_juvenil.jpg_1768679257.jpg",
         "summary": "El Ministerio de Justicia puso en marcha el programa para implementar la Ley 27.801 y aprobó el reglamento del Registro de Supervisores, las normas de asistencia a víctimas y un manual de 298 páginas para quienes tendrán a cargo el seguimiento de adolescentes. La nueva…",
-        "pubDate": "2026-09-25T12:00:00+00:00",
+        "pubDate": "2026-09-25T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/alerta-por-tormentas-en-rosario-anticipan-lluvias-hasta-el-martes-20260927-0002.html",
         "image": "https://www.rosario3.com/__export/1790527642189/sites/rosario3/img/2026/09/27/lluvias.jpg_1825222445.jpg",
         "summary": "El Servicio Meteorológico mantiene la advertencia por fenómenos intensos para la tarde de este domingo. Además, la inestabilidad y las lluvias se quedarán en el inicio de semana",
-        "pubDate": "2026-09-27T11:59:00+00:00",
+        "pubDate": "2026-09-27T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,16 +35,7 @@
         "link": "https://www.rosario3.com/opinion/fronteras-calientes-por-que-los-inmigrantes-tienen-miedo-de-salir-de-sus-casas-en-ee.uu.-20260927-0012.html",
         "image": "https://www.rosario3.com/__export/1790520551393/sites/rosario3/img/2026/09/27/ice.jpg_1825222445.jpg",
         "summary": "En Miami, la comunidad latina se esconde para evitar ser deportados. La promesa electoral de Donald Trump se cumple a rajatabla. “Ningún extranjero será del todo bienvenido”, dicen",
-        "pubDate": "2026-09-27T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "De Pullaro a Monteverde: los que ganaron, los que no jugaron y lo que viene después de los Juegos Suramericanos",
-        "link": "https://www.rosario3.com/opinion/de-pullaro-a-monteverde-los-que-ganaron-los-que-no-jugaron-y-lo-que-viene-despues-de-los-juegos-suramericanos-20260926-0035.html",
-        "image": "https://www.rosario3.com/__export/1790466648269/sites/rosario3/img/2026/09/18/juegos_2.jpg_1768679258.jpg",
-        "summary": "Los Juegos dejaron infraestructura, multitudes y una fuerte postal de celebración colectiva, pero también movimientos en el tablero político. El oficialismo buscó capitalizar el acontecimiento, algunos sectores de la oposición participari y otros eligieron correrse de la escena…",
-        "pubDate": "2026-09-26T11:57:00+00:00",
+        "pubDate": "2026-09-27T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Fiesta Canalla: Central celebrará el flamante título este lunes a la noche en el Monumento",
+        "link": "https://www.lacapital.com.ar/ovacion/fiesta-canalla-central-celebrara-el-flamante-titulo-este-lunes-la-noche-el-monumento-n10283472.html",
+        "image": "https://media.lacapital.com.ar/p/c3f942a10a50a4091850e97719f1f403/adjuntos/203/imagenes/103/430/0103430556/canalla3.jpeg",
+        "summary": "El club canalla convocó a los hinchas a festejar la Supercopa Internacional este lunes en el Monumento a la Bandera",
+        "pubDate": "2026-09-27T18:18:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Boca y Racing definirán en el Gigante de Arroyito a uno de los semifinalistas de la Copa Argentina: hora, TV y formaciones",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/7b7bba19b46c0e58d5586cfe6bf0c1b6/adjuntos/203/imagenes/103/425/0103425040/b76beafa-5f45-4157-b8e3-ba04fbd0cd99.png",
         "summary": "Las imágenes se resuelven rápido, pero muchas veces son repetitivas y se percibe el poco trabajo que hay detrás. ¿Cuánto se ahorra usando IA? ¿Cómo se puede retener a los clientes cuando hay una opción ligera tan a mano?",
         "pubDate": "2026-09-27T11:05:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El clima en Rosario: domingo con alerta por tormentas fuertes y descenso de temperatura",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-clima-rosario-domingo-alerta-tormentas-fuertes-y-descenso-temperatura-n10283427.html",
-        "image": "https://media.lacapital.com.ar/p/729ae2e76091cffe56b4aa6d2bc66a61/adjuntos/203/imagenes/103/157/0103157808/1200x675/smart/frio-lluvia-llovizna-fresco.png",
-        "summary": "El Servicio Meteorológico Nacional anticipa una jornada inestable, con lluvias durante buena parte del día y fuertes ráfagas de viento",
-        "pubDate": "2026-09-27T11:03:00+00:00",
         "approxTime": false
       }
     ]
