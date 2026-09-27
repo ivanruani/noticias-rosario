@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T19:31:03.574977+00:00",
+  "generatedAt": "2026-09-27T20:01:11.278362+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El exárbitro Miguel Scime consideró que fue penal a Copetti y que Elías Verón debió ser expulsado",
+        "link": "https://www.lacapital.com.ar/ovacion/el-exarbitro-miguel-scime-considero-que-fue-penal-copetti-y-que-elias-veron-debio-ser-expulsado-n10283473.html",
+        "image": "https://media.lacapital.com.ar/p/f4da373930941fdbec968d7eaf5cd25e/adjuntos/203/imagenes/103/430/0103430638/1200x675/smart/image-2026-09-27t160747308.png",
+        "summary": "El asesor internacional de la Fifa se refirió a cada uno de los fallos polémicos del partido que consagró a Central en la Supercopa Internacional",
+        "pubDate": "2026-09-27T19:40:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El picante posteo de la esposa de Di María tras el nuevo título de Central: \"Yo también lloraría\"",
+        "link": "https://www.lacapital.com.ar/ovacion/el-picante-posteo-la-esposa-di-maria-el-nuevo-titulo-central-yo-tambien-lloraria-n10283479.html",
+        "image": "https://media.lacapital.com.ar/p/c6697680df9f6077c38931f6e419783d/adjuntos/203/imagenes/103/430/0103430604/1200x675/smart/imagejor5.jpg",
+        "summary": "Jorgelina Cardoso celebró en las redes la victoria 3-1 ante Estudiantes y la consagración canalla en la Supercopa Internacional.",
+        "pubDate": "2026-09-27T19:36:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Scioli confundió la sede de los Juegos Suramericanos y reavivó la polémica por falta de apoyo del gobierno nacional al deporte",
         "link": "https://www.lacapital.com.ar/juegos-suramericanos/scioli-confundio-la-sede-los-juegos-suramericanos-y-reavivo-la-polemica-falta-apoyo-del-gobierno-nacional-al-deporte-n10283477.html",
         "image": "https://media.lacapital.com.ar/p/ce72385675771844ff1b1c146b9712c6/adjuntos/203/imagenes/103/430/0103430590/1200x675/smart/imagescioli.jpg",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/1866dd49715fe5f61357aad1da46c828/adjuntos/203/imagenes/103/429/0103429886/1200x675/smart/imagen-l.jpeg",
         "summary": "La conductora de Telenoche y Top Tv estuvo en Más Cerca, el programa de La Capital Más. Su trayectoria y su historia de resiliencia",
         "pubDate": "2026-09-27T11:41:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Estiman que el corte de agua se extenderá hasta el mediodía en Rosario",
-        "link": "https://www.lacapital.com.ar/la-ciudad/estiman-que-el-corte-agua-se-extendera-el-mediodia-rosario-n10283429.html",
-        "image": "https://media.lacapital.com.ar/p/fb5b19c8fdd4cd69bb1b4c79945ef699/adjuntos/203/imagenes/100/075/0100075224/1200x675/smart/planta-potabilizadora-assajpg.jpg",
-        "summary": "Aguas Santafesinas está haciendo trabajos de renovación de una cañería de impulsión de agua potable en la Planta Potabilizadora de Arroyito",
-        "pubDate": "2026-09-27T11:24:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Rosarinos crearon un método para llevar la IA a las empresas en tiempo récord",
-        "link": "https://www.lacapital.com.ar/negocios/rosarinos-crearon-un-metodo-llevar-la-ia-las-empresas-tiempo-record-n10282762.html",
-        "image": "https://media.lacapital.com.ar/p/0cda531cab9b06caf63ba15ce8861f19/adjuntos/203/imagenes/103/427/0103427136/cria-foto.jpg",
-        "summary": "Los socios de CRIA crearon una metodología para acelerar la adopción de IA en empresas y pymes. En menos de un año, ya trabajan con clientes de primer nivel",
-        "pubDate": "2026-09-27T11:05:00+00:00",
         "approxTime": false
       }
     ]
