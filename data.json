@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T22:30:58.994686+00:00",
+  "generatedAt": "2026-09-27T23:01:12.148730+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El Papa se reunió con sobrevivientes de abusos en Francia y criticó la muerte asistida",
+        "link": "https://www.lacapital.com.ar/informacion-general/el-papa-se-reunio-sobrevivientes-abusos-francia-y-critico-la-muerte-asistida-n10283515.html",
+        "image": "https://media.lacapital.com.ar/p/4744deabd22ddca425966a6c286eb3ae/adjuntos/203/imagenes/103/431/0103431100/1200x675/smart/2026-09-27-papa-francia.jpg",
+        "summary": "El Sumo Pontífice visitó este domingo Lourdes, el santuario católico francés asociado con curaciones milagrosas",
+        "pubDate": "2026-09-27T22:57:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Enner Valencia fue el gigante de Arroyito: triplete y Boca a semifinales de la Copa Argentina",
+        "link": "https://www.lacapital.com.ar/ovacion/enner-valencia-fue-el-gigante-arroyito-triplete-y-boca-semifinales-la-copa-argentina-n10283509.html",
+        "image": "https://media.lacapital.com.ar/p/4df0b8b10e4d94b9bbad97171c17e0bb/adjuntos/203/imagenes/103/431/0103431099/1200x675/smart/image-2026-09-27t192143906.png",
+        "summary": "El ecuatoriano anotó tres goles de cabeza para revertir el 0-2 frente a Racing. El Xeneize ganó 3-2 y ahora enfrentará a Banfield por un lugar en la final",
+        "pubDate": "2026-09-27T22:31:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Continúa el acampe en el centro de Madrid para reclamar por la crisis de la vivienda",
         "link": "https://www.lacapital.com.ar/el-mundo/continua-el-acampe-el-centro-madrid-reclamar-la-crisis-la-vivienda-n10283513.html",
         "image": "https://media.lacapital.com.ar/p/ac11af99b90ea17a0b68a1371dba0393/adjuntos/203/imagenes/103/431/0103431065/2026-09-27-acampe-puerta-del-sol-madrid-82714893.jpg",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/c3f942a10a50a4091850e97719f1f403/adjuntos/203/imagenes/103/430/0103430556/canalla3.jpeg",
         "summary": "El club canalla convocó a los hinchas a festejar la Supercopa Internacional este lunes en el Monumento a la Bandera",
         "pubDate": "2026-09-27T18:18:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Boca y Racing definirán en el Gigante de Arroyito a uno de los semifinalistas de la Copa Argentina: hora, TV y formaciones",
-        "link": "https://www.lacapital.com.ar/ovacion/boca-y-racing-definiran-el-gigante-arroyito-uno-los-semifinalistas-la-copa-argentina-hora-tv-y-formaciones-n10283471.html",
-        "image": "https://media.lacapital.com.ar/p/fe95137841d56a35a0c853d5eabb4227/adjuntos/203/imagenes/103/430/0103430516/1200x675/smart/imagegiga.jpg",
-        "summary": "El equipo del Vasco Arruabarrena se enfrentará al de Juan Pablo Vojvoda en el estadio de Rosario Central. El ganador jugará ante Banfield.",
-        "pubDate": "2026-09-27T17:54:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El proyecto para convertir el túnel Illia en un paseo de las celebridades rosarinas causa polémica",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-proyecto-convertir-el-tunel-illia-un-paseo-las-celebridades-rosarinas-causa-polemica-n10283466.html",
-        "image": "https://media.lacapital.com.ar/p/9168ad1cd174fdd6da4cdc3fbd5e4055/adjuntos/203/imagenes/103/427/0103427945/1200x675/smart/gavira-tunel-illia-259.jpg",
-        "summary": "Desde el Colegio de Arquitectura y Urbanismo de Rosario piden al Concejo que no se pinte el viaducto y que se preserve su valor patrimonial",
-        "pubDate": "2026-09-27T16:38:00+00:00",
         "approxTime": false
       }
     ]
