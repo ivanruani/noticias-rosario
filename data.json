@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-09-28T16:01:28.854147+00:00",
+  "generatedAt": "2026-09-28T16:31:01.345777+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Revocaron la prisión preventiva de Matías Capozucca: pagará una fianza de 3 millones y tendrá una tobillera",
+        "link": "https://www.rosario3.com/policiales/revocaron-la-prision-preventiva-de-matias-capozucca-pagara-una-fianza-de-3-millones-y-tendra-una-tobillera-20260928-0043.html",
+        "image": "https://www.rosario3.com/__export/1788885569779/sites/rosario3/img/2026/09/08/matias_capozucca.jpg_506286608.jpg",
+        "summary": "El juez de Cámara Javier Beltramone hizo lugar a la apelación de la defensa y ordenó la libertad del hombre denunciado por su expareja. No podrá acercarse ni contactarla a ella ni a su grupo familiar y deberá cumplir otras medidas de control",
+        "pubDate": "2026-09-28T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Dictaron la conciliación obligatoria y suspendieron los 200 despidos en Electrolux: \"Se dio el primer paso\"",
         "link": "https://www.rosario3.com/informaciongeneral/cierre-de-electrolux-la-uom-se-moviliza-al-ministerio-de-trabajo-por-despidos-ilegales-20260927-0028.html",
         "image": "https://www.rosario3.com/__export/1790605896478/sites/rosario3/img/2026/09/28/audiencia_electrolux.jpg_506286608.jpg",
         "summary": "Tras una audiencia celebrada este lunes, el Ministerio de Trabajo dictó la medida que suspende transitoriamente los despidos en la planta de Rosario y se abre una ventana de 20 días de negociaciones entre las partes, aunque la firma ratificó que cierra todas sus operaciones. El…",
-        "pubDate": "2026-09-27T12:00:00+00:00",
+        "pubDate": "2026-09-27T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/policiales/conductor-de-didi-moto-fue-imputado-por-abusar-de-una-pasajera-de-17-anos-en-fisherton-20260928-0036.html",
         "image": "https://www.rosario3.com/__export/1781801935336/sites/rosario3/img/2024/05/27/_dsc7950.jpg_928314580.jpg",
         "summary": "El chofer Nicolás Leandro Soto fue acusado el sábado en el Centro de Justicia Penal y quedó en prisión preventiva efectiva por un mes. El ataque tuvo lugar el 16 de septiembre pasado",
-        "pubDate": "2026-09-28T11:59:00+00:00",
+        "pubDate": "2026-09-28T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/causa-de-la-partera-dolly-la-supresion-de-la-identidad-no-prescribe-cada-dia-se-reanudan-sus-efectos-perniciosos-20260928-0039.html",
         "image": "https://www.rosario3.com/__export/1790610254360/sites/rosario3/img/2026/09/28/federalestribunal.jpg_928314581.jpg",
         "summary": "Este martes está prevista una audiencia de revisión del pedido de prescripción de la defensa de la acusada de vender bebés en los 70’. El abogado de dos denunciantes, Juan Singer, adelantó la postura y advirtió que la mujer actuó en red: “Los posibles casos son infinitos”",
-        "pubDate": "2026-09-28T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Brutal intento de femicidio en la zona noroeste: prendió fuego a su pareja",
-        "link": "https://www.rosario3.com/policiales/brutal-intento-de-femicidio-en-la-zona-noroeste-prendio-fuego-a-su-pareja-20260928-0035.html",
-        "image": "https://www.rosario3.com/__export/1790606385365/sites/rosario3/img/2026/07/23/centenario.jpg_928314581.jpg",
-        "summary": "El ataque ocurrió el 20 de septiembre, pero recién el pasado fin de semana se pudo establecer que las quemaduras habían sido provocadas por el novio de la víctima. Ella permanece internada en el Centenario, mientras que el violento fue aprehendido en una pensión del centro de…",
         "pubDate": "2026-09-28T11:57:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Nuevo parte médico de Mirtha Legrand: cómo es el estado de salud de la diva",
+        "link": "https://www.lacapital.com.ar/zoom/nuevo-parte-medico-mirtha-legrand-como-es-el-estado-salud-la-diva-n10283617.html",
+        "image": "https://media.lacapital.com.ar/p/a6a21257be354cf3a8e18ca6d1d8d18a/adjuntos/203/imagenes/103/432/0103432392/1200x675/smart/image-2026-09-28t122936429.png",
+        "summary": "La conductora, de 99 años, permanece internada en el Sanatorio Mater Dei por una neumopatía",
+        "pubDate": "2026-09-28T16:01:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "La selección argentina vuelve a los entrenamientos en la previa al amistoso ante Bolivia",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/a6b073dc62f5cbcada082fd7acd56a42/adjuntos/203/imagenes/103/431/0103431631/1200x675/smart/moda-argentina-xlavida.png",
         "summary": "Se lanzó una nueva campaña de la industria textil y la Asociación de Oncología Clínica que apunta al cuidado de la salud. Con chequeos médicos a tiempo hay cada vez más chances de cura",
         "pubDate": "2026-09-28T12:57:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El emotivo mensaje de Tini Stoessel para Lali Espósito tras cantar juntas en River",
-        "link": "https://www.lacapital.com.ar/zoom/el-emotivo-mensaje-tini-stoessel-lali-esposito-cantar-juntas-river-n10283570.html",
-        "image": "https://media.lacapital.com.ar/p/16325edfab65c249a39a210951547557/adjuntos/203/imagenes/103/431/0103431636/1200x675/567x173:587x193/image-2026-09-28t093415711.png",
-        "summary": "“Lo que vivimos tuvo un significado muy hermoso y profundo para mí”, escribió Tini junto a imágenes del histórico encuentro",
-        "pubDate": "2026-09-28T12:32:00+00:00",
         "approxTime": false
       }
     ]
