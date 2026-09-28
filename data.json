@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T02:01:49.693729+00:00",
+  "generatedAt": "2026-09-28T02:31:05.471266+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El tiempo en Rosario: lunes con alerta amarillo por posibles tormentas fuertes",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-lunes-alerta-amarillo-posibles-tormentas-fuertes-n10283535.html",
+        "image": "https://media.lacapital.com.ar/p/07b5af7cd42ae33a673c7346dccb249e/adjuntos/203/imagenes/103/431/0103431401/2026-09-27-clima-by_ssalinas-78890339.jpg",
+        "summary": "El martes habría algunas mejoras aunque con fuertes ráfagas de viento, y el miércoles estaría mayormente nublado",
+        "pubDate": "2026-09-28T02:27:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El mal tiempo obligó a Central a posponer los festejos en el Monumento por el título",
+        "link": "https://www.lacapital.com.ar/ovacion/el-mal-tiempo-obligo-central-posponer-los-festejos-el-monumento-el-titulo-n10283534.html",
+        "image": "https://media.lacapital.com.ar/p/e053639db8447d586679ceab9b73809e/adjuntos/203/imagenes/103/431/0103431380/2026-09-27-rosario-central-campeon-at_lvincenti-82711187.jpg",
+        "summary": "Estaba programado para este lunes a la noche, pero ante el pronóstico de lluvias se pasó para el martes",
+        "pubDate": "2026-09-28T02:02:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Después de 134 años, el mundo sigue obsesionado con Lizzie Borden",
         "link": "https://www.lacapital.com.ar/informacion-general/despues-134-anos-el-mundo-sigue-obsesionado-lizzie-borden-n10283533.html",
         "image": "https://media.lacapital.com.ar/p/5eb4f4e5258161fce7f7890c3551219c/adjuntos/203/imagenes/103/431/0103431356/2026-09-27-lizzie-borden.jpg",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/5fdb5dceb9556f01d00ec2f5b1b4fcb1/adjuntos/203/imagenes/103/381/0103381061/1200x675/smart/image-9.jpg",
         "summary": "La provincia trabaja en un esquema de concesiones y cobro de cánones a las instituciones que utilicen los predios deportivos para garantizar su mantenimiento",
         "pubDate": "2026-09-27T21:13:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Crecimiento sin empleo: ocho de los diez sectores más dinámicos redujeron puestos de trabajo",
-        "link": "https://www.lacapital.com.ar/economia/crecimiento-empleo-ocho-los-diez-sectores-mas-dinamicos-redujeron-puestos-trabajo-n10283494.html",
-        "image": "https://media.lacapital.com.ar/p/2134191385345a94992ca6d8c2217551/adjuntos/203/imagenes/102/314/0102314128/1200x675/smart/campo-granos-cosechajpg.jpg",
-        "summary": "Entre los diez sectores mejor ubicados por su evolución productiva, solo el agro y la enseñanza sumaron puestos registrados, según un relevamiento de la UBA",
-        "pubDate": "2026-09-27T21:11:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Una escuela de Rosario ganó la Copa Robótica 2026 y representará a Argentina en el Mundial",
-        "link": "https://www.lacapital.com.ar/una-escuela-rosario-gano-la-copa-robotica-2026-y-representara-argentina-el-mundial-n10283495.html",
-        "image": "https://media.lacapital.com.ar/p/4644f09e18667cb5de1955b76bb15840/adjuntos/203/imagenes/103/430/0103430873/1200x675/smart/image-2026-09-27t174908047.jpg",
-        "summary": "El equipo Sanjobits101, de la Escuela Técnico Profesional y Secundaria Nº 8013 San José, se consagró campeón nacional en Neuquén",
-        "pubDate": "2026-09-27T21:07:00+00:00",
         "approxTime": false
       }
     ]
