@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T22:01:14.463258+00:00",
+  "generatedAt": "2026-09-28T22:31:06.848220+00:00",
   "sites": {
     "rosario3": [
       {
@@ -85,10 +85,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Lalcec realizará 200 mamografías gratuitas para detectar a tiempo el cáncer de mama: cómo y dónde anotarse",
-        "link": "https://www.rosario3.com/informaciongeneral/lalcec-realizara-200-mamografias-gratuitas-para-detectar-a-tiempo-el-cancer-de-mama-como-y-donde-anotarse-20260928-0053.html",
-        "image": "https://www.rosario3.com/__export/1790621919930/sites/rosario3/img/2026/09/28/octubre_rosa.png_786111822.png",
-        "summary": "La iniciativa se enmarca en la Campaña Anual de Lucha Contra el Cáncer de Mama y está destinada a personas mayores de 40 años sin cobertura social o a menores de esa edad con antecedentes familiares. Los turnos se ofrecerán en el marco de la Caminata Rosa, que se realizará el…",
+        "title": "FM Vida, la sensación de los fan fest de los Juegos Suramericanos",
+        "link": "https://www.rosario3.com/informaciongeneral/fm-vida-la-sensacion-de-los-fan-fest-de-los-juegos-suramericanos-20260928-0071.html",
+        "image": "https://www.rosario3.com/__export/1790632896394/sites/rosario3/img/2026/09/28/fm_vida_fan_fest.jpg_2106848869.jpg",
+        "summary": "El evento que organizó la FM 97.9 el sábado 19 de septiembre en el escenario principal del Parque Independencia, fue espectacular y a la vez el más convocante de todos los Juegos. Una multitud vibró con El Bodegón, el show liderado por las y los conductores de la radio más…",
         "pubDate": "2026-09-28T11:51:00+00:00",
         "approxTime": true
       },
@@ -141,11 +141,56 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "La morosidad alcanzó niveles que no se veían desde la crisis de 2001",
-        "link": "https://www.lacapital.com.ar/economia/la-morosidad-alcanzo-niveles-que-no-se-veian-la-crisis-2001-n10283707.html",
-        "image": "https://media.lacapital.com.ar/p/e10cf7a4afc046cb66ae06632e25ccd9/adjuntos/203/imagenes/101/716/0101716347/1200x675/smart/endeudado-billetera-deuda-pagosjpg.jpg",
-        "summary": "Los créditos irregulares treparon al 13% en el sistema financiero y al 33,9% entre proveedores no financieros, detalló un informe del Cepa",
-        "pubDate": "2026-09-28T21:47:00+00:00",
+        "title": "Newell's publicó las cifras globales del último mercado de pases",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-publico-las-cifras-globales-del-ultimo-mercado-pases-n10283718.html",
+        "image": "https://media.lacapital.com.ar/p/134f9896c7c8e7f88fce1fc0ba73f687/adjuntos/203/imagenes/103/433/0103433538/1200x675/smart/image-41.png",
+        "summary": "La entidad del Parque subió a su web los montos totales de los altas y bajas del plantel para la segunda mitad de la temporada",
+        "pubDate": "2026-09-28T22:27:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Cómo preparar chocolate caliente",
+        "link": "https://www.lacapital.com.ar/informacion-general/como-preparar-chocolate-caliente-n10283722.html",
+        "image": "https://media.lacapital.com.ar/p/325b568f1b36a115f8ae248f5ce71fd9/adjuntos/203/imagenes/103/433/0103433537/1200x675/smart/image-10.png",
+        "summary": "Esta bebida presenta distintas variantes y se puede adaptar a los gustos personales.",
+        "pubDate": "2026-09-28T22:27:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Cómo activar la privacidad avanzada en el chat de WhatsApp y para qué sirve",
+        "link": "https://www.lacapital.com.ar/informacion-general/como-activar-la-privacidad-avanzada-el-chat-whatsapp-y-que-sirve-n10283716.html",
+        "image": "https://media.lacapital.com.ar/p/09f532d5bfb655505c6fe86b89b57000/adjuntos/203/imagenes/102/727/0102727822/1200x675/smart/whatsapp-celular.png",
+        "summary": "Esta herramienta es una de las tantas que ofrece la app para proteger la privacidad de los usuarios y resguardar sus conversaciones",
+        "pubDate": "2026-09-28T22:26:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Otra mujer asesinada en Sudáfrica: cada vez más indicios conducen a un asesino en serie",
+        "link": "https://www.lacapital.com.ar/informacion-general/otra-mujer-asesinada-sudafrica-cada-vez-mas-indicios-conducen-un-asesino-serie-n10283715.html",
+        "image": "https://media.lacapital.com.ar/p/800c95ad39a8655d3778a029bfe93be5/adjuntos/203/imagenes/103/433/0103433504/2026-09-28-crimen-johannesburgo-sudafrica.jpg",
+        "summary": "En Johannesburgo hubo once crímenes de similares características desde julio, de los cuales ocho cuerpos fueron hallados durante este mes",
+        "pubDate": "2026-09-28T22:26:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Mercados: el riesgo país escaló a 642 puntos y alcanzó su nivel más alto del año",
+        "link": "https://www.lacapital.com.ar/economia/mercados-el-riesgo-pais-escalo-642-puntos-y-alcanzo-su-nivel-mas-alto-del-ano-n10283721.html",
+        "image": "https://media.lacapital.com.ar/p/d12d6d155dec7b87af7f0ef3ca7e9050/adjuntos/203/imagenes/100/491/0100491421/1200x675/smart/78410006jpg.jpg",
+        "summary": "Los bonos soberanos retrocedieron un 1,8% promedio y el dólar oficial cotizó a un récord de $1.550 en el Banco Nación",
+        "pubDate": "2026-09-28T22:26:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El gobierno denunció que una empresa británica realizó vuelos ilegales a Malvinas",
+        "link": "https://www.lacapital.com.ar/politica/el-gobierno-denuncio-que-una-empresa-britanica-realizo-vuelos-ilegales-malvinas-n10283712.html",
+        "image": "https://media.lacapital.com.ar/p/c927c8e9506aa554f96b44430b8b0039/adjuntos/203/imagenes/103/433/0103433447/1200x675/smart/mileyo.jpeg",
+        "summary": "Además, el presidente Javier Milei instruyó a Cancillería que intime al Reino Unido para frenar en un plazo de dos semanas las operaciones de hidrocarburos en el proyecto Sea Lion,",
+        "pubDate": "2026-09-28T22:01:00+00:00",
         "approxTime": false
       },
       {
@@ -154,6 +199,15 @@
         "link": "https://www.lacapital.com.ar/zoom/una-miniserie-misterio-espanola-la-rompe-netflix-solo-cuatro-capitulos-n10283710.html",
         "image": "https://media.lacapital.com.ar/p/1a4eb8449bce4be295fb062da1b73f27/adjuntos/203/imagenes/103/433/0103433440/1200x675/smart/image-8.png",
         "summary": "La producción, dirigida por Félix Viscarret, combina el thriller, el suspenso y el drama en una historia acerca de un actor que debe convertirse en detective en la vida real",
+        "pubDate": "2026-09-28T21:47:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La morosidad alcanzó niveles que no se veían desde la crisis de 2001",
+        "link": "https://www.lacapital.com.ar/economia/la-morosidad-alcanzo-niveles-que-no-se-veian-la-crisis-2001-n10283707.html",
+        "image": "https://media.lacapital.com.ar/p/e10cf7a4afc046cb66ae06632e25ccd9/adjuntos/203/imagenes/101/716/0101716347/1200x675/smart/endeudado-billetera-deuda-pagosjpg.jpg",
+        "summary": "Los créditos irregulares treparon al 13% en el sistema financiero y al 33,9% entre proveedores no financieros, detalló un informe del Cepa",
         "pubDate": "2026-09-28T21:47:00+00:00",
         "approxTime": false
       },
@@ -218,60 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/f643ccf6021ef45ce7291653b7774668/adjuntos/203/imagenes/103/432/0103432624/1200x675/smart/maj.jpg",
         "summary": "Será en Distrito Siete el próximo domingo. La orquesta impulsada por la Asociación Civil Músicos Asociados de Jazz (MAJ) se presentará una vez por mes",
         "pubDate": "2026-09-28T19:24:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "De psiquiatra a dueño de una baticueva: el rosarino que juntó casi mil batimóviles",
-        "link": "https://www.lacapital.com.ar/la-ciudad/de-psiquiatra-dueno-una-baticueva-el-rosarino-que-junto-casi-mil-batimoviles-n10283626.html",
-        "image": "https://media.lacapital.com.ar/p/8e8be1c19147c2b1826c2430ce6364ad/adjuntos/203/imagenes/103/433/0103433047/1200x675/smart/image.jpg",
-        "summary": "Carlos Coca empezó con un autito que le recordó a su infancia y, veinte años después, convirtió una habitación de su casa en una colección descomunal con piezas de todo el mundo.",
-        "pubDate": "2026-09-28T19:23:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Trading online: lo que hay que entender antes de abrir una cuenta",
-        "link": "https://www.lacapital.com.ar/novedades/trading-online-lo-que-hay-que-entender-antes-abrir-una-cuenta-n10282322.html",
-        "image": "https://media.lacapital.com.ar/p/b2500397f6387e889c42f710d79dd3d4/adjuntos/203/imagenes/103/417/0103417188/1200x675/smart/imagen-nota.jpg",
-        "summary": "El trading en línea permite operar divisas, materias primas e índices desde una sola cuenta. Brokers como easyMarkets exigen entender el apalancamiento y la regulación antes de depositar capital real",
-        "pubDate": "2026-09-28T19:15:12+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cómo actuar cuando el auto patina o se queda atascado en el barro",
-        "link": "https://www.lacapital.com.ar/motores/como-actuar-cuando-el-auto-patina-o-se-queda-atascado-el-barro-n10283573.html",
-        "image": "https://media.lacapital.com.ar/p/245f64856716267757c585952bc08017/adjuntos/203/imagenes/103/432/0103432139/1200x675/smart/auto-barro.jpg",
-        "summary": "Luego de una fuerte lluvia existen maniobras de rescate y recomendaciones para que los conductores puedan para prevenir daños ante los obstáculos",
-        "pubDate": "2026-09-28T19:03:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Rescataron en la zona norte a un perro abandonado en una terraza: tenía las patas delanteras amputadas",
-        "link": "https://www.lacapital.com.ar/la-ciudad/rescataron-la-zona-norte-un-perro-abandonado-una-terraza-tenia-las-patas-delanteras-amputadas-n10283669.html",
-        "image": "https://media.lacapital.com.ar/p/0e5551a1f0fc90b2dc0e282de71e45d5/adjuntos/203/imagenes/103/432/0103432988/1200x675/smart/perro-rescatado-289-2.jpg",
-        "summary": "Los vecinos denunciaron que el animal pasaba horas y horas en la terraza de la vivienda. El responsable dijo que sólo perdió una pata bajo su cuidado",
-        "pubDate": "2026-09-28T19:02:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Una encuesta nacional encendió la pelea por 2027: quién lidera y qué dato complica a Milei",
-        "link": "https://www.lacapital.com.ar/politica/una-encuesta-nacional-encendio-la-pelea-2027-quien-lidera-y-que-dato-complica-milei-n10283674.html",
-        "image": "https://media.lacapital.com.ar/p/536e48cacbaab14962b300cf452642f6/adjuntos/203/imagenes/102/613/0102613973/1200x675/smart/image.png",
-        "summary": "El relevamiento de Zuban Córdoba y Asociados midió imagen, potencial de voto y preferencias por espacio político. También registró una suba en la desaprobación de la gestión nacional.",
-        "pubDate": "2026-09-28T18:57:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cómo es el auto más angosto de la historia: un récord mundial del Fiat Panda",
-        "link": "https://www.lacapital.com.ar/motores/como-es-el-auto-mas-angosto-la-historia-un-record-mundial-del-fiat-panda-n10283603.html",
-        "image": "https://media.lacapital.com.ar/p/a0ee177ace93ea69593290ecc77d0db5/adjuntos/203/imagenes/103/432/0103432148/1200x675/smart/fiat-panda-angosto-record.jpg",
-        "summary": "Un mecánico italiano logró reducir las proporciones del vehículo y fue reconocido Guinness World Records con el auto transitable más estrecho de la historia",
-        "pubDate": "2026-09-28T18:43:00+00:00",
         "approxTime": false
       }
     ]
