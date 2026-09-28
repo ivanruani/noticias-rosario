@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T09:01:14.637531+00:00",
+  "generatedAt": "2026-09-28T09:31:37.681276+00:00",
   "sites": {
     "rosario3": [
       {
@@ -58,10 +58,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "El clima en Rosario: se mantiene el alerta por tormentas hasta la tarde del lunes inclusive",
+        "title": "El clima en Rosario: alerta amarillo por tormentas fuertes y lluvias persistentes",
         "link": "https://www.rosario3.com/informaciongeneral/alerta-por-tormentas-en-rosario-anticipan-lluvias-hasta-el-martes-20260927-0002.html",
-        "image": "https://www.rosario3.com/__export/1771840200692/sites/rosario3/img/2022/01/25/tormenta.jpg_1116834287.jpg",
-        "summary": "Tras una jornada ventosa e inestable con lluvias aisladas, el Servicio Meteorológico Nacional sostiene el alerta amarillo para la ciudad y la región. Prevén intensas ráfagas, actividad eléctrica y probable caída de granizo",
+        "image": "https://www.rosario3.com/__export/1786699648401/sites/rosario3/img/2025/11/12/paraguas.jpg_928314581.jpg",
+        "summary": "El Servicio Meteorológico Nacional emitió un aviso por fenómenos acompañados por intensa actividad eléctrica y ocasional caída de granizo. El mal tiempo se extenderá durante toda la jornada de este lunes y la primera parte del martes",
         "pubDate": "2026-09-27T11:54:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,51 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Menos sorgo en Estados Unidos y Australia abre una oportunidad para la producción argentina",
+        "link": "https://www.lacapital.com.ar/agro/menos-sorgo-estados-unidos-y-australia-abre-una-oportunidad-la-produccion-argentina-n10282950.html",
+        "image": "https://media.lacapital.com.ar/p/1b7d6bf3e04c565a804ccd42be206fa4/adjuntos/305/imagenes/103/120/0103120802/1200x675/602x494:622x514/sorgo.jpg",
+        "summary": "La caída de dos de los principales proveedores recorta la oferta mundial justo cuando China proyecta importar 6,3 millones de toneladas. Argentina espera recuperar producción en la campaña 2026/27 y alcanzar exportaciones por 1,5 millones de toneladas",
+        "pubDate": "2026-09-28T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central es un equipo al que dar batalla se le hizo moneda corriente",
+        "link": "https://www.lacapital.com.ar/ovacion/central-es-un-equipo-al-que-dar-batalla-se-le-hizo-moneda-corriente-n10283517.html",
+        "image": "https://media.lacapital.com.ar/p/449cf6cd909aefbd8818a80bdfdc4ede/adjuntos/203/imagenes/103/431/0103431157/aaaa6.jpeg",
+        "summary": "Con varios títulos en pocos años, Central vive elevando su propia vara. Se acostumbró a pelear y por eso la exigencia es permanente",
+        "pubDate": "2026-09-28T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Tiran abajo parte de un predio para montar una nueva estación transformadora",
+        "link": "https://www.lacapital.com.ar/la-ciudad/tiran-abajo-parte-un-predio-montar-una-nueva-estacion-transformadora-n10283004.html",
+        "image": "https://media.lacapital.com.ar/p/1d878ecb52b49a943a4b6724ffd1bf4b/adjuntos/203/imagenes/101/885/0101885857/1200x675/smart/megatorre2jpg.jpg",
+        "summary": "En octubre larga la demolición de un depósito de la EPE en San Martín y Catamarca. La estación transformadora Belgrano ampliará la oferta energética",
+        "pubDate": "2026-09-28T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Seis partidos exigentes para Newell's ante cinco rivales directos",
+        "link": "https://www.lacapital.com.ar/ovacion/seis-partidos-exigentes-newells-cinco-rivales-directos-n10283516.html",
+        "image": "https://media.lacapital.com.ar/p/84dbe352e259259bc9f63eae18270383/adjuntos/203/imagenes/103/431/0103431101/1200x675/smart/image-2026-09-27t195128927.png",
+        "summary": "El equipo de Frank Kudelka empieza el sábado ante Lanús, en el Coloso, el tramo decisivo del torneo con el objetivo de entrar a la fase final",
+        "pubDate": "2026-09-28T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Casi cuatro de cada diez docentes universitarios pensaron en renunciar por la crisis salarial",
+        "link": "https://www.lacapital.com.ar/casi-cuatro-cada-diez-docentes-universitarios-pensaron-renunciar-la-crisis-salarial-n10283161.html",
+        "image": "https://media.lacapital.com.ar/p/3e7f65277e3c06d0a4a26bb03dad38b3/adjuntos/203/imagenes/103/430/0103430801/1200x675/smart/salarios.jpg",
+        "summary": "Un estudio de investigadores de la UNR advierte sobre el impacto del deterioro salarial en la salud emocional y el futuro de la educación superior",
+        "pubDate": "2026-09-28T09:10:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "El tiempo en Rosario: lunes con alerta amarillo por posibles tormentas fuertes",
@@ -227,51 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/990927bc2bda5e35270344a3d8c364a6/adjuntos/203/imagenes/103/002/0103002676/1200x675/smart/cocina.jpg",
         "summary": "Quedaron presos como el \"eslabón logístico\" del transporte de 418 ladrillos hallados en febrero en una camioneta abandonada, tras una persecución policial al norte de Santa Fe",
         "pubDate": "2026-09-28T00:06:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El Papa se reunió con sobrevivientes de abusos en Francia y criticó la muerte asistida",
-        "link": "https://www.lacapital.com.ar/informacion-general/el-papa-se-reunio-sobrevivientes-abusos-francia-y-critico-la-muerte-asistida-n10283515.html",
-        "image": "https://media.lacapital.com.ar/p/4744deabd22ddca425966a6c286eb3ae/adjuntos/203/imagenes/103/431/0103431100/1200x675/smart/2026-09-27-papa-francia.jpg",
-        "summary": "El Sumo Pontífice visitó este domingo Lourdes, el santuario católico francés asociado con curaciones milagrosas",
-        "pubDate": "2026-09-27T22:57:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Enner Valencia fue el gigante de Arroyito: triplete y Boca a semifinales de la Copa Argentina",
-        "link": "https://www.lacapital.com.ar/ovacion/enner-valencia-fue-el-gigante-arroyito-triplete-y-boca-semifinales-la-copa-argentina-n10283509.html",
-        "image": "https://media.lacapital.com.ar/p/4df0b8b10e4d94b9bbad97171c17e0bb/adjuntos/203/imagenes/103/431/0103431099/1200x675/smart/image-2026-09-27t192143906.png",
-        "summary": "El ecuatoriano anotó tres goles de cabeza para revertir el 0-2 frente a Racing. El Xeneize ganó 3-2 y ahora enfrentará a Banfield por un lugar en la final",
-        "pubDate": "2026-09-27T22:31:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Continúa el acampe en el centro de Madrid para reclamar por la crisis de la vivienda",
-        "link": "https://www.lacapital.com.ar/el-mundo/continua-el-acampe-el-centro-madrid-reclamar-la-crisis-la-vivienda-n10283513.html",
-        "image": "https://media.lacapital.com.ar/p/ac11af99b90ea17a0b68a1371dba0393/adjuntos/203/imagenes/103/431/0103431065/2026-09-27-acampe-puerta-del-sol-madrid-82714893.jpg",
-        "summary": "Unas 500 personas pasaron la noche del sábado en Puerta del Sol y este domingo más gente se sumaba tras la indignación que provocó el desalojo de una anciana",
-        "pubDate": "2026-09-27T22:21:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "JP Morgan recortó fuerte su proyección de actividad económica para Argentina y anticipó una recesión en el tercer trimestre",
-        "link": "https://www.lacapital.com.ar/economia/jp-morgan-recorto-fuerte-su-proyeccion-actividad-economica-argentina-y-anticipo-una-recesion-el-tercer-trimestre-n10283506.html",
-        "image": "https://media.lacapital.com.ar/p/bc87e07099b0bb8b192e22662c899158/adjuntos/203/imagenes/103/291/0103291372/1200x675/644x713:664x733/vgg-industria.jpeg",
-        "summary": "Tras el retroceso de la actividad en julio, el banco redujo de 2,7% a 1,5% su estimación de crecimiento para 2026. Si el tercer trimestre termina en baja, se acumularán dos trimestres consecutivos de contracción",
-        "pubDate": "2026-09-27T22:05:26+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Juegos Suramericanos: cómo se mantendrán los nuevos estadios después de la competencia",
-        "link": "https://www.lacapital.com.ar/la-ciudad/juegos-suramericanos-como-se-mantendran-los-nuevos-estadios-despues-la-competencia-n10283452.html",
-        "image": "https://media.lacapital.com.ar/p/5fdb5dceb9556f01d00ec2f5b1b4fcb1/adjuntos/203/imagenes/103/381/0103381061/1200x675/smart/image-9.jpg",
-        "summary": "La provincia trabaja en un esquema de concesiones y cobro de cánones a las instituciones que utilicen los predios deportivos para garantizar su mantenimiento",
-        "pubDate": "2026-09-27T21:13:00+00:00",
         "approxTime": false
       }
     ]
