@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T20:31:04.723202+00:00",
+  "generatedAt": "2026-09-28T21:01:15.667822+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,10 +13,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "El Gobierno Nacional pone a la venta su participación en la termoeléctrica de Timbúes",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/el-gobierno-nacional-pone-a-la-venta-su-participacion-en-la-termoelectrica-de-timbues-20260928-0055.html",
-        "image": "https://www.rosario3.com/__export/1790622670794/sites/rosario3/img/2026/09/28/tsm_2.jpg_928314580.jpg",
-        "summary": "El Ejecutivo autorizó la venta del 68,83% de las acciones de la Central Termoeléctrica José de San Martín, ubicada en Timbúes. La operación se realizará mediante una licitación pública nacional e internacional y forma parte del proceso de privatización de Energía Argentina…",
+        "title": "Malvinas: el Gobierno dio dos semanas al Reino Unido para frenar la explotación petrolera antes de recurrir al Tribunal del Mar",
+        "link": "https://www.rosario3.com/informaciongeneral/malvinas-el-gobierno-dio-dos-semanas-al-reino-unido-para-frenar-la-explotacion-petrolera-antes-de-recurrir-al-tribunal-del-mar-20260928-0066.html",
+        "image": "https://www.rosario3.com/__export/1790628539029/sites/rosario3/img/2026/09/28/milei_onu.jpg_1825222445.jpg",
+        "summary": "La Casa Rosada anunció el inicio de un arbitraje internacional por el proyecto Sea Lion. Si Londres no suspende las actividades hidrocarburíferas se solicitará medidas provisionales ante el organismo judicial",
         "pubDate": "2026-09-28T11:59:00+00:00",
         "approxTime": true
       },
@@ -112,11 +112,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "El Gobierno Nacional pone a la venta su participación en la termoeléctrica de Timbúes",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/el-gobierno-nacional-pone-a-la-venta-su-participacion-en-la-termoelectrica-de-timbues-20260928-0055.html",
+        "image": "https://www.rosario3.com/__export/1790622670794/sites/rosario3/img/2026/09/28/tsm_2.jpg_928314580.jpg",
+        "summary": "El Ejecutivo autorizó la venta del 68,83% de las acciones de la Central Termoeléctrica José de San Martín, ubicada en Timbúes. La operación se realizará mediante una licitación pública nacional e internacional y forma parte del proceso de privatización de Energía Argentina…",
+        "pubDate": "2026-09-28T11:48:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Después de que Milei reconociera que escuchó sus canciones, Lali cambió una frase de “Fanático”",
         "link": "https://www.rosario3.com/ocio/despues-de-que-milei-reconociera-que-escucho-sus-canciones-lali-cambio-una-frase-de-fanatico-20260928-0050.html",
         "image": "https://www.rosario3.com/__export/1790618907758/sites/rosario3/img/2026/09/28/lali_milei.png_786111822.png",
         "summary": "La cantante modificó en vivo una de las líneas del tema durante su show en River y cantó “ahora sí que lo vio”, en una referencia que rápidamente fue vinculada con el presidente",
-        "pubDate": "2026-09-28T11:48:00+00:00",
+        "pubDate": "2026-09-28T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,20 +134,20 @@
         "link": "https://www.rosario3.com/informaciongeneral/lo-golpearon-a-la-salida-de-un-boliche-y-permanece-internado-en-grave-estado-tiene-un-coagulo-en-la-cabeza-20260928-0040.html",
         "image": "https://www.rosario3.com/__export/1790610342741/sites/rosario3/img/2026/09/28/gresca.png_786111822.png",
         "summary": "El hecho ocurrió durante una pelea entre dos grupos en General Belgrano. La víctima, identificada como Rodrigo, tiene 23 años y sufrió un derrame y una fractura detrás del oído. El presunto agresor fue detenido y un policía que aparece en las imágenes también fue desafectado de…",
-        "pubDate": "2026-09-28T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Conductor de Didi Moto fue imputado por abusar de una pasajera de 17 años en Fisherton",
-        "link": "https://www.rosario3.com/policiales/conductor-de-didi-moto-fue-imputado-por-abusar-de-una-pasajera-de-17-anos-en-fisherton-20260928-0036.html",
-        "image": "https://www.rosario3.com/__export/1781801935336/sites/rosario3/img/2024/05/27/_dsc7950.jpg_928314580.jpg",
-        "summary": "El chofer Nicolás Leandro Soto fue acusado el sábado en el Centro de Justicia Penal y quedó en prisión preventiva efectiva por un mes. El ataque tuvo lugar el 16 de septiembre pasado",
         "pubDate": "2026-09-28T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "¿Cómo se utiliza la cartilla médica de Pami?",
+        "link": "https://www.lacapital.com.ar/informacion-general/como-se-utiliza-la-cartilla-medica-pami-n10283697.html",
+        "image": "https://media.lacapital.com.ar/p/f13785294dc8014627b18c4f6aaa0181/adjuntos/203/imagenes/100/183/0100183945/1200x675/smart/pami-digital2jpg.jpg",
+        "summary": "La obra social de los jubilados organiza la información médica en una cartilla digital para que sus afiliados encuentren profesionales de forma sencilla. Cómo se utiliza y las facilidades que ofrece en esta nota",
+        "pubDate": "2026-09-28T20:43:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Primera C: Leones FC perdió ante Luján en el predio Jorge Griffa, en el cierre de la fecha 30",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/3716dc6571578d2a7d5c9e1a9ae7004f/adjuntos/203/imagenes/103/431/0103431872/1200x675/724x418:744x438/uom-electrolux-2.png",
         "summary": "El titular de la central obrera, Miguel Vivas, denunció que la política económica “está destruyendo el cordón industrial”. Gremios locales llevaron su solidaridad a los trabajadores de Electrolux",
         "pubDate": "2026-09-28T18:19:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cardón continúa creciendo con un nuevo local en la ciudad de Funes",
-        "link": "https://www.lacapital.com.ar/novedades/cardon-continua-creciendo-un-nuevo-local-la-ciudad-funes-n10283624.html",
-        "image": "https://media.lacapital.com.ar/p/6d7eb88081f9926e60ca53d7d8142475/adjuntos/203/imagenes/103/433/0103433306/1200x675/smart/5d70517b-84a6-4acf-a4d0-e21a18c4a46b.jpg",
-        "summary": "La marca argentina abrió el viernes 25 de septiembre un nuevo espacio de más de 200 m² en Funes. El local incorpora el renovado concepto de diseño y arquitectura de Cardón y presenta la nueva Colección Primavera Verano 2027.",
-        "pubDate": "2026-09-28T18:15:00+00:00",
         "approxTime": false
       }
     ]
