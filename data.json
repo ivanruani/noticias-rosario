@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T00:31:02.187319+00:00",
+  "generatedAt": "2026-09-28T00:38:20.635114+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El Quini 6 quedó vacante y el Siempre Sale tuvo muchos ganadores",
+        "link": "https://www.lacapital.com.ar/informacion-general/el-quini-6-quedo-vacante-y-el-siempre-sale-tuvo-muchos-ganadores-n10283530.html",
+        "image": "https://media.lacapital.com.ar/p/fb9f55d22ff97a620734369e91a874c6/adjuntos/203/imagenes/103/431/0103431335/2026-09-27-quini-6.jpg",
+        "summary": "El sorteo del próximo miércoles tendrá un pozo acumulado de $7.800 millones de pesos",
+        "pubDate": "2026-09-28T00:32:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "TC Mouras en el autódromo de Rosario: el joven Nicolás Jaime ganó la carrera",
         "link": "https://www.lacapital.com.ar/ovacion/tc-mouras-el-autodromo-rosario-el-joven-nicolas-jaime-gano-la-carrera-n10283527.html",
         "image": "https://media.lacapital.com.ar/p/5431c5023cd01c6280300f61ddc1c3d3/adjuntos/203/imagenes/103/431/0103431267/mouras.JPG",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/3768564946daceff1f5b0378d8e04142/adjuntos/203/imagenes/102/267/0102267372/1200x675/smart/instituto-medico-legal-piedrazosjpg.jpg",
         "summary": "El cadáver apareció en un pozo de cemento de unos tres metros de profundidad, en Villa Gobernador Gálvez. Aún no pudieron determinar si era un hombre o una mujer ni establecer su edad.",
         "pubDate": "2026-09-27T20:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El exárbitro Miguel Scime consideró que fue penal a Copetti y que Elías Verón debió ser expulsado",
-        "link": "https://www.lacapital.com.ar/ovacion/el-exarbitro-miguel-scime-considero-que-fue-penal-copetti-y-que-elias-veron-debio-ser-expulsado-n10283473.html",
-        "image": "https://media.lacapital.com.ar/p/f4da373930941fdbec968d7eaf5cd25e/adjuntos/203/imagenes/103/430/0103430638/1200x675/smart/image-2026-09-27t160747308.png",
-        "summary": "El asesor internacional de la Fifa se refirió a cada uno de los fallos polémicos del partido que consagró a Central en la Supercopa Internacional",
-        "pubDate": "2026-09-27T19:40:00+00:00",
         "approxTime": false
       }
     ]
