@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T12:01:22.066191+00:00",
+  "generatedAt": "2026-09-28T12:31:08.457787+00:00",
   "sites": {
     "rosario3": [
       {
@@ -121,24 +121,60 @@
       },
       {
         "source": "Rosario3",
-        "title": "Fútbol femenino: Central le ganó a Platense en la ida y definirá el título en el Gigante",
-        "link": "https://www.rosario3.com/deportes/futbol-femenino-central-le-gano-a-platense-en-la-ida-y-definira-el-titulo-en-el-gigante-20260928-0012.html",
-        "image": "https://www.rosario3.com/__export/1790594378298/sites/rosario3/img/2026/09/28/fem.jpg_2106848869.jpg",
-        "summary": "El equipo de Matías Giugno venció 1 a 0 al Calamar en el predio Mariani Dolan y el partido de vuelta será el próximo viernes en Arroyito",
+        "title": "Lali Espósito en River: el audio picante que filtró Dillom y el mensaje a puro amor de Pedro Rosemblat: “Qué tarde llegué”",
+        "link": "https://www.rosario3.com/ocio/lali-esposito-en-river-el-audio-picante-que-filtro-dillom-y-el-mensaje-a-puro-amor-de-pedro-rosemblat-que-tarde-llegue-20260928-0017.html",
+        "image": "https://www.rosario3.com/__export/1790598379412/sites/rosario3/img/2026/09/28/lali_esposito.jpg_54252853.jpg",
+        "summary": "En la previa de los dos shows de la gira No vaya a atender cuando el demonio llama, el último fin de semana, el cantante compartió un audio que la artista le dejó con un pedido especial. En tanto que el periodista, pareja y futuro marido de la también actriz publicó en Instagram…",
         "pubDate": "2026-09-28T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Al menos 4 muertos y 12 desaparecidos en Nepal tras un alud en la base del pico Himlung",
-        "link": "https://www.rosario3.com/informaciongeneral/al-menos-4-muertos-y-12-desaparecidos-en-nepal-tras-un-alud-en-la-base-del-pico-himlung-20260928-0010.html",
-        "image": "https://www.rosario3.com/__export/1790593429607/sites/rosario3/img/2026/09/28/alud.jpg_928314580.jpg",
-        "summary": "Los equipos de rescate recuperaron cuatro cuerpos y continúan buscando a otras 12 personas, todas ellas trabajadores y guías nepalíes. Las imágenes",
+        "title": "Fútbol femenino: Central le ganó a Platense en la ida y definirá el título en el Gigante",
+        "link": "https://www.rosario3.com/deportes/futbol-femenino-central-le-gano-a-platense-en-la-ida-y-definira-el-titulo-en-el-gigante-20260928-0012.html",
+        "image": "https://www.rosario3.com/__export/1790594378298/sites/rosario3/img/2026/09/28/fem.jpg_2106848869.jpg",
+        "summary": "El equipo de Matías Giugno venció 1 a 0 al Calamar en el predio Mariani Dolan y el partido de vuelta será el próximo viernes en Arroyito",
         "pubDate": "2026-09-28T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Nuevas motos con mochilas verdes: Uber Eats vino a dar pelea en el segmento de delivery",
+        "link": "https://www.lacapital.com.ar/negocios/nuevas-motos-mochilas-verdes-uber-eats-vino-dar-pelea-el-segmento-delivery-n10282931.html",
+        "image": "https://media.lacapital.com.ar/p/aed1ff2123620330e21045c2515bcb39/adjuntos/203/imagenes/103/424/0103424843/82694077.jpeg",
+        "summary": "Hace dos semanas se estrenó el servicio en Rosario. Todos los detalles, en una entrevista con Juan Martín Cappellini, head de Uber Eats Argentina",
+        "pubDate": "2026-09-28T12:22:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Tras sus fuertes críticas, Lando Norris se disculpó con Franco Colapinto",
+        "link": "https://www.lacapital.com.ar/ovacion/tras-sus-fuertes-criticas-lando-norris-se-disculpo-franco-colapinto-n10283553.html",
+        "image": "https://media.lacapital.com.ar/p/3f965aee579cdaef2d32df3a5ba9eb85/adjuntos/203/imagenes/103/431/0103431554/1200x675/smart/diseno-titulo-73.png",
+        "summary": "El piloto de McLaren reconoció que se excedió tras el choque del Gran Premio de Azerbaiyán y contó que conversó de forma privada con el argentino",
+        "pubDate": "2026-09-28T12:18:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Tiago PZK y La Joaqui blanquearon su romance: la foto que lo confirmó",
+        "link": "https://www.lacapital.com.ar/zoom/tiago-pzk-y-la-joaqui-blanquearon-su-romance-la-foto-que-lo-confirmo-n10283562.html",
+        "image": "https://media.lacapital.com.ar/p/4c724dab5e587606574f633f23a2bbba/adjuntos/203/imagenes/103/431/0103431603/1200x675/smart/tiago-y-la-joaqui.jpg",
+        "summary": "Después de semanas de rumores, los artistas hicieron público su noviazgo con una imagen en la que se los ve tomados de la mano",
+        "pubDate": "2026-09-28T12:06:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Rosario sigue bajo alerta amarilla por tormentas hasta la tarde del lunes",
+        "link": "https://www.lacapital.com.ar/la-ciudad/rosario-sigue-alerta-amarilla-tormentas-la-tarde-del-lunes-n10283560.html",
+        "image": "https://media.lacapital.com.ar/p/122f3dd5c1088c16010b3c1c8ec895be/adjuntos/203/imagenes/103/418/0103418819/lluvia-tormenta-bici-pronostico-clima.jpg",
+        "summary": "El SMN mantiene la advertencia para Rosario y el sur de Santa Fe por tormentas fuertes, lluvias intensas, ráfagas y ocasional granizo",
+        "pubDate": "2026-09-28T12:05:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Dio positivo en alcoholemia y, en un rapto de furia, hizo explotar la moto",
@@ -236,42 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/3e7f65277e3c06d0a4a26bb03dad38b3/adjuntos/203/imagenes/103/430/0103430801/1200x675/smart/salarios.jpg",
         "summary": "Un estudio de investigadores de la UNR advierte sobre el impacto del deterioro salarial en la salud emocional y el futuro de la educación superior",
         "pubDate": "2026-09-28T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Seis partidos exigentes para Newell's ante cinco rivales directos",
-        "link": "https://www.lacapital.com.ar/ovacion/seis-partidos-exigentes-newells-cinco-rivales-directos-n10283516.html",
-        "image": "https://media.lacapital.com.ar/p/84dbe352e259259bc9f63eae18270383/adjuntos/203/imagenes/103/431/0103431101/1200x675/smart/image-2026-09-27t195128927.png",
-        "summary": "El equipo de Frank Kudelka empieza el sábado ante Lanús, en el Coloso, el tramo decisivo del torneo con el objetivo de entrar a la fase final",
-        "pubDate": "2026-09-28T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central es un equipo al que dar batalla se le hizo moneda corriente",
-        "link": "https://www.lacapital.com.ar/ovacion/central-es-un-equipo-al-que-dar-batalla-se-le-hizo-moneda-corriente-n10283517.html",
-        "image": "https://media.lacapital.com.ar/p/449cf6cd909aefbd8818a80bdfdc4ede/adjuntos/203/imagenes/103/431/0103431157/aaaa6.jpeg",
-        "summary": "Con varios títulos en pocos años, Central vive elevando su propia vara. Se acostumbró a pelear y por eso la exigencia es permanente",
-        "pubDate": "2026-09-28T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El tiempo en Rosario: lunes con alerta amarillo por posibles tormentas fuertes",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-lunes-alerta-amarillo-posibles-tormentas-fuertes-n10283535.html",
-        "image": "https://media.lacapital.com.ar/p/07b5af7cd42ae33a673c7346dccb249e/adjuntos/203/imagenes/103/431/0103431401/2026-09-27-clima-by_ssalinas-78890339.jpg",
-        "summary": "El martes habría algunas mejoras aunque con fuertes ráfagas de viento, y el miércoles estaría mayormente nublado",
-        "pubDate": "2026-09-28T02:27:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El mal tiempo obligó a Central a posponer los festejos en el Monumento por el título",
-        "link": "https://www.lacapital.com.ar/ovacion/el-mal-tiempo-obligo-central-posponer-los-festejos-el-monumento-el-titulo-n10283534.html",
-        "image": "https://media.lacapital.com.ar/p/e053639db8447d586679ceab9b73809e/adjuntos/203/imagenes/103/431/0103431380/2026-09-27-rosario-central-campeon-at_lvincenti-82711187.jpg",
-        "summary": "Estaba programado para este lunes a la noche, pero ante el pronóstico de lluvias se pasó para el martes",
-        "pubDate": "2026-09-28T02:02:00+00:00",
         "approxTime": false
       }
     ]
