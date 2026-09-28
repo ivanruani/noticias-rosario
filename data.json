@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-09-28T19:01:24.498378+00:00",
+  "generatedAt": "2026-09-28T19:31:09.002199+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "El Gobierno Nacional pone a la venta su participación en la termoeléctrica de Timbúes",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/el-gobierno-nacional-pone-a-la-venta-su-participacion-en-la-termoelectrica-de-timbues-20260928-0055.html",
+        "image": "https://www.rosario3.com/__export/1790622670794/sites/rosario3/img/2026/09/28/tsm_2.jpg_928314580.jpg",
+        "summary": "El Ejecutivo autorizó la venta del 68,83% de las acciones de la Central Termoeléctrica José de San Martín, ubicada en Timbúes. La operación se realizará mediante una licitación pública nacional e internacional y forma parte del proceso de privatización de Energía Argentina…",
+        "pubDate": "2026-09-28T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Revocaron la prisión preventiva de Matías Capozucca: pagará una fianza de 3 millones y tendrá una tobillera",
         "link": "https://www.rosario3.com/policiales/revocaron-la-prision-preventiva-de-matias-capozucca-pagara-una-fianza-de-3-millones-y-tendra-una-tobillera-20260928-0043.html",
         "image": "https://www.rosario3.com/__export/1788885569779/sites/rosario3/img/2026/09/08/matias_capozucca.jpg_506286608.jpg",
         "summary": "El juez de Cámara Javier Beltramone hizo lugar a la apelación de la defensa y ordenó la libertad del hombre denunciado por su expareja. No podrá acercarse ni contactarla a ella ni a su grupo familiar y deberá cumplir otras medidas de control",
-        "pubDate": "2026-09-28T12:00:00+00:00",
+        "pubDate": "2026-09-28T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/cierre-de-electrolux-la-uom-se-moviliza-al-ministerio-de-trabajo-por-despidos-ilegales-20260927-0028.html",
         "image": "https://www.rosario3.com/__export/1790605896478/sites/rosario3/img/2026/09/28/audiencia_electrolux.jpg_506286608.jpg",
         "summary": "Tras una audiencia celebrada este lunes, el Ministerio de Trabajo dictó la medida que suspende transitoriamente los despidos en la planta de Rosario y se abre una ventana de 20 días de negociaciones entre las partes, aunque la firma ratificó que cierra todas sus operaciones. El…",
-        "pubDate": "2026-09-27T11:59:00+00:00",
+        "pubDate": "2026-09-27T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/furor-por-capi-vendieron-mas-de-45-mil-peluches-y-ofrecen-el-remanente-disponible-20260928-0045.html",
         "image": "https://www.rosario3.com/__export/1790619319834/sites/rosario3/img/2026/09/28/capi_suramericanos_-4-.jpg_309773130.jpg",
         "summary": "La mascota oficial de los Juegos Suramericanos Santa Fe 2026 se transformó en la gran estrella comercial del evento. Tras agotarse el stock en los puntos del Fan Fest, la organización confirmó dónde y cómo se podrá seguir adquiriendo en Rosario",
-        "pubDate": "2026-09-28T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Conductor de Didi Moto fue imputado por abusar de una pasajera de 17 años en Fisherton",
-        "link": "https://www.rosario3.com/policiales/conductor-de-didi-moto-fue-imputado-por-abusar-de-una-pasajera-de-17-anos-en-fisherton-20260928-0036.html",
-        "image": "https://www.rosario3.com/__export/1781801935336/sites/rosario3/img/2024/05/27/_dsc7950.jpg_928314580.jpg",
-        "summary": "El chofer Nicolás Leandro Soto fue acusado el sábado en el Centro de Justicia Penal y quedó en prisión preventiva efectiva por un mes. El ataque tuvo lugar el 16 de septiembre pasado",
         "pubDate": "2026-09-28T11:57:00+00:00",
         "approxTime": true
       },
@@ -49,11 +49,29 @@
       },
       {
         "source": "Rosario3",
+        "title": "Los tres sectores de la economía que más empresas perdieron en la era Milei",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/los-tres-sectores-de-la-economia-que-mas-empresas-perdieron-en-la-era-milei-20260928-0052.html",
+        "image": "https://www.rosario3.com/__export/1790621162396/sites/rosario3/img/2026/09/28/fabricas.jpg_1768679258.jpg",
+        "summary": "Desde noviembre de 2023, más de 31.000 firmas empleadoras dejaron de estar activas en la Superintendencia de Riesgos de Trabajo, una estadísitica que análisis privados usan para estimar la mortandad de empresas",
+        "pubDate": "2026-09-28T11:55:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Elecciones 2027: Máximo Kirchner reveló que Cristina tiene “voluntad” de ser candidata",
+        "link": "https://www.rosario3.com/politica/elecciones-2027-maximo-kirchner-revelo-que-cristina-tiene-voluntad-de-ser-candidata-20260928-0051.html",
+        "image": "https://www.rosario3.com/__export/1750332763048/sites/rosario3/img/2025/06/18/mxximokirchner_1.jpg_982625323.jpg",
+        "summary": "El líder de La Cámpora sostuvo que sin la ex mandataria el peronismo 'pierde competitividad'. Explicó la estrategia ante la ONU para revertir la inhabilitación judicial y cuestionó las internas dentro del espacio",
+        "pubDate": "2026-09-28T11:54:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Tras los dichos de Milei, piden al Gobierno que explique los 30 mil “terroristas” deportados",
         "link": "https://www.rosario3.com/informaciongeneral/tras-los-dichos-de-milei-piden-al-gobierno-que-explique-los-30-mil-terroristas-deportados-20260928-0041.html",
         "image": "https://www.rosario3.com/__export/1790610804485/sites/rosario3/img/2026/09/24/javierrr.jpg_982625323.jpg",
         "summary": "Este lunes ingresó a la Cámara de Diputados un pedido de acceso a la información pública y otro de informes para conocer cuántas personas fueron expulsadas del país y cuántas de ellas tenían vínculos con causas de terrorismo",
-        "pubDate": "2026-09-28T11:55:00+00:00",
+        "pubDate": "2026-09-28T11:53:00+00:00",
         "approxTime": true
       },
       {
@@ -62,33 +80,15 @@
         "link": "https://www.rosario3.com/ocio/nuevo-parte-medico-sobre-mirtha-legrand-evoluciona-favorablemente-y-termino-el-tratamiento-con-antibioticos-20260928-0037.html",
         "image": "https://www.rosario3.com/__export/1790609181312/sites/rosario3/img/2026/09/28/mirtha_legrand.png_786111822.png",
         "summary": "La conductora continúa internada en el Sanatorio Mater Dei, acompañada por su familia. Los médicos informaron que su cuadro es bueno y que si no se producen cambios en su estado de salud, habrá una nueva actualización el próximo miércoles",
-        "pubDate": "2026-09-28T11:54:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Newell’s dio detalles del último mercado de pases: cuánta plata invirtió en refuerzos",
-        "link": "https://www.rosario3.com/deportes/newells-dio-detalles-del-ultimo-mercado-de-pases-cuanta-plata-invirtio-en-refuerzos-20260928-0032.html",
-        "image": "https://www.rosario3.com/__export/1790604183625/sites/rosario3/img/2026/09/28/newell-s.jpg_506286608.jpg",
-        "summary": "La dirigencia rojinegra publicó datos acerca de las altas y bajas de futbolistas a mitad de temporada. Según el informe, dejó un saldo positivo de US$ 290.000 a favor del club en un contexto marcado por las dificultades económicas de la institución",
-        "pubDate": "2026-09-28T11:53:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Qué dijo sobre las polémicas Jorge Baliño, a cargo del VAR en la final de Central ante Estudiantes",
-        "link": "https://www.rosario3.com/deportes/que-dijo-sobre-las-polemicas-jorge-balino-a-cargo-del-var-en-la-final-de-central-ante-estudiantes-20260928-0016.html",
-        "image": "https://www.rosario3.com/__export/1790597996587/sites/rosario3/img/2026/09/28/central_estudiantes.jpg_506286608.jpg",
-        "summary": "El juez se refirió puntualmente a la acción del penal sobre Enzo Copetti, que derivó en el 2-1 del Canalla, a una mano del defensor Ignacio Ovando dentro del área que no consideraron como sancionable y a una presunta falta de Ibarra sobre Palacios en la que el Pincha pidió…",
         "pubDate": "2026-09-28T11:52:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Confirmaron los horarios para los próximos amistosos de la selección argentina y la despedida de Messi",
-        "link": "https://www.rosario3.com/deportes/confirmaron-los-horarios-para-los-proximos-amistosos-de-la-seleccion-argentina-y-la-despedida-de-messi-20260928-0034.html",
-        "image": "https://www.rosario3.com/__export/1790605860944/sites/rosario3/img/2026/09/28/messi.jpg_1221028662.jpg",
-        "summary": "La AFA ratificó el cronograma para los tres compromisos del equipo nacional ante Bolivia, Burkina Faso y Benín. Habrá acción en Córdoba y Buenos Aires. Todos los partidos serán por la noche",
+        "title": "Lalcec realizará 200 mamografías gratuitas para detectar a tiempo el cáncer de mama: cómo y dónde anotarse",
+        "link": "https://www.rosario3.com/informaciongeneral/lalcec-realizara-200-mamografias-gratuitas-para-detectar-a-tiempo-el-cancer-de-mama-como-y-donde-anotarse-20260928-0053.html",
+        "image": "https://www.rosario3.com/__export/1790621919930/sites/rosario3/img/2026/09/28/octubre_rosa.png_786111822.png",
+        "summary": "La iniciativa se enmarca en la Campaña Anual de Lucha Contra el Cáncer de Mama y está destinada a personas mayores de 40 años sin cobertura social o a menores de esa edad con antecedentes familiares. Los turnos se ofrecerán en el marco de la Caminata Rosa, que se realizará el…",
         "pubDate": "2026-09-28T11:51:00+00:00",
         "approxTime": true
       },
@@ -121,24 +121,78 @@
       },
       {
         "source": "Rosario3",
-        "title": "Brutal intento de femicidio en la zona noroeste: prendió fuego a su pareja",
-        "link": "https://www.rosario3.com/policiales/brutal-intento-de-femicidio-en-la-zona-noroeste-prendio-fuego-a-su-pareja-20260928-0035.html",
-        "image": "https://www.rosario3.com/__export/1790606385365/sites/rosario3/img/2026/07/23/centenario.jpg_928314581.jpg",
-        "summary": "El ataque ocurrió el 20 de septiembre, pero recién el pasado fin de semana se pudo establecer que las quemaduras habían sido provocadas por el novio de la víctima. Ella permanece internada en el Centenario, mientras que el violento fue aprehendido en una pensión del centro de…",
+        "title": "Conductor de Didi Moto fue imputado por abusar de una pasajera de 17 años en Fisherton",
+        "link": "https://www.rosario3.com/policiales/conductor-de-didi-moto-fue-imputado-por-abusar-de-una-pasajera-de-17-anos-en-fisherton-20260928-0036.html",
+        "image": "https://www.rosario3.com/__export/1781801935336/sites/rosario3/img/2024/05/27/_dsc7950.jpg_928314580.jpg",
+        "summary": "El chofer Nicolás Leandro Soto fue acusado el sábado en el Centro de Justicia Penal y quedó en prisión preventiva efectiva por un mes. El ataque tuvo lugar el 16 de septiembre pasado",
         "pubDate": "2026-09-28T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Se mudó hace un mes a barrio Tablada y le balearon la casa",
-        "link": "https://www.rosario3.com/policiales/se-mudo-hace-un-mes-a-barrio-tablada-y-le-balearon-la-casa-20260928-0033.html",
-        "image": "https://www.rosario3.com/__export/1765464548043/sites/rosario3/img/2022/09/23/vaina_nahuel_cantero.jpg_928314581.jpg",
-        "summary": "El ataque a tiros ocurrió el pasado sábado en Colón al 3900. En la escena, la Policía secuestró siete vainas servidas",
+        "title": "Brutal intento de femicidio en la zona noroeste: prendió fuego a su pareja",
+        "link": "https://www.rosario3.com/policiales/brutal-intento-de-femicidio-en-la-zona-noroeste-prendio-fuego-a-su-pareja-20260928-0035.html",
+        "image": "https://www.rosario3.com/__export/1790606385365/sites/rosario3/img/2026/07/23/centenario.jpg_928314581.jpg",
+        "summary": "El ataque ocurrió el 20 de septiembre, pero recién el pasado fin de semana se pudo establecer que las quemaduras habían sido provocadas por el novio de la víctima. Ella permanece internada en el Centenario, mientras que el violento fue aprehendido en una pensión del centro de…",
         "pubDate": "2026-09-28T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "De psiquiatra a dueño de una baticueva: el rosarino que juntó casi mil batimóviles",
+        "link": "https://www.lacapital.com.ar/la-ciudad/de-psiquiatra-dueno-una-baticueva-el-rosarino-que-junto-casi-mil-batimoviles-n10283626.html",
+        "image": "https://media.lacapital.com.ar/p/8e8be1c19147c2b1826c2430ce6364ad/adjuntos/203/imagenes/103/433/0103433047/1200x675/smart/image.jpg",
+        "summary": "Carlos Coca empezó con un autito que le recordó a su infancia y, veinte años después, convirtió una habitación de su casa en una colección descomunal con piezas de todo el mundo.",
+        "pubDate": "2026-09-28T19:23:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Trading online: lo que hay que entender antes de abrir una cuenta",
+        "link": "https://www.lacapital.com.ar/novedades/trading-online-lo-que-hay-que-entender-antes-abrir-una-cuenta-n10282322.html",
+        "image": "https://media.lacapital.com.ar/p/b2500397f6387e889c42f710d79dd3d4/adjuntos/203/imagenes/103/417/0103417188/1200x675/smart/imagen-nota.jpg",
+        "summary": "El trading en línea permite operar divisas, materias primas e índices desde una sola cuenta. Brokers como easyMarkets exigen entender el apalancamiento y la regulación antes de depositar capital real",
+        "pubDate": "2026-09-28T19:15:12+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Cómo actuar cuando el auto patina o se queda atascado en el barro",
+        "link": "https://www.lacapital.com.ar/motores/como-actuar-cuando-el-auto-patina-o-se-queda-atascado-el-barro-n10283573.html",
+        "image": "https://media.lacapital.com.ar/p/245f64856716267757c585952bc08017/adjuntos/203/imagenes/103/432/0103432139/1200x675/smart/auto-barro.jpg",
+        "summary": "Luego de una fuerte lluvia existen maniobras de rescate y recomendaciones para que los conductores puedan para prevenir daños ante los obstáculos",
+        "pubDate": "2026-09-28T19:03:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Primera C: Leones FC iguala ante Luján en el predio Jorge Griffa, en el cierre de la fecha 30",
+        "link": "https://www.lacapital.com.ar/ovacion/primera-c-leones-fc-iguala-lujan-el-predio-jorge-griffa-el-cierre-la-fecha-30-n10283658.html",
+        "image": "https://media.lacapital.com.ar/p/0a19a4d12f9d847efeb61b5f513aad62/adjuntos/203/imagenes/103/432/0103432964/1200x675/smart/image-2026-09-28t152717346.png",
+        "summary": "El elenco de Alvear, ya clasificado para disputar el Reducido, busca los tres puntos para quedar bien posicionado en la tabla de la Zona B en la Primera C",
+        "pubDate": "2026-09-28T19:03:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Rescataron en la zona norte a un perro abandonado en una terraza: tenía las patas delanteras amputadas",
+        "link": "https://www.lacapital.com.ar/la-ciudad/rescataron-la-zona-norte-un-perro-abandonado-una-terraza-tenia-las-patas-delanteras-amputadas-n10283669.html",
+        "image": "https://media.lacapital.com.ar/p/0e5551a1f0fc90b2dc0e282de71e45d5/adjuntos/203/imagenes/103/432/0103432988/1200x675/smart/perro-rescatado-289-2.jpg",
+        "summary": "Los vecinos denunciaron que el animal pasaba horas y horas en la terraza de la vivienda. El responsable dijo que sólo perdió una pata bajo su cuidado",
+        "pubDate": "2026-09-28T19:02:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Una encuesta nacional encendió la pelea por 2027: quién lidera y qué dato complica a Milei",
+        "link": "https://www.lacapital.com.ar/politica/una-encuesta-nacional-encendio-la-pelea-2027-quien-lidera-y-que-dato-complica-milei-n10283674.html",
+        "image": "https://media.lacapital.com.ar/p/536e48cacbaab14962b300cf452642f6/adjuntos/203/imagenes/102/613/0102613973/1200x675/smart/image.png",
+        "summary": "El relevamiento de Zuban Córdoba y Asociados midió imagen, potencial de voto y preferencias por espacio político. También registró una suba en la desaprobación de la gestión nacional.",
+        "pubDate": "2026-09-28T18:57:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Cómo es el auto más angosto de la historia: un récord mundial del Fiat Panda",
@@ -159,19 +213,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Final del Juego: la nueva etapa para Rosario tras los Suramericanos",
-        "link": "https://www.lacapital.com.ar/la-ciudad/final-del-juego-la-nueva-etapa-rosario-los-suramericanos-n10283615.html",
-        "image": "https://media.lacapital.com.ar/p/d163f79fe8202ac5a70d68b0b5e738a3/adjuntos/203/imagenes/103/432/0103432324/1200x675/smart/juegos-odesur-suramericanos.jpeg",
-        "summary": "Desde la Municipalidad y la provincia hablan de una nueva etapa y legado para consolidar la ciudad como polo turístico deportivo. El deporte como política pública permanente",
+        "title": "La CGT Rosario organiza una movilización y no descarta un paro regional contra los despidos",
+        "link": "https://www.lacapital.com.ar/economia/la-cgt-rosario-organiza-una-movilizacion-y-no-descarta-un-paro-regional-contra-los-despidos-n10283654.html",
+        "image": "https://media.lacapital.com.ar/p/3716dc6571578d2a7d5c9e1a9ae7004f/adjuntos/203/imagenes/103/431/0103431872/1200x675/724x418:744x438/uom-electrolux-2.png",
+        "summary": "El titular de la central obrera, Miguel Vivas, denunció que la política económica “está destruyendo el cordón industrial”. Gremios locales llevaron su solidaridad a los trabajadores de Electrolux",
         "pubDate": "2026-09-28T18:19:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "La CGT Rosario organiza una movilización y no descarta un paro regional contra los despidos",
-        "link": "https://www.lacapital.com.ar/economia/la-cgt-rosario-organiza-una-movilizacion-y-no-descarta-un-paro-regional-contra-los-despidos-n10283654.html",
-        "image": "https://media.lacapital.com.ar/p/3716dc6571578d2a7d5c9e1a9ae7004f/adjuntos/203/imagenes/103/431/0103431872/1200x675/724x418:744x438/uom-electrolux-2.png",
-        "summary": "El titular de la central obrera, Miguel Vivas, denunció que la política económica “está destruyendo el cordón industrial”. Gremios locales llevaron su solidaridad a los trabajadores de Electrolux",
+        "title": "Final del Juego: la nueva etapa para Rosario tras los Suramericanos",
+        "link": "https://www.lacapital.com.ar/la-ciudad/final-del-juego-la-nueva-etapa-rosario-los-suramericanos-n10283615.html",
+        "image": "https://media.lacapital.com.ar/p/d163f79fe8202ac5a70d68b0b5e738a3/adjuntos/203/imagenes/103/432/0103432324/1200x675/smart/juegos-odesur-suramericanos.jpeg",
+        "summary": "Desde la Municipalidad y la provincia hablan de una nueva etapa y legado para consolidar la ciudad como polo turístico deportivo. El deporte como política pública permanente",
         "pubDate": "2026-09-28T18:19:00+00:00",
         "approxTime": false
       },
@@ -218,60 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/cb783014b2655f2483311525154b27c3/adjuntos/203/imagenes/103/432/0103432577/1200x675/smart/venado-area-recreativa.jpg",
         "summary": "Es una de las iniciativas urbanísticas de mayor envergadura que comenzó a tomar forma a partir del comienzo de los trabajos",
         "pubDate": "2026-09-28T16:31:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Nuevo parte médico de Mirtha Legrand: cómo es el estado de salud de la diva",
-        "link": "https://www.lacapital.com.ar/zoom/nuevo-parte-medico-mirtha-legrand-como-es-el-estado-salud-la-diva-n10283617.html",
-        "image": "https://media.lacapital.com.ar/p/a6a21257be354cf3a8e18ca6d1d8d18a/adjuntos/203/imagenes/103/432/0103432392/1200x675/smart/image-2026-09-28t122936429.png",
-        "summary": "La conductora, de 99 años, permanece internada en el Sanatorio Mater Dei por una neumopatía",
-        "pubDate": "2026-09-28T16:01:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La selección argentina vuelve a los entrenamientos en la previa al amistoso ante Bolivia",
-        "link": "https://www.lacapital.com.ar/ovacion/la-seleccion-argentina-vuelve-los-entrenamientos-la-previa-al-amistoso-bolivia-n10283590.html",
-        "image": "https://media.lacapital.com.ar/p/f810fe9a119376041571334c682f2116/adjuntos/203/imagenes/103/432/0103432146/1200x675/smart/image-2026-09-28t110114636.png",
-        "summary": "Los dirigidos por Lionel Scaloni se reencuentran este lunes tras los días de descanso del fin de semana, a la espera de llegada de Messi para su despedida",
-        "pubDate": "2026-09-28T15:58:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Conciliación obligatoria en Electrolux: los 200 despidos quedan en suspenso",
-        "link": "https://www.lacapital.com.ar/economia/conciliacion-obligatoria-electrolux-los-200-despidos-quedan-suspenso-n10283623.html",
-        "image": "https://media.lacapital.com.ar/p/8e86fff94077c94f39e06ee16dd364b0/adjuntos/203/imagenes/103/432/0103432325/1200x675/smart/electroluxministerio.jpg",
-        "summary": "El Ministerio de Trabajo de Santa Fe dictó la conciliación obligatoria. Los trabajadores no asistirán a la planta, pero seguirán cobrando sus salarios. La UOM se movilizó y la CGT Rosario planteó una protesta regional",
-        "pubDate": "2026-09-28T15:42:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Crimen de Jimi Altamirano: condenaron a un miembro de la banda narco de Pablo Camino",
-        "link": "https://www.lacapital.com.ar/policiales/crimen-jimi-altamirano-condenaron-un-miembro-la-banda-narco-pablo-camino-n10283618.html",
-        "image": "https://media.lacapital.com.ar/p/054a80f62a2dbea31acaee63323fc005/adjuntos/203/imagenes/103/432/0103432323/1200x675/smart/bommer.jpg",
-        "summary": "Daniel Mateo Bommer fue ubicado como partícipe secundario del homicidio ocurrido en una disputa entre criminales de la cual la víctima era ajena",
-        "pubDate": "2026-09-28T15:35:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Planillas sin dolores de cabeza: cómo ahorrar horas de trabajo administrativo cada mes",
-        "link": "https://www.lacapital.com.ar/novedades/planillas-dolores-cabeza-como-ahorrar-horas-trabajo-administrativo-cada-mes-n10283619.html",
-        "image": "https://www.lacapital.com.ar/css-custom/203/images/mtg_logo-v2.png",
-        "summary": "La Capital",
-        "pubDate": "2026-09-28T15:13:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Ya es normal el tránsito en Oroño y el Parque Independencia tras los Juegos Suramericanos",
-        "link": "https://www.lacapital.com.ar/la-ciudad/ya-es-normal-el-transito-orono-y-el-parque-independencia-los-juegos-suramericanos-n10283604.html",
-        "image": "https://media.lacapital.com.ar/p/df728b95efb56e4d5e31df5f889eb578/adjuntos/203/imagenes/103/432/0103432145/1200x675/smart/limpieza.png",
-        "summary": "Luego de los trabajos de limpieza y barrido, este lunes a la madrugada quedó liberado el tránsito en bulevar Oroño y todo el Parque",
-        "pubDate": "2026-09-28T14:36:00+00:00",
         "approxTime": false
       }
     ]
