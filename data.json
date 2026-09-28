@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T17:31:10.054549+00:00",
+  "generatedAt": "2026-09-28T18:01:15.819165+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Liberan a Matías Capozucca, acusado por violencia de género: pagará $3 millones y usará tobillera",
+        "link": "https://www.lacapital.com.ar/policiales/liberan-matias-capozucca-acusado-violencia-genero-pagara-3-millones-y-usara-tobillera-n10283651.html",
+        "image": "https://media.lacapital.com.ar/p/2831be2038945eccee76334b593ba391/adjuntos/203/imagenes/005/265/0005265710/1200x675/smart/capozzuca.jpg",
+        "summary": "Este lunes el juez Javier Beltramone revocó la prisión preventiva en una causa por amenazas a su expareja, por lo que recuperó la libertad",
+        "pubDate": "2026-09-28T17:52:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Crimen en barrio Tablada: sin hipótesis firme, confirman que la mujer fue asesinada a puñaladas",
         "link": "https://www.lacapital.com.ar/policiales/crimen-barrio-tablada-hipotesis-firme-confirman-que-la-mujer-fue-asesinada-punaladas-n10283645.html",
         "image": "https://media.lacapital.com.ar/p/5715f56c0e2b6d369d73a4142c452154/adjuntos/203/imagenes/103/432/0103432668/1200x675/smart/whatsapp-image-2026-09-28-at-092425.jpeg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/04e7125ff3cc800271e2a6657044e9ae/adjuntos/203/imagenes/102/712/0102712875/1200x675/smart/alvearpatronales.jpg",
         "summary": "La celebración prevista para este domingo fue reprogramada debido a la alerta amarilla emitida por el Servicio Meteorológico Nacional",
         "pubDate": "2026-09-28T13:39:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Ganadería: un boom que no llega a todos los sectores",
-        "link": "https://www.lacapital.com.ar/agro/ganaderia-un-boom-que-no-llega-todos-los-sectores-n10283419.html",
-        "image": "https://media.lacapital.com.ar/p/3369ce4efaf709114dd36b3d6661ddaf/adjuntos/203/imagenes/103/429/0103429774/1200x675/424x483:444x503/angus-amadeo-derito.jpg",
-        "summary": "El presidente de la Asociación Argentina de Angus, Amadeo Derito, aclaró que, dentro de la cadena de la carne, hay segmentos que están mejor y otros muy ajustados. Se destacan los criadores que hacen terneros",
-        "pubDate": "2026-09-28T13:15:00+00:00",
         "approxTime": false
       }
     ]
