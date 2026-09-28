@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T18:01:15.819165+00:00",
+  "generatedAt": "2026-09-28T18:31:10.898512+00:00",
   "sites": {
     "rosario3": [
       {
@@ -103,11 +103,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Después de que Milei reconociera que escuchó sus canciones, Lali cambió una frase de “Fanático”",
+        "link": "https://www.rosario3.com/ocio/despues-de-que-milei-reconociera-que-escucho-sus-canciones-lali-cambio-una-frase-de-fanatico-20260928-0050.html",
+        "image": "https://www.rosario3.com/__export/1790618907758/sites/rosario3/img/2026/09/28/lali_milei.png_786111822.png",
+        "summary": "La cantante modificó en vivo una de las líneas del tema durante su show en River y cantó “ahora sí que lo vio”, en una referencia que rápidamente fue vinculada con el presidente",
+        "pubDate": "2026-09-28T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Lo golpearon a la salida de un boliche y permanece internado en grave estado: \"Tiene un coágulo en la cabeza\"",
         "link": "https://www.rosario3.com/informaciongeneral/lo-golpearon-a-la-salida-de-un-boliche-y-permanece-internado-en-grave-estado-tiene-un-coagulo-en-la-cabeza-20260928-0040.html",
         "image": "https://www.rosario3.com/__export/1790610342741/sites/rosario3/img/2026/09/28/gresca.png_786111822.png",
         "summary": "El hecho ocurrió durante una pelea entre dos grupos en General Belgrano. La víctima, identificada como Rodrigo, tiene 23 años y sufrió un derrame y una fractura detrás del oído. El presunto agresor fue detenido y un policía que aparece en las imágenes también fue desafectado de…",
-        "pubDate": "2026-09-28T11:49:00+00:00",
+        "pubDate": "2026-09-28T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,15 +125,6 @@
         "link": "https://www.rosario3.com/policiales/se-mudo-hace-un-mes-a-barrio-tablada-y-le-balearon-la-casa-20260928-0033.html",
         "image": "https://www.rosario3.com/__export/1765464548043/sites/rosario3/img/2022/09/23/vaina_nahuel_cantero.jpg_928314581.jpg",
         "summary": "El ataque a tiros ocurrió el pasado sábado en Colón al 3900. En la escena, la Policía secuestró siete vainas servidas",
-        "pubDate": "2026-09-28T11:48:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Balacera con nota mafiosa en un complejo Fonavi de Villa Gobernador Gálvez",
-        "link": "https://www.rosario3.com/policiales/balacera-con-nota-mafiosa-en-un-complejo-fonavi-de-villa-gobernador-galvez-20260928-0027.html",
-        "image": "https://www.rosario3.com/__export/1790601566322/sites/rosario3/img/2026/09/28/marino_bruno_400.jpg_928314581.jpg",
-        "summary": "Ocurrió en la madrugada de este lunes en Marino Bruno al 400. El atacante, que estaba a pie, arrojó un papel con un mensaje intimidatorio",
         "pubDate": "2026-09-28T11:47:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,33 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Final del Juego: la nueva etapa para Rosario tras los Suramericanos",
+        "link": "https://www.lacapital.com.ar/la-ciudad/final-del-juego-la-nueva-etapa-rosario-los-suramericanos-n10283615.html",
+        "image": "https://media.lacapital.com.ar/p/d163f79fe8202ac5a70d68b0b5e738a3/adjuntos/203/imagenes/103/432/0103432324/1200x675/smart/juegos-odesur-suramericanos.jpeg",
+        "summary": "Desde la Municipalidad y la provincia hablan de una nueva etapa y legado para consolidar la ciudad como polo turístico deportivo. El deporte como política pública permanente",
+        "pubDate": "2026-09-28T18:19:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La CGT Rosario organiza una movilización y no descarta un paro regional contra los despidos",
+        "link": "https://www.lacapital.com.ar/economia/la-cgt-rosario-organiza-una-movilizacion-y-no-descarta-un-paro-regional-contra-los-despidos-n10283654.html",
+        "image": "https://media.lacapital.com.ar/p/3716dc6571578d2a7d5c9e1a9ae7004f/adjuntos/203/imagenes/103/431/0103431872/1200x675/724x418:744x438/uom-electrolux-2.png",
+        "summary": "El titular de la central obrera, Miguel Vivas, denunció que la política económica “está destruyendo el cordón industrial”. Gremios locales llevaron su solidaridad a los trabajadores de Electrolux",
+        "pubDate": "2026-09-28T18:19:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Cardón continúa creciendo con un nuevo local en la ciudad de Funes",
+        "link": "https://www.lacapital.com.ar/novedades/cardon-continua-creciendo-un-nuevo-local-la-ciudad-funes-n10283624.html",
+        "image": "https://media.lacapital.com.ar/p/9f9015492a771fbb29c2eda05d469bb6/adjuntos/203/imagenes/103/432/0103432849/1200x675/smart/img-20260928-wa0004.jpg",
+        "summary": "La marca argentina abrió hoy un nuevo espacio de más de 200 m² en Funes. El local incorpora el renovado concepto de diseño y arquitectura de Cardón y presenta la nueva Colección Primavera Verano 2027.",
+        "pubDate": "2026-09-28T18:15:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Liberan a Matías Capozucca, acusado por violencia de género: pagará $3 millones y usará tobillera",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/c79e3808cb2b769c2be89ea945ae4fbf/adjuntos/203/imagenes/103/431/0103431791/1200x675/smart/falso-policia-2.jpg",
         "summary": "El impostor fue detectado en la zona del parque Independencia. Fue detenido por el delito de usurpación de cargos y honores. Tiene 25 años",
         "pubDate": "2026-09-28T14:08:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cuándo corre Colapinto: días y horarios del GP de Baréin de la Fórmula 1 en Malasia",
-        "link": "https://www.lacapital.com.ar/ovacion/cuando-corre-colapinto-dias-y-horarios-del-gp-barein-la-formula-1-malasia-n10283587.html",
-        "image": "https://media.lacapital.com.ar/p/6fb8348563e7eb046df29c9cff89831c/adjuntos/203/imagenes/103/423/0103423374/1200x675/smart/image-1.jpg",
-        "summary": "El piloto argentino tendrá una sanción en la salida de la carrera del domingo. Correrá en un circuito completo que regresa a la máxima categoría",
-        "pubDate": "2026-09-28T14:05:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Sortearon 12 viviendas en Carlos Pellegrini y avanza el proceso de adjudicación",
-        "link": "https://www.lacapital.com.ar/la-region/sortearon-12-viviendas-carlos-pellegrini-y-avanza-el-proceso-adjudicacion-n10283600.html",
-        "image": "https://media.lacapital.com.ar/p/4b841f4320471663bd881cf53e2099e5/adjuntos/203/imagenes/103/432/0103432138/1200x675/smart/carlos-pellegrini-viviendas-1.jpeg",
-        "summary": "Las familias preseleccionadas deberán ahora atravesar la evaluación de la Dirección Provincial de Vivienda y Urbanismo para completar el trámite",
-        "pubDate": "2026-09-28T13:56:56+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Alvear suspendió su fiesta patronal por el alerta meteorológico y anunciará una nueva fecha",
-        "link": "https://www.lacapital.com.ar/la-region/alvear-suspendio-su-fiesta-patronal-el-alerta-meteorologico-y-anunciara-una-nueva-fecha-n10283594.html",
-        "image": "https://media.lacapital.com.ar/p/04e7125ff3cc800271e2a6657044e9ae/adjuntos/203/imagenes/102/712/0102712875/1200x675/smart/alvearpatronales.jpg",
-        "summary": "La celebración prevista para este domingo fue reprogramada debido a la alerta amarilla emitida por el Servicio Meteorológico Nacional",
-        "pubDate": "2026-09-28T13:39:00+00:00",
         "approxTime": false
       }
     ]
