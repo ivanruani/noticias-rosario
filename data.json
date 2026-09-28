@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-28T15:21:42.528381+00:00",
+  "generatedAt": "2026-09-28T15:31:08.979402+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Dictaron la conciliación obligatoria y suspendieron los 200 despidos en Electrolux: \"Se dio el primer paso\"",
+        "link": "https://www.rosario3.com/informaciongeneral/cierre-de-electrolux-la-uom-se-moviliza-al-ministerio-de-trabajo-por-despidos-ilegales-20260927-0028.html",
+        "image": "https://www.rosario3.com/__export/1790605896478/sites/rosario3/img/2026/09/28/audiencia_electrolux.jpg_506286608.jpg",
+        "summary": "Tras una audiencia celebrada este lunes, el Ministerio de Trabajo dictó la medida que suspende transitoriamente los despidos en la planta de Rosario y se abre una ventana de 20 días de negociaciones entre las partes, aunque la firma ratificó que cierra todas sus operaciones. El…",
+        "pubDate": "2026-09-27T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Conductor de Didi Moto fue imputado por abusar de una pasajera de 17 años en Fisherton",
         "link": "https://www.rosario3.com/policiales/conductor-de-didi-moto-fue-imputado-por-abusar-de-una-pasajera-de-17-anos-en-fisherton-20260928-0036.html",
         "image": "https://www.rosario3.com/__export/1781801935336/sites/rosario3/img/2024/05/27/_dsc7950.jpg_928314580.jpg",
         "summary": "El chofer Nicolás Leandro Soto fue acusado el sábado en el Centro de Justicia Penal y quedó en prisión preventiva efectiva por un mes. El ataque tuvo lugar el 16 de septiembre pasado",
-        "pubDate": "2026-09-28T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Dictaron la conciliación obligatoria y suspendieron los 200 despidos en Electrolux: \"Se dio el primer paso\"",
-        "link": "https://www.rosario3.com/informaciongeneral/cierre-de-electrolux-la-uom-se-moviliza-al-ministerio-de-trabajo-por-despidos-ilegales-20260927-0028.html",
-        "image": "https://www.rosario3.com/__export/1790605896478/sites/rosario3/img/2026/09/28/audiencia_electrolux.jpg_506286608.jpg",
-        "summary": "Tras una audiencia celebrada este lunes, el Ministerio de Trabajo dictó la medida que suspende transitoriamente los despidos en la planta de Rosario. El abogado de la UOM, Pablo Cerra, advirtió que es un primer paso favorable, pero que la lucha continúa. Desde el sindicato se…",
-        "pubDate": "2026-09-27T11:59:00+00:00",
+        "pubDate": "2026-09-28T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -213,19 +213,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Supercopa Internacional: el árbitro del VAR explicó algunas de las polémicas de la final",
-        "link": "https://www.lacapital.com.ar/ovacion/supercopa-internacional-el-arbitro-del-var-explico-algunas-las-polemicas-la-final-n10283545.html",
-        "image": "https://media.lacapital.com.ar/p/3334ae0ba25dc4814784473ba78e8616/adjuntos/203/imagenes/103/431/0103431601/1200x675/smart/arbitros-central-estudiantes.jpg",
-        "summary": "Jorge Baliño salió a aclarar jugadas que fueron cuestionadas por Estudiantes. \"Hubo imprudencia (en el penal a Copetti)\" y \"la mano (de Ovando) está en una posición natural\", opinó",
+        "title": "La UOM, movilizada por el cierre de Electrolux: \"Este gobierno no cuida la industria nacional\"",
+        "link": "https://www.lacapital.com.ar/economia/la-uom-movilizada-el-cierre-electrolux-este-gobierno-no-cuida-la-industria-nacional-n10283563.html",
+        "image": "https://media.lacapital.com.ar/p/901ffc15ee7bd22f7b3c486b81bd95dd/adjuntos/203/imagenes/103/431/0103431860/1200x675/smart/uom-electrolux.png",
+        "summary": "El gremio de los metalúrgicos pide la nulidad de las cesantías. Además, exigen una instancia de negociación con Electrolux. Son 200 los despedidos",
         "pubDate": "2026-09-28T12:59:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "La UOM, movilizada por el cierre de Electrolux: \"Este gobierno no cuida la industria nacional\"",
-        "link": "https://www.lacapital.com.ar/economia/la-uom-movilizada-el-cierre-electrolux-este-gobierno-no-cuida-la-industria-nacional-n10283563.html",
-        "image": "https://media.lacapital.com.ar/p/901ffc15ee7bd22f7b3c486b81bd95dd/adjuntos/203/imagenes/103/431/0103431860/1200x675/smart/uom-electrolux.png",
-        "summary": "El gremio de los metalúrgicos pide la nulidad de las cesantías. Además, exigen una instancia de negociación con Electrolux. Son 200 los despedidos",
+        "title": "Supercopa Internacional: el árbitro del VAR explicó algunas de las polémicas de la final",
+        "link": "https://www.lacapital.com.ar/ovacion/supercopa-internacional-el-arbitro-del-var-explico-algunas-las-polemicas-la-final-n10283545.html",
+        "image": "https://media.lacapital.com.ar/p/3334ae0ba25dc4814784473ba78e8616/adjuntos/203/imagenes/103/431/0103431601/1200x675/smart/arbitros-central-estudiantes.jpg",
+        "summary": "Jorge Baliño salió a aclarar jugadas que fueron cuestionadas por Estudiantes. \"Hubo imprudencia (en el penal a Copetti)\" y \"la mano (de Ovando) está en una posición natural\", opinó",
         "pubDate": "2026-09-28T12:59:00+00:00",
         "approxTime": false
       },
