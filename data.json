@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T22:31:06.848220+00:00",
+  "generatedAt": "2026-09-28T23:01:14.216839+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,11 +13,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Un policía denunció que le robaron su arma reglamentaria durante un asalto en zona sudoeste",
+        "link": "https://www.rosario3.com/policiales/un-policia-denuncio-que-le-robaron-su-arma-reglamentaria-durante-un-asalto-en-zona-sudoeste-20260928-0064.html",
+        "image": "https://www.rosario3.com/__export/1790627637400/sites/rosario3/img/2026/09/28/12121212121.png_928314580.png",
+        "summary": "El agente, que presta servicio en la subcomisaría 4ª de Piñero, dijo que fue sorprendido por dos hombres que se desplazaban en moto. El acompañante lo amenazó con un arma y le sustrajo la pistola Bersa reglamentaria",
+        "pubDate": "2026-09-28T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Imputaron por lavado narco a un abogado y a dos hermanos presos por traficar cocaína en avionetas",
         "link": "https://www.rosario3.com/policiales/imputaron-por-lavado-narco-a-un-abogado-y-a-dos-hermanos-presos-por-traficar-cocaina-en-avionetas-20260928-0060.html",
         "image": "https://www.rosario3.com/__export/1778881189451/sites/rosario3/img/2026/05/15/gendarmeria_avion.jpeg_672794304.jpeg",
         "summary": "Los hermanos Borras, ya detenidos por el aterrizaje narco de Villa Eloísa en mayo, donde Gendarmería incautó 321 kilos de cocaína, sumaron cargos por lavado junto con un tío que abrió un corralón de materiales en Melincué. Los fiscales también vincularon a un penalista con la…",
-        "pubDate": "2026-09-28T11:59:00+00:00",
+        "pubDate": "2026-09-28T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,25 +35,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/malvinas-el-gobierno-dio-dos-semanas-al-reino-unido-para-frenar-la-explotacion-petrolera-antes-de-recurrir-al-tribunal-del-mar-20260928-0066.html",
         "image": "https://www.rosario3.com/__export/1790628539029/sites/rosario3/img/2026/09/28/milei_onu.jpg_1825222445.jpg",
         "summary": "La Casa Rosada anunció el inicio de un arbitraje internacional por el proyecto Sea Lion. Si Londres no suspende las actividades hidrocarburíferas se solicitará medidas provisionales ante el organismo judicial",
-        "pubDate": "2026-09-28T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Revocaron la prisión preventiva de Matías Capozucca: pagará una fianza de 3 millones y tendrá una tobillera",
-        "link": "https://www.rosario3.com/policiales/revocaron-la-prision-preventiva-de-matias-capozucca-pagara-una-fianza-de-3-millones-y-tendra-una-tobillera-20260928-0043.html",
-        "image": "https://www.rosario3.com/__export/1788885569779/sites/rosario3/img/2026/09/08/matias_capozucca.jpg_506286608.jpg",
-        "summary": "El juez de Cámara Javier Beltramone hizo lugar a la apelación de la defensa y ordenó la libertad del hombre denunciado por su expareja. No podrá acercarse ni contactarla a ella ni a su grupo familiar y deberá cumplir otras medidas de control",
         "pubDate": "2026-09-28T11:57:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Los tres sectores de la economía que más empresas perdieron en la era Milei",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/los-tres-sectores-de-la-economia-que-mas-empresas-perdieron-en-la-era-milei-20260928-0052.html",
-        "image": "https://www.rosario3.com/__export/1790621162396/sites/rosario3/img/2026/09/28/fabricas.jpg_1768679258.jpg",
-        "summary": "Desde noviembre de 2023, más de 31.000 firmas empleadoras dejaron de estar activas en la Superintendencia de Riesgos de Trabajo, una estadísitica que análisis privados usan para estimar la mortandad de empresas",
-        "pubDate": "2026-09-28T11:56:00+00:00",
         "approxTime": true
       },
       {
@@ -53,6 +44,15 @@
         "link": "https://www.rosario3.com/politica/elecciones-2027-maximo-kirchner-revelo-que-cristina-tiene-voluntad-de-ser-candidata-20260928-0051.html",
         "image": "https://www.rosario3.com/__export/1750332763048/sites/rosario3/img/2025/06/18/mxximokirchner_1.jpg_982625323.jpg",
         "summary": "El líder de La Cámpora sostuvo que sin la ex mandataria el peronismo 'pierde competitividad'. Explicó la estrategia ante la ONU para revertir la inhabilitación judicial y cuestionó las internas dentro del espacio",
+        "pubDate": "2026-09-28T11:56:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Revocaron la prisión preventiva de Matías Capozucca: pagará una fianza de 3 millones y tendrá una tobillera",
+        "link": "https://www.rosario3.com/policiales/revocaron-la-prision-preventiva-de-matias-capozucca-pagara-una-fianza-de-3-millones-y-tendra-una-tobillera-20260928-0043.html",
+        "image": "https://www.rosario3.com/__export/1788885569779/sites/rosario3/img/2026/09/08/matias_capozucca.jpg_506286608.jpg",
+        "summary": "El juez de Cámara Javier Beltramone hizo lugar a la apelación de la defensa y ordenó la libertad del hombre denunciado por su expareja. No podrá acercarse ni contactarla a ella ni a su grupo familiar y deberá cumplir otras medidas de control",
         "pubDate": "2026-09-28T11:55:00+00:00",
         "approxTime": true
       },
@@ -130,15 +130,33 @@
       },
       {
         "source": "Rosario3",
-        "title": "Lo golpearon a la salida de un boliche y permanece internado en grave estado: \"Tiene un coágulo en la cabeza\"",
-        "link": "https://www.rosario3.com/informaciongeneral/lo-golpearon-a-la-salida-de-un-boliche-y-permanece-internado-en-grave-estado-tiene-un-coagulo-en-la-cabeza-20260928-0040.html",
-        "image": "https://www.rosario3.com/__export/1790610342741/sites/rosario3/img/2026/09/28/gresca.png_786111822.png",
-        "summary": "El hecho ocurrió durante una pelea entre dos grupos en General Belgrano. La víctima, identificada como Rodrigo, tiene 23 años y sufrió un derrame y una fractura detrás del oído. El presunto agresor fue detenido y un policía que aparece en las imágenes también fue desafectado de…",
+        "title": "Los tres sectores de la economía que más empresas perdieron en la era Milei",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/los-tres-sectores-de-la-economia-que-mas-empresas-perdieron-en-la-era-milei-20260928-0052.html",
+        "image": "https://www.rosario3.com/__export/1790621162396/sites/rosario3/img/2026/09/28/fabricas.jpg_1768679258.jpg",
+        "summary": "Desde noviembre de 2023, más de 31.000 firmas empleadoras dejaron de estar activas en la Superintendencia de Riesgos de Trabajo, una estadísitica que análisis privados usan para estimar la mortandad de empresas",
         "pubDate": "2026-09-28T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "El brote de ébola en Congo continúa fuera de control: hay casi 4.000 muertes",
+        "link": "https://www.lacapital.com.ar/informacion-general/el-brote-ebola-congo-continua-fuera-control-hay-casi-4000-muertes-n10283724.html",
+        "image": "https://media.lacapital.com.ar/p/d34a415a9404dd0d04a5d94ffb7cebe9/adjuntos/203/imagenes/103/433/0103433572/2026-09-28-congo-82711346.jpg",
+        "summary": "Confirmaron 8.067 casos, con una letalidad de casi el 50 por ciento. La OMS dijo que va camino a convertirse en el más mortífero de la historia",
+        "pubDate": "2026-09-28T22:45:30+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Crimen por encargo en Rosario: mandó a matar desde la cárcel a una joven por $150 mil y hubo tres condenas",
+        "link": "https://www.lacapital.com.ar/policiales/crimen-encargo-rosario-mando-matar-la-carcel-una-joven-150-mil-y-hubo-tres-condenas-n10283657.html",
+        "image": "https://media.lacapital.com.ar/p/62bc28fa9b201d63d0d43e3980dedcb8/adjuntos/203/imagenes/102/889/0102889775/277105305_1853741301482415_8631844630348258621_njpg.jpg",
+        "summary": "Lucía Carpanetto tenía 21 años cuando fue asesinada de un disparo en la cabeza. La investigación reveló que el ataque fue planificado desde la cárcel de Piñero y terminó con penas de 15, 28 y 32 años de prisión.",
+        "pubDate": "2026-09-28T22:32:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Newell's publicó las cifras globales del último mercado de pases",
@@ -159,19 +177,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Cómo activar la privacidad avanzada en el chat de WhatsApp y para qué sirve",
-        "link": "https://www.lacapital.com.ar/informacion-general/como-activar-la-privacidad-avanzada-el-chat-whatsapp-y-que-sirve-n10283716.html",
-        "image": "https://media.lacapital.com.ar/p/09f532d5bfb655505c6fe86b89b57000/adjuntos/203/imagenes/102/727/0102727822/1200x675/smart/whatsapp-celular.png",
-        "summary": "Esta herramienta es una de las tantas que ofrece la app para proteger la privacidad de los usuarios y resguardar sus conversaciones",
+        "title": "Otra mujer asesinada en Sudáfrica: cada vez más indicios conducen a un asesino en serie",
+        "link": "https://www.lacapital.com.ar/informacion-general/otra-mujer-asesinada-sudafrica-cada-vez-mas-indicios-conducen-un-asesino-serie-n10283715.html",
+        "image": "https://media.lacapital.com.ar/p/800c95ad39a8655d3778a029bfe93be5/adjuntos/203/imagenes/103/433/0103433504/2026-09-28-crimen-johannesburgo-sudafrica.jpg",
+        "summary": "En Johannesburgo hubo once crímenes de similares características desde julio, de los cuales ocho cuerpos fueron hallados durante este mes",
         "pubDate": "2026-09-28T22:26:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Otra mujer asesinada en Sudáfrica: cada vez más indicios conducen a un asesino en serie",
-        "link": "https://www.lacapital.com.ar/informacion-general/otra-mujer-asesinada-sudafrica-cada-vez-mas-indicios-conducen-un-asesino-serie-n10283715.html",
-        "image": "https://media.lacapital.com.ar/p/800c95ad39a8655d3778a029bfe93be5/adjuntos/203/imagenes/103/433/0103433504/2026-09-28-crimen-johannesburgo-sudafrica.jpg",
-        "summary": "En Johannesburgo hubo once crímenes de similares características desde julio, de los cuales ocho cuerpos fueron hallados durante este mes",
+        "title": "Cómo activar la privacidad avanzada en el chat de WhatsApp y para qué sirve",
+        "link": "https://www.lacapital.com.ar/informacion-general/como-activar-la-privacidad-avanzada-el-chat-whatsapp-y-que-sirve-n10283716.html",
+        "image": "https://media.lacapital.com.ar/p/09f532d5bfb655505c6fe86b89b57000/adjuntos/203/imagenes/102/727/0102727822/1200x675/smart/whatsapp-celular.png",
+        "summary": "Esta herramienta es una de las tantas que ofrece la app para proteger la privacidad de los usuarios y resguardar sus conversaciones",
         "pubDate": "2026-09-28T22:26:00+00:00",
         "approxTime": false
       },
@@ -195,19 +213,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Una miniserie de misterio española la rompe en Netflix con solo cuatro capítulos",
-        "link": "https://www.lacapital.com.ar/zoom/una-miniserie-misterio-espanola-la-rompe-netflix-solo-cuatro-capitulos-n10283710.html",
-        "image": "https://media.lacapital.com.ar/p/1a4eb8449bce4be295fb062da1b73f27/adjuntos/203/imagenes/103/433/0103433440/1200x675/smart/image-8.png",
-        "summary": "La producción, dirigida por Félix Viscarret, combina el thriller, el suspenso y el drama en una historia acerca de un actor que debe convertirse en detective en la vida real",
+        "title": "La morosidad alcanzó niveles que no se veían desde la crisis de 2001",
+        "link": "https://www.lacapital.com.ar/economia/la-morosidad-alcanzo-niveles-que-no-se-veian-la-crisis-2001-n10283707.html",
+        "image": "https://media.lacapital.com.ar/p/e10cf7a4afc046cb66ae06632e25ccd9/adjuntos/203/imagenes/101/716/0101716347/1200x675/smart/endeudado-billetera-deuda-pagosjpg.jpg",
+        "summary": "Los créditos irregulares treparon al 13% en el sistema financiero y al 33,9% entre proveedores no financieros, detalló un informe del Cepa",
         "pubDate": "2026-09-28T21:47:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "La morosidad alcanzó niveles que no se veían desde la crisis de 2001",
-        "link": "https://www.lacapital.com.ar/economia/la-morosidad-alcanzo-niveles-que-no-se-veian-la-crisis-2001-n10283707.html",
-        "image": "https://media.lacapital.com.ar/p/e10cf7a4afc046cb66ae06632e25ccd9/adjuntos/203/imagenes/101/716/0101716347/1200x675/smart/endeudado-billetera-deuda-pagosjpg.jpg",
-        "summary": "Los créditos irregulares treparon al 13% en el sistema financiero y al 33,9% entre proveedores no financieros, detalló un informe del Cepa",
+        "title": "Una miniserie de misterio española la rompe en Netflix con solo cuatro capítulos",
+        "link": "https://www.lacapital.com.ar/zoom/una-miniserie-misterio-espanola-la-rompe-netflix-solo-cuatro-capitulos-n10283710.html",
+        "image": "https://media.lacapital.com.ar/p/1a4eb8449bce4be295fb062da1b73f27/adjuntos/203/imagenes/103/433/0103433440/1200x675/smart/image-8.png",
+        "summary": "La producción, dirigida por Félix Viscarret, combina el thriller, el suspenso y el drama en una historia acerca de un actor que debe convertirse en detective en la vida real",
         "pubDate": "2026-09-28T21:47:00+00:00",
         "approxTime": false
       },
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/ca7b72c5979d0e6f0a2b4a1185412962/adjuntos/203/imagenes/103/433/0103433237/1200x675/smart/image-8.jpg",
         "summary": "La organización Chequeado analizó declaraciones del presidente sobre economía, empleo, inmigración y exportaciones: calificó dos como \"falsas\", dos como \"engañosas\" y una como \"verdadera\".",
         "pubDate": "2026-09-28T20:16:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "\"Rosario habría finalizado en el 9º puesto\" en los Juegos Suramericanos: un homenaje a los deportistas",
-        "link": "https://www.lacapital.com.ar/ovacion/rosario-habria-finalizado-el-9-puesto-los-juegos-suramericanos-un-homenaje-los-deportistas-n10283668.html",
-        "image": "https://media.lacapital.com.ar/p/b9f740ef39c652e3e135acb96027d9bc/adjuntos/203/imagenes/103/432/0103432991/1200x675/smart/image-8.jpg",
-        "summary": "El intendente Pablo Javkin encabezó el agasajo a los atletas de la ciudad este lunes en el Invencible Rosario, tras sus actuaciones en el certamen continental",
-        "pubDate": "2026-09-28T19:25:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La big band jazz rosarina MAJ Orchestra vuelve al escenario",
-        "link": "https://www.lacapital.com.ar/zoom/la-big-band-jazz-rosarina-maj-orchestra-vuelve-al-escenario-n10283643.html",
-        "image": "https://media.lacapital.com.ar/p/f643ccf6021ef45ce7291653b7774668/adjuntos/203/imagenes/103/432/0103432624/1200x675/smart/maj.jpg",
-        "summary": "Será en Distrito Siete el próximo domingo. La orquesta impulsada por la Asociación Civil Músicos Asociados de Jazz (MAJ) se presentará una vez por mes",
-        "pubDate": "2026-09-28T19:24:00+00:00",
         "approxTime": false
       }
     ]
