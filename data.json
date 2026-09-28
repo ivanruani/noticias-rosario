@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T01:31:05.103105+00:00",
+  "generatedAt": "2026-09-28T02:01:49.693729+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Después de 134 años, el mundo sigue obsesionado con Lizzie Borden",
+        "link": "https://www.lacapital.com.ar/informacion-general/despues-134-anos-el-mundo-sigue-obsesionado-lizzie-borden-n10283533.html",
+        "image": "https://media.lacapital.com.ar/p/5eb4f4e5258161fce7f7890c3551219c/adjuntos/203/imagenes/103/431/0103431356/2026-09-27-lizzie-borden.jpg",
+        "summary": "La nueva temporada de \"Monstruo\", en Netflix, vuelve a ficcionalizar un brutal doble crimen de 1892 nunca resuelto",
+        "pubDate": "2026-09-28T01:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "La Lagunita: un hombre arrojó un arma y logró huir de la Policía",
         "link": "https://www.lacapital.com.ar/la-lagunita-un-hombre-arrojo-un-arma-y-logro-huir-la-policia-n10283323.html",
         "image": "https://media.lacapital.com.ar/p/2b4fcd0008fe127f97d15700e2167027/adjuntos/203/imagenes/103/429/0103429011/1200x675/smart/images-29.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/4644f09e18667cb5de1955b76bb15840/adjuntos/203/imagenes/103/430/0103430873/1200x675/smart/image-2026-09-27t174908047.jpg",
         "summary": "El equipo Sanjobits101, de la Escuela Técnico Profesional y Secundaria Nº 8013 San José, se consagró campeón nacional en Neuquén",
         "pubDate": "2026-09-27T21:07:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central volvió a cargar a Estudiantes tras el título y usó una frase de Los Simuladores",
-        "link": "https://www.lacapital.com.ar/ovacion/central-volvio-cargar-estudiantes-el-titulo-y-uso-una-frase-los-simuladores-n10283501.html",
-        "image": "https://media.lacapital.com.ar/p/fc34eaffee9139ef23f4448e55f9c110/adjuntos/203/imagenes/103/430/0103430896/1200x675/smart/imagedelia.jpg",
-        "summary": "El Canalla publicó una foto de Jorge Almirón con la medalla de campeón y escribió “¿Fuego tiene?”, una referencia directa a Federico D’Elía, reconocido hincha del Pincha.",
-        "pubDate": "2026-09-27T21:06:00+00:00",
         "approxTime": false
       }
     ]
