@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T16:31:01.345777+00:00",
+  "generatedAt": "2026-09-28T17:01:14.505074+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "La AFA confirmó los horarios de los amistosos de la selección argentina",
+        "link": "https://www.lacapital.com.ar/ovacion/la-afa-confirmo-los-horarios-los-amistosos-la-seleccion-argentina-n10283641.html",
+        "image": "https://media.lacapital.com.ar/p/04591be63d3e82391d781b0e7d56149e/adjuntos/203/imagenes/103/432/0103432576/1200x675/smart/image-2026-09-28t125824181.png",
+        "summary": "Los dirigidos por Lionel Scaloni se enfrentarán a Bolivia, Burkina Faso y Benín entre el 30 de septiembre y el 6 de octubre. El último partido marcará la despedida de Messi",
+        "pubDate": "2026-09-28T16:53:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Área Recreativa Norte: un proyecto que empieza a convertirse en realidad en Venado Tuerto",
+        "link": "https://www.lacapital.com.ar/la-region/area-recreativa-norteunproyecto-que-empieza-convertirse-realidad-venado-tuerto-n10283636.html",
+        "image": "https://media.lacapital.com.ar/p/cb783014b2655f2483311525154b27c3/adjuntos/203/imagenes/103/432/0103432577/1200x675/smart/venado-area-recreativa.jpg",
+        "summary": "Es una de las iniciativas urbanísticas de mayor envergadura que comenzó a tomar forma a partir del comienzo de los trabajos",
+        "pubDate": "2026-09-28T16:31:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Nuevo parte médico de Mirtha Legrand: cómo es el estado de salud de la diva",
         "link": "https://www.lacapital.com.ar/zoom/nuevo-parte-medico-mirtha-legrand-como-es-el-estado-salud-la-diva-n10283617.html",
         "image": "https://media.lacapital.com.ar/p/a6a21257be354cf3a8e18ca6d1d8d18a/adjuntos/203/imagenes/103/432/0103432392/1200x675/smart/image-2026-09-28t122936429.png",
@@ -249,29 +267,11 @@
       },
       {
         "source": "La Capital",
-        "title": "Supercopa Internacional: el árbitro del VAR explicó algunas de las polémicas de la final",
-        "link": "https://www.lacapital.com.ar/ovacion/supercopa-internacional-el-arbitro-del-var-explico-algunas-las-polemicas-la-final-n10283545.html",
-        "image": "https://media.lacapital.com.ar/p/3334ae0ba25dc4814784473ba78e8616/adjuntos/203/imagenes/103/431/0103431601/1200x675/smart/arbitros-central-estudiantes.jpg",
-        "summary": "Jorge Baliño salió a aclarar jugadas que fueron cuestionadas por Estudiantes. \"Hubo imprudencia (en el penal a Copetti)\" y \"la mano (de Ovando) está en una posición natural\", opinó",
-        "pubDate": "2026-09-28T12:59:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "La UOM, movilizada por el cierre de Electrolux: \"Este gobierno no cuida la industria nacional\"",
         "link": "https://www.lacapital.com.ar/economia/la-uom-movilizada-el-cierre-electrolux-este-gobierno-no-cuida-la-industria-nacional-n10283563.html",
         "image": "https://media.lacapital.com.ar/p/901ffc15ee7bd22f7b3c486b81bd95dd/adjuntos/203/imagenes/103/431/0103431860/1200x675/smart/uom-electrolux.png",
         "summary": "El gremio de los metalúrgicos pide la nulidad de las cesantías. Además, exigen una instancia de negociación con Electrolux. Son 200 los despedidos",
         "pubDate": "2026-09-28T12:59:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cómo podés sumarte a Moda Argentina por la Vida y luchar contra el cáncer",
-        "link": "https://www.lacapital.com.ar/informacion-general/como-podes-sumarte-moda-argentina-la-vida-y-luchar-contra-el-cancer-n10283564.html",
-        "image": "https://media.lacapital.com.ar/p/a6b073dc62f5cbcada082fd7acd56a42/adjuntos/203/imagenes/103/431/0103431631/1200x675/smart/moda-argentina-xlavida.png",
-        "summary": "Se lanzó una nueva campaña de la industria textil y la Asociación de Oncología Clínica que apunta al cuidado de la salud. Con chequeos médicos a tiempo hay cada vez más chances de cura",
-        "pubDate": "2026-09-28T12:57:00+00:00",
         "approxTime": false
       }
     ]
