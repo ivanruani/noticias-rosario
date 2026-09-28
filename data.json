@@ -1,41 +1,50 @@
 {
-  "generatedAt": "2026-09-28T14:31:09.851109+00:00",
+  "generatedAt": "2026-09-28T15:01:28.173727+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Empezó la audiencia por los 200 despidos en Electrolux: \"Sabíamos que la planta se apagaba de a poco\"",
+        "link": "https://www.rosario3.com/informaciongeneral/cierre-de-electrolux-la-uom-se-moviliza-al-ministerio-de-trabajo-por-despidos-ilegales-20260927-0028.html",
+        "image": "https://www.rosario3.com/__export/1790605896478/sites/rosario3/img/2026/09/28/audiencia_electrolux.jpg_506286608.jpg",
+        "summary": "El abogado de la UOM, Pablo Cerra, advirtió que solicitarán la nulidad de los telegramas por no realizarse el procedimiento preventivo de crisis correspondiente. Desde el sindicato se concentran en la sede ministerial en defensa de las fuentes laborales. Además, el letrado…",
+        "pubDate": "2026-09-27T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Los Juegos Suramericanos dejaron \"la mejor infraestructura\" y un impacto de 34.500 millones de pesos en consumo",
         "link": "https://www.rosario3.com/informaciongeneral/juegos-suramericanos-dejaron-la-mejor-infraestructura-y-un-impacto-de-34.500-millones-de-pesos-en-consumo-20260928-0028.html",
         "image": "https://www.rosario3.com/__export/1790601881026/sites/rosario3/img/2026/09/28/suramericanos1.jpg_928314581.jpg",
         "summary": "El funcionario provincial Federico Angelini y el secretario de Gobierno municipal, Sebastián Chale, realizaron una evaluación del megaevento deportivo que tuvo a Rosario, Santa Fe y Rafaela como sedes. Destacaron la histórica recaudación económica generada por la llegada de…",
-        "pubDate": "2026-09-28T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Balacera con nota mafiosa en un complejo Fonavi de Villa Gobernador Gálvez",
-        "link": "https://www.rosario3.com/policiales/balacera-con-nota-mafiosa-en-un-complejo-fonavi-de-villa-gobernador-galvez-20260928-0027.html",
-        "image": "https://www.rosario3.com/__export/1790601566322/sites/rosario3/img/2026/09/28/marino_bruno_400.jpg_928314581.jpg",
-        "summary": "Ocurrió en la madrugada de este lunes en Marino Bruno al 400. El atacante, que estaba a pie, arrojó un papel con un mensaje intimidatorio",
         "pubDate": "2026-09-28T11:59:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Milei negó que haya una recesión: “Hay una desaceleración del ritmo de expansión”",
-        "link": "https://www.rosario3.com/politica/milei-nego-que-haya-una-recesion-hay-una-desaceleracion-del-ritmo-de-expansion-20260928-0018.html",
-        "image": "https://www.rosario3.com/__export/1775732635528/sites/rosario3/img/2026/04/09/javier_milei.jpg_54252875.jpg",
-        "summary": "En una entrevista con Luis Majul este domingo por la noche, el presidente anticipó cuatro años seguidos de crecimiento' y aseguró que “estamos en niveles máximos de consumo, exportaciones y PBI”, aunque concedió que hay algunos sectores de la economía que se contraen, pero que…",
+        "title": "Confirmaron los horarios para los próximos amistosos de la selección argentina y la despedida de Messi",
+        "link": "https://www.rosario3.com/deportes/confirmaron-los-horarios-para-los-proximos-amistosos-de-la-seleccion-argentina-y-la-despedida-de-messi-20260928-0034.html",
+        "image": "https://www.rosario3.com/__export/1790605860944/sites/rosario3/img/2026/09/28/messi.jpg_1221028662.jpg",
+        "summary": "La AFA ratificó el cronograma para los tres compromisos del equipo nacional ante Bolivia, Burkina Faso y Benín. Habrá acción en Córdoba y Buenos Aires. Todos los partidos serán por la noche",
         "pubDate": "2026-09-28T11:58:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "La UOM se moviliza hoy en Rosario para exigir la nulidad de los 200 despidos de Electrolux",
-        "link": "https://www.rosario3.com/informaciongeneral/cierre-de-electrolux-la-uom-se-moviliza-al-ministerio-de-trabajo-por-despidos-ilegales-20260927-0028.html",
-        "image": "https://www.rosario3.com/__export/1790543693401/sites/rosario3/img/2026/09/27/uom.jpg_669612975.jpg",
-        "summary": "El abogado de la UOM, Pablo Cerra, confirmó la decisión de la empresa radicada en la zona sur y advirtió que solicitarán la nulidad de los telegramas por no realizarse el procedimiento preventivo de crisis correspondiente. Desde el sindicato concentrarán en la sede ministerial…",
-        "pubDate": "2026-09-27T11:57:00+00:00",
+        "title": "Brutal intento de femicidio en la zona noroeste: prendió fuego a su pareja",
+        "link": "https://www.rosario3.com/policiales/brutal-intento-de-femicidio-en-la-zona-noroeste-prendio-fuego-a-su-pareja-20260928-0035.html",
+        "image": "https://www.rosario3.com/__export/1790606385365/sites/rosario3/img/2026/07/23/centenario.jpg_928314581.jpg",
+        "summary": "El ataque ocurrió el 20 de septiembre, pero recién el pasado fin de semana se pudo establecer que las quemaduras habían sido provocadas por el novio de la víctima. Ella permanece internada en el Centenario, mientras que el violento fue aprehendido en una pensión del centro de…",
+        "pubDate": "2026-09-28T11:57:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Con un partidazo, se inicia una nueva edición de la Liga Nacional de Básquet",
+        "link": "https://www.rosario3.com/deportes/con-un-partidazo-se-inicia-una-nueva-edicion-de-la-liga-nacional-de-basquet-20260928-0023.html",
+        "image": "https://www.rosario3.com/__export/1790600003919/sites/rosario3/img/2026/09/28/gimnasia-2026.jpg_1768679257.jpg",
+        "summary": "El último campeón Gimnasia de Comodoro Rivadavia visitará desde las 22 a Lanús, el único equipo ascendido en esta temporada, que tendrá 18 equipos",
+        "pubDate": "2026-09-28T11:56:00+00:00",
         "approxTime": true
       },
       {
@@ -44,7 +53,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/terminaron-los-suramericanos-y-de-a-poco-el-parque-independencia-recupera-su-fisonomia-y-transito-habitual-20260928-0025.html",
         "image": "https://www.rosario3.com/__export/1790600284411/sites/rosario3/img/2026/09/28/parque_independencia_fin_de_odesur_2026_operativo_de_limpieza.jpg_1825222445.jpg",
         "summary": "Tras el fin de los Juegos Odesur 2026, este lunes se liberó la circulación en boulevard Oroño que hasta este fin de semana estaba interrumpida por el predio de competencias y los fan fests. Así, con el desmantelamiento de las estructuras, de a poco la zona recupera su ritmo de…",
-        "pubDate": "2026-09-28T11:56:00+00:00",
+        "pubDate": "2026-09-28T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -53,15 +62,6 @@
         "link": "https://www.rosario3.com/policiales/investigan-como-femicidio-la-muerte-de-una-mujer-en-su-casa-de-ona-sur-20260928-0003.html",
         "image": "https://www.rosario3.com/__export/1790605184366/sites/rosario3/img/2026/09/28/femicidio_grandoli_3800.jpg_928314580.jpg",
         "summary": "El cuerpo fue encontrado en la tarde de este domingo en Grandoli al 3800 por sus hijos, dos adolescentes. Tenía golpes, un orificio en el cráneo y una herida en la zona del cuello",
-        "pubDate": "2026-09-28T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Racing echó a Vojvoda tras la derrota ante Boca en Rosario",
-        "link": "https://www.rosario3.com/deportes/racing-echo-a-vojvoda-tras-la-derrota-ante-boca-en-rosario-20260928-0029.html",
-        "image": "https://www.rosario3.com/__export/1790602332021/sites/rosario3/img/2026/09/28/vojvoda.jpg_506286608.jpg",
-        "summary": "El técnico deja la Academia de Avellaneda luego de un ciclo de 13 partidos. La eliminación en cuartos de Copa Argentina, luego de estar 2-0 arriba ante el Xeneize, aceleró la decisión de la dirigencia que encabeza Diego Milito",
         "pubDate": "2026-09-28T11:54:00+00:00",
         "approxTime": true
       },
@@ -112,11 +112,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Se mudó hace un mes a barrio Tablada y le balearon la casa",
+        "link": "https://www.rosario3.com/policiales/se-mudo-hace-un-mes-a-barrio-tablada-y-le-balearon-la-casa-20260928-0033.html",
+        "image": "https://www.rosario3.com/__export/1765464548043/sites/rosario3/img/2022/09/23/vaina_nahuel_cantero.jpg_928314581.jpg",
+        "summary": "El ataque a tiros ocurrió el pasado sábado en Colón al 3900. En la escena, la Policía secuestró siete vainas servidas",
+        "pubDate": "2026-09-28T11:48:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Entraron por una ventana y se robaron hasta la cafetera",
         "link": "https://www.rosario3.com/policiales/entraron-por-una-ventana-y-se-robaron-hasta-la-cafetera-20260928-0024.html",
         "image": "https://www.rosario3.com/__export/1766501411026/sites/rosario3/img/2021/10/11/patrullero.jpg_54252877.jpg",
         "summary": "El escruche fue denunciado en la noche de este domingo en Amenábar al 2800. Los delincuentes sustrajeron todos los elementos de valor que encontraron a su paso",
-        "pubDate": "2026-09-28T11:48:00+00:00",
+        "pubDate": "2026-09-28T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,20 +134,29 @@
         "link": "https://www.rosario3.com/deportes/norris-se-disculpo-con-colapinto-tras-sus-criticas-por-el-choque-en-azerbaiyan-que-le-dijo-20260928-0021.html",
         "image": "https://www.rosario3.com/__export/1790599707638/sites/rosario3/img/2026/09/28/norris_colapinto.jpg_506286608.jpg",
         "summary": "El piloto de McLaren reveló que se comunicó en privado con el argentino a raíz del accidente que involucró a los dos Alpine y a su monoplaza en Bakú. En caliente, el británico fustigó a Franco, pero en las últimas horas decidió dar marcha atrás y se mostró arrepentido",
-        "pubDate": "2026-09-28T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Menos trabas para financiarse: la CNV anticipó en Rosario un paquete de desregulación que podría presentarse esta semana | Ecos365",
-        "link": "https://www.rosario3.com/ecos365/noticias/menos-trabas-para-financiarse-la-cnv-anticipo-en-rosario-un-paquete-de-desregulacion-que-podria-presentarse-esta-semana-20260928-0008.html",
-        "image": "https://www.rosario3.com/__export/1790601561540/sites/rosario3/img/2026/09/28/silva_cnv_en_miradas_al_futuro_en_la_bolsa_de_comercio_de_rosario_crop1790601541804.jpg_904846641.jpg",
-        "summary": "En Miradas al Futuro, el encuentro que llegó a Rosario con el impulso de Lisandro Nasini, Roberto Silva adelantó una reforma de leyes financieras y comerciales. Prometió simplificar el financiamiento y un mensaje incómodo para las ALyC por evasión",
         "pubDate": "2026-09-28T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Ya es normal el tránsito en Oroño y el Parque Independencia tras los Juegos Suramericanos",
+        "link": "https://www.lacapital.com.ar/la-ciudad/ya-es-normal-el-transito-orono-y-el-parque-independencia-los-juegos-suramericanos-n10283604.html",
+        "image": "https://media.lacapital.com.ar/p/df728b95efb56e4d5e31df5f889eb578/adjuntos/203/imagenes/103/432/0103432145/1200x675/smart/limpieza.png",
+        "summary": "Luego de los trabajos de limpieza y barrido, este lunes a la madrugada quedó liberado el tránsito en bulevar Oroño y todo el Parque",
+        "pubDate": "2026-09-28T14:36:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Zonas Frías y quita del subsidio al gas: cuántas familias de Rosario pagarán más",
+        "link": "https://www.lacapital.com.ar/politica/zonas-frias-y-quita-del-subsidio-al-gas-cuantas-familias-rosario-pagaran-mas-n10283565.html",
+        "image": "https://media.lacapital.com.ar/p/62cd68ba5ae65cd95d64ec4ff4fcf173/adjuntos/203/imagenes/017/845/0017845935/1200x675/smart/08-22-hornallajpg.jpg",
+        "summary": "El Congreso le dio sanción definitiva a un recorte de subsidios que implica aumentos del 50% para muchísimos clientes de la ciudad y la provincia",
+        "pubDate": "2026-09-28T14:31:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Se hizo pasar por policía para llevarse mercadería de un comercio sin pagar",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/122f3dd5c1088c16010b3c1c8ec895be/adjuntos/203/imagenes/103/418/0103418819/lluvia-tormenta-bici-pronostico-clima.jpg",
         "summary": "El SMN mantiene la advertencia para Rosario y el sur de Santa Fe por tormentas fuertes, lluvias intensas, ráfagas y ocasional granizo",
         "pubDate": "2026-09-28T12:05:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Dio positivo en alcoholemia y, en un rapto de furia, hizo explotar la moto",
-        "link": "https://www.lacapital.com.ar/policiales/dio-positivo-alcoholemia-y-un-rapto-furia-hizo-explotar-la-moto-n10283559.html",
-        "image": "https://media.lacapital.com.ar/p/672278450353206ee592a4f471080a11/adjuntos/203/imagenes/103/431/0103431553/1200x675/smart/queo-la-moto.jpg",
-        "summary": "Sucedió en Pueblo Esther. \"Quédense con la moto, yo me voy\", dijo el infractor. Acto seguido, cortó la manguera del tanque de nafta e hizo chispa con un encendedor",
-        "pubDate": "2026-09-28T11:45:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Messi clavó otro golazo de tiro libre y va por la conquista de un nuevo récord",
-        "link": "https://www.lacapital.com.ar/ovacion/messi-clavo-otro-golazo-tiro-libre-y-va-la-conquista-un-nuevo-record-n10283540.html",
-        "image": "https://media.lacapital.com.ar/p/2b997ded49b0e00eed4d5bd59264ab88/adjuntos/203/imagenes/103/431/0103431419/1200x675/smart/image-6.jpg",
-        "summary": "La figura de Inter Miami, que perdió 2 a 1, sumó este domingo su gol 76 de pelota parada con una ejecución magistral y quedó a tiro de Marcelinho Carioca",
-        "pubDate": "2026-09-28T11:29:00+00:00",
         "approxTime": false
       }
     ]
