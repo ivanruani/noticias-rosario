@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T14:01:28.494352+00:00",
+  "generatedAt": "2026-09-28T14:31:09.851109+00:00",
   "sites": {
     "rosario3": [
       {
@@ -51,7 +51,7 @@
         "source": "Rosario3",
         "title": "Investigan como femicidio la muerte de una mujer en su casa de zona sur",
         "link": "https://www.rosario3.com/policiales/investigan-como-femicidio-la-muerte-de-una-mujer-en-su-casa-de-ona-sur-20260928-0003.html",
-        "image": "https://www.rosario3.com/__export/1789308366644/sites/rosario3/img/2026/09/13/policia_1.jpg_1825222445.jpg",
+        "image": "https://www.rosario3.com/__export/1790605184366/sites/rosario3/img/2026/09/28/femicidio_grandoli_3800.jpg_928314580.jpg",
         "summary": "El cuerpo fue encontrado en la tarde de este domingo en Grandoli al 3800 por sus hijos, dos adolescentes. Tenía golpes, un orificio en el cráneo y una herida en la zona del cuello",
         "pubDate": "2026-09-28T11:55:00+00:00",
         "approxTime": true
@@ -67,10 +67,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Se postergó el festejo de Central en el Monumento: cuándo y a qué hora serán las celebraciones con el plantel",
-        "link": "https://www.rosario3.com/deportes/se-postergo-el-festejo-de-central-en-el-monumento-cuando-y-a-que-hora-seran-las-celebraciones-con-el-plantel-20260928-0001.html",
-        "image": "https://www.rosario3.com/__export/1790587471115/sites/rosario3/img/2026/09/28/image.jpg_2106848869.jpg",
-        "summary": "Las condiciones climáticas obligaron a reprogramar la fiesta canalla. La copa estará en el Monumento a la Bandera junto a los jugadores para celebrar con toda la hinchada",
+        "title": "Newell’s dio detalles del último mercado de pases: cuánta plata invirtió en refuerzos",
+        "link": "https://www.rosario3.com/deportes/newells-dio-detalles-del-ultimo-mercado-de-pases-cuanta-plata-invirtio-en-refuerzos-20260928-0032.html",
+        "image": "https://www.rosario3.com/__export/1790604183625/sites/rosario3/img/2026/09/28/newell-s.jpg_506286608.jpg",
+        "summary": "La dirigencia rojinegra publicó datos acerca de las altas y bajas de futbolistas a mitad de temporada. Según el informe, dejó un saldo positivo de US$ 290.000 a favor del club en un contexto marcado por las dificultades económicas de la institución",
         "pubDate": "2026-09-28T11:53:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Se hizo pasar por policía para llevarse mercadería de un comercio sin pagar",
+        "link": "https://www.lacapital.com.ar/policiales/se-hizo-pasar-policia-llevarse-mercaderia-un-comercio-pagar-n10283574.html",
+        "image": "https://media.lacapital.com.ar/p/c79e3808cb2b769c2be89ea945ae4fbf/adjuntos/203/imagenes/103/431/0103431791/1200x675/smart/falso-policia-2.jpg",
+        "summary": "El impostor fue detectado en la zona del parque Independencia. Fue detenido por el delito de usurpación de cargos y honores. Tiene 25 años",
+        "pubDate": "2026-09-28T14:08:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Cuándo corre Colapinto: días y horarios del GP de Baréin de la Fórmula 1 en Malasia",
+        "link": "https://www.lacapital.com.ar/ovacion/cuando-corre-colapinto-dias-y-horarios-del-gp-barein-la-formula-1-malasia-n10283587.html",
+        "image": "https://media.lacapital.com.ar/p/6fb8348563e7eb046df29c9cff89831c/adjuntos/203/imagenes/103/423/0103423374/1200x675/smart/image-1.jpg",
+        "summary": "El piloto argentino tendrá una sanción en la salida de la carrera del domingo. Correrá en un circuito completo que regresa a la máxima categoría",
+        "pubDate": "2026-09-28T14:05:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Sortearon 12 viviendas en Carlos Pellegrini y avanza el proceso de adjudicación",
         "link": "https://www.lacapital.com.ar/la-region/sortearon-12-viviendas-carlos-pellegrini-y-avanza-el-proceso-adjudicacion-n10283600.html",
         "image": "https://media.lacapital.com.ar/p/4b841f4320471663bd881cf53e2099e5/adjuntos/203/imagenes/103/432/0103432138/1200x675/smart/carlos-pellegrini-viviendas-1.jpeg",
@@ -168,19 +186,19 @@
       },
       {
         "source": "La Capital",
-        "title": "La UOM, movilizada por el cierre de Electrolux: \"Este gobierno no cuida la industria nacional\"",
-        "link": "https://www.lacapital.com.ar/economia/la-uom-movilizada-el-cierre-electrolux-este-gobierno-no-cuida-la-industria-nacional-n10283563.html",
-        "image": "https://media.lacapital.com.ar/p/901ffc15ee7bd22f7b3c486b81bd95dd/adjuntos/203/imagenes/103/431/0103431860/1200x675/smart/uom-electrolux.png",
-        "summary": "El gremio de los metalúrgicos pide la nulidad de las cesantías. Además, exigen una instancia de negociación con Electrolux. Son 200 los despedidos",
+        "title": "Supercopa Internacional: el árbitro del VAR explicó algunas de las polémicas de la final",
+        "link": "https://www.lacapital.com.ar/ovacion/supercopa-internacional-el-arbitro-del-var-explico-algunas-las-polemicas-la-final-n10283545.html",
+        "image": "https://media.lacapital.com.ar/p/3334ae0ba25dc4814784473ba78e8616/adjuntos/203/imagenes/103/431/0103431601/1200x675/smart/arbitros-central-estudiantes.jpg",
+        "summary": "Jorge Baliño salió a aclarar jugadas que fueron cuestionadas por Estudiantes. \"Hubo imprudencia (en el penal a Copetti)\" y \"la mano (de Ovando) está en una posición natural\", opinó",
         "pubDate": "2026-09-28T12:59:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Supercopa Internacional: el árbitro del VAR explicó algunas de las polémicas de la final",
-        "link": "https://www.lacapital.com.ar/ovacion/supercopa-internacional-el-arbitro-del-var-explico-algunas-las-polemicas-la-final-n10283545.html",
-        "image": "https://media.lacapital.com.ar/p/3334ae0ba25dc4814784473ba78e8616/adjuntos/203/imagenes/103/431/0103431601/1200x675/smart/arbitros-central-estudiantes.jpg",
-        "summary": "Jorge Baliño salió a aclarar jugadas que fueron cuestionadas por Estudiantes. \"Hubo imprudencia (en el penal a Copetti)\" y \"la mano (de Ovando) está en una posición natural\", opinó",
+        "title": "La UOM, movilizada por el cierre de Electrolux: \"Este gobierno no cuida la industria nacional\"",
+        "link": "https://www.lacapital.com.ar/economia/la-uom-movilizada-el-cierre-electrolux-este-gobierno-no-cuida-la-industria-nacional-n10283563.html",
+        "image": "https://media.lacapital.com.ar/p/901ffc15ee7bd22f7b3c486b81bd95dd/adjuntos/203/imagenes/103/431/0103431860/1200x675/smart/uom-electrolux.png",
+        "summary": "El gremio de los metalúrgicos pide la nulidad de las cesantías. Además, exigen una instancia de negociación con Electrolux. Son 200 los despedidos",
         "pubDate": "2026-09-28T12:59:00+00:00",
         "approxTime": false
       },
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/2b997ded49b0e00eed4d5bd59264ab88/adjuntos/203/imagenes/103/431/0103431419/1200x675/smart/image-6.jpg",
         "summary": "La figura de Inter Miami, que perdió 2 a 1, sumó este domingo su gol 76 de pelota parada con una ejecución magistral y quedó a tiro de Marcelinho Carioca",
         "pubDate": "2026-09-28T11:29:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Quini 6 vacante: cuántos millones se llevaron los ganadores del Siempre Sale",
-        "link": "https://www.lacapital.com.ar/informacion-general/quini-6-vacante-cuantos-millones-se-llevaron-los-ganadores-del-siempre-sale-n10283546.html",
-        "image": "https://media.lacapital.com.ar/p/b3beaa52782df943444a34676afea369/adjuntos/203/imagenes/103/344/0103344198/2026-08-19-quini-6.jpg",
-        "summary": "No hubo afortunados entre los grandes premios de las principales modalidades, aunque el Siempre Sale tuvo una gran cantidad de beneficiados",
-        "pubDate": "2026-09-28T11:26:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Este lunes, negocios cerrados por el Día del Empleado de Comercio",
-        "link": "https://www.lacapital.com.ar/la-ciudad/este-lunes-negocios-cerrados-el-dia-del-empleado-comercio-n10283547.html",
-        "image": "https://media.lacapital.com.ar/p/3c73ea769c399140fec6f8b1ed8ae340/adjuntos/203/imagenes/102/695/0102695742/1200x675/smart/image-2025-09-22t082945199.jpg",
-        "summary": "Como cada año, en la ciudad y en el país se espera que las grandes cadenas bajen sus persianas. Si bien la jornada fue el sábado, se pasó para el lunes",
-        "pubDate": "2026-09-28T11:26:00+00:00",
         "approxTime": false
       }
     ]
