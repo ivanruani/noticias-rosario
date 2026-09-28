@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T00:01:20.526192+00:00",
+  "generatedAt": "2026-09-28T00:31:02.187319+00:00",
   "sites": {
     "rosario3": [
       {
@@ -34,7 +34,7 @@
         "title": "Run Run: interna complicada en el puerto, un imprevisto en el Aeropuerto y aparecen legajos a favor de Damfield",
         "link": "https://www.rosario3.com/-economia-negocios-agro-/run-run-interna-complicada-en-el-puerto-un-imprevisto-en-el-aeropuerto-y-aparecen-legajos-a-favor-de-damfield-20260927-0019.html",
         "image": "https://www.rosario3.com/__export/1781782552515/sites/rosario3/img/2026/06/18/vuelo1.jpg_982625323.jpg",
-        "summary": "Además: importantes novedades en la investigación de las presuntas estafas de la financiera Ciag que avizoran un avances de Fiscalía",
+        "summary": "Además: importantes novedades en la investigación de las presuntas estafas de la financiera Ciag que avizoran un avance importante de Fiscalía",
         "pubDate": "2026-09-27T11:57:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,33 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "TC Mouras en el autódromo de Rosario: el joven Nicolás Jaime ganó la carrera",
+        "link": "https://www.lacapital.com.ar/ovacion/tc-mouras-el-autodromo-rosario-el-joven-nicolas-jaime-gano-la-carrera-n10283527.html",
+        "image": "https://media.lacapital.com.ar/p/5431c5023cd01c6280300f61ddc1c3d3/adjuntos/203/imagenes/103/431/0103431267/mouras.JPG",
+        "summary": "En el TC Mouras en Rosario el triunfo se lo llevó Nicolás Jaime con el Dodge que atiende el equipo Galarza Racing",
+        "pubDate": "2026-09-28T00:09:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Primera C: Leones FC va por más ante Luján, líder de la Zona B",
+        "link": "https://www.lacapital.com.ar/ovacion/primera-c-leones-fc-va-mas-lujan-lider-la-zona-b-n10283524.html",
+        "image": "https://media.lacapital.com.ar/p/13757ee12ce1b923f722c10c4f17698b/adjuntos/203/imagenes/103/431/0103431223/denis.jpg",
+        "summary": "Leones FC, clasificado para disputar el Reducido, recibe a Luján, este lunes a partir de las 15, en el complejo Jorge Bernardo Griffa de Newell's",
+        "pubDate": "2026-09-28T00:08:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Imputaron en Rafaela a cuatro acusados del traslado de casi media tonelada de cocaína con la imagen de un cebú",
+        "link": "https://www.lacapital.com.ar/policiales/imputaron-rafaela-cuatro-acusados-del-traslado-casi-media-tonelada-cocaina-la-imagen-un-cebu-n10283510.html",
+        "image": "https://media.lacapital.com.ar/p/990927bc2bda5e35270344a3d8c364a6/adjuntos/203/imagenes/103/002/0103002676/1200x675/smart/cocina.jpg",
+        "summary": "Quedaron presos como el \"eslabón logístico\" del transporte de 418 ladrillos hallados en febrero en una camioneta abandonada, tras una persecución policial al norte de Santa Fe",
+        "pubDate": "2026-09-28T00:06:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El Papa se reunió con sobrevivientes de abusos en Francia y criticó la muerte asistida",
         "link": "https://www.lacapital.com.ar/informacion-general/el-papa-se-reunio-sobrevivientes-abusos-francia-y-critico-la-muerte-asistida-n10283515.html",
         "image": "https://media.lacapital.com.ar/p/4744deabd22ddca425966a6c286eb3ae/adjuntos/203/imagenes/103/431/0103431100/1200x675/smart/2026-09-27-papa-francia.jpg",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/f4da373930941fdbec968d7eaf5cd25e/adjuntos/203/imagenes/103/430/0103430638/1200x675/smart/image-2026-09-27t160747308.png",
         "summary": "El asesor internacional de la Fifa se refirió a cada uno de los fallos polémicos del partido que consagró a Central en la Supercopa Internacional",
         "pubDate": "2026-09-27T19:40:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El picante posteo de la esposa de Di María tras el nuevo título de Central: \"Yo también lloraría\"",
-        "link": "https://www.lacapital.com.ar/ovacion/el-picante-posteo-la-esposa-di-maria-el-nuevo-titulo-central-yo-tambien-lloraria-n10283479.html",
-        "image": "https://media.lacapital.com.ar/p/c6697680df9f6077c38931f6e419783d/adjuntos/203/imagenes/103/430/0103430604/1200x675/smart/imagejor5.jpg",
-        "summary": "Jorgelina Cardoso celebró en las redes la victoria 3-1 ante Estudiantes y la consagración canalla en la Supercopa Internacional.",
-        "pubDate": "2026-09-27T19:36:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Scioli confundió la sede de los Juegos Suramericanos y reavivó la polémica por falta de apoyo del gobierno nacional al deporte",
-        "link": "https://www.lacapital.com.ar/juegos-suramericanos/scioli-confundio-la-sede-los-juegos-suramericanos-y-reavivo-la-polemica-falta-apoyo-del-gobierno-nacional-al-deporte-n10283477.html",
-        "image": "https://media.lacapital.com.ar/p/ce72385675771844ff1b1c146b9712c6/adjuntos/203/imagenes/103/430/0103430590/1200x675/smart/imagescioli.jpg",
-        "summary": "El secretario de Turismo y Deporte de la Nación celebró con un posteo en X el histórico segundo puesto de Argentina en el medallero, pero ubicó la competencia en \"Rosario 2026\".",
-        "pubDate": "2026-09-27T18:44:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Fiesta Canalla: Central celebrará el flamante título este lunes a la noche en el Monumento",
-        "link": "https://www.lacapital.com.ar/ovacion/fiesta-canalla-central-celebrara-el-flamante-titulo-este-lunes-la-noche-el-monumento-n10283472.html",
-        "image": "https://media.lacapital.com.ar/p/c3f942a10a50a4091850e97719f1f403/adjuntos/203/imagenes/103/430/0103430556/canalla3.jpeg",
-        "summary": "El club canalla convocó a los hinchas a festejar la Supercopa Internacional este lunes en el Monumento a la Bandera",
-        "pubDate": "2026-09-27T18:18:00+00:00",
         "approxTime": false
       }
     ]
