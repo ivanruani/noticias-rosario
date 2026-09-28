@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-09-28T19:31:09.002199+00:00",
+  "generatedAt": "2026-09-28T20:01:19.212691+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Condenaron a 11 años al colaborador de la banda narco que ejecutó al músico Jimi Altamirano",
+        "link": "https://www.rosario3.com/policiales/condenaron-a-11-anos-al-colaborador-de-la-banda-narco-que-ejecuto-al-musico-jimi-altamirano-20260928-0058.html",
+        "image": "https://www.rosario3.com/__export/1790624119383/sites/rosario3/img/2026/09/28/jimi_altamirano_justicia_-alanmonzon_r3.jpg_544707420.jpg",
+        "summary": "Daniel Bommer fue sentenciado como partícipe secundario del crimen cometido frente al Coloso en febrero de 2023. Lo vincularon con la organización de Pablo Camino, el narco que habría ordenado el asesinato, y sobrevivió a un ataque a tiros tres días después del homicidio",
+        "pubDate": "2026-09-28T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "El Gobierno Nacional pone a la venta su participación en la termoeléctrica de Timbúes",
         "link": "https://www.rosario3.com/-economia-negocios-agro-/el-gobierno-nacional-pone-a-la-venta-su-participacion-en-la-termoelectrica-de-timbues-20260928-0055.html",
         "image": "https://www.rosario3.com/__export/1790622670794/sites/rosario3/img/2026/09/28/tsm_2.jpg_928314580.jpg",
         "summary": "El Ejecutivo autorizó la venta del 68,83% de las acciones de la Central Termoeléctrica José de San Martín, ubicada en Timbúes. La operación se realizará mediante una licitación pública nacional e internacional y forma parte del proceso de privatización de Energía Argentina…",
-        "pubDate": "2026-09-28T12:00:00+00:00",
+        "pubDate": "2026-09-28T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/policiales/revocaron-la-prision-preventiva-de-matias-capozucca-pagara-una-fianza-de-3-millones-y-tendra-una-tobillera-20260928-0043.html",
         "image": "https://www.rosario3.com/__export/1788885569779/sites/rosario3/img/2026/09/08/matias_capozucca.jpg_506286608.jpg",
         "summary": "El juez de Cámara Javier Beltramone hizo lugar a la apelación de la defensa y ordenó la libertad del hombre denunciado por su expareja. No podrá acercarse ni contactarla a ella ni a su grupo familiar y deberá cumplir otras medidas de control",
-        "pubDate": "2026-09-28T11:59:00+00:00",
+        "pubDate": "2026-09-28T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,7 +35,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/cierre-de-electrolux-la-uom-se-moviliza-al-ministerio-de-trabajo-por-despidos-ilegales-20260927-0028.html",
         "image": "https://www.rosario3.com/__export/1790605896478/sites/rosario3/img/2026/09/28/audiencia_electrolux.jpg_506286608.jpg",
         "summary": "Tras una audiencia celebrada este lunes, el Ministerio de Trabajo dictó la medida que suspende transitoriamente los despidos en la planta de Rosario y se abre una ventana de 20 días de negociaciones entre las partes, aunque la firma ratificó que cierra todas sus operaciones. El…",
-        "pubDate": "2026-09-27T11:58:00+00:00",
+        "pubDate": "2026-09-27T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -35,15 +44,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/furor-por-capi-vendieron-mas-de-45-mil-peluches-y-ofrecen-el-remanente-disponible-20260928-0045.html",
         "image": "https://www.rosario3.com/__export/1790619319834/sites/rosario3/img/2026/09/28/capi_suramericanos_-4-.jpg_309773130.jpg",
         "summary": "La mascota oficial de los Juegos Suramericanos Santa Fe 2026 se transformó en la gran estrella comercial del evento. Tras agotarse el stock en los puntos del Fan Fest, la organización confirmó dónde y cómo se podrá seguir adquiriendo en Rosario",
-        "pubDate": "2026-09-28T11:57:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Causa de la partera Dolly: “La supresión de identidad no prescribe, cada día se reanudan sus efectos perniciosos”",
-        "link": "https://www.rosario3.com/informaciongeneral/causa-de-la-partera-dolly-la-supresion-de-la-identidad-no-prescribe-cada-dia-se-reanudan-sus-efectos-perniciosos-20260928-0039.html",
-        "image": "https://www.rosario3.com/__export/1790610254360/sites/rosario3/img/2026/09/28/federalestribunal.jpg_928314581.jpg",
-        "summary": "Este martes está prevista una audiencia de revisión del pedido de prescripción de la defensa de la acusada de vender bebés en los 70’. El abogado de dos denunciantes, Juan Singer, adelantó la postura y advirtió que la mujer actuó en red: “Los posibles casos son infinitos”",
         "pubDate": "2026-09-28T11:56:00+00:00",
         "approxTime": true
       },
@@ -94,11 +94,20 @@
       },
       {
         "source": "Rosario3",
-        "title": "Los Juegos Suramericanos dejaron \"la mejor infraestructura\" y un impacto de 34.500 millones de pesos en consumo",
-        "link": "https://www.rosario3.com/informaciongeneral/juegos-suramericanos-dejaron-la-mejor-infraestructura-y-un-impacto-de-34.500-millones-de-pesos-en-consumo-20260928-0028.html",
-        "image": "https://www.rosario3.com/__export/1790601881026/sites/rosario3/img/2026/09/28/suramericanos1.jpg_928314581.jpg",
-        "summary": "El funcionario provincial Federico Angelini y el secretario de Gobierno municipal, Sebastián Chale, realizaron una evaluación del megaevento deportivo que tuvo a Rosario, Santa Fe y Rafaela como sedes. Destacaron la histórica recaudación económica generada por la llegada de…",
+        "title": "Causa de la partera Dolly: “La supresión de identidad no prescribe, cada día se reanudan sus efectos perniciosos”",
+        "link": "https://www.rosario3.com/informaciongeneral/causa-de-la-partera-dolly-la-supresion-de-la-identidad-no-prescribe-cada-dia-se-reanudan-sus-efectos-perniciosos-20260928-0039.html",
+        "image": "https://www.rosario3.com/__export/1790610254360/sites/rosario3/img/2026/09/28/federalestribunal.jpg_928314581.jpg",
+        "summary": "Este martes está prevista una audiencia de revisión del pedido de prescripción de la defensa de la acusada de vender bebés en los 70’. El abogado de dos denunciantes, Juan Singer, adelantó la postura y advirtió que la mujer actuó en red: “Los posibles casos son infinitos”",
         "pubDate": "2026-09-28T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Las estremecedoras búsquedas que hizo Barrelier en su celular días antes del femicidio de Agostina Vega",
+        "link": "https://www.rosario3.com/informaciongeneral/las-estremecedoras-busquedas-que-hizo-barrelier-en-su-celular-dias-antes-del-femicidio-de-agostina-vega-20260928-0059.html",
+        "image": "https://www.rosario3.com/__export/1790624240344/sites/rosario3/img/2026/09/28/barrelier.png_786111822.png",
+        "summary": "El peritaje del teléfono del principal acusado detectó 377 registros en un sitio pornográfico entre el 6 y el 20 de mayo. La Fiscalía analizó las búsquedas junto con los mensajes que Barrelier le envió a la adolescente y habló de una “obsesión incontrolable por la niña”",
+        "pubDate": "2026-09-28T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -107,7 +116,7 @@
         "link": "https://www.rosario3.com/ocio/despues-de-que-milei-reconociera-que-escucho-sus-canciones-lali-cambio-una-frase-de-fanatico-20260928-0050.html",
         "image": "https://www.rosario3.com/__export/1790618907758/sites/rosario3/img/2026/09/28/lali_milei.png_786111822.png",
         "summary": "La cantante modificó en vivo una de las líneas del tema durante su show en River y cantó “ahora sí que lo vio”, en una referencia que rápidamente fue vinculada con el presidente",
-        "pubDate": "2026-09-28T11:49:00+00:00",
+        "pubDate": "2026-09-28T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +125,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/lo-golpearon-a-la-salida-de-un-boliche-y-permanece-internado-en-grave-estado-tiene-un-coagulo-en-la-cabeza-20260928-0040.html",
         "image": "https://www.rosario3.com/__export/1790610342741/sites/rosario3/img/2026/09/28/gresca.png_786111822.png",
         "summary": "El hecho ocurrió durante una pelea entre dos grupos en General Belgrano. La víctima, identificada como Rodrigo, tiene 23 años y sufrió un derrame y una fractura detrás del oído. El presunto agresor fue detenido y un policía que aparece en las imágenes también fue desafectado de…",
-        "pubDate": "2026-09-28T11:48:00+00:00",
+        "pubDate": "2026-09-28T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,20 +134,29 @@
         "link": "https://www.rosario3.com/policiales/conductor-de-didi-moto-fue-imputado-por-abusar-de-una-pasajera-de-17-anos-en-fisherton-20260928-0036.html",
         "image": "https://www.rosario3.com/__export/1781801935336/sites/rosario3/img/2024/05/27/_dsc7950.jpg_928314580.jpg",
         "summary": "El chofer Nicolás Leandro Soto fue acusado el sábado en el Centro de Justicia Penal y quedó en prisión preventiva efectiva por un mes. El ataque tuvo lugar el 16 de septiembre pasado",
-        "pubDate": "2026-09-28T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Brutal intento de femicidio en la zona noroeste: prendió fuego a su pareja",
-        "link": "https://www.rosario3.com/policiales/brutal-intento-de-femicidio-en-la-zona-noroeste-prendio-fuego-a-su-pareja-20260928-0035.html",
-        "image": "https://www.rosario3.com/__export/1790606385365/sites/rosario3/img/2026/07/23/centenario.jpg_928314581.jpg",
-        "summary": "El ataque ocurrió el 20 de septiembre, pero recién el pasado fin de semana se pudo establecer que las quemaduras habían sido provocadas por el novio de la víctima. Ella permanece internada en el Centenario, mientras que el violento fue aprehendido en una pensión del centro de…",
         "pubDate": "2026-09-28T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "\"Rosario habría finalizado en el 9º puesto\" en los Juegos Suramericanos: un homenaje a los deportistas",
+        "link": "https://www.lacapital.com.ar/ovacion/rosario-habria-finalizado-el-9-puesto-los-juegos-suramericanos-un-homenaje-los-deportistas-n10283668.html",
+        "image": "https://media.lacapital.com.ar/p/b9f740ef39c652e3e135acb96027d9bc/adjuntos/203/imagenes/103/432/0103432991/1200x675/smart/image-8.jpg",
+        "summary": "El intendente Pablo Javkin encabezó el agasajo a los atletas de la ciudad este lunes en el Invencible Rosario, tras sus actuaciones en el certamen continental",
+        "pubDate": "2026-09-28T19:25:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La big band jazz rosarina MAJ Orchestra vuelve al escenario",
+        "link": "https://www.lacapital.com.ar/zoom/la-big-band-jazz-rosarina-maj-orchestra-vuelve-al-escenario-n10283643.html",
+        "image": "https://media.lacapital.com.ar/p/f643ccf6021ef45ce7291653b7774668/adjuntos/203/imagenes/103/432/0103432624/1200x675/smart/maj.jpg",
+        "summary": "Será en Distrito Siete el próximo domingo. La orquesta impulsada por la Asociación Civil Músicos Asociados de Jazz (MAJ) se presentará una vez por mes",
+        "pubDate": "2026-09-28T19:24:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "De psiquiatra a dueño de una baticueva: el rosarino que juntó casi mil batimóviles",
@@ -213,19 +231,19 @@
       },
       {
         "source": "La Capital",
-        "title": "La CGT Rosario organiza una movilización y no descarta un paro regional contra los despidos",
-        "link": "https://www.lacapital.com.ar/economia/la-cgt-rosario-organiza-una-movilizacion-y-no-descarta-un-paro-regional-contra-los-despidos-n10283654.html",
-        "image": "https://media.lacapital.com.ar/p/3716dc6571578d2a7d5c9e1a9ae7004f/adjuntos/203/imagenes/103/431/0103431872/1200x675/724x418:744x438/uom-electrolux-2.png",
-        "summary": "El titular de la central obrera, Miguel Vivas, denunció que la política económica “está destruyendo el cordón industrial”. Gremios locales llevaron su solidaridad a los trabajadores de Electrolux",
+        "title": "Final del Juego: la nueva etapa para Rosario tras los Suramericanos",
+        "link": "https://www.lacapital.com.ar/la-ciudad/final-del-juego-la-nueva-etapa-rosario-los-suramericanos-n10283615.html",
+        "image": "https://media.lacapital.com.ar/p/d163f79fe8202ac5a70d68b0b5e738a3/adjuntos/203/imagenes/103/432/0103432324/1200x675/smart/juegos-odesur-suramericanos.jpeg",
+        "summary": "Desde la Municipalidad y la provincia hablan de una nueva etapa y legado para consolidar la ciudad como polo turístico deportivo. El deporte como política pública permanente",
         "pubDate": "2026-09-28T18:19:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Final del Juego: la nueva etapa para Rosario tras los Suramericanos",
-        "link": "https://www.lacapital.com.ar/la-ciudad/final-del-juego-la-nueva-etapa-rosario-los-suramericanos-n10283615.html",
-        "image": "https://media.lacapital.com.ar/p/d163f79fe8202ac5a70d68b0b5e738a3/adjuntos/203/imagenes/103/432/0103432324/1200x675/smart/juegos-odesur-suramericanos.jpeg",
-        "summary": "Desde la Municipalidad y la provincia hablan de una nueva etapa y legado para consolidar la ciudad como polo turístico deportivo. El deporte como política pública permanente",
+        "title": "La CGT Rosario organiza una movilización y no descarta un paro regional contra los despidos",
+        "link": "https://www.lacapital.com.ar/economia/la-cgt-rosario-organiza-una-movilizacion-y-no-descarta-un-paro-regional-contra-los-despidos-n10283654.html",
+        "image": "https://media.lacapital.com.ar/p/3716dc6571578d2a7d5c9e1a9ae7004f/adjuntos/203/imagenes/103/431/0103431872/1200x675/724x418:744x438/uom-electrolux-2.png",
+        "summary": "El titular de la central obrera, Miguel Vivas, denunció que la política económica “está destruyendo el cordón industrial”. Gremios locales llevaron su solidaridad a los trabajadores de Electrolux",
         "pubDate": "2026-09-28T18:19:00+00:00",
         "approxTime": false
       },
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/5715f56c0e2b6d369d73a4142c452154/adjuntos/203/imagenes/103/432/0103432668/1200x675/smart/whatsapp-image-2026-09-28-at-092425.jpeg",
         "summary": "La autopsia se realizó bajo el protocolo de femicidios pero Fiscalía informó que no es la única línea de investigación sobre el crimen de Natalia Giménez",
         "pubDate": "2026-09-28T17:16:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La AFA confirmó los horarios de los amistosos de la selección argentina",
-        "link": "https://www.lacapital.com.ar/ovacion/la-afa-confirmo-los-horarios-los-amistosos-la-seleccion-argentina-n10283641.html",
-        "image": "https://media.lacapital.com.ar/p/04591be63d3e82391d781b0e7d56149e/adjuntos/203/imagenes/103/432/0103432576/1200x675/smart/image-2026-09-28t125824181.png",
-        "summary": "Los dirigidos por Lionel Scaloni se enfrentarán a Bolivia, Burkina Faso y Benín entre el 30 de septiembre y el 6 de octubre. El último partido marcará la despedida de Messi",
-        "pubDate": "2026-09-28T16:53:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Área Recreativa Norte: un proyecto que empieza a convertirse en realidad en Venado Tuerto",
-        "link": "https://www.lacapital.com.ar/la-region/area-recreativa-norteunproyecto-que-empieza-convertirse-realidad-venado-tuerto-n10283636.html",
-        "image": "https://media.lacapital.com.ar/p/cb783014b2655f2483311525154b27c3/adjuntos/203/imagenes/103/432/0103432577/1200x675/smart/venado-area-recreativa.jpg",
-        "summary": "Es una de las iniciativas urbanísticas de mayor envergadura que comenzó a tomar forma a partir del comienzo de los trabajos",
-        "pubDate": "2026-09-28T16:31:00+00:00",
         "approxTime": false
       }
     ]
