@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T21:31:12.367390+00:00",
+  "generatedAt": "2026-09-29T22:01:21.976075+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,11 +13,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Elecciones 2027: Michlig proyectó votar en junio y respaldó gestiones de Pullaro y Javkin",
+        "link": "https://www.rosario3.com/politica/elecciones-2027-michlig-proyecto-votar-en-junio-y-respaldo-gestiones-de-pullaro-y-javkin-20260929-0064.html",
+        "image": "https://www.rosario3.com/__export/1790710756824/sites/rosario3/img/2023/11/01/pullaro_muchlig.jpg_982625323.jpg",
+        "summary": "Tras una audiencia con el Papa en Roma, el presidente de la UCR santafesina estimó que los comicios provinciales se realizarán el 13 de junio. Pidió evitar internas en Unidos con la premisa de 'equipo que gana no se toca' y valoró el trabajo del intendente rosarino",
+        "pubDate": "2026-09-29T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "El comunicado de la empresa tras la explosión fatal en Puerto San Martín: \"Se realiza una investigación exhaustiva\"",
         "link": "https://www.rosario3.com/informaciongeneral/el-comunicado-de-la-empresa-tras-la-explosion-fatal-en-puerto-san-martin-20260929-0073.html",
         "image": "https://www.rosario3.com/__export/1790715014490/sites/rosario3/img/2026/09/29/explosion_puerto.jpg_506286608.jpg",
         "summary": "La firma explicó que el incidente se registró cuando un equipo externo realizaba labores de mantenimiento en las instalaciones de la planta que derivaron en la explosión de tanques de metanol. Las razones continúan bajo investigación, al tiempo que se activaron las medidas de…",
-        "pubDate": "2026-09-29T11:59:00+00:00",
+        "pubDate": "2026-09-29T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,7 +35,7 @@
         "link": "https://www.rosario3.com/policiales/padre-de-un-concejal-de-villa-gobernador-galvez-quedo-preso-por-estafar-a-una-anciana-que-interno-en-un-geriatrico-20260929-0054.html",
         "image": "https://www.rosario3.com/__export/1790348424561/sites/rosario3/img/2026/09/25/pdi_vgg.jpg_928314580.jpg",
         "summary": "Walter Ramírez (53) y su pareja Marilina Díaz (48) quedaron en prisión preventiva efectiva por cuatro meses. Habían sido allanados y detenidos la semana pasada tras la denuncia de la propia víctima",
-        "pubDate": "2026-09-29T11:58:00+00:00",
+        "pubDate": "2026-09-29T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -35,15 +44,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/como-es-el-plan-para-retirar-los-cables-obsoletos-y-ordenar-el-tendido-en-el-centro-de-rosario-20260929-0048.html",
         "image": "https://www.rosario3.com/__export/1790703197651/sites/rosario3/img/2026/09/29/cables_rosario.jpg_506286608.jpg",
         "summary": "El subsecretario de Obras Públicas de la Municipalidad, Juan Ferrer, brindó detalles sobre la licitación para ordenar el tendido aéreo en el microcentro de la ciudad. El objetivo es eliminar la infraestructura en desuso de empresas públicas y privadas para mejorar la seguridad y…",
-        "pubDate": "2026-09-29T11:57:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Piden intimación a IRSA por el museo ferroviario prometido en 2004 y nunca realizado en el Alto Rosario",
-        "link": "https://www.rosario3.com/informaciongeneral/piden-intimacion-a-irsa-por-el-museo-ferroviario-prometido-en-2004-y-nunca-realizado-en-el-alto-rosario-20260929-0042.html",
-        "image": "https://www.rosario3.com/__export/1790698616784/sites/rosario3/img/2026/09/29/461610391_1081863110612667_8549077165076199018_n.jpg_2106848869.jpg",
-        "summary": "La concejala Fernanda Gigliani presentó un proyecto en el Concejo para que el Ejecutivo municipal exija a la empresa la creación del Museo del Ferrocarril en el predio del shopping. También pidió relevar el estado de los trenes y vagones que permanecen allí y avanzar con medidas…",
         "pubDate": "2026-09-29T11:56:00+00:00",
         "approxTime": true
       },
@@ -85,10 +85,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Un influencer fue denunciado por cazar aves protegidas en Santa Fe para luego mostrarlas en redes sociales",
-        "link": "https://www.rosario3.com/informaciongeneral/un-influencer-fue-denunciado-por-cazar-aves-protegidas-en-santa-fe-para-luego-mostrarlas-en-redes-sociales-20260929-0045.html",
-        "image": "https://www.rosario3.com/__export/1790701352187/sites/rosario3/img/2026/09/29/caza_ilegal_sta_fe.png_786111822.png",
-        "summary": "Un empleado de la administración pública de Santa Fe es investigado por atrapar aves en peligro de extinción en la zona de la Laguna Setúbal, sin contar con licencia habilitante. El secretario de Biodiversidad del Ministerio de Ambiente provincial, Alejandro Luciano, confirmó…",
+        "title": "Piden intimación a IRSA por el museo ferroviario prometido en 2004 y nunca realizado en el Alto Rosario",
+        "link": "https://www.rosario3.com/informaciongeneral/piden-intimacion-a-irsa-por-el-museo-ferroviario-prometido-en-2004-y-nunca-realizado-en-el-alto-rosario-20260929-0042.html",
+        "image": "https://www.rosario3.com/__export/1790698616784/sites/rosario3/img/2026/09/29/461610391_1081863110612667_8549077165076199018_n.jpg_2106848869.jpg",
+        "summary": "La concejala Fernanda Gigliani presentó un proyecto en el Concejo para que el Ejecutivo municipal exija a la empresa la creación del Museo del Ferrocarril en el predio del shopping. También pidió relevar el estado de los trenes y vagones que permanecen allí y avanzar con medidas…",
         "pubDate": "2026-09-29T11:51:00+00:00",
         "approxTime": true
       },
@@ -112,33 +112,42 @@
       },
       {
         "source": "Rosario3",
-        "title": "Caputo dijo que en el Gobierno no esperan volatilidad del dólar en 2027, pero reconoció que se preparan \"como si fuera a pasar\"",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/caputo-dijo-que-en-el-gobierno-no-esperan-volatilidad-del-dolar-en-2027-pero-reconocio-que-se-preparan-como-si-fuera-a-pasar-20260929-0061.html",
-        "image": "https://www.rosario3.com/__export/1790708849310/sites/rosario3/img/2026/09/29/caputo.jpg_982625323.jpg",
-        "summary": "El ministro de Economía se refirió a la incertidumbre que impera entre inversores de cara al próximo año electoral. Ratificó que no avizoran un panorama de presión cambiaria y lanzó duras críticas contra el kirchnerismo, calificando a su modelo como un “infierno”",
+        "title": "La Corte Suprema anuló la absolución a César Milani y ordenó revisar el fallo por la muerte del soldado Ledo",
+        "link": "https://www.rosario3.com/informaciongeneral/la-corte-suprema-anulo-la-absolucion-a-cesar-milani-y-ordeno-revisar-el-fallo-por-la-muerte-del-soldado-ledo-20260929-0065.html",
+        "image": "https://www.rosario3.com/__export/1790711282158/sites/rosario3/img/2026/09/29/milani_2.jpg_1768679258.jpg",
+        "summary": "El expediente regresará a Casación. El ex Jefe del Ejército está acusado por el presunto encubrimiento de la desaparición del conscripto, en 1976, durante una misión militar en Tucumán",
         "pubDate": "2026-09-29T11:48:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "La llamativa respuesta de Gaudio sobre Macri: \"Mauricio no hace nada por el otro, hace solo lo que le conviene a él\"",
-        "link": "https://www.rosario3.com/informaciongeneral/la-llamativa-respuesta-de-gaudio-sobre-macri-mauricio-no-hace-nada-por-el-otro-hace-solo-lo-que-le-conviene-a-el-20260929-0070.html",
-        "image": "https://www.rosario3.com/__export/1790713637825/sites/rosario3/img/2026/09/29/gaudio_1.jpg_1150139848.jpg",
-        "summary": "Las elecciones en Independiente se realizarán el próximo domingo 13 de diciembre y el extenista, campeón de Roland Garros en 2004, es uno de los cuatro candidatos a ocupar el cargo de presidente",
+        "title": "Caputo dijo que en el Gobierno no esperan volatilidad del dólar en 2027, pero reconoció que se preparan \"como si fuera a pasar\"",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/caputo-dijo-que-en-el-gobierno-no-esperan-volatilidad-del-dolar-en-2027-pero-reconocio-que-se-preparan-como-si-fuera-a-pasar-20260929-0061.html",
+        "image": "https://www.rosario3.com/__export/1790708849310/sites/rosario3/img/2026/09/29/caputo.jpg_982625323.jpg",
+        "summary": "El ministro de Economía se refirió a la incertidumbre que impera entre inversores de cara al próximo año electoral. Ratificó que no avizoran un panorama de presión cambiaria y lanzó duras críticas contra el kirchnerismo, calificando a su modelo como un “infierno”",
         "pubDate": "2026-09-29T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Encontraron muerto al senador riojano Juan Carlos Pagotto",
-        "link": "https://www.rosario3.com/informaciongeneral/encontraron-muerto-al-senador-riojano-juan-carlos-pagotto-20260929-0022.html",
-        "image": "https://www.rosario3.com/__export/1790689063087/sites/rosario3/img/2026/09/29/juancarlospagottook_1790290223_3993566159560801372_63878386560.jpg_928314580.jpg",
-        "summary": "El legislador nacional de La Libertad Avanza fue hallado sin vida este martes en su domicilio de la ciudad de La Rioja. La Justicia y la Policía trabajan en el lugar para determinar las circunstancias del fallecimiento",
+        "title": "Un influencer fue denunciado por cazar aves protegidas en Santa Fe para luego mostrarlas en redes sociales",
+        "link": "https://www.rosario3.com/informaciongeneral/un-influencer-fue-denunciado-por-cazar-aves-protegidas-en-santa-fe-para-luego-mostrarlas-en-redes-sociales-20260929-0045.html",
+        "image": "https://www.rosario3.com/__export/1790701352187/sites/rosario3/img/2026/09/29/caza_ilegal_sta_fe.png_786111822.png",
+        "summary": "Un empleado de la administración pública de Santa Fe es investigado por atrapar aves en peligro de extinción en la zona de la Laguna Setúbal, sin contar con licencia habilitante. El secretario de Biodiversidad del Ministerio de Ambiente provincial, Alejandro Luciano, confirmó…",
         "pubDate": "2026-09-29T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Central campeón y final caliente: el lapidario informe del árbitro que complica a Verón tras la Supercopa",
+        "link": "https://www.lacapital.com.ar/ovacion/central-campeon-y-final-caliente-el-lapidario-informe-del-arbitro-que-complica-veron-la-supercopa-n10283931.html",
+        "image": "https://media.lacapital.com.ar/p/e6f44404159c1f3e7f6db1e620d18c07/adjuntos/203/imagenes/103/435/0103435407/1200x675/smart/imageveron.jpg",
+        "summary": "Darío Herrera dejó asentados insultos, amenazas y un intento de agresión del presidente de Estudiantes contra el equipo arbitral. También informó las expulsiones de Sández e Iacovich por el tumulto del cierre.",
+        "pubDate": "2026-09-29T21:34:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Federación Agraria reclamó políticas para los productores y defendió al Inta",
@@ -204,28 +213,10 @@
       },
       {
         "source": "La Capital",
-        "title": "Cómo guardar la mitad de una palta para que no se ponga negra",
-        "link": "https://www.lacapital.com.ar/informacion-general/como-guardar-la-mitad-una-palta-que-no-se-ponga-negra-n10283905.html",
-        "image": "https://media.lacapital.com.ar/p/f7836a8f9216157b4d8e4a70d0d6e7dc/adjuntos/203/imagenes/103/435/0103435175/1200x675/smart/image-13.png",
-        "summary": "El aclamado fruto se caracteriza por oxidarse rápidamente, por lo que saber cómo guardarlo es fundamental para evitar que se eche a perder",
-        "pubDate": "2026-09-29T20:20:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Papelera de WhatsApp: cómo vaciarla y para qué sirve",
-        "link": "https://www.lacapital.com.ar/informacion-general/papelera-whatsapp-como-vaciarla-y-que-sirve-n10283900.html",
-        "image": "https://media.lacapital.com.ar/p/955679fa6ea073aa655154790021b2cf/adjuntos/203/imagenes/102/237/0102237148/whatsapp-celularwebp.png",
-        "summary": "Borrar los archivos innecesarios ayuda a recuperar espacio de almacenamiento en el teléfono y mejora sus funciones. Cómo vaciar la papelera",
-        "pubDate": "2026-09-29T20:20:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Crimen organizado y lavado: Pullaro y Javkin abrirán una charla con funcionarios federales",
-        "link": "https://www.lacapital.com.ar/politica/crimen-organizado-y-lavado-pullaro-y-javkin-abriran-una-charla-funcionarios-federales-n10283896.html",
-        "image": "https://media.lacapital.com.ar/p/de0d50fa1ea5e3a8419c5a28f7a401d4/adjuntos/203/imagenes/102/406/0102406236/1200x675/smart/maximiliano-pullaro-pablo-javkin.jpg",
-        "summary": "En los debates participarán principalmente funcionarios del ámbito judicial. También estará el jefe de Microtráfico y la jefa de la Fiscalía General de la provincia",
+        "title": "Coloquio de Idea: el círculo rojo busca blindar el modelo económico",
+        "link": "https://www.lacapital.com.ar/economia/coloquio-idea-el-circulo-rojo-busca-blindar-el-modelo-economico-n10283886.html",
+        "image": "https://media.lacapital.com.ar/p/ff602a744ddb786c7013c1372fdeebf0/adjuntos/203/imagenes/102/748/0102748003/1200x675/smart/coloquioideageneral.JPG",
+        "summary": "Los ejecutivos que integran la entidad empresaria defienden el rumbo económico, “más allá de los cambios políticos”. Participarán Patricia Bullrich y el fiscal de la causa Vialidad",
         "pubDate": "2026-09-29T20:20:00+00:00",
         "approxTime": false
       },
@@ -240,10 +231,28 @@
       },
       {
         "source": "La Capital",
-        "title": "Coloquio de Idea: el círculo rojo busca blindar el modelo económico",
-        "link": "https://www.lacapital.com.ar/economia/coloquio-idea-el-circulo-rojo-busca-blindar-el-modelo-economico-n10283886.html",
-        "image": "https://media.lacapital.com.ar/p/ff602a744ddb786c7013c1372fdeebf0/adjuntos/203/imagenes/102/748/0102748003/1200x675/smart/coloquioideageneral.JPG",
-        "summary": "Los ejecutivos que integran la entidad empresaria defienden el rumbo económico, “más allá de los cambios políticos”. Participarán Patricia Bullrich y el fiscal de la causa Vialidad",
+        "title": "Crimen organizado y lavado: Pullaro y Javkin abrirán una charla con funcionarios federales",
+        "link": "https://www.lacapital.com.ar/politica/crimen-organizado-y-lavado-pullaro-y-javkin-abriran-una-charla-funcionarios-federales-n10283896.html",
+        "image": "https://media.lacapital.com.ar/p/de0d50fa1ea5e3a8419c5a28f7a401d4/adjuntos/203/imagenes/102/406/0102406236/1200x675/smart/maximiliano-pullaro-pablo-javkin.jpg",
+        "summary": "En los debates participarán principalmente funcionarios del ámbito judicial. También estará el jefe de Microtráfico y la jefa de la Fiscalía General de la provincia",
+        "pubDate": "2026-09-29T20:20:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Papelera de WhatsApp: cómo vaciarla y para qué sirve",
+        "link": "https://www.lacapital.com.ar/informacion-general/papelera-whatsapp-como-vaciarla-y-que-sirve-n10283900.html",
+        "image": "https://media.lacapital.com.ar/p/955679fa6ea073aa655154790021b2cf/adjuntos/203/imagenes/102/237/0102237148/whatsapp-celularwebp.png",
+        "summary": "Borrar los archivos innecesarios ayuda a recuperar espacio de almacenamiento en el teléfono y mejora sus funciones. Cómo vaciar la papelera",
+        "pubDate": "2026-09-29T20:20:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Cómo guardar la mitad de una palta para que no se ponga negra",
+        "link": "https://www.lacapital.com.ar/informacion-general/como-guardar-la-mitad-una-palta-que-no-se-ponga-negra-n10283905.html",
+        "image": "https://media.lacapital.com.ar/p/f7836a8f9216157b4d8e4a70d0d6e7dc/adjuntos/203/imagenes/103/435/0103435175/1200x675/smart/image-13.png",
+        "summary": "El aclamado fruto se caracteriza por oxidarse rápidamente, por lo que saber cómo guardarlo es fundamental para evitar que se eche a perder",
         "pubDate": "2026-09-29T20:20:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/e15381ccd8599b6657c845a8cecae632/adjuntos/203/imagenes/103/435/0103435051/1200x675/smart/franquis.jpg",
         "summary": "Franco Aguirre, de 25 años, es buscado desde el 8 de septiembre. Su familia contó que había acumulado deudas con intereses exorbitantes y recibido amenazas; en la única comunicación posterior, su padre lo escuchó “con miedo” y hablando desde un número desconocido.",
         "pubDate": "2026-09-29T20:16:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La morosidad frenó la suba de los alquileres en Rosario: qué valor tiene un monoambiente",
-        "link": "https://www.lacapital.com.ar/economia/la-morosidad-freno-la-suba-los-alquileres-rosario-que-valor-tiene-un-monoambiente-n10283874.html",
-        "image": "https://media.lacapital.com.ar/p/41976305e1134c0ce5e47e1269f879cb/adjuntos/203/imagenes/101/097/0101097289/1200x675/2271x1002:2291x1022/alquilerespng.png",
-        "summary": "El precio se mantuvo sin cambios por tercer mes consecutivo. Para un jubilado, el costo de una unidad de un ambiente ya representa más del 76% de sus ingresos, sin contar expensas ni servicios.",
-        "pubDate": "2026-09-29T19:00:00+00:00",
         "approxTime": false
       }
     ]
