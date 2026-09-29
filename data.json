@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T01:01:13.673996+00:00",
+  "generatedAt": "2026-09-29T01:31:01.201643+00:00",
   "sites": {
     "rosario3": [
       {
@@ -103,10 +103,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Un policía denunció que le robaron su arma reglamentaria durante un asalto en zona sudoeste",
-        "link": "https://www.rosario3.com/policiales/un-policia-denuncio-que-le-robaron-su-arma-reglamentaria-durante-un-asalto-en-zona-sudoeste-20260928-0064.html",
-        "image": "https://www.rosario3.com/__export/1790627637400/sites/rosario3/img/2026/09/28/12121212121.png_928314580.png",
-        "summary": "El agente, que presta servicio en la subcomisaría 4ª de Piñero, dijo que fue sorprendido por dos hombres que se desplazaban en moto. El acompañante lo amenazó con un arma y le sustrajo la pistola Bersa reglamentaria",
+        "title": "La virgen de la tosquera fue elegida para representar a Argentina en los premios Oscar",
+        "link": "https://www.rosario3.com/ocio/la-virgen-de-la-tosquera-fue-elegida-para-representar-a-argentina-en-los-premios-oscar-20260928-0079.html",
+        "image": "https://www.rosario3.com/__export/1790644523948/sites/rosario3/img/2026/09/28/virgen_de_la_tosquera.jpg_1825222467.jpg",
+        "summary": "La película de Laura Casabé, basada en dos cuentos de Mariana Enríquez, buscará una nominación en la categoría de mejor producción internacional",
         "pubDate": "2026-09-28T11:49:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Mientras sigue el acampe en Madrid, la anciana desalojada puede volver a su casa",
+        "link": "https://www.lacapital.com.ar/informacion-general/mientras-sigue-el-acampe-madrid-la-anciana-desalojada-puede-volver-su-casa-n10283749.html",
+        "image": "https://media.lacapital.com.ar/p/6c27a650fdf2870b646476d0f3df817d/adjuntos/203/imagenes/103/433/0103433801/2026-09-28-madrid-puerta-del-sol-82718352.jpg",
+        "summary": "Maricarmen, de 87 años, alcanzó un acuerdo con la empresa propietaria del departamento. Este lunes continuaba la protesta en Puerta del Sol",
+        "pubDate": "2026-09-29T01:12:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "\"Breaking Bad\", \"The Wire\" y \"Mad Men\", ¿las mejores series del siglo?",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/60d72ebd4aaaab5605278dada8d0538d/adjuntos/203/imagenes/102/393/0102393314/ansesjpg.jpg",
         "summary": "Quienes se encuentren en situación de desempleo podrán inscribirse para recibir una ayuda económica de parte de Anses, siempre y cuando cumplan con los requisitos exigidos en octubre",
         "pubDate": "2026-09-28T21:46:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "¿Cómo se utiliza la cartilla médica de Pami?",
-        "link": "https://www.lacapital.com.ar/informacion-general/como-se-utiliza-la-cartilla-medica-pami-n10283697.html",
-        "image": "https://media.lacapital.com.ar/p/f13785294dc8014627b18c4f6aaa0181/adjuntos/203/imagenes/100/183/0100183945/1200x675/smart/pami-digital2jpg.jpg",
-        "summary": "La obra social de los jubilados organiza la información médica en una cartilla digital para que sus afiliados encuentren profesionales de forma sencilla. Cómo se utiliza y las facilidades que ofrece en esta nota",
-        "pubDate": "2026-09-28T20:43:00+00:00",
         "approxTime": false
       }
     ]
