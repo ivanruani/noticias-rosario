@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T16:01:24.204255+00:00",
+  "generatedAt": "2026-09-29T16:31:11.292760+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "\"La más grande de la historia\": abren la inscripción a otra subasta de bienes incautados",
+        "link": "https://www.lacapital.com.ar/la-ciudad/la-mas-grande-la-historia-abren-la-inscripcion-otra-subasta-bienes-incautados-n10283844.html",
+        "image": "https://media.lacapital.com.ar/p/58269b80216bd7e128c5aacc5c2e0f80/adjuntos/203/imagenes/103/096/0103096609/1200x675/smart/subasta.jpg",
+        "summary": "El gobierno de Santa Fe rematará motos, autos, lanchas, bicicletas, un inmueble ubicado en Rosario y hasta máquinas de arcade. Cómo participar",
+        "pubDate": "2026-09-29T16:04:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La inesperada confesión de Evelyn Botto sobre su vínculo con Mario Pergolini",
+        "link": "https://www.lacapital.com.ar/zoom/la-inesperada-confesion-evelyn-botto-su-vinculo-mario-pergolini-n10283846.html",
+        "image": "https://media.lacapital.com.ar/p/968d75542515374985b7bbda412242a8/adjuntos/203/imagenes/103/434/0103434787/1200x675/smart/image-2026-09-29t125731541.png",
+        "summary": "La humorista aprovechó la visita de Gabriel Rolón en “Otro día perdido” para hacerle un particular reclamo al conductor",
+        "pubDate": "2026-09-29T16:03:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El picante cruce de Messi y el particular posteo de su rival luego del partido",
         "link": "https://www.lacapital.com.ar/ovacion/el-picante-cruce-messi-y-el-particular-posteo-su-rival-luego-del-partido-n10283825.html",
         "image": "https://media.lacapital.com.ar/p/0e3631eb4e09410bf63d115b0db36c6a/adjuntos/203/imagenes/103/434/0103434572/1200x675/smart/messi-inter-miami-cruce.jpg",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/5a3ebd9b0de0b4112eb651ecca1addad/adjuntos/203/imagenes/102/912/0102912347/1200x675/smart/hospital-centenario.jpg",
         "summary": "La Fiscalía Regional de Rosario confirmó la captura de un sospechoso de 30 años. La víctima, de 42 años, continúa hospitalizada",
         "pubDate": "2026-09-29T13:19:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cuándo cobran el sueldo de septiembre los empleados públicos de Santa Fe",
-        "link": "https://www.lacapital.com.ar/la-ciudad/cuando-cobran-el-sueldo-septiembre-los-empleados-publicos-santa-fe-n10283793.html",
-        "image": "https://media.lacapital.com.ar/p/4d202d9db1b11257e93a668dcf379613/adjuntos/203/imagenes/102/106/0102106547/1200x675/smart/pago-estatalesjpg.jpg",
-        "summary": "El gobierno provincial confirmó el cronograma de pagos, que comenzará el 1º de octubre y se extenderá hasta el 7. Los salarios incluyen el último aumento acordado en paritarias",
-        "pubDate": "2026-09-29T13:17:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Efecto \"El Eternauta\": la serie argentina generó 236.000 nuevos suscriptores para Netflix",
-        "link": "https://www.lacapital.com.ar/zoom/efecto-el-eternauta-la-serie-argentina-genero-236000-nuevos-suscriptores-netflix-n10283798.html",
-        "image": "https://media.lacapital.com.ar/p/9bcb6d5caad29589fdba3c874a34ef93/adjuntos/203/imagenes/102/295/0102295785/1200x675/smart/image-2025-04-01t121020704jpg.jpg",
-        "summary": "La estimación de una consultora indica que la ficción también contribuyó a que otros 2,78 millones de usuarios renovaran su suscripción a la plataforma",
-        "pubDate": "2026-09-29T13:12:00+00:00",
         "approxTime": false
       }
     ]
