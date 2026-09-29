@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T13:01:27.265639+00:00",
+  "generatedAt": "2026-09-29T13:31:06.532975+00:00",
   "sites": {
     "rosario3": [
       {
@@ -85,11 +85,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Tres autos incendiados en Circunvalación entre la noche y la madrugada de este martes",
+        "link": "https://www.rosario3.com/informaciongeneral/tres-autos-incendiados-en-circunvalacion-entre-la-noche-y-la-madrugada-de-este-martes-20260929-0012.html",
+        "image": "https://www.rosario3.com/__export/1790683673637/sites/rosario3/img/2026/09/29/whatsapp_image_2026-09-29_at_08_37_25_version1790683673184.jpeg_982625323.jpeg",
+        "summary": "Los siniestros ocurrieron entre las 20.50 del lunes y las 5.50 de este martes, en distintos puntos de la traza vial. No hubo personas heridas. Los tres vehículos sufrieron daños totales",
+        "pubDate": "2026-09-29T11:51:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "La periodista rosarina recuperó la camiseta de Central perdida el fin de semana: \"Volvió a mi familia\"",
         "link": "https://www.rosario3.com/informaciongeneral/la-periodista-rosarina-recupero-la-camiseta-de-central-perdida-el-fin-de-semana-volvio-a-mi-familia-20260929-0011.html",
         "image": "https://www.rosario3.com/__export/1790684512933/sites/rosario3/img/2026/09/29/gisela.jpg_928314581.jpg",
         "summary": "Gisela Fouquet había sufrido el extravío de una casaca del Centenario canalla durante las celebraciones el fin de semana en calle Avellaneda. Apeló a hinchas y vecinos para que la ayuden a encontrarla y lo logró. ¿Quién la tenia?",
-        "pubDate": "2026-09-29T11:51:00+00:00",
+        "pubDate": "2026-09-29T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -98,7 +107,7 @@
         "link": "https://www.rosario3.com/policiales/seis-ladrones-armados-lo-golpearon-por-la-espalda-y-entraron-a-robar-en-su-casa-de-fisherton-20260929-0005.html",
         "image": "https://www.rosario3.com/__export/1790680893897/sites/rosario3/img/2026/09/29/juarez_celman_al_1000_bis.jpg_1835726382.jpg",
         "summary": "Este lunes por la noche un hombre que vive en Juárez Celman al 1000 bis fue víctima de un grupo de delincuentes que se metieron en su domicilio y se llevaron de todo: dinero, electrodomésticos, mochilas, documentos personales, celulares y la camioneta, que luego pudieron…",
-        "pubDate": "2026-09-29T11:50:00+00:00",
+        "pubDate": "2026-09-29T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -107,15 +116,6 @@
         "link": "https://www.rosario3.com/ecos365/noticias/claves-del-dia-tasas-que-aprietan-fabricas-en-baja-privatizacion-y-un-nuevo-indice-soja-20260929-0001.html",
         "image": "https://www.rosario3.com/__export/1790676297387/sites/rosario3/img/2026/09/29/claves_del_dxa_29_de_septiembre_de_2026.png_446026524.png",
         "summary": "Caputo cubrió vencimientos, pero pagó más; la industria volvió a caer y el cemento se disparó en Rosario. Con mercados externos en tensión, el Gobierno prepara privatizaciones eléctricas y el agro estrena un fondo para vender soja sin salir de su precio",
-        "pubDate": "2026-09-29T11:49:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El clima en Rosario: la inestabilidad de la mañana le da paso a una tarde de mejoría y ambiente agradable",
-        "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-la-inestabilidad-de-la-manana-le-da-paso-a-una-tarde-de-mejoria-y-ambiente-agradable-20260929-0001.html",
-        "image": "https://www.rosario3.com/__export/1790673480034/sites/rosario3/img/2025/04/09/llovizna.jpg_928314581.jpg",
-        "summary": "El Servicio Meteorológico Nacional prevé un paulatino cese de los chaparrones matinales en la región. Tras el paso de las ráfagas intensas, el tiempo se irá estabilizando de cara a la segunda mitad del día",
         "pubDate": "2026-09-29T11:48:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,42 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Lo arrestaron por intento de femicidio 5 días después de la internación de una mujer quemada",
+        "link": "https://www.lacapital.com.ar/policiales/lo-arrestaron-intento-femicidio-5-dias-despues-la-internacion-una-mujer-quemada-n10283780.html",
+        "image": "https://media.lacapital.com.ar/p/5a3ebd9b0de0b4112eb651ecca1addad/adjuntos/203/imagenes/102/912/0102912347/1200x675/smart/hospital-centenario.jpg",
+        "summary": "La Fiscalía Regional de Rosario confirmó la captura de un sospechoso de 30 años. La víctima, de 42 años, continúa hospitalizada",
+        "pubDate": "2026-09-29T13:19:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Cuándo cobran el sueldo de septiembre los empleados públicos de Santa Fe",
+        "link": "https://www.lacapital.com.ar/la-ciudad/cuando-cobran-el-sueldo-septiembre-los-empleados-publicos-santa-fe-n10283793.html",
+        "image": "https://media.lacapital.com.ar/p/4d202d9db1b11257e93a668dcf379613/adjuntos/203/imagenes/102/106/0102106547/1200x675/smart/pago-estatalesjpg.jpg",
+        "summary": "El gobierno provincial confirmó el cronograma de pagos, que comenzará el 1º de octubre y se extenderá hasta el 7. Los salarios incluyen el último aumento acordado en paritarias",
+        "pubDate": "2026-09-29T13:17:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Efecto \"El Eternauta\": la serie argentina generó 236.000 nuevos suscriptores para Netflix",
+        "link": "https://www.lacapital.com.ar/zoom/efecto-el-eternauta-la-serie-argentina-genero-236000-nuevos-suscriptores-netflix-n10283798.html",
+        "image": "https://media.lacapital.com.ar/p/9bcb6d5caad29589fdba3c874a34ef93/adjuntos/203/imagenes/102/295/0102295785/1200x675/smart/image-2025-04-01t121020704jpg.jpg",
+        "summary": "La estimación de una consultora indica que la ficción también contribuyó a que otros 2,78 millones de usuarios renovaran su suscripción a la plataforma",
+        "pubDate": "2026-09-29T13:12:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Un jugador de Estudiantes celebró el título de Central y generó una polémica",
+        "link": "https://www.lacapital.com.ar/ovacion/un-jugador-estudiantes-celebro-el-titulo-central-y-genero-una-polemica-n10283773.html",
+        "image": "https://media.lacapital.com.ar/p/9b2cab4be031ca822c539296f97741db/adjuntos/203/imagenes/103/434/0103434062/1200x675/smart/image.jpg",
+        "summary": "Franco Domínguez, quien jugó seis partidos en la primera del Pincha y tiene contrato profesional, apareció junto a su hermano Gastón Ávila en plena celebración Canalla",
+        "pubDate": "2026-09-29T13:11:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "La Libertad Avanza insiste con la habilitación de Uber y Didi",
@@ -236,42 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/967f398c1188ac51540e8479c46be00f/adjuntos/203/imagenes/103/433/0103433861/1200x675/smart/image-11.jpg",
         "summary": "El extécnico de Newell's, que había asumido en el cargo a mediados de junio, perdió siete de los trece partidos que dirigió en la Academia",
         "pubDate": "2026-09-29T11:25:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "\"La virgen de la tosquera\" es la película argentina que peleará por un Oscar: dónde verla",
-        "link": "https://www.lacapital.com.ar/zoom/la-virgen-la-tosquera-es-la-pelicula-argentina-que-peleara-un-oscar-donde-verla-n10283764.html",
-        "image": "https://media.lacapital.com.ar/p/537663822b18017d3d438f7682e7696b/adjuntos/203/imagenes/103/055/0103055151/1200x675/smart/image-2026-03-26t121950849.jpg",
-        "summary": "El film de laura Casabé, basado en cuentos de Mariana Enríquez, fue un fenómeno del verano local. El 21 de enero se sabrá si es una de las nominadas",
-        "pubDate": "2026-09-29T11:22:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cuántos feriados quedan hasta fin de año, incluyendo los nuevos por la visita del papa León XIV",
-        "link": "https://www.lacapital.com.ar/informacion-general/cuantos-feriados-quedan-fin-ano-incluyendo-los-nuevos-la-visita-del-papa-leon-xiv-n10283561.html",
-        "image": "https://media.lacapital.com.ar/p/f1ee5a0ebb989d0aea7f960458010f3f/adjuntos/203/imagenes/103/398/0103398149/1200x675/smart/milei-papa-leon-xiv.jpg",
-        "summary": "El lunes 9 de noviembre será feriado en todo el país. Además, habrá días no laborables en varios puntos del país durante la gira papal",
-        "pubDate": "2026-09-29T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Octubre en plataformas: los estrenos de Netflix, Amazon, HBO Max, Mubi, Apple TV, y Disney+",
-        "link": "https://www.lacapital.com.ar/zoom/octubre-plataformas-los-estrenos-netflix-amazon-hbo-max-mubi-apple-tv-y-disney-n10283631.html",
-        "image": "https://media.lacapital.com.ar/p/d3e651a1b8978819ae6fc552f5640100/adjuntos/203/imagenes/103/432/0103432578/1200x675/smart/image-2026-09-28t133446159.png",
-        "summary": "Habrá de todo en el universo del streaming en octubre. Se destaca la producción argentina “Lo dejamos acá”, con Ricardo Darín y Diego Peretti",
-        "pubDate": "2026-09-29T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Reclaman por el museo ferroviario que Rosario espera hace más de 20 años",
-        "link": "https://www.lacapital.com.ar/la-ciudad/reclaman-el-museo-ferroviario-que-rosario-espera-hace-mas-20-anos-n10283666.html",
-        "image": "https://media.lacapital.com.ar/p/1be0c70b5cd58eea2b81a298bdce5766/adjuntos/203/imagenes/103/432/0103432995/1200x675/smart/81603634.jpg",
-        "summary": "En 2004, IRSA se comprometió a crearlo en el predio donde funciona el Alto Rosario Shopping. Pero los trenes y vagones siguen a la intemperie y una concejala pide que el municipio intime a la empresa para cumplir el acuerdo",
-        "pubDate": "2026-09-29T09:30:00+00:00",
         "approxTime": false
       }
     ]
