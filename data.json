@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T22:01:21.976075+00:00",
+  "generatedAt": "2026-09-29T22:31:12.180790+00:00",
   "sites": {
     "rosario3": [
       {
@@ -67,19 +67,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "Scaloni tiene el equipo para Bolivia y habló de su futuro: \"Las ganas están\"",
-        "link": "https://www.rosario3.com/deportes/scaloni-brinda-una-conferencia-de-prensa-en-la-previa-del-amistoso-con-bolivia-y-en-medio-de-las-negociaciones-por-su-continuidad-en-la-seleccion-20260929-0032.html",
-        "image": "https://www.rosario3.com/__export/1790703503486/sites/rosario3/img/2026/09/29/scaloni.jpg_544707420.jpg",
-        "summary": "El entrenador adelantó que tiene la alineación prácticamente definida para el amistoso del miércoles en Cordoba, aunque resta la última práctica. Además, reconoció que analiza su continuidad y ratificó sus ganas de seguir",
-        "pubDate": "2026-09-29T11:53:00+00:00",
+        "title": "Central festeja en el Monumento: miles de hinchas se reunieron para recibir al plantel campeón",
+        "link": "https://www.rosario3.com/deportes/se-postergo-el-festejo-de-central-en-el-monumento-cuando-y-a-que-hora-seran-las-celebraciones-con-el-plantel-20260928-0001.html",
+        "image": "https://www.rosario3.com/__export/1790720885714/sites/rosario3/img/2026/09/29/hinchas_rc.jpg_1778512132.jpg",
+        "summary": "La Supercopa Internacional estará en el Monumento a la Bandera junto a los jugadores para celebrar con toda la hinchada",
+        "pubDate": "2026-09-28T11:53:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Luego de los XIII Juegos Suramericanos Santa Fe 2026, dónde se desarrollará la próxima edición",
-        "link": "https://www.rosario3.com/deportes/luego-de-los-xiii-juegos-suramericanos-santa-fe-2026-donde-se-desarrollara-la-proxima-edicion-20260929-0039.html",
-        "image": "https://www.rosario3.com/__export/1790178086034/sites/rosario3/img/2026/09/23/medalla-dorada.jpg_928314580.jpg",
-        "summary": "Tras el éxito en Rosario, la capital provincial y Rafaela, el siguiente evento Odesur se deberá realizar en 2030",
+        "title": "Scaloni tiene el equipo para Bolivia y habló de su futuro: \"Las ganas están\"",
+        "link": "https://www.rosario3.com/deportes/scaloni-brinda-una-conferencia-de-prensa-en-la-previa-del-amistoso-con-bolivia-y-en-medio-de-las-negociaciones-por-su-continuidad-en-la-seleccion-20260929-0032.html",
+        "image": "https://www.rosario3.com/__export/1790703503486/sites/rosario3/img/2026/09/29/scaloni.jpg_544707420.jpg",
+        "summary": "El entrenador adelantó que tiene la alineación prácticamente definida para el amistoso del miércoles en Cordoba, aunque resta la última práctica. Además, reconoció que analiza su continuidad y ratificó sus ganas de seguir",
         "pubDate": "2026-09-29T11:52:00+00:00",
         "approxTime": true
       },
@@ -141,17 +141,35 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Argentina recibió otros seis cazas F-16 y ya tiene la mitad de la flota comprada a Dinamarca",
+        "link": "https://www.lacapital.com.ar/politica/argentina-recibio-otros-seis-cazas-f-16-y-ya-tiene-la-mitad-la-flota-comprada-dinamarca-n10283932.html",
+        "image": "https://media.lacapital.com.ar/p/702e323568256a1bcc26386d6bc1f82e/adjuntos/203/imagenes/103/435/0103435408/1200x675/smart/image-8.jpg",
+        "summary": "Los aviones aterrizaron este martes en Río Cuarto tras un vuelo con escalas en España y Brasil. Con este segundo lote, la Fuerza Aérea ya incorporó 12 de las 24 aeronaves adquiridas para renovar su capacidad de combate.",
+        "pubDate": "2026-09-29T22:18:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central: el árbitro Darío Herrera acusó a Sández de iniciar el tumulto final con Estudiantes",
+        "link": "https://www.lacapital.com.ar/ovacion/central-el-arbitro-dario-herrera-acuso-sandez-iniciar-el-tumulto-final-estudiantes-n10283936.html",
+        "image": "https://media.lacapital.com.ar/p/fd5fae248500b09dd932af54c42af995/adjuntos/203/imagenes/103/435/0103435496/0o.jpeg",
+        "summary": "El defensor canalla fue informado por Darío Herrera como el responsable de la gresca generalizada que se armó al final de la Supercopa Internacional",
+        "pubDate": "2026-09-29T22:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Central campeón y final caliente: el lapidario informe del árbitro que complica a Verón tras la Supercopa",
         "link": "https://www.lacapital.com.ar/ovacion/central-campeon-y-final-caliente-el-lapidario-informe-del-arbitro-que-complica-veron-la-supercopa-n10283931.html",
         "image": "https://media.lacapital.com.ar/p/e6f44404159c1f3e7f6db1e620d18c07/adjuntos/203/imagenes/103/435/0103435407/1200x675/smart/imageveron.jpg",
-        "summary": "Darío Herrera dejó asentados insultos, amenazas y un intento de agresión del presidente de Estudiantes contra el equipo arbitral. También informó las expulsiones de Sández e Iacovich por el tumulto del cierre.",
+        "summary": "Darío Herrera dejó asentados insultos y amenazas del presidente de Estudiantes contra el equipo arbitral, entre ellas la frase “hay que matarlos a todos”. Además, informó que Sández fue expulsado por conducta violenta y lo señaló como quien inició el tumulto final.",
         "pubDate": "2026-09-29T21:34:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Federación Agraria reclamó políticas para los productores y defendió al Inta",
-        "link": "https://www.lacapital.com.ar/agro/federacion-agraria-reclamo-politicas-los-productores-y-defendio-al-inta-n10283890.html",
+        "title": "Federación Agraria reclamó políticas para los productores y defendió al Ipcva y al Inta",
+        "link": "https://www.lacapital.com.ar/agro/federacion-agraria-reclamo-politicas-los-productores-y-defendio-al-ipcva-y-al-inta-n10283890.html",
         "image": "https://media.lacapital.com.ar/p/f70fbe893c4019ef51281c4da5084e7e/adjuntos/203/imagenes/103/435/0103435100/1200x675/211x295:231x315/faa-andreasarnarileonardo.jpeg",
         "summary": "La presidenta de Federación Agraria pidió financiamiento y políticas públicas para pequeños y medianos productores. El gobernador santafesino reclamó un modelo federal y cuestionó la distribución de los recursos",
         "pubDate": "2026-09-29T21:27:00+00:00",
@@ -177,7 +195,7 @@
       },
       {
         "source": "La Capital",
-        "title": "La actividad económica de Santa Fe volvió a terreno negativo y cayó 3,5 % en julio",
+        "title": "La actividad económica de Santa Fe volvió a terreno negativo y cayó 3,5% en julio",
         "link": "https://www.lacapital.com.ar/economia/la-actividad-economica-santa-fe-volvio-terreno-negativo-y-cayo-35-julio-n10283922.html",
         "image": "https://media.lacapital.com.ar/p/d877d396b58752a3b9b4b25ba9ea3842/adjuntos/203/imagenes/103/269/0103269177/1200x675/352x312:372x332/comercios-mrb-117-1.jpg",
         "summary": "El descenso revirtió las subas de los dos meses anteriores. En la comparación interanual, once de los dieciséis sectores retrocedieron y solo cinco crecieron, según el Ipec",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/f7836a8f9216157b4d8e4a70d0d6e7dc/adjuntos/203/imagenes/103/435/0103435175/1200x675/smart/image-13.png",
         "summary": "El aclamado fruto se caracteriza por oxidarse rápidamente, por lo que saber cómo guardarlo es fundamental para evitar que se eche a perder",
         "pubDate": "2026-09-29T20:20:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Scaloni pidió que la selección juegue en Rosario: \"Me da igual Central o Newell's\"",
-        "link": "https://www.lacapital.com.ar/ovacion/scaloni-pidio-que-la-seleccion-juegue-rosario-me-da-igual-central-o-newells-n10283913.html",
-        "image": "https://media.lacapital.com.ar/p/03ee122678baea3f6d125d2915ce10c3/adjuntos/203/imagenes/103/280/0103280222/1200x675/smart/scaloni-187.jpg",
-        "summary": "El entrenador argentino expresó su deseo de que el equipo nacional vuelva a presentarse en la ciudad y remarcó que no tiene preferencias por ninguno de los dos estadios.",
-        "pubDate": "2026-09-29T20:19:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Misteriosa desaparición en Rosario: un joven tenía deudas con prestamistas y su padre teme que esté \"secuestrado\"",
-        "link": "https://www.lacapital.com.ar/policiales/misteriosa-desaparicion-rosario-un-joven-tenia-deudas-prestamistas-y-su-padre-teme-que-este-secuestrado-n10283882.html",
-        "image": "https://media.lacapital.com.ar/p/e15381ccd8599b6657c845a8cecae632/adjuntos/203/imagenes/103/435/0103435051/1200x675/smart/franquis.jpg",
-        "summary": "Franco Aguirre, de 25 años, es buscado desde el 8 de septiembre. Su familia contó que había acumulado deudas con intereses exorbitantes y recibido amenazas; en la única comunicación posterior, su padre lo escuchó “con miedo” y hablando desde un número desconocido.",
-        "pubDate": "2026-09-29T20:16:00+00:00",
         "approxTime": false
       }
     ]
