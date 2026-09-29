@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T20:01:20.415636+00:00",
+  "generatedAt": "2026-09-29T20:31:20.285345+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,8 +141,89 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "Puerto General San Martín: un muerto y tres heridos por la explosión de una planta industrial",
-        "link": "https://www.lacapital.com.ar/la-region/puerto-general-san-martin-un-muerto-y-tres-heridos-la-explosion-una-planta-industrial-n10283898.html",
+        "title": "Mundo Turístico: 23 años del almuerzo de Wilson Marrero que reúne al turismo en la FIT",
+        "link": "https://www.lacapital.com.ar/turismo/mundo-turistico-23-anos-del-almuerzo-wilson-marrero-que-reune-al-turismo-la-fit-n10283878.html",
+        "image": "https://media.lacapital.com.ar/p/d4baf6ce1352dec789dbf5028f8ec370/adjuntos/203/imagenes/103/435/0103435001/1200x675/smart/imagen-nota.jpg",
+        "summary": "El periodista uruguayo convoca cada año en el restaurante Río Alba a empresarios, funcionarios y diplomáticos de distintos países en coincidencia con la Feria Internacional de Turismo de Buenos Aires",
+        "pubDate": "2026-09-29T20:29:33+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Netflix estrenó una thriller basado en hechos reales que sigue a un criminal polémico",
+        "link": "https://www.lacapital.com.ar/zoom/netflix-estreno-una-thriller-basado-hechos-reales-que-sigue-un-criminal-polemico-n10283889.html",
+        "image": "https://media.lacapital.com.ar/p/82a29a10ee0fb315b70a3e4e31867d80/adjuntos/203/imagenes/103/435/0103435075/1200x675/smart/image-12.png",
+        "summary": "La producción cuenta cómo Ted Kaczynski, un prodigio de Harvard, se convirtió lentamente en “Unabomber”, un criminal que enviaba bombas a través de postales",
+        "pubDate": "2026-09-29T20:21:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Papelera de WhatsApp: cómo vaciarla y para qué sirve",
+        "link": "https://www.lacapital.com.ar/informacion-general/papelera-whatsapp-como-vaciarla-y-que-sirve-n10283900.html",
+        "image": "https://media.lacapital.com.ar/p/955679fa6ea073aa655154790021b2cf/adjuntos/203/imagenes/102/237/0102237148/whatsapp-celularwebp.png",
+        "summary": "Borrar los archivos innecesarios ayuda a recuperar espacio de almacenamiento en el teléfono y mejora sus funciones. Cómo vaciar la papelera",
+        "pubDate": "2026-09-29T20:20:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Crimen organizado y lavado: Pullaro y Javkin abrirán una charla con funcionarios federales",
+        "link": "https://www.lacapital.com.ar/politica/crimen-organizado-y-lavado-pullaro-y-javkin-abriran-una-charla-funcionarios-federales-n10283896.html",
+        "image": "https://media.lacapital.com.ar/p/de0d50fa1ea5e3a8419c5a28f7a401d4/adjuntos/203/imagenes/102/406/0102406236/1200x675/smart/maximiliano-pullaro-pablo-javkin.jpg",
+        "summary": "En los debates participarán principalmente funcionarios del ámbito judicial. También estará el jefe de Microtráfico y la jefa de la Fiscalía General de la provincia",
+        "pubDate": "2026-09-29T20:20:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Caputo: \"El kirchnerismo es el infierno y Kicillof es el anticristo\"",
+        "link": "https://www.lacapital.com.ar/politica/caputo-el-kirchnerismo-es-el-infierno-y-kicillof-es-el-anticristo-n10283891.html",
+        "image": "https://media.lacapital.com.ar/p/947982bc8da2800b112811dfce1abaec/adjuntos/203/imagenes/102/848/0102848221/1200x675/smart/caputo.jpg",
+        "summary": "El ministro defendió el rumbo económico y aseguró que los argentinos no quieren volver al pasado",
+        "pubDate": "2026-09-29T20:20:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Coloquio de Idea: el círculo rojo busca blindar el modelo económico",
+        "link": "https://www.lacapital.com.ar/economia/coloquio-idea-el-circulo-rojo-busca-blindar-el-modelo-economico-n10283886.html",
+        "image": "https://media.lacapital.com.ar/p/ff602a744ddb786c7013c1372fdeebf0/adjuntos/203/imagenes/102/748/0102748003/1200x675/smart/coloquioideageneral.JPG",
+        "summary": "Los ejecutivos que integran la entidad empresaria defienden el rumbo económico, “más allá de los cambios políticos”. Participarán Patricia Bullrich y el fiscal de la causa Vialidad",
+        "pubDate": "2026-09-29T20:20:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Cómo guardar la mitad de una palta para que no se ponga negra",
+        "link": "https://www.lacapital.com.ar/informacion-general/como-guardar-la-mitad-una-palta-que-no-se-ponga-negra-n10283905.html",
+        "image": "https://media.lacapital.com.ar/p/f7836a8f9216157b4d8e4a70d0d6e7dc/adjuntos/203/imagenes/103/435/0103435175/1200x675/smart/image-13.png",
+        "summary": "El aclamado fruto se caracteriza por oxidarse rápidamente, por lo que saber cómo guardarlo es fundamental para evitar que se eche a perder",
+        "pubDate": "2026-09-29T20:20:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Scaloni pidió que la selección juegue en Rosario: \"Me da igual Central o Newell's\"",
+        "link": "https://www.lacapital.com.ar/ovacion/scaloni-pidio-que-la-seleccion-juegue-rosario-me-da-igual-central-o-newells-n10283913.html",
+        "image": "https://media.lacapital.com.ar/p/03ee122678baea3f6d125d2915ce10c3/adjuntos/203/imagenes/103/280/0103280222/1200x675/smart/scaloni-187.jpg",
+        "summary": "El entrenador argentino expresó su deseo de que el equipo nacional vuelva a presentarse en la ciudad y remarcó que no tiene preferencias por ninguno de los dos estadios.",
+        "pubDate": "2026-09-29T20:19:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Misteriosa desaparición en Rosario: un joven tenía deudas con prestamistas y su padre teme que esté \"secuestrado\"",
+        "link": "https://www.lacapital.com.ar/policiales/misteriosa-desaparicion-rosario-un-joven-tenia-deudas-prestamistas-y-su-padre-teme-que-este-secuestrado-n10283882.html",
+        "image": "https://media.lacapital.com.ar/p/e15381ccd8599b6657c845a8cecae632/adjuntos/203/imagenes/103/435/0103435051/1200x675/smart/franquis.jpg",
+        "summary": "Franco Aguirre, de 25 años, es buscado desde el 8 de septiembre. Su familia contó que había acumulado deudas con intereses exorbitantes y recibido amenazas; en la única comunicación posterior, su padre lo escuchó “con miedo” y hablando desde un número desconocido.",
+        "pubDate": "2026-09-29T20:16:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Puerto General San Martín: un muerto y cuatro heridos por la explosión en una planta industrial",
+        "link": "https://www.lacapital.com.ar/la-region/puerto-general-san-martin-un-muerto-y-cuatro-heridos-la-explosion-una-planta-industrial-n10283898.html",
         "image": "https://media.lacapital.com.ar/p/8f2325396b447e2133e38b7261328a1a/adjuntos/203/imagenes/103/435/0103435103/1200x675/smart/helicoptero-pgsm-299.jpg",
         "summary": "Bomberos Zapadores de San Lorenzo confirmaron la víctima fatal. Uno de los heridos tiene con el 60% del cuerpo quemado. Además, hay un operario desaparecido",
         "pubDate": "2026-09-29T19:43:00+00:00",
@@ -177,15 +258,6 @@
       },
       {
         "source": "La Capital",
-        "title": "Rosario sigue activa: cuáles son los principales eventos del último trimestre del año",
-        "link": "https://www.lacapital.com.ar/la-ciudad/rosario-sigue-activa-cuales-son-los-principales-eventos-del-ultimo-trimestre-del-ano-n10283843.html",
-        "image": "https://media.lacapital.com.ar/p/3a2ca094ff47683b7b36be8fa77a4ce5/adjuntos/203/imagenes/103/434/0103434683/tan-bionica.jpg",
-        "summary": "Ronnie Wood encabeza una agenda de recitales que incluye varios conciertos masivos. El cronograma incluye la Feria del Libro y la Fiesta de Colectividades",
-        "pubDate": "2026-09-29T18:49:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "Las Sombras llega a Rosario para presentar \"Bastardo\"",
         "link": "https://www.lacapital.com.ar/zoom/las-sombras-llega-rosario-presentar-bastardo-n10283865.html",
         "image": "https://media.lacapital.com.ar/p/1f0e02b2b99119d7a28ca2eb7f097f71/adjuntos/203/imagenes/103/434/0103434904/1200x675/smart/image-2026-09-29t141802424.png",
@@ -195,83 +267,11 @@
       },
       {
         "source": "La Capital",
-        "title": "Netflix dio a conocer el tráiler de la serie sobre Matthew Perry de \"Friends\": cuándo estrena",
-        "link": "https://www.lacapital.com.ar/zoom/netflix-dio-conocer-el-trailer-la-serie-matthew-perry-friends-cuando-estrena-n10283876.html",
-        "image": "https://media.lacapital.com.ar/p/8ef2a4e09ad81a756cfdca6028cfeff0/adjuntos/203/imagenes/102/616/0102616816/2025-08-18-matthew-perry.jpg",
-        "summary": "A casi tres años del fallecimiento del actor, la plataforma presentó el tráiler de “The One About Matthew Perry”",
+        "title": "Rosario sigue activa: cuáles son los principales eventos del último trimestre del año",
+        "link": "https://www.lacapital.com.ar/la-ciudad/rosario-sigue-activa-cuales-son-los-principales-eventos-del-ultimo-trimestre-del-ano-n10283843.html",
+        "image": "https://media.lacapital.com.ar/p/3a2ca094ff47683b7b36be8fa77a4ce5/adjuntos/203/imagenes/103/434/0103434683/tan-bionica.jpg",
+        "summary": "Ronnie Wood encabeza una agenda de recitales que incluye varios conciertos masivos. El cronograma incluye la Feria del Libro y la Fiesta de Colectividades",
         "pubDate": "2026-09-29T18:49:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Jorge Almirón respaldó con un título los números conseguidos en sus 40 partidos como DT de Central",
-        "link": "https://www.lacapital.com.ar/ovacion/jorge-almiron-respaldo-un-titulo-los-numeros-conseguidos-sus-40-partidos-como-dt-central-n10283881.html",
-        "image": "https://media.lacapital.com.ar/p/547f67ae2f67af47a69ae4af8c87f9a7/adjuntos/203/imagenes/103/435/0103435052/1200x675/smart/almiron-jorge-299-lv.jpg",
-        "summary": "El entrenador de Central afronta importantes desafíos en lo que resta del año: pelear por un título, un boleto a Copa Libertadores y la relación con la hinchada canalla",
-        "pubDate": "2026-09-29T18:48:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central alargó el descanso tras la consagración: cuándo vuelve a entrenar",
-        "link": "https://www.lacapital.com.ar/ovacion/central-alargo-el-descanso-la-consagracion-cuando-vuelve-entrenar-n10283879.html",
-        "image": "https://media.lacapital.com.ar/p/309324e698a3926976b27ff34a04d6ce/adjuntos/203/imagenes/103/435/0103435015/trabajolv.jpeg",
-        "summary": "El cuerpo técnico canalla citó al grupo para este miércoles por la mañana, por lo que el DT tendrá cinco días para preparar el choque ante Banfield",
-        "pubDate": "2026-09-29T18:47:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El abogado de Matías Capozucca rechazó la acusación de su expareja: \"No hubo amenazas\"",
-        "link": "https://www.lacapital.com.ar/policiales/el-abogado-matias-capozucca-rechazo-la-acusacion-su-expareja-no-hubo-amenazas-n10283807.html",
-        "image": "https://media.lacapital.com.ar/p/d64237a7b1ba2acb7b163441a0424ede/adjuntos/203/imagenes/103/434/0103434362/matias-capozucca.jpg",
-        "summary": "Carlos Varela confirmó que su cliente recibirá una tobillera dual para salir en libertad luego de la denuncia sobre violencia de género",
-        "pubDate": "2026-09-29T18:06:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Ataque de un perro a gansos en el Laguito: \"No es la primera vez que ocurre\"",
-        "link": "https://www.lacapital.com.ar/la-ciudad/ataque-un-perro-gansos-el-laguito-no-es-la-primera-vez-que-ocurre-n10283829.html",
-        "image": "https://media.lacapital.com.ar/p/e75779dbea5c671dc5e2be0b0a9395fb/adjuntos/203/imagenes/103/434/0103434717/1200x675/smart/gansos-lago.jpg",
-        "summary": "Desde la Asociación Amigos del Parque Independencia advierten sobre la actitud desaprensiva de personas que llevan a sus mascotas sin correa",
-        "pubDate": "2026-09-29T18:06:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Hay dos nuevos radares en la ruta a la costa atlántica: dónde están y cuál es la velocidad máxima",
-        "link": "https://www.lacapital.com.ar/informacion-general/hay-dos-nuevos-radares-la-ruta-la-costa-atlantica-donde-estan-y-cual-es-la-velocidad-maxima-n10283784.html",
-        "image": "https://media.lacapital.com.ar/p/9775c57073daf5e8929850ecf1d97bf7/adjuntos/203/imagenes/103/434/0103434326/1200x675/smart/autovia-2-ruta-2-costa-atlantica-radares.png",
-        "summary": "Los nuevos dispositivos, colocados en la autovía 2, se suman a decenas de equipos que controlan a miles de autos, especialmente en vacaciones",
-        "pubDate": "2026-09-29T18:04:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Estafa a una anciana en V. G. Gálvez: engaños, transferencias y créditos por millones en tres años",
-        "link": "https://www.lacapital.com.ar/policiales/estafa-una-anciana-v-g-galvez-enganos-transferencias-y-creditos-millones-tres-anos-n10283872.html",
-        "image": "https://media.lacapital.com.ar/p/be88f211628ca0a3c0af4ea079b5eca8/adjuntos/203/imagenes/103/427/0103427064/1200x675/smart/estafa-una-anciana01.jpg",
-        "summary": "Quedó presa la pareja acusada de aprovecharse de la confianza de la mujer para controlar sus bienes, cobrar ingresos, sacar créditos y realizas transferencias",
-        "pubDate": "2026-09-29T18:04:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La selección argentina enfrenta a Bolivia: hora, canal y posibles formaciones del amistoso",
-        "link": "https://www.lacapital.com.ar/ovacion/la-seleccion-argentina-enfrenta-bolivia-hora-canal-y-posibles-formaciones-del-amistoso-n10283803.html",
-        "image": "https://media.lacapital.com.ar/p/2022b1bedade832eb4d56f36ba6000f2/adjuntos/203/imagenes/103/275/0103275916/scaloni-argentina.JPG",
-        "summary": "El equipo de Lionel Scaloni volverá a jugar tras el Mundial 2026 y lo hará en Córdoba sin la presencia de Messi. Detalles y estadísticas del partido",
-        "pubDate": "2026-09-29T17:41:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Pami ofrece ayuda para pagar cuidadores domiciliarios: cómo solicitarla",
-        "link": "https://www.lacapital.com.ar/informacion-general/pami-ofrece-ayuda-pagar-cuidadores-domiciliarios-como-solicitarla-n10283845.html",
-        "image": "https://media.lacapital.com.ar/p/6784cff9781eb914ae705cc2f47e4f3f/adjuntos/203/imagenes/102/759/0102759533/1200x675/smart/cuidador-jubilados.png",
-        "summary": "Los afiliados de Pami pueden acceder a un aporte económico destinado a cubrir parcialmente los costos de un cuidador domiciliario.",
-        "pubDate": "2026-09-29T17:41:00+00:00",
         "approxTime": false
       }
     ]
