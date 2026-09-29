@@ -1,23 +1,32 @@
 {
-  "generatedAt": "2026-09-29T19:31:02.453611+00:00",
+  "generatedAt": "2026-09-29T20:01:20.415636+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Explotaron tanques de metanol en una planta de Puerto San Martín: al menos un operario muerto y varios heridos",
+        "link": "https://www.rosario3.com/informaciongeneral/explotaron-tanques-de-metanol-en-una-planta-de-puerto-san-martin-y-hay-al-menos-un-operario-muerto-20260929-0063.html",
+        "image": "https://www.rosario3.com/__export/1790710709131/sites/rosario3/img/2026/09/29/explosion_puerto_san_martin_-1-.jpg_506286608.jpg",
+        "summary": "Ocurrió este martes cerca de las tres de la tarde en una empresa ubicada en la zona norte de esa ciudad del cordón industrial. Según información preliminar, habrían explotado varios tanques de metanol por razones que aún no están claras. Las autoridades confirmaron un fallecido…",
+        "pubDate": "2026-09-29T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Padre de un concejal de Villa Gobernador Gálvez quedó preso por estafar a una anciana que internó en un geriátrico",
+        "link": "https://www.rosario3.com/policiales/padre-de-un-concejal-de-villa-gobernador-galvez-quedo-preso-por-estafar-a-una-anciana-que-interno-en-un-geriatrico-20260929-0054.html",
+        "image": "https://www.rosario3.com/__export/1790348424561/sites/rosario3/img/2026/09/25/pdi_vgg.jpg_928314580.jpg",
+        "summary": "Walter Ramírez (53) y su pareja Marilina Díaz (48) quedaron en prisión preventiva efectiva por cuatro meses. Habían sido allanados y detenidos la semana pasada tras la denuncia de la propia víctima",
+        "pubDate": "2026-09-29T11:59:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Cómo es el plan para retirar los cables obsoletos y ordenar el tendido en el centro de Rosario",
         "link": "https://www.rosario3.com/informaciongeneral/como-es-el-plan-para-retirar-los-cables-obsoletos-y-ordenar-el-tendido-en-el-centro-de-rosario-20260929-0048.html",
         "image": "https://www.rosario3.com/__export/1790703197651/sites/rosario3/img/2026/09/29/cables_rosario.jpg_506286608.jpg",
         "summary": "El subsecretario de Obras Públicas de la Municipalidad, Juan Ferrer, brindó detalles sobre la licitación para ordenar el tendido aéreo en el microcentro de la ciudad. El objetivo es eliminar la infraestructura en desuso de empresas públicas y privadas para mejorar la seguridad y…",
-        "pubDate": "2026-09-29T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Piden intimación a IRSA por el museo ferroviario prometido en 2004 y nunca realizado en el Alto Rosario",
-        "link": "https://www.rosario3.com/informaciongeneral/piden-intimacion-a-irsa-por-el-museo-ferroviario-prometido-en-2004-y-nunca-realizado-en-el-alto-rosario-20260929-0042.html",
-        "image": "https://www.rosario3.com/__export/1790698616784/sites/rosario3/img/2026/09/29/461610391_1081863110612667_8549077165076199018_n.jpg_2106848869.jpg",
-        "summary": "La concejala Fernanda Gigliani presentó un proyecto en el Concejo para que el Ejecutivo municipal exija a la empresa la creación del Museo del Ferrocarril en el predio del shopping. También pidió relevar el estado de los trenes y vagones que permanecen allí y avanzar con medidas…",
-        "pubDate": "2026-09-29T11:59:00+00:00",
+        "pubDate": "2026-09-29T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,24 +35,15 @@
         "link": "https://www.rosario3.com/informaciongeneral/un-influencer-fue-denunciado-por-cazar-aves-protegidas-en-santa-fe-para-luego-mostrarlas-en-redes-sociales-20260929-0045.html",
         "image": "https://www.rosario3.com/__export/1790701352187/sites/rosario3/img/2026/09/29/caza_ilegal_sta_fe.png_786111822.png",
         "summary": "Un empleado de la administración pública de Santa Fe es investigado por atrapar aves en peligro de extinción en la zona de la Laguna Setúbal, sin contar con licencia habilitante. El secretario de Biodiversidad del Ministerio de Ambiente provincial, Alejandro Luciano, confirmó…",
-        "pubDate": "2026-09-29T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Condenaron a seis años de prisión a un joven por abusar de una compañera durante un viaje de egresados en Bariloche",
-        "link": "https://www.rosario3.com/policiales/condenaron-a-seis-anos-de-prision-a-un-joven-por-abusar-de-una-companera-durante-un-viaje-de-egresados-en-bariloche-20260929-0035.html",
-        "image": "https://www.rosario3.com/__export/1790695967697/sites/rosario3/img/2026/09/29/travelrockchaco_1558051000_2045402500743495580_2131405444_1.jpg_928314581.jpg",
-        "summary": "La víctima tenía 17 años al momento del hecho y había manifestado que no quería mantener relaciones sexuales. El tribunal de Chaco rechazó el argumento de la defensa y remarcó que la ausencia de lesiones no implica consentimiento. La sentencia todavía no está firme",
         "pubDate": "2026-09-29T11:57:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Avanza la renovación en la zona norte de Rosario con la demolición del bar Paradiso",
-        "link": "https://www.rosario3.com/informaciongeneral/avanza-la-renovacion-en-la-zona-norte-de-rosario-con-la-demolicion-del-bar-paradiso-20260929-0026.html",
-        "image": "https://www.rosario3.com/__export/1790690261582/sites/rosario3/img/2026/09/29/floridahome.jpg_928314581.jpg",
-        "summary": "El subsecretario de Obras Públicas del municipio brindó precisiones sobre los trabajos que se llevan adelante en la zona de La Florida. Tras desmantelar el antiguo local comercial, aseguró que se recuperarán miles de metros cuadrados de arena de acceso libre. Además, el…",
+        "title": "Piden intimación a IRSA por el museo ferroviario prometido en 2004 y nunca realizado en el Alto Rosario",
+        "link": "https://www.rosario3.com/informaciongeneral/piden-intimacion-a-irsa-por-el-museo-ferroviario-prometido-en-2004-y-nunca-realizado-en-el-alto-rosario-20260929-0042.html",
+        "image": "https://www.rosario3.com/__export/1790698616784/sites/rosario3/img/2026/09/29/461610391_1081863110612667_8549077165076199018_n.jpg_2106848869.jpg",
+        "summary": "La concejala Fernanda Gigliani presentó un proyecto en el Concejo para que el Ejecutivo municipal exija a la empresa la creación del Museo del Ferrocarril en el predio del shopping. También pidió relevar el estado de los trenes y vagones que permanecen allí y avanzar con medidas…",
         "pubDate": "2026-09-29T11:56:00+00:00",
         "approxTime": true
       },
@@ -58,10 +58,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "No hay más: los peluches de Capi se agotaron por completo en Rosario",
-        "link": "https://www.rosario3.com/informaciongeneral/no-hay-mas-los-peluches-de-capi-se-agotaron-por-completo-en-rosario-20260929-0019.html",
-        "image": "https://www.rosario3.com/__export/1790689232498/sites/rosario3/img/2026/09/29/dsc05221.jpg_295657278.jpg",
-        "summary": "Tras venderse más de 45 mil unidades, el muñeco de la mascota oficial de los Juegos Suramericanos Santa Fe 2026 ya no se consigue en la ciudad. La tienda del Shopping del Siglo funcionará solo hasta este miércoles y el remanente de otros productos oficiales, como remeras y…",
+        "title": "Condenaron a seis años de prisión a un joven por abusar de una compañera durante un viaje de egresados en Bariloche",
+        "link": "https://www.rosario3.com/policiales/condenaron-a-seis-anos-de-prision-a-un-joven-por-abusar-de-una-companera-durante-un-viaje-de-egresados-en-bariloche-20260929-0035.html",
+        "image": "https://www.rosario3.com/__export/1790695967697/sites/rosario3/img/2026/09/29/travelrockchaco_1558051000_2045402500743495580_2131405444_1.jpg_928314581.jpg",
+        "summary": "La víctima tenía 17 años al momento del hecho y había manifestado que no quería mantener relaciones sexuales. El tribunal de Chaco rechazó el argumento de la defensa y remarcó que la ausencia de lesiones no implica consentimiento. La sentencia todavía no está firme",
         "pubDate": "2026-09-29T11:54:00+00:00",
         "approxTime": true
       },
@@ -94,10 +94,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Llega la Feria del Centro a Rosario y buscan talentos santafesinos para Cosquín",
-        "link": "https://www.rosario3.com/ocio/llega-la-feria-del-centro-a-rosario-y-buscan-talentos-santafesinos-para-cosquin-20260929-0031.html",
-        "image": "https://www.rosario3.com/__export/1790693852798/sites/rosario3/img/2026/09/29/feria_del_centro.jpg_2106848869.jpg",
-        "summary": "La ministra de Cultura, Susana Rueda, presentó la décima edición del evento regional que reunirá a 180 expositores del 2 al 4 de octubre en la Estación Fluvial. Además, junto a autoridades artísticas, lanzó la convocatoria para seleccionar a los 40 bailarines que integrarán la…",
+        "title": "Avanza la renovación en la zona norte de Rosario con la demolición del bar Paradiso",
+        "link": "https://www.rosario3.com/informaciongeneral/avanza-la-renovacion-en-la-zona-norte-de-rosario-con-la-demolicion-del-bar-paradiso-20260929-0026.html",
+        "image": "https://www.rosario3.com/__export/1790690261582/sites/rosario3/img/2026/09/29/floridahome.jpg_928314581.jpg",
+        "summary": "El subsecretario de Obras Públicas del municipio brindó precisiones sobre los trabajos que se llevan adelante en la zona de La Florida. Tras desmantelar el antiguo local comercial, aseguró que se recuperarán miles de metros cuadrados de arena de acceso libre. Además, el…",
         "pubDate": "2026-09-29T11:50:00+00:00",
         "approxTime": true
       },
@@ -121,24 +121,33 @@
       },
       {
         "source": "Rosario3",
-        "title": "Anmat prohibió todos los productos de una marca de limpieza que se venden por internet",
-        "link": "https://www.rosario3.com/informaciongeneral/anmat-prohibio-todos-los-productos-de-una-marca-de-limpieza-que-se-venden-por-internet-20260929-0024.html",
-        "image": "https://www.rosario3.com/__export/1790689916805/sites/rosario3/img/2026/09/29/quimica_anmat.png_928314580.png",
-        "summary": "La medida alcanza a limpiadores, desinfectantes y otros productos domisanitarios de B&T Química. El organismo detectó que eran comercializados sin registro sanitario y dispuso el cese de su uso, venta, publicidad y distribución en todo el país",
+        "title": "Volvió a su casa después de dos semanas y encontró a dos usurpadores en su cama",
+        "link": "https://www.rosario3.com/policiales/volvio-a-su-casa-despues-de-dos-semanas-y-encontro-a-dos-usurpadores-en-su-cama-20260929-0027.html",
+        "image": "https://www.rosario3.com/__export/1787674357106/sites/rosario3/img/2025/01/01/policia_patrullero.jpg_1825222445.jpg",
+        "summary": "La denuncia fue realizada este lunes por la noche en Pasaje Carre al 7700, en la zona noroeste. Los delincuentes fueron detenidos por el Comando Radioeléctrico",
         "pubDate": "2026-09-29T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Volvió a su casa después de dos semanas y encontró a dos usurpadores en su cama",
-        "link": "https://www.rosario3.com/policiales/volvio-a-su-casa-despues-de-dos-semanas-y-encontro-a-dos-usurpadores-en-su-cama-20260929-0027.html",
-        "image": "https://www.rosario3.com/__export/1787674357106/sites/rosario3/img/2025/01/01/policia_patrullero.jpg_1825222445.jpg",
-        "summary": "La denuncia fue realizada este lunes por la noche en Pasaje Carre al 7700, en la zona noroeste. Los delincuentes fueron detenidos por el Comando Radioeléctrico",
+        "title": "Encontraron muerto al senador riojano Juan Carlos Pagotto",
+        "link": "https://www.rosario3.com/informaciongeneral/encontraron-muerto-al-senador-riojano-juan-carlos-pagotto-20260929-0022.html",
+        "image": "https://www.rosario3.com/__export/1790689063087/sites/rosario3/img/2026/09/29/juancarlospagottook_1790290223_3993566159560801372_63878386560.jpg_928314580.jpg",
+        "summary": "El legislador nacional de La Libertad Avanza fue hallado sin vida este martes en su domicilio de la ciudad de La Rioja. La Justicia y la Policía trabajan en el lugar para determinar las circunstancias del fallecimiento",
         "pubDate": "2026-09-29T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Puerto General San Martín: un muerto y tres heridos por la explosión de una planta industrial",
+        "link": "https://www.lacapital.com.ar/la-region/puerto-general-san-martin-un-muerto-y-tres-heridos-la-explosion-una-planta-industrial-n10283898.html",
+        "image": "https://media.lacapital.com.ar/p/8f2325396b447e2133e38b7261328a1a/adjuntos/203/imagenes/103/435/0103435103/1200x675/smart/helicoptero-pgsm-299.jpg",
+        "summary": "Bomberos Zapadores de San Lorenzo confirmaron la víctima fatal. Uno de los heridos tiene con el 60% del cuerpo quemado. Además, hay un operario desaparecido",
+        "pubDate": "2026-09-29T19:43:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "La morosidad frenó la suba de los alquileres en Rosario: qué valor tiene un monoambiente",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/6784cff9781eb914ae705cc2f47e4f3f/adjuntos/203/imagenes/102/759/0102759533/1200x675/smart/cuidador-jubilados.png",
         "summary": "Los afiliados de Pami pueden acceder a un aporte económico destinado a cubrir parcialmente los costos de un cuidador domiciliario.",
         "pubDate": "2026-09-29T17:41:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Colapinto busca reponerse de Bakú y está \"con muchas ganas\" de correr en Malasia",
-        "link": "https://www.lacapital.com.ar/formula-1/colapinto-busca-reponerse-baku-y-esta-con-muchas-ganas-correr-malasia-n10283862.html",
-        "image": "https://media.lacapital.com.ar/p/923eaf9514b8a02fa7cf4ddb9895da26/adjuntos/203/imagenes/103/346/0103346880/1200x675/smart/image-6.jpg",
-        "summary": "Luego de su choque y su primer abandono de la temporada, el argentino mostró buenas sensaciones antes de la carrera de este fin de semana",
-        "pubDate": "2026-09-29T17:03:00+00:00",
         "approxTime": false
       }
     ]
