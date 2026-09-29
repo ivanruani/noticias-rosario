@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T17:31:05.161973+00:00",
+  "generatedAt": "2026-09-29T18:01:33.820400+00:00",
   "sites": {
     "rosario3": [
       {
@@ -67,10 +67,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Scaloni brinda una conferencia de prensa en la previa del amistoso con Bolivia y en medio de las negociaciones por su continuidad en la Selección",
+        "title": "Scaloni tiene el equipo para Bolivia y habló de su futuro: \"Las ganas están\"",
         "link": "https://www.rosario3.com/deportes/scaloni-brinda-una-conferencia-de-prensa-en-la-previa-del-amistoso-con-bolivia-y-en-medio-de-las-negociaciones-por-su-continuidad-en-la-seleccion-20260929-0032.html",
-        "image": "https://www.rosario3.com/__export/1784500586102/sites/rosario3/img/2026/07/19/scaloni_mundial.jpg_928314580.jpg",
-        "summary": "El entrenador de la selección argentina hablará ante los medios durante este martes antes del entrenamiento de la selección argentina en el predio de AFA en Ezeiza. Este miércoles jugará ante Bolivia en Córdoba",
+        "image": "https://www.rosario3.com/__export/1790703503486/sites/rosario3/img/2026/09/29/scaloni.jpg_544707420.jpg",
+        "summary": "El entrenador adelantó que tiene la alineación prácticamente definida para el amistoso del miércoles en Cordoba, aunque resta la última práctica. Además, reconoció que analiza su continuidad y ratificó sus ganas de seguir",
         "pubDate": "2026-09-29T11:53:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,24 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "La selección argentina enfrenta a Bolivia: hora, canal y posibles formaciones del amistoso",
+        "link": "https://www.lacapital.com.ar/ovacion/la-seleccion-argentina-enfrenta-bolivia-hora-canal-y-posibles-formaciones-del-amistoso-n10283803.html",
+        "image": "https://media.lacapital.com.ar/p/2022b1bedade832eb4d56f36ba6000f2/adjuntos/203/imagenes/103/275/0103275916/scaloni-argentina.JPG",
+        "summary": "El equipo de Lionel Scaloni volverá a jugar tras el Mundial 2026 y lo hará en Córdoba sin la presencia de Messi. Detalles y estadísticas del partido",
+        "pubDate": "2026-09-29T17:41:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Pami ofrece ayuda para pagar cuidadores domiciliarios: cómo solicitarla",
+        "link": "https://www.lacapital.com.ar/informacion-general/pami-ofrece-ayuda-pagar-cuidadores-domiciliarios-como-solicitarla-n10283845.html",
+        "image": "https://media.lacapital.com.ar/p/6784cff9781eb914ae705cc2f47e4f3f/adjuntos/203/imagenes/102/759/0102759533/1200x675/smart/cuidador-jubilados.png",
+        "summary": "Los afiliados de Pami pueden acceder a un aporte económico destinado a cubrir parcialmente los costos de un cuidador domiciliario.",
+        "pubDate": "2026-09-29T17:41:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Colapinto busca reponerse de Bakú y está \"con muchas ganas\" de correr en Malasia",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/73b044d48ae495ac93e025f4c5a30aa3/adjuntos/203/imagenes/102/979/0102979155/1200x675/smart/image-2026-02-13t161351523.jpg",
         "summary": "Después de una exitosa visita a comienzos de año, la dupla de gemelas regresa a la ciudad y se presenta el 2, 3 y 4 de octubre en el Teatro La Comedia",
         "pubDate": "2026-09-29T14:29:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Deportistas con síndrome de Down participaron de un campus abierto de atletismo en Venado Tuerto",
-        "link": "https://www.lacapital.com.ar/la-region/deportistascon-sindrome-down-participaron-un-campus-abierto-atletismo-venado-tuerto-n10283822.html",
-        "image": "https://media.lacapital.com.ar/p/016695bdc8f78c81ce07c9437c86114e/adjuntos/203/imagenes/103/434/0103434493/1200x675/smart/venado-campusatletismo.jpg",
-        "summary": "Durante tres jornadas, el Parque Municipal Belgrano recibió a representantes de siete provincias en un encuentro que combinó alto rendimiento deportivo con inclusión",
-        "pubDate": "2026-09-29T14:21:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Murió Juan Carlos Pagotto, senador de La Libertad Avanza por La Rioja",
-        "link": "https://www.lacapital.com.ar/politica/murio-juan-carlos-pagotto-senador-la-libertad-avanza-la-rioja-n10283815.html",
-        "image": "https://media.lacapital.com.ar/p/986b4eb0a11b85c8a65840a1e4298de3/adjuntos/203/imagenes/103/434/0103434397/1200x675/smart/senador.png",
-        "summary": "El legislador tenía 74 años y fue hallado sin vida este martes en su casa. Había estado internado recientemente por una afección cardíaca y participó de la última sesión del Senado",
-        "pubDate": "2026-09-29T13:58:00+00:00",
         "approxTime": false
       }
     ]
