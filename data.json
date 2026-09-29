@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T18:01:33.820400+00:00",
+  "generatedAt": "2026-09-29T18:31:12.059869+00:00",
   "sites": {
     "rosario3": [
       {
@@ -22,19 +22,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "Condenaron a seis años de prisión a un joven por abusar de una compañera durante un viaje de egresados en Bariloche",
-        "link": "https://www.rosario3.com/policiales/condenaron-a-seis-anos-de-prision-a-un-joven-por-abusar-de-una-companera-durante-un-viaje-de-egresados-en-bariloche-20260929-0035.html",
-        "image": "https://www.rosario3.com/__export/1790695967697/sites/rosario3/img/2026/09/29/travelrockchaco_1558051000_2045402500743495580_2131405444_1.jpg_928314581.jpg",
-        "summary": "La víctima tenía 17 años al momento del hecho y había manifestado que no quería mantener relaciones sexuales. El tribunal de Chaco rechazó el argumento de la defensa y remarcó que la ausencia de lesiones no implica consentimiento. La sentencia todavía no está firme",
+        "title": "Un influencer fue denunciado por cazar aves protegidas en Santa Fe para luego mostrarlas en redes sociales",
+        "link": "https://www.rosario3.com/informaciongeneral/un-influencer-fue-denunciado-por-cazar-aves-protegidas-en-santa-fe-para-luego-mostrarlas-en-redes-sociales-20260929-0045.html",
+        "image": "https://www.rosario3.com/__export/1790701352187/sites/rosario3/img/2026/09/29/caza_ilegal_sta_fe.png_786111822.png",
+        "summary": "Un empleado de la administración pública de Santa Fe es investigado por atrapar aves en peligro de extinción en la zona de la Laguna Setúbal, sin contar con licencia habilitante. El secretario de Biodiversidad del Ministerio de Ambiente provincial, Alejandro Luciano, confirmó…",
         "pubDate": "2026-09-29T11:58:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Volvió a su casa después de dos semanas y encontró a dos usurpadores en su cama",
-        "link": "https://www.rosario3.com/policiales/volvio-a-su-casa-despues-de-dos-semanas-y-encontro-a-dos-usurpadores-en-su-cama-20260929-0027.html",
-        "image": "https://www.rosario3.com/__export/1787674357106/sites/rosario3/img/2025/01/01/policia_patrullero.jpg_1825222445.jpg",
-        "summary": "La denuncia fue realizada este lunes por la noche en Pasaje Carre al 7700, en la zona noroeste. Los delincuentes fueron detenidos por el Comando Radioeléctrico",
+        "title": "Condenaron a seis años de prisión a un joven por abusar de una compañera durante un viaje de egresados en Bariloche",
+        "link": "https://www.rosario3.com/policiales/condenaron-a-seis-anos-de-prision-a-un-joven-por-abusar-de-una-companera-durante-un-viaje-de-egresados-en-bariloche-20260929-0035.html",
+        "image": "https://www.rosario3.com/__export/1790695967697/sites/rosario3/img/2026/09/29/travelrockchaco_1558051000_2045402500743495580_2131405444_1.jpg_928314581.jpg",
+        "summary": "La víctima tenía 17 años al momento del hecho y había manifestado que no quería mantener relaciones sexuales. El tribunal de Chaco rechazó el argumento de la defensa y remarcó que la ausencia de lesiones no implica consentimiento. La sentencia todavía no está firme",
         "pubDate": "2026-09-29T11:57:00+00:00",
         "approxTime": true
       },
@@ -141,11 +141,38 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "La selección argentina enfrenta a Bolivia: hora, canal y posibles formaciones del amistoso",
-        "link": "https://www.lacapital.com.ar/ovacion/la-seleccion-argentina-enfrenta-bolivia-hora-canal-y-posibles-formaciones-del-amistoso-n10283803.html",
-        "image": "https://media.lacapital.com.ar/p/2022b1bedade832eb4d56f36ba6000f2/adjuntos/203/imagenes/103/275/0103275916/scaloni-argentina.JPG",
-        "summary": "El equipo de Lionel Scaloni volverá a jugar tras el Mundial 2026 y lo hará en Córdoba sin la presencia de Messi. Detalles y estadísticas del partido",
-        "pubDate": "2026-09-29T17:41:00+00:00",
+        "title": "El abogado de Matías Capozucca rechazó la acusación de su expareja: \"No hubo amenazas\"",
+        "link": "https://www.lacapital.com.ar/policiales/el-abogado-matias-capozucca-rechazo-la-acusacion-su-expareja-no-hubo-amenazas-n10283807.html",
+        "image": "https://media.lacapital.com.ar/p/d64237a7b1ba2acb7b163441a0424ede/adjuntos/203/imagenes/103/434/0103434362/matias-capozucca.jpg",
+        "summary": "Carlos Varela confirmó que su cliente recibirá una tobillera dual para salir en libertad luego de la denuncia sobre violencia de género",
+        "pubDate": "2026-09-29T18:06:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Ataque de un perro a gansos en el Laguito: \"No es la primera vez que ocurre\"",
+        "link": "https://www.lacapital.com.ar/la-ciudad/ataque-un-perro-gansos-el-laguito-no-es-la-primera-vez-que-ocurre-n10283829.html",
+        "image": "https://media.lacapital.com.ar/p/e75779dbea5c671dc5e2be0b0a9395fb/adjuntos/203/imagenes/103/434/0103434717/1200x675/smart/gansos-lago.jpg",
+        "summary": "Desde la Asociación Amigos del Parque Independencia advierten sobre la actitud desaprensiva de personas que llevan a sus mascotas sin correa",
+        "pubDate": "2026-09-29T18:06:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Hay dos nuevos radares en la ruta a la costa atlántica: dónde están y cuál es la velocidad máxima",
+        "link": "https://www.lacapital.com.ar/informacion-general/hay-dos-nuevos-radares-la-ruta-la-costa-atlantica-donde-estan-y-cual-es-la-velocidad-maxima-n10283784.html",
+        "image": "https://media.lacapital.com.ar/p/9775c57073daf5e8929850ecf1d97bf7/adjuntos/203/imagenes/103/434/0103434326/1200x675/smart/autovia-2-ruta-2-costa-atlantica-radares.png",
+        "summary": "Los nuevos dispositivos, colocados en la autovía 2, se suman a decenas de equipos que controlan a miles de autos, especialmente en vacaciones",
+        "pubDate": "2026-09-29T18:04:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Estafa a una anciana en V. G. Gálvez: engaños, transferencias y créditos por millones en tres años",
+        "link": "https://www.lacapital.com.ar/policiales/estafa-una-anciana-v-g-galvez-enganos-transferencias-y-creditos-millones-tres-anos-n10283872.html",
+        "image": "https://media.lacapital.com.ar/p/be88f211628ca0a3c0af4ea079b5eca8/adjuntos/203/imagenes/103/427/0103427064/1200x675/smart/estafa-una-anciana01.jpg",
+        "summary": "Quedó presa la pareja acusada de aprovecharse de la confianza de la mujer para controlar sus bienes, cobrar ingresos, sacar créditos y realizas transferencias",
+        "pubDate": "2026-09-29T18:04:00+00:00",
         "approxTime": false
       },
       {
@@ -154,6 +181,15 @@
         "link": "https://www.lacapital.com.ar/informacion-general/pami-ofrece-ayuda-pagar-cuidadores-domiciliarios-como-solicitarla-n10283845.html",
         "image": "https://media.lacapital.com.ar/p/6784cff9781eb914ae705cc2f47e4f3f/adjuntos/203/imagenes/102/759/0102759533/1200x675/smart/cuidador-jubilados.png",
         "summary": "Los afiliados de Pami pueden acceder a un aporte económico destinado a cubrir parcialmente los costos de un cuidador domiciliario.",
+        "pubDate": "2026-09-29T17:41:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La selección argentina enfrenta a Bolivia: hora, canal y posibles formaciones del amistoso",
+        "link": "https://www.lacapital.com.ar/ovacion/la-seleccion-argentina-enfrenta-bolivia-hora-canal-y-posibles-formaciones-del-amistoso-n10283803.html",
+        "image": "https://media.lacapital.com.ar/p/2022b1bedade832eb4d56f36ba6000f2/adjuntos/203/imagenes/103/275/0103275916/scaloni-argentina.JPG",
+        "summary": "El equipo de Lionel Scaloni volverá a jugar tras el Mundial 2026 y lo hará en Córdoba sin la presencia de Messi. Detalles y estadísticas del partido",
         "pubDate": "2026-09-29T17:41:00+00:00",
         "approxTime": false
       },
@@ -177,19 +213,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Anmat prohibió los productos de limpieza de una marca",
-        "link": "https://www.lacapital.com.ar/informacion-general/anmat-prohibio-los-productos-limpieza-una-marca-n10283854.html",
-        "image": "https://media.lacapital.com.ar/p/2dac72a55c3ba7e6bdd4399f0419d728/adjuntos/203/imagenes/102/360/0102360480/productos-limpiezapng.png",
-        "summary": "Los artículos se comercializaban sin registros sanitarios a través de plataformas de venta electrónica",
+        "title": "Anses habilitó el reconocimiento facial para recuperar la Clave de Seguridad Social",
+        "link": "https://www.lacapital.com.ar/informacion-general/anses-habilito-el-reconocimiento-facial-recuperar-la-clave-seguridad-social-n10283860.html",
+        "image": "https://media.lacapital.com.ar/p/44e7b468f4b814c4131593bf77c85038/adjuntos/203/imagenes/101/297/0101297570/1200x675/smart/image-2023-12-29t092450202jpg.jpg",
+        "summary": "Esta función, disponible en la app, permite crear o recuperar la contraseña de forma rápida y segura. Cómo funciona",
         "pubDate": "2026-09-29T16:57:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Anses habilitó el reconocimiento facial para recuperar la Clave de Seguridad Social",
-        "link": "https://www.lacapital.com.ar/informacion-general/anses-habilito-el-reconocimiento-facial-recuperar-la-clave-seguridad-social-n10283860.html",
-        "image": "https://media.lacapital.com.ar/p/44e7b468f4b814c4131593bf77c85038/adjuntos/203/imagenes/101/297/0101297570/1200x675/smart/image-2023-12-29t092450202jpg.jpg",
-        "summary": "Esta función, disponible en la app, permite crear o recuperar la contraseña de forma rápida y segura. Cómo funciona",
+        "title": "Anmat prohibió los productos de limpieza de una marca",
+        "link": "https://www.lacapital.com.ar/informacion-general/anmat-prohibio-los-productos-limpieza-una-marca-n10283854.html",
+        "image": "https://media.lacapital.com.ar/p/2dac72a55c3ba7e6bdd4399f0419d728/adjuntos/203/imagenes/102/360/0102360480/productos-limpiezapng.png",
+        "summary": "Los artículos se comercializaban sin registros sanitarios a través de plataformas de venta electrónica",
         "pubDate": "2026-09-29T16:57:00+00:00",
         "approxTime": false
       },
@@ -236,42 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/166075b0e625dd4352fa0a95790142b7/adjuntos/203/imagenes/103/434/0103434672/1200x675/smart/vgg-refacciones.jpeg",
         "summary": "Los aportes provendrán del fondo de Salud, Seguridad y Educación para efectuar tareas de impermeabilización, cambios de aberturas y trabajos de pintura, entre otros",
         "pubDate": "2026-09-29T15:17:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Reconversión de la costanera norte: demuelen el bar Paradiso para sumar más playa pública",
-        "link": "https://www.lacapital.com.ar/la-ciudad/reconversion-la-costanera-norte-demuelen-el-bar-paradiso-sumar-mas-playa-publica-n10283763.html",
-        "image": "https://media.lacapital.com.ar/p/90b9a1a5a0583a159a24158fd0dde530/adjuntos/203/imagenes/103/434/0103434297/1200x675/smart/costanera-norte.png",
-        "summary": "La intervención sobre el histórico bar permitirá recuperar 3.450 metros cuadrados para uso público. También avanza la obra del Conducto Piaggio",
-        "pubDate": "2026-09-29T14:32:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Primavera sin alergia: crean un mapa que muestra dónde están todos los plátanos en Buenos Aires",
-        "link": "https://www.lacapital.com.ar/informacion-general/primavera-alergia-crean-un-mapa-que-muestra-donde-estan-todos-los-platanos-buenos-aires-n10283788.html",
-        "image": "https://media.lacapital.com.ar/p/25fee3ba2ceba1bb1b7d895f108a18b1/adjuntos/203/imagenes/102/744/0102744080/1200x675/smart/platano.jpg",
-        "summary": "La herramienta es interactiva y tiene tres niveles para magnificar la cantidad de ejemplares de esta especie que hay por cuadra",
-        "pubDate": "2026-09-29T14:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Con un video de IA en la Torre Eiffel, Milei anunció viaje a París: ¿quiénes suben al avión?",
-        "link": "https://www.lacapital.com.ar/politica/con-un-video-ia-la-torre-eiffel-milei-anuncio-viaje-paris-quienes-suben-al-avion-n10283816.html",
-        "image": "https://media.lacapital.com.ar/p/2701760868c1aa353a5b8e9c065f2c79/adjuntos/203/imagenes/103/414/0103414983/2026-09-20-milei.jpg",
-        "summary": "El presidente emprende su viaje a Francia para participar de la misión comercial y mantener una reunión bilateral con Emmanuel Macron",
-        "pubDate": "2026-09-29T14:29:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Las hermanas Marull vuelven a Rosario con su aclamada obra \"Lo que el río hace\"",
-        "link": "https://www.lacapital.com.ar/zoom/las-hermanas-marull-vuelven-rosario-su-aclamada-obra-lo-que-el-rio-hace-n10283820.html",
-        "image": "https://media.lacapital.com.ar/p/73b044d48ae495ac93e025f4c5a30aa3/adjuntos/203/imagenes/102/979/0102979155/1200x675/smart/image-2026-02-13t161351523.jpg",
-        "summary": "Después de una exitosa visita a comienzos de año, la dupla de gemelas regresa a la ciudad y se presenta el 2, 3 y 4 de octubre en el Teatro La Comedia",
-        "pubDate": "2026-09-29T14:29:00+00:00",
         "approxTime": false
       }
     ]
