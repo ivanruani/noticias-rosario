@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T19:01:20.160354+00:00",
+  "generatedAt": "2026-09-29T19:31:02.453611+00:00",
   "sites": {
     "rosario3": [
       {
@@ -85,11 +85,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Diego Fischerman: “La ventaja de los amigos sobre los algoritmos es que te recomiendan canciones desde sus elecciones, no a partir de las tuyas”",
-        "link": "https://www.rosario3.com/ocio/diego-fisherman-la-ventaja-de-los-amigos-sobre-los-algoritmos-es-que-te-recomiendan-canciones-desde-sus-elecciones-no-a-partir-de-las-tuyas-20260928-0038.html",
-        "image": "https://www.rosario3.com/__export/1790611662580/sites/rosario3/img/2026/07/15/fisherman.jpg_54252853.jpg",
-        "summary": "El periodista y crítico musical publicó el último julio Hoy desperté cantando esta canción. Canciones populares de una historia argentina, un libro ensayo playlist que recopila más de 80 composiciones de distintos géneros de tradición popular. En este “mosaico” cronológico, que…",
-        "pubDate": "2026-09-28T11:51:00+00:00",
+        "title": "Postales de primavera: el estallido rosa de los lapachos en el Parque Sunchales",
+        "link": "https://www.rosario3.com/informaciongeneral/postales-de-primavera-el-estallido-rosa-de-los-lapachos-en-el-parque-sunchales-20260929-0041.html",
+        "image": "https://www.rosario3.com/__export/1790698638629/sites/rosario3/img/2026/09/29/lapachos_parque_sunchales_-3-.jpeg_982625323.jpeg",
+        "summary": "A orillas del Paraná, la floración de los ejemplares viste de gala la costa rosarina. El espectáculo natural regala una postal única que combina el césped tapizado de pétalos con la imponente silueta urbana de Puerto Norte",
+        "pubDate": "2026-09-29T11:51:00+00:00",
         "approxTime": true
       },
       {
@@ -103,11 +103,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Día Internacional de la Concientización por el Desperdicio de Alimentos: cuánto se tira en Argentina y qué hacer para evitarlo",
+        "link": "https://www.rosario3.com/informaciongeneral/dia-internacional-de-la-concientizacion-por-el-desperdicio-de-alimentos-cuanto-se-tira-en-argentina-y-que-hacer-para-evitarlo-20260929-0049.html",
+        "image": "https://www.rosario3.com/__export/1790702669853/sites/rosario3/img/2026/09/29/alimentos.png_786111822.png",
+        "summary": "La ONU estableció el 29 de septiembre como una jornada para concientizar sobre esta problemática. En el mundo se desperdician unos 1.300 millones de toneladas de alimentos cada año",
+        "pubDate": "2026-09-29T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Se complica la situación judicial de Callejero Fino: pidieron prisión preventiva por peligro de fuga",
         "link": "https://www.rosario3.com/informaciongeneral/se-complica-la-situacion-judicial-de-callejero-fino-pidieron-prision-preventiva-por-peligro-de-fuga-20260929-0040.html",
         "image": "https://www.rosario3.com/__export/1790697884702/sites/rosario3/img/2026/09/29/callejero_fino.png_786111822.png",
         "summary": "El fiscal Cosme Iribarren solicitó que el cantante sea procesado con prisión preventiva en la causa por la portación ilegal de un arma de guerra, tras considerar que existe riesgo de fuga",
-        "pubDate": "2026-09-29T11:49:00+00:00",
+        "pubDate": "2026-09-29T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +125,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/anmat-prohibio-todos-los-productos-de-una-marca-de-limpieza-que-se-venden-por-internet-20260929-0024.html",
         "image": "https://www.rosario3.com/__export/1790689916805/sites/rosario3/img/2026/09/29/quimica_anmat.png_928314580.png",
         "summary": "La medida alcanza a limpiadores, desinfectantes y otros productos domisanitarios de B&T Química. El organismo detectó que eran comercializados sin registro sanitario y dispuso el cese de su uso, venta, publicidad y distribución en todo el país",
-        "pubDate": "2026-09-29T11:48:00+00:00",
+        "pubDate": "2026-09-29T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,20 +134,20 @@
         "link": "https://www.rosario3.com/policiales/volvio-a-su-casa-despues-de-dos-semanas-y-encontro-a-dos-usurpadores-en-su-cama-20260929-0027.html",
         "image": "https://www.rosario3.com/__export/1787674357106/sites/rosario3/img/2025/01/01/policia_patrullero.jpg_1825222445.jpg",
         "summary": "La denuncia fue realizada este lunes por la noche en Pasaje Carre al 7700, en la zona noroeste. Los delincuentes fueron detenidos por el Comando Radioeléctrico",
-        "pubDate": "2026-09-29T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Encontraron muerto al senador riojano Juan Carlos Pagotto",
-        "link": "https://www.rosario3.com/informaciongeneral/encontraron-muerto-al-senador-riojano-juan-carlos-pagotto-20260929-0022.html",
-        "image": "https://www.rosario3.com/__export/1790689063087/sites/rosario3/img/2026/09/29/juancarlospagottook_1790290223_3993566159560801372_63878386560.jpg_928314580.jpg",
-        "summary": "El legislador nacional de La Libertad Avanza fue hallado sin vida este martes en su domicilio de la ciudad de La Rioja. La Justicia y la Policía trabajan en el lugar para determinar las circunstancias del fallecimiento",
         "pubDate": "2026-09-29T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "La morosidad frenó la suba de los alquileres en Rosario: qué valor tiene un monoambiente",
+        "link": "https://www.lacapital.com.ar/economia/la-morosidad-freno-la-suba-los-alquileres-rosario-que-valor-tiene-un-monoambiente-n10283874.html",
+        "image": "https://media.lacapital.com.ar/p/41976305e1134c0ce5e47e1269f879cb/adjuntos/203/imagenes/101/097/0101097289/1200x675/2271x1002:2291x1022/alquilerespng.png",
+        "summary": "El precio se mantuvo sin cambios por tercer mes consecutivo. Para un jubilado, el costo de una unidad de un ambiente ya representa más del 76% de sus ingresos, sin contar expensas ni servicios.",
+        "pubDate": "2026-09-29T19:00:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "El 7 de octubre llega el Día de la Virgen del Rosario: cómo funcionarán los servicios",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/923eaf9514b8a02fa7cf4ddb9895da26/adjuntos/203/imagenes/103/346/0103346880/1200x675/smart/image-6.jpg",
         "summary": "Luego de su choque y su primer abandono de la temporada, el argentino mostró buenas sensaciones antes de la carrera de este fin de semana",
         "pubDate": "2026-09-29T17:03:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La Justicia ordenó la internación de Pity Álvarez durante 90 días tras su intento de fuga",
-        "link": "https://www.lacapital.com.ar/zoom/la-justicia-ordeno-la-internacion-pity-alvarez-90-dias-su-intento-fuga-n10283857.html",
-        "image": "https://media.lacapital.com.ar/p/725bc9f7a7ea234b6b021df6d5c0cb64/adjuntos/203/imagenes/103/434/0103434855/1200x675/smart/image-2026-09-29t131003689.png",
-        "summary": "El músico permanece internado en el Hospital Tornú tras una crisis psiquiátrica. La medida contempla controles médicos mensuales y puede extenderse",
-        "pubDate": "2026-09-29T17:02:00+00:00",
         "approxTime": false
       }
     ]
