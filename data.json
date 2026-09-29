@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T03:01:17.605007+00:00",
+  "generatedAt": "2026-09-29T03:31:01.347225+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "La Mutual de AMR cumple 38 años y está feliz de brindar",
+        "link": "https://www.lacapital.com.ar/novedades/la-mutual-amr-cumple-38-anos-y-esta-feliz-brindar-n10283706.html",
+        "image": "https://media.lacapital.com.ar/p/54f4c2f3447dc6cad4dbc82b9bb9b1a3/adjuntos/203/imagenes/103/433/0103433377/1200x675/smart/lamutualdeamr03.jpg",
+        "summary": "La Capital",
+        "pubDate": "2026-09-29T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El tiempo en Rosario: el martes también arranca con alerta amarillo por tormentas",
         "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-el-martes-tambien-arranca-alerta-amarillo-tormentas-n10283750.html",
         "image": "https://media.lacapital.com.ar/p/a07c96fcf25ff6e13d2996b1db290ea3/adjuntos/203/imagenes/103/433/0103433824/2026-09-28-clima-by_cmutti-78137305.jpg",
@@ -204,15 +213,6 @@
       },
       {
         "source": "La Capital",
-        "title": "Newell's publicó las cifras globales del último mercado de pases",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-publico-las-cifras-globales-del-ultimo-mercado-pases-n10283718.html",
-        "image": "https://media.lacapital.com.ar/p/134f9896c7c8e7f88fce1fc0ba73f687/adjuntos/203/imagenes/103/433/0103433538/1200x675/smart/image-41.png",
-        "summary": "La entidad del Parque subió a su web los montos totales de los altas y bajas del plantel para la segunda mitad de la temporada",
-        "pubDate": "2026-09-28T22:27:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "Cómo preparar chocolate caliente",
         "link": "https://www.lacapital.com.ar/informacion-general/como-preparar-chocolate-caliente-n10283722.html",
         "image": "https://media.lacapital.com.ar/p/325b568f1b36a115f8ae248f5ce71fd9/adjuntos/203/imagenes/103/433/0103433537/1200x675/smart/image-10.png",
@@ -222,10 +222,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Otra mujer asesinada en Sudáfrica: cada vez más indicios conducen a un asesino en serie",
-        "link": "https://www.lacapital.com.ar/informacion-general/otra-mujer-asesinada-sudafrica-cada-vez-mas-indicios-conducen-un-asesino-serie-n10283715.html",
-        "image": "https://media.lacapital.com.ar/p/800c95ad39a8655d3778a029bfe93be5/adjuntos/203/imagenes/103/433/0103433504/2026-09-28-crimen-johannesburgo-sudafrica.jpg",
-        "summary": "En Johannesburgo hubo once crímenes de similares características desde julio, de los cuales ocho cuerpos fueron hallados durante este mes",
+        "title": "Newell's publicó las cifras globales del último mercado de pases",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-publico-las-cifras-globales-del-ultimo-mercado-pases-n10283718.html",
+        "image": "https://media.lacapital.com.ar/p/134f9896c7c8e7f88fce1fc0ba73f687/adjuntos/203/imagenes/103/433/0103433538/1200x675/smart/image-41.png",
+        "summary": "La entidad del Parque subió a su web los montos totales de los altas y bajas del plantel para la segunda mitad de la temporada",
+        "pubDate": "2026-09-28T22:27:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Mercados: el riesgo país escaló a 642 puntos y alcanzó su nivel más alto del año",
+        "link": "https://www.lacapital.com.ar/economia/mercados-el-riesgo-pais-escalo-642-puntos-y-alcanzo-su-nivel-mas-alto-del-ano-n10283721.html",
+        "image": "https://media.lacapital.com.ar/p/d12d6d155dec7b87af7f0ef3ca7e9050/adjuntos/203/imagenes/100/491/0100491421/1200x675/smart/78410006jpg.jpg",
+        "summary": "Los bonos soberanos retrocedieron un 1,8% promedio y el dólar oficial cotizó a un récord de $1.550 en el Banco Nación",
         "pubDate": "2026-09-28T22:26:00+00:00",
         "approxTime": false
       },
@@ -240,10 +249,10 @@
       },
       {
         "source": "La Capital",
-        "title": "Mercados: el riesgo país escaló a 642 puntos y alcanzó su nivel más alto del año",
-        "link": "https://www.lacapital.com.ar/economia/mercados-el-riesgo-pais-escalo-642-puntos-y-alcanzo-su-nivel-mas-alto-del-ano-n10283721.html",
-        "image": "https://media.lacapital.com.ar/p/d12d6d155dec7b87af7f0ef3ca7e9050/adjuntos/203/imagenes/100/491/0100491421/1200x675/smart/78410006jpg.jpg",
-        "summary": "Los bonos soberanos retrocedieron un 1,8% promedio y el dólar oficial cotizó a un récord de $1.550 en el Banco Nación",
+        "title": "Otra mujer asesinada en Sudáfrica: cada vez más indicios conducen a un asesino en serie",
+        "link": "https://www.lacapital.com.ar/informacion-general/otra-mujer-asesinada-sudafrica-cada-vez-mas-indicios-conducen-un-asesino-serie-n10283715.html",
+        "image": "https://media.lacapital.com.ar/p/800c95ad39a8655d3778a029bfe93be5/adjuntos/203/imagenes/103/433/0103433504/2026-09-28-crimen-johannesburgo-sudafrica.jpg",
+        "summary": "En Johannesburgo hubo once crímenes de similares características desde julio, de los cuales ocho cuerpos fueron hallados durante este mes",
         "pubDate": "2026-09-28T22:26:00+00:00",
         "approxTime": false
       },
@@ -254,15 +263,6 @@
         "image": "https://media.lacapital.com.ar/p/c927c8e9506aa554f96b44430b8b0039/adjuntos/203/imagenes/103/433/0103433447/1200x675/smart/mileyo.jpeg",
         "summary": "Además, el presidente Javier Milei instruyó a Cancillería que intime al Reino Unido para frenar en un plazo de dos semanas las operaciones de hidrocarburos en el proyecto Sea Lion,",
         "pubDate": "2026-09-28T22:01:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La morosidad alcanzó niveles que no se veían desde la crisis de 2001",
-        "link": "https://www.lacapital.com.ar/economia/la-morosidad-alcanzo-niveles-que-no-se-veian-la-crisis-2001-n10283707.html",
-        "image": "https://media.lacapital.com.ar/p/e10cf7a4afc046cb66ae06632e25ccd9/adjuntos/203/imagenes/101/716/0101716347/1200x675/smart/endeudado-billetera-deuda-pagosjpg.jpg",
-        "summary": "Los créditos irregulares treparon al 13% en el sistema financiero y al 33,9% entre proveedores no financieros, detalló un informe del Cepa",
-        "pubDate": "2026-09-28T21:47:00+00:00",
         "approxTime": false
       },
       {
