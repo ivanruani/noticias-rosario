@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-09-30T02:01:14.307211+00:00",
+  "generatedAt": "2026-09-30T02:31:05.605595+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Pullaro cuestionó la quita del beneficio en la tarifa de gas: \"Hay que sacar subsidios a los ricos, no por zona\"",
+        "link": "https://www.rosario3.com/informaciongeneral/pullaro-cuestiono-la-quita-del-beneficio-en-la-tarifa-de-gas-hay-que-sacar-subsidios-a-los-ricos-no-por-zona-20260929-0078.html",
+        "image": "https://www.rosario3.com/__export/1790716197998/sites/rosario3/img/2026/09/29/pullaro.jpg_1825222445.jpg",
+        "summary": "El gobernador advirtió que el cambio tendrá impacto en cerca de 500 mil usuarios santafesinos y anticipó que la Provincia asistirá a quienes deban reinscribirse para mantener el beneficio. “La gente no está llegando a fin de mes”, remarcó",
+        "pubDate": "2026-09-29T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Central desató un gran festejo en el Monumento: miles de hinchas se reunieron para saludar al plantel campeón",
         "link": "https://www.rosario3.com/deportes/se-postergo-el-festejo-de-central-en-el-monumento-cuando-y-a-que-hora-seran-las-celebraciones-con-el-plantel-20260928-0001.html",
         "image": "https://www.rosario3.com/__export/1790723243886/sites/rosario3/img/2026/09/29/colectivo.jpg_928314580.jpg",
         "summary": "La Supercopa Internacional estuvo rodeada de una multitud auriazul, quienes festejaron junto a los jugadores.",
-        "pubDate": "2026-09-28T12:00:00+00:00",
+        "pubDate": "2026-09-28T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/policiales/incidentes-en-el-coloso-piedrazos-balas-de-goma-y-13-demorados-20260929-0086.html",
         "image": "https://www.rosario3.com/__export/1790732869793/sites/rosario3/img/2026/09/29/coloso.jpg_1825222445.jpg",
         "summary": "Un grupo de hinchas de Newell's atacó vehículos de simpatizantes de Central que regresaban de los festejos en el Monumento. La Policía intervino y el enfrentamiento se trasladó al interior del estadio",
-        "pubDate": "2026-09-29T11:59:00+00:00",
+        "pubDate": "2026-09-29T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/explotaron-tanques-de-metanol-en-una-planta-de-puerto-san-martin-y-hay-al-menos-un-operario-muerto-20260929-0063.html",
         "image": "https://www.rosario3.com/__export/1790710709131/sites/rosario3/img/2026/09/29/explosion_puerto_san_martin_-1-.jpg_506286608.jpg",
         "summary": "Ocurrió este martes cerca de las tres de la tarde en una empresa ubicada en la zona norte de esa ciudad del cordón industrial. Habrían explotado varios tanques de metanol por razones que se investigan. Dos heridos fueron trasladados a Rosario en helicóptero y otros dos a…",
-        "pubDate": "2026-09-29T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El comunicado de la empresa tras la explosión fatal en Puerto San Martín: \"Se realiza una investigación exhaustiva\"",
-        "link": "https://www.rosario3.com/informaciongeneral/el-comunicado-de-la-empresa-tras-la-explosion-fatal-en-puerto-san-martin-20260929-0073.html",
-        "image": "https://www.rosario3.com/__export/1790715014490/sites/rosario3/img/2026/09/29/explosion_puerto.jpg_506286608.jpg",
-        "summary": "La firma explicó que el incidente se registró cuando un equipo externo realizaba labores de mantenimiento en las instalaciones de la planta que derivaron en la explosión de tanques de metanol. Las razones continúan bajo investigación, al tiempo que se activaron las medidas de…",
         "pubDate": "2026-09-29T11:57:00+00:00",
         "approxTime": true
       },
@@ -49,19 +49,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "Escándalo en un pueblo bonaerense en el que usaron un balde de glifosato para cocinar chorizos a la pomarola",
-        "link": "https://www.rosario3.com/informaciongeneral/escandalo-en-un-pueblo-bonaerense-en-el-que-usaron-un-balde-de-glifosato-para-cocinar-chorizos-a-la-pomarola-20260929-0083.html",
-        "image": "https://www.rosario3.com/__export/1790724806848/sites/rosario3/img/2026/09/29/chorizos.jpg_982625323.jpg",
-        "summary": "La situación se registró en La Colina, localidad del municipio de General La Madrid que recientemente festejó los 115 años desde su fundación. Tras la viralización de un video en el que se ve un cocinero usando un recipiente con la palabra “GILF” para arrojar embutidos en un…",
+        "title": "El comunicado de la empresa tras la explosión fatal en Puerto San Martín: \"Se realiza una investigación exhaustiva\"",
+        "link": "https://www.rosario3.com/informaciongeneral/el-comunicado-de-la-empresa-tras-la-explosion-fatal-en-puerto-san-martin-20260929-0073.html",
+        "image": "https://www.rosario3.com/__export/1790715014490/sites/rosario3/img/2026/09/29/explosion_puerto.jpg_506286608.jpg",
+        "summary": "La firma explicó que el incidente se registró cuando un equipo externo realizaba labores de mantenimiento en las instalaciones de la planta que derivaron en la explosión de tanques de metanol. Las razones continúan bajo investigación, al tiempo que se activaron las medidas de…",
         "pubDate": "2026-09-29T11:55:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Un estudio midió la asociación entre el uso excesivo de pantallas y el deterioro del aprendizaje y las habilidades lingüísticas de los niños",
-        "link": "https://www.rosario3.com/informaciongeneral/un-estudio-midio-la-asociacion-entre-el-uso-excesivo-de-pantallas-y-el-deterioro-del-aprendizaje-y-las-habilidades-linguisticas-de-los-ninos-20260929-0081.html",
-        "image": "https://www.rosario3.com/__export/1790721767280/sites/rosario3/img/2026/09/29/pantalla1.jpg_982625323.jpg",
-        "summary": "Los investigadores analizaron datos de más de 2,8 millones de niños en 64 países y concluyeron que una elevada exposición a las pantallas se asocia con un deterioro del rendimiento académico y con problemas emocionales. Sin embargo, algunos especialistas plantearon ciertos…",
+        "title": "Escándalo en un pueblo bonaerense en el que usaron un balde de glifosato para cocinar chorizos a la pomarola",
+        "link": "https://www.rosario3.com/informaciongeneral/escandalo-en-un-pueblo-bonaerense-en-el-que-usaron-un-balde-de-glifosato-para-cocinar-chorizos-a-la-pomarola-20260929-0083.html",
+        "image": "https://www.rosario3.com/__export/1790724806848/sites/rosario3/img/2026/09/29/chorizos.jpg_982625323.jpg",
+        "summary": "La situación se registró en La Colina, localidad del municipio de General La Madrid que recientemente festejó los 115 años desde su fundación. Tras la viralización de un video en el que se ve un cocinero usando un recipiente con la palabra “GILF” para arrojar embutidos en un…",
         "pubDate": "2026-09-29T11:54:00+00:00",
         "approxTime": true
       },
@@ -85,10 +85,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Piden intimación a IRSA por el museo ferroviario prometido en 2004 y nunca realizado en el Alto Rosario",
-        "link": "https://www.rosario3.com/informaciongeneral/piden-intimacion-a-irsa-por-el-museo-ferroviario-prometido-en-2004-y-nunca-realizado-en-el-alto-rosario-20260929-0042.html",
-        "image": "https://www.rosario3.com/__export/1790698616784/sites/rosario3/img/2026/09/29/461610391_1081863110612667_8549077165076199018_n.jpg_2106848869.jpg",
-        "summary": "La concejala Fernanda Gigliani presentó un proyecto en el Concejo para que el Ejecutivo municipal exija a la empresa la creación del Museo del Ferrocarril en el predio del shopping. También pidió relevar el estado de los trenes y vagones que permanecen allí y avanzar con medidas…",
+        "title": "Un estudio midió la asociación entre el uso excesivo de pantallas y el deterioro del aprendizaje y las habilidades lingüísticas de los niños",
+        "link": "https://www.rosario3.com/informaciongeneral/un-estudio-midio-la-asociacion-entre-el-uso-excesivo-de-pantallas-y-el-deterioro-del-aprendizaje-y-las-habilidades-linguisticas-de-los-ninos-20260929-0081.html",
+        "image": "https://www.rosario3.com/__export/1790721767280/sites/rosario3/img/2026/09/29/pantalla1.jpg_982625323.jpg",
+        "summary": "Los investigadores analizaron datos de más de 2,8 millones de niños en 64 países y concluyeron que una elevada exposición a las pantallas se asocia con un deterioro del rendimiento académico y con problemas emocionales. Sin embargo, algunos especialistas plantearon ciertos…",
         "pubDate": "2026-09-29T11:51:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Pasó 41 años en el corredor de la muerte y quedó libre por una prueba de ADN",
+        "link": "https://www.lacapital.com.ar/informacion-general/paso-41-anos-el-corredor-la-muerte-y-quedo-libre-una-prueba-adn-n10283970.html",
+        "image": "https://media.lacapital.com.ar/p/99d6a08c19c2e243dcb2cd720141b10f/adjuntos/203/imagenes/103/436/0103436038/2026-09-29-carter-crimen-liberado.jpg",
+        "summary": "Fue encarcelado por un asesinato de 1985. Tras varias irregularidades, se celebró un nuevo juicio y se determinó su inocencia",
+        "pubDate": "2026-09-30T02:06:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Tennessee ejecutará a una mujer por primera vez en más de 200 años",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/fd5fae248500b09dd932af54c42af995/adjuntos/203/imagenes/103/435/0103435496/0o.jpeg",
         "summary": "El defensor canalla fue informado por Darío Herrera como el responsable de la gresca generalizada que se armó al final de la Supercopa Internacional",
         "pubDate": "2026-09-29T22:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central campeón y final caliente: el lapidario informe del árbitro que complica a Verón tras la Supercopa",
-        "link": "https://www.lacapital.com.ar/ovacion/central-campeon-y-final-caliente-el-lapidario-informe-del-arbitro-que-complica-veron-la-supercopa-n10283931.html",
-        "image": "https://media.lacapital.com.ar/p/e6f44404159c1f3e7f6db1e620d18c07/adjuntos/203/imagenes/103/435/0103435407/1200x675/smart/imageveron.jpg",
-        "summary": "Darío Herrera dejó asentados insultos y amenazas del presidente de Estudiantes contra el equipo arbitral, entre ellas la frase “hay que matarlos a todos”. Además, informó que Sández fue expulsado por conducta violenta y lo señaló como quien inició el tumulto final.",
-        "pubDate": "2026-09-29T21:34:00+00:00",
         "approxTime": false
       }
     ]
