@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T09:31:05.534842+00:00",
+  "generatedAt": "2026-09-30T10:01:15.805006+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Ahyre vuelve a Rosario para presentar su nuevo disco, \"Faro\"",
+        "link": "https://www.lacapital.com.ar/zoom/ahyre-vuelve-rosario-presentar-su-nuevo-disco-faro-n10283861.html",
+        "image": "https://media.lacapital.com.ar/p/4cb0aaaee15e93bc3a7e8ea96a31433e/adjuntos/203/imagenes/103/434/0103434903/1200x675/smart/image-2026-09-29t145304510.jpg",
+        "summary": "El cuarteto salteño, uno de los grupos más populares del folklore contemporáneo, trae sus nuevas canciones al Teatro El Círculo",
+        "pubDate": "2026-09-30T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La escuela agrotécnica donde los alumnos crían toros campeones",
+        "link": "https://www.lacapital.com.ar/agro/la-escuela-agrotecnica-donde-los-alumnos-crian-toros-campeones-n10283866.html",
+        "image": "https://media.lacapital.com.ar/p/189facf06c160db457614c82f47d9464/adjuntos/203/imagenes/103/434/0103434901/1200x675/861x569:881x589/escuela-agrotecnica-toros-campeones.jpeg",
+        "summary": "La cabaña de la Escuela Agrotécnica de Pergamino se llevó todos los premios de toros Polled Hereford en las exposiciones ganaderas de Junín, Chivilcoy y Pergamino. Detrás de esos logros está el trabajo de selección y cría que realizan estudiantes y docentes",
+        "pubDate": "2026-09-30T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Proponen un programa para apoyar a deportistas y entrenadores de alto rendimiento de Rosario",
         "link": "https://www.lacapital.com.ar/la-ciudad/proponen-un-programa-apoyar-deportistas-y-entrenadores-alto-rendimiento-rosario-n10283885.html",
         "image": "https://media.lacapital.com.ar/p/19a004dc36cbf1077c2f2d60cbf6744e/adjuntos/203/imagenes/103/413/0103413321/1200x675/smart/ivo-dargoltz.jpg",
@@ -154,15 +172,6 @@
         "link": "https://www.lacapital.com.ar/ovacion/newells-lanus-podra-volver-conformar-su-zaga-ideal-n10283953.html",
         "image": "https://media.lacapital.com.ar/p/1add39adeeca97e5a3cbb07aec71a8ef/adjuntos/203/imagenes/103/435/0103435754/nob-carr-588369.jpg",
         "summary": "Para el choque de este sábado el DT de Newell's podrá disponer de Lucas Carrizo, quien salió antes frente a Platense por una molestia muscular",
-        "pubDate": "2026-09-30T09:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La escuela agrotécnica donde los alumnos crían toros campeones",
-        "link": "https://www.lacapital.com.ar/agro/la-escuela-agrotecnica-donde-los-alumnos-crian-toros-campeones-n10283866.html",
-        "image": "https://media.lacapital.com.ar/p/189facf06c160db457614c82f47d9464/adjuntos/203/imagenes/103/434/0103434901/1200x675/861x569:881x589/escuela-agrotecnica-toros-campeones.jpeg",
-        "summary": "La cabaña de la Escuela Agrotécnica de Pergamino se llevó todos los premios de toros Polled Hereford en las exposiciones ganaderas de Junín, Chivilcoy y Pergamino. Detrás de esos logros está el trabajo de selección y cría que realizan estudiantes y docentes",
         "pubDate": "2026-09-30T09:15:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/370811958bed66a1dba67064f1ec25cc/adjuntos/203/imagenes/103/435/0103435872/2026-09-29-giuliano.jpg",
         "summary": "En Casilda, Arequito y Chabás, el diputado Nacional presentó “La Santa Fe que viene” y dialogó con trabajadores, docentes, empresarios y autoridades locales.",
         "pubDate": "2026-09-30T00:23:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Newell's: los pibes de la reserva quieren aprovechar el envión del clásico",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-los-pibes-la-reserva-quieren-aprovechar-el-envion-del-clasico-n10283957.html",
-        "image": "https://media.lacapital.com.ar/p/a222e5fbd8c76a314a260b3e1cd236b1/adjuntos/203/imagenes/103/435/0103435826/nob-res-82703094.jpg",
-        "summary": "Después de golear a Central la fecha anterior, Newell's se mide este miércoles a las 19 con Central Córdoba, en Santiago del Estero",
-        "pubDate": "2026-09-30T00:12:00+00:00",
         "approxTime": false
       }
     ]
