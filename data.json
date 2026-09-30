@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T02:31:05.605595+00:00",
+  "generatedAt": "2026-09-30T03:01:17.283895+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El tiempo en Rosario: el miércoles seguirá templado pero podría cerrar con lluvia",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-el-miercoles-seguira-templado-pero-podria-cerrar-lluvia-n10283972.html",
+        "image": "https://media.lacapital.com.ar/p/16837bcd9dad4352cd1fe6dc20e15f5f/adjuntos/203/imagenes/103/436/0103436081/2026-09-29-clima-by_vbenedetto-78816533.jpg",
+        "summary": "La máxima llegaría a 23º y se mantendría en esos niveles durante la semana, pese a algunas posibilidades de precipitaciones",
+        "pubDate": "2026-09-30T02:52:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Hinchas de Central festejaron cerca de la cancha de Newell's y hubo incidentes",
+        "link": "https://www.lacapital.com.ar/policiales/hinchas-central-festejaron-cerca-la-cancha-newells-y-hubo-incidentes-n10283971.html",
+        "image": "https://media.lacapital.com.ar/p/b39e4106a64d64455d39069825c56ffb/adjuntos/203/imagenes/103/436/0103436060/2026-09-29-incidentes-newells.jpg",
+        "summary": "Personal policial dispersó con balas de goma e ingresó al club rojinegro, donde detuvo a varias personas",
+        "pubDate": "2026-09-30T02:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Pasó 41 años en el corredor de la muerte y quedó libre por una prueba de ADN",
         "link": "https://www.lacapital.com.ar/informacion-general/paso-41-anos-el-corredor-la-muerte-y-quedo-libre-una-prueba-adn-n10283970.html",
         "image": "https://media.lacapital.com.ar/p/99d6a08c19c2e243dcb2cd720141b10f/adjuntos/203/imagenes/103/436/0103436038/2026-09-29-carter-crimen-liberado.jpg",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/4a53434df79d2ec5b3c59e87189efe80/adjuntos/203/imagenes/103/435/0103435572/2026-09-29-milei.jpg",
         "summary": "Antes de su viaje a París, el presidente argentino dijo que la oposición es igual a \"los hermanos Macana\", de \"Los autos locos'\"",
         "pubDate": "2026-09-29T23:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Argentina recibió otros seis cazas F-16 y ya tiene la mitad de la flota comprada a Dinamarca",
-        "link": "https://www.lacapital.com.ar/politica/argentina-recibio-otros-seis-cazas-f-16-y-ya-tiene-la-mitad-la-flota-comprada-dinamarca-n10283932.html",
-        "image": "https://media.lacapital.com.ar/p/702e323568256a1bcc26386d6bc1f82e/adjuntos/203/imagenes/103/435/0103435408/1200x675/smart/image-8.jpg",
-        "summary": "Los aviones aterrizaron este martes en Río Cuarto tras un vuelo con escalas en España y Brasil. Con este segundo lote, la Fuerza Aérea ya incorporó 12 de las 24 aeronaves adquiridas para renovar su capacidad de combate",
-        "pubDate": "2026-09-29T22:18:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central: el árbitro Darío Herrera acusó a Sández de iniciar el tumulto final con Estudiantes",
-        "link": "https://www.lacapital.com.ar/ovacion/central-el-arbitro-dario-herrera-acuso-sandez-iniciar-el-tumulto-final-estudiantes-n10283936.html",
-        "image": "https://media.lacapital.com.ar/p/fd5fae248500b09dd932af54c42af995/adjuntos/203/imagenes/103/435/0103435496/0o.jpeg",
-        "summary": "El defensor canalla fue informado por Darío Herrera como el responsable de la gresca generalizada que se armó al final de la Supercopa Internacional",
-        "pubDate": "2026-09-29T22:15:00+00:00",
         "approxTime": false
       }
     ]
