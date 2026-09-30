@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T01:31:07.788393+00:00",
+  "generatedAt": "2026-09-30T02:01:14.307211+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,11 +13,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Incidentes en el Coloso: piedrazos, balas de goma y 13 demorados",
+        "link": "https://www.rosario3.com/policiales/incidentes-en-el-coloso-piedrazos-balas-de-goma-y-13-demorados-20260929-0086.html",
+        "image": "https://www.rosario3.com/__export/1790732869793/sites/rosario3/img/2026/09/29/coloso.jpg_1825222445.jpg",
+        "summary": "Un grupo de hinchas de Newell's atacó vehículos de simpatizantes de Central que regresaban de los festejos en el Monumento. La Policía intervino y el enfrentamiento se trasladó al interior del estadio",
+        "pubDate": "2026-09-29T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Explotaron tanques de metanol en una planta de Puerto San Martín: dos operarios muertos y cuatro heridos",
         "link": "https://www.rosario3.com/informaciongeneral/explotaron-tanques-de-metanol-en-una-planta-de-puerto-san-martin-y-hay-al-menos-un-operario-muerto-20260929-0063.html",
         "image": "https://www.rosario3.com/__export/1790710709131/sites/rosario3/img/2026/09/29/explosion_puerto_san_martin_-1-.jpg_506286608.jpg",
         "summary": "Ocurrió este martes cerca de las tres de la tarde en una empresa ubicada en la zona norte de esa ciudad del cordón industrial. Habrían explotado varios tanques de metanol por razones que se investigan. Dos heridos fueron trasladados a Rosario en helicóptero y otros dos a…",
-        "pubDate": "2026-09-29T11:59:00+00:00",
+        "pubDate": "2026-09-29T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/el-comunicado-de-la-empresa-tras-la-explosion-fatal-en-puerto-san-martin-20260929-0073.html",
         "image": "https://www.rosario3.com/__export/1790715014490/sites/rosario3/img/2026/09/29/explosion_puerto.jpg_506286608.jpg",
         "summary": "La firma explicó que el incidente se registró cuando un equipo externo realizaba labores de mantenimiento en las instalaciones de la planta que derivaron en la explosión de tanques de metanol. Las razones continúan bajo investigación, al tiempo que se activaron las medidas de…",
-        "pubDate": "2026-09-29T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Padre de un concejal de Villa Gobernador Gálvez quedó preso por estafar a una anciana que internó en un geriátrico",
-        "link": "https://www.rosario3.com/policiales/padre-de-un-concejal-de-villa-gobernador-galvez-quedo-preso-por-estafar-a-una-anciana-que-interno-en-un-geriatrico-20260929-0054.html",
-        "image": "https://www.rosario3.com/__export/1790348424561/sites/rosario3/img/2026/09/25/pdi_vgg.jpg_928314580.jpg",
-        "summary": "Walter Ramírez (53) y su pareja Marilina Díaz (48) quedaron en prisión preventiva efectiva por cuatro meses. Habían sido allanados y detenidos la semana pasada tras la denuncia de la propia víctima",
         "pubDate": "2026-09-29T11:57:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Tennessee ejecutará a una mujer por primera vez en más de 200 años",
+        "link": "https://www.lacapital.com.ar/informacion-general/tennessee-ejecutara-una-mujer-primera-vez-mas-200-anos-n10283968.html",
+        "image": "https://media.lacapital.com.ar/p/1afdc222234f7ffaa5904da1ef187f0c/adjuntos/203/imagenes/103/435/0103435994/2026-09-29-mujer-ejecucion-tennessee.jpg",
+        "summary": "Christa Pike, de 50 años, recibirá este miércoles una inyección letal de pentobarbital por un brutal crimen que cometió en 1995",
+        "pubDate": "2026-09-30T01:43:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Básquet: el presidente de CAB visitó la Rosarina y mantuvo un encuentro con los clubes",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/e6f44404159c1f3e7f6db1e620d18c07/adjuntos/203/imagenes/103/435/0103435407/1200x675/smart/imageveron.jpg",
         "summary": "Darío Herrera dejó asentados insultos y amenazas del presidente de Estudiantes contra el equipo arbitral, entre ellas la frase “hay que matarlos a todos”. Además, informó que Sández fue expulsado por conducta violenta y lo señaló como quien inició el tumulto final.",
         "pubDate": "2026-09-29T21:34:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Federación Agraria reclamó políticas para los productores y defendió al Ipcva y al Inta",
-        "link": "https://www.lacapital.com.ar/agro/federacion-agraria-reclamo-politicas-los-productores-y-defendio-al-ipcva-y-al-inta-n10283890.html",
-        "image": "https://media.lacapital.com.ar/p/f70fbe893c4019ef51281c4da5084e7e/adjuntos/203/imagenes/103/435/0103435100/1200x675/211x295:231x315/faa-andreasarnarileonardo.jpeg",
-        "summary": "La presidenta de Federación Agraria pidió financiamiento y políticas públicas para pequeños y medianos productores. El gobernador santafesino reclamó un modelo federal y cuestionó la distribución de los recursos",
-        "pubDate": "2026-09-29T21:27:00+00:00",
         "approxTime": false
       }
     ]
