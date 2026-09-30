@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T19:31:04.755639+00:00",
+  "generatedAt": "2026-09-30T20:01:20.199463+00:00",
   "sites": {
     "rosario3": [
       {
@@ -103,11 +103,20 @@
       },
       {
         "source": "Rosario3",
-        "title": "Escándalo en Portugal: Cristiano Ronaldo abandonó la concentración tras una fuerte tensión con el DT",
+        "title": "Identifican un nuevo virus transmitido por garrapatas tras años de casos sin explicación",
+        "link": "https://www.rosario3.com/informaciongeneral/identifican-un-nuevo-virus-transmitido-por-garrapatas-tras-anos-de-casos-sin-explicacion-20260930-0055.html",
+        "image": "https://www.rosario3.com/__export/1790796040022/sites/rosario3/img/2026/09/30/garrapata.png_374587788.png",
+        "summary": "Investigadores descubrieron un patógeno hasta ahora desconocido que provoca síntomas idénticos a los de otras afecciones comunes por picaduras pero que desconcertaba a los médicos en los análisis de laboratorio",
+        "pubDate": "2026-09-30T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Escándalo en Portugal: Cristiano Ronaldo se fue de la concentración y prometió contar \"la verdad\"",
         "link": "https://www.rosario3.com/deportes/escandalo-en-portugal-cristiano-ronaldo-abandono-la-concentracion-tras-una-fuerte-tension-con-el-dt-20260930-0054.html",
         "image": "https://www.rosario3.com/__export/1790793094742/sites/rosario3/img/2026/09/30/cr7.jpg_307980727.jpg",
-        "summary": "El capitán luso dejó Copenhague y regresó a Madrid en medio de la UEFA Nations League. El conflicto estalló luego de que Jorge Jesus asegurara que no le garantizaba la titularidad y tras su suplencia ante Noruega.",
-        "pubDate": "2026-09-30T11:49:00+00:00",
+        "summary": "El capitán de la selección abandonó el plantel en medio de la Nations League tras una fuerte tensión con el DT Jorge Jesus. Anunció que “con el tiempo” explicará los motivos aunque aclaró que no se trata de un retiro definitivo",
+        "pubDate": "2026-09-30T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +125,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/aguas-santafesinas-se-prepara-para-posibles-efectos-del-fenomeno-el-nino-las-medidas-que-tomo-la-empresa-20260930-0033.html",
         "image": "https://www.rosario3.com/__export/1790783018933/sites/rosario3/img/2026/09/30/assa.png_786111822.png",
         "summary": "La estrategia incluye el monitoreo de infraestructura crítica, actualización de protocolos, disponibilidad de recursos y coordinación con la Provincia, municipios, comunas y organismos de emergencia",
-        "pubDate": "2026-09-30T11:48:00+00:00",
+        "pubDate": "2026-09-30T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,15 +134,6 @@
         "link": "https://www.rosario3.com/ocio/pasaron-a-mirtha-legrand-a-una-habitacion-comun-y-sigue-en-franca-mejoria-20260930-0032.html",
         "image": "https://www.rosario3.com/__export/1790609181312/sites/rosario3/img/2026/09/28/mirtha_legrand.png_786111822.png",
         "summary": "La conductora salió de cuidados intensivos y se encuentra “muy bien” de la neumopatía. La Chiqui continúa acompañada por su familia, mientras avanza favorablemente su recuperación",
-        "pubDate": "2026-09-30T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Piden declarar la emergencia en violencia de género en la provincia de Santa Fe",
-        "link": "https://www.rosario3.com/informaciongeneral/piden-declarar-la-emergencia-en-violencia-de-genero-en-la-provincia-de-santa-fe-20260930-0026.html",
-        "image": "https://www.rosario3.com/__export/1790776932450/sites/rosario3/img/2026/09/30/violenciadegenero.jpg_928314581.jpg",
-        "summary": "La referente de Mumalá, Gabriela Sosa, advirtió sobre la preocupante cifra de 38 crímenes vinculados a la violencia machista en lo que va del año en la provincia. Destacó la presentación de un proyecto en la Legislatura para agilizar partidas presupuestarias y llamó a analizar…",
         "pubDate": "2026-09-30T11:46:00+00:00",
         "approxTime": true
       }
@@ -177,19 +177,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Los finalistas y ganadores de \"Innovar para Producir\" fueron reconocidos durante la feria \"Roldán Produce\"",
-        "link": "https://www.lacapital.com.ar/la-region/los-finalistas-y-ganadores-innovar-producir-fueron-reconocidos-la-feria-roldan-produce-n10284086.html",
-        "image": "https://media.lacapital.com.ar/p/f4f5f678f6723064cdec88afedc43e7e/adjuntos/203/imagenes/103/437/0103437244/1200x675/smart/roldan-produce-1.jpg",
-        "summary": "Con más de 40 expositores de la ciudad, la muestra industrial fue un espacio de encuentro para la comunidad de Roldán",
+        "title": "Cómo hacer chía pudding, un desayuno sano y distinto",
+        "link": "https://www.lacapital.com.ar/informacion-general/como-hacer-chia-pudding-un-desayuno-sano-y-distinto-n10284085.html",
+        "image": "https://media.lacapital.com.ar/p/984ce73c54509fa66ff055bd89f41346/adjuntos/203/imagenes/103/437/0103437241/1200x675/smart/image-15.png",
+        "summary": "Con pocos ingredientes y en un ratito se puede preparar un desayuno sano y nutritivo, que se adapta a todos los gustos. El paso a paso",
         "pubDate": "2026-09-30T18:26:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Cómo hacer chía pudding, un desayuno sano y distinto",
-        "link": "https://www.lacapital.com.ar/informacion-general/como-hacer-chia-pudding-un-desayuno-sano-y-distinto-n10284085.html",
-        "image": "https://media.lacapital.com.ar/p/984ce73c54509fa66ff055bd89f41346/adjuntos/203/imagenes/103/437/0103437241/1200x675/smart/image-15.png",
-        "summary": "Con pocos ingredientes y en un ratito se puede preparar un desayuno sano y nutritivo, que se adapta a todos los gustos. El paso a paso",
+        "title": "Los finalistas y ganadores de \"Innovar para Producir\" fueron reconocidos durante la feria \"Roldán Produce\"",
+        "link": "https://www.lacapital.com.ar/la-region/los-finalistas-y-ganadores-innovar-producir-fueron-reconocidos-la-feria-roldan-produce-n10284086.html",
+        "image": "https://media.lacapital.com.ar/p/f4f5f678f6723064cdec88afedc43e7e/adjuntos/203/imagenes/103/437/0103437244/1200x675/smart/roldan-produce-1.jpg",
+        "summary": "Con más de 40 expositores de la ciudad, la muestra industrial fue un espacio de encuentro para la comunidad de Roldán",
         "pubDate": "2026-09-30T18:26:00+00:00",
         "approxTime": false
       },
@@ -222,19 +222,19 @@
       },
       {
         "source": "La Capital",
-        "title": "WhatsApp anunció nuevas funciones para que los padres cuiden a sus hijos sin revisar sus conversaciones",
-        "link": "https://www.lacapital.com.ar/informacion-general/whatsapp-anuncio-nuevas-funciones-que-los-padres-cuiden-sus-hijos-revisar-sus-conversaciones-n10284056.html",
-        "image": "https://media.lacapital.com.ar/p/5af894898bb3e96551616f9f8c36659e/adjuntos/203/imagenes/102/476/0102476468/1200x675/smart/nina-celular473945c_732_1296jpg.jpg",
-        "summary": "Los padres pueden regular determinadas funciones en la app para proteger a sus hijos sin la necesidad de revisar los chats. Cómo sumar estas funciones",
+        "title": "La Corte Suprema tuvo que dirimir una disputa de dos reconocidas influencers argentinas",
+        "link": "https://www.lacapital.com.ar/informacion-general/la-corte-suprema-tuvo-que-dirimir-una-disputa-dos-reconocidas-influencers-argentinas-n10284052.html",
+        "image": "https://media.lacapital.com.ar/p/93968d77c360bf80481d47fabced2514/adjuntos/203/imagenes/103/437/0103437047/1200x675/smart/image-2026-09-30t140053180.png",
+        "summary": "El máximo tribunal revocó una medida cautelar que obligaba a una de ellas a borrar publicaciones que hacían referencia a su colega",
         "pubDate": "2026-09-30T17:55:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "La Corte Suprema tuvo que dirimir una disputa de dos reconocidas influencers argentinas",
-        "link": "https://www.lacapital.com.ar/informacion-general/la-corte-suprema-tuvo-que-dirimir-una-disputa-dos-reconocidas-influencers-argentinas-n10284052.html",
-        "image": "https://media.lacapital.com.ar/p/93968d77c360bf80481d47fabced2514/adjuntos/203/imagenes/103/437/0103437047/1200x675/smart/image-2026-09-30t140053180.png",
-        "summary": "El máximo tribunal revocó una medida cautelar que obligaba a una de ellas a borrar publicaciones que hacían referencia a su colega",
+        "title": "WhatsApp anunció nuevas funciones para que los padres cuiden a sus hijos sin revisar sus conversaciones",
+        "link": "https://www.lacapital.com.ar/informacion-general/whatsapp-anuncio-nuevas-funciones-que-los-padres-cuiden-sus-hijos-revisar-sus-conversaciones-n10284056.html",
+        "image": "https://media.lacapital.com.ar/p/5af894898bb3e96551616f9f8c36659e/adjuntos/203/imagenes/102/476/0102476468/1200x675/smart/nina-celular473945c_732_1296jpg.jpg",
+        "summary": "Los padres pueden regular determinadas funciones en la app para proteger a sus hijos sin la necesidad de revisar los chats. Cómo sumar estas funciones",
         "pubDate": "2026-09-30T17:55:00+00:00",
         "approxTime": false
       },
