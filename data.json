@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T18:01:20.341661+00:00",
+  "generatedAt": "2026-09-30T18:31:05.926034+00:00",
   "sites": {
     "rosario3": [
       {
@@ -58,10 +58,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Benjamin Netanyahu apuntó a que uno de los pilotos intentó estrellar el avión de Flydubai",
-        "link": "https://www.rosario3.com/informaciongeneral/benjamin-netanyahu-apunto-a-que-uno-de-los-pilotos-intento-estrellar-el-avion-de-flydubai-20260930-0041.html",
-        "image": "https://www.rosario3.com/__export/1790787327067/sites/rosario3/img/2026/09/30/vion-israel.jpg_928314580.jpg",
-        "summary": "El primer ministro de Israel sostuvo que se trató de un incidente de seguridad extremadamente grave y dio órdenes a los organismos de seguridad israelíes para prepararse para otras posibles amenazas",
+        "title": "La rosarina Candela Arizaga rompió el silencio y apuntó contra Moyano: \"Una cosa es el relato y otra muy distinta son las pruebas\"",
+        "link": "https://www.rosario3.com/ocio/la-rosarina-candela-arizaga-rompio-el-silencio-y-apunto-contra-moyano-una-cosa-es-el-relato-y-otra-muy-distinta-son-las-pruebas-20260930-0046.html",
+        "image": "https://www.rosario3.com/__export/1790790841366/sites/rosario3/img/2026/09/30/candela_moyano.jpg_1768679257.jpg",
+        "summary": "La joven publicó un contundente mensaje en sus redes sociales luego de la entrevista que el político le dio a Moria Casán",
         "pubDate": "2026-09-30T11:54:00+00:00",
         "approxTime": true
       },
@@ -141,11 +141,47 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "La Corte Suprema tuvo que dirimir una disputa de dos reconocidas influencers argentinas",
-        "link": "https://www.lacapital.com.ar/informacion-general/la-corte-suprema-tuvo-que-dirimir-una-disputa-dos-reconocidas-influencers-argentinas-n10284052.html",
-        "image": "https://media.lacapital.com.ar/p/93968d77c360bf80481d47fabced2514/adjuntos/203/imagenes/103/437/0103437047/1200x675/smart/image-2026-09-30t140053180.png",
-        "summary": "El máximo tribunal revocó una medida cautelar que obligaba a una de ellas a borrar publicaciones que hacían referencia a su colega",
-        "pubDate": "2026-09-30T17:55:00+00:00",
+        "title": "Cómo hacer chía pudding, un desayuno sano y distinto",
+        "link": "https://www.lacapital.com.ar/informacion-general/como-hacer-chia-pudding-un-desayuno-sano-y-distinto-n10284085.html",
+        "image": "https://media.lacapital.com.ar/p/984ce73c54509fa66ff055bd89f41346/adjuntos/203/imagenes/103/437/0103437241/1200x675/smart/image-15.png",
+        "summary": "Con pocos ingredientes y en un ratito se puede preparar un desayuno sano y nutritivo, que se adapta a todos los gustos. El paso a paso",
+        "pubDate": "2026-09-30T18:26:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Los finalistas y ganadores de \"Innovar para Producir\" fueron reconocidos durante la feria \"Roldán Produce\"",
+        "link": "https://www.lacapital.com.ar/la-region/los-finalistas-y-ganadores-innovar-producir-fueron-reconocidos-la-feria-roldan-produce-n10284086.html",
+        "image": "https://media.lacapital.com.ar/p/f4f5f678f6723064cdec88afedc43e7e/adjuntos/203/imagenes/103/437/0103437244/1200x675/smart/roldan-produce-1.jpg",
+        "summary": "Con más de 40 expositores de la ciudad, la muestra industrial fue un espacio de encuentro para la comunidad de Roldán",
+        "pubDate": "2026-09-30T18:26:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Boero se reunió con la Fiscalía y convocó a una conferencia por la intervención policial en Newell's",
+        "link": "https://www.lacapital.com.ar/ovacion/boero-se-reunio-la-fiscalia-y-convoco-una-conferencia-la-intervencion-policial-newells-n10284084.html",
+        "image": "https://media.lacapital.com.ar/p/bbad3fa655fdd13db24d832993a16724/adjuntos/203/imagenes/103/029/0103029916/boero1.JPG",
+        "summary": "El presidente de la entidad del Parque Independencia hablará ante la prensa luego de los violentos incidentes que involucraron a socios leproso",
+        "pubDate": "2026-09-30T18:25:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Cuenta regresiva para la Semana del Clima Rosario 2026",
+        "link": "https://www.lacapital.com.ar/fnga/cuenta-regresiva-la-semana-del-clima-rosario-2026-n10284081.html",
+        "image": "https://media.lacapital.com.ar/p/6e54c4e710a241b974f483eda44a35fb/adjuntos/203/imagenes/103/437/0103437146/1200x675/smart/pagina-5-imagen-portada.png",
+        "summary": "Del 13 al 16 de octubre, Rosario reunirá a distintos sectores para debatir respuestas locales frente a los principales desafíos climáticos.",
+        "pubDate": "2026-09-30T18:13:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La Justicia de Estados Unidos frenó la ejecución de Christa Pike una hora antes de aplicar la pena",
+        "link": "https://www.lacapital.com.ar/informacion-general/la-justicia-estados-unidos-freno-la-ejecucion-christa-pike-una-hora-antes-aplicar-la-pena-n10284068.html",
+        "image": "https://media.lacapital.com.ar/p/86d730858cd3ec5f39a870e90959334a/adjuntos/203/imagenes/103/437/0103437148/1200x675/smart/christa-pike.png",
+        "summary": "Iba a ser la primera mujer en más de 200 años en el estado de Tennessee que recibiera esa pena, a través de una inyección letal de pentobarbital, por un crimen cometido en 1995",
+        "pubDate": "2026-09-30T18:04:00+00:00",
         "approxTime": false
       },
       {
@@ -154,6 +190,15 @@
         "link": "https://www.lacapital.com.ar/informacion-general/whatsapp-anuncio-nuevas-funciones-que-los-padres-cuiden-sus-hijos-revisar-sus-conversaciones-n10284056.html",
         "image": "https://media.lacapital.com.ar/p/5af894898bb3e96551616f9f8c36659e/adjuntos/203/imagenes/102/476/0102476468/1200x675/smart/nina-celular473945c_732_1296jpg.jpg",
         "summary": "Los padres pueden regular determinadas funciones en la app para proteger a sus hijos sin la necesidad de revisar los chats. Cómo sumar estas funciones",
+        "pubDate": "2026-09-30T17:55:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La Corte Suprema tuvo que dirimir una disputa de dos reconocidas influencers argentinas",
+        "link": "https://www.lacapital.com.ar/informacion-general/la-corte-suprema-tuvo-que-dirimir-una-disputa-dos-reconocidas-influencers-argentinas-n10284052.html",
+        "image": "https://media.lacapital.com.ar/p/93968d77c360bf80481d47fabced2514/adjuntos/203/imagenes/103/437/0103437047/1200x675/smart/image-2026-09-30t140053180.png",
+        "summary": "El máximo tribunal revocó una medida cautelar que obligaba a una de ellas a borrar publicaciones que hacían referencia a su colega",
         "pubDate": "2026-09-30T17:55:00+00:00",
         "approxTime": false
       },
@@ -195,19 +240,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Revés para la partera Dolly: rechazan la prescripción por el robo de bebés en Rosario",
-        "link": "https://www.lacapital.com.ar/policiales/reves-la-partera-dolly-rechazan-la-prescripcion-el-robo-bebes-rosario-n10284065.html",
-        "image": "https://media.lacapital.com.ar/p/b3e1df3a1593ade3e67c0b7aa109b817/adjuntos/203/imagenes/102/838/0102838799/1200x675/smart/tribunales-federales-justicia-federal-rosario.png",
-        "summary": "La partera seguirá siendo investigada por la supresión de identidad de varios bebés, uno de ellos registrada como su propia hija.",
+        "title": "Aguas Santafesinas fortalece su planificación preventiva ante la posible llegada del fenómeno de El Niño",
+        "link": "https://www.lacapital.com.ar/la-region/aguas-santafesinas-fortalece-su-planificacion-preventiva-la-posible-llegada-del-fenomeno-el-nino-n10284074.html",
+        "image": "https://media.lacapital.com.ar/p/3fa7e392108f8eabcada3577ad8692ca/adjuntos/203/imagenes/103/437/0103437145/1200x675/smart/aguas-santafesinas1.jpeg",
+        "summary": "Desde principios de año la empresa trabaja en la identificación de vulnerabilidades y, desde mayo, profundizó acciones preventivas, operativas y de contingencia para afrontar lluvias intensas e inundaciones",
         "pubDate": "2026-09-30T17:48:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Aguas Santafesinas fortalece su planificación preventiva ante la posible llegada del fenómeno de El Niño",
-        "link": "https://www.lacapital.com.ar/la-region/aguas-santafesinas-fortalece-su-planificacion-preventiva-la-posible-llegada-del-fenomeno-el-nino-n10284074.html",
-        "image": "https://media.lacapital.com.ar/p/3fa7e392108f8eabcada3577ad8692ca/adjuntos/203/imagenes/103/437/0103437145/1200x675/smart/aguas-santafesinas1.jpeg",
-        "summary": "Desde principios de año la empresa trabaja en la identificación de vulnerabilidades y, desde mayo, profundizó acciones preventivas, operativas y de contingencia para afrontar lluvias intensas e inundaciones",
+        "title": "Revés para la partera Dolly: rechazan la prescripción por el robo de bebés en Rosario",
+        "link": "https://www.lacapital.com.ar/policiales/reves-la-partera-dolly-rechazan-la-prescripcion-el-robo-bebes-rosario-n10284065.html",
+        "image": "https://media.lacapital.com.ar/p/b3e1df3a1593ade3e67c0b7aa109b817/adjuntos/203/imagenes/102/838/0102838799/1200x675/smart/tribunales-federales-justicia-federal-rosario.png",
+        "summary": "La partera seguirá siendo investigada por la supresión de identidad de varios bebés, uno de ellos registrada como su propia hija",
         "pubDate": "2026-09-30T17:48:00+00:00",
         "approxTime": false
       },
@@ -227,51 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/004f388878b018554ce43f6c31cb8095/adjuntos/203/imagenes/101/141/0101141425/2023-11-01-robbie-williamsjpg.jpg",
         "summary": "El músico británico está en tierras porteñas para dar tres shows en el Movistar Arena, y vivió una previa muy especial con sus fans",
         "pubDate": "2026-09-30T16:39:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Los futbolistas que \"toman la batuta\" de la selección argentina tras el Mundial",
-        "link": "https://www.lacapital.com.ar/ovacion/los-futbolistas-que-toman-la-batuta-la-seleccion-argentina-el-mundial-n10284039.html",
-        "image": "https://media.lacapital.com.ar/p/b7a8069c9f9f5dc21e7990fa4124eb3f/adjuntos/203/imagenes/103/436/0103436964/nico-paz-mundial.jpg",
-        "summary": "Mientras Scaloni negocia su renovación, algunos jugadores aparecerán en el once titular esta noche ante Bolivia para empezar a ganarse su lugar en el equipo",
-        "pubDate": "2026-09-30T16:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Jinetes presos en Rosario: imputaron a tres jóvenes por una balacera en la zona oeste",
-        "link": "https://www.lacapital.com.ar/policiales/jinetes-presos-rosario-imputaron-tres-jovenes-una-balacera-la-zona-oeste-n10284043.html",
-        "image": "https://media.lacapital.com.ar/p/994d23d3ddf47e0084e0fd9d19f353d2/adjuntos/203/imagenes/103/186/0103186686/1200x675/smart/centro-de-justicia-penal-rosario-2022-amenaza.jpg",
-        "summary": "La Fiscalía también identificó a un adolescente como parte del grupo que atacó a tiros a un hombre de 37 años y después escapó a caballo",
-        "pubDate": "2026-09-30T16:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Pelea de alumnos en escuela del centro: la policía intervino por un arma pero era de juguete",
-        "link": "https://www.lacapital.com.ar/la-ciudad/pelea-alumnos-escuela-del-centro-la-policia-intervino-un-arma-pero-era-juguete-n10284047.html",
-        "image": "https://media.lacapital.com.ar/p/39ab194ce8a1fe9526951d37f7ff601d/adjuntos/203/imagenes/103/436/0103436857/1200x675/smart/escuela-arma-juguete-309-vb.jpg",
-        "summary": "Estudiantes de cuarto agredieron a dos chicos de primero, que los denunciaron por portación de arma de fuego. Finalmente, se descubrió que era un elemento de utilería",
-        "pubDate": "2026-09-30T16:26:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Incidentes en Newell's: liberaron a detenidos y abrieron una investigación a policías",
-        "link": "https://www.lacapital.com.ar/ovacion/incidentes-newells-liberaron-detenidos-y-abrieron-una-investigacion-policias-n10284045.html",
-        "image": "https://media.lacapital.com.ar/p/5ad014917ff5d85eb5fa0f435d2b4fa5/adjuntos/203/imagenes/103/436/0103436464/piedras-newells.jpeg",
-        "summary": "A las personas arrestadas este martes por la noche en el Coloso se les abrirá una causa por resistencia a la autoridad y daños. Incautaron armas reglamentarias",
-        "pubDate": "2026-09-30T16:24:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La banda rosarina Atemporal vuelve a los escenarios junto a No salgas con Robots y Coke Monkey",
-        "link": "https://www.lacapital.com.ar/zoom/la-banda-rosarina-atemporal-vuelve-los-escenarios-junto-no-salgas-robots-y-coke-monkey-n10284050.html",
-        "image": "https://media.lacapital.com.ar/p/03e9d0bab749b9304aa30d4bcd2a494d/adjuntos/203/imagenes/102/043/0102043797/image-2024-11-27t162433262jpg.jpg",
-        "summary": "Después de un tiempo de silencio, la banda rosarina vuelve a tocar en vivo el próximo viernes 3 de octubre en García Bar",
-        "pubDate": "2026-09-30T16:23:00+00:00",
         "approxTime": false
       }
     ]
