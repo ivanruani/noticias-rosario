@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-09-30T14:31:08.563893+00:00",
+  "generatedAt": "2026-09-30T15:01:25.989646+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Pullaro puso el eje en avanzar sobre el patrimonio de las bandas criminales, sus abogados y contadores",
+        "link": "https://www.rosario3.com/policiales/pullaro-puso-el-eje-en-avanzar-sobre-el-patrimonio-de-las-bandas-criminales-sus-abogados-y-contadores-20260930-0029.html",
+        "image": "https://www.rosario3.com/__export/1790780405104/sites/rosario3/img/2026/09/30/jornada1.jpg_928314581.jpg",
+        "summary": "El gobernador abrió este miércoles la jornada “Crimen organizado y flujos financieros ilícitos: desafíos y estrategias para su desarticulación”, el Parque España de Rosario. “La violencia y el delito no están terminados; las organizaciones criminales no están desarticuladas…",
+        "pubDate": "2026-09-30T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Gripe récord: Argentina supera el millón de casos por primera vez en diez años",
         "link": "https://www.rosario3.com/informaciongeneral/gripe-record-argentina-supera-el-millon-de-casos-por-primera-vez-en-diez-anos-20260930-0025.html",
         "image": "https://www.rosario3.com/__export/1790776730873/sites/rosario3/img/2025/01/10/tengoalergia_es_x1x_1.jpg_506286608.jpg",
         "summary": "El último Boletín Epidemiológico Nacional confirmó que las notificaciones de enfermedad tipo influenza llegaron a su nivel más alto desde 2016. Desde la cartera sanitaria explican que el volumen histórico se debe, en gran medida, al adelanto de la temporada de virus respiratorios",
-        "pubDate": "2026-09-30T12:00:00+00:00",
+        "pubDate": "2026-09-30T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/policiales/provincia-y-policia-defendieron-el-ingreso-de-efectivos-al-coloso-si-hubo-un-exceso-la-fiscalia-investigara-20260930-0014.html",
         "image": "https://www.rosario3.com/__export/1790768381895/sites/rosario3/img/2026/09/30/image_-6-.jpg_928314580.jpg",
         "summary": "El jefe de la UR II, Danilo Villán, y el coordinador de Seguridad en Eventos Masivos, Gustavo Velázquez, dieron explicaciones tras los violentos episodios registrados este martes en la zona del Parque Independencia. Confirmaron 12 detenidos, tres policías heridos y una mujer…",
-        "pubDate": "2026-09-30T11:59:00+00:00",
+        "pubDate": "2026-09-30T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/cerealeras-presionaron-fuerte-pero-al-final-aflojaron-y-seguiran-comprando-soja-sin-certificacion-ambiental-20260930-0009.html",
         "image": "https://www.rosario3.com/__export/1786974878574/sites/rosario3/img/2026/08/17/bolsa_de_comercio_rosario.png_786111822.png",
         "summary": "Las grandes multinacionales generaron revuelo en el mercado cuando días atrás comunicaron que sólo recibirían soja que cumpla con las nuevas exigencias ambientales. Corredores protestaron y hubo reunión en la Bolsa para acordar posturas",
-        "pubDate": "2026-09-30T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Un vuelo a Israel aterrizó de emergencia e investigan posible ataque terrorista: el piloto habría apuñalado al copiloto",
-        "link": "https://www.rosario3.com/informaciongeneral/un-vuelo-a-israel-aterrizo-de-emergencia-en-arabia-saudita-por-supuesta-pelea-en-la-tripulacion-el-piloto-habria-apunalado-al-copiloto-20260930-0015.html",
-        "image": "https://www.rosario3.com/__export/1790768852265/sites/rosario3/img/2026/09/30/flydubai.jpg_54252853.jpg",
-        "summary": "La aeronave de la empresa FlyDubai cubría la ruta entre Dubái y Tel Aviv. Fue desviado tras un 'altercado entre la tripulación', según las primeras informaciones. El hecho ocurrió en la mañana de este miércoles y el gobierno israelí no descartaba la hipótesis de un atentado",
         "pubDate": "2026-09-30T11:57:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,51 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Qué fue la nube de gases registrada tras la explosión en la planta de Puerto San Martín",
+        "link": "https://www.lacapital.com.ar/la-region/que-fue-la-nube-gases-registrada-la-explosion-la-planta-puerto-san-martin-n10284038.html",
+        "image": "https://media.lacapital.com.ar/p/d516827b3589f3c29e7ce011503ba215/adjuntos/203/imagenes/103/436/0103436750/1200x675/smart/albardon-bio.jpg",
+        "summary": "Vecinos dieron el alerta por una presunta nube tóxica en la planta donde se produjo una explosión y un incendio, lo que dejó como saldo dos muertos y cuatro heridos",
+        "pubDate": "2026-09-30T14:53:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "City Center Rosario se suma al Turismo Carretera como sponsor del Rus Med Team",
+        "link": "https://www.lacapital.com.ar/novedades/city-center-rosario-se-suma-al-turismo-carretera-como-sponsor-del-rus-med-team-n10284016.html",
+        "image": "https://media.lacapital.com.ar/p/810103b13985528b282d5446bfb41a64/adjuntos/203/imagenes/103/436/0103436678/1200x675/smart/rus-med-team-turismo-carretera.png",
+        "summary": "El complejo de entretenimientos será auspiciante de uno de los equipos en las carreras que se disputarán el 24 y 25 de octubre en el Autódromo de la ciudad",
+        "pubDate": "2026-09-30T14:45:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Mirtha Legrand continúa internada: qué dice el nuevo parte médico",
+        "link": "https://www.lacapital.com.ar/zoom/mirtha-legrand-continua-internada-que-dice-el-nuevo-parte-medico-n10284034.html",
+        "image": "https://media.lacapital.com.ar/p/f1a4dc18cc69828cc324a1e5bac19ba1/adjuntos/203/imagenes/102/214/0102214196/1200x675/smart/mirtha-legrandjpg.jpg",
+        "summary": "El sanatorio Mater Dei emitió un nuevo comunicado oficial. Según detallaron, la conductora se encuentra \"en franca mejoría\"",
+        "pubDate": "2026-09-30T14:41:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Más de 3 mil jóvenes de toda Santa Fe ya disfrutan del legado de los Juegos Suramericanos",
+        "link": "https://www.lacapital.com.ar/ovacion/mas-3-mil-jovenes-toda-santa-fe-ya-disfrutan-del-legado-los-juegos-suramericanos-n10284031.html",
+        "image": "https://media.lacapital.com.ar/p/aa7c58e75a30eae692e7f75cda9e60a0/adjuntos/203/imagenes/103/436/0103436751/1200x675/smart/juegos-suramericanos.png",
+        "summary": "Los deportistas de los 19 departamentos participan de las finales provinciales en Santa Fe y utilizan espacios renovados para los Juegos Suramericanos 2026",
+        "pubDate": "2026-09-30T14:33:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Pullaro: \"Hay que ir contra los abogados y contadores de las bandas criminales\"",
+        "link": "https://www.lacapital.com.ar/politica/pullaro-hay-que-ir-contra-los-abogados-y-contadores-las-bandas-criminales-n10284030.html",
+        "image": "https://media.lacapital.com.ar/p/87701c3a9fb072c6ff9011c12116432f/adjuntos/203/imagenes/103/436/0103436749/1200x675/smart/pullaro-fiscales.jpeg",
+        "summary": "El gobernador habló frente a fiscales federales en una cumbre sobre lucha contra crimen organizado. Apuntó contra los profesionales que asesoran a las organizaciones",
+        "pubDate": "2026-09-30T14:26:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Paro universitario: docentes de la UNR y la UTN profundizan el plan de lucha",
         "link": "https://www.lacapital.com.ar/la-ciudad/paro-universitario-docentes-la-unr-y-la-utn-profundizan-el-plan-lucha-n10284015.html",
         "image": "https://media.lacapital.com.ar/p/d3a466b1c42cfa38c42c788cb5ed0e26/adjuntos/203/imagenes/018/886/0018886560/1200x675/smart/11-16-facultad-67178934jpg.jpg",
@@ -170,7 +215,7 @@
         "source": "La Capital",
         "title": "Jimena Barón renunció a \"Es mi sueño\": por qué se fue y quién la reemplazará",
         "link": "https://www.lacapital.com.ar/zoom/jimena-baron-renuncio-es-mi-sueno-que-se-fue-y-quien-la-reemplazara-n10284006.html",
-        "image": "https://media.lacapital.com.ar/p/4e574f763980b38f97767fdca51a0d9d/adjuntos/203/imagenes/103/436/0103436521/1200x675/smart/image-2026-09-30t110004118.jpg",
+        "image": "https://media.lacapital.com.ar/p/6566162d0e9de2dafb3022bfd7269d57/adjuntos/203/imagenes/103/436/0103436521/1200x675/747x266:767x286/image-2026-09-30t110004118.jpg",
         "summary": "La cantante abandonó su rol de jurado en la segunda temporada del reality y ya tiene quien ocupe su lugar",
         "pubDate": "2026-09-30T13:34:00+00:00",
         "approxTime": false
@@ -227,51 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/1d91a4a5a2ea5a2e3f59396e02a237fa/adjuntos/203/imagenes/103/436/0103436381/1200x675/smart/brenda-piedrazo.jpg",
         "summary": "Brenda recibió un impacto en su cabeza cuando regresaba del Monumento en moto con su hijo tras celebrar el campeonato canalla. Recibió seis puntos de sutura",
         "pubDate": "2026-09-30T12:23:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El gobierno reconoció que \"algo se fue de las manos\" en Newell's tras el festejo de Central",
-        "link": "https://www.lacapital.com.ar/ovacion/el-gobierno-reconocio-que-algo-se-fue-las-manos-newells-el-festejo-central-n10283985.html",
-        "image": "https://media.lacapital.com.ar/p/d2967db693644c6f160f8066ddb51893/adjuntos/203/imagenes/103/436/0103436441/balas-goma-newells.jpeg",
-        "summary": "El coordinador de Seguridad Deportiva de Santa Fe, Gustavo Velázquez, admitió que no se pudo controlar la situación cerca del Coloso y anticipó que se investigará la labor policial",
-        "pubDate": "2026-09-30T12:16:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central agradeció el apoyo de las fuerzas de seguridad en el operativo del Monumento",
-        "link": "https://www.lacapital.com.ar/ovacion/central-agradecio-el-apoyo-las-fuerzas-seguridad-el-operativo-del-monumento-n10283994.html",
-        "image": "https://media.lacapital.com.ar/p/348643c19155466469e071e7a9559e19/adjuntos/203/imagenes/103/436/0103436320/1200x675/smart/central-festejos.jpg",
-        "summary": "El club de Arroyito difundió un comunicado para agradecer \"la colaboración en la organización del festejo de la Supercopa Internacional\"",
-        "pubDate": "2026-09-30T11:57:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Detuvieron a un famoso actor en un pueblo santafesino y le secuestraron varias armas",
-        "link": "https://www.lacapital.com.ar/zoom/detuvieron-un-famoso-actor-un-pueblo-santafesino-y-le-secuestraron-varias-armas-n10283979.html",
-        "image": "https://media.lacapital.com.ar/p/57f42ba218b2f48c470148e586fc376a/adjuntos/203/imagenes/103/436/0103436197/maxi-ghione.jpg",
-        "summary": "La policía arrestó a Maxi Ghione en Lehmann por la denuncia de un trabajador sexual. Lo acusan de privación ilegítima de la libertad",
-        "pubDate": "2026-09-30T10:57:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La Corte Suprema de Justicia revocó el fallo que limitaba la venta de tierras a extranjeros",
-        "link": "https://www.lacapital.com.ar/politica/la-corte-suprema-justicia-revoco-el-fallo-que-limitaba-la-venta-tierras-extranjeros-n10283982.html",
-        "image": "https://media.lacapital.com.ar/p/d899c24a1cee377e510adb1525bc7b38/adjuntos/203/imagenes/103/436/0103436209/1200x675/smart/corte-suprema-justicia-nacion.jpg",
-        "summary": "La causa judicial se había originado por una presentación del Centro de ExCombatientes Islas Malvinas de La Plata. Los jueces consideraron que la entidad no tiene legitimación para cuestionar la medida del Gobierno",
-        "pubDate": "2026-09-30T10:41:33+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El comunicado de Newell's: \"El club accionará ante la Justicia por los hechos acontecidos\"",
-        "link": "https://www.lacapital.com.ar/el-comunicado-newells-el-club-accionara-la-justicia-los-hechos-acontecidos-n10283978.html",
-        "image": "https://media.lacapital.com.ar/p/a30b172af440569538ee003e91f1f596/adjuntos/203/imagenes/103/436/0103436210/1200x675/smart/image-3.jpg",
-        "summary": "La entidad del Parque publicó en sus redes sociales un descargo por los incidentes que se produjeron en el Parque y dentro del club en el medio de los festejos Canallas",
-        "pubDate": "2026-09-30T10:35:00+00:00",
         "approxTime": false
       }
     ]
