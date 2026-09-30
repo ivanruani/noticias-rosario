@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T17:31:03.344717+00:00",
+  "generatedAt": "2026-09-30T18:01:20.341661+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,78 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "La Corte Suprema tuvo que dirimir una disputa de dos reconocidas influencers argentinas",
+        "link": "https://www.lacapital.com.ar/informacion-general/la-corte-suprema-tuvo-que-dirimir-una-disputa-dos-reconocidas-influencers-argentinas-n10284052.html",
+        "image": "https://media.lacapital.com.ar/p/93968d77c360bf80481d47fabced2514/adjuntos/203/imagenes/103/437/0103437047/1200x675/smart/image-2026-09-30t140053180.png",
+        "summary": "El máximo tribunal revocó una medida cautelar que obligaba a una de ellas a borrar publicaciones que hacían referencia a su colega",
+        "pubDate": "2026-09-30T17:55:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "WhatsApp anunció nuevas funciones para que los padres cuiden a sus hijos sin revisar sus conversaciones",
+        "link": "https://www.lacapital.com.ar/informacion-general/whatsapp-anuncio-nuevas-funciones-que-los-padres-cuiden-sus-hijos-revisar-sus-conversaciones-n10284056.html",
+        "image": "https://media.lacapital.com.ar/p/5af894898bb3e96551616f9f8c36659e/adjuntos/203/imagenes/102/476/0102476468/1200x675/smart/nina-celular473945c_732_1296jpg.jpg",
+        "summary": "Los padres pueden regular determinadas funciones en la app para proteger a sus hijos sin la necesidad de revisar los chats. Cómo sumar estas funciones",
+        "pubDate": "2026-09-30T17:55:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Netflix: un enigmático thriller policial de los 2000 volvió con toda",
+        "link": "https://www.lacapital.com.ar/zoom/netflix-un-enigmatico-thriller-policial-los-2000-volvio-toda-n10284046.html",
+        "image": "https://media.lacapital.com.ar/p/7bf1ca65eecaead885c56f52956be333/adjuntos/203/imagenes/103/436/0103436856/1200x675/smart/image-14.png",
+        "summary": "Bajo la dirección del aclamado Clint Eastwood, el film sigue a un agente del FBI retirado que busca justicia por el asesinato de su donante de corazón",
+        "pubDate": "2026-09-30T17:54:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Pagos de Ansés en octubre: de cuánto es el aumento",
+        "link": "https://www.lacapital.com.ar/informacion-general/pagos-anses-octubre-cuanto-es-el-aumento-n10284021.html",
+        "image": "https://media.lacapital.com.ar/p/2c6cb69e78398486205eeed94fd72cf9/adjuntos/203/imagenes/102/621/0102621116/1200x675/smart/anses-prestamo.webp",
+        "summary": "El organismo dio a conocer los aumentos para el décimo mes del año. Toda la información relevante, en esta nota",
+        "pubDate": "2026-09-30T17:52:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Un actor detenido en Rafaela: ¿qué pasó con Maxi Ghione tras el arresto?",
+        "link": "https://www.lacapital.com.ar/zoom/un-actor-detenido-rafaela-que-paso-maxi-ghione-el-arresto-n10284013.html",
+        "image": "https://media.lacapital.com.ar/p/a607f0c1d8031f16ca63cce882712604/adjuntos/203/imagenes/103/436/0103436644/maxi-ghione-3.jpg",
+        "summary": "La Justicia santafesina pidió la captura tras el secuestro de cinco armas de fuego en Lehmann y la denuncia de un hombre que pactó un encuentro sexual",
+        "pubDate": "2026-09-30T17:51:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Qué se sabe sobre la acusación contra Maxi Ghione: la declaración del denunciante",
+        "link": "https://www.lacapital.com.ar/zoom/que-se-sabe-la-acusacion-contra-maxi-ghione-la-declaracion-del-denunciante-n10284059.html",
+        "image": "https://media.lacapital.com.ar/p/b782c2ce5a3fd07ec7358ebc3b769e24/adjuntos/203/imagenes/103/436/0103436998/1200x675/smart/image-2026-09-30t134904645.png",
+        "summary": "Pilar Smith contó en LAM los detalles de la denuncia presentada contra el actor por un trabajador sexual. \"Estaba privado de mi libertad\", leyó la panelista",
+        "pubDate": "2026-09-30T17:51:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Revés para la partera Dolly: rechazan la prescripción por el robo de bebés en Rosario",
+        "link": "https://www.lacapital.com.ar/policiales/reves-la-partera-dolly-rechazan-la-prescripcion-el-robo-bebes-rosario-n10284065.html",
+        "image": "https://media.lacapital.com.ar/p/b3e1df3a1593ade3e67c0b7aa109b817/adjuntos/203/imagenes/102/838/0102838799/1200x675/smart/tribunales-federales-justicia-federal-rosario.png",
+        "summary": "La partera seguirá siendo investigada por la supresión de identidad de varios bebés, uno de ellos registrada como su propia hija.",
+        "pubDate": "2026-09-30T17:48:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Aguas Santafesinas fortalece su planificación preventiva ante la posible llegada del fenómeno de El Niño",
+        "link": "https://www.lacapital.com.ar/la-region/aguas-santafesinas-fortalece-su-planificacion-preventiva-la-posible-llegada-del-fenomeno-el-nino-n10284074.html",
+        "image": "https://media.lacapital.com.ar/p/3fa7e392108f8eabcada3577ad8692ca/adjuntos/203/imagenes/103/437/0103437145/1200x675/smart/aguas-santafesinas1.jpeg",
+        "summary": "Desde principios de año la empresa trabaja en la identificación de vulnerabilidades y, desde mayo, profundizó acciones preventivas, operativas y de contingencia para afrontar lluvias intensas e inundaciones",
+        "pubDate": "2026-09-30T17:48:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Medicamentos gratis de Pami: quiénes pueden acceder en octubre",
         "link": "https://www.lacapital.com.ar/informacion-general/medicamentos-gratis-pami-quienes-pueden-acceder-octubre-n10284018.html",
         "image": "https://media.lacapital.com.ar/p/b5e279e27a56deac21e1a7a5152dbc02/adjuntos/203/imagenes/103/299/0103299475/1200x675/smart/medicamentos-gente.jpg",
@@ -200,78 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/03e9d0bab749b9304aa30d4bcd2a494d/adjuntos/203/imagenes/102/043/0102043797/image-2024-11-27t162433262jpg.jpg",
         "summary": "Después de un tiempo de silencio, la banda rosarina vuelve a tocar en vivo el próximo viernes 3 de octubre en García Bar",
         "pubDate": "2026-09-30T16:23:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Agenda de teatro en Rosario: funciones todos los días, para todos los gustos",
-        "link": "https://www.lacapital.com.ar/zoom/agenda-teatro-rosario-funciones-todos-los-dias-todos-los-gustos-n10284028.html",
-        "image": "https://media.lacapital.com.ar/p/2c0df686f9fc2e91ef4f06b7bab722c3/adjuntos/203/imagenes/103/436/0103436929/1200x675/smart/image-2026-09-30t135427621.jpg",
-        "summary": "Un repaso por algunas de las propuestas teatrales de los próximos días en la ciudad: dramas, teatro independiente, microteatro y más",
-        "pubDate": "2026-09-30T16:22:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "A tres años del crimen de Ivana Garcilazo, comienza el juicio contra los tres acusados",
-        "link": "https://www.lacapital.com.ar/policiales/a-tres-anos-del-crimen-ivana-garcilazo-comienza-el-juicio-contra-los-tres-acusados-n10283986.html",
-        "image": "https://media.lacapital.com.ar/p/6d367ee2cfc8ede613475a0c53694fc1/adjuntos/203/imagenes/101/052/0101052138/1200x675/smart/ivana-hincha-centraljpg.jpg",
-        "summary": "El 5 de octubre serán juzgados Cabrera, Massón y Reifenstuel por el asesinato de la hincha de Central, ocurrido tras el clásico del 30 de septiembre de 2023",
-        "pubDate": "2026-09-30T14:57:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Qué fue la nube de gases registrada tras la explosión en la planta de Puerto San Martín",
-        "link": "https://www.lacapital.com.ar/la-region/que-fue-la-nube-gases-registrada-la-explosion-la-planta-puerto-san-martin-n10284038.html",
-        "image": "https://media.lacapital.com.ar/p/d516827b3589f3c29e7ce011503ba215/adjuntos/203/imagenes/103/436/0103436750/1200x675/smart/albardon-bio.jpg",
-        "summary": "Vecinos dieron el alerta por una presunta nube tóxica en la planta donde se produjo una explosión y un incendio, lo que dejó como saldo dos muertos y cuatro heridos",
-        "pubDate": "2026-09-30T14:53:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "City Center Rosario se suma al Turismo Carretera como sponsor del Rus Med Team",
-        "link": "https://www.lacapital.com.ar/novedades/city-center-rosario-se-suma-al-turismo-carretera-como-sponsor-del-rus-med-team-n10284016.html",
-        "image": "https://media.lacapital.com.ar/p/810103b13985528b282d5446bfb41a64/adjuntos/203/imagenes/103/436/0103436678/1200x675/smart/rus-med-team-turismo-carretera.png",
-        "summary": "El complejo de entretenimientos será auspiciante de uno de los equipos en las carreras que se disputarán el 24 y 25 de octubre en el Autódromo de la ciudad",
-        "pubDate": "2026-09-30T14:45:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Mirtha Legrand continúa internada: qué dice el nuevo parte médico",
-        "link": "https://www.lacapital.com.ar/zoom/mirtha-legrand-continua-internada-que-dice-el-nuevo-parte-medico-n10284034.html",
-        "image": "https://media.lacapital.com.ar/p/f1a4dc18cc69828cc324a1e5bac19ba1/adjuntos/203/imagenes/102/214/0102214196/1200x675/smart/mirtha-legrandjpg.jpg",
-        "summary": "El sanatorio Mater Dei emitió un nuevo comunicado oficial. Según detallaron, la conductora se encuentra \"en franca mejoría\"",
-        "pubDate": "2026-09-30T14:41:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Más de 3 mil jóvenes de toda Santa Fe ya disfrutan del legado de los Juegos Suramericanos",
-        "link": "https://www.lacapital.com.ar/ovacion/mas-3-mil-jovenes-toda-santa-fe-ya-disfrutan-del-legado-los-juegos-suramericanos-n10284031.html",
-        "image": "https://media.lacapital.com.ar/p/aa7c58e75a30eae692e7f75cda9e60a0/adjuntos/203/imagenes/103/436/0103436751/1200x675/smart/juegos-suramericanos.png",
-        "summary": "Deportistas de toda la provincia participan de las finales en la capital provincial Fe y utilizan espacios renovados para los Juegos Suramericanos 2026",
-        "pubDate": "2026-09-30T14:33:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Pullaro: \"Hay que ir contra los abogados y contadores de las bandas criminales\"",
-        "link": "https://www.lacapital.com.ar/politica/pullaro-hay-que-ir-contra-los-abogados-y-contadores-las-bandas-criminales-n10284030.html",
-        "image": "https://media.lacapital.com.ar/p/87701c3a9fb072c6ff9011c12116432f/adjuntos/203/imagenes/103/436/0103436749/1200x675/smart/pullaro-fiscales.jpeg",
-        "summary": "El gobernador habló frente a fiscales federales en una cumbre sobre lucha contra crimen organizado. Apuntó contra los profesionales que asesoran a las organizaciones",
-        "pubDate": "2026-09-30T14:26:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Paro universitario: docentes de la UNR y la UTN profundizan el plan de lucha",
-        "link": "https://www.lacapital.com.ar/la-ciudad/paro-universitario-docentes-la-unr-y-la-utn-profundizan-el-plan-lucha-n10284015.html",
-        "image": "https://media.lacapital.com.ar/p/d3a466b1c42cfa38c42c788cb5ed0e26/adjuntos/203/imagenes/018/886/0018886560/1200x675/smart/11-16-facultad-67178934jpg.jpg",
-        "summary": "Los docentes de la UNR transitan una semana completa de paro hasta el sábado, mientras que los de la UTN inician este miércoles una medida de 72 horas",
-        "pubDate": "2026-09-30T14:24:00+00:00",
         "approxTime": false
       }
     ]
