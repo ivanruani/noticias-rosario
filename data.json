@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-09-30T13:37:41.172656+00:00",
+  "generatedAt": "2026-09-30T14:01:20.674220+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Gripe récord: Argentina supera el millón de casos por primera vez en diez años",
+        "link": "https://www.rosario3.com/informaciongeneral/gripe-record-argentina-supera-el-millon-de-casos-por-primera-vez-en-diez-anos-20260930-0025.html",
+        "image": "https://www.rosario3.com/__export/1790776730873/sites/rosario3/img/2025/01/10/tengoalergia_es_x1x_1.jpg_506286608.jpg",
+        "summary": "El último Boletín Epidemiológico Nacional confirmó que las notificaciones de enfermedad tipo influenza llegaron a su nivel más alto desde 2016. Desde la cartera sanitaria explican que el volumen histórico se debe, en gran medida, al adelanto de la temporada de virus respiratorios",
+        "pubDate": "2026-09-30T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Provincia y Policía defendieron el ingreso de efectivos al Coloso: \"Si hubo un exceso, la Fiscalía investigará\"",
         "link": "https://www.rosario3.com/policiales/provincia-y-policia-defendieron-el-ingreso-de-efectivos-al-coloso-si-hubo-un-exceso-la-fiscalia-investigara-20260930-0014.html",
         "image": "https://www.rosario3.com/__export/1790768381895/sites/rosario3/img/2026/09/30/image_-6-.jpg_928314580.jpg",
         "summary": "El jefe de la UR II, Danilo Villán, y el coordinador de Seguridad en Eventos Masivos, Gustavo Velázquez, dieron explicaciones tras los violentos episodios registrados este martes en la zona del Parque Independencia. Confirmaron 12 detenidos, tres policías heridos y una mujer…",
-        "pubDate": "2026-09-30T12:00:00+00:00",
+        "pubDate": "2026-09-30T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/cerealeras-presionaron-fuerte-pero-al-final-aflojaron-y-seguiran-comprando-soja-sin-certificacion-ambiental-20260930-0009.html",
         "image": "https://www.rosario3.com/__export/1786974878574/sites/rosario3/img/2026/08/17/bolsa_de_comercio_rosario.png_786111822.png",
         "summary": "Las grandes multinacionales generaron revuelo en el mercado cuando días atrás comunicaron que sólo recibirían soja que cumpla con las nuevas exigencias ambientales. Corredores protestaron y hubo reunión en la Bolsa para acordar posturas",
-        "pubDate": "2026-09-30T11:59:00+00:00",
+        "pubDate": "2026-09-30T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/sin-clases-en-las-facultades-de-rosario-al-paro-de-la-coad-se-le-sumo-la-universidad-tecnologica-nacional-20260930-0013.html",
         "image": "https://www.rosario3.com/__export/1790767488799/sites/rosario3/img/2026/09/30/utn.jpg_928314581.jpg",
         "summary": "El gremio de la Universidad Tecnológica Nacional resolvió un paro de 72 horas desde este miércoles, que se suma a la medida de fuerza de toda la semana que lleva adelante el personal de la Universidad Nacional de Rosario. Daniela Díaz, titular de Fagdut, apuntó contra el…",
-        "pubDate": "2026-09-30T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Una hincha de Central fue atacada a piedrazos por simpatizantes de Newell’s cuando volvía de festejar con su hijo: \"La saqué barata\"",
-        "link": "https://www.rosario3.com/informaciongeneral/una-hincha-de-central-fue-atacada-a-piedrazos-por-simpatizantes-de-newells-cuando-volvia-de-festejar-con-su-hijo-la-saque-barata-20260930-0004.html",
-        "image": "https://www.rosario3.com/__export/1790762828472/sites/rosario3/img/2026/09/30/befunky-collage_-3-.jpg_928314581.jpg",
-        "summary": "Brenda regresaba en moto del Monumento tras las celebraciones por la Supercopa cuando fue agredida en Pellegrini y Callao. El golpe le dio en la sien, requirió puntos de sutura y debieron hacerle estudios por un gran hematoma. 'El casco de mi hijo se rompió; si no lo llevaba…",
         "pubDate": "2026-09-30T11:57:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Fórmula 1: un piloto anunció que dejará su escudería en la temporada 2027",
+        "link": "https://www.lacapital.com.ar/ovacion/formula-1-un-piloto-anuncio-que-dejara-su-escuderia-la-temporada-2027-n10284012.html",
+        "image": "https://media.lacapital.com.ar/p/4d776542019fcf22e3cc40f86a2ca5d0/adjuntos/203/imagenes/103/436/0103436624/1200x675/smart/image-2026-09-30t103022361.png",
+        "summary": "Esteban Ocon confirmó su salida de Haas al finalizar la competencia de este año y se abre un amplio abanico de candidatos a reemplazarlo",
+        "pubDate": "2026-09-30T13:45:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Jimena Barón renunció a \"Es mi sueño\": por qué se fue y quién la reemplazará",
@@ -262,15 +271,6 @@
         "link": "https://www.lacapital.com.ar/agro/la-escuela-agrotecnica-donde-los-alumnos-crian-toros-campeones-n10283866.html",
         "image": "https://media.lacapital.com.ar/p/189facf06c160db457614c82f47d9464/adjuntos/203/imagenes/103/434/0103434901/1200x675/861x569:881x589/escuela-agrotecnica-toros-campeones.jpeg",
         "summary": "La cabaña de la Escuela Agrotécnica de Pergamino se llevó todos los premios de toros Polled Hereford en las exposiciones ganaderas de Junín, Chivilcoy y Pergamino. Detrás de esos logros está el trabajo de selección y cría que realizan estudiantes y docentes",
-        "pubDate": "2026-09-30T09:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Proponen un programa para apoyar a deportistas y entrenadores de alto rendimiento de Rosario",
-        "link": "https://www.lacapital.com.ar/la-ciudad/proponen-un-programa-apoyar-deportistas-y-entrenadores-alto-rendimiento-rosario-n10283885.html",
-        "image": "https://media.lacapital.com.ar/p/19a004dc36cbf1077c2f2d60cbf6744e/adjuntos/203/imagenes/103/413/0103413321/1200x675/smart/ivo-dargoltz.jpg",
-        "summary": "El proyecto contempla cuatro categorías con un tope de seis salarios mínimos, además de otros accesos prioritarios y cobertura integral médica y nutricional",
         "pubDate": "2026-09-30T09:15:00+00:00",
         "approxTime": false
       }
