@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T00:22:22.899291+00:00",
+  "generatedAt": "2026-09-30T00:31:00.436520+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Giuliano: \"Santa Fe necesita un proyecto que defienda la producción y el trabajo\"",
+        "link": "https://www.lacapital.com.ar/politica/giuliano-santa-fe-necesita-un-proyecto-que-defienda-la-produccion-y-el-trabajo-n10283960.html",
+        "image": "https://media.lacapital.com.ar/p/370811958bed66a1dba67064f1ec25cc/adjuntos/203/imagenes/103/435/0103435872/2026-09-29-giuliano.jpg",
+        "summary": "En Casilda, Arequito y Chabás, el diputado Nacional presentó “La Santa Fe que viene” y dialogó con trabajadores, docentes, empresarios y autoridades locales.",
+        "pubDate": "2026-09-30T00:23:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Newell's: los pibes de la reserva quieren aprovechar el envión del clásico",
         "link": "https://www.lacapital.com.ar/ovacion/newells-los-pibes-la-reserva-quieren-aprovechar-el-envion-del-clasico-n10283957.html",
         "image": "https://media.lacapital.com.ar/p/a222e5fbd8c76a314a260b3e1cd236b1/adjuntos/203/imagenes/103/435/0103435826/nob-res-82703094.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/d877d396b58752a3b9b4b25ba9ea3842/adjuntos/203/imagenes/103/269/0103269177/1200x675/352x312:372x332/comercios-mrb-117-1.jpg",
         "summary": "El descenso revirtió las subas de los dos meses anteriores. En la comparación interanual, once de los dieciséis sectores retrocedieron y solo cinco crecieron, según el Ipec",
         "pubDate": "2026-09-29T20:55:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Médicos de Rosario y la región se reúnen para debatir sobre patologías de la columna",
-        "link": "https://www.lacapital.com.ar/medicos-rosario-y-la-region-se-reunen-debatir-patologias-la-columna-n10283923.html",
-        "image": "https://media.lacapital.com.ar/p/c3b70b0be35fd9dc79f6663c4756eb03/adjuntos/203/imagenes/103/435/0103435355/1200x675/smart/image-7.jpg",
-        "summary": "Organizado por la Sociedad Argentina de Patología de la Columna Vertebral, el Ateneo Interhospitalario presentará casos clínicos reales y técnicas quirúrgicas de vanguardia",
-        "pubDate": "2026-09-29T20:54:00+00:00",
         "approxTime": false
       }
     ]
