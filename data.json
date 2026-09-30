@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T22:59:48.071300+00:00",
+  "generatedAt": "2026-09-30T23:01:15.013213+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,11 +141,11 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "Actividad económica en baja, sólo el agro y la recaudación crecieron en agosto",
-        "link": "https://www.lacapital.com.ar/economia/actividad-economica-baja-solo-el-agro-y-la-recaudacion-crecieron-agosto-n10284149.html",
-        "image": "https://media.lacapital.com.ar/p/25ac1bf5adf7045aee4cf2ad220051d9/adjuntos/305/imagenes/102/685/0102685955/1200x675/453x244:473x264/soja-rastrojo.png",
-        "summary": "La actividad económica retrocedió 0,2% en agosto respecto de julio y 0,8% interanual, según el índice elaborado por las Bolsas de Comercio de Rosario y Santa Fe. Ocho de sus diez componentes en terreno negativo",
-        "pubDate": "2026-09-30T22:40:00+00:00",
+        "title": "Casa FOA llega por primera vez a Rosario en 2027 y elige a Midtown como sede",
+        "link": "https://www.lacapital.com.ar/la-ciudad/casa-foa-llega-primera-vez-rosario-2027-y-elige-midtown-como-sede-n10284090.html",
+        "image": "https://media.lacapital.com.ar/p/35d261a10810ffefd0dd6cfc90db4fbb/adjuntos/203/imagenes/103/437/0103437921/1200x675/smart/82724144.jpeg",
+        "summary": "El desarrollo ubicado en Santiago y Tucumán fue elegido para recibir en 2027 a la principal muestra de arquitectura, diseño e interiorismo del país",
+        "pubDate": "2026-09-30T22:59:00+00:00",
         "approxTime": false
       },
       {
@@ -154,6 +154,15 @@
         "link": "https://www.lacapital.com.ar/politica/siguen-intentando-disciplinarnos-dijo-maximo-kirchner-luego-ser-demorado-san-luis-n10284153.html",
         "image": "https://media.lacapital.com.ar/p/d79f28fe1dbf3032dee70e48acccef02/adjuntos/203/imagenes/103/114/0103114307/1200x675/smart/maximo-kirchner-pgsm-254-vb-2.jpg",
         "summary": "La medida, en el marco de la causa Hotesur, se realizó cuando el diputado viajaba hacia San Juan para reunirse con referentes del peronismo",
+        "pubDate": "2026-09-30T22:40:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Actividad económica en baja, sólo el agro y la recaudación crecieron en agosto",
+        "link": "https://www.lacapital.com.ar/economia/actividad-economica-baja-solo-el-agro-y-la-recaudacion-crecieron-agosto-n10284149.html",
+        "image": "https://media.lacapital.com.ar/p/25ac1bf5adf7045aee4cf2ad220051d9/adjuntos/305/imagenes/102/685/0102685955/1200x675/453x244:473x264/soja-rastrojo.png",
+        "summary": "La actividad económica retrocedió 0,2% en agosto respecto de julio y 0,8% interanual, según el índice elaborado por las Bolsas de Comercio de Rosario y Santa Fe. Ocho de sus diez componentes en terreno negativo",
         "pubDate": "2026-09-30T22:40:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/4a7f60e69dcf8198e527bc2398380a23/adjuntos/203/imagenes/101/472/0101472837/1200x675/smart/alerta-amarillojpg.jpg",
         "summary": "El Servicio Meteorológico Nacional aumentó la probabilidad de lluvias normales o superiores a lo habitual entre octubre y diciembre. La provincia advierte que el período más complejo del fenómeno llegará hacia fin de año.",
         "pubDate": "2026-09-30T20:24:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Argentina disputará las eliminatorias de Conmebol, pero ya clasificada al Mundial 2030",
-        "link": "https://www.lacapital.com.ar/ovacion/argentina-disputara-las-eliminatorias-conmebol-pero-ya-clasificada-al-mundial-2030-n10284072.html",
-        "image": "https://media.lacapital.com.ar/p/d8eb43e4990e59635fd0c630916cda4e/adjuntos/203/imagenes/103/270/0103270274/1200x675/smart/image-2026-07-12t015018157.png",
-        "summary": "La Albiceleste, Uruguay y Paraguay ya tienen asegurados sus boletos a la próxima Copa del Mundo, pero las demás selecciones deberán pelear por cupos limitados",
-        "pubDate": "2026-09-30T20:22:00+00:00",
         "approxTime": false
       }
     ]
