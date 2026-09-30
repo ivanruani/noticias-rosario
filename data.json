@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-09-30T16:01:32.703447+00:00",
+  "generatedAt": "2026-09-30T16:31:04.110565+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "La Justicia determinó que no prescribió el robo de bebés del que se acusa a la partera rosarina Dolly",
+        "link": "https://www.rosario3.com/policiales/la-justicia-determino-que-no-prescribio-el-robo-de-bebes-del-que-se-acusa-a-la-partera-rosarina-dolly-20260930-0036.html",
+        "image": "https://www.rosario3.com/__export/1790783919080/sites/rosario3/img/2026/09/30/tf.jpg_928314581.jpg",
+        "summary": "En una audiencia desarrollada este miércoles en los tribunales federales de Entre Ríos 435, la Cámara de apelaciones determinó que los delitos de supresión y alteración del estado civil y de la identidad de una menor de diez años y falsedad ideológica de instrumento público no…",
+        "pubDate": "2026-09-30T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Pullaro puso el eje en avanzar sobre el patrimonio de las bandas criminales, sus abogados y contadores",
         "link": "https://www.rosario3.com/policiales/pullaro-puso-el-eje-en-avanzar-sobre-el-patrimonio-de-las-bandas-criminales-sus-abogados-y-contadores-20260930-0029.html",
         "image": "https://www.rosario3.com/__export/1790780405104/sites/rosario3/img/2026/09/30/jornada1.jpg_928314581.jpg",
         "summary": "El gobernador abrió este miércoles la jornada “Crimen organizado y flujos financieros ilícitos: desafíos y estrategias para su desarticulación”, el Parque España de Rosario. “La violencia y el delito no están terminados; las organizaciones criminales no están desarticuladas…",
-        "pubDate": "2026-09-30T12:00:00+00:00",
+        "pubDate": "2026-09-30T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/liberaron-a-los-12-hinchas-de-newells-demorados-anoche-en-el-coloso-y-asuntos-internos-de-la-policia-investiga-el-accionar-de-los-agentes-20260930-0030.html",
         "image": "https://www.rosario3.com/__export/1790783045450/sites/rosario3/img/2026/09/30/cartuchos_newell-s_1.jpg_982625323.jpg",
         "summary": "Fiscalía ordenó la liberación de las personas que fueron demoradas este martes por la noche en el Parque Independencia, a las que se les formó causa por daños. Por otra parte, ordenaron el secuestro de las armas que usaron los policías que ingresaron al club y pidieron los GPS…",
-        "pubDate": "2026-09-30T11:59:00+00:00",
+        "pubDate": "2026-09-30T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/gripe-record-argentina-supera-el-millon-de-casos-por-primera-vez-en-diez-anos-20260930-0025.html",
         "image": "https://www.rosario3.com/__export/1790776730873/sites/rosario3/img/2025/01/10/tengoalergia_es_x1x_1.jpg_506286608.jpg",
         "summary": "El último Boletín Epidemiológico Nacional confirmó que las notificaciones de enfermedad tipo influenza llegaron a su nivel más alto desde 2016. Desde la cartera sanitaria explican que el volumen histórico se debe, en gran medida, al adelanto de la temporada de virus respiratorios",
-        "pubDate": "2026-09-30T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Provincia y Policía defendieron el ingreso de efectivos al Coloso: \"Si hubo un exceso, la Fiscalía investigará\"",
-        "link": "https://www.rosario3.com/policiales/provincia-y-policia-defendieron-el-ingreso-de-efectivos-al-coloso-si-hubo-un-exceso-la-fiscalia-investigara-20260930-0014.html",
-        "image": "https://www.rosario3.com/__export/1790768381895/sites/rosario3/img/2026/09/30/image_-6-.jpg_928314580.jpg",
-        "summary": "El jefe de la UR II, Danilo Villán, y el coordinador de Seguridad en Eventos Masivos, Gustavo Velázquez, dieron explicaciones tras los violentos episodios registrados este martes en la zona del Parque Independencia. Confirmaron 12 detenidos, tres policías heridos y una mujer…",
         "pubDate": "2026-09-30T11:57:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,33 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Incidentes en Newell's: liberan a detenidos y abren investigación sobre policías",
+        "link": "https://www.lacapital.com.ar/ovacion/incidentes-newells-liberan-detenidos-y-abren-investigacion-policias-n10284045.html",
+        "image": "https://media.lacapital.com.ar/p/5ad014917ff5d85eb5fa0f435d2b4fa5/adjuntos/203/imagenes/103/436/0103436464/piedras-newells.jpeg",
+        "summary": "A las personas arrestadas este martes por la noche en el Coloso se les abrirá una causa por resistencia a la autoridad y daños. Incautaron armas reglamentarias",
+        "pubDate": "2026-09-30T16:24:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La banda rosarina Atemporal vuelve a los escenarios junto a No salgas con Robots y Coke Monkey",
+        "link": "https://www.lacapital.com.ar/zoom/la-banda-rosarina-atemporal-vuelve-los-escenarios-junto-no-salgas-robots-y-coke-monkey-n10284050.html",
+        "image": "https://media.lacapital.com.ar/p/03e9d0bab749b9304aa30d4bcd2a494d/adjuntos/203/imagenes/102/043/0102043797/image-2024-11-27t162433262jpg.jpg",
+        "summary": "Después de un tiempo de silencio, la banda rosarina vuelve a tocar en vivo el próximo viernes 3 de octubre en García Bar",
+        "pubDate": "2026-09-30T16:23:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Agenda de teatro en Rosario: funciones todos los días, para todos los gustos",
+        "link": "https://www.lacapital.com.ar/zoom/agenda-teatro-rosario-funciones-todos-los-dias-todos-los-gustos-n10284028.html",
+        "image": "https://media.lacapital.com.ar/p/2c0df686f9fc2e91ef4f06b7bab722c3/adjuntos/203/imagenes/103/436/0103436929/1200x675/smart/image-2026-09-30t135427621.jpg",
+        "summary": "Un repaso por algunas de las propuestas teatrales de los próximos días en la ciudad: dramas, teatro independiente, microteatro y más",
+        "pubDate": "2026-09-30T16:22:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "A tres años del crimen de Ivana Garcilazo, comienza el juicio contra los tres acusados",
         "link": "https://www.lacapital.com.ar/policiales/a-tres-anos-del-crimen-ivana-garcilazo-comienza-el-juicio-contra-los-tres-acusados-n10283986.html",
         "image": "https://media.lacapital.com.ar/p/6d367ee2cfc8ede613475a0c53694fc1/adjuntos/203/imagenes/101/052/0101052138/1200x675/smart/ivana-hincha-centraljpg.jpg",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/d5ddd872af29344ef71a45d61d111980/adjuntos/203/imagenes/103/436/0103436319/1200x675/smart/paises-bajos.png",
         "summary": "La embajada busca a una persona de la ciudad con contactos y experiencia para fortalecer los vínculos comerciales con Santa Fe. Los requisitos",
         "pubDate": "2026-09-30T13:03:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Un dirigente de Estudiantes reaccionó al ver el ataúd que mostraron los Canallas",
-        "link": "https://www.lacapital.com.ar/un-dirigente-estudiantes-reacciono-al-ver-el-ataud-que-mostraron-los-canallas-n10283987.html",
-        "image": "https://media.lacapital.com.ar/p/7efb3669ed6f57090f219e512ff593fc/adjuntos/203/imagenes/103/436/0103436272/1200x675/smart/festejo-centarl-ataud.jpg",
-        "summary": "Algunos directivos del Pincha utilizaron sus redes para criticar a los fanáticos que mostraron un féretro con el nombre de Verón",
-        "pubDate": "2026-09-30T12:40:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Quién es Maxi Ghione, el actor que fue detenido con armas en Santa Fe",
-        "link": "https://www.lacapital.com.ar/zoom/quien-es-maxi-ghione-el-actor-que-fue-detenido-armas-santa-fe-n10283998.html",
-        "image": "https://media.lacapital.com.ar/p/e516846a7b7a271429d87497eba12e25/adjuntos/203/imagenes/103/436/0103436384/1200x675/smart/image-2026-09-30t101312155.jpg",
-        "summary": "Además de una larga carrera en teatro, es recordado por sus personajes en tiras populares como “Buenos vecinos” y “Montecristo”",
-        "pubDate": "2026-09-30T12:37:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Un avión que iba a Israel aterrizó de emergencia tras un incidente violento entre los pilotos",
-        "link": "https://www.lacapital.com.ar/el-mundo/un-avion-que-iba-israel-aterrizo-emergencia-un-incidente-violento-los-pilotos-n10283997.html",
-        "image": "https://media.lacapital.com.ar/p/5e8ef34eba50030ae87a179633a08539/adjuntos/203/imagenes/103/436/0103436382/1200x675/smart/image-2026-09-30t090837262.png",
-        "summary": "El vuelo FZ1073 que había salido de Dubai tuvo que desviar su ruta hacia Tabuk. Quienes comandaban las nave fueron hospitalizados, los pasajeros están bien de salud",
-        "pubDate": "2026-09-30T12:35:00+00:00",
         "approxTime": false
       }
     ]
