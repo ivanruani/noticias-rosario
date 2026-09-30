@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T19:12:35.935612+00:00",
+  "generatedAt": "2026-09-30T19:31:04.755639+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,33 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Capturaron a dos menores por un ataque a tiros en Villa Gobernador Gálvez",
+        "link": "https://www.lacapital.com.ar/policiales/capturaron-dos-menores-un-ataque-tiros-villa-gobernador-galvez-n10284061.html",
+        "image": "https://media.lacapital.com.ar/p/7d3f75f1da2b5a59893a72707a8bccbf/adjuntos/203/imagenes/103/437/0103437053/1200x675/smart/deti.jpg",
+        "summary": "Un hombre resultó herido y el atentado se motivó por una riña familiar entre vecinos. Esteban Z. recibió una herida de bala en el brazo.",
+        "pubDate": "2026-09-30T19:26:52+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Crimen organizado: Pullaro advirtió que las bandas siguen activas",
+        "link": "https://www.lacapital.com.ar/politica/crimen-organizado-pullaro-advirtio-que-las-bandas-siguen-activas-n10284063.html",
+        "image": "https://media.lacapital.com.ar/p/34df20944cd1e8c9de5ecfd4bb4ea326/adjuntos/203/imagenes/103/437/0103437048/1200x675/smart/whatsapp-image-2026-09-30-at-111738.jpeg",
+        "summary": "El gobernador abrió junto al intendente Javkin y otros funcionarios una jornada de charlas sobre crimen organizado y flujos financieros ilícitos",
+        "pubDate": "2026-09-30T19:25:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Brasil elige presidente: la última encuesta ratifica a Lula al frente y anticipa un balotaje con Flávio Bolsonaro",
+        "link": "https://www.lacapital.com.ar/el-mundo/brasil-elige-presidente-la-ultima-encuesta-ratifica-lula-al-frente-y-anticipa-un-balotaje-flavio-bolsonaro-n10284104.html",
+        "image": "https://media.lacapital.com.ar/p/d01d98e7f8dcc073798faff3029fce4a/adjuntos/203/imagenes/103/437/0103437423/1200x675/smart/imagebolsonaro.jpg",
+        "summary": "El actual mandatario aventaja por cinco puntos al hijo de Jair Bolsonaro, aunque los sondeos anticipan una segunda vuelta muy ajustada. Trump y Milei siguen de cerca una elección clave para la región.",
+        "pubDate": "2026-09-30T19:24:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Rosario presentó en Buenos Aires la oferta turística para esta primavera",
         "link": "https://www.lacapital.com.ar/la-ciudad/rosario-presento-buenos-aires-la-oferta-turistica-esta-primavera-n10284022.html",
         "image": "https://media.lacapital.com.ar/p/14fc4e4f155cfd383df59a2b51f315b4/adjuntos/203/imagenes/103/436/0103436724/1200x675/smart/image-2026-09-30t110012129.png",
@@ -150,19 +177,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Cómo hacer chía pudding, un desayuno sano y distinto",
-        "link": "https://www.lacapital.com.ar/informacion-general/como-hacer-chia-pudding-un-desayuno-sano-y-distinto-n10284085.html",
-        "image": "https://media.lacapital.com.ar/p/984ce73c54509fa66ff055bd89f41346/adjuntos/203/imagenes/103/437/0103437241/1200x675/smart/image-15.png",
-        "summary": "Con pocos ingredientes y en un ratito se puede preparar un desayuno sano y nutritivo, que se adapta a todos los gustos. El paso a paso",
+        "title": "Los finalistas y ganadores de \"Innovar para Producir\" fueron reconocidos durante la feria \"Roldán Produce\"",
+        "link": "https://www.lacapital.com.ar/la-region/los-finalistas-y-ganadores-innovar-producir-fueron-reconocidos-la-feria-roldan-produce-n10284086.html",
+        "image": "https://media.lacapital.com.ar/p/f4f5f678f6723064cdec88afedc43e7e/adjuntos/203/imagenes/103/437/0103437244/1200x675/smart/roldan-produce-1.jpg",
+        "summary": "Con más de 40 expositores de la ciudad, la muestra industrial fue un espacio de encuentro para la comunidad de Roldán",
         "pubDate": "2026-09-30T18:26:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Los finalistas y ganadores de \"Innovar para Producir\" fueron reconocidos durante la feria \"Roldán Produce\"",
-        "link": "https://www.lacapital.com.ar/la-region/los-finalistas-y-ganadores-innovar-producir-fueron-reconocidos-la-feria-roldan-produce-n10284086.html",
-        "image": "https://media.lacapital.com.ar/p/f4f5f678f6723064cdec88afedc43e7e/adjuntos/203/imagenes/103/437/0103437244/1200x675/smart/roldan-produce-1.jpg",
-        "summary": "Con más de 40 expositores de la ciudad, la muestra industrial fue un espacio de encuentro para la comunidad de Roldán",
+        "title": "Cómo hacer chía pudding, un desayuno sano y distinto",
+        "link": "https://www.lacapital.com.ar/informacion-general/como-hacer-chia-pudding-un-desayuno-sano-y-distinto-n10284085.html",
+        "image": "https://media.lacapital.com.ar/p/984ce73c54509fa66ff055bd89f41346/adjuntos/203/imagenes/103/437/0103437241/1200x675/smart/image-15.png",
+        "summary": "Con pocos ingredientes y en un ratito se puede preparar un desayuno sano y nutritivo, que se adapta a todos los gustos. El paso a paso",
         "pubDate": "2026-09-30T18:26:00+00:00",
         "approxTime": false
       },
@@ -195,19 +222,19 @@
       },
       {
         "source": "La Capital",
-        "title": "La Corte Suprema tuvo que dirimir una disputa de dos reconocidas influencers argentinas",
-        "link": "https://www.lacapital.com.ar/informacion-general/la-corte-suprema-tuvo-que-dirimir-una-disputa-dos-reconocidas-influencers-argentinas-n10284052.html",
-        "image": "https://media.lacapital.com.ar/p/93968d77c360bf80481d47fabced2514/adjuntos/203/imagenes/103/437/0103437047/1200x675/smart/image-2026-09-30t140053180.png",
-        "summary": "El máximo tribunal revocó una medida cautelar que obligaba a una de ellas a borrar publicaciones que hacían referencia a su colega",
+        "title": "WhatsApp anunció nuevas funciones para que los padres cuiden a sus hijos sin revisar sus conversaciones",
+        "link": "https://www.lacapital.com.ar/informacion-general/whatsapp-anuncio-nuevas-funciones-que-los-padres-cuiden-sus-hijos-revisar-sus-conversaciones-n10284056.html",
+        "image": "https://media.lacapital.com.ar/p/5af894898bb3e96551616f9f8c36659e/adjuntos/203/imagenes/102/476/0102476468/1200x675/smart/nina-celular473945c_732_1296jpg.jpg",
+        "summary": "Los padres pueden regular determinadas funciones en la app para proteger a sus hijos sin la necesidad de revisar los chats. Cómo sumar estas funciones",
         "pubDate": "2026-09-30T17:55:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "WhatsApp anunció nuevas funciones para que los padres cuiden a sus hijos sin revisar sus conversaciones",
-        "link": "https://www.lacapital.com.ar/informacion-general/whatsapp-anuncio-nuevas-funciones-que-los-padres-cuiden-sus-hijos-revisar-sus-conversaciones-n10284056.html",
-        "image": "https://media.lacapital.com.ar/p/5af894898bb3e96551616f9f8c36659e/adjuntos/203/imagenes/102/476/0102476468/1200x675/smart/nina-celular473945c_732_1296jpg.jpg",
-        "summary": "Los padres pueden regular determinadas funciones en la app para proteger a sus hijos sin la necesidad de revisar los chats. Cómo sumar estas funciones",
+        "title": "La Corte Suprema tuvo que dirimir una disputa de dos reconocidas influencers argentinas",
+        "link": "https://www.lacapital.com.ar/informacion-general/la-corte-suprema-tuvo-que-dirimir-una-disputa-dos-reconocidas-influencers-argentinas-n10284052.html",
+        "image": "https://media.lacapital.com.ar/p/93968d77c360bf80481d47fabced2514/adjuntos/203/imagenes/103/437/0103437047/1200x675/smart/image-2026-09-30t140053180.png",
+        "summary": "El máximo tribunal revocó una medida cautelar que obligaba a una de ellas a borrar publicaciones que hacían referencia a su colega",
         "pubDate": "2026-09-30T17:55:00+00:00",
         "approxTime": false
       },
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/b782c2ce5a3fd07ec7358ebc3b769e24/adjuntos/203/imagenes/103/436/0103436998/1200x675/smart/image-2026-09-30t134904645.png",
         "summary": "Pilar Smith contó en LAM los detalles de la denuncia presentada contra el actor por un trabajador sexual. \"Estaba privado de mi libertad\", leyó la panelista",
         "pubDate": "2026-09-30T17:51:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Revés para la partera Dolly: rechazan la prescripción por el robo de bebés en Rosario",
-        "link": "https://www.lacapital.com.ar/policiales/reves-la-partera-dolly-rechazan-la-prescripcion-el-robo-bebes-rosario-n10284065.html",
-        "image": "https://media.lacapital.com.ar/p/b3e1df3a1593ade3e67c0b7aa109b817/adjuntos/203/imagenes/102/838/0102838799/1200x675/smart/tribunales-federales-justicia-federal-rosario.png",
-        "summary": "La partera seguirá siendo investigada por la supresión de identidad de varios bebés, uno de ellos registrada como su propia hija",
-        "pubDate": "2026-09-30T17:48:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Aguas Santafesinas fortalece su planificación preventiva ante la posible llegada del fenómeno de El Niño",
-        "link": "https://www.lacapital.com.ar/la-region/aguas-santafesinas-fortalece-su-planificacion-preventiva-la-posible-llegada-del-fenomeno-el-nino-n10284074.html",
-        "image": "https://media.lacapital.com.ar/p/3fa7e392108f8eabcada3577ad8692ca/adjuntos/203/imagenes/103/437/0103437145/1200x675/smart/aguas-santafesinas1.jpeg",
-        "summary": "Desde principios de año la empresa trabaja en la identificación de vulnerabilidades y, desde mayo, profundizó acciones preventivas, operativas y de contingencia para afrontar lluvias intensas e inundaciones",
-        "pubDate": "2026-09-30T17:48:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Medicamentos gratis de Pami: quiénes pueden acceder en octubre",
-        "link": "https://www.lacapital.com.ar/informacion-general/medicamentos-gratis-pami-quienes-pueden-acceder-octubre-n10284018.html",
-        "image": "https://media.lacapital.com.ar/p/b5e279e27a56deac21e1a7a5152dbc02/adjuntos/203/imagenes/103/299/0103299475/1200x675/smart/medicamentos-gente.jpg",
-        "summary": "Las condiciones para el acceso a medicamentos gratuitos de Pami se han modificado durante el último tiempo. En esta nota, la lista de los que siguen siendo gratuitos en octubre y los requisitos para acceder",
-        "pubDate": "2026-09-30T16:50:00+00:00",
         "approxTime": false
       }
     ]
