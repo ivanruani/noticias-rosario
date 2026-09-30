@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T12:01:18.080810+00:00",
+  "generatedAt": "2026-09-30T12:31:03.954256+00:00",
   "sites": {
     "rosario3": [
       {
@@ -112,11 +112,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Un vuelo a Israel aterrizó de emergencia en Arabia Saudita: el piloto habría apuñalado al copiloto",
+        "link": "https://www.rosario3.com/informaciongeneral/un-vuelo-a-israel-aterrizo-de-emergencia-en-arabia-saudita-por-supuesta-pelea-en-la-tripulacion-el-piloto-habria-apunalado-al-copiloto-20260930-0015.html",
+        "image": "https://www.rosario3.com/__export/1790768852265/sites/rosario3/img/2026/09/30/flydubai.jpg_54252853.jpg",
+        "summary": "El avión de la empresa FlyDubai cubría la ruta entre Dubái y Tel Aviv. Fue desviado tras un 'altercado entre la tripulación', según las primeras informaciones. El hecho ocurrió en la mañana de este miércoles y se encontraba sujeto a investigación",
+        "pubDate": "2026-09-30T11:48:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Claves del día: cae la actividad en Santa Fe, las deudas aprietan y la Corte destraba la venta de tierras a extranjeros | Ecos365",
         "link": "https://www.rosario3.com/ecos365/noticias/claves-del-dia-cae-la-actividad-en-santa-fe-las-deudas-aprietan-y-la-corte-destraba-la-venta-de-tierras-a-extranjeros-20260930-0001.html",
         "image": "https://www.rosario3.com/__export/1790763199693/sites/rosario3/img/2026/07/03/industria_textil.jpg_1697240522.jpg",
         "summary": "Diputados discute alivio para deudores, la Corte destraba tierras para extranjeros y los bonos respiran, entre el concurso de Jutex y la tragedia en Albardon Bio",
-        "pubDate": "2026-09-30T11:48:00+00:00",
+        "pubDate": "2026-09-30T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,20 +134,29 @@
         "link": "https://www.rosario3.com/informaciongeneral/pullaro-cuestiono-la-quita-del-beneficio-en-la-tarifa-de-gas-hay-que-sacar-subsidios-a-los-ricos-no-por-zona-20260929-0078.html",
         "image": "https://www.rosario3.com/__export/1790716197998/sites/rosario3/img/2026/09/29/pullaro.jpg_1825222445.jpg",
         "summary": "El gobernador advirtió que el cambio tendrá impacto en cerca de 500 mil usuarios santafesinos y anticipó que la Provincia asistirá a quienes deban reinscribirse para mantener el beneficio. “La gente no está llegando a fin de mes”, remarcó",
-        "pubDate": "2026-09-29T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Explotaron tanques de metanol en una planta de Puerto San Martín: dos operarios muertos y cuatro heridos",
-        "link": "https://www.rosario3.com/informaciongeneral/explotaron-tanques-de-metanol-en-una-planta-de-puerto-san-martin-y-hay-al-menos-un-operario-muerto-20260929-0063.html",
-        "image": "https://www.rosario3.com/__export/1790710709131/sites/rosario3/img/2026/09/29/explosion_puerto_san_martin_-1-.jpg_506286608.jpg",
-        "summary": "Ocurrió este martes cerca de las tres de la tarde en una empresa ubicada en la zona norte de esa ciudad del cordón industrial. Habrían explotado varios tanques de metanol por razones que se investigan. Dos heridos fueron trasladados a Rosario en helicóptero y otros dos a…",
         "pubDate": "2026-09-29T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "A una hincha de Central la atacaron con piedras frente al Coloso cuando volvía del festejo",
+        "link": "https://www.lacapital.com.ar/ovacion/a-una-hincha-central-la-atacaron-piedras-frente-al-coloso-cuando-volvia-del-festejo-n10283995.html",
+        "image": "https://media.lacapital.com.ar/p/1d91a4a5a2ea5a2e3f59396e02a237fa/adjuntos/203/imagenes/103/436/0103436381/1200x675/smart/brenda-piedrazo.jpg",
+        "summary": "Brenda recibió un impacto en su cabeza cuando regresaba del Monumento en moto con su hijo tras celebrar el campeonato canalla. Recibió seis puntos de sutura",
+        "pubDate": "2026-09-30T12:23:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El gobierno reconoció que \"algo se fue de las manos\" en Newell's tras el festejo de Central",
+        "link": "https://www.lacapital.com.ar/ovacion/el-gobierno-reconocio-que-algo-se-fue-las-manos-newells-el-festejo-central-n10283985.html",
+        "image": "https://media.lacapital.com.ar/p/9dda04049656bc9beb70223f838486f3/adjuntos/203/imagenes/103/436/0103436383/1200x675/smart/colooooo.jpg",
+        "summary": "El coordinador de Seguridad Deportiva de Santa Fe, Gustavo Velázquez, admitió que no se pudo controlar la situación cerca del Coloso y anticipó que se investigará la labor policial",
+        "pubDate": "2026-09-30T12:16:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Central agradeció el apoyo de las fuerzas de seguridad en el operativo del Monumento",
@@ -186,10 +204,10 @@
       },
       {
         "source": "La Capital",
-        "title": "Newell's, ante Lanús, podrá volver a conformar su zaga ideal",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-lanus-podra-volver-conformar-su-zaga-ideal-n10283953.html",
-        "image": "https://media.lacapital.com.ar/p/1add39adeeca97e5a3cbb07aec71a8ef/adjuntos/203/imagenes/103/435/0103435754/nob-carr-588369.jpg",
-        "summary": "Para el choque de este sábado el DT de Newell's podrá disponer de Lucas Carrizo, quien salió antes frente a Platense por una molestia muscular",
+        "title": "La escuela agrotécnica donde los alumnos crían toros campeones",
+        "link": "https://www.lacapital.com.ar/agro/la-escuela-agrotecnica-donde-los-alumnos-crian-toros-campeones-n10283866.html",
+        "image": "https://media.lacapital.com.ar/p/189facf06c160db457614c82f47d9464/adjuntos/203/imagenes/103/434/0103434901/1200x675/861x569:881x589/escuela-agrotecnica-toros-campeones.jpeg",
+        "summary": "La cabaña de la Escuela Agrotécnica de Pergamino se llevó todos los premios de toros Polled Hereford en las exposiciones ganaderas de Junín, Chivilcoy y Pergamino. Detrás de esos logros está el trabajo de selección y cría que realizan estudiantes y docentes",
         "pubDate": "2026-09-30T09:15:00+00:00",
         "approxTime": false
       },
@@ -204,10 +222,10 @@
       },
       {
         "source": "La Capital",
-        "title": "La escuela agrotécnica donde los alumnos crían toros campeones",
-        "link": "https://www.lacapital.com.ar/agro/la-escuela-agrotecnica-donde-los-alumnos-crian-toros-campeones-n10283866.html",
-        "image": "https://media.lacapital.com.ar/p/189facf06c160db457614c82f47d9464/adjuntos/203/imagenes/103/434/0103434901/1200x675/861x569:881x589/escuela-agrotecnica-toros-campeones.jpeg",
-        "summary": "La cabaña de la Escuela Agrotécnica de Pergamino se llevó todos los premios de toros Polled Hereford en las exposiciones ganaderas de Junín, Chivilcoy y Pergamino. Detrás de esos logros está el trabajo de selección y cría que realizan estudiantes y docentes",
+        "title": "Newell's, ante Lanús, podrá volver a conformar su zaga ideal",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-lanus-podra-volver-conformar-su-zaga-ideal-n10283953.html",
+        "image": "https://media.lacapital.com.ar/p/1add39adeeca97e5a3cbb07aec71a8ef/adjuntos/203/imagenes/103/435/0103435754/nob-carr-588369.jpg",
+        "summary": "Para el choque de este sábado el DT de Newell's podrá disponer de Lucas Carrizo, quien salió antes frente a Platense por una molestia muscular",
         "pubDate": "2026-09-30T09:15:00+00:00",
         "approxTime": false
       },
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/b39e4106a64d64455d39069825c56ffb/adjuntos/203/imagenes/103/436/0103436060/2026-09-29-incidentes-newells.jpg",
         "summary": "Personal policial dispersó con balas de goma e ingresó al club rojinegro, donde detuvo a varias personas",
         "pubDate": "2026-09-30T02:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Pasó 41 años en el corredor de la muerte y quedó libre por una prueba de ADN",
-        "link": "https://www.lacapital.com.ar/informacion-general/paso-41-anos-el-corredor-la-muerte-y-quedo-libre-una-prueba-adn-n10283970.html",
-        "image": "https://media.lacapital.com.ar/p/99d6a08c19c2e243dcb2cd720141b10f/adjuntos/203/imagenes/103/436/0103436038/2026-09-29-carter-crimen-liberado.jpg",
-        "summary": "Fue encarcelado por un asesinato de 1985. Tras varias irregularidades, se celebró un nuevo juicio y se determinó su inocencia",
-        "pubDate": "2026-09-30T02:06:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Tennessee ejecutará a una mujer por primera vez en más de 200 años",
-        "link": "https://www.lacapital.com.ar/informacion-general/tennessee-ejecutara-una-mujer-primera-vez-mas-200-anos-n10283968.html",
-        "image": "https://media.lacapital.com.ar/p/1afdc222234f7ffaa5904da1ef187f0c/adjuntos/203/imagenes/103/435/0103435994/2026-09-29-mujer-ejecucion-tennessee.jpg",
-        "summary": "Christa Pike, de 50 años, recibirá este miércoles una inyección letal de pentobarbital por un brutal crimen que cometió en 1995",
-        "pubDate": "2026-09-30T01:43:00+00:00",
         "approxTime": false
       }
     ]
