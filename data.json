@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-10-01T14:01:19.020927+00:00",
+  "generatedAt": "2026-10-01T14:31:06.739542+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Cococcioni sobre Newell’s: \"No se puede tirar piedras a la gente y entrar a un club no es asimilable a allanar una morada\"",
+        "link": "https://www.rosario3.com/informaciongeneral/cococcioni-sobre-newells-no-se-puede-tirar-piedras-a-la-gente-y-entrar-a-un-club-no-asimilable-a-allanar-una-morada-20261001-0025.html",
+        "image": "https://www.rosario3.com/__export/1790863747726/sites/rosario3/img/2026/10/01/cococciomi.jpg_928314581.jpg",
+        "summary": "El ministro de Seguridad de Santa Fe se refirió al accionar de la Policía en el club rojinegro. Durante un encuentro de fiscales en Rosario, el funcionario aseguró que investigarán si hubo excesos de los agentes. Sin embargo, remarcó que las dependencias de una institución…",
+        "pubDate": "2026-10-01T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Litoral Gas actualizó su tarifa para octubre: a cuánto puede subir la factura en Rosario tras la salida de Zona Fría",
         "link": "https://www.rosario3.com/-economia-negocios-agro-/litoral-gas-actualizo-su-tarifa-para-octubre-a-cuanto-puede-subir-la-factura-en-rosario-tras-la-salida-de-zona-fria-20261001-0023.html",
         "image": "https://www.rosario3.com/__export/1790862348469/sites/rosario3/img/2026/10/01/litoral_gas_version1790862347929.jpg_1698497378.jpg",
         "summary": "El nuevo cuadro tarifario rige desde este jueves y se combina con la eliminación del beneficio automático de Zona Fría para Rosario y el sur de Santa Fe. Para un usuario R1 sin subsidios focalizados, el cargo fijo pasa de $2.494 a $3.649",
-        "pubDate": "2026-10-01T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Impulsan a Santa Fe como capital nacional del deporte: “En ningún lugar de Argentina encontrás algo igual”",
-        "link": "https://www.rosario3.com/informaciongeneral/impulsan-a-santa-fe-como-capital-nacional-del-deporte-en-ningun-lugar-de-argentina-encontras-algo-igual-20261001-0015.html",
-        "image": "https://www.rosario3.com/__export/1790858731860/sites/rosario3/img/2026/10/01/ia.jpg_928314581.jpg",
-        "summary": "La diputada nacional Gisela Scaglia explicó los alcances del proyecto de ley que impulsa en el Congreso nacional luego de la realización de los Juegos Suramericanos y reflexionó sobre la necesidad de un cambio cultural para erradicar las agresiones en los estadios de fútbol…",
         "pubDate": "2026-10-01T11:59:00+00:00",
         "approxTime": true
       },
@@ -25,7 +25,7 @@
         "title": "Tarea comunitaria para resarcir faltas de tránsito en Rosario: “La solidaridad es un puente”",
         "link": "https://www.rosario3.com/informaciongeneral/tarea-comunitaria-para-resarcir-faltas-de-transito-en-rosario-la-solidaridad-es-un-puente-20261001-0022.html",
         "image": "https://www.rosario3.com/__export/1790862484653/sites/rosario3/img/2026/10/01/transitodia.jpg_928314581.jpg",
-        "summary": "La Municipalidad firmó un convenio con la organización Rosario Solidaria para implementar un programa integral destinado a quienes cometen infracciones viales. Los trabajos en comedores o refacciones de muebles no reemplazarán las multas ni la quita de carnet, sino que se…",
+        "summary": "La Municipalidad firmó un convenio con la organización Movimiento Solidario Rosario para implementar un programa integral destinado a quienes cometen infracciones viales. Los trabajos en comedores o refacciones de muebles no reemplazarán las multas ni la quita de carnet, sino…",
         "pubDate": "2026-10-01T11:58:00+00:00",
         "approxTime": true
       },
@@ -40,10 +40,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "La Provincia dará premios de hasta 8 millones de pesos a los santafesinos que compitieron en los Juegos Suramericanos",
-        "link": "https://www.rosario3.com/informaciongeneral/la-provincia-dara-premios-de-hasta-8-millones-de-pesos-a-los-santafesinos-que-compitieron-en-los-juegos-suramericanos-20261001-0013.html",
-        "image": "https://www.rosario3.com/__export/1790854543097/sites/rosario3/img/2026/10/01/basaldella.jpg_982625323.jpg",
-        "summary": "El reconocimiento abarcará a quienes obtuvieron medallas y a los que no. Los montos irán de 2 millones a 8 millones y la inversión total será de 326 millones de pesos",
+        "title": "Impulsan a Santa Fe como capital nacional del deporte: “En ningún lugar de Argentina encontrás algo igual”",
+        "link": "https://www.rosario3.com/informaciongeneral/impulsan-a-santa-fe-como-capital-nacional-del-deporte-en-ningun-lugar-de-argentina-encontras-algo-igual-20261001-0015.html",
+        "image": "https://www.rosario3.com/__export/1790858731860/sites/rosario3/img/2026/10/01/ia.jpg_928314581.jpg",
+        "summary": "La diputada nacional Gisela Scaglia explicó los alcances del proyecto de ley que impulsa en el Congreso nacional luego de la realización de los Juegos Suramericanos y reflexionó sobre la necesidad de un cambio cultural para erradicar las agresiones en los estadios de fútbol…",
         "pubDate": "2026-10-01T11:56:00+00:00",
         "approxTime": true
       },
@@ -76,11 +76,29 @@
       },
       {
         "source": "Rosario3",
+        "title": "El Ministerio de Salud confirmó que el operario accidentado en Puerto San Martín continúa internado grave en el Centenario",
+        "link": "https://www.rosario3.com/informaciongeneral/murio-uno-de-los-operarios-internados-por-la-explosion-en-puerto-san-martin-son-3-las-victimas-victimas-fatales-20261001-0008.html",
+        "image": "https://www.rosario3.com/__export/1790850795635/sites/rosario3/img/2026/10/01/explosion_puerto_san_martin_jpg_674994428.jpg_1067613685.jpg",
+        "summary": "Este jueves se había informado la muerte de César Aquino, uno de los cuatro operarios que sobrevivieron con serias heridas a la explosión de la planta de Albardon Bio. Pero desde la cartera de Salud aclararon que su estado es crítico",
+        "pubDate": "2026-10-01T11:52:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Franco Colapinto habló sobre su choque con Gasly en la previa del GP de Bahrein: \"Fue un error simple y tonto, todos los pilotos lo han tenido\"",
         "link": "https://www.rosario3.com/deportes/franco-colapinto-hablo-sobre-su-choque-con-gasly-en-la-previa-del-gp-de-bahrein-fue-un-error-simple-y-tonto-todos-los-pilotos-lo-han-tenido-20261001-0021.html",
         "image": "https://www.rosario3.com/__export/1790861038403/sites/rosario3/img/2026/10/01/colapinto-malasia.jpg_928314580.jpg",
         "summary": "El piloto argentino dialogó en conferencia de prensa en la previa del Gran Premio de Bahrein que se disputará en Sepang, Malasia. “Tomé toda la responsabilidad, estoy triste por lo que pasó pero hemos tenido muchas charlas como equipo”, aclaró",
-        "pubDate": "2026-10-01T11:52:00+00:00",
+        "pubDate": "2026-10-01T11:51:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Tras la partida de Cristiano Ronaldo de la concentración de Portugal, otro delantero usará la icónica camiseta 7",
+        "link": "https://www.rosario3.com/deportes/tras-la-partida-de-cristiano-ronaldo-de-la-concentracion-de-portugal-otro-delantero-usara-la-iconica-camiseta-7-20261001-0024.html",
+        "image": "https://www.rosario3.com/__export/1790862968779/sites/rosario3/img/2026/10/01/rafa-leao-cr7.jpg_928314580.jpg",
+        "summary": "El atacante del Galatasaray Rafa Leão utilizará el número del delantero luego del abandono del capitán portugués para el partido ante Dinamarca por la Liga de las Naciones",
+        "pubDate": "2026-10-01T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -89,33 +107,15 @@
         "link": "https://www.rosario3.com/informaciongeneral/rescataron-a-un-trabajador-que-cayo-tres-metros-dentro-de-una-noria-en-puerto-san-martin-20261001-0016.html",
         "image": "https://www.rosario3.com/__export/1790857823154/sites/rosario3/img/2026/10/01/whatsapp_image_2026-10-01_at_09_02_28_version1790857822526.jpeg_1825222445.jpeg",
         "summary": "El hombre, de 50 años, sufrió la caída mientras trabajaba en un acopio ubicado sobre Presidente Perón al 2700 de la vecina localidad. Quedó atrapado con los pies entre los escalones de una escalera metálica y tuvo que ser extraído con una camilla y un sistema de poleas",
-        "pubDate": "2026-10-01T11:51:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Fondos de inversión y empresas de tecnología alemanas desembarcan en Rosario",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/fondos-de-inversion-y-empresas-de-tecnologia-alemanas-desembarcan-en-rosario-20261001-0012.html",
-        "image": "https://www.rosario3.com/__export/1790854249547/sites/rosario3/img/2026/10/01/bcr.jpg_1825222600.jpg",
-        "summary": "El 6 de octubre, la Bolsa de Comercio de Rosario será sede de la primera edición argentina del OktoberINVESTfest Latam, un encuentro internacional que pone en valor el potencial de una región que combina producción, conocimiento, tecnología, mercados y capacidad emprendedora",
-        "pubDate": "2026-10-01T11:50:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El Ministerio de Salud confirmó que el operario accidentado en Puerto San Martín continúa internado grave en el Centenario",
-        "link": "https://www.rosario3.com/informaciongeneral/murio-uno-de-los-operarios-internados-por-la-explosion-en-puerto-san-martin-son-3-las-victimas-victimas-fatales-20261001-0008.html",
-        "image": "https://www.rosario3.com/__export/1790850795635/sites/rosario3/img/2026/10/01/explosion_puerto_san_martin_jpg_674994428.jpg_1067613685.jpg",
-        "summary": "Este jueves se había informado la muerte de César Aquino, uno de los cuatro operarios que sobrevivieron con serias heridas a la explosión de la planta de Albardon Bio. Pero desde la cartera de Salud aclararon que su estado es crítico",
         "pubDate": "2026-10-01T11:49:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "San Cristóbal: a seis meses del ataque, secuestraron un arma tras la publicación de una foto de un alumno de la Mariano Moreno",
-        "link": "https://www.rosario3.com/policiales/san-cristobal-a-seis-meses-del-ataque-secuestraron-un-arma-tras-la-publicacion-de-una-foto-de-un-alumno-de-la-mariano-moreno-20261001-0004.html",
-        "image": "https://www.rosario3.com/__export/1775430915150/sites/rosario3/img/2026/03/31/whatsapp_image_2026-03-30_at_16_27_53.jpeg_1825220678.jpeg",
-        "summary": "La Policía de Investigaciones (PDI) llevó adelante requisas en la localidad santafesina luego de que autoridades del colegio alertaran sobre una imagen difundida en WhatsApp, en la que un estudiante aparecía con un elemento similar a un arma. Los detalles",
+        "title": "La Provincia dará premios de hasta 8 millones de pesos a los santafesinos que compitieron en los Juegos Suramericanos",
+        "link": "https://www.rosario3.com/informaciongeneral/la-provincia-dara-premios-de-hasta-8-millones-de-pesos-a-los-santafesinos-que-compitieron-en-los-juegos-suramericanos-20261001-0013.html",
+        "image": "https://www.rosario3.com/__export/1790854543097/sites/rosario3/img/2026/10/01/basaldella.jpg_982625323.jpg",
+        "summary": "El reconocimiento abarcará a quienes obtuvieron medallas y a los que no. Los montos irán de 2 millones a 8 millones y la inversión total será de 326 millones de pesos",
         "pubDate": "2026-10-01T11:48:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Rosario, sede del Turismo Científico: ¿qué es y cuándo son las jornadas?",
+        "link": "https://www.lacapital.com.ar/la-ciudad/rosario-sede-del-turismo-cientifico-que-es-y-cuando-son-las-jornadas-n10284017.html",
+        "image": "https://media.lacapital.com.ar/p/5c154b808c028a914be6b0d853794012/adjuntos/203/imagenes/103/436/0103436746/1200x675/smart/turismo-cientifico.jpg",
+        "summary": "Es un rubro que crece año a año. Quiénes pueden ser parte. Cuál es el valor agregado de esta propuesta que une el placer de conocer, con la producción de ciencia",
+        "pubDate": "2026-10-01T14:09:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "A seis meses del tiroteo, secuestraron un arma tras un alerta en la escuela de San Cristóbal",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/50bad9fe5268467897ed95ad6f74a095/adjuntos/203/imagenes/103/438/0103438616/1200x675/smart/image-1.jpg",
         "summary": "El arquero habría sufrido una lesión ligamentaria ante Estudiantes y el tiempo de recuperación sería entre 4 y 6 semanas. Ledesma volvería a la titularidad",
         "pubDate": "2026-10-01T12:06:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Murió Peppino Mazzullo, la histórica voz italiana del Topo Gigio, a los 100 años",
-        "link": "https://www.lacapital.com.ar/zoom/murio-peppino-mazzullo-la-historica-voz-italiana-del-topo-gigio-los-100-anos-n10284205.html",
-        "image": "https://media.lacapital.com.ar/p/a0d03ee417810905f346dd90ea6f263a/adjuntos/203/imagenes/103/438/0103438617/1200x675/736x189:756x209/image-2026-10-01t080804860.png",
-        "summary": "El actor italiano interpretó al famoso ratón durante 45 años y ayudó a construir la personalidad del personaje que marcó a muchas generaciones",
-        "pubDate": "2026-10-01T11:52:00+00:00",
         "approxTime": false
       }
     ]
