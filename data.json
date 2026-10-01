@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T02:03:54.615446+00:00",
+  "generatedAt": "2026-10-01T02:31:07.643227+00:00",
   "sites": {
     "rosario3": [
       {
@@ -16,7 +16,7 @@
         "title": "Goleada Albiceleste: Argentina se floreó y goleó 4 a 0 a Bolivia en Córdoba",
         "link": "https://www.rosario3.com/deportes/comienza-la-era-post-messi-argentina-enfrenta-a-bolivia-en-cordoba-en-el-primer-encuentro-con-los-hinchas-tras-el-mundial-20260929-0075.html",
         "image": "https://www.rosario3.com/__export/1790815610851/sites/rosario3/img/2026/09/30/lautoro.jpg_928314580.jpg",
-        "summary": "Lautaro Martínez, Nico Paz y Cuti Romero anotaron los goles de los de Scaloni",
+        "summary": "Lautaro Martínez, Nico Paz, Cuti Romero y José López anotaron los goles de los de Scaloni que fueron muy superiores durante los 90'",
         "pubDate": "2026-09-29T11:59:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El tiempo en Rosario: jueves con posibles lluvias matinales y 21º de máxima",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-jueves-posibles-lluvias-matinales-y-21-maxima-n10284185.html",
+        "image": "https://media.lacapital.com.ar/p/cb7b0221b2f7dde692fdf47617b37821/adjuntos/203/imagenes/103/438/0103438507/2026-09-30-clima-by_smeccia-80794278.jpg",
+        "summary": "La temperatura estaría en leve ascenso hacia el fin de semana, pero el sábado otra vez hay chances de precipitaciones",
+        "pubDate": "2026-10-01T02:25:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Argentina inició el nuevo ciclo, ya sin Messi, con una cómoda victoria frente a Bolivia",
+        "link": "https://www.lacapital.com.ar/ovacion/argentina-inicio-el-nuevo-ciclo-ya-messi-una-comoda-victoria-frente-bolivia-n10284180.html",
+        "image": "https://media.lacapital.com.ar/p/2de10a66985ff8d8a24fcbafcc7e60e4/adjuntos/203/imagenes/103/438/0103438371/argentina3.jpg",
+        "summary": "En el primer partido sin el rosarino, el equipo de Scaloni lo resolvió de manera sencilla. Fue 4 a 0 con goles de Lautaro, Nico Paz, Cuti Romero y el Flaco López",
+        "pubDate": "2026-10-01T02:02:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Reinaldo Bacigalupo: de traer franquicias de Buenos Aires a llevar la milanesa al mundo con Messi",
         "link": "https://www.lacapital.com.ar/la-capital/reinaldo-bacigalupo-traer-franquicias-buenos-aires-llevar-la-milanesa-al-mundo-messi-n10281376.html",
         "image": "https://media.lacapital.com.ar/p/d4fabf4187f0622886ce3592d8e0b083/adjuntos/203/imagenes/103/436/0103436916/82676015.jpeg",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/d79f28fe1dbf3032dee70e48acccef02/adjuntos/203/imagenes/103/114/0103114307/1200x675/smart/maximo-kirchner-pgsm-254-vb-2.jpg",
         "summary": "La medida, en el marco de la causa Hotesur, se realizó cuando el diputado viajaba hacia San Juan para reunirse con referentes del peronismo",
         "pubDate": "2026-09-30T22:40:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Actividad económica en baja, sólo el agro y la recaudación crecieron en agosto",
-        "link": "https://www.lacapital.com.ar/economia/actividad-economica-baja-solo-el-agro-y-la-recaudacion-crecieron-agosto-n10284149.html",
-        "image": "https://media.lacapital.com.ar/p/25ac1bf5adf7045aee4cf2ad220051d9/adjuntos/305/imagenes/102/685/0102685955/1200x675/453x244:473x264/soja-rastrojo.png",
-        "summary": "La actividad económica retrocedió 0,2% en agosto respecto de julio y 0,8% interanual, según el índice elaborado por las Bolsas de Comercio de Rosario y Santa Fe. Ocho de sus diez componentes en terreno negativo",
-        "pubDate": "2026-09-30T22:40:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Japón abre su mercado a la carne bovina de todo el territorio argentino",
-        "link": "https://www.lacapital.com.ar/agro/japon-abre-su-mercado-la-carne-bovina-todo-el-territorio-argentino-n10284124.html",
-        "image": "https://media.lacapital.com.ar/p/375da3c9374185ec9bda8f0518510daa/adjuntos/203/imagenes/103/437/0103437631/1200x675/smart/carne-frigorifico.jpeg",
-        "summary": "Después de 20 años, la carne bovina de todo el territorio nacional podrá exportarse a Japón. Se abren las puertas de uno de los mercados más exigentes en materia sanitaria y de calidad",
-        "pubDate": "2026-09-30T22:10:00+00:00",
         "approxTime": false
       }
     ]
