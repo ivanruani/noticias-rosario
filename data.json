@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T11:01:16.556460+00:00",
+  "generatedAt": "2026-10-01T11:31:39.071695+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,11 +13,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "El Ministerio de Salud confirmó que el operario accidentado en Puerto San Martín continúa internado grave en el Centenario",
+        "link": "https://www.rosario3.com/informaciongeneral/murio-uno-de-los-operarios-internados-por-la-explosion-en-puerto-san-martin-son-3-las-victimas-victimas-fatales-20261001-0008.html",
+        "image": "https://www.rosario3.com/__export/1790850795635/sites/rosario3/img/2026/10/01/explosion_puerto_san_martin_jpg_674994428.jpg_1067613685.jpg",
+        "summary": "Este jueves se había informado la muerte de César Aquino, uno de los cuatro operarios que sobrevivieron con serias heridas a la explosión de la planta de Albardon Bio. Pero desde la cartera de Salud aclararon que su estado es crítico",
+        "pubDate": "2026-10-01T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "San Cristóbal: a seis meses del ataque, secuestraron un arma tras la publicación de una foto de un alumno de la Mariano Moreno",
         "link": "https://www.rosario3.com/policiales/san-cristobal-a-seis-meses-del-ataque-secuestraron-un-arma-tras-la-publicacion-de-una-foto-de-un-alumno-de-la-mariano-moreno-20261001-0004.html",
         "image": "https://www.rosario3.com/__export/1775430915150/sites/rosario3/img/2026/03/31/whatsapp_image_2026-03-30_at_16_27_53.jpeg_1825220678.jpeg",
         "summary": "La Policía de Investigaciones (PDI) llevó adelante requisas en la localidad santafesina luego de que autoridades del colegio alertaran sobre una imagen difundida en WhatsApp, en la que un estudiante aparecía con un elemento similar a un arma. Los detalles",
-        "pubDate": "2026-10-01T11:59:00+00:00",
+        "pubDate": "2026-10-01T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-arranca-octubre-con-inestabilidad-y-paulatina-mejoria-por-la-tarde-20261001-0001.html",
         "image": "https://www.rosario3.com/__export/1784027552162/sites/rosario3/img/2026/07/14/lluviafoto.jpg_928314581.jpg",
         "summary": "El Servicio Meteorológico Nacional prevé la posibilidad de lluvias aisladas durante las primeras horas en la región. Con el transcurso del día, las condiciones tenderán a estabilizarse con ambiente templado",
-        "pubDate": "2026-10-01T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Scaloni tras el triunfo de Argentina ante Bolivia: \"El equipo tiene una identidad, juegue quien juegue\"",
-        "link": "https://www.rosario3.com/deportes/scaloni-tras-el-triunfo-de-argentina-ante-bolivia-el-equipo-tiene-una-identidad-juegue-quien-juegue-20261001-0002.html",
-        "image": "https://www.rosario3.com/__export/1790846940788/sites/rosario3/img/2026/10/01/scaolo9ni.jpg_1511797185.jpg",
-        "summary": "El DT de la Albiceleste valoró el juego del equipo en la goleada 4 a 0 y afirmó que Messi es “irreemplazable”",
         "pubDate": "2026-10-01T11:57:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,33 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Allanamientos en Rosario y Granadero Baigorria por venta ilegal de medicamentos",
+        "link": "https://www.lacapital.com.ar/policiales/allanamientos-rosario-y-granadero-baigorria-venta-ilegal-medicamentos-n10284204.html",
+        "image": "https://media.lacapital.com.ar/p/c447b972689693e430d4c5602642cff1/adjuntos/203/imagenes/103/438/0103438618/1200x675/smart/detenido-venta-ilegal-remedios.jpg",
+        "summary": "En el marco de una causa judicial iniciada en la localidad bonaerense de Azul, investigan operaciones ilegales con posibles conexiones en Santa Fe",
+        "pubDate": "2026-10-01T11:25:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Scaloni sostuvo que la selección argentina  \"tiene una identidad nacional\" más allá de Messi",
+        "link": "https://www.lacapital.com.ar/ovacion/scaloni-sostuvo-que-la-seleccion-argentina-tiene-una-identidad-nacional-mas-alla-messi-n10284194.html",
+        "image": "https://media.lacapital.com.ar/p/5b6516816453e19c3d1ab9719bc63318/adjuntos/203/imagenes/103/438/0103438568/1200x675/smart/image.jpg",
+        "summary": "El técnico de la selección argentina valoró el juego del equipo en la goleada 4 a 0 y resaltó que Messi es “irreemplazable”",
+        "pubDate": "2026-10-01T11:20:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Quini 6: cuántos millones hay en el pozo tras quedar vacantes los grandes premios",
+        "link": "https://www.lacapital.com.ar/informacion-general/quini-6-cuantos-millones-hay-el-pozo-quedar-vacantes-los-grandes-premios-n10284199.html",
+        "image": "https://media.lacapital.com.ar/p/d72682a19e0e168a7b99c02edd786099/adjuntos/203/imagenes/103/336/0103336403/2026-08-16-quini-6.jpg",
+        "summary": "El anhelo de convertirse en millonario sigue pendiente para muchos. Este miércoles, hubo 12 ganadores en el Siempre Sale que se llevarán algo más de $31 millones",
+        "pubDate": "2026-10-01T11:18:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Milei dijo que \"si el Gobierno es reelecto, 2028 va a ser el mejor año de la historia\"",
         "link": "https://www.lacapital.com.ar/politica/milei-dijo-que-si-el-gobierno-es-reelecto-2028-va-ser-el-mejor-ano-la-historia-n10284191.html",
         "image": "https://media.lacapital.com.ar/p/32cdf57f955b53031688df03c7c4948c/adjuntos/203/imagenes/103/438/0103438567/1200x675/smart/milei-paris.jpg",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/410a83e6d2646e2074ae6a9a843a5f93/adjuntos/203/imagenes/103/438/0103438234/2026-09-30-quini-6.jpg",
         "summary": "Dos apostadores de Santa Fe integran el grupo de doce personas que comparte el Siempre Sale: cada uno se llevará 31 millones de pesos",
         "pubDate": "2026-10-01T00:35:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Diego Furnari presenta en Rosario \"Luces y sombras en los gobiernos locales\"",
-        "link": "https://www.lacapital.com.ar/la-ciudad/diego-furnari-presenta-rosario-luces-y-sombras-los-gobiernos-locales-n10284173.html",
-        "image": "https://media.lacapital.com.ar/p/f597b5694ad47c3ba617d405c5cde006/adjuntos/203/imagenes/103/438/0103438190/2026-09-30-diego-furnari.jpg",
-        "summary": "Será este jueves, a las 18, en Pellegrini 1620, Universidad Abierta Interamericana",
-        "pubDate": "2026-10-01T00:11:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Escándalo en Diputados: el debate por la soberanía sobre Malvinas terminó en insultos y forcejeos",
-        "link": "https://www.lacapital.com.ar/politica/escandalo-diputados-el-debate-la-soberania-malvinas-termino-insultos-y-forcejeos-n10284158.html",
-        "image": "https://media.lacapital.com.ar/p/af7943b0c1e2070b444b5f50ac79b7a5/adjuntos/203/imagenes/103/438/0103438011/1200x675/smart/image-9.jpg",
-        "summary": "El diputado por Unión por la Patria Juan Grabois discutió a los gritos con legisladores de La Libertad Avanza durante un plenario de comisiones",
-        "pubDate": "2026-09-30T23:56:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Al hablar en Idea, Milei apuntó a Kicillof: \"Es casi insultante tener que debatir con un comunista\"",
-        "link": "https://www.lacapital.com.ar/politica/al-hablar-idea-milei-apunto-kicillof-es-casi-insultante-tener-que-debatir-un-comunista-n10284166.html",
-        "image": "https://media.lacapital.com.ar/p/da47d24feeb7dcb8928779e33c6db3ba/adjuntos/203/imagenes/103/438/0103438070/1200x675/smart/jm1.jpeg",
-        "summary": "Conectado por Zoom desde Francia, el presidente aseguró que en 2027 los argentinos deberán elegir entre un “país grande o uno miserable”",
-        "pubDate": "2026-09-30T23:55:00+00:00",
         "approxTime": false
       }
     ]
