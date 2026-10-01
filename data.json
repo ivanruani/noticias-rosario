@@ -1,23 +1,32 @@
 {
-  "generatedAt": "2026-10-01T01:01:11.965363+00:00",
+  "generatedAt": "2026-10-01T01:31:02.310456+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Rematarán el año próximo un edificio decomisado al delito en pleno centro de Rosario",
+        "link": "https://www.rosario3.com/informaciongeneral/remataran-el-ano-proximo-un-edificio-decomisado-al-delito-en-pleno-centro-de-rosario-20260930-0077.html",
+        "image": "https://www.rosario3.com/__export/1790813677063/sites/rosario3/img/2026/09/30/edificio.jpeg_1825222445.jpeg",
+        "summary": "El inmueble de tres pisos y 27 departamentos está ubicado en Buenos Aires al 1000. La Provincia lo acondiciona para incluirlo en una subasta prevista para marzo o abril de 2027",
+        "pubDate": "2026-09-30T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Cuti Romero anotó de cabeza el 3º de Argentina que golea 3 a 0 a Bolivia en Córdoba",
+        "link": "https://www.rosario3.com/deportes/comienza-la-era-post-messi-argentina-enfrenta-a-bolivia-en-cordoba-en-el-primer-encuentro-con-los-hinchas-tras-el-mundial-20260929-0075.html",
+        "image": "https://www.rosario3.com/__export/1790815610851/sites/rosario3/img/2026/09/30/lautoro.jpg_928314580.jpg",
+        "summary": "Lautaro Martínez, Nico Paz y Cuti Romero anotaron los goles de los de Scaloni",
+        "pubDate": "2026-09-29T11:59:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Ignacio Boero habló tras los incidentes en Newell’s: \"Hubo una provocación y apareció la violencia de afuera hacia adentro\"",
         "link": "https://www.rosario3.com/deportes/ignacio-boero-hablo-tras-los-incidentes-en-newells-hubo-una-provocacion-y-aparecio-la-violencia-de-afuera-hacia-adentro-20260930-0070.html",
         "image": "https://www.rosario3.com/__export/1790804506587/sites/rosario3/img/2026/09/30/boero.jpg_393084846.jpg",
         "summary": "El presidente de Newell's se refirió a los hechos ocurridos en las inmediaciones del club y cuestionó el operativo policial. Aseguró que el episodio se produjo en medio de una jornada normal de actividades y sostuvo que la institución acompañará la investigación judicial",
-        "pubDate": "2026-09-30T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "ET en Córdoba: Con goles de Lautaro Martínez y Nicolás Paz Argentina derrota 2 a 0 a Bolivia",
-        "link": "https://www.rosario3.com/deportes/comienza-la-era-post-messi-argentina-enfrenta-a-bolivia-en-cordoba-en-el-primer-encuentro-con-los-hinchas-tras-el-mundial-20260929-0075.html",
-        "image": "https://www.rosario3.com/__export/1790815610851/sites/rosario3/img/2026/09/30/lautoro.jpg_928314580.jpg",
-        "summary": "Mientras Lionel Scaloni negocia su continuidad, ahora más encaminada, su equipo jugará el primer partido ante el público argentino, tras la final de la Copa del Mundo. El estadio Mario Alberto Kempes tendrá aforo reducido producto de la sanción de la FIFA. Dirige el colombiano…",
-        "pubDate": "2026-09-29T11:59:00+00:00",
+        "pubDate": "2026-09-30T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/las-imagenes-de-los-incidentes-dentro-y-fuera-del-estadio-de-newells-20260930-0076.html",
         "image": "https://www.rosario3.com/__export/1790811216610/sites/rosario3/img/2026/09/30/puerta_leprosa.jpg_928314580.jpg",
         "summary": "La noche del martes en el Parque Independencia se transformó en un calvario para los involuntarios testigos del episodio. Los episodios comenzaron alrededor de las 20.30 en la zona de avenida Pellegrini, Ovidio Lagos y avenida Morcillo",
-        "pubDate": "2026-09-30T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Javier Milei en Idea: pidió tener “paciencia” con relación al crecimiento económico de la Argentina",
-        "link": "https://www.rosario3.com/politica/javier-milei-en-idea-pidio-tener-paciencia-con-relacion-al-crecimiento-economico-de-la-argentina-20260930-0073.html",
-        "image": "https://www.rosario3.com/__export/1790807616038/sites/rosario3/img/2026/09/30/milei_iedea_2.jpg_1768679258.jpg",
-        "summary": "El presidente habló ante los empresarios más destacados del país en el 62° Coloquio de Idea, la mayor cita del mundo corporativo. Dio su discurso de manera virtual ya que se encuentra en París, Francia, por la Argentina Week. Sobre las elecciones 2027, sentenció: “Si acompañan…",
         "pubDate": "2026-09-30T11:57:00+00:00",
         "approxTime": true
       },
@@ -49,11 +49,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Suspendieron el homenaje a Ivana Garcilazo a tres años de su crimen: el lunes comienza el juicio",
-        "link": "https://www.rosario3.com/policiales/a-tres-anos-del-crimen-de-ivana-garcilazo-el-recuerdo-de-una-muerte-evitable-y-el-inminente-inicio-del-juicio-a-los-acusados-20260929-0025.html",
-        "image": "https://www.rosario3.com/__export/1790801515800/sites/rosario3/img/2023/10/30/_dsc6687_x1x.jpg_928314581.jpg",
-        "summary": "La familia decidió cancelar el encuentro previsto para este miércoles en Ovidio Lagos y Montevideo por situaciones ocurridas durante la noche en la zona. La actividad incluía volver a pintar la estrella en memoria de la joven",
-        "pubDate": "2026-09-29T11:55:00+00:00",
+        "title": "Javier Milei en Idea: pidió tener “paciencia” con relación al crecimiento económico de la Argentina",
+        "link": "https://www.rosario3.com/politica/javier-milei-en-idea-pidio-tener-paciencia-con-relacion-al-crecimiento-economico-de-la-argentina-20260930-0073.html",
+        "image": "https://www.rosario3.com/__export/1790807616038/sites/rosario3/img/2026/09/30/milei_iedea_2.jpg_1768679258.jpg",
+        "summary": "El presidente habló ante los empresarios más destacados del país en el 62° Coloquio de Idea, la mayor cita del mundo corporativo. Dio su discurso de manera virtual ya que se encuentra en París, Francia, por la Argentina Week. Sobre las elecciones 2027, sentenció: “Si acompañan…",
+        "pubDate": "2026-09-30T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -112,11 +112,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Escándalo en Portugal: Cristiano Ronaldo se fue de la concentración y prometió contar \"la verdad\"",
-        "link": "https://www.rosario3.com/deportes/escandalo-en-portugal-cristiano-ronaldo-abandono-la-concentracion-tras-una-fuerte-tension-con-el-dt-20260930-0054.html",
-        "image": "https://www.rosario3.com/__export/1790793094742/sites/rosario3/img/2026/09/30/cr7.jpg_307980727.jpg",
-        "summary": "El capitán de la selección abandonó el plantel en medio de la Nations League tras una fuerte tensión con el DT Jorge Jesus. Anunció que “con el tiempo” explicará los motivos aunque aclaró que no se trata de un retiro definitivo",
-        "pubDate": "2026-09-30T11:48:00+00:00",
+        "title": "Suspendieron el homenaje a Ivana Garcilazo a tres años de su crimen: el lunes comienza el juicio",
+        "link": "https://www.rosario3.com/policiales/a-tres-anos-del-crimen-de-ivana-garcilazo-el-recuerdo-de-una-muerte-evitable-y-el-inminente-inicio-del-juicio-a-los-acusados-20260929-0025.html",
+        "image": "https://www.rosario3.com/__export/1790801515800/sites/rosario3/img/2023/10/30/_dsc6687_x1x.jpg_928314581.jpg",
+        "summary": "La familia decidió cancelar el encuentro previsto para este miércoles en Ovidio Lagos y Montevideo por situaciones ocurridas durante la noche en la zona. La actividad incluía volver a pintar la estrella en memoria de la joven",
+        "pubDate": "2026-09-29T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Expertos están \"sorprendidos\" de que el avión de FlyDubai no se haya estrellado",
+        "link": "https://www.lacapital.com.ar/el-mundo/expertos-estan-sorprendidos-que-el-avion-flydubai-no-se-haya-estrellado-n10284179.html",
+        "image": "https://media.lacapital.com.ar/p/d35229b0ecec720583206d5b630a7030/adjuntos/203/imagenes/103/438/0103438394/2026-09-30-avion-flydubai-israel-82725827.jpg",
+        "summary": "La aeronave, con mayoría de pasajeros israelíes, descendió casi 5.000 metros en un minuto luego de que el copiloto apuñalara al comandante",
+        "pubDate": "2026-10-01T01:14:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Ignacio Boero: \"Los dirigentes no podemos acoplarnos a esta escalada de violencia\"",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/56bd076d565b5aa5e0860ca620c66fb5/adjuntos/203/imagenes/103/437/0103437831/veer.JPG",
         "summary": "El Rojo recibirá en Rosario este viernes 2 de octubre y el domingo 4 a Santa Paula de Gálvez, Regatas de San Nicolás y Deportivo Norte de Armstrong",
         "pubDate": "2026-09-30T21:54:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Boero: \"La agresión no salió de adentro de Newell's y la escalada de violencia va a terminar mal\"",
-        "link": "https://www.lacapital.com.ar/ovacion/boero-la-agresion-no-salio-adentro-newells-y-la-escalada-violencia-va-terminar-mal-n10284128.html",
-        "image": "https://media.lacapital.com.ar/p/1945cb18b55a452b3de1ae230cd61391/adjuntos/203/imagenes/103/437/0103437753/nnn.jpg",
-        "summary": "El presidente de Newell's, Ignacio Boero, ofreció una rueda de prensa tras lo que fue la virulenta irrupción policial en la sede del club de este martes por la noche",
-        "pubDate": "2026-09-30T21:26:00+00:00",
         "approxTime": false
       }
     ]
