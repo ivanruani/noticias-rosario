@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T12:01:22.015848+00:00",
+  "generatedAt": "2026-10-01T12:31:06.621840+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,9 +141,27 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Hospital Italiano Rosario: su rol en los Juegos Suramericanos Santa Fe 2026",
+        "link": "https://www.lacapital.com.ar/salud/hospital-italiano-rosario-su-rol-los-juegos-suramericanos-santa-fe-2026-n10284212.html",
+        "image": "https://media.lacapital.com.ar/p/4b9042ff68f1b9d6fa31a443f6ad1a68/adjuntos/203/imagenes/103/438/0103438659/1200x675/smart/imagen-nota.jpg",
+        "summary": "El Hospital Italiano Rosario desplegó 180 profesionales de la salud en los XIII Juegos Suramericanos Santa Fe 2026 y consolidó experiencia en operativos sanitarios de gran escala",
+        "pubDate": "2026-10-01T12:08:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central: Axel Werner se perdería el próximo partido ante Banfield por una lesión",
+        "link": "https://www.lacapital.com.ar/ovacion/central-axel-werner-se-perderia-el-proximo-partido-banfield-una-lesion-n10284202.html",
+        "image": "https://media.lacapital.com.ar/p/50bad9fe5268467897ed95ad6f74a095/adjuntos/203/imagenes/103/438/0103438616/1200x675/smart/image-1.jpg",
+        "summary": "El arquero habría sufrido una lesión ligamentaria ante Estudiantes y el tiempo de recuperación sería entre 4 y 6 semanas. Ledesma volvería a la titularidad",
+        "pubDate": "2026-10-01T12:06:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Murió Peppino Mazzullo, la histórica voz italiana del Topo Gigio, a los 100 años",
         "link": "https://www.lacapital.com.ar/zoom/murio-peppino-mazzullo-la-historica-voz-italiana-del-topo-gigio-los-100-anos-n10284205.html",
-        "image": "https://media.lacapital.com.ar/p/392af6214b8732d4bbb39dde400e1bbd/adjuntos/203/imagenes/103/438/0103438617/1200x675/smart/image-2026-10-01t080804860.png",
+        "image": "https://media.lacapital.com.ar/p/a0d03ee417810905f346dd90ea6f263a/adjuntos/203/imagenes/103/438/0103438617/1200x675/736x189:756x209/image-2026-10-01t080804860.png",
         "summary": "El actor italiano interpretó al famoso ratón durante 45 años y ayudó a construir la personalidad del personaje que marcó a muchas generaciones",
         "pubDate": "2026-10-01T11:52:00+00:00",
         "approxTime": false
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/d4fabf4187f0622886ce3592d8e0b083/adjuntos/203/imagenes/103/436/0103436916/82676015.jpeg",
         "summary": "El fundador de Grupo 83 cuenta la fórmula para gestionar 28 operaciones gastronómicas y repasa el camino que lo llevó de impulsar la primera franquicia de El Club de la Milanesa en Rosario a cerrar un acuerdo con la familia del diez del fútbol.",
         "pubDate": "2026-10-01T01:57:50+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Expertos están \"sorprendidos\" de que el avión de FlyDubai no se haya estrellado",
-        "link": "https://www.lacapital.com.ar/el-mundo/expertos-estan-sorprendidos-que-el-avion-flydubai-no-se-haya-estrellado-n10284179.html",
-        "image": "https://media.lacapital.com.ar/p/d35229b0ecec720583206d5b630a7030/adjuntos/203/imagenes/103/438/0103438394/2026-09-30-avion-flydubai-israel-82725827.jpg",
-        "summary": "La aeronave, con mayoría de pasajeros israelíes, descendió casi 5.000 metros en un minuto luego de que el copiloto apuñalara al comandante",
-        "pubDate": "2026-10-01T01:14:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Ignacio Boero: \"Los dirigentes no podemos acoplarnos a esta escalada de violencia\"",
-        "link": "https://www.lacapital.com.ar/ovacion/ignacio-boero-los-dirigentes-no-podemos-acoplarnos-esta-escalada-violencia-n10284176.html",
-        "image": "https://media.lacapital.com.ar/p/6433a15641143e66c4c449621a7dd3fe/adjuntos/203/imagenes/103/438/0103438291/1200x675/smart/nob-boero-24157.jpg",
-        "summary": "El presidente de Newell’s remarcó en rueda de prensa que “la violencia vino de afuera hacia adentro del club”",
-        "pubDate": "2026-10-01T00:52:00+00:00",
         "approxTime": false
       }
     ]
