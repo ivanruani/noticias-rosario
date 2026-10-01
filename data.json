@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T23:01:18.219787+00:00",
+  "generatedAt": "2026-10-01T23:31:05.555240+00:00",
   "sites": {
     "rosario3": [
       {
@@ -94,11 +94,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Un cuidacoche que portaba un arma blanca fue detenido en el marco de un operativo de control municipal",
+        "link": "https://www.rosario3.com/informaciongeneral/un-cuidacoche-que-portaba-un-arma-blanca-fue-detenido-en-el-marco-de-un-operativo-de-control-municipal-20261001-0075.html",
+        "image": "https://www.rosario3.com/__export/1790894729369/sites/rosario3/img/2026/10/01/cuidacoches.jpg_928314580.jpg",
+        "summary": "Sucedió en la zona de Garay y Sarmiento. Los agentes fueron amenazados por el cuidacoche, quien los insultó e intentó arrojar baldosas al móvil de la Secretaría de Control",
+        "pubDate": "2026-10-01T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Emiliano Boffelli volvió a jugar dos partidos seguidos como titular tras más de dos años y medio: \"Me siento muy bien\"",
         "link": "https://www.rosario3.com/deportes/emiliano-boffelli-volvio-a-jugar-dos-partidos-seguidos-como-titular-tras-mas-de-dos-anos-y-medio-me-siento-muy-bien-20261001-0071.html",
         "image": "https://www.rosario3.com/__export/1790890118567/sites/rosario3/img/2026/10/01/rugby_duendes_boffelli_1_crxdito_jano_colcerniani.jpeg_1109350390.jpeg",
         "summary": "El rosarino completó 160 minutos consecutivos en cancha entre el Torneo del Litoral y el Torneo del Interior A con la camiseta de Duendes. Tras dejar atrás una larga inactividad por problemas físicos, trabaja día a día para recuperar su mejor versión y sueña con volver a vestir…",
-        "pubDate": "2026-10-01T11:50:00+00:00",
+        "pubDate": "2026-10-01T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -107,15 +116,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/emmanuel-macron-recibio-a-javier-milei-en-el-palacio-del-eliseo-acompanado-de-gobernadores-20261001-0065.html",
         "image": "https://www.rosario3.com/__export/1790887045987/sites/rosario3/img/2026/10/01/milei_macron_y_las_chicas_1.jpg_928314580.jpg",
         "summary": "El presidente francés recibió a su par argentino en París, en el marco de la agenda de Milei en Francia, de la que participaron mandatarios provinciales, funcionarios nacionales y empresarios",
-        "pubDate": "2026-10-01T11:49:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Educación, investigación, Correo y Aerolíneas: cómo se reparten los 74.332 puestos de trabajo públicos perdidos",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/educacion-investigacion-correo-y-aerolineas-como-se-reparten-los-74.332-puestos-de-trabajo-publicos-perdidos-20261001-0058.html",
-        "image": "https://www.rosario3.com/__export/1790881463932/sites/rosario3/img/2026/06/29/conicet.jpg_1825222445.jpg",
-        "summary": "El gobierno nacional redujo un 21,6% la planta de personal del Sector Público Nacional. Son 72 despedidos por día. El impacto por áreas",
         "pubDate": "2026-10-01T11:48:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Identificaron a un desaparecido de la dictadura que había sido enterrado como NN",
+        "link": "https://www.lacapital.com.ar/politica/identificaron-un-desaparecido-la-dictadura-que-habia-sido-enterrado-como-nn-n10284395.html",
+        "image": "https://media.lacapital.com.ar/p/db2cf055b6b283c012e91cc7d8049d09/adjuntos/203/imagenes/103/440/0103440161/2026-10-01-poblete.jpg",
+        "summary": "Los restos de Carlos Simón Poblete fueron inhumados como NN en un cementerio de Mendoza",
+        "pubDate": "2026-10-01T23:19:13+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Fallaron dos veces al intentar ejecutar a una mujer en Tennessee, que quedó internada",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/48004a537e85a58248106269fbaf0d92/adjuntos/203/imagenes/103/439/0103439782/1200x675/smart/milei-gobernadores-argentina-week-web.jpg",
         "summary": "El presidente agradeció el apoyo a las reformas y destacó la importancia de ganar las próximas elecciones",
         "pubDate": "2026-10-01T20:38:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Aterrizó en Rosario el primer vuelo directo desde Madrid",
-        "link": "https://www.lacapital.com.ar/la-ciudad/aterrizo-rosario-el-primer-vuelo-directo-madrid-n10284353.html",
-        "image": "https://media.lacapital.com.ar/p/cda3fd028a64b491ce9676e1d43faf45/adjuntos/203/imagenes/103/439/0103439986/1200x675/smart/image-12.jpg",
-        "summary": "El Airbus A350-900 de World2Fly llegó cerca de las 17.30 al aeropuerto Islas Malvinas e inauguró la conexión sin escalas con Europa. La ruta tendrá dos frecuencias semanales, los martes y jueves.",
-        "pubDate": "2026-10-01T20:31:00+00:00",
         "approxTime": false
       }
     ]
