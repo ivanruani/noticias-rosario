@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-01T21:01:10.630348+00:00",
+  "generatedAt": "2026-10-01T21:31:05.016940+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Javkin envió al Concejo el proyecto para legalizar Uber, DiDi y otras aplicaciones de movilidad en Rosario",
+        "link": "https://www.rosario3.com/informaciongeneral/javkin-envio-al-concejo-el-proyecto-para-legalizar-uber-didi-y-otras-aplicaciones-de-movilidad-en-rosario-20261001-0070.html",
+        "image": "https://www.rosario3.com/__export/1790889634743/sites/rosario3/img/2026/10/01/uber.jpg_1825222445.jpg",
+        "summary": "La iniciativa establece requisitos para conductores y vehículos, seguros específicos y un esquema tarifario flexible. Para el taxi tomado en la calle, el Concejo seguirá fijando la tarifa",
+        "pubDate": "2026-10-01T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Se hacía pasar por médica: cayó una esteticista de Rosario que usaba una matrícula ajena",
         "link": "https://www.rosario3.com/policiales/se-hacia-pasar-por-medica-cayo-una-esteticista-de-rosario-que-usaba-una-matricula-ajena-20261001-0055.html",
         "image": "https://www.rosario3.com/__export/1790880305259/sites/rosario3/img/2026/10/01/leila_gagliardi_esteticista.jpeg_672794305.jpeg",
         "summary": "La investigación detectó que la esteticista promocionaba tratamientos médicos con la matrícula de otra profesional. En el consultorio de Ayacucho al 2400 secuestraron insumos, medicamentos y equipamiento utilizado en procedimientos estéticos",
-        "pubDate": "2026-10-01T12:00:00+00:00",
+        "pubDate": "2026-10-01T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/causa-de-la-partera-dolly-la-camara-federal-ordeno-que-sea-llamada-a-indagatoria-en-un-caso-por-supresion-de-identidad-20261001-0062.html",
         "image": "https://www.rosario3.com/__export/1790884694285/sites/rosario3/img/2026/10/01/tribunales_federales.jpg_1825222445.jpg",
         "summary": "La medida se definió al revocar una fallo de primera instancia en una causa iniciada por Carlos Fargioni por dudas sobre su identidad biológica y su nacimiento en Rosario en 1978. Ahora el juez deberá tomarle declaración por los hechos",
-        "pubDate": "2026-10-01T11:59:00+00:00",
+        "pubDate": "2026-10-01T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/educacion-investigacion-correo-y-aerolineas-como-se-reparten-los-74.332-puestos-de-trabajo-publicos-perdidos-20261001-0058.html",
         "image": "https://www.rosario3.com/__export/1790881463932/sites/rosario3/img/2026/06/29/conicet.jpg_1825222445.jpg",
         "summary": "El gobierno nacional redujo un 21,6% la planta de personal del Sector Público Nacional. Son 72 despedidos por día. El impacto por áreas",
-        "pubDate": "2026-10-01T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Pullaro a la Asociación de Abogados Penalistas: “Que no se hagan los zonzos”",
-        "link": "https://www.rosario3.com/informaciongeneral/pullaro-a-la-asociacion-de-abogados-penalistas-que-no-se-hagan-los-zonzos-20261001-0060.html",
-        "image": "https://www.rosario3.com/__export/1790882308890/sites/rosario3/img/2026/10/01/pullaro_con_fiscales_1.jpg_982625323.jpg",
-        "summary": "En la apertura de las Jornadas Nacionales e Internacionales de los Ministerios Públicos Fiscales en Rosario, volvió a reclamar que se avance sobre la estructura criminal del lavado de activos y quienes asesoran a esas organizaciones. Sostuvo que sus dichos apuntan a los…",
         "pubDate": "2026-10-01T11:57:00+00:00",
         "approxTime": true
       },
@@ -58,10 +58,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Un jubilado perdió el control de su vehículo y embistió a 13 personas que se encontraban en la vereda",
-        "link": "https://www.rosario3.com/informaciongeneral/un-jubilado-perdio-el-control-de-su-vehiculo-y-embistio-a-13-personas-que-se-encontraban-en-la-vereda-20261001-0040.html",
-        "image": "https://www.rosario3.com/__export/1790872373938/sites/rosario3/img/2026/10/01/salta_choque_vereda.png_786111822.png",
-        "summary": "El hecho ocurrió en Cerrillos, Salta, y dejó nueve adultos y cuatro menores afectados. Un bebé permanece internado en el Hospital Materno Infantil de la capital provincial mientras se investigan las causas del siniestro",
+        "title": "Pullaro a la Asociación de Abogados Penalistas: “Que no se hagan los zonzos”",
+        "link": "https://www.rosario3.com/informaciongeneral/pullaro-a-la-asociacion-de-abogados-penalistas-que-no-se-hagan-los-zonzos-20261001-0060.html",
+        "image": "https://www.rosario3.com/__export/1790882308890/sites/rosario3/img/2026/10/01/pullaro_con_fiscales_1.jpg_982625323.jpg",
+        "summary": "En la apertura de las Jornadas Nacionales e Internacionales de los Ministerios Públicos Fiscales en Rosario, volvió a reclamar que se avance sobre la estructura criminal del lavado de activos y quienes asesoran a esas organizaciones. Sostuvo que sus dichos apuntan a los…",
         "pubDate": "2026-10-01T11:54:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,33 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Argentina disputará las eliminatorias de Conmebol, pero ya clasificada al Mundial 2030",
+        "link": "https://www.lacapital.com.ar/ovacion/argentina-disputara-las-eliminatorias-conmebol-pero-ya-clasificada-al-mundial-2030-n10284072.html",
+        "image": "https://media.lacapital.com.ar/p/d8eb43e4990e59635fd0c630916cda4e/adjuntos/203/imagenes/103/270/0103270274/1200x675/smart/image-2026-07-12t015018157.png",
+        "summary": "La Albiceleste, Uruguay y Paraguay ya tienen asegurados sus boletos a la próxima Copa del Mundo, pero las demás selecciones deberán pelear por cupos limitados",
+        "pubDate": "2026-10-01T21:18:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Finalizó el ciclo del algodón en el centro norte santafesino",
+        "link": "https://www.lacapital.com.ar/agro/finalizo-el-ciclo-del-algodon-el-centro-norte-santafesino-n10284346.html",
+        "image": "https://media.lacapital.com.ar/p/e07f04fb505668d2ccf6eca119bf7ef7/adjuntos/305/imagenes/030/906/0030906191/1200x675/smart/algodonjpg.jpg",
+        "summary": "Las precipitaciones, registradas después de seis semanas de ausencia, condicionaron las tareas agrícolas pero aportaron agua útil para las etapas de floración e inicio de fructificación del trigo",
+        "pubDate": "2026-10-01T21:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La otra faceta de Messi, el mejor de todos los tiempos: compró otro club de fútbol y ya tiene tres",
+        "link": "https://www.lacapital.com.ar/ovacion/la-otra-faceta-messi-el-mejor-todos-los-tiempos-compro-otro-club-futbol-y-ya-tiene-tres-n10284369.html",
+        "image": "https://media.lacapital.com.ar/p/8adaca3f49f91084780e9bb4f08fb7c2/adjuntos/203/imagenes/103/390/0103390959/1200x675/smart/image-4.jpg",
+        "summary": "El astro rosarino adquirió el cien por ciento del CD Eldense, de la segunda división de España. Ya era propietario de Leones FC y UE Cornellá, también de España",
+        "pubDate": "2026-10-01T21:08:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Barrio Ludueña: derribaron dos búnkeres que regenteaba la banda de Fran Riquelme",
         "link": "https://www.lacapital.com.ar/policiales/barrio-luduena-derribaron-dos-bunkeres-que-regenteaba-la-banda-fran-riquelme-n10284265.html",
         "image": "https://media.lacapital.com.ar/p/55f87f1ce0af5a2fe51693935aee4736/adjuntos/203/imagenes/103/439/0103439236/1200x675/smart/banki.jpg",
@@ -170,7 +197,7 @@
         "source": "La Capital",
         "title": "Aterrizó en Rosario el primer vuelo directo desde Madrid",
         "link": "https://www.lacapital.com.ar/la-ciudad/aterrizo-rosario-el-primer-vuelo-directo-madrid-n10284353.html",
-        "image": "https://media.lacapital.com.ar/p/3e113533d70dee583c1c0d68f96af488/adjuntos/203/imagenes/103/439/0103439876/1200x675/smart/imagebarriletes.jpg",
+        "image": "https://media.lacapital.com.ar/p/cda3fd028a64b491ce9676e1d43faf45/adjuntos/203/imagenes/103/439/0103439986/1200x675/smart/image-12.jpg",
         "summary": "El Airbus A350-900 de World2Fly llegó este jueves cerca de las 17.30 al aeropuerto Islas Malvinas e inauguró la conexión sin escalas con Europa. La ruta tendrá dos frecuencias semanales, los martes y jueves.",
         "pubDate": "2026-10-01T20:31:00+00:00",
         "approxTime": false
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/a598e6e548832884d6796d7a3164d03c/adjuntos/203/imagenes/103/439/0103439417/1200x675/smart/image.png",
         "summary": "Tras su estreno en 2024, el film de Coralie Fargeat llega a Netflix con una crítica social muy vigente y muchas expectativas",
         "pubDate": "2026-10-01T19:36:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La Corte Suprema defendió su fallo sobre tierras y cuestionó los \"discursos de odio\"",
-        "link": "https://www.lacapital.com.ar/politica/la-corte-suprema-defendio-su-fallo-tierras-y-cuestiono-los-discursos-odio-n10284321.html",
-        "image": "https://media.lacapital.com.ar/p/d899c24a1cee377e510adb1525bc7b38/adjuntos/203/imagenes/103/436/0103436209/1200x675/smart/corte-suprema-justicia-nacion.jpg",
-        "summary": "El máximo tribunal aclaró que la sentencia solo resolvió un aspecto procesal, aseguró que no impide otros reclamos judiciales y diferenció la crítica de la descalificación",
-        "pubDate": "2026-10-01T19:36:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La Intendencia mandó un proyecto al Concejo para legalizar Uber y otras apps de transporte",
-        "link": "https://www.lacapital.com.ar/la-ciudad/la-intendencia-mando-un-proyecto-al-concejo-legalizar-uber-y-otras-apps-transporte-n10284338.html",
-        "image": "https://media.lacapital.com.ar/p/cb86aa76e674c01c905733dcb3edae90/adjuntos/203/imagenes/103/109/0103109704/uber-rosario-271.jpg",
-        "summary": "La iniciativa incorpora una nueva modalidad de servicio desregulado, con requisitos para choferes y Uber. La presidenta del Concejo, María Eugenia Schmuck, será quien lo impulse",
-        "pubDate": "2026-10-01T19:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Una miniserie dramática de época llegó con expectativas a Netflix",
-        "link": "https://www.lacapital.com.ar/zoom/una-miniserie-dramatica-epoca-llego-expectativas-netflix-n10284337.html",
-        "image": "https://media.lacapital.com.ar/p/3fe2c23f1f84c78bf1c52630ed2a9a97/adjuntos/203/imagenes/103/439/0103439687/1200x675/smart/image.png",
-        "summary": "Protagonizada por Florence Pugh, Christopher Abbott y Mike Faist, la historia está basada en una icónica novela y cuenta con 7 episodios",
-        "pubDate": "2026-10-01T19:26:00+00:00",
         "approxTime": false
       }
     ]
