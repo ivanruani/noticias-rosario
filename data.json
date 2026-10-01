@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-01T14:31:06.739542+00:00",
+  "generatedAt": "2026-10-01T15:01:28.479241+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Bomberos hallaron el cuerpo de un hombre cuando apagaban un incedio en zona oeste",
+        "link": "https://www.rosario3.com/policiales/bomberos-hallaron-el-cuerpo-de-un-hombre-cuando-apagaban-un-incedio-en-zona-oeste-20261001-0031.html",
+        "image": "https://www.rosario3.com/__export/1790866079828/sites/rosario3/img/2026/10/01/incendio.png_928314580.png",
+        "summary": "El episodio ocurrió este jueves por la mañana en Cochabamba al 6600. Los agentes encontraron a hombre dentro del comercio y dieron aviso al Sies. El parte oficial no establece por el momento la causa de la muerte",
+        "pubDate": "2026-10-01T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Cococcioni sobre Newell’s: \"No se puede tirar piedras a la gente y entrar a un club no es asimilable a allanar una morada\"",
         "link": "https://www.rosario3.com/informaciongeneral/cococcioni-sobre-newells-no-se-puede-tirar-piedras-a-la-gente-y-entrar-a-un-club-no-asimilable-a-allanar-una-morada-20261001-0025.html",
         "image": "https://www.rosario3.com/__export/1790863747726/sites/rosario3/img/2026/10/01/cococciomi.jpg_928314581.jpg",
         "summary": "El ministro de Seguridad de Santa Fe se refirió al accionar de la Policía en el club rojinegro. Durante un encuentro de fiscales en Rosario, el funcionario aseguró que investigarán si hubo excesos de los agentes. Sin embargo, remarcó que las dependencias de una institución…",
-        "pubDate": "2026-10-01T12:00:00+00:00",
+        "pubDate": "2026-10-01T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/litoral-gas-actualizo-su-tarifa-para-octubre-a-cuanto-puede-subir-la-factura-en-rosario-tras-la-salida-de-zona-fria-20261001-0023.html",
         "image": "https://www.rosario3.com/__export/1790862348469/sites/rosario3/img/2026/10/01/litoral_gas_version1790862347929.jpg_1698497378.jpg",
         "summary": "El nuevo cuadro tarifario rige desde este jueves y se combina con la eliminación del beneficio automático de Zona Fría para Rosario y el sur de Santa Fe. Para un usuario R1 sin subsidios focalizados, el cargo fijo pasa de $2.494 a $3.649",
-        "pubDate": "2026-10-01T11:59:00+00:00",
+        "pubDate": "2026-10-01T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/tarea-comunitaria-para-resarcir-faltas-de-transito-en-rosario-la-solidaridad-es-un-puente-20261001-0022.html",
         "image": "https://www.rosario3.com/__export/1790862484653/sites/rosario3/img/2026/10/01/transitodia.jpg_928314581.jpg",
         "summary": "La Municipalidad firmó un convenio con la organización Movimiento Solidario Rosario para implementar un programa integral destinado a quienes cometen infracciones viales. Los trabajos en comedores o refacciones de muebles no reemplazarán las multas ni la quita de carnet, sino…",
-        "pubDate": "2026-10-01T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Ley de Tierras: la Corte Suprema aclaró el alcance de su fallo y cuestionó los “discursos de odio”",
-        "link": "https://www.rosario3.com/informaciongeneral/ley-de-tierras-la-corte-suprema-aclaro-el-alcance-de-su-fallo-y-cuestiono-los-discursos-de-odio-20261001-0019.html",
-        "image": "https://www.rosario3.com/__export/1778188158058/sites/rosario3/img/2026/05/07/corte_suprema.jpg_1768679258.jpg",
-        "summary": "El máximo tribunal sostuvo que en la causa solo resolvió una cuestión procesal y que la sentencia no define la constitucionalidad del régimen de tierras. También remarcó que siguen vigentes otras vías judiciales para plantear reclamos",
         "pubDate": "2026-10-01T11:57:00+00:00",
         "approxTime": true
       },
@@ -67,19 +67,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "La comedia argentina Escondida en mi cabeza y otros seis estrenos renuevan la cartelera en los cines de Rosario",
-        "link": "https://www.rosario3.com/ocio/la-comedia-argentina-escondida-en-mi-cabeza-y-otros-seis-estrenos-renuevan-la-cartelera-en-los-cines-de-rosario-20260930-0068.html",
-        "image": "https://www.rosario3.com/__export/1790806316728/sites/rosario3/img/2026/09/30/escondida.jpg_982625323.jpg",
-        "summary": "Además del filme protagonizado por Nicolás Furtado y dirigido por el uruguayo Lucas Vivo García Lagos, las salas de la ciudad proyectan desde este jueves Verity: la sombra de un engaño, Digger, Relajadas y muy peligrosas, Vértigo 2, Guardianes del museo 2: los tesoros de Egipto…",
-        "pubDate": "2026-09-30T11:53:00+00:00",
+        "title": "La Provincia dará premios de hasta 8 millones de pesos a los santafesinos que compitieron en los Juegos Suramericanos",
+        "link": "https://www.rosario3.com/informaciongeneral/la-provincia-dara-premios-de-hasta-8-millones-de-pesos-a-los-santafesinos-que-compitieron-en-los-juegos-suramericanos-20261001-0013.html",
+        "image": "https://www.rosario3.com/__export/1790854543097/sites/rosario3/img/2026/10/01/basaldella.jpg_982625323.jpg",
+        "summary": "El reconocimiento abarcará a quienes obtuvieron medallas y a los que no. Los montos irán de 2 millones a 8 millones y la inversión total será de 326 millones de pesos",
+        "pubDate": "2026-10-01T11:53:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "El Ministerio de Salud confirmó que el operario accidentado en Puerto San Martín continúa internado grave en el Centenario",
-        "link": "https://www.rosario3.com/informaciongeneral/murio-uno-de-los-operarios-internados-por-la-explosion-en-puerto-san-martin-son-3-las-victimas-victimas-fatales-20261001-0008.html",
-        "image": "https://www.rosario3.com/__export/1790850795635/sites/rosario3/img/2026/10/01/explosion_puerto_san_martin_jpg_674994428.jpg_1067613685.jpg",
-        "summary": "Este jueves se había informado la muerte de César Aquino, uno de los cuatro operarios que sobrevivieron con serias heridas a la explosión de la planta de Albardon Bio. Pero desde la cartera de Salud aclararon que su estado es crítico",
+        "title": "Jubilaciones y AUH: cuánto se cobra en octubre y las fechas de pago según el DNI",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/jubilaciones-y-auh-cuanto-se-cobra-en-octubre-y-las-fechas-de-pago-segun-el-dni-20261001-0026.html",
+        "image": "https://www.rosario3.com/__export/1790865297274/sites/rosario3/img/2026/04/03/calendario-anses-version1775218897541.png_1221028662.png",
+        "summary": "Los haberes previsionales aumentan 1,66% este mes y la jubilación mínima queda en $435.748,51. Con el bono de $70.000, el ingreso llega a $505.748,51. Ansés también difundió el calendario completo de pagos para jubilados, pensionados y beneficiarios de asignaciones",
         "pubDate": "2026-10-01T11:52:00+00:00",
         "approxTime": true
       },
@@ -103,42 +103,105 @@
       },
       {
         "source": "Rosario3",
-        "title": "Rescataron a un trabajador que cayó tres metros dentro de una noria en Puerto San Martín",
-        "link": "https://www.rosario3.com/informaciongeneral/rescataron-a-un-trabajador-que-cayo-tres-metros-dentro-de-una-noria-en-puerto-san-martin-20261001-0016.html",
-        "image": "https://www.rosario3.com/__export/1790857823154/sites/rosario3/img/2026/10/01/whatsapp_image_2026-10-01_at_09_02_28_version1790857822526.jpeg_1825222445.jpeg",
-        "summary": "El hombre, de 50 años, sufrió la caída mientras trabajaba en un acopio ubicado sobre Presidente Perón al 2700 de la vecina localidad. Quedó atrapado con los pies entre los escalones de una escalera metálica y tuvo que ser extraído con una camilla y un sistema de poleas",
+        "title": "Ley de Tierras: la Corte Suprema aclaró el alcance de su fallo y cuestionó los “discursos de odio”",
+        "link": "https://www.rosario3.com/informaciongeneral/ley-de-tierras-la-corte-suprema-aclaro-el-alcance-de-su-fallo-y-cuestiono-los-discursos-de-odio-20261001-0019.html",
+        "image": "https://www.rosario3.com/__export/1778188158058/sites/rosario3/img/2026/05/07/corte_suprema.jpg_1768679258.jpg",
+        "summary": "El máximo tribunal sostuvo que en la causa solo resolvió una cuestión procesal y que la sentencia no define la constitucionalidad del régimen de tierras. También remarcó que siguen vigentes otras vías judiciales para plantear reclamos",
         "pubDate": "2026-10-01T11:49:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "La Provincia dará premios de hasta 8 millones de pesos a los santafesinos que compitieron en los Juegos Suramericanos",
-        "link": "https://www.rosario3.com/informaciongeneral/la-provincia-dara-premios-de-hasta-8-millones-de-pesos-a-los-santafesinos-que-compitieron-en-los-juegos-suramericanos-20261001-0013.html",
-        "image": "https://www.rosario3.com/__export/1790854543097/sites/rosario3/img/2026/10/01/basaldella.jpg_982625323.jpg",
-        "summary": "El reconocimiento abarcará a quienes obtuvieron medallas y a los que no. Los montos irán de 2 millones a 8 millones y la inversión total será de 326 millones de pesos",
+        "title": "Rescataron a un trabajador que cayó tres metros dentro de una noria en Puerto San Martín",
+        "link": "https://www.rosario3.com/informaciongeneral/rescataron-a-un-trabajador-que-cayo-tres-metros-dentro-de-una-noria-en-puerto-san-martin-20261001-0016.html",
+        "image": "https://www.rosario3.com/__export/1790857823154/sites/rosario3/img/2026/10/01/whatsapp_image_2026-10-01_at_09_02_28_version1790857822526.jpeg_1825222445.jpeg",
+        "summary": "El hombre, de 50 años, sufrió la caída mientras trabajaba en un acopio ubicado sobre Presidente Perón al 2700 de la vecina localidad. Quedó atrapado con los pies entre los escalones de una escalera metálica y tuvo que ser extraído con una camilla y un sistema de poleas",
         "pubDate": "2026-10-01T11:48:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Scaloni tras el triunfo de Argentina ante Bolivia: \"El equipo tiene una identidad, juegue quien juegue\"",
-        "link": "https://www.rosario3.com/deportes/scaloni-tras-el-triunfo-de-argentina-ante-bolivia-el-equipo-tiene-una-identidad-juegue-quien-juegue-20261001-0002.html",
-        "image": "https://www.rosario3.com/__export/1790846940788/sites/rosario3/img/2026/10/01/scaolo9ni.jpg_1511797185.jpg",
-        "summary": "El DT de la Albiceleste valoró el juego del equipo en la goleada 4 a 0 y afirmó que Messi es “irreemplazable”",
-        "pubDate": "2026-10-01T11:47:00+00:00",
+        "title": "La comedia argentina Escondida en mi cabeza y otros seis estrenos renuevan la cartelera en los cines de Rosario",
+        "link": "https://www.rosario3.com/ocio/la-comedia-argentina-escondida-en-mi-cabeza-y-otros-seis-estrenos-renuevan-la-cartelera-en-los-cines-de-rosario-20260930-0068.html",
+        "image": "https://www.rosario3.com/__export/1790806316728/sites/rosario3/img/2026/09/30/escondida.jpg_982625323.jpg",
+        "summary": "Además del filme protagonizado por Nicolás Furtado y dirigido por el uruguayo Lucas Vivo García Lagos, las salas de la ciudad proyectan desde este jueves Verity: la sombra de un engaño, Digger, Relajadas y muy peligrosas, Vértigo 2, Guardianes del museo 2: los tesoros de Egipto…",
+        "pubDate": "2026-09-30T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Seguimiento individual argentino: Nico Paz fue la figura, pero todos aprovecharon su oportunidad en esta nueva Selección",
-        "link": "https://www.rosario3.com/deportes/seguimiento-individual-argentino-nico-paz-fue-la-figura-del-triunfo-ante-bolivia-20260930-0078.html",
-        "image": "https://www.rosario3.com/__export/1790815989649/sites/rosario3/img/2026/09/30/seguimiento_arg.jpg_928314580.jpg",
-        "summary": "Con un golazo y una asistencia, el chico del Como fue el mejor de la cancha; también se destacaron Palacios, Cuti y Lautaro",
-        "pubDate": "2026-09-30T11:46:00+00:00",
+        "title": "Xbox ya permite convertir discos físicos en juegos digitales gratis con su nueva función \"Positron\"",
+        "link": "https://www.rosario3.com/tecnologia/xbox-ya-permite-convertir-discos-fisicos-en-juegos-digitales-gratis-con-su-nueva-funcion-positron-20261001-0028.html",
+        "image": "https://www.rosario3.com/__export/1790865176321/sites/rosario3/img/2026/10/01/xbox-fisicos.jpg_928314580.jpg",
+        "summary": "Microsoft habilitó a nivel global la herramienta que otorga licencias digitales a partir de copias físicas de Xbox Series X y Xbox One. La opción permite jugar en PC mediante Xbox Play Anywhere, utilizar consolas portátiles e iniciar títulos sin necesidad de insertar el disco en…",
+        "pubDate": "2026-10-01T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Llega la tercera edición del festival de arte digital NE:RD",
+        "link": "https://www.lacapital.com.ar/zoom/llega-la-tercera-edicion-del-festival-arte-digital-nerd-n10284253.html",
+        "image": "https://media.lacapital.com.ar/p/d07e65d849cbe07d263bba860c865433/adjuntos/203/imagenes/103/439/0103439086/1200x675/smart/image-2026-10-01t114633496.png",
+        "summary": "El evento gratuito se desarrollará del 2 al 4 de octubre en el CEC y el CAM. Habrá instalaciones interactivas, talleres, charlas y performances en vivo",
+        "pubDate": "2026-10-01T14:52:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Un campeón con España trató a la selección argentina de \"antifútbol\" tras el Mundial",
+        "link": "https://www.lacapital.com.ar/ovacion/un-campeon-espana-trato-la-seleccion-argentina-antifutbol-el-mundial-n10284257.html",
+        "image": "https://media.lacapital.com.ar/p/ae7632074e6903260524124f6b82066a/adjuntos/203/imagenes/103/439/0103439097/laporte-espana-mundial-2026.jpg",
+        "summary": "Más de dos meses después de la final en New Jersey, un defensor de la Roja apuntó severamente contra la Albiceleste por su \"agresividad\" en la Copa del Mundo",
+        "pubDate": "2026-10-01T14:51:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La FNGA reforzó su agenda climática internacional en Nueva York",
+        "link": "https://www.lacapital.com.ar/fnga/la-fnga-reforzo-su-agenda-climatica-internacional-nueva-york-n10284087.html",
+        "image": "https://media.lacapital.com.ar/p/fb075261ddadb5813a936a1dcc7b2ce1/adjuntos/203/imagenes/103/437/0103437267/1200x675/smart/pagina-2-imagen-portada.webp",
+        "summary": "La Semana del Clima de Nueva York reunió a referentes globales en una edición atravesada por energía, producción, sistemas alimentarios y gobiernos subnacionales.",
+        "pubDate": "2026-10-01T14:45:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Desde la resistencia: de New York a Rosario frente al retroceso climático",
+        "link": "https://www.lacapital.com.ar/fnga/desde-la-resistencia-new-york-rosario-frente-al-retroceso-climatico-n10284078.html",
+        "image": "https://media.lacapital.com.ar/p/f347999cff5d27ebd90ba0fe84cac363/adjuntos/203/imagenes/103/437/0103437147/1200x675/smart/pagina-1-imagen-portada.png",
+        "summary": "Ante una ofensiva negacionista que debilita recursos y consensos, la Semana del Clima de Rosario busca consolidar alianzas y proyectar una voz regional.",
+        "pubDate": "2026-10-01T14:44:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Frente a suelos degradados, sistemas regenerativos: el nuevo horizonte del agro",
+        "link": "https://www.lacapital.com.ar/fnga/frente-suelos-degradados-sistemas-regenerativos-el-nuevo-horizonte-del-agro-n10284245.html",
+        "image": "https://media.lacapital.com.ar/p/515d9fe77b065cc33ff725ab5c4639e8/adjuntos/203/imagenes/103/438/0103438909/1200x675/smart/pagina-6-imagen-portada-2.jpg",
+        "summary": "La pérdida de fertilidad de los suelos obliga a repensar la forma en la que producimos y pone sobre la mesa la necesidad de avanzar hacia sistemas más sostenibles.",
+        "pubDate": "2026-10-01T14:40:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Avanzan los casos de trabajos comunitarios ante faltas graves de tránsito",
+        "link": "https://www.lacapital.com.ar/la-ciudad/avanzan-los-casos-trabajos-comunitarios-faltas-graves-transito-n10284255.html",
+        "image": "https://media.lacapital.com.ar/p/7b079bcb8ecc953f6678b6438db96c69/adjuntos/203/imagenes/102/891/0102891587/1200x675/smart/control-de-alcoholemia-3900.jpeg",
+        "summary": "El primer caso ya cumplió 60 horas de trabajo comunitario y realizó un curso de concientización vial. Desde septiembre, se ampliará la propuesta",
+        "pubDate": "2026-10-01T14:37:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Villa Constitución: Gestión, planificación y trabajo en tiempos de crisis",
+        "link": "https://www.lacapital.com.ar/la-region/villa-constitucion-gestion-planificacion-y-trabajo-tiempos-crisis-n10284247.html",
+        "image": "https://media.lacapital.com.ar/p/071635b1d37e3c4fbfaad54eeb320424/adjuntos/203/imagenes/102/701/0102701294/1200x675/smart/villa-constitucion-178-aniversario.jpg",
+        "summary": "El intendente Jorge Berti sostiene un plan integral que combina obra pública, austeridad en el manejo de los recursos y capacitación permanente",
+        "pubDate": "2026-10-01T14:32:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Rosario, sede del Turismo Científico: ¿qué es y cuándo son las jornadas?",
@@ -209,69 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/e81fa4814e975ee17e37432275626c66/adjuntos/203/imagenes/103/438/0103438884/1200x675/smart/pagina-7-imagen-portada.jpg",
         "summary": "El desarrollo de la inteligencia artificial (IA) suele analizarse en gran parte en función de cuánta electricidad va a consumir.",
         "pubDate": "2026-10-01T13:37:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El primer vuelo directo que partió de Madrid a Rosario ya cruza el océano Atlántico",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-primer-vuelo-directo-que-partio-madrid-rosario-ya-cruza-el-oceano-atlantico-n10284236.html",
-        "image": "https://media.lacapital.com.ar/p/24674500c29dd073b4d24731f3cb4700/adjuntos/203/imagenes/103/438/0103438860/1200x675/smart/pilotos.jpg",
-        "summary": "Está previsto que la aeronave llegue cerca de las 18 al aeropuerto Islas Malvinas. Habrá acto oficial para celebrar el despegue que marque el inicio de la ruta Rosario-Madrid",
-        "pubDate": "2026-10-01T13:26:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Colapinto: \"Lando logró que Max y George estén de acuerdo por una vez\"",
-        "link": "https://www.lacapital.com.ar/ovacion/colapinto-lando-logro-que-max-y-george-esten-acuerdo-una-vez-n10284226.html",
-        "image": "https://media.lacapital.com.ar/p/ff1da1a5cd39eed18207d3815a2f257a/adjuntos/203/imagenes/103/438/0103438728/1200x675/smart/image-2026-10-01t095143488.png",
-        "summary": "El argentino contó cómo fue su charla con Flavio Briatore tras su error en Baku y respondió a las críticas de Lando Norris",
-        "pubDate": "2026-10-01T13:11:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Día del Café: ¿por qué el café se sirve con un platito debajo?",
-        "link": "https://www.lacapital.com.ar/informacion-general/dia-del-cafe-por-que-el-cafe-se-sirve-un-platito-debajo-n10284221.html",
-        "image": "https://media.lacapital.com.ar/p/3badb4ebde1e50c5820a8fe4536d10bf/adjuntos/203/imagenes/101/309/0101309954/1200x675/smart/79750761jpg.jpg",
-        "summary": "Aunque hoy es una costumbre incuestionable en bares y cafeterías, el uso del plato tiene una razón histórica que pocos conocen",
-        "pubDate": "2026-10-01T12:41:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Puerto San Martín: un obrero cayó a un pozo de noria y lo rescataron los bomberos",
-        "link": "https://www.lacapital.com.ar/la-region/puerto-san-martin-un-obrero-cayo-un-pozo-noria-y-lo-rescataron-los-bomberos-n10284218.html",
-        "image": "https://media.lacapital.com.ar/p/4d4ee539938f1200b3ec1b8684d82d45/adjuntos/203/imagenes/103/438/0103438682/1200x675/smart/rescate-puerto-san-martin.jpg",
-        "summary": "El accidente sucedió esta mañana. El trabajador sufrió politraumatismos y tuvo que ser hospitalizado, pero no había perdido el conocimiento",
-        "pubDate": "2026-10-01T12:38:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Grave imputación por intento de femicidio: quemaduras y violencia psicológica",
-        "link": "https://www.lacapital.com.ar/policiales/grave-imputacion-intento-femicidio-quemaduras-y-violencia-psicologica-n10284209.html",
-        "image": "https://media.lacapital.com.ar/p/8555d7d958da3c91b16a3a91402e6cb0/adjuntos/203/imagenes/103/434/0103434169/detenido-intento-femicidio.jpeg",
-        "summary": "La expareja de Joel N. denunció que fue hostigada durante meses, antes y después de la separación. El ataque dañó el 13% de la superficie de su cuerpo",
-        "pubDate": "2026-10-01T12:37:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Hospital Italiano Rosario: su rol en los Juegos Suramericanos Santa Fe 2026",
-        "link": "https://www.lacapital.com.ar/salud/hospital-italiano-rosario-su-rol-los-juegos-suramericanos-santa-fe-2026-n10284212.html",
-        "image": "https://media.lacapital.com.ar/p/4b9042ff68f1b9d6fa31a443f6ad1a68/adjuntos/203/imagenes/103/438/0103438659/1200x675/smart/imagen-nota.jpg",
-        "summary": "El Hospital Italiano Rosario desplegó 180 profesionales de la salud en los XIII Juegos Suramericanos Santa Fe 2026 y consolidó experiencia en operativos sanitarios de gran escala",
-        "pubDate": "2026-10-01T12:08:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central: Axel Werner se perdería el próximo partido ante Banfield por una lesión",
-        "link": "https://www.lacapital.com.ar/ovacion/central-axel-werner-se-perderia-el-proximo-partido-banfield-una-lesion-n10284202.html",
-        "image": "https://media.lacapital.com.ar/p/50bad9fe5268467897ed95ad6f74a095/adjuntos/203/imagenes/103/438/0103438616/1200x675/smart/image-1.jpg",
-        "summary": "El arquero habría sufrido una lesión ligamentaria ante Estudiantes y el tiempo de recuperación sería entre 4 y 6 semanas. Ledesma volvería a la titularidad",
-        "pubDate": "2026-10-01T12:06:00+00:00",
         "approxTime": false
       }
     ]
