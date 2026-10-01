@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T00:31:06.690080+00:00",
+  "generatedAt": "2026-10-01T01:01:11.965363+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,9 +13,9 @@
       },
       {
         "source": "Rosario3",
-        "title": "Con gol de Lautaro Martínez, Argentina le gana 1 a 0 a Bolivia en Córdoba",
+        "title": "ET en Córdoba: Con goles de Lautaro Martínez y Nicolás Paz Argentina derrota 2 a 0 a Bolivia",
         "link": "https://www.rosario3.com/deportes/comienza-la-era-post-messi-argentina-enfrenta-a-bolivia-en-cordoba-en-el-primer-encuentro-con-los-hinchas-tras-el-mundial-20260929-0075.html",
-        "image": "https://www.rosario3.com/__export/1783955892456/sites/rosario3/img/2026/07/13/whatsapp_image_2026-07-13_at_12_04_28.jpg_1221028660.jpg",
+        "image": "https://www.rosario3.com/__export/1790815610851/sites/rosario3/img/2026/09/30/lautoro.jpg_928314580.jpg",
         "summary": "Mientras Lionel Scaloni negocia su continuidad, ahora más encaminada, su equipo jugará el primer partido ante el público argentino, tras la final de la Copa del Mundo. El estadio Mario Alberto Kempes tendrá aforo reducido producto de la sanción de la FIFA. Dirige el colombiano…",
         "pubDate": "2026-09-29T11:59:00+00:00",
         "approxTime": true
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Ignacio Boero: \"Los dirigentes no podemos acoplarnos a esta escalada de violencia\"",
+        "link": "https://www.lacapital.com.ar/ovacion/ignacio-boero-los-dirigentes-no-podemos-acoplarnos-esta-escalada-violencia-n10284176.html",
+        "image": "https://media.lacapital.com.ar/p/6433a15641143e66c4c449621a7dd3fe/adjuntos/203/imagenes/103/438/0103438291/1200x675/smart/nob-boero-24157.jpg",
+        "summary": "El presidente de Newell’s remarcó en rueda de prensa que “la violencia vino de afuera hacia adentro del club”",
+        "pubDate": "2026-10-01T00:52:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Otra vez quedó todo vacante en el Quini 6, que ya tiene un pozo de $9.400 millones",
+        "link": "https://www.lacapital.com.ar/informacion-general/otra-vez-quedo-todo-vacante-el-quini-6-que-ya-tiene-un-pozo-9400-millones-n10284174.html",
+        "image": "https://media.lacapital.com.ar/p/410a83e6d2646e2074ae6a9a843a5f93/adjuntos/203/imagenes/103/438/0103438234/2026-09-30-quini-6.jpg",
+        "summary": "Dos apostadores de Santa Fe integran el grupo de doce personas que comparte el Siempre Sale: cada uno se llevará 31 millones de pesos",
+        "pubDate": "2026-10-01T00:35:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Diego Furnari presenta en Rosario \"Luces y sombras en los gobiernos locales\"",
         "link": "https://www.lacapital.com.ar/la-ciudad/diego-furnari-presenta-rosario-luces-y-sombras-los-gobiernos-locales-n10284173.html",
         "image": "https://media.lacapital.com.ar/p/f597b5694ad47c3ba617d405c5cde006/adjuntos/203/imagenes/103/438/0103438190/2026-09-30-diego-furnari.jpg",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/1945cb18b55a452b3de1ae230cd61391/adjuntos/203/imagenes/103/437/0103437753/nnn.jpg",
         "summary": "El presidente de Newell's, Ignacio Boero, ofreció una rueda de prensa tras lo que fue la virulenta irrupción policial en la sede del club de este martes por la noche",
         "pubDate": "2026-09-30T21:26:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Máximo Kirchner fue demorado en San Luis y le secuestraron un vehículo con orden de captura",
-        "link": "https://www.lacapital.com.ar/politica/maximo-kirchner-fue-demorado-san-luis-y-le-secuestraron-un-vehiculo-orden-captura-n10284134.html",
-        "image": "https://media.lacapital.com.ar/p/a15bc6ddb3833773e9453aebba819fc7/adjuntos/203/imagenes/103/437/0103437718/1200x675/smart/image-2026-09-30t180239747.png",
-        "summary": "La medida se llevó a cabo en el marco de la causa Hotesur. El diputado viajaba hacia la provincia de San Juan para reunirse con referentes del peronismo",
-        "pubDate": "2026-09-30T21:21:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Platense levantó la guardia antes de jugar con Estudiantes: \"Quieren condicionar al árbitro\"",
-        "link": "https://www.lacapital.com.ar/ovacion/platense-levanto-la-guardia-antes-jugar-estudiantes-quieren-condicionar-al-arbitro-n10284142.html",
-        "image": "https://media.lacapital.com.ar/p/b31cb8c3c0c9d4ce63a22468f8d51106/adjuntos/203/imagenes/103/437/0103437720/1200x675/smart/imagegaston.jpg",
-        "summary": "El presidente del Calamar cuestionó el clima previo al duelo de este jueves por la Copa Argentina y apuntó al ruido generado por la dirigencia pincharrata tras perder con Central.",
-        "pubDate": "2026-09-30T21:19:00+00:00",
         "approxTime": false
       }
     ]
