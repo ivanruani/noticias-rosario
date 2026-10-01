@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T21:31:05.016940+00:00",
+  "generatedAt": "2026-10-01T21:47:15.701623+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Milei se reunió con Macron: inversiones y preguntas sobre el ajuste",
+        "link": "https://www.lacapital.com.ar/politica/milei-se-reunio-macron-inversiones-y-preguntas-el-ajuste-n10284365.html",
+        "image": "https://media.lacapital.com.ar/p/27e18a182be29ed92db899eed21cdfc7/adjuntos/203/imagenes/103/439/0103439877/1200x675/smart/milei-macron-web.jpg",
+        "summary": "Los presidentes conversaron durante 40 minutos en el Elíseo. Luego se encontraron empresarios, que consultaron por el superávit argentino",
+        "pubDate": "2026-10-01T21:31:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El avión que une Rosario con Madrid es el de mayor capacidad de pasajeros que opera en Argentina",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-avion-que-une-rosario-madrid-es-el-mayor-capacidad-pasajeros-que-opera-argentina-n10284375.html",
+        "image": "https://media.lacapital.com.ar/p/0a6974e47340eccacb84add0f4e63d63/adjuntos/203/imagenes/103/439/0103439987/1200x675/smart/imageavion3.jpg",
+        "summary": "El Airbus A350-900 de World2Fly tiene 432 butacas en una única clase y supera incluso al Boeing 747-8 de Lufthansa, que transporta 364 pasajeros. La diferencia está en cómo está distribuido el espacio dentro de cada aeronave.",
+        "pubDate": "2026-10-01T21:26:19+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Argentina disputará las eliminatorias de Conmebol, pero ya clasificada al Mundial 2030",
         "link": "https://www.lacapital.com.ar/ovacion/argentina-disputara-las-eliminatorias-conmebol-pero-ya-clasificada-al-mundial-2030-n10284072.html",
         "image": "https://media.lacapital.com.ar/p/d8eb43e4990e59635fd0c630916cda4e/adjuntos/203/imagenes/103/270/0103270274/1200x675/smart/image-2026-07-12t015018157.png",
@@ -198,7 +216,7 @@
         "title": "Aterrizó en Rosario el primer vuelo directo desde Madrid",
         "link": "https://www.lacapital.com.ar/la-ciudad/aterrizo-rosario-el-primer-vuelo-directo-madrid-n10284353.html",
         "image": "https://media.lacapital.com.ar/p/cda3fd028a64b491ce9676e1d43faf45/adjuntos/203/imagenes/103/439/0103439986/1200x675/smart/image-12.jpg",
-        "summary": "El Airbus A350-900 de World2Fly llegó este jueves cerca de las 17.30 al aeropuerto Islas Malvinas e inauguró la conexión sin escalas con Europa. La ruta tendrá dos frecuencias semanales, los martes y jueves.",
+        "summary": "El Airbus A350-900 de World2Fly llegó cerca de las 17.30 al aeropuerto Islas Malvinas e inauguró la conexión sin escalas con Europa. La ruta tendrá dos frecuencias semanales, los martes y jueves.",
         "pubDate": "2026-10-01T20:31:00+00:00",
         "approxTime": false
       },
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/e0ebe021f9ae7abad0dd720e2755990d/adjuntos/203/imagenes/103/439/0103439316/1200x675/smart/club-leones-san-lorenzo.jpg",
         "summary": "Los leones apuntan a juntar unos siete millones y medio de pesos para comprar un autorrefractómetro para el Hospital Granaderos a Caballo, de San Lorenzo",
         "pubDate": "2026-10-01T19:37:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El gas sube 1% en octubre, pero la quita de zona fría anticipa un impacto mayor",
-        "link": "https://www.lacapital.com.ar/economia/el-gas-sube-1-octubre-pero-la-quita-zona-fria-anticipa-un-impacto-mayor-n10284308.html",
-        "image": "https://media.lacapital.com.ar/p/b6741fe62f7d82aa72178fd0668ed259/adjuntos/203/imagenes/100/084/0100084235/1200x675/469x626:489x646/tarifa-gasjpg.jpg",
-        "summary": "Litoral Gas informó que el aumento será de entre $100 y $500 para el 75% de los hogares. Los usuarios perderían descuentos del 30% y del 50% cuando se promulgue la modificación de la ley de zona fría",
-        "pubDate": "2026-10-01T19:37:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Llegó a Netflix \"La sustancia\", la nominada película de terror corporal con Demi Moore",
-        "link": "https://www.lacapital.com.ar/zoom/llego-netflix-la-sustancia-la-nominada-pelicula-terror-corporal-demi-moore-n10284297.html",
-        "image": "https://media.lacapital.com.ar/p/a598e6e548832884d6796d7a3164d03c/adjuntos/203/imagenes/103/439/0103439417/1200x675/smart/image.png",
-        "summary": "Tras su estreno en 2024, el film de Coralie Fargeat llega a Netflix con una crítica social muy vigente y muchas expectativas",
-        "pubDate": "2026-10-01T19:36:00+00:00",
         "approxTime": false
       }
     ]
