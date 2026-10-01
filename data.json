@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T09:01:19.221512+00:00",
+  "generatedAt": "2026-10-01T09:31:05.287211+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,33 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Crónicas de campaña: el Niño podría perder intensidad y crece el desconcierto en el campo",
+        "link": "https://www.lacapital.com.ar/agro/cronicas-campana-el-nino-podria-perder-intensidad-y-crece-el-desconcierto-el-campo-n10284105.html",
+        "image": "https://media.lacapital.com.ar/p/077a2d15a04e6beed9edb88accc0e81a/adjuntos/305/imagenes/101/827/0101827611/1200x675/smart/campo-molinojpg.jpg",
+        "summary": "La Bolsa de Comercio de Rosario advierte que el fenómeno podría pasar de muy fuerte a fuerte. Septiembre termina con lluvias por debajo de las medias históricas en buena parte de la región pampeana. La falta de humedad compromete el potencial del trigo y demora la siembra de maíz",
+        "pubDate": "2026-10-01T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Aeropuerto internacional: sale hoy el primer vuelo directo Rosario-Madrid",
+        "link": "https://www.lacapital.com.ar/la-ciudad/aeropuerto-internacional-sale-hoy-el-primer-vuelo-directo-rosario-madrid-n10284135.html",
+        "image": "https://media.lacapital.com.ar/p/f66004eeb840ac126dcaceb7871d1be2/adjuntos/203/imagenes/103/424/0103424524/world2fly-airbus-350.jpg",
+        "summary": "Están previstas actividades oficiales para promover la ruta comercial. Habrá un acto oficial para saludar el despegue en el Aeropuerto",
+        "pubDate": "2026-10-01T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Lavado de dinero: la hora de tirar de la punta del ovillo",
+        "link": "https://www.lacapital.com.ar/politica/lavado-dinero-la-hora-tirar-la-punta-del-ovillo-n10284071.html",
+        "image": "https://media.lacapital.com.ar/p/43d87264cbb51701438a852d1bf3b562/adjuntos/203/imagenes/103/436/0103436754/1200x675/smart/cumbre-fiscales.jpg",
+        "summary": "El gobernador Pullaro y el intendente Javkin pusieron el ojo en esa problemática durante una cumbre sobre crimen organizado al que asistieron fiscales federales. El desafío de abordarlo a fondo",
+        "pubDate": "2026-10-01T09:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Franquicias y emprendedores se reúnen uno a uno en Rosario",
         "link": "https://www.lacapital.com.ar/novedades/franquicias-y-emprendedores-se-reunen-uno-uno-rosario-n10284096.html",
         "image": "https://media.lacapital.com.ar/p/1b1f44225f7c0dd3e11146bf26d94d48/adjuntos/203/imagenes/103/437/0103437375/1200x675/smart/portada.png",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/48a3065ac4ec6640bfc13e46b7ab6382/adjuntos/203/imagenes/103/438/0103438058/cuti.jpg",
         "summary": "El entrenador Lionel Scaloni definió los once para el choque en el Kempes frente a Bolivia. La cinta de capitán la portará Cuti Romero",
         "pubDate": "2026-09-30T23:20:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Tenis: puntos en el Regional de Menores que sumaron de cara al Nacional en Salta",
-        "link": "https://www.lacapital.com.ar/ovacion/tenis-puntos-el-regional-menores-que-sumaron-cara-al-nacional-salta-n10284156.html",
-        "image": "https://media.lacapital.com.ar/p/88d651e22a3f6e56d343b9b082732f5b/adjuntos/203/imagenes/103/437/0103437954/tttiiii.jpg",
-        "summary": "Los torneos de los que participaron más de 200 jugadores se disputaron en Schwank Tennis Center y Ceca Tenis",
-        "pubDate": "2026-09-30T23:07:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cristiano Ronaldo iba a ser suplente en Portugal, se enojó y pegó el portazo",
-        "link": "https://www.lacapital.com.ar/ovacion/cristiano-ronaldo-iba-ser-suplente-portugal-se-enojo-y-pego-el-portazo-n10284151.html",
-        "image": "https://media.lacapital.com.ar/p/91391d9cf0a2b438835c83f5ba594c65/adjuntos/203/imagenes/103/437/0103437909/2026-09-30-cristiano-ronaldo.jpg",
-        "summary": "El delantero abandonó la concentración de la selección. \"Yo soy quien toma las decisiones\", sostuvo el técnico",
-        "pubDate": "2026-09-30T23:06:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Casa FOA llega por primera vez a Rosario en 2027 y elige a Midtown como sede",
-        "link": "https://www.lacapital.com.ar/la-ciudad/casa-foa-llega-primera-vez-rosario-2027-y-elige-midtown-como-sede-n10284090.html",
-        "image": "https://media.lacapital.com.ar/p/35d261a10810ffefd0dd6cfc90db4fbb/adjuntos/203/imagenes/103/437/0103437921/1200x675/smart/82724144.jpeg",
-        "summary": "El desarrollo ubicado en Santiago y Tucumán fue elegido para recibir en 2027 a la principal muestra de arquitectura, diseño e interiorismo del país",
-        "pubDate": "2026-09-30T22:59:00+00:00",
         "approxTime": false
       }
     ]
