@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T19:01:14.251887+00:00",
+  "generatedAt": "2026-10-02T19:31:05.994910+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,42 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Qué ver en plataformas de streaming este fin de semana",
+        "link": "https://www.lacapital.com.ar/zoom/que-ver-plataformas-streaming-este-fin-semana-n10284535.html",
+        "image": "https://media.lacapital.com.ar/p/ae24f1474e7cc5b6795d32d06ec40c71/adjuntos/203/imagenes/103/441/0103441731/1200x675/smart/image-19.png",
+        "summary": "Opciones de drama, romance y suspenso para disfrutar en las distintas plataformas de streaming",
+        "pubDate": "2026-10-02T19:08:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Allanaron dos domicilios en Rosario por mensajes antisemitas y secuestraron un arma",
+        "link": "https://www.lacapital.com.ar/policiales/allanaron-dos-domicilios-rosario-mensajes-antisemitas-y-secuestraron-un-arma-n10284489.html",
+        "image": "https://media.lacapital.com.ar/p/358ac7fccd4ca2dc71769a25690f33ab/adjuntos/203/imagenes/103/441/0103441199/1200x675/smart/ami.jpg",
+        "summary": "La investigación comenzó tras una denuncia de organizaciones de la comunidad judía. La Policía Federal identificó al acusado y encontró una pistola calibre 22, municiones y material antisemita y antisionista",
+        "pubDate": "2026-10-02T19:07:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Anmat prohibió un producto médico que se comercializaba por Mercado Libre",
+        "link": "https://www.lacapital.com.ar/informacion-general/anmat-prohibio-un-producto-medico-que-se-comercializaba-mercado-libre-n10284504.html",
+        "image": "https://media.lacapital.com.ar/p/67ff05d83ed16342ba0954d83b92b6fa/adjuntos/203/imagenes/103/441/0103441316/1200x675/smart/image-16.png",
+        "summary": "Una unidad del artículo ingresó al país sin las debidas autorizaciones sanitarias y fue considerado ilegítimo",
+        "pubDate": "2026-10-02T19:04:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Este lunes sube el boleto de colectivo en Rosario tras casi ocho meses sin cambios",
+        "link": "https://www.lacapital.com.ar/la-ciudad/este-lunes-sube-el-boleto-colectivo-rosario-casi-ocho-meses-cambios-n10284537.html",
+        "image": "https://media.lacapital.com.ar/p/e16eae5380efef0b6138cad6f67e5593/adjuntos/203/imagenes/101/381/0101381300/1200x675/smart/transporte-urbanojpg.jpg",
+        "summary": "Desde el 5 de octubre, viajar en transporte público será un 25% más caro, ya que se deberá abonar 2.150 pesos. El incremento llega luego de un estudio de costos que marcó suba del 40% en combustibles",
+        "pubDate": "2026-10-02T18:59:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Presupuesto 2027: las universidades reclaman que se cumpla la ley de financiamiento",
         "link": "https://www.lacapital.com.ar/politica/presupuesto-2027-las-universidades-reclaman-que-se-cumpla-la-ley-financiamiento-n10284534.html",
         "image": "https://media.lacapital.com.ar/p/7589d2b70dc8c7f294572ffe16d822d2/adjuntos/203/imagenes/103/441/0103441683/1200x675/smart/unl.jpg",
@@ -236,42 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/69efd6d7e7c7c58403be98f3c7540ae5/adjuntos/203/imagenes/103/441/0103441314/1200x675/smart/diseno-titulo-75.png",
         "summary": "Durante su primer show en Buenos Aires, el cantante hizo una broma sobre la ahora diputada. Granata, por su parte, aportó sus revelaciones sobre el artista",
         "pubDate": "2026-10-02T16:45:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Villa Gobernador Gálvez: tres hombres detenidos por intentar usurpar una casa a los tiros",
-        "link": "https://www.lacapital.com.ar/policiales/villa-gobernador-galvez-tres-hombres-detenidos-intentar-usurpar-una-casa-los-tiros-n10284477.html",
-        "image": "https://media.lacapital.com.ar/p/92e5ba4e24c03be8c520c28e92bd0dc9/adjuntos/203/imagenes/103/441/0103441014/1200x675/smart/com.jpg",
-        "summary": "Los ocupantes de la vivienda denunciaron la situación y aseguraron ignorar por qué habían sido atacados. Habían sido amenazados días antes",
-        "pubDate": "2026-10-02T16:28:16+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Llegó el primer adelanto de la nueva serie animada de Messi que se estrenará en Disney+",
-        "link": "https://www.lacapital.com.ar/zoom/llego-el-primer-adelanto-la-nueva-serie-animada-messi-que-se-estrenara-disney-n10284508.html",
-        "image": "https://media.lacapital.com.ar/p/aa357983d06a352c8063f0dde9e0bc65/adjuntos/203/imagenes/103/441/0103441360/1200x675/smart/serie-animada-messi-y-los-gigantes.jpg",
-        "summary": "\"Messi y los gigantes\" llegará a la plataforma de streaming el próximo año, con una aventura de fantasía que estará inspirada en el ídolo rosarino",
-        "pubDate": "2026-10-02T16:26:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Desbaratan una banda de ladrones que cometió varios robos en casas en Fisherton",
-        "link": "https://www.lacapital.com.ar/policiales/desbaratan-una-banda-ladrones-que-cometio-varios-robos-casas-fisherton-n10284502.html",
-        "image": "https://media.lacapital.com.ar/p/855fb4503a8fcadd6423a34c108888f9/adjuntos/203/imagenes/103/441/0103441313/1200x675/smart/un.jpg",
-        "summary": "Con el sistema Lince pudieron reconstruir el recorrido de un auto que aparecía en los hechos y finalmente encontraron a los ladrones",
-        "pubDate": "2026-10-02T16:03:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Granizo en Funes: detectaron microplásticos y metales en muestras recolectadas",
-        "link": "https://www.lacapital.com.ar/la-region/granizo-funes-detectaron-microplasticos-y-metales-muestras-recolectadas-n10284428.html",
-        "image": "https://media.lacapital.com.ar/p/e2bbfc84603a9835a83c302e69b1269e/adjuntos/203/imagenes/103/440/0103440545/1200x675/smart/image-27.jpg",
-        "summary": "Tres laboratorios analizaron muestras y detectaron elementos químicos, metales y microplásticos. Los resultados son preliminares y no se sabe aún su origen",
-        "pubDate": "2026-10-02T15:54:00+00:00",
         "approxTime": false
       }
     ]
