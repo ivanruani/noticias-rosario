@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-02T01:31:02.939486+00:00",
+  "generatedAt": "2026-10-02T01:38:43.737287+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Partió el primer vuelo Rosario-Madrid y la provincia recuperó la conectividad con Europa después de cuatro décadas",
+        "link": "https://www.rosario3.com/informaciongeneral/partio-el-primer-vuelo-rosario-madrid-y-la-provincia-recupero-la-conectividad-con-europa-despues-de-cuatro-decadas-20261001-0076.html",
+        "image": "https://www.rosario3.com/__export/1790900511193/sites/rosario3/img/2026/10/01/pullaro_y_autoridades.jpg_1825222445.jpg",
+        "summary": "El gobernador Maximiliano Pullaro presenció el arribo y la partida del vuelo inaugural de World2Fly que une Rosario con Madrid. La nueva ruta, que operará dos veces por semana, forma parte de la estrategia provincial para consolidar al Aeropuerto Internacional Rosario “Islas…",
+        "pubDate": "2026-10-01T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Crimen de Joaquín Pérez: la querella sostuvo que cuatro testigos reconocieron a López como el conductor de la moto",
         "link": "https://www.rosario3.com/policiales/crimen-de-joaquin-perez-la-querella-sostuvo-que-cuatro-testigos-reconocieron-a-lopez-como-el-conductor-de-la-moto-20261001-0077.html",
         "image": "https://www.rosario3.com/__export/1790897697693/sites/rosario3/img/2026/10/01/cristian_lopez_detenido_jpg_1756841869_1.jpg_1825222445.jpg",
         "summary": "En el juicio por los homicidios de Joaquín Pérez y Ariel Simoncini, el abogado Carlos Varela destacó el valor de los reconocimientos y de los testimonios de identidad reservada. Dijo que el primer testigo actuó por un “reflejo ético” y que su aporte fue la “chispa” que permitió…",
-        "pubDate": "2026-10-01T12:00:00+00:00",
+        "pubDate": "2026-10-01T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/javkin-envio-al-concejo-el-proyecto-para-legalizar-uber-didi-y-otras-aplicaciones-de-movilidad-en-rosario-20261001-0070.html",
         "image": "https://www.rosario3.com/__export/1790889634743/sites/rosario3/img/2026/10/01/uber.jpg_1825222445.jpg",
         "summary": "La iniciativa establece requisitos para conductores y vehículos, seguros específicos y un esquema tarifario flexible. Para el taxi tomado en la calle, el Concejo seguirá fijando la tarifa",
-        "pubDate": "2026-10-01T11:59:00+00:00",
+        "pubDate": "2026-10-01T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/grave-siniestro-vial-en-soldini-una-adolescente-fue-atropellada-por-una-camioneta-del-servicio-penitenciario-en-la-ruta-14-20261001-0082.html",
         "image": "https://www.rosario3.com/__export/1790904298448/sites/rosario3/img/2026/10/01/bomberos_perez.jpg_928314580.jpg",
         "summary": "El hecho ocurrió en la intersección de la ruta 14 y calle Ecuador, a metros de una escuela primaria. Una joven, de unos 15 años, fue trasladada por el Sies a Rosario. Intervinieron Bomberos, Policía y personal de Tránsito de Soldini. El tránsito hacia Pérez permanecía cortado",
-        "pubDate": "2026-10-01T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Cayó de un techo mientras colocaba equipos de sonido en un bar del centro",
-        "link": "https://www.rosario3.com/informaciongeneral/cayo-de-un-techo-mientras-colocaba-equipos-de-sonido-en-un-bar-del-centro-20261001-0078.html",
-        "image": "https://www.rosario3.com/__export/1790898898053/sites/rosario3/img/2026/10/01/jujuy_y_balcarce.jpg_1825222445.jpg",
-        "summary": "Un operario resultó herido este jueves por la tarde tras caer desde una altura aproximada de cuatro metros mientras realizaba trabajos en un bar ubicado en la zona de Jujuy y Balcarce. El hombre fue asistido en el lugar y trasladado al Hospital Centenario.",
         "pubDate": "2026-10-01T11:57:00+00:00",
         "approxTime": true
       },
