@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T18:01:22.474224+00:00",
+  "generatedAt": "2026-10-02T18:31:08.568974+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Altas y bajas en el plantel de Newell's convocado por Frank Kudelka para el partido con Lanús",
+        "link": "https://www.lacapital.com.ar/ovacion/altas-y-bajas-el-plantel-newells-convocado-frank-kudelka-el-partido-lanus-n10284530.html",
+        "image": "https://media.lacapital.com.ar/p/64108f0cb9192bcf5093c19d11e91564/adjuntos/203/imagenes/103/441/0103441682/1200x675/smart/image-4.jpg",
+        "summary": "Vuelven a la convocatoria Martín Ortega y Oscar Salomón. Arias sigue ausente y sale el volante David Sotelo",
+        "pubDate": "2026-10-02T18:22:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Tres películas que no podés perderte en Netflix",
+        "link": "https://www.lacapital.com.ar/zoom/tres-peliculas-que-no-podes-perderte-netflix-n10284524.html",
+        "image": "https://media.lacapital.com.ar/p/4b6a892b476d2cda5bc969c16b696316/adjuntos/203/imagenes/103/441/0103441566/1200x675/smart/image-18.png",
+        "summary": "La plataforma sumó producciones de suspenso, misterio y terror que tienen a los usuarios fascinados. De qué se tratan las nuevas incorporaciones",
+        "pubDate": "2026-10-02T18:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Murió Ricardo Soulé, referente del rock argentino y líder de Vox Dei",
         "link": "https://www.lacapital.com.ar/zoom/murio-ricardo-soule-referente-del-rock-argentino-y-lider-vox-dei-n10284511.html",
         "image": "https://media.lacapital.com.ar/p/1e613229e84c9fd073da295b7dff3099/adjuntos/203/imagenes/103/441/0103441495/1200x675/smart/soule.jpg",
@@ -171,7 +189,7 @@
         "title": "Central: Almirón gestiona una previa en la que el mal de ausencias se potencia",
         "link": "https://www.lacapital.com.ar/ovacion/central-almiron-gestiona-una-previa-la-que-el-mal-ausencias-se-potencia-n10284480.html",
         "image": "https://media.lacapital.com.ar/p/df84bcaf88b55264b13583718e8f54bc/adjuntos/203/imagenes/103/441/0103441460/almicml.JPG",
-        "summary": "A las bajas que tuvo contra Estudiantes, se le suman dos futbolistas más que no estarán para el choque con Banfield.",
+        "summary": "A las bajas que tuvo contra Estudiantes por la Supercopa Internacional, se le suman dos futbolistas más que no estarán para el choque con Banfield",
         "pubDate": "2026-10-02T17:26:00+00:00",
         "approxTime": false
       },
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/a256a200c06c99e32464fa87c5cdf4a1/adjuntos/203/imagenes/101/736/0101736657/1200x675/smart/mirtha-legrandjpg.jpg",
         "summary": "La diva permanece en una habitación común del Sanatorio Mater Dei. Recibe seguimiento kinésico, nutricional y clínico con el objetivo de regresar a su casa",
         "pubDate": "2026-10-02T15:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Newell's vs. Lanús por el torneo Clausura: hora, canal y posibles formaciones",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-vs-lanus-el-torneo-clausura-hora-canal-y-posibles-formaciones-n10284475.html",
-        "image": "https://media.lacapital.com.ar/p/569cd95a37ddcd7391ed78ba91ac6b0b/adjuntos/203/imagenes/103/440/0103440964/1200x675/smart/newells-lanus.jpg",
-        "summary": "La Lepra tendrá un duelo fundamental ante el Granate para luchar por la clasificación a playoffs. Detalles y estadísticas del partido",
-        "pubDate": "2026-10-02T15:09:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Romina Diez celebró los números del gobierno de Javier Milei",
-        "link": "https://www.lacapital.com.ar/politica/romina-diez-celebro-los-numeros-del-gobierno-javier-milei-n10284486.html",
-        "image": "https://media.lacapital.com.ar/p/37d4e542cf68c381bf673af0b031ba4c/adjuntos/203/imagenes/103/441/0103441061/1200x675/smart/diez.jpg",
-        "summary": "\"Estabilidad cambiaria, créditos hipotecarios, menos pobreza, menos inflación y récord en exportación\", destacó la diputada nacional por Santa Fe",
-        "pubDate": "2026-10-02T14:52:00+00:00",
         "approxTime": false
       }
     ]
