@@ -1,31 +1,31 @@
 {
-  "generatedAt": "2026-10-02T17:01:22.458719+00:00",
+  "generatedAt": "2026-10-02T17:31:09.488345+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Caso de la partera Dolly: “Estamos investigando de dónde habría sacado los bebés”",
+        "link": "https://www.rosario3.com/informaciongeneral/caso-de-la-partera-dolly-estamos-investigando-de-donde-habria-sacado-los-bebes-20261002-0039.html",
+        "image": "https://www.rosario3.com/__export/1790957493750/sites/rosario3/img/2026/10/02/fiscaliafederal.jpg_928314581.jpg",
+        "summary": "La fiscal federal Soledad García explicó de qué se la acusa a la mujer de 88 años y cuáles son los casos que se investigan. Indicó que existe un año para avanzar aunque se solicitará más plazo debido a la ejecución de exámenes de ADN. Aseguró que, en principio, llegan a 10 las…",
+        "pubDate": "2026-10-02T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Controles sorpresa de la Policía Federal en los accesos a Rosario: escáneres y perros para revisar camiones",
+        "link": "https://www.rosario3.com/informaciongeneral/controles-sorpresa-de-la-policia-federal-en-los-accesos-a-rosario-escaneres-y-perros-para-revisar-camiones-20261002-0043.html",
+        "image": "https://www.rosario3.com/__export/1790959618284/sites/rosario3/img/2026/10/02/ruta.png_786111822.png",
+        "summary": "Los operativos se realizan de manera aleatoria y rotativa en rutas estratégicas de Santa Fe. En uno de los procedimientos, secuestraron $12 millones en efectivo que no contaban con documentación que acreditara su procedencia",
+        "pubDate": "2026-10-02T11:59:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "¿Legalizar Uber en Rosario?: la idea del oficialismo, la postura de LLA y los pros y contras de choferes y taxistas",
         "link": "https://www.rosario3.com/informaciongeneral/legalizar-uber-en-rosario-la-idea-del-oficialismo-la-postura-de-lla-y-los-pros-y-contras-de-choferes-y-taxistas-20261002-0026.html",
         "image": "https://www.rosario3.com/__export/1790949188765/sites/rosario3/img/2026/10/02/uber.jpg_928314581.jpg",
         "summary": "Pablo Javkin envió al Concejo un proyecto que propone legalizar Uber, DiDi y las demás plataformas de movilidad. Desde La Libertad Avanza reclaman que se incluya a las motos y se revisen las multas aplicadas, mientras que el oficialismo defiende el texto para brindar seguridad a…",
-        "pubDate": "2026-10-02T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Alerta por tormentas en Rosario: viernes de transición antes del cambio de tiempo",
-        "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-viernes-fresco-pero-agradable-antes-del-regreso-de-las-tormentas-20261002-0001.html",
-        "image": "https://www.rosario3.com/__export/1790949751524/sites/rosario3/img/2025/12/26/multimedia.png_1221029566.png",
-        "summary": "El Servicio Meteorológico Nacional emitió un aviso para este sábado por fenómenos que pueden ser localmente fuertes con intensa actividad eléctrica y ráfagas. La semana cerrará con ambiente agradable, pero viento en aumento hacia la noche",
-        "pubDate": "2026-10-02T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Duro panorama de la Iglesia ante la visita del Papa: \"Lo espera una Argentina en crisis\"",
-        "link": "https://www.rosario3.com/informaciongeneral/duro-panorama-de-la-iglesia-ante-la-visita-del-papa-lo-espera-una-argentina-en-crisis-20261002-0031.html",
-        "image": "https://www.rosario3.com/__export/1790951612805/sites/rosario3/img/2026/10/02/papa_y_arzobispo.jpg_1825222445.jpg",
-        "summary": "El arzobispo porteño y primado de la Argentina, Jorge García Cuerva, aseguró que León XIV se encontrará “con gran cantidad de hermanos pobres” y un país dividido e intolerante",
         "pubDate": "2026-10-02T11:58:00+00:00",
         "approxTime": true
       },
@@ -40,11 +40,20 @@
       },
       {
         "source": "Rosario3",
-        "title": "Fotogalería: impresionante despliegue de tanques y drones en la playa de Rosario y el río Paraná, en la antesala de la operación Biguá",
-        "link": "https://www.rosario3.com/informaciongeneral/fotogaleria-impresionante-despliegue-de-tanques-y-drones-en-la-playa-de-rosario-y-el-rio-parana-en-la-antesala-de-la-operacion-bigua-20261002-0038.html",
-        "image": "https://www.rosario3.com/__export/1790956312910/sites/rosario3/img/2026/10/02/desembarco-en-la-playa-2.jpg_928314580.jpg",
-        "summary": "Este viernes el Ejército argentino volvió a ensayar las maniobras de este fin de semana, cuando realizarán la actividad principal sobre la playa del Camping Municipal sábado y domingo",
+        "title": "Alerta por tormentas en Rosario: viernes de transición antes del cambio de tiempo",
+        "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-viernes-fresco-pero-agradable-antes-del-regreso-de-las-tormentas-20261002-0001.html",
+        "image": "https://www.rosario3.com/__export/1790949751524/sites/rosario3/img/2025/12/26/multimedia.png_1221029566.png",
+        "summary": "El Servicio Meteorológico Nacional emitió un aviso para este sábado por fenómenos que pueden ser localmente fuertes con intensa actividad eléctrica y ráfagas. La semana cerrará con ambiente agradable, pero viento en aumento hacia la noche",
         "pubDate": "2026-10-02T11:56:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Duro panorama de la Iglesia ante la visita del Papa: \"Lo espera una Argentina en crisis\"",
+        "link": "https://www.rosario3.com/informaciongeneral/duro-panorama-de-la-iglesia-ante-la-visita-del-papa-lo-espera-una-argentina-en-crisis-20261002-0031.html",
+        "image": "https://www.rosario3.com/__export/1790951612805/sites/rosario3/img/2026/10/02/papa_y_arzobispo.jpg_1825222445.jpg",
+        "summary": "El arzobispo porteño y primado de la Argentina, Jorge García Cuerva, aseguró que León XIV se encontrará “con gran cantidad de hermanos pobres” y un país dividido e intolerante",
+        "pubDate": "2026-10-02T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -53,15 +62,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/el-piloto-de-flydubai-conto-como-sobrevivio-al-ataque-de-su-copiloto-durante-el-vuelo-a-israel-no-podia-dejar-que-todos-murieran-20261002-0022.html",
         "image": "https://www.rosario3.com/__export/1790946337316/sites/rosario3/img/2026/10/02/piloto.jpg_1825222445.jpg",
         "summary": "Con la cabeza vendada y tubos en la nariz, Smit Machchhar se quebró al relatarle al primer ministro indio, Narendra Modi, cómo fueron esos momentos de tensión y terror",
-        "pubDate": "2026-10-02T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Crecen las denuncias contra Dolly y su hermana: “Ojalá las mamás a las que les mintieron aparezcan\"",
-        "link": "https://www.rosario3.com/informaciongeneral/crecen-las-denuncias-contra-dolly-y-su-hermana-ojala-las-mamas-a-las-que-les-mintieron-aparezcan-20261002-0018.html",
-        "image": "https://www.rosario3.com/__export/1790942385553/sites/rosario3/img/2026/10/02/buscadores.jpg_928314581.jpg",
-        "summary": "La Justicia federal citó a indagatoria a Dolly Viale, una jubilada de 88 años acusada de separar bebés de sus madres y entregarlos a otras familias en el hospital Roque Sáenz Peña entre 1968 y 1980 junto a su hermana Silvia. Andrea Camusso, integrante de la agrupación Cardumen…",
         "pubDate": "2026-10-02T11:54:00+00:00",
         "approxTime": true
       },
@@ -76,19 +76,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "Con promociones y actividades especiales, se viene una nueva edición de la Noche de las Peatonales",
-        "link": "https://www.rosario3.com/informaciongeneral/con-promociones-y-actividades-especiales-se-viene-una-nueva-edicion-de-la-noche-de-las-peatonales-20261002-0015.html",
-        "image": "https://www.rosario3.com/__export/1790941525327/sites/rosario3/img/2026/10/02/noche_de_las_peatonales.jpg_54252853.jpg",
-        "summary": "La actividad se desarrollará el próximo sábado 17 de octubre, desde las 18 y hasta la medianoche. El recorrido comprende las calles Córdoba, de Presidente Roca a Buenos Aires, y San Martín, desde Santa Fe hasta Mendoza. La fecha coincide con la víspera del Día de la Madre y la…",
+        "title": "Se presentó la programación de la feria Internacional del Libro de Rosario 2026 y Marcela Ternavasio dará el discurso de apertura",
+        "link": "https://www.rosario3.com/ocio/se-presento-la-programacion-de-la-feria-internacional-del-libro-de-rosario-2026-y-marcela-ternavasio-dara-el-discurso-de-apertura-20261002-0023.html",
+        "image": "https://www.rosario3.com/__export/1790945969109/sites/rosario3/img/2026/10/02/gemini_generated_image_4yy9gd4yy9gd4yy9_version1790945968644.jpg_876629738.jpg",
+        "summary": "La ministra Susana Rueda, el secretario de Cultura y Educación de Rosario, Federico Valentini y la directora de planificación de la Secretaría, Silvana Schultze, dieron detalles de la actividad que se desarrollará en el Cultural Fontanarrosa, del 8 al 18 de octubre. En el acto…",
         "pubDate": "2026-10-02T11:52:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Se presentó la programación de la feria Internacional del Libro de Rosario 2026 y Marcela Ternavasio dará el discurso de apertura",
-        "link": "https://www.rosario3.com/ocio/se-presento-la-programacion-de-la-feria-internacional-del-libro-de-rosario-2026-y-marcela-ternavasio-dara-el-discurso-de-apertura-20261002-0023.html",
-        "image": "https://www.rosario3.com/__export/1790945969109/sites/rosario3/img/2026/10/02/gemini_generated_image_4yy9gd4yy9gd4yy9_version1790945968644.jpg_876629738.jpg",
-        "summary": "La ministra Susana Rueda, el secretario de Cultura y Educación de Rosario, Federico Valentini y la directora de planificación de la Secretaría, Silvana Schultze, dieron detalles de la actividad que se desarrollará en el Cultural Fontanarrosa, del 8 al 18 de octubre. En el acto…",
+        "title": "Fotogalería: impresionante despliegue de tanques y drones en la playa de Rosario y el río Paraná, en la antesala de la operación Biguá",
+        "link": "https://www.rosario3.com/informaciongeneral/fotogaleria-impresionante-despliegue-de-tanques-y-drones-en-la-playa-de-rosario-y-el-rio-parana-en-la-antesala-de-la-operacion-bigua-20261002-0038.html",
+        "image": "https://www.rosario3.com/__export/1790956312910/sites/rosario3/img/2026/10/02/desembarco-en-la-playa-2.jpg_928314580.jpg",
+        "summary": "Este viernes el Ejército argentino volvió a ensayar las maniobras de este fin de semana, cuando realizarán la actividad principal sobre la playa del Camping Municipal sábado y domingo",
         "pubDate": "2026-10-02T11:51:00+00:00",
         "approxTime": true
       },
@@ -130,15 +130,42 @@
       },
       {
         "source": "Rosario3",
-        "title": "Noviembre tendrá cinco días sin bancos en Argentina por la visita del papa León XIV",
-        "link": "https://www.rosario3.com/informaciongeneral/noviembre-tendra-cinco-dias-sin-bancos-en-argentina-por-la-visita-del-papa-leon-xiv-20261002-0016.html",
-        "image": "https://www.rosario3.com/__export/1785954885178/sites/rosario3/img/2026/08/05/bancocentral.jpg_982625323.jpg",
-        "summary": "La visita del sumo pontífice tendrá impacto no solo en la agenda institucional y religiosa, sino también en el funcionamiento de distintos servicios y actividades. Entre las modificaciones previstas figuran cambios en la actividad bancaria y en el esquema de feriados que regirá…",
+        "title": "Crecen las denuncias contra Dolly y su hermana: “Ojalá las mamás a las que les mintieron aparezcan\"",
+        "link": "https://www.rosario3.com/informaciongeneral/crecen-las-denuncias-contra-dolly-y-su-hermana-ojala-las-mamas-a-las-que-les-mintieron-aparezcan-20261002-0018.html",
+        "image": "https://www.rosario3.com/__export/1790942385553/sites/rosario3/img/2026/10/02/buscadores.jpg_928314581.jpg",
+        "summary": "La Justicia federal citó a indagatoria a Dolly Viale, una jubilada de 88 años acusada de separar bebés de sus madres y entregarlos a otras familias en el hospital Roque Sáenz Peña entre 1968 y 1980 junto a su hermana Silvia. Andrea Camusso, integrante de la agrupación Cardumen…",
         "pubDate": "2026-10-02T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "La AFA suspendió a jugadores de Central y Estudiantes por los incidentes en la Supercopa Internacional",
+        "link": "https://www.lacapital.com.ar/ovacion/la-afa-suspendio-jugadores-central-y-estudiantes-los-incidentes-la-supercopa-internacional-n10284451.html",
+        "image": "https://media.lacapital.com.ar/p/9ae12c298623e041819c51497bfa9b70/adjuntos/203/imagenes/103/440/0103440714/1200x675/smart/image-6.jpg",
+        "summary": "El tribunal de disciplina tomó medidas tras el escándalo que se desató en Santiago del Estero. Los clubes tendrán cinco días para realizar el descargo",
+        "pubDate": "2026-10-02T17:28:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central: Almirón gestiona una previa en la que el mal de ausencias se potencia",
+        "link": "https://www.lacapital.com.ar/ovacion/central-almiron-gestiona-una-previa-la-que-el-mal-ausencias-se-potencia-n10284480.html",
+        "image": "https://media.lacapital.com.ar/p/df84bcaf88b55264b13583718e8f54bc/adjuntos/203/imagenes/103/441/0103441460/almicml.JPG",
+        "summary": "A las bajas que tuvo contra Estudiantes, se le suman dos futbolistas más que no estarán para el choque con Banfield.",
+        "pubDate": "2026-10-02T17:26:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Rosario será sede de un foro sobre agricultura regenerativa y producción sustentable",
+        "link": "https://www.lacapital.com.ar/agro/rosario-sera-sede-un-foro-agricultura-regenerativa-y-produccion-sustentable-n10284356.html",
+        "image": "https://media.lacapital.com.ar/p/dc9cfc19082c77d0a328b5a32fb2ad03/adjuntos/305/imagenes/102/795/0102795542/1200x675/smart/pasturas.jpeg",
+        "summary": "El encuentro que se realizará el próximo martes reunirá experiencias e iniciativas sobre salud del suelo, prácticas regenerativas, cadenas de valor y economía circular",
+        "pubDate": "2026-10-02T17:15:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Robbie Williams hizo un chiste sobre Amalia Granata, que habló con Moria sobre el músico",
@@ -172,7 +199,7 @@
         "link": "https://www.lacapital.com.ar/policiales/desbaratan-una-banda-ladrones-que-cometio-varios-robos-casas-fisherton-n10284502.html",
         "image": "https://media.lacapital.com.ar/p/855fb4503a8fcadd6423a34c108888f9/adjuntos/203/imagenes/103/441/0103441313/1200x675/smart/un.jpg",
         "summary": "Con el sistema Lince pudieron reconstruir el recorrido de un auto que aparecía en los hechos y finalmente encontraron a los ladrones",
-        "pubDate": "2026-10-02T16:03:16+00:00",
+        "pubDate": "2026-10-02T16:03:00+00:00",
         "approxTime": false
       },
       {
@@ -216,7 +243,7 @@
         "title": "Newell's vs. Lanús por el torneo Clausura: hora, canal y posibles formaciones",
         "link": "https://www.lacapital.com.ar/ovacion/newells-vs-lanus-el-torneo-clausura-hora-canal-y-posibles-formaciones-n10284475.html",
         "image": "https://media.lacapital.com.ar/p/569cd95a37ddcd7391ed78ba91ac6b0b/adjuntos/203/imagenes/103/440/0103440964/1200x675/smart/newells-lanus.jpg",
-        "summary": "La Lepra tendrá un duelo fundamental ante el Granate para luchar por la clasificación a playoffs. En esta nota, los detalles y estadísticas del partido",
+        "summary": "La Lepra tendrá un duelo fundamental ante el Granate para luchar por la clasificación a playoffs. Detalles y estadísticas del partido",
         "pubDate": "2026-10-02T15:09:00+00:00",
         "approxTime": false
       },
@@ -231,8 +258,8 @@
       },
       {
         "source": "La Capital",
-        "title": "Confirmaron cómo será el operativo policial para el partido de Newell's y Lanús",
-        "link": "https://www.lacapital.com.ar/ovacion/confirmaron-como-sera-el-operativo-policial-el-partido-newells-y-lanus-n10284466.html",
+        "title": "Confirmaron cómo será el operativo policial para el partido de Newell's y Lanús en el Coloso",
+        "link": "https://www.lacapital.com.ar/ovacion/confirmaron-como-sera-el-operativo-policial-el-partido-newells-y-lanus-el-coloso-n10284466.html",
         "image": "https://media.lacapital.com.ar/p/d2967db693644c6f160f8066ddb51893/adjuntos/203/imagenes/103/436/0103436441/balas-goma-newells.jpeg",
         "summary": "El gobierno de Santa Fe anunció detalles del plan de control en medio del conflicto con directivos de la Lepra por agresiones de la fuerza provincial a socios",
         "pubDate": "2026-10-02T14:08:00+00:00",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/5e30262ae8a88af5976ce572d1ca60c5/adjuntos/203/imagenes/102/753/0102753763/1200x675/smart/feria-del-libro-2025.png",
         "summary": "La Feria del Libro de Rosario se realizará del 8 al 18 de octubre en el Cultural Fontanarrosa, con entrada gratuita y diferentes actividades",
         "pubDate": "2026-10-02T14:05:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Aumentan la recompensa para esclarecer la muerte de un jugador de voley de Central Córdoba",
-        "link": "https://www.lacapital.com.ar/policiales/aumentan-la-recompensa-esclarecer-la-muerte-un-jugador-voley-central-cordoba-n10284470.html",
-        "image": "https://media.lacapital.com.ar/p/55bfda22f9566b367a4ac9375adcb3bf/adjuntos/203/imagenes/102/049/0102049715/2024-12-01-muerte-giovani-mvogo-etemejpg.jpg",
-        "summary": "La causa por el fallecimiento de Giovani Mvogo Eteme en el Parque España, ocurrido en 2024, continúa abierta bajo la carátula de muerte dudosa",
-        "pubDate": "2026-10-02T14:05:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Los bancos permanecerán cerrados durante cinco días consecutivos en noviembre",
-        "link": "https://www.lacapital.com.ar/informacion-general/los-bancos-permaneceran-cerrados-cinco-dias-consecutivos-noviembre-n10284458.html",
-        "image": "https://media.lacapital.com.ar/p/d1293c62a658c5822857d59b53e0c648/adjuntos/203/imagenes/101/765/0101765006/1200x675/smart/banco-centraljpg.jpg",
-        "summary": "El sistema financiero tendrá un cierre extendido por el Día del Bancario y los feriados vinculados a la visita del Papa León XIV a la Argentina",
-        "pubDate": "2026-10-02T14:01:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Feria del Libro Rosario 2026: Marcela Ternavasio se hará cargo del discurso de apertura",
-        "link": "https://www.lacapital.com.ar/la-ciudad/feria-del-libro-rosario-2026-marcela-ternavasio-se-hara-cargo-del-discurso-apertura-n10284454.html",
-        "image": "https://media.lacapital.com.ar/p/0832c0e675b6bf715856a2335836b873/adjuntos/203/imagenes/100/160/0100160880/1200x675/smart/78681776jpeg.jpeg",
-        "summary": "La historiadora y docente universitaria es una de las principales invitadas al evento programado desde el 8 de octubre en el Centro Cultural Fontanarrosa",
-        "pubDate": "2026-10-02T13:57:00+00:00",
         "approxTime": false
       }
     ]
