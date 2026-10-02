@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T12:01:27.002324+00:00",
+  "generatedAt": "2026-10-02T12:31:08.461233+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,20 +13,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Un joven murió al volcar su auto en la zona norte de Rosario",
-        "link": "https://www.rosario3.com/policiales/un-joven-murio-al-volcar-su-auto-en-la-zona-norte-de-rosario-20261002-0004.html",
-        "image": "https://www.rosario3.com/__export/1790939186607/sites/rosario3/img/2026/10/02/siniestrocir3.jpg_928314581.jpg",
-        "summary": "Un muchacho de 23 años perdió la vida este jueves a la medianoche tras quedar atrapado en su vehículo, un Audi A4 gris, que volcó en Circunvalación y Palliere. Las causas del siniestro vial eran investigadas por personal de PDI",
-        "pubDate": "2026-10-02T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
         "title": "La AFA suspendió a jugadores de Estudiantes y Central por el escándalo en la Supercopa internacional",
         "link": "https://www.rosario3.com/deportes/la-afa-suspendio-a-jugadores-de-estudiantes-y-central-por-el-escandalo-en-la-supercopa-internacional-20261002-0012.html",
         "image": "https://www.rosario3.com/__export/1790940214056/sites/rosario3/img/2026/10/02/image_-10-.jpg_928314580.jpg",
         "summary": "El Tribunal de Disciplina tomó medidas tras los incidentes en el final del partido que se disputó en el estadio Único Madre de Ciudades",
-        "pubDate": "2026-10-02T11:58:00+00:00",
+        "pubDate": "2026-10-02T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -35,24 +26,33 @@
         "link": "https://www.rosario3.com/informaciongeneral/murio-uno-de-los-operarios-internados-por-la-explosion-en-puerto-san-martin-son-3-las-victimas-victimas-fatales-20261001-0008.html",
         "image": "https://www.rosario3.com/__export/1790850795635/sites/rosario3/img/2026/10/01/explosion_puerto_san_martin_jpg_674994428.jpg_1067613685.jpg",
         "summary": "Este jueves por la tarde falleció César Aquino, uno de los cuatro operarios que sobrevivieron con serias heridas a la explosión de la planta de Albardon Bio",
-        "pubDate": "2026-10-01T11:57:00+00:00",
+        "pubDate": "2026-10-01T11:58:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Con promociones y actividades especiales, se viene una nueva edición de la Noche de las Peatonales",
-        "link": "https://www.rosario3.com/informaciongeneral/con-promociones-y-actividades-especiales-se-viene-una-nueva-edicion-de-la-noche-de-las-peatonales-20261002-0015.html",
-        "image": "https://www.rosario3.com/__export/1790941525327/sites/rosario3/img/2026/10/02/noche_de_las_peatonales.jpg_54252853.jpg",
-        "summary": "La actividad se desarrollará el próximo sábado 17 de octubre, desde las 18 y hasta la medianoche. El recorrido comprende las calles Córdoba, de Presidente Roca a Buenos Aires, y San Martín, desde Santa Fe hasta Mendoza. La fecha coincide con la víspera del Día de la Madre y la…",
+        "title": "Lionel Messi ya está en Rosario y se enciende la ilusión en la previa de su despedida",
+        "link": "https://www.rosario3.com/deportes/lionel-messi-ya-esta-en-rosario-y-se-enciende-la-ilusion-en-la-previa-de-su-despedida-20261002-0005.html",
+        "image": "https://www.rosario3.com/__export/1790938503446/sites/rosario3/img/2026/10/02/messi_rosaroi.jpg_235288683.jpg",
+        "summary": "El capitán aterrizó a las 7 de la mañana en el Aeropuerto Islas Malvinas procedente de Fort Lauderdale (Miami). Se traslada a su casa de Funes, junto a su familia, mientras crece la expectativa por saber si presenciará el partido de este sábado ante Burkina Faso antes de su…",
+        "pubDate": "2026-10-02T11:57:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Qué hacer en Rosario este fin de semana: Airbag, Midachi, Eruca Sativa, Cielo Razzo y más",
+        "link": "https://www.rosario3.com/ocio/que-hacer-en-rosario-este-fin-de-semana-airbag-midachi-eruca-sativa-cielo-razzo-y-mas-20261002-0003.html",
+        "image": "https://www.rosario3.com/__export/1790942426303/sites/rosario3/img/2026/10/02/agenda_2_de_octubre_ok.jpg_1776002918.jpg",
+        "summary": "Rosario propone un fin de semana cargado de recitales, teatro y actividades para todas las edades, con grandes figuras, clásicos que regresan a los escenarios y opciones gratuitas en distintos puntos de la ciudad.",
         "pubDate": "2026-10-02T11:56:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Noviembre tendrá cinco días sin bancos en Argentina por la visita del papa León XIV",
-        "link": "https://www.rosario3.com/informaciongeneral/noviembre-tendra-cinco-dias-sin-bancos-en-argentina-por-la-visita-del-papa-leon-xiv-20261002-0016.html",
-        "image": "https://www.rosario3.com/__export/1785954885178/sites/rosario3/img/2026/08/05/bancocentral.jpg_982625323.jpg",
-        "summary": "La visita del sumo pontífice tendrá impacto no solo en la agenda institucional y religiosa, sino también en el funcionamiento de distintos servicios y actividades. Entre las modificaciones previstas figuran cambios en la actividad bancaria y en el esquema de feriados que regirá…",
+        "title": "Un joven murió al volcar su auto en la zona norte de Rosario",
+        "link": "https://www.rosario3.com/policiales/un-joven-murio-al-volcar-su-auto-en-la-zona-norte-de-rosario-20261002-0004.html",
+        "image": "https://www.rosario3.com/__export/1790939186607/sites/rosario3/img/2026/10/02/siniestrocir3.jpg_928314581.jpg",
+        "summary": "Un muchacho de 23 años perdió la vida este jueves a la medianoche tras quedar atrapado en su vehículo, un Audi A4 gris, que volcó en Circunvalación y Palliere. Las causas del siniestro vial eran investigadas por personal de PDI",
         "pubDate": "2026-10-02T11:55:00+00:00",
         "approxTime": true
       },
@@ -67,11 +67,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Partió el primer vuelo Rosario-Madrid y la provincia recuperó la conectividad con Europa después de cuatro décadas",
-        "link": "https://www.rosario3.com/informaciongeneral/partio-el-primer-vuelo-rosario-madrid-y-la-provincia-recupero-la-conectividad-con-europa-despues-de-cuatro-decadas-20261001-0076.html",
-        "image": "https://www.rosario3.com/__export/1790900511193/sites/rosario3/img/2026/10/01/pullaro_y_autoridades.jpg_1825222445.jpg",
-        "summary": "El gobernador Maximiliano Pullaro presenció el arribo y la partida del vuelo inaugural de World2Fly que une Rosario con Madrid. La nueva ruta, que operará dos veces por semana, forma parte de la estrategia provincial para consolidar al Aeropuerto Internacional Rosario “Islas…",
-        "pubDate": "2026-10-01T11:53:00+00:00",
+        "title": "Con promociones y actividades especiales, se viene una nueva edición de la Noche de las Peatonales",
+        "link": "https://www.rosario3.com/informaciongeneral/con-promociones-y-actividades-especiales-se-viene-una-nueva-edicion-de-la-noche-de-las-peatonales-20261002-0015.html",
+        "image": "https://www.rosario3.com/__export/1790941525327/sites/rosario3/img/2026/10/02/noche_de_las_peatonales.jpg_54252853.jpg",
+        "summary": "La actividad se desarrollará el próximo sábado 17 de octubre, desde las 18 y hasta la medianoche. El recorrido comprende las calles Córdoba, de Presidente Roca a Buenos Aires, y San Martín, desde Santa Fe hasta Mendoza. La fecha coincide con la víspera del Día de la Madre y la…",
+        "pubDate": "2026-10-02T11:53:00+00:00",
         "approxTime": true
       },
       {
@@ -85,20 +85,29 @@
       },
       {
         "source": "Rosario3",
-        "title": "Elecciones en Brasil, sin debate: Lula da Silva dijo que era “infructífero” y Flávio Bolsonaro lo tildó de “cobarde”",
-        "link": "https://www.rosario3.com/ocio/elecciones-en-brasil-sin-debate-lula-da-silva-dijo-que-era-infructifero-y-flavio-bolsonaro-lo-tildo-de-cobarde-20261002-0011.html",
-        "image": "https://www.rosario3.com/__export/1790940383269/sites/rosario3/img/2026/10/02/dos.jpg_54252853.jpg",
-        "summary": "El actual mandatario se bajó del duelo el último miércoles porque, entre otros señalamientos, permite 'bromitas' de rivales de poco peso. Por su parte, el senador desistió dos horas antes y acusó de 'censura vergonzosa' a la medida impuesta por el Tribunal Superior Electoral que…",
+        "title": "La abogada de la denunciante de Joaquín Levinton renunció a la defensa: \"No mediatizo a las víctimas\"",
+        "link": "https://www.rosario3.com/ocio/la-abogada-de-la-denunciante-de-joaquin-levinton-renuncio-a-la-defensa-no-mediatizo-a-las-victimas-20261002-0020.html",
+        "image": "https://www.rosario3.com/__export/1790942850241/sites/rosario3/img/2026/10/02/abogada_y_joaquin.jpg_1825222445.jpg",
+        "summary": "Adela González explicó los motivos de su alejamiento del caso y criticó las actitudes de su exrepresentada en el desarrollo del proceso judicial",
         "pubDate": "2026-10-02T11:51:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Se prendió fuego la casa de Leandro Paredes",
-        "link": "https://www.rosario3.com/deportes/se-prendio-fuego-la-casa-de-leandro-paredes-20261002-0013.html",
-        "image": "https://www.rosario3.com/__export/1788286754690/sites/rosario3/img/2026/09/01/paredes-seleccion.jpg_928314584.jpg",
-        "summary": "Ocurrió durante la madrugada del jueves en la vivienda del capitán de Boca ubicada en un barrio privado de Canning. El rápido accionar de los Bomberos impidió que las llamas que se originaron en la parte de arriba de la propiedad se propagaran a los demás ambientes",
+        "title": "Ley de Enjuiciamiento: Cattalini presentó un proyecto para que jueces, fiscales y defensores respondan bajo las mismas reglas",
+        "link": "https://www.rosario3.com/informaciongeneral/ley-de-enjuiciamiento-cattalini-presento-un-proyecto-para-que-jueces-fiscales-y-defensores-respondan-bajo-las-mismas-reglas-20261002-0021.html",
+        "image": "https://www.rosario3.com/__export/1790943751281/sites/rosario3/img/2026/10/02/lionella_cattalini.jpg_1825222445.jpg",
+        "summary": "La diputada socialista impulsa los cambios para implementar un nuevo régimen de enjuiciamiento tras la reforma constitucional. “Tenemos que dejar atrás la lógica corporativa y avanzar hacia un sistema con más transparencia, control y reglas comunes”, sostuvo",
         "pubDate": "2026-10-02T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Noviembre tendrá cinco días sin bancos en Argentina por la visita del papa León XIV",
+        "link": "https://www.rosario3.com/informaciongeneral/noviembre-tendra-cinco-dias-sin-bancos-en-argentina-por-la-visita-del-papa-leon-xiv-20261002-0016.html",
+        "image": "https://www.rosario3.com/__export/1785954885178/sites/rosario3/img/2026/08/05/bancocentral.jpg_982625323.jpg",
+        "summary": "La visita del sumo pontífice tendrá impacto no solo en la agenda institucional y religiosa, sino también en el funcionamiento de distintos servicios y actividades. Entre las modificaciones previstas figuran cambios en la actividad bancaria y en el esquema de feriados que regirá…",
+        "pubDate": "2026-10-02T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -107,38 +116,38 @@
         "link": "https://www.rosario3.com/ecos365/noticias/claves-del-dia-dolares-bajo-tierra-fabricas-entre-el-concurso-y-el-parate-y-un-mercado-que-no-compra-el-entusiasmo-20261002-0001.html",
         "image": "https://www.rosario3.com/__export/1790935850961/sites/rosario3/img/2026/10/02/claves_del_dxa_1_de_octubre_de_2026.png_446026524.png",
         "summary": "Pluspetrol acelera en Vaca Muerta mientras Savencia anuncia un cierre, Willard entra en concurso y Longvie reorganiza plantas. El mercado sigue desconfiando, los empresarios recalculan 2027 y Mercado Pago se suma a la pelea por el dólar digital",
-        "pubDate": "2026-10-02T11:49:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El clima en Rosario: viernes fresco, pero agradable, antes del regreso de las tormentas",
-        "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-viernes-fresco-pero-agradable-antes-del-regreso-de-las-tormentas-20261002-0001.html",
-        "image": "https://www.rosario3.com/__export/1766581448550/sites/rosario3/img/2021/12/14/tormenta.jpg_1768679257.jpg",
-        "summary": "El Servicio Meteorológico Nacional anticipa una jornada de transición en la ciudad, con buenas condiciones hasta la tarde, pero con un claro aumento de la inestabilidad y ráfagas hacia la noche",
         "pubDate": "2026-10-02T11:48:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Empieza la tercera edición de Ne:RD, el festival de arte digital e inteligencia artificial de Rosario",
-        "link": "https://www.rosario3.com/ocio/se-viene-la-tercera-edicion-de-nerd-el-festival-de-arte-digital-e-inteligencia-artificial-de-rosario-20260927-0021.html",
-        "image": "https://www.rosario3.com/__export/1790532959843/sites/rosario3/img/2026/09/27/nerd_version1790532959356.jpg_54252875.jpg",
-        "summary": "Desde este viernes al domingo 4 de octubre, en el Centro de Expresiones Contemporáneas y el Complejo Astronómico Municipal. Gratis",
-        "pubDate": "2026-09-27T11:47:00+00:00",
+        "title": "Partió el primer vuelo Rosario-Madrid y la provincia recuperó la conectividad con Europa después de cuatro décadas",
+        "link": "https://www.rosario3.com/informaciongeneral/partio-el-primer-vuelo-rosario-madrid-y-la-provincia-recupero-la-conectividad-con-europa-despues-de-cuatro-decadas-20261001-0076.html",
+        "image": "https://www.rosario3.com/__export/1790900511193/sites/rosario3/img/2026/10/01/pullaro_y_autoridades.jpg_1825222445.jpg",
+        "summary": "El gobernador Maximiliano Pullaro presenció el arribo y la partida del vuelo inaugural de World2Fly que une Rosario con Madrid. La nueva ruta, que operará dos veces por semana, forma parte de la estrategia provincial para consolidar al Aeropuerto Internacional Rosario “Islas…",
+        "pubDate": "2026-10-01T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "India: le extirparon un diente que le había crecido en el lugar menos pensado",
-        "link": "https://www.rosario3.com/informaciongeneral/india-le-extirparon-un-diente-que-le-habia-crecido-en-el-lugar-menos-pensado-20260929-0043.html",
-        "image": "https://www.rosario3.com/__export/1790701184395/sites/rosario3/img/2026/09/29/craneo.png_786111822.png",
-        "summary": "Lo que parecía un simple quiste en el ojo terminó siendo un canino maduro y completo",
-        "pubDate": "2026-09-29T11:46:00+00:00",
+        "title": "Mario Pergolini avisó que un invitado lo dejó plantado y Rada reaccionó: “Es un montón”",
+        "link": "https://www.rosario3.com/ocio/mario-pergolini-aviso-que-un-invitado-lo-dejo-plantado-y-rada-reacciono-es-un-monton-20261002-0019.html",
+        "image": "https://www.rosario3.com/__export/1790943561959/sites/rosario3/img/2026/10/02/pergolini.jpg_54252853.jpg",
+        "summary": "El conductor del ciclo anunció que la primera entrevista del programa no iba a poder hacerse porque se la “habían cancelado” hacía unos minutos. Mirá lo que pasó",
+        "pubDate": "2026-10-02T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Puerto General San Martín amplía veredas y bicisendas en avenida Córdoba",
+        "link": "https://www.lacapital.com.ar/la-region/puerto-general-san-martin-amplia-veredas-y-bicisendas-avenida-cordoba-n10284327.html",
+        "image": "https://media.lacapital.com.ar/p/23ce8047e5353694a25873ec3a6c398b/adjuntos/203/imagenes/103/439/0103439680/1200x675/smart/puerto-san-martin-veredas-y-bicisendas.jpeg",
+        "summary": "El proyecto contempla la construcción de una red que permitirá conectar distintos puntos de interés, favoreciendo tanto los desplazamientos cotidianos las actividades al aire libre",
+        "pubDate": "2026-10-02T12:00:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Roldán presentó a los vecinos el proyecto de una rotonda en rutas 9 y A012",
@@ -213,15 +222,6 @@
       },
       {
         "source": "La Capital",
-        "title": "Combustibles: estaciones de servicio de Rosario deberán exhibir cómo se compone el precio",
-        "link": "https://www.lacapital.com.ar/la-ciudad/combustibles-estaciones-servicio-rosario-deberan-exhibir-como-se-compone-el-precio-n10284306.html",
-        "image": "https://media.lacapital.com.ar/p/2a6773c7b07c37cb1e0adc462e474895/adjuntos/203/imagenes/102/443/0102443842/2025-06-02-nafta-ypf-by_hrio-80128956jpg.jpg",
-        "summary": "El proyecto aprobado por el Concejo obliga a que se informe en los surtidores qué porcentaje del precio del litro de nafta corresponde al combustible, a los impuestos nacionales y a la tasa vial",
-        "pubDate": "2026-10-02T09:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "K.I.A.: la banda de zona sur de Rosario que ataca la nueva escena del metal argentino",
         "link": "https://www.lacapital.com.ar/zoom/kia-la-banda-zona-sur-rosario-que-ataca-la-nueva-escena-del-metal-argentino-n10284249.html",
         "image": "https://media.lacapital.com.ar/p/19cd5746d97c663a2ca0899f3cdeaee0/adjuntos/203/imagenes/103/439/0103439317/1200x675/smart/image-2026-10-01t131810217.png",
@@ -231,11 +231,11 @@
       },
       {
         "source": "La Capital",
-        "title": "En Brasil, el agro también se cuenta con historias y música",
-        "link": "https://www.lacapital.com.ar/agro/en-brasil-el-agro-tambien-se-cuenta-historias-y-musica-n10284421.html",
-        "image": "https://media.lacapital.com.ar/p/ad59325b96304c20c34bb30db22753be/adjuntos/203/imagenes/103/440/0103440448/1200x675/smart/gaffff.jpg",
-        "summary": "El estadio del Palmeiras, en São Paulo, es sede este jueves y viernes del Festival Global de Agronegocios (GAFFFF). Cómo el agro brasileño trasciende su rol productivo para convertirse en un fenómeno cultural y de identidad fue uno de los temas de la primera jornada",
-        "pubDate": "2026-10-02T09:15:00+00:00",
+        "title": "Combustibles: estaciones de servicio de Rosario deberán exhibir cómo se compone el precio",
+        "link": "https://www.lacapital.com.ar/la-ciudad/combustibles-estaciones-servicio-rosario-deberan-exhibir-como-se-compone-el-precio-n10284306.html",
+        "image": "https://media.lacapital.com.ar/p/2a6773c7b07c37cb1e0adc462e474895/adjuntos/203/imagenes/102/443/0102443842/2025-06-02-nafta-ypf-by_hrio-80128956jpg.jpg",
+        "summary": "El proyecto aprobado por el Concejo obliga a que se informe en los surtidores qué porcentaje del precio del litro de nafta corresponde al combustible, a los impuestos nacionales y a la tasa vial",
+        "pubDate": "2026-10-02T09:30:00+00:00",
         "approxTime": false
       },
       {
@@ -258,20 +258,20 @@
       },
       {
         "source": "La Capital",
+        "title": "En Brasil, el agro también se cuenta con historias y música",
+        "link": "https://www.lacapital.com.ar/agro/en-brasil-el-agro-tambien-se-cuenta-historias-y-musica-n10284421.html",
+        "image": "https://media.lacapital.com.ar/p/ad59325b96304c20c34bb30db22753be/adjuntos/203/imagenes/103/440/0103440448/1200x675/smart/gaffff.jpg",
+        "summary": "El estadio del Palmeiras, en São Paulo, es sede este jueves y viernes del Festival Global de Agronegocios (GAFFFF). Cómo el agro brasileño trasciende su rol productivo para convertirse en un fenómeno cultural y de identidad fue uno de los temas de la primera jornada",
+        "pubDate": "2026-10-02T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Un viernes de Franco Colapinto solo de prueba de carrera, con la certeza de largar desde el fondo",
         "link": "https://www.lacapital.com.ar/ovacion/un-viernes-franco-colapinto-solo-prueba-carrera-la-certeza-largar-el-fondo-n10284416.html",
         "image": "https://media.lacapital.com.ar/p/b0d5da6ddbf87355b3e436de43c0af72/adjuntos/203/imagenes/103/440/0103440401/1200x675/smart/image-10.jpg",
         "summary": "El argentino penalizará 15 posiciones en Sepang y por eso solo se dedicó a probar ritmo de carrera en las dos sesiones",
         "pubDate": "2026-10-02T09:07:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cardumen, el colectivo que pide Justicia por el robo de bebés a manos de la partera Dolly",
-        "link": "https://www.lacapital.com.ar/la-ciudad/cardumen-el-colectivo-que-pide-justicia-el-robo-bebes-manos-la-partera-dolly-n10284131.html",
-        "image": "https://media.lacapital.com.ar/p/b05dfe27346a7480d2d8ee49b17ddb8e/adjuntos/203/imagenes/103/440/0103440318/2026-10-01-partera-dolly.jpg",
-        "summary": "No conocen sus orígenes y se unieron para pedir justicia por las apropiaciones de bebés realizadas por Dolly y su hermana. Sospechan que hay más afectados y parteras implicadas",
-        "pubDate": "2026-10-02T09:00:00+00:00",
         "approxTime": false
       }
     ]
