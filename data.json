@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T02:31:03.146493+00:00",
+  "generatedAt": "2026-10-02T03:01:24.495080+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,8 +141,17 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "Una persona asesinada \"declaró\" con un video de IA y el jurado anuló la condena",
-        "link": "https://www.lacapital.com.ar/informacion-general/una-persona-asesinada-declaro-un-video-ia-y-el-jurado-anulo-la-condena-n10284425.html",
+        "title": "El tiempo en Rosario: viernes con 21º y fuertes ráfagas para terminar con chaparrones",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-viernes-21-y-fuertes-rafagas-terminar-chaparrones-n10284427.html",
+        "image": "https://media.lacapital.com.ar/p/8592f36af0f2350155bbf352cf9e93e2/adjuntos/203/imagenes/103/440/0103440528/2026-10-01-clima-by-cmutti-79405235.jpg",
+        "summary": "El SMN emitió para la madrugada del sábado un alerta amarillo por tormentas fuertes",
+        "pubDate": "2026-10-02T02:36:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Una persona asesinada \"declaró\" con un video de IA y la Justicia anuló la condena",
+        "link": "https://www.lacapital.com.ar/informacion-general/una-persona-asesinada-declaro-un-video-ia-y-la-justicia-anulo-la-condena-n10284425.html",
         "image": "https://media.lacapital.com.ar/p/1286c7760e2f8ecf74d450fdff145e0b/adjuntos/203/imagenes/103/440/0103440484/2026-10-01-replica-ia-juicio.jpg",
         "summary": "Ocurrió en un juicio en Arizona. La Corte de Apelaciones entendió que el video excedió un límite y decidió que el asesino debe ser sentenciado de nuevo",
         "pubDate": "2026-10-02T02:10:00+00:00",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/27e18a182be29ed92db899eed21cdfc7/adjuntos/203/imagenes/103/439/0103439877/1200x675/smart/milei-macron-web.jpg",
         "summary": "Los presidentes conversaron durante 40 minutos en el Elíseo. Luego se encontraron empresarios, que consultaron por el superávit argentino",
         "pubDate": "2026-10-01T21:31:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El avión que une Rosario con Madrid es el de mayor capacidad de pasajeros que opera en Argentina",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-avion-que-une-rosario-madrid-es-el-mayor-capacidad-pasajeros-que-opera-argentina-n10284375.html",
-        "image": "https://media.lacapital.com.ar/p/0a6974e47340eccacb84add0f4e63d63/adjuntos/203/imagenes/103/439/0103439987/1200x675/smart/imageavion3.jpg",
-        "summary": "El Airbus A350-900 de World2Fly tiene 432 butacas en una única clase y supera incluso al Boeing 747-8 de Lufthansa, que transporta 364 pasajeros. La diferencia está en cómo está distribuido el espacio dentro de cada aeronave.",
-        "pubDate": "2026-10-01T21:26:00+00:00",
         "approxTime": false
       }
     ]
