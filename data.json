@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T15:44:42.892787+00:00",
+  "generatedAt": "2026-10-02T16:01:16.487134+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Granizo en Funes: detectaron microplásticos y metales en muestras recolectadas",
+        "link": "https://www.lacapital.com.ar/la-region/granizo-funes-detectaron-microplasticos-y-metales-muestras-recolectadas-n10284428.html",
+        "image": "https://media.lacapital.com.ar/p/e2bbfc84603a9835a83c302e69b1269e/adjuntos/203/imagenes/103/440/0103440545/1200x675/smart/image-27.jpg",
+        "summary": "Tres laboratorios analizaron muestras y detectaron elementos químicos, metales y microplásticos. Los resultados son preliminares y no se sabe aún su origen",
+        "pubDate": "2026-10-02T15:54:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Lionella Cattalini impulsa que jueces, fiscales y defensores respondan bajo las mismas reglas",
+        "link": "https://www.lacapital.com.ar/politica/lionella-cattalini-impulsa-que-jueces-fiscales-y-defensores-respondan-las-mismas-reglas-n10284494.html",
+        "image": "https://media.lacapital.com.ar/p/89bf2a00df08393a1a6a939a0e8b8c05/adjuntos/203/imagenes/103/441/0103441109/1200x675/smart/image-2026-10-02t120552736.png",
+        "summary": "La diputada socialista busca adecuar la legislación santafesina luego de la reforma de la Constitución del 2025",
+        "pubDate": "2026-10-02T15:45:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Liberaron al actor Maxi Ghione, pero sigue la investigación sobre amenazas",
         "link": "https://www.lacapital.com.ar/zoom/liberaron-al-actor-maxi-ghione-pero-sigue-la-investigacion-amenazas-n10284482.html",
         "image": "https://media.lacapital.com.ar/p/0292ec135df0aed4d05da8ea8f653d70/adjuntos/203/imagenes/103/440/0103440978/maxi-ghione.jpg",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/254055f8a463b2d76e6a3560640df0ba/adjuntos/203/imagenes/024/086/0024086313/1200x675/smart/lloviznasjpg.jpg",
         "summary": "El SMN prevé un viernes parcialmente nublado, un sábado con tormentas, lluvias y fuertes ráfagas y una mejora de las condiciones hacia el domingo",
         "pubDate": "2026-10-02T12:46:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El piloto de FlyDubai contó cómo fue el ataque de su copiloto en la cabina del avión",
-        "link": "https://www.lacapital.com.ar/el-mundo/el-piloto-flydubai-conto-como-fue-el-ataque-su-copiloto-la-cabina-del-avion-n10284441.html",
-        "image": "https://media.lacapital.com.ar/p/56475caa0756d5cbe008a3241d618cf8/adjuntos/203/imagenes/103/440/0103440669/1200x675/smart/diseno-titulo-74.png",
-        "summary": "Smit Machchhar dio detalles del conmocionante episodio y celebró que la intervención de los pasajeros evitara que el vuelo terminara en una tragedia",
-        "pubDate": "2026-10-02T12:38:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Tras la derrota ante Central, Estudiantes volvió a perder y se despidió de la Copa Argentina",
-        "link": "https://www.lacapital.com.ar/ovacion/tras-la-derrota-central-estudiantes-volvio-perder-y-se-despidio-la-copa-argentina-n10284445.html",
-        "image": "https://media.lacapital.com.ar/p/d7d9537f03e31ee3e110729f9f2bf34b/adjuntos/203/imagenes/103/440/0103440652/platense-estudiantes.jpg",
-        "summary": "Platense eliminó al Pincha con un gol de Gonzalo Lencina y clasificó a las semifinales del torneo por primera vez en su historia",
-        "pubDate": "2026-10-02T12:35:00+00:00",
         "approxTime": false
       }
     ]
