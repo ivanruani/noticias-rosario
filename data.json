@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T02:01:23.437363+00:00",
+  "generatedAt": "2026-10-02T02:31:03.146493+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Una persona asesinada \"declaró\" con un video de IA y el jurado anuló la condena",
+        "link": "https://www.lacapital.com.ar/informacion-general/una-persona-asesinada-declaro-un-video-ia-y-el-jurado-anulo-la-condena-n10284425.html",
+        "image": "https://media.lacapital.com.ar/p/1286c7760e2f8ecf74d450fdff145e0b/adjuntos/203/imagenes/103/440/0103440484/2026-10-01-replica-ia-juicio.jpg",
+        "summary": "Ocurrió en un juicio en Arizona. La Corte de Apelaciones entendió que el video excedió un límite y decidió que el asesino debe ser sentenciado de nuevo",
+        "pubDate": "2026-10-02T02:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Subastarán un edificio de 27 departamentos decomisado tras megaestafa inmobiliaria",
         "link": "https://www.lacapital.com.ar/la-ciudad/subastaran-un-edificio-27-departamentos-decomisado-megaestafa-inmobiliaria-n10284228.html",
         "image": "https://media.lacapital.com.ar/p/28d1321032a5060354f3dd4b92ba61e7/adjuntos/203/imagenes/103/438/0103438775/desalojo-edificio-buenos-aires-1000.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/0a6974e47340eccacb84add0f4e63d63/adjuntos/203/imagenes/103/439/0103439987/1200x675/smart/imageavion3.jpg",
         "summary": "El Airbus A350-900 de World2Fly tiene 432 butacas en una única clase y supera incluso al Boeing 747-8 de Lufthansa, que transporta 364 pasajeros. La diferencia está en cómo está distribuido el espacio dentro de cada aeronave.",
         "pubDate": "2026-10-01T21:26:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Argentina disputará las eliminatorias de Conmebol, pero ya clasificada al Mundial 2030",
-        "link": "https://www.lacapital.com.ar/ovacion/argentina-disputara-las-eliminatorias-conmebol-pero-ya-clasificada-al-mundial-2030-n10284072.html",
-        "image": "https://media.lacapital.com.ar/p/d8eb43e4990e59635fd0c630916cda4e/adjuntos/203/imagenes/103/270/0103270274/1200x675/smart/image-2026-07-12t015018157.png",
-        "summary": "La Albiceleste, Uruguay y Paraguay ya tienen asegurados sus boletos a la próxima Copa del Mundo, pero las demás selecciones deberán pelear por cupos limitados",
-        "pubDate": "2026-10-01T21:18:00+00:00",
         "approxTime": false
       }
     ]
