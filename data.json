@@ -1,23 +1,50 @@
 {
-  "generatedAt": "2026-10-02T10:01:25.806710+00:00",
+  "generatedAt": "2026-10-02T10:31:05.876263+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Un joven murió al volcar su auto en la zona norte de Rosario",
+        "link": "https://www.rosario3.com/policiales/un-joven-murio-al-volcar-su-auto-en-la-zona-norte-de-rosario-20261002-0004.html",
+        "image": "https://www.rosario3.com/__export/1790936161252/sites/rosario3/img/2026/10/02/siniestrocir2.jpg_928314581.jpg",
+        "summary": "Un muchacho de 23 años perdió la vida este jueves a la medianoche tras quedar atrapado en su vehículo, un Audi A4 gris, que volcó en Circunvalación y Palliere. Las causas del siniestro vial eran investigadas por personal de PDI",
+        "pubDate": "2026-10-02T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Lionel Messi ya está en Rosario y se enciende la ilusión en la previa de su despedida",
+        "link": "https://www.rosario3.com/deportes/lionel-messi-ya-esta-en-rosario-y-se-enciende-la-ilusion-en-la-previa-de-su-despedida-20261002-0005.html",
+        "image": "https://www.rosario3.com/__export/1790936698863/sites/rosario3/img/2026/10/02/image_-9-.jpg_928314580.jpg",
+        "summary": "El capitán aterrizó a las 7 de la mañana en el Aeropuerto Islas Malvinas procedente de Fort Lauderdale. Se traslada a su casa de Funes mientras crece la expectativa por saber si presenciará el partido de este sábado ante Burkina Faso antes de su homenaje del 6 de octubre",
+        "pubDate": "2026-10-02T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Claves del día: dólares bajo tierra, fábricas entre el concurso y el parate, y un mercado que no compra el entusiasmo | Ecos365",
+        "link": "https://www.rosario3.com/ecos365/noticias/claves-del-dia-dolares-bajo-tierra-fabricas-entre-el-concurso-y-el-parate-y-un-mercado-que-no-compra-el-entusiasmo-20261002-0001.html",
+        "image": "https://www.rosario3.com/__export/1790935850961/sites/rosario3/img/2026/10/02/claves_del_dxa_1_de_octubre_de_2026.png_446026524.png",
+        "summary": "Pluspetrol acelera en Vaca Muerta mientras Savencia anuncia un cierre, Willard entra en concurso y Longvie reorganiza plantas. El mercado sigue desconfiando, los empresarios recalculan 2027 y Mercado Pago se suma a la pelea por el dólar digital",
+        "pubDate": "2026-10-02T11:58:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "El clima en Rosario: viernes fresco, pero agradable, antes del regreso de las tormentas",
+        "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-viernes-fresco-pero-agradable-antes-del-regreso-de-las-tormentas-20261002-0001.html",
+        "image": "https://www.rosario3.com/__export/1766581448550/sites/rosario3/img/2021/12/14/tormenta.jpg_1768679257.jpg",
+        "summary": "El Servicio Meteorológico Nacional anticipa una jornada de transición en la ciudad, con buenas condiciones hasta la tarde, pero con un claro aumento de la inestabilidad y ráfagas hacia la noche",
+        "pubDate": "2026-10-02T11:57:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Partió el primer vuelo Rosario-Madrid y la provincia recuperó la conectividad con Europa después de cuatro décadas",
         "link": "https://www.rosario3.com/informaciongeneral/partio-el-primer-vuelo-rosario-madrid-y-la-provincia-recupero-la-conectividad-con-europa-despues-de-cuatro-decadas-20261001-0076.html",
         "image": "https://www.rosario3.com/__export/1790900511193/sites/rosario3/img/2026/10/01/pullaro_y_autoridades.jpg_1825222445.jpg",
         "summary": "El gobernador Maximiliano Pullaro presenció el arribo y la partida del vuelo inaugural de World2Fly que une Rosario con Madrid. La nueva ruta, que operará dos veces por semana, forma parte de la estrategia provincial para consolidar al Aeropuerto Internacional Rosario “Islas…",
-        "pubDate": "2026-10-01T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Crimen de Joaquín Pérez: la querella sostuvo que cuatro testigos reconocieron a López como el conductor de la moto",
-        "link": "https://www.rosario3.com/policiales/crimen-de-joaquin-perez-la-querella-sostuvo-que-cuatro-testigos-reconocieron-a-lopez-como-el-conductor-de-la-moto-20261001-0077.html",
-        "image": "https://www.rosario3.com/__export/1790897697693/sites/rosario3/img/2026/10/01/cristian_lopez_detenido_jpg_1756841869_1.jpg_1825222445.jpg",
-        "summary": "En el juicio por los homicidios de Joaquín Pérez y Ariel Simoncini, el abogado Carlos Varela destacó el valor de los reconocimientos y de los testimonios de identidad reservada. Dijo que el primer testigo actuó por un “reflejo ético” y que su aporte fue la “chispa” que permitió…",
-        "pubDate": "2026-10-01T11:59:00+00:00",
+        "pubDate": "2026-10-01T11:56:00+00:00",
         "approxTime": true
       },
       {
@@ -26,42 +53,15 @@
         "link": "https://www.rosario3.com/informaciongeneral/grave-siniestro-vial-en-soldini-una-adolescente-fue-atropellada-por-una-camioneta-del-servicio-penitenciario-en-la-ruta-14-20261001-0082.html",
         "image": "https://www.rosario3.com/__export/1790904298448/sites/rosario3/img/2026/10/01/bomberos_perez.jpg_928314580.jpg",
         "summary": "El hecho ocurrió en la intersección de la ruta 14 y calle Ecuador, a metros de una escuela primaria. Una joven, de unos 15 años, fue trasladada por el Sies a Rosario. Intervinieron Bomberos, Policía y personal de Tránsito de Soldini. El tránsito hacia Pérez permanecía cortado",
-        "pubDate": "2026-10-01T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Cayó de un techo mientras colocaba equipos de sonido en un bar del centro",
-        "link": "https://www.rosario3.com/informaciongeneral/cayo-de-un-techo-mientras-colocaba-equipos-de-sonido-en-un-bar-del-centro-20261001-0078.html",
-        "image": "https://www.rosario3.com/__export/1790898898053/sites/rosario3/img/2026/10/01/jujuy_y_balcarce.jpg_1825222445.jpg",
-        "summary": "Un operario resultó herido este jueves por la tarde tras caer desde una altura aproximada de cuatro metros mientras realizaba trabajos en un bar ubicado en la zona de Jujuy y Balcarce. El hombre fue asistido en el lugar y trasladado al Hospital Centenario.",
-        "pubDate": "2026-10-01T11:57:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Javkin envió al Concejo el proyecto para legalizar Uber, DiDi y otras aplicaciones de movilidad en Rosario",
-        "link": "https://www.rosario3.com/informaciongeneral/javkin-envio-al-concejo-el-proyecto-para-legalizar-uber-didi-y-otras-aplicaciones-de-movilidad-en-rosario-20261001-0070.html",
-        "image": "https://www.rosario3.com/__export/1790889634743/sites/rosario3/img/2026/10/01/uber.jpg_1825222445.jpg",
-        "summary": "La iniciativa establece requisitos para conductores y vehículos, seguros específicos y un esquema tarifario flexible. Para el taxi tomado en la calle, el Concejo seguirá fijando la tarifa",
-        "pubDate": "2026-10-01T11:56:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Causa de la partera Dolly: la Cámara Federal ordenó que sea llamada a indagatoria en un caso por supresión de identidad",
-        "link": "https://www.rosario3.com/informaciongeneral/causa-de-la-partera-dolly-la-camara-federal-ordeno-que-sea-llamada-a-indagatoria-en-un-caso-por-supresion-de-identidad-20261001-0062.html",
-        "image": "https://www.rosario3.com/__export/1790884694285/sites/rosario3/img/2026/10/01/tribunales_federales.jpg_1825222445.jpg",
-        "summary": "La medida se definió al revocar una fallo de primera instancia en una causa iniciada por Carlos Fargioni por dudas sobre su identidad biológica y su nacimiento en Rosario en 1978. Ahora el juez deberá tomarle declaración por los hechos",
         "pubDate": "2026-10-01T11:55:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Empresa láctea anunció el cierre de su planta de El Trébol: afecta a 54 trabajadores",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/empresa-lactea-anuncio-el-cierre-de-su-planta-de-el-trebol-afecta-a-54-trabajadores-20261001-0074.html",
-        "image": "https://www.rosario3.com/__export/1790894840191/sites/rosario3/img/2026/10/01/empresa_lactea_el_trebol.jpg_1825222467.jpg",
-        "summary": "La firma Savencia comunicó que la fábrica continuará funcionando hasta el 31 de marzo de 2027. El gremio Atilra y el gobierno local buscan alternativas para sostener la actividad y conseguir un inversor que permita preservar los puestos laborales",
+        "title": "Crimen de Joaquín Pérez: la querella sostuvo que cuatro testigos reconocieron a López como el conductor de la moto",
+        "link": "https://www.rosario3.com/policiales/crimen-de-joaquin-perez-la-querella-sostuvo-que-cuatro-testigos-reconocieron-a-lopez-como-el-conductor-de-la-moto-20261001-0077.html",
+        "image": "https://www.rosario3.com/__export/1790897697693/sites/rosario3/img/2026/10/01/cristian_lopez_detenido_jpg_1756841869_1.jpg_1825222445.jpg",
+        "summary": "En el juicio por los homicidios de Joaquín Pérez y Ariel Simoncini, el abogado Carlos Varela destacó el valor de los reconocimientos y de los testimonios de identidad reservada. Dijo que el primer testigo actuó por un “reflejo ético” y que su aporte fue la “chispa” que permitió…",
         "pubDate": "2026-10-01T11:54:00+00:00",
         "approxTime": true
       },
@@ -94,11 +94,20 @@
       },
       {
         "source": "Rosario3",
-        "title": "Rosario Central: Werner sufrió una lesión y Ledesma vuelve al arco ante Banfield",
-        "link": "https://www.rosario3.com/deportes/rosario-central-werner-sufrio-una-lesion-y-ledesma-vuelve-al-arco-ante-banfield-20261001-0081.html",
-        "image": "https://www.rosario3.com/__export/1790903154503/sites/rosario3/img/2026/10/01/wernwe.jpg_928314580.jpg",
-        "summary": "El Canalla, que contará con público visitante en el sur bonaerense, también tendrá las bajas de Campaz y Pizarro, convocados por sus selecciones, mientras que Sández debe cumplir una suspensión. Pol Fernández y Alan Rodríguez se recuperan de distintas molestias musculares",
+        "title": "Cayó de un techo mientras colocaba equipos de sonido en un bar del centro",
+        "link": "https://www.rosario3.com/informaciongeneral/cayo-de-un-techo-mientras-colocaba-equipos-de-sonido-en-un-bar-del-centro-20261001-0078.html",
+        "image": "https://www.rosario3.com/__export/1790898898053/sites/rosario3/img/2026/10/01/jujuy_y_balcarce.jpg_1825222445.jpg",
+        "summary": "Un operario resultó herido este jueves por la tarde tras caer desde una altura aproximada de cuatro metros mientras realizaba trabajos en un bar ubicado en la zona de Jujuy y Balcarce. El hombre fue asistido en el lugar y trasladado al Hospital Centenario.",
         "pubDate": "2026-10-01T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Empresa láctea anunció el cierre de su planta de El Trébol: afecta a 54 trabajadores",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/empresa-lactea-anuncio-el-cierre-de-su-planta-de-el-trebol-afecta-a-54-trabajadores-20261001-0074.html",
+        "image": "https://www.rosario3.com/__export/1790894840191/sites/rosario3/img/2026/10/01/empresa_lactea_el_trebol.jpg_1825222467.jpg",
+        "summary": "La firma Savencia comunicó que la fábrica continuará funcionando hasta el 31 de marzo de 2027. El gremio Atilra y el gobierno local buscan alternativas para sostener la actividad y conseguir un inversor que permita preservar los puestos laborales",
+        "pubDate": "2026-10-01T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -107,7 +116,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/un-cuidacoche-que-portaba-un-arma-blanca-fue-detenido-en-el-marco-de-un-operativo-de-control-municipal-20261001-0075.html",
         "image": "https://www.rosario3.com/__export/1790894729369/sites/rosario3/img/2026/10/01/cuidacoches.jpg_928314580.jpg",
         "summary": "Sucedió en la zona de Garay y Sarmiento. Los agentes fueron amenazados por el cuidacoche, quien los insultó e intentó arrojar baldosas al móvil de la Secretaría de Control",
-        "pubDate": "2026-10-01T11:49:00+00:00",
+        "pubDate": "2026-10-01T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,29 +125,29 @@
         "link": "https://www.rosario3.com/informaciongeneral/emmanuel-macron-recibio-a-javier-milei-en-el-palacio-del-eliseo-acompanado-de-gobernadores-20261001-0065.html",
         "image": "https://www.rosario3.com/__export/1790887045987/sites/rosario3/img/2026/10/01/milei_macron_y_las_chicas_1.jpg_928314580.jpg",
         "summary": "El presidente francés recibió a su par argentino en París, en el marco de la agenda de Milei en Francia, de la que participaron mandatarios provinciales, funcionarios nacionales y empresarios",
-        "pubDate": "2026-10-01T11:48:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Cayó hijo de una barrabrava de Newell’s por una balacera en Villa Gobernador Gálvez",
-        "link": "https://www.rosario3.com/policiales/cayo-hijo-de-una-barrabrava-de-newells-por-una-balacera-en-villa-gobernador-galvez-20261001-0073.html",
-        "image": "https://www.rosario3.com/__export/1790890902634/sites/rosario3/img/2026/10/01/detenido_vgg_armas_balcarce.jpg_672794304.jpg",
-        "summary": "El joven de 26 años fue detenido en un pasillo cercano al arroyo Saladillo, donde secuestraron dos pistolas y municiones. Es hijo de una mujer condenada por comandar la barra rojinegra en 2024 y vinculada a Los Monos",
         "pubDate": "2026-10-01T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Desde Idea, Patricia Bullrich defendió sus matices económicos con el Gobierno",
-        "link": "https://www.rosario3.com/politica/desde-idea-patricia-bullrich-defendio-sus-matices-economicos-con-el-gobierno-20261001-0054.html",
-        "image": "https://www.rosario3.com/__export/1790879495281/sites/rosario3/img/2026/10/01/bullrich2.jpeg_1479183624.jpeg",
-        "summary": "La senadora nacional participó del Coloquio en Mar del Plata. Abogó por reglas claras, cuestionó la superposición de tributos municipales y defendió su postura crítica sobre el rumbo económico: “Represento a los ciudadanos”",
+        "title": "Javkin envió al Concejo el proyecto para legalizar Uber, DiDi y otras aplicaciones de movilidad en Rosario",
+        "link": "https://www.rosario3.com/informaciongeneral/javkin-envio-al-concejo-el-proyecto-para-legalizar-uber-didi-y-otras-aplicaciones-de-movilidad-en-rosario-20261001-0070.html",
+        "image": "https://www.rosario3.com/__export/1790889634743/sites/rosario3/img/2026/10/01/uber.jpg_1825222445.jpg",
+        "summary": "La iniciativa establece requisitos para conductores y vehículos, seguros específicos y un esquema tarifario flexible. Para el taxi tomado en la calle, el Concejo seguirá fijando la tarifa",
         "pubDate": "2026-10-01T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Falleció un joven automovilista en un vuelco en Circunvalación",
+        "link": "https://www.lacapital.com.ar/la-ciudad/fallecio-un-joven-automovilista-un-vuelco-circunvalacion-n10284434.html",
+        "image": "https://media.lacapital.com.ar/p/f84e96a165b89f9f23e69a76fa86166d/adjuntos/203/imagenes/103/440/0103440571/1200x675/smart/vuelco-audi-circunvalacion.jpg",
+        "summary": "El siniestro se produjo anoche en la zona norte de Rosario. La víctima tenía 23 años. Investigan si participó otro vehículo",
+        "pubDate": "2026-10-02T10:25:17+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Cuáles son los canales de comunicación oficiales de Pami",
@@ -150,19 +159,19 @@
       },
       {
         "source": "La Capital",
-        "title": "K.I.A.: la banda de zona sur de Rosario que ataca la nueva escena del metal argentino",
-        "link": "https://www.lacapital.com.ar/zoom/kia-la-banda-zona-sur-rosario-que-ataca-la-nueva-escena-del-metal-argentino-n10284249.html",
-        "image": "https://media.lacapital.com.ar/p/19cd5746d97c663a2ca0899f3cdeaee0/adjuntos/203/imagenes/103/439/0103439317/1200x675/smart/image-2026-10-01t131810217.png",
-        "summary": "Lanzaron en julio su primer disco de estudio, que reúne distintas influencias y búsquedas de la banda a lo largo de su recorrido. Lo presentan el 9 de octubre en el CCGuemes, junto a Marttein.",
+        "title": "Combustibles: estaciones de servicio de Rosario deberán exhibir cómo se compone el precio",
+        "link": "https://www.lacapital.com.ar/la-ciudad/combustibles-estaciones-servicio-rosario-deberan-exhibir-como-se-compone-el-precio-n10284306.html",
+        "image": "https://media.lacapital.com.ar/p/2a6773c7b07c37cb1e0adc462e474895/adjuntos/203/imagenes/102/443/0102443842/2025-06-02-nafta-ypf-by_hrio-80128956jpg.jpg",
+        "summary": "El proyecto aprobado por el Concejo obliga a que se informe en los surtidores qué porcentaje del precio del litro de nafta corresponde al combustible, a los impuestos nacionales y a la tasa vial",
         "pubDate": "2026-10-02T09:30:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Combustibles: estaciones de servicio de Rosario deberán exhibir cómo se compone el precio",
-        "link": "https://www.lacapital.com.ar/la-ciudad/combustibles-estaciones-servicio-rosario-deberan-exhibir-como-se-compone-el-precio-n10284306.html",
-        "image": "https://media.lacapital.com.ar/p/2a6773c7b07c37cb1e0adc462e474895/adjuntos/203/imagenes/102/443/0102443842/2025-06-02-nafta-ypf-by_hrio-80128956jpg.jpg",
-        "summary": "El proyecto aprobado por el Concejo obliga a que se informe en los surtidores qué porcentaje del precio del litro de nafta corresponde al combustible, a los impuestos nacionales y a la tasa vial",
+        "title": "K.I.A.: la banda de zona sur de Rosario que ataca la nueva escena del metal argentino",
+        "link": "https://www.lacapital.com.ar/zoom/kia-la-banda-zona-sur-rosario-que-ataca-la-nueva-escena-del-metal-argentino-n10284249.html",
+        "image": "https://media.lacapital.com.ar/p/19cd5746d97c663a2ca0899f3cdeaee0/adjuntos/203/imagenes/103/439/0103439317/1200x675/smart/image-2026-10-01t131810217.png",
+        "summary": "Lanzaron en julio su primer disco de estudio, que reúne distintas influencias y búsquedas de la banda a lo largo de su recorrido. Lo presentan el 9 de octubre en el CCGuemes, junto a Marttein.",
         "pubDate": "2026-10-02T09:30:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/bc4355d5d626e86a68be66e525a30697/adjuntos/203/imagenes/103/440/0103440387/aut-730262.jpg",
         "summary": "San Nicolás recibe la segunda fecha de la Copa de Oro y en tres semanas la sede será el Fangio. Y el equipo rosarino sumó al City Center en sus autos",
         "pubDate": "2026-10-02T00:14:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Llega a Rosario la 22ª edición de \"Danzar por la paz\", la gala solidaria a beneficio de Unicef",
-        "link": "https://www.lacapital.com.ar/la-ciudad/llega-rosario-la-22-edicion-danzar-la-paz-la-gala-solidaria-beneficio-unicef-n10284407.html",
-        "image": "https://media.lacapital.com.ar/p/476e11524dbf1e39e9a2daf8f0332e3d/adjuntos/203/imagenes/101/538/0101538398/1200x675/smart/teatro-astengojpg.jpg",
-        "summary": "En esta oportunidad habrá un emotivo homenaje a Mercedes Sosa. La cita es el próximo 7 de octubre en el teatro Astengo",
-        "pubDate": "2026-10-01T23:38:00+00:00",
         "approxTime": false
       }
     ]
