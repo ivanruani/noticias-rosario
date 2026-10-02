@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-02T11:01:13.860238+00:00",
+  "generatedAt": "2026-10-02T11:31:10.179001+00:00",
   "sites": {
     "rosario3": [
       {
         "source": "Rosario3",
         "title": "Un joven murió al volcar su auto en la zona norte de Rosario",
         "link": "https://www.rosario3.com/policiales/un-joven-murio-al-volcar-su-auto-en-la-zona-norte-de-rosario-20261002-0004.html",
-        "image": "https://www.rosario3.com/__export/1790936161252/sites/rosario3/img/2026/10/02/siniestrocir2.jpg_928314581.jpg",
+        "image": "https://www.rosario3.com/__export/1790939186607/sites/rosario3/img/2026/10/02/siniestrocir3.jpg_928314581.jpg",
         "summary": "Un muchacho de 23 años perdió la vida este jueves a la medianoche tras quedar atrapado en su vehículo, un Audi A4 gris, que volcó en Circunvalación y Palliere. Las causas del siniestro vial eran investigadas por personal de PDI",
         "pubDate": "2026-10-02T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Murió el operario accidentado en Puerto San Martín que estaba internado en el Centenario",
+        "link": "https://www.rosario3.com/informaciongeneral/murio-uno-de-los-operarios-internados-por-la-explosion-en-puerto-san-martin-son-3-las-victimas-victimas-fatales-20261001-0008.html",
+        "image": "https://www.rosario3.com/__export/1790850795635/sites/rosario3/img/2026/10/01/explosion_puerto_san_martin_jpg_674994428.jpg_1067613685.jpg",
+        "summary": "Este jueves por la tarde falleció César Aquino, uno de los cuatro operarios que sobrevivieron con serias heridas a la explosión de la planta de Albardon Bio",
+        "pubDate": "2026-10-01T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/deportes/lionel-messi-ya-esta-en-rosario-y-se-enciende-la-ilusion-en-la-previa-de-su-despedida-20261002-0005.html",
         "image": "https://www.rosario3.com/__export/1790938503446/sites/rosario3/img/2026/10/02/messi_rosaroi.jpg_235288683.jpg",
         "summary": "El capitán aterrizó a las 7 de la mañana en el Aeropuerto Islas Malvinas procedente de Fort Lauderdale (Miami). Se traslada a su casa de Funes, junto a su familia, mientras crece la expectativa por saber si presenciará el partido de este sábado ante Burkina Faso antes de su…",
-        "pubDate": "2026-10-02T11:59:00+00:00",
+        "pubDate": "2026-10-02T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/ecos365/noticias/claves-del-dia-dolares-bajo-tierra-fabricas-entre-el-concurso-y-el-parate-y-un-mercado-que-no-compra-el-entusiasmo-20261002-0001.html",
         "image": "https://www.rosario3.com/__export/1790935850961/sites/rosario3/img/2026/10/02/claves_del_dxa_1_de_octubre_de_2026.png_446026524.png",
         "summary": "Pluspetrol acelera en Vaca Muerta mientras Savencia anuncia un cierre, Willard entra en concurso y Longvie reorganiza plantas. El mercado sigue desconfiando, los empresarios recalculan 2027 y Mercado Pago se suma a la pelea por el dólar digital",
-        "pubDate": "2026-10-02T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El clima en Rosario: viernes fresco, pero agradable, antes del regreso de las tormentas",
-        "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-viernes-fresco-pero-agradable-antes-del-regreso-de-las-tormentas-20261002-0001.html",
-        "image": "https://www.rosario3.com/__export/1766581448550/sites/rosario3/img/2021/12/14/tormenta.jpg_1768679257.jpg",
-        "summary": "El Servicio Meteorológico Nacional anticipa una jornada de transición en la ciudad, con buenas condiciones hasta la tarde, pero con un claro aumento de la inestabilidad y ráfagas hacia la noche",
         "pubDate": "2026-10-02T11:57:00+00:00",
         "approxTime": true
       },
@@ -49,20 +49,20 @@
       },
       {
         "source": "Rosario3",
-        "title": "Grave siniestro vial en Soldini: una adolescente fue atropellada por una camioneta del Servicio Penitenciario en la ruta 14",
-        "link": "https://www.rosario3.com/informaciongeneral/grave-siniestro-vial-en-soldini-una-adolescente-fue-atropellada-por-una-camioneta-del-servicio-penitenciario-en-la-ruta-14-20261001-0082.html",
-        "image": "https://www.rosario3.com/__export/1790904298448/sites/rosario3/img/2026/10/01/bomberos_perez.jpg_928314580.jpg",
-        "summary": "El hecho ocurrió en la intersección de la ruta 14 y calle Ecuador, a metros de una escuela primaria. Una joven, de unos 15 años, fue trasladada por el Sies a Rosario. Intervinieron Bomberos, Policía y personal de Tránsito de Soldini. El tránsito hacia Pérez permanecía cortado",
-        "pubDate": "2026-10-01T11:55:00+00:00",
+        "title": "GP de Bahréin: sancionaron a Franco Colapinto y retrocederá 15 posiciones",
+        "link": "https://www.rosario3.com/deportes/colapinto-en-la-formula-1-cuando-y-donde-tendra-revancha-tras-el-incidente-en-baku-20260928-0054.html",
+        "image": "https://www.rosario3.com/__export/1784480078757/sites/rosario3/img/2026/07/19/colapinto1.jpg_1825222445.jpg",
+        "summary": "El piloto argentino arrastraba una sanción de cinco posiciones por el accidente que protagonizó en Bakú y por un cambio en el motor de su Alpine, sufrió una nueva penalización",
+        "pubDate": "2026-09-28T11:55:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Crimen de Joaquín Pérez: la querella sostuvo que cuatro testigos reconocieron a López como el conductor de la moto",
-        "link": "https://www.rosario3.com/policiales/crimen-de-joaquin-perez-la-querella-sostuvo-que-cuatro-testigos-reconocieron-a-lopez-como-el-conductor-de-la-moto-20261001-0077.html",
-        "image": "https://www.rosario3.com/__export/1790897697693/sites/rosario3/img/2026/10/01/cristian_lopez_detenido_jpg_1756841869_1.jpg_1825222445.jpg",
-        "summary": "En el juicio por los homicidios de Joaquín Pérez y Ariel Simoncini, el abogado Carlos Varela destacó el valor de los reconocimientos y de los testimonios de identidad reservada. Dijo que el primer testigo actuó por un “reflejo ético” y que su aporte fue la “chispa” que permitió…",
-        "pubDate": "2026-10-01T11:54:00+00:00",
+        "title": "El clima en Rosario: viernes fresco, pero agradable, antes del regreso de las tormentas",
+        "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-viernes-fresco-pero-agradable-antes-del-regreso-de-las-tormentas-20261002-0001.html",
+        "image": "https://www.rosario3.com/__export/1766581448550/sites/rosario3/img/2021/12/14/tormenta.jpg_1768679257.jpg",
+        "summary": "El Servicio Meteorológico Nacional anticipa una jornada de transición en la ciudad, con buenas condiciones hasta la tarde, pero con un claro aumento de la inestabilidad y ráfagas hacia la noche",
+        "pubDate": "2026-10-02T11:54:00+00:00",
         "approxTime": true
       },
       {
@@ -103,11 +103,20 @@
       },
       {
         "source": "Rosario3",
-        "title": "GP de Bahréin: sancionaron a Franco Colapinto y retrocederá 15 posiciones",
-        "link": "https://www.rosario3.com/deportes/colapinto-en-la-formula-1-cuando-y-donde-tendra-revancha-tras-el-incidente-en-baku-20260928-0054.html",
-        "image": "https://www.rosario3.com/__export/1784480078757/sites/rosario3/img/2026/07/19/colapinto1.jpg_1825222445.jpg",
-        "summary": "El piloto argentino arrastraba una sanción de cinco posiciones por el accidente que protagonizó en Bakú y por un cambio en el motor de su Alpine, sufrió una nueva penalización",
-        "pubDate": "2026-09-28T11:49:00+00:00",
+        "title": "Grave siniestro vial en Soldini: una adolescente fue atropellada por una camioneta del Servicio Penitenciario en la ruta 14",
+        "link": "https://www.rosario3.com/informaciongeneral/grave-siniestro-vial-en-soldini-una-adolescente-fue-atropellada-por-una-camioneta-del-servicio-penitenciario-en-la-ruta-14-20261001-0082.html",
+        "image": "https://www.rosario3.com/__export/1790904298448/sites/rosario3/img/2026/10/01/bomberos_perez.jpg_928314580.jpg",
+        "summary": "El hecho ocurrió en la intersección de la ruta 14 y calle Ecuador, a metros de una escuela primaria. Una joven, de unos 15 años, fue trasladada por el Sies a Rosario. Intervinieron Bomberos, Policía y personal de Tránsito de Soldini. El tránsito hacia Pérez permanecía cortado",
+        "pubDate": "2026-10-01T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Crimen de Joaquín Pérez: la querella sostuvo que cuatro testigos reconocieron a López como el conductor de la moto",
+        "link": "https://www.rosario3.com/policiales/crimen-de-joaquin-perez-la-querella-sostuvo-que-cuatro-testigos-reconocieron-a-lopez-como-el-conductor-de-la-moto-20261001-0077.html",
+        "image": "https://www.rosario3.com/__export/1790897697693/sites/rosario3/img/2026/10/01/cristian_lopez_detenido_jpg_1756841869_1.jpg_1825222445.jpg",
+        "summary": "En el juicio por los homicidios de Joaquín Pérez y Ariel Simoncini, el abogado Carlos Varela destacó el valor de los reconocimientos y de los testimonios de identidad reservada. Dijo que el primer testigo actuó por un “reflejo ético” y que su aporte fue la “chispa” que permitió…",
+        "pubDate": "2026-10-01T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +125,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/cayo-de-un-techo-mientras-colocaba-equipos-de-sonido-en-un-bar-del-centro-20261001-0078.html",
         "image": "https://www.rosario3.com/__export/1790898898053/sites/rosario3/img/2026/10/01/jujuy_y_balcarce.jpg_1825222445.jpg",
         "summary": "Un operario resultó herido este jueves por la tarde tras caer desde una altura aproximada de cuatro metros mientras realizaba trabajos en un bar ubicado en la zona de Jujuy y Balcarce. El hombre fue asistido en el lugar y trasladado al Hospital Centenario.",
-        "pubDate": "2026-10-01T11:48:00+00:00",
+        "pubDate": "2026-10-01T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,20 +134,20 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/empresa-lactea-anuncio-el-cierre-de-su-planta-de-el-trebol-afecta-a-54-trabajadores-20261001-0074.html",
         "image": "https://www.rosario3.com/__export/1790894840191/sites/rosario3/img/2026/10/01/empresa_lactea_el_trebol.jpg_1825222467.jpg",
         "summary": "La firma Savencia comunicó que la fábrica continuará funcionando hasta el 31 de marzo de 2027. El gremio Atilra y el gobierno local buscan alternativas para sostener la actividad y conseguir un inversor que permita preservar los puestos laborales",
-        "pubDate": "2026-10-01T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Emiliano Boffelli volvió a jugar dos partidos seguidos como titular tras más de dos años y medio: \"Me siento muy bien\"",
-        "link": "https://www.rosario3.com/deportes/emiliano-boffelli-volvio-a-jugar-dos-partidos-seguidos-como-titular-tras-mas-de-dos-anos-y-medio-me-siento-muy-bien-20261001-0071.html",
-        "image": "https://www.rosario3.com/__export/1790890118567/sites/rosario3/img/2026/10/01/rugby_duendes_boffelli_1_crxdito_jano_colcerniani.jpeg_1109350390.jpeg",
-        "summary": "El rosarino completó 160 minutos consecutivos en cancha entre el Torneo del Litoral y el Torneo del Interior A con la camiseta de Duendes. Tras dejar atrás una larga inactividad por problemas físicos, trabaja día a día para recuperar su mejor versión y sueña con volver a vestir…",
         "pubDate": "2026-10-01T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Confirmaron la tercera muerte por la explosión en la planta de Albardón Bio",
+        "link": "https://www.lacapital.com.ar/la-region/confirmaron-la-tercera-muerte-la-explosion-la-planta-albardon-bio-n10284193.html",
+        "image": "https://media.lacapital.com.ar/p/3793de6e1210122752b27d2a392e5459/adjuntos/203/imagenes/103/438/0103438602/albardon-bio.jpeg",
+        "summary": "César Aquino, oriundo de Fray Luis Beltrán, estaba internado en el Hospital Centenario de Rosario luego del incendio en Puerto General San Martín",
+        "pubDate": "2026-10-02T11:23:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Lionel Messi llegó bien temprano al aeropuerto de Fisherton y ya está en Funes",
@@ -195,10 +204,10 @@
       },
       {
         "source": "La Capital",
-        "title": "Santa Fe reclamó por una nueva ley de biocombustibles para impulsar inversiones y agregar valor",
-        "link": "https://www.lacapital.com.ar/agro/santa-fe-reclamo-una-nueva-ley-biocombustibles-impulsar-inversiones-y-agregar-valor-n10284367.html",
-        "image": "https://media.lacapital.com.ar/p/213d8a644fce7ae4eb0e5018c548b8ca/adjuntos/203/imagenes/103/439/0103439879/1200x675/372x415:392x435/maiz-puccini.jpg",
-        "summary": "En el Congreso Internacional de Maíz que se realizó en Córdoba el ministro de Desarrollo Productivo de Santa Fe, Gustavo Puccini, pidió reglas claras hasta 2041 y mayores cortes obligatorios. También planteó que las divisas del agro deben reinvertirse en rutas, puertos e…",
+        "title": "En Brasil, el agro también se cuenta con historias y música",
+        "link": "https://www.lacapital.com.ar/agro/en-brasil-el-agro-tambien-se-cuenta-historias-y-musica-n10284421.html",
+        "image": "https://media.lacapital.com.ar/p/ad59325b96304c20c34bb30db22753be/adjuntos/203/imagenes/103/440/0103440448/1200x675/smart/gaffff.jpg",
+        "summary": "El estadio del Palmeiras, en São Paulo, es sede este jueves y viernes del Festival Global de Agronegocios (GAFFFF). Cómo el agro brasileño trasciende su rol productivo para convertirse en un fenómeno cultural y de identidad fue uno de los temas de la primera jornada",
         "pubDate": "2026-10-02T09:15:00+00:00",
         "approxTime": false
       },
@@ -213,10 +222,10 @@
       },
       {
         "source": "La Capital",
-        "title": "En Brasil, el agro también se cuenta con historias y música",
-        "link": "https://www.lacapital.com.ar/agro/en-brasil-el-agro-tambien-se-cuenta-historias-y-musica-n10284421.html",
-        "image": "https://media.lacapital.com.ar/p/ad59325b96304c20c34bb30db22753be/adjuntos/203/imagenes/103/440/0103440448/1200x675/smart/gaffff.jpg",
-        "summary": "El estadio del Palmeiras, en São Paulo, es sede este jueves y viernes del Festival Global de Agronegocios (GAFFFF). Cómo el agro brasileño trasciende su rol productivo para convertirse en un fenómeno cultural y de identidad fue uno de los temas de la primera jornada",
+        "title": "Santa Fe reclamó por una nueva ley de biocombustibles para impulsar inversiones y agregar valor",
+        "link": "https://www.lacapital.com.ar/agro/santa-fe-reclamo-una-nueva-ley-biocombustibles-impulsar-inversiones-y-agregar-valor-n10284367.html",
+        "image": "https://media.lacapital.com.ar/p/213d8a644fce7ae4eb0e5018c548b8ca/adjuntos/203/imagenes/103/439/0103439879/1200x675/372x415:392x435/maiz-puccini.jpg",
+        "summary": "En el Congreso Internacional de Maíz que se realizó en Córdoba el ministro de Desarrollo Productivo de Santa Fe, Gustavo Puccini, pidió reglas claras hasta 2041 y mayores cortes obligatorios. También planteó que las divisas del agro deben reinvertirse en rutas, puertos e…",
         "pubDate": "2026-10-02T09:15:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/1286c7760e2f8ecf74d450fdff145e0b/adjuntos/203/imagenes/103/440/0103440484/2026-10-01-replica-ia-juicio.jpg",
         "summary": "Ocurrió en un juicio en Arizona. La Corte de Apelaciones entendió que el video excedió un límite y decidió que el asesino debe ser sentenciado de nuevo",
         "pubDate": "2026-10-02T02:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Subastarán un edificio de 27 departamentos decomisado tras megaestafa inmobiliaria",
-        "link": "https://www.lacapital.com.ar/la-ciudad/subastaran-un-edificio-27-departamentos-decomisado-megaestafa-inmobiliaria-n10284228.html",
-        "image": "https://media.lacapital.com.ar/p/28d1321032a5060354f3dd4b92ba61e7/adjuntos/203/imagenes/103/438/0103438775/desalojo-edificio-buenos-aires-1000.jpg",
-        "summary": "La propiedad de Buenos Aires al 1000 está vinculada a Lelo Pérez, expareja de Vicky Xipolitakis",
-        "pubDate": "2026-10-02T01:17:00+00:00",
         "approxTime": false
       }
     ]
