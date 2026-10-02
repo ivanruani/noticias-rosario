@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T15:31:07.170399+00:00",
+  "generatedAt": "2026-10-02T15:44:42.892787+00:00",
   "sites": {
     "rosario3": [
       {
@@ -103,11 +103,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Tras el comentario de Robbie Williams, Amalia Granata contó qué pasó en su hotel y qué le dijo su marido",
+        "link": "https://www.rosario3.com/ocio/tras-el-comentario-de-robbie-williams-amalia-granata-conto-que-paso-en-su-hotel-y-que-le-dijo-su-marido-20261002-0034.html",
+        "image": "https://www.rosario3.com/__export/1790952967195/sites/rosario3/img/2026/10/02/befunky-collage_-5-.jpg_928314581.jpg",
+        "summary": "Luego de que el cantante británico hiciera una alusión a su recordado encuentro de 2004 en pleno show, la diputada rosarina, que fue vista en el Faena donde se hospeda el músico, contó cómo reaccionó Leonardo Squarzon",
+        "pubDate": "2026-10-02T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "La abogada de la denunciante de Joaquín Levinton renunció a la defensa: \"No mediatizo a las víctimas\"",
         "link": "https://www.rosario3.com/ocio/la-abogada-de-la-denunciante-de-joaquin-levinton-renuncio-a-la-defensa-no-mediatizo-a-las-victimas-20261002-0020.html",
         "image": "https://www.rosario3.com/__export/1790942850241/sites/rosario3/img/2026/10/02/abogada_y_joaquin.jpg_1825222445.jpg",
         "summary": "Adela González explicó los motivos de su alejamiento del caso y criticó las actitudes de su exrepresentada en el desarrollo del proceso judicial, quien, a su turno, difundió un comunicado y avisó que ahora guardará silencio",
-        "pubDate": "2026-10-02T11:49:00+00:00",
+        "pubDate": "2026-10-02T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +125,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/noviembre-tendra-cinco-dias-sin-bancos-en-argentina-por-la-visita-del-papa-leon-xiv-20261002-0016.html",
         "image": "https://www.rosario3.com/__export/1785954885178/sites/rosario3/img/2026/08/05/bancocentral.jpg_982625323.jpg",
         "summary": "La visita del sumo pontífice tendrá impacto no solo en la agenda institucional y religiosa, sino también en el funcionamiento de distintos servicios y actividades. Entre las modificaciones previstas figuran cambios en la actividad bancaria y en el esquema de feriados que regirá…",
-        "pubDate": "2026-10-02T11:48:00+00:00",
+        "pubDate": "2026-10-02T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,20 +134,20 @@
         "link": "https://www.rosario3.com/informaciongeneral/piden-no-sacar-la-basura-este-viernes-en-rosario-por-el-dia-del-recolector-20261001-0037.html",
         "image": "https://www.rosario3.com/__export/1790870044780/sites/rosario3/img/2026/10/01/recolector.jpg_475609639.jpg",
         "summary": "Los servicios se regularizarán el sábado, con tareas intensivas",
-        "pubDate": "2026-10-01T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La AFA suspendió a jugadores de Estudiantes y Central por el escándalo en la Supercopa internacional",
-        "link": "https://www.rosario3.com/deportes/la-afa-suspendio-a-jugadores-de-estudiantes-y-central-por-el-escandalo-en-la-supercopa-internacional-20261002-0012.html",
-        "image": "https://www.rosario3.com/__export/1790940214056/sites/rosario3/img/2026/10/02/image_-10-.jpg_928314580.jpg",
-        "summary": "El Tribunal de Disciplina tomó medidas tras los incidentes en el final del partido que se disputó en el estadio Único Madre de Ciudades",
-        "pubDate": "2026-10-02T11:46:00+00:00",
+        "pubDate": "2026-10-01T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Liberaron al actor Maxi Ghione, pero sigue la investigación sobre amenazas",
+        "link": "https://www.lacapital.com.ar/zoom/liberaron-al-actor-maxi-ghione-pero-sigue-la-investigacion-amenazas-n10284482.html",
+        "image": "https://media.lacapital.com.ar/p/0292ec135df0aed4d05da8ea8f653d70/adjuntos/203/imagenes/103/440/0103440978/maxi-ghione.jpg",
+        "summary": "El director teatral fue imputado por la tenencia ilegal de varias armas de fuego a partir de la denuncia de un trabajador sexual que había ido a su casa",
+        "pubDate": "2026-10-02T15:42:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Mirtha Legrand continúa su recuperación: qué dice el nuevo parte médico",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/d7d9537f03e31ee3e110729f9f2bf34b/adjuntos/203/imagenes/103/440/0103440652/platense-estudiantes.jpg",
         "summary": "Platense eliminó al Pincha con un gol de Gonzalo Lencina y clasificó a las semifinales del torneo por primera vez en su historia",
         "pubDate": "2026-10-02T12:35:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Octubre Rosa: Rosario ofrecerá 1.200 mamografías gratuitas durante todo el mes",
-        "link": "https://www.lacapital.com.ar/la-ciudad/octubre-rosa-rosario-ofrecera-1200-mamografias-gratuitas-todo-el-mes-n10284449.html",
-        "image": "https://media.lacapital.com.ar/p/2cf58d34a46b62d08ae8f02c507cdf3c/adjuntos/203/imagenes/103/440/0103440665/1200x675/smart/octubre-rosa.png",
-        "summary": "La Municipalidad reforzará la prevención del cáncer de mama con mamografías gratuitas y una estrategia para contactar a mujeres sin controles al día",
-        "pubDate": "2026-10-02T12:32:00+00:00",
         "approxTime": false
       }
     ]
