@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T22:01:31.579450+00:00",
+  "generatedAt": "2026-10-02T22:31:02.305435+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,7 +141,34 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "La otra Dolly: tres nuevos casos de una partera en barrio Parque que escapa de la Justicia",
+        "title": "Andino: Prefectura detuvo a cinco personas y secuestró drogas, armas y dinero",
+        "link": "https://www.lacapital.com.ar/policiales/andino-prefectura-detuvo-cinco-personas-y-secuestro-drogas-armas-y-dinero-n10284527.html",
+        "image": "https://media.lacapital.com.ar/p/6b70ab1be589baf174a6f08df3567a75/adjuntos/203/imagenes/103/441/0103441679/1200x675/smart/pre.jpg",
+        "summary": "Fue en el marco de seis allanamientos. Se incautaron dosis de cocaína, marihuana, además de vehículos con irregularidades",
+        "pubDate": "2026-10-02T22:26:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Caputo y Santilli, entre la necesidad de sostener el rumbo y los dardos contra Kicillof",
+        "link": "https://www.lacapital.com.ar/politica/caputo-y-santilli-la-necesidad-sostener-el-rumbo-y-los-dardos-contra-kicillof-n10284587.html",
+        "image": "https://media.lacapital.com.ar/p/cb50284f03ddd119474094c2f5a84423/adjuntos/203/imagenes/103/442/0103442431/1200x675/smart/image.png",
+        "summary": "Desde Francia, y antes del final de Argentina Week, el ministro de Economía y el jefe de Gabinete expusieron durante el cierre del Coloquio de Idea",
+        "pubDate": "2026-10-02T22:16:43+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "\"La Argentina se dirige nuevamente a paso firme hacia el futuro\", dijo Milei al cerrar su visita a Francia",
+        "link": "https://www.lacapital.com.ar/politica/la-argentina-se-dirige-nuevamente-paso-firme-el-futuro-dijo-milei-al-cerrar-su-visita-francia-n10284574.html",
+        "image": "https://media.lacapital.com.ar/p/32000b6888a0b61e0bed698e83f5e89f/adjuntos/203/imagenes/103/442/0103442279/1200x675/smart/image.png",
+        "summary": "El presidente encabezó el final de Argentina Week Paris en uno de los salones de la Torre Eiffel. Previamente, fue distinguido por el Foro Económico, donde brindó un discurso que lo dejó al borde del llanto",
+        "pubDate": "2026-10-02T22:07:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La otra Dolly: tres nuevos casos de una partera de barrio Parque que escapa de la Justicia",
         "link": "https://www.lacapital.com.ar/la-ciudad/la-otra-dolly-tres-nuevos-casos-una-partera-barrio-parque-que-escapa-la-justicia-n10284562.html",
         "image": "https://media.lacapital.com.ar/p/69d9e749ce99a2a68667481ab5aa120c/adjuntos/203/imagenes/103/442/0103442106/1200x675/smart/olga-partera-210.jpg",
         "summary": "Ana, Paola y Romina están detrás de sus orígenes, arrebatados por la obstetra Olga, que está por cumplir 90 años y se desempeñó en dos sanatorios de la ciudad y en varios hospitales de Rosario y la región",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/7589d2b70dc8c7f294572ffe16d822d2/adjuntos/203/imagenes/103/441/0103441683/1200x675/smart/unl.jpg",
         "summary": "Junto a legisladores nacionales, autoridades de las casas de altos estudios de Rosario y Santa Fe, entre otros, llamaron a asegurar los fondos que garantizan el funcionamiento de la educación superior",
         "pubDate": "2026-10-02T18:45:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Pagos de Ansés en octubre: de cuánto será el aumento de AUH",
-        "link": "https://www.lacapital.com.ar/informacion-general/pagos-anses-octubre-cuanto-sera-el-aumento-auh-n10284498.html",
-        "image": "https://media.lacapital.com.ar/p/57b543749de6663b2ddaf0a27f948b1a/adjuntos/203/imagenes/102/586/0102586745/2025-08-05-anses.jpg",
-        "summary": "El organismo confirmó los montos actualizados de la Asignación Universal por Hijo para el décimo mes del año. De cuánto es el incremento y las fechas de cobro",
-        "pubDate": "2026-10-02T18:31:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Educación salió a defender la intervención en el Complejo Educativo Gurruchaga",
-        "link": "https://www.lacapital.com.ar/la-ciudad/educacion-salio-defender-la-intervencion-el-complejo-educativo-gurruchaga-n10284500.html",
-        "image": "https://media.lacapital.com.ar/p/4f899d84c254ce2d5df5350e6afbe98e/adjuntos/203/imagenes/103/440/0103440991/1200x675/smart/escuela-gurruchaga.jpg",
-        "summary": "Ante algunas críticas, el Ministerio de Educación remarcó la necesidad de reordenar la escuela de Salta al 3400",
-        "pubDate": "2026-10-02T18:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Altas y bajas en el plantel de Newell's convocado para el partido con Lanús: un regreso después de 10 meses",
-        "link": "https://www.lacapital.com.ar/ovacion/altas-y-bajas-el-plantel-newells-convocado-el-partido-lanus-un-regreso-despues-10-meses-n10284530.html",
-        "image": "https://media.lacapital.com.ar/p/64108f0cb9192bcf5093c19d11e91564/adjuntos/203/imagenes/103/441/0103441682/1200x675/smart/image-4.jpg",
-        "summary": "Vuelven a la convocatoria Martín Ortega y Oscar Salomón. Arias sigue ausente y sale el volante David Sotelo",
-        "pubDate": "2026-10-02T18:22:00+00:00",
         "approxTime": false
       }
     ]
