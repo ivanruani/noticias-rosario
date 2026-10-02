@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T20:40:33.896414+00:00",
+  "generatedAt": "2026-10-02T21:01:18.303720+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "La historia del goleador de Newell's: la estafa, el reconocimiento y la mano que le dio Jorge Messi a su padre",
+        "link": "https://www.lacapital.com.ar/ovacion/la-historia-del-goleador-newells-la-estafa-el-reconocimiento-y-la-mano-que-le-dio-jorge-messi-su-padre-n10280209.html",
+        "image": "https://media.lacapital.com.ar/p/2a93bfed7e1fd5c3f586c9a5f340c7ae/adjuntos/203/imagenes/103/436/0103436385/1200x675/smart/condorito-ramos.jpg",
+        "summary": "Víctor Ramos, que llegó al club a cambio de cinco pelotas y dos pares de botines, aseguró que hoy no salen delanteros \"por la falta de trabajo\" y lamentó que nunca respondieran a su ofrecimiento de dar una mano en la institución.",
+        "pubDate": "2026-10-02T20:49:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Un grupo de diputados busca frenar compras de tierras por extranjeros con una medida cautelar",
         "link": "https://www.lacapital.com.ar/politica/un-grupo-diputados-busca-frenar-compras-tierras-extranjeros-una-medida-cautelar-n10284549.html",
         "image": "https://media.lacapital.com.ar/p/984e4f37b785cc28192852aba058be5c/adjuntos/203/imagenes/103/441/0103441962/1200x675/smart/image.png",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/36083aca8c947207a117c85063ef264d/adjuntos/203/imagenes/103/441/0103441564/1200x675/smart/image-3.jpg",
         "summary": "La selección africana todavía no llegó al país y hay mucha incertidumbre en torno a la realización del partido, programado para el sábado a las 21.",
         "pubDate": "2026-10-02T17:50:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La AFA suspendió a jugadores de Central y Estudiantes por los incidentes en la Supercopa Internacional",
-        "link": "https://www.lacapital.com.ar/ovacion/la-afa-suspendio-jugadores-central-y-estudiantes-los-incidentes-la-supercopa-internacional-n10284451.html",
-        "image": "https://media.lacapital.com.ar/p/9ae12c298623e041819c51497bfa9b70/adjuntos/203/imagenes/103/440/0103440714/1200x675/smart/image-6.jpg",
-        "summary": "El tribunal de disciplina tomó medidas tras el escándalo que se desató en Santiago del Estero. Los clubes tendrán cinco días para realizar el descargo",
-        "pubDate": "2026-10-02T17:28:00+00:00",
         "approxTime": false
       }
     ]
