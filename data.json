@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T17:13:21.584522+00:00",
+  "generatedAt": "2026-10-03T17:31:04.252428+00:00",
   "sites": {
     "rosario3": [
       {
@@ -85,11 +85,20 @@
       },
       {
         "source": "Rosario3",
-        "title": "A partir del próximo lunes aumenta el boleto de colectivo urbano en Rosario",
-        "link": "https://www.rosario3.com/informaciongeneral/a-partir-del-proximo-lunes-aumenta-el-boleto-de-colectivo-urbano-en-rosario-20261002-0051.html",
-        "image": "https://www.rosario3.com/__export/1790976020625/sites/rosario3/img/2026/10/02/_dsc7674-2_version1790976011277.jpg_1096344066.jpg",
-        "summary": "Las nuevas tarifas regirán a partir del lunes 5. El último aumento se había producido hace 8 meses. De esta manera, Rosario iguala a la ciudad de Córdoba, en un contexto de incrementos en distintas ciudades del resto del país. Los valores actualizados",
-        "pubDate": "2026-10-02T11:51:00+00:00",
+        "title": "Midachi se despide de Rosario: 43 años de risas, rutas y una amistad que sobrevivió al tiempo",
+        "link": "https://www.rosario3.com/ocio/midachi-se-despide-de-rosario-43-anos-de-risas-rutas-y-una-amistad-que-sobrevivio-al-tiempo-20261003-0011.html",
+        "image": "https://www.rosario3.com/__export/1791044952509/sites/rosario3/img/2026/10/03/midachi-formato-web-1250x704_-1-.jpg_928314581.jpg",
+        "summary": "Dady Brieva, Miguel del Sel y el Chino Volpato se presentan este sábado en el Metropolitano, en el último encuentro del trío con el público rosarino. Antes del show hablaron en exclusiva con Rosario3 sobre todo lo vivido, las familias, los años compartidos y el orgullo de seguir…",
+        "pubDate": "2026-10-03T11:51:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "A punta de pistola, asaltó un centro de salud y amenazó al personal: “No hagan lío”",
+        "link": "https://www.rosario3.com/policiales/a-punta-de-pistola-asalto-un-centro-de-salud-y-amenazo-al-personal-no-hagan-lio-20261003-0016.html",
+        "image": "https://www.rosario3.com/__export/1791047693255/sites/rosario3/img/2026/10/03/centro_de_salud_juntos_podemos.jpg_672794304.jpg",
+        "summary": "El delincuente entró armado al dispensario de Nochetto y Magaldi y les robó los celulares a un guardia y a una secretaria. Según investigadores, estaría identificado y sería integrante de un clan delictivo de la zona",
+        "pubDate": "2026-10-03T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -98,15 +107,6 @@
         "link": "https://www.rosario3.com/deportes/colapinto-tras-las-penalizaciones-en-el-gp-de-bahrein-se-puede-ir-para-adelante-20261003-0015.html",
         "image": "https://www.rosario3.com/__export/1791046039002/sites/rosario3/img/2026/10/03/colapinto22.jpg_928314580.jpg",
         "summary": "El piloto argentino finalizó decimoquinto en la clasificación pero partirá desde el puesto 21 tras recibir dos sanciones acumuladas. Max Verstappen se quedó con la pole position en el Circuito Internacional de Sepang",
-        "pubDate": "2026-10-03T11:50:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Cadena de panaderías porteña cerró 25 locales y despidió a 150 empleados",
-        "link": "https://www.rosario3.com/informaciongeneral/cadena-de-panaderias-portena-cerro-25-locales-y-despidio-a-150-empleados-20261003-0013.html",
-        "image": "https://www.rosario3.com/__export/1791045973644/sites/rosario3/img/2026/10/03/pandanxs_cierre.jpg_672794304.jpg",
-        "summary": "La firma Pandanés comunicó durante la madrugada del viernes el cese de sus actividades la ciudad de Buenos Aires. Los 150 trabajadores recibieron el aviso por WhatsApp y encontraron las puertas cerradas, con las cerraduras cambiadas. La empresa atravesaba un concurso preventivo…",
         "pubDate": "2026-10-03T11:49:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Milei celebró en redes sociales la salida de Halliburton de las Islas Malvinas",
+        "link": "https://www.lacapital.com.ar/politica/milei-celebro-redes-sociales-la-salida-halliburton-las-islas-malvinas-n10284679.html",
+        "image": "https://media.lacapital.com.ar/p/a11fadf1f139ff782385cde9e36da60a/adjuntos/203/imagenes/103/408/0103408530/1200x675/smart/petroleo-malvinas-plataforma-petrolera.jpg",
+        "summary": "La empresa estadounidense confirmó que no prestará servicios en el archipiélago para el proyecto Sea Lion ni participará en la explotación de hidrocarburos",
+        "pubDate": "2026-10-03T17:22:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Narcotráfico y armas en Santa Fe: detuvieron a 12 personas en un amplio operativo",
@@ -262,15 +271,6 @@
         "link": "https://www.lacapital.com.ar/mar-del-plata-mas-alla-del-verano-bienestar-gastronomia-y-descanso-pleno-centro-n10284584.html",
         "image": "https://media.lacapital.com.ar/p/72101ee21b4fa4ab73e6f2153afb353e/adjuntos/203/imagenes/103/442/0103442397/007-001-151.jpg",
         "summary": "Hotel Spa República propone descubrir la ciudad durante los doce meses con una estadía que combina un spa distribuido en cinco pisos, gastronomía, habitaciones amplias y alternativas para familias, en una ubicación estratégica del centro marplatense",
-        "pubDate": "2026-10-03T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Aeropuertos Argentina extiende la concesión y compromete US$600 millones en inversiones",
-        "link": "https://www.lacapital.com.ar/turismo/aeropuertos-argentina-extiende-la-concesion-y-compromete-us600-millones-inversiones-n10284588.html",
-        "image": "https://media.lacapital.com.ar/p/bacc915f06e742bc45a85e5f83ae9be9/adjuntos/203/imagenes/103/254/0103254418/002-001-aaeropuerto2000.jpg",
-        "summary": "El acuerdo alcanzado extiende la concesión hasta 2049 y contempla la posibilidad de ampliarlo otros siete años, si se cumplen las condiciones previstas",
         "pubDate": "2026-10-03T10:00:00+00:00",
         "approxTime": false
       }
