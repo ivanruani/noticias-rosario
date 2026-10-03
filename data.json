@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T13:01:20.337582+00:00",
+  "generatedAt": "2026-10-03T13:31:09.256210+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,11 +13,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Mataron de un tiro a un hombre de 28 años en un potrero de barrio Toba y detuvieron a un sospechoso",
+        "link": "https://www.rosario3.com/policiales/mataron-de-un-tiro-a-un-hombre-de-28-anos-en-un-potrero-de-barrio-toba-y-detuvieron-a-un-sospechoso-20261003-0003.html",
+        "image": "https://www.rosario3.com/__export/1791032976087/sites/rosario3/img/2026/10/03/ab__argentinos_y_pamalo_crimen_rosario_toba.jpg_672794304.jpg",
+        "summary": "La víctima fue hallada cerca de las 21 en el campito de Aborígenes Argentinos y Pamaló, con un disparo en el pecho. A pocos metros del lugar aprehendieron a un hombre de 30 años, señalado por informantes como posible autor del crimen. En la escena secuestraron vainas de…",
+        "pubDate": "2026-10-03T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Newell’s recibe a Lanús en un duelo clave por la clasificación a los playoffs del Torneo Clausura",
         "link": "https://www.rosario3.com/deportes/newells-recibe-a-lanus-en-un-duelo-clave-por-la-clasificacion-a-los-playoffs-del-torneo-clausura-20261002-0068.html",
         "image": "https://www.rosario3.com/__export/1790979494281/sites/rosario3/img/2026/10/02/mazzantti.jpg_928314580.jpg",
         "summary": "La Lepra y el Granate se enfrentan este sábado en el Coloso, por la fecha 11 de la Zona A. Los dos llegan con 16 puntos y en puestos de clasificación, aunque con presentes diferentes. Dirige Darío Herrera y transmite Radio 2",
-        "pubDate": "2026-10-02T11:59:00+00:00",
+        "pubDate": "2026-10-02T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,16 +35,7 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/la-previa-del-run-run-el-lunes-no-cubrio-93m-en-cheques-y-activo-las-alarmas-en-dos-bancos-20261003-0001.html",
         "image": "https://www.rosario3.com/__export/1789167090572/sites/rosario3/img/2026/09/11/marianoportada_jpg.jpeg_506286608.jpeg",
         "summary": "El podcast con el anticipo de las novedades económicas y corporativas que se publicarán en la tradicional columna de los domingos en Rosario3",
-        "pubDate": "2026-10-03T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Marcha del Orgullo en Rosario: el recorrido, los horarios y los cambios en el transporte",
-        "link": "https://www.rosario3.com/informaciongeneral/marcha-del-orgullo-en-rosario-el-recorrido-los-horarios-y-los-cambios-en-el-transporte-20261002-0056.html",
-        "image": "https://www.rosario3.com/__export/1790970694496/sites/rosario3/img/2026/10/02/marcha_del_orgullo.png_786111822.png",
-        "summary": "La movilización se realizará este sábado con concentración desde las 14 y marcha a partir de las 17 desde la plaza Libertad. La Municipalidad anunció cortes de calles y modificaciones en varias líneas de colectivos durante el desarrollo de la jornada",
-        "pubDate": "2026-10-02T11:57:00+00:00",
+        "pubDate": "2026-10-03T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -270,7 +270,7 @@
         "title": "Crédito caro y márgenes ajustados: las preocupaciones del agro brasileño",
         "link": "https://www.lacapital.com.ar/agro/credito-caro-y-margenes-ajustados-las-preocupaciones-del-agro-brasileno-n10284601.html",
         "image": "https://media.lacapital.com.ar/p/b69635ecf81161497a8b42e9da8c19d8/adjuntos/203/imagenes/103/442/0103442454/1200x675/698x647:718x667/gaffff-dia-2.jpeg",
-        "summary": "En el cierre del Festival Global de Agronegocios (Gaffff) en São Paulo, productores, cooperativas y empresas contaron cómo enfrentan esas dificultades. El peso del alquiler y las deudas, puntos de contacto con lo que pasa en Argentina",
+        "summary": "En el cierre del Festival Global de Agronegocios (Gaffff) en São Paulo, productores, cooperativas y empresas contaron cómo enfrentan esas dificultades. El financiamiento de la campaña, un tema que también atraviesa al campo argentino",
         "pubDate": "2026-10-03T09:15:00+00:00",
         "approxTime": false
       }
