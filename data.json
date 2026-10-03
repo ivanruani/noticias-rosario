@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T20:31:08.549806+00:00",
+  "generatedAt": "2026-10-03T21:01:12.151321+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,20 +141,29 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "En su vigésimo aniversario, la Marcha del Orgullo se hace sentir en las calles de Rosario",
+        "link": "https://www.lacapital.com.ar/la-ciudad/en-su-vigesimo-aniversario-la-marcha-del-orgullo-se-hace-sentir-las-calles-rosario-n10284712.html",
+        "image": "https://media.lacapital.com.ar/p/662aaed0bb2f40bee45f4458477329de/adjuntos/203/imagenes/103/444/0103444718/1200x675/smart/marcha-orgullo-310-mb-2.jpg",
+        "summary": "Con su habitual feria previa a la movilización y un homenaje a Gabriela Banach, el colectivo LGBTQI+ lleva sus reclamos hacia el Parque Nacional a la Bandera",
+        "pubDate": "2026-10-03T20:39:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "En vivo: Newell's se fue al descanso con un empate y un pobre desempeño",
+        "link": "https://www.lacapital.com.ar/ovacion/en-vivo-newells-se-fue-al-descanso-un-empate-y-un-pobre-desempeno-n10284698.html",
+        "image": "https://media.lacapital.com.ar/p/220b93d6c1c91138583a92b31e1eb299/adjuntos/203/imagenes/103/444/0103444717/1200x675/smart/image-2026-10-03t172021108.png",
+        "summary": "El equipo de Kudelka juega en el Coloso desde las 17. Se ubica 8º en la zona A, con los mismos puntos que el granate, pero peor diferencia de gol",
+        "pubDate": "2026-10-03T20:26:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Muerte de Giovani Mvogo Eteme: la familia reclamó mayor recompensa y avances en la causa",
         "link": "https://www.lacapital.com.ar/la-ciudad/muerte-giovani-mvogo-eteme-la-familia-reclamo-mayor-recompensa-y-avances-la-causa-n10284505.html",
         "image": "https://media.lacapital.com.ar/p/05969d2269e79bf9a0e66f296b265a09/adjuntos/203/imagenes/102/838/0102838264/1200x675/smart/marcha-giovani.png",
         "summary": "A casi dos años de la muerte, la madre del joven hallado sin vida en el Parque España aseguró que la nueva suma ofrecida por el MPA \"es denigrante\"",
         "pubDate": "2026-10-03T20:25:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "En vivo: Wlk le pegó de frente al arco y se lo perdió por poco",
-        "link": "https://www.lacapital.com.ar/ovacion/en-vivo-wlk-le-pego-frente-al-arco-y-se-lo-perdio-poco-n10284698.html",
-        "image": "https://media.lacapital.com.ar/p/220b93d6c1c91138583a92b31e1eb299/adjuntos/203/imagenes/103/444/0103444717/1200x675/smart/image-2026-10-03t172021108.png",
-        "summary": "El equipo de Kudelka juega en el Coloso desde las 17. Se ubica 8º en la zona A, con los mismos puntos que el granate, pero peor diferencia de gol",
-        "pubDate": "2026-10-03T20:05:00+00:00",
         "approxTime": false
       },
       {
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/1ed6a8263bca34159ad08b92135a3b14/adjuntos/203/imagenes/103/442/0103442507/1200x675/smart/rug-plaz-10476.jpg",
         "summary": "Visita al siempre complicado Alumni en Tortuguitas con la necesidad de sumar y afirmarse en la categoría en el tramo de cierre del torneo",
         "pubDate": "2026-10-03T17:53:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Newell's y un duelo clave ante un rival directo que le puede dar un bonus extra",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-y-un-duelo-clave-un-rival-directo-que-le-puede-dar-un-bonus-extra-n10284596.html",
-        "image": "https://media.lacapital.com.ar/p/3eef2f61cf3421462ce8f88f2c1ae23c/adjuntos/203/imagenes/103/442/0103442491/nob-son-60543.jpg",
-        "summary": "Desde las 17, este sábado recibe a Lanús, que tiene un andar muy similar en el Clausura. No habría cambios y viene como juez Herrera tras una final escandalosa",
-        "pubDate": "2026-10-03T17:52:00+00:00",
         "approxTime": false
       }
     ]
