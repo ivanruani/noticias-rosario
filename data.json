@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-03T00:01:21.584449+00:00",
+  "generatedAt": "2026-10-03T00:26:06.139283+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Pullaro encabezó en Rosario la apertura de la Feria del Centro, que reúne a las industrias creativas de Santa Fe, Córdoba y Entre Ríos",
+        "link": "https://www.rosario3.com/informaciongeneral/pullaro-encabezo-en-rosario-la-apertura-de-la-feria-del-centro-que-reune-a-las-industrias-creativas-de-santa-fe-cordoba-y-entre-rios-20261002-0073.html",
+        "image": "https://www.rosario3.com/__export/1790985499610/sites/rosario3/img/2026/10/02/pullaro_artesanias.jpg_928314581.jpg",
+        "summary": "El mandatario inauguró la décima edición del encuentro, que reúne en la Estación Fluvial de Rosario a emprendedores de la región. La propuesta, con entrada libre y gratuita hasta el domingo, incluye producción gráfica y editorial, indumentaria, diseño, objetos decorativos…",
+        "pubDate": "2026-10-02T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Condenaron a enfermero del Pami que robó drogas de la farmacia y causó sobredosis mortal",
         "link": "https://www.rosario3.com/policiales/condenaron-a-enfermero-del-pami-que-robo-drogas-de-la-farmacia-y-causo-sobredosis-mortal-20261002-0059.html",
         "image": "https://www.rosario3.com/__export/1790972462269/sites/rosario3/img/2025/10/03/detenido-fentanilo-rosario-concepcion_del_uruguay-02.jpeg_982626346.jpeg",
         "summary": "El condenado trabajaba en el Policlínico de zona norte. Lo detuvieron el año pasado y días atrás cerró una pena de cuatro años y medio de prisión. El caso se inició con la denuncia del padre de un hombre que en 2023 murió tras inyectarse un poderoso relajante muscular de…",
-        "pubDate": "2026-10-02T12:00:00+00:00",
+        "pubDate": "2026-10-02T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,15 +26,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/a-partir-del-proximo-lunes-aumenta-el-boleto-de-colectivo-urbano-en-rosario-20261002-0051.html",
         "image": "https://www.rosario3.com/__export/1790976020625/sites/rosario3/img/2026/10/02/_dsc7674-2_version1790976011277.jpg_1096344066.jpg",
         "summary": "Las nuevas tarifas regirán a partir del lunes 5. El último aumento se había producido hace 8 meses. De esta manera, Rosario iguala a la ciudad de Córdoba, en un contexto de incrementos en distintas ciudades del resto del país. Los valores actualizados",
-        "pubDate": "2026-10-02T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Atento Canalla: Aprevide dio algunas pautas para el ingreso de los hinchas de Central ante Banfield",
-        "link": "https://www.rosario3.com/deportes/atento-canalla-aprevide-dio-algunas-pautas-para-el-ingreso-de-los-hinchas-de-central-ante-banfield-20261002-0065.html",
-        "image": "https://www.rosario3.com/__export/1790976991365/sites/rosario3/img/2026/10/02/central_visitantes.jpg_1010838702.jpg",
-        "summary": "El ministerio de Seguridad de la provincia de Buenos Aires toma medidas para el ingreso y egreso de los simpatizantes auriazules. El partido se jugará el lunes a las 21.15",
         "pubDate": "2026-10-02T11:58:00+00:00",
         "approxTime": true
       },
@@ -40,10 +40,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Milei cerró su gira en Francia: \"Argentina se encuentra frente a un cambio de página\"",
-        "link": "https://www.rosario3.com/informaciongeneral/milei-cerro-su-gira-en-francia-argentina-se-encuentra-frente-a-un-cambio-de-pagina-20261002-0060.html",
-        "image": "https://www.rosario3.com/__export/1790972315695/sites/rosario3/img/2026/10/02/week_paris.jpg_928314581.jpg",
-        "summary": "El Presidente encabezó el cierre de la Argentina Week París en uno de los salones de la Torre Eiffel y aseguró que el país está ante “un cambio de página” tras los últimos 100 años de historia",
+        "title": "Atento Canalla: Aprevide dio algunas pautas para el ingreso de los hinchas de Central ante Banfield",
+        "link": "https://www.rosario3.com/deportes/atento-canalla-aprevide-dio-algunas-pautas-para-el-ingreso-de-los-hinchas-de-central-ante-banfield-20261002-0065.html",
+        "image": "https://www.rosario3.com/__export/1790976991365/sites/rosario3/img/2026/10/02/central_visitantes.jpg_1010838702.jpg",
+        "summary": "El ministerio de Seguridad de la provincia de Buenos Aires toma medidas para el ingreso y egreso de los simpatizantes auriazules. El partido se jugará el lunes a las 21.15",
         "pubDate": "2026-10-02T11:56:00+00:00",
         "approxTime": true
       },
@@ -121,10 +121,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Confirmaron la condena a un exintendente cordobés por envenenar y matar perros en 2013",
-        "link": "https://www.rosario3.com/policiales/confirmaron-la-condena-a-un-exintendente-cordobes-por-envenenar-y-matar-perros-en-2013-20261002-0058.html",
-        "image": "https://www.rosario3.com/__export/1790971502596/sites/rosario3/img/2026/10/02/intendente_dean_funes_perros_envenenados_version1790971501940.png_1559198253.png",
-        "summary": "El Tribunal Superior de Justicia de Córdoba ratificó la pena de cuatro años de prisión para Germán Facchín, señalado como instigador del operativo en el que empleados municipales repartieron carne envenenada. También confirmó las condenas a cinco trabajadores",
+        "title": "Milei cerró su gira en Francia: \"Argentina se encuentra frente a un cambio de página\"",
+        "link": "https://www.rosario3.com/informaciongeneral/milei-cerro-su-gira-en-francia-argentina-se-encuentra-frente-a-un-cambio-de-pagina-20261002-0060.html",
+        "image": "https://www.rosario3.com/__export/1790972315695/sites/rosario3/img/2026/10/02/week_paris.jpg_928314581.jpg",
+        "summary": "El Presidente encabezó el cierre de la Argentina Week París en uno de los salones de la Torre Eiffel y aseguró que el país está ante “un cambio de página” tras los últimos 100 años de historia",
         "pubDate": "2026-10-02T11:47:00+00:00",
         "approxTime": true
       },
