@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-03T01:31:02.148804+00:00",
+  "generatedAt": "2026-10-03T02:01:19.463702+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Cuidacoches en Rosario: hay 1.395 identificados y 1.218 están concentrados en el centro",
+        "link": "https://www.rosario3.com/informaciongeneral/cuidacoches-en-rosario-hay-1.395-identificados-y-1.218-estan-concentrados-en-el-centro-20261002-0075.html",
+        "image": "https://www.rosario3.com/__export/1790985682320/sites/rosario3/img/2026/10/02/cuidacoche05_version1790985681281.jpg_1232999745.jpg",
+        "summary": "El dato surgió del relevamiento presentado en la cuarta mesa de trabajo del Concejo, que analizó cómo implementar la nueva ley provincial que prohíbe la actividad. En 2025 hubo 200 detenciones policiales vinculadas con los cuidacoches. Ahora Rosario debe avanzar con una…",
+        "pubDate": "2026-10-02T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Pullaro encabezó en Rosario la apertura de la Feria del Centro, que reúne a las industrias creativas de Santa Fe, Córdoba y Entre Ríos",
         "link": "https://www.rosario3.com/informaciongeneral/pullaro-encabezo-en-rosario-la-apertura-de-la-feria-del-centro-que-reune-a-las-industrias-creativas-de-santa-fe-cordoba-y-entre-rios-20261002-0073.html",
         "image": "https://www.rosario3.com/__export/1790985499610/sites/rosario3/img/2026/10/02/pullaro_artesanias.jpg_928314581.jpg",
         "summary": "El mandatario inauguró la décima edición del encuentro, que reúne en la Estación Fluvial de Rosario a emprendedores de la región. La propuesta, con entrada libre y gratuita hasta el domingo, incluye producción gráfica y editorial, indumentaria, diseño, objetos decorativos…",
-        "pubDate": "2026-10-02T12:00:00+00:00",
+        "pubDate": "2026-10-02T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,24 +26,15 @@
         "link": "https://www.rosario3.com/policiales/condenaron-a-enfermero-del-pami-que-robo-drogas-de-la-farmacia-y-causo-sobredosis-mortal-20261002-0059.html",
         "image": "https://www.rosario3.com/__export/1790972462269/sites/rosario3/img/2025/10/03/detenido-fentanilo-rosario-concepcion_del_uruguay-02.jpeg_982626346.jpeg",
         "summary": "El condenado trabajaba en el Policlínico de zona norte. Lo detuvieron el año pasado y días atrás cerró una pena de cuatro años y medio de prisión. El caso se inició con la denuncia del padre de un hombre que en 2023 murió tras inyectarse un poderoso relajante muscular de…",
-        "pubDate": "2026-10-02T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "A partir del próximo lunes aumenta el boleto de colectivo urbano en Rosario",
-        "link": "https://www.rosario3.com/informaciongeneral/a-partir-del-proximo-lunes-aumenta-el-boleto-de-colectivo-urbano-en-rosario-20261002-0051.html",
-        "image": "https://www.rosario3.com/__export/1790976020625/sites/rosario3/img/2026/10/02/_dsc7674-2_version1790976011277.jpg_1096344066.jpg",
-        "summary": "Las nuevas tarifas regirán a partir del lunes 5. El último aumento se había producido hace 8 meses. De esta manera, Rosario iguala a la ciudad de Córdoba, en un contexto de incrementos en distintas ciudades del resto del país. Los valores actualizados",
         "pubDate": "2026-10-02T11:58:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Siniestro vial a la salida de una escuela en barrio Belgrano: un motociclista atropelló a un adolescente",
-        "link": "https://www.rosario3.com/informaciongeneral/siniestro-vial-a-la-salida-de-una-escuela-en-barrio-belgrano-un-motociclista-atropello-a-un-adolescente-20261002-0063.html",
-        "image": "https://www.rosario3.com/__export/1790975104102/sites/rosario3/img/2026/10/02/whatsapp_image_2026-10-02_at_17_56_14.jpeg_928314580.jpeg",
-        "summary": "El choque ocurrió este viernes en Provincias Unidas al 1900. Un adolescente fue embestido por un motociclista que, según el relato de los vecinos de la zona, realizaba maniobras peligrosas por la avenida. Ambos involucrados debieron ser asistidos por personal médico tras la…",
+        "title": "Vecinos de Soldini reclamaron intervenciones viales sobre la ruta en la que atropellaron a una adolescente de 15 años",
+        "link": "https://www.rosario3.com/informaciongeneral/vecinos-de-soldini-reclamaron-intervenciones-viales-sobre-la-ruta-en-la-que-atropellaron-a-una-adolescente-de-15-anos-20261002-0074.html",
+        "image": "https://www.rosario3.com/__export/1790985465189/sites/rosario3/img/2026/10/02/soldini.jpg_982625323.jpg",
+        "summary": "Se manifestaron este viernes para denunciar que cada vez son más frecuentes los siniestros sobre el tramo de la ruta 14 que atraviesa el pueblo",
         "pubDate": "2026-10-02T11:57:00+00:00",
         "approxTime": true
       },
@@ -49,10 +49,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Atento Canalla: Aprevide dio algunas pautas para el ingreso de los hinchas de Central ante Banfield",
-        "link": "https://www.rosario3.com/deportes/atento-canalla-aprevide-dio-algunas-pautas-para-el-ingreso-de-los-hinchas-de-central-ante-banfield-20261002-0065.html",
-        "image": "https://www.rosario3.com/__export/1790976991365/sites/rosario3/img/2026/10/02/central_visitantes.jpg_1010838702.jpg",
-        "summary": "El ministerio de Seguridad de la provincia de Buenos Aires toma medidas para el ingreso y egreso de los simpatizantes auriazules. El partido se jugará el lunes a las 21.15",
+        "title": "A partir del próximo lunes aumenta el boleto de colectivo urbano en Rosario",
+        "link": "https://www.rosario3.com/informaciongeneral/a-partir-del-proximo-lunes-aumenta-el-boleto-de-colectivo-urbano-en-rosario-20261002-0051.html",
+        "image": "https://www.rosario3.com/__export/1790976020625/sites/rosario3/img/2026/10/02/_dsc7674-2_version1790976011277.jpg_1096344066.jpg",
+        "summary": "Las nuevas tarifas regirán a partir del lunes 5. El último aumento se había producido hace 8 meses. De esta manera, Rosario iguala a la ciudad de Córdoba, en un contexto de incrementos en distintas ciudades del resto del país. Los valores actualizados",
         "pubDate": "2026-10-02T11:55:00+00:00",
         "approxTime": true
       },
@@ -67,10 +67,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Después de dos semanas de internación, cómo sigue Mirtha Legrand según el último parte médico",
-        "link": "https://www.rosario3.com/ocio/despues-de-dos-semanas-de-internacion-como-sigue-mirtha-legrand-segun-el-ultimo-parte-medico-20261002-0053.html",
-        "image": "https://www.rosario3.com/__export/1790968725757/sites/rosario3/img/2026/10/02/mirtha_legrand_parte_medico.png_786111822.png",
-        "summary": "La conductora permanece en una habitación común, con seguimiento kinésico, nutricional y clínico, mientras avanza en el proceso para regresar a su casa",
+        "title": "Siniestro vial a la salida de una escuela en barrio Belgrano: un motociclista atropelló a un adolescente",
+        "link": "https://www.rosario3.com/informaciongeneral/siniestro-vial-a-la-salida-de-una-escuela-en-barrio-belgrano-un-motociclista-atropello-a-un-adolescente-20261002-0063.html",
+        "image": "https://www.rosario3.com/__export/1790975104102/sites/rosario3/img/2026/10/02/whatsapp_image_2026-10-02_at_17_56_14.jpeg_928314580.jpeg",
+        "summary": "El choque ocurrió este viernes en Provincias Unidas al 1900. Un adolescente fue embestido por un motociclista que, según el relato de los vecinos de la zona, realizaba maniobras peligrosas por la avenida. Ambos involucrados debieron ser asistidos por personal médico tras la…",
         "pubDate": "2026-10-02T11:53:00+00:00",
         "approxTime": true
       },
@@ -85,10 +85,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Panorama del rugby rosarino: Todo lo que tenés que saber sobre una agenda recargada de definición y futuro",
-        "link": "https://www.rosario3.com/deportes/panorama-del-rugby-rosarino-todo-lo-que-tenes-que-saber-sobre-una-agenda-recargada-de-definicion-y-futuro-20261002-0072.html",
-        "image": "https://www.rosario3.com/__export/1790982316144/sites/rosario3/img/2026/10/02/20260926_tdi-semifinal-407_jpg.jpeg_928314580.jpeg",
-        "summary": "Desde la gran final de Jockey Club en el Torneo del Interior y el choque de Atlético del Rosario en el Top 12 de la URBA, hasta el clásico Duendes-Universitario por la Copa Santa Fe, el arranque del TRL M19 y una jornada ecológica infantil en GER. Todos los detalles, horarios y…",
+        "title": "Atento Canalla: Aprevide dio algunas pautas para el ingreso de los hinchas de Central ante Banfield",
+        "link": "https://www.rosario3.com/deportes/atento-canalla-aprevide-dio-algunas-pautas-para-el-ingreso-de-los-hinchas-de-central-ante-banfield-20261002-0065.html",
+        "image": "https://www.rosario3.com/__export/1790976991365/sites/rosario3/img/2026/10/02/central_visitantes.jpg_1010838702.jpg",
+        "summary": "El ministerio de Seguridad de la provincia de Buenos Aires toma medidas para el ingreso y egreso de los simpatizantes auriazules. El partido se jugará el lunes a las 21.15",
         "pubDate": "2026-10-02T11:51:00+00:00",
         "approxTime": true
       },
@@ -103,10 +103,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Callejero Fino quedó en prisión domiciliaria tras pasar un mes detenido por portación ilegal de arma: dijo estar amenazado por su ex mánager",
-        "link": "https://www.rosario3.com/informaciongeneral/callejero-fino-quedo-en-prision-domiciliaria-tras-pasar-un-mes-detenido-por-portacion-ilegal-de-arma-dijo-estar-amenazado-por-su-ex-manager-20261002-0069.html",
-        "image": "https://www.rosario3.com/__export/1790979853074/sites/rosario3/img/2026/10/02/callejero_fino.jpg_672794304.jpg",
-        "summary": "La calificación penal fue atenuada por el contexto de amenazas denunciado por el músico, el cual resultó verosimil para la magistrada y la Fiscalía",
+        "title": "Panorama del rugby rosarino: Todo lo que tenés que saber sobre una agenda recargada de definición y futuro",
+        "link": "https://www.rosario3.com/deportes/panorama-del-rugby-rosarino-todo-lo-que-tenes-que-saber-sobre-una-agenda-recargada-de-definicion-y-futuro-20261002-0072.html",
+        "image": "https://www.rosario3.com/__export/1790982316144/sites/rosario3/img/2026/10/02/20260926_tdi-semifinal-407_jpg.jpeg_928314580.jpeg",
+        "summary": "Desde la gran final de Jockey Club en el Torneo del Interior y el choque de Atlético del Rosario en el Top 12 de la URBA, hasta el clásico Duendes-Universitario por la Copa Santa Fe, el arranque del TRL M19 y una jornada ecológica infantil en GER. Todos los detalles, horarios y…",
         "pubDate": "2026-10-02T11:49:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "El tiempo en Rosario: sábado con tormentas y un cielo que se va a despejar al final del día",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-sabado-tormentas-y-un-cielo-que-se-va-despejar-al-final-del-dia-n10284621.html",
+        "image": "https://media.lacapital.com.ar/p/76ea76df2a028f6759800b665035f01c/adjuntos/203/imagenes/101/485/0101485896/1200x675/smart/lluvia.png",
+        "summary": "La inestabilidad será la protagonista durante casi toda la jornada, aunque se esperan mejoras en las condiciones hacia la noche",
+        "pubDate": "2026-10-03T01:34:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "El Gringo Ribovics y el sueño de dejar su huella en UFC como Messi o Maradona en el fútbol",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/1cad8d863d47d723e271b8b994ccb2f5/adjuntos/203/imagenes/103/442/0103442157/1200x675/smart/adorni-billeteras-virtuales.jpg",
         "summary": "El fiscal Pollicita pidió nuevas medidas para determinar si el exjefe de Gabinete realizó las operaciones con las que justificó casi 600 mil dólares",
         "pubDate": "2026-10-02T21:17:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La historia del goleador de Newell's: la estafa, el reconocimiento y la mano que le dio Jorge Messi a su padre",
-        "link": "https://www.lacapital.com.ar/ovacion/la-historia-del-goleador-newells-la-estafa-el-reconocimiento-y-la-mano-que-le-dio-jorge-messi-su-padre-n10280209.html",
-        "image": "https://media.lacapital.com.ar/p/2a93bfed7e1fd5c3f586c9a5f340c7ae/adjuntos/203/imagenes/103/436/0103436385/1200x675/smart/condorito-ramos.jpg",
-        "summary": "Víctor Ramos, que llegó al club a cambio de cinco pelotas y dos pares de botines, aseguró que hoy no salen delanteros \"por la falta de trabajo\" y lamentó que nunca respondieran a su ofrecimiento de dar una mano en la institución.",
-        "pubDate": "2026-10-02T20:49:00+00:00",
         "approxTime": false
       }
     ]
