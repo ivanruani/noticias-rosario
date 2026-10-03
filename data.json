@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T10:01:18.003868+00:00",
+  "generatedAt": "2026-10-03T10:31:07.867895+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,60 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Rosario vuelve a conectarse con Europa: ya está en marcha la ruta directa con Madrid",
+        "link": "https://www.lacapital.com.ar/turismo/rosario-vuelve-conectarse-europa-ya-esta-marcha-la-ruta-directa-madrid-n10284567.html",
+        "image": "https://media.lacapital.com.ar/p/470e0b72edd30e16461a29e9d3291ebb/adjuntos/203/imagenes/103/442/0103442200/imagen-nota.jpg",
+        "summary": "El vuelo inaugural de World2Fly marcó un momento histórico, tras más de cuatro décadas, Fisherton cuenta con una ruta sin escalas hacia el Viejo Continente",
+        "pubDate": "2026-10-03T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Julieta Zylberberg trae \"Carrera de fondo\": \"Es una obra dolorosa pero con muchísimo humor\"",
+        "link": "https://www.lacapital.com.ar/zoom/julieta-zylberberg-trae-carrera-fondo-es-una-obra-dolorosa-pero-muchisimo-humor-n10284491.html",
+        "image": "https://media.lacapital.com.ar/p/a0bdfbe873bfbe23e66500a104f2868b/adjuntos/203/imagenes/103/441/0103441311/1200x675/smart/image-2026-10-02t125441770.png",
+        "summary": "La propuesta, que la actriz protagoniza junto a Gadiel Sztryk, se presenta el domingo 11 de octubre en el Teatro La Comedia",
+        "pubDate": "2026-10-03T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Mar del Plata más allá del verano: bienestar, gastronomía y descanso en pleno centro",
+        "link": "https://www.lacapital.com.ar/mar-del-plata-mas-alla-del-verano-bienestar-gastronomia-y-descanso-pleno-centro-n10284584.html",
+        "image": "https://media.lacapital.com.ar/p/72101ee21b4fa4ab73e6f2153afb353e/adjuntos/203/imagenes/103/442/0103442397/007-001-151.jpg",
+        "summary": "Hotel Spa República propone descubrir la ciudad durante los doce meses con una estadía que combina un spa distribuido en cinco pisos, gastronomía, habitaciones amplias y alternativas para familias, en una ubicación estratégica del centro marplatense",
+        "pubDate": "2026-10-03T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Aruba, una isla para elegir cómo disfrutarla",
+        "link": "https://www.lacapital.com.ar/aruba-una-isla-elegir-como-disfrutarla-n10284580.html",
+        "image": "https://media.lacapital.com.ar/p/cad86151dea30f18982bd2f55d1989b1/adjuntos/203/imagenes/103/442/0103442382/1200x675/smart/006-001-aruba.JPG",
+        "summary": "Playas extensas, clima cálido, hotelería y una propuesta que combina descanso, gastronomía, compras y paseos. La posibilidad de comenzar el viaje desde Rosario",
+        "pubDate": "2026-10-03T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Aeropuertos Argentina extiende la concesión y compromete US$600 millones en inversiones",
+        "link": "https://www.lacapital.com.ar/turismo/aeropuertos-argentina-extiende-la-concesion-y-compromete-us600-millones-inversiones-n10284588.html",
+        "image": "https://media.lacapital.com.ar/p/bacc915f06e742bc45a85e5f83ae9be9/adjuntos/203/imagenes/103/254/0103254418/002-001-aaeropuerto2000.jpg",
+        "summary": "El acuerdo alcanzado extiende la concesión hasta 2049 y contempla la posibilidad de ampliarlo otros siete años, si se cumplen las condiciones previstas",
+        "pubDate": "2026-10-03T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Primavera en colores: el valle donde florecen dos millones de tulipanes",
+        "link": "https://www.lacapital.com.ar/turismo/primavera-colores-el-valle-donde-florecen-dos-millones-tulipanes-n10284569.html",
+        "image": "https://media.lacapital.com.ar/p/20d2c8323a4085a020bb929cdd8a985f/adjuntos/203/imagenes/103/442/0103442243/imagen-nota.jpg",
+        "summary": "Cada octubre, una chacra de Trevelin se convierte en un mosaico de colores. Senderos y vuelos en globo permiten descubrir este paisaje en distintas perspectivas",
+        "pubDate": "2026-10-03T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Retirarán los \"nidos\" del cableado aéreo en desuso",
         "link": "https://www.lacapital.com.ar/la-ciudad/retiraran-los-nidos-del-cableado-aereo-desuso-n10284335.html",
         "image": "https://media.lacapital.com.ar/p/39e10f7011c9c37d39d22c8f75240aba/adjuntos/203/imagenes/103/440/0103440141/1200x675/smart/cablesenredados3.jpg",
@@ -159,19 +213,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Newell's y un duelo clave ante un rival directo que le puede dar un bonus extra",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-y-un-duelo-clave-un-rival-directo-que-le-puede-dar-un-bonus-extra-n10284596.html",
-        "image": "https://media.lacapital.com.ar/p/3eef2f61cf3421462ce8f88f2c1ae23c/adjuntos/203/imagenes/103/442/0103442491/nob-son-60543.jpg",
-        "summary": "Desde las 17, este sábado recibe a Lanús, que tiene un andar muy similar en el Clausura. No habría cambios y viene como juez Herrera tras una final escandalosa",
+        "title": "Crédito caro y márgenes ajustados: las preocupaciones del agro brasileño",
+        "link": "https://www.lacapital.com.ar/agro/credito-caro-y-margenes-ajustados-las-preocupaciones-del-agro-brasileno-n10284601.html",
+        "image": "https://media.lacapital.com.ar/p/b69635ecf81161497a8b42e9da8c19d8/adjuntos/203/imagenes/103/442/0103442454/1200x675/698x647:718x667/gaffff-dia-2.jpeg",
+        "summary": "En el cierre del Festival Global de Agronegocios (Gaffff) en São Paulo, productores, cooperativas y empresas contaron cómo enfrentan esas dificultades. El peso del alquiler y las deudas, puntos de contacto con lo que pasa en Argentina",
         "pubDate": "2026-10-03T09:15:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Crédito caro y márgenes ajustados: las preocupaciones del agro brasileño",
-        "link": "https://www.lacapital.com.ar/agro/credito-caro-y-margenes-ajustados-las-preocupaciones-del-agro-brasileno-n10284601.html",
-        "image": "https://media.lacapital.com.ar/p/b69635ecf81161497a8b42e9da8c19d8/adjuntos/203/imagenes/103/442/0103442454/1200x675/698x647:718x667/gaffff-dia-2.jpeg",
-        "summary": "En el cierre del Festival Global de Agronegocios (Gaffff) en São Paulo, productores, cooperativas y empresas contaron cómo enfrentan esas dificultades. El peso del alquiler y las deudas, puntos de contacto con lo que pasa en Argentina",
+        "title": "Newell's y un duelo clave ante un rival directo que le puede dar un bonus extra",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-y-un-duelo-clave-un-rival-directo-que-le-puede-dar-un-bonus-extra-n10284596.html",
+        "image": "https://media.lacapital.com.ar/p/3eef2f61cf3421462ce8f88f2c1ae23c/adjuntos/203/imagenes/103/442/0103442491/nob-son-60543.jpg",
+        "summary": "Desde las 17, este sábado recibe a Lanús, que tiene un andar muy similar en el Clausura. No habría cambios y viene como juez Herrera tras una final escandalosa",
         "pubDate": "2026-10-03T09:15:00+00:00",
         "approxTime": false
       },
@@ -195,33 +249,6 @@
       },
       {
         "source": "La Capital",
-        "title": "La Ropa de Stella se lució en pasarelas junto a Fahop",
-        "link": "https://www.lacapital.com.ar/es-social/la-ropa-stella-se-lucio-pasarelas-junto-fahop-n10283826.html",
-        "image": "https://media.lacapital.com.ar/p/89340bac374c8195048b28ae97bba88a/adjuntos/203/imagenes/103/434/0103434518/1200x675/smart/2desfile-2.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-10-03T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El Jefe del Jefe en Fundación Astengo",
-        "link": "https://www.lacapital.com.ar/es-social/el-jefe-del-jefe-fundacion-astengo-n10283830.html",
-        "image": "https://media.lacapital.com.ar/p/080c1f5499e6a22c0d51a9770ca244bd/adjuntos/203/imagenes/103/434/0103434574/1200x675/smart/4astengo-4.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-10-03T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Las Guardianas Kpop se presentaron en el teatro El Círculo",
-        "link": "https://www.lacapital.com.ar/es-social/las-guardianas-kpop-se-presentaron-el-teatro-el-circulo-n10283831.html",
-        "image": "https://media.lacapital.com.ar/p/69dc2c1913992fac0a1bcef8ab86dfe8/adjuntos/203/imagenes/103/434/0103434579/1200x675/smart/3kpop-1.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-10-03T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "La primavera llegó a Alto Rosario",
         "link": "https://www.lacapital.com.ar/es-social/la-primavera-llego-alto-rosario-n10283832.html",
         "image": "https://media.lacapital.com.ar/p/ce5789d3aeb6a06eac70fae47c52be5d/adjuntos/203/imagenes/103/434/0103434584/1200x675/smart/1charco-1.jpg",
@@ -240,38 +267,11 @@
       },
       {
         "source": "La Capital",
-        "title": "El tiempo en Rosario: sábado con tormentas y un cielo que se va a despejar al final del día",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-sabado-tormentas-y-un-cielo-que-se-va-despejar-al-final-del-dia-n10284621.html",
-        "image": "https://media.lacapital.com.ar/p/76ea76df2a028f6759800b665035f01c/adjuntos/203/imagenes/101/485/0101485896/1200x675/smart/lluvia.png",
-        "summary": "La inestabilidad será la protagonista durante casi toda la jornada, aunque se esperan mejoras en las condiciones hacia la noche",
-        "pubDate": "2026-10-03T01:34:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El Gringo Ribovics y el sueño de dejar su huella en UFC como Messi o Maradona en el fútbol",
-        "link": "https://www.lacapital.com.ar/ovacion/el-gringo-ribovics-y-el-sueno-dejar-su-huella-ufc-como-messi-o-maradona-el-futbol-n10284605.html",
-        "image": "https://media.lacapital.com.ar/p/5e4f9a1b1708555a7860a2f4f52f5b28/adjuntos/203/imagenes/103/442/0103442509/1200x675/smart/image.jpg",
-        "summary": "El noqueador salteño afronta su pelea más dura en UFC ante el bravo Green, invicto en 2026. Si gana se acercará a la chance de título en un duro ambiente",
-        "pubDate": "2026-10-02T23:55:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Marcha del Orgullo Rosario: cuáles serán los cortes de tránsito y desvíos de colectivos",
-        "link": "https://www.lacapital.com.ar/la-ciudad/marcha-del-orgullo-rosario-cuales-seran-los-cortes-transito-y-desvios-colectivos-n10284604.html",
-        "image": "https://media.lacapital.com.ar/p/6325aefeaafbb7ce7f856276b6a06792/adjuntos/203/imagenes/102/724/0102724458/1200x675/smart/marcha-orgullo-410.jpg",
-        "summary": "La concentración será este sábado, a las 14, en la plaza Libertad. A las 17, partirán hacia el Parque Nacional a la Bandera",
-        "pubDate": "2026-10-02T23:33:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Rugby: Atlético del Rosario y un partido clave para asentarse en primera",
-        "link": "https://www.lacapital.com.ar/ovacion/rugby-atletico-del-rosario-y-un-partido-clave-asentarse-primera-n10284603.html",
-        "image": "https://media.lacapital.com.ar/p/1ed6a8263bca34159ad08b92135a3b14/adjuntos/203/imagenes/103/442/0103442507/1200x675/smart/rug-plaz-10476.jpg",
-        "summary": "Visita al siempre complicado Alumni en Tortuguitas con la necesidad de sumar y afirmarse en la categoría en el tramo de cierre del torneo",
-        "pubDate": "2026-10-02T23:28:00+00:00",
+        "title": "Las Guardianas Kpop se presentaron en el teatro El Círculo",
+        "link": "https://www.lacapital.com.ar/es-social/las-guardianas-kpop-se-presentaron-el-teatro-el-circulo-n10283831.html",
+        "image": "https://media.lacapital.com.ar/p/69dc2c1913992fac0a1bcef8ab86dfe8/adjuntos/203/imagenes/103/434/0103434579/1200x675/smart/3kpop-1.jpg",
+        "summary": "La Capital",
+        "pubDate": "2026-10-03T03:00:00+00:00",
         "approxTime": false
       }
     ]
