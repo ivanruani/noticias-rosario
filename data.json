@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-03T14:01:15.696908+00:00",
+  "generatedAt": "2026-10-03T14:31:06.685410+00:00",
   "sites": {
     "rosario3": [
       {
         "source": "Rosario3",
-        "title": "Galdeano después de los Juegos: la génesis de Capi, un proyecto para Rosario y la proyección presidencial de Pullaro",
-        "link": "https://www.rosario3.com/politica/galdeano-despues-de-los-juegos-la-genesis-de-capi-un-proyecto-para-rosario-y-la-proyeccion-presidencial-de-pullaro-20261001-0029.html",
-        "image": "https://www.rosario3.com/__export/1790867160622/sites/rosario3/img/2026/10/01/galdeano02.jpg_2106848869.jpg",
-        "summary": "En una entrevista con Rosario3, el funcionario que coordinó la organización de los Suramericanos repasó el detrás de escena del evento y planteó posibilidades para administrar el legado en infraestuctura deportiva. También reclamó un nuevo plan estratégico para la ciudad y habló…",
-        "pubDate": "2026-10-01T12:00:00+00:00",
+        "title": "Crear comunidad en la crisis: historias mínimas de lazos que crecen en Puerto Emprende",
+        "link": "https://www.rosario3.com/informaciongeneral/crear-comunidad-en-la-crisis-historias-minimas-de-lazos-que-crecen-en-puerto-emprende-20261002-0040.html",
+        "image": "https://www.rosario3.com/__export/1790957555681/sites/rosario3/img/2026/10/02/puerto_emprende_-11-.jpg_2106848869.jpg",
+        "summary": "El nuevo espacio de la subsecretaría de Economía Social inauguró a mediados de septiembre en Roca y el río, donde funcionó durante más de una década el Almacén de las Tres Ecologías. Cómo fue su transformación y cuál es la búsqueda del municipio en un lugar pensado como…",
+        "pubDate": "2026-10-02T12:00:00+00:00",
         "approxTime": true
       },
       {
@@ -22,11 +22,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "La Provincia destacó que cerca de 9 mil trabajadores fueron incorporados por la política de alivio fiscal",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-provincia-destaco-que-cerca-de-9-mil-trabajadores-fueron-incorporados-por-la-politica-de-alivio-fiscal-20261003-0005.html",
+        "image": "https://www.rosario3.com/__export/1791036992348/sites/rosario3/img/2026/09/11/empleo.png_786111822.png",
+        "summary": "En agosto, empresas santafesinas computaron los salarios de 8.943 nuevos trabajadores como parte de los beneficios previstos en la Ley Tributaria. El mecanismo permitió descontar $6.109 millones de Ingresos Brutos ese mes. En los primeros ocho meses del año, el alivio por nuevas…",
+        "pubDate": "2026-10-03T11:58:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "La previa del Run Run: el lunes no cubrió $93M en cheques y activó las alarmas en dos bancos",
         "link": "https://www.rosario3.com/-economia-negocios-agro-/la-previa-del-run-run-el-lunes-no-cubrio-93m-en-cheques-y-activo-las-alarmas-en-dos-bancos-20261003-0001.html",
         "image": "https://www.rosario3.com/__export/1789167090572/sites/rosario3/img/2026/09/11/marianoportada_jpg.jpeg_506286608.jpeg",
         "summary": "El podcast con el anticipo de las novedades económicas y corporativas que se publicarán en la tradicional columna de los domingos en Rosario3",
-        "pubDate": "2026-10-03T11:58:00+00:00",
+        "pubDate": "2026-10-03T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -35,15 +44,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/marcha-del-orgullo-en-rosario-el-recorrido-los-horarios-y-los-cambios-en-el-transporte-20261002-0056.html",
         "image": "https://www.rosario3.com/__export/1790970694496/sites/rosario3/img/2026/10/02/marcha_del_orgullo.png_786111822.png",
         "summary": "La movilización se realizará este sábado con concentración desde las 14 y marcha a partir de las 17 desde la plaza Libertad. La Municipalidad anunció cortes de calles y modificaciones en varias líneas de colectivos durante el desarrollo de la jornada",
-        "pubDate": "2026-10-02T11:57:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El clima en Rosario: cesó el alerta pero la lluvia será una constante durante todo el sábado",
-        "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-viernes-fresco-pero-agradable-antes-del-regreso-de-las-tormentas-20261002-0001.html",
-        "image": "https://www.rosario3.com/__export/1790990772861/sites/rosario3/img/2026/10/01/alerta-tormentas-salta-pico-lluvias_1.jpg_1221028662.jpg",
-        "summary": "El SMN dejó sin efecto el alerta meteorológico que rigió durante la madrugada. La mañana empezó con un fuerte chaparrón y el día seguirá inestable y lluvioso. El domingo mejora",
         "pubDate": "2026-10-02T11:56:00+00:00",
         "approxTime": true
       },
@@ -94,11 +94,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "El clima en Rosario: cesó el alerta pero la lluvia será una constante durante todo el sábado",
+        "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-viernes-fresco-pero-agradable-antes-del-regreso-de-las-tormentas-20261002-0001.html",
+        "image": "https://www.rosario3.com/__export/1790990772861/sites/rosario3/img/2026/10/01/alerta-tormentas-salta-pico-lluvias_1.jpg_1221028662.jpg",
+        "summary": "El SMN dejó sin efecto el alerta meteorológico que rigió durante la madrugada. La mañana empezó con un fuerte chaparrón y el día seguirá inestable y lluvioso. El domingo mejora",
+        "pubDate": "2026-10-02T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Peregrinación a Luján: miles de fieles ya caminan bajo la lluvia con un amplio operativo",
         "link": "https://www.rosario3.com/informaciongeneral/peregrinacion-a-lujan-miles-de-fieles-ya-caminan-bajo-la-lluvia-con-un-amplio-operativo-20261003-0004.html",
         "image": "https://www.rosario3.com/__export/1791035130171/sites/rosario3/img/2026/10/03/disen-o_sin_ti-tulo_-66-.png_928314581.png",
         "summary": "La 52ª Peregrinación Juvenil comenzó durante la madrugada desde la iglesia de San Cayetano, en Liniers. Los peregrinos recorren unos 60 kilómetros hasta la Basílica de Luján, donde la misa central será este domingo a las 7. Hay un amplio dispositivo de seguridad, salud y…",
-        "pubDate": "2026-10-03T11:50:00+00:00",
+        "pubDate": "2026-10-03T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -107,7 +116,7 @@
         "link": "https://www.rosario3.com/deportes/todos-los-datos-en-la-previa-al-choque-entre-argentina-y-burkina-faso-en-el-monumental-20261002-0033.html",
         "image": "https://www.rosario3.com/__export/1790873673453/sites/rosario3/img/2026/10/01/scaloni-cuti.jpg_928314580.jpg",
         "summary": "La Scaloneta se medirá ante un rival al que nunca enfrentó; el último partido ante un africano dejó un gran recuerdo",
-        "pubDate": "2026-10-02T11:49:00+00:00",
+        "pubDate": "2026-10-02T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +125,7 @@
         "link": "https://www.rosario3.com/deportes/todos-los-datos-en-la-previa-al-choque-entre-newells-y-lanus-en-el-coloso-20261002-0030.html",
         "image": "https://www.rosario3.com/__export/1785359383651/sites/rosario3/img/2026/07/29/nob.jpg_928314581.jpg",
         "summary": "Los rojinegros recibirán al Granate, ante los que arrastran una gran racha como locales; igualdad de la reserva. El partido comenzará a las 17, será televisado por TNT Sports y transmitido por Radio 2",
-        "pubDate": "2026-10-02T11:48:00+00:00",
+        "pubDate": "2026-10-02T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,20 +134,20 @@
         "link": "https://www.rosario3.com/informaciongeneral/cuidacoches-en-rosario-hay-1.395-identificados-y-1.218-estan-concentrados-en-el-centro-20261002-0075.html",
         "image": "https://www.rosario3.com/__export/1790985682320/sites/rosario3/img/2026/10/02/cuidacoche05_version1790985681281.jpg_1232999745.jpg",
         "summary": "El dato surgió del relevamiento presentado en la cuarta mesa de trabajo del Concejo, que analizó cómo implementar la nueva ley provincial que prohíbe la actividad. En 2025 hubo 200 detenciones policiales vinculadas con los cuidacoches. Ahora Rosario debe avanzar con una…",
-        "pubDate": "2026-10-02T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La selección de Burkina Faso llegaría apenas unas horas antes del amistoso ante Argentina en el Monumental",
-        "link": "https://www.rosario3.com/deportes/la-seleccion-de-burkina-faso-no-llego-al-pais-y-corre-riesgo-el-amistoso-ante-argentina-en-el-monumental-20261002-0045.html",
-        "image": "https://www.rosario3.com/__export/1790962975831/sites/rosario3/img/2026/10/02/burkina-faso.jpg_928314580.jpg",
-        "summary": "La delegación africana quedó varada en Marruecos a un día del encuentro tras la cancelación de su vuelo chárter. La federación de ese país comenzó a buscar alternativas a contrarreloj, y habría conseguido un avión que aterrizaría en Buenos Aires alrededor de las 13 del sábado",
         "pubDate": "2026-10-02T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Subasta de bienes incautados: Santa Fe se abre camino para superar la convocatoria anterior",
+        "link": "https://www.lacapital.com.ar/la-ciudad/subasta-bienes-incautados-santa-fe-se-abre-camino-superar-la-convocatoria-anterior-n10284639.html",
+        "image": "https://media.lacapital.com.ar/p/5ef23252172a2c571cfca4e3d3ac27bf/adjuntos/203/imagenes/103/443/0103443217/subasta-bienes.jpeg",
+        "summary": "Fuentes oficiales confirmaron que más de 4.200 personas de todo el país completaron el formulario de inscripción en cuatro días",
+        "pubDate": "2026-10-03T14:13:22+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Crimen en el barrio Toba: mataron a un joven paraguayo en una canchita de fútbol",
@@ -262,15 +271,6 @@
         "link": "https://www.lacapital.com.ar/ovacion/newells-y-un-duelo-clave-un-rival-directo-que-le-puede-dar-un-bonus-extra-n10284596.html",
         "image": "https://media.lacapital.com.ar/p/3eef2f61cf3421462ce8f88f2c1ae23c/adjuntos/203/imagenes/103/442/0103442491/nob-son-60543.jpg",
         "summary": "Desde las 17, este sábado recibe a Lanús, que tiene un andar muy similar en el Clausura. No habría cambios y viene como juez Herrera tras una final escandalosa",
-        "pubDate": "2026-10-03T09:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Crédito caro y márgenes ajustados: las preocupaciones del agro brasileño",
-        "link": "https://www.lacapital.com.ar/agro/credito-caro-y-margenes-ajustados-las-preocupaciones-del-agro-brasileno-n10284601.html",
-        "image": "https://media.lacapital.com.ar/p/b69635ecf81161497a8b42e9da8c19d8/adjuntos/203/imagenes/103/442/0103442454/1200x675/698x647:718x667/gaffff-dia-2.jpeg",
-        "summary": "En el cierre del Festival Global de Agronegocios (Gaffff) en São Paulo, productores, cooperativas y empresas contaron cómo enfrentan esas dificultades. El financiamiento de la campaña, un tema que también atraviesa al campo argentino",
         "pubDate": "2026-10-03T09:15:00+00:00",
         "approxTime": false
       }
