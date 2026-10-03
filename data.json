@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T01:01:20.453976+00:00",
+  "generatedAt": "2026-10-03T01:31:02.148804+00:00",
   "sites": {
     "rosario3": [
       {
@@ -40,11 +40,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "El clima en Rosario: rige alerta meteorológica por tormenta para la madrugada de este sábado",
+        "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-viernes-fresco-pero-agradable-antes-del-regreso-de-las-tormentas-20261002-0001.html",
+        "image": "https://www.rosario3.com/__export/1790990772861/sites/rosario3/img/2026/10/01/alerta-tormentas-salta-pico-lluvias_1.jpg_1221028662.jpg",
+        "summary": "El aviso del SMN advierte que Rosario puede verse afectada por abundantes lluvias en cortos períodos, intensas ráfagas y caída de granizo",
+        "pubDate": "2026-10-02T11:56:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Atento Canalla: Aprevide dio algunas pautas para el ingreso de los hinchas de Central ante Banfield",
         "link": "https://www.rosario3.com/deportes/atento-canalla-aprevide-dio-algunas-pautas-para-el-ingreso-de-los-hinchas-de-central-ante-banfield-20261002-0065.html",
         "image": "https://www.rosario3.com/__export/1790976991365/sites/rosario3/img/2026/10/02/central_visitantes.jpg_1010838702.jpg",
         "summary": "El ministerio de Seguridad de la provincia de Buenos Aires toma medidas para el ingreso y egreso de los simpatizantes auriazules. El partido se jugará el lunes a las 21.15",
-        "pubDate": "2026-10-02T11:56:00+00:00",
+        "pubDate": "2026-10-02T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -53,25 +62,7 @@
         "link": "https://www.rosario3.com/deportes/la-seleccion-de-burkina-faso-no-llego-al-pais-y-corre-riesgo-el-amistoso-ante-argentina-en-el-monumental-20261002-0045.html",
         "image": "https://www.rosario3.com/__export/1790962975831/sites/rosario3/img/2026/10/02/burkina-faso.jpg_928314580.jpg",
         "summary": "La delegación africana quedó varada en Marruecos a un día del encuentro tras la cancelación de su vuelo chárter. La federación de ese país comenzó a buscar alternativas a contrarreloj, y habría conseguido un avión que aterrizaría en Buenos Aires alrededor de las 13 del sábado",
-        "pubDate": "2026-10-02T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Caen dos sospechosos de integrar una gavilla que aterrorizaba a vecinos de Fisherton con entraderas y robos",
-        "link": "https://www.rosario3.com/policiales/caen-dos-sospechosos-de-integrar-una-gavilla-que-aterrorizaba-a-vecinos-de-fisherton-con-entraderas-y-robos-20261002-0050.html",
-        "image": "https://www.rosario3.com/__export/1790966859369/sites/rosario3/img/2026/10/02/detenido_donado_y_mendoza.jpeg_1487177396.jpeg",
-        "summary": "Dos sindicados asaltantes fueron detenidos en cuatro allanamientos en el Fonavi de Donado y Mendoza. Les atribuyen seis asaltos violentos y secuestraron armas, municiones, dinero y ropa que quedó registrada en las cámaras de seguridad. Destacan al sistema Lince para…",
         "pubDate": "2026-10-02T11:54:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Panorama del rugby rosarino: Todo lo que tenés que saber sobre una agenda recargada de definición y futuro",
-        "link": "https://www.rosario3.com/deportes/panorama-del-rugby-rosarino-todo-lo-que-tenes-que-saber-sobre-una-agenda-recargada-de-definicion-y-futuro-20261002-0072.html",
-        "image": "https://www.rosario3.com/__export/1790982316144/sites/rosario3/img/2026/10/02/20260926_tdi-semifinal-407_jpg.jpeg_928314580.jpeg",
-        "summary": "Desde la gran final de Jockey Club en el Torneo del Interior y el choque de Atlético del Rosario en el Top 12 de la URBA, hasta el clásico Duendes-Universitario por la Copa Santa Fe, el arranque del TRL M19 y una jornada ecológica infantil en GER. Todos los detalles, horarios y…",
-        "pubDate": "2026-10-02T11:53:00+00:00",
         "approxTime": true
       },
       {
@@ -80,15 +71,24 @@
         "link": "https://www.rosario3.com/ocio/despues-de-dos-semanas-de-internacion-como-sigue-mirtha-legrand-segun-el-ultimo-parte-medico-20261002-0053.html",
         "image": "https://www.rosario3.com/__export/1790968725757/sites/rosario3/img/2026/10/02/mirtha_legrand_parte_medico.png_786111822.png",
         "summary": "La conductora permanece en una habitación común, con seguimiento kinésico, nutricional y clínico, mientras avanza en el proceso para regresar a su casa",
+        "pubDate": "2026-10-02T11:53:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Caen dos sospechosos de integrar una gavilla que aterrorizaba a vecinos de Fisherton con entraderas y robos",
+        "link": "https://www.rosario3.com/policiales/caen-dos-sospechosos-de-integrar-una-gavilla-que-aterrorizaba-a-vecinos-de-fisherton-con-entraderas-y-robos-20261002-0050.html",
+        "image": "https://www.rosario3.com/__export/1790966859369/sites/rosario3/img/2026/10/02/detenido_donado_y_mendoza.jpeg_1487177396.jpeg",
+        "summary": "Dos sindicados asaltantes fueron detenidos en cuatro allanamientos en el Fonavi de Donado y Mendoza. Les atribuyen seis asaltos violentos y secuestraron armas, municiones, dinero y ropa que quedó registrada en las cámaras de seguridad. Destacan al sistema Lince para…",
         "pubDate": "2026-10-02T11:52:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Alerta por tormentas en Rosario: viernes de transición antes del cambio de tiempo",
-        "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-viernes-fresco-pero-agradable-antes-del-regreso-de-las-tormentas-20261002-0001.html",
-        "image": "https://www.rosario3.com/__export/1790949751524/sites/rosario3/img/2025/12/26/multimedia.png_1221029566.png",
-        "summary": "El Servicio Meteorológico Nacional emitió un aviso para este sábado por fenómenos que pueden ser localmente fuertes con intensa actividad eléctrica y ráfagas. La semana cerrará con ambiente agradable, pero viento en aumento hacia la noche",
+        "title": "Panorama del rugby rosarino: Todo lo que tenés que saber sobre una agenda recargada de definición y futuro",
+        "link": "https://www.rosario3.com/deportes/panorama-del-rugby-rosarino-todo-lo-que-tenes-que-saber-sobre-una-agenda-recargada-de-definicion-y-futuro-20261002-0072.html",
+        "image": "https://www.rosario3.com/__export/1790982316144/sites/rosario3/img/2026/10/02/20260926_tdi-semifinal-407_jpg.jpeg_928314580.jpeg",
+        "summary": "Desde la gran final de Jockey Club en el Torneo del Interior y el choque de Atlético del Rosario en el Top 12 de la URBA, hasta el clásico Duendes-Universitario por la Copa Santa Fe, el arranque del TRL M19 y una jornada ecológica infantil en GER. Todos los detalles, horarios y…",
         "pubDate": "2026-10-02T11:51:00+00:00",
         "approxTime": true
       },
