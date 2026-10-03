@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-03T11:01:16.263033+00:00",
+  "generatedAt": "2026-10-03T11:31:06.149962+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Galdeano después de los Juegos: la génesis de Capi, un proyecto para Rosario y la proyección presidencial de Pullaro",
+        "link": "https://www.rosario3.com/politica/galdeano-despues-de-los-juegos-la-genesis-de-capi-un-proyecto-para-rosario-y-la-proyeccion-presidencial-de-pullaro-20261001-0029.html",
+        "image": "https://www.rosario3.com/__export/1790867160622/sites/rosario3/img/2026/10/01/galdeano02.jpg_2106848869.jpg",
+        "summary": "En una entrevista con Rosario3, el funcionario que coordinó la organización de los Suramericanos repasó el detrás de escena del evento y planteó posibilidades para administrar el legado en infraestuctura deportiva. También reclamó un nuevo plan estratégico para la ciudad y habló…",
+        "pubDate": "2026-10-01T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Cuidacoches en Rosario: hay 1.395 identificados y 1.218 están concentrados en el centro",
         "link": "https://www.rosario3.com/informaciongeneral/cuidacoches-en-rosario-hay-1.395-identificados-y-1.218-estan-concentrados-en-el-centro-20261002-0075.html",
         "image": "https://www.rosario3.com/__export/1790985682320/sites/rosario3/img/2026/10/02/cuidacoche05_version1790985681281.jpg_1232999745.jpg",
         "summary": "El dato surgió del relevamiento presentado en la cuarta mesa de trabajo del Concejo, que analizó cómo implementar la nueva ley provincial que prohíbe la actividad. En 2025 hubo 200 detenciones policiales vinculadas con los cuidacoches. Ahora Rosario debe avanzar con una…",
-        "pubDate": "2026-10-02T12:00:00+00:00",
+        "pubDate": "2026-10-02T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/pullaro-encabezo-en-rosario-la-apertura-de-la-feria-del-centro-que-reune-a-las-industrias-creativas-de-santa-fe-cordoba-y-entre-rios-20261002-0073.html",
         "image": "https://www.rosario3.com/__export/1790985499610/sites/rosario3/img/2026/10/02/pullaro_artesanias.jpg_928314581.jpg",
         "summary": "El mandatario inauguró la décima edición del encuentro, que reúne en la Estación Fluvial de Rosario a emprendedores de la región. La propuesta, con entrada libre y gratuita hasta el domingo, incluye producción gráfica y editorial, indumentaria, diseño, objetos decorativos…",
-        "pubDate": "2026-10-02T11:59:00+00:00",
+        "pubDate": "2026-10-02T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/policiales/condenaron-a-enfermero-del-pami-que-robo-drogas-de-la-farmacia-y-causo-sobredosis-mortal-20261002-0059.html",
         "image": "https://www.rosario3.com/__export/1790972462269/sites/rosario3/img/2025/10/03/detenido-fentanilo-rosario-concepcion_del_uruguay-02.jpeg_982626346.jpeg",
         "summary": "El condenado trabajaba en el Policlínico de zona norte. Lo detuvieron el año pasado y días atrás cerró una pena de cuatro años y medio de prisión. El caso se inició con la denuncia del padre de un hombre que en 2023 murió tras inyectarse un poderoso relajante muscular de…",
-        "pubDate": "2026-10-02T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Vecinos de Soldini reclamaron intervenciones viales sobre la ruta en la que atropellaron a una adolescente de 15 años",
-        "link": "https://www.rosario3.com/informaciongeneral/vecinos-de-soldini-reclamaron-intervenciones-viales-sobre-la-ruta-en-la-que-atropellaron-a-una-adolescente-de-15-anos-20261002-0074.html",
-        "image": "https://www.rosario3.com/__export/1790985465189/sites/rosario3/img/2026/10/02/soldini.jpg_982625323.jpg",
-        "summary": "Se manifestaron este viernes para denunciar que cada vez son más frecuentes los siniestros sobre el tramo de la ruta 14 que atraviesa el pueblo",
         "pubDate": "2026-10-02T11:57:00+00:00",
         "approxTime": true
       },
@@ -141,11 +141,20 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "Rosario vuelve a conectarse con Europa: ya está en marcha la ruta directa con Madrid",
-        "link": "https://www.lacapital.com.ar/turismo/rosario-vuelve-conectarse-europa-ya-esta-marcha-la-ruta-directa-madrid-n10284567.html",
-        "image": "https://media.lacapital.com.ar/p/470e0b72edd30e16461a29e9d3291ebb/adjuntos/203/imagenes/103/442/0103442200/imagen-nota.jpg",
-        "summary": "El vuelo inaugural de World2Fly marcó un momento histórico, tras más de cuatro décadas, Fisherton cuenta con una ruta sin escalas hacia el Viejo Continente",
-        "pubDate": "2026-10-03T10:00:00+00:00",
+        "title": "Franco Colapinto y una muy buena FP3 en Sepang antes de una clasificación que le valdrá de poco",
+        "link": "https://www.lacapital.com.ar/ovacion/franco-colapinto-y-una-muy-buena-fp3-sepang-antes-una-clasificacion-que-le-valdra-poco-n10284417.html",
+        "image": "https://media.lacapital.com.ar/p/f8c0e67feff1343505a35a1b4957ea5e/adjuntos/203/imagenes/103/442/0103442515/1200x675/smart/image-4.jpg",
+        "summary": "El argentino hizo un un gran ensayo de clasificación y quedó como el mejor del resto, aún sabiendo que largará desde atrás en Sepang",
+        "pubDate": "2026-10-03T11:18:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Franco Colapinto hizo un buen sábado en Sepang y largará en el fondo por las penalizaciones",
+        "link": "https://www.lacapital.com.ar/ovacion/franco-colapinto-hizo-un-buen-sabado-sepang-y-largara-el-fondo-las-penalizaciones-n10284420.html",
+        "image": "https://media.lacapital.com.ar/p/d94afb97c7a25fc5c004fc1c1c35f86b/adjuntos/203/imagenes/103/442/0103442514/1200x675/smart/image-3.jpg",
+        "summary": "El argentino pasó décimo el primer corte clasificatorio y en la Q2 directamente no hizo registros para cuidar las gomas para la carrera. Larga 21°",
+        "pubDate": "2026-10-03T11:18:00+00:00",
         "approxTime": false
       },
       {
@@ -159,10 +168,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Mar del Plata más allá del verano: bienestar, gastronomía y descanso en pleno centro",
-        "link": "https://www.lacapital.com.ar/mar-del-plata-mas-alla-del-verano-bienestar-gastronomia-y-descanso-pleno-centro-n10284584.html",
-        "image": "https://media.lacapital.com.ar/p/72101ee21b4fa4ab73e6f2153afb353e/adjuntos/203/imagenes/103/442/0103442397/007-001-151.jpg",
-        "summary": "Hotel Spa República propone descubrir la ciudad durante los doce meses con una estadía que combina un spa distribuido en cinco pisos, gastronomía, habitaciones amplias y alternativas para familias, en una ubicación estratégica del centro marplatense",
+        "title": "Rosario vuelve a conectarse con Europa: ya está en marcha la ruta directa con Madrid",
+        "link": "https://www.lacapital.com.ar/turismo/rosario-vuelve-conectarse-europa-ya-esta-marcha-la-ruta-directa-madrid-n10284567.html",
+        "image": "https://media.lacapital.com.ar/p/470e0b72edd30e16461a29e9d3291ebb/adjuntos/203/imagenes/103/442/0103442200/imagen-nota.jpg",
+        "summary": "El vuelo inaugural de World2Fly marcó un momento histórico, tras más de cuatro décadas, Fisherton cuenta con una ruta sin escalas hacia el Viejo Continente",
+        "pubDate": "2026-10-03T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Primavera en colores: el valle donde florecen dos millones de tulipanes",
+        "link": "https://www.lacapital.com.ar/turismo/primavera-colores-el-valle-donde-florecen-dos-millones-tulipanes-n10284569.html",
+        "image": "https://media.lacapital.com.ar/p/20d2c8323a4085a020bb929cdd8a985f/adjuntos/203/imagenes/103/442/0103442243/imagen-nota.jpg",
+        "summary": "Cada octubre, una chacra de Trevelin se convierte en un mosaico de colores. Senderos y vuelos en globo permiten descubrir este paisaje en distintas perspectivas",
         "pubDate": "2026-10-03T10:00:00+00:00",
         "approxTime": false
       },
@@ -177,19 +195,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Aeropuertos Argentina extiende la concesión y compromete US$600 millones en inversiones",
-        "link": "https://www.lacapital.com.ar/turismo/aeropuertos-argentina-extiende-la-concesion-y-compromete-us600-millones-inversiones-n10284588.html",
-        "image": "https://media.lacapital.com.ar/p/bacc915f06e742bc45a85e5f83ae9be9/adjuntos/203/imagenes/103/254/0103254418/002-001-aaeropuerto2000.jpg",
-        "summary": "El acuerdo alcanzado extiende la concesión hasta 2049 y contempla la posibilidad de ampliarlo otros siete años, si se cumplen las condiciones previstas",
+        "title": "Mar del Plata más allá del verano: bienestar, gastronomía y descanso en pleno centro",
+        "link": "https://www.lacapital.com.ar/mar-del-plata-mas-alla-del-verano-bienestar-gastronomia-y-descanso-pleno-centro-n10284584.html",
+        "image": "https://media.lacapital.com.ar/p/72101ee21b4fa4ab73e6f2153afb353e/adjuntos/203/imagenes/103/442/0103442397/007-001-151.jpg",
+        "summary": "Hotel Spa República propone descubrir la ciudad durante los doce meses con una estadía que combina un spa distribuido en cinco pisos, gastronomía, habitaciones amplias y alternativas para familias, en una ubicación estratégica del centro marplatense",
         "pubDate": "2026-10-03T10:00:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Primavera en colores: el valle donde florecen dos millones de tulipanes",
-        "link": "https://www.lacapital.com.ar/turismo/primavera-colores-el-valle-donde-florecen-dos-millones-tulipanes-n10284569.html",
-        "image": "https://media.lacapital.com.ar/p/20d2c8323a4085a020bb929cdd8a985f/adjuntos/203/imagenes/103/442/0103442243/imagen-nota.jpg",
-        "summary": "Cada octubre, una chacra de Trevelin se convierte en un mosaico de colores. Senderos y vuelos en globo permiten descubrir este paisaje en distintas perspectivas",
+        "title": "Aeropuertos Argentina extiende la concesión y compromete US$600 millones en inversiones",
+        "link": "https://www.lacapital.com.ar/turismo/aeropuertos-argentina-extiende-la-concesion-y-compromete-us600-millones-inversiones-n10284588.html",
+        "image": "https://media.lacapital.com.ar/p/bacc915f06e742bc45a85e5f83ae9be9/adjuntos/203/imagenes/103/254/0103254418/002-001-aaeropuerto2000.jpg",
+        "summary": "El acuerdo alcanzado extiende la concesión hasta 2049 y contempla la posibilidad de ampliarlo otros siete años, si se cumplen las condiciones previstas",
         "pubDate": "2026-10-03T10:00:00+00:00",
         "approxTime": false
       },
@@ -213,19 +231,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Crédito caro y márgenes ajustados: las preocupaciones del agro brasileño",
-        "link": "https://www.lacapital.com.ar/agro/credito-caro-y-margenes-ajustados-las-preocupaciones-del-agro-brasileno-n10284601.html",
-        "image": "https://media.lacapital.com.ar/p/b69635ecf81161497a8b42e9da8c19d8/adjuntos/203/imagenes/103/442/0103442454/1200x675/698x647:718x667/gaffff-dia-2.jpeg",
-        "summary": "En el cierre del Festival Global de Agronegocios (Gaffff) en São Paulo, productores, cooperativas y empresas contaron cómo enfrentan esas dificultades. El peso del alquiler y las deudas, puntos de contacto con lo que pasa en Argentina",
+        "title": "Newell's y un duelo clave ante un rival directo que le puede dar un bonus extra",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-y-un-duelo-clave-un-rival-directo-que-le-puede-dar-un-bonus-extra-n10284596.html",
+        "image": "https://media.lacapital.com.ar/p/3eef2f61cf3421462ce8f88f2c1ae23c/adjuntos/203/imagenes/103/442/0103442491/nob-son-60543.jpg",
+        "summary": "Desde las 17, este sábado recibe a Lanús, que tiene un andar muy similar en el Clausura. No habría cambios y viene como juez Herrera tras una final escandalosa",
         "pubDate": "2026-10-03T09:15:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Newell's y un duelo clave ante un rival directo que le puede dar un bonus extra",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-y-un-duelo-clave-un-rival-directo-que-le-puede-dar-un-bonus-extra-n10284596.html",
-        "image": "https://media.lacapital.com.ar/p/3eef2f61cf3421462ce8f88f2c1ae23c/adjuntos/203/imagenes/103/442/0103442491/nob-son-60543.jpg",
-        "summary": "Desde las 17, este sábado recibe a Lanús, que tiene un andar muy similar en el Clausura. No habría cambios y viene como juez Herrera tras una final escandalosa",
+        "title": "Crédito caro y márgenes ajustados: las preocupaciones del agro brasileño",
+        "link": "https://www.lacapital.com.ar/agro/credito-caro-y-margenes-ajustados-las-preocupaciones-del-agro-brasileno-n10284601.html",
+        "image": "https://media.lacapital.com.ar/p/b69635ecf81161497a8b42e9da8c19d8/adjuntos/203/imagenes/103/442/0103442454/1200x675/698x647:718x667/gaffff-dia-2.jpeg",
+        "summary": "En el cierre del Festival Global de Agronegocios (Gaffff) en São Paulo, productores, cooperativas y empresas contaron cómo enfrentan esas dificultades. El peso del alquiler y las deudas, puntos de contacto con lo que pasa en Argentina",
         "pubDate": "2026-10-03T09:15:00+00:00",
         "approxTime": false
       },
@@ -240,36 +258,18 @@
       },
       {
         "source": "La Capital",
-        "title": "Franco Colapinto y una muy buena FP3 en Sepang antes de una clasificación que le valdrá de poco",
-        "link": "https://www.lacapital.com.ar/ovacion/franco-colapinto-y-una-muy-buena-fp3-sepang-antes-una-clasificacion-que-le-valdra-poco-n10284417.html",
-        "image": "https://media.lacapital.com.ar/p/f8c0e67feff1343505a35a1b4957ea5e/adjuntos/203/imagenes/103/442/0103442515/1200x675/smart/image-4.jpg",
-        "summary": "El argentino hizo un un gran ensayo de clasificación y quedó como el mejor del resto, aún sabiendo que largará desde atrás en Sepang",
-        "pubDate": "2026-10-03T05:28:48+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La primavera llegó a Alto Rosario",
-        "link": "https://www.lacapital.com.ar/es-social/la-primavera-llego-alto-rosario-n10283832.html",
-        "image": "https://media.lacapital.com.ar/p/ce5789d3aeb6a06eac70fae47c52be5d/adjuntos/203/imagenes/103/434/0103434584/1200x675/smart/1charco-1.jpg",
+        "title": "La Ropa de Stella se lució en pasarelas junto a Fahop",
+        "link": "https://www.lacapital.com.ar/es-social/la-ropa-stella-se-lucio-pasarelas-junto-fahop-n10283826.html",
+        "image": "https://media.lacapital.com.ar/p/89340bac374c8195048b28ae97bba88a/adjuntos/203/imagenes/103/434/0103434518/1200x675/smart/2desfile-2.jpg",
         "summary": "La Capital",
         "pubDate": "2026-10-03T03:00:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Los Suramericanos y las Fan Fest",
-        "link": "https://www.lacapital.com.ar/es-social/los-suramericanos-y-las-fan-fest-n10283838.html",
-        "image": "https://media.lacapital.com.ar/p/98064bdac6a4e5f26d04fede357ac909/adjuntos/203/imagenes/103/434/0103434637/1200x675/smart/sudamericanos-1.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-10-03T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Las Guardianas Kpop se presentaron en el teatro El Círculo",
-        "link": "https://www.lacapital.com.ar/es-social/las-guardianas-kpop-se-presentaron-el-teatro-el-circulo-n10283831.html",
-        "image": "https://media.lacapital.com.ar/p/69dc2c1913992fac0a1bcef8ab86dfe8/adjuntos/203/imagenes/103/434/0103434579/1200x675/smart/3kpop-1.jpg",
+        "title": "El Jefe del Jefe en Fundación Astengo",
+        "link": "https://www.lacapital.com.ar/es-social/el-jefe-del-jefe-fundacion-astengo-n10283830.html",
+        "image": "https://media.lacapital.com.ar/p/080c1f5499e6a22c0d51a9770ca244bd/adjuntos/203/imagenes/103/434/0103434574/1200x675/smart/4astengo-4.jpg",
         "summary": "La Capital",
         "pubDate": "2026-10-03T03:00:00+00:00",
         "approxTime": false
