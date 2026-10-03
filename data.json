@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T05:31:02.817393+00:00",
+  "generatedAt": "2026-10-03T06:01:20.071266+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,11 +141,11 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "El Jefe del Jefe en Fundación Astengo",
-        "link": "https://www.lacapital.com.ar/es-social/el-jefe-del-jefe-fundacion-astengo-n10283830.html",
-        "image": "https://media.lacapital.com.ar/p/080c1f5499e6a22c0d51a9770ca244bd/adjuntos/203/imagenes/103/434/0103434574/1200x675/smart/4astengo-4.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-10-03T03:00:00+00:00",
+        "title": "Franco Colapinto y una muy buena FP3 en Sepang antes de una clasificación que le valdrá de poco",
+        "link": "https://www.lacapital.com.ar/ovacion/franco-colapinto-y-una-muy-buena-fp3-sepang-antes-una-clasificacion-que-le-valdra-poco-n10284417.html",
+        "image": "https://media.lacapital.com.ar/p/f8c0e67feff1343505a35a1b4957ea5e/adjuntos/203/imagenes/103/442/0103442515/1200x675/smart/image-4.jpg",
+        "summary": "El argentino hizo un un gran ensayo de clasificación y quedó como el mejor del resto, aún sabiendo que largará desde atrás en Sepang",
+        "pubDate": "2026-10-03T05:28:48+00:00",
         "approxTime": false
       },
       {
@@ -159,9 +159,9 @@
       },
       {
         "source": "La Capital",
-        "title": "Los Suramericanos y las Fan Fest",
-        "link": "https://www.lacapital.com.ar/es-social/los-suramericanos-y-las-fan-fest-n10283838.html",
-        "image": "https://media.lacapital.com.ar/p/98064bdac6a4e5f26d04fede357ac909/adjuntos/203/imagenes/103/434/0103434637/1200x675/smart/sudamericanos-1.jpg",
+        "title": "El Jefe del Jefe en Fundación Astengo",
+        "link": "https://www.lacapital.com.ar/es-social/el-jefe-del-jefe-fundacion-astengo-n10283830.html",
+        "image": "https://media.lacapital.com.ar/p/080c1f5499e6a22c0d51a9770ca244bd/adjuntos/203/imagenes/103/434/0103434574/1200x675/smart/4astengo-4.jpg",
         "summary": "La Capital",
         "pubDate": "2026-10-03T03:00:00+00:00",
         "approxTime": false
@@ -180,6 +180,15 @@
         "title": "La primavera llegó a Alto Rosario",
         "link": "https://www.lacapital.com.ar/es-social/la-primavera-llego-alto-rosario-n10283832.html",
         "image": "https://media.lacapital.com.ar/p/ce5789d3aeb6a06eac70fae47c52be5d/adjuntos/203/imagenes/103/434/0103434584/1200x675/smart/1charco-1.jpg",
+        "summary": "La Capital",
+        "pubDate": "2026-10-03T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Los Suramericanos y las Fan Fest",
+        "link": "https://www.lacapital.com.ar/es-social/los-suramericanos-y-las-fan-fest-n10283838.html",
+        "image": "https://media.lacapital.com.ar/p/98064bdac6a4e5f26d04fede357ac909/adjuntos/203/imagenes/103/434/0103434637/1200x675/smart/sudamericanos-1.jpg",
         "summary": "La Capital",
         "pubDate": "2026-10-03T03:00:00+00:00",
         "approxTime": false
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/129cdfcdfa7c5403bf308adbbc17fd74/adjuntos/203/imagenes/103/442/0103442468/arge.jpeg",
         "summary": "Tras la goleada ante Bolivia, el equipo de Lionel Scaloni juega contra Burkina Faso, que recién anoche emprendía viaje hacia Ezeiza",
         "pubDate": "2026-10-02T22:35:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Andino: Prefectura detuvo a cinco personas y secuestró drogas, armas y dinero",
-        "link": "https://www.lacapital.com.ar/policiales/andino-prefectura-detuvo-cinco-personas-y-secuestro-drogas-armas-y-dinero-n10284527.html",
-        "image": "https://media.lacapital.com.ar/p/6b70ab1be589baf174a6f08df3567a75/adjuntos/203/imagenes/103/441/0103441679/1200x675/smart/pre.jpg",
-        "summary": "Fue en el marco de seis allanamientos. Se incautaron dosis de cocaína, marihuana, además de vehículos con irregularidades",
-        "pubDate": "2026-10-02T22:26:00+00:00",
         "approxTime": false
       }
     ]
