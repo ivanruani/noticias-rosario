@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T18:01:10.675562+00:00",
+  "generatedAt": "2026-10-03T18:31:06.409339+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,10 +13,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Mataron de un tiro a un hombre de 28 años en un potrero de barrio Toba y detuvieron a un sospechoso",
+        "title": "Mataron de un tiro a un hombre de 28 años en un potrero de barrio Toba",
         "link": "https://www.rosario3.com/policiales/mataron-de-un-tiro-a-un-hombre-de-28-anos-en-un-potrero-de-barrio-toba-y-detuvieron-a-un-sospechoso-20261003-0003.html",
         "image": "https://www.rosario3.com/__export/1791032976087/sites/rosario3/img/2026/10/03/ab__argentinos_y_pamalo_crimen_rosario_toba.jpg_672794304.jpg",
-        "summary": "La víctima fue hallada cerca de las 21 en el campito de Aborígenes Argentinos y Pamaló, con un disparo en el pecho. A pocos metros del lugar aprehendieron a un hombre de 30 años, señalado por informantes como posible autor del crimen. En la escena secuestraron vainas de…",
+        "summary": "La víctima fue hallada cerca de las 21 en el campito de Aborígenes Argentinos y Pamaló, con un disparo en el pecho. En la escena secuestraron vainas de distintos calibres. Detuvieron pero luego liberaron a un vecino",
         "pubDate": "2026-10-03T11:59:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,42 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Salto Grande: allanamiento y secuestro de drogas",
+        "link": "https://www.lacapital.com.ar/policiales/salto-grande-allanamiento-y-secuestro-drogas-n10284681.html",
+        "image": "https://media.lacapital.com.ar/p/f86172527ec7407304ce5af93dc22246/adjuntos/203/imagenes/103/443/0103443857/1200x675/smart/alana.jpg",
+        "summary": "La PDI decomisó marihuana y un envoltorio con un polvo blanquecino similar a la cocaína. Un hombre ligado al microtráfico local fue detenido",
+        "pubDate": "2026-10-03T18:17:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Secuestraron bienes del entorno de Pillín Bracamonte en la causa por lavado de activos",
+        "link": "https://www.lacapital.com.ar/policiales/secuestraron-bienes-del-entorno-pillin-bracamonte-la-causa-lavado-activos-n10284668.html",
+        "image": "https://media.lacapital.com.ar/p/11d14a09c7a54644c2c743e536033a5f/adjuntos/203/imagenes/103/443/0103443652/1200x675/smart/ibara.jpg",
+        "summary": "La investigación involucra a Carlos Vergara, sindicalista de Uocra. Secuestraron más de una decena de vehículos, relojes Rolex y casi 5 millones de pesos en efectivo",
+        "pubDate": "2026-10-03T18:13:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Diputados: el oficialismo activa su plan para neutralizar la sesión especial de la oposición",
+        "link": "https://www.lacapital.com.ar/politica/diputados-el-oficialismo-activa-su-plan-neutralizar-la-sesion-especial-la-oposicion-n10284683.html",
+        "image": "https://media.lacapital.com.ar/p/08bd6ea2ebc1a9eb414a11f017219d6c/adjuntos/203/imagenes/102/616/0102616580/1200x675/smart/camara-diputados-la-nacion-elecciones.jpg",
+        "summary": "En LLA buscan desalentar la participación de espacios dialoguistas en la convocatoria del 15 de octubre para blindar el polémico megadecreto 70/23",
+        "pubDate": "2026-10-03T18:11:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Rosario-Phoenix: Fuceit conecta el corazón productivo argentino con la industria de EEUU",
+        "link": "https://www.lacapital.com.ar/rosario-phoenix-fuceit-conecta-el-corazon-productivo-argentino-la-industria-eeuu-n10284687.html",
+        "image": "https://media.lacapital.com.ar/p/f1ff7b0a59dfedca7b5135ae113a1acb/adjuntos/203/imagenes/103/443/0103443882/1200x675/smart/image.png",
+        "summary": "Una delegación encabezada por Sergio Aladio desplegó en Arizona una agenda con gobiernos, empresarios, referentes del transporte, la logística y el desarrollo económico",
+        "pubDate": "2026-10-03T18:11:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Newell's vs. Lanús por el torneo Clausura: hora, canal y posibles formaciones",
         "link": "https://www.lacapital.com.ar/ovacion/newells-vs-lanus-el-torneo-clausura-hora-canal-y-posibles-formaciones-n10284475.html",
         "image": "https://media.lacapital.com.ar/p/569cd95a37ddcd7391ed78ba91ac6b0b/adjuntos/203/imagenes/103/440/0103440964/1200x675/smart/newells-lanus.jpg",
@@ -150,19 +186,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Rugby: Atlético del Rosario juega un partido clave para asentarse en primera",
-        "link": "https://www.lacapital.com.ar/ovacion/rugby-atletico-del-rosario-juega-un-partido-clave-asentarse-primera-n10284603.html",
-        "image": "https://media.lacapital.com.ar/p/1ed6a8263bca34159ad08b92135a3b14/adjuntos/203/imagenes/103/442/0103442507/1200x675/smart/rug-plaz-10476.jpg",
-        "summary": "Visita al siempre complicado Alumni en Tortuguitas con la necesidad de sumar y afirmarse en la categoría en el tramo de cierre del torneo",
+        "title": "Rugby: Jockey va por el título del Torneo del Interior en Córdoba ante el duro Tala",
+        "link": "https://www.lacapital.com.ar/ovacion/rugby-jockey-va-el-titulo-del-torneo-del-interior-cordoba-el-duro-tala-n10284602.html",
+        "image": "https://media.lacapital.com.ar/p/e3e56ffb3bda9a0f0a0b939803fda7b5/adjuntos/203/imagenes/103/442/0103442504/1200x675/smart/ryg-joc-0810.jpg",
+        "summary": "El bicampeón del Regional del Litoral de rugby irá por la corona federal en un partido de alto voltaje en la capital mediterránea",
         "pubDate": "2026-10-03T17:53:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Rugby: Jockey va por el título del Torneo del Interior en Córdoba ante el duro Tala",
-        "link": "https://www.lacapital.com.ar/ovacion/rugby-jockey-va-el-titulo-del-torneo-del-interior-cordoba-el-duro-tala-n10284602.html",
-        "image": "https://media.lacapital.com.ar/p/e3e56ffb3bda9a0f0a0b939803fda7b5/adjuntos/203/imagenes/103/442/0103442504/1200x675/smart/ryg-joc-0810.jpg",
-        "summary": "El bicampeón del Regional del Litoral de rugby irá por la corona federal en un partido de alto voltaje en la capital mediterránea",
+        "title": "Rugby: Atlético del Rosario juega un partido clave para asentarse en primera",
+        "link": "https://www.lacapital.com.ar/ovacion/rugby-atletico-del-rosario-juega-un-partido-clave-asentarse-primera-n10284603.html",
+        "image": "https://media.lacapital.com.ar/p/1ed6a8263bca34159ad08b92135a3b14/adjuntos/203/imagenes/103/442/0103442507/1200x675/smart/rug-plaz-10476.jpg",
+        "summary": "Visita al siempre complicado Alumni en Tortuguitas con la necesidad de sumar y afirmarse en la categoría en el tramo de cierre del torneo",
         "pubDate": "2026-10-03T17:53:00+00:00",
         "approxTime": false
       },
@@ -225,7 +261,7 @@
         "title": "Crimen en el barrio Toba: mataron a un joven paraguayo en una canchita de fútbol",
         "link": "https://www.lacapital.com.ar/policiales/crimen-el-barrio-toba-mataron-un-joven-paraguayo-una-canchita-futbol-n10284646.html",
         "image": "https://media.lacapital.com.ar/p/be357f5782b50e91c268bf3a84512af0/adjuntos/203/imagenes/103/443/0103443287/detenido-1858-4400.jpg",
-        "summary": "Aníbal Melgarejo tenía 28 años y fue baleado este viernes a la noche. La policía detuvo a un sospechoso en la zona",
+        "summary": "Aníbal Melgarejo tenía 28 años y fue baleado este viernes a la noche. La policía detuvo a un sospechoso, pero lo liberó horas más tarde",
         "pubDate": "2026-10-03T12:51:00+00:00",
         "approxTime": false
       },
@@ -236,42 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/139c91952325e872b00e48561eaf11ac/adjuntos/203/imagenes/103/443/0103443275/1200x675/smart/micaela-notz.jpg",
         "summary": "La hermana de Úrsula Notz, quien murió en un siniestro vial en el que manejaba Matías Capozucca, estuvo en \"Más Cerca\". Una historia que sigue generando conmoción entre los rosarinos",
         "pubDate": "2026-10-03T12:41:14+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Boca e Instituto le dieron una mano a Newell's en la pelea para llegar a los playoffs",
-        "link": "https://www.lacapital.com.ar/ovacion/boca-e-instituto-le-dieron-una-mano-newells-la-pelea-llegar-los-playoffs-n10284634.html",
-        "image": "https://media.lacapital.com.ar/p/8a5bccb87e929193fd43ab9909fdff45/adjuntos/203/imagenes/103/443/0103443017/boca-union.jpg",
-        "summary": "El Xeneize derrotó a Unión y sumó su cuarta victoria consecutiva en el Torneo Clausura 2026. La Gloria goleó a Independiente",
-        "pubDate": "2026-10-03T12:06:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Colapinto hizo una muy buena FP3 en Sepang antes de una clasificación que le servirá de poco",
-        "link": "https://www.lacapital.com.ar/ovacion/colapinto-hizo-una-muy-buena-fp3-sepang-antes-una-clasificacion-que-le-servira-poco-n10284417.html",
-        "image": "https://media.lacapital.com.ar/p/f8c0e67feff1343505a35a1b4957ea5e/adjuntos/203/imagenes/103/442/0103442515/1200x675/smart/image-4.jpg",
-        "summary": "El argentino hizo un un gran ensayo de clasificación y quedó como el mejor del resto, aún sabiendo que largará desde atrás en Sepang",
-        "pubDate": "2026-10-03T11:18:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Colapinto hizo un buen sábado en Sepang peroy largará en el fondo por las penalizaciones",
-        "link": "https://www.lacapital.com.ar/ovacion/colapinto-hizo-un-buen-sabado-sepang-peroy-largara-el-fondo-las-penalizaciones-n10284420.html",
-        "image": "https://media.lacapital.com.ar/p/d94afb97c7a25fc5c004fc1c1c35f86b/adjuntos/203/imagenes/103/442/0103442514/1200x675/smart/image-3.jpg",
-        "summary": "El argentino pasó décimo el primer corte clasificatorio y en la Q2 directamente no hizo registros para cuidar las gomas para la carrera. Larga 21°",
-        "pubDate": "2026-10-03T11:18:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Julieta Zylberberg trae \"Carrera de fondo\": \"Es una obra dolorosa pero con muchísimo humor\"",
-        "link": "https://www.lacapital.com.ar/zoom/julieta-zylberberg-trae-carrera-fondo-es-una-obra-dolorosa-pero-muchisimo-humor-n10284491.html",
-        "image": "https://media.lacapital.com.ar/p/a0bdfbe873bfbe23e66500a104f2868b/adjuntos/203/imagenes/103/441/0103441311/1200x675/smart/image-2026-10-02t125441770.png",
-        "summary": "La propuesta, que la actriz protagoniza junto a Gadiel Sztryk, se presenta el domingo 11 de octubre en el Teatro La Comedia",
-        "pubDate": "2026-10-03T10:00:00+00:00",
         "approxTime": false
       }
     ]
