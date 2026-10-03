@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T03:01:18.234278+00:00",
+  "generatedAt": "2026-10-03T03:31:06.413226+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,51 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El Jefe del Jefe en Fundación Astengo",
+        "link": "https://www.lacapital.com.ar/es-social/el-jefe-del-jefe-fundacion-astengo-n10283830.html",
+        "image": "https://media.lacapital.com.ar/p/080c1f5499e6a22c0d51a9770ca244bd/adjuntos/203/imagenes/103/434/0103434574/1200x675/smart/4astengo-4.jpg",
+        "summary": "La Capital",
+        "pubDate": "2026-10-03T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La Ropa de Stella se lució en pasarelas junto a Fahop",
+        "link": "https://www.lacapital.com.ar/es-social/la-ropa-stella-se-lucio-pasarelas-junto-fahop-n10283826.html",
+        "image": "https://media.lacapital.com.ar/p/89340bac374c8195048b28ae97bba88a/adjuntos/203/imagenes/103/434/0103434518/1200x675/smart/2desfile-2.jpg",
+        "summary": "La Capital",
+        "pubDate": "2026-10-03T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Los Suramericanos y las Fan Fest",
+        "link": "https://www.lacapital.com.ar/es-social/los-suramericanos-y-las-fan-fest-n10283838.html",
+        "image": "https://media.lacapital.com.ar/p/98064bdac6a4e5f26d04fede357ac909/adjuntos/203/imagenes/103/434/0103434637/1200x675/smart/sudamericanos-1.jpg",
+        "summary": "La Capital",
+        "pubDate": "2026-10-03T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Las Guardianas Kpop se presentaron en el teatro El Círculo",
+        "link": "https://www.lacapital.com.ar/es-social/las-guardianas-kpop-se-presentaron-el-teatro-el-circulo-n10283831.html",
+        "image": "https://media.lacapital.com.ar/p/69dc2c1913992fac0a1bcef8ab86dfe8/adjuntos/203/imagenes/103/434/0103434579/1200x675/smart/3kpop-1.jpg",
+        "summary": "La Capital",
+        "pubDate": "2026-10-03T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La primavera llegó a Alto Rosario",
+        "link": "https://www.lacapital.com.ar/es-social/la-primavera-llego-alto-rosario-n10283832.html",
+        "image": "https://media.lacapital.com.ar/p/ce5789d3aeb6a06eac70fae47c52be5d/adjuntos/203/imagenes/103/434/0103434584/1200x675/smart/1charco-1.jpg",
+        "summary": "La Capital",
+        "pubDate": "2026-10-03T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El tiempo en Rosario: sábado con tormentas y un cielo que se va a despejar al final del día",
         "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-sabado-tormentas-y-un-cielo-que-se-va-despejar-al-final-del-dia-n10284621.html",
         "image": "https://media.lacapital.com.ar/p/76ea76df2a028f6759800b665035f01c/adjuntos/203/imagenes/101/485/0101485896/1200x675/smart/lluvia.png",
@@ -227,51 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/6b70ab1be589baf174a6f08df3567a75/adjuntos/203/imagenes/103/441/0103441679/1200x675/smart/pre.jpg",
         "summary": "Fue en el marco de seis allanamientos. Se incautaron dosis de cocaína, marihuana, además de vehículos con irregularidades",
         "pubDate": "2026-10-02T22:26:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Caputo y Santilli, entre la necesidad de sostener el rumbo y los dardos contra Kicillof",
-        "link": "https://www.lacapital.com.ar/politica/caputo-y-santilli-la-necesidad-sostener-el-rumbo-y-los-dardos-contra-kicillof-n10284587.html",
-        "image": "https://media.lacapital.com.ar/p/cb50284f03ddd119474094c2f5a84423/adjuntos/203/imagenes/103/442/0103442431/1200x675/smart/image.png",
-        "summary": "Desde Francia, y antes del final de Argentina Week, el ministro de Economía y el jefe de Gabinete expusieron durante el cierre del Coloquio de Idea",
-        "pubDate": "2026-10-02T22:16:43+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "\"La Argentina se dirige nuevamente a paso firme hacia el futuro\", dijo Milei al cerrar su visita a Francia",
-        "link": "https://www.lacapital.com.ar/politica/la-argentina-se-dirige-nuevamente-paso-firme-el-futuro-dijo-milei-al-cerrar-su-visita-francia-n10284574.html",
-        "image": "https://media.lacapital.com.ar/p/32000b6888a0b61e0bed698e83f5e89f/adjuntos/203/imagenes/103/442/0103442279/1200x675/smart/image.png",
-        "summary": "El presidente encabezó el final de Argentina Week Paris en uno de los salones de la Torre Eiffel. Previamente, fue distinguido por el Foro Económico, donde brindó un discurso que lo dejó al borde del llanto",
-        "pubDate": "2026-10-02T22:07:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La otra Dolly: tres nuevos casos de una partera de barrio Parque que escapa de la Justicia",
-        "link": "https://www.lacapital.com.ar/la-ciudad/la-otra-dolly-tres-nuevos-casos-una-partera-barrio-parque-que-escapa-la-justicia-n10284562.html",
-        "image": "https://media.lacapital.com.ar/p/69d9e749ce99a2a68667481ab5aa120c/adjuntos/203/imagenes/103/442/0103442106/1200x675/smart/olga-partera-210.jpg",
-        "summary": "Ana, Paola y Romina están detrás de sus orígenes, arrebatados por la obstetra Olga, que está por cumplir 90 años y se desempeñó en dos sanatorios de la ciudad y en varios hospitales de Rosario y la región",
-        "pubDate": "2026-10-02T21:56:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Vecinos de Soldini reclaman por una adolescente que fue atropellada por un móvil del Servicio Penitenciario",
-        "link": "https://www.lacapital.com.ar/la-region/vecinos-soldini-reclaman-una-adolescente-que-fue-atropellada-un-movil-del-servicio-penitenciario-n10284585.html",
-        "image": "https://media.lacapital.com.ar/p/54399df3db654ff79414b43bbff2ff9f/adjuntos/203/imagenes/103/442/0103442384/1200x675/smart/image-2026-10-02t183812822.png",
-        "summary": "La joven está en grave estado. Se congregarán este viernes, desde las 19, para reclamar medidas de seguridad vial que son solicitadas hace años",
-        "pubDate": "2026-10-02T21:36:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Caso Adorni: la Justicia busca comprobar quién manejaba las billeteras de bitcoin",
-        "link": "https://www.lacapital.com.ar/politica/caso-adorni-la-justicia-busca-comprobar-quien-manejaba-las-billeteras-bitcoin-n10284564.html",
-        "image": "https://media.lacapital.com.ar/p/1cad8d863d47d723e271b8b994ccb2f5/adjuntos/203/imagenes/103/442/0103442157/1200x675/smart/adorni-billeteras-virtuales.jpg",
-        "summary": "El fiscal Pollicita pidió nuevas medidas para determinar si el exjefe de Gabinete realizó las operaciones con las que justificó casi 600 mil dólares",
-        "pubDate": "2026-10-02T21:17:00+00:00",
         "approxTime": false
       }
     ]
