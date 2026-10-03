@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T17:31:04.252428+00:00",
+  "generatedAt": "2026-10-03T18:01:10.675562+00:00",
   "sites": {
     "rosario3": [
       {
@@ -25,7 +25,7 @@
         "title": "Charlas de Mercado: reparos por cambios a la ley bursátil, temor por desajustes regulatorios, cruces con CNV y \"penal mal cobrado\" a los derivados",
         "link": "https://www.rosario3.com/-economia-negocios-agro-/charlas-de-mercado-reparos-por-cambios-a-la-ley-bursatil-temor-por-desajustes-regulatorios-cruces-con-cnv-y-penal-mal-cobrado-a-los-derivados-20261003-0012.html",
         "image": "https://www.rosario3.com/__export/1791044947695/sites/rosario3/img/2026/10/03/_zga8666.jpg_1474707718.jpg",
-        "summary": "Agentes buscan nuevos vehículos de financiamiento para canalizar dinero del agro, Magro Agro lanzó innovador FCI y se vienen nuevos instrumentos, A3 lanzó un novedoso índice, Hedgit suma más IA a la cobertura de granos, apareció una ventana para salirse de los pagarés…",
+        "summary": "Agentes buscan nuevos vehículos de financiamiento para canalizar dinero del agro, Macro Agro lanzó innovador FCI y se vienen nuevos instrumentos, A3 lanzó un novedoso índice, Hedgit suma más IA a la cobertura de granos, apareció una ventana para salirse de los pagarés…",
         "pubDate": "2026-10-03T11:58:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,42 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Newell's vs. Lanús por el torneo Clausura: hora, canal y posibles formaciones",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-vs-lanus-el-torneo-clausura-hora-canal-y-posibles-formaciones-n10284475.html",
+        "image": "https://media.lacapital.com.ar/p/569cd95a37ddcd7391ed78ba91ac6b0b/adjuntos/203/imagenes/103/440/0103440964/1200x675/smart/newells-lanus.jpg",
+        "summary": "La Lepra tendrá un duelo fundamental ante el Granate para luchar por la clasificación a playoffs. Detalles y estadísticas del partido",
+        "pubDate": "2026-10-03T17:54:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Rugby: Atlético del Rosario juega un partido clave para asentarse en primera",
+        "link": "https://www.lacapital.com.ar/ovacion/rugby-atletico-del-rosario-juega-un-partido-clave-asentarse-primera-n10284603.html",
+        "image": "https://media.lacapital.com.ar/p/1ed6a8263bca34159ad08b92135a3b14/adjuntos/203/imagenes/103/442/0103442507/1200x675/smart/rug-plaz-10476.jpg",
+        "summary": "Visita al siempre complicado Alumni en Tortuguitas con la necesidad de sumar y afirmarse en la categoría en el tramo de cierre del torneo",
+        "pubDate": "2026-10-03T17:53:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Rugby: Jockey va por el título del Torneo del Interior en Córdoba ante el duro Tala",
+        "link": "https://www.lacapital.com.ar/ovacion/rugby-jockey-va-el-titulo-del-torneo-del-interior-cordoba-el-duro-tala-n10284602.html",
+        "image": "https://media.lacapital.com.ar/p/e3e56ffb3bda9a0f0a0b939803fda7b5/adjuntos/203/imagenes/103/442/0103442504/1200x675/smart/ryg-joc-0810.jpg",
+        "summary": "El bicampeón del Regional del Litoral de rugby irá por la corona federal en un partido de alto voltaje en la capital mediterránea",
+        "pubDate": "2026-10-03T17:53:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Newell's y un duelo clave ante un rival directo que le puede dar un bonus extra",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-y-un-duelo-clave-un-rival-directo-que-le-puede-dar-un-bonus-extra-n10284596.html",
+        "image": "https://media.lacapital.com.ar/p/3eef2f61cf3421462ce8f88f2c1ae23c/adjuntos/203/imagenes/103/442/0103442491/nob-son-60543.jpg",
+        "summary": "Desde las 17, este sábado recibe a Lanús, que tiene un andar muy similar en el Clausura. No habría cambios y viene como juez Herrera tras una final escandalosa",
+        "pubDate": "2026-10-03T17:52:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Milei celebró en redes sociales la salida de Halliburton de las Islas Malvinas",
         "link": "https://www.lacapital.com.ar/politica/milei-celebro-redes-sociales-la-salida-halliburton-las-islas-malvinas-n10284679.html",
         "image": "https://media.lacapital.com.ar/p/a11fadf1f139ff782385cde9e36da60a/adjuntos/203/imagenes/103/408/0103408530/1200x675/smart/petroleo-malvinas-plataforma-petrolera.jpg",
@@ -159,8 +195,8 @@
       },
       {
         "source": "La Capital",
-        "title": "AFA dio la primera explicación oficial sobre la demora de Burkina Faso rumbo a Argentina",
-        "link": "https://www.lacapital.com.ar/ovacion/afa-dio-la-primera-explicacion-oficial-la-demora-burkina-faso-rumbo-argentina-n10284672.html",
+        "title": "La AFA dio la primera explicación oficial sobre la demora de Burkina Faso rumbo a Argentina",
+        "link": "https://www.lacapital.com.ar/ovacion/la-afa-dio-la-primera-explicacion-oficial-la-demora-burkina-faso-rumbo-argentina-n10284672.html",
         "image": "https://media.lacapital.com.ar/p/77bd7c90170201356484f45b03d5a9c1/adjuntos/203/imagenes/103/443/0103443775/burkina-faso-benin.jpg",
         "summary": "La entidad difundió un comunicado de Jairo Pachon, el empresario que organizó el amistoso de la selección nacional con el conjunto africano",
         "pubDate": "2026-10-03T16:14:00+00:00",
@@ -204,8 +240,8 @@
       },
       {
         "source": "La Capital",
-        "title": "Boca e Instituto ayudaron a Newell's en la pelea para llegar a los playoffs",
-        "link": "https://www.lacapital.com.ar/ovacion/boca-e-instituto-ayudaron-newells-la-pelea-llegar-los-playoffs-n10284634.html",
+        "title": "Boca e Instituto le dieron una mano a Newell's en la pelea para llegar a los playoffs",
+        "link": "https://www.lacapital.com.ar/ovacion/boca-e-instituto-le-dieron-una-mano-newells-la-pelea-llegar-los-playoffs-n10284634.html",
         "image": "https://media.lacapital.com.ar/p/8a5bccb87e929193fd43ab9909fdff45/adjuntos/203/imagenes/103/443/0103443017/boca-union.jpg",
         "summary": "El Xeneize derrotó a Unión y sumó su cuarta victoria consecutiva en el Torneo Clausura 2026. La Gloria goleó a Independiente",
         "pubDate": "2026-10-03T12:06:00+00:00",
@@ -213,8 +249,8 @@
       },
       {
         "source": "La Capital",
-        "title": "Franco Colapinto y una muy buena FP3 en Sepang antes de una clasificación que le valdrá de poco",
-        "link": "https://www.lacapital.com.ar/ovacion/franco-colapinto-y-una-muy-buena-fp3-sepang-antes-una-clasificacion-que-le-valdra-poco-n10284417.html",
+        "title": "Colapinto hizo una muy buena FP3 en Sepang antes de una clasificación que le servirá de poco",
+        "link": "https://www.lacapital.com.ar/ovacion/colapinto-hizo-una-muy-buena-fp3-sepang-antes-una-clasificacion-que-le-servira-poco-n10284417.html",
         "image": "https://media.lacapital.com.ar/p/f8c0e67feff1343505a35a1b4957ea5e/adjuntos/203/imagenes/103/442/0103442515/1200x675/smart/image-4.jpg",
         "summary": "El argentino hizo un un gran ensayo de clasificación y quedó como el mejor del resto, aún sabiendo que largará desde atrás en Sepang",
         "pubDate": "2026-10-03T11:18:00+00:00",
@@ -222,8 +258,8 @@
       },
       {
         "source": "La Capital",
-        "title": "Franco Colapinto hizo un buen sábado en Sepang y largará en el fondo por las penalizaciones",
-        "link": "https://www.lacapital.com.ar/ovacion/franco-colapinto-hizo-un-buen-sabado-sepang-y-largara-el-fondo-las-penalizaciones-n10284420.html",
+        "title": "Colapinto hizo un buen sábado en Sepang peroy largará en el fondo por las penalizaciones",
+        "link": "https://www.lacapital.com.ar/ovacion/colapinto-hizo-un-buen-sabado-sepang-peroy-largara-el-fondo-las-penalizaciones-n10284420.html",
         "image": "https://media.lacapital.com.ar/p/d94afb97c7a25fc5c004fc1c1c35f86b/adjuntos/203/imagenes/103/442/0103442514/1200x675/smart/image-3.jpg",
         "summary": "El argentino pasó décimo el primer corte clasificatorio y en la Q2 directamente no hizo registros para cuidar las gomas para la carrera. Larga 21°",
         "pubDate": "2026-10-03T11:18:00+00:00",
@@ -235,42 +271,6 @@
         "link": "https://www.lacapital.com.ar/zoom/julieta-zylberberg-trae-carrera-fondo-es-una-obra-dolorosa-pero-muchisimo-humor-n10284491.html",
         "image": "https://media.lacapital.com.ar/p/a0bdfbe873bfbe23e66500a104f2868b/adjuntos/203/imagenes/103/441/0103441311/1200x675/smart/image-2026-10-02t125441770.png",
         "summary": "La propuesta, que la actriz protagoniza junto a Gadiel Sztryk, se presenta el domingo 11 de octubre en el Teatro La Comedia",
-        "pubDate": "2026-10-03T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Rosario vuelve a conectarse con Europa: ya está en marcha la ruta directa con Madrid",
-        "link": "https://www.lacapital.com.ar/turismo/rosario-vuelve-conectarse-europa-ya-esta-marcha-la-ruta-directa-madrid-n10284567.html",
-        "image": "https://media.lacapital.com.ar/p/470e0b72edd30e16461a29e9d3291ebb/adjuntos/203/imagenes/103/442/0103442200/imagen-nota.jpg",
-        "summary": "El vuelo inaugural de World2Fly marcó un momento histórico, tras más de cuatro décadas, Fisherton cuenta con una ruta sin escalas hacia el Viejo Continente",
-        "pubDate": "2026-10-03T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Primavera en colores: el valle donde florecen dos millones de tulipanes",
-        "link": "https://www.lacapital.com.ar/turismo/primavera-colores-el-valle-donde-florecen-dos-millones-tulipanes-n10284569.html",
-        "image": "https://media.lacapital.com.ar/p/20d2c8323a4085a020bb929cdd8a985f/adjuntos/203/imagenes/103/442/0103442243/imagen-nota.jpg",
-        "summary": "Cada octubre, una chacra de Trevelin se convierte en un mosaico de colores. Senderos y vuelos en globo permiten descubrir este paisaje en distintas perspectivas",
-        "pubDate": "2026-10-03T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Aruba, una isla para elegir cómo disfrutarla",
-        "link": "https://www.lacapital.com.ar/aruba-una-isla-elegir-como-disfrutarla-n10284580.html",
-        "image": "https://media.lacapital.com.ar/p/cad86151dea30f18982bd2f55d1989b1/adjuntos/203/imagenes/103/442/0103442382/1200x675/smart/006-001-aruba.JPG",
-        "summary": "Playas extensas, clima cálido, hotelería y una propuesta que combina descanso, gastronomía, compras y paseos. La posibilidad de comenzar el viaje desde Rosario",
-        "pubDate": "2026-10-03T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Mar del Plata más allá del verano: bienestar, gastronomía y descanso en pleno centro",
-        "link": "https://www.lacapital.com.ar/mar-del-plata-mas-alla-del-verano-bienestar-gastronomia-y-descanso-pleno-centro-n10284584.html",
-        "image": "https://media.lacapital.com.ar/p/72101ee21b4fa4ab73e6f2153afb353e/adjuntos/203/imagenes/103/442/0103442397/007-001-151.jpg",
-        "summary": "Hotel Spa República propone descubrir la ciudad durante los doce meses con una estadía que combina un spa distribuido en cinco pisos, gastronomía, habitaciones amplias y alternativas para familias, en una ubicación estratégica del centro marplatense",
         "pubDate": "2026-10-03T10:00:00+00:00",
         "approxTime": false
       }
