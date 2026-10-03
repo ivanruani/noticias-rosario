@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T09:31:05.097618+00:00",
+  "generatedAt": "2026-10-03T10:01:18.003868+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,11 +141,11 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "Crédito caro y márgenes ajustados: las preocupaciones del agro brasileño",
-        "link": "https://www.lacapital.com.ar/agro/credito-caro-y-margenes-ajustados-las-preocupaciones-del-agro-brasileno-n10284601.html",
-        "image": "https://media.lacapital.com.ar/p/b69635ecf81161497a8b42e9da8c19d8/adjuntos/203/imagenes/103/442/0103442454/1200x675/698x647:718x667/gaffff-dia-2.jpeg",
-        "summary": "En el cierre del Festival Global de Agronegocios (Gaffff) en São Paulo, productores, cooperativas y empresas contaron cómo enfrentan esas dificultades. El peso del alquiler y las deudas, puntos de contacto con lo que pasa en Argentina",
-        "pubDate": "2026-10-03T09:15:00+00:00",
+        "title": "Retirarán los \"nidos\" del cableado aéreo en desuso",
+        "link": "https://www.lacapital.com.ar/la-ciudad/retiraran-los-nidos-del-cableado-aereo-desuso-n10284335.html",
+        "image": "https://media.lacapital.com.ar/p/39e10f7011c9c37d39d22c8f75240aba/adjuntos/203/imagenes/103/440/0103440141/1200x675/smart/cablesenredados3.jpg",
+        "summary": "Se trata de un plan de reordenamiento y retiro de los tendidos en desuso en el centro, Pichincha y Pellegrini; a lo largo de un año.",
+        "pubDate": "2026-10-03T09:50:00+00:00",
         "approxTime": false
       },
       {
@@ -163,6 +163,15 @@
         "link": "https://www.lacapital.com.ar/ovacion/newells-y-un-duelo-clave-un-rival-directo-que-le-puede-dar-un-bonus-extra-n10284596.html",
         "image": "https://media.lacapital.com.ar/p/3eef2f61cf3421462ce8f88f2c1ae23c/adjuntos/203/imagenes/103/442/0103442491/nob-son-60543.jpg",
         "summary": "Desde las 17, este sábado recibe a Lanús, que tiene un andar muy similar en el Clausura. No habría cambios y viene como juez Herrera tras una final escandalosa",
+        "pubDate": "2026-10-03T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Crédito caro y márgenes ajustados: las preocupaciones del agro brasileño",
+        "link": "https://www.lacapital.com.ar/agro/credito-caro-y-margenes-ajustados-las-preocupaciones-del-agro-brasileno-n10284601.html",
+        "image": "https://media.lacapital.com.ar/p/b69635ecf81161497a8b42e9da8c19d8/adjuntos/203/imagenes/103/442/0103442454/1200x675/698x647:718x667/gaffff-dia-2.jpeg",
+        "summary": "En el cierre del Festival Global de Agronegocios (Gaffff) en São Paulo, productores, cooperativas y empresas contaron cómo enfrentan esas dificultades. El peso del alquiler y las deudas, puntos de contacto con lo que pasa en Argentina",
         "pubDate": "2026-10-03T09:15:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/1ed6a8263bca34159ad08b92135a3b14/adjuntos/203/imagenes/103/442/0103442507/1200x675/smart/rug-plaz-10476.jpg",
         "summary": "Visita al siempre complicado Alumni en Tortuguitas con la necesidad de sumar y afirmarse en la categoría en el tramo de cierre del torneo",
         "pubDate": "2026-10-02T23:28:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Rugby: Jockey va por el título del Torneo del Interior en Córdoba ante el duro Tala",
-        "link": "https://www.lacapital.com.ar/ovacion/rugby-jockey-va-el-titulo-del-torneo-del-interior-cordoba-el-duro-tala-n10284602.html",
-        "image": "https://media.lacapital.com.ar/p/e3e56ffb3bda9a0f0a0b939803fda7b5/adjuntos/203/imagenes/103/442/0103442504/1200x675/smart/ryg-joc-0810.jpg",
-        "summary": "El bicampeón del Regional del Litoral de rugby irá por la corona federal en un partido de alto voltaje en la capital mediterránea",
-        "pubDate": "2026-10-02T23:16:00+00:00",
         "approxTime": false
       }
     ]
