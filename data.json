@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T03:01:18.810381+00:00",
+  "generatedAt": "2026-10-04T03:31:03.166996+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "4 de Octubre, Día de la Medicina Laboral",
+        "link": "https://www.lacapital.com.ar/especiales1/4-octubre-dia-la-medicina-laboral-n10284473.html",
+        "image": "https://media.lacapital.com.ar/p/4cd6f11cb419bafcd48e127beb70a634/adjuntos/203/imagenes/103/440/0103440919/1200x675/smart/foto-medico-laboral.jpg",
+        "summary": "Las empresas recurren a la Medicina Laboral para realizar exámenes ocupacionales y controlar el ausentismo, asegurando la salud y seguridad de sus empleados",
+        "pubDate": "2026-10-04T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Argentina y un amistoso sin equivalencias para ir preparando la despedida de Lionel Messi",
         "link": "https://www.lacapital.com.ar/ovacion/argentina-y-un-amistoso-equivalencias-ir-preparando-la-despedida-lionel-messi-n10284752.html",
         "image": "https://media.lacapital.com.ar/p/cd9aa76fe84008fe385a19149ca3a44b/adjuntos/203/imagenes/103/445/0103445152/1200x675/smart/image-9.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/220b93d6c1c91138583a92b31e1eb299/adjuntos/203/imagenes/103/444/0103444717/1200x675/smart/image-2026-10-03t172021108.png",
         "summary": "El equipo de Frank Kudelka igualó sin goles frente a Lanús y no lo pudo superar en la tabla. De todos modos, se alejó de los inmediatos perseguidores",
         "pubDate": "2026-10-03T21:05:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "En su vigésimo aniversario, la Marcha del Orgullo llenó de color las calles de Rosario",
-        "link": "https://www.lacapital.com.ar/la-ciudad/en-su-vigesimo-aniversario-la-marcha-del-orgullo-lleno-color-las-calles-rosario-n10284712.html",
-        "image": "https://media.lacapital.com.ar/p/019d86489bb190afdc0de92c8d02f78b/adjuntos/203/imagenes/103/444/0103444960/1200x675/smart/marcha-del-orgullo-20266.jpeg",
-        "summary": "Con su habitual feria previa a la movilización y un homenaje a Gabriela Banach, el colectivo LGBTQI+ llevó sus reclamos hacia el Parque Nacional a la Bandera",
-        "pubDate": "2026-10-03T20:39:00+00:00",
         "approxTime": false
       }
     ]
