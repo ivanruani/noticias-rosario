@@ -1,32 +1,23 @@
 {
-  "generatedAt": "2026-10-04T20:31:05.878820+00:00",
+  "generatedAt": "2026-10-04T21:01:22.060820+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "La Provincia informó la devolución de $ 7.137 millones en saldos a favor de Ingresos Brutos a sectores productivos",
+        "link": "https://www.rosario3.com/informaciongeneral/la-provincia-informo-la-devolucion-de--7.137-millones-en-saldos-a-favor-de-ingresos-brutos-a-sectores-productivos-20261004-0016.html",
+        "image": "https://www.rosario3.com/__export/1791129454349/sites/rosario3/img/2026/10/04/alivio_fiscal.jpg_54252875.jpg",
+        "summary": "La medida, que buscaba aliviar la carga fiscal, alcanzó a 2.043 contribuyentes de los sectores productivos santafesinos en los primeros nueve meses de 2026",
+        "pubDate": "2026-10-04T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Run Run: mega inversión inmobiliaria en Refinería, una \"comisión\" oscura y un \"balance\" opaco",
         "link": "https://www.rosario3.com/-economia-negocios-agro-/run-run-mega-inversion-inmobiliaria-en-refineria-una-comision-oscura-y-un-balance-opaco-20261004-0025.html",
         "image": "https://www.rosario3.com/__export/1791137138710/sites/rosario3/img/2026/10/04/segunda.jpg_884113582.jpg",
         "summary": "Además: los “pianta inversiones” jugaron una carta fuerte conta el mote que les pusieron en el gobierno provincial, el aeropuerto tuvo su merecida fiesta pero no todo lo que brilla es oro, la delicada situación financiera de Empleados de Comercio y la apuesta de un gremio clave…",
-        "pubDate": "2026-10-04T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Rosario prepara una pantalla gigante y actividades gratuitas para la despedida de Messi de la Selección",
-        "link": "https://www.rosario3.com/informaciongeneral/rosario-prepara-una-pantalla-gigante-y-actividades-gratuitas-para-la-despedida-de-messi-de-la-seleccion-20261004-0020.html",
-        "image": "https://www.rosario3.com/__export/1791132165540/sites/rosario3/img/2026/10/04/whatsapp_image_2026-10-04_at_13_28_25.jpeg_1825221543.jpeg",
-        "summary": "El encuentro ante Benín se proyectará este martes en el Museo del Deporte, donde desde las 17 habrá música, juegos y propuestas culturales con entrada libre. La jornada se realizará a pocos metros de la casa natal del astro rosarino",
         "pubDate": "2026-10-04T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El prestamista: confirman más apoyo financiero de EE.UU. a los proyectos de Argentina",
-        "link": "https://www.rosario3.com/informaciongeneral/el-prestamista-confirman-mas-apoyo-financiero-de-ee.uu.-a-los-proyectos-de-argentina-20261004-0004.html",
-        "image": "https://www.rosario3.com/__export/1791119270341/sites/rosario3/img/2026/10/04/nota_home.jpeg_1825222445.jpeg",
-        "summary": "Desde Phoenix, Christopher McClain, ejecutivo del Export-Import Bank confirmó el financiamiento anunciado para la Argentina de 7 mil millones de dólares como respaldo a la gestión de Milei",
-        "pubDate": "2026-10-04T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -35,7 +26,25 @@
         "link": "https://www.rosario3.com/informaciongeneral/mama-buscame-que-necesito-tu-abrazo-el-crudo-relato-de-eduardo-uno-de-los-bebes-vendidos-por-dolly-y-silvia-20261003-0028.html",
         "image": "https://www.rosario3.com/__export/1791068402096/sites/rosario3/img/2026/10/03/eduardo-parteradolly_1.jpg_1768679313.jpg",
         "summary": "Eduardo Saigo tiene 56 años y hace 20 se enteró de que sus padres adoptivos lo habían comprado a la pareja de hermanas rosarinas. Quien firmó su partida de nacimiento fue Silvia, a quien enfrentó en una mesa de café. Pide que la justicia no las vea como dos “abuelitas…",
+        "pubDate": "2026-10-03T11:58:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Elecciones en Brasil: cerraron las urnas en todo el país y empieza el recuento de votos",
+        "link": "https://www.rosario3.com/informaciongeneral/elecciones-en-brasil-ademas-de-lula-da-silva-y-flavio-bolsonaro-competiran-otras-once-formulas-20261003-0031.html",
+        "image": "https://www.rosario3.com/__export/1791145909403/sites/rosario3/img/2026/10/04/elecciones_brasil_1.jpg_506286608.jpg",
+        "summary": "En los comicios de este domingo se elige presidente y vicepresidente, además de gobernadores, senadores y diputados. Lula da Silva y Geraldo Alckmin buscan la reelección frente a una amplia oferta electoral, que incluye a Flávio Bolsonaro y otros 11 binomios. Gran expectativa…",
         "pubDate": "2026-10-03T11:57:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Rosario prepara una pantalla gigante y actividades gratuitas para la despedida de Messi de la Selección",
+        "link": "https://www.rosario3.com/informaciongeneral/rosario-prepara-una-pantalla-gigante-y-actividades-gratuitas-para-la-despedida-de-messi-de-la-seleccion-20261004-0020.html",
+        "image": "https://www.rosario3.com/__export/1791132165540/sites/rosario3/img/2026/10/04/whatsapp_image_2026-10-04_at_13_28_25.jpeg_1825221543.jpeg",
+        "summary": "El encuentro ante Benín se proyectará este martes en el Museo del Deporte, donde desde las 17 habrá música, juegos y propuestas culturales con entrada libre. La jornada se realizará a pocos metros de la casa natal del astro rosarino",
+        "pubDate": "2026-10-04T11:56:00+00:00",
         "approxTime": true
       },
       {
@@ -44,15 +53,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/la-policia-de-brasil-investiga-posible-injerencia-de-ee.uu.-en-las-elecciones-20261004-0022.html",
         "image": "https://www.rosario3.com/__export/1791134648679/sites/rosario3/img/2026/10/04/brasil_1_version1791134608921.jpg_142260625.jpg",
         "summary": "Lo informó el director general de la Policía Federal de Brasil, Andrei Rodrigues, este domingo. La fuerza sigue la pista de una denuncia presentada durante la semana por la Abogacía General de Brasil",
-        "pubDate": "2026-10-04T11:56:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Elecciones en Brasil: ya votaron Lula da Silva y Flávio Bolsonaro",
-        "link": "https://www.rosario3.com/informaciongeneral/elecciones-en-brasil-ya-votaron-lula-da-silva-y-flavio-bolsonaro-20261004-0005.html",
-        "image": "https://www.rosario3.com/__export/1791120886012/sites/rosario3/img/2026/10/04/brasil.jpg_54252853.jpg",
-        "summary": "Los dos principales candidatos a la presidencia emitieron su voto antes del mediodía. El actual jefe de Estado, que va por la reelección, se manifestó “confiado”. En tanto que el hijo del expresidente Jair Bolsonario aseguró que el país “necesita un cambio”",
         "pubDate": "2026-10-04T11:55:00+00:00",
         "approxTime": true
       },
@@ -67,20 +67,20 @@
       },
       {
         "source": "Rosario3",
-        "title": "Una fecha a pedir de Newell’s, que termina entre los ocho pese al empate en el Coloso",
-        "link": "https://www.rosario3.com/deportes/una-fecha-a-pedir-de-newells-que-termina-entre-los-ocho-pese-al-empate-en-el-coloso-20261004-0024.html",
-        "image": "https://www.rosario3.com/__export/1791136631260/sites/rosario3/img/2026/10/04/regiardo.jpg_506286608.jpg",
-        "summary": "El equipo de Frank Kudelka empató en cero ante Lanús el sábado y los resultados de otros competidores directos le jugaron a favor. Finalizará la jornada adentro de los playoffs e incluso subió un peldaño por la goleada que sufrió Independiente",
+        "title": "El prestamista: confirman más apoyo financiero de EE.UU. a los proyectos de Argentina",
+        "link": "https://www.rosario3.com/informaciongeneral/el-prestamista-confirman-mas-apoyo-financiero-de-ee.uu.-a-los-proyectos-de-argentina-20261004-0004.html",
+        "image": "https://www.rosario3.com/__export/1791119270341/sites/rosario3/img/2026/10/04/nota_home.jpeg_1825222445.jpeg",
+        "summary": "Desde Phoenix, Christopher McClain, ejecutivo del Export-Import Bank confirmó el financiamiento anunciado para la Argentina de 7 mil millones de dólares como respaldo a la gestión de Milei",
         "pubDate": "2026-10-04T11:53:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "La base de la final y un par de cambios obligados: el equipo de Central ante Banfield",
-        "link": "https://www.rosario3.com/deportes/la-base-de-la-final-y-un-par-de-cambios-obligados-el-equipo-de-central-ante-banfield-20261004-0023.html",
-        "image": "https://www.rosario3.com/__export/1791135444676/sites/rosario3/img/2025/10/18/werner.jpg_928314581.jpg",
-        "summary": "El Canalla no tendrá al arquero Axel Werner ni al lateral Agustín Sández para visitar este lunes al Taladro",
-        "pubDate": "2026-10-04T11:52:00+00:00",
+        "title": "Venta de tierras sin límites a extranjeros: “Bajo la premisa de la Corte, nadie está legitimado para realizar un planteo judicial sobre la soberanía”",
+        "link": "https://www.rosario3.com/opinion/venta-de-tierras-sin-limites-a-extranjeros-bajo-la-premisa-de-la-corte-nadie-esta-legitimado-para-realizar-un-planteo-judicial-sobre-el-bien-colectivo-de-la-soberania-20261002-0066.html",
+        "image": "https://www.rosario3.com/__export/1790981210228/sites/rosario3/img/2026/10/02/tierra.jpg_1768679258.jpg",
+        "summary": "Tras el fracaso del oficialismo en el Congreso por la Ley de Tierras, el máximo tribunal reafirmó el DNU 70 23 de Milei. Con su decisión, facilita la venta de territorio y el debate vuelve a Diputados. “La ley de tierras está derogada por una resolución de la Corte, pero los…",
+        "pubDate": "2026-10-02T11:52:00+00:00",
         "approxTime": true
       },
       {
@@ -94,20 +94,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Venta de tierras sin límites a extranjeros: “Bajo la premisa de la Corte, nadie está legitimado para realizar un planteo judicial sobre la soberanía”",
-        "link": "https://www.rosario3.com/opinion/venta-de-tierras-sin-limites-a-extranjeros-bajo-la-premisa-de-la-corte-nadie-esta-legitimado-para-realizar-un-planteo-judicial-sobre-el-bien-colectivo-de-la-soberania-20261002-0066.html",
-        "image": "https://www.rosario3.com/__export/1790981210228/sites/rosario3/img/2026/10/02/tierra.jpg_1768679258.jpg",
-        "summary": "Tras el fracaso del oficialismo en el Congreso por la Ley de Tierras, el máximo tribunal reafirmó el DNU 70 23 de Milei. Con su decisión, facilita la venta de territorio y el debate vuelve a Diputados. “La ley de tierras está derogada por una resolución de la Corte, pero los…",
-        "pubDate": "2026-10-02T11:50:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
         "title": "Un gremialista de la CGT entre los empresarios de Idea: \"No alcanza el orden macroeconómico si hay desequilibrios sociales\"",
         "link": "https://www.rosario3.com/politica/un-gremialista-de-la-cgt-entre-los-empresarios-de-idea-no-alcanza-el-orden-macroeconomico-si-hay-desequilibrios-sociales-20261002-0035.html",
         "image": "https://www.rosario3.com/__export/1790969989803/sites/rosario3/img/2026/10/02/cgt.jpg_982625323.jpg",
         "summary": "Cristian Jerónimo, integrante del triunvirato que conduce la central obrera, le confirmó en exclusiva a Rosario3 que “antes de fin de año” habrá un “paro general” contra la política económica de Javier Milei. Disertó ante los empresarios en el encuentro anual que tuvo lugar en…",
-        "pubDate": "2026-10-02T11:49:00+00:00",
+        "pubDate": "2026-10-02T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +107,7 @@
         "link": "https://www.rosario3.com/tecnologia/del-otro-lado-de-la-pantalla-cada-vez-menos-personas-20261002-0062.html",
         "image": "https://www.rosario3.com/__export/1790973043603/sites/rosario3/img/2026/10/02/000_-_imagen_de_portada_-_2026-10-02t172941_632.jpg_1768679257.jpg",
         "summary": "Por primera vez, la mayor parte de la actividad en Internet ya no la generan los humanos. Bots y agentes de IA avanzan sobre la web, cambiando su economía y reviviendo una vieja teoría conspirativa",
-        "pubDate": "2026-10-02T11:48:00+00:00",
+        "pubDate": "2026-10-02T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -125,20 +116,38 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/las-ventas-minoristas-pyme-aumentaron-03-interanual-en-septiembre-pero-cayeron-12-respecto-a-agosto-de-2026-20261004-0026.html",
         "image": "https://www.rosario3.com/__export/1791137756524/sites/rosario3/img/2026/10/04/ventas_minoristas_version1791137756036.jpg_1665193838.jpg",
         "summary": "En su informe, la Confederación Argentina de la Mediana Empresa (Came) indicó que las ventas online realizadas por los comercios con local a la calle registraron un incremento interanual del 19,4%",
+        "pubDate": "2026-10-04T11:48:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Una fecha a pedir de Newell’s, que termina entre los ocho pese al empate en el Coloso",
+        "link": "https://www.rosario3.com/deportes/una-fecha-a-pedir-de-newells-que-termina-entre-los-ocho-pese-al-empate-en-el-coloso-20261004-0024.html",
+        "image": "https://www.rosario3.com/__export/1791136631260/sites/rosario3/img/2026/10/04/regiardo.jpg_506286608.jpg",
+        "summary": "El equipo de Frank Kudelka empató en cero ante Lanús el sábado y los resultados de otros competidores directos le jugaron a favor. Finalizará la jornada adentro de los playoffs e incluso subió un peldaño por la goleada que sufrió Independiente",
         "pubDate": "2026-10-04T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Investigan el crimen de una niña de tres años en Villa La Angostura: su padre está internado bajo custodia",
-        "link": "https://www.rosario3.com/policiales/investigan-el-crimen-de-una-nina-de-tres-anos-en-villa-la-angostura-su-padre-esta-internado-bajo-custodia-20261004-0018.html",
-        "image": "https://www.rosario3.com/__export/1791131436248/sites/rosario3/img/2026/10/04/policia_la_angostura.jpg_1825222445.jpg",
-        "summary": "El hecho ocurrió este sábado en una vivienda de la localidad neuquina. La investigación apunta al padre de la víctima, quien habría atacado a la menor con un arma blanca en medio de una agresión contra su pareja y luego resultó gravemente herido",
+        "title": "La base de la final y un par de cambios obligados: el equipo de Central ante Banfield",
+        "link": "https://www.rosario3.com/deportes/la-base-de-la-final-y-un-par-de-cambios-obligados-el-equipo-de-central-ante-banfield-20261004-0023.html",
+        "image": "https://www.rosario3.com/__export/1791135444676/sites/rosario3/img/2025/10/18/werner.jpg_928314581.jpg",
+        "summary": "El Canalla no tendrá al arquero Axel Werner ni al lateral Agustín Sández para visitar este lunes al Taladro",
         "pubDate": "2026-10-04T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Elecciones en Brasil: los primeros datos dan una ventaja a Flavio Bolsonaro sobre Lula",
+        "link": "https://www.lacapital.com.ar/el-mundo/elecciones-brasil-los-primeros-datos-dan-una-ventaja-flavio-bolsonaro-lula-n10284831.html",
+        "image": "https://media.lacapital.com.ar/p/0d1bd0d545d3e482eb4cbfd00142885b/adjuntos/203/imagenes/103/446/0103446021/1200x675/smart/imagebolso.jpg",
+        "summary": "Con más del 9% escrutado, el senador obtiene supera el 50% de los votos, frente al 41% del presidente Lula da Silva. Para evitar el balotaje, el ganador debe alcanzar el 50% de los sufragios",
+        "pubDate": "2026-10-04T20:59:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Elecciones en Brasil 2026: cuál es el sitio oficial para seguir los resultados en vivo",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/b440d2cc5c19b2f6ebab79eaf8f11a83/adjuntos/203/imagenes/103/439/0103439535/1200x675/smart/imagen-nota.jpg",
         "summary": "Grupo Gamma advierte sobre el fenómeno que idealiza cuerpos extremadamente delgados en redes sociales y normaliza conductas alimentarias restrictivas disfrazadas de bienestar",
         "pubDate": "2026-10-04T11:36:18+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Rosario será sede del Congreso Argentino e Iberoamericano de Acompañamiento Terapéutico",
-        "link": "https://www.lacapital.com.ar/salud/rosario-sera-sede-del-congreso-argentino-e-iberoamericano-acompanamiento-terapeutico-n10284762.html",
-        "image": "https://media.lacapital.com.ar/p/44dc1af02f470b702427a2789e43fab9/adjuntos/203/imagenes/103/445/0103445277/1200x675/smart/imagen-nota.jpg",
-        "summary": "El XXII Congreso, organizado por la Universidad del Gran Rosario y AATRA, se realizará el 23 y 24 de octubre con referentes de la Salud Mental de todo el país",
-        "pubDate": "2026-10-04T11:33:57+00:00",
         "approxTime": false
       }
     ]
