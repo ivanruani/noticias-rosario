@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T19:01:20.978033+00:00",
+  "generatedAt": "2026-10-04T19:31:03.597715+00:00",
   "sites": {
     "rosario3": [
       {
@@ -85,10 +85,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Las ventas minoristas pyme aumentaron 0,3% interanual en septiembre, pero cayeron 1,2% respecto a agosto de 2026",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/las-ventas-minoristas-pyme-aumentaron-03-interanual-en-septiembre-pero-cayeron-12-respecto-a-agosto-de-2026-20261004-0026.html",
-        "image": "https://www.rosario3.com/__export/1791137756524/sites/rosario3/img/2026/10/04/ventas_minoristas_version1791137756036.jpg_1665193838.jpg",
-        "summary": "En su informe, la Confederación Argentina de la Mediana Empresa (Came) indicó que las ventas online realizadas por los comercios con local a la calle registraron un incremento interanual del 19,4%",
+        "title": "El glaciar Perito Moreno registra un retroceso récord: mil metros en cien días",
+        "link": "https://www.rosario3.com/informaciongeneral/el-glaciar-perito-moreno-registra-un-retroceso-record-mil-metros-en-cien-dias-20261004-0027.html",
+        "image": "https://www.rosario3.com/__export/1791140810173/sites/rosario3/img/2026/10/04/perito_moreno.jpg_506286608.jpg",
+        "summary": "Superó la cifra registrada en 1899 cuando retrocedió 750 metros, según los expertos. Afirman que esta aceleración podría continuar y está relacionada con la pérdida de contacto con una formación rocosa subacuática que funcionaba como un punto de apoyo natural",
         "pubDate": "2026-10-04T11:51:00+00:00",
         "approxTime": true
       },
@@ -121,24 +121,33 @@
       },
       {
         "source": "Rosario3",
-        "title": "Investigan el crimen de una niña de tres años en Villa La Angostura: su padre está internado bajo custodia",
-        "link": "https://www.rosario3.com/policiales/investigan-el-crimen-de-una-nina-de-tres-anos-en-villa-la-angostura-su-padre-esta-internado-bajo-custodia-20261004-0018.html",
-        "image": "https://www.rosario3.com/__export/1791131436248/sites/rosario3/img/2026/10/04/policia_la_angostura.jpg_1825222445.jpg",
-        "summary": "El hecho ocurrió este sábado en una vivienda de la localidad neuquina. La investigación apunta al padre de la víctima, quien habría atacado a la menor con un arma blanca en medio de una agresión contra su pareja y luego resultó gravemente herido",
+        "title": "Las ventas minoristas pyme aumentaron 0,3% interanual en septiembre, pero cayeron 1,2% respecto a agosto de 2026",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/las-ventas-minoristas-pyme-aumentaron-03-interanual-en-septiembre-pero-cayeron-12-respecto-a-agosto-de-2026-20261004-0026.html",
+        "image": "https://www.rosario3.com/__export/1791137756524/sites/rosario3/img/2026/10/04/ventas_minoristas_version1791137756036.jpg_1665193838.jpg",
+        "summary": "En su informe, la Confederación Argentina de la Mediana Empresa (Came) indicó que las ventas online realizadas por los comercios con local a la calle registraron un incremento interanual del 19,4%",
         "pubDate": "2026-10-04T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Pullaro apura medio centenar de inversiones y mundo cripto local bajo la lupa | Ecos365",
-        "link": "https://www.rosario3.com/ecos365/noticias/pullaro-apura-medio-centenar-de-inversiones-y-mundo-cripto-local-bajo-la-lupa-20261004-0001.html",
-        "image": "https://www.rosario3.com/__export/1791119020832/sites/rosario3/img/2026/10/04/dsc02547_crop1791118957927.jpg_1383533934.jpg",
-        "summary": "Santa Fe acelera permisos para transformar proyectos en empleo mientras algunas empresas buscan comprador y otras llegan al concurso. Entre inversiones industriales, nuevos negocios y fondos internacionales, también avanza otra agenda: seguir el dinero del delito y sus…",
+        "title": "Investigan el crimen de una niña de tres años en Villa La Angostura: su padre está internado bajo custodia",
+        "link": "https://www.rosario3.com/policiales/investigan-el-crimen-de-una-nina-de-tres-anos-en-villa-la-angostura-su-padre-esta-internado-bajo-custodia-20261004-0018.html",
+        "image": "https://www.rosario3.com/__export/1791131436248/sites/rosario3/img/2026/10/04/policia_la_angostura.jpg_1825222445.jpg",
+        "summary": "El hecho ocurrió este sábado en una vivienda de la localidad neuquina. La investigación apunta al padre de la víctima, quien habría atacado a la menor con un arma blanca en medio de una agresión contra su pareja y luego resultó gravemente herido",
         "pubDate": "2026-10-04T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Un diputado rosarino presentó un proyecto para prohibir la venta de la ciudadanía argentina",
+        "link": "https://www.lacapital.com.ar/politica/un-diputado-rosarino-presento-un-proyecto-prohibir-la-venta-la-ciudadania-argentina-n10284815.html",
+        "image": "https://media.lacapital.com.ar/p/60d0713b143f715f5f6b482a83295d4c/adjuntos/203/imagenes/103/445/0103445928/1200x675/smart/imagepasa.jpg",
+        "summary": "El legislador nacional Agustín Rossi presentó una iniciativa para derogar el régimen de “ciudadanía por inversión” impulsado por el gobierno. El programa permitiría acceder a la nacionalidad mediante un pago de 350 mil dólares.",
+        "pubDate": "2026-10-04T19:07:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "San Nicolás anticipó la fiesta del TC en Rosario con triunfos de debutantes de la región",
@@ -262,15 +271,6 @@
         "link": "https://www.lacapital.com.ar/negocios/llevan-tres-decadas-la-industria-textil-y-tienen-una-claraestrategia-seguir-creciendo-n10283806.html",
         "image": "https://media.lacapital.com.ar/p/b00c48b446daa76d258bbc6832e9f479/adjuntos/203/imagenes/103/439/0103439641/82722168.jpeg",
         "summary": "Abrieron el e-commerce, sumaron eficiencia y un plan de negocios. La historia de 1410 Telas, una marca que ya es un clásico.",
-        "pubDate": "2026-10-04T11:05:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "SushiClub abrió un salón de más de 600 m2 en Funes y piensa en su expansión regional",
-        "link": "https://www.lacapital.com.ar/negocios/sushiclub-abrio-un-salon-mas-600-m2-funes-y-piensa-su-expansion-regional-n10284067.html",
-        "image": "https://media.lacapital.com.ar/p/19c75601133b384b86463127659431d7/adjuntos/203/imagenes/103/440/0103440860/82730368.jpeg",
-        "summary": "La cadena dejó atrás su esquema exclusivo de delivery y take away para sumar un nuevo salón sobre Hipólito Yrigoyen. El espacio cuenta con sectores interiores y exteriores y con buenas promociones en este estreno",
         "pubDate": "2026-10-04T11:05:00+00:00",
         "approxTime": false
       }
