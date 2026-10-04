@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T23:01:10.672310+00:00",
+  "generatedAt": "2026-10-04T23:31:00.240902+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,11 +141,29 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "Elecciones en Brasil: Bolsonaro alcanza el 49% de los votos y le saca 7 puntos a Lula con el 64% escrutado",
-        "link": "https://www.lacapital.com.ar/el-mundo/elecciones-brasil-bolsonaro-alcanza-el-49-los-votos-y-le-saca-7-puntos-lula-el-64-escrutado-n10284831.html",
+        "title": "Christa Pike sigue inconsciente en el hospital tras la fallida ejecución",
+        "link": "https://www.lacapital.com.ar/informacion-general/christa-pike-sigue-inconsciente-el-hospital-la-fallida-ejecucion-n10284842.html",
+        "image": "https://media.lacapital.com.ar/p/e238bba9c2b44c7a5c8f6790afa0fd38/adjuntos/203/imagenes/103/440/0103440116/2026-10-01-christa-pike-ejecucion.jpg",
+        "summary": "Los médicos continúan intentando eliminar de su organismo la enorme dosis de pentobarbital, que le fue aplicado en dos inyecciones el pasado miércoles",
+        "pubDate": "2026-10-04T23:18:33+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "HBO Max y Paramount+ se encaminan a convertirse en una sola plataforma",
+        "link": "https://www.lacapital.com.ar/hbo-max-y-paramount-se-encaminan-convertirse-una-sola-plataforma-n10284847.html",
+        "image": "https://media.lacapital.com.ar/p/81a471efbb26c8ef60578a8cbb0cceca/adjuntos/203/imagenes/103/446/0103446241/2026-10-04-hbo-max.jpg",
+        "summary": "Paramount y Warner Bros. recibieron legalmente vía libre para fusionarse, después de un largo litigio legal",
+        "pubDate": "2026-10-04T23:18:31+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Bolsonaro llega al 48% de los votos y aventaja a Lula por 5 puntos, pero no evita el balotaje con el 84% escrutado",
+        "link": "https://www.lacapital.com.ar/el-mundo/bolsonaro-llega-al-48-los-votos-y-aventaja-lula-5-puntos-pero-no-evita-el-balotaje-el-84-escrutado-n10284831.html",
         "image": "https://media.lacapital.com.ar/p/0d1bd0d545d3e482eb4cbfd00142885b/adjuntos/203/imagenes/103/446/0103446021/1200x675/smart/imagebolso.jpg",
-        "summary": "El senador ultraderechista obtiene el 49,58% frente al 42,25% del presidente Lula da Silva. Para evitar el balotaje, el ganador debe alcanzar el 50% de los sufragios",
-        "pubDate": "2026-10-04T22:18:00+00:00",
+        "summary": "El hijo del exmandatario obtiene el 48 % frente al 44 % del presidente Lula da Silva. Para evitar la segunda vuelta el ganador debe alcanzar el 50 % de los sufragios",
+        "pubDate": "2026-10-04T23:07:00+00:00",
         "approxTime": false
       },
       {
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/9f211cfafd9fd3bd8f92aa6d1363502f/adjuntos/203/imagenes/103/445/0103445546/tigremb.jpeg",
         "summary": "El equipo de Jorge Almirón visitará a Banfield con bajas importantes, pero con un antecedente reciente que le permite sostener la confianza lejos del Gigante.",
         "pubDate": "2026-10-04T17:26:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Banfield vs. Rosario Central por el torneo Clausura: hora, canal y posibles formaciones",
-        "link": "https://www.lacapital.com.ar/ovacion/banfield-vs-rosario-central-el-torneo-clausura-hora-canal-y-posibles-formaciones-n10284487.html",
-        "image": "https://media.lacapital.com.ar/p/788a475a93fbb4e041a3257e0bf7b919/adjuntos/203/imagenes/103/440/0103440990/1200x675/smart/banfield-central.jpg",
-        "summary": "El Canalla enfrentará al Taladro con hinchas visitantes tras la obtención de la Supercopa Internacional. En esta nota, los detalles y estadísticas del partido",
-        "pubDate": "2026-10-04T17:23:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Un salmón apareció en el Paraná cerca de Rosario y su increíble viaje se convirtió en documental",
-        "link": "https://www.lacapital.com.ar/la-ciudad/un-salmon-aparecio-el-parana-cerca-rosario-y-su-increible-viaje-se-convirtio-documental-n10284774.html",
-        "image": "https://media.lacapital.com.ar/p/21378d01ab3322a38915193f195d1c17/adjuntos/203/imagenes/103/445/0103445375/1200x675/smart/image-2026-10-04t085321235.jpg",
-        "summary": "El ejemplar había nacido en la Patagonia y era descendiente de salmones introducidos en Chile. Su inesperado hallazgo inspiró una película que reconstruye su recorrido y pone el foco en la transformación de los ecosistemas.",
-        "pubDate": "2026-10-04T17:20:00+00:00",
         "approxTime": false
       }
     ]
