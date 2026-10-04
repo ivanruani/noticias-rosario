@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T14:31:04.072823+00:00",
+  "generatedAt": "2026-10-04T15:01:15.080239+00:00",
   "sites": {
     "rosario3": [
       {
@@ -76,10 +76,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Una multitud completó el recorrido de la 52° Peregrinación a Luján",
-        "link": "https://www.rosario3.com/informaciongeneral/una-multitud-completo-el-recorrido-de-la-52-peregrinacion-a-lujan-20261004-0009.html",
-        "image": "https://www.rosario3.com/__export/1791123565770/sites/rosario3/img/2026/10/04/886283520c9ce86e6e462b1942fef38d000efec0w_version1791123565240.jpg_54252875.jpg",
-        "summary": "El camino, que algunas personas habían comenzado el último viernes, culminó este domingo frente a la Basílica, con la celebración de la misa central encabezada por el arzobispo de Buenos Aires, Jorge García Cuerva",
+        "title": "En Latinoamérica, el 75% de los habitantes recorta otros gastos para cubrir el de vivienda",
+        "link": "https://www.rosario3.com/informaciongeneral/en-latinoamerica-el-75-de-los-habitantes-recorta-otros-gastos-para-cubrir-el-de-vivienda-20261004-0012.html",
+        "image": "https://www.rosario3.com/__export/1791125033780/sites/rosario3/img/2026/10/04/vivienda_version1791125033334.jpg_1753201588.jpg",
+        "summary": "Un estudio de la de la ONG Hábitat para la Humanidad reveló que un número creciente de personas en América Latina y el Caribe utiliza sus ahorros o asume trabajos adicionales para hacer frente al pago de un alquiler, entre otros gastos de locación. El relevamiento “Un hogar…",
         "pubDate": "2026-10-04T11:52:00+00:00",
         "approxTime": true
       },
@@ -130,15 +130,24 @@
       },
       {
         "source": "Rosario3",
-        "title": "Fiscales y especialistas internacionales visitaron “El Infierno”, la cárcel para presos de alto perfil",
-        "link": "https://www.rosario3.com/informaciongeneral/fiscales-y-especialistas-internacionales-visitaron-el-infierno-la-carcel-para-presos-de-alto-perfil-20261004-0010.html",
-        "image": "https://www.rosario3.com/__export/1791123260217/sites/rosario3/img/2026/10/04/inf.jpg_1825222467.jpg",
-        "summary": "La obra se construye en la Unidad Penitenciaria Nº 8 de Piñero, tendrá capacidad para 1.152 internos y contará con un esquema reforzado de aislamiento, seguridad y control",
+        "title": "El mensaje de Pampita al llegar a la Basílica de Luján: \"12 horas, 47 kilómetros, llegamos, lo logré\"",
+        "link": "https://www.rosario3.com/ocio/el-mensaje-de-pampita-al-llegar-a-la-basilica-de-lujan-12-horas-47-kilometros-llegamos-lo-logre-20261004-0011.html",
+        "image": "https://www.rosario3.com/__export/1791125011847/sites/rosario3/img/2026/10/04/pampita_luja.jpg_1768679257.jpg",
+        "summary": "Con frío, lluvia, viento y hasta sol en el final del recorrido, la modelo documentó su entrada al santuario de la Virgen en un clima de profunda emoción",
         "pubDate": "2026-10-04T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Fito Páez frenó su show en Mar del Plata, estalló contra el personal de seguridad y tiró el micrófono",
+        "link": "https://www.lacapital.com.ar/zoom/fito-paez-freno-su-show-mar-del-plata-estallo-contra-el-personal-seguridad-y-tiro-el-microfono-n10284778.html",
+        "image": "https://media.lacapital.com.ar/p/28f228e89d06cb2d236b4e0ee11db168/adjuntos/203/imagenes/103/445/0103445424/1200x675/smart/image-2026-10-04t104256669.jpg",
+        "summary": "El rosarino frenó el espectáculo que estaba dando en La Feliz y cuestionó el accionar del personal de seguridad",
+        "pubDate": "2026-10-04T14:32:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Cirugía robótica colorrectal: menos dolor y recuperación más rápida para los pacientes",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/9e421ce9c129cb96771c66f68b412531/adjuntos/203/imagenes/103/382/0103382423/1200x675/smart/image-69.png",
         "summary": "Ambos juegan esta tarde por el torneo de la Primera C: el Charrúa recibe a Yupanqui en el Gabino Sosa, mientras que el Salaíto visitará a Lugano en Tapiales",
         "pubDate": "2026-10-04T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Santa Fe se prepara para modificar su Registro de Deudores Alimentarios Morosos",
-        "link": "https://www.lacapital.com.ar/politica/santa-fe-se-prepara-modificar-su-registro-deudores-alimentarios-morosos-n10284607.html",
-        "image": "https://media.lacapital.com.ar/p/c277226bc33de30334a9604dd7c50c20/adjuntos/203/imagenes/103/346/0103346147/1200x675/smart/camara-diputados-santa-fe-ley-electoral.jpg",
-        "summary": "Dejará de estar a cargo del Poder Judicial, según estipula el proyecto a abordar en Diputados, que incluye nuevos montos y sanciones",
-        "pubDate": "2026-10-04T09:05:00+00:00",
         "approxTime": false
       }
     ]
