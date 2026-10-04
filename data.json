@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T19:31:03.597715+00:00",
+  "generatedAt": "2026-10-04T20:01:46.117963+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Máxima expectativa por las elecciones en Brasil: a qué hora se conocerán los resultados",
+        "link": "https://www.lacapital.com.ar/el-mundo/maxima-expectativa-las-elecciones-brasil-que-hora-se-conoceran-los-resultados-n10284821.html",
+        "image": "https://media.lacapital.com.ar/p/d01d98e7f8dcc073798faff3029fce4a/adjuntos/203/imagenes/103/437/0103437423/1200x675/smart/imagebolsonaro.jpg",
+        "summary": "Más de 158 millones de brasileños votan este domingo en una elección presidencial marcada por la paridad entre Lula da Silva y Flávio Bolsonaro. Las urnas cierran a las 17.",
+        "pubDate": "2026-10-04T19:44:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Un diputado rosarino presentó un proyecto para prohibir la venta de la ciudadanía argentina",
         "link": "https://www.lacapital.com.ar/politica/un-diputado-rosarino-presento-un-proyecto-prohibir-la-venta-la-ciudadania-argentina-n10284815.html",
         "image": "https://media.lacapital.com.ar/p/60d0713b143f715f5f6b482a83295d4c/adjuntos/203/imagenes/103/445/0103445928/1200x675/smart/imagepasa.jpg",
@@ -150,8 +159,8 @@
       },
       {
         "source": "La Capital",
-        "title": "San Nicolás anticipó la fiesta del TC en Rosario con triunfos de debutantes de la región",
-        "link": "https://www.lacapital.com.ar/ovacion/san-nicolas-anticipo-la-fiesta-del-tc-rosario-triunfos-debutantes-la-region-n10284808.html",
+        "title": "San Nicolás anticipó la fiesta del TC en Rosario con triunfos ddebutantes de la región",
+        "link": "https://www.lacapital.com.ar/ovacion/san-nicolas-anticipo-la-fiesta-del-tc-rosario-triunfos-ddebutantes-la-region-n10284808.html",
         "image": "https://media.lacapital.com.ar/p/fa51279a6feed320b1135a78c4f2babe/adjuntos/203/imagenes/103/445/0103445851/1200x675/smart/image-17.jpg",
         "summary": "El rosarino por adopción Thomas Pozner en TC Pista y el de Villa Minetti Ignacio Faín en Turismo Carretera subieron al podio por primera vez",
         "pubDate": "2026-10-04T18:31:00+00:00",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/c6914f17c618fd16e175e685355fbf6e/adjuntos/203/imagenes/103/442/0103442107/1200x675/smart/image-2026-10-02t172246895.png",
         "summary": "La reconocida cantante celebra sus más de 50 años de trayectoria con un nuevo show, que en Rosario se podrá ver el 28 de noviembre en La Segunda Arena",
         "pubDate": "2026-10-04T11:26:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Llevan tres décadas en la industria textil y tienen una clara estrategia para seguir creciendo",
-        "link": "https://www.lacapital.com.ar/negocios/llevan-tres-decadas-la-industria-textil-y-tienen-una-claraestrategia-seguir-creciendo-n10283806.html",
-        "image": "https://media.lacapital.com.ar/p/b00c48b446daa76d258bbc6832e9f479/adjuntos/203/imagenes/103/439/0103439641/82722168.jpeg",
-        "summary": "Abrieron el e-commerce, sumaron eficiencia y un plan de negocios. La historia de 1410 Telas, una marca que ya es un clásico.",
-        "pubDate": "2026-10-04T11:05:00+00:00",
         "approxTime": false
       }
     ]
