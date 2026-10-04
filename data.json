@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T09:01:13.664413+00:00",
+  "generatedAt": "2026-10-04T09:31:03.379839+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,60 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Chicharrita y otras plagas: el maíz exige más monitoreo y un manejo integrado",
+        "link": "https://www.lacapital.com.ar/agro/chicharrita-y-otras-plagas-el-maiz-exige-mas-monitoreo-y-un-manejo-integrado-n10284374.html",
+        "image": "https://media.lacapital.com.ar/p/b16f0cf0a96226e533754fb98011c1fe/adjuntos/305/imagenes/101/974/0101974057/1200x675/619x989:639x1009/maizjpg.jpg",
+        "summary": "Especialistas reunidos en el Congreso Internacional de Maíz 2026 destacaron los avances para enfrentar el achaparramiento y advirtieron sobre el cogollero en materiales Bt. También analizaron el uso de herbicidas y el control del maíz voluntario",
+        "pubDate": "2026-10-04T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Villa Hortensia se convierte en un castillo medieval para recibir a La Comarca",
+        "link": "https://www.lacapital.com.ar/la-ciudad/villa-hortensia-se-convierte-un-castillo-medieval-recibir-la-comarca-n10284606.html",
+        "image": "https://media.lacapital.com.ar/p/b87dcb0fc02d0790fcdf507ecb5c0445/adjuntos/203/imagenes/103/442/0103442513/1200x675/smart/la-comarca.jpg",
+        "summary": "La XIII edición tendrá 120 puestos, combates, arquería, música, danza y desafíos para chicos. Será este domingo en el Centro de Distrito y en la Plaza Alberdi",
+        "pubDate": "2026-10-04T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central Córdoba tiene un partido para jugar con calma y Argentino viaja lleno de angustia",
+        "link": "https://www.lacapital.com.ar/ovacion/central-cordoba-tiene-un-partido-jugar-calma-y-argentino-viaja-lleno-angustia-n10284718.html",
+        "image": "https://media.lacapital.com.ar/p/9e421ce9c129cb96771c66f68b412531/adjuntos/203/imagenes/103/382/0103382423/1200x675/smart/image-69.png",
+        "summary": "Ambos juegan esta tarde por el torneo de la Primera C: el Charrúa recibe a Yupanqui en el Gabino Sosa, mientras que el Salaíto visitará a Lugano en Tapiales",
+        "pubDate": "2026-10-04T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Rosario autónoma: el oficialismo encara el camino hacia la nueva Carta Orgánica",
+        "link": "https://www.lacapital.com.ar/politica/rosario-autonoma-el-oficialismo-encara-el-camino-la-nueva-carta-organica-n10284704.html",
+        "image": "https://media.lacapital.com.ar/p/6004cec6c6c398daf910a5ef6fab10e5/adjuntos/203/imagenes/103/397/0103397596/1200x675/smart/municipalidad.jpg",
+        "summary": "Antes de fin de año, la Intendencia y el Concejo iniciarán una ronda de diálogo político y social. En 2027, la ciudad elegirá estatuyentes",
+        "pubDate": "2026-10-04T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Milei busca garantes y Bullrich huele una oportunidad para 2027",
+        "link": "https://www.lacapital.com.ar/suscriptores/milei-busca-garantes-y-bullrich-huele-una-oportunidad-2027-n10284747.html",
+        "image": "https://media.lacapital.com.ar/p/685382c973cda7b7a4b233c1f765e637/adjuntos/203/imagenes/103/445/0103445106/1200x675/smart/milei-francia-argentina-week.jpg",
+        "summary": "El presidente vendió futuro en Francia y presentó a los gobernadores como sostenes del modelo. Gestos y posibles acuerdos. La senadora busca seducir a los desencantados. Villarruel, un problema extra para el peronismo",
+        "pubDate": "2026-10-04T09:05:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Santa Fe se prepara para modificar su Registro de Deudores Alimentarios Morosos",
+        "link": "https://www.lacapital.com.ar/politica/santa-fe-se-prepara-modificar-su-registro-deudores-alimentarios-morosos-n10284607.html",
+        "image": "https://media.lacapital.com.ar/p/c277226bc33de30334a9604dd7c50c20/adjuntos/203/imagenes/103/346/0103346147/1200x675/smart/camara-diputados-santa-fe-ley-electoral.jpg",
+        "summary": "Dejará de estar a cargo del Poder Judicial, según estipula el proyecto a abordar en Diputados, que incluye nuevos montos y sanciones",
+        "pubDate": "2026-10-04T09:05:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "4 de Octubre, Día de la Medicina Laboral",
         "link": "https://www.lacapital.com.ar/especiales1/4-octubre-dia-la-medicina-laboral-n10284473.html",
         "image": "https://media.lacapital.com.ar/p/4cd6f11cb419bafcd48e127beb70a634/adjuntos/203/imagenes/103/440/0103440919/1200x675/smart/foto-medico-laboral.jpg",
@@ -168,19 +222,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Frank Kudelka: \"Es momento de jugar manteniendo la zona de clasificación y hay que defenderla a ultranza\"",
-        "link": "https://www.lacapital.com.ar/ovacion/frank-kudelka-es-momento-jugar-manteniendo-la-zona-clasificacion-y-hay-que-defenderla-ultranza-n10284740.html",
-        "image": "https://media.lacapital.com.ar/p/00992ba9aeee9cbdad4374eb63d7afc5/adjuntos/203/imagenes/103/444/0103444996/1200x675/smart/image-8.jpg",
-        "summary": "El DT de Newell's apuntó el valor de lo conseguido ante un duro Lanús y consideró que \"ambos jugamos mejor defensiva que ofensivamente\"",
+        "title": "Macabro hallazgo en Villa Gobernador Gálvez: fotos de niñas y muñecos de bebés en una reserva natural",
+        "link": "https://www.lacapital.com.ar/la-region/macabro-hallazgo-villa-gobernador-galvez-fotos-ninasy-munecos-bebesen-una-reserva-natural-n10284741.html",
+        "image": "https://media.lacapital.com.ar/p/eb888532b8fbff99f542224871eceb0d/adjuntos/203/imagenes/103/444/0103444970/1200x675/smart/macabro-hallazgo-310-3.jpg",
+        "summary": "El hecho fue denunciado por la Municipalidad, que aún aguarda por acciones de la Fiscalía Nº 2. Es la segunda vez que sucede un hecho de estas características",
         "pubDate": "2026-10-03T23:02:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Macabro hallazgo en Villa Gobernador Gálvez: fotos de niñas y muñecos de bebés en una reserva natural",
-        "link": "https://www.lacapital.com.ar/la-region/macabro-hallazgo-villa-gobernador-galvez-fotos-ninasy-munecos-bebesen-una-reserva-natural-n10284741.html",
-        "image": "https://media.lacapital.com.ar/p/eb888532b8fbff99f542224871eceb0d/adjuntos/203/imagenes/103/444/0103444970/1200x675/smart/macabro-hallazgo-310-3.jpg",
-        "summary": "El hecho fue denunciado por la Municipalidad, que aún aguarda por acciones de la Fiscalía Nº 2. Es la segunda vez que sucede un hecho de estas características",
+        "title": "Frank Kudelka: \"Es momento de jugar manteniendo la zona de clasificación y hay que defenderla a ultranza\"",
+        "link": "https://www.lacapital.com.ar/ovacion/frank-kudelka-es-momento-jugar-manteniendo-la-zona-clasificacion-y-hay-que-defenderla-ultranza-n10284740.html",
+        "image": "https://media.lacapital.com.ar/p/00992ba9aeee9cbdad4374eb63d7afc5/adjuntos/203/imagenes/103/444/0103444996/1200x675/smart/image-8.jpg",
+        "summary": "El DT de Newell's apuntó el valor de lo conseguido ante un duro Lanús y consideró que \"ambos jugamos mejor defensiva que ofensivamente\"",
         "pubDate": "2026-10-03T23:02:00+00:00",
         "approxTime": false
       },
@@ -218,60 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/ad59d9016b85575db562a6306ad97061/adjuntos/203/imagenes/101/098/0101098329/2023-10-18-taxistas-by_cmutti-74264371jpg.jpg",
         "summary": "El Ejecutivo presentó un proyecto para habilitar las apps de movilidad, pero los choferes del servicio público advierten que colapsará el tránsito ante la proliferación de conductores y autos en estas plataformas",
         "pubDate": "2026-10-03T22:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Newell's y un empate ante Lanús que no le dio el rédito esperado",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-y-un-empate-lanus-que-no-le-dio-el-redito-esperado-n10284717.html",
-        "image": "https://media.lacapital.com.ar/p/41a7f8d38a357ccfa7ab99de746e55a1/adjuntos/203/imagenes/103/444/0103444898/1200x675/smart/image-2026-10-03t184016349.png",
-        "summary": "El equipo rojinegro jugó mal, igualó con el Granate y no aprovechó la chance ante un rival directo en su lucha por pasar de ronda. Pero se sostiene en la pelea",
-        "pubDate": "2026-10-03T22:18:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Dura derrota de Atlético del Rosario en Tortuguitas y la chance de salvarse se demora una semana",
-        "link": "https://www.lacapital.com.ar/ovacion/dura-derrota-atletico-del-rosario-tortuguitas-y-la-chance-salvarse-se-demora-una-semana-n10284730.html",
-        "image": "https://media.lacapital.com.ar/p/2c022016b47283c3cd2d28e035875c97/adjuntos/203/imagenes/103/444/0103444899/1200x675/smart/image-7.jpg",
-        "summary": "Plaza cayó con contundencia ante Alumni y ahora deberá ganarle al descendido Champagnat en el Pasaje Gould para seguir en el Top 14 de la Urba",
-        "pubDate": "2026-10-03T22:12:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Martín Ortega lamentó el empate de Newell's ante Lanús: \"Hicimos un gran desgaste, pero no alcanzó\"",
-        "link": "https://www.lacapital.com.ar/ovacion/martin-ortega-lamento-el-empate-newells-lanus-hicimos-un-gran-desgaste-pero-no-alcanzo-n10284735.html",
-        "image": "https://media.lacapital.com.ar/p/9803e1dbf9c1571e744032a1fe493e28/adjuntos/203/imagenes/103/355/0103355582/1200x675/smart/martin-ortega-newells.jpg",
-        "summary": "El lateral derecho del rojinegro enfatizó: \"Queremos clasificarnos a los playoffs y apuntar a lo más alto\".",
-        "pubDate": "2026-10-03T22:12:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Jockey Club se quedó a las puertas del tercer título del Torneo del Interior ante un Tala implacable",
-        "link": "https://www.lacapital.com.ar/ovacion/jockey-club-se-quedo-las-puertas-del-tercer-titulo-del-torneo-del-interior-un-tala-implacable-n10284729.html",
-        "image": "https://media.lacapital.com.ar/p/2290973e4854f71dc9cabdf84aa69e6b/adjuntos/203/imagenes/103/444/0103444896/1200x675/smart/image-6.jpg",
-        "summary": "El equipo de Fisherton hizo un buen primer tiempo, pero el local lo definió en una ráfaga en el complemento. Gran campaña rosarina",
-        "pubDate": "2026-10-03T21:38:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Un repartidor le robó a un diputado santafesino durante un móvil y todo quedó registrado",
-        "link": "https://www.lacapital.com.ar/politica/un-repartidor-le-robo-un-diputado-santafesino-un-movil-y-todo-quedo-registrado-n10284722.html",
-        "image": "https://media.lacapital.com.ar/p/547dc6bfb5ff785244579bbe1051257d/adjuntos/203/imagenes/103/444/0103444897/1200x675/smart/image-2026-10-03t183420141.png",
-        "summary": "El legislador se encuentra en Brasil como veedor de las elecciones presidenciales que se desarrollarán este domingo",
-        "pubDate": "2026-10-03T21:20:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Newell's estiró el invicto, el lado positivo de un empate deslucido",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-estiro-el-invicto-el-lado-positivo-un-empate-deslucido-n10284698.html",
-        "image": "https://media.lacapital.com.ar/p/220b93d6c1c91138583a92b31e1eb299/adjuntos/203/imagenes/103/444/0103444717/1200x675/smart/image-2026-10-03t172021108.png",
-        "summary": "El equipo de Frank Kudelka igualó sin goles frente a Lanús y no lo pudo superar en la tabla. De todos modos, se alejó de los inmediatos perseguidores",
-        "pubDate": "2026-10-03T21:05:00+00:00",
         "approxTime": false
       }
     ]
