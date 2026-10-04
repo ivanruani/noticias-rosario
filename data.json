@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-04T00:31:37.315533+00:00",
+  "generatedAt": "2026-10-04T01:01:43.795001+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Seguridad: Pullaro blinda a Vranicich, defiende con uñas y dientes la gestión y espera por otra batería de leyes",
+        "link": "https://www.rosario3.com/opinion/seguridad-pullaro-blinda-a-vranicich-defiende-con-unas-y-dientes-la-gestion-y-espera-por-otra-bateria-de-leyes-20261003-0025.html",
+        "image": "https://www.rosario3.com/__export/1791067369567/sites/rosario3/img/2026/10/03/pullaro_vranicich_monteoliva.jpg_982625301.jpg",
+        "summary": "El gobernador volvió a poner la seguridad en el centro de su agenda, respaldó con fuerza a la fiscal general frente a las críticas y reivindicó los resultados del modelo santafesino. Mientras tanto, la Legislatura empezó a discutir el nuevo paquete de reformas que busca ampliar…",
+        "pubDate": "2026-10-03T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Ya son más de 4.200 los inscriptos para la próxima subasta de bienes incautados al delito en Santa Fe",
         "link": "https://www.rosario3.com/informaciongeneral/ya-son-mas-de-4.200-los-inscriptos-para-la-proxima-subasta-de-bienes-incautados-al-delito-en-santa-fe-20261003-0021.html",
         "image": "https://www.rosario3.com/__export/1791061339513/sites/rosario3/img/2026/10/03/subasta.jpg_2106848869.jpg",
         "summary": "Se trata del sexto remate durante la gestión del gobernador Maximiliano Pullaro, con un total de 224 lotes. Habrá motos, vehículos, lanchas y hasta máquinas de arcade",
-        "pubDate": "2026-10-03T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Crear comunidad en la crisis: historias mínimas de lazos que crecen en Puerto Emprende",
-        "link": "https://www.rosario3.com/informaciongeneral/crear-comunidad-en-la-crisis-historias-minimas-de-lazos-que-crecen-en-puerto-emprende-20261002-0040.html",
-        "image": "https://www.rosario3.com/__export/1790957555681/sites/rosario3/img/2026/10/02/puerto_emprende_-11-.jpg_2106848869.jpg",
-        "summary": "El nuevo espacio de la subsecretaría de Economía Social inauguró a mediados de septiembre en Roca y el río, donde funcionó durante más de una década el Almacén de las Tres Ecologías. Cómo fue su transformación y cuál es la búsqueda del municipio en un lugar pensado como…",
-        "pubDate": "2026-10-02T11:59:00+00:00",
+        "pubDate": "2026-10-03T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -40,10 +40,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "En menos de 15’, Argentina ya le golea a 3 a 0 a Burkina Faso",
+        "title": "Tras un primer tiempo sin equivalencias, Argentina golea 5 a 0 a Burkina Faso en El Monumental",
         "link": "https://www.rosario3.com/deportes/mientras-messi-prepara-su-fiesta-de-despedida-argentina-vuelve-al-monumental-ante-burkina-faso-en-su-segundo-amistoso-20261002-0071.html",
-        "image": "https://www.rosario3.com/__export/1790981111610/sites/rosario3/img/2026/10/02/paz.jpg_928314580.jpg",
-        "summary": "Lautaro, Diallo en contra y Prestianni anotaron para la selección. Transmite Radio 2",
+        "image": "https://www.rosario3.com/__export/1791073911462/sites/rosario3/img/2026/10/03/00024932-02.jpg_928314580.jpg",
+        "summary": "Lautaro, Diallo en contra, Prestianni, Paz y Julián anotaron para la selección. Transmite Radio 2",
         "pubDate": "2026-10-02T11:56:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Argentina y un amistoso sin equivalencias para ir preparando la despedida de Lionel Messi",
+        "link": "https://www.lacapital.com.ar/ovacion/argentina-y-un-amistoso-equivalencias-ir-preparando-la-despedida-lionel-messi-n10284752.html",
+        "image": "https://media.lacapital.com.ar/p/cd9aa76fe84008fe385a19149ca3a44b/adjuntos/203/imagenes/103/445/0103445152/1200x675/smart/image-9.jpg",
+        "summary": "La selección argentina golea a Burkina Faso en un Monumental sin llenar que ahora espera el partido del martes para ver a Leo por última vez con la 10",
+        "pubDate": "2026-10-04T00:53:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "A Newell's le costó imponer condiciones ante Lanús y tomar las riendas del partido",
         "link": "https://www.lacapital.com.ar/ovacion/a-newells-le-costo-imponer-condiciones-lanus-y-tomar-las-riendas-del-partido-n10284751.html",
         "image": "https://media.lacapital.com.ar/p/23cc2f5e52b6f8fa14b036f6e60b7b45/adjuntos/203/imagenes/103/445/0103445151/1200x675/smart/image-2026-10-03t212117629.png",
@@ -150,19 +159,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Macabro hallazgo en Villa Gobernador Gálvez: fotos de niñas y muñecos de bebés en una reserva natural",
-        "link": "https://www.lacapital.com.ar/la-region/macabro-hallazgo-villa-gobernador-galvez-fotos-ninasy-munecos-bebesen-una-reserva-natural-n10284741.html",
-        "image": "https://media.lacapital.com.ar/p/eb888532b8fbff99f542224871eceb0d/adjuntos/203/imagenes/103/444/0103444970/1200x675/smart/macabro-hallazgo-310-3.jpg",
-        "summary": "El hecho fue denunciado por la Municipalidad, que aún aguarda por acciones de la Fiscalía Nº 2. Es la segunda vez que sucede un hecho de estas características",
+        "title": "Frank Kudelka: \"Es momento de jugar manteniendo la zona de clasificación y hay que defenderla a ultranza\"",
+        "link": "https://www.lacapital.com.ar/ovacion/frank-kudelka-es-momento-jugar-manteniendo-la-zona-clasificacion-y-hay-que-defenderla-ultranza-n10284740.html",
+        "image": "https://media.lacapital.com.ar/p/00992ba9aeee9cbdad4374eb63d7afc5/adjuntos/203/imagenes/103/444/0103444996/1200x675/smart/image-8.jpg",
+        "summary": "El DT de Newell's apuntó el valor de lo conseguido ante un duro Lanús y consideró que \"ambos jugamos mejor defensiva que ofensivamente\"",
         "pubDate": "2026-10-03T23:02:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Frank Kudelka: \"Es momento de jugar manteniendo la zona de clasificación y hay que defenderla a ultranza\"",
-        "link": "https://www.lacapital.com.ar/ovacion/frank-kudelka-es-momento-jugar-manteniendo-la-zona-clasificacion-y-hay-que-defenderla-ultranza-n10284740.html",
-        "image": "https://media.lacapital.com.ar/p/00992ba9aeee9cbdad4374eb63d7afc5/adjuntos/203/imagenes/103/444/0103444996/1200x675/smart/image-8.jpg",
-        "summary": "El DT de Newell's apuntó el valor de lo conseguido ante un duro Lanús y consideró que \"ambos jugamos mejor defensiva que ofensivamente\"",
+        "title": "Macabro hallazgo en Villa Gobernador Gálvez: fotos de niñas y muñecos de bebés en una reserva natural",
+        "link": "https://www.lacapital.com.ar/la-region/macabro-hallazgo-villa-gobernador-galvez-fotos-ninasy-munecos-bebesen-una-reserva-natural-n10284741.html",
+        "image": "https://media.lacapital.com.ar/p/eb888532b8fbff99f542224871eceb0d/adjuntos/203/imagenes/103/444/0103444970/1200x675/smart/macabro-hallazgo-310-3.jpg",
+        "summary": "El hecho fue denunciado por la Municipalidad, que aún aguarda por acciones de la Fiscalía Nº 2. Es la segunda vez que sucede un hecho de estas características",
         "pubDate": "2026-10-03T23:02:00+00:00",
         "approxTime": false
       },
@@ -213,19 +222,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Martín Ortega lamentó el empate de Newell's ante Lanús: \"Hicimos un gran desgaste, pero no alcanzó\"",
-        "link": "https://www.lacapital.com.ar/ovacion/martin-ortega-lamento-el-empate-newells-lanus-hicimos-un-gran-desgaste-pero-no-alcanzo-n10284735.html",
-        "image": "https://media.lacapital.com.ar/p/9803e1dbf9c1571e744032a1fe493e28/adjuntos/203/imagenes/103/355/0103355582/1200x675/smart/martin-ortega-newells.jpg",
-        "summary": "El lateral derecho del rojinegro enfatizó: \"Queremos clasificarnos a los playoffs y apuntar a lo más alto\".",
+        "title": "Dura derrota de Atlético del Rosario en Tortuguitas y la chance de salvarse se demora una semana",
+        "link": "https://www.lacapital.com.ar/ovacion/dura-derrota-atletico-del-rosario-tortuguitas-y-la-chance-salvarse-se-demora-una-semana-n10284730.html",
+        "image": "https://media.lacapital.com.ar/p/2c022016b47283c3cd2d28e035875c97/adjuntos/203/imagenes/103/444/0103444899/1200x675/smart/image-7.jpg",
+        "summary": "Plaza cayó con contundencia ante Alumni y ahora deberá ganarle al descendido Champagnat en el Pasaje Gould para seguir en el Top 14 de la Urba",
         "pubDate": "2026-10-03T22:12:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Dura derrota de Atlético del Rosario en Tortuguitas y la chance de salvarse se demora una semana",
-        "link": "https://www.lacapital.com.ar/ovacion/dura-derrota-atletico-del-rosario-tortuguitas-y-la-chance-salvarse-se-demora-una-semana-n10284730.html",
-        "image": "https://media.lacapital.com.ar/p/2c022016b47283c3cd2d28e035875c97/adjuntos/203/imagenes/103/444/0103444899/1200x675/smart/image-7.jpg",
-        "summary": "Plaza cayó con contundencia ante Alumni y ahora deberá ganarle al descendido Champagnat en el Pasaje Gould para seguir en el Top 14 de la Urba",
+        "title": "Martín Ortega lamentó el empate de Newell's ante Lanús: \"Hicimos un gran desgaste, pero no alcanzó\"",
+        "link": "https://www.lacapital.com.ar/ovacion/martin-ortega-lamento-el-empate-newells-lanus-hicimos-un-gran-desgaste-pero-no-alcanzo-n10284735.html",
+        "image": "https://media.lacapital.com.ar/p/9803e1dbf9c1571e744032a1fe493e28/adjuntos/203/imagenes/103/355/0103355582/1200x675/smart/martin-ortega-newells.jpg",
+        "summary": "El lateral derecho del rojinegro enfatizó: \"Queremos clasificarnos a los playoffs y apuntar a lo más alto\".",
         "pubDate": "2026-10-03T22:12:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/019d86489bb190afdc0de92c8d02f78b/adjuntos/203/imagenes/103/444/0103444960/1200x675/smart/marcha-del-orgullo-20266.jpeg",
         "summary": "Con su habitual feria previa a la movilización y un homenaje a Gabriela Banach, el colectivo LGBTQI+ llevó sus reclamos hacia el Parque Nacional a la Bandera",
         "pubDate": "2026-10-03T20:39:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Muerte de Giovani Mvogo Eteme: la familia reclamó mayor recompensa y avances en la causa",
-        "link": "https://www.lacapital.com.ar/la-ciudad/muerte-giovani-mvogo-eteme-la-familia-reclamo-mayor-recompensa-y-avances-la-causa-n10284505.html",
-        "image": "https://media.lacapital.com.ar/p/05969d2269e79bf9a0e66f296b265a09/adjuntos/203/imagenes/102/838/0102838264/1200x675/smart/marcha-giovani.png",
-        "summary": "A casi dos años de la muerte, la madre del joven hallado sin vida en el Parque España aseguró que la nueva suma ofrecida por el MPA \"es denigrante\"",
-        "pubDate": "2026-10-03T20:25:00+00:00",
         "approxTime": false
       }
     ]
