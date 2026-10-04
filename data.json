@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T21:01:22.060820+00:00",
+  "generatedAt": "2026-10-04T21:17:50.305538+00:00",
   "sites": {
     "rosario3": [
       {
@@ -31,10 +31,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Elecciones en Brasil: cerraron las urnas en todo el país y empieza el recuento de votos",
+        "title": "Elecciones en Brasil: cerraron las urnas en todo el país y se conocen los primeros resultados",
         "link": "https://www.rosario3.com/informaciongeneral/elecciones-en-brasil-ademas-de-lula-da-silva-y-flavio-bolsonaro-competiran-otras-once-formulas-20261003-0031.html",
         "image": "https://www.rosario3.com/__export/1791145909403/sites/rosario3/img/2026/10/04/elecciones_brasil_1.jpg_506286608.jpg",
-        "summary": "En los comicios de este domingo se elige presidente y vicepresidente, además de gobernadores, senadores y diputados. Lula da Silva y Geraldo Alckmin buscan la reelección frente a una amplia oferta electoral, que incluye a Flávio Bolsonaro y otros 11 binomios. Gran expectativa…",
+        "summary": "En los comicios de este domingo se elige presidente y vicepresidente, además de gobernadores, senadores y diputados. Lula da Silva y Geraldo Alckmin buscan la reelección frente a una amplia oferta electoral, que incluye a Flávio Bolsonaro y otros 11 binomios",
         "pubDate": "2026-10-03T11:57:00+00:00",
         "approxTime": true
       },
@@ -144,8 +144,35 @@
         "title": "Elecciones en Brasil: los primeros datos dan una ventaja a Flavio Bolsonaro sobre Lula",
         "link": "https://www.lacapital.com.ar/el-mundo/elecciones-brasil-los-primeros-datos-dan-una-ventaja-flavio-bolsonaro-lula-n10284831.html",
         "image": "https://media.lacapital.com.ar/p/0d1bd0d545d3e482eb4cbfd00142885b/adjuntos/203/imagenes/103/446/0103446021/1200x675/smart/imagebolso.jpg",
-        "summary": "Con más del 9% escrutado, el senador obtiene supera el 50% de los votos, frente al 41% del presidente Lula da Silva. Para evitar el balotaje, el ganador debe alcanzar el 50% de los sufragios",
-        "pubDate": "2026-10-04T20:59:00+00:00",
+        "summary": "Con más del 17% escrutado, el senador obtiene el 51% de los votos, frente al 40% del presidente Lula da Silva. Para evitar el balotaje, el ganador debe alcanzar el 50% de los sufragios",
+        "pubDate": "2026-10-04T21:16:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Primera C: victoria de Central Córdoba para consolidarse y de Argentino que no le sirvió para zafar",
+        "link": "https://www.lacapital.com.ar/ovacion/primera-c-victoria-central-cordoba-consolidarse-y-argentino-que-no-le-sirvio-zafar-n10284813.html",
+        "image": "https://media.lacapital.com.ar/p/af76298962e201d75b4a45c9b8795a39/adjuntos/203/imagenes/103/446/0103446043/1200x675/smart/image-2026-10-04t175900367.png",
+        "summary": "El Charrúa derrotó a Yupanqui en Arroyo Seco y quedó 3º en la Zona B. Y el Salaíto le ganó a Lugano en Tapiales, pero ya no puede evitar jugar por la desafiliación",
+        "pubDate": "2026-10-04T21:09:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Los gremios de Rosario preparan un paro regional",
+        "link": "https://www.lacapital.com.ar/economia/los-gremios-rosario-preparan-un-paro-regional-n10284827.html",
+        "image": "https://media.lacapital.com.ar/p/1c9d822612d1e4efd68fc550ac3f7e00/adjuntos/203/imagenes/101/608/0101608568/1200x675/468x264:488x284/aec-paro-marchajpg.jpg",
+        "summary": "Representantes de distintos sindicatos se reunieron para organizar la medida. Cuestionaron la precarización laboral y el deterioro de las condiciones de vida. Acompañarán la movilización del 8 de octubre en defensa de la industria nacional",
+        "pubDate": "2026-10-04T21:08:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Cómo quedó la UNR en el nuevo ranking de universidades de América Latina",
+        "link": "https://www.lacapital.com.ar/la-ciudad/como-quedo-la-unr-el-nuevo-ranking-universidades-america-latina-n10284797.html",
+        "image": "https://media.lacapital.com.ar/p/304f38201a6d9d6fb8abe7996f6f9a3c/adjuntos/203/imagenes/102/523/0102523156/1200x675/smart/facultad-medicinajpg.jpg",
+        "summary": "La clasificación QS volvió a medir a más de 500 instituciones de la región y dejó un dato relevante para la Universidad Nacional de Rosario, en un contexto de retroceso general para el sistema universitario argentino.",
+        "pubDate": "2026-10-04T21:05:00+00:00",
         "approxTime": false
       },
       {
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/d8801efdd9cc5684740808973d4eb13d/adjuntos/203/imagenes/025/239/0025239306/1200x675/smart/nubes1jpg.jpg",
         "summary": "El frío no termina de irse y la ciudad tendrá una semana con mucha nubosidad. La temperatura máxima rondará entre los 19 y 23 grados",
         "pubDate": "2026-10-04T15:43:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Fito Páez frenó su show en Mar del Plata, estalló contra el personal de seguridad y tiró el micrófono",
-        "link": "https://www.lacapital.com.ar/zoom/fito-paez-freno-su-show-mar-del-plata-estallo-contra-el-personal-seguridad-y-tiro-el-microfono-n10284778.html",
-        "image": "https://media.lacapital.com.ar/p/28f228e89d06cb2d236b4e0ee11db168/adjuntos/203/imagenes/103/445/0103445424/1200x675/smart/image-2026-10-04t104256669.jpg",
-        "summary": "El rosarino frenó el espectáculo que estaba dando en La Feliz y cuestionó el accionar del personal de seguridad",
-        "pubDate": "2026-10-04T14:32:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cirugía robótica colorrectal: menos dolor y recuperación más rápida para los pacientes",
-        "link": "https://www.lacapital.com.ar/salud/cirugia-robotica-colorrectal-menos-dolor-y-recuperacion-mas-rapida-los-pacientes-n10284313.html",
-        "image": "https://media.lacapital.com.ar/p/883c1fb2c751db1a75df2329be6b4f3b/adjuntos/203/imagenes/103/439/0103439536/1200x675/smart/imagen-nota.jpg",
-        "summary": "Especialistas de Grupo Oroño explican cómo los abordajes mínimamente invasivos y las plataformas robóticas transformaron el tratamiento del cáncer de colon y recto",
-        "pubDate": "2026-10-04T11:38:40+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "SkinnyTok: cuando la delgadez extrema vuelve a convertirse en tendencia",
-        "link": "https://www.lacapital.com.ar/salud/skinnytok-cuando-la-delgadez-extrema-vuelve-convertirse-tendencia-n10284312.html",
-        "image": "https://media.lacapital.com.ar/p/b440d2cc5c19b2f6ebab79eaf8f11a83/adjuntos/203/imagenes/103/439/0103439535/1200x675/smart/imagen-nota.jpg",
-        "summary": "Grupo Gamma advierte sobre el fenómeno que idealiza cuerpos extremadamente delgados en redes sociales y normaliza conductas alimentarias restrictivas disfrazadas de bienestar",
-        "pubDate": "2026-10-04T11:36:18+00:00",
         "approxTime": false
       }
     ]
