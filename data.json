@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T20:01:46.117963+00:00",
+  "generatedAt": "2026-10-04T20:31:05.878820+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Elecciones en Brasil 2026: cuál es el sitio oficial para seguir los resultados en vivo",
+        "link": "https://www.lacapital.com.ar/el-mundo/elecciones-brasil-2026-cual-es-el-sitio-oficial-seguir-los-resultados-vivo-n10284825.html",
+        "image": "https://media.lacapital.com.ar/p/d88c79af92a881ff4f601a0eb9eaf68a/adjuntos/203/imagenes/103/445/0103445976/1200x675/smart/imagevoto.jpg",
+        "summary": "El Tribunal Superior Electoral de Brasil habilitó una plataforma para consultar en tiempo real el escrutinio de las presidenciales y del resto de los cargos en juego. Los datos comenzarán a actualizarse desde las 17.",
+        "pubDate": "2026-10-04T20:00:31+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Máxima expectativa por las elecciones en Brasil: a qué hora se conocerán los resultados",
         "link": "https://www.lacapital.com.ar/el-mundo/maxima-expectativa-las-elecciones-brasil-que-hora-se-conoceran-los-resultados-n10284821.html",
         "image": "https://media.lacapital.com.ar/p/d01d98e7f8dcc073798faff3029fce4a/adjuntos/203/imagenes/103/437/0103437423/1200x675/smart/imagebolsonaro.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/44dc1af02f470b702427a2789e43fab9/adjuntos/203/imagenes/103/445/0103445277/1200x675/smart/imagen-nota.jpg",
         "summary": "El XXII Congreso, organizado por la Universidad del Gran Rosario y AATRA, se realizará el 23 y 24 de octubre con referentes de la Salud Mental de todo el país",
         "pubDate": "2026-10-04T11:33:57+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Valeria Lynch: \"Rosario me dio el espaldarazo para convertirme en artista popular\"",
-        "link": "https://www.lacapital.com.ar/zoom/valeria-lynch-rosario-me-dio-el-espaldarazo-convertirme-artista-popular-n10284080.html",
-        "image": "https://media.lacapital.com.ar/p/c6914f17c618fd16e175e685355fbf6e/adjuntos/203/imagenes/103/442/0103442107/1200x675/smart/image-2026-10-02t172246895.png",
-        "summary": "La reconocida cantante celebra sus más de 50 años de trayectoria con un nuevo show, que en Rosario se podrá ver el 28 de noviembre en La Segunda Arena",
-        "pubDate": "2026-10-04T11:26:00+00:00",
         "approxTime": false
       }
     ]
