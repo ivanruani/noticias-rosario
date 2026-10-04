@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T10:31:08.146620+00:00",
+  "generatedAt": "2026-10-04T11:01:19.663755+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,11 +141,11 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "Central de cara a Banfield: nuevas bajas que complican, pero con reemplazantes lógicos",
-        "link": "https://www.lacapital.com.ar/ovacion/central-cara-banfield-nuevas-bajas-que-complican-pero-reemplazantes-logicos-n10284670.html",
-        "image": "https://media.lacapital.com.ar/p/1a085799e49243b210892410ba4ab751/adjuntos/203/imagenes/103/444/0103444518/ldesmalv.jpeg",
-        "summary": "El Canalla sufrirá las ausencias de Axel Werner y Agustín Sández, por eso Jeremías Ledesma y Alexis Soto ya lustran los botines. La base será la de la final",
-        "pubDate": "2026-10-04T10:00:00+00:00",
+        "title": "Una carrera loca que Franco Colapinto terminó con mucha dignidad en Sepang con el mejor Alpine",
+        "link": "https://www.lacapital.com.ar/ovacion/una-carrera-loca-que-franco-colapinto-termino-mucha-dignidad-sepang-el-mejor-alpine-n10284757.html",
+        "image": "https://media.lacapital.com.ar/p/b5bef54b40e99d62631c918856960216/adjuntos/203/imagenes/103/445/0103445275/1200x675/smart/image-15.jpg",
+        "summary": "Primero la lluvia y luego la FIA demoraron el GP de Baréin y Franco Colapinto hizo una buena remontada para terminar más cerca de los puntos que Pierre Gasly",
+        "pubDate": "2026-10-04T10:29:00+00:00",
         "approxTime": false
       },
       {
@@ -154,6 +154,15 @@
         "link": "https://www.lacapital.com.ar/informacion-general/pami-ofrece-talleres-gratuitos-todo-tipo-santa-fe-como-anotarse-rosario-n10284497.html",
         "image": "https://media.lacapital.com.ar/p/8a22857d94cab2a3513808ed76c2ea32/adjuntos/203/imagenes/103/441/0103441132/1200x675/smart/pami-talleres.png",
         "summary": "Los afiliados a la obra social podrán encontrar en todas las provincias distintos talleres para todos los gustos. Cómo conocer la oferta y anotarse",
+        "pubDate": "2026-10-04T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central de cara a Banfield: nuevas bajas que complican, pero con reemplazantes lógicos",
+        "link": "https://www.lacapital.com.ar/ovacion/central-cara-banfield-nuevas-bajas-que-complican-pero-reemplazantes-logicos-n10284670.html",
+        "image": "https://media.lacapital.com.ar/p/1a085799e49243b210892410ba4ab751/adjuntos/203/imagenes/103/444/0103444518/ldesmalv.jpeg",
+        "summary": "El Canalla sufrirá las ausencias de Axel Werner y Agustín Sández, por eso Jeremías Ledesma y Alexis Soto ya lustran los botines. La base será la de la final",
         "pubDate": "2026-10-04T10:00:00+00:00",
         "approxTime": false
       },
@@ -168,15 +177,6 @@
       },
       {
         "source": "La Capital",
-        "title": "Villa Hortensia se convierte en un castillo medieval para recibir a La Comarca",
-        "link": "https://www.lacapital.com.ar/la-ciudad/villa-hortensia-se-convierte-un-castillo-medieval-recibir-la-comarca-n10284606.html",
-        "image": "https://media.lacapital.com.ar/p/b87dcb0fc02d0790fcdf507ecb5c0445/adjuntos/203/imagenes/103/442/0103442513/1200x675/smart/la-comarca.jpg",
-        "summary": "La XIII edición tendrá 120 puestos, combates, arquería, música, danza y desafíos para chicos. Será este domingo en el Centro de Distrito y en la Plaza Alberdi",
-        "pubDate": "2026-10-04T09:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "Chicharrita y otras plagas: el maíz exige más monitoreo y un manejo integrado",
         "link": "https://www.lacapital.com.ar/agro/chicharrita-y-otras-plagas-el-maiz-exige-mas-monitoreo-y-un-manejo-integrado-n10284374.html",
         "image": "https://media.lacapital.com.ar/p/b16f0cf0a96226e533754fb98011c1fe/adjuntos/305/imagenes/101/974/0101974057/1200x675/619x989:639x1009/maizjpg.jpg",
@@ -186,11 +186,11 @@
       },
       {
         "source": "La Capital",
-        "title": "Central Córdoba tiene un partido para jugar con calma y Argentino viaja lleno de angustia",
-        "link": "https://www.lacapital.com.ar/ovacion/central-cordoba-tiene-un-partido-jugar-calma-y-argentino-viaja-lleno-angustia-n10284718.html",
-        "image": "https://media.lacapital.com.ar/p/9e421ce9c129cb96771c66f68b412531/adjuntos/203/imagenes/103/382/0103382423/1200x675/smart/image-69.png",
-        "summary": "Ambos juegan esta tarde por el torneo de la Primera C: el Charrúa recibe a Yupanqui en el Gabino Sosa, mientras que el Salaíto visitará a Lugano en Tapiales",
-        "pubDate": "2026-10-04T09:10:00+00:00",
+        "title": "Villa Hortensia se convierte en un castillo medieval para recibir a La Comarca",
+        "link": "https://www.lacapital.com.ar/la-ciudad/villa-hortensia-se-convierte-un-castillo-medieval-recibir-la-comarca-n10284606.html",
+        "image": "https://media.lacapital.com.ar/p/b87dcb0fc02d0790fcdf507ecb5c0445/adjuntos/203/imagenes/103/442/0103442513/1200x675/smart/la-comarca.jpg",
+        "summary": "La XIII edición tendrá 120 puestos, combates, arquería, música, danza y desafíos para chicos. Será este domingo en el Centro de Distrito y en la Plaza Alberdi",
+        "pubDate": "2026-10-04T09:15:00+00:00",
         "approxTime": false
       },
       {
@@ -199,6 +199,15 @@
         "link": "https://www.lacapital.com.ar/politica/rosario-autonoma-el-oficialismo-encara-el-camino-la-nueva-carta-organica-n10284704.html",
         "image": "https://media.lacapital.com.ar/p/6004cec6c6c398daf910a5ef6fab10e5/adjuntos/203/imagenes/103/397/0103397596/1200x675/smart/municipalidad.jpg",
         "summary": "Antes de fin de año, la Intendencia y el Concejo iniciarán una ronda de diálogo político y social. En 2027, la ciudad elegirá estatuyentes",
+        "pubDate": "2026-10-04T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central Córdoba tiene un partido para jugar con calma y Argentino viaja lleno de angustia",
+        "link": "https://www.lacapital.com.ar/ovacion/central-cordoba-tiene-un-partido-jugar-calma-y-argentino-viaja-lleno-angustia-n10284718.html",
+        "image": "https://media.lacapital.com.ar/p/9e421ce9c129cb96771c66f68b412531/adjuntos/203/imagenes/103/382/0103382423/1200x675/smart/image-69.png",
+        "summary": "Ambos juegan esta tarde por el torneo de la Primera C: el Charrúa recibe a Yupanqui en el Gabino Sosa, mientras que el Salaíto visitará a Lugano en Tapiales",
         "pubDate": "2026-10-04T09:10:00+00:00",
         "approxTime": false
       },
@@ -249,15 +258,6 @@
       },
       {
         "source": "La Capital",
-        "title": "Macabro hallazgo en Villa Gobernador Gálvez: fotos de niñas y muñecos de bebés en una reserva natural",
-        "link": "https://www.lacapital.com.ar/la-region/macabro-hallazgo-villa-gobernador-galvez-fotos-ninasy-munecos-bebesen-una-reserva-natural-n10284741.html",
-        "image": "https://media.lacapital.com.ar/p/eb888532b8fbff99f542224871eceb0d/adjuntos/203/imagenes/103/444/0103444970/1200x675/smart/macabro-hallazgo-310-3.jpg",
-        "summary": "El hecho fue denunciado por la Municipalidad, que aún aguarda por acciones de la Fiscalía Nº 2. Es la segunda vez que sucede un hecho de estas características",
-        "pubDate": "2026-10-03T23:02:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "Frank Kudelka: \"Es momento de jugar manteniendo la zona de clasificación y hay que defenderla a ultranza\"",
         "link": "https://www.lacapital.com.ar/ovacion/frank-kudelka-es-momento-jugar-manteniendo-la-zona-clasificacion-y-hay-que-defenderla-ultranza-n10284740.html",
         "image": "https://media.lacapital.com.ar/p/00992ba9aeee9cbdad4374eb63d7afc5/adjuntos/203/imagenes/103/444/0103444996/1200x675/smart/image-8.jpg",
@@ -267,11 +267,11 @@
       },
       {
         "source": "La Capital",
-        "title": "El tiempo en Rosario: la semana cierra con neblina y cielo mayormente nublado",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-la-semana-cierra-neblina-y-cielo-mayormente-nublado-n10284733.html",
-        "image": "https://media.lacapital.com.ar/p/bd611a9324392022cb063eb4d871ba02/adjuntos/203/imagenes/100/105/0100105852/1200x675/smart/nubladojpg.jpg",
-        "summary": "El domingo comenzará fresco, pero con el correr de las horas las condiciones meteorológicas serán templadas",
-        "pubDate": "2026-10-03T22:53:00+00:00",
+        "title": "Macabro hallazgo en Villa Gobernador Gálvez: fotos de niñas y muñecos de bebés en una reserva natural",
+        "link": "https://www.lacapital.com.ar/la-region/macabro-hallazgo-villa-gobernador-galvez-fotos-ninasy-munecos-bebesen-una-reserva-natural-n10284741.html",
+        "image": "https://media.lacapital.com.ar/p/eb888532b8fbff99f542224871eceb0d/adjuntos/203/imagenes/103/444/0103444970/1200x675/smart/macabro-hallazgo-310-3.jpg",
+        "summary": "El hecho fue denunciado por la Municipalidad, que aún aguarda por acciones de la Fiscalía Nº 2. Es la segunda vez que sucede un hecho de estas características",
+        "pubDate": "2026-10-03T23:02:00+00:00",
         "approxTime": false
       }
     ]
