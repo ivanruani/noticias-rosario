@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T21:17:50.305538+00:00",
+  "generatedAt": "2026-10-04T21:31:06.635733+00:00",
   "sites": {
     "rosario3": [
       {
@@ -31,10 +31,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Elecciones en Brasil: cerraron las urnas en todo el país y se conocen los primeros resultados",
+        "title": "Elecciones en Brasil: Bolsonaro supera el 50% y toma ventaja sobre Lula da Silva",
         "link": "https://www.rosario3.com/informaciongeneral/elecciones-en-brasil-ademas-de-lula-da-silva-y-flavio-bolsonaro-competiran-otras-once-formulas-20261003-0031.html",
         "image": "https://www.rosario3.com/__export/1791145909403/sites/rosario3/img/2026/10/04/elecciones_brasil_1.jpg_506286608.jpg",
-        "summary": "En los comicios de este domingo se elige presidente y vicepresidente, además de gobernadores, senadores y diputados. Lula da Silva y Geraldo Alckmin buscan la reelección frente a una amplia oferta electoral, que incluye a Flávio Bolsonaro y otros 11 binomios",
+        "summary": "En los comicios de este domingo se eligen presidente y vicepresidente, además de gobernadores, senadores y diputados. Lula da Silva y Geraldo Alckmin buscan la reelección frente a una amplia oferta electoral, que incluye a Flávio Bolsonaro y otros 11 binomios",
         "pubDate": "2026-10-03T11:57:00+00:00",
         "approxTime": true
       },
@@ -141,11 +141,20 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "Elecciones en Brasil: los primeros datos dan una ventaja a Flavio Bolsonaro sobre Lula",
-        "link": "https://www.lacapital.com.ar/el-mundo/elecciones-brasil-los-primeros-datos-dan-una-ventaja-flavio-bolsonaro-lula-n10284831.html",
+        "title": "Elecciones en Brasil: Flavio Bolsonaro aventaja a Lula, con más del 20% escrutado",
+        "link": "https://www.lacapital.com.ar/el-mundo/elecciones-brasil-flavio-bolsonaro-aventaja-lula-mas-del-20-escrutado-n10284831.html",
         "image": "https://media.lacapital.com.ar/p/0d1bd0d545d3e482eb4cbfd00142885b/adjuntos/203/imagenes/103/446/0103446021/1200x675/smart/imagebolso.jpg",
-        "summary": "Con más del 17% escrutado, el senador obtiene el 51% de los votos, frente al 40% del presidente Lula da Silva. Para evitar el balotaje, el ganador debe alcanzar el 50% de los sufragios",
-        "pubDate": "2026-10-04T21:16:00+00:00",
+        "summary": "El senador obtiene el 51% de los votos, frente al 40% del presidente Lula da Silva. Para evitar el balotaje, el ganador debe alcanzar el 50% de los sufragios",
+        "pubDate": "2026-10-04T21:21:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Las ventas minoristas registraron una mejora del 0,3% en septiembre pero acumulan una baja de 2,1% en el año",
+        "link": "https://www.lacapital.com.ar/economia/las-ventas-minoristas-registraron-una-mejora-del-03-septiembre-pero-acumulan-una-baja-21-el-ano-n10284823.html",
+        "image": "https://media.lacapital.com.ar/p/d7ce599f15c8deb606b8bca54f5e93be/adjuntos/203/imagenes/102/040/0102040108/1200x675/smart/2006-peatonal-cordobajpg.jpg",
+        "summary": "Came informó que las ventas minoristas retrocedieron 1,2% frente a agosto. Las familias priorizaron compras indispensables y postergaron los gastos de mayor valor",
+        "pubDate": "2026-10-04T21:17:00+00:00",
         "approxTime": false
       },
       {
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/73116a6afb074b86675f9d70cc519264/adjuntos/203/imagenes/103/445/0103445758/1200x675/smart/image-2026-10-04t133200180.jpg",
         "summary": "Al ser carreras declaradas de interés público deben someterse a evaluaciones periódicas. Cuatro especialidades de posgrado también obtuvieron la máxima calificación",
         "pubDate": "2026-10-04T16:44:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El tiempo en Rosario: se espera una semana con poco sol y algunos chaparrones",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-se-espera-una-semana-poco-sol-y-algunos-chaparrones-n10284769.html",
-        "image": "https://media.lacapital.com.ar/p/d8801efdd9cc5684740808973d4eb13d/adjuntos/203/imagenes/025/239/0025239306/1200x675/smart/nubes1jpg.jpg",
-        "summary": "El frío no termina de irse y la ciudad tendrá una semana con mucha nubosidad. La temperatura máxima rondará entre los 19 y 23 grados",
-        "pubDate": "2026-10-04T15:43:00+00:00",
         "approxTime": false
       }
     ]
