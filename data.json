@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T17:33:25.973036+00:00",
+  "generatedAt": "2026-10-04T18:01:14.661419+00:00",
   "sites": {
     "rosario3": [
       {
@@ -67,11 +67,29 @@
       },
       {
         "source": "Rosario3",
+        "title": "Una fecha a pedir de Newell’s, que termina entre los ocho pese al empate en el Coloso",
+        "link": "https://www.rosario3.com/deportes/una-fecha-a-pedir-de-newells-que-termina-entre-los-ocho-pese-al-empate-en-el-coloso-20261004-0024.html",
+        "image": "https://www.rosario3.com/__export/1791136631260/sites/rosario3/img/2026/10/04/regiardo.jpg_506286608.jpg",
+        "summary": "El equipo de Frank Kudelka empató en cero ante Lanús el sábado y los resultados de otros competidores directos le jugaron a favor. Finalizará la jornada adentro de los playoffs e incluso subió un peldaño por la goleada que sufrió Independiente",
+        "pubDate": "2026-10-04T11:53:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "La base de la final y un par de cambios obligados: el equipo de Central ante Banfield",
+        "link": "https://www.rosario3.com/deportes/la-base-de-la-final-y-un-par-de-cambios-obligados-el-equipo-de-central-ante-banfield-20261004-0023.html",
+        "image": "https://www.rosario3.com/__export/1791135444676/sites/rosario3/img/2025/10/18/werner.jpg_928314581.jpg",
+        "summary": "El Canalla no tendrá al arquero Axel Werner ni al lateral Agustín Sández para visitar este lunes al Taladro",
+        "pubDate": "2026-10-04T11:52:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Venta de tierras sin límites a extranjeros: “Bajo la premisa de la Corte, nadie está legitimado para realizar un planteo judicial sobre la soberanía”",
         "link": "https://www.rosario3.com/opinion/venta-de-tierras-sin-limites-a-extranjeros-bajo-la-premisa-de-la-corte-nadie-esta-legitimado-para-realizar-un-planteo-judicial-sobre-el-bien-colectivo-de-la-soberania-20261002-0066.html",
         "image": "https://www.rosario3.com/__export/1790981210228/sites/rosario3/img/2026/10/02/tierra.jpg_1768679258.jpg",
         "summary": "Tras el fracaso del oficialismo en el Congreso por la Ley de Tierras, el máximo tribunal reafirmó el DNU 70 23 de Milei. Con su decisión, facilita la venta de territorio y el debate vuelve a Diputados. “La ley de tierras está derogada por una resolución de la Corte, pero los…",
-        "pubDate": "2026-10-02T11:53:00+00:00",
+        "pubDate": "2026-10-02T11:51:00+00:00",
         "approxTime": true
       },
       {
@@ -80,7 +98,7 @@
         "link": "https://www.rosario3.com/tecnologia/del-otro-lado-de-la-pantalla-cada-vez-menos-personas-20261002-0062.html",
         "image": "https://www.rosario3.com/__export/1790973043603/sites/rosario3/img/2026/10/02/000_-_imagen_de_portada_-_2026-10-02t172941_632.jpg_1768679257.jpg",
         "summary": "Por primera vez, la mayor parte de la actividad en Internet ya no la generan los humanos. Bots y agentes de IA avanzan sobre la web, cambiando su economía y reviviendo una vieja teoría conspirativa",
-        "pubDate": "2026-10-02T11:52:00+00:00",
+        "pubDate": "2026-10-02T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -89,7 +107,7 @@
         "link": "https://www.rosario3.com/policiales/investigan-el-crimen-de-una-nina-de-tres-anos-en-villa-la-angostura-su-padre-esta-internado-bajo-custodia-20261004-0018.html",
         "image": "https://www.rosario3.com/__export/1791131436248/sites/rosario3/img/2026/10/04/policia_la_angostura.jpg_1825222445.jpg",
         "summary": "El hecho ocurrió este sábado en una vivienda de la localidad neuquina. La investigación apunta al padre de la víctima, quien habría atacado a la menor con un arma blanca en medio de una agresión contra su pareja y luego resultó gravemente herido",
-        "pubDate": "2026-10-04T11:51:00+00:00",
+        "pubDate": "2026-10-04T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -98,7 +116,7 @@
         "link": "https://www.rosario3.com/ocio/se-viene-el-festival-payasadas-2026-en-rosario-20261004-0014.html",
         "image": "https://www.rosario3.com/__export/1791126981817/sites/rosario3/img/2026/10/04/payasadas_version1791126981281.jpg_54252875.jpg",
         "summary": "La actividad, organizada por la Escuela Municipal de Artes Urbanas, se desarrollará del 7 al 11 de octubre en la sede de la institución (Estévez Boero 670). Gratis",
-        "pubDate": "2026-10-04T11:50:00+00:00",
+        "pubDate": "2026-10-04T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -107,7 +125,7 @@
         "link": "https://www.rosario3.com/ecos365/noticias/pullaro-apura-medio-centenar-de-inversiones-y-mundo-cripto-local-bajo-la-lupa-20261004-0001.html",
         "image": "https://www.rosario3.com/__export/1791119020832/sites/rosario3/img/2026/10/04/dsc02547_crop1791118957927.jpg_1383533934.jpg",
         "summary": "Santa Fe acelera permisos para transformar proyectos en empleo mientras algunas empresas buscan comprador y otras llegan al concurso. Entre inversiones industriales, nuevos negocios y fondos internacionales, también avanza otra agenda: seguir el dinero del delito y sus…",
-        "pubDate": "2026-10-04T11:49:00+00:00",
+        "pubDate": "2026-10-04T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -116,24 +134,6 @@
         "link": "https://www.rosario3.com/ocio/se-cumplen-40-anos-del-lanzamiento-de-oktubre-el-segundo-disco-de-patricio-rey-y-sus-redonditos-de-ricota-20261004-0019.html",
         "image": "https://www.rosario3.com/__export/1791132878569/sites/rosario3/img/2026/10/04/oktubre_version1791132857348.jpg_54252875.jpg",
         "summary": "La placa marcó un cambio estético respecto del debut, Gulp!. Más sombrío, atravesado por el post-punk, el álbum propuso una atmósfera entre apocalíptica y crítica del consumo. Salió a la calle de manera independiente, el 4 de octubre de 1986",
-        "pubDate": "2026-10-04T11:48:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Fin del amor: Lourdes Sánchez y el Chato Prada se separaron después de 16 años de relación",
-        "link": "https://www.rosario3.com/ocio/fin-del-amor-lourdes-sanchez-y-el-chato-prada-se-separaron-despues-de-16-anos-de-relacion-20261004-0017.html",
-        "image": "https://www.rosario3.com/__export/1791130047656/sites/rosario3/img/2026/10/04/chato_y_lourdez.jpg_1768679257.jpg",
-        "summary": "Con un hijo en común y tras rumores de infidelidades, la bailarina y el productor anunciaron que no están más en pareja",
-        "pubDate": "2026-10-04T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Trump creó la Fuerza de la Superinteligencia para coordinar el desarrollo de IA en EE.UU.",
-        "link": "https://www.rosario3.com/informaciongeneral/trump-creo-la-fuerza-de-la-superinteligencia-para-coordinar-el-desarrollo-de-ia-en-ee.uu.-20261004-0015.html",
-        "image": "https://www.rosario3.com/__export/1791128166432/sites/rosario3/img/2026/10/04/donald_trump_version1791128165966.jpg_54252875.jpg",
-        "summary": "El mandatario comunicó la decisión este domingo, a través de una publicación en la red social Truth Social. La unidad especial coordinará la relación del Ejecutivo federal con los consumidores, grupos de interés públicos, proveedores o empresas de inteligencia artificial…",
         "pubDate": "2026-10-04T11:46:00+00:00",
         "approxTime": true
       }
