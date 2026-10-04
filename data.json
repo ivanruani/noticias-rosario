@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T17:31:05.828717+00:00",
+  "generatedAt": "2026-10-04T17:33:25.973036+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "La fortaleza que tiene Central para desenfundar en una nueva excursión fuera de Arroyito",
+        "link": "https://www.lacapital.com.ar/ovacion/la-fortaleza-que-tiene-central-desenfundar-una-nueva-excursion-fuera-arroyito-n10284788.html",
+        "image": "https://media.lacapital.com.ar/p/9f211cfafd9fd3bd8f92aa6d1363502f/adjuntos/203/imagenes/103/445/0103445546/tigremb.jpeg",
+        "summary": "El equipo de Jorge Almirón visitará a Banfield con bajas importantes, pero con un antecedente reciente que le permite sostener la confianza lejos del Gigante.",
+        "pubDate": "2026-10-04T17:26:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Banfield vs. Rosario Central por el torneo Clausura: hora, canal y posibles formaciones",
         "link": "https://www.lacapital.com.ar/ovacion/banfield-vs-rosario-central-el-torneo-clausura-hora-canal-y-posibles-formaciones-n10284487.html",
         "image": "https://media.lacapital.com.ar/p/788a475a93fbb4e041a3257e0bf7b919/adjuntos/203/imagenes/103/440/0103440990/1200x675/smart/banfield-central.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/1a085799e49243b210892410ba4ab751/adjuntos/203/imagenes/103/444/0103444518/ldesmalv.jpeg",
         "summary": "El Canalla sufrirá las ausencias de Axel Werner y Agustín Sández, por eso Jeremías Ledesma y Alexis Soto ya lustran los botines. La base será la de la final",
         "pubDate": "2026-10-04T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Los deportes en grupo cambiaron la forma de conocer gente y generar comunidad en Rosario",
-        "link": "https://www.lacapital.com.ar/la-ciudad/los-deportes-grupo-cambiaron-la-forma-conocer-gente-y-generar-comunidad-rosario-n10280048.html",
-        "image": "https://media.lacapital.com.ar/p/094753f1d53cfdaba6c55f1d0f3a82f2/adjuntos/203/imagenes/103/422/0103422237/1200x675/smart/sup.jpg",
-        "summary": "Actividades ligadas al río como el SUP y el kayak o los deportes ligados al atletismo, como el running, hyrox y ciclismo explican un fenómeno en pleno auge",
-        "pubDate": "2026-10-04T09:30:00+00:00",
         "approxTime": false
       }
     ]
