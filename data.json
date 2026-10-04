@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T23:45:37.585407+00:00",
+  "generatedAt": "2026-10-04T00:01:23.883789+00:00",
   "sites": {
     "rosario3": [
       {
@@ -40,11 +40,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "En la previa de la despedida de Messi, Argentina tiene equipo confirmado para jugar ante Burkina Faso en su segundo amistoso",
+        "link": "https://www.rosario3.com/deportes/mientras-messi-prepara-su-fiesta-de-despedida-argentina-vuelve-al-monumental-ante-burkina-faso-en-su-segundo-amistoso-20261002-0071.html",
+        "image": "https://www.rosario3.com/__export/1790981111610/sites/rosario3/img/2026/10/02/paz.jpg_928314580.jpg",
+        "summary": "La selección enfrenta este sábado al combinado africano por el segundo amistoso de la fecha FIFA. Será el primer partido de Argentina en Núñez después del Mundial y una nueva prueba en la etapa posterior a Lionel Messi. Transmite Radio 2",
+        "pubDate": "2026-10-02T11:56:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Kudelka, tras el empate ante Lanús: \"Tengo que ser estratégico porque estamos manteniendo la zona de clasificación\"",
         "link": "https://www.rosario3.com/deportes/kudelka-tras-el-empate-ante-lanus-tengo-que-ser-estrategico-porque-estamos-manteniendo-la-zona-de-clasificacion-20261003-0029.html",
         "image": "https://www.rosario3.com/__export/1791068658015/sites/rosario3/img/2026/10/03/kudelka.jpg_928314580.jpg",
         "summary": "El entrenador Rojinegro habló de la 'no dilapidar' los buenos momentos del equipo en el torneo y de saber leer los partidos cuando no el equipo no encuentra fluidez. Con su equipo en zona de clasificación, reconoció que también debe tener en cuenta la situación en la tabla",
-        "pubDate": "2026-10-03T11:56:00+00:00",
+        "pubDate": "2026-10-03T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -53,15 +62,6 @@
         "link": "https://www.rosario3.com/deportes/seguimiento-individual-leproso-lucas-carrizo-el-mas-solido-en-un-partido-sin-arcos-20261003-0024.html",
         "image": "https://www.rosario3.com/__export/1791066056385/sites/rosario3/img/2026/10/03/seguim.jpg_928314580.jpg",
         "summary": "El rendimiento de los futbolistas rojinegros en el empate ante Lanús por la fecha 11 del Torneo Clausura",
-        "pubDate": "2026-10-03T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Newell’s no pierde, se ilusiona y va por más: los cinco partidos que le quedan para meterse en playoffs",
-        "link": "https://www.rosario3.com/deportes/newells-no-pierde-se-ilusiona-y-va-por-mas-los-cinco-partidos-que-le-quedan-para-meterse-en-playoffs-20261003-0026.html",
-        "image": "https://www.rosario3.com/__export/1791067708260/sites/rosario3/img/2026/10/03/reinatti.jpg_928314581.jpg",
-        "summary": "La Lepra acumula siete partidos sin derrotas y quedó bien posicionada en la pelea por la clasificación. El equipo de Frank Kudelka busca meterse por primera vez entre los ocho mejores del Torneo Clausura",
         "pubDate": "2026-10-03T11:54:00+00:00",
         "approxTime": true
       },
@@ -94,10 +94,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Desapareció un avión privado en el océano Atlántico y Estados Unidos desplegó un operativo de búsqueda",
-        "link": "https://www.rosario3.com/informaciongeneral/desaparecio-un-avion-privado-en-el-oceano-atlantico-y-estados-unidos-desplego-un-operativo-de-busqueda-20261003-0022.html",
-        "image": "https://www.rosario3.com/__export/1791057988390/sites/rosario3/img/2026/10/03/vion.jpg_928314580.jpg",
-        "summary": "La aeronave viajaba desde Bermudas hacia Massachusetts con seis personas a bordo al momento de perder contacto. La Guardia Costera rastrea la zona al sudeste de la isla de Nantucket",
+        "title": "Newell’s no pierde, se ilusiona y va por más: los cinco partidos que le quedan para meterse en playoffs",
+        "link": "https://www.rosario3.com/deportes/newells-no-pierde-se-ilusiona-y-va-por-mas-los-cinco-partidos-que-le-quedan-para-meterse-en-playoffs-20261003-0026.html",
+        "image": "https://www.rosario3.com/__export/1791067708260/sites/rosario3/img/2026/10/03/reinatti.jpg_928314581.jpg",
+        "summary": "La Lepra acumula siete partidos sin derrotas y quedó bien posicionada en la pelea por la clasificación. El equipo de Frank Kudelka busca meterse por primera vez entre los ocho mejores del Torneo Clausura",
         "pubDate": "2026-10-03T11:50:00+00:00",
         "approxTime": true
       },
