@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T02:01:17.168476+00:00",
+  "generatedAt": "2026-10-05T02:31:05.840630+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Armaduras, arquería y un viaje al tiempo medieval desde Villa Hortensia",
+        "link": "https://www.lacapital.com.ar/la-ciudad/armaduras-arqueria-y-un-viaje-al-tiempo-medieval-villa-hortensia-n10284875.html",
+        "image": "https://media.lacapital.com.ar/p/3ce683af1c85d9e87ab154fa992a00b4/adjuntos/203/imagenes/103/446/0103446572/2026-10-04-la-comarca-1-by_ssmeccia-82740131.jpg",
+        "summary": "Con 120 stands, combates históricos, música y una gran presencia de público, la 13ª edición de “La Comarca” copó el distrito y la plaza Alberdi",
+        "pubDate": "2026-10-05T02:20:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Lula, decepcionado: \"Estaba convencido de que ganaba en primera vuelta\"",
+        "link": "https://www.lacapital.com.ar/el-mundo/lula-decepcionado-estaba-convencido-que-ganaba-primera-vuelta-n10284874.html",
+        "image": "https://media.lacapital.com.ar/p/f7953e08509c39ed7616fbca6dc2da4f/adjuntos/203/imagenes/103/446/0103446526/2026-10-04-lula.jpg",
+        "summary": "\"Soy muy bueno en el mata-mata\", aseguró el presidente, confiado en revertir la elección en el balotaje del próximo domingo 25",
+        "pubDate": "2026-10-05T02:01:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Bolsonaro arrasó en Santa Catarina, donde superó a Lula por 41,6 puntos",
         "link": "https://www.lacapital.com.ar/el-mundo/bolsonaro-arraso-santa-catarina-donde-supero-lula-416-puntos-n10284870.html",
         "image": "https://media.lacapital.com.ar/p/a05a8ffe6ae2698bf3502da4968325e6/adjuntos/203/imagenes/103/446/0103446482/2026-10-04-bolsonaro-82740694.jpg",
@@ -240,7 +258,7 @@
       },
       {
         "source": "La Capital",
-        "title": "Cómo quedó la UNR en el nuevo ranking de universidades de América Latina",
+        "title": "Cómo quedó la UNR en el nuevo ránking de universidades de América Latina",
         "link": "https://www.lacapital.com.ar/la-ciudad/como-quedo-la-unr-el-nuevo-ranking-universidades-america-latina-n10284797.html",
         "image": "https://media.lacapital.com.ar/p/304f38201a6d9d6fb8abe7996f6f9a3c/adjuntos/203/imagenes/102/523/0102523156/1200x675/smart/facultad-medicinajpg.jpg",
         "summary": "La clasificación QS volvió a medir a más de 500 instituciones de la región y dejó un dato relevante para la Universidad Nacional de Rosario, en un contexto de retroceso general para el sistema universitario argentino.",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/d88c79af92a881ff4f601a0eb9eaf68a/adjuntos/203/imagenes/103/445/0103445976/1200x675/smart/imagevoto.jpg",
         "summary": "El Tribunal Superior Electoral de Brasil habilitó una plataforma para consultar en tiempo real el escrutinio de las presidenciales y del resto de los cargos en juego. Los datos comenzarán a actualizarse desde las 17.",
         "pubDate": "2026-10-04T20:00:31+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Máxima expectativa por las elecciones en Brasil: a qué hora se conocerán los resultados",
-        "link": "https://www.lacapital.com.ar/el-mundo/maxima-expectativa-las-elecciones-brasil-que-hora-se-conoceran-los-resultados-n10284821.html",
-        "image": "https://media.lacapital.com.ar/p/d01d98e7f8dcc073798faff3029fce4a/adjuntos/203/imagenes/103/437/0103437423/1200x675/smart/imagebolsonaro.jpg",
-        "summary": "Más de 158 millones de brasileños votan este domingo en una elección presidencial marcada por la paridad entre Lula da Silva y Flávio Bolsonaro. Las urnas cierran a las 17.",
-        "pubDate": "2026-10-04T19:44:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Un diputado rosarino presentó un proyecto para prohibir la venta de la ciudadanía argentina",
-        "link": "https://www.lacapital.com.ar/politica/un-diputado-rosarino-presento-un-proyecto-prohibir-la-venta-la-ciudadania-argentina-n10284815.html",
-        "image": "https://media.lacapital.com.ar/p/60d0713b143f715f5f6b482a83295d4c/adjuntos/203/imagenes/103/445/0103445928/1200x675/smart/imagepasa.jpg",
-        "summary": "El legislador nacional Agustín Rossi presentó una iniciativa para derogar el régimen de “ciudadanía por inversión” impulsado por el gobierno. El programa permitiría acceder a la nacionalidad mediante un pago de 350 mil dólares.",
-        "pubDate": "2026-10-04T19:07:00+00:00",
         "approxTime": false
       }
     ]
