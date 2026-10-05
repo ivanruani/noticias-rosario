@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T01:01:14.189853+00:00",
+  "generatedAt": "2026-10-05T01:31:03.913462+00:00",
   "sites": {
     "rosario3": [
       {
@@ -22,20 +22,20 @@
       },
       {
         "source": "Rosario3",
-        "title": "Docentes de la UNR convocan a una asamblea para definir la continuidad del plan de lucha",
-        "link": "https://www.rosario3.com/informaciongeneral/docentes-de-la-unr-convocan-a-una-asamblea-para-definir-la-continuidad-del-plan-de-lucha-20261004-0037.html",
-        "image": "https://www.rosario3.com/__export/1791160977015/sites/rosario3/img/2026/10/04/coad.jpg_1603005731.jpg",
-        "summary": "Tras el paro de una semana y en medio de la tensión por el incumplimiento de la Ley de Financiamiento Universitario, el gremio Coad llamó a un encuentro este martes en la sede gremial",
-        "pubDate": "2026-10-04T11:58:00+00:00",
+        "title": "Brasil: Lula y Flávio Bolsonaro irán al balotaje tras una reñida primera vuelta",
+        "link": "https://www.rosario3.com/informaciongeneral/elecciones-en-brasil-ademas-de-lula-da-silva-y-flavio-bolsonaro-competiran-otras-once-formulas-20261003-0031.html",
+        "image": "https://www.rosario3.com/__export/1791153452542/sites/rosario3/img/2026/10/04/bolsonaro_lula_da_silva.jpg_506286608.jpg",
+        "summary": "Con más del 98% escrutado, el senador encabezaba los comicios con el 47,3% frente al 44,8% del actual mandatario, obligando a una definición el 25 de octubre",
+        "pubDate": "2026-10-03T11:58:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Brasil: Flávio Bolsonaro lidera el conteo y apunta a un balotaje con Lula da Silva",
-        "link": "https://www.rosario3.com/informaciongeneral/elecciones-en-brasil-ademas-de-lula-da-silva-y-flavio-bolsonaro-competiran-otras-once-formulas-20261003-0031.html",
-        "image": "https://www.rosario3.com/__export/1791153452542/sites/rosario3/img/2026/10/04/bolsonaro_lula_da_silva.jpg_506286608.jpg",
-        "summary": "Con el 95% escrutado, el senador encabezaba los comicios presidenciales con el 47% de los votos frente al 44% del actual mandatario, anticipando una definición el 25 de octubre",
-        "pubDate": "2026-10-03T11:57:00+00:00",
+        "title": "Docentes de la UNR convocan a una asamblea para definir la continuidad del plan de lucha",
+        "link": "https://www.rosario3.com/informaciongeneral/docentes-de-la-unr-convocan-a-una-asamblea-para-definir-la-continuidad-del-plan-de-lucha-20261004-0037.html",
+        "image": "https://www.rosario3.com/__export/1791160977015/sites/rosario3/img/2026/10/04/coad.jpg_1603005731.jpg",
+        "summary": "Tras el paro de una semana y en medio de la tensión por el incumplimiento de la Ley de Financiamiento Universitario, el gremio Coad llamó a un encuentro este martes en la sede gremial",
+        "pubDate": "2026-10-04T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Bolsonaro arrasó en Santa Catarina, donde superó a Lula por 41,6 puntos",
+        "link": "https://www.lacapital.com.ar/el-mundo/bolsonaro-arraso-santa-catarina-donde-supero-lula-416-puntos-n10284870.html",
+        "image": "https://media.lacapital.com.ar/p/a05a8ffe6ae2698bf3502da4968325e6/adjuntos/203/imagenes/103/446/0103446482/2026-10-04-bolsonaro-82740694.jpg",
+        "summary": "El gobernador, también del PL, logró la reelección con una victoria aún más aplastante. El juez que encarceló a Lula será gobernador de Paraná",
+        "pubDate": "2026-10-05T01:23:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Lo que dejó Sepang para Franco Colapinto: una sólida carrera para dejar atrás rápido Bakú",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/60d0713b143f715f5f6b482a83295d4c/adjuntos/203/imagenes/103/445/0103445928/1200x675/smart/imagepasa.jpg",
         "summary": "El legislador nacional Agustín Rossi presentó una iniciativa para derogar el régimen de “ciudadanía por inversión” impulsado por el gobierno. El programa permitiría acceder a la nacionalidad mediante un pago de 350 mil dólares.",
         "pubDate": "2026-10-04T19:07:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "San Nicolás anticipó la fiesta del TC en Rosario con triunfos ddebutantes de la región",
-        "link": "https://www.lacapital.com.ar/ovacion/san-nicolas-anticipo-la-fiesta-del-tc-rosario-triunfos-ddebutantes-la-region-n10284808.html",
-        "image": "https://media.lacapital.com.ar/p/fa51279a6feed320b1135a78c4f2babe/adjuntos/203/imagenes/103/445/0103445851/1200x675/smart/image-17.jpg",
-        "summary": "El rosarino por adopción Thomas Pozner en TC Pista y el de Villa Minetti Ignacio Faín en Turismo Carretera subieron al podio por primera vez",
-        "pubDate": "2026-10-04T18:31:00+00:00",
         "approxTime": false
       }
     ]
