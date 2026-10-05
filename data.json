@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T12:01:15.077888+00:00",
+  "generatedAt": "2026-10-05T12:31:09.600234+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,11 +13,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Gracias eternas: la camiseta más grande del mundo y otros homenajes a Messi en Rosario",
+        "link": "https://www.rosario3.com/informaciongeneral/gracias-eternas-la-camiseta-mas-grande-del-mundo-y-otros-homenajes-a-messi-en-rosario-20261005-0016.html",
+        "image": "https://www.rosario3.com/__export/1791203180949/sites/rosario3/img/2026/10/05/camiseta_gigante.png_982625323.png",
+        "summary": "La réplica gigante de la casaca del gran capitán fue desplegada en el Monumento y será parte de un show este lunes a la noche. También habrá actividades mañana",
+        "pubDate": "2026-10-05T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "La partera Dolly no pudo evadir la Justicia: “Hay elementos de prueba suficientes que configuran una sospecha de delito”",
         "link": "https://www.rosario3.com/informaciongeneral/la-partera-dolly-no-pudo-evadir-la-justicia-hay-elementos-de-prueba-suficientes-que-configuran-una-sospecha-de-delito-20261005-0014.html",
         "image": "https://www.rosario3.com/__export/1791200187673/sites/rosario3/img/2026/10/05/pineda.jpg_928314581.jpg",
         "summary": "El camarista federal Aníbal Pineda confirmó que la investigación contra Viale de Garrido, acusada de entregar bebés de forma irregular en Rosario, recién comienza y el delito no prescribió. Explicó que la alteración de identidad es permanente y no cesa hasta que la persona…",
-        "pubDate": "2026-10-05T11:59:00+00:00",
+        "pubDate": "2026-10-05T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,25 +35,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/tres-cientificos-ganaron-el-nobel-de-medicina-por-el-uso-de-la-luz-para-estudiar-como-se-moldean-las-emociones-y-las-conductas-humanas-20261005-0012.html",
         "image": "https://www.rosario3.com/__export/1791200818855/sites/rosario3/img/2026/10/05/premio_nobel_de_medicina_2026.jpg_239696620.jpg",
         "summary": "Karl Deisseroth, Peter Hegemann y Georg Nagel recibieron este lunes la distinción del Karolinska 'por sus descubrimientos sobre los canales iónicos y la optogenética', un avance que permite encender y apagar los circuitos cerebrales que controlan recuerdos y comportamientos…",
-        "pubDate": "2026-10-05T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Violencia en el futsal femenino: una jugadora adolescente fue agredida tras un partido en Empalme Graneros",
-        "link": "https://www.rosario3.com/policiales/violencia-en-el-futsal-femenino-una-jugadora-adolescente-fue-agredida-tras-un-partido-en-empalme-graneros-20261005-0007.html",
-        "image": "https://www.rosario3.com/__export/1791195001849/sites/rosario3/img/2026/10/05/image_-14-.jpg_928314580.jpg",
-        "summary": "El hecho ocurrió en las instalaciones del Club Deportivo La Fábrika luego de un encuentro frente a Belgrano. La madre de la jugadora denunció que su hija fue agredida por adultos y la trasladó al Hospital de Niños Zona Norte",
         "pubDate": "2026-10-05T11:57:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Tras los festejos, Central vuelve a poner el foco en el torneo y visita a Banfield",
-        "link": "https://www.rosario3.com/deportes/tras-los-festejos-central-vuelve-a-poner-el-foco-en-el-torneo-y-visita-a-banfield-20261004-0028.html",
-        "image": "https://www.rosario3.com/__export/1791145075680/sites/rosario3/img/2026/09/13/central_tigre.jpg_506286608.jpg",
-        "summary": "A poco más de una semana del título en la Supercopa Internacional, este lunes desde las 21.15 el Canalla se mide contra el Taladro por la fecha 11. No tiene al arquero Werner ni al defensor Sández. Dirige Leandro Rey Hilfer y transmite Radio 2",
-        "pubDate": "2026-10-04T11:56:00+00:00",
         "approxTime": true
       },
       {
@@ -53,7 +44,16 @@
         "link": "https://www.rosario3.com/informaciongeneral/a-partir-del-proximo-lunes-aumenta-el-boleto-de-colectivo-urbano-en-rosario-20261002-0051.html",
         "image": "https://www.rosario3.com/__export/1790976020625/sites/rosario3/img/2026/10/02/_dsc7674-2_version1790976011277.jpg_1096344066.jpg",
         "summary": "El último aumento se había producido hace 8 meses. De esta manera, Rosario iguala a la ciudad de Córdoba, en un contexto de incrementos en distintas ciudades del resto del país. Los valores actualizados",
-        "pubDate": "2026-10-02T11:55:00+00:00",
+        "pubDate": "2026-10-02T11:56:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Violencia en el futsal femenino: una jugadora adolescente fue agredida tras un partido en Empalme Graneros",
+        "link": "https://www.rosario3.com/policiales/violencia-en-el-futsal-femenino-una-jugadora-adolescente-fue-agredida-tras-un-partido-en-empalme-graneros-20261005-0007.html",
+        "image": "https://www.rosario3.com/__export/1791195001849/sites/rosario3/img/2026/10/05/image_-14-.jpg_928314580.jpg",
+        "summary": "El hecho ocurrió en las instalaciones del Club Deportivo La Fábrika luego de un encuentro frente a Belgrano. La madre de la jugadora denunció que su hija fue agredida por adultos y la trasladó al Hospital de Niños Zona Norte",
+        "pubDate": "2026-10-05T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -94,11 +94,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Brasil: ganó Bolsonaro, pero deberá ir al balotaje con Lula",
-        "link": "https://www.rosario3.com/informaciongeneral/elecciones-en-brasil-ademas-de-lula-da-silva-y-flavio-bolsonaro-competiran-otras-once-formulas-20261003-0031.html",
-        "image": "https://www.rosario3.com/__export/1791153452542/sites/rosario3/img/2026/10/04/bolsonaro_lula_da_silva.jpg_506286608.jpg",
-        "summary": "Con más del 98% escrutado, el senador encabezaba los comicios con el 47,3% frente al 44,8% del actual mandatario. Al no llegar ninguno a la mitad más uno de los votos, se definirá el 25 de octubre",
-        "pubDate": "2026-10-03T11:50:00+00:00",
+        "title": "Tras los festejos, Central vuelve a poner el foco en el torneo y visita a Banfield",
+        "link": "https://www.rosario3.com/deportes/tras-los-festejos-central-vuelve-a-poner-el-foco-en-el-torneo-y-visita-a-banfield-20261004-0028.html",
+        "image": "https://www.rosario3.com/__export/1791145075680/sites/rosario3/img/2026/09/13/central_tigre.jpg_506286608.jpg",
+        "summary": "A poco más de una semana del título en la Supercopa Internacional, este lunes desde las 21.15 el Canalla se mide contra el Taladro por la fecha 11. No tiene al arquero Werner ni al defensor Sández. Dirige Leandro Rey Hilfer y transmite Radio 2",
+        "pubDate": "2026-10-04T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -139,6 +139,33 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Un \"gracias\" gigante y una camiseta para Messi: la sorpresa que apareció en el Monumento",
+        "link": "https://www.lacapital.com.ar/la-ciudad/un-gracias-gigante-y-una-camiseta-messi-la-sorpresa-que-aparecio-el-monumento-n10284911.html",
+        "image": "https://media.lacapital.com.ar/p/40eafe483c668567fcbcae7373100431/adjuntos/203/imagenes/103/446/0103446840/1200x675/smart/bandera.png",
+        "summary": "La camiseta tiene el número 10 y la palabra “Gracias”. La intervención incluye un mapping audiovisual sobre la historia de Messi en la selección argentina",
+        "pubDate": "2026-10-05T12:25:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La despedida de Messi: una historia repetida con reventa de entradas a precios obscenos",
+        "link": "https://www.lacapital.com.ar/ovacion/la-despedida-messi-una-historia-repetida-reventa-entradas-precios-obscenos-n10284879.html",
+        "image": "https://media.lacapital.com.ar/p/8f0defd6c623ad5329cec85c65aef78e/adjuntos/203/imagenes/103/446/0103446729/1200x675/smart/entradas.jpg",
+        "summary": "La última presentación del \"10\" en la selección genera controversia. El influencer Chapu Martínez y hasta la mamá de Yanina Latorre quedaron en el medio de la polémica",
+        "pubDate": "2026-10-05T12:12:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Premio Nobel de Medicina 2026: tres científicos ganaron el galardón por sus estudios del cerebro",
+        "link": "https://www.lacapital.com.ar/informacion-general/premio-nobel-medicina-2026-tres-cientificos-ganaron-el-galardon-sus-estudios-del-cerebro-n10284895.html",
+        "image": "https://media.lacapital.com.ar/p/ee15571441ad6021a904a308a9780f26/adjuntos/203/imagenes/103/446/0103446668/1200x675/smart/image-2026-10-05t080941704.png",
+        "summary": "Karl Deisseroth (Estados Unidos), Peter Hegemann y Georg Nagel (Alemania) recibieron la distinción por sus aportes a la optogenética y al estudio de la actividad neuronal",
+        "pubDate": "2026-10-05T12:04:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "¿Hay que hacerse un papanicolau todos los años? Cuáles son las recomendaciones actuales",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/19e110528d6a00278b7ae0716c892b70/adjuntos/203/imagenes/103/445/0103445617/centralv.jpeg",
         "summary": "Tras la consagración en la Supercopa Internacional, el Canalla visita a Banfield para sostener su protagonismo en el Clausura y seguir peleando en la anual",
         "pubDate": "2026-10-05T09:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La judoca ciega que se quedó para siempre en Rosario y que sueña con los Juegos Olímpicos",
-        "link": "https://www.lacapital.com.ar/ovacion/la-judoca-ciega-que-se-quedo-siempre-rosario-y-que-suena-los-juegos-olimpicos-n10284841.html",
-        "image": "https://media.lacapital.com.ar/p/903f6e8fd5bf869f46e16dcffbb00c5d/adjuntos/203/imagenes/103/446/0103446130/judoo.JPG",
-        "summary": "Nació en Formosa hace 32 años, pero vive en la ciudad desde 2020. Ya estuvo en París 2024. Lo que necesita para llegar a Los Ángeles 2028",
-        "pubDate": "2026-10-05T09:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El tiempo en Rosario: la máxima llegaría a 23º pero con muchas nubes",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-la-maxima-llegaria-23-pero-muchas-nubes-n10284877.html",
-        "image": "https://media.lacapital.com.ar/p/d41448301c5d9a438653dc0b56c8929e/adjuntos/203/imagenes/103/446/0103446602/2026-10-04-clima-by_vbenedetto-81069263.jpg",
-        "summary": "El martes habría un poco más de sol y el miércoles hay bastantes probabilidades de tormentas desde la tarde",
-        "pubDate": "2026-10-05T02:34:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Armaduras, arquería y un viaje al tiempo medieval desde Villa Hortensia",
-        "link": "https://www.lacapital.com.ar/la-ciudad/armaduras-arqueria-y-un-viaje-al-tiempo-medieval-villa-hortensia-n10284875.html",
-        "image": "https://media.lacapital.com.ar/p/3ce683af1c85d9e87ab154fa992a00b4/adjuntos/203/imagenes/103/446/0103446572/2026-10-04-la-comarca-1-by_ssmeccia-82740131.jpg",
-        "summary": "Con 120 stands, combates históricos, música y una gran presencia de público, la 13ª edición de “La Comarca” copó el distrito y la plaza Alberdi",
-        "pubDate": "2026-10-05T02:20:00+00:00",
         "approxTime": false
       }
     ]
