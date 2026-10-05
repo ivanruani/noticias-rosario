@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T16:01:13.388061+00:00",
+  "generatedAt": "2026-10-05T16:31:09.732132+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Se busca el primer lote de trigo de la campaña 2026/27",
+        "link": "https://www.lacapital.com.ar/agro/se-busca-el-primer-lote-trigo-la-campana-202627-n10284846.html",
+        "image": "https://media.lacapital.com.ar/p/440bb91465968ccd02e539f711e7020b/adjuntos/305/imagenes/102/806/0102806128/1200x675/smart/trigo81713561.jpg",
+        "summary": "La Bolsa de Cereales de Buenos Aires y la Bolsa y Cámara de Cereales de Córdoba difundieron los requisitos para participar del tradicional remate. La partida deberá tener entre 20 y 30 toneladas y entregarse en Molinos Florencia, en Ferreyra",
+        "pubDate": "2026-10-05T16:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Santa Fe abrió 150 vacantes para formar investigadores criminales: los requisitos y cómo anotarse",
         "link": "https://www.lacapital.com.ar/la-region/santa-fe-abrio-150-vacantes-formar-investigadores-criminales-los-requisitos-y-como-anotarse-n10284958.html",
         "image": "https://media.lacapital.com.ar/p/115ea29de5178052df88818a56fd8c4e/adjuntos/203/imagenes/103/447/0103447327/1200x675/smart/image-2026-10-05t122945644.png",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/860f9ea98c2f8cceea472495f5f4b7c4/adjuntos/203/imagenes/102/788/0102788292/emocion-luck-ra.png",
         "summary": "“¿Te icardearon?”, le consultó la conductora al cantante en lo que fue la primera gala de eliminación del programa",
         "pubDate": "2026-10-05T13:20:46+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Futsal femenino: pelea entre jugadoras e insultos racistas durante un partido en zona norte",
-        "link": "https://www.lacapital.com.ar/policiales/futsal-femenino-pelea-jugadoras-e-insultos-racistas-un-partido-zona-norte-n10284910.html",
-        "image": "https://media.lacapital.com.ar/p/8ad951c5894fd99a52798553accc51e2/adjuntos/203/imagenes/103/446/0103446843/1200x675/smart/futsal-femenino.jpg",
-        "summary": "Un violento episodio se registró este domingo a la noche en el club ubicado en Juan José Paso al 2000, en barrio Empalme Graneros.",
-        "pubDate": "2026-10-05T12:42:00+00:00",
         "approxTime": false
       }
     ]
