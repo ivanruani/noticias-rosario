@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-10-05T10:01:19.775992+00:00",
+  "generatedAt": "2026-10-05T10:31:07.660394+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Comienza este lunes el juicio por el crimen de Ivana Garcilazo, con pedidos de hasta 33 años de prisión",
+        "link": "https://www.rosario3.com/policiales/comienza-el-juicio-por-el-crimen-de-ivana-garcilazo-con-pedidos-de-hasta-33-anos-de-prision-20261004-0029.html",
+        "image": "https://www.rosario3.com/__export/1785500741223/sites/rosario3/img/2025/10/14/garcilazo1.jpg_928314582.jpg",
+        "summary": "Se desarrollará el debate oral en el Centro de Justicia Penal por el homicidio de la joven hincha de Central, cometido tras un clásico rosarino hace tres años. El tribunal evaluará las responsabilidades de los tres acusados: Ariel Matías Cabrera, Juan José Massón y Damián…",
+        "pubDate": "2026-10-04T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Crímenes del arquitecto Joaquín Pérez y del comisionista Ariel Simoncini: este lunes, el veredicto",
         "link": "https://www.rosario3.com/policiales/crimenes-del-arquitecto-joaquin-perez-y-del-comisionista-ariel-simoncini-este-lunes-el-veredicto-20261004-0031.html",
         "image": "https://www.rosario3.com/__export/1791152932459/sites/rosario3/img/2026/10/04/perez-simoncini.jpg_721297817.jpg",
         "summary": "Tras dos semanas de debate en el Centro de Justicia Penal, el tribunal dará a conocer su fallo. La Fiscalía pidió prisión perpetua para Cristian López y Emanuel Villanueva, los dos acusados",
-        "pubDate": "2026-10-04T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Comienza el juicio por el crimen de Ivana Garcilazo, con pedidos de hasta 33 años de prisión",
-        "link": "https://www.rosario3.com/policiales/comienza-el-juicio-por-el-crimen-de-ivana-garcilazo-con-pedidos-de-hasta-33-anos-de-prision-20261004-0029.html",
-        "image": "https://www.rosario3.com/__export/1785500741223/sites/rosario3/img/2025/10/14/garcilazo1.jpg_928314582.jpg",
-        "summary": "Desde este lunes se desarrollará el debate oral en el Centro de Justicia Penal por el homicidio de la joven hincha de Central, cometido tras un clásico rosarino hace tres años. El tribunal evaluará las responsabilidades de los tres acusados: Ariel Matías Cabrera, Juan José…",
         "pubDate": "2026-10-04T11:59:00+00:00",
         "approxTime": true
       },
@@ -58,10 +58,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "La Provincia informó la devolución de $ 7.137 millones en saldos a favor de Ingresos Brutos a sectores productivos",
-        "link": "https://www.rosario3.com/informaciongeneral/la-provincia-informo-la-devolucion-de--7.137-millones-en-saldos-a-favor-de-ingresos-brutos-a-sectores-productivos-20261004-0016.html",
-        "image": "https://www.rosario3.com/__export/1791129454349/sites/rosario3/img/2026/10/04/alivio_fiscal.jpg_54252875.jpg",
-        "summary": "La medida, que buscaba aliviar la carga fiscal, alcanzó a 2.043 contribuyentes de los sectores productivos santafesinos en los primeros nueve meses de 2026",
+        "title": "Docentes de la UNR convocan a una asamblea para definir la continuidad del plan de lucha",
+        "link": "https://www.rosario3.com/informaciongeneral/docentes-de-la-unr-convocan-a-una-asamblea-para-definir-la-continuidad-del-plan-de-lucha-20261004-0037.html",
+        "image": "https://www.rosario3.com/__export/1791160977015/sites/rosario3/img/2026/10/04/coad.jpg_1603005731.jpg",
+        "summary": "Tras el paro de una semana y en medio de la tensión por el incumplimiento de la Ley de Financiamiento Universitario, el gremio Coad llamó a un encuentro este martes en la sede gremial",
         "pubDate": "2026-10-04T11:54:00+00:00",
         "approxTime": true
       },
@@ -103,11 +103,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Del otro lado de la pantalla, cada vez menos personas",
-        "link": "https://www.rosario3.com/tecnologia/del-otro-lado-de-la-pantalla-cada-vez-menos-personas-20261002-0062.html",
-        "image": "https://www.rosario3.com/__export/1790973043603/sites/rosario3/img/2026/10/02/000_-_imagen_de_portada_-_2026-10-02t172941_632.jpg_1768679257.jpg",
-        "summary": "Por primera vez, la mayor parte de la actividad en Internet ya no la generan los humanos. Bots y agentes de IA avanzan sobre la web, cambiando su economía y reviviendo una vieja teoría conspirativa",
-        "pubDate": "2026-10-02T11:49:00+00:00",
+        "title": "La Provincia informó la devolución de $ 7.137 millones en saldos a favor de Ingresos Brutos a sectores productivos",
+        "link": "https://www.rosario3.com/informaciongeneral/la-provincia-informo-la-devolucion-de--7.137-millones-en-saldos-a-favor-de-ingresos-brutos-a-sectores-productivos-20261004-0016.html",
+        "image": "https://www.rosario3.com/__export/1791129454349/sites/rosario3/img/2026/10/04/alivio_fiscal.jpg_54252875.jpg",
+        "summary": "La medida, que buscaba aliviar la carga fiscal, alcanzó a 2.043 contribuyentes de los sectores productivos santafesinos en los primeros nueve meses de 2026",
+        "pubDate": "2026-10-04T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El juicio por Ivana Garcilazo: Fiscalía pide 30 años de cárcel para los tres acusados",
+        "link": "https://www.lacapital.com.ar/policiales/el-juicio-ivana-garcilazo-fiscalia-pide-30-anos-carcel-los-tres-acusados-n10284882.html",
+        "image": "https://media.lacapital.com.ar/p/7a37e05c8fbf6ad5e80ac1299e21660e/adjuntos/203/imagenes/101/373/0101373083/1200x675/smart/ivana-garcilazo-jornadajpg.jpg",
+        "summary": "Este lunes comienza el juicio por el crimen de la hincha de Central que fue atacada piedrazos cuando regresaba a su casa tras el clásico rosarino",
+        "pubDate": "2026-10-05T10:25:25+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El Mercado del Centro cumplió tres años y ya impulsó a 25 emprendimientos rosarinos",
         "link": "https://www.lacapital.com.ar/la-ciudad/el-mercado-del-centro-cumplio-tres-anos-y-ya-impulso-25-emprendimientos-rosarinos-n10284807.html",
         "image": "https://media.lacapital.com.ar/p/62e515f7f6be21edd288f87ae5cb433d/adjuntos/203/imagenes/103/445/0103445951/1200x675/smart/timthumb.jpg",
@@ -159,10 +168,10 @@
       },
       {
         "source": "La Capital",
-        "title": "Siguen las obras en el Parque Independencia, que finalizarán en diciembre",
-        "link": "https://www.lacapital.com.ar/la-ciudad/siguen-las-obras-el-parque-independencia-que-finalizaran-diciembre-n10284334.html",
-        "image": "https://media.lacapital.com.ar/p/a4c8be2f7727f4f0e9441d45634996fb/adjuntos/203/imagenes/103/446/0103446069/1200x675/smart/parqueindependencia2.jpg",
-        "summary": "Las tareas en el Parque Independencia se habían concentrado sobre bulevar Oroño antes de los Juegos Suramericanos.",
+        "title": "La apuesta de Pullaro con el MPA",
+        "link": "https://www.lacapital.com.ar/suscriptores/la-apuesta-pullaro-el-mpa-n10284513.html",
+        "image": "https://media.lacapital.com.ar/p/8bb4c1e091d689cbc45a6dbc3ddc638a/adjuntos/203/imagenes/103/441/0103441494/1200x675/smart/mpa-pullaro.jpg",
+        "summary": "Para frenar la violencia, el Gobierno de Santa Fe se alió con el Ministerio Público de la Acusación y éste logró respaldo. Cumbre de fiscales y diferencias con la Justicia federal",
         "pubDate": "2026-10-05T09:10:00+00:00",
         "approxTime": false
       },
@@ -177,19 +186,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Newell's estará atento a Estudiantes y Gimnasia de Mendoza, un perseguidor y su próximo rival",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-estara-atento-estudiantes-y-gimnasia-mendoza-un-perseguidor-y-su-proximo-rival-n10284863.html",
-        "image": "https://media.lacapital.com.ar/p/006f94ecf4850bd8089acc274a84514b/adjuntos/203/imagenes/103/446/0103446405/1200x675/smart/image-44.png",
-        "summary": "El Pincha buscará este lunes recortar los 7 puntos que lo separan de la Lepra, que en la próxima fecha enfrentará al Lobo mendocino",
+        "title": "Siguen las obras en el Parque Independencia, que finalizarán en diciembre",
+        "link": "https://www.lacapital.com.ar/la-ciudad/siguen-las-obras-el-parque-independencia-que-finalizaran-diciembre-n10284334.html",
+        "image": "https://media.lacapital.com.ar/p/a4c8be2f7727f4f0e9441d45634996fb/adjuntos/203/imagenes/103/446/0103446069/1200x675/smart/parqueindependencia2.jpg",
+        "summary": "Las tareas en el Parque Independencia se habían concentrado sobre bulevar Oroño antes de los Juegos Suramericanos.",
         "pubDate": "2026-10-05T09:10:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "La apuesta de Pullaro con el MPA",
-        "link": "https://www.lacapital.com.ar/suscriptores/la-apuesta-pullaro-el-mpa-n10284513.html",
-        "image": "https://media.lacapital.com.ar/p/8bb4c1e091d689cbc45a6dbc3ddc638a/adjuntos/203/imagenes/103/441/0103441494/1200x675/smart/mpa-pullaro.jpg",
-        "summary": "Para frenar la violencia, el Gobierno de Santa Fe se alió con el Ministerio Público de la Acusación y éste logró respaldo. Cumbre de fiscales y diferencias con la Justicia federal",
+        "title": "Newell's estará atento a Estudiantes y Gimnasia de Mendoza, un perseguidor y su próximo rival",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-estara-atento-estudiantes-y-gimnasia-mendoza-un-perseguidor-y-su-proximo-rival-n10284863.html",
+        "image": "https://media.lacapital.com.ar/p/006f94ecf4850bd8089acc274a84514b/adjuntos/203/imagenes/103/446/0103446405/1200x675/smart/image-44.png",
+        "summary": "El Pincha buscará este lunes recortar los 7 puntos que lo separan de la Lepra, que en la próxima fecha enfrentará al Lobo mendocino",
         "pubDate": "2026-10-05T09:10:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/f1fe5697098e89871224e81b0e887660/adjuntos/203/imagenes/103/446/0103446439/2026-10-04-quini-6.jpg",
         "summary": "En el Siempre Sale hubo 45 ganadores, de los cuales 10 hicieron su apuesta en la provincia de Santa Fe",
         "pubDate": "2026-10-05T00:32:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central: cambios esperados entre los concentrados, con la inclusión de tres juveniles",
-        "link": "https://www.lacapital.com.ar/ovacion/central-cambios-esperados-los-concentrados-la-inclusion-tres-juveniles-n10284806.html",
-        "image": "https://media.lacapital.com.ar/p/9d91ee5a94f96f84aff20e2b3bc97a35/adjuntos/203/imagenes/103/445/0103445910/concen.jpeg",
-        "summary": "Frente a las las bajas de Werner y Sández en el Canalla, Almirón citó a Damián Fernández y Felipe Carnicero. Además, Paolo Giaccone reemplaza a Segovia",
-        "pubDate": "2026-10-04T23:39:00+00:00",
         "approxTime": false
       }
     ]
