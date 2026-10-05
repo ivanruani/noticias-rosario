@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T09:01:22.529514+00:00",
+  "generatedAt": "2026-10-05T09:31:07.521138+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,69 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Investigadoras rosarinas descubren un mecanismo clave de la fotosíntesis del maíz y el sorgo",
+        "link": "https://www.lacapital.com.ar/agro/investigadoras-rosarinas-descubren-un-mecanismo-clave-la-fotosintesis-del-maiz-y-el-sorgo-n10284833.html",
+        "image": "https://media.lacapital.com.ar/p/06d5fa86ef081c2a2e562e7576bafe0a/adjuntos/203/imagenes/103/446/0103446383/1200x675/628x338:648x358/veronica-maurino-clarisa-alvarez-1-1.jpg",
+        "summary": "Clarisa Alvarez y Verónica Maurino lideraron un equipo internacional que identificó cambios en una enzima clave de la fotosíntesis. El avance podría contribuir al desarrollo de cultivos más tolerantes a condiciones ambientales adversas",
+        "pubDate": "2026-10-05T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La apuesta de Pullaro con el MPA",
+        "link": "https://www.lacapital.com.ar/suscriptores/la-apuesta-pullaro-el-mpa-n10284513.html",
+        "image": "https://media.lacapital.com.ar/p/8bb4c1e091d689cbc45a6dbc3ddc638a/adjuntos/203/imagenes/103/441/0103441494/1200x675/smart/mpa-pullaro.jpg",
+        "summary": "Para frenar la violencia, el Gobierno de Santa Fe se alió con el Ministerio Público de la Acusación y éste logró respaldo. Cumbre de fiscales y diferencias con la Justicia federal",
+        "pubDate": "2026-10-05T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Siguen las obras en el Parque Independencia, que finalizarán en diciembre",
+        "link": "https://www.lacapital.com.ar/la-ciudad/siguen-las-obras-el-parque-independencia-que-finalizaran-diciembre-n10284334.html",
+        "image": "https://media.lacapital.com.ar/p/a4c8be2f7727f4f0e9441d45634996fb/adjuntos/203/imagenes/103/446/0103446069/1200x675/smart/parqueindependencia2.jpg",
+        "summary": "Las tareas en el Parque Independencia se habían concentrado sobre bulevar Oroño antes de los Juegos Suramericanos.",
+        "pubDate": "2026-10-05T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Newell's estará atento a Estudiantes y Gimnasia de Mendoza, un perseguidor y su próximo rival",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-estara-atento-estudiantes-y-gimnasia-mendoza-un-perseguidor-y-su-proximo-rival-n10284863.html",
+        "image": "https://media.lacapital.com.ar/p/006f94ecf4850bd8089acc274a84514b/adjuntos/203/imagenes/103/446/0103446405/1200x675/smart/image-44.png",
+        "summary": "El Pincha buscará este lunes recortar los 7 puntos que lo separan de la Lepra, que en la próxima fecha enfrentará al Lobo mendocino",
+        "pubDate": "2026-10-05T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "De ser el más goleado al menos vencido: los secretos del Newell's que pelea por la clasificación",
+        "link": "https://www.lacapital.com.ar/ovacion/de-ser-el-mas-goleado-al-menos-vencido-los-secretos-del-newells-que-pelea-la-clasificacion-n10284856.html",
+        "image": "https://media.lacapital.com.ar/p/2b14fc4a83872b5748c0d727b6b15686/adjuntos/203/imagenes/103/446/0103446312/1200x675/smart/image-42.png",
+        "summary": "La Lepra atraviesa una realidad muy distinta a la del torneo pasado. A partir de una presión sólida media-baja, redujo los riesgos y sigue entre los clasificados",
+        "pubDate": "2026-10-05T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "De la euforia a la obligación: Central va por nuevas metas, con el motor en su máxima potencia",
+        "link": "https://www.lacapital.com.ar/ovacion/de-la-euforia-la-obligacion-central-va-nuevas-metas-el-motor-su-maxima-potencia-n10284789.html",
+        "image": "https://media.lacapital.com.ar/p/19e110528d6a00278b7ae0716c892b70/adjuntos/203/imagenes/103/445/0103445617/centralv.jpeg",
+        "summary": "Tras la consagración en la Supercopa Internacional, el Canalla visita a Banfield para sostener su protagonismo en el Clausura y seguir peleando en la anual",
+        "pubDate": "2026-10-05T09:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La judoca ciega que se quedó para siempre en Rosario y que sueña con los Juegos Olímpicos",
+        "link": "https://www.lacapital.com.ar/ovacion/la-judoca-ciega-que-se-quedo-siempre-rosario-y-que-suena-los-juegos-olimpicos-n10284841.html",
+        "image": "https://media.lacapital.com.ar/p/903f6e8fd5bf869f46e16dcffbb00c5d/adjuntos/203/imagenes/103/446/0103446130/judoo.JPG",
+        "summary": "Nació en Formosa hace 32 años, pero vive en la ciudad desde 2020. Ya estuvo en París 2024. Lo que necesita para llegar a Los Ángeles 2028",
+        "pubDate": "2026-10-05T09:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El tiempo en Rosario: la máxima llegaría a 23º pero con muchas nubes",
         "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-la-maxima-llegaria-23-pero-muchas-nubes-n10284877.html",
         "image": "https://media.lacapital.com.ar/p/d41448301c5d9a438653dc0b56c8929e/adjuntos/203/imagenes/103/446/0103446602/2026-10-04-clima-by_vbenedetto-81069263.jpg",
@@ -209,69 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/e238bba9c2b44c7a5c8f6790afa0fd38/adjuntos/203/imagenes/103/440/0103440116/2026-10-01-christa-pike-ejecucion.jpg",
         "summary": "Los médicos continúan intentando eliminar de su organismo la enorme dosis de pentobarbital, que le fue aplicado en dos inyecciones el pasado miércoles",
         "pubDate": "2026-10-04T23:18:33+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "HBO Max y Paramount+ se encaminan a convertirse en una sola plataforma",
-        "link": "https://www.lacapital.com.ar/hbo-max-y-paramount-se-encaminan-convertirse-una-sola-plataforma-n10284847.html",
-        "image": "https://media.lacapital.com.ar/p/81a471efbb26c8ef60578a8cbb0cceca/adjuntos/203/imagenes/103/446/0103446241/2026-10-04-hbo-max.jpg",
-        "summary": "Paramount y Warner Bros. recibieron legalmente vía libre para fusionarse, después de un largo litigio legal",
-        "pubDate": "2026-10-04T23:18:31+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Habrá balotaje en Brasil: Bolsonaro le ganó a Lula, que se acercó a 2,1 puntos",
-        "link": "https://www.lacapital.com.ar/el-mundo/habra-balotaje-brasil-bolsonaro-le-gano-lula-que-se-acerco-21-puntos-n10284831.html",
-        "image": "https://media.lacapital.com.ar/p/0d1bd0d545d3e482eb4cbfd00142885b/adjuntos/203/imagenes/103/446/0103446021/1200x675/smart/imagebolso.jpg",
-        "summary": "El candidato del Partido Liberal se impuso con el 47,14 % y el actual presidente terminó con un 45,03 %. La segunda vuelta será en tres semanas",
-        "pubDate": "2026-10-04T23:07:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La ganadería debatirá en Rosario cómo mejorar el negocio y ganar mercados",
-        "link": "https://www.lacapital.com.ar/agro/la-ganaderia-debatira-rosario-como-mejorar-el-negocio-y-ganar-mercados-n10284836.html",
-        "image": "https://media.lacapital.com.ar/p/db3cb98e6d04e8e439a87e5fbf958375/adjuntos/203/imagenes/103/446/0103446068/1200x675/smart/congreso-rosgan.jpeg",
-        "summary": "La quinta edición del Congreso Federal Ganadero abordará cómo mejorar la rentabilidad de los establecimientos y cómo responder a los cambios del mercado mundial de la carne",
-        "pubDate": "2026-10-04T21:48:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Primera C: victoria de Central Córdoba para consolidarse y de Argentino que no le sirvió para zafar",
-        "link": "https://www.lacapital.com.ar/ovacion/primera-c-victoria-central-cordoba-consolidarse-y-argentino-que-no-le-sirvio-zafar-n10284813.html",
-        "image": "https://media.lacapital.com.ar/p/af76298962e201d75b4a45c9b8795a39/adjuntos/203/imagenes/103/446/0103446043/1200x675/smart/image-2026-10-04t175900367.png",
-        "summary": "El Charrúa derrotó a Yupanqui en Arroyo Seco y quedó 3º en la Zona B. Y el Salaíto le ganó a Lugano en Tapiales, pero ya no puede evitar jugar por la desafiliación",
-        "pubDate": "2026-10-04T21:28:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Las ventas minoristas registraron una mejora del 0,3% en septiembre pero acumulan una baja de 2,1% en el año",
-        "link": "https://www.lacapital.com.ar/economia/las-ventas-minoristas-registraron-una-mejora-del-03-septiembre-pero-acumulan-una-baja-21-el-ano-n10284823.html",
-        "image": "https://media.lacapital.com.ar/p/d7ce599f15c8deb606b8bca54f5e93be/adjuntos/203/imagenes/102/040/0102040108/1200x675/smart/2006-peatonal-cordobajpg.jpg",
-        "summary": "Came informó que las ventas minoristas retrocedieron 1,2% frente a agosto. Las familias priorizaron compras indispensables y postergaron los gastos de mayor valor",
-        "pubDate": "2026-10-04T21:17:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Los gremios de Rosario preparan un paro regional",
-        "link": "https://www.lacapital.com.ar/economia/los-gremios-rosario-preparan-un-paro-regional-n10284827.html",
-        "image": "https://media.lacapital.com.ar/p/1c9d822612d1e4efd68fc550ac3f7e00/adjuntos/203/imagenes/101/608/0101608568/1200x675/468x264:488x284/aec-paro-marchajpg.jpg",
-        "summary": "Representantes de distintos sindicatos se reunieron para organizar la medida. Cuestionaron la precarización laboral y el deterioro de las condiciones de vida. Acompañarán la movilización del 8 de octubre en defensa de la industria nacional",
-        "pubDate": "2026-10-04T21:08:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cómo quedó la UNR en el nuevo ránking de universidades de América Latina",
-        "link": "https://www.lacapital.com.ar/la-ciudad/como-quedo-la-unr-el-nuevo-ranking-universidades-america-latina-n10284797.html",
-        "image": "https://media.lacapital.com.ar/p/304f38201a6d9d6fb8abe7996f6f9a3c/adjuntos/203/imagenes/102/523/0102523156/1200x675/smart/facultad-medicinajpg.jpg",
-        "summary": "La clasificación QS volvió a medir a más de 500 instituciones de la región y dejó un dato relevante para la Universidad Nacional de Rosario, en un contexto de retroceso general para el sistema universitario argentino.",
-        "pubDate": "2026-10-04T21:05:00+00:00",
         "approxTime": false
       }
     ]
