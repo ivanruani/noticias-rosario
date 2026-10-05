@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T13:01:23.649131+00:00",
+  "generatedAt": "2026-10-05T13:31:05.974514+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "MasterChef Celebrity: la pregunta de Wanda Nara que incomodó a Luck Ra",
+        "link": "https://www.lacapital.com.ar/zoom/masterchef-celebrity-la-pregunta-wanda-nara-que-incomodo-luck-ra-n10284926.html",
+        "image": "https://media.lacapital.com.ar/p/860f9ea98c2f8cceea472495f5f4b7c4/adjuntos/203/imagenes/102/788/0102788292/emocion-luck-ra.png",
+        "summary": "“¿Te icardearon?”, le consultó la conductora al cantante en lo que fue la primera gala de eliminación del programa",
+        "pubDate": "2026-10-05T13:20:46+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Futsal femenino: pelea entre jugadoras e insultos racistas durante un partido en zona norte",
         "link": "https://www.lacapital.com.ar/policiales/futsal-femenino-pelea-jugadoras-e-insultos-racistas-un-partido-zona-norte-n10284910.html",
         "image": "https://media.lacapital.com.ar/p/8ad951c5894fd99a52798553accc51e2/adjuntos/203/imagenes/103/446/0103446843/1200x675/smart/futsal-femenino.jpg",
@@ -262,15 +271,6 @@
         "link": "https://www.lacapital.com.ar/la-ciudad/siguen-las-obras-el-parque-independencia-que-finalizaran-diciembre-n10284334.html",
         "image": "https://media.lacapital.com.ar/p/a4c8be2f7727f4f0e9441d45634996fb/adjuntos/203/imagenes/103/446/0103446069/1200x675/smart/parqueindependencia2.jpg",
         "summary": "Las tareas en el Parque Independencia se habían concentrado sobre bulevar Oroño antes de los Juegos Suramericanos.",
-        "pubDate": "2026-10-05T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La apuesta de Pullaro con el MPA",
-        "link": "https://www.lacapital.com.ar/suscriptores/la-apuesta-pullaro-el-mpa-n10284513.html",
-        "image": "https://media.lacapital.com.ar/p/8bb4c1e091d689cbc45a6dbc3ddc638a/adjuntos/203/imagenes/103/441/0103441494/1200x675/smart/mpa-pullaro.jpg",
-        "summary": "Para frenar la violencia, el Gobierno de Santa Fe se alió con el Ministerio Público de la Acusación y éste logró respaldo. Cumbre de fiscales y diferencias con la Justicia federal",
         "pubDate": "2026-10-05T09:10:00+00:00",
         "approxTime": false
       }
