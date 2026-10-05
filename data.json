@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T21:11:35.330637+00:00",
+  "generatedAt": "2026-10-05T21:31:08.285787+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,10 +141,19 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Primera C: Leones FC derrotó al Arrabalero, en el estadio 3 de Febrero por la fecha 31",
+        "link": "https://www.lacapital.com.ar/ovacion/primera-c-leones-fc-derroto-al-arrabalero-el-estadio-3-febrero-la-fecha-31-n10284994.html",
+        "image": "https://media.lacapital.com.ar/p/45d9880a54dea3202b741be2840cd246/adjuntos/203/imagenes/103/447/0103447717/1200x675/smart/image-2026-10-05t154048100.png",
+        "summary": "El equipo de Alvear, clasificado al Reducido, le ganó a Sportivo Barracas con autoridad con los goles de Juan Ignacio Vieyra y Gonzalo González",
+        "pubDate": "2026-10-05T21:17:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Acusan a la familia de Yanina Latorre de revender entradas para la despedida de Lionel Messi",
         "link": "https://www.lacapital.com.ar/informacion-general/acusan-la-familia-yanina-latorre-revender-entradas-la-despedida-lionel-messi-n10285028.html",
         "image": "https://media.lacapital.com.ar/p/b4a1561b5066831ace7792eccb2efb8f/adjuntos/203/imagenes/103/448/0103448050/1200x675/smart/imageyanina.jpg",
-        "summary": "En las últimas horas, se difundieron chats de la madre y la hermana de la conductora ofreciendo ubicaciones con sobreprecios de hasta el 600%.",
+        "summary": "En las últimas horas, se difundieron chats de la madre y la hermana de la conductora ofreciendo ubicaciones con sobreprecios de hasta el 600%. La reacción de Yanina Latorre.",
         "pubDate": "2026-10-05T20:38:00+00:00",
         "approxTime": false
       },
@@ -164,15 +173,6 @@
         "image": "https://media.lacapital.com.ar/p/858214461aa2fdcc241f7059fc733ec8/adjuntos/203/imagenes/100/026/0100026183/1200x675/smart/trapitopng.png",
         "summary": "La norma ya fue publicada en el Boletín Oficial y establece sanciones que pueden llegar al arresto. Pero para aplicarla en la ciudad, el Concejo Municipal deberá aprobar una ordenanza de adhesión. El Ejecutivo enviaría su propio mensaje el próximo 15 de este mes.",
         "pubDate": "2026-10-05T20:14:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Primera C: Leones FC derrotó al Arrabalero, en el estadio 3 de Febrero por la fecha 31",
-        "link": "https://www.lacapital.com.ar/ovacion/primera-c-leones-fc-derroto-al-arrabalero-el-estadio-3-febrero-la-fecha-31-n10284994.html",
-        "image": "https://media.lacapital.com.ar/p/45d9880a54dea3202b741be2840cd246/adjuntos/203/imagenes/103/447/0103447717/1200x675/smart/image-2026-10-05t154048100.png",
-        "summary": "El equipo de Alvear, clasificado al Reducido, le ganó a Sportivo Barracas con autoridad con los goles de Juan Ignacio Vieyra y Gonzalo González",
-        "pubDate": "2026-10-05T20:13:00+00:00",
         "approxTime": false
       },
       {
