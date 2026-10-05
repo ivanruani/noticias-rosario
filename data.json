@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T22:31:07.850968+00:00",
+  "generatedAt": "2026-10-05T22:35:03.135462+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El costo del transporte acumula una suba de 30,3% en los primeros nueve meses del año",
+        "link": "https://www.lacapital.com.ar/economia/el-costo-del-transporte-acumula-una-suba-303-los-primeros-nueve-meses-del-ano-n10285036.html",
+        "image": "https://media.lacapital.com.ar/p/c5397916a106dc9dd4296322cdcf33ae/adjuntos/203/imagenes/025/471/0025471449/1200x675/603x411:623x431/3_marcelo-ruben-bustamante_73071249__06-03-2019__300x1130jpg.jpg",
+        "summary": "Gastos generales, peajes, neumáticos y combustible encabezaron los aumentos de septiembre. En lo que va de 2026, el gasoil acumula un incremento de 38%.",
+        "pubDate": "2026-10-05T22:29:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Santa Fe busca ampliar sus exportaciones a la Unión Europea y atraer inversiones",
         "link": "https://www.lacapital.com.ar/economia/santa-fe-busca-ampliar-sus-exportaciones-la-union-europea-y-atraer-inversiones-n10285035.html",
         "image": "https://media.lacapital.com.ar/p/d774cdb7ee6c80daf372e135a08587d2/adjuntos/203/imagenes/103/448/0103448118/1200x675/919x289:939x309/santa-fe-europa.jpeg",
@@ -204,19 +213,19 @@
       },
       {
         "source": "La Capital",
-        "title": "La estrategia de Unidos en la Legislatura para aprobar la nueva reforma en seguridad",
-        "link": "https://www.lacapital.com.ar/politica/la-estrategia-unidos-la-legislatura-aprobar-la-nueva-reforma-seguridad-n10284940.html",
-        "image": "https://media.lacapital.com.ar/p/ee97830d0aade18c3c620ab6c2b41cbe/adjuntos/203/imagenes/103/447/0103447281/1200x675/smart/seguridad-y-asuntos-legislatura.jpg",
-        "summary": "El gobierno provincial retoma el paquete de cambios procesales, penales y penitenciarios. Debate interno y con otros bloques. La hoja de ruta y las novedades",
+        "title": "Rosario será la primera sede argentina del Oktober Invest Fest",
+        "link": "https://www.lacapital.com.ar/economia/rosario-sera-la-primera-sede-argentina-del-oktober-invest-fest-n10284973.html",
+        "image": "https://media.lacapital.com.ar/p/6d53ffec6b5ca7cd93890b525b134aaf/adjuntos/203/imagenes/103/311/0103311317/1200x675/465x356:485x376/agtechia.jpeg",
+        "summary": "El Oktober Invest Fest se realizará este martes 6 de octubre en la Bolsa de Comercio de Rosario. La agenda reunirá a inversores y emprendimientos de biotecnología, agro, inteligencia artificial, industria y energía.",
         "pubDate": "2026-10-05T19:07:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Rosario será la primera sede argentina del Oktober Invest Fest",
-        "link": "https://www.lacapital.com.ar/economia/rosario-sera-la-primera-sede-argentina-del-oktober-invest-fest-n10284973.html",
-        "image": "https://media.lacapital.com.ar/p/6d53ffec6b5ca7cd93890b525b134aaf/adjuntos/203/imagenes/103/311/0103311317/1200x675/465x356:485x376/agtechia.jpeg",
-        "summary": "El Oktober Invest Fest se realizará este martes 6 de octubre en la Bolsa de Comercio de Rosario. La agenda reunirá a inversores y emprendimientos de biotecnología, agro, inteligencia artificial, industria y energía.",
+        "title": "La estrategia de Unidos en la Legislatura para aprobar la nueva reforma en seguridad",
+        "link": "https://www.lacapital.com.ar/politica/la-estrategia-unidos-la-legislatura-aprobar-la-nueva-reforma-seguridad-n10284940.html",
+        "image": "https://media.lacapital.com.ar/p/ee97830d0aade18c3c620ab6c2b41cbe/adjuntos/203/imagenes/103/447/0103447281/1200x675/smart/seguridad-y-asuntos-legislatura.jpg",
+        "summary": "El gobierno provincial retoma el paquete de cambios procesales, penales y penitenciarios. Debate interno y con otros bloques. La hoja de ruta y las novedades",
         "pubDate": "2026-10-05T19:07:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/640fa10fa1052f50f408ff564a0ba1a5/adjuntos/203/imagenes/103/447/0103447556/1200x675/smart/imagecrimen.jpg",
         "summary": "Damián Reinfenstuel, Ariel Cabrera y Juan Massón están acusados de haber arrojado baldosas contra la joven cuando circulaba en moto con ropa de Rosario Central tras el clásico de 2023. Uno de ellos fue detenido en Bolivia después de permanecer prófugo.",
         "pubDate": "2026-10-05T18:13:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cinco alimentos con proteína para sumar a las comidas",
-        "link": "https://www.lacapital.com.ar/informacion-general/cinco-alimentos-proteina-sumar-las-comidas-n10284977.html",
-        "image": "https://media.lacapital.com.ar/p/6eb454c4e06232b6735e355dd76a60e1/adjuntos/203/imagenes/103/447/0103447490/1200x675/smart/image-1.png",
-        "summary": "Quienes desean incorporar proteínas en sus comidas tienen múltiples opciones para variar sus recetas. Las variantes y sus usos en esta nota",
-        "pubDate": "2026-10-05T17:58:00+00:00",
         "approxTime": false
       }
     ]
