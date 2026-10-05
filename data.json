@@ -1,14 +1,32 @@
 {
-  "generatedAt": "2026-10-05T22:35:03.135462+00:00",
+  "generatedAt": "2026-10-05T23:01:23.480639+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Pullaro promulgó la ley que sanciona a cuidacoches y Rosario avanza con la adhesión",
+        "link": "https://www.rosario3.com/informaciongeneral/pullaro-promulgo-la-ley-que-sanciona-a-cuidacoches-y-rosario-avanza-con-la-adhesion-20261005-0068.html",
+        "image": "https://www.rosario3.com/__export/1791235614782/sites/rosario3/img/2026/10/05/cuidacoche06.jpg_1825222445.jpg",
+        "summary": "La nueva normativa contempla trabajo comunitario y arresto para reincidentes, mientras el Concejo prepara la ordenanza local necesaria para aplicar el nuevo régimen en la ciudad",
+        "pubDate": "2026-10-05T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "“Los tres son igualmente responsables: hay que mirar la secuencia completa”, dijo la fiscal en el juicio por el crimen de Ivana Garcilazo",
         "link": "https://www.rosario3.com/policiales/los-tres-son-igualmente-responsables-hay-que-mirar-la-secuencia-completa-dijo-la-fiscal-en-el-juicio-por-el-crimen-de-ivana-garcilazo-20261005-0054.html",
         "image": "https://www.rosario3.com/__export/1791230630454/sites/rosario3/img/2026/10/05/cartel_centro_de_justicia.jpg_982625323.jpg",
         "summary": "Este lunes comenzó el debate con tres hombres en el banquillo que, aquel 30 de septiembre de 2023, arrojaron piedras y mataron a la simpatizante de Central en Ovidio Lagos y Montevideo. Para la Fiscalía, los tres son igualmente responsables, más allá de quién haya arrojado la…",
-        "pubDate": "2026-10-05T12:00:00+00:00",
+        "pubDate": "2026-10-05T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Milei viajará a España en plena campaña electoral para apoyar a la derecha",
+        "link": "https://www.rosario3.com/politica/milei-viajara-a-espana-en-plena-campana-electoral-para-apoyar-a-la-derecha-20261005-0075.html",
+        "image": "https://www.rosario3.com/__export/1791241031632/sites/rosario3/img/2026/10/05/milei_1.jpg_1825222445.jpg",
+        "summary": "El presidente desembarcará en Madrid en octubre, tras el adelanto de las elecciones generales anunciado por Pedro Sánchez",
+        "pubDate": "2026-10-05T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -17,24 +35,6 @@
         "link": "https://www.rosario3.com/policiales/lo-imputaron-por-golpear-a-su-pareja-que-perdio-el-embarazo-20261005-0071.html",
         "image": "https://www.rosario3.com/__export/1791236935173/sites/rosario3/img/2026/10/05/hospital_italiano_rosario.jpg_544707420.jpg",
         "summary": "Un hombre de 33 años quedó en prisión preventiva por 90 días, acusado de golpear a su pareja en dos oportunidades. En el último episodio, ocurrido el 28 de septiembre, le dio una patada en el abdomen pese a saber que estaba embarazada; horas después, la mujer perdió todo el…",
-        "pubDate": "2026-10-05T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Candidatura histórica: Argentina y la región van por la Copa del Mundo de Rugby 2035 con el Gigante de Arroyito entre las sedes",
-        "link": "https://www.rosario3.com/deportes/candidatura-historica-argentina-y-la-region-van-por-la-copa-del-mundo-2035-con-el-gigante-de-arroyito-entre-las-sedes-elegidas-20261005-0067.html",
-        "image": "https://www.rosario3.com/__export/1791235159161/sites/rosario3/img/2026/10/05/gigante.jpg_982625323.jpg",
-        "summary": "La Unión Argentina de Rugby, junto a Uruguay, Chile y Brasil, presentó ante World Rugby la documentación técnica para albergar el Mundial 2035. Rosario integra la nómina oficial con el estadio de Central entre los escenarios seleccionados. Sumando el impacto económico tendría a…",
-        "pubDate": "2026-10-05T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Última práctica de Lionel Messi con la selección argentina: las imágenes del capitán a pura sonrisa con visitas rosarinas",
-        "link": "https://www.rosario3.com/deportes/ultima-practica-de-lionel-messi-con-la-seleccion-argentina-las-imagenes-del-capitan-a-pura-sonrisa-con-visitas-rosarinas-20261005-0069.html",
-        "image": "https://www.rosario3.com/__export/1791236115926/sites/rosario3/img/2026/10/05/messi_entrenamiento.jpg_506286608.jpg",
-        "summary": "En el día previo a su despedida del seleccionado en un amistoso contra Benín, este lunes el rosarino formó parte del entrenamiento bajo las órdenes del técnico Lionel Scaloni en el predio de Ezeiza",
         "pubDate": "2026-10-05T11:57:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "La maquinaria agrícola volvió a perder ritmo: los patentamientos cayeron 18,6% en septiembre",
+        "link": "https://www.lacapital.com.ar/agro/la-maquinaria-agricola-volvio-perder-ritmo-los-patentamientos-cayeron-186-septiembre-n10285040.html",
+        "image": "https://media.lacapital.com.ar/p/2743daf59517eb870b75664a293284a4/adjuntos/203/imagenes/030/557/0030557275/1200x675/825x334:845x354/cosechadorasaf1814-foto-1jpg.jpg",
+        "summary": "En septiembre, los registros de tractores bajaron 21,1%, los de cosechadoras 6,3% y los de pulverizadoras 6% frente a agosto. Acara advirtió que la demanda de maquinaria agrícola sigue dependiendo de la financiación y los estímulos comerciales",
+        "pubDate": "2026-10-05T22:45:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "El costo del transporte acumula una suba de 30,3% en los primeros nueve meses del año",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/c2dc10788c59f1b07d2f034be46ac1cc/adjuntos/203/imagenes/101/031/0101031163/1200x675/smart/whatsapp-wp-app.png",
         "summary": "Distintos modelos de Android y iOS no podrán descargar ni abrir la aplicación. La lista de dispositivos afectados y algunos consejos para evitar perder datos importantes",
         "pubDate": "2026-10-05T18:29:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Crimen de Ivana Garcilazo: empezó el juicio y la Fiscalía pidió 30 años para los tres acusados",
-        "link": "https://www.lacapital.com.ar/policiales/crimen-ivana-garcilazo-empezo-el-juicio-y-la-fiscalia-pidio-30-anos-los-tres-acusados-n10284989.html",
-        "image": "https://media.lacapital.com.ar/p/640fa10fa1052f50f408ff564a0ba1a5/adjuntos/203/imagenes/103/447/0103447556/1200x675/smart/imagecrimen.jpg",
-        "summary": "Damián Reinfenstuel, Ariel Cabrera y Juan Massón están acusados de haber arrojado baldosas contra la joven cuando circulaba en moto con ropa de Rosario Central tras el clásico de 2023. Uno de ellos fue detenido en Bolivia después de permanecer prófugo.",
-        "pubDate": "2026-10-05T18:13:00+00:00",
         "approxTime": false
       }
     ]
