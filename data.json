@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T23:31:00.240902+00:00",
+  "generatedAt": "2026-10-05T00:01:50.894797+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,10 +13,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Elecciones en Brasil: Bolsonaro llega al 49,58% y toma ventaja sobre Lula da Silva",
+        "title": "Brasil: Flávio Bolsonaro lidera el conteo y apunta a un balotaje con Lula da Silva",
         "link": "https://www.rosario3.com/informaciongeneral/elecciones-en-brasil-ademas-de-lula-da-silva-y-flavio-bolsonaro-competiran-otras-once-formulas-20261003-0031.html",
         "image": "https://www.rosario3.com/__export/1791153452542/sites/rosario3/img/2026/10/04/bolsonaro_lula_da_silva.jpg_506286608.jpg",
-        "summary": "Con el 64,81% del censo escrutado, el senador se impone al actual mandatario en una disputa reñida. Los brasileños eligen presidente y vicepresidente, además de gobernadores, senadores y diputados. Lula da Silva y Geraldo Alckmin buscan la reelección frente a una amplia oferta…",
+        "summary": "Con el 95% escrutado, el senador encabezaba los comicios presidenciales con el 47% de los votos frente al 44% del actual mandatario, anticipando una definición el 25 de octubre",
         "pubDate": "2026-10-03T11:59:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Central: cambios esperados entre los concentrados, con la inclusión de tres juveniles",
+        "link": "https://www.lacapital.com.ar/ovacion/central-cambios-esperados-los-concentrados-la-inclusion-tres-juveniles-n10284806.html",
+        "image": "https://media.lacapital.com.ar/p/9d91ee5a94f96f84aff20e2b3bc97a35/adjuntos/203/imagenes/103/445/0103445910/concen.jpeg",
+        "summary": "Frente a las las bajas de Werner y Sández en el Canalla, Almirón citó a Damián Fernández y Felipe Carnicero. Además, Paolo Giaccone reemplaza a Segovia",
+        "pubDate": "2026-10-04T23:39:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Christa Pike sigue inconsciente en el hospital tras la fallida ejecución",
         "link": "https://www.lacapital.com.ar/informacion-general/christa-pike-sigue-inconsciente-el-hospital-la-fallida-ejecucion-n10284842.html",
         "image": "https://media.lacapital.com.ar/p/e238bba9c2b44c7a5c8f6790afa0fd38/adjuntos/203/imagenes/103/440/0103440116/2026-10-01-christa-pike-ejecucion.jpg",
@@ -159,8 +168,8 @@
       },
       {
         "source": "La Capital",
-        "title": "Bolsonaro llega al 48% de los votos y aventaja a Lula por 5 puntos, pero no evita el balotaje con el 84% escrutado",
-        "link": "https://www.lacapital.com.ar/el-mundo/bolsonaro-llega-al-48-los-votos-y-aventaja-lula-5-puntos-pero-no-evita-el-balotaje-el-84-escrutado-n10284831.html",
+        "title": "Bolsonaro gana con el 48 % y Lula recortó la diferencia a 4 puntos: habría balotaje",
+        "link": "https://www.lacapital.com.ar/el-mundo/bolsonaro-gana-el-48-y-lula-recorto-la-diferencia-4-puntos-habria-balotaje-n10284831.html",
         "image": "https://media.lacapital.com.ar/p/0d1bd0d545d3e482eb4cbfd00142885b/adjuntos/203/imagenes/103/446/0103446021/1200x675/smart/imagebolso.jpg",
         "summary": "El hijo del exmandatario obtiene el 48 % frente al 44 % del presidente Lula da Silva. Para evitar la segunda vuelta el ganador debe alcanzar el 50 % de los sufragios",
         "pubDate": "2026-10-04T23:07:00+00:00",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/2b4ea56725cf74be97d5866a6ae3d381/adjuntos/203/imagenes/103/445/0103445759/1200x675/smart/image-16.jpg",
         "summary": "El gremio que nuclea a los trabajadores de prensa de la ciudad expresó su preocupación por volantes que aparecieron este sábado en el Coloso, y pidió la intervención del Ministerio de Seguridad de la provincia y de Newell's",
         "pubDate": "2026-10-04T18:03:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La fortaleza que tiene Central para desenfundar en una nueva excursión fuera de Arroyito",
-        "link": "https://www.lacapital.com.ar/ovacion/la-fortaleza-que-tiene-central-desenfundar-una-nueva-excursion-fuera-arroyito-n10284788.html",
-        "image": "https://media.lacapital.com.ar/p/9f211cfafd9fd3bd8f92aa6d1363502f/adjuntos/203/imagenes/103/445/0103445546/tigremb.jpeg",
-        "summary": "El equipo de Jorge Almirón visitará a Banfield con bajas importantes, pero con un antecedente reciente que le permite sostener la confianza lejos del Gigante.",
-        "pubDate": "2026-10-04T17:26:00+00:00",
         "approxTime": false
       }
     ]
