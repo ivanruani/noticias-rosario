@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-05T00:31:06.677016+00:00",
+  "generatedAt": "2026-10-05T00:51:19.524945+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Crímenes del arquitecto Joaquín Pérez y del comisionista Ariel Simoncini: este lunes, el veredicto",
+        "link": "https://www.rosario3.com/policiales/crimenes-del-arquitecto-joaquin-perez-y-del-comisionista-ariel-simoncini-este-lunes-el-veredicto-20261004-0031.html",
+        "image": "https://www.rosario3.com/__export/1791152932459/sites/rosario3/img/2026/10/04/perez-simoncini.jpg_721297817.jpg",
+        "summary": "Tras dos semanas de debate en el Centro de Justicia Penal, el tribunal dará a conocer su fallo. La Fiscalía pidió prisión perpetua para Cristian López y Emanuel Villanueva, los dos acusados",
+        "pubDate": "2026-10-04T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Comienza el juicio por el crimen de Ivana Garcilazo, con pedidos de hasta 33 años de prisión",
         "link": "https://www.rosario3.com/policiales/comienza-el-juicio-por-el-crimen-de-ivana-garcilazo-con-pedidos-de-hasta-33-anos-de-prision-20261004-0029.html",
         "image": "https://www.rosario3.com/__export/1785500741223/sites/rosario3/img/2025/10/14/garcilazo1.jpg_928314582.jpg",
         "summary": "Desde este lunes se desarrollará el debate oral en el Centro de Justicia Penal por el homicidio de la joven hincha de Central, cometido tras un clásico rosarino hace tres años. El tribunal evaluará las responsabilidades de los tres acusados: Ariel Matías Cabrera, Juan José…",
-        "pubDate": "2026-10-04T12:00:00+00:00",
+        "pubDate": "2026-10-04T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/elecciones-en-brasil-ademas-de-lula-da-silva-y-flavio-bolsonaro-competiran-otras-once-formulas-20261003-0031.html",
         "image": "https://www.rosario3.com/__export/1791153452542/sites/rosario3/img/2026/10/04/bolsonaro_lula_da_silva.jpg_506286608.jpg",
         "summary": "Con el 95% escrutado, el senador encabezaba los comicios presidenciales con el 47% de los votos frente al 44% del actual mandatario, anticipando una definición el 25 de octubre",
-        "pubDate": "2026-10-03T11:59:00+00:00",
+        "pubDate": "2026-10-03T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/deportes/lionel-messi-ya-esta-con-la-seleccion-argentina-practica-y-asado-antes-de-la-despedida-20261004-0033.html",
         "image": "https://www.rosario3.com/__export/1791152651278/sites/rosario3/img/2026/10/04/messi_argentina_-1-.jpg_506286608.jpg",
         "summary": "El rosarino se sumó este domingo a los trabajos del plantel dirigido por Lionel Scaloni en el predio de Ezeiza, a la espera del encuentro del próximo martes ante Benín, que marcará el cierre de una etapa gloriosa del 10 con la camiseta albiceleste",
-        "pubDate": "2026-10-04T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La Provincia informó la devolución de $ 7.137 millones en saldos a favor de Ingresos Brutos a sectores productivos",
-        "link": "https://www.rosario3.com/informaciongeneral/la-provincia-informo-la-devolucion-de--7.137-millones-en-saldos-a-favor-de-ingresos-brutos-a-sectores-productivos-20261004-0016.html",
-        "image": "https://www.rosario3.com/__export/1791129454349/sites/rosario3/img/2026/10/04/alivio_fiscal.jpg_54252875.jpg",
-        "summary": "La medida, que buscaba aliviar la carga fiscal, alcanzó a 2.043 contribuyentes de los sectores productivos santafesinos en los primeros nueve meses de 2026",
         "pubDate": "2026-10-04T11:57:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Otra vez todo vacante en el Quini 6, que ya acumula un pozo de $10.100 millones",
+        "link": "https://www.lacapital.com.ar/informacion-general/otra-vez-todo-vacante-el-quini-6-que-ya-acumula-un-pozo-10100-millones-n10284866.html",
+        "image": "https://media.lacapital.com.ar/p/f1fe5697098e89871224e81b0e887660/adjuntos/203/imagenes/103/446/0103446439/2026-10-04-quini-6.jpg",
+        "summary": "En el Siempre Sale hubo 45 ganadores, de los cuales 10 hicieron su apuesta en la provincia de Santa Fe",
+        "pubDate": "2026-10-05T00:32:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Central: cambios esperados entre los concentrados, con la inclusión de tres juveniles",
         "link": "https://www.lacapital.com.ar/ovacion/central-cambios-esperados-los-concentrados-la-inclusion-tres-juveniles-n10284806.html",
         "image": "https://media.lacapital.com.ar/p/9d91ee5a94f96f84aff20e2b3bc97a35/adjuntos/203/imagenes/103/445/0103445910/concen.jpeg",
@@ -168,10 +177,10 @@
       },
       {
         "source": "La Capital",
-        "title": "Habrá Balotaje en Brasil: Bolsonaro le ganó a Lula, que se acercó a 2,3 puntos",
-        "link": "https://www.lacapital.com.ar/el-mundo/habra-balotaje-brasil-bolsonaro-le-gano-lula-que-se-acerco-23-puntos-n10284831.html",
+        "title": "Habrá Balotaje en Brasil: Bolsonaro le ganó a Lula, que se acercó a 2,1 puntos",
+        "link": "https://www.lacapital.com.ar/el-mundo/habra-balotaje-brasil-bolsonaro-le-gano-lula-que-se-acerco-21-puntos-n10284831.html",
         "image": "https://media.lacapital.com.ar/p/0d1bd0d545d3e482eb4cbfd00142885b/adjuntos/203/imagenes/103/446/0103446021/1200x675/smart/imagebolso.jpg",
-        "summary": "Ya con la elección matemáticamente definida, el candidato del Partido Liberal se impuso con el 47,2 % y el actual presidente terminó con un 44,9 %",
+        "summary": "El candidato del Partido Liberal se impuso con el 47,14 % y el actual presidente terminó con un 45,03 %. La segunda vuelta será en tres semanas",
         "pubDate": "2026-10-04T23:07:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/2b008b07969cf434e2a453d898e0960e/adjuntos/203/imagenes/103/445/0103445850/1200x675/smart/imagecatedral.jpg",
         "summary": "La iglesia, declarada Monumento Histórico Nacional, recibió bombas de pintura durante el paso de la movilización. El edificio había atravesado recientemente una intervención integral para preservar su valor patrimonial.",
         "pubDate": "2026-10-04T18:17:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Repudio del Sindicato de Prensa Rosario por panfletos anónimos en contra de periodistas",
-        "link": "https://www.lacapital.com.ar/ovacion/repudio-del-sindicato-prensa-rosario-panfletos-anonimos-contra-periodistas-n10284795.html",
-        "image": "https://media.lacapital.com.ar/p/2b4ea56725cf74be97d5866a6ae3d381/adjuntos/203/imagenes/103/445/0103445759/1200x675/smart/image-16.jpg",
-        "summary": "El gremio que nuclea a los trabajadores de prensa de la ciudad expresó su preocupación por volantes que aparecieron este sábado en el Coloso, y pidió la intervención del Ministerio de Seguridad de la provincia y de Newell's",
-        "pubDate": "2026-10-04T18:03:00+00:00",
         "approxTime": false
       }
     ]
