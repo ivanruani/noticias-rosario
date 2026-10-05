@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T18:01:22.016612+00:00",
+  "generatedAt": "2026-10-05T18:31:10.836565+00:00",
   "sites": {
     "rosario3": [
       {
@@ -103,11 +103,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Investigan a un hombre que fue filmado armado y disparando contra carpinchos en Nordelta",
+        "link": "https://www.rosario3.com/informaciongeneral/investigan-a-un-hombre-que-fue-filmado-armado-y-disparando-contra-carpinchos-en-nordelta-20261005-0049.html",
+        "image": "https://www.rosario3.com/__export/1791223691810/sites/rosario3/img/2026/10/05/carpincho_nordelta.png_786111822.png",
+        "summary": "Un video registrado en el barrio Los Alisos muestra al sospechoso con un arma de fuego y efectuando disparos hacia los animales. La administración presentó una denuncia y la Justicia investiga el caso",
+        "pubDate": "2026-10-05T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Mirtha Legrand evoluciona favorablemente y avanza con su rehabilitación",
         "link": "https://www.rosario3.com/ocio/mirtha-legrand-evoluciona-favorablemente-y-avanza-con-su-rehabilitacion-20261005-0044.html",
         "image": "https://www.rosario3.com/__export/1790784647442/sites/rosario3/img/2026/09/30/mirtha_legrand_png_957223930.jpg_1221028662.jpg",
         "summary": "La conductora, de 99 años, permanece internada en el Sanatorio Mater Dei desde el 18 de septiembre por un cuadro respiratorio. Según el último parte médico, que se difundió este lunes, se encuentra en una habitación común y continúa progresando con su rehabilitación kinesiológica",
-        "pubDate": "2026-10-05T11:49:00+00:00",
+        "pubDate": "2026-10-05T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +125,7 @@
         "link": "https://www.rosario3.com/policiales/asesinaron-a-balazos-a-un-uruguayo-dentro-de-una-vivienda-en-palermo-investigan-un-posible-ajuste-de-cuentas-narco-20261005-0040.html",
         "image": "https://www.rosario3.com/__export/1791218334680/sites/rosario3/img/2026/10/05/narco_palermo_crimen.png_786111822.png",
         "summary": "La víctima, de 31 años, había llegado recientemente desde Montevideo. Tres o cuatro personas ingresaron al departamento sin forzar la puerta y le dispararon varias veces. Por el crimen detuvieron a dos sospechosos y secuestraron un arma que será peritada",
-        "pubDate": "2026-10-05T11:48:00+00:00",
+        "pubDate": "2026-10-05T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,20 +134,20 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/sube-el-real-peor-para-los-turistas-mejor-para-las-empresas-argentinas-20261005-0030.html",
         "image": "https://www.rosario3.com/__export/1791210416761/sites/rosario3/img/2026/10/05/bolsonaris.jpg_982625323.jpg",
         "summary": "La moneda brasileña se apreció más de 4% frente al dólar después de la victoria de Flávio Bolsonaro en la primera vuelta presidencial. Si la tendencia se sostiene, viajar al país vecino será más caro para los argentinos, pero al mismo tiempo mejorarán las condiciones relativas…",
-        "pubDate": "2026-10-05T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Pedro Sánchez adelanta las elecciones en España, en medio de la crisis por la vivienda que detonó el desalojo de Maricarmen",
-        "link": "https://www.rosario3.com/politica/pedro-sanchez-adelanta-las-elecciones-en-espana-en-medio-de-la-crisis-por-la-vivienda-que-detono-el-desalojo-de-maricarmen-20261005-0018.html",
-        "image": "https://www.rosario3.com/__export/1791204338385/sites/rosario3/img/2026/10/05/pedro_sanchez_anuncio_de_adelanto_de_elecciones.jpg_928314580.jpg",
-        "summary": "Los comicios generales serán ahora el 29 de noviembre. El presidente del Gobierno español se lo informó este domingo al rey y lo comunicó a la ciudadanía este lunes. El socialista tomó esta decisión tras la derrota parlamentaria de dos decretos sobre vivienda presentados al…",
         "pubDate": "2026-10-05T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Crimen de Ivana Garcilazo: empezó el juicio y la Fiscalía pidió 30 años para los tres acusados",
+        "link": "https://www.lacapital.com.ar/policiales/crimen-ivana-garcilazo-empezo-el-juicio-y-la-fiscalia-pidio-30-anos-los-tres-acusados-n10284989.html",
+        "image": "https://media.lacapital.com.ar/p/640fa10fa1052f50f408ff564a0ba1a5/adjuntos/203/imagenes/103/447/0103447556/1200x675/smart/imagecrimen.jpg",
+        "summary": "Damián Reinfenstuel, Ariel Cabrera y Juan Massón están acusados de haber arrojado baldosas contra la joven cuando circulaba en moto con ropa de Rosario Central tras el clásico de 2023. Uno de ellos fue detenido en Bolivia después de permanecer prófugo.",
+        "pubDate": "2026-10-05T18:13:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Cinco alimentos con proteína para sumar a las comidas",
@@ -159,10 +168,10 @@
       },
       {
         "source": "La Capital",
-        "title": "Anses: qué es la Puam y cuánto se cobra en octubre",
-        "link": "https://www.lacapital.com.ar/informacion-general/anses-que-es-la-puam-y-cuanto-se-cobra-octubre-n10284951.html",
-        "image": "https://media.lacapital.com.ar/p/41073248fa7a45de444303bff1cd9243/adjuntos/203/imagenes/101/634/0101634796/1200x675/smart/jubilados-pensionados-ansesjpg.jpg",
-        "summary": "Este beneficio otorgado por Anses está dirigido a aquellas personas mayores de 65 años que no tienen acceso a una jubilación tradicional. Los detalles en esta nota",
+        "title": "De Villa Suramericana a nuevo barrio: ya venden los departamentos con financiación a 20 años",
+        "link": "https://www.lacapital.com.ar/la-ciudad/de-villa-suramericana-nuevo-barrio-ya-venden-los-departamentos-financiacion-20-anos-n10284904.html",
+        "image": "https://media.lacapital.com.ar/p/da25a7f66e91278c6a3b193fc12c40e1/adjuntos/203/imagenes/103/368/0103368423/1200x675/smart/imagevilla.jpg",
+        "summary": "Las viviendas que alojaron a los atletas durante los Juegos ya se ofrecen a la venta. Son unidades de uno a tres dormitorios y el crédito permite financiar hasta el 75% en 20 años",
         "pubDate": "2026-10-05T17:30:00+00:00",
         "approxTime": false
       },
@@ -177,10 +186,10 @@
       },
       {
         "source": "La Capital",
-        "title": "De Villa Suramericana a nuevo barrio: ya venden los departamentos con financiación a 20 años",
-        "link": "https://www.lacapital.com.ar/la-ciudad/de-villa-suramericana-nuevo-barrio-ya-venden-los-departamentos-financiacion-20-anos-n10284904.html",
-        "image": "https://media.lacapital.com.ar/p/da25a7f66e91278c6a3b193fc12c40e1/adjuntos/203/imagenes/103/368/0103368423/1200x675/smart/imagevilla.jpg",
-        "summary": "Las viviendas que alojaron a los atletas durante los Juegos ya se ofrecen a la venta. Son unidades de uno a tres dormitorios y el crédito permite financiar hasta el 75% en 20 años",
+        "title": "Anses: qué es la Puam y cuánto se cobra en octubre",
+        "link": "https://www.lacapital.com.ar/informacion-general/anses-que-es-la-puam-y-cuanto-se-cobra-octubre-n10284951.html",
+        "image": "https://media.lacapital.com.ar/p/41073248fa7a45de444303bff1cd9243/adjuntos/203/imagenes/101/634/0101634796/1200x675/smart/jubilados-pensionados-ansesjpg.jpg",
+        "summary": "Este beneficio otorgado por Anses está dirigido a aquellas personas mayores de 65 años que no tienen acceso a una jubilación tradicional. Los detalles en esta nota",
         "pubDate": "2026-10-05T17:30:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/115ea29de5178052df88818a56fd8c4e/adjuntos/203/imagenes/103/447/0103447327/1200x675/smart/image-2026-10-05t122945644.png",
         "summary": "Buscan incorporar nuevos perfiles profesionales y fortalecer las capacidades investigativas de la Policía, con especial foco en el centro y sur de la provincia",
         "pubDate": "2026-10-05T15:53:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Detuvieron al dueño de la agencia de autos Rosario Motorsport, acusado de estafas",
-        "link": "https://www.lacapital.com.ar/policiales/detuvieron-al-dueno-la-agencia-autos-rosario-motorsport-acusado-estafas-n10284957.html",
-        "image": "https://media.lacapital.com.ar/p/61e257756f0015946d913038ea339f18/adjuntos/203/imagenes/103/375/0103375125/agencia-motorsport.jpg",
-        "summary": "Efectivos de la PDI realizaron un procedimiento en Pellegrini al 800. Una mujer que figura como socia de la empresa fue declarada en rebeldía",
-        "pubDate": "2026-10-05T15:52:00+00:00",
         "approxTime": false
       }
     ]
