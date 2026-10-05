@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T17:31:10.375226+00:00",
+  "generatedAt": "2026-10-05T18:01:22.016612+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,51 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Cinco alimentos con proteína para sumar a las comidas",
+        "link": "https://www.lacapital.com.ar/informacion-general/cinco-alimentos-proteina-sumar-las-comidas-n10284977.html",
+        "image": "https://media.lacapital.com.ar/p/6eb454c4e06232b6735e355dd76a60e1/adjuntos/203/imagenes/103/447/0103447490/1200x675/smart/image-1.png",
+        "summary": "Quienes desean incorporar proteínas en sus comidas tienen múltiples opciones para variar sus recetas. Las variantes y sus usos en esta nota",
+        "pubDate": "2026-10-05T17:58:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Perpetua para dos acusados por los crímenes de Joaquín Pérez y Ariel Simoncini en Rosario",
+        "link": "https://www.lacapital.com.ar/policiales/perpetua-dos-acusados-los-crimenes-joaquin-perez-y-ariel-simoncini-rosario-n10284976.html",
+        "image": "https://media.lacapital.com.ar/p/1d82f19f870c10a4f88b74fcbd510ee4/adjuntos/203/imagenes/103/447/0103447489/1200x675/smart/lopez-villanueva-pepetua-510.jpg",
+        "summary": "Cristián López fue condenado por participar de ambos asesinatos y Emanuel Villanueva por planificar desde la cárcel el robo en el que mataron a Simoncini. Los testigos de identidad reservada fueron clave para unir las dos causas.",
+        "pubDate": "2026-10-05T17:35:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Anses: qué es la Puam y cuánto se cobra en octubre",
+        "link": "https://www.lacapital.com.ar/informacion-general/anses-que-es-la-puam-y-cuanto-se-cobra-octubre-n10284951.html",
+        "image": "https://media.lacapital.com.ar/p/41073248fa7a45de444303bff1cd9243/adjuntos/203/imagenes/101/634/0101634796/1200x675/smart/jubilados-pensionados-ansesjpg.jpg",
+        "summary": "Este beneficio otorgado por Anses está dirigido a aquellas personas mayores de 65 años que no tienen acceso a una jubilación tradicional. Los detalles en esta nota",
+        "pubDate": "2026-10-05T17:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Pami: cómo solicitar una ambulancia para traslados programados",
+        "link": "https://www.lacapital.com.ar/informacion-general/pami-como-solicitar-una-ambulancia-traslados-programados-n10284950.html",
+        "image": "https://media.lacapital.com.ar/p/0fc51ecfc8a023ded2c5f26cac8c8c4b/adjuntos/203/imagenes/102/085/0102085615/1200x675/smart/pamipng.png",
+        "summary": "Entre los servicios brindados por Pami, el afiliado puede pedir traslados a sus consultas médicas. Cómo hacerlo",
+        "pubDate": "2026-10-05T17:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "De Villa Suramericana a nuevo barrio: ya venden los departamentos con financiación a 20 años",
+        "link": "https://www.lacapital.com.ar/la-ciudad/de-villa-suramericana-nuevo-barrio-ya-venden-los-departamentos-financiacion-20-anos-n10284904.html",
+        "image": "https://media.lacapital.com.ar/p/da25a7f66e91278c6a3b193fc12c40e1/adjuntos/203/imagenes/103/368/0103368423/1200x675/smart/imagevilla.jpg",
+        "summary": "Las viviendas que alojaron a los atletas durante los Juegos ya se ofrecen a la venta. Son unidades de uno a tres dormitorios y el crédito permite financiar hasta el 75% en 20 años",
+        "pubDate": "2026-10-05T17:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Siete de cada diez argentinos ya usan IA o quieren incorporarla para manejar sus finanzas",
         "link": "https://www.lacapital.com.ar/informacion-general/siete-cada-diez-argentinos-ya-usan-ia-o-quieren-incorporarla-manejar-sus-finanzas-n10284975.html",
         "image": "https://media.lacapital.com.ar/p/ec5d12b5c496e6119f56a070ef8c80d6/adjuntos/203/imagenes/103/447/0103447467/1200x675/smart/imagefinanzas.jpg",
@@ -227,51 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/61e257756f0015946d913038ea339f18/adjuntos/203/imagenes/103/375/0103375125/agencia-motorsport.jpg",
         "summary": "Efectivos de la PDI realizaron un procedimiento en Pellegrini al 800. Una mujer que figura como socia de la empresa fue declarada en rebeldía",
         "pubDate": "2026-10-05T15:52:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Alerta en Rusia por la peste neumónica: qué es, cómo se contagia y cuáles son sus síntomas",
-        "link": "https://www.lacapital.com.ar/el-mundo/alerta-rusia-la-peste-neumonica-que-es-como-se-contagia-y-cuales-son-sus-sintomas-n10284941.html",
-        "image": "https://media.lacapital.com.ar/p/ff815071e82c1b73c80a890bc5727bd2/adjuntos/203/imagenes/103/447/0103447088/1200x675/smart/image-2026-10-05t110036417.png",
-        "summary": "Cinco hospitales locales quedaron bajo cuarentena tras la muerte de una técnica de laboratorio. Cerca de 200 contactos están vigilados por un posible brote",
-        "pubDate": "2026-10-05T15:21:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "A 20 años de la ESI, crecen los discursos de desinformación y cae el presupuesto para sostenerla",
-        "link": "https://www.lacapital.com.ar/informacion-general/a-20-anos-la-esi-crecen-los-discursos-desinformacion-y-cae-el-presupuesto-sostenerla-n10284920.html",
-        "image": "https://media.lacapital.com.ar/p/318074b29697922b2b2435a2743ad37c/adjuntos/203/imagenes/102/309/0102309989/1200x675/smart/esi-74jpg.jpg",
-        "summary": "La ley que garantizó la Educación Sexual Integral cumple dos décadas. El financiamiento previsto para 2027 cayó 98,5% en términos reales respecto de 2023",
-        "pubDate": "2026-10-05T15:14:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El plantel de Benín posó junto a Di María y los jugadores de Central previo a la despedida de Messi",
-        "link": "https://www.lacapital.com.ar/ovacion/el-plantel-benin-poso-junto-di-maria-y-los-jugadores-central-previo-la-despedida-messi-n10284933.html",
-        "image": "https://media.lacapital.com.ar/p/a1d33650ec6daca318a48ac8148f4f3f/adjuntos/203/imagenes/103/447/0103447235/1200x675/smart/di-maria-benin.jpg",
-        "summary": "A horas del último partido del 10 con Argentina, el equipo africano compartió un encuentro con Fideo y el equipo canalla en Buenos Aires",
-        "pubDate": "2026-10-05T14:54:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Avanzan las reparaciones en rutas del sur de Santa Fe y la reconstrucción de la A012",
-        "link": "https://www.lacapital.com.ar/la-region/avanzan-las-reparaciones-rutas-del-sur-santa-fe-y-la-reconstruccion-la-a012-n10284946.html",
-        "image": "https://media.lacapital.com.ar/p/3cd34cf90240b5d7f57f0349c16a4e4f/adjuntos/203/imagenes/103/447/0103447233/1200x675/smart/a012.png",
-        "summary": "El gobierno provincial mantiene tres frentes de obra en las rutas 16, 91 y A012, con reconstrucción de calzadas y tareas de iluminación y limpieza en corredores clave del sur santafesino",
-        "pubDate": "2026-10-05T14:41:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El Dibu Martínez mostró el ritual del último asado junto a Messi en la selección argentina",
-        "link": "https://www.lacapital.com.ar/ovacion/el-dibu-martinez-mostro-el-ritual-del-ultimo-asado-junto-messi-la-seleccion-argentina-n10284923.html",
-        "image": "https://media.lacapital.com.ar/p/d08c84e0212bae3bd24c002c3f3bdffb/adjuntos/203/imagenes/103/446/0103446960/1200x675/smart/asado.jpg",
-        "summary": "El arquero de la Albiceleste compartió los detalles del tradicional encuentro culinario que reunió al plantel en la concentración en un clima de risas, distensión y carga emotiva",
-        "pubDate": "2026-10-05T14:37:56+00:00",
         "approxTime": false
       }
     ]
