@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T09:01:33.870877+00:00",
+  "generatedAt": "2026-10-06T09:31:07.464101+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Clima y agro: las perspectivas para octubre y el seguimiento de El Niño",
+        "link": "https://www.lacapital.com.ar/agro/clima-y-agro-las-perspectivas-octubre-y-el-seguimiento-el-nino-n10285000.html",
+        "image": "https://media.lacapital.com.ar/p/6ef1c3c724dabc1487b7360e144173a4/adjuntos/203/imagenes/103/447/0103447787/1200x675/392x446:412x466/clima-nubes-trigo.avif",
+        "summary": "Septiembre cerró con lluvias que trajeron alivio, pero dejaron un mapa hídrico muy desigual. El sur de Santa Fe comienza octubre con mejores perspectivas para los cultivos y crece la expectativa de una primavera más húmeda",
+        "pubDate": "2026-10-06T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "No te vayas campeón: se despide Lionel Messi, el más grande de todos los tiempos",
+        "link": "https://www.lacapital.com.ar/ovacion/no-te-vayas-campeon-se-despide-lionel-messi-el-mas-grande-todos-los-tiempos-n10285048.html",
+        "image": "https://media.lacapital.com.ar/p/24d9aeb4dc1bd68389ef1be38aded8de/adjuntos/203/imagenes/103/448/0103448311/1200x675/smart/image-14.jpg",
+        "summary": "Leo hará piantar más de un lagrimón en el Monumental, en el amistoso en que jugará por última con la camiseta se la selección argentina. Se espera lleno total",
+        "pubDate": "2026-10-06T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Jorge Almirón dijo que Central mereció el punto: \"No era lo que veníamos a buscar\"",
         "link": "https://www.lacapital.com.ar/ovacion/jorge-almiron-dijo-que-central-merecio-el-punto-no-era-lo-que-veniamos-buscar-n10285081.html",
         "image": "https://media.lacapital.com.ar/p/2f280b9fb7f62e39e70d63940d3cd9c8/adjuntos/203/imagenes/103/448/0103448851/1200x675/smart/image-2026-10-05t232607277.png",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/b14d052ad167a9943aa60c0b5a8ece35/adjuntos/203/imagenes/103/448/0103448534/1200x675/smart/image-15.jpg",
         "summary": "Unos tres mil simpatizantes canallas se dieron cita en el estadio de Banfield para apoyar al equipo de Jorge Almirón",
         "pubDate": "2026-10-06T00:11:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Elecciones Maricarmen: el presidente de España anunció comicios anticipados",
-        "link": "https://www.lacapital.com.ar/el-mundo/elecciones-maricarmen-el-presidente-espana-anuncio-comicios-anticipados-n10285045.html",
-        "image": "https://media.lacapital.com.ar/p/74f4dbfc91f96cffecb2af44cc6e61f6/adjuntos/203/imagenes/103/448/0103448296/2026-10-05-madrid-puerta-del-sol-82725801.jpg",
-        "summary": "En medio de la crisis de vivienda del país, Pedro Sánchez —apuntado por corrupción y el episodio migratorio de Ceuta— convocó a elecciones para el 29 de noviembre",
-        "pubDate": "2026-10-05T23:37:30+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central está confirmado con dos cambios obligados para visitar al Taladro",
-        "link": "https://www.lacapital.com.ar/ovacion/central-esta-confirmado-dos-cambios-obligados-visitar-al-taladro-n10285053.html",
-        "image": "https://media.lacapital.com.ar/p/07ed657bde852d798e8877408e0642be/adjuntos/203/imagenes/103/448/0103448366/ledesmaaa.jpg",
-        "summary": "El DT de Central Jorge Almirón realizará dos modificaciones para jugar ante Banfield. Ingresan el arquero Ledesma y el lateral Soto",
-        "pubDate": "2026-10-05T23:33:00+00:00",
         "approxTime": false
       }
     ]
