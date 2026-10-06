@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-06T16:01:20.348706+00:00",
+  "generatedAt": "2026-10-06T16:31:08.548035+00:00",
   "sites": {
     "rosario3": [
       {
         "source": "Rosario3",
-        "title": "Confirmado: Santa Fe abre el calendario electoral 2027, con las Paso el 18 de abril y las generales el 18 de junio",
+        "title": "Confirmado: Santa Fe abre el calendario electoral 2027, con las Paso el 18 de abril y las generales el 13 de junio",
         "link": "https://www.rosario3.com/politica/confirmado-santa-fe-abre-el-calendario-electoral-2027-con-las-paso-el-18-de-abril-y-las-generales-el-18-de-junio-20261006-0037.html",
         "image": "https://www.rosario3.com/__export/1778680880594/sites/rosario3/img/2023/07/16/elecciones_rosario3.jpeg_1825222445.jpeg",
         "summary": "El gobernador aceptó que esas serán las fechas, aunque aclaró que todavía no firmó el decreto con la convocatoria",
@@ -22,29 +22,38 @@
       },
       {
         "source": "Rosario3",
-        "title": "Llega la Noche de las Colectividades y ya hay fecha del Encuentro y Fiesta nacional en Rosario",
-        "link": "https://www.rosario3.com/informaciongeneral/sabores-danzas-y-expresiones-culturales-del-mundo-en-la-noche-de-colectividades-en-rosario-20261006-0031.html",
-        "image": "https://www.rosario3.com/__export/1791300611703/sites/rosario3/img/2026/10/06/nochecolectividaes1.jpg_928314581.jpg",
-        "summary": "Desde el viernes 9 al domingo 11 de octubre, más de 30 agrupaciones de la ciudad ofrecen los mejores platos y espectáculos tradicionales de diversos rincones del planeta. Una de las novedades de esta edición será la propuesta Sabores y Saberes. Lydia Del Groso, presidenta de la…",
+        "title": "La Justicia se pronunció sobre la cuestión de fondo y ordenó el cumplimiento inmediato de la ley de financiamiento universitario",
+        "link": "https://www.rosario3.com/politica/la-justicia-se-pronuncio-sobre-la-cuestion-de-fondo-y-ordeno-el-cumplimiento-inmediato-de-la-ley-de-financiamiento-universitario-20261006-0043.html",
+        "image": "https://www.rosario3.com/__export/1790103229313/sites/rosario3/img/2026/09/22/unr.jpg_1768679257.jpg",
+        "summary": "El fallo declaró inconstitucional el decreto de MIlei que supedita la aplicación de la norma a que se identifique la fuente para financiar su aplicación",
         "pubDate": "2026-10-06T11:58:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Pullaro: “Somos el gobierno que más obra pública hizo en toda la provincia”",
-        "link": "https://www.rosario3.com/informaciongeneral/pullaro-somos-el-gobierno-que-mas-obra-publica-hizo-en-toda-la-provincia-20261006-0038.html",
-        "image": "https://www.rosario3.com/__export/1791302125629/sites/rosario3/img/2026/10/06/whatsapp_image_2026-10-06_at_12-46-52_-1-_version1791302125072.jpeg_884113636.jpeg",
-        "summary": "El gobernador remarcó que el 75 % de las obras que lleva adelante la Casa Gris se hizo con recursos propios a partir de “lograr la eficiencia del Estado”. Sus declaraciones fueron durante la entrega de un aporte reembolsable para que la municipalidad de Santa Fe adquiera una…",
+        "title": "\"Gracias Argentina\": el mensaje de Lionel Messi antes de su partido despedida, con una imagen que lo dice todo",
+        "link": "https://www.rosario3.com/deportes/gracias-argentina-el-mensaje-de-lionel-messi-antes-de-su-partido-despedida-con-una-imagen-que-lo-dice-todo-20261006-0039.html",
+        "image": "https://www.rosario3.com/__export/1791303292143/sites/rosario3/img/2026/10/06/messi_instagram-.jpeg_2019943541.jpeg",
+        "summary": "A pocas horas de su último partido con la Albiceleste en el Monumental, el capitán compartió una historia en sus redes sociales con una foto besando la camiseta especial que utilizará ante Benín",
         "pubDate": "2026-10-06T11:57:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "La respuesta de Novaresio tras la catarata de insultos de Milei en su contra",
-        "link": "https://www.rosario3.com/politica/la-respuesta-de-novaresio-tras-la-catarata-de-insultos-de-milei-en-su-contra-20261006-0015.html",
-        "image": "https://www.rosario3.com/__export/1791291435372/sites/rosario3/img/2026/10/06/retratos_polxticos_en_dxptico_editorial.png_374587788.png",
-        "summary": "El periodista fue consultado sobre el tema antes de su habitual columna en el programa De boca en boca, de Radio 2",
-        "pubDate": "2026-10-06T11:56:00+00:00",
+        "title": "Pantalla gigante y actividades gratuitas en Rosario para la despedida de Messi de la Selección",
+        "link": "https://www.rosario3.com/informaciongeneral/rosario-prepara-una-pantalla-gigante-y-actividades-gratuitas-para-la-despedida-de-messi-de-la-seleccion-20261004-0020.html",
+        "image": "https://www.rosario3.com/__export/1791301502844/sites/rosario3/img/2026/10/06/pantalla_gigante_museo_deporte_messi_-2-.jpg_1825222445.jpg",
+        "summary": "El encuentro ante Benín se proyectará este martes en el Museo del Deporte, donde desde las 17 habrá música, juegos y propuestas culturales con entrada libre. La jornada se realizará a pocos metros de la casa natal del astro rosarino",
+        "pubDate": "2026-10-04T11:56:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Llega la Noche de las Colectividades y ya hay fecha del Encuentro y Fiesta nacional en Rosario",
+        "link": "https://www.rosario3.com/informaciongeneral/sabores-danzas-y-expresiones-culturales-del-mundo-en-la-noche-de-colectividades-en-rosario-20261006-0031.html",
+        "image": "https://www.rosario3.com/__export/1791300611703/sites/rosario3/img/2026/10/06/nochecolectividaes1.jpg_928314581.jpg",
+        "summary": "Desde el viernes 9 al domingo 11 de octubre, más de 30 agrupaciones de la ciudad ofrecen los mejores platos y espectáculos tradicionales de diversos rincones del planeta. Una de las novedades de esta edición será la propuesta Sabores y Saberes. Lydia Del Groso, presidenta de la…",
+        "pubDate": "2026-10-06T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -53,15 +62,6 @@
         "link": "https://www.rosario3.com/deportes/sinner-no-jugara-lo-que-resta-del-2026-por-una-lesion-y-zverev-sube-al-numero-1-del-ranking-20261006-0032.html",
         "image": "https://www.rosario3.com/__export/1791299737673/sites/rosario3/img/2026/10/06/sinner-lesion.jpg_928314580.jpg",
         "summary": "El italiano anunció que no volverá a las canchas durante la temporada debido a un tratamiento en una de sus rodillas. “Tengo que pensar en mi carrera a largo plazo”, comunicó a través de sus redes sociales",
-        "pubDate": "2026-10-06T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Balearon una casa y dejaron una nota por una millonaria deuda",
-        "link": "https://www.rosario3.com/policiales/balearon-una-casa-y-dejaron-una-nota-por-una-millonaria-deuda-20261006-0026.html",
-        "image": "https://www.rosario3.com/__export/1766501411026/sites/rosario3/img/2021/10/11/patrullero.jpg_54252877.jpg",
-        "summary": "Ocurrió este lunes al mediodía en Cullen y Ugarte al 2800, en la zona norte de Rosario. Horas antes, a cuatro cuadras de distancia, le dieron un tiro en una mano a un adolescente de 14 años",
         "pubDate": "2026-10-06T11:54:00+00:00",
         "approxTime": true
       },
@@ -94,20 +94,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Parteras investigadas por venta de bebés: audiencia por Silvia y fecha de indagatoria para Dolly",
-        "link": "https://www.rosario3.com/policiales/parteras-investigadas-por-venta-de-bebes-silvia-va-por-la-prescripcion-y-dolly-ya-tiene-fecha-de-indagatoria-20261006-0013.html",
-        "image": "https://www.rosario3.com/__export/1791291331016/sites/rosario3/img/2026/10/06/tribunalfederal.jpg_928314581.jpg",
-        "summary": "Este martes se realiza una audiencia a requerimiento de la Fiscalía para solicitar una prórroga de la investigación preliminar, instancia previa a la formalizaron de la imputación sobre Silvia Viale. Juan Singer, abogado querellante, explicó cuál era el presunto modus operandi…",
+        "title": "Pullaro: “Somos el gobierno que más obra pública hizo en toda la provincia”",
+        "link": "https://www.rosario3.com/informaciongeneral/pullaro-somos-el-gobierno-que-mas-obra-publica-hizo-en-toda-la-provincia-20261006-0038.html",
+        "image": "https://www.rosario3.com/__export/1791302125629/sites/rosario3/img/2026/10/06/whatsapp_image_2026-10-06_at_12-46-52_-1-_version1791302125072.jpeg_884113636.jpeg",
+        "summary": "El gobernador remarcó que el 75 % de las obras que lleva adelante la Casa Gris se hizo con recursos propios a partir de “lograr la eficiencia del Estado”. Sus declaraciones fueron durante la entrega de un aporte reembolsable para que la municipalidad de Santa Fe adquiera una…",
         "pubDate": "2026-10-06T11:50:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Investigan suicidio de un gendarme acusado de agredir a una trabajadora sexual en Echesortu",
-        "link": "https://www.rosario3.com/policiales/investigan-suicidio-de-un-gendarme-acusado-de-agredir-a-una-trabajadora-sexual-en-echesortu-20261006-0007.html",
-        "image": "https://www.rosario3.com/__export/1791283552623/sites/rosario3/img/2026/10/06/despliegue_policial_suicidio_gendarme_echesortu.jpg_1851203400.jpg",
-        "summary": "Este martes por la madrugada una mujer denunció a un oficial de Gendarmería por violencia de género. Al llegar al lugar, la policía lo encontró muerto y, de acuerdo a las primeras versiones, todo indicaba que se habría quitado la vida con su propia arma reglamentaria",
-        "pubDate": "2026-10-06T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -116,24 +107,33 @@
         "link": "https://www.rosario3.com/deportes/tras-la-caotica-carrera-en-malasia-franco-colapinto-se-prepara-para-el-gran-premio-de-singapur-los-horarios-del-fin-de-semana-20261006-0035.html",
         "image": "https://www.rosario3.com/__export/1791301212130/sites/rosario3/img/2026/10/06/colapinto-singapur.jpg_928314580.jpg",
         "summary": "La fecha 17 de la temporada se realizará en el trazado urbano Marina Bay y tendrá nuevamente la presencia del piloto argentino. Cómo es el cronograma completo",
+        "pubDate": "2026-10-06T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Balearon una casa y dejaron una nota por una millonaria deuda",
+        "link": "https://www.rosario3.com/policiales/balearon-una-casa-y-dejaron-una-nota-por-una-millonaria-deuda-20261006-0026.html",
+        "image": "https://www.rosario3.com/__export/1766501411026/sites/rosario3/img/2021/10/11/patrullero.jpg_54252877.jpg",
+        "summary": "Ocurrió este lunes al mediodía en Cullen y Ugarte al 2800, en la zona norte de Rosario. Horas antes, a cuatro cuadras de distancia, le dieron un tiro en una mano a un adolescente de 14 años",
         "pubDate": "2026-10-06T11:48:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Empezó el juicio político al juez federal de Rosario Gastón Salmain, acusado por corrupción",
-        "link": "https://www.rosario3.com/informaciongeneral/empezo-el-juicio-politico-al-juez-federal-de-rosario-gaston-salmain-acusado-por-corrupcion-20261006-0033.html",
-        "image": "https://www.rosario3.com/__export/1765934066667/sites/rosario3/img/2025/08/21/juez_federal_gaston_salmain.jpg_928314581.jpg",
-        "summary": "El titular del Juzgado Federal Nº 1 de Rosario está sindicado por mal desempeño y por haber omitido información clave en su currículum al concursar para el puesto de magistrado. El año pasado fue procesado con prisión preventiva domiciliaria por haber recibido coimas para emitir…",
+        "title": "Asaltaron a una mujer en silla de ruedas cuando iba a trabajar a un jardín de infantes de Villa Gobernador Gálvez",
+        "link": "https://www.rosario3.com/policiales/asaltaron-a-una-mujer-en-silla-de-ruedas-cuando-iba-a-trabajar-a-un-jardin-de-infantes-de-villa-gobernador-galvez-20261006-0021.html",
+        "image": "https://www.rosario3.com/__export/1791294638115/sites/rosario3/img/2026/10/06/asalto_jardin_garabatos.jpg_1805593557.jpg",
+        "summary": "La directora de una institución de la vecina ciudad, fue abordada por dos delincuentes en moto que le arrancaron la mochila que llevaba enganchada en la silla. Se llevaron documentación personal y de trabajo y ahora pide ayuda para recuperarlos",
         "pubDate": "2026-10-06T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Dyango vuelve a Rosario: “Las ganas de hacer música no se me van a pasar nunca”",
-        "link": "https://www.rosario3.com/ocio/dyango-vuelve-a-rosario-las-ganas-de-hacer-musica-no-se-me-van-a-pasar-nunca-20261006-0029.html",
-        "image": "https://www.rosario3.com/__export/1791299013373/sites/rosario3/img/2026/10/06/dyango_version1791299012925.jpg_822318996.jpg",
-        "summary": "El cantante español anticipó en diálogo con Radio 2 el recital que brindará el viernes 16 de octubre, en el teatro El Círculo. En la charla con De boca en boca, el artista reflexionó sobre la vigencia de la música romántica, sus colaboraciones con nuevas generaciones y su…",
+        "title": "Parteras investigadas por venta de bebés: audiencia por Silvia y fecha de indagatoria para Dolly",
+        "link": "https://www.rosario3.com/policiales/parteras-investigadas-por-venta-de-bebes-silvia-va-por-la-prescripcion-y-dolly-ya-tiene-fecha-de-indagatoria-20261006-0013.html",
+        "image": "https://www.rosario3.com/__export/1791291331016/sites/rosario3/img/2026/10/06/tribunalfederal.jpg_928314581.jpg",
+        "summary": "Este martes se realiza una audiencia a requerimiento de la Fiscalía para solicitar una prórroga de la investigación preliminar, instancia previa a la formalizaron de la imputación sobre Silvia Viale. Juan Singer, abogado querellante, explicó cuál era el presunto modus operandi…",
         "pubDate": "2026-10-06T11:46:00+00:00",
         "approxTime": true
       }
