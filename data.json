@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-06T10:31:03.827083+00:00",
+  "generatedAt": "2026-10-06T11:01:44.968573+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Investigan suicidio de un gendarme acusado de agredir a una trabajadora sexual en Echesortu",
+        "link": "https://www.rosario3.com/policiales/investigan-suicidio-de-un-gendarme-acusado-de-agredir-a-una-trabajadora-sexual-en-echesortu-20261006-0007.html",
+        "image": "https://www.rosario3.com/__export/1791283552623/sites/rosario3/img/2026/10/06/despliegue_policial_suicidio_gendarme_echesortu.jpg_1851203400.jpg",
+        "summary": "Este martes por la madrugada una mujer denunció a un oficial de Gendarmería por violencia de género. Al llegar al lugar, la policía lo encontró muerto y, de acuerdo a las primeras versiones, todo indicaba que se habría quitado la vida con su propia arma reglamentaria",
+        "pubDate": "2026-10-06T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "El fin de una era: Lionel Messi se despide de la selección argentina tras más de 20 años",
         "link": "https://www.rosario3.com/deportes/el-fin-de-una-era-lionel-messi-se-despide-de-la-seleccion-argentina-tras-mas-de-20-anos-20261005-0074.html",
         "image": "https://www.rosario3.com/__export/1783449337637/sites/rosario3/img/2026/07/07/messi_argentina_egipto_-1-.jpg_506286608.jpg",
         "summary": "El rosarino, capitán y emblema del seleccionado albiceleste, jugará este martes su último partido en un amistoso frente a Benín, desde las 20 en un estadio Monumental repleto para homenajear al ídolo. Una noche para emocionarse",
-        "pubDate": "2026-10-05T12:00:00+00:00",
+        "pubDate": "2026-10-05T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-a-comer-frutillas-bajo-el-sol-20261006-0005.html",
         "image": "https://www.rosario3.com/__export/1791282284855/sites/rosario3/img/2026/10/06/frutillas.jpg_928314581.jpg",
         "summary": "Octubre transcurre primaveral. Este martes empieza luminoso, con un sol tempranero que será tapado de nubes de vez en cuando. El termómetro irá hasta los 22 grados. ¿Tormenta para el miércoles?",
-        "pubDate": "2026-10-06T11:59:00+00:00",
+        "pubDate": "2026-10-06T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,16 +35,7 @@
         "link": "https://www.rosario3.com/ecos365/noticias/claves-del-dia-brasil-enciende-la-bolsa-capital-aleman-en-busca-de-negocios-en-rosario-pero-el-credito-frenado-20261006-0001.html",
         "image": "https://www.rosario3.com/__export/1791280830773/sites/rosario3/img/2026/07/04/automotriz.jpg_911186587.jpg",
         "summary": "Brasil anima los mercados, pero autos y crédito muestran otra realidad. La reforma financiera, la crisis de Flybondi y la muerte de Taselli completan una agenda que encuentra a Rosario y Santa Fe buscando inversiones y mercados europeos",
-        "pubDate": "2026-10-06T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Sin jugar bien, Central rescató un empate sobre el final ante Banfield gracias a un golazo de Cantizano",
-        "link": "https://www.rosario3.com/deportes/tras-los-festejos-central-vuelve-a-poner-el-foco-en-el-torneo-y-visita-a-banfield-20261004-0028.html",
-        "image": "https://www.rosario3.com/__export/1791253049742/sites/rosario3/img/2026/10/05/cantizano_di_maria.jpg_506286608.jpg",
-        "summary": "Igualaron 1-1 este lunes en el Florencio Sola, por la fecha 11 del torneo. Tomás Adoryán adelantó al Taladro en el primer tiempo y Giovanni Cantizano marcó el empate para el Canalla en el complemento. El equipo de Jorge Almirón sufrió durante gran parte del encuentro y evitó la…",
-        "pubDate": "2026-10-04T11:57:00+00:00",
+        "pubDate": "2026-10-06T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -49,47 +49,29 @@
       },
       {
         "source": "Rosario3",
+        "title": "Sin jugar bien, Central rescató un empate sobre el final ante Banfield gracias a un golazo de Cantizano",
+        "link": "https://www.rosario3.com/deportes/tras-los-festejos-central-vuelve-a-poner-el-foco-en-el-torneo-y-visita-a-banfield-20261004-0028.html",
+        "image": "https://www.rosario3.com/__export/1791253049742/sites/rosario3/img/2026/10/05/cantizano_di_maria.jpg_506286608.jpg",
+        "summary": "Igualaron 1-1 este lunes en el Florencio Sola, por la fecha 11 del torneo. Tomás Adoryán adelantó al Taladro en el primer tiempo y Giovanni Cantizano marcó el empate para el Canalla en el complemento. El equipo de Jorge Almirón sufrió durante gran parte del encuentro y evitó la…",
+        "pubDate": "2026-10-04T11:55:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Hombres armados maniataron con alambre a una mujer en su casa de zona noroeste y la desvalijaron",
+        "link": "https://www.rosario3.com/policiales/hombres-armados-maniataron-con-alambre-a-una-mujer-en-su-casa-de-zona-noroeste-y-la-desvalijaron-20261006-0008.html",
+        "image": "https://www.rosario3.com/__export/1791283871200/sites/rosario3/img/2026/10/06/pasajeghandi.jpg_928314581.jpg",
+        "summary": "Cinco hombres ingresaron a una vivienda ubicada en Pasaje Gandhi al 7000 de Rosario. Redujeron a su moradora de 60 años, tapandole la cabeza con una toalla, y robaron dinero y pertenencias",
+        "pubDate": "2026-10-06T11:54:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Almirón: \"Dejamos dos puntos y los tenemos que recuperar el domingo\"",
         "link": "https://www.rosario3.com/deportes/almiron-dejamos-dos-puntos-y-los-tenemos-que-recuperar-contra-un-rival-directo-20261005-0083.html",
         "image": "https://www.rosario3.com/__export/1791255354950/sites/rosario3/img/2026/10/05/almiron_central_banfield.jpg_506286608.jpg",
         "summary": "El técnico de Central sostuvo que su equipo mereció el empate conseguido ante Banfield en condición de visitante, aunque admitió que les costó acomodarse en el primer tiempo. También planteó que la igualdad cobrará valor si le ganan a Independiente Rivadadavia, el puntero de la…",
-        "pubDate": "2026-10-05T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El pollo superó a la carne vacuna por primera vez en la historia en Argentina",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/el-pollo-supero-a-la-carne-vacuna-por-primera-vez-en-la-historia-en-argentina-20261005-0080.html",
-        "image": "https://www.rosario3.com/__export/1791248643375/sites/rosario3/img/2026/10/05/pollo.jpg_1825222445.jpg",
-        "summary": "El consumo aviar alcanzó los 47 kilos anuales por habitante, frente a 46,7 del producto bovino. La brecha de precios aparece como uno de los factores clave detrás del cambio",
-        "pubDate": "2026-10-05T11:54:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Última práctica de Lionel Messi con la selección argentina: las imágenes del capitán a pura sonrisa con visitas rosarinas",
-        "link": "https://www.rosario3.com/deportes/ultima-practica-de-lionel-messi-con-la-seleccion-argentina-las-imagenes-del-capitan-a-pura-sonrisa-con-visitas-rosarinas-20261005-0069.html",
-        "image": "https://www.rosario3.com/__export/1791236115926/sites/rosario3/img/2026/10/05/messi_entrenamiento.jpg_506286608.jpg",
-        "summary": "En el día previo a su despedida del seleccionado en un amistoso contra Benín, este lunes el rosarino formó parte del entrenamiento bajo las órdenes del técnico Lionel Scaloni en el predio de Ezeiza",
         "pubDate": "2026-10-05T11:53:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Damas Gratis, Los Fundamentalistas y Soledad: la programación de shows para la despedida de Messi de la selección argentina",
-        "link": "https://www.rosario3.com/informaciongeneral/damas-gratis-los-fundamentalistas-y-soledad-la-programacion-de-shows-para-la-despedida-de-messi-de-la-seleccion-argentina-20261005-0076.html",
-        "image": "https://www.rosario3.com/__export/1791241407744/sites/rosario3/img/2026/10/05/messi.jpg_982625323.jpg",
-        "summary": "La Asociación del Fútbol Argentino y la organización prepararon varios shows antes del partido, homenajes y una eventual intervención del propio futbolista ante los asistentes y la audiencia que seguirá el encuentro por televisión",
-        "pubDate": "2026-10-05T11:52:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Milei viajará a España en plena campaña electoral para apoyar a la derecha",
-        "link": "https://www.rosario3.com/politica/milei-viajara-a-espana-en-plena-campana-electoral-para-apoyar-a-la-derecha-20261005-0075.html",
-        "image": "https://www.rosario3.com/__export/1791241031632/sites/rosario3/img/2026/10/05/milei_1.jpg_1825222445.jpg",
-        "summary": "El presidente desembarcará en Madrid en octubre, tras el adelanto de las elecciones generales anunciado por Pedro Sánchez",
-        "pubDate": "2026-10-05T11:51:00+00:00",
         "approxTime": true
       },
       {
@@ -98,7 +80,16 @@
         "link": "https://www.rosario3.com/deportes/seguimiento-individual-canalla-ovando-fue-un-leon-y-ledesma-sostuvo-al-equipo-con-sus-atajadas-20261005-0081.html",
         "image": "https://www.rosario3.com/__export/1791253501136/sites/rosario3/img/2026/10/05/seguimiento_central_banfield.jpg_506286608.jpg",
         "summary": "El rendimiento de los futbolistas de Central que empataron ante Banfield este lunes, por la fecha 11 del torneo Clausura",
-        "pubDate": "2026-10-05T11:50:00+00:00",
+        "pubDate": "2026-10-05T11:52:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "El pollo superó a la carne vacuna por primera vez en la historia en Argentina",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/el-pollo-supero-a-la-carne-vacuna-por-primera-vez-en-la-historia-en-argentina-20261005-0080.html",
+        "image": "https://www.rosario3.com/__export/1791248643375/sites/rosario3/img/2026/10/05/pollo.jpg_1825222445.jpg",
+        "summary": "El consumo aviar alcanzó los 47 kilos anuales por habitante, frente a 46,7 del producto bovino. La brecha de precios aparece como uno de los factores clave detrás del cambio",
+        "pubDate": "2026-10-05T11:51:00+00:00",
         "approxTime": true
       },
       {
@@ -107,7 +98,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/el-comando-sur-de-estados-unidos-mostro-el-entrenamiento-de-sus-marines-en-ushuaia-20261005-0078.html",
         "image": "https://www.rosario3.com/__export/1791246321918/sites/rosario3/img/2026/10/05/comando.jpg_982625323.jpg",
         "summary": "Desde el comando militar estadounidense difundieron imágenes de los ejercicios que hicieron en septiembre en Tierra del Fuego junto al Batallón de Infantería de Marina N°4 de la Armada Argentina. Hubo simulacros de “contacto con el enemigo”, un desembarco anfibio en un bote de…",
-        "pubDate": "2026-10-05T11:49:00+00:00",
+        "pubDate": "2026-10-05T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -116,6 +107,15 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/despues-de-31-anos-venado-tuerto-se-quedo-sin-conexion-directa-con-santa-fe-20261005-0060.html",
         "image": "https://www.rosario3.com/__export/1791230607171/sites/rosario3/img/2026/10/05/empresa-venado.jpg_928314581.jpg",
         "summary": "Empresa Venado dejó de prestar el servicio. La firma atribuyó la decisión a la caída de pasajeros, la reducción de subsidios y el aumento de los costos. El último viaje salió con apenas 17 pasajeros",
+        "pubDate": "2026-10-05T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Damas Gratis, Los Fundamentalistas y Soledad: la programación de shows para la despedida de Messi de la selección argentina",
+        "link": "https://www.rosario3.com/informaciongeneral/damas-gratis-los-fundamentalistas-y-soledad-la-programacion-de-shows-para-la-despedida-de-messi-de-la-seleccion-argentina-20261005-0076.html",
+        "image": "https://www.rosario3.com/__export/1791241407744/sites/rosario3/img/2026/10/05/messi.jpg_982625323.jpg",
+        "summary": "La Asociación del Fútbol Argentino y la organización prepararon varios shows antes del partido, homenajes y una eventual intervención del propio futbolista ante los asistentes y la audiencia que seguirá el encuentro por televisión",
         "pubDate": "2026-10-05T11:48:00+00:00",
         "approxTime": true
       },
@@ -130,15 +130,51 @@
       },
       {
         "source": "Rosario3",
-        "title": "“Los tres son igualmente responsables: hay que mirar la secuencia completa”, dijo la fiscal en el juicio por el crimen de Ivana Garcilazo",
-        "link": "https://www.rosario3.com/policiales/los-tres-son-igualmente-responsables-hay-que-mirar-la-secuencia-completa-dijo-la-fiscal-en-el-juicio-por-el-crimen-de-ivana-garcilazo-20261005-0054.html",
-        "image": "https://www.rosario3.com/__export/1791230630454/sites/rosario3/img/2026/10/05/cartel_centro_de_justicia.jpg_982625323.jpg",
-        "summary": "Este lunes comenzó el debate con tres hombres en el banquillo que, aquel 30 de septiembre de 2023, arrojaron piedras y mataron a la simpatizante de Central en Ovidio Lagos y Montevideo. Para la Fiscalía, los tres son igualmente responsables, más allá de quién haya arrojado la…",
+        "title": "Última práctica de Lionel Messi con la selección argentina: las imágenes del capitán a pura sonrisa con visitas rosarinas",
+        "link": "https://www.rosario3.com/deportes/ultima-practica-de-lionel-messi-con-la-seleccion-argentina-las-imagenes-del-capitan-a-pura-sonrisa-con-visitas-rosarinas-20261005-0069.html",
+        "image": "https://www.rosario3.com/__export/1791236115926/sites/rosario3/img/2026/10/05/messi_entrenamiento.jpg_506286608.jpg",
+        "summary": "En el día previo a su despedida del seleccionado en un amistoso contra Benín, este lunes el rosarino formó parte del entrenamiento bajo las órdenes del técnico Lionel Scaloni en el predio de Ezeiza",
         "pubDate": "2026-10-05T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Fintech rosarina avanza sobre Fondos Comunes de Inversión y suma opciones dentro de su app",
+        "link": "https://www.lacapital.com.ar/negocios/fintech-rosarina-avanza-fondos-comunes-inversion-y-suma-opciones-dentro-su-app-n10284541.html",
+        "image": "https://media.lacapital.com.ar/p/53f18ac4259964a3fcdfa6c27038890d/adjuntos/203/imagenes/103/441/0103441765/ramiro_rodriguez_fiwind1-1jpg.jpeg",
+        "summary": "Fiwind permitirá invertir desde montos bajos en carteras diversificadas de activos. Habrá opciones de renta fija en pesos, acciones argentinas, bonos CER y agro, con rescates disponibles a 24 horas",
+        "pubDate": "2026-10-06T11:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Disparos y amenazas por una deuda: balearon a un adolescente en barrio Fontanarrosa",
+        "link": "https://www.lacapital.com.ar/policiales/disparos-y-amenazas-una-deuda-balearon-un-adolescente-barrio-fontanarrosa-n10285095.html",
+        "image": "https://media.lacapital.com.ar/p/67a8fcc2c809d1eceb35780234b8a9a2/adjuntos/203/imagenes/102/098/0102098924/1200x675/smart/hospital-ninos-zona-norte.png",
+        "summary": "La víctima tiene 14 años y sufrió una fractura expuesta como consecuencia de un ataque a tiros frente a su casa",
+        "pubDate": "2026-10-06T10:59:25+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Investigan la muerte de un gendarme en su departamento de barrio Echesortu",
+        "link": "https://www.lacapital.com.ar/policiales/investigan-la-muerte-un-gendarme-su-departamento-barrio-echesortu-n10285096.html",
+        "image": "https://media.lacapital.com.ar/p/4d2e469ff04ed84f95d0e1c33e7f25c2/adjuntos/203/imagenes/103/448/0103448998/1200x675/smart/muerte-gendarme-echesortu.jpg",
+        "summary": "Según información preliminar, el efectivo se habría disparado con su arma reglamentaria tras un incidente de violencia de género con una mujer que sería trabajadora sexual",
+        "pubDate": "2026-10-06T10:47:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El actor Maxi Ghione apuntó contra \"los detractores que hablan sin saber\" de su arresto",
+        "link": "https://www.lacapital.com.ar/zoom/el-actor-maxi-ghione-apunto-contra-los-detractores-que-hablan-saber-su-arresto-n10285085.html",
+        "image": "https://media.lacapital.com.ar/p/57f42ba218b2f48c470148e586fc376a/adjuntos/203/imagenes/103/436/0103436197/maxi-ghione.jpg",
+        "summary": "El director de teatro grabó un video tres días después de la imputación por amenazas y tenencia ilegal de armas de fuego de uso civil",
+        "pubDate": "2026-10-06T10:30:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Fuerte choque contra un auto estacionado y vuelco: una mujer herida",
@@ -150,19 +186,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Llega a Rosario \"Mi vida anterior\", unipersonal que reconstruye una historia real de la dictadura",
-        "link": "https://www.lacapital.com.ar/zoom/llega-rosario-mi-vida-anterior-unipersonal-que-reconstruye-una-historia-real-la-dictadura-n10284759.html",
-        "image": "https://media.lacapital.com.ar/p/0fbcc1a9b705a28300c55288673d4bb3/adjuntos/203/imagenes/103/445/0103445248/1200x675/smart/image-3.png",
-        "summary": "Basada en el libro \"Desaparecida dos veces\", de Teresa Donato, la obra protagonizada por Dennis Smith se presenta el viernes 9 de octubre",
+        "title": "Octubre Rosa en VGG: Acciones de concientización e información sobre prevención del cáncer de mama",
+        "link": "https://www.lacapital.com.ar/la-region/octubre-rosa-vggacciones-concientizacione-informacion-prevencion-del-cancer-mama-n10285024.html",
+        "image": "https://media.lacapital.com.ar/p/f097741367f441cfdcd884e4db1b3587/adjuntos/203/imagenes/103/447/0103447980/1200x675/smart/octubre-rosa.jpeg",
+        "summary": "Durante todo el mes, se realizarán jornadas de difusión y también habrá un evento central con música, danza y feria",
         "pubDate": "2026-10-06T10:00:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Octubre Rosa en VGG: Acciones de concientización e información sobre prevención del cáncer de mama",
-        "link": "https://www.lacapital.com.ar/la-region/octubre-rosa-vggacciones-concientizacione-informacion-prevencion-del-cancer-mama-n10285024.html",
-        "image": "https://media.lacapital.com.ar/p/f097741367f441cfdcd884e4db1b3587/adjuntos/203/imagenes/103/447/0103447980/1200x675/smart/octubre-rosa.jpeg",
-        "summary": "Durante todo el mes, se realizarán jornadas de difusión y también habrá un evento central con música, danza y feria",
+        "title": "Llega a Rosario \"Mi vida anterior\", unipersonal que reconstruye una historia real de la dictadura",
+        "link": "https://www.lacapital.com.ar/zoom/llega-rosario-mi-vida-anterior-unipersonal-que-reconstruye-una-historia-real-la-dictadura-n10284759.html",
+        "image": "https://media.lacapital.com.ar/p/0fbcc1a9b705a28300c55288673d4bb3/adjuntos/203/imagenes/103/445/0103445248/1200x675/smart/image-3.png",
+        "summary": "Basada en el libro \"Desaparecida dos veces\", de Teresa Donato, la obra protagonizada por Dennis Smith se presenta el viernes 9 de octubre",
         "pubDate": "2026-10-06T10:00:00+00:00",
         "approxTime": false
       },
@@ -236,42 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/6f34637e13039f9ef4809169e6ec27a4/adjuntos/203/imagenes/103/448/0103448839/2026-10-05-guerra-espacial.jpg",
         "summary": "Estados Unidos confirmó que desplegó armas en el espacio. Rusia, China e India también hicieron pruebas en órbita. Y otros están desarrollando sus capacidades contraespaciales",
         "pubDate": "2026-10-06T02:22:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Atacaron a piedrazos a un fletero que llevaba hinchas de Newell's a la cancha",
-        "link": "https://www.lacapital.com.ar/policiales/atacaron-piedrazos-un-fletero-que-llevaba-hinchas-newells-la-cancha-n10285077.html",
-        "image": "https://media.lacapital.com.ar/p/aad8e9d729be376cc45f5a17909f5049/adjuntos/203/imagenes/103/448/0103448750/2026-10-05-ataque-fletero.jpg",
-        "summary": "El hecho ocurrió el pasado sábado en Buenos Aires y Gálvez. \"Me fui contento a trabajar y casi que no vuelvo\", contó Diego, quien tiene dientes rotos y el tabique quebrado",
-        "pubDate": "2026-10-06T01:21:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Gaspar Duarte se lesionó solo, en la rodilla derecha, y temen que pueda ser grave",
-        "link": "https://www.lacapital.com.ar/ovacion/gaspar-duarte-se-lesiono-solo-la-rodilla-derecha-y-temen-que-pueda-ser-grave-n10285074.html",
-        "image": "https://media.lacapital.com.ar/p/1265fd9030ba2991ea13dc7882c66b02/adjuntos/203/imagenes/103/448/0103448716/1200x675/smart/image-20.jpg",
-        "summary": "El extremo de Central debió dejar la cancha pasado el cuarto de hora en carrito médico y con gestos de dolor en la rodilla derecha, en una acción intrascendente",
-        "pubDate": "2026-10-06T01:02:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Acciones y bonos argentinos rebotaron tras una semana  de fuertes caídas",
-        "link": "https://www.lacapital.com.ar/economia/acciones-y-bonos-argentinos-rebotaron-una-semana-fuertes-caidas-n10285051.html",
-        "image": "https://media.lacapital.com.ar/p/e4575ba41fe55b9f2d5e8fb590a1172f/adjuntos/203/imagenes/102/018/0102018398/1200x675/smart/dolar-celina-mutti-loverajpg.jpg",
-        "summary": "El Merval ganó 3,7% y el riesgo país bajó. Analistas vincularon la recuperación con el impulso brasileño tras la primera vuelta electoral",
-        "pubDate": "2026-10-06T00:58:20+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "En Banfield hubo pasillo de campeón para Central por la Supercopa Internacional",
-        "link": "https://www.lacapital.com.ar/ovacion/en-banfield-hubo-pasillo-campeon-central-la-supercopa-internacional-n10285070.html",
-        "image": "https://media.lacapital.com.ar/p/f0806641e2341f14d2e95733d16d8af0/adjuntos/203/imagenes/103/448/0103448627/1200x675/smart/image-19.jpg",
-        "summary": "Los futbolistas de Banfield cumplieron con el protocolo y homenajearon a los de Central, que acaban de ganar el título de la Supercopa Internacional",
-        "pubDate": "2026-10-06T00:41:00+00:00",
         "approxTime": false
       }
     ]
