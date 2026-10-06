@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T09:31:07.464101+00:00",
+  "generatedAt": "2026-10-06T10:01:21.703976+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Prueba piloto para reconvertir los puestos de flores de la peatonal",
+        "link": "https://www.lacapital.com.ar/la-ciudad/prueba-piloto-reconvertir-los-puestos-flores-la-peatonal-n10285011.html",
+        "image": "https://media.lacapital.com.ar/p/03742cb8f2a4c41a2f8f777f5d3a0bbd/adjuntos/203/imagenes/103/447/0103447982/1200x675/smart/f0fa1ef4-c870-4a7f-86ac-d0f6760d89ed.jpg",
+        "summary": "Una comerciante de Córdoba al 1300 acordó con el florista que trabaja frente a su nuevo local remodelar el puesto por su cuenta para mejorar el entorno. La Municipalidad autorizó la intervención y analiza extender la experiencia a otros espacios del centro",
+        "pubDate": "2026-10-06T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Clima y agro: las perspectivas para octubre y el seguimiento de El Niño",
         "link": "https://www.lacapital.com.ar/agro/clima-y-agro-las-perspectivas-octubre-y-el-seguimiento-el-nino-n10285000.html",
         "image": "https://media.lacapital.com.ar/p/6ef1c3c724dabc1487b7360e144173a4/adjuntos/203/imagenes/103/447/0103447787/1200x675/392x446:412x466/clima-nubes-trigo.avif",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/be5a6f83d900d088562054ac4f8843e6/adjuntos/203/imagenes/103/448/0103448533/1200x675/smart/image-2026-10-05t203153005.png",
         "summary": "El Lobo mendocino perdió frente a Estudiantes de La Plata y la Lepra lo superó en la tabla de la zona A por mejor diferencia de gol",
         "pubDate": "2026-10-06T00:19:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Los hinchas canallas coparon la tribuna visitante del estadio de Banfield",
-        "link": "https://www.lacapital.com.ar/ovacion/los-hinchas-canallas-coparon-la-tribuna-visitante-del-estadio-banfield-n10285061.html",
-        "image": "https://media.lacapital.com.ar/p/b14d052ad167a9943aa60c0b5a8ece35/adjuntos/203/imagenes/103/448/0103448534/1200x675/smart/image-15.jpg",
-        "summary": "Unos tres mil simpatizantes canallas se dieron cita en el estadio de Banfield para apoyar al equipo de Jorge Almirón",
-        "pubDate": "2026-10-06T00:11:00+00:00",
         "approxTime": false
       }
     ]
