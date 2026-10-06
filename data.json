@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T10:01:21.703976+00:00",
+  "generatedAt": "2026-10-06T10:09:25.916795+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Llega a Rosario \"Mi vida anterior\", unipersonal que reconstruye una historia real de la dictadura",
+        "link": "https://www.lacapital.com.ar/zoom/llega-rosario-mi-vida-anterior-unipersonal-que-reconstruye-una-historia-real-la-dictadura-n10284759.html",
+        "image": "https://media.lacapital.com.ar/p/0fbcc1a9b705a28300c55288673d4bb3/adjuntos/203/imagenes/103/445/0103445248/1200x675/smart/image-3.png",
+        "summary": "Basada en el libro \"Desaparecida dos veces\", de Teresa Donato, la obra protagonizada por Dennis Smith se presenta el viernes 9 de octubre",
+        "pubDate": "2026-10-06T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Octubre Rosa en VGG: Acciones de concientización e información sobre prevención del cáncer de mama",
+        "link": "https://www.lacapital.com.ar/la-region/octubre-rosa-vggacciones-concientizacione-informacion-prevencion-del-cancer-mama-n10285024.html",
+        "image": "https://media.lacapital.com.ar/p/f097741367f441cfdcd884e4db1b3587/adjuntos/203/imagenes/103/447/0103447980/1200x675/smart/octubre-rosa.jpeg",
+        "summary": "Durante todo el mes, se realizarán jornadas de difusión y también habrá un evento central con música, danza y feria",
+        "pubDate": "2026-10-06T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Prueba piloto para reconvertir los puestos de flores de la peatonal",
         "link": "https://www.lacapital.com.ar/la-ciudad/prueba-piloto-reconvertir-los-puestos-flores-la-peatonal-n10285011.html",
         "image": "https://media.lacapital.com.ar/p/03742cb8f2a4c41a2f8f777f5d3a0bbd/adjuntos/203/imagenes/103/447/0103447982/1200x675/smart/f0fa1ef4-c870-4a7f-86ac-d0f6760d89ed.jpg",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/2f1eff8c9b0b5ff1ad6ca656f95d1928/adjuntos/203/imagenes/103/448/0103448593/2026-10-05-sarmpion.jpg",
         "summary": "Pensilvania superó los mil contagios. La última vez que un Estado norteamericano alcanzó ese número fue en 1991. El motivo: bajas tasas de vacunación",
         "pubDate": "2026-10-06T00:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central rescató un empate ante Banfield con un golazo de Cantizano",
-        "link": "https://www.lacapital.com.ar/ovacion/central-rescato-un-empate-banfield-un-golazo-cantizano-n10285049.html",
-        "image": "https://media.lacapital.com.ar/p/887ea5c52326947a6bb9fa5724bee315/adjuntos/203/imagenes/103/448/0103448817/image-21.jpg",
-        "summary": "El conjunto de Jorge Almirón jugó un flojo partido, pero el Taladro no lo liquidó y el conjunto auriazul llegó a la igualdad a través de su talentoso volante.",
-        "pubDate": "2026-10-06T00:23:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Newell's trepó al 6º puesto por la derrota de Gimnasia de Mendoza, su próximo rival",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-trepo-al-6-puesto-la-derrota-gimnasia-mendoza-su-proximo-rival-n10285044.html",
-        "image": "https://media.lacapital.com.ar/p/be5a6f83d900d088562054ac4f8843e6/adjuntos/203/imagenes/103/448/0103448533/1200x675/smart/image-2026-10-05t203153005.png",
-        "summary": "El Lobo mendocino perdió frente a Estudiantes de La Plata y la Lepra lo superó en la tabla de la zona A por mejor diferencia de gol",
-        "pubDate": "2026-10-06T00:19:00+00:00",
         "approxTime": false
       }
     ]
