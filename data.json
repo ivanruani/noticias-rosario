@@ -1,32 +1,41 @@
 {
-  "generatedAt": "2026-10-06T21:01:18.328523+00:00",
+  "generatedAt": "2026-10-06T21:31:04.862201+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Restringen paso de camiones en la autopista a Santa Fe por obras: desvíos y saturación en la ruta 34",
+        "link": "https://www.rosario3.com/informaciongeneral/restringen-paso-de-camiones-en-la-autopista-a-santa-fe-por-obras-desvios-y-saturacion-en-la-ruta-34-20261006-0061.html",
+        "image": "https://www.rosario3.com/__export/1791316929525/sites/rosario3/img/2026/10/06/obras_autopista.jpg_1825222467.jpg",
+        "summary": "Las interrupciones para el tránsito pesado se realizan en tres franjas horarias y continuarán hasta este jueves inclusive. Además, los trabajos en la A012 complican la circulación hacia las terminales portuarias. Autoridades provinciales además anticiparon que pronto inician las…",
+        "pubDate": "2026-10-06T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Emiten alerta por tormentas fuertes para este miércoles en Rosario y la región",
+        "link": "https://www.rosario3.com/informaciongeneral/emiten-alerta-por-tormentas-fuertes-para-este-miercoles-en-rosario-y-la-region-20261006-0069.html",
+        "image": "https://www.rosario3.com/__export/1791321073582/sites/rosario3/img/2026/10/06/lluvia1.jpg_1389718309.jpg",
+        "summary": "El Servicio Meteorológico advirtió que en la zona los fenómenos más intensos ocurrirán entre la mañana y la tarde de este 7 de octubre. No se descartan abundantes precipitaciones, ocasional caída de granizo, actividad eléctrica y ráfagas",
+        "pubDate": "2026-10-06T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Demuelen propiedad en terreno usurpado y rescatan tres perros hallados sin agua ni comida",
+        "link": "https://www.rosario3.com/informaciongeneral/demuelen-propiedad-en-terreno-usurpado-y-rescatan-tres-perros-hallados-sin-agua-ni-comida-20261006-0060.html",
+        "image": "https://www.rosario3.com/__export/1791317457800/sites/rosario3/img/2026/10/06/demolicion_perros_-3-.jpg_98452958.jpg",
+        "summary": "Agentes municipales intervinieron en barrio Supercemento, tras denuncia de vecinos. Los animales fueron trasladados y se encuentran en recuperación",
+        "pubDate": "2026-10-06T11:58:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Femicidio de la aspirante rosarina a Gendarmería en San Juan: las mentiras y maniobras judiciales del acusado para alejarla de su entorno",
         "link": "https://www.rosario3.com/informaciongeneral/femicidio-de-la-aspirante-rosarina-a-gendarmeria-en-san-juan-las-mentiras-y-maniobras-judiciales-del-acusado-para-alejarla-de-su-entorno-20261006-0034.html",
         "image": "https://www.rosario3.com/__export/1791301745052/sites/rosario3/img/2026/10/06/camila_femicidio_san_juan_.png_786111822.png",
         "summary": "La investigación por el femicidio de Camila Vecchiarello incorporó nuevos detalles sobre las presuntas conductas de Carlos Gonzalo Rivero durante la relación. Según la causa, el acusado habría utilizado mentiras, engaños y una presunta suplantación de identidad para presentar…",
-        "pubDate": "2026-10-06T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Messi recibió el doctorado honoris causa de Universidad de Buenos Aires: \"Nunca imaginé esto\"",
-        "link": "https://www.rosario3.com/informaciongeneral/messi-recibio-el-doctorado-honoris-causa-de-universidad-de-buenos-aires-nunca-imagine-esto-20261006-0054.html",
-        "image": "https://www.rosario3.com/__export/1791310986965/sites/rosario3/img/2026/10/06/messi-uba.jpg_928314580.jpg",
-        "summary": "“Es un orgullo para mí poder haberlo recibido, poder decir que soy un doctor honorífico”, manifestó el rosarino durante la conferencia realizada en el predio de Ezeiza, en la previa de su retiro de la selección",
-        "pubDate": "2026-10-06T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Detuvieron al otro dueño de la agencia MotorSport y avanza la causa por múltiples estafas",
-        "link": "https://www.rosario3.com/policiales/detuvieron-al-otro-dueno-de-la-agencia-motorsport-y-avanza-la-causa-por-multiples-estafas-20261006-0045.html",
-        "image": "https://www.rosario3.com/__export/1791304649824/sites/rosario3/img/2026/10/06/motorsport_1.jpg_982625323.jpg",
-        "summary": "Eduardo S. (40) se presentó este martes al mediodía en la sede de la Policía de Investigaciones. Su socio, Juan Gabriel A. (36), fue arrestado el pasado sábado. Ambos serán imputados por el fiscal Iván Enríquez, que acumula 80 denuncias contra los responsables del local que…",
-        "pubDate": "2026-10-06T11:58:00+00:00",
+        "pubDate": "2026-10-06T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -35,33 +44,24 @@
         "link": "https://www.rosario3.com/politica/confirmado-santa-fe-abre-el-calendario-electoral-2027-con-las-paso-el-18-de-abril-y-las-generales-el-18-de-junio-20261006-0037.html",
         "image": "https://www.rosario3.com/__export/1778680880594/sites/rosario3/img/2023/07/16/elecciones_rosario3.jpeg_1825222445.jpeg",
         "summary": "El gobernador aceptó que esas serán las fechas, aunque aclaró que todavía no firmó el decreto con la convocatoria",
-        "pubDate": "2026-10-06T11:57:00+00:00",
+        "pubDate": "2026-10-06T11:56:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Pantalla gigante y actividades gratuitas en Rosario para la despedida de Messi de la Selección",
-        "link": "https://www.rosario3.com/informaciongeneral/rosario-prepara-una-pantalla-gigante-y-actividades-gratuitas-para-la-despedida-de-messi-de-la-seleccion-20261004-0020.html",
-        "image": "https://www.rosario3.com/__export/1791301502844/sites/rosario3/img/2026/10/06/pantalla_gigante_museo_deporte_messi_-2-.jpg_1825222445.jpg",
-        "summary": "El encuentro ante Benín se proyectará este martes en el Museo del Deporte, donde desde las 17 habrá música, juegos y propuestas culturales con entrada libre. La jornada se realizará a pocos metros de la casa natal del astro rosarino",
-        "pubDate": "2026-10-04T11:56:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Una despedida de soltera cerca de Rosario terminó con un inflable dado vuelta y varias heridas",
-        "link": "https://www.rosario3.com/informaciongeneral/una-despedida-de-soltera-cerca-de-rosario-termino-con-un-inflable-dado-vuelta-y-varias-heridas-20261006-0058.html",
-        "image": "https://www.rosario3.com/__export/1791315603670/sites/rosario3/img/2026/10/06/inflable.png_786111822.png",
-        "summary": "El episodio, que ocurrió en la localidad de Andino, a 47 km de Rosario, quedó registrado en video y generó preocupación. Sin embargo, la novia confirmó que todas sus amigas se encuentran bien y que “el casamiento sigue en pie”",
+        "title": "Lo que duele tu adiós",
+        "link": "https://www.rosario3.com/opinion/lo-que-duele-tu-adios-20261006-0068.html",
+        "image": "https://www.rosario3.com/__export/1785941703979/sites/rosario3/img/2026/07/28/messi-2-jpg-674994428_-1-.jpg_1221028662.jpg",
+        "summary": "Se va Lionel Messi de la selección argentina y hay una tristeza que no vimos venir y que nos atraviesa a todos",
         "pubDate": "2026-10-06T11:55:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Nacha Guevara recibió un inesperado regalo de Celia Messi: \"Me dio una alegría muy grande\"",
-        "link": "https://www.rosario3.com/ocio/nacha-guevara-recibio-un-inesperado-regalo-de-celia-messi-me-dio-una-alegria-muy-grande-20261006-0053.html",
-        "image": "https://www.rosario3.com/__export/1791311119446/sites/rosario3/img/2024/03/21/nacha_guevara.jpg_786111823.jpg",
-        "summary": "La mamá del astro rosarino sorprendió a la actriz en el día de su cumpleaños con entradas para el último partido de la selección con Lionel como capitán",
+        "title": "Messi recibió el doctorado honoris causa de la Universidad de Buenos Aires: \"Nunca imaginé esto\"",
+        "link": "https://www.rosario3.com/informaciongeneral/messi-recibio-el-doctorado-honoris-causa-de-universidad-de-buenos-aires-nunca-imagine-esto-20261006-0054.html",
+        "image": "https://www.rosario3.com/__export/1791310986965/sites/rosario3/img/2026/10/06/messi-uba.jpg_928314580.jpg",
+        "summary": "“Es un orgullo para mí poder haberlo recibido, poder decir que soy un doctor honorífico”, manifestó el rosarino durante la conferencia realizada en el predio de Ezeiza, en la previa de su retiro de la selección",
         "pubDate": "2026-10-06T11:54:00+00:00",
         "approxTime": true
       },
@@ -85,11 +85,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Llega la Noche de las Colectividades y ya hay fecha del Encuentro y Fiesta nacional en Rosario",
-        "link": "https://www.rosario3.com/informaciongeneral/sabores-danzas-y-expresiones-culturales-del-mundo-en-la-noche-de-colectividades-en-rosario-20261006-0031.html",
-        "image": "https://www.rosario3.com/__export/1791300611703/sites/rosario3/img/2026/10/06/nochecolectividaes1.jpg_928314581.jpg",
-        "summary": "Desde el viernes 9 al domingo 11 de octubre, más de 30 agrupaciones de la ciudad ofrecen los mejores platos y espectáculos tradicionales de diversos rincones del planeta. Una de las novedades de esta edición será la propuesta Sabores y Saberes. Lydia Del Groso, presidenta de la…",
-        "pubDate": "2026-10-06T11:51:00+00:00",
+        "title": "Pantalla gigante y actividades gratuitas en Rosario para la despedida de Messi de la Selección",
+        "link": "https://www.rosario3.com/informaciongeneral/rosario-prepara-una-pantalla-gigante-y-actividades-gratuitas-para-la-despedida-de-messi-de-la-seleccion-20261004-0020.html",
+        "image": "https://www.rosario3.com/__export/1791301502844/sites/rosario3/img/2026/10/06/pantalla_gigante_museo_deporte_messi_-2-.jpg_1825222445.jpg",
+        "summary": "El encuentro ante Benín se proyectará este martes en el Museo del Deporte, donde desde las 17 habrá música, juegos y propuestas culturales con entrada libre. La jornada se realizará a pocos metros de la casa natal del astro rosarino",
+        "pubDate": "2026-10-04T11:51:00+00:00",
         "approxTime": true
       },
       {
@@ -121,24 +121,78 @@
       },
       {
         "source": "Rosario3",
-        "title": "Miles de estudiantes protestan en las calles de Francia en medio de una dura represión policial",
-        "link": "https://www.rosario3.com/informaciongeneral/miles-de-estudiantes-protestan-en-las-calles-de-francia-en-medio-de-una-dura-represion-policial-20261006-0056.html",
-        "image": "https://www.rosario3.com/__export/1791314221572/sites/rosario3/img/2026/10/06/franciaprotestas.jpg_982625323.jpg",
-        "summary": "La revuelta de alumnos de secundaria, que empezó el 17 de septiembre en un liceo de las afueras de París y se extendió después a todo el país para pedir una mejora de las condiciones en las aulas y en la organización de los estudios, sucede en plena polémica por las denuncias de…",
+        "title": "Una despedida de soltera cerca de Rosario terminó con un inflable dado vuelta y varias heridas",
+        "link": "https://www.rosario3.com/informaciongeneral/una-despedida-de-soltera-cerca-de-rosario-termino-con-un-inflable-dado-vuelta-y-varias-heridas-20261006-0058.html",
+        "image": "https://www.rosario3.com/__export/1791315603670/sites/rosario3/img/2026/10/06/inflable.png_786111822.png",
+        "summary": "El episodio, que ocurrió en la localidad de Andino, a 47 km de Rosario, quedó registrado en video y generó preocupación. Sin embargo, la novia confirmó que todas sus amigas se encuentran bien y que “el casamiento sigue en pie”",
         "pubDate": "2026-10-06T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Rosario se prepara para el Tercer Seven Rosa: deporte y prevención del cáncer de mama",
-        "link": "https://www.rosario3.com/deportes/rosario-se-prepara-para-el-tercer-seven-rosa-deporte-y-prevencion-del-cancer-de-mama-20261006-0059.html",
-        "image": "https://www.rosario3.com/__export/1790621919930/sites/rosario3/img/2026/09/28/octubre_rosa.png_786111822.png",
-        "summary": "Más de 390 deportistas participarán este fin de semana de una nueva edición del Seven Rosa, que reunirá hockey y rugby en el Hipódromo de Rosario. La entrada será libre y gratuita, con una acción solidaria a beneficio de las Cocinas Solidarias y LALCEC Rosario",
+        "title": "Detuvieron al otro dueño de la agencia MotorSport y avanza la causa por múltiples estafas",
+        "link": "https://www.rosario3.com/policiales/detuvieron-al-otro-dueno-de-la-agencia-motorsport-y-avanza-la-causa-por-multiples-estafas-20261006-0045.html",
+        "image": "https://www.rosario3.com/__export/1791304649824/sites/rosario3/img/2026/10/06/motorsport_1.jpg_982625323.jpg",
+        "summary": "Eduardo S. (40) se presentó este martes al mediodía en la sede de la Policía de Investigaciones. Su socio, Juan Gabriel A. (36), fue arrestado el pasado sábado. Ambos serán imputados por el fiscal Iván Enríquez, que acumula 80 denuncias contra los responsables del local que…",
         "pubDate": "2026-10-06T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "La autopista Rosario-Córdoba pasa a manos privadas y sumará nuevos peajes",
+        "link": "https://www.lacapital.com.ar/la-ciudad/la-autopista-rosario-cordoba-pasa-manos-privadas-y-sumara-nuevos-peajes-n10285251.html",
+        "image": "https://media.lacapital.com.ar/p/f87c5eeebdae3cfc8bce18f3274b28a7/adjuntos/203/imagenes/100/168/0100168460/1200x675/smart/autopista-rosario-cordobajpg.jpg",
+        "summary": "Vialidad Nacional firmó los contratos de concesión de la Etapa III de la Red Federal. El tramo Centro quedará desde este miércoles bajo gestión de Covicen SA e incorporará una nueva cabina en Leones, además de otras sobre las rutas 19 y 34.",
+        "pubDate": "2026-10-06T21:22:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Por qué es pronto para marcar un debilitamiento de El Niño y qué se espera para el verano",
+        "link": "https://www.lacapital.com.ar/la-ciudad/por-que-es-pronto-marcar-un-debilitamiento-el-nino-y-que-se-espera-el-verano-n10285141.html",
+        "image": "https://media.lacapital.com.ar/p/9b95b851ceefe5bda47b8f3f3ead2ef0/adjuntos/203/imagenes/100/803/0100803816/1200x675/smart/climajpg.jpg",
+        "summary": "Un informe de la Bolsa de Comercio planteó una posible moderación del fenómeno, aunque la OMM mantiene en \"muy fuerte\" la categorización del evento que se extenderá, al menos, hasta febrero",
+        "pubDate": "2026-10-06T21:13:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Todos aman a Messi: emoción, gratitud y lágrimas de los hinchas en su despedida en el Monumental",
+        "link": "https://www.lacapital.com.ar/ovacion/todos-aman-messi-emocion-gratitud-y-lagrimas-los-hinchas-su-despedida-el-monumental-n10285243.html",
+        "image": "https://media.lacapital.com.ar/p/baf74b8cc9d7f29e14e6005b7074aff9/adjuntos/203/imagenes/103/450/0103450650/color5.jpg",
+        "summary": "Una multitud asiste a la cancha de River para ver la despedida de Messi de la selección argentina. El Monumental desborda de pasión por el rosarino",
+        "pubDate": "2026-10-06T21:12:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Netflix: cinco estrenos destacados que llegan en octubre",
+        "link": "https://www.lacapital.com.ar/zoom/netflix-cinco-estrenos-destacados-que-llegan-octubre-n10285247.html",
+        "image": "https://media.lacapital.com.ar/p/ee419647c50189c5980cd2d2df044422/adjuntos/203/imagenes/103/450/0103450526/1200x675/smart/image-7.png",
+        "summary": "La plataforma renueva su catálogo como todos los meses y genera expectativa. La nueva película con Darín y Peretti está entre lo más esperado",
+        "pubDate": "2026-10-06T21:12:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central: se espera el parte médico de Duarte tras la dura lesión que sufrió ante Banfield",
+        "link": "https://www.lacapital.com.ar/ovacion/central-se-espera-el-parte-medico-duarte-la-dura-lesion-que-sufrio-banfield-n10285250.html",
+        "image": "https://media.lacapital.com.ar/p/6c85fed84e06695c099e528a823850e1/adjuntos/203/imagenes/103/450/0103450604/duarte.jpeg",
+        "summary": "El delantero canalla tuvo que ser reemplazado en el inicio del partido, con mucho dolor en la rodilla derecha. Dejó el estadio Florencio Sola sin poder pisar",
+        "pubDate": "2026-10-06T21:12:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Barrio Las Flores: detienen a una mujer que junto a su pareja realizaba extorsiones a comerciantes",
+        "link": "https://www.lacapital.com.ar/barrio-las-flores-detienen-una-mujer-que-junto-su-pareja-realizaba-extorsiones-comerciantes-n10285156.html",
+        "image": "https://media.lacapital.com.ar/p/ba4af5ca5a42954efbb13a29a553ef72/adjuntos/203/imagenes/103/449/0103449783/1200x675/smart/pitrix.jpg",
+        "summary": "Un arsenal con pistolas, una ametralladora y 120 municiones fue secuestrado tras la detención de Cinthia H., quien extorsionaba a comerciantes con su pareja presa.",
+        "pubDate": "2026-10-06T21:01:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Manzanilla en el mate: por qué agregarla y cuáles son sus beneficios",
@@ -218,60 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/b3a5c2ac55bbd830879d10b719226435/adjuntos/203/imagenes/103/450/0103450194/1200x675/smart/tecnoteca-rosario-1.jpg",
         "summary": "Primera edición de Impulso 360, un encuentro B2B organizado por Wootic y Poliedro. Tecnología, negocios y transformación empresarial desde casos reales",
         "pubDate": "2026-10-06T19:20:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Jóvenes en la política: un fenómeno que comparten Bolsonaro en Brasil y Milei en Santa Fe",
-        "link": "https://www.lacapital.com.ar/politica/jovenes-la-politica-un-fenomeno-que-comparten-bolsonaro-brasil-y-milei-santa-fe-n10285227.html",
-        "image": "https://media.lacapital.com.ar/p/017af255f749f1c373206ba2e29fa483/adjuntos/203/imagenes/103/450/0103450357/1200x675/smart/image-13.jpg",
-        "summary": "Los más votados en las últimas elecciones en Brasil tienen 28 y 30 años. El caso testigo en la provincia obedece al armado de Karina Milei y Romina Diez",
-        "pubDate": "2026-10-06T19:17:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Con la separación diferenciada de basura, Venado Tuerto recuperó mas de 2.000 toneladas de residuos reciclables",
-        "link": "https://www.lacapital.com.ar/la-region/con-la-separacion-diferenciada-basura-venado-tuerto-recupero-mas-2000-toneladas-residuos-reciclables-n10285228.html",
-        "image": "https://media.lacapital.com.ar/p/50c5499dc96dc1a93538b0da01ff32e8/adjuntos/203/imagenes/103/450/0103450355/1200x675/smart/venado-reciclado.jpg",
-        "summary": "Los materiales recuperados desde enero de 2025 fueron derivados para su transformación y posterior aprovechamiento en diferentes circuitos, evitando que su destino sea el basural",
-        "pubDate": "2026-10-06T19:16:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El Monumental lucirá con un detalle especial para homenajear a Messi en su adiós a la selección",
-        "link": "https://www.lacapital.com.ar/ovacion/el-monumental-lucira-un-detalle-especial-homenajear-messi-su-adios-la-seleccion-n10284886.html",
-        "image": "https://media.lacapital.com.ar/p/6cd3a618b6f56e1bebab327548612151/adjuntos/203/imagenes/103/449/0103449501/1200x675/smart/image-5.jpg",
-        "summary": "River decidió que los monitores de los pasillos y del anillo del estadio exhiban los mejores goles del \"10\" durante el partido de esta noche ante Benín",
-        "pubDate": "2026-10-06T19:06:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Denzel Washington brilla en Netflix con una película de acción y suspenso",
-        "link": "https://www.lacapital.com.ar/zoom/denzel-washington-brilla-netflix-una-pelicula-accion-y-suspenso-n10285192.html",
-        "image": "https://media.lacapital.com.ar/p/5146c594ac19dd5b74f5de39d19a1ab8/adjuntos/203/imagenes/103/449/0103449977/1200x675/smart/image-3.png",
-        "summary": "Estrenado en 2023, el film llegó con toda a la plataforma y se convirtió en lo más visto del momento. Todos los detalles de su trama",
-        "pubDate": "2026-10-06T19:06:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Las marcas casi inalcanzables que dejará Lionel Messi tras su adiós a la selección",
-        "link": "https://www.lacapital.com.ar/ovacion/las-marcas-casi-inalcanzables-que-dejara-lionel-messi-su-adios-la-seleccion-n10285113.html",
-        "image": "https://media.lacapital.com.ar/p/5ca586fef1443f56fefd05f90e75ff2d/adjuntos/203/imagenes/103/449/0103449187/1200x675/smart/lionel-messi.jpg",
-        "summary": "El legado que deja el mejor jugador del mundo vistiendo la Albiceleste queda en los libros de la historia con marcas que difícilmente puedan ser alcanzadas",
-        "pubDate": "2026-10-06T19:05:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La partera Dolly tiene fecha para declarar y pidieron una audiencia sobre su hermana",
-        "link": "https://www.lacapital.com.ar/la-ciudad/la-partera-dolly-tiene-fecha-declarar-y-pidieron-una-audiencia-su-hermana-n10285170.html",
-        "image": "https://media.lacapital.com.ar/p/b05dfe27346a7480d2d8ee49b17ddb8e/adjuntos/203/imagenes/103/440/0103440318/2026-10-01-partera-dolly.jpg",
-        "summary": "La Justicia federal de Rosario citó a la mujer de 88 años para indagarla sobre la supresión de identidad de un hombre nacido en 1978",
-        "pubDate": "2026-10-06T19:05:00+00:00",
         "approxTime": false
       }
     ]
