@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-06T14:31:17.727657+00:00",
+  "generatedAt": "2026-10-06T15:01:23.988163+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Padres y alumnos de la secundaria Gurruchaga denunciaron maltratos de directivos y reclaman el fin de la intervención",
+        "link": "https://www.rosario3.com/informaciongeneral/padres-y-alumnos-de-la-secundaria-gurruchaga-denunciaron-maltratos-de-directivos-y-reclaman-el-fin-de-la-intervencion-20261006-0020.html",
+        "image": "https://www.rosario3.com/__export/1791293242108/sites/rosario3/img/2026/10/06/whatsapp_image_2026-10-06_at_10_05_56_2.jpeg_928314581.jpeg",
+        "summary": "La comunidad educativa se manifestó este lunes frente a la escuela de Salta al 3300. Cuestionan la gestión de los interventores, que están al frente del establecimiento desde hace aproximadamente un año y medio, y piden que las autoridades sean elegidas por escalafón",
+        "pubDate": "2026-10-06T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Parteras investigadas por venta de bebés: Silvia va por la prescripción y Dolly ya tiene fecha de indagatoria",
         "link": "https://www.rosario3.com/policiales/parteras-investigadas-por-venta-de-bebes-silvia-va-por-la-prescripcion-y-dolly-ya-tiene-fecha-de-indagatoria-20261006-0013.html",
         "image": "https://www.rosario3.com/__export/1791291331016/sites/rosario3/img/2026/10/06/tribunalfederal.jpg_928314581.jpg",
         "summary": "El abogado querellante Juan Singer confirmó que este martes se realiza una audiencia para determinar si caducó el delito contra la mujer, acusada junto a su hermana de apropiación de bebés en Rosario y la región. El profesional explicó cuál era el presunto modus operandi de…",
-        "pubDate": "2026-10-06T12:00:00+00:00",
+        "pubDate": "2026-10-06T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/policiales/investigan-suicidio-de-un-gendarme-acusado-de-agredir-a-una-trabajadora-sexual-en-echesortu-20261006-0007.html",
         "image": "https://www.rosario3.com/__export/1791283552623/sites/rosario3/img/2026/10/06/despliegue_policial_suicidio_gendarme_echesortu.jpg_1851203400.jpg",
         "summary": "Este martes por la madrugada una mujer denunció a un oficial de Gendarmería por violencia de género. Al llegar al lugar, la policía lo encontró muerto y, de acuerdo a las primeras versiones, todo indicaba que se habría quitado la vida con su propia arma reglamentaria",
-        "pubDate": "2026-10-06T11:59:00+00:00",
+        "pubDate": "2026-10-06T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,16 +35,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/rosario-prepara-una-pantalla-gigante-y-actividades-gratuitas-para-la-despedida-de-messi-de-la-seleccion-20261004-0020.html",
         "image": "https://www.rosario3.com/__export/1791132165540/sites/rosario3/img/2026/10/04/whatsapp_image_2026-10-04_at_13_28_25.jpeg_1825221543.jpeg",
         "summary": "El encuentro ante Benín se proyectará este martes en el Museo del Deporte, donde desde las 17 habrá música, juegos y propuestas culturales con entrada libre. La jornada se realizará a pocos metros de la casa natal del astro rosarino",
-        "pubDate": "2026-10-04T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La respuesta de Novaresio tras la catarata de insultos de Milei en su contra",
-        "link": "https://www.rosario3.com/politica/la-respuesta-de-novaresio-tras-la-catarata-de-insultos-de-milei-en-su-contra-20261006-0015.html",
-        "image": "https://www.rosario3.com/__export/1791291435372/sites/rosario3/img/2026/10/06/retratos_polxticos_en_dxptico_editorial.png_374587788.png",
-        "summary": "El periodista fue consultado sobre el tema antes de su habitual columna en el programa De boca en boca, de Radio 2",
-        "pubDate": "2026-10-06T11:57:00+00:00",
+        "pubDate": "2026-10-04T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -139,6 +139,33 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Adrián Maglia profundiza la articulación con la provincia mientras gana protagonismo en el peronismo santafesino",
+        "link": "https://www.lacapital.com.ar/la-region/adrian-maglia-profundiza-la-articulacion-la-provincia-mientras-gana-protagonismo-el-peronismo-santafesino-n10285161.html",
+        "image": "https://media.lacapital.com.ar/p/c44f252d3c561ad033f03d11219e1520/adjuntos/203/imagenes/103/449/0103449601/1200x675/smart/baigorria-maglia.jpeg",
+        "summary": "La relación institucional entre la Municipalidad de Granadero Baigorria y el gobierno provincial aparece hoy como uno de los ejes centrales de la gestión del intendente",
+        "pubDate": "2026-10-06T14:54:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Rosario será sede del FranquiDay este jueves 8 de octubre",
+        "link": "https://www.lacapital.com.ar/novedades/rosario-sera-sede-del-franquiday-este-jueves-8-octubre-n10285154.html",
+        "image": "https://media.lacapital.com.ar/p/2cf919088481ece0c47b3ac705c657af/adjuntos/203/imagenes/103/449/0103449557/1200x675/smart/portada_franquiday.jpg",
+        "summary": "Energía solar, negocios digitales, viajes y fitness: más de 30 franquicias se reunirán con emprendedores en Rosario.",
+        "pubDate": "2026-10-06T14:40:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Muerte del gendarme en Echesortu: violencia de género y suicidio, la hipótesis",
+        "link": "https://www.lacapital.com.ar/policiales/muerte-del-gendarme-echesortu-violencia-genero-y-suicidio-la-hipotesis-n10285151.html",
+        "image": "https://media.lacapital.com.ar/p/8470f3c804918ace1234e277d949f555/adjuntos/203/imagenes/103/449/0103449519/1200x675/smart/gendarme-muerto-echesortu-2.jpg",
+        "summary": "El hecho que se investiga sucedió este martes a la madrugada en el séptimo piso de un edificio ubicado en Lima y Tres de Febrero",
+        "pubDate": "2026-10-06T14:29:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Pullaro confirmó que en junio se elige gobernador: ¿cómo queda el calendario electoral?",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/796a81221a918816962c81be2b36a686/adjuntos/203/imagenes/103/449/0103449046/1200x675/smart/muestra-argra.png",
         "summary": "Una exposición de las imágenes que marcaron 2025 inaugura en Plataforma Lavardén. Participan cinco rosarinos, entre ellos dos fotógrafos de La Capital",
         "pubDate": "2026-10-06T11:45:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "A qué hora juega la selección argentina y dónde ver el último partido de Messi",
-        "link": "https://www.lacapital.com.ar/ovacion/a-que-hora-juega-la-seleccion-argentina-y-donde-ver-el-ultimo-partido-messi-n10285106.html",
-        "image": "https://media.lacapital.com.ar/p/51ab284e0023fdf8e3a5f5cda7d7333e/adjuntos/203/imagenes/103/281/0103281739/2026-07-19-messi-82514064.jpg",
-        "summary": "El astro rosarino vestirá por última vez la camiseta celeste y blanca este martes en el Monumental. Detalles y estadísticas del partido",
-        "pubDate": "2026-10-06T11:35:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La despedida de Lionel Messi será a puro show: todos los detalles",
-        "link": "https://www.lacapital.com.ar/ovacion/la-despedida-lionel-messi-sera-puro-show-todos-los-detalles-n10285089.html",
-        "image": "https://media.lacapital.com.ar/p/f0e1ae17a31f632086169fb00c96e8c7/adjuntos/203/imagenes/103/448/0103448930/1200x675/smart/image-1.jpg",
-        "summary": "La AFA y la organización del evento dieron a conocer quiénes serán los artistas que cantarán en el último partido de Messi con la camiseta de la selección argentina",
-        "pubDate": "2026-10-06T11:16:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Fintech rosarina avanza sobre Fondos Comunes de Inversión y suma opciones dentro de su app",
-        "link": "https://www.lacapital.com.ar/negocios/fintech-rosarina-avanza-fondos-comunes-inversion-y-suma-opciones-dentro-su-app-n10284541.html",
-        "image": "https://media.lacapital.com.ar/p/53f18ac4259964a3fcdfa6c27038890d/adjuntos/203/imagenes/103/441/0103441765/ramiro_rodriguez_fiwind1-1jpg.jpeg",
-        "summary": "Fiwind permitirá invertir desde montos bajos en carteras diversificadas de activos. Habrá opciones de renta fija en pesos, acciones argentinas, bonos CER y agro, con rescates disponibles a 24 horas",
-        "pubDate": "2026-10-06T11:00:00+00:00",
         "approxTime": false
       }
     ]
