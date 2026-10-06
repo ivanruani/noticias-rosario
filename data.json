@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-06T22:31:06.953931+00:00",
+  "generatedAt": "2026-10-06T23:01:19.420199+00:00",
   "sites": {
     "rosario3": [
       {
         "source": "Rosario3",
-        "title": "Ya se vive la despedida de Lionel Messi de la selección argentina: el plantel llegó al Monumental",
+        "title": "Lionel Messi se despide de la selección argentina: hace su última entrada en calor en un Monumental repleto",
         "link": "https://www.rosario3.com/deportes/el-fin-de-una-era-lionel-messi-se-despide-de-la-seleccion-argentina-tras-mas-de-20-anos-20261005-0074.html",
-        "image": "https://www.rosario3.com/__export/1791325025327/sites/rosario3/img/2026/10/06/celia_messi.jpg_506286608.jpg",
-        "summary": "El rosarino, capitán y emblema del seleccionado albiceleste, jugará este martes su último partido en un amistoso frente a Benín, desde las 20 en un estadio Monumental repleto para homenajear al ídolo. Una noche de fuertes emociones, con fútbol de por medio y shows musicales…",
+        "image": "https://www.rosario3.com/__export/1791326371410/sites/rosario3/img/2026/10/06/despedida_messi_-3-.jpg_506286608.jpg",
+        "summary": "El rosarino, capitán y emblema del seleccionado albiceleste, jugará este martes su último partido en un amistoso frente a Benín, desde las 20 en un estadio Monumental colmado por más 80 mil personas para homenajear al ídolo. Una noche de fuertes emociones, con fútbol de por…",
         "pubDate": "2026-10-05T12:00:00+00:00",
         "approxTime": true
       },
@@ -85,10 +85,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Confirmado: Santa Fe abre el calendario electoral 2027, con las Paso el 18 de abril y las generales el 13 de junio",
-        "link": "https://www.rosario3.com/politica/confirmado-santa-fe-abre-el-calendario-electoral-2027-con-las-paso-el-18-de-abril-y-las-generales-el-18-de-junio-20261006-0037.html",
-        "image": "https://www.rosario3.com/__export/1778680880594/sites/rosario3/img/2023/07/16/elecciones_rosario3.jpeg_1825222445.jpeg",
-        "summary": "El gobernador aceptó que esas serán las fechas, aunque aclaró que todavía no firmó el decreto con la convocatoria",
+        "title": "Mirtha Legrand recibió el alta del Sanatorio Mater Dei tras casi tres semanas internada",
+        "link": "https://www.rosario3.com/ocio/mirtha-legrand-recibio-el-alta-del-sanatorio-mater-dei-tras-casi-tres-semanas-internada-20261006-0072.html",
+        "image": "https://www.rosario3.com/__export/1790968725757/sites/rosario3/img/2026/10/02/mirtha_legrand_parte_medico.png_786111822.png",
+        "summary": "Este martes, la conductora de 99 años abandonó la clínica luego de superar un cuadro de infección respiratoria",
         "pubDate": "2026-10-06T11:51:00+00:00",
         "approxTime": true
       },
@@ -168,19 +168,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Básquet: el femenino inicia el camino en busca de la consagració",
-        "link": "https://www.lacapital.com.ar/ovacion/basquet-el-femenino-inicia-el-camino-busca-la-consagracio-n10285263.html",
-        "image": "https://media.lacapital.com.ar/p/cb2817c80ee3020d3d3ef1e47bd40d93/adjuntos/203/imagenes/103/450/0103450736/1200x675/smart/bas.JPG",
-        "summary": "En el comienzo de la serie final, Talleres de Villa Gobernador Gálvez y Náutico Sportivo Avellaneda se medirán por la categoría A. Por la B lo harán Alba de Maciel Argentina y Sport Club Cañadense",
+        "title": "El Parque España será sede de un festival de música en vinilo",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-parque-espana-sera-sede-un-festival-musica-vinilo-n10285254.html",
+        "image": "https://media.lacapital.com.ar/p/b932a436435ca0ff663dc4b96f429b4f/adjuntos/203/imagenes/103/450/0103450709/1200x675/smart/image-14.jpg",
+        "summary": "Se trata del festival La Escucha Vinilo Club, un ciclo itinerante de escucha musical, que propone una tarde distinta al lado del río",
         "pubDate": "2026-10-06T22:04:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "El Parque España será sede de un festival de música en vinilo",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-parque-espana-sera-sede-un-festival-musica-vinilo-n10285254.html",
-        "image": "https://media.lacapital.com.ar/p/b932a436435ca0ff663dc4b96f429b4f/adjuntos/203/imagenes/103/450/0103450709/1200x675/smart/image-14.jpg",
-        "summary": "Se trata del festival La Escucha Vinilo Club, un ciclo itinerante de escucha musical, que propone una tarde distinta al lado del río",
+        "title": "Básquet: el femenino inicia el camino en busca de la consagració",
+        "link": "https://www.lacapital.com.ar/ovacion/basquet-el-femenino-inicia-el-camino-busca-la-consagracio-n10285263.html",
+        "image": "https://media.lacapital.com.ar/p/cb2817c80ee3020d3d3ef1e47bd40d93/adjuntos/203/imagenes/103/450/0103450736/1200x675/smart/bas.JPG",
+        "summary": "En el comienzo de la serie final, Talleres de Villa Gobernador Gálvez y Náutico Sportivo Avellaneda se medirán por la categoría A. Por la B lo harán Alba de Maciel Argentina y Sport Club Cañadense",
         "pubDate": "2026-10-06T22:04:00+00:00",
         "approxTime": false
       },
@@ -222,10 +222,10 @@
       },
       {
         "source": "La Capital",
-        "title": "Central: se espera el parte médico de Duarte tras la dura lesión que sufrió ante Banfield",
-        "link": "https://www.lacapital.com.ar/ovacion/central-se-espera-el-parte-medico-duarte-la-dura-lesion-que-sufrio-banfield-n10285250.html",
-        "image": "https://media.lacapital.com.ar/p/6c85fed84e06695c099e528a823850e1/adjuntos/203/imagenes/103/450/0103450604/duarte.jpeg",
-        "summary": "El delantero canalla tuvo que ser reemplazado en el inicio del partido, con mucho dolor en la rodilla derecha. Dejó el estadio Florencio Sola sin poder pisar",
+        "title": "Todos aman a Messi: emoción, gratitud y lágrimas de los hinchas en su despedida en el Monumental",
+        "link": "https://www.lacapital.com.ar/ovacion/todos-aman-messi-emocion-gratitud-y-lagrimas-los-hinchas-su-despedida-el-monumental-n10285243.html",
+        "image": "https://media.lacapital.com.ar/p/baf74b8cc9d7f29e14e6005b7074aff9/adjuntos/203/imagenes/103/450/0103450650/color5.jpg",
+        "summary": "Una multitud asiste a la cancha de River para ver la despedida de Messi de la selección argentina. El Monumental desborda de pasión por el rosarino",
         "pubDate": "2026-10-06T21:12:00+00:00",
         "approxTime": false
       },
@@ -240,10 +240,10 @@
       },
       {
         "source": "La Capital",
-        "title": "Todos aman a Messi: emoción, gratitud y lágrimas de los hinchas en su despedida en el Monumental",
-        "link": "https://www.lacapital.com.ar/ovacion/todos-aman-messi-emocion-gratitud-y-lagrimas-los-hinchas-su-despedida-el-monumental-n10285243.html",
-        "image": "https://media.lacapital.com.ar/p/baf74b8cc9d7f29e14e6005b7074aff9/adjuntos/203/imagenes/103/450/0103450650/color5.jpg",
-        "summary": "Una multitud asiste a la cancha de River para ver la despedida de Messi de la selección argentina. El Monumental desborda de pasión por el rosarino",
+        "title": "Central: se espera el parte médico de Duarte tras la dura lesión que sufrió ante Banfield",
+        "link": "https://www.lacapital.com.ar/ovacion/central-se-espera-el-parte-medico-duarte-la-dura-lesion-que-sufrio-banfield-n10285250.html",
+        "image": "https://media.lacapital.com.ar/p/6c85fed84e06695c099e528a823850e1/adjuntos/203/imagenes/103/450/0103450604/duarte.jpeg",
+        "summary": "El delantero canalla tuvo que ser reemplazado en el inicio del partido, con mucho dolor en la rodilla derecha. Dejó el estadio Florencio Sola sin poder pisar",
         "pubDate": "2026-10-06T21:12:00+00:00",
         "approxTime": false
       },
