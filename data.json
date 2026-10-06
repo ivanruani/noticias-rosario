@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T03:01:14.575327+00:00",
+  "generatedAt": "2026-10-06T03:31:04.456721+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Jorge Almirón dijo que Central mereció el punto: \"No era lo que veníamos a buscar\"",
+        "link": "https://www.lacapital.com.ar/ovacion/jorge-almiron-dijo-que-central-merecio-el-punto-no-era-lo-que-veniamos-buscar-n10285081.html",
+        "image": "https://media.lacapital.com.ar/p/2f280b9fb7f62e39e70d63940d3cd9c8/adjuntos/203/imagenes/103/448/0103448851/1200x675/smart/image-2026-10-05t232607277.png",
+        "summary": "\"El equipo mereció el empate, hizo un desgaste enorme\", declaró el entrenador de Central sobre la excursión de su equipo en la cancha de Banfield",
+        "pubDate": "2026-10-06T03:18:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El uno por uno de Central: en un bajón colectivo, Cantizano fue el bombero canalla",
+        "link": "https://www.lacapital.com.ar/ovacion/el-uno-uno-central-un-bajon-colectivo-cantizano-fue-el-bombero-canalla-n10285066.html",
+        "image": "https://media.lacapital.com.ar/p/0b526a6cdaac877b2c9bd49c54edbdcb/adjuntos/203/imagenes/103/448/0103448784/1200x675/smart/image-18.jpg",
+        "summary": "Central jugó un partido flojísimo ante Banfield y el aporte goleador de Cantizano fue lo único para destacar",
+        "pubDate": "2026-10-06T03:04:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El tiempo en Rosario: martes nuboso en vísperas de un alerta amarillo por tormentas",
         "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-martes-nuboso-visperas-un-alerta-amarillo-tormentas-n10285082.html",
         "image": "https://media.lacapital.com.ar/p/bace15cb9f6696628497309154107ffc/adjuntos/203/imagenes/103/448/0103448863/2026-10-05-clima-by-vbenedetto-81069224.jpg",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/07ed657bde852d798e8877408e0642be/adjuntos/203/imagenes/103/448/0103448366/ledesmaaa.jpg",
         "summary": "El DT de Central Jorge Almirón realizará dos modificaciones para jugar ante Banfield. Ingresan el arquero Ledesma y el lateral Soto",
         "pubDate": "2026-10-05T23:33:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Agustín Bernasconi: de Villa Rumipal al éxito mundial con Cris Morena y nuevos desafíos",
-        "link": "https://www.lacapital.com.ar/la-capital/agustin-bernasconi-villa-rumipal-al-exito-mundial-cris-morena-y-nuevos-desafios-n10284929.html",
-        "image": "https://media.lacapital.com.ar/p/b38b8acfad53e80e18cefb5baf0d5620/adjuntos/203/imagenes/103/446/0103446964/1200x675/smart/imagen-l.jpg",
-        "summary": "El actor y músico Agustín Bernasconi en \"Lo Resolví Pensando\" con Guido Záffora: sus inicios, la fama y nuevos proyectos",
-        "pubDate": "2026-10-05T23:31:52+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Medvedev le pegó un pelotazo a un espectador y lo descalificaron",
-        "link": "https://www.lacapital.com.ar/ovacion/medvedev-le-pego-un-pelotazo-un-espectador-y-lo-descalificaron-n10285060.html",
-        "image": "https://media.lacapital.com.ar/p/e63fd97be804d53014e459668320586d/adjuntos/203/imagenes/103/448/0103448499/2026-10-05-medvedev.jpg",
-        "summary": "Fue en la semifinal con Djokovic. El tenista ruso pidió disculpas y dijo que fue un accidente",
-        "pubDate": "2026-10-05T23:23:00+00:00",
         "approxTime": false
       }
     ]
