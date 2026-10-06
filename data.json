@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T02:31:14.132944+00:00",
+  "generatedAt": "2026-10-06T02:55:23.417834+00:00",
   "sites": {
     "rosario3": [
       {
@@ -49,7 +49,7 @@
       },
       {
         "source": "Rosario3",
-        "title": "Seguimiento individual canalla: Ovando fue un león y Ledesma sostuvo al equipo con sus atajadas",
+        "title": "Seguimiento individual canalla: Ovando sacó todo y Ledesma sostuvo al equipo con sus atajadas",
         "link": "https://www.rosario3.com/deportes/seguimiento-individual-canalla-ovando-fue-un-leon-y-ledesma-sostuvo-al-equipo-con-sus-atajadas-20261005-0081.html",
         "image": "https://www.rosario3.com/__export/1791253501136/sites/rosario3/img/2026/10/05/seguimiento_central_banfield.jpg_506286608.jpg",
         "summary": "El rendimiento de los futbolistas de Central que empataron ante Banfield este lunes, por la fecha 11 del torneo Clausura",
@@ -139,6 +139,24 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "El tiempo en Rosario: martes nuboso en vísperas de un alerta amarillo por tormentas",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-martes-nuboso-visperas-un-alerta-amarillo-tormentas-n10285082.html",
+        "image": "https://media.lacapital.com.ar/p/bace15cb9f6696628497309154107ffc/adjuntos/203/imagenes/103/448/0103448863/2026-10-05-clima-by-vbenedetto-81069224.jpg",
+        "summary": "El fin de semana habría un descenso de la temperatura aunque sin lluvias",
+        "pubDate": "2026-10-06T02:51:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central fue una sombra y el rayo de luz para el empate lo aportó el pibe Cantizano",
+        "link": "https://www.lacapital.com.ar/ovacion/central-fue-una-sombra-y-el-rayo-luz-el-empate-lo-aporto-el-pibe-cantizano-n10285068.html",
+        "image": "https://media.lacapital.com.ar/p/cb1934d3c9ce7af6fcbe91ab8b9e079e/adjuntos/203/imagenes/103/448/0103448852/1200x675/smart/image-22.jpg",
+        "summary": "El Canalla jugó un partido muy flojo. Banfield lo superó toda la noche y dispuso de chances claras. El juvenil Cantizano lo rescató para el 1 a 1",
+        "pubDate": "2026-10-06T02:41:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Trece países ya se preparan para las guerras en el espacio",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/e63fd97be804d53014e459668320586d/adjuntos/203/imagenes/103/448/0103448499/2026-10-05-medvedev.jpg",
         "summary": "Fue en la semifinal con Djokovic. El tenista ruso pidió disculpas y dijo que fue un accidente",
         "pubDate": "2026-10-05T23:23:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La maquinaria agrícola volvió a perder ritmo: los patentamientos cayeron 18,6% en septiembre",
-        "link": "https://www.lacapital.com.ar/agro/la-maquinaria-agricola-volvio-perder-ritmo-los-patentamientos-cayeron-186-septiembre-n10285040.html",
-        "image": "https://media.lacapital.com.ar/p/2743daf59517eb870b75664a293284a4/adjuntos/203/imagenes/030/557/0030557275/1200x675/825x334:845x354/cosechadorasaf1814-foto-1jpg.jpg",
-        "summary": "En septiembre, los registros de tractores bajaron 21,1%, los de cosechadoras 6,3% y los de pulverizadoras 6% frente a agosto. Acara advirtió que la demanda de maquinaria agrícola sigue dependiendo de la financiación y los estímulos comerciales",
-        "pubDate": "2026-10-05T22:45:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El costo del transporte acumula una suba de 30,3% en los primeros nueve meses del año",
-        "link": "https://www.lacapital.com.ar/economia/el-costo-del-transporte-acumula-una-suba-303-los-primeros-nueve-meses-del-ano-n10285036.html",
-        "image": "https://media.lacapital.com.ar/p/c5397916a106dc9dd4296322cdcf33ae/adjuntos/203/imagenes/025/471/0025471449/1200x675/603x411:623x431/3_marcelo-ruben-bustamante_73071249__06-03-2019__300x1130jpg.jpg",
-        "summary": "Gastos generales, peajes, neumáticos y combustible encabezaron los aumentos de septiembre. En lo que va de 2026, el gasoil acumula un incremento de 38%.",
-        "pubDate": "2026-10-05T22:29:00+00:00",
         "approxTime": false
       }
     ]
