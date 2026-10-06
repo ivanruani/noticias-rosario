@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T01:01:17.311451+00:00",
+  "generatedAt": "2026-10-06T01:31:07.139506+00:00",
   "sites": {
     "rosario3": [
       {
@@ -94,10 +94,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Murió a los 92 años Naum Krass, referente del teatro rosarino",
-        "link": "https://www.rosario3.com/ocio/murio-a-los-92-anos-naum-krass-referente-del-teatro-rosarino-20261005-0063.html",
-        "image": "https://www.rosario3.com/__export/1791231746662/sites/rosario3/img/2026/10/05/naum-krass.jpg_1825222467.jpg",
-        "summary": "El actor, director, dramaturgo y docente se había radicado definitivamente en la ciudad en 1986, aunque su vínculo con la escena local comenzó en 1959. Fue formador de generaciones, impulsó grupos y espacios culturales y se mantuvo activo hasta sus últimos años",
+        "title": "El Comando Sur de Estados Unidos mostró el entrenamiento de sus marines en Ushuaia",
+        "link": "https://www.rosario3.com/informaciongeneral/el-comando-sur-de-estados-unidos-mostro-el-entrenamiento-de-sus-marines-en-ushuaia-20261005-0078.html",
+        "image": "https://www.rosario3.com/__export/1791246321918/sites/rosario3/img/2026/10/05/comando.jpg_982625323.jpg",
+        "summary": "Desde el comando militar estadounidense difundieron imágenes de los ejercicios que hicieron en septiembre en Tierra del Fuego junto al Batallón de Infantería de Marina N°4 de la Armada Argentina. Hubo simulacros de “contacto con el enemigo”, un desembarco anfibio en un bote de…",
         "pubDate": "2026-10-05T11:50:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,33 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Atacaron a piedrazos a un fletero que llevaba hinchas de Newell's a la cancha",
+        "link": "https://www.lacapital.com.ar/policiales/atacaron-piedrazos-un-fletero-que-llevaba-hinchas-newells-la-cancha-n10285077.html",
+        "image": "https://media.lacapital.com.ar/p/aad8e9d729be376cc45f5a17909f5049/adjuntos/203/imagenes/103/448/0103448750/2026-10-05-ataque-fletero.jpg",
+        "summary": "El hecho ocurrió el pasado sábado en Buenos Aires y Gálvez. \"Me fui contento a trabajar y casi que no vuelvo\", contó Diego, quien tiene dientes rotos y el tabique quebrado",
+        "pubDate": "2026-10-06T01:21:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Gaspar Duarte se lesionó solo, en la rodilla derecha, y temen que pueda ser grave",
+        "link": "https://www.lacapital.com.ar/ovacion/gaspar-duarte-se-lesiono-solo-la-rodilla-derecha-y-temen-que-pueda-ser-grave-n10285074.html",
+        "image": "https://media.lacapital.com.ar/p/1265fd9030ba2991ea13dc7882c66b02/adjuntos/203/imagenes/103/448/0103448716/1200x675/smart/image-20.jpg",
+        "summary": "El extremo de Central debió dejar la cancha pasado el cuarto de hora en carrito médico y con gestos de dolor en la rodilla derecha, en una acción intrascendente",
+        "pubDate": "2026-10-06T01:02:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Acciones y bonos argentinos rebotaron tras una semana  de fuertes caídas",
+        "link": "https://www.lacapital.com.ar/economia/acciones-y-bonos-argentinos-rebotaron-una-semana-fuertes-caidas-n10285051.html",
+        "image": "https://media.lacapital.com.ar/p/e4575ba41fe55b9f2d5e8fb590a1172f/adjuntos/203/imagenes/102/018/0102018398/1200x675/smart/dolar-celina-mutti-loverajpg.jpg",
+        "summary": "El Merval ganó 3,7% y el riesgo país bajó. Analistas vincularon la recuperación con el impulso brasileño tras la primera vuelta electoral",
+        "pubDate": "2026-10-06T00:58:20+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "En Banfield hubo pasillo de campeón para Central por la Supercopa Internacional",
         "link": "https://www.lacapital.com.ar/ovacion/en-banfield-hubo-pasillo-campeon-central-la-supercopa-internacional-n10285070.html",
         "image": "https://media.lacapital.com.ar/p/f0806641e2341f14d2e95733d16d8af0/adjuntos/203/imagenes/103/448/0103448627/1200x675/smart/image-19.jpg",
@@ -159,10 +186,10 @@
       },
       {
         "source": "La Capital",
-        "title": "En vivo: Ledesma le tapó un cabezazo de corta distancia a Medina",
-        "link": "https://www.lacapital.com.ar/ovacion/en-vivo-ledesma-le-tapo-un-cabezazo-corta-distancia-medina-n10285049.html",
-        "image": "https://media.lacapital.com.ar/p/f3e2d117f20b34c20752828eeb772f0b/adjuntos/203/imagenes/103/448/0103448582/1200x675/smart/image-18.jpg",
-        "summary": "El conjunto de Jorge Almirón se presentará este lunes, a las 21.15, en el estadio de Banfield. Si gana, se convertirá en líder",
+        "title": "En vivo: Central jugó un flojo primer tiempo y se fue al descanso en desventaja",
+        "link": "https://www.lacapital.com.ar/ovacion/en-vivo-central-jugo-un-flojo-primer-tiempo-y-se-fue-al-descanso-desventaja-n10285049.html",
+        "image": "https://media.lacapital.com.ar/p/f831dfa973f2414b46961699f215b15c/adjuntos/203/imagenes/103/448/0103448761/1200x675/smart/image-21.jpg",
+        "summary": "El conjunto de Jorge Almirón jugó un flojo primer tiempo y fue sometido por Banfield, que marcó el gol al final de la etapa.",
         "pubDate": "2026-10-06T00:23:00+00:00",
         "approxTime": false
       },
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/d774cdb7ee6c80daf372e135a08587d2/adjuntos/203/imagenes/103/448/0103448118/1200x675/919x289:939x309/santa-fe-europa.jpeg",
         "summary": "Pullaro y el embajador de la Unión Europea analizaron las oportunidades del acuerdo con el Mercosur. Las certificaciones, la logística y el acceso de las pymes estuvieron en el centro de la agenda",
         "pubDate": "2026-10-05T21:33:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Primera C: Leones FC derrotó al Arrabalero, en el estadio 3 de Febrero por la fecha 31",
-        "link": "https://www.lacapital.com.ar/ovacion/primera-c-leones-fc-derroto-al-arrabalero-el-estadio-3-febrero-la-fecha-31-n10284994.html",
-        "image": "https://media.lacapital.com.ar/p/45d9880a54dea3202b741be2840cd246/adjuntos/203/imagenes/103/447/0103447717/1200x675/smart/image-2026-10-05t154048100.png",
-        "summary": "El equipo de Alvear, clasificado al Reducido, le ganó a Sportivo Barracas con autoridad con los goles de Juan Ignacio Vieyra y Gonzalo González",
-        "pubDate": "2026-10-05T21:17:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Acusan a la familia de Yanina Latorre de revender entradas para la despedida de Lionel Messi",
-        "link": "https://www.lacapital.com.ar/informacion-general/acusan-la-familia-yanina-latorre-revender-entradas-la-despedida-lionel-messi-n10285028.html",
-        "image": "https://media.lacapital.com.ar/p/b4a1561b5066831ace7792eccb2efb8f/adjuntos/203/imagenes/103/448/0103448050/1200x675/smart/imageyanina.jpg",
-        "summary": "En las últimas horas, se difundieron chats de la madre y la hermana de la conductora ofreciendo ubicaciones con sobreprecios de hasta el 600%. La reacción de Yanina Latorre.",
-        "pubDate": "2026-10-05T20:38:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Seis testigos declararon contra dos asesinos en Rosario, lograron perpetuas y rechazaron una recompensa millonaria",
-        "link": "https://www.lacapital.com.ar/policiales/seis-testigos-declararon-contra-dos-asesinos-rosario-lograron-perpetuas-y-rechazaron-una-recompensa-millonaria-n10285012.html",
-        "image": "https://media.lacapital.com.ar/p/7205604c6dc633351a57a80364e8f161/adjuntos/203/imagenes/103/447/0103447905/1200x675/smart/lopez-villanueva-pepetua-510-vb-2.jpg",
-        "summary": "Sus testimonios fueron decisivos para esclarecer los crímenes de Joaquín Pérez y Ariel Simoncini. Eran allegados a los condenados y ninguno aceptó cobrar el dinero ofrecido por el gobierno provincial.",
-        "pubDate": "2026-10-05T20:20:11+00:00",
         "approxTime": false
       }
     ]
