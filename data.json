@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-06T02:01:19.136498+00:00",
+  "generatedAt": "2026-10-06T02:31:14.132944+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Sin jugar bien, Central rescató un empate sobre el final ante Banfield gracias a un golazo de Cantizano",
+        "link": "https://www.rosario3.com/deportes/tras-los-festejos-central-vuelve-a-poner-el-foco-en-el-torneo-y-visita-a-banfield-20261004-0028.html",
+        "image": "https://www.rosario3.com/__export/1791253049742/sites/rosario3/img/2026/10/05/cantizano_di_maria.jpg_506286608.jpg",
+        "summary": "Igualaron 1-1 este lunes en el Florencio Sola, por la fecha 11 del torneo. Tomás Adoryán adelantó al Taladro en el primer tiempo y Giovanni Cantizano marcó el empate para el Canalla en el complemento. El equipo de Jorge Almirón sufrió durante gran parte del encuentro y evitó la…",
+        "pubDate": "2026-10-04T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Pullaro promulgó la ley que sanciona a cuidacoches y Rosario avanza con la adhesión",
         "link": "https://www.rosario3.com/informaciongeneral/pullaro-promulgo-la-ley-que-sanciona-a-cuidacoches-y-rosario-avanza-con-la-adhesion-20261005-0068.html",
         "image": "https://www.rosario3.com/__export/1791235614782/sites/rosario3/img/2026/10/05/cuidacoche06.jpg_1825222445.jpg",
         "summary": "La nueva normativa contempla trabajo comunitario y arresto para reincidentes, mientras el Concejo prepara la ordenanza local necesaria para aplicar el nuevo régimen en la ciudad",
-        "pubDate": "2026-10-05T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Un golazo de Cantizano rescata a Central, que ahora empata con Banfield",
-        "link": "https://www.rosario3.com/deportes/tras-los-festejos-central-vuelve-a-poner-el-foco-en-el-torneo-y-visita-a-banfield-20261004-0028.html",
-        "image": "https://www.rosario3.com/__export/1791250782034/sites/rosario3/img/2026/10/05/banfield_central.jpg_506286608.jpg",
-        "summary": "A poco más de una semana del título en la Supercopa Internacional, este lunes desde las 21.15 el Canalla visita al Taladro por la fecha 11. Ledesma vuelve al arco por la lesión de Werner y Soto reemplaza a Sández en la defensa. Dirige Leandro Rey Hilfer y transmite Radio 2",
-        "pubDate": "2026-10-04T11:59:00+00:00",
+        "pubDate": "2026-10-05T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -49,19 +49,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "Después de 31 años, Venado Tuerto se quedó sin conexión directa con Santa Fe",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/despues-de-31-anos-venado-tuerto-se-quedo-sin-conexion-directa-con-santa-fe-20261005-0060.html",
-        "image": "https://www.rosario3.com/__export/1791230607171/sites/rosario3/img/2026/10/05/empresa-venado.jpg_928314581.jpg",
-        "summary": "Empresa Venado dejó de prestar el servicio. La firma atribuyó la decisión a la caída de pasajeros, la reducción de subsidios y el aumento de los costos. El último viaje salió con apenas 17 pasajeros",
+        "title": "Seguimiento individual canalla: Ovando fue un león y Ledesma sostuvo al equipo con sus atajadas",
+        "link": "https://www.rosario3.com/deportes/seguimiento-individual-canalla-ovando-fue-un-leon-y-ledesma-sostuvo-al-equipo-con-sus-atajadas-20261005-0081.html",
+        "image": "https://www.rosario3.com/__export/1791253501136/sites/rosario3/img/2026/10/05/seguimiento_central_banfield.jpg_506286608.jpg",
+        "summary": "El rendimiento de los futbolistas de Central que empataron ante Banfield este lunes, por la fecha 11 del torneo Clausura",
         "pubDate": "2026-10-05T11:55:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Milei viajará a España en plena campaña electoral para apoyar a la derecha",
-        "link": "https://www.rosario3.com/politica/milei-viajara-a-espana-en-plena-campana-electoral-para-apoyar-a-la-derecha-20261005-0075.html",
-        "image": "https://www.rosario3.com/__export/1791241031632/sites/rosario3/img/2026/10/05/milei_1.jpg_1825222445.jpg",
-        "summary": "El presidente desembarcará en Madrid en octubre, tras el adelanto de las elecciones generales anunciado por Pedro Sánchez",
+        "title": "Después de 31 años, Venado Tuerto se quedó sin conexión directa con Santa Fe",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/despues-de-31-anos-venado-tuerto-se-quedo-sin-conexion-directa-con-santa-fe-20261005-0060.html",
+        "image": "https://www.rosario3.com/__export/1791230607171/sites/rosario3/img/2026/10/05/empresa-venado.jpg_928314581.jpg",
+        "summary": "Empresa Venado dejó de prestar el servicio. La firma atribuyó la decisión a la caída de pasajeros, la reducción de subsidios y el aumento de los costos. El último viaje salió con apenas 17 pasajeros",
         "pubDate": "2026-10-05T11:54:00+00:00",
         "approxTime": true
       },
@@ -85,10 +85,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Candidatura histórica: Argentina y la región van por la Copa del Mundo de Rugby 2035 con el Gigante de Arroyito entre las sedes",
-        "link": "https://www.rosario3.com/deportes/candidatura-historica-argentina-y-la-region-van-por-la-copa-del-mundo-2035-con-el-gigante-de-arroyito-entre-las-sedes-elegidas-20261005-0067.html",
-        "image": "https://www.rosario3.com/__export/1791235159161/sites/rosario3/img/2026/10/05/gigante.jpg_982625323.jpg",
-        "summary": "La Unión Argentina de Rugby, junto a Uruguay, Chile y Brasil, presentó ante World Rugby la documentación técnica para albergar el Mundial 2035. Rosario integra la nómina oficial con el estadio de Central entre los escenarios seleccionados. Sumando el impacto económico tendría a…",
+        "title": "Milei viajará a España en plena campaña electoral para apoyar a la derecha",
+        "link": "https://www.rosario3.com/politica/milei-viajara-a-espana-en-plena-campana-electoral-para-apoyar-a-la-derecha-20261005-0075.html",
+        "image": "https://www.rosario3.com/__export/1791241031632/sites/rosario3/img/2026/10/05/milei_1.jpg_1825222445.jpg",
+        "summary": "El presidente desembarcará en Madrid en octubre, tras el adelanto de las elecciones generales anunciado por Pedro Sánchez",
         "pubDate": "2026-10-05T11:51:00+00:00",
         "approxTime": true
       },
@@ -121,10 +121,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Reiteradas denuncias contra un hombre acusado de exhibicionismo en el centro de Rosario",
-        "link": "https://www.rosario3.com/informaciongeneral/reiteradas-denuncias-contra-un-hombre-acusado-de-exhibicionismo-en-el-centro-de-rosario-20261005-0056.html",
-        "image": "https://www.rosario3.com/__export/1791229803255/sites/rosario3/img/2026/10/05/denuncia.png_786111822.png",
-        "summary": "Vecinos denunciaron en redes sociales que el hombre habría exhibido sus partes íntimas en distintos sectores del centro rosarino y barrio Martin. Desde el Ministerio de Seguridad confirmaron que la Policía lo busca y que ya había sido detenido dos veces el año pasado por hechos…",
+        "title": "Candidatura histórica: Argentina y la región van por la Copa del Mundo de Rugby 2035 con el Gigante de Arroyito entre las sedes",
+        "link": "https://www.rosario3.com/deportes/candidatura-historica-argentina-y-la-region-van-por-la-copa-del-mundo-2035-con-el-gigante-de-arroyito-entre-las-sedes-elegidas-20261005-0067.html",
+        "image": "https://www.rosario3.com/__export/1791235159161/sites/rosario3/img/2026/10/05/gigante.jpg_982625323.jpg",
+        "summary": "La Unión Argentina de Rugby, junto a Uruguay, Chile y Brasil, presentó ante World Rugby la documentación técnica para albergar el Mundial 2035. Rosario integra la nómina oficial con el estadio de Central entre los escenarios seleccionados. Sumando el impacto económico tendría a…",
         "pubDate": "2026-10-05T11:47:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Trece países ya se preparan para las guerras en el espacio",
+        "link": "https://www.lacapital.com.ar/el-mundo/trece-paises-ya-se-preparan-las-guerras-el-espacio-n10285078.html",
+        "image": "https://media.lacapital.com.ar/p/6f34637e13039f9ef4809169e6ec27a4/adjuntos/203/imagenes/103/448/0103448839/2026-10-05-guerra-espacial.jpg",
+        "summary": "Estados Unidos confirmó que desplegó armas en el espacio. Rusia, China e India también hicieron pruebas en órbita. Y otros están desarrollando sus capacidades contraespaciales",
+        "pubDate": "2026-10-06T02:22:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Atacaron a piedrazos a un fletero que llevaba hinchas de Newell's a la cancha",
@@ -186,10 +195,10 @@
       },
       {
         "source": "La Capital",
-        "title": "En vivo: Cantizano recibió el rebote y le pegó mal desde cerca",
-        "link": "https://www.lacapital.com.ar/ovacion/en-vivo-cantizano-recibio-el-rebote-y-le-pego-mal-cerca-n10285049.html",
-        "image": "https://media.lacapital.com.ar/p/f831dfa973f2414b46961699f215b15c/adjuntos/203/imagenes/103/448/0103448761/1200x675/smart/image-21.jpg",
-        "summary": "El conjunto de Jorge Almirón jugó un flojo primer tiempo y fue sometido por Banfield, que marcó el gol al final de la etapa.",
+        "title": "Central rescató un empate ante Banfield con un golazo de Cantizano",
+        "link": "https://www.lacapital.com.ar/ovacion/central-rescato-un-empate-banfield-un-golazo-cantizano-n10285049.html",
+        "image": "https://media.lacapital.com.ar/p/887ea5c52326947a6bb9fa5724bee315/adjuntos/203/imagenes/103/448/0103448817/image-21.jpg",
+        "summary": "El conjunto de Jorge Almirón jugó un flojo partido, pero el Taladro no lo liquidó y el conjunto auriazul llegó a la igualdad a través de su talentoso volante.",
         "pubDate": "2026-10-06T00:23:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/c5397916a106dc9dd4296322cdcf33ae/adjuntos/203/imagenes/025/471/0025471449/1200x675/603x411:623x431/3_marcelo-ruben-bustamante_73071249__06-03-2019__300x1130jpg.jpg",
         "summary": "Gastos generales, peajes, neumáticos y combustible encabezaron los aumentos de septiembre. En lo que va de 2026, el gasoil acumula un incremento de 38%.",
         "pubDate": "2026-10-05T22:29:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Santa Fe busca ampliar sus exportaciones a la Unión Europea y atraer inversiones",
-        "link": "https://www.lacapital.com.ar/economia/santa-fe-busca-ampliar-sus-exportaciones-la-union-europea-y-atraer-inversiones-n10285035.html",
-        "image": "https://media.lacapital.com.ar/p/d774cdb7ee6c80daf372e135a08587d2/adjuntos/203/imagenes/103/448/0103448118/1200x675/919x289:939x309/santa-fe-europa.jpeg",
-        "summary": "Pullaro y el embajador de la Unión Europea analizaron las oportunidades del acuerdo con el Mercosur. Las certificaciones, la logística y el acceso de las pymes estuvieron en el centro de la agenda",
-        "pubDate": "2026-10-05T21:33:00+00:00",
         "approxTime": false
       }
     ]
