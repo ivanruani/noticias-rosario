@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T18:01:27.310117+00:00",
+  "generatedAt": "2026-10-07T18:31:10.467667+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Milei prepara otra visita a Santa Fe antes de fin de año con el Rigi y Pullaro en la agenda",
+        "link": "https://www.lacapital.com.ar/politica/milei-prepara-otra-visita-santa-fe-antes-fin-ano-el-rigi-y-pullaro-la-agenda-n10285417.html",
+        "image": "https://media.lacapital.com.ar/p/51f2011f6f85810ac85a07371370942e/adjuntos/203/imagenes/103/350/0103350966/1200x675/smart/javier-milei-acto-bolsa-comercio-rosario-2026.jpg",
+        "summary": "El presidente incluirá a la provincia en una gira por nueve distritos con proyectos aprobados bajo el régimen de grandes inversiones. La movida también apunta a reforzar el vínculo con gobernadores dialoguistas y sumar respaldo para la suspensión de las Paso y otras leyes clave.",
+        "pubDate": "2026-10-07T18:11:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Allanamientos por lavado en Rosario: cayó un financista y requisaron la celda del broker Andrés Lux",
+        "link": "https://www.lacapital.com.ar/policiales/allanamientos-lavado-rosario-cayo-un-financista-y-requisaron-la-celda-del-broker-andres-lux-n10285387.html",
+        "image": "https://media.lacapital.com.ar/p/a314171541be6c79cc7e0f57451d67e2/adjuntos/203/imagenes/103/452/0103452556/1200x675/smart/pif.jpg",
+        "summary": "La Justicia investiga una trama vinculada al empresario preso por estafas. Hubo operativos en seis domicilios, una financiera, un estudio contable, una escribanía y la cárcel. Secuestraron máquinas para minar bitcoin, contadoras de billetes, dinero y autos.",
+        "pubDate": "2026-10-07T18:09:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El argentino que quiso ser jugador de fútbol e hizo historia ganando un Super Bowl",
         "link": "https://www.lacapital.com.ar/ovacion/el-argentino-que-quiso-ser-jugador-futbol-e-hizo-historia-ganando-un-super-bowl-n10282614.html",
         "image": "https://media.lacapital.com.ar/p/2cb6f1b0f1564d07d67dd533ae056e9f/adjuntos/203/imagenes/103/421/0103421017/1200x675/smart/martin-gramatica.jpg",
@@ -234,7 +252,7 @@
         "title": "Rosario tendrá cruces a la isla desde La Fluvial todo el año: ¿cuánto cuesta el servicio?",
         "link": "https://www.lacapital.com.ar/la-ciudad/rosario-tendra-cruces-la-isla-la-fluvial-todo-el-ano-cuanto-cuesta-el-servicio-n10285382.html",
         "image": "https://media.lacapital.com.ar/p/28ae1a66971f1b584370e4faed27449b/adjuntos/203/imagenes/103/452/0103452384/delta-queen-2-1.jpg",
-        "summary": "El Enapro volverá a usar el barco Delta Queen para llevar hasta 230 personas al Banquito San Andrés y también ofrecerá paseos turísticos por el río Paraná",
+        "summary": "Volverán a usar el barco Delta Queen para llevar hasta 230 personas al Banquito San Andrés y también ofrecerá paseos turísticos por el río Paraná",
         "pubDate": "2026-10-07T15:36:00+00:00",
         "approxTime": false
       },
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/764a65ff46405aa2ad74e408d6f024d9/adjuntos/203/imagenes/103/452/0103452306/1200x675/smart/varicela-archivo.jpg",
         "summary": "Las autoridades del Nodo de Salud de esa ciudad coordinan acciones con la institución tras detectar los contagios en alumnos de primer y tercer año",
         "pubDate": "2026-10-07T14:52:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El emotivo mensaje de Di María a Messi tras su despedida: \"El mejor de todos los tiempos\"",
-        "link": "https://www.lacapital.com.ar/ovacion/el-emotivo-mensaje-di-maria-messi-su-despedida-el-mejor-todos-los-tiempos-n10285360.html",
-        "image": "https://media.lacapital.com.ar/p/b999868e7f2d6875d3241db4b20b0509/adjuntos/203/imagenes/103/452/0103452211/1200x675/smart/image-2026-10-07t103114642.png",
-        "summary": "El rosarino acompañó al capitán en su último partido en el estadio Monumental y luego recordó los años que compartieron en la selección argentina",
-        "pubDate": "2026-10-07T14:33:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Finalizó el plan provincial de deudas para familias y pymes: qué impuesto fue el más pedido",
-        "link": "https://www.lacapital.com.ar/economia/finalizo-el-plan-provincial-deudas-familias-y-pymes-que-impuesto-fue-el-mas-pedido-n10285364.html",
-        "image": "https://media.lacapital.com.ar/p/d50db1cac9d6b7623382d8a8cbe643bf/adjuntos/203/imagenes/103/452/0103452212/1200x675/smart/economia-santa-fe-impuestos.jpg",
-        "summary": "Se enfocó en mora de Ingresos Brutos, Inmobiliario, Patente y Sellos. Se ofrecieron planes de pago con 12 cuotas sin interés y hasta 36 meses",
-        "pubDate": "2026-10-07T14:13:00+00:00",
         "approxTime": false
       }
     ]
