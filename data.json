@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-07T11:31:14.422708+00:00",
+  "generatedAt": "2026-10-07T12:01:19.677757+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Dirigente empresario rosarino le llevó hoy al Papa un mensaje sobre la difícil situación de la pymes argentinas",
+        "link": "https://www.rosario3.com/informaciongeneral/dirigente-empresario-rosarino-le-llevo-hoy-al-papa-un-mensaje-sobre-la-dificil-situacion-de-la-pymes-argentinas-20261007-0004.html",
+        "image": "https://www.rosario3.com/__export/1782320120909/sites/rosario3/img/2026/06/24/papa_leon.png_786111822.png",
+        "summary": "Ricardo Diab, presidente de la Confederación Argentina de la Mediana Empresa (Came), fue recibido este miércoles por el sumo pontífice. “Necesitamos encender las alarmas para proteger la producción nacional y sostener la paz social”, advirtió.",
+        "pubDate": "2026-10-07T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "A corazón abierto, Lionel Messi recordó a su papá Jorge y habló del futuro de Argentina: \"Para objetivos grandes, grupos fuertes\"",
         "link": "https://www.rosario3.com/deportes/a-corazon-abierto-lionel-messi-recordo-a-su-papa-jorge-y-hablo-del-futuro-de-argentina-para-objetivos-grandes-grupos-fuertes-20261006-0080.html",
         "image": "https://www.rosario3.com/__export/1791341455603/sites/rosario3/img/2026/10/06/despedida_messi_-27-.jpg_506286608.jpg",
         "summary": "Tras el partido despedida ante Benín, el rosarino tomó el micrófono y le habló a las 80 mil personas presentes en el Monumental, pero también al pueblo futbolero argentino. Pensó en su padre, fallecido hace poco en Rosario. Y anticipó que apoyará a la camada de jugadores que…",
-        "pubDate": "2026-10-06T12:00:00+00:00",
+        "pubDate": "2026-10-06T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/emiten-alerta-por-tormentas-fuertes-para-este-miercoles-en-rosario-y-la-region-20261006-0069.html",
         "image": "https://www.rosario3.com/__export/1791321073582/sites/rosario3/img/2026/10/06/lluvia1.jpg_1389718309.jpg",
         "summary": "El Servicio Meteorológico advirtió que en la zona los fenómenos más intensos ocurrirán entre la mañana y la tarde de este 7 de octubre. No se descartan abundantes precipitaciones, ocasional caída de granizo, actividad eléctrica y ráfagas",
-        "pubDate": "2026-10-06T11:59:00+00:00",
+        "pubDate": "2026-10-06T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,16 +35,7 @@
         "link": "https://www.rosario3.com/opinion/el-adios-indigerible-por-que-cuesta-tanto-asimilar-la-despedida-de-messi-de-la-seleccion-20261007-0001.html",
         "image": "https://www.rosario3.com/__export/1791370024362/sites/rosario3/img/2026/10/07/despedida_de_messi_en_el_monumental_espaldas_hinchada.jpg_2138234793.jpg",
         "summary": "Una multitud local y extranjera acompañó al capitán en su último partido con la selección argentina en el Monumental. Una jornada larga, emotiva pero extraña, atravesada por la negación colectiva de un país que todavía no acepta el final de una era. ¿Qué pasará cuando cuelgue…",
-        "pubDate": "2026-10-07T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Messi, de líder intuitivo a hombre sabio",
-        "link": "https://www.rosario3.com/opinion/messi-de-lider-intuitivo-a-hombre-sabio-20261006-0081.html",
-        "image": "https://www.rosario3.com/__export/1791342041925/sites/rosario3/img/2026/10/06/messi_el_sabio.jpg_1776717994.jpg",
-        "summary": "El rosarino jugó su último partido con la selección argentina, pero lo que sorprendió fue su paz y su calma al despedirse ante 80 mil almas tomadas por la emoción. Como si se hubiera vaciado de tanto llorar y transpirar",
-        "pubDate": "2026-10-06T11:57:00+00:00",
+        "pubDate": "2026-10-07T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -52,7 +52,7 @@
         "title": "Investigan la muerte de una mujer en Capitán Bermúdez",
         "link": "https://www.rosario3.com/policiales/investigan-la-muerte-de-una-mujer-en-capitan-bermudez-20261007-0005.html",
         "image": "https://www.rosario3.com/__export/1791372190496/sites/rosario3/img/2026/10/07/pdi.jpg_928314581.jpg",
-        "summary": "Un vecino alertó a la Policía del posible deceso de la mujer de 56 años. El cuerpo etsaba boca a bajo y los familiares declararon que presentaba golpes en el rostro",
+        "summary": "Un vecino alertó a la Policía del posible deceso de la mujer de 58 años. El cuerpo estaba boca abajo y los familiares declararon que presentaba golpes en el rostro",
         "pubDate": "2026-10-07T11:55:00+00:00",
         "approxTime": true
       },
@@ -141,10 +141,46 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Messi lo hizo: Grupo Cali se reunió con Sergio Torres y explicó por qué cortaron el show",
+        "link": "https://www.lacapital.com.ar/zoom/messi-lo-hizo-grupo-cali-se-reunio-sergio-torres-y-explico-que-cortaron-el-show-n10285320.html",
+        "image": "https://media.lacapital.com.ar/p/c587c4e1ddecbe1cbcbf6978f6c9f9e8/adjuntos/203/imagenes/103/451/0103451680/grupo-cali.jpg",
+        "summary": "El cantante y Darío Zanco se reencontraron en el Monumental para darle la sorpresa al capitán de la selección argentina, pero la música duró poco",
+        "pubDate": "2026-10-07T11:52:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La emoción de Scaloni tras despedir a Messi: \"Fue un sueño que pude hacer realidad\"",
+        "link": "https://www.lacapital.com.ar/ovacion/la-emocion-scaloni-despedir-messi-fue-un-sueno-que-pude-hacer-realidad-n10285315.html",
+        "image": "https://media.lacapital.com.ar/p/fdb32bdde962d189682838a8c4d161f1/adjuntos/203/imagenes/103/451/0103451647/1200x675/smart/image-2026-10-07t075340239.png",
+        "summary": "El entrenador se emocionó tras el triunfo ante Benín y destacó el impacto que tendrá la ausencia del capitán en la próxima etapa de la selección argentina",
+        "pubDate": "2026-10-07T11:51:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Mientras Messi se despedía, dos guardias protagonizaron las perlitas de la noche",
+        "link": "https://www.lacapital.com.ar/zoom/mientras-messi-se-despedia-dos-guardias-protagonizaron-las-perlitas-la-noche-n10285326.html",
+        "image": "https://media.lacapital.com.ar/p/58151dea3081c799b04c02b503aafac7/adjuntos/203/imagenes/103/451/0103451716/1200x675/smart/la-sole.jpg",
+        "summary": "La última función del rosarino con la selección estuvo cargada de emoción, pero también dejó momentos divertidos e inesperados",
+        "pubDate": "2026-10-07T11:50:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Messi en la Libertadores: \"Depende del presidente y necesitamos que Newell's clasifique\"",
+        "link": "https://www.lacapital.com.ar/ovacion/messi-la-libertadores-depende-del-presidente-y-necesitamos-que-newells-clasifique-n10285310.html",
+        "image": "https://media.lacapital.com.ar/p/462479216bfff19b82a73f631f90dc70/adjuntos/203/imagenes/103/451/0103451624/1200x675/smart/dominguez-y-messi.jpg",
+        "summary": "El titular de la Conmebol, Alejandro Domínguez, es uno más de los que sueña con ver al \"10\" jugando la Copa y le dejó la pelota a la dirigencia del Parque",
+        "pubDate": "2026-10-07T11:35:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Investigan la muerte de una mujer de 58 años en su casa de Capitán Bermúdez",
         "link": "https://www.lacapital.com.ar/policiales/investigan-la-muerte-una-mujer-58-anos-su-casa-capitan-bermudez-n10285311.html",
         "image": "https://media.lacapital.com.ar/p/098ea16749f5e5e21b29c245b69f312e/adjuntos/203/imagenes/103/451/0103451530/9-julio-500-capitan-bermudez.jpg",
-        "summary": "La familia de la persona fallecida hizo la denuncia este martes a la noche, cuando hallaron su cuerpo sin signos vitales en una habitación",
+        "summary": "La familia de Roxana Villarreal hizo la denuncia este martes a la noche, cuando hallaron su cuerpo sin signos vitales en una habitación",
         "pubDate": "2026-10-07T11:05:00+00:00",
         "approxTime": false
       },
@@ -236,42 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/5e09b82ba0468021cf7f42198d8ebebd/adjuntos/203/imagenes/103/451/0103451459/2026-10-06-messi-82745940.jpg",
         "summary": "Camiseta con diseño exclusivo para la despedida de Lionel Messi y la cinta con los colores de Newell's para su último partido en la selección argentina",
         "pubDate": "2026-10-07T00:23:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central: Gaspar Duarte tuvo una muy mala noticia por la lesión que sufrió frente a Banfield",
-        "link": "https://www.lacapital.com.ar/ovacion/central-gaspar-duarte-tuvo-una-muy-mala-noticia-la-lesion-que-sufrio-frente-banfield-n10285288.html",
-        "image": "https://media.lacapital.com.ar/p/2c999a2473c54dc1d9e808e0ea0f2475/adjuntos/203/imagenes/103/451/0103451012/duarte.jpeg",
-        "summary": "Al atacante canalla le realizaron estudios que determinaron la \"rotura del ligamento cruzado anterior y menisco externo de la rodilla derecha\"",
-        "pubDate": "2026-10-07T00:06:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Asociación Rosarina de Fútbol: los clubes recibieron una inversión histórica de 300 millones",
-        "link": "https://www.lacapital.com.ar/ovacion/asociacion-rosarina-futbol-los-clubes-recibieron-una-inversion-historica-300-millones-n10285286.html",
-        "image": "https://media.lacapital.com.ar/p/e4ab6a5e2f932204ce503bfebfa7c766/adjuntos/203/imagenes/103/450/0103450951/1200x675/smart/image-2026-10-06t200848147.png",
-        "summary": "Los clubes recibieron el programa de fortalecimiento de parte de la casa madre. \"Fortalecer a nuestros clubes es fortalecer a la Liga\", dijo Mario Giammaría",
-        "pubDate": "2026-10-07T00:02:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El riesgo por un posible caso de peste neumónica fuera de Rusia es \"muy bajo\"",
-        "link": "https://www.lacapital.com.ar/informacion-general/el-riesgo-un-posible-caso-peste-neumonica-fuera-rusia-es-muy-bajo-n10285291.html",
-        "image": "https://media.lacapital.com.ar/p/cabbd81961bd112b68bfabdfc606a25b/adjuntos/203/imagenes/103/451/0103451057/2026-10-06-plaga-rusia.jpg",
-        "summary": "Así lo indicó la Organización Mundial de la Salud. Rusia afirmó que la situación epidemiológica es \"estable y permanece bajo vigilancia”",
-        "pubDate": "2026-10-06T23:58:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Según una encuesta, el desempleo es el principal problema del país",
-        "link": "https://www.lacapital.com.ar/economia/segun-una-encuesta-el-desempleo-es-el-principal-problema-del-pais-n10285282.html",
-        "image": "https://media.lacapital.com.ar/p/9aa2586d69c80246d133e2823e546cdd/adjuntos/203/imagenes/027/414/0027414551/1200x675/smart/empleojpg.jpg",
-        "summary": "El último monitoreo nacional realizado por la consultora Management & Fit mostró un crecimiento de la preocupación por el futuro laboral. Desplazó al aumento de precios como principal problemática a atender",
-        "pubDate": "2026-10-06T23:32:00+00:00",
         "approxTime": false
       }
     ]
