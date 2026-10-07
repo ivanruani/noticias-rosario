@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T21:01:23.704795+00:00",
+  "generatedAt": "2026-10-07T21:31:10.158318+00:00",
   "sites": {
     "rosario3": [
       {
@@ -49,19 +49,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "Murió Maricarmen, la mujer de 87 años cuyo desalojo desató las masivas protestas por la vivienda en España",
-        "link": "https://www.rosario3.com/informaciongeneral/murio-maricarmen-la-mujer-de-87-anos-cuyo-desalojo-desato-las-masivas-protestas-por-la-vivienda-en-espana-20261007-0063.html",
-        "image": "https://www.rosario3.com/__export/1791403417486/sites/rosario3/img/2026/10/07/maricarmen_2.jpg_1768679258.jpg",
-        "summary": "Estaba hospitalizada desde su traslado en camilla del departamento donde vivía hace dos semanas; fuerte repercusión en la política y en el acampe en Puerta del Sol. De qué murió",
+        "title": "Las sentidas palabras de Antonela Roccuzzo para Messi tras su despedida: \"Hay noches que explican una vida entera\"",
+        "link": "https://www.rosario3.com/informaciongeneral/las-sentidas-palabras-de-antonela-roccuzzo-para-messi-tras-su-despedida-hay-noches-que-explican-una-vida-entera-20261007-0071.html",
+        "image": "https://www.rosario3.com/__export/1791406217890/sites/rosario3/img/2026/10/07/antonela.jpg_928314581.jpg",
+        "summary": "La esposa del capitán argentino le dedicó unas sentidas palabras luego de la emotiva noche que Lionel Messi vivió en el Monumental. “Qué orgullo haber recorrido este camino a tu lado”, expresó",
         "pubDate": "2026-10-07T11:55:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "La \"ladrona de quesos\": robó una horma de 4 kilos en un comercio del centro e intenta revenderla",
-        "link": "https://www.rosario3.com/policiales/la-ladrona-de-quesos-robo-una-horma-de-4-kilos-en-un-comercio-del-centro-y-e-intenta-revenderla-20261007-0047.html",
-        "image": "https://www.rosario3.com/__export/1791391767874/sites/rosario3/img/2026/10/07/robaquesos.jpg_1042349840.jpg",
-        "summary": "Una mechera quedó filmada cuando sustraía un costoso queso sardo estacionado en un local de 9 de Julio al 600. Comerciantes denuncian que fracciona la mercadería y la ofrece por una menor cantidad de dinero en la zona sur",
+        "title": "Murió Maricarmen, la mujer de 87 años cuyo desalojo desató las masivas protestas por la vivienda en España",
+        "link": "https://www.rosario3.com/informaciongeneral/murio-maricarmen-la-mujer-de-87-anos-cuyo-desalojo-desato-las-masivas-protestas-por-la-vivienda-en-espana-20261007-0063.html",
+        "image": "https://www.rosario3.com/__export/1791403417486/sites/rosario3/img/2026/10/07/maricarmen_2.jpg_1768679258.jpg",
+        "summary": "Estaba hospitalizada desde su traslado en camilla del departamento donde vivía hace dos semanas; fuerte repercusión en la política y en el acampe en Puerta del Sol. De qué murió",
         "pubDate": "2026-10-07T11:54:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Coimas: un subcomisario cobró por 1.487 verificaciones irregulares de autos y motos",
+        "link": "https://www.lacapital.com.ar/policiales/coimas-un-subcomisario-cobro-1487-verificaciones-irregulares-autos-y-motos-n10285474.html",
+        "image": "https://media.lacapital.com.ar/p/2a6df8b8f9ba2072291cff0837c03f82/adjuntos/203/imagenes/103/453/0103453172/1200x675/smart/imageauto2.jpg",
+        "summary": "El exjefe de una planta de verificación automotor de Esperanza está acusado de recibir dinero a cambio de firmar formularios sin inspeccionar los vehículos. La Fiscalía le atribuye 1.079 trámites de autos y 408 de motos y pedirá su prisión preventiva.",
+        "pubDate": "2026-10-07T21:22:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Cómo registrarse en el sistema CUP de Pami",
+        "link": "https://www.lacapital.com.ar/informacion-general/como-registrarse-el-sistema-cup-pami-n10285463.html",
+        "image": "https://media.lacapital.com.ar/p/478a7e954bd2ab3201cbd74a3415fbad/adjuntos/203/imagenes/101/847/0101847412/1200x675/smart/farmaciaspami20200207-913491jpg.jpg",
+        "summary": "Esta plataforma digital de Pami permite a los médicos emitir recetas electrónicas y facilitar a los jubilados la dispensa de medicamentos. Cómo funciona",
+        "pubDate": "2026-10-07T21:07:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Central recupera a Campaz y Pizarro para un partido clave ante Independiente",
         "link": "https://www.lacapital.com.ar/ovacion/central-recupera-campaz-y-pizarro-un-partido-clave-independiente-n10285413.html",
         "image": "https://media.lacapital.com.ar/p/0d69ac2f5c856996c3d0f839367505ab/adjuntos/203/imagenes/103/452/0103452640/1200x675/smart/dos.jpeg",
@@ -216,7 +234,7 @@
         "title": "Un joven fue hallado muerto a balazos en una casa deshabitada de zona oeste",
         "link": "https://www.lacapital.com.ar/policiales/un-joven-fue-hallado-muerto-balazos-una-casa-deshabitada-zona-oeste-n10285442.html",
         "image": "https://media.lacapital.com.ar/p/990a572fb3816bd04e82b3b79da3b00b/adjuntos/203/imagenes/103/452/0103452941/1200x675/smart/image-15.jpg",
-        "summary": "Fue en Brasil y Monte Flores. La víctima, que presentaba múltiples heridas de arma de fuego, todavía no pudo ser identificada",
+        "summary": "Fue en Brasil y Monte Flores. La víctima, de 20 años, presentaba múltiples heridas de arma de fuego",
         "pubDate": "2026-10-07T19:43:00+00:00",
         "approxTime": false
       },
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/75116c2781e23c065fc04a482044febf/adjuntos/203/imagenes/103/452/0103452816/1200x675/smart/malamud.jpg",
         "summary": "Geopolítica, demografía, tecnología y nuevos mercados atravesaron la tercera edición de Faro 2026, organizado por Agroactiva en Rosario. El politólogo Andrés Malamud planteó que, pese a la fragmentación política, la economía global seguirá interconectada",
         "pubDate": "2026-10-07T19:25:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Anmat prohibió dos suplementos vitamínicos y una crema para tratar problemas óseos",
-        "link": "https://www.lacapital.com.ar/informacion-general/anmat-prohibio-dos-suplementos-vitaminicos-y-una-crema-tratar-problemas-oseos-n10285437.html",
-        "image": "https://media.lacapital.com.ar/p/f468254f380667c833ce1569f5a9bce4/adjuntos/203/imagenes/100/058/0100058959/1200x675/smart/suplementos-dietariosjpg.jpg",
-        "summary": "Los productos eran importados de forma irregular por lo que se desconocen su composición real y condiciones de elaboración. Fueron considerados ilegítimos",
-        "pubDate": "2026-10-07T19:17:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Curso de gasista matriculado: oportunidad de formación y trabajo en el departamento San Martín",
-        "link": "https://www.lacapital.com.ar/la-region/curso-gasista-matriculado-oportunidad-formacion-y-trabajo-el-departamento-san-martin-n10285436.html",
-        "image": "https://media.lacapital.com.ar/p/0c75f2f52ef8c1d7a128a8bca489d301/adjuntos/203/imagenes/100/091/0100091864/1200x675/smart/gastarifajpg.jpg",
-        "summary": "Piamonte, Cañada Rosquín y San Jorge serán sedes de una formación presencial y a distancia con certificado oficial que promueve el senador Esteban Motta",
-        "pubDate": "2026-10-07T19:13:00+00:00",
         "approxTime": false
       }
     ]
