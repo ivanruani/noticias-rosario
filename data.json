@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T17:03:27.272496+00:00",
+  "generatedAt": "2026-10-07T17:31:10.075700+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Central: Vicente Pizarro anotó un gol en la victoria de Chile ante México",
+        "link": "https://www.lacapital.com.ar/ovacion/central-vicente-pizarro-anoto-un-gol-la-victoria-chile-mexico-n10285412.html",
+        "image": "https://media.lacapital.com.ar/p/db22c492d596910fb036f8708994feca/adjuntos/203/imagenes/103/452/0103452617/1200x675/smart/pizarro-seleccion-chile.jpg",
+        "summary": "El mediocampista canalla fue clave en el triunfo de la Roja y mostró sus expectativas de cara al futuro con su selección, antes de regresar a Rosario",
+        "pubDate": "2026-10-07T17:23:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "ARCA eliminó el trámite para destruir documentación aduanera: qué cambia para los operadores",
+        "link": "https://www.lacapital.com.ar/comercio-internacional/arca-elimino-el-tramite-destruir-documentacion-aduanera-que-cambia-los-operadores-n10285409.html",
+        "image": "https://media.lacapital.com.ar/p/d8152fb68f0579a2f063e01764a2387c/adjuntos/203/imagenes/103/452/0103452614/1200x675/smart/imagen-portada.jpeg",
+        "summary": "La nueva norma reduce cargas operativas para importadores, exportadores y despachantes, sin alterar los plazos de conservación documental.",
+        "pubDate": "2026-10-07T17:07:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Zaira Nara y Jakob Von Plessen confirmaron su reconciliación tras cuatro años separados",
         "link": "https://www.lacapital.com.ar/zoom/zaira-nara-y-jakob-von-plessen-confirmaron-su-reconciliacion-cuatro-anos-separados-n10285399.html",
         "image": "https://media.lacapital.com.ar/p/a4c9d13328a646ddf3981b9a66e1a646/adjuntos/203/imagenes/103/452/0103452558/1200x675/smart/image-2026-10-07t124146256.png",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/710f5633faede7470be6e7a302688805/adjuntos/203/imagenes/103/451/0103451714/1200x675/smart/image-2.jpg",
         "summary": "Se multiplicaron los chistes en una jornada emocionante por la despedida del \"10\" de la selección. El juego de drones y el llanto de Enzo Fernández, grandes protagonistas",
         "pubDate": "2026-10-07T13:26:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Premio Nobel de Química 2026: dos investigadores reconocidos por un hallazgo sobre las moléculas",
-        "link": "https://www.lacapital.com.ar/informacion-general/premio-nobel-quimica-2026-dos-investigadores-reconocidos-un-hallazgo-las-moleculas-n10285333.html",
-        "image": "https://media.lacapital.com.ar/p/1d03d2568dab418107293af21a20b87d/adjuntos/203/imagenes/103/451/0103451947/1200x675/smart/image-2026-10-07t094446215.png",
-        "summary": "La Academia distinguió al francés Henri Kagan y el japonés Kenso Soai por sus hallazgos sobre la homoquiralidad, un fenómeno para entender cómo se forman las moléculas esenciales",
-        "pubDate": "2026-10-07T13:18:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Alertas, avisos a corto plazo y probabilidad de lluvias: cómo leer correctamente el pronóstico del SMN",
-        "link": "https://www.lacapital.com.ar/informacion-general/alertas-avisos-corto-plazo-y-probabilidad-lluvias-como-leer-correctamente-el-pronostico-del-smn-n10278572.html",
-        "image": "https://media.lacapital.com.ar/p/99e5bed6807ef41d81c5e8efc739738c/adjuntos/203/imagenes/103/375/0103375772/1200x675/smart/app-smn-pronostico.jpeg",
-        "summary": "Es posible seguir los informes meteorológicos del organismo nacional minuto a minuto, tanto en su página como en su aplicación",
-        "pubDate": "2026-10-07T12:44:00+00:00",
         "approxTime": false
       }
     ]
