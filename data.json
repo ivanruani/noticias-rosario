@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-07T00:01:32.912100+00:00",
+  "generatedAt": "2026-10-07T00:31:09.050853+00:00",
   "sites": {
     "rosario3": [
       {
         "source": "Rosario3",
-        "title": "Lionel Messi se despide de la selección argentina: aplausos para el capitán a los 10 minutos y un marcador cerrado en un Monumental",
+        "title": "Lionel Messi se despide de la selección argentina: ovación para el capitán a los 10 minutos y un marcador cerrado en el Monumental",
         "link": "https://www.rosario3.com/deportes/el-fin-de-una-era-lionel-messi-se-despide-de-la-seleccion-argentina-tras-mas-de-20-anos-20261005-0074.html",
-        "image": "https://www.rosario3.com/__export/1791327736349/sites/rosario3/img/2026/10/06/despedida_messi_1.jpg_506286608.jpg",
+        "image": "https://www.rosario3.com/__export/1791331922939/sites/rosario3/img/2026/10/06/00024940-06.jpg_928314580.jpg",
         "summary": "El rosarino, capitán y emblema del seleccionado albiceleste, juega este martes su último partido, en un estadio colmado por más 80 mil personas para homenajear al ídolo. Una noche de fuertes emociones, con fútbol de por medio y shows musicales antes y después del juego",
         "pubDate": "2026-10-05T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Cómo funcionarán los servicios este miércoles 7 de octubre, día no laborable en Rosario",
+        "link": "https://www.rosario3.com/informaciongeneral/dia-de-la-virgen-del-rosario-para-quienes-sera-no-laborable-este-miercoles-20261005-0072.html",
+        "image": "https://www.rosario3.com/__export/1791236377175/sites/rosario3/img/2026/10/05/rosario.jpg_1768679257.jpg",
+        "summary": "Por el Día de la Virgen del Rosario, patrona de la ciudad, habrá asueto en el sector público. Para el sector privado, en cambio, la adhesión es optativa",
+        "pubDate": "2026-10-05T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/el-gobierno-anuncio-la-concesion-de-otros-3.900-kilometros-de-rutas-nacionales-incluyendo-varias-que-atraviesan-santa-fe-20261006-0073.html",
         "image": "https://www.rosario3.com/__export/1791327278844/sites/rosario3/img/2026/10/06/concesionrutas.jpg_982625323.jpg",
         "summary": "El ministro de Economía Luis Caputo anunció la firma de las concesiones para la toma de posesión de ocho tramos de la Etapa III de la Red Federal de Concesiones. Los corredores comprendidos",
-        "pubDate": "2026-10-06T11:59:00+00:00",
+        "pubDate": "2026-10-06T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/emiten-alerta-por-tormentas-fuertes-para-este-miercoles-en-rosario-y-la-region-20261006-0069.html",
         "image": "https://www.rosario3.com/__export/1791321073582/sites/rosario3/img/2026/10/06/lluvia1.jpg_1389718309.jpg",
         "summary": "El Servicio Meteorológico advirtió que en la zona los fenómenos más intensos ocurrirán entre la mañana y la tarde de este 7 de octubre. No se descartan abundantes precipitaciones, ocasional caída de granizo, actividad eléctrica y ráfagas",
-        "pubDate": "2026-10-06T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Restringen paso de camiones en la autopista a Santa Fe por obras: desvíos y saturación en la ruta 34",
-        "link": "https://www.rosario3.com/informaciongeneral/restringen-paso-de-camiones-en-la-autopista-a-santa-fe-por-obras-desvios-y-saturacion-en-la-ruta-34-20261006-0061.html",
-        "image": "https://www.rosario3.com/__export/1791316929525/sites/rosario3/img/2026/10/06/obras_autopista.jpg_1825222467.jpg",
-        "summary": "Las interrupciones para el tránsito pesado se realizan en tres franjas horarias y continuarán hasta este jueves inclusive. Además, los trabajos en la A012 complican la circulación hacia las terminales portuarias. Autoridades provinciales además anticiparon que pronto inician las…",
         "pubDate": "2026-10-06T11:57:00+00:00",
         "approxTime": true
       },
@@ -112,19 +112,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "Demuelen propiedad en terreno usurpado y rescatan tres perros hallados sin agua ni comida",
-        "link": "https://www.rosario3.com/informaciongeneral/demuelen-propiedad-en-terreno-usurpado-y-rescatan-tres-perros-hallados-sin-agua-ni-comida-20261006-0060.html",
-        "image": "https://www.rosario3.com/__export/1791317457800/sites/rosario3/img/2026/10/06/demolicion_perros_-3-.jpg_98452958.jpg",
-        "summary": "Agentes municipales intervinieron en barrio Supercemento, tras denuncia de vecinos. Los animales fueron trasladados y se encuentran en recuperación",
+        "title": "Restringen paso de camiones en la autopista a Santa Fe por obras: desvíos y saturación en la ruta 34",
+        "link": "https://www.rosario3.com/informaciongeneral/restringen-paso-de-camiones-en-la-autopista-a-santa-fe-por-obras-desvios-y-saturacion-en-la-ruta-34-20261006-0061.html",
+        "image": "https://www.rosario3.com/__export/1791316929525/sites/rosario3/img/2026/10/06/obras_autopista.jpg_1825222467.jpg",
+        "summary": "Las interrupciones para el tránsito pesado se realizan en tres franjas horarias y continuarán hasta este jueves inclusive. Además, los trabajos en la A012 complican la circulación hacia las terminales portuarias. Autoridades provinciales además anticiparon que pronto inician las…",
         "pubDate": "2026-10-06T11:48:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "La Corte Suprema vuelve a discutir la ley de Tierras y convoca a dos conjueces",
-        "link": "https://www.rosario3.com/politica/la-corte-suprema-vuelve-a-discutir-la-ley-de-tierras-y-convoca-a-dos-conjueces-20261006-0051.html",
-        "image": "https://www.rosario3.com/__export/1791310779295/sites/rosario3/img/2026/10/06/corte_suprema.jpg_1768679257.jpg",
-        "summary": "El máximo tribunal decidió sumar dos magistrados conjueces para analizar una nueva causa contra el artículo 154 del DNU 70 2023, que derogó la norma que limitaba la propiedad extranjera de campos argentinos",
+        "title": "Demuelen propiedad en terreno usurpado y rescatan tres perros hallados sin agua ni comida",
+        "link": "https://www.rosario3.com/informaciongeneral/demuelen-propiedad-en-terreno-usurpado-y-rescatan-tres-perros-hallados-sin-agua-ni-comida-20261006-0060.html",
+        "image": "https://www.rosario3.com/__export/1791317457800/sites/rosario3/img/2026/10/06/demolicion_perros_-3-.jpg_98452958.jpg",
+        "summary": "Agentes municipales intervinieron en barrio Supercemento, tras denuncia de vecinos. Los animales fueron trasladados y se encuentran en recuperación",
         "pubDate": "2026-10-06T11:47:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,33 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "La cinta de capitán con los colores rojo y negro para Lionel Messi en su despedida",
+        "link": "https://www.lacapital.com.ar/ovacion/la-cinta-capitan-los-colores-rojo-y-negro-lionel-messi-su-despedida-n10285290.html",
+        "image": "https://media.lacapital.com.ar/p/c8a5479633e18b0d6bf1ed8073ec3fc9/adjuntos/203/imagenes/103/451/0103451069/1200x675/smart/image-5.jpg",
+        "summary": "Camiseta con diseño exclusivo para la despedida de Lionel Messi y la cinta con los colores de Newell's para su último partido en la selección argentina",
+        "pubDate": "2026-10-07T00:23:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central: Gaspar Duarte tuvo una muy mala noticia por la lesión que sufrió frente a Banfield",
+        "link": "https://www.lacapital.com.ar/ovacion/central-gaspar-duarte-tuvo-una-muy-mala-noticia-la-lesion-que-sufrio-frente-banfield-n10285288.html",
+        "image": "https://media.lacapital.com.ar/p/2c999a2473c54dc1d9e808e0ea0f2475/adjuntos/203/imagenes/103/451/0103451012/duarte.jpeg",
+        "summary": "Al atacante canalla le realizaron estudios que determinaron la \"rotura del ligamento cruzado anterior y menisco externo de la rodilla derecha\"",
+        "pubDate": "2026-10-07T00:06:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Asociación Rosarina de Fútbol: los clubes recibieron una inversión histórica de 300 millones",
+        "link": "https://www.lacapital.com.ar/ovacion/asociacion-rosarina-futbol-los-clubes-recibieron-una-inversion-historica-300-millones-n10285286.html",
+        "image": "https://media.lacapital.com.ar/p/e4ab6a5e2f932204ce503bfebfa7c766/adjuntos/203/imagenes/103/450/0103450951/1200x675/smart/image-2026-10-06t200848147.png",
+        "summary": "Los clubes recibieron el programa de fortalecimiento de parte de la casa madre. \"Fortalecer a nuestros clubes es fortalecer a la Liga\", dijo Mario Giammaría",
+        "pubDate": "2026-10-07T00:02:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "El riesgo por un posible caso de peste neumónica fuera de Rusia es \"muy bajo\"",
@@ -186,9 +213,9 @@
       },
       {
         "source": "La Capital",
-        "title": "En vivo: Messi conectó con la punta del pie el centro de De Paul y pasó cerca",
-        "link": "https://www.lacapital.com.ar/ovacion/en-vivo-messi-conecto-la-punta-del-pie-el-centro-de-paul-y-paso-cerca-n10285271.html",
-        "image": "https://media.lacapital.com.ar/p/228a226fbbb641f268789b1182d67b09/adjuntos/203/imagenes/103/451/0103451002/1200x675/smart/image-2026-10-06t205524639.png",
+        "title": "En vivo: la selección finalizó sin goles el primer tiempo, a pesar de tener varias ocasiones",
+        "link": "https://www.lacapital.com.ar/ovacion/en-vivo-la-seleccion-finalizo-goles-el-primer-tiempo-pesar-tener-varias-ocasiones-n10285271.html",
+        "image": "https://media.lacapital.com.ar/p/bf54ca9a4fb6d7cd4a6d0928f5723f4e/adjuntos/203/imagenes/103/451/0103451114/1200x675/smart/image-2026-10-06t212136620.png",
         "summary": "Lionel Messi tiene su partido despedida, luego de anunciar el retiro, con muchas personalidades en cancha y un Monumental exultante. En vivo por La Capital",
         "pubDate": "2026-10-06T23:12:00+00:00",
         "approxTime": false
@@ -231,15 +258,6 @@
       },
       {
         "source": "La Capital",
-        "title": "Básquet: el femenino inicia el camino en busca de la consagració",
-        "link": "https://www.lacapital.com.ar/ovacion/basquet-el-femenino-inicia-el-camino-busca-la-consagracio-n10285263.html",
-        "image": "https://media.lacapital.com.ar/p/cb2817c80ee3020d3d3ef1e47bd40d93/adjuntos/203/imagenes/103/450/0103450736/1200x675/smart/bas.JPG",
-        "summary": "En el comienzo de la serie final, Talleres de Villa Gobernador Gálvez y Náutico Sportivo Avellaneda se medirán por la categoría A. Por la B lo harán Alba de Maciel Argentina y Sport Club Cañadense",
-        "pubDate": "2026-10-06T22:04:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "El Parque España será sede de un festival de música en vinilo",
         "link": "https://www.lacapital.com.ar/la-ciudad/el-parque-espana-sera-sede-un-festival-musica-vinilo-n10285254.html",
         "image": "https://media.lacapital.com.ar/p/b932a436435ca0ff663dc4b96f429b4f/adjuntos/203/imagenes/103/450/0103450709/1200x675/smart/image-14.jpg",
@@ -249,29 +267,11 @@
       },
       {
         "source": "La Capital",
-        "title": "El vocero presidencial aseguró que Bullrich respalda la reelección de Milei",
-        "link": "https://www.lacapital.com.ar/politica/el-vocero-presidencial-aseguro-que-bullrich-respalda-la-reeleccion-milei-n10285261.html",
-        "image": "https://media.lacapital.com.ar/p/2ed2f51da23b20755d456001dbd19b49/adjuntos/203/imagenes/103/450/0103450710/1200x675/smart/image.png",
-        "summary": "Ravier procuró despejar las dudas sobre recientes declaraciones de la jefa de los senadores nacionales del oficialismo",
-        "pubDate": "2026-10-06T22:03:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La emotiva carta del Ogro Fabbiani a Messi y un deseo especial: \"Ojalá se dé tu último baile en Newell's\"",
-        "link": "https://www.lacapital.com.ar/ovacion/la-emotiva-carta-del-ogro-fabbiani-messi-y-un-deseo-especial-ojala-se-tu-ultimo-baile-newells-n10285262.html",
-        "image": "https://media.lacapital.com.ar/p/0fa5c363defb4073fd6d87edc19f79dc/adjuntos/203/imagenes/103/450/0103450712/1200x675/smart/imageogro.jpg",
-        "summary": "Cristian Fabbiani le dedicó un mensaje al capitán argentino en el día de su despedida de la selección. Lo recordó como una figura que “trascendió una Copa” y cerró con un pedido que toca de cerca al mundo leproso.",
-        "pubDate": "2026-10-06T21:47:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La autopista Rosario-Córdoba pasa a manos privadas y sumará nuevos peajes",
-        "link": "https://www.lacapital.com.ar/la-ciudad/la-autopista-rosario-cordoba-pasa-manos-privadas-y-sumara-nuevos-peajes-n10285251.html",
-        "image": "https://media.lacapital.com.ar/p/f87c5eeebdae3cfc8bce18f3274b28a7/adjuntos/203/imagenes/100/168/0100168460/1200x675/smart/autopista-rosario-cordobajpg.jpg",
-        "summary": "Vialidad Nacional firmó los contratos de concesión de la Etapa III de la Red Federal. El tramo Centro quedará desde este miércoles bajo gestión de Covicen SA e incorporará una nueva cabina en Leones, además de otras sobre las rutas 19 y 34.",
-        "pubDate": "2026-10-06T21:22:00+00:00",
+        "title": "Básquet: el femenino inicia el camino en busca de la consagració",
+        "link": "https://www.lacapital.com.ar/ovacion/basquet-el-femenino-inicia-el-camino-busca-la-consagracio-n10285263.html",
+        "image": "https://media.lacapital.com.ar/p/cb2817c80ee3020d3d3ef1e47bd40d93/adjuntos/203/imagenes/103/450/0103450736/1200x675/smart/bas.JPG",
+        "summary": "En el comienzo de la serie final, Talleres de Villa Gobernador Gálvez y Náutico Sportivo Avellaneda se medirán por la categoría A. Por la B lo harán Alba de Maciel Argentina y Sport Club Cañadense",
+        "pubDate": "2026-10-06T22:04:00+00:00",
         "approxTime": false
       }
     ]
