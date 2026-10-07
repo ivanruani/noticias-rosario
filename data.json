@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T02:31:07.425324+00:00",
+  "generatedAt": "2026-10-07T03:01:20.397471+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,11 +13,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "A corazón abierto, Lionel Messi recordó a su papá Jorge y habló del futuro de Argentina: \"Para objetivos grandes, grupos fuertes\"",
+        "link": "https://www.rosario3.com/deportes/a-corazon-abierto-lionel-messi-recordo-a-su-papa-jorge-y-hablo-del-futuro-de-argentina-para-objetivos-grandes-grupos-fuertes-20261006-0080.html",
+        "image": "https://www.rosario3.com/__export/1791341455603/sites/rosario3/img/2026/10/06/despedida_messi_-27-.jpg_506286608.jpg",
+        "summary": "Tras el partido despedida ante Benín, el rosarino tomó el micrófono y le habló a las 80 mil personas presentes en el Monumental, pero también al pueblo futbolero argentino. Pensó en su padre, fallecido hace poco en Rosario. Y anticipó que apoyará a la camada de jugadores que…",
+        "pubDate": "2026-10-06T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Cómo funcionarán los servicios este miércoles 7 de octubre, día no laborable en Rosario",
         "link": "https://www.rosario3.com/informaciongeneral/dia-de-la-virgen-del-rosario-para-quienes-sera-no-laborable-este-miercoles-20261005-0072.html",
         "image": "https://www.rosario3.com/__export/1791236377175/sites/rosario3/img/2026/10/05/rosario.jpg_1768679257.jpg",
         "summary": "Por el Día de la Virgen del Rosario, patrona de la ciudad, habrá asueto en el sector público. Para el sector privado, en cambio, la adhesión es optativa",
-        "pubDate": "2026-10-05T11:59:00+00:00",
+        "pubDate": "2026-10-05T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/el-gobierno-anuncio-la-concesion-de-otros-3.900-kilometros-de-rutas-nacionales-incluyendo-varias-que-atraviesan-santa-fe-20261006-0073.html",
         "image": "https://www.rosario3.com/__export/1791327278844/sites/rosario3/img/2026/10/06/concesionrutas.jpg_982625323.jpg",
         "summary": "El ministro de Economía Luis Caputo anunció la firma de las concesiones para la toma de posesión de ocho tramos de la Etapa III de la Red Federal de Concesiones. Los corredores comprendidos",
-        "pubDate": "2026-10-06T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Emiten alerta por tormentas fuertes para este miércoles en Rosario y la región",
-        "link": "https://www.rosario3.com/informaciongeneral/emiten-alerta-por-tormentas-fuertes-para-este-miercoles-en-rosario-y-la-region-20261006-0069.html",
-        "image": "https://www.rosario3.com/__export/1791321073582/sites/rosario3/img/2026/10/06/lluvia1.jpg_1389718309.jpg",
-        "summary": "El Servicio Meteorológico advirtió que en la zona los fenómenos más intensos ocurrirán entre la mañana y la tarde de este 7 de octubre. No se descartan abundantes precipitaciones, ocasional caída de granizo, actividad eléctrica y ráfagas",
         "pubDate": "2026-10-06T11:57:00+00:00",
         "approxTime": true
       },
@@ -49,20 +49,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Así fue el último gol de Messi en la selección argentina: antes festejaron Nico Paz y Otamendi, otro que se va",
-        "link": "https://www.rosario3.com/deportes/llego-el-gol-de-messi-en-su-despedida-antes-festejaron-nico-paz-y-otamendi-quien-tambien-se-va-20261006-0078.html",
-        "image": "https://www.rosario3.com/__export/1791336016811/sites/rosario3/img/2026/10/06/despedida_messi_-13-.jpg_506286608.jpg",
-        "summary": "Leo convirtió el 3-0 de penal en el amistoso ante Benín. La cuenta se abrió con un grito de Otamendi, quien luego fue reemplazado. Además, el volante creativo del Como se despachó con un golazo de zurda “a lo Messi”",
-        "pubDate": "2026-10-06T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
         "title": "No habrá otro igual: los impresionantes números de Lionel Messi con la selección argentina",
         "link": "https://www.rosario3.com/deportes/no-habra-otro-igual-los-impresionantes-numeros-de-lionel-messi-con-la-seleccion-argentina-20261006-0024.html",
         "image": "https://www.rosario3.com/__export/1791338046247/sites/rosario3/img/2026/10/06/despedida_messi_-20-.jpg_506286608.jpg",
         "summary": "Desde su debut hace más de 21 años a este final, Lionel Messi rompió todos los récords y llenó de gloria la camiseta albiceleste. Un repaso por sus logros",
-        "pubDate": "2026-10-06T11:54:00+00:00",
+        "pubDate": "2026-10-06T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -71,15 +62,24 @@
         "link": "https://www.rosario3.com/opinion/lo-que-duele-tu-adios-20261006-0068.html",
         "image": "https://www.rosario3.com/__export/1785941703979/sites/rosario3/img/2026/07/28/messi-2-jpg-674994428_-1-.jpg_1221028662.jpg",
         "summary": "Se va Lionel Messi de la selección argentina y hay una tristeza que no vimos venir y que nos atraviesa a todos",
+        "pubDate": "2026-10-06T11:54:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Emiten alerta por tormentas fuertes para este miércoles en Rosario y la región",
+        "link": "https://www.rosario3.com/informaciongeneral/emiten-alerta-por-tormentas-fuertes-para-este-miercoles-en-rosario-y-la-region-20261006-0069.html",
+        "image": "https://www.rosario3.com/__export/1791321073582/sites/rosario3/img/2026/10/06/lluvia1.jpg_1389718309.jpg",
+        "summary": "El Servicio Meteorológico advirtió que en la zona los fenómenos más intensos ocurrirán entre la mañana y la tarde de este 7 de octubre. No se descartan abundantes precipitaciones, ocasional caída de granizo, actividad eléctrica y ráfagas",
         "pubDate": "2026-10-06T11:53:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Seguimiento individual argentino: Leo Messi fue la gran figura en su despedida",
-        "link": "https://www.rosario3.com/deportes/seguimiento-individual-argentino-leo-quien-sino-fue-la-gran-figura-en-su-despedida-20261006-0017.html",
-        "image": "https://www.rosario3.com/__export/1791337861016/sites/rosario3/img/2026/10/06/despedida_messi_-14-.jpg_506286608.jpg",
-        "summary": "En su última función, el 10 hizo un gol y entregó dos asistencias; buen partido también de Giay, Otamendi, Enzo y el chico Paz",
+        "title": "Restringen paso de camiones en la autopista a Santa Fe por obras: desvíos y saturación en la ruta 34",
+        "link": "https://www.rosario3.com/informaciongeneral/restringen-paso-de-camiones-en-la-autopista-a-santa-fe-por-obras-desvios-y-saturacion-en-la-ruta-34-20261006-0061.html",
+        "image": "https://www.rosario3.com/__export/1791316929525/sites/rosario3/img/2026/10/06/obras_autopista.jpg_1825222467.jpg",
+        "summary": "Las interrupciones para el tránsito pesado se realizan en tres franjas horarias y continuarán hasta este jueves inclusive. Además, los trabajos en la A012 complican la circulación hacia las terminales portuarias. Autoridades provinciales además anticiparon que pronto inician las…",
         "pubDate": "2026-10-06T11:52:00+00:00",
         "approxTime": true
       },
@@ -87,17 +87,17 @@
         "source": "Rosario3",
         "title": "La despedida de Lionel Messi, en fotos: postales de una noche inolvidable",
         "link": "https://www.rosario3.com/deportes/las-mejores-fotos-del-ultimo-partido-de-lionel-messi-en-la-seleccion-argentina-20261006-0074.html",
-        "image": "https://www.rosario3.com/__export/1791337047535/sites/rosario3/img/2026/10/06/despedida_messi_-23-.jpg_506286608.jpg",
+        "image": "https://www.rosario3.com/__export/1791341340938/sites/rosario3/img/2026/10/06/despedida_messi_-28-.jpg_506286608.jpg",
         "summary": "El rosarino se retiró oficialmente del seleccionado albiceleste tras el amistoso ante Benín, disputado este martes en el estadio Monumental, colmado por más de 80 mil personas que fueron a agradecer y homenajear a Leo. Las postales de una noche para la historia y de fuertes…",
         "pubDate": "2026-10-06T11:51:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "El adiós de otro histórico y todo lo que dejó el triunfo de Argentina ante Benín",
-        "link": "https://www.rosario3.com/deportes/el-adios-de-otro-historico-y-todo-lo-que-dejo-el-triunfo-de-argentina-ante-benin-20261006-0019.html",
-        "image": "https://www.rosario3.com/__export/1791338151296/sites/rosario3/img/2026/10/06/00024941-03.jpg_928314580.jpg",
-        "summary": "Nicolás Otamendi también cerró su gloriosa etapa en la selección y lo hizo con el gol que abrió el partido; el defensor jugó 4 mundiales y dejó una huella imborrable",
+        "title": "El curioso regalo de los jugadores de Benín a Messi antes de su último partido en la selección argentina",
+        "link": "https://www.rosario3.com/deportes/el-curioso-regalo-de-los-jugadores-de-benin-a-messi-antes-de-su-ultimo-partido-en-la-seleccion-argentina-20261006-0077.html",
+        "image": "https://www.rosario3.com/__export/1791334630950/sites/rosario3/img/2026/10/06/regalos_messi.jpg_506286608.jpg",
+        "summary": "El capitán del conjunto africano, Sessi D’Almeida, le entregó dos obsequios representativos de la cultura y la historia de su país",
         "pubDate": "2026-10-06T11:50:00+00:00",
         "approxTime": true
       },
@@ -112,11 +112,20 @@
       },
       {
         "source": "Rosario3",
-        "title": "El curioso regalo de los jugadores de Benín a Messi antes de su último partido en la selección argentina",
-        "link": "https://www.rosario3.com/deportes/el-curioso-regalo-de-los-jugadores-de-benin-a-messi-antes-de-su-ultimo-partido-en-la-seleccion-argentina-20261006-0077.html",
-        "image": "https://www.rosario3.com/__export/1791334630950/sites/rosario3/img/2026/10/06/regalos_messi.jpg_506286608.jpg",
-        "summary": "El capitán del conjunto africano, Sessi D’Almeida, le entregó dos obsequios representativos de la cultura y la historia de su país",
+        "title": "Seguimiento individual argentino: Leo Messi fue la gran figura en su despedida",
+        "link": "https://www.rosario3.com/deportes/seguimiento-individual-argentino-leo-quien-sino-fue-la-gran-figura-en-su-despedida-20261006-0017.html",
+        "image": "https://www.rosario3.com/__export/1791337861016/sites/rosario3/img/2026/10/06/despedida_messi_-14-.jpg_506286608.jpg",
+        "summary": "En su última función, el 10 hizo un gol y entregó dos asistencias; buen partido también de Giay, Otamendi, Enzo y el chico Paz",
         "pubDate": "2026-10-06T11:48:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Gran convocatoria en Rosario para ver la despedida de Messi en pantalla gigante",
+        "link": "https://www.rosario3.com/informaciongeneral/rosario-prepara-una-pantalla-gigante-y-actividades-gratuitas-para-la-despedida-de-messi-de-la-seleccion-20261004-0020.html",
+        "image": "https://www.rosario3.com/__export/1791331171095/sites/rosario3/img/2026/10/06/messi_1.jpg_1825222445.jpg",
+        "summary": "Cientos de personas se reunieron en el Parque Héroes de Malvinas, a pocos metros del barrio natal del capitán argentino, para seguir el partido ante Benín",
+        "pubDate": "2026-10-04T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,15 +134,6 @@
         "link": "https://www.rosario3.com/ocio/mirtha-legrand-recibio-el-alta-del-sanatorio-mater-dei-tras-casi-tres-semanas-internada-20261006-0072.html",
         "image": "https://www.rosario3.com/__export/1790968725757/sites/rosario3/img/2026/10/02/mirtha_legrand_parte_medico.png_786111822.png",
         "summary": "Este martes, la conductora de 99 años abandonó la clínica luego de superar un cuadro de infección respiratoria",
-        "pubDate": "2026-10-06T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Restringen paso de camiones en la autopista a Santa Fe por obras: desvíos y saturación en la ruta 34",
-        "link": "https://www.rosario3.com/informaciongeneral/restringen-paso-de-camiones-en-la-autopista-a-santa-fe-por-obras-desvios-y-saturacion-en-la-ruta-34-20261006-0061.html",
-        "image": "https://www.rosario3.com/__export/1791316929525/sites/rosario3/img/2026/10/06/obras_autopista.jpg_1825222467.jpg",
-        "summary": "Las interrupciones para el tránsito pesado se realizan en tres franjas horarias y continuarán hasta este jueves inclusive. Además, los trabajos en la A012 complican la circulación hacia las terminales portuarias. Autoridades provinciales además anticiparon que pronto inician las…",
         "pubDate": "2026-10-06T11:46:00+00:00",
         "approxTime": true
       }
@@ -197,7 +197,7 @@
         "source": "La Capital",
         "title": "La cinta de capitán con los colores rojo y negro para Lionel Messi en su despedida",
         "link": "https://www.lacapital.com.ar/ovacion/la-cinta-capitan-los-colores-rojo-y-negro-lionel-messi-su-despedida-n10285290.html",
-        "image": "https://media.lacapital.com.ar/p/6b45d82641eb86e2d7ef649072b5666b/adjuntos/203/imagenes/103/451/0103451326/2026-10-06-messi-82745937.jpg",
+        "image": "https://media.lacapital.com.ar/p/5e09b82ba0468021cf7f42198d8ebebd/adjuntos/203/imagenes/103/451/0103451459/2026-10-06-messi-82745940.jpg",
         "summary": "Camiseta con diseño exclusivo para la despedida de Lionel Messi y la cinta con los colores de Newell's para su último partido en la selección argentina",
         "pubDate": "2026-10-07T00:23:00+00:00",
         "approxTime": false
