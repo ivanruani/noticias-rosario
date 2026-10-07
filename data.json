@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T23:01:23.836327+00:00",
+  "generatedAt": "2026-10-07T23:31:03.635594+00:00",
   "sites": {
     "rosario3": [
       {
@@ -67,10 +67,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "La arena que demanda Vaca Muerta reactiva un puerto de Villa Constitución que lleva 70 años parado",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-arena-que-demanda-vaca-muerta-reactiva-un-puerto-de-villa-constitucion-que-lleva-70-anos-parado-20261007-0038.html",
-        "image": "https://www.rosario3.com/__export/1791387133147/sites/rosario3/img/2026/10/07/unnamed.jpg_982625323.jpg",
-        "summary": "El gobierno provincial adjudicó la explotación del predio de la terminal I del puerto de Villa Constitución a una UTE integrada por Southern Silica y Esesa",
+        "title": "Murió Maricarmen, la mujer de 87 años cuyo desalojo desató las masivas protestas por la vivienda en España",
+        "link": "https://www.rosario3.com/informaciongeneral/murio-maricarmen-la-mujer-de-87-anos-cuyo-desalojo-desato-las-masivas-protestas-por-la-vivienda-en-espana-20261007-0063.html",
+        "image": "https://www.rosario3.com/__export/1791403417486/sites/rosario3/img/2026/10/07/maricarmen_2.jpg_1768679258.jpg",
+        "summary": "Estaba hospitalizada desde su traslado en camilla del departamento donde vivía hace dos semanas; fuerte repercusión en la política y en el acampe en Puerta del Sol. De qué murió",
         "pubDate": "2026-10-07T11:53:00+00:00",
         "approxTime": true
       },
@@ -85,10 +85,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Murió Maricarmen, la mujer de 87 años cuyo desalojo desató las masivas protestas por la vivienda en España",
-        "link": "https://www.rosario3.com/informaciongeneral/murio-maricarmen-la-mujer-de-87-anos-cuyo-desalojo-desato-las-masivas-protestas-por-la-vivienda-en-espana-20261007-0063.html",
-        "image": "https://www.rosario3.com/__export/1791403417486/sites/rosario3/img/2026/10/07/maricarmen_2.jpg_1768679258.jpg",
-        "summary": "Estaba hospitalizada desde su traslado en camilla del departamento donde vivía hace dos semanas; fuerte repercusión en la política y en el acampe en Puerta del Sol. De qué murió",
+        "title": "La arena que demanda Vaca Muerta reactiva un puerto de Villa Constitución que lleva 70 años parado",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-arena-que-demanda-vaca-muerta-reactiva-un-puerto-de-villa-constitucion-que-lleva-70-anos-parado-20261007-0038.html",
+        "image": "https://www.rosario3.com/__export/1791387133147/sites/rosario3/img/2026/10/07/unnamed.jpg_982625323.jpg",
+        "summary": "El gobierno provincial adjudicó la explotación del predio de la terminal I del puerto de Villa Constitución a una UTE integrada por Southern Silica y Esesa",
         "pubDate": "2026-10-07T11:51:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "El emotivo mensaje de Antonela a Messi, un día después de su despedida de la selección: \"Siempre con vos\"",
+        "link": "https://www.lacapital.com.ar/ovacion/el-emotivo-mensaje-antonela-messi-un-dia-despues-su-despedida-la-seleccion-siempre-vos-n10285500.html",
+        "image": "https://media.lacapital.com.ar/p/bf57bce70e86da22f3355d8b88903b1c/adjuntos/203/imagenes/103/453/0103453497/1200x675/smart/imageanto.jpg",
+        "summary": "La rosarina publicó un emotivo posteo el día después del último partido de Lionel Messi con la selección. Destacó el cariño de los hinchas, recordó el camino recorrido juntos y celebró la forma en que el capitán cerró una etapa histórica.",
+        "pubDate": "2026-10-07T23:02:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "La mujer que sobrevivió a la ejecución en Tennessee despertó: \"Está enojada y confundida\"",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/91b7e39be8a096bfb5e5daa43ab05197/adjuntos/203/imagenes/103/452/0103452763/1200x675/smart/peajes-1.jpg",
         "summary": "Unos 600 empleados de Corredores Viales se quedan sin su fuente de trabajo a raíz de las concesiones que el gobierno nacional otorgó desde este miércoles en ocho corredores de rutas nacionales",
         "pubDate": "2026-10-07T19:48:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Un joven fue hallado muerto a balazos en una casa deshabitada de zona oeste",
-        "link": "https://www.lacapital.com.ar/policiales/un-joven-fue-hallado-muerto-balazos-una-casa-deshabitada-zona-oeste-n10285442.html",
-        "image": "https://media.lacapital.com.ar/p/990a572fb3816bd04e82b3b79da3b00b/adjuntos/203/imagenes/103/452/0103452941/1200x675/smart/image-15.jpg",
-        "summary": "Fue en Brasil y Monte Flores. La víctima, de 20 años, presentaba múltiples heridas de arma de fuego",
-        "pubDate": "2026-10-07T19:43:00+00:00",
         "approxTime": false
       }
     ]
