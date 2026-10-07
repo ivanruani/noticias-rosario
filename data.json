@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-10-07T22:31:05.445848+00:00",
+  "generatedAt": "2026-10-07T23:01:23.836327+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Choferes de larga distancia alertaron por rutas deterioradas y micros con \"desgaste severo\"",
+        "link": "https://www.rosario3.com/informaciongeneral/choferes-de-larga-distancia-alertaron-por-rutas-deterioradas-y-micros-con-desgaste-severo-20261007-0072.html",
+        "image": "https://www.rosario3.com/__export/1791407265759/sites/rosario3/img/2026/10/07/colectivos.jpg_1825222445.jpg",
+        "summary": "El gremio reclamó la intervención del Gobierno nacional ante la falta de mantenimiento vial, el envejecimiento de la flota y las fallas mecánicas que afectan la seguridad de trabajadores y pasajeros",
+        "pubDate": "2026-10-07T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Temporal en Rosario: casi un centenar de incidencias y alerta naranja vigente",
         "link": "https://www.rosario3.com/informaciongeneral/llueve-en-rosario-y-el-agua-que-no-drena-70-reclamos-de-anegamientos-y-alerta-naranja-vigente-20261007-0036.html",
         "image": "https://www.rosario3.com/__export/1791400049129/sites/rosario3/img/2026/10/07/tormenta.jpg_1768679257.jpg",
         "summary": "Hasta el mediodía habían caído más de 40 milímetros y a la tarde se desató otra tormenta con lluvia intensa. El municipio mantiene el monitoreo operativo mientras continúan las advertencias meteorológicas",
-        "pubDate": "2026-10-07T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La arena que demanda Vaca Muerta reactiva un puerto de Villa Constitución que lleva 70 años parado",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-arena-que-demanda-vaca-muerta-reactiva-un-puerto-de-villa-constitucion-que-lleva-70-anos-parado-20261007-0038.html",
-        "image": "https://www.rosario3.com/__export/1791387133147/sites/rosario3/img/2026/10/07/unnamed.jpg_982625323.jpg",
-        "summary": "El gobierno provincial adjudicó la explotación del predio de la terminal I del puerto de Villa Constitución a una UTE integrada por Southern Silica y Esesa",
         "pubDate": "2026-10-07T11:59:00+00:00",
         "approxTime": true
       },
@@ -31,10 +31,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Murió Piero a los 81 años: adiós a un símbolo de la canción social y popular",
-        "link": "https://www.rosario3.com/ocio/murio-piero-a-los-81-anos-adios-a-un-simbolo-de-la-cancion-social-y-popular-20261007-0064.html",
-        "image": "https://www.rosario3.com/__export/1791402960131/sites/rosario3/img/2026/10/07/piero1.jpg_1848693908.jpg",
-        "summary": "El célebre cantautor falleció este miércoles en Buenos Aires. Su pluma y su compromiso político y social marcaron a fuego a varias generaciones con himnos inolvidables",
+        "title": "Detuvieron a un hombre por la muerte de una mujer en Capitán Bermúdez",
+        "link": "https://www.rosario3.com/policiales/detuvieron-a-un-hombre-por-la-muerte-de-una-mujer-en-capitan-bermudez-20261007-0078.html",
+        "image": "https://www.rosario3.com/__export/1791412821899/sites/rosario3/img/2026/10/07/policia.jpg_1825222445.jpg",
+        "summary": "El sospechoso tiene 40 años y será llevado a audiencia imputativa en las próximas horas",
         "pubDate": "2026-10-07T11:57:00+00:00",
         "approxTime": true
       },
@@ -67,19 +67,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "Rosario prepara la segunda edición del Festival Fontanarrosa con Guillermo Francella como invitado especial",
-        "link": "https://www.rosario3.com/ocio/rosario-prepara-la-segunda-edicion-del-festival-fontanarrosa-con-guillermo-francella-como-invitado-especial-20261007-0061.html",
-        "image": "https://www.rosario3.com/__export/1791402650931/sites/rosario3/img/2026/10/07/fontanarrosa.png_786111822.png",
-        "summary": "El encuentro se realizará del 25 al 29 de noviembre con una agenda que combinará humor, literatura, teatro y fútbol. Francella participará de la apertura junto a Luis Rubio, mientras que Pachu Peña, Dalia Gutman, Lo Lumvrise y otros artistas serán parte de la programación",
+        "title": "La arena que demanda Vaca Muerta reactiva un puerto de Villa Constitución que lleva 70 años parado",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-arena-que-demanda-vaca-muerta-reactiva-un-puerto-de-villa-constitucion-que-lleva-70-anos-parado-20261007-0038.html",
+        "image": "https://www.rosario3.com/__export/1791387133147/sites/rosario3/img/2026/10/07/unnamed.jpg_982625323.jpg",
+        "summary": "El gobierno provincial adjudicó la explotación del predio de la terminal I del puerto de Villa Constitución a una UTE integrada por Southern Silica y Esesa",
         "pubDate": "2026-10-07T11:53:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Marcela Ternavasio abre la Feria del Libro con foco en la batalla cultural: \"La metáfora bélica aniquila el pluralismo\"",
-        "link": "https://www.rosario3.com/informaciongeneral/marcela-ternavasio-abre-la-feria-del-libro-con-foco-en-la-batalla-cultural-la-metafora-belica-aniquila-el-pluralismo-20261007-0012.html",
-        "image": "https://www.rosario3.com/__export/1791387528792/sites/rosario3/img/2026/10/07/marcela_ternavasio.jpg_982625323.jpg",
-        "summary": "La reconocida historiadora rosarina pronunciará el discurso inaugural del encuentro. Defensa de la democracia y de la palabra frente a la 'brutalización' del debate político",
+        "title": "Murió Piero a los 81 años: adiós a un símbolo de la canción social y popular",
+        "link": "https://www.rosario3.com/ocio/murio-piero-a-los-81-anos-adios-a-un-simbolo-de-la-cancion-social-y-popular-20261007-0064.html",
+        "image": "https://www.rosario3.com/__export/1791402960131/sites/rosario3/img/2026/10/07/piero1.jpg_1848693908.jpg",
+        "summary": "El célebre cantautor falleció este miércoles en Buenos Aires. Su pluma y su compromiso político y social marcaron a fuego a varias generaciones con himnos inolvidables",
         "pubDate": "2026-10-07T11:52:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "La mujer que sobrevivió a la ejecución en Tennessee despertó: \"Está enojada y confundida\"",
+        "link": "https://www.lacapital.com.ar/informacion-general/la-mujer-que-sobrevivio-la-ejecucion-tennessee-desperto-esta-enojada-y-confundida-n10285491.html",
+        "image": "https://media.lacapital.com.ar/p/058dc9fa03dd4ec85bb99325799eea58/adjuntos/203/imagenes/103/453/0103453348/2026-10-07-christa-pike.jpg",
+        "summary": "Aseguran que podrían pasar meses antes de saber si podrá restablecer su capacidad mental para que el Estado pueda intentar ejecutarla de nuevo",
+        "pubDate": "2026-10-07T22:46:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Murió Maricarmen, la mujer que disparó la lucha contra los desalojos en España",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/990a572fb3816bd04e82b3b79da3b00b/adjuntos/203/imagenes/103/452/0103452941/1200x675/smart/image-15.jpg",
         "summary": "Fue en Brasil y Monte Flores. La víctima, de 20 años, presentaba múltiples heridas de arma de fuego",
         "pubDate": "2026-10-07T19:43:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La historia del \"poncho bandera\" que Soledad lució ante Messi y por qué terminó en manos de un jugador",
-        "link": "https://www.lacapital.com.ar/informacion-general/la-historia-del-poncho-bandera-que-soledad-lucio-messi-y-que-termino-manos-un-jugador-n10285438.html",
-        "image": "https://media.lacapital.com.ar/p/2db582b3ffd4cf83534a77bfaaae9fcf/adjuntos/203/imagenes/103/452/0103452848/1200x675/smart/imageponcho.jpg",
-        "summary": "La prenda fue confeccionada por artesanos de Catamarca y Soledad la había recibido meses atrás como regalo. Tras cantar “Brindis” en el Monumental, protagonizó un inesperado trueque con Agustín Giay",
-        "pubDate": "2026-10-07T19:39:00+00:00",
         "approxTime": false
       }
     ]
