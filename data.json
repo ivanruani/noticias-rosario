@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-10-07T20:31:05.444480+00:00",
+  "generatedAt": "2026-10-07T21:01:23.704795+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Temporal en Rosario: casi un centenar de incidencias y alerta naranja vigente",
+        "link": "https://www.rosario3.com/informaciongeneral/llueve-en-rosario-y-el-agua-que-no-drena-70-reclamos-de-anegamientos-y-alerta-naranja-vigente-20261007-0036.html",
+        "image": "https://www.rosario3.com/__export/1791400049129/sites/rosario3/img/2026/10/07/tormenta.jpg_1768679257.jpg",
+        "summary": "Hasta el mediodía habían caído más de 40 milímetros y a la tarde se desató otra tormenta con lluvia intensa. El municipio mantiene el monitoreo operativo mientras continúan las advertencias meteorológicas",
+        "pubDate": "2026-10-07T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "La arena que demanda Vaca Muerta reactiva un puerto de Villa Constitución que lleva 70 años parado",
         "link": "https://www.rosario3.com/-economia-negocios-agro-/la-arena-que-demanda-vaca-muerta-reactiva-un-puerto-de-villa-constitucion-que-lleva-70-anos-parado-20261007-0038.html",
         "image": "https://www.rosario3.com/__export/1791387133147/sites/rosario3/img/2026/10/07/unnamed.jpg_982625323.jpg",
         "summary": "El gobierno provincial adjudicó la explotación del predio de la terminal I del puerto de Villa Constitución a una UTE integrada por Southern Silica y Esesa",
-        "pubDate": "2026-10-07T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Un diluvio en Rosario: 70 reclamos de anegamientos y alerta naranja vigente",
-        "link": "https://www.rosario3.com/informaciongeneral/llueve-en-rosario-y-el-agua-que-no-drena-70-reclamos-de-anegamientos-y-alerta-naranja-vigente-20261007-0036.html",
-        "image": "https://www.rosario3.com/__export/1791387581303/sites/rosario3/img/2026/10/07/tormenton1_1.jpg_928314581.jpg",
-        "summary": "El titular de Protección Civil precisó que hasta este mediodía cayeron 42 milímetros de agua y que tanta cantidad en tan poco tiempo desbordó en algunos puntos de la ciudad la capacidad de absorción y drenaje de las bocas de tormenta. Pese al agua acumulada, el saldo inicial…",
         "pubDate": "2026-10-07T11:59:00+00:00",
         "approxTime": true
       },
@@ -49,10 +49,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Endeudamiento: afirman que un 30% de quienes refinanciaron pagos volvieron a incumplir",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/endeudamiento-afirman-que-un-30-de-quienes-refinanciaron-pagos-volvieron-a-incumplir-20261007-0044.html",
-        "image": "https://www.rosario3.com/__export/1788816660891/sites/rosario3/img/2026/09/07/720_-_2026-09-07t182433_507.jpg_1221029438.jpg",
-        "summary": "La morosidad de los hogares sigue en niveles altos y sumó una nueva señal de alerta: cerca de un tercio de los clientes que habían logrado refinanciar sus deudas volvió a incumplir las cuotas",
+        "title": "Murió Maricarmen, la mujer de 87 años cuyo desalojo desató las masivas protestas por la vivienda en España",
+        "link": "https://www.rosario3.com/informaciongeneral/murio-maricarmen-la-mujer-de-87-anos-cuyo-desalojo-desato-las-masivas-protestas-por-la-vivienda-en-espana-20261007-0063.html",
+        "image": "https://www.rosario3.com/__export/1791403417486/sites/rosario3/img/2026/10/07/maricarmen_2.jpg_1768679258.jpg",
+        "summary": "Estaba hospitalizada desde su traslado en camilla del departamento donde vivía hace dos semanas; fuerte repercusión en la política y en el acampe en Puerta del Sol. De qué murió",
         "pubDate": "2026-10-07T11:55:00+00:00",
         "approxTime": true
       },
@@ -103,11 +103,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Los memes, perlitas y momentos icónicos de la despedida de Lionel Messi",
+        "link": "https://www.rosario3.com/informaciongeneral/los-memes-perlitas-y-momentos-iconicos-de-la-despedida-de-lionel-messi-20261007-0007.html",
+        "image": "https://www.rosario3.com/__export/1791376357032/sites/rosario3/img/2026/10/07/messi_version1791376356508.jpg_985135466.jpg",
+        "summary": "En el último partido de La Pulga en la selección argentina pasó de todo: desde un comentado show de drones a un trabajador de Seguridad desmayado, el llanto de Enzo Fernández, el “cambio de poncho” de La Sole y mucho más. Mirá",
+        "pubDate": "2026-10-07T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "A corazón abierto, Lionel Messi recordó a su papá Jorge y habló del futuro de Argentina: \"Para objetivos grandes, grupos fuertes\"",
         "link": "https://www.rosario3.com/deportes/a-corazon-abierto-lionel-messi-recordo-a-su-papa-jorge-y-hablo-del-futuro-de-argentina-para-objetivos-grandes-grupos-fuertes-20261006-0080.html",
         "image": "https://www.rosario3.com/__export/1791341455603/sites/rosario3/img/2026/10/06/despedida_messi_-27-.jpg_506286608.jpg",
         "summary": "Tras el partido despedida ante Benín, el rosarino tomó el micrófono y le habló a las 80 mil personas presentes en el Monumental, pero también al pueblo futbolero argentino. Pensó en su padre, fallecido hace poco en Rosario. Y anticipó que apoyará a la camada de jugadores que…",
-        "pubDate": "2026-10-06T11:49:00+00:00",
+        "pubDate": "2026-10-06T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +125,7 @@
         "link": "https://www.rosario3.com/deportes/no-habra-otro-igual-los-impresionantes-numeros-de-lionel-messi-con-la-seleccion-argentina-20261006-0024.html",
         "image": "https://www.rosario3.com/__export/1791338046247/sites/rosario3/img/2026/10/06/despedida_messi_-20-.jpg_506286608.jpg",
         "summary": "Desde su debut hace más de 21 años a este final, Lionel Messi rompió todos los récords y llenó de gloria la camiseta albiceleste. Un repaso por sus logros",
-        "pubDate": "2026-10-06T11:48:00+00:00",
+        "pubDate": "2026-10-06T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,20 +134,29 @@
         "link": "https://www.rosario3.com/deportes/de-santa-fe-para-el-mundo-el-emotivo-brindis-de-soledad-para-lionel-messi-en-la-despedida-del-rosarino-20261006-0079.html",
         "image": "https://www.rosario3.com/__export/1791338859485/sites/rosario3/img/2026/10/06/leo_y_sole.jpg_928314581.jpg",
         "summary": "La Sole le dedicó aquella mítica canción que le cantara a Maradona, ahora a La Pulga en el Monumental en una noche histórica",
-        "pubDate": "2026-10-06T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Despedida de Messi: no pudo cantar el himno por la emoción, Scaloni lloró y un excombatiene mostró la bandera de Malvinas",
-        "link": "https://www.rosario3.com/deportes/pura-emocion-un-excombatiente-canto-el-himno-con-la-bandera-de-malvinas-en-la-despedida-de-messi-20261006-0076.html",
-        "image": "https://www.rosario3.com/__export/1791330805305/sites/rosario3/img/2026/10/06/despedida_messi_-8-.jpg_506286608.jpg",
-        "summary": "Fabio Santana, excombatiente de la Guerra de Malvinas y músico, fue el encargado de interpretar el himno nacional argentino en el Monumental. A su lado, en el césped, estaba el trapo de Malvinas original que recorrió el mundo tras la victoria del seleccionado ante Inglaterra en…",
         "pubDate": "2026-10-06T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Central recupera a Campaz y Pizarro para un partido clave ante Independiente",
+        "link": "https://www.lacapital.com.ar/ovacion/central-recupera-campaz-y-pizarro-un-partido-clave-independiente-n10285413.html",
+        "image": "https://media.lacapital.com.ar/p/0d69ac2f5c856996c3d0f839367505ab/adjuntos/203/imagenes/103/452/0103452640/1200x675/smart/dos.jpeg",
+        "summary": "Los dos futbolistas regresan este jueves tras participar de la fecha Fifa con Colombia y Chile. Pizarro llega con más minutos y un gol, mientras que Campaz tuvo acción en dos amistosos.",
+        "pubDate": "2026-10-07T20:49:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Rosario abre su paraguas de refugios por El Niño para las personas que viven en la calle",
+        "link": "https://www.lacapital.com.ar/la-ciudad/rosario-abre-su-paraguas-refugios-el-nino-las-personas-que-viven-la-calle-n10285354.html",
+        "image": "https://media.lacapital.com.ar/p/bf8b26126a43ce57118d11956564d330/adjuntos/203/imagenes/103/269/0103269276/1200x675/smart/situacion-calle-cml-117.jpg",
+        "summary": "La Municipalidad empezó a planificar cómo funcionarán los alojamientos transitorios en un verano con pronóstico de lluvias extraordinarias",
+        "pubDate": "2026-10-07T20:48:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Netflix le dio la bienvenida a \"Sinners\", el film que rompió el récord de nominaciones en los Oscar",
@@ -153,7 +171,7 @@
         "title": "Denuncia por antisemitismo en Rosario: allanaron a un docente y su defensa cuestiona el operativo federal",
         "link": "https://www.lacapital.com.ar/policiales/denuncia-antisemitismo-rosario-allanaron-un-docente-y-su-defensa-cuestiona-el-operativo-federal-n10285441.html",
         "image": "https://media.lacapital.com.ar/p/61dbb0378f4a7b82cddc55b24cb422fb/adjuntos/203/imagenes/103/452/0103452906/1200x675/smart/ju2.jpg",
-        "summary": "La causa se inició por una presentación de un empresario contra Mariano Soria, integrante de la Asamblea de Acción por Palestina. La Policía Federal secuestró libros, dispositivos electrónicos y un arma antigua.",
+        "summary": "La causa se inició por una presentación de un empresario contra Mariano Soria, integrante de la Asamblea de Acción por Palestina. La Policía Federal secuestró libros, dispositivos electrónicos y un arma antigua",
         "pubDate": "2026-10-07T20:16:00+00:00",
         "approxTime": false
       },
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/0c75f2f52ef8c1d7a128a8bca489d301/adjuntos/203/imagenes/100/091/0100091864/1200x675/smart/gastarifajpg.jpg",
         "summary": "Piamonte, Cañada Rosquín y San Jorge serán sedes de una formación presencial y a distancia con certificado oficial que promueve el senador Esteban Motta",
         "pubDate": "2026-10-07T19:13:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Milei prepara otra visita a Santa Fe antes de fin de año con el Rigi y Pullaro en la agenda",
-        "link": "https://www.lacapital.com.ar/politica/milei-prepara-otra-visita-santa-fe-antes-fin-ano-el-rigi-y-pullaro-la-agenda-n10285417.html",
-        "image": "https://media.lacapital.com.ar/p/51f2011f6f85810ac85a07371370942e/adjuntos/203/imagenes/103/350/0103350966/1200x675/smart/javier-milei-acto-bolsa-comercio-rosario-2026.jpg",
-        "summary": "El presidente incluirá a la provincia en una gira por nueve distritos con proyectos aprobados bajo el Régimen de Grandes Inversiones. La movida también apunta a reforzar el vínculo con gobernadores dialoguistas y sumar respaldo para la suspensión de las Paso y la sanción de…",
-        "pubDate": "2026-10-07T18:11:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Allanamientos por lavado en Rosario: cayó un financista y requisaron la celda del broker Andrés Lux",
-        "link": "https://www.lacapital.com.ar/policiales/allanamientos-lavado-rosario-cayo-un-financista-y-requisaron-la-celda-del-broker-andres-lux-n10285387.html",
-        "image": "https://media.lacapital.com.ar/p/a314171541be6c79cc7e0f57451d67e2/adjuntos/203/imagenes/103/452/0103452556/1200x675/smart/pif.jpg",
-        "summary": "La Justicia investiga una trama vinculada al empresario preso por estafas. Hubo operativos en seis domicilios, una financiera, un estudio contable, una escribanía y la cárcel. Secuestraron máquinas para minar bitcoin, contadoras de billetes, dinero y autos.",
-        "pubDate": "2026-10-07T18:09:00+00:00",
         "approxTime": false
       }
     ]
