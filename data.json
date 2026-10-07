@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T19:01:25.496668+00:00",
+  "generatedAt": "2026-10-07T19:31:11.350337+00:00",
   "sites": {
     "rosario3": [
       {
@@ -22,10 +22,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Crimen en la zona oeste: hallaron a un hombre asesinado a balazos en una casa deshabitada",
+        "title": "Crimen en barrio San Francisquito: mataron a tiros a un joven de 19 años",
         "link": "https://www.rosario3.com/policiales/crimen-en-la-zona-oeste-hallaron-a-un-hombre-asesinado-a-balazos-en-una-casa-deshabitada-20261007-0057.html",
-        "image": "https://www.rosario3.com/__export/1791398664432/sites/rosario3/img/2026/10/07/crimen.jpg_1856733583.jpg",
-        "summary": "El cuerpo fue encontrado en pleno día en Brasil y Monte Flores, tras un llamado al 911. La víctima no tenía documentación y buscan a los autores",
+        "image": "https://www.rosario3.com/__export/1791400543726/sites/rosario3/img/2026/10/07/crimen_san_francisquito.jpg_1272166860.jpg",
+        "summary": "El cuerpo fue encontrado en pleno día en Brasil y Monte Flores, tras un llamado al 911. Buscan a los atacantes prófugos y a un joven que, según vecinos, resultó herido y también escapó del lugar",
         "pubDate": "2026-10-07T11:58:00+00:00",
         "approxTime": true
       },
@@ -58,10 +58,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Qué dijo el presidente de Conmebol sobre el posible regreso de Messi a Newell’s: \"Su corazón está ahí, pero...\"",
-        "link": "https://www.rosario3.com/deportes/que-dijo-el-presidente-de-conmebol-sobre-el-posible-regreso-de-messi-a-newells-su-corazon-esta-ahi-pero...-20261007-0006.html",
-        "image": "https://www.rosario3.com/__export/1791375366396/sites/rosario3/img/2026/10/07/messi_con_alejandro_dominguez.jpg_506286608.jpg",
-        "summary": "Tras la despedida del capitán de la selección argentina, el dirigente Alejandro Domínguez se refirió a las posibilidades de que Leo decida jugar en la Lepra antes del final de su carrera",
+        "title": "La \"ladrona de quesos\": robó una horma de 4 kilos en un comercio del centro y e intenta revenderla",
+        "link": "https://www.rosario3.com/policiales/la-ladrona-de-quesos-robo-una-horma-de-4-kilos-en-un-comercio-del-centro-y-e-intenta-revenderla-20261007-0047.html",
+        "image": "https://www.rosario3.com/__export/1791391767874/sites/rosario3/img/2026/10/07/robaquesos.jpg_1042349840.jpg",
+        "summary": "Una mechera quedó filmada cuando sustraía un costoso queso sardo estacionado en un local de 9 de Julio al 600. Comerciantes denuncian que fracciona la mercadería y la ofrece por una menor cantidad de dinero en la zona sur",
         "pubDate": "2026-10-07T11:54:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,33 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Menos población y más incertidumbre: cómo cambiará la demanda mundial de alimentos y qué oportunidad tiene Argentina",
+        "link": "https://www.lacapital.com.ar/agro/menos-poblacion-y-mas-incertidumbre-como-cambiara-la-demanda-mundial-alimentos-y-que-oportunidad-tiene-argentina-n10285431.html",
+        "image": "https://media.lacapital.com.ar/p/75116c2781e23c065fc04a482044febf/adjuntos/203/imagenes/103/452/0103452816/1200x675/smart/malamud.jpg",
+        "summary": "Geopolítica, demografía, tecnología y nuevos mercados atravesaron la tercera edición del Foro Agroindustrial Argentino, organizado por Agroactiva en Rosario. El politólogo Andrés Malamud planteó que, pese a la fragmentación política, la economía global seguirá interconectada",
+        "pubDate": "2026-10-07T19:25:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Anmat prohibió dos suplementos vitamínicos y una crema para tratar problemas óseos",
+        "link": "https://www.lacapital.com.ar/informacion-general/anmat-prohibio-dos-suplementos-vitaminicos-y-una-crema-tratar-problemas-oseos-n10285437.html",
+        "image": "https://media.lacapital.com.ar/p/f468254f380667c833ce1569f5a9bce4/adjuntos/203/imagenes/100/058/0100058959/1200x675/smart/suplementos-dietariosjpg.jpg",
+        "summary": "Los productos eran importados de forma irregular por lo que se desconocen su composición real y condiciones de elaboración. Fueron considerados ilegítimos",
+        "pubDate": "2026-10-07T19:17:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Curso de gasista matriculado: oportunidad de formación y trabajo en el departamento San Martín",
+        "link": "https://www.lacapital.com.ar/la-region/curso-gasista-matriculado-oportunidad-formacion-y-trabajo-el-departamento-san-martin-n10285436.html",
+        "image": "https://media.lacapital.com.ar/p/0c75f2f52ef8c1d7a128a8bca489d301/adjuntos/203/imagenes/100/091/0100091864/1200x675/smart/gastarifajpg.jpg",
+        "summary": "Piamonte, Cañada Rosquín y San Jorge serán sedes de una formación presencial y a distancia con certificado oficial que promueve el senador Esteban Motta",
+        "pubDate": "2026-10-07T19:13:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Milei prepara otra visita a Santa Fe antes de fin de año con el Rigi y Pullaro en la agenda",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/6a41cfec1a49631094456fca815e57ec/adjuntos/203/imagenes/103/136/0103136335/nob-asamb-81254234.jpg",
         "summary": "La dirigencia leprosa anunció a través de sus redes sociales la reunión que se llevará a cabo en el estadio cubierto el próximo 22 de octubre",
         "pubDate": "2026-10-07T15:49:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Rosario tendrá cruces a la isla desde La Fluvial todo el año: ¿cuánto cuesta el servicio?",
-        "link": "https://www.lacapital.com.ar/la-ciudad/rosario-tendra-cruces-la-isla-la-fluvial-todo-el-ano-cuanto-cuesta-el-servicio-n10285382.html",
-        "image": "https://media.lacapital.com.ar/p/28ae1a66971f1b584370e4faed27449b/adjuntos/203/imagenes/103/452/0103452384/delta-queen-2-1.jpg",
-        "summary": "Volverán a usar el barco Delta Queen para llevar hasta 230 personas al Banquito San Andrés y también ofrecerá paseos turísticos por el río Paraná",
-        "pubDate": "2026-10-07T15:36:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El gobierno de Santa Fe convoca a policías retirados para custodiar espacios públicos",
-        "link": "https://www.lacapital.com.ar/policiales/el-gobierno-santa-fe-convoca-policias-retirados-custodiar-espacios-publicos-n10285388.html",
-        "image": "https://media.lacapital.com.ar/p/fde7045668ab998c49d9ecd5a3894c97/adjuntos/203/imagenes/024/841/0024841038/1200x675/smart/6_marcelo-ruben-bustamante_70979048__05-11-2018__200x850jpg.jpg",
-        "summary": "Se abre la convocatoria para efectivos que ya no están en la fuerza para que se sumen al plan de seguridad y hagan tareas de vigilancia",
-        "pubDate": "2026-10-07T15:34:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Confirmaron 17 casos de varicela en una escuela secundaria de Rafaela",
-        "link": "https://www.lacapital.com.ar/la-region/confirmaron-17-casos-varicela-una-escuela-secundaria-rafaela-n10285377.html",
-        "image": "https://media.lacapital.com.ar/p/764a65ff46405aa2ad74e408d6f024d9/adjuntos/203/imagenes/103/452/0103452306/1200x675/smart/varicela-archivo.jpg",
-        "summary": "Las autoridades del Nodo de Salud de esa ciudad coordinan acciones con la institución tras detectar los contagios en alumnos de primer y tercer año",
-        "pubDate": "2026-10-07T14:52:00+00:00",
         "approxTime": false
       }
     ]
