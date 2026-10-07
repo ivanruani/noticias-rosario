@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-07T17:31:10.075700+00:00",
+  "generatedAt": "2026-10-07T18:01:27.310117+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "La arena que demanda Vaca Muerta reactiva un puerto de Villa Constitución que lleva 70 años parado",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-arena-que-demanda-vaca-muerta-reactiva-un-puerto-de-villa-constitucion-que-lleva-70-anos-parado-20261007-0038.html",
+        "image": "https://www.rosario3.com/__export/1791387133147/sites/rosario3/img/2026/10/07/unnamed.jpg_982625323.jpg",
+        "summary": "El gobierno provincial adjudicó la explotación del predio de la terminal I del puerto de Villa Constitución a una UTE integrada por Southern Silica y Esesa",
+        "pubDate": "2026-10-07T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Endeudamiento: afirman que un 30% de quienes refinanciaron pagos volvieron a incumplir",
         "link": "https://www.rosario3.com/-economia-negocios-agro-/endeudamiento-afirman-que-un-30-de-quienes-refinanciaron-pagos-volvieron-a-incumplir-20261007-0044.html",
         "image": "https://www.rosario3.com/__export/1788816660891/sites/rosario3/img/2026/09/07/720_-_2026-09-07t182433_507.jpg_1221029438.jpg",
         "summary": "La morosidad de los hogares sigue en niveles altos y sumó una nueva señal de alerta: cerca de un tercio de los clientes que habían logrado refinanciar sus deudas volvió a incumplir las cuotas",
-        "pubDate": "2026-10-07T12:00:00+00:00",
+        "pubDate": "2026-10-07T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,15 +26,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/llueve-en-rosario-y-el-agua-que-no-drena-70-reclamos-de-anegamientos-y-alerta-naranja-vigente-20261007-0036.html",
         "image": "https://www.rosario3.com/__export/1791387581303/sites/rosario3/img/2026/10/07/tormenton1_1.jpg_928314581.jpg",
         "summary": "El titular de Protección Civil precisó que hasta este mediodía cayeron 42 milímetros de agua y que tanta cantidad en tan poco tiempo desbordó en algunos puntos de la ciudad la capacidad de absorción y drenaje de las bocas de tormenta. Pese al agua acumulada, el saldo inicial…",
-        "pubDate": "2026-10-07T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Detuvieron a “Caquita” por la balacera contra la casa de una policía en la zona suroeste",
-        "link": "https://www.rosario3.com/policiales/detuvieron-a-caquita-por-la-balacera-contra-la-casa-de-una-policia-en-la-zona-suroeste-20261007-0032.html",
-        "image": "https://www.rosario3.com/__export/1791385991771/sites/rosario3/img/2026/10/07/detencion_caquita.jpg_506286608.jpg",
-        "summary": "Leonardo Sebastián F., que hace diez años fue condenado por dos homicidios, cuya pena venció en enero pasado, ahora fue arrestado por estar sospechado de un ataque a tiros perpetrado a comienzos de septiembre contra el domicilio de una agente que cumple tareas en la comisaría…",
         "pubDate": "2026-10-07T11:58:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,42 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El argentino que quiso ser jugador de fútbol e hizo historia ganando un Super Bowl",
+        "link": "https://www.lacapital.com.ar/ovacion/el-argentino-que-quiso-ser-jugador-futbol-e-hizo-historia-ganando-un-super-bowl-n10282614.html",
+        "image": "https://media.lacapital.com.ar/p/2cb6f1b0f1564d07d67dd533ae056e9f/adjuntos/203/imagenes/103/421/0103421017/1200x675/smart/martin-gramatica.jpg",
+        "summary": "\"Mi intención era ser futbolista, pero se me dio en el fútbol americano. Ni sabía que existía, ja\", sostuvo Martín Gramática en la charla con Ovación desde Tampa, Estados Unidos",
+        "pubDate": "2026-10-07T17:38:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Después de Gimnasia de Mendoza, ¿cuándo jugará Newell's los próximos partidos de Liga?",
+        "link": "https://www.lacapital.com.ar/ovacion/despues-gimnasia-mendoza-cuando-jugara-newells-los-proximos-partidos-liga-n10285339.html",
+        "image": "https://media.lacapital.com.ar/p/d2addfef04730a3bba900d03f345ba92/adjuntos/203/imagenes/103/451/0103451901/1200x675/smart/image-3.jpg",
+        "summary": "A pesar que todavía no hay oficialización por parte de la Asociación del Fútbol Argentino, Ovación pudo acceder a los días que jugará la Lepra",
+        "pubDate": "2026-10-07T17:37:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Cuándo volverá a jugar la selección argentina tras la despedida de Messi",
+        "link": "https://www.lacapital.com.ar/ovacion/cuando-volvera-jugar-la-seleccion-argentina-la-despedida-messi-n10285374.html",
+        "image": "https://media.lacapital.com.ar/p/f668b79da580aff6b74e3c814dc2bde0/adjuntos/203/imagenes/103/438/0103438361/1200x675/smart/argentina2.jpg",
+        "summary": "A la espera de la renovación de Lionel Scaloni, el DT dirigirá en la próxima fecha Fifa, la cual será en apenas unas semanas y marcará el camino sin el 10",
+        "pubDate": "2026-10-07T17:37:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Bono de $70 mil de Anses: cómo funciona en octubre",
+        "link": "https://www.lacapital.com.ar/informacion-general/bono-70-mil-anses-como-funciona-octubre-n10285404.html",
+        "image": "https://media.lacapital.com.ar/p/59e9e9b9231f66b22d4e22d63199f6e6/adjuntos/203/imagenes/102/185/0102185137/1200x675/smart/ansesjpg.jpg",
+        "summary": "El refuerzo extraordinario está destinado a distintos grupos de beneficiarios y se cobra junto con los haberes de cada mes",
+        "pubDate": "2026-10-07T17:25:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Central: Vicente Pizarro anotó un gol en la victoria de Chile ante México",
         "link": "https://www.lacapital.com.ar/ovacion/central-vicente-pizarro-anoto-un-gol-la-victoria-chile-mexico-n10285412.html",
         "image": "https://media.lacapital.com.ar/p/db22c492d596910fb036f8708994feca/adjuntos/203/imagenes/103/452/0103452617/1200x675/smart/pizarro-seleccion-chile.jpg",
@@ -236,42 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/d50db1cac9d6b7623382d8a8cbe643bf/adjuntos/203/imagenes/103/452/0103452212/1200x675/smart/economia-santa-fe-impuestos.jpg",
         "summary": "Se enfocó en mora de Ingresos Brutos, Inmobiliario, Patente y Sellos. Se ofrecieron planes de pago con 12 cuotas sin interés y hasta 36 meses",
         "pubDate": "2026-10-07T14:13:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La demanda europea le da premio a la harina de soja",
-        "link": "https://www.lacapital.com.ar/agro/la-demanda-europea-le-da-premio-la-harina-soja-n10285287.html",
-        "image": "https://media.lacapital.com.ar/p/4ff0a900c1bb0c59f5f54d80922aa1cd/adjuntos/203/imagenes/005/883/0005883170/1200x675/smart/harinas-y-pellets-soja-maiz-y-aceite-soja-los-productos-mas-exportados.jpg",
-        "summary": "La entrada en vigencia de la norma que exige demostrar que los productos provienen de áreas libre de deforestación impulsó una demanda anticipada subproductos argentinos y generó una prima de u$s 6 por tonelada. “En Argentina estamos viendo más movimiento”, señaló Dante Romano…",
-        "pubDate": "2026-10-07T14:05:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "¿Por qué los raperos estadounidenses no paran de nombrar a Manu Ginóbili?",
-        "link": "https://www.lacapital.com.ar/zoom/por-que-los-raperos-estadounidenses-no-paran-nombrar-manu-ginobili-n10285361.html",
-        "image": "https://media.lacapital.com.ar/p/240420f5e893347e85871e3c8ff79af5/adjuntos/203/imagenes/101/988/0101988753/2024-10-31-ginobilijpg.jpg",
-        "summary": "De Drake a Playboi Carti, distintos referentes del hip-hop mencionaron a Manu Ginóbili en sus canciones para hablar de talento, habilidad y hasta su calvicie",
-        "pubDate": "2026-10-07T13:39:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Prohibición de cuidacoches: Javkin aseguró que la ciudad \"atenderá situaciones sociales\"",
-        "link": "https://www.lacapital.com.ar/la-ciudad/prohibicion-cuidacoches-javkin-aseguro-que-la-ciudad-atendera-situaciones-sociales-n10285357.html",
-        "image": "https://media.lacapital.com.ar/p/127e810e2009100f8c29a7ba4e3ba3fd/adjuntos/203/imagenes/102/965/0102965024/cuidacoches-42.jpg",
-        "summary": "Tras el acto por el Día de la Virgen de Rosario, el intendente afirmó que \"hoy hay mucha más gente en la calle afectadas por adicciones que en otras épocas\"",
-        "pubDate": "2026-10-07T13:29:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La despedida de Messi desató una ola de memes en las redes sociales",
-        "link": "https://www.lacapital.com.ar/ovacion/la-despedida-messi-desato-una-ola-memes-las-redes-sociales-n10285319.html",
-        "image": "https://media.lacapital.com.ar/p/710f5633faede7470be6e7a302688805/adjuntos/203/imagenes/103/451/0103451714/1200x675/smart/image-2.jpg",
-        "summary": "Se multiplicaron los chistes en una jornada emocionante por la despedida del \"10\" de la selección. El juego de drones y el llanto de Enzo Fernández, grandes protagonistas",
-        "pubDate": "2026-10-07T13:26:00+00:00",
         "approxTime": false
       }
     ]
