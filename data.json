@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T09:01:24.993307+00:00",
+  "generatedAt": "2026-10-07T09:31:06.712389+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "La chicharrita retrocede y mejora el escenario para la campaña de maíz",
+        "link": "https://www.lacapital.com.ar/agro/la-chicharrita-retrocede-y-mejora-el-escenario-la-campana-maiz-n10284844.html",
+        "image": "https://media.lacapital.com.ar/p/07b7a731905d62ea07bb45e5e5dccf24/adjuntos/305/imagenes/101/532/0101532117/1200x675/148x38:168x58/chicharritamaizjpg.jpg",
+        "summary": "El monitoreo nacional registró una caída de la plaga en las cinco regiones maiceras durante la segunda quincena de septiembre. Los especialistas recomiendan mantener los controles sobre maíces guachos y cultivos recién emergidos",
+        "pubDate": "2026-10-07T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La odisea de los inquilinos: 500 mil hogares, un tercio de la provincia, están alquilados",
+        "link": "https://www.lacapital.com.ar/la-ciudad/la-odisea-los-inquilinos-500-mil-hogares-un-tercio-la-provincia-estan-alquilados-n10285237.html",
+        "image": "https://media.lacapital.com.ar/p/98c88059faf5227ce1c8307cb8fe3ee9/adjuntos/203/imagenes/103/008/0103008149/1200x675/smart/alquileres.png",
+        "summary": "En este contexto, la provincia remarcó que sigue vigente el programa Llave, ideado para inquilinos. Se entregaron 600 millones de pesos",
+        "pubDate": "2026-10-07T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Lionel Messi: \"Le digo adiós a la selección, a todos ustedes, los voy a extrañar\"",
         "link": "https://www.lacapital.com.ar/ovacion/lionel-messi-le-digo-adios-la-seleccion-todos-ustedes-los-voy-extranar-n10285299.html",
         "image": "https://media.lacapital.com.ar/p/05f3dd4486bbc41d8c28019eff4640f1/adjuntos/203/imagenes/103/451/0103451292/1200x675/smart/image-2026-10-06t222303147.png",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/bc87e07099b0bb8b192e22662c899158/adjuntos/203/imagenes/103/291/0103291372/1200x675/644x713:664x733/vgg-industria.jpeg",
         "summary": "Las consultoras que participan del relevamiento de expectativas del Banco Central proyectaron una caída de 1 % en el tercer trimestre del año. En el mercado, subieron los bonos y se mantuvo el tipo de cambio.",
         "pubDate": "2026-10-06T23:31:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "En Newell's, Giannetti tiene que ir a boxes y romperá una de las rachas positivas",
-        "link": "https://www.lacapital.com.ar/ovacion/en-newells-giannetti-tiene-que-ir-boxes-y-rompera-una-las-rachas-positivas-n10285274.html",
-        "image": "https://media.lacapital.com.ar/p/75c9b9300a9e86946151a138dfa6f4b6/adjuntos/203/imagenes/103/450/0103450848/nob-gian-82485470.jpg",
-        "summary": "El defensor de Newell's, que se convirtió en patrón del fondo, necesita tiempo para reponerse luego de una lesión muscular que sufrió en el último compromiso",
-        "pubDate": "2026-10-06T23:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Messi se despidió de la selección con un gol y una victoria por 3 a 0",
-        "link": "https://www.lacapital.com.ar/ovacion/messi-se-despidio-la-seleccion-un-gol-y-una-victoria-3-0-n10285271.html",
-        "image": "https://media.lacapital.com.ar/p/bf54ca9a4fb6d7cd4a6d0928f5723f4e/adjuntos/203/imagenes/103/451/0103451114/1200x675/smart/image-2026-10-06t212136620.png",
-        "summary": "En el partido del adiós de la selección argentina, el rosarino señaló desde los doce pasos el 3 a 0 en el amistoso jugado en el Monumental",
-        "pubDate": "2026-10-06T23:12:00+00:00",
         "approxTime": false
       }
     ]
