@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T23:31:03.635594+00:00",
+  "generatedAt": "2026-10-08T00:01:21.122643+00:00",
   "sites": {
     "rosario3": [
       {
@@ -31,10 +31,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Detuvieron a un hombre por la muerte de una mujer en Capitán Bermúdez",
-        "link": "https://www.rosario3.com/policiales/detuvieron-a-un-hombre-por-la-muerte-de-una-mujer-en-capitan-bermudez-20261007-0078.html",
-        "image": "https://www.rosario3.com/__export/1791412821899/sites/rosario3/img/2026/10/07/policia.jpg_1825222445.jpg",
-        "summary": "El sospechoso tiene 40 años y será llevado a audiencia imputativa en las próximas horas",
+        "title": "Estudiantes ingresaron a la Secretaría de Educación e hicieron una “sentada” para exigir por el financiamiento universitario",
+        "link": "https://www.rosario3.com/politica/estudiantes-ingresaron-a-la-secretaria-de-educacion-e-hicieron-una-sentada-para-exigir-por-el-financiamiento-universitario-20261007-0080.html",
+        "image": "https://www.rosario3.com/__export/1791414928173/sites/rosario3/img/2026/10/07/universidad.jpg_1768679257.jpg",
+        "summary": "La protesta tiene lugar poco después de que la Justicia declarara inconstitucional el decreto con el que el Gobierno frenó la aplicación de la ley; la gestión libertaria debe reforzar fondos y recomponer los salarios",
         "pubDate": "2026-10-07T11:57:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,24 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "La universidad busca aliados y Pullaro aparece en el radar de los rectores",
+        "link": "https://www.lacapital.com.ar/politica/la-universidad-busca-aliados-y-pullaro-aparece-el-radar-los-rectores-n10285495.html",
+        "image": "https://media.lacapital.com.ar/p/061aebde66cf4d1de834ce1428c0adb0/adjuntos/203/imagenes/103/453/0103453472/1200x675/smart/cabildo-abierto-rectores-cin-web.jpg",
+        "summary": "Tras el fallo favorable, el CIN realizó un cabildo abierto en la Plaza de Mayo por la ley de financiamiento. Rondas de reuniones, marchas y el efecto Messi",
+        "pubDate": "2026-10-07T23:45:34+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Llovieron más de 75 milímetros en Rosario y se mantiene el alerta naranja",
+        "link": "https://www.lacapital.com.ar/la-ciudad/llovieron-mas-75-milimetros-rosario-y-se-mantiene-el-alerta-naranja-n10285507.html",
+        "image": "https://media.lacapital.com.ar/p/ebfc72769911a570f12141c8547a1a59/adjuntos/203/imagenes/103/453/0103453554/2026-10-07-lluvias-by_mbustamente-82748231.jpg",
+        "summary": "Gonzalo Ratner indicó que hubo más de 200 reclamos por caídas de árboles y ramas y demás incidencias",
+        "pubDate": "2026-10-07T23:45:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "El emotivo mensaje de Antonela a Messi, un día después de su despedida de la selección: \"Siempre con vos\"",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/81d94d76501fde41ac1e367e77393ecf/adjuntos/203/imagenes/103/452/0103452990/1200x675/smart/image-9.png",
         "summary": "A partir de ciertos procedimientos, los usuarios pueden optimizar el celular desde distintos aspectos, incluso en modelos viejos. El paso a paso",
         "pubDate": "2026-10-07T20:16:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Murió Piero, la voz de \"Mi viejo\" y \"Para el pueblo lo que es del pueblo\", que marcó a generaciones",
-        "link": "https://www.lacapital.com.ar/zoom/murio-piero-la-voz-mi-viejo-y-para-el-pueblo-lo-que-es-del-pueblo-que-marco-generaciones-n10285453.html",
-        "image": "https://media.lacapital.com.ar/p/898a009c3fb66a82eb7728e33ace7991/adjuntos/203/imagenes/103/452/0103452987/1200x675/smart/image-16.jpg",
-        "summary": "El cantautor murió este miércoles a los 81 años, tras permanecer dos días internado en el Hospital Italiano de Buenos Aires. Ícono de la canción popular, compartió escenario con figuras como Mercedes Sosa y León Gieco.",
-        "pubDate": "2026-10-07T19:58:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Unos 600 trabajadores del peaje pierden su trabajo por las nuevas concesiones",
-        "link": "https://www.lacapital.com.ar/la-region/unos-600-trabajadores-del-peaje-pierden-su-trabajo-las-nuevas-concesiones-n10285426.html",
-        "image": "https://media.lacapital.com.ar/p/91b7e39be8a096bfb5e5daa43ab05197/adjuntos/203/imagenes/103/452/0103452763/1200x675/smart/peajes-1.jpg",
-        "summary": "Unos 600 empleados de Corredores Viales se quedan sin su fuente de trabajo a raíz de las concesiones que el gobierno nacional otorgó desde este miércoles en ocho corredores de rutas nacionales",
-        "pubDate": "2026-10-07T19:48:00+00:00",
         "approxTime": false
       }
     ]
