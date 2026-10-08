@@ -1,14 +1,50 @@
 {
-  "generatedAt": "2026-10-08T10:01:08.373129+00:00",
+  "generatedAt": "2026-10-08T10:30:58.542447+00:00",
   "sites": {
     "rosario3": [
       {
         "source": "Rosario3",
-        "title": "Temporal en Rosario: lluvia intensa, árboles caídos y ráfagas durante una jornada complicada",
-        "link": "https://www.rosario3.com/informaciongeneral/llueve-en-rosario-y-el-agua-que-no-drena-70-reclamos-de-anegamientos-y-alerta-naranja-vigente-20261007-0036.html",
-        "image": "https://www.rosario3.com/__export/1791420416917/sites/rosario3/img/2026/10/07/arbol_caido.jpg_1825222445.jpg",
-        "summary": "El temporal provocó anegamientos en distintos sectores de la ciudad y cerca de 200 reclamos. Protección Civil advirtió que las condiciones comenzarán a mejorar durante la noche y la madrugada, aunque el jueves podrían registrarse fuertes rachas de viento",
+        "title": "Rosario suma cruces a la isla todo el año desde La Fluvial: ¿cuándo empiezan y cuánto cuesta el servicio?",
+        "link": "https://www.rosario3.com/informaciongeneral/rosario-suma-cruces-a-la-isla-todo-el-ano-desde-la-fluvial-cuando-empiezan-y-cuanto-cuesta-el-servicio-20261007-0049.html",
+        "image": "https://www.rosario3.com/__export/1791393088276/sites/rosario3/img/2024/09/08/cruce_en_lancha_fluvial_isla-2909_1.jpg_928314581.jpg",
+        "summary": "La temporada comienza este sábado 10 de octubre. La embarcación a la isla Sabino Corsi saldrá cada hora los sábados, domingos y feriados, entre las 11 y las 15.30. Desde diciembre el servicio funcionará todos los días. También se sumará el paseo guiado “La Vuelta al Mundo”, una…",
         "pubDate": "2026-10-07T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Este jueves comienza la Feria Internacional del Libro de Rosario 2026: todo lo que tenés que saber",
+        "link": "https://www.rosario3.com/ocio/este-jueves-comienza-la-feria-internacional-del-libro-de-rosario-2026-todo-lo-que-tenes-que-saber-20261007-0031.html",
+        "image": "https://www.rosario3.com/__export/1791386198221/sites/rosario3/img/2026/10/07/feria_del_libro_alan_version1791386197736.jpg_54252875.jpg",
+        "summary": "El evento que reúne a autoras, autores, libreros, editoriales y público se desarrollará del 8 al 18 de octubre en el Cultural Fontanarrosa. La programación contempla más de 350 actividades y el espacio municipal abre hoy a las 17. El acto de apertura comenzará a las 19 y el…",
+        "pubDate": "2026-10-07T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Claves del día: dividendos récord, un concurso en el más en el agro y nuevas apuestas en Rosario | Ecos365",
+        "link": "https://www.rosario3.com/ecos365/noticias/claves-del-dia-dividendos-record-un-concurso-en-el-mas-en-el-agro-y-nuevas-apuestas-en-rosario-20261008-0001.html",
+        "image": "https://www.rosario3.com/__export/1791453393935/sites/rosario3/img/2026/10/08/construccion_crop1791453393504.jpg_150836519.jpg",
+        "summary": "Hay empresas que reparten dólares y otras que negocian cómo devolverlos. Industria y construcción respiran, la Bolsa retrocede y Rosario suma apuestas: Decathlon, combustibles renovables y conexiones con capital alemán",
+        "pubDate": "2026-10-08T11:58:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "El clima en Rosario: la lluvia da una tregua tras el temporal, pero con viento persistente",
+        "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-la-lluvia-da-una-tregua-tras-el-temporal-pero-con-viento-persistente-20261008-0001.html",
+        "image": "https://www.rosario3.com/__export/1785252075260/sites/rosario3/img/2026/07/16/messimural.jpg_928314581.jpg",
+        "summary": "El Servicio Meteorológico Nacional prevé una jornada sin precipitaciones significativas luego de las tormentas que provocaron anegamientos en distintos barrios. El cielo continuará cubierto y se prevén ráfagas",
+        "pubDate": "2026-10-08T11:57:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Los cines de Rosario renuevan su cartelera con un drama argentino y cinco estrenos internacionales",
+        "link": "https://www.rosario3.com/ocio/los-cines-de-rosario-renuevan-su-cartelera-con-un-drama-argentino-y-cinco-estrenos-internacionales-20261007-0074.html",
+        "image": "https://www.rosario3.com/__export/1791416551209/sites/rosario3/img/2026/10/07/casapelicula.jpg_982625323.jpg",
+        "summary": "Las salas de la ciudad proyectan desde este jueves La casa, protagonizada por Diego Peretti, además de Madre siniestra, A cualquier precio, Hope: el primer impacto y La vida es así",
+        "pubDate": "2026-10-07T11:56:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +53,7 @@
         "link": "https://www.rosario3.com/politica/estudiantes-ingresaron-a-la-secretaria-de-educacion-e-hicieron-una-sentada-para-exigir-por-el-financiamiento-universitario-20261007-0080.html",
         "image": "https://www.rosario3.com/__export/1791414928173/sites/rosario3/img/2026/10/07/universidad.jpg_1768679257.jpg",
         "summary": "La protesta tiene lugar poco después de que la Justicia declarara inconstitucional el decreto con el que el Gobierno frenó la aplicación de la ley; la gestión libertaria debe reforzar fondos y recomponer los salarios",
-        "pubDate": "2026-10-07T11:59:00+00:00",
+        "pubDate": "2026-10-07T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -26,42 +62,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/choferes-de-larga-distancia-alertaron-por-rutas-deterioradas-y-micros-con-desgaste-severo-20261007-0072.html",
         "image": "https://www.rosario3.com/__export/1791407265759/sites/rosario3/img/2026/10/07/colectivos.jpg_1825222445.jpg",
         "summary": "El gremio reclamó la intervención del Gobierno nacional ante la falta de mantenimiento vial, el envejecimiento de la flota y las fallas mecánicas que afectan la seguridad de trabajadores y pasajeros",
-        "pubDate": "2026-10-07T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Detuvieron a un hombre por la muerte de una mujer en Capitán Bermúdez",
-        "link": "https://www.rosario3.com/policiales/detuvieron-a-un-hombre-por-la-muerte-de-una-mujer-en-capitan-bermudez-20261007-0078.html",
-        "image": "https://www.rosario3.com/__export/1791412821899/sites/rosario3/img/2026/10/07/policia.jpg_1825222445.jpg",
-        "summary": "El sospechoso tiene 40 años y será llevado a audiencia imputativa en las próximas horas",
-        "pubDate": "2026-10-07T11:57:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "\"No sabés lo que te extrañamos anoche\": el mensaje de Messi para su papá tras su despedida de la Selección",
-        "link": "https://www.rosario3.com/deportes/no-sabes-lo-que-te-extranamos-anoche-el-mensaje-de-messi-para-su-papa-tras-su-despedida-de-la-seleccion-20261007-0076.html",
-        "image": "https://www.rosario3.com/__export/1791409425250/sites/rosario3/img/2026/10/07/extraxando.jpg_928314581.jpg",
-        "summary": "El rosarino compartió una foto en sus historias de Instagram y recordó a Jorge Messi, quien murió en agosto pasado. La imagen muestra a Leo con la camiseta albiceleste, mirando hacia el cielo, en una noche muy especial en el Monumental",
-        "pubDate": "2026-10-07T11:56:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Las sentidas palabras de Antonela Roccuzzo para Messi tras su despedida: \"Hay noches que explican una vida entera\"",
-        "link": "https://www.rosario3.com/informaciongeneral/las-sentidas-palabras-de-antonela-roccuzzo-para-messi-tras-su-despedida-hay-noches-que-explican-una-vida-entera-20261007-0071.html",
-        "image": "https://www.rosario3.com/__export/1791406217890/sites/rosario3/img/2026/10/07/antonela.jpg_928314581.jpg",
-        "summary": "La esposa del capitán argentino le dedicó unas sentidas palabras luego de la emotiva noche que Lionel Messi vivió en el Monumental. “Qué orgullo haber recorrido este camino a tu lado”, expresó",
-        "pubDate": "2026-10-07T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El emotivo posteo de Messi el día después de su último partido y el recuerdo de Maradona: “Sé que nos ayudó desde el cielo”",
-        "link": "https://www.rosario3.com/deportes/el-emotivo-posteo-de-messi-el-dia-despues-de-su-ultimo-partido-y-el-recuerdo-de-maradona-se-que-nos-ayudo-desde-el-cielo-20261007-0053.html",
-        "image": "https://www.rosario3.com/__export/1791396633040/sites/rosario3/img/2026/10/07/messi_posteo.png_786111822.png",
-        "summary": "El astro rosarino compartió un sentido mensaje tras disputar su último partido con la Selección este martes en el Monumental, en el que repasó su recorrido con la celeste y blanca, agradeció a su familia, amigos, compañeros y entrenadores, y dedicó unas emotivas palabras a Diego",
         "pubDate": "2026-10-07T11:54:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Detuvieron a un sospechoso por el crimen de una mujer en Capitán Bermúdez",
+        "link": "https://www.lacapital.com.ar/policiales/detuvieron-un-sospechoso-el-crimen-una-mujer-capitan-bermudez-n10285527.html",
+        "image": "https://media.lacapital.com.ar/p/b5a538504fb2e9872dab6028bf2d157a/adjuntos/203/imagenes/103/453/0103453814/1200x675/smart/detenido-crimen-villarreal.png",
+        "summary": "Se trata de un hombre de 41 años a quien vinculan con el la muerte de Roxana Villarreal, quien fue hallada el martes a la noche sin vida en su casa",
+        "pubDate": "2026-10-08T09:59:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La ganadería tendrá una gran cita de negocios en Rosario",
+        "link": "https://www.lacapital.com.ar/agro/la-ganaderia-tendra-una-gran-cita-negocios-rosario-n10285452.html",
+        "image": "https://media.lacapital.com.ar/p/0c4ac2b94151a15d623e4e47198bf694/adjuntos/203/imagenes/103/026/0103026553/1200x675/665x400:685x420/ganaderia.jpeg",
+        "summary": "Banco Nación y Rosgan celebrarán sus aniversarios con una subasta que se realizará el 13 de octubre en el ECU y convocará a productores, compradores, consignatarios, feedloteros y frigoríficos de todo el país",
+        "pubDate": "2026-10-08T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Con destacadas figuras de la cultura, arranca una nueva edición de la Feria del Libro",
         "link": "https://www.lacapital.com.ar/la-ciudad/con-destacadas-figuras-la-cultura-arranca-una-nueva-edicion-la-feria-del-libro-n10285483.html",
         "image": "https://media.lacapital.com.ar/p/3562f1e462a75d024465647c899902ea/adjuntos/203/imagenes/103/453/0103453314/1200x675/smart/feriade.jpg",
@@ -159,19 +177,10 @@
       },
       {
         "source": "La Capital",
-        "title": "La ganadería tendrá una gran cita de negocios en Rosario",
-        "link": "https://www.lacapital.com.ar/agro/la-ganaderia-tendra-una-gran-cita-negocios-rosario-n10285452.html",
-        "image": "https://media.lacapital.com.ar/p/0c4ac2b94151a15d623e4e47198bf694/adjuntos/203/imagenes/103/026/0103026553/1200x675/665x400:685x420/ganaderia.jpeg",
-        "summary": "Banco Nación y Rosgan celebrarán sus aniversarios con una subasta que se realizará el 13 de octubre en el ECU y convocará a productores, compradores, consignatarios, feedloteros y frigoríficos de todo el país",
-        "pubDate": "2026-10-08T09:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cuidacoches: la reinserción laboral imitará un plan usado para carreros",
-        "link": "https://www.lacapital.com.ar/la-ciudad/cuidacoches-la-reinsercion-laboral-imitara-un-plan-usado-carreros-n10285445.html",
-        "image": "https://media.lacapital.com.ar/p/948898279404aab575714f7e3a2789b9/adjuntos/203/imagenes/006/909/0006909501/1200x675/smart/el-programa-andando-se-aplico-reinsertar-carreros-que-recuperaban-residuos.jpg",
-        "summary": "El intendente Pablo Javkin prepara su mensaje de adhesión a la ley que prohíbe cuidacoches. Se buscará reconvertirlos con capacitación en oficios",
+        "title": "Feria del Libro: Ternavasio aseguró que \"la historia nunca se repite, está signada por transformaciones\"",
+        "link": "https://www.lacapital.com.ar/la-ciudad/feria-del-libro-ternavasio-aseguro-que-la-historia-nunca-se-repite-esta-signada-transformaciones-n10285242.html",
+        "image": "https://media.lacapital.com.ar/p/67930217aac0736daf33e25cfbfb89cc/adjuntos/203/imagenes/103/450/0103450479/1200x675/648x387:668x407/ternavasio.jpg",
+        "summary": "La prestigiosa historiadora rosarina destacó que será \"un honor\" y \"un gran desafío\" encabezar el discurso de apertura de la Feria del Libro de Rosario",
         "pubDate": "2026-10-08T09:10:00+00:00",
         "approxTime": false
       },
@@ -186,10 +195,10 @@
       },
       {
         "source": "La Capital",
-        "title": "Feria del Libro: Ternavasio aseguró que \"la historia nunca se repite, está signada por transformaciones\"",
-        "link": "https://www.lacapital.com.ar/la-ciudad/feria-del-libro-ternavasio-aseguro-que-la-historia-nunca-se-repite-esta-signada-transformaciones-n10285242.html",
-        "image": "https://media.lacapital.com.ar/p/67930217aac0736daf33e25cfbfb89cc/adjuntos/203/imagenes/103/450/0103450479/1200x675/648x387:668x407/ternavasio.jpg",
-        "summary": "La prestigiosa historiadora rosarina destacó que será \"un honor\" y \"un gran desafío\" encabezar el discurso de apertura de la Feria del Libro de Rosario",
+        "title": "Cuidacoches: la reinserción laboral imitará un plan usado para carreros",
+        "link": "https://www.lacapital.com.ar/la-ciudad/cuidacoches-la-reinsercion-laboral-imitara-un-plan-usado-carreros-n10285445.html",
+        "image": "https://media.lacapital.com.ar/p/948898279404aab575714f7e3a2789b9/adjuntos/203/imagenes/006/909/0006909501/1200x675/smart/el-programa-andando-se-aplico-reinsertar-carreros-que-recuperaban-residuos.jpg",
+        "summary": "El intendente Pablo Javkin prepara su mensaje de adhesión a la ley que prohíbe cuidacoches. Se buscará reconvertirlos con capacitación en oficios",
         "pubDate": "2026-10-08T09:10:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/6c8c0e2311b0b166bf9077d16714a9d0/adjuntos/203/imagenes/103/449/0103449554/1200x675/smart/el-dia12.jpeg",
         "summary": "El indicador que elabora el Indec acumula una baja de 2,7 % en 2026. En la medición mensual registró un leve rebote que no compensó la debacle de julio. El organismo también informó que bajó la actividad en la construcción",
         "pubDate": "2026-10-08T00:49:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Quini 6: nueve apostadores de la provincia de Santa Fe celebraron en el Siempre Sale",
-        "link": "https://www.lacapital.com.ar/informacion-general/quini-6-nueve-apostadores-la-provincia-santa-fe-celebraron-el-siempre-sale-n10285514.html",
-        "image": "https://media.lacapital.com.ar/p/65c572c222b5604877869c5f6d9dfb14/adjuntos/203/imagenes/103/453/0103453622/2026-10-07-quini-6.jpg",
-        "summary": "El Tradicional, La Segunda y el Revancha quedaron vacantes. El próximo pozo acumula $11.650 millones de pesos",
-        "pubDate": "2026-10-08T00:36:00+00:00",
         "approxTime": false
       }
     ]
