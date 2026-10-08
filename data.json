@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-08T14:01:09.216577+00:00",
+  "generatedAt": "2026-10-08T14:30:56.474661+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Cayó un árbol sobre una casa en villa Banana y atrapó a una familia: \"Sacamos a la mamá que estaba desmayada\"",
+        "link": "https://www.rosario3.com/informaciongeneral/cayo-un-arbol-sobre-una-casa-en-villa-banana-y-atrapo-a-una-familia-sacamos-a-la-mama-que-estaba-desmayada-20261008-0032.html",
+        "image": "https://www.rosario3.com/__export/1791469676362/sites/rosario3/img/2026/10/08/arbolbananhome.jpg_928314581.jpg",
+        "summary": "El dramático episodio ocurrió en Gálvez al 4200. Un eucalipto de gran porte cedió y destruyó una vivienda de pasillo donde dormía una madre con sus tres niños. Los vecinos, desesperados, lograron rescatar a las víctimas de entre las chapas y los cables con tensión. Fernando, uno…",
+        "pubDate": "2026-10-08T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "El verdadero riesgo de El Niño en Rosario y las zonas de la ciudad que podrían resultar afectadas",
         "link": "https://www.rosario3.com/informaciongeneral/el-verdadero-riesgo-de-el-nino-en-rosario-y-las-zonas-de-la-ciudad-que-podrian-resultar-afectadas-20261008-0025.html",
         "image": "https://www.rosario3.com/__export/1791467299590/sites/rosario3/img/2026/10/08/rio2.jpg_928314581.jpg",
         "summary": "El ingeniero en recursos hídricos Gustavo Villauría llevó tranquilidad sobre el impacto de El Niño en Rosario y la región. Aclaró que la principal preocupación no es la crecida del río Paraná, sino las tormentas de alta intensidad que pueden generar anegamientos urbanos…",
-        "pubDate": "2026-10-08T12:00:00+00:00",
+        "pubDate": "2026-10-08T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/proponen-que-el-gobierno-arme-una-plataforma-online-oficial-con-la-informacion-de-todos-los-loteos-para-evitar-estafas-20261008-0011.html",
         "image": "https://www.rosario3.com/__export/1771774971395/sites/rosario3/img/2026/02/22/cattalini.jpeg_1825222445.jpeg",
         "summary": "La diputada provincial socialista Lionela Cattalini presentó un proyecto de ley para el armado de un registro de acceso público y gratuita que integre toda la la información administrativa de los distintos proyectos inmobiliarios para que el interesado en adquirir lotes pueda…",
-        "pubDate": "2026-10-08T11:59:00+00:00",
+        "pubDate": "2026-10-08T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,16 +35,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/nuevas-claves-en-el-caso-de-giovani-mvogo-las-heridas-redondeadas-y-el-llamado-a-su-celular-un-minuto-despues-de-la-muerte-20261007-0059.html",
         "image": "https://www.rosario3.com/__export/1791401945685/sites/rosario3/img/2026/10/07/giovani_mvogo.jpg_928314580.jpg",
         "summary": "La familia pidió distintas medidas al fiscal de la causa tras detectar lesiones que no creen compatibles con una caída de altura y también por una serie de llamados sospechosos. Los detalles, que se conocen ahora, revelan más dudas sobre qué ocurrió la madrugada del 28 de…",
-        "pubDate": "2026-10-07T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "En medio de la lluvia, un auto despistó y terminó volcado en una ruta de la región",
-        "link": "https://www.rosario3.com/informaciongeneral/en-medio-de-la-lluvia-un-auto-despisto-y-termino-volcado-en-una-ruta-de-la-region-20261008-0017.html",
-        "image": "https://www.rosario3.com/__export/1791463951325/sites/rosario3/img/2026/10/08/whatsapp_image_2026-10-08_at_09_28_35_1.jpeg_928314580.jpeg",
-        "summary": "El siniestro ocurrió durante la madrugada en la ruta provincial 34s que une Granadero Baigorria con Ibarlucea. El vehículo terminó en una zanja y, en principio, el hombre que lo manejaba no sufrió lesiones de consideración",
-        "pubDate": "2026-10-08T11:57:00+00:00",
+        "pubDate": "2026-10-07T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Doble crimen: murió el segundo joven baleado cerca del Complejo Penitenciario Rosario",
+        "link": "https://www.lacapital.com.ar/policiales/doble-crimen-murio-el-segundo-joven-baleado-cerca-del-complejo-penitenciario-rosario-n10285567.html",
+        "image": "https://media.lacapital.com.ar/p/52c955ba98bbb97a96c95f9c18d78671/adjuntos/203/imagenes/102/512/0102512199/1200x675/smart/heca-06jpg.jpg",
+        "summary": "Erik Zapata tenía 26 años y había sido internado hace casi dos meses por el ataque a tiros en el que mataron a Valentín Díaz",
+        "pubDate": "2026-10-08T14:03:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Die Toten Hosen se despidió de Rosario: un paseo por Oroño y la visita de 500 alemanes",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/30fabceeedd30ae7abc05c9c6a770be3/adjuntos/203/imagenes/102/811/0102811494/1200x675/smart/colectividades-1511.jpg",
         "summary": "La tradicional fiesta rosarina será en el Parque Nacional a la Bandera y contará con más de 40 stands y propuestas gastronómicas y culturales",
         "pubDate": "2026-10-08T11:51:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Anne Carson ganó el Nobel de Literatura 2026 por su obra \"audaz e inventiva\"",
-        "link": "https://www.lacapital.com.ar/informacion-general/anne-carson-gano-el-nobel-literatura-2026-su-obra-audaz-e-inventiva-n10285539.html",
-        "image": "https://media.lacapital.com.ar/p/26c134c87305fb0eb7eefda610e4401e/adjuntos/203/imagenes/103/453/0103453901/1200x675/smart/anne-carson.png",
-        "summary": "La escritora canadiense fue premiada por su obra, que combina poesía, traducción y estudios clásicos y renovó la literatura contemporánea",
-        "pubDate": "2026-10-08T11:47:00+00:00",
         "approxTime": false
       }
     ]
