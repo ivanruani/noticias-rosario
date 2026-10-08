@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-10-08T15:31:09.906053+00:00",
+  "generatedAt": "2026-10-08T16:01:14.563661+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "La familia cuya casa fue derribada por un árbol se recupera y enfrenta una dura realidad: “Perdieron todo”",
+        "link": "https://www.rosario3.com/informaciongeneral/la-familia-cuya-casa-fue-derribada-por-un-arbol-se-recupera-y-enfrenta-una-dura-realidad-perdieron-todo-20261008-0046.html",
+        "image": "https://www.rosario3.com/__export/1791474602606/sites/rosario3/img/2026/10/08/arbolbanana4.jpg_928314581.jpg",
+        "summary": "El temporal provocó la caída de un inmenso eucalipto sobre una vivienda de la zona oeste de Rosario, donde dormían una mujer y sus tres hijos. Pese a la destrucción total del inmueble, las víctimas lograron sobrevivir gracias al rápido rescate de los vecinos. Janet, hija de la…",
+        "pubDate": "2026-10-08T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Cayó un árbol sobre una casa en villa Banana y atrapó a una familia: \"Sacamos a la mamá que estaba desmayada\"",
         "link": "https://www.rosario3.com/informaciongeneral/cayo-un-arbol-sobre-una-casa-en-villa-banana-y-atrapo-a-una-familia-sacamos-a-la-mama-que-estaba-desmayada-20261008-0032.html",
         "image": "https://www.rosario3.com/__export/1791469676362/sites/rosario3/img/2026/10/08/arbolbananhome.jpg_928314581.jpg",
         "summary": "El dramático episodio ocurrió en Gálvez al 4200. Un eucalipto de gran porte cedió y destruyó una vivienda de pasillo donde dormía una madre con sus tres niños. Los vecinos, desesperados, lograron rescatar a las víctimas de entre las chapas y los cables con tensión. Fernando, uno…",
-        "pubDate": "2026-10-08T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El verdadero riesgo de El Niño en Rosario y las zonas de la ciudad que podrían resultar afectadas",
-        "link": "https://www.rosario3.com/informaciongeneral/el-verdadero-riesgo-de-el-nino-en-rosario-y-las-zonas-de-la-ciudad-que-podrian-resultar-afectadas-20261008-0025.html",
-        "image": "https://www.rosario3.com/__export/1791467299590/sites/rosario3/img/2026/10/08/rio2.jpg_928314581.jpg",
-        "summary": "El ingeniero en recursos hídricos Gustavo Villauría llevó tranquilidad sobre el impacto de El Niño en Rosario y la región. Aclaró que la principal preocupación no es la crecida del río Paraná, sino las tormentas de alta intensidad que pueden generar anegamientos urbanos…",
         "pubDate": "2026-10-08T11:59:00+00:00",
         "approxTime": true
       },
@@ -31,11 +31,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Nuevas claves en el caso de Giovani Mvogo: las heridas “redondeadas” y el llamado a su celular un minuto después de la muerte",
-        "link": "https://www.rosario3.com/informaciongeneral/nuevas-claves-en-el-caso-de-giovani-mvogo-las-heridas-redondeadas-y-el-llamado-a-su-celular-un-minuto-despues-de-la-muerte-20261007-0059.html",
-        "image": "https://www.rosario3.com/__export/1791401945685/sites/rosario3/img/2026/10/07/giovani_mvogo.jpg_928314580.jpg",
-        "summary": "La familia pidió distintas medidas al fiscal de la causa tras detectar lesiones que no creen compatibles con una caída de altura y también por una serie de llamados sospechosos. Los detalles, que se conocen ahora, revelan más dudas sobre qué ocurrió la madrugada del 28 de…",
-        "pubDate": "2026-10-07T11:57:00+00:00",
+        "title": "El verdadero riesgo de El Niño en Rosario y las zonas de la ciudad que podrían resultar afectadas",
+        "link": "https://www.rosario3.com/informaciongeneral/el-verdadero-riesgo-de-el-nino-en-rosario-y-las-zonas-de-la-ciudad-que-podrian-resultar-afectadas-20261008-0025.html",
+        "image": "https://www.rosario3.com/__export/1791467299590/sites/rosario3/img/2026/10/08/rio2.jpg_928314581.jpg",
+        "summary": "El ingeniero en recursos hídricos Gustavo Villauría llevó tranquilidad sobre el impacto de El Niño en Rosario y la región. Aclaró que la principal preocupación no es la crecida del río Paraná, sino las tormentas de alta intensidad que pueden generar anegamientos urbanos…",
+        "pubDate": "2026-10-08T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Netflix expande el universo de \"Bridgerton\" con una nueva serie",
+        "link": "https://www.lacapital.com.ar/zoom/netflix-expande-el-universo-bridgerton-una-nueva-serie-n10285599.html",
+        "image": "https://media.lacapital.com.ar/p/8c3593765b46ef0e3a365813788d41ae/adjuntos/203/imagenes/103/454/0103454708/1200x675/smart/image-2026-10-08t130227843.jpg",
+        "summary": "La plataforma, junto con la productora Shondaland, anunciaron una precuela basada en la querida matriarca Lady Violet",
+        "pubDate": "2026-10-08T15:27:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "\"Perdí el amor por el fútbol argentino\": la crítica de Tagliafico a la Liga Profesional",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/56e71072cff45659857f94eec0f1f077/adjuntos/203/imagenes/103/454/0103454162/1200x675/smart/recapturan-preso-cementerio.jpg",
         "summary": "Un hombre huyó de una seccional de Pilar, en Las Colonias, y se refugió en el cementerio de San Jerónimo Norte. Cuando lo iban a recapturar, intentó suicidarse",
         "pubDate": "2026-10-08T12:46:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El río Paraná subió 74 centímetros en un mes en Rosario y anticipan otra crecida",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-rio-parana-subio-74-centimetros-un-mes-rosario-y-anticipan-otra-crecida-n10285551.html",
-        "image": "https://media.lacapital.com.ar/p/168cde4269fd2450783f6b479e5d3644/adjuntos/203/imagenes/103/454/0103454126/1200x675/smart/crecida-parana.png",
-        "summary": "El río Paraná viene en ascenso y el pronóstico oficial adelanta que seguirá creciendo durante las próximas semanas, aunque todavía lejos del nivel de alerta",
-        "pubDate": "2026-10-08T12:34:00+00:00",
         "approxTime": false
       }
     ]
