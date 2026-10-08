@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T13:01:14.195729+00:00",
+  "generatedAt": "2026-10-08T13:30:59.493987+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,19 +13,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "Rosario suma cruces a la isla todo el año desde La Fluvial: ¿cuándo empiezan y cuánto cuesta el servicio?",
-        "link": "https://www.rosario3.com/informaciongeneral/rosario-suma-cruces-a-la-isla-todo-el-ano-desde-la-fluvial-cuando-empiezan-y-cuanto-cuesta-el-servicio-20261007-0049.html",
-        "image": "https://www.rosario3.com/__export/1791393088276/sites/rosario3/img/2024/09/08/cruce_en_lancha_fluvial_isla-2909_1.jpg_928314581.jpg",
-        "summary": "La temporada comienza este sábado 10 de octubre. La embarcación a la isla Sabino Corsi saldrá cada hora los sábados, domingos y feriados, entre las 11 y las 15.30. Desde diciembre el servicio funcionará todos los días. También se sumará el paseo guiado “La Vuelta al Mundo”, una…",
-        "pubDate": "2026-10-07T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
         "title": "Proponen que el Gobierno arme una plataforma online oficial con la información de todos los loteos para evitar estafas",
         "link": "https://www.rosario3.com/-economia-negocios-agro-/proponen-que-el-gobierno-arme-una-plataforma-online-oficial-con-la-informacion-de-todos-los-loteos-para-evitar-estafas-20261008-0011.html",
         "image": "https://www.rosario3.com/__export/1771774971395/sites/rosario3/img/2026/02/22/cattalini.jpeg_1825222445.jpeg",
         "summary": "La diputada provincial socialista Lionela Cattalini presentó un proyecto de ley para el armado de un registro de acceso público y gratuita que integre toda la la información administrativa de los distintos proyectos inmobiliarios para que el interesado en adquirir lotes pueda…",
+        "pubDate": "2026-10-08T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "En medio de la lluvia, un auto despistó y terminó volcado en una ruta de la región",
+        "link": "https://www.rosario3.com/informaciongeneral/en-medio-de-la-lluvia-un-auto-despisto-y-termino-volcado-en-una-ruta-de-la-region-20261008-0017.html",
+        "image": "https://www.rosario3.com/__export/1791463951325/sites/rosario3/img/2026/10/08/whatsapp_image_2026-10-08_at_09_28_35_1.jpeg_928314580.jpeg",
+        "summary": "El siniestro ocurrió durante la madrugada en la ruta provincial 34s que une Granadero Baigorria con Ibarlucea. El vehículo terminó en una zanja y, en principio, el hombre que lo manejaba no sufrió lesiones de consideración",
         "pubDate": "2026-10-08T11:58:00+00:00",
         "approxTime": true
       },
@@ -58,11 +58,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Murió un joven que fue baleado en agosto durante un ataque en zona oeste",
-        "link": "https://www.rosario3.com/policiales/murio-un-joven-que-fue-baleado-en-agosto-durante-un-ataque-en-zona-oeste-20261008-0015.html",
-        "image": "https://www.rosario3.com/__export/1791460620855/sites/rosario3/img/2026/01/30/heca_2025_-alanmonzon.png_826209282.png",
-        "summary": "La víctima tenía 26 años y permanecía internado en el Heca tras recibir una herida de arma de fuego en 27 de Febrero y Colombres. Falleció este jueves por la mañana. Por el ataque también había muerto otro joven de 24 años",
-        "pubDate": "2026-10-08T11:54:00+00:00",
+        "title": "Rosario suma cruces a la isla todo el año desde La Fluvial: ¿cuándo empiezan y cuánto cuesta el servicio?",
+        "link": "https://www.rosario3.com/informaciongeneral/rosario-suma-cruces-a-la-isla-todo-el-ano-desde-la-fluvial-cuando-empiezan-y-cuanto-cuesta-el-servicio-20261007-0049.html",
+        "image": "https://www.rosario3.com/__export/1791393088276/sites/rosario3/img/2024/09/08/cruce_en_lancha_fluvial_isla-2909_1.jpg_928314581.jpg",
+        "summary": "La temporada comienza este sábado 10 de octubre. La embarcación a la isla Sabino Corsi saldrá cada hora los sábados, domingos y feriados, entre las 11 y las 15.30. Desde diciembre el servicio funcionará todos los días. También se sumará el paseo guiado “La Vuelta al Mundo”, una…",
+        "pubDate": "2026-10-07T11:54:00+00:00",
         "approxTime": true
       },
       {
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Dos hombres heridos tras ser atropellados por un auto en zona oeste",
+        "link": "https://www.lacapital.com.ar/la-ciudad/dos-hombres-heridos-ser-atropellados-un-auto-zona-oeste-n10285565.html",
+        "image": "https://media.lacapital.com.ar/p/eba3bd5828c0eb1beabf83b2466388d1/adjuntos/203/imagenes/103/454/0103454233/1200x675/smart/atropellan-dos-personas-27-febrero-y-barra.jpg",
+        "summary": "El siniestro vial se produjo este jueves a la mañana en 27 de Febrero y Barra. Las víctimas fueron un vendedor de alarmas y su cliente",
+        "pubDate": "2026-10-08T13:16:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Un preso escapó de una comisaría y lo hallaron escondido en el techo de un panteón",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/3568d3626f7df3cce05501eef10e238d/adjuntos/203/imagenes/103/453/0103453565/1200x675/smart/nob-asamb-54227.jpg",
         "summary": "En la reunión de socios de Newell's del 22 de octubre se brindará información sobre el desempeño administrativo de la gestión de Astore",
         "pubDate": "2026-10-08T09:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Feria del Libro: Ternavasio aseguró que \"la historia nunca se repite, está signada por transformaciones\"",
-        "link": "https://www.lacapital.com.ar/la-ciudad/feria-del-libro-ternavasio-aseguro-que-la-historia-nunca-se-repite-esta-signada-transformaciones-n10285242.html",
-        "image": "https://media.lacapital.com.ar/p/67930217aac0736daf33e25cfbfb89cc/adjuntos/203/imagenes/103/450/0103450479/1200x675/648x387:668x407/ternavasio.jpg",
-        "summary": "La prestigiosa historiadora rosarina destacó que será \"un honor\" y \"un gran desafío\" encabezar el discurso de apertura de la Feria del Libro de Rosario",
-        "pubDate": "2026-10-08T09:10:00+00:00",
         "approxTime": false
       }
     ]
