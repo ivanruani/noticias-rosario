@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T09:01:27.226493+00:00",
+  "generatedAt": "2026-10-08T09:31:03.366810+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,78 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Con destacadas figuras de la cultura, arranca una nueva edición de la Feria del Libro",
+        "link": "https://www.lacapital.com.ar/la-ciudad/con-destacadas-figuras-la-cultura-arranca-una-nueva-edicion-la-feria-del-libro-n10285483.html",
+        "image": "https://media.lacapital.com.ar/p/3562f1e462a75d024465647c899902ea/adjuntos/203/imagenes/103/453/0103453314/1200x675/smart/feriade.jpg",
+        "summary": "Selva Almada, María Teresa Andruetto, Claudia Piñeiro y Eduardo Sacheri son algunos de los invitados a la fiesta de la lectura",
+        "pubDate": "2026-10-08T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "En Newell's la asamblea incluirá un informe sobre los sumarios a la dirigencia anterior",
+        "link": "https://www.lacapital.com.ar/en-newells-la-asamblea-incluira-un-informe-los-sumarios-la-dirigencia-anterior-n10285508.html",
+        "image": "https://media.lacapital.com.ar/p/3568d3626f7df3cce05501eef10e238d/adjuntos/203/imagenes/103/453/0103453565/1200x675/smart/nob-asamb-54227.jpg",
+        "summary": "En la reunión de socios de Newell's del 22 de octubre se brindará información sobre el desempeño administrativo de la gestión de Astore",
+        "pubDate": "2026-10-08T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La ganadería tendrá una gran cita de negocios en Rosario",
+        "link": "https://www.lacapital.com.ar/agro/la-ganaderia-tendra-una-gran-cita-negocios-rosario-n10285452.html",
+        "image": "https://media.lacapital.com.ar/p/0c4ac2b94151a15d623e4e47198bf694/adjuntos/203/imagenes/103/026/0103026553/1200x675/665x400:685x420/ganaderia.jpeg",
+        "summary": "Banco Nación y Rosgan celebrarán sus aniversarios con una subasta que se realizará el 13 de octubre en el ECU y convocará a productores, compradores, consignatarios, feedloteros y frigoríficos de todo el país",
+        "pubDate": "2026-10-08T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Cuidacoches: la reinserción laboral imitará un plan usado para carreros",
+        "link": "https://www.lacapital.com.ar/la-ciudad/cuidacoches-la-reinsercion-laboral-imitara-un-plan-usado-carreros-n10285445.html",
+        "image": "https://media.lacapital.com.ar/p/948898279404aab575714f7e3a2789b9/adjuntos/203/imagenes/006/909/0006909501/1200x675/smart/el-programa-andando-se-aplico-reinsertar-carreros-que-recuperaban-residuos.jpg",
+        "summary": "El intendente Pablo Javkin prepara su mensaje de adhesión a la ley que prohíbe cuidacoches. Se buscará reconvertirlos con capacitación en oficios",
+        "pubDate": "2026-10-08T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Estrenos de cine en Rosario: suspenso argentino, dramas extranjeros y documentales musicales",
+        "link": "https://www.lacapital.com.ar/zoom/estrenos-cine-rosario-suspenso-argentino-dramas-extranjeros-y-documentales-musicales-n10285420.html",
+        "image": "https://media.lacapital.com.ar/p/cda83d37e7f8678bedebe508ec57616e/adjuntos/203/imagenes/103/452/0103452762/1200x675/smart/image-8.png",
+        "summary": "Títulos para todos los gustos desembarcan en las salas de cine de la ciudad este jueves 8 de octubre. Promociones y descuentos a la hora de sacar entradas",
+        "pubDate": "2026-10-08T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Feria del Libro: Ternavasio aseguró que \"la historia nunca se repite, está signada por transformaciones\"",
+        "link": "https://www.lacapital.com.ar/la-ciudad/feria-del-libro-ternavasio-aseguro-que-la-historia-nunca-se-repite-esta-signada-transformaciones-n10285242.html",
+        "image": "https://media.lacapital.com.ar/p/67930217aac0736daf33e25cfbfb89cc/adjuntos/203/imagenes/103/450/0103450479/1200x675/648x387:668x407/ternavasio.jpg",
+        "summary": "La prestigiosa historiadora rosarina destacó que será \"un honor\" y \"un gran desafío\" encabezar el discurso de apertura de la Feria del Libro de Rosario",
+        "pubDate": "2026-10-08T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La OMM renovó su pronóstico sobre El Niño y especialistas argentinos hacen foco en el Litoral",
+        "link": "https://www.lacapital.com.ar/la-region/la-omm-renovo-su-pronostico-el-nino-y-especialistas-argentinos-hacen-foco-el-litoral-n10285407.html",
+        "image": "https://media.lacapital.com.ar/p/83b8f0c3ba4903fd40545f4f56d87eb4/adjuntos/203/imagenes/100/312/0100312834/1200x675/smart/lluvia01jpg.jpg",
+        "summary": "El último reporte de la entidad internacional volvió a categorizar el fenómeno como \"muy fuerte\" hasta fin de año, con un posible pico en diciembre",
+        "pubDate": "2026-10-08T09:05:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central tras el título: el pie que se equivocó de pedal y en lugar de acelerar, frenó",
+        "link": "https://www.lacapital.com.ar/ovacion/central-el-titulo-el-pie-que-se-equivoco-pedal-y-lugar-acelerar-freno-n10285355.html",
+        "image": "https://media.lacapital.com.ar/p/46eb2a3349ee48c5027f76c2625aeaab/adjuntos/203/imagenes/103/452/0103452226/cen.JPG",
+        "summary": "El envión anímico no sólo no funcionó, sino que el Canalla mostró un bajón colectivo. El empate en Banfield lo obliga resetear su fútbol",
+        "pubDate": "2026-10-08T09:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Bebecê llega a Argentina: la marca que redefine el equilibrio entre moda y comodidad.",
         "link": "https://www.lacapital.com.ar/novedades/bebece-llega-argentina-la-marca-que-redefine-el-equilibrio-moda-y-comodidad-n10285137.html",
         "image": "https://media.lacapital.com.ar/p/e3a2ed6c43434c72dd9082b832e27893/adjuntos/203/imagenes/103/449/0103449431/1200x675/smart/negros.jpg",
@@ -200,78 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/65c572c222b5604877869c5f6d9dfb14/adjuntos/203/imagenes/103/453/0103453622/2026-10-07-quini-6.jpg",
         "summary": "El Tradicional, La Segunda y el Revancha quedaron vacantes. El próximo pozo acumula $11.650 millones de pesos",
         "pubDate": "2026-10-08T00:36:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La universidad busca aliados y Pullaro aparece en el radar de los rectores",
-        "link": "https://www.lacapital.com.ar/politica/la-universidad-busca-aliados-y-pullaro-aparece-el-radar-los-rectores-n10285495.html",
-        "image": "https://media.lacapital.com.ar/p/061aebde66cf4d1de834ce1428c0adb0/adjuntos/203/imagenes/103/453/0103453472/1200x675/smart/cabildo-abierto-rectores-cin-web.jpg",
-        "summary": "Tras el fallo favorable, el CIN realizó un cabildo abierto en la Plaza de Mayo por la ley de financiamiento. Rondas de reuniones, marchas y el efecto Messi",
-        "pubDate": "2026-10-07T23:45:34+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Llovieron más de 75 milímetros en Rosario y el jueves mejoran las condiciones",
-        "link": "https://www.lacapital.com.ar/la-ciudad/llovieron-mas-75-milimetros-rosario-y-el-jueves-mejoran-las-condiciones-n10285507.html",
-        "image": "https://media.lacapital.com.ar/p/ebfc72769911a570f12141c8547a1a59/adjuntos/203/imagenes/103/453/0103453554/2026-10-07-lluvias-by_mbustamente-82748231.jpg",
-        "summary": "Gonzalo Ratner indicó que hubo más de 200 reclamos por caídas de árboles y ramas y demás incidencias",
-        "pubDate": "2026-10-07T23:45:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El emotivo mensaje de Antonela a Messi, un día después de su despedida de la selección: \"Siempre con vos\"",
-        "link": "https://www.lacapital.com.ar/ovacion/el-emotivo-mensaje-antonela-messi-un-dia-despues-su-despedida-la-seleccion-siempre-vos-n10285500.html",
-        "image": "https://media.lacapital.com.ar/p/bf57bce70e86da22f3355d8b88903b1c/adjuntos/203/imagenes/103/453/0103453497/1200x675/smart/imageanto.jpg",
-        "summary": "La rosarina publicó un emotivo posteo el día después del último partido de Lionel Messi con la selección. Destacó el cariño de los hinchas, recordó el camino recorrido juntos y celebró la forma en que el capitán cerró una etapa histórica.",
-        "pubDate": "2026-10-07T23:02:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La mujer que sobrevivió a la ejecución en Tennessee despertó: \"Está enojada y confundida\"",
-        "link": "https://www.lacapital.com.ar/informacion-general/la-mujer-que-sobrevivio-la-ejecucion-tennessee-desperto-esta-enojada-y-confundida-n10285491.html",
-        "image": "https://media.lacapital.com.ar/p/058dc9fa03dd4ec85bb99325799eea58/adjuntos/203/imagenes/103/453/0103453348/2026-10-07-christa-pike.jpg",
-        "summary": "Aseguran que podrían pasar meses antes de saber si podrá restablecer su capacidad mental para que el Estado pueda intentar ejecutarla de nuevo",
-        "pubDate": "2026-10-07T22:46:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Milei volvió a llamar \"ladrón\" a Lula antes del balotaje presidencial en Brasil",
-        "link": "https://www.lacapital.com.ar/politica/milei-volvio-llamar-ladron-lula-antes-del-balotaje-presidencial-brasil-n10285476.html",
-        "image": "https://media.lacapital.com.ar/p/222d0217703370ded39fbaacf1873070/adjuntos/203/imagenes/103/453/0103453220/1200x675/smart/image.png",
-        "summary": "A través de una publicación en Instagram, el jefe del Estado argentino arremetió nuevamente contra el actual mandatario del vecino país",
-        "pubDate": "2026-10-07T21:44:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Murió Maricarmen, la mujer que disparó la lucha contra los desalojos en España",
-        "link": "https://www.lacapital.com.ar/el-mundo/murio-maricarmen-la-mujer-que-disparo-la-lucha-contra-los-desalojos-espana-n10285475.html",
-        "image": "https://media.lacapital.com.ar/p/7f053f5fab9932d2c63602adf1202368/adjuntos/203/imagenes/103/453/0103453206/2026-10-07-maricarmen.jpg",
-        "summary": "Tenía 87 años y desde hace siete décadas vivía en un departamento madrileño del que fue desahuciada el 23 de septiembre",
-        "pubDate": "2026-10-07T21:44:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Festival Fontanarrosa 2026: Guillermo Francella será el invitado de honor en Rosario",
-        "link": "https://www.lacapital.com.ar/la-ciudad/festival-fontanarrosa-2026-guillermo-francella-sera-el-invitado-honor-rosario-n10285477.html",
-        "image": "https://media.lacapital.com.ar/p/1a9dbb1fd67c35e52e031c9919a2ca27/adjuntos/203/imagenes/103/453/0103453217/1200x675/smart/imagefonta.jpg",
-        "summary": "La segunda edición se realizará del 25 al 29 de noviembre en distintos espacios de la ciudad. Francella abrirá el encuentro en el Teatro El Círculo junto al humorista rosarino Luis Rubio.",
-        "pubDate": "2026-10-07T21:31:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Coimas: un subcomisario cobró por 1.487 verificaciones irregulares de autos y motos",
-        "link": "https://www.lacapital.com.ar/policiales/coimas-un-subcomisario-cobro-1487-verificaciones-irregulares-autos-y-motos-n10285474.html",
-        "image": "https://media.lacapital.com.ar/p/2a6df8b8f9ba2072291cff0837c03f82/adjuntos/203/imagenes/103/453/0103453172/1200x675/smart/imageauto2.jpg",
-        "summary": "El exjefe de una planta de verificación automotor de Esperanza está acusado de recibir dinero a cambio de firmar formularios sin inspeccionar los vehículos. La Fiscalía le atribuye 1.079 trámites de autos y 408 de motos y pedirá su prisión preventiva",
-        "pubDate": "2026-10-07T21:22:00+00:00",
         "approxTime": false
       }
     ]
