@@ -1,23 +1,14 @@
 {
-  "generatedAt": "2026-10-08T00:31:07.283613+00:00",
+  "generatedAt": "2026-10-08T01:01:24.881742+00:00",
   "sites": {
     "rosario3": [
       {
         "source": "Rosario3",
-        "title": "Choferes de larga distancia alertaron por rutas deterioradas y micros con \"desgaste severo\"",
-        "link": "https://www.rosario3.com/informaciongeneral/choferes-de-larga-distancia-alertaron-por-rutas-deterioradas-y-micros-con-desgaste-severo-20261007-0072.html",
-        "image": "https://www.rosario3.com/__export/1791407265759/sites/rosario3/img/2026/10/07/colectivos.jpg_1825222445.jpg",
-        "summary": "El gremio reclamó la intervención del Gobierno nacional ante la falta de mantenimiento vial, el envejecimiento de la flota y las fallas mecánicas que afectan la seguridad de trabajadores y pasajeros",
-        "pubDate": "2026-10-07T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Temporal en Rosario: casi un centenar de incidencias y alerta naranja vigente",
+        "title": "Temporal en Rosario: lluvia intensa, árboles caídos y ráfagas durante una jornada complicada",
         "link": "https://www.rosario3.com/informaciongeneral/llueve-en-rosario-y-el-agua-que-no-drena-70-reclamos-de-anegamientos-y-alerta-naranja-vigente-20261007-0036.html",
-        "image": "https://www.rosario3.com/__export/1791400049129/sites/rosario3/img/2026/10/07/tormenta.jpg_1768679257.jpg",
-        "summary": "Hasta el mediodía habían caído más de 40 milímetros y a la tarde se desató otra tormenta con lluvia intensa. El municipio mantiene el monitoreo operativo mientras continúan las advertencias meteorológicas",
-        "pubDate": "2026-10-07T11:59:00+00:00",
+        "image": "https://www.rosario3.com/__export/1791420416917/sites/rosario3/img/2026/10/07/arbol_caido.jpg_1825222445.jpg",
+        "summary": "El temporal provocó anegamientos en distintos sectores de la ciudad y cerca de 200 reclamos. Protección Civil advirtió que las condiciones comenzarán a mejorar durante la noche y la madrugada, aunque el jueves podrían registrarse fuertes rachas de viento",
+        "pubDate": "2026-10-07T12:00:00+00:00",
         "approxTime": true
       },
       {
@@ -26,6 +17,15 @@
         "link": "https://www.rosario3.com/politica/estudiantes-ingresaron-a-la-secretaria-de-educacion-e-hicieron-una-sentada-para-exigir-por-el-financiamiento-universitario-20261007-0080.html",
         "image": "https://www.rosario3.com/__export/1791414928173/sites/rosario3/img/2026/10/07/universidad.jpg_1768679257.jpg",
         "summary": "La protesta tiene lugar poco después de que la Justicia declarara inconstitucional el decreto con el que el Gobierno frenó la aplicación de la ley; la gestión libertaria debe reforzar fondos y recomponer los salarios",
+        "pubDate": "2026-10-07T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Choferes de larga distancia alertaron por rutas deterioradas y micros con \"desgaste severo\"",
+        "link": "https://www.rosario3.com/informaciongeneral/choferes-de-larga-distancia-alertaron-por-rutas-deterioradas-y-micros-con-desgaste-severo-20261007-0072.html",
+        "image": "https://www.rosario3.com/__export/1791407265759/sites/rosario3/img/2026/10/07/colectivos.jpg_1825222445.jpg",
+        "summary": "El gremio reclamó la intervención del Gobierno nacional ante la falta de mantenimiento vial, el envejecimiento de la flota y las fallas mecánicas que afectan la seguridad de trabajadores y pasajeros",
         "pubDate": "2026-10-07T11:58:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,33 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Se disipó el efecto de las elecciones en Brasil y volvieron a caer los bonos y las acciones",
+        "link": "https://www.lacapital.com.ar/economia/se-disipo-el-efecto-las-elecciones-brasil-y-volvieron-caer-los-bonos-y-las-acciones-n10285512.html",
+        "image": "https://media.lacapital.com.ar/p/6aacf67608080b1061f9a773d7417536/adjuntos/203/imagenes/100/331/0100331822/1200x675/smart/mervaljpg.jpg",
+        "summary": "El riesgo país se empinó luego de dos días en baja. La suba de tasas en EEUU impacta en los mercados emergentes. El BCRA, de compras",
+        "pubDate": "2026-10-08T00:50:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La crisis de la industria se profundiza: en agosto se hundió un 3,2 % interanual",
+        "link": "https://www.lacapital.com.ar/economia/la-crisis-la-industria-se-profundiza-agosto-se-hundio-un-32-interanual-n10285510.html",
+        "image": "https://media.lacapital.com.ar/p/6c8c0e2311b0b166bf9077d16714a9d0/adjuntos/203/imagenes/103/449/0103449554/1200x675/smart/el-dia12.jpeg",
+        "summary": "El indicador que elabora el Indec acumula una baja de 2,7 % en 2026. En la medición mensual registró un leve rebote que no compensó la debacle de julio. El organismo también informó que bajó la actividad en la construcción",
+        "pubDate": "2026-10-08T00:49:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Quini 6: nueve apostadores de la provincia de Santa Fe celebraron en el Siempre Sale",
+        "link": "https://www.lacapital.com.ar/informacion-general/quini-6-nueve-apostadores-la-provincia-santa-fe-celebraron-el-siempre-sale-n10285514.html",
+        "image": "https://media.lacapital.com.ar/p/65c572c222b5604877869c5f6d9dfb14/adjuntos/203/imagenes/103/453/0103453622/2026-10-07-quini-6.jpg",
+        "summary": "El Tradicional, La Segunda y el Revancha quedaron vacantes. El próximo pozo acumula $11.650 millones de pesos",
+        "pubDate": "2026-10-08T00:36:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "La universidad busca aliados y Pullaro aparece en el radar de los rectores",
         "link": "https://www.lacapital.com.ar/politica/la-universidad-busca-aliados-y-pullaro-aparece-el-radar-los-rectores-n10285495.html",
         "image": "https://media.lacapital.com.ar/p/061aebde66cf4d1de834ce1428c0adb0/adjuntos/203/imagenes/103/453/0103453472/1200x675/smart/cabildo-abierto-rectores-cin-web.jpg",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/49fcc85bcfd9334ecf95d63d6db76310/adjuntos/203/imagenes/102/937/0102937986/1200x675/smart/image-2026-01-22t140842301.jpg",
         "summary": "El éxito de taquilla de Ryan Coogler combina el terror y el suspenso con elementos de otros géneros para crear una historia disruptiva y llena de sorpresas. Todos los detalles de su trama",
         "pubDate": "2026-10-07T20:17:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Denuncia por antisemitismo en Rosario: allanaron a un docente y su defensa cuestiona el operativo federal",
-        "link": "https://www.lacapital.com.ar/policiales/denuncia-antisemitismo-rosario-allanaron-un-docente-y-su-defensa-cuestiona-el-operativo-federal-n10285441.html",
-        "image": "https://media.lacapital.com.ar/p/61dbb0378f4a7b82cddc55b24cb422fb/adjuntos/203/imagenes/103/452/0103452906/1200x675/smart/ju2.jpg",
-        "summary": "La causa se inició por una presentación de un empresario contra Mariano Soria, integrante de la Asamblea de Acción por Palestina. La Policía Federal secuestró libros, dispositivos electrónicos y un arma antigua",
-        "pubDate": "2026-10-07T20:16:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El creador del poncho viral de La Sole: \"Pensé que se lo iba a llevar Messi\"",
-        "link": "https://www.lacapital.com.ar/zoom/el-creador-del-poncho-viral-la-sole-pense-que-se-lo-iba-llevar-messi-n10285455.html",
-        "image": "https://media.lacapital.com.ar/p/1c959b6bc995d077cefdd722addc2911/adjuntos/203/imagenes/103/452/0103452989/1200x675/smart/anonyigio_instagram_trabajoyeducacioncatamarca_3395447891055841964_9652362162-2.jpg",
-        "summary": "Ramón, creador del poncho que usó Soledad Pastorutti en La Capital+, contó la historia de la prenda. Del Bicentenario al Monumental",
-        "pubDate": "2026-10-07T20:16:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Celulares lentos: tres claves para mejorar su funcionamiento",
-        "link": "https://www.lacapital.com.ar/informacion-general/celulares-lentos-tres-claves-mejorar-su-funcionamiento-n10285457.html",
-        "image": "https://media.lacapital.com.ar/p/81d94d76501fde41ac1e367e77393ecf/adjuntos/203/imagenes/103/452/0103452990/1200x675/smart/image-9.png",
-        "summary": "A partir de ciertos procedimientos, los usuarios pueden optimizar el celular desde distintos aspectos, incluso en modelos viejos. El paso a paso",
-        "pubDate": "2026-10-07T20:16:00+00:00",
         "approxTime": false
       }
     ]
