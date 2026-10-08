@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T02:01:20.681976+00:00",
+  "generatedAt": "2026-10-08T02:31:18.970128+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El tiempo en Rosario: jueves con un poco de lluvia, nubes y mucho viento",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-jueves-un-poco-lluvia-nubes-y-mucho-viento-n10285524.html",
+        "image": "https://media.lacapital.com.ar/p/7170a350711f8f69fc5cff29bd74d6c2/adjuntos/203/imagenes/103/453/0103453777/2026-10-07-clima-by_ssmeccia-74213529.jpg",
+        "summary": "El viernes otra vez podría haber precipitaciones a la tarde y el fin de semana estaría mayormente nublado",
+        "pubDate": "2026-10-08T02:25:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Una isla pestilente tenía la mayor población de pingüinos del mundo, pero \"desapareció\" el 60 %",
         "link": "https://www.lacapital.com.ar/informacion-general/una-isla-pestilente-tenia-la-mayor-poblacion-pinguinos-del-mundo-pero-desaparecio-el-60-n10285523.html",
         "image": "https://media.lacapital.com.ar/p/8a336d1bc771fdb192705d35194db8b2/adjuntos/203/imagenes/103/453/0103453754/2026-10-07-pinguinos.jpg",
@@ -195,8 +204,8 @@
       },
       {
         "source": "La Capital",
-        "title": "Llovieron más de 75 milímetros en Rosario y se mantiene el alerta naranja",
-        "link": "https://www.lacapital.com.ar/la-ciudad/llovieron-mas-75-milimetros-rosario-y-se-mantiene-el-alerta-naranja-n10285507.html",
+        "title": "Llovieron más de 75 milímetros en Rosario y el jueves mejoran las condiciones",
+        "link": "https://www.lacapital.com.ar/la-ciudad/llovieron-mas-75-milimetros-rosario-y-el-jueves-mejoran-las-condiciones-n10285507.html",
         "image": "https://media.lacapital.com.ar/p/ebfc72769911a570f12141c8547a1a59/adjuntos/203/imagenes/103/453/0103453554/2026-10-07-lluvias-by_mbustamente-82748231.jpg",
         "summary": "Gonzalo Ratner indicó que hubo más de 200 reclamos por caídas de árboles y ramas y demás incidencias",
         "pubDate": "2026-10-07T23:45:00+00:00",
@@ -222,19 +231,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Murió Maricarmen, la mujer que disparó la lucha contra los desalojos en España",
-        "link": "https://www.lacapital.com.ar/el-mundo/murio-maricarmen-la-mujer-que-disparo-la-lucha-contra-los-desalojos-espana-n10285475.html",
-        "image": "https://media.lacapital.com.ar/p/7f053f5fab9932d2c63602adf1202368/adjuntos/203/imagenes/103/453/0103453206/2026-10-07-maricarmen.jpg",
-        "summary": "Tenía 87 años y desde hace siete décadas vivía en un departamento madrileño del que fue desahuciada el 23 de septiembre",
+        "title": "Milei volvió a llamar \"ladrón\" a Lula antes del balotaje presidencial en Brasil",
+        "link": "https://www.lacapital.com.ar/politica/milei-volvio-llamar-ladron-lula-antes-del-balotaje-presidencial-brasil-n10285476.html",
+        "image": "https://media.lacapital.com.ar/p/222d0217703370ded39fbaacf1873070/adjuntos/203/imagenes/103/453/0103453220/1200x675/smart/image.png",
+        "summary": "A través de una publicación en Instagram, el jefe del Estado argentino arremetió nuevamente contra el actual mandatario del vecino país",
         "pubDate": "2026-10-07T21:44:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Milei volvió a llamar \"ladrón\" a Lula antes del balotaje presidencial en Brasil",
-        "link": "https://www.lacapital.com.ar/politica/milei-volvio-llamar-ladron-lula-antes-del-balotaje-presidencial-brasil-n10285476.html",
-        "image": "https://media.lacapital.com.ar/p/222d0217703370ded39fbaacf1873070/adjuntos/203/imagenes/103/453/0103453220/1200x675/smart/image.png",
-        "summary": "A través de una publicación en Instagram, el jefe del Estado argentino arremetió nuevamente contra el actual mandatario del vecino país",
+        "title": "Murió Maricarmen, la mujer que disparó la lucha contra los desalojos en España",
+        "link": "https://www.lacapital.com.ar/el-mundo/murio-maricarmen-la-mujer-que-disparo-la-lucha-contra-los-desalojos-espana-n10285475.html",
+        "image": "https://media.lacapital.com.ar/p/7f053f5fab9932d2c63602adf1202368/adjuntos/203/imagenes/103/453/0103453206/2026-10-07-maricarmen.jpg",
+        "summary": "Tenía 87 años y desde hace siete décadas vivía en un departamento madrileño del que fue desahuciada el 23 de septiembre",
         "pubDate": "2026-10-07T21:44:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/478a7e954bd2ab3201cbd74a3415fbad/adjuntos/203/imagenes/101/847/0101847412/1200x675/smart/farmaciaspami20200207-913491jpg.jpg",
         "summary": "Esta plataforma digital de Pami permite a los médicos emitir recetas electrónicas y facilitar a los jubilados la dispensa de medicamentos. Cómo funciona",
         "pubDate": "2026-10-07T21:07:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central recupera a Campaz y Pizarro para un partido clave ante Independiente",
-        "link": "https://www.lacapital.com.ar/ovacion/central-recupera-campaz-y-pizarro-un-partido-clave-independiente-n10285413.html",
-        "image": "https://media.lacapital.com.ar/p/0d69ac2f5c856996c3d0f839367505ab/adjuntos/203/imagenes/103/452/0103452640/1200x675/smart/dos.jpeg",
-        "summary": "Los dos futbolistas regresan este jueves tras participar de la fecha Fifa con Colombia y Chile. Pizarro llega con más minutos y un gol, mientras que Campaz tuvo acción en dos amistosos.",
-        "pubDate": "2026-10-07T20:49:00+00:00",
         "approxTime": false
       }
     ]
