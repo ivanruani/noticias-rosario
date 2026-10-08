@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T19:01:11.656114+00:00",
+  "generatedAt": "2026-10-08T19:30:56.219343+00:00",
   "sites": {
     "rosario3": [
       {
@@ -40,10 +40,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Proponen que el Gobierno arme una plataforma online oficial con la información de todos los loteos para evitar estafas",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/proponen-que-el-gobierno-arme-una-plataforma-online-oficial-con-la-informacion-de-todos-los-loteos-para-evitar-estafas-20261008-0011.html",
-        "image": "https://www.rosario3.com/__export/1771774971395/sites/rosario3/img/2026/02/22/cattalini.jpeg_1825222445.jpeg",
-        "summary": "La diputada provincial socialista Lionela Cattalini presentó un proyecto de ley para el armado de un registro de acceso público y gratuita que integre toda la la información administrativa de los distintos proyectos inmobiliarios para que el interesado en adquirir lotes pueda…",
+        "title": "El nuevo posteo de Messi tras su despedida de la selección argentina: \"Ya está todo dicho, todo está hecho\"",
+        "link": "https://www.rosario3.com/deportes/el-nuevo-posteo-de-messi-tras-su-despedida-de-la-seleccion-argentina-ya-esta-todo-dicho-todo-esta-hecho-20261008-0061.html",
+        "image": "https://www.rosario3.com/__export/1791483983338/sites/rosario3/img/2026/10/08/messi-posteo.jpg_928314580.jpg",
+        "summary": "El rosarino volvió a agradecer a todos sus fanáticos a través de sus redes sociales con otro mensaje. “Las únicas palabras que me salen del corazón son: gracias, Argentina”, sostuvo",
         "pubDate": "2026-10-08T11:56:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,51 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El fabricante de Fiat y Peugeot evalúa cerrar sus plantas en Argentina",
+        "link": "https://www.lacapital.com.ar/economia/el-fabricante-fiat-y-peugeot-evalua-cerrar-sus-plantas-argentina-n10285655.html",
+        "image": "https://media.lacapital.com.ar/p/8d52361f7795d5f7437849cc064c43dd/adjuntos/203/imagenes/103/060/0103060590/1200x675/smart/stellantis.jpg",
+        "summary": "El presidente de Stellantis para Sudamérica advirtió que se podría cesar la producción en sus plantas de Buenos Aires y Córdoba por las importaciones y los costos",
+        "pubDate": "2026-10-08T19:28:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Netflix: tres miniseries nuevas que no vas a poder dejar de ver",
+        "link": "https://www.lacapital.com.ar/zoom/netflix-tres-miniseries-nuevas-que-no-vas-poder-dejar-ver-n10285672.html",
+        "image": "https://media.lacapital.com.ar/p/c6acdf474954ec9ce5afa3a60e2da31e/adjuntos/203/imagenes/103/455/0103455506/1200x675/smart/image-1.png",
+        "summary": "Drama, suspenso y thriller son los géneros de las series que desembarcaron recientemente en la plataforma y están llevándose todas las reproducciones",
+        "pubDate": "2026-10-08T19:25:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Un año sin Miguel, el técnico que dejó una huella en Central",
+        "link": "https://www.lacapital.com.ar/ovacion/un-ano-miguel-el-tecnico-que-dejo-una-huella-central-n10285658.html",
+        "image": "https://media.lacapital.com.ar/p/d7eae996bda18062b9ad9590e4ef4667/adjuntos/203/imagenes/103/455/0103455375/miguelmb.jpg",
+        "summary": "Este 8 de octubre se cumple el primer aniversario del fallecimiento de Russo, el entrenador que se ganó el respeto de todos en el mundo del fútbol",
+        "pubDate": "2026-10-08T19:08:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El Colegio de Abogados de Rosario realizará una jornada sobre la auditoría de gestión del MPA",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-colegio-abogados-rosario-realizara-una-jornada-la-auditoria-gestion-del-mpa-n10285669.html",
+        "image": "https://media.lacapital.com.ar/p/39fd6721d9ef68867ae02d1f7bf910b8/adjuntos/203/imagenes/103/323/0103323261/1200x675/smart/colegio-abogados-rosario-108-archivo-lc.jpg",
+        "summary": "La actividad se desarrollará este martes 13 de octubre con modalidad presencial y virtual. Especialistas abordarán los ejes para fortalecer la estructura institucional del Ministerio Público de la Acusación.",
+        "pubDate": "2026-10-08T19:04:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "FARO reunió a la región productiva para pensar su futuro",
+        "link": "https://www.lacapital.com.ar/la-region/faro-reunio-la-region-productiva-pensar-su-futuro-n10285668.html",
+        "image": "https://media.lacapital.com.ar/p/fd38900f421b9c93c9b6c5c0e7cca5ad/adjuntos/203/imagenes/103/455/0103455477/1200x675/smart/faro4.jpeg",
+        "summary": "Unos 400 productores, empresarios y especialistas debatieron los desafíos del entramado santafesino. Mercados, tecnología, infraestructura y valor agregado marcaron la agenda",
+        "pubDate": "2026-10-08T19:04:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "¿Habrá elecciones en Central?: la falta de oposición abre el camino para la continuidad de Belloso",
         "link": "https://www.lacapital.com.ar/ovacion/habra-elecciones-central-la-falta-oposicion-abre-el-camino-la-continuidad-belloso-n10285535.html",
         "image": "https://media.lacapital.com.ar/p/7e712ed4f261a57e96c58eb91c601933/adjuntos/203/imagenes/103/453/0103453943/1200x675/smart/asamblea-rosario-central01.jpg",
@@ -150,19 +195,19 @@
       },
       {
         "source": "La Capital",
-        "title": "El cálculo de Pullaro sobre el calendario electoral",
-        "link": "https://www.lacapital.com.ar/suscriptores/el-calculo-pullaro-el-calendario-electoral-n10285638.html",
-        "image": "https://media.lacapital.com.ar/p/8fcee682cc524ece1e25cbc9f93c4c68/adjuntos/203/imagenes/103/142/0103142683/1200x675/smart/pullaro-vacantes-justicia-federal.jpg",
-        "summary": "El gobernador lleva al límite los comicios provinciales para no mezclarlos con el debate nacional. Además, su hoja de ruta para 2027 ya está trazada y lista para zarpar",
+        "title": "Robo de celulares: media sanción para una ley que permite actuar ante un aparato localizado",
+        "link": "https://www.lacapital.com.ar/la-ciudad/robo-celulares-media-sancion-una-ley-que-permite-actuar-un-aparato-localizado-n10285648.html",
+        "image": "https://media.lacapital.com.ar/p/b4f0715bfd84875746f23c029d508c33/adjuntos/203/imagenes/103/455/0103455228/1200x675/smart/robo1.jpg",
+        "summary": "Solo en Rosario se roban 200 celulares por día. La media sanción a la norma impulsada por Ciro Seisas permite actuar en flagrancia por geolocalización",
         "pubDate": "2026-10-08T18:41:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Robo de celulares: media sanción para una ley que permite actuar ante un aparato localizado",
-        "link": "https://www.lacapital.com.ar/la-ciudad/robo-celulares-media-sancion-una-ley-que-permite-actuar-un-aparato-localizado-n10285648.html",
-        "image": "https://media.lacapital.com.ar/p/b4f0715bfd84875746f23c029d508c33/adjuntos/203/imagenes/103/455/0103455228/1200x675/smart/robo1.jpg",
-        "summary": "Solo en Rosario se roban 200 celulares por día. La media sanción a la norma impulsada por Ciro Seisas permite actuar en flagrancia por geolocalización",
+        "title": "El cálculo de Pullaro sobre el calendario electoral",
+        "link": "https://www.lacapital.com.ar/suscriptores/el-calculo-pullaro-el-calendario-electoral-n10285638.html",
+        "image": "https://media.lacapital.com.ar/p/8fcee682cc524ece1e25cbc9f93c4c68/adjuntos/203/imagenes/103/142/0103142683/1200x675/smart/pullaro-vacantes-justicia-federal.jpg",
+        "summary": "El gobernador lleva al límite los comicios provinciales para no mezclarlos con el debate nacional. Además, su hoja de ruta para 2027 ya está trazada y lista para zarpar",
         "pubDate": "2026-10-08T18:41:00+00:00",
         "approxTime": false
       },
@@ -195,19 +240,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Central: un cambio obligado y la gran posibilidad de algún retoque más por parte de Almirón",
-        "link": "https://www.lacapital.com.ar/ovacion/central-un-cambio-obligado-y-la-gran-posibilidad-algun-retoque-mas-parte-almiron-n10285633.html",
-        "image": "https://media.lacapital.com.ar/p/bf6a978c6f3de9f6e2549e58cfd7e724/adjuntos/203/imagenes/103/455/0103455070/almironssm.jpeg",
-        "summary": "El DT canalla no tendrá al lesionado Duarte y Campaz, tras su regreso de la selección, es la primera opción. Pizarro también recuperaría la titularidad",
+        "title": "La función de WhatsApp que hay que revisar para evitar espías en los chats",
+        "link": "https://www.lacapital.com.ar/informacion-general/la-funcion-whatsapp-que-hay-que-revisar-evitar-espias-los-chats-n10285647.html",
+        "image": "https://media.lacapital.com.ar/p/dac607b2326f1f3d542c293c8daebd98/adjuntos/203/imagenes/102/925/0102925351/1200x675/smart/hombre-celular-extorsion-colombia-hugo-acero-1536x1024.jpg",
+        "summary": "Desde la configuración se pueden detectar accesos desde dispositivos desconocidos o sesiones abiertas que se desean cerrar. Cómo hacerlo",
         "pubDate": "2026-10-08T18:08:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "La función de WhatsApp que hay que revisar para evitar espías en los chats",
-        "link": "https://www.lacapital.com.ar/informacion-general/la-funcion-whatsapp-que-hay-que-revisar-evitar-espias-los-chats-n10285647.html",
-        "image": "https://media.lacapital.com.ar/p/dac607b2326f1f3d542c293c8daebd98/adjuntos/203/imagenes/102/925/0102925351/1200x675/smart/hombre-celular-extorsion-colombia-hugo-acero-1536x1024.jpg",
-        "summary": "Desde la configuración se pueden detectar accesos desde dispositivos desconocidos o sesiones abiertas que se desean cerrar. Cómo hacerlo",
+        "title": "Central: un cambio obligado y la gran posibilidad de algún retoque más por parte de Almirón",
+        "link": "https://www.lacapital.com.ar/ovacion/central-un-cambio-obligado-y-la-gran-posibilidad-algun-retoque-mas-parte-almiron-n10285633.html",
+        "image": "https://media.lacapital.com.ar/p/bf6a978c6f3de9f6e2549e58cfd7e724/adjuntos/203/imagenes/103/455/0103455070/almironssm.jpeg",
+        "summary": "El DT canalla no tendrá al lesionado Duarte y Campaz, tras su regreso de la selección, es la primera opción. Pizarro también recuperaría la titularidad",
         "pubDate": "2026-10-08T18:08:00+00:00",
         "approxTime": false
       },
@@ -227,51 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/63d8863559a238400b2f5621e68cc3a5/adjuntos/305/imagenes/101/019/0101019740/1200x675/smart/cultivo-maiz-2jpg.jpg",
         "summary": "La recuperación de la humedad permitió retomar la implantación de ambos cultivos, que ingresaron en su etapa final. El 96% del trigo presenta un estado bueno a muy bueno, aunque persiste el déficit hídrico en sectores del noroeste",
         "pubDate": "2026-10-08T17:27:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Una miniserie de thriller político mexicana llegó a Netflix",
-        "link": "https://www.lacapital.com.ar/zoom/una-miniserie-thriller-politico-mexicana-llego-netflix-n10285627.html",
-        "image": "https://media.lacapital.com.ar/p/9755bac942440355c2119fbd4ea6b5ba/adjuntos/203/imagenes/103/455/0103455030/1200x675/smart/image.png",
-        "summary": "La producción de 8 capítulos está basada en la novela “Los corruptores” de Jorge Zepeda Patterson y creada por Alejandro Lozano",
-        "pubDate": "2026-10-08T17:12:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La Fifa condenó a Newell's a pagarle a Boston River por el pase de un volante uruguayo",
-        "link": "https://www.lacapital.com.ar/ovacion/la-fifa-condeno-newells-pagarle-boston-river-el-pase-un-volante-uruguayo-n10285578.html",
-        "image": "https://media.lacapital.com.ar/p/50f77e911c18420e05467f844d9e3e25/adjuntos/203/imagenes/102/506/0102506031/1200x675/smart/mf1jpeg.jpeg",
-        "summary": "La federación falló en contra de la Lepra en el reclamo que realizó la entidad uruguaya por el pase de Martín Fernández Figueira, quien llegó al Parque en junio de 2025 a cambio de 1,2 millón de dólares",
-        "pubDate": "2026-10-08T17:11:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Anses: cómo queda el calendario de pagos de octubre con el feriado",
-        "link": "https://www.lacapital.com.ar/informacion-general/anses-como-queda-el-calendario-pagos-octubre-el-feriado-n10285610.html",
-        "image": "https://media.lacapital.com.ar/p/61d97d991c6842ef297efe7abce73101/adjuntos/203/imagenes/102/663/0102663686/1200x675/smart/anses.png",
-        "summary": "Como ocurre siempre que hay feriado, Anses reorganizó las fechas de cobro para el mes de octubre. Cómo quedaron y cuánto se cobra",
-        "pubDate": "2026-10-08T17:11:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Delfina Beltramone presenta su disco con un show inmersivo en el Planetario",
-        "link": "https://www.lacapital.com.ar/zoom/delfina-beltramone-presenta-su-disco-un-show-inmersivo-el-planetario-n10285623.html",
-        "image": "https://media.lacapital.com.ar/p/84528f005baa182278efc6c6d97b350e/adjuntos/203/imagenes/103/455/0103455028/1200x675/smart/image-2026-10-08t142557935.jpg",
-        "summary": "Este sábado 10 de octubre, la cantautora rosarina mostrará \"Efecto Mariposa\", su segundo trabajo discográfico, como nunca antes",
-        "pubDate": "2026-10-08T16:46:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Lollapalooza Argentina confirmó su line up para 2027: uno por uno, todos los artistas de la grilla",
-        "link": "https://www.lacapital.com.ar/zoom/lollapalooza-argentina-confirmo-su-line-up-2027-uno-uno-todos-los-artistas-la-grilla-n10285605.html",
-        "image": "https://media.lacapital.com.ar/p/943ecbed8387fefcc1e46c3ef5fe1ee3/adjuntos/203/imagenes/103/454/0103454704/1200x675/smart/image-2026-10-08t121209364.png",
-        "summary": "Travis Scott, Charli XCX, The Killers, TINI y David Guetta lideran el headliner del festival, que se realizará del 12 al 14 de marzo en el Hipódromo de San Isidro",
-        "pubDate": "2026-10-08T16:45:00+00:00",
         "approxTime": false
       }
     ]
