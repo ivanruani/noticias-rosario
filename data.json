@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T01:52:33.333408+00:00",
+  "generatedAt": "2026-10-08T02:01:20.681976+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Una isla pestilente tenía la mayor población de pingüinos del mundo, pero \"desapareció\" el 60 %",
+        "link": "https://www.lacapital.com.ar/informacion-general/una-isla-pestilente-tenia-la-mayor-poblacion-pinguinos-del-mundo-pero-desaparecio-el-60-n10285523.html",
+        "image": "https://media.lacapital.com.ar/p/8a336d1bc771fdb192705d35194db8b2/adjuntos/203/imagenes/103/453/0103453754/2026-10-07-pinguinos.jpg",
+        "summary": "Científicos culpan al cambio climático por los cambios en la población de esta hedionda isla de las Sandwich del Sur. Los pingüinos barbijo podrían quedar en peligro de extinción",
+        "pubDate": "2026-10-08T01:54:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Murió a los 102 años Eva Marie Saint, una de las \"rubias de Hitchock\"",
         "link": "https://www.lacapital.com.ar/zoom/murio-los-102-anos-eva-marie-saint-una-las-rubias-hitchock-n10285501.html",
         "image": "https://media.lacapital.com.ar/p/1e00864b43770ffb9f992f29519eee02/adjuntos/203/imagenes/103/453/0103453710/2026-10-07-eva-marie-saint.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/0d69ac2f5c856996c3d0f839367505ab/adjuntos/203/imagenes/103/452/0103452640/1200x675/smart/dos.jpeg",
         "summary": "Los dos futbolistas regresan este jueves tras participar de la fecha Fifa con Colombia y Chile. Pizarro llega con más minutos y un gol, mientras que Campaz tuvo acción en dos amistosos.",
         "pubDate": "2026-10-07T20:49:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Rosario abre su paraguas de refugios por El Niño para las personas que viven en la calle",
-        "link": "https://www.lacapital.com.ar/la-ciudad/rosario-abre-su-paraguas-refugios-el-nino-las-personas-que-viven-la-calle-n10285354.html",
-        "image": "https://media.lacapital.com.ar/p/bf8b26126a43ce57118d11956564d330/adjuntos/203/imagenes/103/269/0103269276/1200x675/smart/situacion-calle-cml-117.jpg",
-        "summary": "La Municipalidad empezó a planificar cómo funcionarán los alojamientos transitorios en un verano con pronóstico de lluvias extraordinarias",
-        "pubDate": "2026-10-07T20:48:00+00:00",
         "approxTime": false
       }
     ]
