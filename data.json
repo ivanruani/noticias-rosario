@@ -1,14 +1,32 @@
 {
-  "generatedAt": "2026-10-08T18:01:22.519905+00:00",
+  "generatedAt": "2026-10-08T18:32:09.377221+00:00",
   "sites": {
     "rosario3": [
       {
         "source": "Rosario3",
+        "title": "Primero en Rosario: la historia poco conocida del carnet de socio honorario que Newell’s le otorgó a Lionel Messi y a su familia",
+        "link": "https://www.rosario3.com/deportes/primero-en-rosario-la-historia-detras-del-carnet-de-socio-honorario-que-newells-le-otorgo-a-lionel-messi-y-a-su-familia-20261008-0028.html",
+        "image": "https://www.rosario3.com/__export/1791470472638/sites/rosario3/img/2026/10/08/image_-17-.jpg_928314579.jpg",
+        "summary": "Luego de conocerse el carnet que River le entregó a Leo el martes pasado, Rosario3 indagó sobre el que le dio Newell's años atrás. El reconocimiento se gestó en 2015, cuando el rosarino jugaba en Barcelona. Por su antigüedad en el club, los integrantes de la familia Messi…",
+        "pubDate": "2026-10-08T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "La familia cuya casa fue derribada por un árbol se recupera y enfrenta una dura realidad: “Perdieron todo”",
         "link": "https://www.rosario3.com/informaciongeneral/la-familia-cuya-casa-fue-derribada-por-un-arbol-se-recupera-y-enfrenta-una-dura-realidad-perdieron-todo-20261008-0046.html",
-        "image": "https://www.rosario3.com/__export/1791474602606/sites/rosario3/img/2026/10/08/arbolbanana4.jpg_928314581.jpg",
+        "image": "https://www.rosario3.com/__export/1791482486422/sites/rosario3/img/2026/10/08/arbol_casa_-2-.jpeg_7935904.jpeg",
         "summary": "El temporal provocó la caída de un inmenso eucalipto sobre una vivienda de la zona oeste de Rosario, donde dormían una mujer y sus tres hijos. Pese a la destrucción total del inmueble, las víctimas lograron sobrevivir gracias al rápido rescate de los vecinos. Janet, hija de la…",
-        "pubDate": "2026-10-08T12:00:00+00:00",
+        "pubDate": "2026-10-08T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Tras la concesión, difundieron el nuevo costo del Peaje General Lagos en la autopista Rosario-Buenos Aires",
+        "link": "https://www.rosario3.com/informaciongeneral/tras-la-concesion-difundieron-el-nuevo-costo-del-peaje-general-lagos-en-la-autopista-rosario-buenos-aires-20261008-0056.html",
+        "image": "https://www.rosario3.com/__export/1791479152520/sites/rosario3/img/2026/10/08/20260814134052_peaje2.jpg_928314580.jpg",
+        "summary": "El peaje correspondiente al Arco Portuario tendrá nuevos valores desde el sábado 10 de octubre. Para autos y camionetas de dos ejes, la tarifa será de $1.850,10. En la estación no se aceptará efectivo",
+        "pubDate": "2026-10-08T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -17,24 +35,6 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/la-came-le-llevo-al-papa-leon-xiv-el-reclamo-pyme-antes-de-su-visita-al-pais-20261008-0049.html",
         "image": "https://www.rosario3.com/__export/1791475962125/sites/rosario3/img/2026/10/08/papa_diab_came.jpg_1556688110.jpg",
         "summary": "El pontífice recibió al titular de la entidad fabril, Ricardo Diab, quien le entregó un documento donde expuso la coyuntura del sector y propuso cinco compromisos federales",
-        "pubDate": "2026-10-08T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Rompieron un caño de gas mientras sacaban un árbol en barrio Martin y provocaron una importante fuga",
-        "link": "https://www.rosario3.com/informaciongeneral/rompieron-un-cano-de-gas-mientras-sacaban-un-arbol-en-barrio-martin-y-provocaron-una-importante-fuga-20261008-0051.html",
-        "image": "https://www.rosario3.com/__export/1791476014231/sites/rosario3/img/2026/10/08/fuga_de_gas.png_786111822.png",
-        "summary": "La pérdida se da en Zeballos entre Colón y Ayacucho. El escape obligó a cortar el tránsito y evacuar a algunas personas de la zona. Personal de Litoral Gas trabaja en el lugar para controlarlo",
-        "pubDate": "2026-10-08T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El verdadero riesgo de El Niño en Rosario y las zonas de la ciudad que podrían resultar afectadas",
-        "link": "https://www.rosario3.com/informaciongeneral/el-verdadero-riesgo-de-el-nino-en-rosario-y-las-zonas-de-la-ciudad-que-podrian-resultar-afectadas-20261008-0025.html",
-        "image": "https://www.rosario3.com/__export/1791467299590/sites/rosario3/img/2026/10/08/rio2.jpg_928314581.jpg",
-        "summary": "El ingeniero en recursos hídricos Gustavo Villauría llevó tranquilidad sobre el impacto de El Niño en Rosario y la región. Aclaró que la principal preocupación no es la crecida del río Paraná, sino las tormentas de alta intensidad que pueden generar anegamientos urbanos…",
         "pubDate": "2026-10-08T11:57:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,42 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "La Justicia de Campana sobreseyó a familiares de Toviggino en una causa por supuesto lavado de dinero",
+        "link": "https://www.lacapital.com.ar/informacion-general/la-justicia-campana-sobreseyo-familiares-toviggino-una-causa-supuesto-lavado-dinero-n10285654.html",
+        "image": "https://media.lacapital.com.ar/p/c4fa64f4443eef1ca0807a18ab9729bf/adjuntos/203/imagenes/103/455/0103455314/1200x675/smart/imagetoviggino.jpg",
+        "summary": "La resolución alcanzó a trece personas y seis sociedades relacionadas con el entorno del dirigente de la AFA.",
+        "pubDate": "2026-10-08T18:16:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Ley de discapacidad: piden cambios en el proyecto oficialista tras la presentación del presupuesto",
+        "link": "https://www.lacapital.com.ar/la-ciudad/ley-discapacidad-piden-cambios-el-proyecto-oficialista-la-presentacion-del-presupuesto-n10285621.html",
+        "image": "https://media.lacapital.com.ar/p/5b22f181adeddd936c90a909c324fc5b/adjuntos/203/imagenes/102/760/0102760010/1200x675/smart/discapacidad-2310-2.jpg",
+        "summary": "La iniciativa de La Libertad Avanza contemplaba mantener algunos puntos de la emergencia, pero la ley de leyes plantea disminuir partidas clave para sostener pensiones por invalidez y cobertura médica obligatoria",
+        "pubDate": "2026-10-08T18:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central: un cambio obligado y la gran posibilidad de un algún retoque más por parte de Almirón",
+        "link": "https://www.lacapital.com.ar/ovacion/central-un-cambio-obligado-y-la-gran-posibilidad-un-algun-retoque-mas-parte-almiron-n10285633.html",
+        "image": "https://media.lacapital.com.ar/p/bf6a978c6f3de9f6e2549e58cfd7e724/adjuntos/203/imagenes/103/455/0103455070/almironssm.jpeg",
+        "summary": "El DT canalla no tendrá al lesionado Duarte y Campaz, tras su regreso de la selección, es la primera opción. Pizarro también recuperaría la titularidad",
+        "pubDate": "2026-10-08T18:08:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La función de WhatsApp que hay que revisar para evitar espías en los chats",
+        "link": "https://www.lacapital.com.ar/informacion-general/la-funcion-whatsapp-que-hay-que-revisar-evitar-espias-los-chats-n10285647.html",
+        "image": "https://media.lacapital.com.ar/p/dac607b2326f1f3d542c293c8daebd98/adjuntos/203/imagenes/102/925/0102925351/1200x675/smart/hombre-celular-extorsion-colombia-hugo-acero-1536x1024.jpg",
+        "summary": "Desde la configuración se pueden detectar accesos desde dispositivos desconocidos o sesiones abiertas que se desean cerrar. Cómo hacerlo",
+        "pubDate": "2026-10-08T18:08:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Leda Bergonzi reapareció y volvió a desatar polémica: \"Llegan en silla de ruedas y se van empujando la silla\"",
         "link": "https://www.lacapital.com.ar/la-ciudad/leda-bergonzi-reaparecio-y-volvio-desatar-polemica-llegan-silla-ruedas-y-se-van-empujando-la-silla-n10285645.html",
         "image": "https://media.lacapital.com.ar/p/533d135ca5b62d1f5fa78293e0d1d450/adjuntos/203/imagenes/103/259/0103259406/1200x675/smart/leda-bergonzi-6-7.jpg",
@@ -168,19 +204,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Anses: cómo queda el calendario de pagos de octubre con el feriado",
-        "link": "https://www.lacapital.com.ar/informacion-general/anses-como-queda-el-calendario-pagos-octubre-el-feriado-n10285610.html",
-        "image": "https://media.lacapital.com.ar/p/61d97d991c6842ef297efe7abce73101/adjuntos/203/imagenes/102/663/0102663686/1200x675/smart/anses.png",
-        "summary": "Como ocurre siempre que hay feriado, Anses reorganizó las fechas de cobro para el mes de octubre. Cómo quedaron y cuánto se cobra",
+        "title": "La Fifa condenó a Newell's a pagarle a Boston River por el pase de un volante uruguayo",
+        "link": "https://www.lacapital.com.ar/ovacion/la-fifa-condeno-newells-pagarle-boston-river-el-pase-un-volante-uruguayo-n10285578.html",
+        "image": "https://media.lacapital.com.ar/p/50f77e911c18420e05467f844d9e3e25/adjuntos/203/imagenes/102/506/0102506031/1200x675/smart/mf1jpeg.jpeg",
+        "summary": "La federación falló en contra de la Lepra en el reclamo que realizó la entidad uruguaya por el pase de Martín Fernández Figueira, quien llegó al Parque en junio de 2025 a cambio de 1,2 millón de dólares",
         "pubDate": "2026-10-08T17:11:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "La Fifa condenó a Newell's a pagarle a Boston River por el pase de un volante uruguayo",
-        "link": "https://www.lacapital.com.ar/ovacion/la-fifa-condeno-newells-pagarle-boston-river-el-pase-un-volante-uruguayo-n10285578.html",
-        "image": "https://media.lacapital.com.ar/p/50f77e911c18420e05467f844d9e3e25/adjuntos/203/imagenes/102/506/0102506031/1200x675/smart/mf1jpeg.jpeg",
-        "summary": "La federación falló en contra de la Lepra en el reclamo que realizó la entidad uruguaya por el pase de Martín Fernández Figueira, quien llegó al Parque en junio de 2025 a cambio de 1,2 millón de dólares",
+        "title": "Anses: cómo queda el calendario de pagos de octubre con el feriado",
+        "link": "https://www.lacapital.com.ar/informacion-general/anses-como-queda-el-calendario-pagos-octubre-el-feriado-n10285610.html",
+        "image": "https://media.lacapital.com.ar/p/61d97d991c6842ef297efe7abce73101/adjuntos/203/imagenes/102/663/0102663686/1200x675/smart/anses.png",
+        "summary": "Como ocurre siempre que hay feriado, Anses reorganizó las fechas de cobro para el mes de octubre. Cómo quedaron y cuánto se cobra",
         "pubDate": "2026-10-08T17:11:00+00:00",
         "approxTime": false
       },
@@ -236,42 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/93f3db991e0a31eca2ba34cced863f51/adjuntos/203/imagenes/103/454/0103454430/tagliafico-argentina.jpeg",
         "summary": "El lateral de la selección argentina manifestó su postura sobre la actualidad del campeonato local y confesó: \"Siento que empezó a bajar la calidad\"",
         "pubDate": "2026-10-08T15:22:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La queja del DT de Benín: \"Los argentinos no nos dieron nada, ni una foto con Messi\"",
-        "link": "https://www.lacapital.com.ar/ovacion/la-queja-del-dt-benin-los-argentinos-no-nos-dieron-nada-ni-una-foto-messi-n10285563.html",
-        "image": "https://media.lacapital.com.ar/p/146637fb2c437cc4028d009bedf8837a/adjuntos/203/imagenes/103/454/0103454235/1200x675/smart/image-5.jpg",
-        "summary": "Gernot Rohr expresó su profundo malestar por los estrictos e inusuales controles de seguridad impuestos a su delegación tras finalizar el partido frente a la selección argentina",
-        "pubDate": "2026-10-08T14:48:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Feria del Libro: UNR Editora presentará nuevos títulos en la Feria",
-        "link": "https://www.lacapital.com.ar/zoom/feria-del-libro-unr-editora-presentara-nuevos-titulos-la-feria-n10285590.html",
-        "image": "https://media.lacapital.com.ar/p/fdd27dbd96257c50427062513afefd04/adjuntos/203/imagenes/103/454/0103454546/1200x675/smart/image-2026-10-08t121859005.jpg",
-        "summary": "El sello de la Universidad Nacional de Rosario dará a conocer siete nuevos libros de sus distintas colecciones en el marco de la Feria",
-        "pubDate": "2026-10-08T14:46:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La tristeza de Franco Colapinto por la despedida de Lionel Messi de la selección argentina",
-        "link": "https://www.lacapital.com.ar/ovacion/la-tristeza-franco-colapinto-la-despedida-lionel-messi-la-seleccion-argentina-n10285572.html",
-        "image": "https://media.lacapital.com.ar/p/aa54b6a6620f201b4ad290491b008c51/adjuntos/203/imagenes/103/454/0103454350/1200x675/smart/diseno-titulo-77.png",
-        "summary": "El piloto de Alpine reveló su emoción por el último partido del capitán con la camiseta albiceleste. Luego, puso el foco en el Gran Premio de Singapur",
-        "pubDate": "2026-10-08T14:44:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cayó un árbol sobre dos casas humildes en Villa Banana: dos niños hospitalizados",
-        "link": "https://www.lacapital.com.ar/la-ciudad/cayo-un-arbol-dos-casas-humildes-villa-banana-dos-ninos-hospitalizados-n10285587.html",
-        "image": "https://media.lacapital.com.ar/p/394a845f804b0e0cff27dfb7b68c5f4b/adjuntos/203/imagenes/103/454/0103454465/1200x675/smart/arbol-cae-casa-valparaiso-2700.jpg",
-        "summary": "Sucedió este jueves en Valparaíso al 2700. Una mujer y tres criaturas quedaron atrapadas por los escombros y fueron rescatadas por los vecinos.",
-        "pubDate": "2026-10-08T14:42:00+00:00",
         "approxTime": false
       }
     ]
