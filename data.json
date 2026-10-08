@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-08T23:01:09.197452+00:00",
+  "generatedAt": "2026-10-08T23:30:57.442918+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Javkin en la apertura Feria del Libro: “No habrá nunca una IA que frasee como Saer, que invente mundos como Gorodischer”",
+        "link": "https://www.rosario3.com/informaciongeneral/javkin-en-la-apertura-feria-del-libro-no-habra-nunca-una-ia-que-frasee-como-saer-que-invente-mundos-como-gorodischer-20261008-0087.html",
+        "image": "https://www.rosario3.com/__export/1791501076388/sites/rosario3/img/2026/10/08/javkin_1.jpg_884113614.jpg",
+        "summary": "El intendente encabezó la inauguración de la edición 2026 en el Centro Cultural Fontanarrosa y defendió la literatura, la creatividad y el encuentro entre lectores y escritores frente al avance de los algoritmos. La feria se extenderá hasta el 18 de octubre, con más de 350…",
+        "pubDate": "2026-10-08T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Comenzó el debate por la legalización de Uber en Rosario con protestas de taxistas, remiseros y cadetes frente al Concejo",
         "link": "https://www.rosario3.com/informaciongeneral/comenzo-el-debate-por-la-legalizacion-de-uber-en-rosario-con-protestas-de-taxistas-remiseros-y-cadetes-frente-al-concejo-20261008-0075.html",
         "image": "https://www.rosario3.com/__export/1791491537263/sites/rosario3/img/2026/10/08/9d39b91c-73dc-4c25-906d-0aa9686b64f0.jpg_982626166.jpg",
         "summary": "Mientras funcionarios municipales presentaban el proyecto ante los concejales, trabajadores de distintos sectores se manifestaron en Córdoba y 1º de Mayo. Qué dice el proyecto y cómo se dio el debate en comisiones",
-        "pubDate": "2026-10-08T12:00:00+00:00",
+        "pubDate": "2026-10-08T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/la-cgt-marcho-contra-el-gobierno-de-milei-y-lanzo-duras-criticas-estan-destruyendo-el-sistema-productivo-nacional-20261008-0078.html",
         "image": "https://www.rosario3.com/__export/1791492150777/sites/rosario3/img/2026/10/08/cgt.jpg_928314581.jpg",
         "summary": "La central obrera se movilizó este jueves en el microcentro porteño bajo la consigna “Las Malvinas son argentinas, la industria nacional también”. En un documento, cuestionó el rumbo económico, apuntó contra el FMI y advirtió por el aumento de la pobreza, la caída del consumo y…",
-        "pubDate": "2026-10-08T11:59:00+00:00",
+        "pubDate": "2026-10-08T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/policiales/los-bunkeres-de-fran-riquelme-tiraron-abajo-dos-aguantaderos-en-zona-noroeste-20261008-0082.html",
         "image": "https://www.rosario3.com/__export/1791496351664/sites/rosario3/img/2026/10/08/french_2000_bunker_riquelme.jpg_506286608.jpg",
         "summary": "Con las caras tapadas, operarios derribaron dos construcciones precarias de French al 2000 que, según la investigación, funcionaban como puntos de venta de droga de la organización liderada por el preso federal",
-        "pubDate": "2026-10-08T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La defensa del detenido financista Luis Herrera propuso a Fiscalía hacer un arreglo para evitar el juicio",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-defensa-del-detenido-financista-luis-herrera-propuso-a-fiscalia-hacer-un-arreglo-para-evitar-el-juicio-20261008-0084.html",
-        "image": "https://www.rosario3.com/__export/1791496117743/sites/rosario3/img/2024/12/06/luis_herrera.jpg_1321341558.jpg",
-        "summary": "El planteo contempla una condena de seis años de prisión efectiva para Herrera y de cuatro años para cada uno de sus hijos, Diego e Ignacio. En un primer fallido intento de un procedimiento abreviado, las penas eran menos elevadas",
         "pubDate": "2026-10-08T11:57:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "México: un árbitro murió tras un golpe en el ring y arrestaron al luchador",
+        "link": "https://www.lacapital.com.ar/informacion-general/mexico-un-arbitro-murio-un-golpe-el-ring-y-arrestaron-al-luchador-n10285720.html",
+        "image": "https://media.lacapital.com.ar/p/52437f0b129da7b06d13c52f680b2d25/adjuntos/203/imagenes/103/455/0103455959/2026-10-08-referi-mexico-lucha-libre.jpg",
+        "summary": "Es conocido como Hijo de Fishman y podría acusarlo de homicidio culposo. El árbitro, apodado El Búho, tenía 75 años",
+        "pubDate": "2026-10-08T23:13:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Investigan una red de microtráfico en Funes a partir del crimen de un joven de 23 años",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/c6acdf474954ec9ce5afa3a60e2da31e/adjuntos/203/imagenes/103/455/0103455506/1200x675/smart/image-1.png",
         "summary": "Drama, suspenso y thriller son los géneros de las series que desembarcaron recientemente en la plataforma y están llevándose todas las reproducciones",
         "pubDate": "2026-10-08T19:25:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Un año sin Miguel, el técnico que dejó una huella en Central",
-        "link": "https://www.lacapital.com.ar/ovacion/un-ano-miguel-el-tecnico-que-dejo-una-huella-central-n10285658.html",
-        "image": "https://media.lacapital.com.ar/p/d7eae996bda18062b9ad9590e4ef4667/adjuntos/203/imagenes/103/455/0103455375/miguelmb.jpg",
-        "summary": "Este 8 de octubre se cumple el primer aniversario del fallecimiento de Russo, el entrenador que se ganó el respeto de todos en el mundo del fútbol",
-        "pubDate": "2026-10-08T19:08:00+00:00",
         "approxTime": false
       }
     ]
