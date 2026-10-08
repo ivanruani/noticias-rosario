@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T01:01:24.881742+00:00",
+  "generatedAt": "2026-10-08T01:31:08.533217+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Murió a los 102 años Eva Marie Saint, una de las \"rubias de Hitchock\"",
+        "link": "https://www.lacapital.com.ar/zoom/murio-los-102-anos-eva-marie-saint-una-las-rubias-hitchock-n10285501.html",
+        "image": "https://media.lacapital.com.ar/p/1e00864b43770ffb9f992f29519eee02/adjuntos/203/imagenes/103/453/0103453710/2026-10-07-eva-marie-saint.jpg",
+        "summary": "Ganó un Oscar como mejor actriz de reparto de \"Nido de ratas\" en 1854 y protagonizó \"Intriga internacional\" junto a Cary Grant",
+        "pubDate": "2026-10-08T01:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Se disipó el efecto de las elecciones en Brasil y volvieron a caer los bonos y las acciones",
         "link": "https://www.lacapital.com.ar/economia/se-disipo-el-efecto-las-elecciones-brasil-y-volvieron-caer-los-bonos-y-las-acciones-n10285512.html",
         "image": "https://media.lacapital.com.ar/p/6aacf67608080b1061f9a773d7417536/adjuntos/203/imagenes/100/331/0100331822/1200x675/smart/mervaljpg.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/bf8b26126a43ce57118d11956564d330/adjuntos/203/imagenes/103/269/0103269276/1200x675/smart/situacion-calle-cml-117.jpg",
         "summary": "La Municipalidad empezó a planificar cómo funcionarán los alojamientos transitorios en un verano con pronóstico de lluvias extraordinarias",
         "pubDate": "2026-10-07T20:48:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Netflix le dio la bienvenida a \"Sinners\", el film que rompió el récord de nominaciones en los Oscar",
-        "link": "https://www.lacapital.com.ar/zoom/netflix-le-dio-la-bienvenida-sinners-el-film-que-rompio-el-record-nominaciones-los-oscar-n10285454.html",
-        "image": "https://media.lacapital.com.ar/p/49fcc85bcfd9334ecf95d63d6db76310/adjuntos/203/imagenes/102/937/0102937986/1200x675/smart/image-2026-01-22t140842301.jpg",
-        "summary": "El éxito de taquilla de Ryan Coogler combina el terror y el suspenso con elementos de otros géneros para crear una historia disruptiva y llena de sorpresas. Todos los detalles de su trama",
-        "pubDate": "2026-10-07T20:17:00+00:00",
         "approxTime": false
       }
     ]
