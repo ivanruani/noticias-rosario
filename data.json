@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T02:31:18.970128+00:00",
+  "generatedAt": "2026-10-08T03:01:42.606020+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Bebecê llega a Argentina: la marca que redefine el equilibrio entre moda y comodidad.",
+        "link": "https://www.lacapital.com.ar/novedades/bebece-llega-argentina-la-marca-que-redefine-el-equilibrio-moda-y-comodidad-n10285137.html",
+        "image": "https://media.lacapital.com.ar/adjuntos/203/imagenes/030/134/0030134894.svg",
+        "summary": "La Capital",
+        "pubDate": "2026-10-08T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El tiempo en Rosario: jueves con un poco de lluvia, nubes y mucho viento",
         "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-jueves-un-poco-lluvia-nubes-y-mucho-viento-n10285524.html",
         "image": "https://media.lacapital.com.ar/p/7170a350711f8f69fc5cff29bd74d6c2/adjuntos/203/imagenes/103/453/0103453777/2026-10-07-clima-by_ssmeccia-74213529.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/2a6df8b8f9ba2072291cff0837c03f82/adjuntos/203/imagenes/103/453/0103453172/1200x675/smart/imageauto2.jpg",
         "summary": "El exjefe de una planta de verificación automotor de Esperanza está acusado de recibir dinero a cambio de firmar formularios sin inspeccionar los vehículos. La Fiscalía le atribuye 1.079 trámites de autos y 408 de motos y pedirá su prisión preventiva",
         "pubDate": "2026-10-07T21:22:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cómo registrarse en el sistema CUP de Pami",
-        "link": "https://www.lacapital.com.ar/informacion-general/como-registrarse-el-sistema-cup-pami-n10285463.html",
-        "image": "https://media.lacapital.com.ar/p/478a7e954bd2ab3201cbd74a3415fbad/adjuntos/203/imagenes/101/847/0101847412/1200x675/smart/farmaciaspami20200207-913491jpg.jpg",
-        "summary": "Esta plataforma digital de Pami permite a los médicos emitir recetas electrónicas y facilitar a los jubilados la dispensa de medicamentos. Cómo funciona",
-        "pubDate": "2026-10-07T21:07:00+00:00",
         "approxTime": false
       }
     ]
