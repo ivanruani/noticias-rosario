@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-09T21:30:59.541652+00:00",
+  "generatedAt": "2026-10-09T22:01:11.033226+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Los detalles de la acusación por múltiples estafas a los dueños de la agencia MotorSport",
+        "link": "https://www.rosario3.com/policiales/los-detalles-de-la-acusacion-por-multiples-estafas-a-los-duenos-de-la-agencia-motorsport-20261009-0041.html",
+        "image": "https://www.rosario3.com/__export/1791568413180/sites/rosario3/img/2026/10/09/motorsport_1.jpg_1010838702.jpg",
+        "summary": "Juan Gabriel Alegre (36) y Eduardo Escarcelo (40) fueron imputados este viernes por 69 casos en los que perjudicaron a clientes de su local de San Martín al 2600. Se estima que el monto de víctimas sería el doble",
+        "pubDate": "2026-10-09T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Viajes sin destino: detuvieron a pareja acusada de estafar con falsos paquetes turísticos",
         "link": "https://www.rosario3.com/policiales/viajes-sin-destino-detuvieron-a-pareja-acusada-de-estafar-con-falsos-paquetes-turisticos-20261009-0045.html",
         "image": "https://www.rosario3.com/__export/1791571236196/sites/rosario3/img/2026/10/09/detenidos_estafa_viajes_arroyo_seco.jpg_374587788.jpg",
         "summary": "Sin agencia registrada ni local comercial, los sospechosos ofrecían pasajes aéreos a precios preferenciales y proyectaban una imagen de solvencia para ganarse la confianza de los clientes. Ambos fueron detenidos en Arroyo Seco",
-        "pubDate": "2026-10-09T12:00:00+00:00",
+        "pubDate": "2026-10-09T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/politica/elecciones-2027-entre-la-necesidad-de-milei-y-el-temor-por-rosario-las-claves-del-dialogo-del-pullarismo-con-el-gobierno-nacional-20261009-0022.html",
         "image": "https://www.rosario3.com/__export/1791556134465/sites/rosario3/img/2026/10/09/banderita.jpg_982625323.jpg",
         "summary": "Santilli comenzó una ronda de negociaciones con gobernadores por la suspensión de las Paso. Pullaro apoya, pero por ahora se demora la posibilidad de una reunión y sostiene como interlocutora a Gisela Scaglia. En Unidos descartan un acuerdo electoral provincial, pero algunos…",
-        "pubDate": "2026-10-09T11:59:00+00:00",
+        "pubDate": "2026-10-09T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,7 +35,7 @@
         "link": "https://www.rosario3.com/politica/financiamiento-universitario-el-gobierno-apelo-pero-la-justicia-sostuvo-el-cumplimiento-de-la-ley-20261009-0056.html",
         "image": "https://www.rosario3.com/__export/1791575522751/sites/rosario3/img/2026/10/09/milei.jpg_1768679258.jpg",
         "summary": "El Juzgado Contencioso Administrativo Federal Nº 11 concedió el pedido de las autoridades y la Cámara de Apelaciones en lo Contencioso Administrativo Federal definirá si confirma o revoca la resolución de primera instancia. La Ley de Financiamiento de las Universidades fue…",
-        "pubDate": "2026-10-09T11:58:00+00:00",
+        "pubDate": "2026-10-09T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -35,7 +44,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/como-inscribirse-para-recibir-los-subsidios-de-luz-y-gas-el-paso-a-paso-del-tramite-y-los-requisitos-a-cumplir-20261009-0038.html",
         "image": "https://www.rosario3.com/__export/1791568736790/sites/rosario3/img/2026/10/09/celular.jpg_1768679258.jpg",
         "summary": "El régimen de Subsidios Energéticos Focalizados se tramita online y exige que el hogar tenga ingresos netos menores a tres Canastas Básicas Totales, además de cumplir condiciones patrimoniales",
-        "pubDate": "2026-10-09T11:57:00+00:00",
+        "pubDate": "2026-10-09T11:56:00+00:00",
         "approxTime": true
       },
       {
@@ -44,15 +53,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/alivio-para-la-familia-shanahan-su-esposa-y-su-hijo-fueron-excarelados-mientras-siguen-las-investigaciones-por-lavado-20261009-0040.html",
         "image": "https://www.rosario3.com/__export/1791568132071/sites/rosario3/img/2023/12/27/gustavo_shanahan.jpg_113259651.jpg",
         "summary": "Los fiscales federales retiraron el pedido de captura internacional al empresario catalán Jordi Pujol (h) a cambio de su declaración indagatoria.",
-        "pubDate": "2026-10-09T11:56:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Golpe quirúrgico: escruchantes robaron $60 millones de una caja fuerte en una mutual de Santa Fe",
-        "link": "https://www.rosario3.com/policiales/golpe-quirurgico-escruchantes-robaron-60-millones-de-una-caja-fuerte-en-una-mutual-de-santa-fe-20261009-0054.html",
-        "image": "https://www.rosario3.com/__export/1791575843114/sites/rosario3/img/2026/10/09/escruche_red_mutual_amus.jpg_672794304.jpg",
-        "summary": "El robo afectó a la Asociación Mutual Unión Solidaria, ubicada en el macrocentro de la capital provincial. Todo apunta a que los intrusos ingresaron por una obra en construcción lindera",
         "pubDate": "2026-10-09T11:55:00+00:00",
         "approxTime": true
       },
@@ -67,19 +67,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "El Gobierno fijó nuevos requisitos de eficiencia para los aires acondicionados: desde cuándo se aplicarán",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/el-gobierno-fijo-nuevos-requisitos-de-eficiencia-para-los-aires-acondicionados-desde-cuando-se-aplicaran-20261009-0018.html",
-        "image": "https://www.rosario3.com/__export/1791552519775/sites/rosario3/img/2022/01/12/aire_acondicionado.jpg_1768679257.jpg",
-        "summary": "Los cambios se implementarán por etapas desde fines de 2026 y alcanzarán a los equipos importados y a los fabricados en el país. La medida apunta a mejorar el rendimiento energético y no obliga a reemplazar los aparatos que ya están instalados en los hogares",
+        "title": "Polémica por los certificados de discapacidad: Milei denunció \"la estafa de las banderas nobles\"",
+        "link": "https://www.rosario3.com/informaciongeneral/polemica-por-los-certificados-de-discapacidad-milei-denuncio-la-estafa-de-las-banderas-nobles-20261009-0061.html",
+        "image": "https://www.rosario3.com/__export/1791579671095/sites/rosario3/img/2026/10/09/milei_disca.jpg_928314580.jpg",
+        "summary": "El presidente cuestionó la administración de fondos públicos y vinculó sus críticas con la polémica por los certificados de discapacidad relacionados con Romina Uhrig. La ex Gran Hermano rechazó las acusaciones y publicó comprobantes en sus redes sociales",
         "pubDate": "2026-10-09T11:53:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Avanza el proyecto contra el mercado negro de celulares: calculan más de 200 dispositivos robados por día en Rosario",
-        "link": "https://www.rosario3.com/informaciongeneral/avanza-el-proyecto-contra-el-mercado-negro-de-celulares-calculan-mas-de-200-dispositivos-robados-por-dia-en-rosario-20261009-0026.html",
-        "image": "https://www.rosario3.com/__export/1791558207641/sites/rosario3/img/2026/10/09/celus_robados_en_lo_del_pity_alvarez_mayo_2026_rosario.jpg_928314580.jpg",
-        "summary": "Este jueves el Senado santafesino dio media sanción al proyecto de ley que busca frenar la venta de teléfonos móviles robados. Por un lado, exige que para vender celulares, tanto nuevos como usados, la persona debe estar registrada como comerciante y demostrar la trazabilidad de…",
+        "title": "Golpe quirúrgico: escruchantes robaron $60 millones de una caja fuerte en una mutual de Santa Fe",
+        "link": "https://www.rosario3.com/policiales/golpe-quirurgico-escruchantes-robaron-60-millones-de-una-caja-fuerte-en-una-mutual-de-santa-fe-20261009-0054.html",
+        "image": "https://www.rosario3.com/__export/1791575843114/sites/rosario3/img/2026/10/09/escruche_red_mutual_amus.jpg_672794304.jpg",
+        "summary": "El robo afectó a la Asociación Mutual Unión Solidaria, ubicada en el macrocentro de la capital provincial. Todo apunta a que los intrusos ingresaron por una obra en construcción lindera",
         "pubDate": "2026-10-09T11:52:00+00:00",
         "approxTime": true
       },
@@ -94,19 +94,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "Impulsan juicio a Olga, otra partera acusada de arrebatar la identidad de bebés en Rosario",
-        "link": "https://www.rosario3.com/policiales/impulsan-juicio-a-olga-otra-partera-acusada-de-arrebatar-la-identidad-de-bebes-en-rosario-20261009-0029.html",
-        "image": "https://www.rosario3.com/__export/1791559066086/sites/rosario3/img/2026/10/09/bebe.jpg_928314581.jpg",
-        "summary": "El Juzgado Federal N°3 de Rosario dispuso el procesamiento, sin prisión preventiva, de una médica obstetra de 87 año, por considerarla presunta autora de los delitos de supresión y alteración del estado civil de un menor de diez años, en concurso real con el delito de falsedad…",
+        "title": "El Gobierno fijó nuevos requisitos de eficiencia para los aires acondicionados: desde cuándo se aplicarán",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/el-gobierno-fijo-nuevos-requisitos-de-eficiencia-para-los-aires-acondicionados-desde-cuando-se-aplicaran-20261009-0018.html",
+        "image": "https://www.rosario3.com/__export/1791552519775/sites/rosario3/img/2022/01/12/aire_acondicionado.jpg_1768679257.jpg",
+        "summary": "Los cambios se implementarán por etapas desde fines de 2026 y alcanzarán a los equipos importados y a los fabricados en el país. La medida apunta a mejorar el rendimiento energético y no obliga a reemplazar los aparatos que ya están instalados en los hogares",
         "pubDate": "2026-10-09T11:50:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "El gracioso momento de Keylor Navas en plena conferencia de prensa: \"Me está llamando mi esposa, ¿le contesto o no?\"",
-        "link": "https://www.rosario3.com/deportes/el-gracioso-momento-de-keylor-navas-en-plena-conferencia-de-prensa-me-esta-llamando-mi-esposa-le-contesto-o-no-20261009-0057.html",
-        "image": "https://www.rosario3.com/__export/1791575678170/sites/rosario3/img/2026/10/09/keylor_navas_conferencia.jpg_506286608.jpg",
-        "summary": "El arquero costarricense, que tuvo un fugaz paso por Newell's, fue interrumpido por un llamado inesperado cuando hablaba con los periodistas que cubren al club Pumas de México. La secuencia quedó registrada y se hizo viral. Las imágenes",
+        "title": "Impulsan juicio a Olga, otra partera acusada de arrebatar la identidad de bebés en Rosario",
+        "link": "https://www.rosario3.com/policiales/impulsan-juicio-a-olga-otra-partera-acusada-de-arrebatar-la-identidad-de-bebes-en-rosario-20261009-0029.html",
+        "image": "https://www.rosario3.com/__export/1791559066086/sites/rosario3/img/2026/10/09/bebe.jpg_928314581.jpg",
+        "summary": "El Juzgado Federal N°3 de Rosario dispuso el procesamiento, sin prisión preventiva, de una médica obstetra de 87 año, por considerarla presunta autora de los delitos de supresión y alteración del estado civil de un menor de diez años, en concurso real con el delito de falsedad…",
         "pubDate": "2026-10-09T11:49:00+00:00",
         "approxTime": true
       },
@@ -121,10 +121,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Tras varios cruces, Milei recibió a Bullrich en Olivos para hablar “de todos los temas a fondo”",
-        "link": "https://www.rosario3.com/politica/tras-varios-cruces-milei-recibio-a-bullrich-en-olivos-para-hablar-de-todos-los-temas-a-fondo-20261009-0036.html",
-        "image": "https://www.rosario3.com/__export/1791565434226/sites/rosario3/img/2026/10/09/milei_bullrich.png_786111822.png",
-        "summary": "El encuentro se extendió por más de dos horas en la residencia presidencial, luego de las diferencias por el Presupuesto 2027, los cambios vinculados a discapacidad y la estrategia legislativa en torno a la Ley de Tierras. Ambos compartieron mensajes en redes sociales en los que…",
+        "title": "Avanza el proyecto contra el mercado negro de celulares: calculan más de 200 dispositivos robados por día en Rosario",
+        "link": "https://www.rosario3.com/informaciongeneral/avanza-el-proyecto-contra-el-mercado-negro-de-celulares-calculan-mas-de-200-dispositivos-robados-por-dia-en-rosario-20261009-0026.html",
+        "image": "https://www.rosario3.com/__export/1791558207641/sites/rosario3/img/2026/10/09/celus_robados_en_lo_del_pity_alvarez_mayo_2026_rosario.jpg_928314580.jpg",
+        "summary": "Este jueves el Senado santafesino dio media sanción al proyecto de ley que busca frenar la venta de teléfonos móviles robados. Por un lado, exige que para vender celulares, tanto nuevos como usados, la persona debe estar registrada como comerciante y demostrar la trazabilidad de…",
         "pubDate": "2026-10-09T11:47:00+00:00",
         "approxTime": true
       },
