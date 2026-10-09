@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-09T14:01:10.680132+00:00",
+  "generatedAt": "2026-10-09T14:31:03.223215+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "La Corte Suprema suspendió la derogación de la Ley de Tierras Rurales impulsada por el DNU de Milei",
+        "link": "https://www.rosario3.com/informaciongeneral/la-corte-suprema-suspendio-la-derogacion-de-la-ley-de-tierras-rurales-impulsada-por-el-dnu-de-milei-20261009-0023.html",
+        "image": "https://www.rosario3.com/__export/1791554982409/sites/rosario3/img/2026/10/06/corte_suprema.jpg_1768679257.jpg",
+        "summary": "El máximo tribunal dejó sin efecto de manera provisoria el artículo del DNU 70 2023 que eliminaba las restricciones a la compra de campos por parte de extranjeros. La medida regirá hasta que la Justicia analice quiénes pueden intervenir en la causa y resuelva el pedido cautelar",
+        "pubDate": "2026-10-09T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Vuelve un clásico: el Barco Ciudad de Rosario se prepara para zarpar",
         "link": "https://www.rosario3.com/informaciongeneral/vuelve-un-clasico-el-barco-ciudad-de-rosario-se-prepara-para-zarpar-20261009-0016.html",
         "image": "https://www.rosario3.com/__export/1791549530927/sites/rosario3/img/2026/10/09/cdr.jpg_928314581.jpg",
         "summary": "El emblemático navío transita la etapa final de su restauración a cargo de un grupo de empresarios locales y planea retomar la navegación por el río Paraná desde la Terminal Fluvial a mediados de noviembre. El titular del proyecto dio detalles de las obras, confesó que existe un…",
-        "pubDate": "2026-10-09T12:00:00+00:00",
+        "pubDate": "2026-10-09T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/el-gobierno-fijo-nuevos-requisitos-de-eficiencia-para-los-aires-acondicionados-desde-cuando-se-aplicaran-20261009-0018.html",
         "image": "https://www.rosario3.com/__export/1791552519775/sites/rosario3/img/2022/01/12/aire_acondicionado.jpg_1768679257.jpg",
         "summary": "Los cambios se implementarán por etapas desde fines de 2026 y alcanzarán a los equipos importados y a los fabricados en el país. La medida apunta a mejorar el rendimiento energético y no obliga a reemplazar los aparatos que ya están instalados en los hogares",
-        "pubDate": "2026-10-09T11:59:00+00:00",
+        "pubDate": "2026-10-09T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/policiales/entraron-a-una-agencia-de-vehiculos-a-traves-de-la-casilla-del-gas-y-robaron-30-mil-dolares-20261009-0021.html",
         "image": "https://www.rosario3.com/__export/1791553164922/sites/rosario3/img/2026/10/09/motos.jpg_928314580.jpg",
         "summary": "Ocurrió en la madrugada de este viernes en Villa Gobernador Gálvez, a metros del hospital Anselmo Gamen. El local estaba en refacciones, según distintos testimonios recolectados en el lugar",
-        "pubDate": "2026-10-09T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Quejas por el estado de las rutas y el aumento tarifario del sistema de peajes",
-        "link": "https://www.rosario3.com/informaciongeneral/quejas-por-el-estado-de-las-rutas-y-el-aumento-tarifario-del-sistema-de-peajes-20261009-0011.html",
-        "image": "https://www.rosario3.com/__export/1791546411789/sites/rosario3/img/2026/10/09/rutasiniestro.jpg_928314581.jpg",
-        "summary": "El coordinador del Comité Nacional de Defensa del Usuario Vial (Conaduv), Ricardo Lasca, cuestionó duramente el modelo de concesiones y el estado de los corredores. Señaló que el cobro es un 'impuesto al tránsito' y advirtió por la falta de obras que eviten siniestros viales…",
         "pubDate": "2026-10-09T11:57:00+00:00",
         "approxTime": true
       },
@@ -67,19 +67,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "Marcela Ternavasio abrió la Feria del Libro y advirtió sobre el “desfinanciamiento” de la educación, la ciencia y la cultura",
-        "link": "https://www.rosario3.com/informaciongeneral/marcela-ternavasio-abrio-la-feria-del-libro-y-advirtio-sobre-el-desfinanciamiento-de-la-educacion-la-ciencia-y-la-cultura-20261008-0089.html",
-        "image": "https://www.rosario3.com/__export/1791502351987/sites/rosario3/img/2026/10/08/ternavasio.jpg_1825222445.jpg",
-        "summary": "La historiadora y escritora rosarina dio el discurso de apertura en la explanada del Cultural Fontanarrosa. Recorrió la historia de los libros, la lectura y la censura. También planteó una serie de reflexiones sobre el presente político y cultural de la Argentina y el…",
-        "pubDate": "2026-10-08T11:53:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
         "title": "Copa Santa Fe de básquet: la etapa final se jugará en María Juana y San Jorge",
         "link": "https://www.rosario3.com/deportes/copa-santa-fe-de-basquet-la-etapa-final-se-jugara-en-maria-juana-y-san-jorge-20261009-0020.html",
         "image": "https://www.rosario3.com/__export/1791553411624/sites/rosario3/img/2026/10/09/copa-santa-fe-basquet.jpg_928314580.jpg",
         "summary": "El certamen se disputará del 16 al 18 de octubre con la participación de equipos de diferentes regiones de la provincia",
+        "pubDate": "2026-10-09T11:53:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "El Invencible Centro Acuático recibe la final de la Copa Santa Fe de Natación como parte del legado de los Juegos",
+        "link": "https://www.rosario3.com/deportes/el-invencible-centro-acuatico-recibe-la-final-de-la-copa-santa-fe-de-natacion-como-parte-del-legado-de-los-juegos-20261009-0013.html",
+        "image": "https://www.rosario3.com/__export/1791550734419/sites/rosario3/img/2026/10/09/image_-22-.jpg_1825222445.jpg",
+        "summary": "La gran final de natación se disputará este sábado desde las 8.30 en Rosario, en uno de los escenarios que formó parte de los Juegos Suramericanos Santa Fe 2026. Durante el fin de semana largo, la Copa Santa Fe tendrá además competencias de atletismo, básquet, golf y triatlón en…",
         "pubDate": "2026-10-09T11:52:00+00:00",
         "approxTime": true
       },
@@ -103,11 +103,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Quejas por el estado de las rutas y el aumento tarifario del sistema de peajes",
+        "link": "https://www.rosario3.com/informaciongeneral/quejas-por-el-estado-de-las-rutas-y-el-aumento-tarifario-del-sistema-de-peajes-20261009-0011.html",
+        "image": "https://www.rosario3.com/__export/1791546411789/sites/rosario3/img/2026/10/09/rutasiniestro.jpg_928314581.jpg",
+        "summary": "El coordinador del Comité Nacional de Defensa del Usuario Vial (Conaduv), Ricardo Lasca, cuestionó duramente el modelo de concesiones y el estado de los corredores. Señaló que el cobro es un 'impuesto al tránsito' y advirtió por la falta de obras que eviten siniestros viales…",
+        "pubDate": "2026-10-09T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Desarchivaron la denuncia del futbolista Jonatan Gómez por extorsiones para pagar una deuda por juego clandestino",
         "link": "https://www.rosario3.com/policiales/desarchivaron-la-denuncia-del-futbolista-jonatan-gomez-por-extorsiones-para-pagar-una-deuda-por-juego-clandestino-20261009-0009.html",
         "image": "https://www.rosario3.com/__export/1787073199994/sites/rosario3/img/2025/05/23/joni_chau.jpg_928314580.jpg",
         "summary": "La resolución la tomó el fiscal regional, que consideró “prematura” la desestimación dispuesta en agosto pasado. Los hechos aludidos por el exjugador de Rosario Central habrían ocurrido entre agosto y octubre de 2025",
-        "pubDate": "2026-10-09T11:49:00+00:00",
+        "pubDate": "2026-10-09T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,16 +125,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/este-viernes-habra-canje-de-reciclables-en-la-zona-norte-de-rosario-20261005-0039.html",
         "image": "https://www.rosario3.com/__export/1791216273974/sites/rosario3/img/2026/10/05/canje.jpg_755318447.jpg",
         "summary": "La actividad se realizará por la mañana y se podrán entregar cartones, papel, plástico, vidrio, latas y telgopor limpios y secos",
-        "pubDate": "2026-10-05T11:48:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La jueza sudafricana Navanethem \"Navi\" Pillay es la ganadora del Premio Nobel de la Paz",
-        "link": "https://www.rosario3.com/informaciongeneral/la-jueza-sudafricana-navanethem-navi-pillay-es-la-ganadora-del-premio-nobel-de-la-paz-20261009-0005.html",
-        "image": "https://www.rosario3.com/__export/1791541351299/sites/rosario3/img/2026/10/09/navi.jpg_928314580.jpg",
-        "summary": "'La galardonada de este año ha desempeñado un papel fundamental para garantizar que los crímenes de guerra, los crímenes contra la humanidad y el genocidio sean objeto de enjuiciamiento', explicó el comité noruego",
-        "pubDate": "2026-10-09T11:47:00+00:00",
+        "pubDate": "2026-10-05T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -139,6 +139,33 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Robo en agencia de motos: entraron por la casilla de gas, se llevaron dólares y un arma",
+        "link": "https://www.lacapital.com.ar/policiales/robo-agencia-motos-entraron-la-casilla-gas-se-llevaron-dolares-y-un-arma-n10285818.html",
+        "image": "https://media.lacapital.com.ar/p/29bafd2463059fba09de4535f6c2c65b/adjuntos/203/imagenes/100/030/0100030619/1200x675/smart/motos-ventasjpgjpg.jpg",
+        "summary": "El delito sucedió durante la madrugada de este viernes en un comercio ubicado en Avellaneda al 1800, en Villa Gobernador Gálvez",
+        "pubDate": "2026-10-09T14:26:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Refuerzan la capacitación de inspectores para consolidar la seguridad vial en Puerto San Martín",
+        "link": "https://www.lacapital.com.ar/la-region/refuerzan-la-capacitacion-inspectores-consolidar-la-seguridad-vial-puerto-san-martin-n10285813.html",
+        "image": "https://media.lacapital.com.ar/p/b56d980ade335b9a34b9f37e8284e2ef/adjuntos/203/imagenes/103/457/0103457164/1200x675/smart/puerto-san-martin-seguridad-1.jpg",
+        "summary": "El municipio cerró otra formación y destacó la necesidad de mantener la capacitación permanente de los agentes para mejorar la calidad de los servicios públicos",
+        "pubDate": "2026-10-09T14:13:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Asesinato en Villa Gobernador Gálvez: confirmaron de quién era el cuerpo quemado en una fosa",
+        "link": "https://www.lacapital.com.ar/policiales/asesinato-villa-gobernador-galvez-confirmaron-quien-era-el-cuerpo-quemado-una-fosa-n10285792.html",
+        "image": "https://media.lacapital.com.ar/p/73250cef2f897beca59259a979f2eb58/adjuntos/203/imagenes/103/457/0103457013/cadaver-villa-gobernador-galvez.jpg",
+        "summary": "La Justicia logró identificar a Juan David Briozzo a casi dos semanas de la denuncia sobre el hallazgo del cadáver calcinado",
+        "pubDate": "2026-10-09T14:10:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Uber en Rosario: comenzó el debate para legalizar las apps y hay diferencias entre los taxistas",
@@ -222,19 +249,19 @@
       },
       {
         "source": "La Capital",
-        "title": "El Premio Nobel de la Paz 2026 fue otorgado a la sudafricana Navanethem \"Navi\" Pillay",
-        "link": "https://www.lacapital.com.ar/informacion-general/el-premio-nobel-la-paz-2026-fue-otorgado-la-sudafricana-navanethem-navi-pillay-n10285755.html",
-        "image": "https://media.lacapital.com.ar/p/f5b0cb8d422fb28c28e8fc35acc8f675/adjuntos/203/imagenes/103/456/0103456358/1200x675/smart/image-2026-10-09t075218175.png",
-        "summary": "La jurista fue reconocida por su defensa del derecho internacional y su trabajo en materia de crímenes de guerra, lesa humanidad y genocidios",
+        "title": "Teatro para bebés en Rosario: Ito vuelve con varias funciones en octubre",
+        "link": "https://www.lacapital.com.ar/zoom/teatro-bebes-rosario-ito-vuelve-varias-funciones-octubre-n10285771.html",
+        "image": "https://media.lacapital.com.ar/p/ea0ac6a93a41a26983a4b1502ed0c8e9/adjuntos/203/imagenes/103/456/0103456513/1200x675/smart/ito.png",
+        "summary": "La obra invita a bebés de 0 a 3 años a descubrir el teatro a través de un gusanito curioso, personajes y juegos. Se presenta los sábados de octubre en La Orilla Infinita",
         "pubDate": "2026-10-09T11:53:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Teatro para bebés en Rosario: Ito vuelve con varias funciones en octubre",
-        "link": "https://www.lacapital.com.ar/zoom/teatro-bebes-rosario-ito-vuelve-varias-funciones-octubre-n10285771.html",
-        "image": "https://media.lacapital.com.ar/p/ea0ac6a93a41a26983a4b1502ed0c8e9/adjuntos/203/imagenes/103/456/0103456513/1200x675/smart/ito.png",
-        "summary": "La obra invita a bebés de 0 a 3 años a descubrir el teatro a través de un gusanito curioso, personajes y juegos. Se presenta los sábados de octubre en La Orilla Infinita",
+        "title": "El Premio Nobel de la Paz 2026 fue otorgado a la sudafricana Navanethem \"Navi\" Pillay",
+        "link": "https://www.lacapital.com.ar/informacion-general/el-premio-nobel-la-paz-2026-fue-otorgado-la-sudafricana-navanethem-navi-pillay-n10285755.html",
+        "image": "https://media.lacapital.com.ar/p/f5b0cb8d422fb28c28e8fc35acc8f675/adjuntos/203/imagenes/103/456/0103456358/1200x675/smart/image-2026-10-09t075218175.png",
+        "summary": "La jurista fue reconocida por su defensa del derecho internacional y su trabajo en materia de crímenes de guerra, lesa humanidad y genocidios",
         "pubDate": "2026-10-09T11:53:00+00:00",
         "approxTime": false
       },
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/c7c4fd42faf5c6992c1a33f526ad0c0e/adjuntos/203/imagenes/103/456/0103456391/freedom-bar-mendoza-alem.jpg",
         "summary": "Un delincuente destrozó la puerta de vidrio e ingresó a Freedom a la madrugada. La policía había detenido a un sospechoso seis meses atrás en el mismo lugar",
         "pubDate": "2026-10-09T11:40:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Mataron a balazos a un hombre de 39 años en zona oeste y buscan a dos sospechosos",
-        "link": "https://www.lacapital.com.ar/policiales/mataron-balazos-un-hombre-39-anos-zona-oeste-y-buscan-dos-sospechosos-n10285750.html",
-        "image": "https://media.lacapital.com.ar/p/907e49f8da170f68a3a0db8be40f676c/adjuntos/203/imagenes/103/456/0103456934/1200x675/smart/crimen-pablo-damian-godoy.jpg",
-        "summary": "El crimen de Pablo Godoy ocurrió a última hora de la jornada. Los delincuentes le dispararon al menos seis veces",
-        "pubDate": "2026-10-09T10:46:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Un ensayo que no dejó conforme a Franco Colapinto en las sucias calles de Singapur",
-        "link": "https://www.lacapital.com.ar/ovacion/un-ensayo-que-no-dejo-conforme-franco-colapinto-las-sucias-calles-singapur-n10285737.html",
-        "image": "https://media.lacapital.com.ar/p/bbdd4a70b0854a28589f4d213e9649f2/adjuntos/203/imagenes/103/456/0103456242/1200x675/smart/image-19.jpg",
-        "summary": "El argentino no se sintió cómodo en el callejero lleno de tierra de Marina Bay, en el único entrenamiento para el GP de Singapur. A las 9.30, clasificación para la sprint.",
-        "pubDate": "2026-10-09T09:34:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Un libro colectivo reconstruye \"El día de la gran pedrada\", veinte años después",
-        "link": "https://www.lacapital.com.ar/zoom/un-libro-colectivo-reconstruye-el-dia-la-gran-pedrada-veinte-anos-despues-n10285656.html",
-        "image": "https://media.lacapital.com.ar/p/125ffb0584ba881b21bf72661634b9f5/adjuntos/203/imagenes/103/455/0103455341/1200x675/smart/image-2026-10-08t161135169.jpg",
-        "summary": "Publicado por la editorial artesanal Omachi, recopila 56 testimonios recolectados a través de una convocatoria abierta. Se presenta este domingo 11 en la Feria del Libro",
-        "pubDate": "2026-10-09T09:30:00+00:00",
         "approxTime": false
       }
     ]
