@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T18:31:02.415645+00:00",
+  "generatedAt": "2026-10-09T19:01:10.890063+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Abrió la Muestra Anual de Fotoperiodismo Argentino: Rosario tiene cinco representantes",
+        "link": "https://www.lacapital.com.ar/la-ciudad/abrio-la-muestra-anual-fotoperiodismo-argentino-rosario-tiene-cinco-representantes-n10285874.html",
+        "image": "https://media.lacapital.com.ar/p/41b37d3367239c8674f6c767c1c7fa2d/adjuntos/203/imagenes/103/457/0103457859/1200x675/smart/muestra-fotoperiodismo.jpg",
+        "summary": "La exposición puede visitarse desde hoy en Plataforma Lavardén, en Sarmiento y Mendoza. Celina Mutti Lovera y Sebastián Suárez Mecci participan por La Capital",
+        "pubDate": "2026-10-09T18:57:16+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Financiamiento Universitario: el juez aceptó la apelación del gobierno, pero sostuvo el cumplimiento de la ley",
+        "link": "https://www.lacapital.com.ar/politica/financiamiento-universitario-el-juez-acepto-la-apelacion-del-gobierno-pero-sostuvo-el-cumplimiento-la-ley-n10285865.html",
+        "image": "https://media.lacapital.com.ar/p/b13d779bede7446319b2920a91357bbb/adjuntos/203/imagenes/103/457/0103457843/1200x675/smart/image.png",
+        "summary": "Martín Cormick dio lugar al pedido del Ejecutivo y ahora el caso será revisado por la Cámara de Apelaciones en lo Contencioso Administrativo Federal",
+        "pubDate": "2026-10-09T18:29:05+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Robo millonario en Santa Fe: investigan ingreso por un galpón a la Red Mutual",
         "link": "https://www.lacapital.com.ar/policiales/robo-millonario-santa-fe-investigan-ingreso-un-galpon-la-red-mutual-n10285863.html",
         "image": "https://media.lacapital.com.ar/p/fa497a9ac637f47bc045ab5e91e7baaa/adjuntos/203/imagenes/103/457/0103457841/1200x675/smart/redi.jpg",
@@ -168,11 +186,11 @@
       },
       {
         "source": "La Capital",
-        "title": "Giuliano advirtió que el fallo de la Corte sobre la ley de tierras es un \"freno es provisorio\"",
-        "link": "https://www.lacapital.com.ar/politica/giuliano-advirtio-que-el-fallo-la-corte-la-ley-tierras-es-un-freno-es-provisorio-n10285859.html",
+        "title": "Giuliano advirtió que el fallo de la Corte sobre la ley de tierras es un \"freno provisorio\"",
+        "link": "https://www.lacapital.com.ar/politica/giuliano-advirtio-que-el-fallo-la-corte-la-ley-tierras-es-un-freno-provisorio-n10285859.html",
         "image": "https://media.lacapital.com.ar/p/015110172cfafc493ee8d80cb330f630/adjuntos/203/imagenes/103/457/0103457817/1200x675/smart/image.png",
         "summary": "El diputado nacional por Santa Fe cuestionó también que el gobierno permita a extranjeros acceder a la ciudadanía argentina a cambio de dinero y, de ese modo, eludir los límites a la compra de tierras",
-        "pubDate": "2026-10-09T17:51:07+00:00",
+        "pubDate": "2026-10-09T17:51:00+00:00",
         "approxTime": false
       },
       {
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/912ddc490896d4d45a85db0502d52f37/adjuntos/203/imagenes/103/455/0103455551/1200x675/smart/remolcador-paraguayo-choque-el-puente-chaco-corrientes.jpg",
         "summary": "El remolcador paraguayo Tío Jan impactó contra un pilote del puente Chacho-Corrientes, a dos meses de las desregulaciones de la seguridad fluvial que ordenó el ministro Federico Sturzenegger",
         "pubDate": "2026-10-09T16:05:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Caso Ivana Garcilazo: declararon testigos que estuvieron con los acusados antes del crimen",
-        "link": "https://www.lacapital.com.ar/policiales/caso-ivana-garcilazo-declararon-testigos-que-estuvieron-los-acusados-antes-del-crimen-n10285834.html",
-        "image": "https://media.lacapital.com.ar/p/319e347d75e77c71c968b4d70ea13ccb/adjuntos/203/imagenes/101/918/0101918774/1200x675/smart/ivana-garcilazojpg.jpg",
-        "summary": "Silvina, hermana de la joven asesinada, valoró esas declaraciones que complican la situación de los tres acusados por el crimen",
-        "pubDate": "2026-10-09T15:44:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Palimpsestos, la realidad superpuesta en las fotos de Rodrigo Abd",
-        "link": "https://www.lacapital.com.ar/zoom/palimpsestos-la-realidad-superpuesta-las-fotos-rodrigo-abd-n10285828.html",
-        "image": "https://media.lacapital.com.ar/p/c4f2c20b43c56de356f3d74350e4d808/adjuntos/203/imagenes/103/457/0103457302/1200x675/smart/rodrigo-abd.jpg",
-        "summary": "El reconocido fotoperiodista ganador del Pulitzer junto al equipo de la agencia AP llega al Centro Cultural Contraviento de Rosario con una técnica particular",
-        "pubDate": "2026-10-09T15:37:00+00:00",
         "approxTime": false
       }
     ]
