@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T16:08:29.390366+00:00",
+  "generatedAt": "2026-10-09T16:31:00.654152+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Apropiación de bebés en Rosario: piden que vaya a juicio una mujer de 87 años",
+        "link": "https://www.lacapital.com.ar/la-ciudad/apropiacion-bebes-rosario-piden-que-vaya-juicio-una-mujer-87-anos-n10285821.html",
+        "image": "https://media.lacapital.com.ar/p/69d9e749ce99a2a68667481ab5aa120c/adjuntos/203/imagenes/103/442/0103442106/1200x675/smart/olga-partera-210.jpg",
+        "summary": "Olga fue procesada a más de cuatro décadas del nacimiento de dos mujeres en un caso similar al de la partera Dolly y su hermana",
+        "pubDate": "2026-10-09T16:19:48+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Puente Chaco-Corrientes: el choque de un remolcador paraguayo reaviva críticas a Sturzenegger",
+        "link": "https://www.lacapital.com.ar/informacion-general/puente-chaco-corrientes-el-choque-un-remolcador-paraguayo-reaviva-criticas-sturzenegger-n10285677.html",
+        "image": "https://media.lacapital.com.ar/p/912ddc490896d4d45a85db0502d52f37/adjuntos/203/imagenes/103/455/0103455551/1200x675/smart/remolcador-paraguayo-choque-el-puente-chaco-corrientes.jpg",
+        "summary": "El remolcador paraguayo Tío Jan impactó contra un pilote del puente Chacho-Corrientes, a dos meses de las desregulaciones de la seguridad fluvial que ordenó el ministro Federico Sturzenegger",
+        "pubDate": "2026-10-09T16:05:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Caso Ivana Garcilazo: declararon testigos que estuvieron con los acusados antes del crimen",
         "link": "https://www.lacapital.com.ar/policiales/caso-ivana-garcilazo-declararon-testigos-que-estuvieron-los-acusados-antes-del-crimen-n10285834.html",
         "image": "https://media.lacapital.com.ar/p/319e347d75e77c71c968b4d70ea13ccb/adjuntos/203/imagenes/101/918/0101918774/1200x675/smart/ivana-garcilazojpg.jpg",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/a885248f85a2fa820b1f9c6ba763031b/adjuntos/203/imagenes/100/606/0100606091/1200x675/smart/brigadier-estanislao-lopezjpg.jpg",
         "summary": "La ley 27.827 reconoce al brigadier santafesino por su defensa de la autonomía provincial y los ideales republicanos. También promueve la difusión de su legado",
         "pubDate": "2026-10-09T13:17:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Deepfakes sexuales con IA: qué hacer si tu hijo o hija es víctima y dónde denunciar",
-        "link": "https://www.lacapital.com.ar/informacion-general/deepfakes-sexuales-ia-que-hacer-si-tu-hijo-o-hija-es-victima-y-donde-denunciar-n10285786.html",
-        "image": "https://media.lacapital.com.ar/p/0014858d1b46b520f32db697e933d092/adjuntos/203/imagenes/103/456/0103456884/1200x675/smart/adolescente-celular.png",
-        "summary": "Las imágenes íntimas falsas pueden tener consecuencias reales. Cómo preservar las pruebas, acompañar a los chicos y denunciar estos casos en Argentina",
-        "pubDate": "2026-10-09T13:13:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El divertido momento de Navas en conferencia de prensa: \"Me está llamando mi esposa\"",
-        "link": "https://www.lacapital.com.ar/ovacion/el-divertido-momento-navas-conferencia-prensa-me-esta-llamando-mi-esposa-n10285766.html",
-        "image": "https://media.lacapital.com.ar/p/5a9871c3fb07e50b7f3601b596bb39fa/adjuntos/203/imagenes/103/456/0103456585/1200x675/smart/image-9.jpg",
-        "summary": "El arquero costarricense vivió una particular situación ante los periodistas en la previa al enfrentamiento que tendrá su equipo, Pumas, ante Cruz Azul",
-        "pubDate": "2026-10-09T13:12:00+00:00",
         "approxTime": false
       }
     ]
