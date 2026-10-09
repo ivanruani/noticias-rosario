@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T09:01:17.753215+00:00",
+  "generatedAt": "2026-10-09T09:30:56.262165+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,42 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "En tierra de soja y maíz, encontraron un negocio con las frutillas",
+        "link": "https://www.lacapital.com.ar/agro/en-tierra-soja-y-maiz-encontraron-un-negocio-las-frutillas-n10285400.html",
+        "image": "https://media.lacapital.com.ar/p/e4968052033f29b60c618e91ce8aee58/adjuntos/203/imagenes/103/452/0103452584/1200x675/1143x208:1163x228/frutilas-pergamino-5.png",
+        "summary": "Una empresa familiar encontró en las frutillas una alternativa para aprovechar tierras periurbanas de Pergamino, donde las restricciones limitan la agricultura extensiva. Este año aumentó superficie y duplicó producción",
+        "pubDate": "2026-10-09T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Newell's: ante una baja de peso, amplía la base de alternativas en la zaga",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-una-baja-peso-amplia-la-base-alternativas-la-zaga-n10285717.html",
+        "image": "https://media.lacapital.com.ar/p/181bbd74630ace7cbdc997ff7a2959fd/adjuntos/203/imagenes/103/455/0103455892/nob-goit-24429.jpg",
+        "summary": "Con la lesión de Giannetti, ahora el cuerpo técnico de Newell's puede contar con Goitea para agrandar el abanico de opciones en ese puesto",
+        "pubDate": "2026-10-09T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Condenan a médicos del Hospital Provincial de Rosario por tratar como alcoholizada a una mujer que había sido abusada",
+        "link": "https://www.lacapital.com.ar/policiales/condenan-medicos-del-hospital-provincial-rosario-tratar-como-alcoholizada-una-mujer-que-habia-sido-abusada-n10285625.html",
+        "image": "https://media.lacapital.com.ar/p/704f0665ea0a850815f662bc980be8c8/adjuntos/203/imagenes/103/455/0103455290/1200x675/smart/xi.jpg",
+        "summary": "La víctima llegó al hospital golpeada, ensangrentada y en shock, pero no recibió la atención prevista para casos de abuso sexual. La Justicia condenó a tres médicos y a una exdirectora a indemnizarla y ordenó capacitar al personal en perspectiva de género",
+        "pubDate": "2026-10-09T09:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Una cifra que alarma en Central: la andana de roturas del ligamento cruzado de los últimos años",
+        "link": "https://www.lacapital.com.ar/ovacion/una-cifra-que-alarma-central-la-andana-roturas-del-ligamento-cruzado-los-ultimos-anos-n10285368.html",
+        "image": "https://media.lacapital.com.ar/p/c7f8bfa9e076f365ed0b455849ea9937/adjuntos/203/imagenes/103/452/0103452292/lesi.jpeg",
+        "summary": "La dura lesión de rodilla que sufrió Gaspar Duarte en el partido ante Banfield engrosó la lista. Desde 2020 hasta hoy son diez los futbolistas que la padecieron",
+        "pubDate": "2026-10-09T09:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El tiempo en Rosario: viernes con chances de lluvias aisladas y ráfagas",
         "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-viernes-chances-lluvias-aisladas-y-rafagas-n10285745.html",
         "image": "https://media.lacapital.com.ar/p/12e5724e6b6c3491e36e8635df754f54/adjuntos/203/imagenes/103/456/0103456205/2026-10-08-clima-by-cmutti-81115859.jpg",
@@ -236,42 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/50bb3261193eaa9015aed03eb4b558b1/adjuntos/203/imagenes/103/455/0103455505/1200x675/smart/nas.jpg",
         "summary": "La pesquisa por el asesinato de Ramiro Nast, cuyo cuerpo fue hallado cerca del Country Club de Funes, abrió una nueva línea vinculada con la venta de drogas. La PDI realizó allanamientos y detuvo a un sospechoso de 22 años.",
         "pubDate": "2026-10-08T22:40:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Escándalo por el oro del Banco Central: la AGN asegura que especuló con el precio y perdió u$s 1.023 millones",
-        "link": "https://www.lacapital.com.ar/economia/escandalo-el-oro-del-banco-central-la-agn-asegura-que-especulo-el-precio-y-perdio-us-1023-millones-n10285718.html",
-        "image": "https://media.lacapital.com.ar/p/d2b0f657b0732bec2a9f298cc1f6394c/adjuntos/203/imagenes/101/179/0101179399/1200x675/smart/bcrajpg.jpg",
-        "summary": "La Auditoría General de la Nación cuestionó las operaciones financieras realizadas durante la gestión de Santiago Bausili. Advirtió que nunca se había registrado una pérdida de semejante magnitud y ahora investiga el traslado de lingotes al exterior.",
-        "pubDate": "2026-10-08T22:33:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central: Sández recibió una fecha de suspensión y Almirón lo tiene otra vez a disposición",
-        "link": "https://www.lacapital.com.ar/ovacion/central-sandez-recibio-una-fecha-suspension-y-almiron-lo-tiene-otra-vez-disposicion-n10285714.html",
-        "image": "https://media.lacapital.com.ar/p/08ab14fa03a79dc4315c45512194cdfa/adjuntos/203/imagenes/103/455/0103455825/sandezlv.jpeg",
-        "summary": "La sanción que finalmente le impuso el tribunal de disciplina de la AFA la cumplió en el partido ante Banfield. Podría ser titular ante Independiente Rivadavia",
-        "pubDate": "2026-10-08T22:20:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Video: el partido de reserva entre Atlético Tucumán y Talleres terminó a las piñas",
-        "link": "https://www.lacapital.com.ar/ovacion/video-el-partido-reserva-atletico-tucuman-y-talleres-termino-las-pinas-n10285710.html",
-        "image": "https://media.lacapital.com.ar/p/06fc29ca7ce76df0e6456fa7b6a70289/adjuntos/203/imagenes/103/455/0103455769/1200x675/smart/imagetalle.jpg",
-        "summary": "El triunfo del Decano por 2 a 0 quedó opacado por una violenta pelea entre integrantes del cuerpo técnico cordobés e hinchas locales. El Laucha Acosta y su hermano protagonizaron los incidentes, que incluyeron trompadas, corridas y destrozos.",
-        "pubDate": "2026-10-08T21:37:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Autopista Rosario-Buenos Aires: desde este sábado rige la nueva tarifa de peaje y no se aceptará el pago en efectivo",
-        "link": "https://www.lacapital.com.ar/la-ciudad/autopista-rosario-buenos-aires-este-sabado-rige-la-nueva-tarifa-peaje-y-no-se-aceptara-el-pago-efectivo-n10285600.html",
-        "image": "https://media.lacapital.com.ar/p/a30977629c182106d2e14a5b84a1e43b/adjuntos/203/imagenes/102/204/0102204023/1200x675/smart/rto-peajejpg.jpg",
-        "summary": "A partir de este 10 de octubre los autos pagarán 1.850 pesos de peaje en la cabina de General Lagos. El pago de la tarifa será por medio del Telepase, tarjetas de crédito y débito, o QR.",
-        "pubDate": "2026-10-08T21:26:00+00:00",
         "approxTime": false
       }
     ]
