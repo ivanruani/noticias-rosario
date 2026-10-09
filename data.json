@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T13:01:07.563103+00:00",
+  "generatedAt": "2026-10-09T13:31:00.752781+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,11 +13,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Identificaron el cuerpo calcinado que fue hallado en un pozo dentro de un pozo en Villa Gobernador Gálvez",
+        "link": "https://www.rosario3.com/policiales/identificaron-el-cuerpo-calcinado-que-fue-hallado-en-un-pozo-dentro-de-un-pozo-en-villa-gobernador-galvez-20261009-0019.html",
+        "image": "https://www.rosario3.com/__export/1765802989845/sites/rosario3/img/2022/06/10/instituto_medico_legal_iml.jpg_928314581.jpg",
+        "summary": "El cadáver había sido encontrado el 26 de septiembre pasado en un sector cercano a la ruta provincial S22 y al arroyo Saladillo. Se trata de un hombre de 48 años",
+        "pubDate": "2026-10-09T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "El Invencible Centro Acuático recibe la final de la Copa Santa Fe de Natación como parte del legado de los Juegos",
         "link": "https://www.rosario3.com/deportes/el-invencible-centro-acuatico-recibe-la-final-de-la-copa-santa-fe-de-natacion-como-parte-del-legado-de-los-juegos-20261009-0013.html",
         "image": "https://www.rosario3.com/__export/1791550734419/sites/rosario3/img/2026/10/09/image_-22-.jpg_1825222445.jpg",
         "summary": "La gran final de natación se disputará este sábado desde las 8.30 en Rosario, en uno de los escenarios que formó parte de los Juegos Suramericanos Santa Fe 2026. Durante el fin de semana largo, la Copa Santa Fe tendrá además competencias de atletismo, básquet, golf y triatlón en…",
-        "pubDate": "2026-10-09T11:59:00+00:00",
+        "pubDate": "2026-10-09T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/quejas-por-el-estado-de-las-rutas-y-el-aumento-tarifario-del-sistema-de-peajes-20261009-0011.html",
         "image": "https://www.rosario3.com/__export/1791546411789/sites/rosario3/img/2026/10/09/rutasiniestro.jpg_928314581.jpg",
         "summary": "El coordinador del Comité Nacional de Defensa del Usuario Vial (Conaduv), Ricardo Lasca, cuestionó duramente el modelo de concesiones y el estado de los corredores. Señaló que el cobro es un 'impuesto al tránsito' y advirtió por la falta de obras que eviten siniestros viales…",
-        "pubDate": "2026-10-09T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Desarchivaron la denuncia del futbolista Jonatan Gómez por extorsiones para pagar una deuda por juego clandestino",
-        "link": "https://www.rosario3.com/policiales/desarchivaron-la-denuncia-del-futbolista-jonatan-gomez-por-extorsiones-para-pagar-una-deuda-por-juego-clandestino-20261009-0009.html",
-        "image": "https://www.rosario3.com/__export/1787073199994/sites/rosario3/img/2025/05/23/joni_chau.jpg_928314580.jpg",
-        "summary": "La resolución la tomó el fiscal regional, que consideró “prematura” la desestimación dispuesta en agosto pasado. Los hechos aludidos por el exjugador de Rosario Central habrían ocurrido entre agosto y octubre de 2025",
         "pubDate": "2026-10-09T11:57:00+00:00",
         "approxTime": true
       },
@@ -49,11 +49,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Mataron a tiros a un hombre que estaba por entrar su auto a la cochera",
-        "link": "https://www.rosario3.com/policiales/mataron-a-tiros-a-un-hombre-que-estaba-por-entrar-su-auto-a-la-cochera-20261009-0004.html",
-        "image": "https://www.rosario3.com/__export/1787674357106/sites/rosario3/img/2025/01/01/policia_patrullero.jpg_1825222445.jpg",
-        "summary": "Ocurrió en la noche de este jueves en la zona oeste, cuando la víctima, de 39 años, fue baleada desde una moto",
-        "pubDate": "2026-10-09T11:55:00+00:00",
+        "title": "Feria Internacional del Libro de Rosario 2026: todas las actividades de este viernes",
+        "link": "https://www.rosario3.com/ocio/feria-internacional-del-libro-de-rosario-2026-todas-las-actividades-de-este-viernes-20261007-0041.html",
+        "image": "https://www.rosario3.com/__export/1791540412750/sites/rosario3/img/2026/10/09/feria1.jpg_1375652304.jpg",
+        "summary": "El Cultural Fontanarrosa (San Martín 1080) abre sus puertas de 13 a 22. Gratis, con gestión previa del código QR",
+        "pubDate": "2026-10-07T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -103,42 +103,78 @@
       },
       {
         "source": "Rosario3",
-        "title": "Este viernes habrá canje de reciclables en la zona norte de Rosario: a qué hora y dónde",
-        "link": "https://www.rosario3.com/informaciongeneral/este-viernes-habra-canje-de-reciclables-en-la-zona-norte-de-rosario-20261005-0039.html",
-        "image": "https://www.rosario3.com/__export/1791216273974/sites/rosario3/img/2026/10/05/canje.jpg_755318447.jpg",
-        "summary": "La actividad se realizará por la mañana y se podrán entregar cartones, papel, plástico, vidrio, latas y telgopor limpios y secos",
-        "pubDate": "2026-10-05T11:49:00+00:00",
+        "title": "Mataron a tiros a un hombre que estaba por entrar su auto a la cochera",
+        "link": "https://www.rosario3.com/policiales/mataron-a-tiros-a-un-hombre-que-estaba-por-entrar-su-auto-a-la-cochera-20261009-0004.html",
+        "image": "https://www.rosario3.com/__export/1787674357106/sites/rosario3/img/2025/01/01/policia_patrullero.jpg_1825222445.jpg",
+        "summary": "Ocurrió en la noche de este jueves en la zona oeste, cuando la víctima, de 39 años, fue baleada desde una moto",
+        "pubDate": "2026-10-09T11:49:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Franco Colapinto se prepara para el Gran Premio de Singapur: los horarios del fin de semana",
-        "link": "https://www.rosario3.com/deportes/tras-la-caotica-carrera-en-malasia-franco-colapinto-se-prepara-para-el-gran-premio-de-singapur-los-horarios-del-fin-de-semana-20261006-0035.html",
-        "image": "https://www.rosario3.com/__export/1791301212130/sites/rosario3/img/2026/10/06/colapinto-singapur.jpg_928314580.jpg",
-        "summary": "La fecha 17 de la temporada se realizará en el trazado urbano Marina Bay. Las actividades comenzarán el viernes, continuarán el sábado, con carrera sprint incluida, y cerrará con la principal el domingo",
-        "pubDate": "2026-10-06T11:48:00+00:00",
+        "title": "El Gobierno licita la construcción del muelle militar de la Base Naval de Ushuaia",
+        "link": "https://www.rosario3.com/informaciongeneral/el-gobierno-licita-la-construccion-del-muelle-militar-de-la-base-naval-de-ushuaia-20261009-0015.html",
+        "image": "https://www.rosario3.com/__export/1791549552351/sites/rosario3/img/2026/10/09/base_naval_ushuaia.png_928314580.png",
+        "summary": "La obra tiene un presupuesto oficial de más de $189 mil millones y un plazo de ejecución previsto de 36 meses. El proyecto de la Base Naval Integrada comenzó en 2022, pero se encontraba paralizado",
+        "pubDate": "2026-10-09T11:48:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Día de la Madre: pagar apurado sale caro, qué bancos y billeteras ofrecen descuentos y cuotas | Ecos365",
-        "link": "https://www.rosario3.com/ecos365/noticias/dia-de-la-madre-pagar-apurado-sale-caro-que-bancos-y-billeteras-ofrecen-descuentos-y-cuotas-20261009-0002.html",
-        "image": "https://www.rosario3.com/__export/1791540477911/sites/rosario3/img/2026/10/09/dxa_de_la_madre_1_crop1791540419240.png_1126084916.png",
-        "summary": "El regalo es para mamá, pero bancos y billeteras se disputan quién se queda con la compra. Descuentos de hasta 40%, reintegros y 24 cuotas conviven con topes y fechas que pueden cambiar mucho la cuenta final",
+        "title": "Desarchivaron la denuncia del futbolista Jonatan Gómez por extorsiones para pagar una deuda por juego clandestino",
+        "link": "https://www.rosario3.com/policiales/desarchivaron-la-denuncia-del-futbolista-jonatan-gomez-por-extorsiones-para-pagar-una-deuda-por-juego-clandestino-20261009-0009.html",
+        "image": "https://www.rosario3.com/__export/1787073199994/sites/rosario3/img/2025/05/23/joni_chau.jpg_928314580.jpg",
+        "summary": "La resolución la tomó el fiscal regional, que consideró “prematura” la desestimación dispuesta en agosto pasado. Los hechos aludidos por el exjugador de Rosario Central habrían ocurrido entre agosto y octubre de 2025",
         "pubDate": "2026-10-09T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "El clima en Rosario: falsa primavera, con un viernes fresco e inestabilidad persistente",
-        "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-falsa-primavera-con-un-viernes-fresco-e-inestabilidad-persistente-20261009-0001.html",
-        "image": "https://www.rosario3.com/__export/1785358076173/sites/rosario3/img/2026/07/29/lluvia_frio.jpg_1825222445.jpg",
-        "summary": "Siguen las lluvias y el calor se hace esperar. Se esperan imoportantes ráfagas de viento",
-        "pubDate": "2026-10-09T11:46:00+00:00",
+        "title": "Este viernes habrá canje de reciclables en la zona norte de Rosario: a qué hora y dónde",
+        "link": "https://www.rosario3.com/informaciongeneral/este-viernes-habra-canje-de-reciclables-en-la-zona-norte-de-rosario-20261005-0039.html",
+        "image": "https://www.rosario3.com/__export/1791216273974/sites/rosario3/img/2026/10/05/canje.jpg_755318447.jpg",
+        "summary": "La actividad se realizará por la mañana y se podrán entregar cartones, papel, plástico, vidrio, latas y telgopor limpios y secos",
+        "pubDate": "2026-10-05T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Mancuso, en la mira: el escándalo de certificados truchos se cargó al primer DT en Brasil",
+        "link": "https://www.lacapital.com.ar/ovacion/mancuso-la-mira-el-escandalo-certificados-truchos-se-cargo-al-primer-dt-brasil-n10285784.html",
+        "image": "https://media.lacapital.com.ar/p/1ceadd2f2f998b0126a626524f719929/adjuntos/203/imagenes/103/456/0103456935/1200x675/smart/mancuso.jpg",
+        "summary": "Diego Sousa, técnico de Joinville de la Serie D, sufrió la suspensión de su permiso para dirigir mientras se investiga al exvolante, acusado de vender carnets falsos",
+        "pubDate": "2026-10-09T13:18:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Estanislao López fue declarado héroe nacional: quién es el \"Patriarca del Federalismo Argentino\"",
+        "link": "https://www.lacapital.com.ar/informacion-general/estanislao-lopez-fue-declarado-heroe-nacional-quien-es-el-patriarca-del-federalismo-argentino-n10285783.html",
+        "image": "https://media.lacapital.com.ar/p/a885248f85a2fa820b1f9c6ba763031b/adjuntos/203/imagenes/100/606/0100606091/1200x675/smart/brigadier-estanislao-lopezjpg.jpg",
+        "summary": "La ley 27.827 reconoce al brigadier santafesino por su defensa de la autonomía provincial y los ideales republicanos. También promueve la difusión de su legado",
+        "pubDate": "2026-10-09T13:17:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Deepfakes sexuales con IA: qué hacer si tu hijo o hija es víctima y dónde denunciar",
+        "link": "https://www.lacapital.com.ar/informacion-general/deepfakes-sexuales-ia-que-hacer-si-tu-hijo-o-hija-es-victima-y-donde-denunciar-n10285786.html",
+        "image": "https://media.lacapital.com.ar/p/0014858d1b46b520f32db697e933d092/adjuntos/203/imagenes/103/456/0103456884/1200x675/smart/adolescente-celular.png",
+        "summary": "Las imágenes íntimas falsas pueden tener consecuencias reales. Cómo preservar las pruebas, acompañar a los chicos y denunciar estos casos en Argentina",
+        "pubDate": "2026-10-09T13:13:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El divertido momento de Navas en conferencia de prensa: \"Me está llamando mi esposa\"",
+        "link": "https://www.lacapital.com.ar/ovacion/el-divertido-momento-navas-conferencia-prensa-me-esta-llamando-mi-esposa-n10285766.html",
+        "image": "https://media.lacapital.com.ar/p/5a9871c3fb07e50b7f3601b596bb39fa/adjuntos/203/imagenes/103/456/0103456585/1200x675/smart/image-9.jpg",
+        "summary": "El arquero costarricense vivió una particular situación ante los periodistas en la previa al enfrentamiento que tendrá su equipo, Pumas, ante Cruz Azul",
+        "pubDate": "2026-10-09T13:12:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "El rubro de las mascotas gana servicios y mueve un mercado cada vez más amplio",
@@ -188,7 +224,7 @@
         "source": "La Capital",
         "title": "Mataron a balazos a un hombre de 39 años en zona oeste y buscan a dos sospechosos",
         "link": "https://www.lacapital.com.ar/policiales/mataron-balazos-un-hombre-39-anos-zona-oeste-y-buscan-dos-sospechosos-n10285750.html",
-        "image": "https://media.lacapital.com.ar/p/7e64451f490812bc257713c235dfa499/adjuntos/203/imagenes/102/569/0102569601/1200x675/smart/patrullero-nocturno.jpg",
+        "image": "https://media.lacapital.com.ar/p/907e49f8da170f68a3a0db8be40f676c/adjuntos/203/imagenes/103/456/0103456934/1200x675/smart/crimen-pablo-damian-godoy.jpg",
         "summary": "El crimen de Pablo Godoy ocurrió a última hora de la jornada. Los delincuentes le dispararon al menos seis veces",
         "pubDate": "2026-10-09T10:46:00+00:00",
         "approxTime": false
@@ -236,42 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/c7f8bfa9e076f365ed0b455849ea9937/adjuntos/203/imagenes/103/452/0103452292/lesi.jpeg",
         "summary": "La dura lesión de rodilla que sufrió Gaspar Duarte en el partido ante Banfield engrosó la lista. Desde 2020 hasta hoy son diez los futbolistas que la padecieron",
         "pubDate": "2026-10-09T09:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Condenan a médicos del Hospital Provincial de Rosario por tratar como alcoholizada a una mujer que había sido abusada",
-        "link": "https://www.lacapital.com.ar/policiales/condenan-medicos-del-hospital-provincial-rosario-tratar-como-alcoholizada-una-mujer-que-habia-sido-abusada-n10285625.html",
-        "image": "https://media.lacapital.com.ar/p/704f0665ea0a850815f662bc980be8c8/adjuntos/203/imagenes/103/455/0103455290/1200x675/smart/xi.jpg",
-        "summary": "La víctima llegó al hospital golpeada, ensangrentada y en shock, pero no recibió la atención prevista para casos de abuso sexual. La Justicia condenó a tres médicos y a una exdirectora a indemnizarla y ordenó capacitar al personal en perspectiva de género",
-        "pubDate": "2026-10-09T09:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El tiempo en Rosario: viernes con chances de lluvias aisladas y ráfagas",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-viernes-chances-lluvias-aisladas-y-rafagas-n10285745.html",
-        "image": "https://media.lacapital.com.ar/p/12e5724e6b6c3491e36e8635df754f54/adjuntos/203/imagenes/103/456/0103456205/2026-10-08-clima-by-cmutti-81115859.jpg",
-        "summary": "El sábado podría arrancar con lluvias aisladas pero desde la mañana habría cielo mayormente nublado",
-        "pubDate": "2026-10-09T02:36:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La Justicia de Brasil ordenó el arresto de Eduardo Bolsonaro",
-        "link": "https://www.lacapital.com.ar/el-mundo/la-justicia-brasil-ordeno-el-arresto-eduardo-bolsonaro-n10285744.html",
-        "image": "https://media.lacapital.com.ar/p/422951c589b7254acaa8206474fb1278/adjuntos/203/imagenes/103/456/0103456182/2026-10-08-eduardo-bolsonaro.jpg",
-        "summary": "El hermano del candidato presidencial fue sentenciado a cuatro años de prisión por hacer lobby ante el gobierno de Estados Unidos",
-        "pubDate": "2026-10-09T01:43:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Estados Unidos ejecutará por fusilamiento a un militar y lo transmitirá en directo",
-        "link": "https://www.lacapital.com.ar/el-mundo/estados-unidos-ejecutara-fusilamiento-un-militar-y-lo-transmitira-directo-n10285743.html",
-        "image": "https://media.lacapital.com.ar/p/d02f43277c9ed1cd7310231ed702e75f/adjuntos/203/imagenes/103/456/0103456161/2026-10-08-ejecucion-estados-unidos.jpg",
-        "summary": "La ejecución del exmayor del Ejército Nidal Hasan, que en 2009 mató a 13 soldados, está programada para el 3 de diciembre",
-        "pubDate": "2026-10-09T01:16:00+00:00",
         "approxTime": false
       }
     ]
