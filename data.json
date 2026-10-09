@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T02:31:00.813005+00:00",
+  "generatedAt": "2026-10-09T03:01:17.001181+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El tiempo en Rosario: viernes con chances de lluvias aisladas y ráfagas",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-viernes-chances-lluvias-aisladas-y-rafagas-n10285745.html",
+        "image": "https://media.lacapital.com.ar/p/12e5724e6b6c3491e36e8635df754f54/adjuntos/203/imagenes/103/456/0103456205/2026-10-08-clima-by-cmutti-81115859.jpg",
+        "summary": "El sábado podría arrancar con lluvias aisladas pero desde la mañana habría cielo mayormente nublado",
+        "pubDate": "2026-10-09T02:36:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "La Justicia de Brasil ordenó el arresto de Eduardo Bolsonaro",
         "link": "https://www.lacapital.com.ar/el-mundo/la-justicia-brasil-ordeno-el-arresto-eduardo-bolsonaro-n10285744.html",
         "image": "https://media.lacapital.com.ar/p/422951c589b7254acaa8206474fb1278/adjuntos/203/imagenes/103/456/0103456182/2026-10-08-eduardo-bolsonaro.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/a30977629c182106d2e14a5b84a1e43b/adjuntos/203/imagenes/102/204/0102204023/1200x675/smart/rto-peajejpg.jpg",
         "summary": "A partir de este 10 de octubre los autos pagarán 1.850 pesos de peaje en la cabina de General Lagos. El pago de la tarifa será por medio del Telepase, tarjetas de crédito y débito, o QR.",
         "pubDate": "2026-10-08T21:26:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Prisión preventiva para el único detenido por el crimen de una mujer en Capitán Bermúdez",
-        "link": "https://www.lacapital.com.ar/policiales/prision-preventiva-el-unico-detenido-el-crimen-una-mujer-capitan-bermudez-n10285695.html",
-        "image": "https://media.lacapital.com.ar/p/098ea16749f5e5e21b29c245b69f312e/adjuntos/203/imagenes/103/451/0103451530/9-julio-500-capitan-bermudez.jpg",
-        "summary": "El imputado fue identificado como Abel B. de 40 años. Había ingresado al domicilio de la víctima para realizar tareas de albañilería",
-        "pubDate": "2026-10-08T21:13:00+00:00",
         "approxTime": false
       }
     ]
