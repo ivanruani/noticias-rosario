@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-08T23:30:57.442918+00:00",
+  "generatedAt": "2026-10-09T00:01:12.633384+00:00",
   "sites": {
     "rosario3": [
       {
         "source": "Rosario3",
-        "title": "Javkin en la apertura Feria del Libro: “No habrá nunca una IA que frasee como Saer, que invente mundos como Gorodischer”",
+        "title": "Marcela Ternavasio abrió la Feria del Libro y advirtió sobre el “desfinanciamiento” de la educación, la ciencia y la cultura",
+        "link": "https://www.rosario3.com/informaciongeneral/marcela-ternavasio-abrio-la-feria-del-libro-y-advirtio-sobre-el-desfinanciamiento-de-la-educacion-la-ciencia-y-la-cultura-20261008-0089.html",
+        "image": "https://www.rosario3.com/__export/1791502351987/sites/rosario3/img/2026/10/08/ternavasio.jpg_1825222445.jpg",
+        "summary": "La historiadora y escritora rosarina dio el discurso de apertura en la explanada del Cultural Fontanarrosa. Recorrió la historia de los libros, la lectura y la censura. También planteó una serie de reflexiones sobre el presente político y cultural de la Argentina y el…",
+        "pubDate": "2026-10-08T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Javkin en la apertura de la Feria del Libro: “No habrá nunca una IA que frasee como Saer, que invente mundos como Gorodischer”",
         "link": "https://www.rosario3.com/informaciongeneral/javkin-en-la-apertura-feria-del-libro-no-habra-nunca-una-ia-que-frasee-como-saer-que-invente-mundos-como-gorodischer-20261008-0087.html",
         "image": "https://www.rosario3.com/__export/1791501076388/sites/rosario3/img/2026/10/08/javkin_1.jpg_884113614.jpg",
         "summary": "El intendente encabezó la inauguración de la edición 2026 en el Centro Cultural Fontanarrosa y defendió la literatura, la creatividad y el encuentro entre lectores y escritores frente al avance de los algoritmos. La feria se extenderá hasta el 18 de octubre, con más de 350…",
-        "pubDate": "2026-10-08T12:00:00+00:00",
+        "pubDate": "2026-10-08T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,15 +26,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/comenzo-el-debate-por-la-legalizacion-de-uber-en-rosario-con-protestas-de-taxistas-remiseros-y-cadetes-frente-al-concejo-20261008-0075.html",
         "image": "https://www.rosario3.com/__export/1791491537263/sites/rosario3/img/2026/10/08/9d39b91c-73dc-4c25-906d-0aa9686b64f0.jpg_982626166.jpg",
         "summary": "Mientras funcionarios municipales presentaban el proyecto ante los concejales, trabajadores de distintos sectores se manifestaron en Córdoba y 1º de Mayo. Qué dice el proyecto y cómo se dio el debate en comisiones",
-        "pubDate": "2026-10-08T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La CGT marchó contra el Gobierno de Milei y lanzó duras críticas: “Están destruyendo el sistema productivo nacional”",
-        "link": "https://www.rosario3.com/informaciongeneral/la-cgt-marcho-contra-el-gobierno-de-milei-y-lanzo-duras-criticas-estan-destruyendo-el-sistema-productivo-nacional-20261008-0078.html",
-        "image": "https://www.rosario3.com/__export/1791492150777/sites/rosario3/img/2026/10/08/cgt.jpg_928314581.jpg",
-        "summary": "La central obrera se movilizó este jueves en el microcentro porteño bajo la consigna “Las Malvinas son argentinas, la industria nacional también”. En un documento, cuestionó el rumbo económico, apuntó contra el FMI y advirtió por el aumento de la pobreza, la caída del consumo y…",
         "pubDate": "2026-10-08T11:58:00+00:00",
         "approxTime": true
       },
@@ -40,10 +40,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Daniel Osvaldo continúa internado y reveló qué provocó la infección que puso en riesgo su vida",
-        "link": "https://www.rosario3.com/informaciongeneral/daniel-osvaldo-continua-internado-y-revelo-que-provoco-la-infeccion-que-puso-en-riesgo-su-vida-20261008-0079.html",
-        "image": "https://www.rosario3.com/__export/1791493014042/sites/rosario3/img/2026/10/08/eldanioswald.jpg_928314580.jpg",
-        "summary": "El exfutbolista permanece en terapia intermedia después de atravesar un grave cuadro pulmonar. Contó que todo habría comenzado con una caries que no recibió tratamiento a tiempo y que terminó derivando en una infección que afectó principalmente su pulmón derecho",
+        "title": "La CGT marchó contra el Gobierno de Milei y lanzó duras críticas: “Están destruyendo el sistema productivo nacional”",
+        "link": "https://www.rosario3.com/informaciongeneral/la-cgt-marcho-contra-el-gobierno-de-milei-y-lanzo-duras-criticas-estan-destruyendo-el-sistema-productivo-nacional-20261008-0078.html",
+        "image": "https://www.rosario3.com/__export/1791492150777/sites/rosario3/img/2026/10/08/cgt.jpg_928314581.jpg",
+        "summary": "La central obrera se movilizó este jueves en el microcentro porteño bajo la consigna “Las Malvinas son argentinas, la industria nacional también”. En un documento, cuestionó el rumbo económico, apuntó contra el FMI y advirtió por el aumento de la pobreza, la caída del consumo y…",
         "pubDate": "2026-10-08T11:56:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "La Uefa busca \"una figura respetada y unificadora\" para reemplazar a Infantino en la Fifa",
+        "link": "https://www.lacapital.com.ar/ovacion/la-uefa-busca-una-figura-respetada-y-unificadora-reemplazar-infantino-la-fifa-n10285730.html",
+        "image": "https://media.lacapital.com.ar/p/fcbfeb460d5d6644cd39a91505b9eba0/adjuntos/203/imagenes/103/455/0103455981/2026-10-08-infantino.jpg",
+        "summary": "En una reunión de sus 55 federaciones miembro se definió una estrategia para encontrar un candidato para las elecciones en la Fifa",
+        "pubDate": "2026-10-08T23:54:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "México: un árbitro murió tras un golpe en el ring y arrestaron al luchador",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/8d52361f7795d5f7437849cc064c43dd/adjuntos/203/imagenes/103/060/0103060590/1200x675/smart/stellantis.jpg",
         "summary": "El presidente de Stellantis para Sudamérica advirtió que se podría cesar la producción en sus plantas de Buenos Aires y Córdoba por las importaciones y los costos",
         "pubDate": "2026-10-08T19:28:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Netflix: tres miniseries nuevas que no vas a poder dejar de ver",
-        "link": "https://www.lacapital.com.ar/zoom/netflix-tres-miniseries-nuevas-que-no-vas-poder-dejar-ver-n10285672.html",
-        "image": "https://media.lacapital.com.ar/p/c6acdf474954ec9ce5afa3a60e2da31e/adjuntos/203/imagenes/103/455/0103455506/1200x675/smart/image-1.png",
-        "summary": "Drama, suspenso y thriller son los géneros de las series que desembarcaron recientemente en la plataforma y están llevándose todas las reproducciones",
-        "pubDate": "2026-10-08T19:25:00+00:00",
         "approxTime": false
       }
     ]
