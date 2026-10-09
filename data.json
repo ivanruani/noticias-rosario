@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T14:31:03.223215+00:00",
+  "generatedAt": "2026-10-09T15:01:10.882104+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "La Corte Suprema restituye las restricciones a la compra de tierras por extranjeros",
+        "link": "https://www.lacapital.com.ar/politica/la-corte-suprema-restituye-las-restricciones-la-compra-tierras-extranjeros-n10285817.html",
+        "image": "https://media.lacapital.com.ar/p/d899c24a1cee377e510adb1525bc7b38/adjuntos/203/imagenes/103/436/0103436209/1200x675/smart/corte-suprema-justicia-nacion.jpg",
+        "summary": "Con conjueces y en fallo dividido, revierte de manera interina los efectos del fallo que el propio tribunal había emitido la semana pasada. Vuelve a la justicia federal",
+        "pubDate": "2026-10-09T14:33:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Robo en agencia de motos: entraron por la casilla de gas, se llevaron dólares y un arma",
         "link": "https://www.lacapital.com.ar/policiales/robo-agencia-motos-entraron-la-casilla-gas-se-llevaron-dolares-y-un-arma-n10285818.html",
         "image": "https://media.lacapital.com.ar/p/29bafd2463059fba09de4535f6c2c65b/adjuntos/203/imagenes/100/030/0100030619/1200x675/smart/motos-ventasjpgjpg.jpg",
@@ -249,15 +258,6 @@
       },
       {
         "source": "La Capital",
-        "title": "Teatro para bebés en Rosario: Ito vuelve con varias funciones en octubre",
-        "link": "https://www.lacapital.com.ar/zoom/teatro-bebes-rosario-ito-vuelve-varias-funciones-octubre-n10285771.html",
-        "image": "https://media.lacapital.com.ar/p/ea0ac6a93a41a26983a4b1502ed0c8e9/adjuntos/203/imagenes/103/456/0103456513/1200x675/smart/ito.png",
-        "summary": "La obra invita a bebés de 0 a 3 años a descubrir el teatro a través de un gusanito curioso, personajes y juegos. Se presenta los sábados de octubre en La Orilla Infinita",
-        "pubDate": "2026-10-09T11:53:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "El Premio Nobel de la Paz 2026 fue otorgado a la sudafricana Navanethem \"Navi\" Pillay",
         "link": "https://www.lacapital.com.ar/informacion-general/el-premio-nobel-la-paz-2026-fue-otorgado-la-sudafricana-navanethem-navi-pillay-n10285755.html",
         "image": "https://media.lacapital.com.ar/p/f5b0cb8d422fb28c28e8fc35acc8f675/adjuntos/203/imagenes/103/456/0103456358/1200x675/smart/image-2026-10-09t075218175.png",
@@ -267,11 +267,11 @@
       },
       {
         "source": "La Capital",
-        "title": "Ataque repetido en barrio Martin: volvieron a romper un bar para entrar a robar",
-        "link": "https://www.lacapital.com.ar/policiales/ataque-repetido-barrio-martin-volvieron-romper-un-bar-entrar-robar-n10285758.html",
-        "image": "https://media.lacapital.com.ar/p/c7c4fd42faf5c6992c1a33f526ad0c0e/adjuntos/203/imagenes/103/456/0103456391/freedom-bar-mendoza-alem.jpg",
-        "summary": "Un delincuente destrozó la puerta de vidrio e ingresó a Freedom a la madrugada. La policía había detenido a un sospechoso seis meses atrás en el mismo lugar",
-        "pubDate": "2026-10-09T11:40:00+00:00",
+        "title": "Teatro para bebés en Rosario: Ito vuelve con varias funciones en octubre",
+        "link": "https://www.lacapital.com.ar/zoom/teatro-bebes-rosario-ito-vuelve-varias-funciones-octubre-n10285771.html",
+        "image": "https://media.lacapital.com.ar/p/ea0ac6a93a41a26983a4b1502ed0c8e9/adjuntos/203/imagenes/103/456/0103456513/1200x675/smart/ito.png",
+        "summary": "La obra invita a bebés de 0 a 3 años a descubrir el teatro a través de un gusanito curioso, personajes y juegos. Se presenta los sábados de octubre en La Orilla Infinita",
+        "pubDate": "2026-10-09T11:53:00+00:00",
         "approxTime": false
       }
     ]
