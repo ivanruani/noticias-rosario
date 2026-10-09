@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T21:01:10.517977+00:00",
+  "generatedAt": "2026-10-09T21:30:59.541652+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Ternium cumple 20 años en Wall Street con presencia en seis países y 33.000 empleados",
+        "link": "https://www.lacapital.com.ar/novedades/ternium-cumple-20-anos-wall-street-presencia-seis-paises-y-33000-empleados-n10285897.html",
+        "image": "https://media.lacapital.com.ar/p/3fe3baeac960c9f777cf356953565d23/adjuntos/203/imagenes/103/458/0103458246/1200x675/smart/whatsapp-image-2026-10-09-at-173854.jpeg",
+        "summary": "La siderúrgica Ternium, del Grupo Techint, celebró dos décadas de cotización en el NYSE con el tradicional toque de campana encabezado por su CEO argentino, Máximo Vedoya",
+        "pubDate": "2026-10-09T21:19:26+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Marcha Federal Universitaria: docentes universitarios definieron un paro de 24 horas",
+        "link": "https://www.lacapital.com.ar/la-ciudad/marcha-federal-universitaria-docentes-universitarios-definieron-un-paro-24-horas-n10285847.html",
+        "image": "https://media.lacapital.com.ar/p/26b05cbf86f0ad74251258b3272979c0/adjuntos/203/imagenes/101/975/0101975428/1200x675/smart/coadjpg.jpg",
+        "summary": "El gremio cuestionó el \"clima de nueva normalidad\" adoptado por el gobierno nacional y reclamó que se cumpla con la ley de financiamiento universitario",
+        "pubDate": "2026-10-09T21:18:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Jornada gratuita de chequeo visual en memoria de dos médicos fallecidos en la ruta",
         "link": "https://www.lacapital.com.ar/la-ciudad/jornada-gratuita-chequeo-visual-memoria-dos-medicos-fallecidos-la-ruta-n10285809.html",
         "image": "https://media.lacapital.com.ar/p/b17153baf1ede3efedf992d06b6efeb7/adjuntos/203/imagenes/103/457/0103457074/1200x675/smart/16-contratapa-1.jpg",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/21cd1550178854582f892b5ccb2514d2/adjuntos/203/imagenes/102/105/0102105910/1200x675/smart/anses-3012jpg.jpg",
         "summary": "Esta ayuda económica está destinada a un grupo particular. Los montos del bono en octubre varían entre $195.600 y $391.200.",
         "pubDate": "2026-10-09T16:52:11+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Villa Gobernador Gálvez: cae banda narco tras megaoperativo policial",
-        "link": "https://www.lacapital.com.ar/policiales/villa-gobernador-galvez-cae-banda-narco-megaoperativo-policial-n10285806.html",
-        "image": "https://media.lacapital.com.ar/p/c1f3858e05460f0c41ea87d5debb90a6/adjuntos/203/imagenes/103/457/0103457072/1200x675/smart/min.jpg",
-        "summary": "Es el tercer operativo contra la misma banda realizado por la Policía Federal. En los dos anteriores secuestraron armas; drogas y dinero.",
-        "pubDate": "2026-10-09T16:51:02+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Apropiación de bebés en Rosario: piden que vaya a juicio una mujer de 87 años",
-        "link": "https://www.lacapital.com.ar/la-ciudad/apropiacion-bebes-rosario-piden-que-vaya-juicio-una-mujer-87-anos-n10285821.html",
-        "image": "https://media.lacapital.com.ar/p/69d9e749ce99a2a68667481ab5aa120c/adjuntos/203/imagenes/103/442/0103442106/1200x675/smart/olga-partera-210.jpg",
-        "summary": "Olga fue procesada a más de cuatro décadas del nacimiento de dos mujeres en un caso similar al de la partera Dolly y su hermana",
-        "pubDate": "2026-10-09T16:19:00+00:00",
         "approxTime": false
       }
     ]
