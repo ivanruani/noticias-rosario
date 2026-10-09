@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T22:01:11.033226+00:00",
+  "generatedAt": "2026-10-09T22:30:54.962377+00:00",
   "sites": {
     "rosario3": [
       {
@@ -33,7 +33,7 @@
         "source": "Rosario3",
         "title": "Financiamiento universitario: el Gobierno apeló, pero la Justicia sostuvo el cumplimiento de la ley",
         "link": "https://www.rosario3.com/politica/financiamiento-universitario-el-gobierno-apelo-pero-la-justicia-sostuvo-el-cumplimiento-de-la-ley-20261009-0056.html",
-        "image": "https://www.rosario3.com/__export/1791575522751/sites/rosario3/img/2026/10/09/milei.jpg_1768679258.jpg",
+        "image": "https://www.rosario3.com/__export/1791584376349/sites/rosario3/img/2026/10/09/milei_2.jpg_1768679257.jpg",
         "summary": "El Juzgado Contencioso Administrativo Federal Nº 11 concedió el pedido de las autoridades y la Cámara de Apelaciones en lo Contencioso Administrativo Federal definirá si confirma o revoca la resolución de primera instancia. La Ley de Financiamiento de las Universidades fue…",
         "pubDate": "2026-10-09T11:57:00+00:00",
         "approxTime": true
@@ -112,10 +112,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Octubre Rosa: el fin de semana habrá diversas actividades para concientizar sobre el cáncer de mama",
-        "link": "https://www.rosario3.com/informaciongeneral/octubre-rosa-el-fin-de-semana-habra-diversas-actividades-para-concientizar-sobre-el-cancer-de-mama-20261009-0042.html",
-        "image": "https://www.rosario3.com/__export/1791569739911/sites/rosario3/img/2026/10/09/octubre.jpg_1768679257.jpg",
-        "summary": "La ciudad será escenario de la tradicional Caminata Rosa, el Seven de Mamis Hockey y de un recorrido turístico para homenajear a las mujeres influyentes de la identidad rosarina",
+        "title": "La Federación Portuguesa de Fútbol sancionó a Cristiano Ronaldo tras abandonar la concentración",
+        "link": "https://www.rosario3.com/deportes/la-federacion-portuguesa-de-futbol-sanciono-a-cristiano-ronaldo-tras-abandonar-la-concentracion-20261009-0049.html",
+        "image": "https://www.rosario3.com/__export/1790808273917/sites/rosario3/img/2026/09/30/720_-_2026-09-30t193811_943.jpg_1221029627.jpg",
+        "summary": "La sanción al capitán luso se definió luego de dejar la concentración antes del partido ante Dinamarca. La medida disciplinaria surge en el marco de un conflicto con el entrenador Jorge Jesùs y podría derivar en una inhabilitación de hasta seis meses",
         "pubDate": "2026-10-09T11:48:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Causa Rosario Motorsport: prisión preventiva por estafas para los dueños de la agencia de autos",
+        "link": "https://www.lacapital.com.ar/policiales/causa-rosario-motorsport-prision-preventiva-estafas-los-duenos-la-agencia-autos-n10285908.html",
+        "image": "https://media.lacapital.com.ar/p/e7add9dd543a1f5934c48b9bc54e1a19/adjuntos/203/imagenes/103/410/0103410707/1200x675/smart/rosario-motorsport.jpg",
+        "summary": "Será por un plazo de 60 días tras ser imputados este viernes en el Centro de Justicia Penal luego de que la fiscalía constate al menos 67 hechos concretos",
+        "pubDate": "2026-10-09T22:21:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Ternium cumple 20 años en Wall Street con presencia en seis países y 33.000 empleados",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/29387a2e5ca583df0bcdc14aa9299181/adjuntos/203/imagenes/103/457/0103457026/1200x675/smart/desafio-secundaria-11.jpeg",
         "summary": "La quinta edición de la propuesta municipal convocó a alumnos de séptimo grado, familias y representantes de establecimientos educativos para conocer ofertas y orientaciones disponibles para el nivel medio",
         "pubDate": "2026-10-09T17:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Ansés entrega hasta $390 mil a un grupo de beneficiarios: quiénes son y cómo cobrarlo",
-        "link": "https://www.lacapital.com.ar/informacion-general/anses-entrega-390-mil-un-grupo-beneficiarios-quienes-son-y-como-cobrarlo-n10285835.html",
-        "image": "https://media.lacapital.com.ar/p/21cd1550178854582f892b5ccb2514d2/adjuntos/203/imagenes/102/105/0102105910/1200x675/smart/anses-3012jpg.jpg",
-        "summary": "Esta ayuda económica está destinada a un grupo particular. Los montos del bono en octubre varían entre $195.600 y $391.200.",
-        "pubDate": "2026-10-09T16:52:11+00:00",
         "approxTime": false
       }
     ]
