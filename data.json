@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T16:31:00.654152+00:00",
+  "generatedAt": "2026-10-09T17:01:10.045096+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Ansés entrega hasta $390 mil a un grupo de beneficiarios: quiénes son y cómo cobrarlo",
+        "link": "https://www.lacapital.com.ar/informacion-general/anses-entrega-390-mil-un-grupo-beneficiarios-quienes-son-y-como-cobrarlo-n10285835.html",
+        "image": "https://media.lacapital.com.ar/p/21cd1550178854582f892b5ccb2514d2/adjuntos/203/imagenes/102/105/0102105910/1200x675/smart/anses-3012jpg.jpg",
+        "summary": "Esta ayuda económica está destinada a un grupo particular. Los montos del bono en octubre varían entre $195.600 y $391.200.",
+        "pubDate": "2026-10-09T16:52:11+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Villa Gobernador Gálvez: cae banda narco tras megaoperativo policial",
+        "link": "https://www.lacapital.com.ar/policiales/villa-gobernador-galvez-cae-banda-narco-megaoperativo-policial-n10285806.html",
+        "image": "https://media.lacapital.com.ar/p/c1f3858e05460f0c41ea87d5debb90a6/adjuntos/203/imagenes/103/457/0103457072/1200x675/smart/min.jpg",
+        "summary": "Es el tercer operativo contra la misma banda realizado por la Policía Federal. En los dos anteriores secuestraron armas; drogas y dinero.",
+        "pubDate": "2026-10-09T16:51:02+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Apropiación de bebés en Rosario: piden que vaya a juicio una mujer de 87 años",
         "link": "https://www.lacapital.com.ar/la-ciudad/apropiacion-bebes-rosario-piden-que-vaya-juicio-una-mujer-87-anos-n10285821.html",
         "image": "https://media.lacapital.com.ar/p/69d9e749ce99a2a68667481ab5aa120c/adjuntos/203/imagenes/103/442/0103442106/1200x675/smart/olga-partera-210.jpg",
@@ -198,7 +216,7 @@
         "title": "La Corte Suprema restituye las restricciones a la compra de tierras por extranjeros",
         "link": "https://www.lacapital.com.ar/politica/la-corte-suprema-restituye-las-restricciones-la-compra-tierras-extranjeros-n10285817.html",
         "image": "https://media.lacapital.com.ar/p/d899c24a1cee377e510adb1525bc7b38/adjuntos/203/imagenes/103/436/0103436209/1200x675/smart/corte-suprema-justicia-nacion.jpg",
-        "summary": "Con conjueces y en fallo dividido, revierte de manera interina los efectos del fallo que el propio tribunal había emitido la semana pasada. Vuelve a la justicia federal",
+        "summary": "Con conjueces y en fallo dividido, revierte de manera interina los efectos del fallo que el propio tribunal había emitido la semana pasada. Vuelve a la Justicia federal",
         "pubDate": "2026-10-09T14:33:00+00:00",
         "approxTime": false
       },
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/966425a4ce2a0926145997ef0595d804/adjuntos/203/imagenes/103/456/0103456933/1200x675/smart/image-21.jpg",
         "summary": "El argentino hizo lo mejor del viernes en el último intento clasificatorio y quedó afuera de la SQ3 por 94 milésimas. A las 6 del sábado se larga",
         "pubDate": "2026-10-09T13:29:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Mancuso, en la mira: el escándalo de certificados truchos se cargó al primer DT en Brasil",
-        "link": "https://www.lacapital.com.ar/ovacion/mancuso-la-mira-el-escandalo-certificados-truchos-se-cargo-al-primer-dt-brasil-n10285784.html",
-        "image": "https://media.lacapital.com.ar/p/1ceadd2f2f998b0126a626524f719929/adjuntos/203/imagenes/103/456/0103456935/1200x675/smart/mancuso.jpg",
-        "summary": "Diego Sousa, técnico de Joinville de la Serie D, sufrió la suspensión de su permiso para dirigir mientras se investiga al exvolante, acusado de vender carnets falsos",
-        "pubDate": "2026-10-09T13:18:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Estanislao López fue declarado héroe nacional: quién es el \"Patriarca del Federalismo Argentino\"",
-        "link": "https://www.lacapital.com.ar/informacion-general/estanislao-lopez-fue-declarado-heroe-nacional-quien-es-el-patriarca-del-federalismo-argentino-n10285783.html",
-        "image": "https://media.lacapital.com.ar/p/a885248f85a2fa820b1f9c6ba763031b/adjuntos/203/imagenes/100/606/0100606091/1200x675/smart/brigadier-estanislao-lopezjpg.jpg",
-        "summary": "La ley 27.827 reconoce al brigadier santafesino por su defensa de la autonomía provincial y los ideales republicanos. También promueve la difusión de su legado",
-        "pubDate": "2026-10-09T13:17:00+00:00",
         "approxTime": false
       }
     ]
