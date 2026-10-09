@@ -1,14 +1,32 @@
 {
-  "generatedAt": "2026-10-09T18:01:12.860915+00:00",
+  "generatedAt": "2026-10-09T18:31:02.415645+00:00",
   "sites": {
     "rosario3": [
       {
         "source": "Rosario3",
-        "title": "Juan Cruz Robledo, el árbitro debutante que dirigirá a Newell’s, estuvo preso en Rosario por la causa Generación Zoe de Cositorto",
-        "link": "https://www.rosario3.com/policiales/juan-cruz-robledo-el-arbitro-debutante-que-dirigira-a-newells-estuvo-preso-en-rosario-por-la-causa-generacion-zoe-de-cositorto-20261009-0025.html",
-        "image": "https://www.rosario3.com/__export/1791557495972/sites/rosario3/img/2026/10/09/juan_cruz_robledo.jpg_928314580.jpg",
-        "summary": "El árbitro de 34 años que debutará en la máxima categoría este lunes cuando La Lepra visite a Gimnasia y Esgrima de Mendoza estuvo implicado en 2023 en la red local que captaba inversores bajo la promesa de retornos imposibles en dólares",
+        "title": "Elecciones 2027: entre la necesidad de Milei y el temor por Rosario, las claves del diálogo del pullarismo con el gobierno nacional",
+        "link": "https://www.rosario3.com/politica/elecciones-2027-entre-la-necesidad-de-milei-y-el-temor-por-rosario-las-claves-del-dialogo-del-pullarismo-con-el-gobierno-nacional-20261009-0022.html",
+        "image": "https://www.rosario3.com/__export/1791556134465/sites/rosario3/img/2026/10/09/banderita.jpg_982625323.jpg",
+        "summary": "Santilli comenzó una ronda de negociaciones con gobernadores por la suspensión de las Paso. Pullaro apoya, pero por ahora se demora la posibilidad de una reunión y sostiene como interlocutora a Gisela Scaglia. En Unidos descartan un acuerdo electoral provincial, pero algunos…",
         "pubDate": "2026-10-09T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Cómo inscribirse para recibir los subsidios de luz y gas: el paso a paso del trámite y los requisitos a cumplir",
+        "link": "https://www.rosario3.com/informaciongeneral/como-inscribirse-para-recibir-los-subsidios-de-luz-y-gas-el-paso-a-paso-del-tramite-y-los-requisitos-a-cumplir-20261009-0038.html",
+        "image": "https://www.rosario3.com/__export/1791568736790/sites/rosario3/img/2026/10/09/celular.jpg_1768679258.jpg",
+        "summary": "El régimen de Subsidios Energéticos Focalizados se tramita online y exige que el hogar tenga ingresos netos menores a tres Canastas Básicas Totales, además de cumplir condiciones patrimoniales",
+        "pubDate": "2026-10-09T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Alivio para la familia Shanahan: su esposa y su hijo fueron excarelados mientras siguen las investigaciones por lavado",
+        "link": "https://www.rosario3.com/informaciongeneral/alivio-para-la-familia-shanahan-su-esposa-y-su-hijo-fueron-excarelados-mientras-siguen-las-investigaciones-por-lavado-20261009-0040.html",
+        "image": "https://www.rosario3.com/__export/1791568132071/sites/rosario3/img/2023/12/27/gustavo_shanahan.jpg_113259651.jpg",
+        "summary": "Los fiscales federales retiraron el pedido de captura internacional al empresario catalán Jordi Pujol (h) a cambio de su declaración indagatoria.",
+        "pubDate": "2026-10-09T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +35,16 @@
         "link": "https://www.rosario3.com/politica/tras-varios-cruces-milei-recibio-a-bullrich-en-olivos-para-hablar-de-todos-los-temas-a-fondo-20261009-0036.html",
         "image": "https://www.rosario3.com/__export/1791565434226/sites/rosario3/img/2026/10/09/milei_bullrich.png_786111822.png",
         "summary": "El encuentro se extendió por más de dos horas en la residencia presidencial, luego de las diferencias por el Presupuesto 2027, los cambios vinculados a discapacidad y la estrategia legislativa en torno a la Ley de Tierras. Ambos compartieron mensajes en redes sociales en los que…",
-        "pubDate": "2026-10-09T11:59:00+00:00",
+        "pubDate": "2026-10-09T11:57:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Juan Cruz Robledo, el árbitro debutante que dirigirá a Newell’s, estuvo preso en Rosario por la causa Generación Zoe de Cositorto",
+        "link": "https://www.rosario3.com/policiales/juan-cruz-robledo-el-arbitro-debutante-que-dirigira-a-newells-estuvo-preso-en-rosario-por-la-causa-generacion-zoe-de-cositorto-20261009-0025.html",
+        "image": "https://www.rosario3.com/__export/1791557495972/sites/rosario3/img/2026/10/09/juan_cruz_robledo.jpg_928314580.jpg",
+        "summary": "El árbitro de 34 años que debutará en la máxima categoría este lunes cuando La Lepra visite a Gimnasia y Esgrima de Mendoza estuvo implicado en 2023 en la red local que captaba inversores bajo la promesa de retornos imposibles en dólares",
+        "pubDate": "2026-10-09T11:56:00+00:00",
         "approxTime": true
       },
       {
@@ -26,33 +53,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/navi-pillay-la-nobel-de-la-paz-que-acuso-a-israel-de-genocidio-en-gaza-y-su-ironica-frase-sobre-trump-20261009-0032.html",
         "image": "https://www.rosario3.com/__export/1791561047466/sites/rosario3/img/2026/10/09/premio_nobel_de_la_paz.png_786111822.png",
         "summary": "La jurista sudafricana de 85 años bromeó con la posibilidad de compartir el galardón con el presidente estadounidense, quien manifestó en reiteradas ocasiones que merecía recibirlo. Además, recordó su trabajo en Naciones Unidas y el informe que concluyó que el gobierno israelí…",
-        "pubDate": "2026-10-09T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La Corte Suprema suspendió la derogación de la Ley de Tierras Rurales impulsada por el DNU de Milei",
-        "link": "https://www.rosario3.com/informaciongeneral/la-corte-suprema-suspendio-la-derogacion-de-la-ley-de-tierras-rurales-impulsada-por-el-dnu-de-milei-20261009-0023.html",
-        "image": "https://www.rosario3.com/__export/1791554982409/sites/rosario3/img/2026/10/06/corte_suprema.jpg_1768679257.jpg",
-        "summary": "El máximo tribunal dejó sin efecto de manera provisoria el artículo del DNU 70 2023 que eliminaba las restricciones a la compra de campos por parte de extranjeros. La medida regirá hasta que la Justicia analice quiénes pueden intervenir en la causa y resuelva el pedido cautelar",
-        "pubDate": "2026-10-09T11:57:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El Gobierno fijó nuevos requisitos de eficiencia para los aires acondicionados: desde cuándo se aplicarán",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/el-gobierno-fijo-nuevos-requisitos-de-eficiencia-para-los-aires-acondicionados-desde-cuando-se-aplicaran-20261009-0018.html",
-        "image": "https://www.rosario3.com/__export/1791552519775/sites/rosario3/img/2022/01/12/aire_acondicionado.jpg_1768679257.jpg",
-        "summary": "Los cambios se implementarán por etapas desde fines de 2026 y alcanzarán a los equipos importados y a los fabricados en el país. La medida apunta a mejorar el rendimiento energético y no obliga a reemplazar los aparatos que ya están instalados en los hogares",
-        "pubDate": "2026-10-09T11:56:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Avanza el proyecto contra el mercado negro de celulares: calculan más de 200 dispositivos robados por día en Rosario",
-        "link": "https://www.rosario3.com/informaciongeneral/avanza-el-proyecto-contra-el-mercado-negro-de-celulares-calculan-mas-de-200-dispositivos-robados-por-dia-en-rosario-20261009-0026.html",
-        "image": "https://www.rosario3.com/__export/1791558207641/sites/rosario3/img/2026/10/09/celus_robados_en_lo_del_pity_alvarez_mayo_2026_rosario.jpg_928314580.jpg",
-        "summary": "Este jueves el Senado santafesino dio media sanción al proyecto de ley que busca frenar la venta de teléfonos móviles robados. Por un lado, exige que para vender celulares, tanto nuevos como usados, la persona debe estar registrada como comerciante y demostrar la trazabilidad de…",
         "pubDate": "2026-10-09T11:55:00+00:00",
         "approxTime": true
       },
@@ -67,19 +67,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "Francisco Cerúndolo se clasificó a la tercera ronda de Shanghái ante el ruso Safiullin: cómo sigue el cronograma de argentinos",
-        "link": "https://www.rosario3.com/deportes/francisco-cerundolo-se-clasifico-a-la-tercera-ronda-de-shanghai-ante-el-ruso-safiullin-como-sigue-el-cronograma-de-argentinos-20261009-0039.html",
-        "image": "https://www.rosario3.com/__export/1791567822186/sites/rosario3/img/2026/10/09/fran-cerundolo.jpg_928314580.jpg",
-        "summary": "El tenista argentino se impuso por 7-6 y 6-3 ante el europeo. en la próxima instancia del certamen se enfrentará al checo Jakub Mensik",
+        "title": "El Gobierno fijó nuevos requisitos de eficiencia para los aires acondicionados: desde cuándo se aplicarán",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/el-gobierno-fijo-nuevos-requisitos-de-eficiencia-para-los-aires-acondicionados-desde-cuando-se-aplicaran-20261009-0018.html",
+        "image": "https://www.rosario3.com/__export/1791552519775/sites/rosario3/img/2022/01/12/aire_acondicionado.jpg_1768679257.jpg",
+        "summary": "Los cambios se implementarán por etapas desde fines de 2026 y alcanzarán a los equipos importados y a los fabricados en el país. La medida apunta a mejorar el rendimiento energético y no obliga a reemplazar los aparatos que ya están instalados en los hogares",
         "pubDate": "2026-10-09T11:53:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Franco Colapinto, ilusionado con sumar puntos en el GP de Singapur: “Hay que trabajar, pero no estamos lejos”",
-        "link": "https://www.rosario3.com/deportes/franco-colapinto-ilusionado-con-sumar-puntos-en-el-gp-de-singapur-hay-que-trabajar-pero-no-estamos-lejos-20261009-0033.html",
-        "image": "https://www.rosario3.com/__export/1791561299839/sites/rosario3/img/2026/10/09/colapinto-singapur-2.jpg_928314580.jpg",
-        "summary": "El piloto argentino finalizó 11° en la clasificación para la carrera sprint de este sábado por la mañana y luego manifestó que tienen varias cosas por mejorar. La pole la logró Max Verstappen",
+        "title": "Avanza el proyecto contra el mercado negro de celulares: calculan más de 200 dispositivos robados por día en Rosario",
+        "link": "https://www.rosario3.com/informaciongeneral/avanza-el-proyecto-contra-el-mercado-negro-de-celulares-calculan-mas-de-200-dispositivos-robados-por-dia-en-rosario-20261009-0026.html",
+        "image": "https://www.rosario3.com/__export/1791558207641/sites/rosario3/img/2026/10/09/celus_robados_en_lo_del_pity_alvarez_mayo_2026_rosario.jpg_928314580.jpg",
+        "summary": "Este jueves el Senado santafesino dio media sanción al proyecto de ley que busca frenar la venta de teléfonos móviles robados. Por un lado, exige que para vender celulares, tanto nuevos como usados, la persona debe estar registrada como comerciante y demostrar la trazabilidad de…",
         "pubDate": "2026-10-09T11:52:00+00:00",
         "approxTime": true
       },
@@ -112,33 +112,60 @@
       },
       {
         "source": "Rosario3",
-        "title": "Identificaron el cuerpo calcinado que fue hallado en un pozo dentro de un pozo en Villa Gobernador Gálvez",
-        "link": "https://www.rosario3.com/policiales/identificaron-el-cuerpo-calcinado-que-fue-hallado-en-un-pozo-dentro-de-un-pozo-en-villa-gobernador-galvez-20261009-0019.html",
-        "image": "https://www.rosario3.com/__export/1765802989845/sites/rosario3/img/2022/06/10/instituto_medico_legal_iml.jpg_928314581.jpg",
-        "summary": "El cadáver había sido encontrado el 26 de septiembre pasado en un sector cercano a la ruta provincial S22 y al arroyo Saladillo. Se trata de un hombre de 48 años",
+        "title": "La Corte Suprema suspendió la derogación de la Ley de Tierras Rurales impulsada por el DNU de Milei",
+        "link": "https://www.rosario3.com/informaciongeneral/la-corte-suprema-suspendio-la-derogacion-de-la-ley-de-tierras-rurales-impulsada-por-el-dnu-de-milei-20261009-0023.html",
+        "image": "https://www.rosario3.com/__export/1791554982409/sites/rosario3/img/2026/10/06/corte_suprema.jpg_1768679257.jpg",
+        "summary": "El máximo tribunal dejó sin efecto de manera provisoria el artículo del DNU 70 2023 que eliminaba las restricciones a la compra de campos por parte de extranjeros. La medida regirá hasta que la Justicia analice quiénes pueden intervenir en la causa y resuelva el pedido cautelar",
         "pubDate": "2026-10-09T11:48:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "El Brigadier Estanislao López fue declarado Héroe Nacional y “Patriarca del Federalismo Argentino”",
-        "link": "https://www.rosario3.com/informaciongeneral/el-brigadier-estanislao-lopez-fue-declarado-heroe-nacional-y-patriarca-del-federalismo-argentino-20261009-0010.html",
-        "image": "https://www.rosario3.com/__export/1791546086777/sites/rosario3/img/2026/10/09/brigadier_estanislao_lopez.png_928314581.png",
-        "summary": "La norma reconoce al caudillo santafesino por su defensa de los ideales federales y republicanos. Además, establece que el Gobierno nacional deberá impulsar acciones para difundir su vida, pensamiento y trayectoria en Argentina y el exterior",
+        "title": "Identificaron el cuerpo calcinado que fue hallado en un pozo dentro de un pozo en Villa Gobernador Gálvez",
+        "link": "https://www.rosario3.com/policiales/identificaron-el-cuerpo-calcinado-que-fue-hallado-en-un-pozo-dentro-de-un-pozo-en-villa-gobernador-galvez-20261009-0019.html",
+        "image": "https://www.rosario3.com/__export/1765802989845/sites/rosario3/img/2022/06/10/instituto_medico_legal_iml.jpg_928314581.jpg",
+        "summary": "El cadáver había sido encontrado el 26 de septiembre pasado en un sector cercano a la ruta provincial S22 y al arroyo Saladillo. Se trata de un hombre de 48 años",
         "pubDate": "2026-10-09T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Quejas por el estado de las rutas y el aumento tarifario del sistema de peajes",
-        "link": "https://www.rosario3.com/informaciongeneral/quejas-por-el-estado-de-las-rutas-y-el-aumento-tarifario-del-sistema-de-peajes-20261009-0011.html",
-        "image": "https://www.rosario3.com/__export/1791546411789/sites/rosario3/img/2026/10/09/rutasiniestro.jpg_928314581.jpg",
-        "summary": "El coordinador del Comité Nacional de Defensa del Usuario Vial (Conaduv), Ricardo Lasca, cuestionó duramente el modelo de concesiones y el estado de los corredores. Señaló que el cobro es un 'impuesto al tránsito' y advirtió por la falta de obras que eviten siniestros viales…",
+        "title": "Desarchivaron la denuncia del futbolista Jonatan Gómez por extorsiones para pagar una deuda por juego clandestino",
+        "link": "https://www.rosario3.com/policiales/desarchivaron-la-denuncia-del-futbolista-jonatan-gomez-por-extorsiones-para-pagar-una-deuda-por-juego-clandestino-20261009-0009.html",
+        "image": "https://www.rosario3.com/__export/1787073199994/sites/rosario3/img/2025/05/23/joni_chau.jpg_928314580.jpg",
+        "summary": "La resolución la tomó el fiscal regional, que consideró “prematura” la desestimación dispuesta en agosto pasado. Los hechos aludidos por el exjugador de Rosario Central habrían ocurrido entre agosto y octubre de 2025",
         "pubDate": "2026-10-09T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Robo millonario en Santa Fe: investigan ingreso por un galpón a la Red Mutual",
+        "link": "https://www.lacapital.com.ar/policiales/robo-millonario-santa-fe-investigan-ingreso-un-galpon-la-red-mutual-n10285863.html",
+        "image": "https://media.lacapital.com.ar/p/fa497a9ac637f47bc045ab5e91e7baaa/adjuntos/203/imagenes/103/457/0103457841/1200x675/smart/redi.jpg",
+        "summary": "Según las primeras pericias la alarma se activó cerca de las 4 de la mañana. La policía registró huellas de pisadas y herramientas en el lugar por el cual ingresaron los ladrones.",
+        "pubDate": "2026-10-09T18:25:41+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Newell's visita a Gimnasia de Mendoza con un árbitro debutante en Primera: sus antecedentes",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-visita-gimnasia-mendoza-un-arbitro-debutante-primera-sus-antecedentes-n10285848.html",
+        "image": "https://media.lacapital.com.ar/p/5b29b6a3a9581004207cb57801c6fa7a/adjuntos/203/imagenes/103/457/0103457647/1200x675/smart/image-2026-10-09t133310348.png",
+        "summary": "La AFA designó a Juan Cruz Robledo para el partido del próximo lunes, quien cuenta con algunas polémicas en el Ascenso y estuvo imputado en la causa Generación Zoe",
+        "pubDate": "2026-10-09T18:13:06+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Detienen a pareja por estafas con pasajes aéreos y paquetes de turismo",
+        "link": "https://www.lacapital.com.ar/policiales/detienen-pareja-estafas-pasajes-aereos-y-paquetes-turismo-n10285861.html",
+        "image": "https://media.lacapital.com.ar/p/fee043e6391ace958efb774ea2df9aae/adjuntos/203/imagenes/006/014/0006014447/1200x675/smart/las-agencias-viajes-destacaron-que-se-incrementaron-las-ventas-pasajes-aereos-foto-m-sarlo.jpg",
+        "summary": "La Fiscalía Especializada en Cibercrimen ordenó un allanamiento en Rosario y otro en Arroyo Seco. Buscan testimonios de más perjudicados",
+        "pubDate": "2026-10-09T17:59:54+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Giuliano advirtió que el fallo de la Corte sobre la ley de tierras es un \"freno es provisorio\"",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/c4f2c20b43c56de356f3d74350e4d808/adjuntos/203/imagenes/103/457/0103457302/1200x675/smart/rodrigo-abd.jpg",
         "summary": "El reconocido fotoperiodista ganador del Pulitzer junto al equipo de la agencia AP llega al Centro Cultural Contraviento de Rosario con una técnica particular",
         "pubDate": "2026-10-09T15:37:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Un delantero de Newell's fue operado y comenzó su extensa recuperación",
-        "link": "https://www.lacapital.com.ar/ovacion/un-delantero-newells-fue-operado-y-comenzo-su-extensa-recuperacion-n10285791.html",
-        "image": "https://media.lacapital.com.ar/p/b3ae4a94f54aec417b45f73208c4b0be/adjuntos/203/imagenes/103/298/0103298183/1200x675/smart/image.jpg",
-        "summary": "El extremo Mateo García fue intervenido quirúrgicamente de una rotura de ligamentos y ya piensa en su vuelta para el próximo año",
-        "pubDate": "2026-10-09T15:29:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Polémica entre la productora de la AFA y River por las fallas en la despedida de Lionel Messi",
-        "link": "https://www.lacapital.com.ar/ovacion/polemica-la-productora-la-afa-y-river-las-fallas-la-despedida-lionel-messi-n10285799.html",
-        "image": "https://media.lacapital.com.ar/p/a3dd7b0b9061c718f902bc8ea4434fec/adjuntos/203/imagenes/103/457/0103457159/1200x675/smart/image-2026-10-09t110510676.png",
-        "summary": "Marketing Sports denunció inconvenientes operativos en el homenaje al rosarino. El club rechazó sus acusaciones y cuestionó la organización",
-        "pubDate": "2026-10-09T15:18:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La Corte Suprema restituye las restricciones a la compra de tierras por extranjeros",
-        "link": "https://www.lacapital.com.ar/politica/la-corte-suprema-restituye-las-restricciones-la-compra-tierras-extranjeros-n10285817.html",
-        "image": "https://media.lacapital.com.ar/p/d899c24a1cee377e510adb1525bc7b38/adjuntos/203/imagenes/103/436/0103436209/1200x675/smart/corte-suprema-justicia-nacion.jpg",
-        "summary": "Con conjueces y en fallo dividido, revierte de manera interina los efectos del fallo que el propio tribunal había emitido la semana pasada. Vuelve a la Justicia federal",
-        "pubDate": "2026-10-09T14:33:00+00:00",
         "approxTime": false
       }
     ]
