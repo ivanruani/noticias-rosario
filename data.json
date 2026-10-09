@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-09T01:30:59.298647+00:00",
+  "generatedAt": "2026-10-09T02:01:17.487259+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "La búsqueda de empleo creció un 50% en Santa Fe: \"La gente necesita un segundo ingreso\"",
+        "link": "https://www.rosario3.com/informaciongeneral/la-busqueda-de-empleo-crecio-un-50-en-santa-fe-la-gente-necesita-un-segundo-ingreso-20261008-0086.html",
+        "image": "https://www.rosario3.com/__export/1778796450042/sites/rosario3/img/2026/05/14/colas_por_un_laburo.jpg_928314580.jpg",
+        "summary": "El ministro de Desarrollo Productivo provincial vinculó el aumento con la pérdida del poder adquisitivo y la necesidad de complementar los salarios. En el segundo trimestre de 2026, la desocupación llegó al 11,5% en el Gran Rosario, el registro más alto del país, y al 8,6% en el…",
+        "pubDate": "2026-10-08T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Marcela Ternavasio abrió la Feria del Libro y advirtió sobre el “desfinanciamiento” de la educación, la ciencia y la cultura",
         "link": "https://www.rosario3.com/informaciongeneral/marcela-ternavasio-abrio-la-feria-del-libro-y-advirtio-sobre-el-desfinanciamiento-de-la-educacion-la-ciencia-y-la-cultura-20261008-0089.html",
         "image": "https://www.rosario3.com/__export/1791502351987/sites/rosario3/img/2026/10/08/ternavasio.jpg_1825222445.jpg",
         "summary": "La historiadora y escritora rosarina dio el discurso de apertura en la explanada del Cultural Fontanarrosa. Recorrió la historia de los libros, la lectura y la censura. También planteó una serie de reflexiones sobre el presente político y cultural de la Argentina y el…",
-        "pubDate": "2026-10-08T12:00:00+00:00",
+        "pubDate": "2026-10-08T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,15 +26,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/javkin-en-la-apertura-feria-del-libro-no-habra-nunca-una-ia-que-frasee-como-saer-que-invente-mundos-como-gorodischer-20261008-0087.html",
         "image": "https://www.rosario3.com/__export/1791501076388/sites/rosario3/img/2026/10/08/javkin_1.jpg_884113614.jpg",
         "summary": "El intendente encabezó la inauguración de la edición 2026 en el Centro Cultural Fontanarrosa y defendió la literatura, la creatividad y el encuentro entre lectores y escritores frente al avance de los algoritmos. La feria se extenderá hasta el 18 de octubre, con más de 350…",
-        "pubDate": "2026-10-08T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Comenzó el debate por la legalización de Uber en Rosario con protestas de taxistas, remiseros y cadetes frente al Concejo",
-        "link": "https://www.rosario3.com/informaciongeneral/comenzo-el-debate-por-la-legalizacion-de-uber-en-rosario-con-protestas-de-taxistas-remiseros-y-cadetes-frente-al-concejo-20261008-0075.html",
-        "image": "https://www.rosario3.com/__export/1791491537263/sites/rosario3/img/2026/10/08/9d39b91c-73dc-4c25-906d-0aa9686b64f0.jpg_982626166.jpg",
-        "summary": "Mientras funcionarios municipales presentaban el proyecto ante los concejales, trabajadores de distintos sectores se manifestaron en Córdoba y 1º de Mayo. Qué dice el proyecto y cómo se dio el debate en comisiones",
         "pubDate": "2026-10-08T11:58:00+00:00",
         "approxTime": true
       },
@@ -49,19 +49,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "La CGT marchó contra el Gobierno de Milei y lanzó duras críticas: “Están destruyendo el sistema productivo nacional”",
-        "link": "https://www.rosario3.com/informaciongeneral/la-cgt-marcho-contra-el-gobierno-de-milei-y-lanzo-duras-criticas-estan-destruyendo-el-sistema-productivo-nacional-20261008-0078.html",
-        "image": "https://www.rosario3.com/__export/1791492150777/sites/rosario3/img/2026/10/08/cgt.jpg_928314581.jpg",
-        "summary": "La central obrera se movilizó este jueves en el microcentro porteño bajo la consigna “Las Malvinas son argentinas, la industria nacional también”. En un documento, cuestionó el rumbo económico, apuntó contra el FMI y advirtió por el aumento de la pobreza, la caída del consumo y…",
+        "title": "Comenzó el debate por la legalización de Uber en Rosario con protestas de taxistas, remiseros y cadetes frente al Concejo",
+        "link": "https://www.rosario3.com/informaciongeneral/comenzo-el-debate-por-la-legalizacion-de-uber-en-rosario-con-protestas-de-taxistas-remiseros-y-cadetes-frente-al-concejo-20261008-0075.html",
+        "image": "https://www.rosario3.com/__export/1791491537263/sites/rosario3/img/2026/10/08/9d39b91c-73dc-4c25-906d-0aa9686b64f0.jpg_982626166.jpg",
+        "summary": "Mientras funcionarios municipales presentaban el proyecto ante los concejales, trabajadores de distintos sectores se manifestaron en Córdoba y 1º de Mayo. Qué dice el proyecto y cómo se dio el debate en comisiones",
         "pubDate": "2026-10-08T11:55:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Capitán Bermúdez: lo llamaron para hacer un arreglo por humedad y mató a golpes a la dueña de casa",
-        "link": "https://www.rosario3.com/policiales/capitan-bermudez-lo-llamaron-para-hacer-una-refaccion-por-humedad-y-mato-a-golpes-a-la-duena-de-casa-20261008-0067.html",
-        "image": "https://www.rosario3.com/__export/1791488779669/sites/rosario3/img/2026/10/08/roxana_villarreal_crimen_capitan_bermudez_9_de_julio_515.jpg_672794304.jpg",
-        "summary": "Abel “Barba” Bertoni, un exconvicto ligado a la narcocriminalidad en Rosario, quedó preso como único sospechoso del crimen de Roxana “Taty” Villarreal, muerta a golpes en su casa. La mujer lo había contactado para un trabajo de albañilería y, según la Fiscalía, entró con esa…",
+        "title": "La CGT marchó contra el Gobierno de Milei y lanzó duras críticas: “Están destruyendo el sistema productivo nacional”",
+        "link": "https://www.rosario3.com/informaciongeneral/la-cgt-marcho-contra-el-gobierno-de-milei-y-lanzo-duras-criticas-estan-destruyendo-el-sistema-productivo-nacional-20261008-0078.html",
+        "image": "https://www.rosario3.com/__export/1791492150777/sites/rosario3/img/2026/10/08/cgt.jpg_928314581.jpg",
+        "summary": "La central obrera se movilizó este jueves en el microcentro porteño bajo la consigna “Las Malvinas son argentinas, la industria nacional también”. En un documento, cuestionó el rumbo económico, apuntó contra el FMI y advirtió por el aumento de la pobreza, la caída del consumo y…",
         "pubDate": "2026-10-08T11:54:00+00:00",
         "approxTime": true
       },
@@ -103,20 +103,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "La Came le llevó al papa León XIV el reclamo pyme antes de su visita al país",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-came-le-llevo-al-papa-leon-xiv-el-reclamo-pyme-antes-de-su-visita-al-pais-20261008-0049.html",
-        "image": "https://www.rosario3.com/__export/1791475962125/sites/rosario3/img/2026/10/08/papa_diab_came.jpg_1556688110.jpg",
-        "summary": "El pontífice recibió al titular de la entidad fabril, Ricardo Diab, quien le entregó un documento donde expuso la coyuntura del sector y propuso cinco compromisos federales",
-        "pubDate": "2026-10-08T11:49:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
         "title": "Unicef Argentina advirtió que el riesgo de suicidio \"aumenta significativamente\" conforme avanza la adolescencia",
         "link": "https://www.rosario3.com/informaciongeneral/unicef-argentina-advirtio-que-el-riesgo-de-suicidio-aumenta-significativamente-conforme-avanza-la-adolescencia-20261008-0085.html",
         "image": "https://www.rosario3.com/__export/1791498299407/sites/rosario3/img/2026/10/08/suicidioadolescente.jpg_982625323.jpg",
         "summary": "En su informe Monitor de Suicido Adolescente, señalaron que las tasas se mantienen relativamente bajas entre los 10 y 14 años y que crecen entre los 15 y los 19. Entre fines de los años 90 y 2014, la tasa de suicidio de personas de 10 a 19 años creció de valores cercanos a dos o…",
-        "pubDate": "2026-10-08T11:48:00+00:00",
+        "pubDate": "2026-10-08T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -125,7 +116,7 @@
         "link": "https://www.rosario3.com/policiales/los-bunkeres-de-fran-riquelme-tiraron-abajo-dos-aguantaderos-en-zona-noroeste-20261008-0082.html",
         "image": "https://www.rosario3.com/__export/1791496351664/sites/rosario3/img/2026/10/08/french_2000_bunker_riquelme.jpg_506286608.jpg",
         "summary": "Con las caras tapadas, operarios derribaron dos construcciones precarias de French al 2000 que, según la investigación, funcionaban como puntos de venta de droga de la organización liderada por el preso federal",
-        "pubDate": "2026-10-08T11:47:00+00:00",
+        "pubDate": "2026-10-08T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -134,11 +125,29 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/el-ceo-de-la-empresa-duena-de-fiat-y-peugeot-dijo-que-analizan-cerrar-sus-fabricas-en-la-argentina-20261008-0069.html",
         "image": "https://www.rosario3.com/__export/1791488458370/sites/rosario3/img/2026/10/08/industria.jpg_1768679257.jpg",
         "summary": "La decisión podría dejar en la calle a los 5 mil trabajadores que se desempeñan en las plantas de la provincia de Córdoba y la localidad bonaerense de El Palomar",
+        "pubDate": "2026-10-08T11:47:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Capitán Bermúdez: lo llamaron para hacer un arreglo por humedad y mató a golpes a la dueña de casa",
+        "link": "https://www.rosario3.com/policiales/capitan-bermudez-lo-llamaron-para-hacer-una-refaccion-por-humedad-y-mato-a-golpes-a-la-duena-de-casa-20261008-0067.html",
+        "image": "https://www.rosario3.com/__export/1791488779669/sites/rosario3/img/2026/10/08/roxana_villarreal_crimen_capitan_bermudez_9_de_julio_515.jpg_672794304.jpg",
+        "summary": "Abel “Barba” Bertoni, un exconvicto ligado a la narcocriminalidad en Rosario, quedó preso como único sospechoso del crimen de Roxana “Taty” Villarreal, muerta a golpes en su casa. La mujer lo había contactado para un trabajo de albañilería y, según la Fiscalía, entró con esa…",
         "pubDate": "2026-10-08T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "La Justicia de Brasil ordenó el arresto de Eduardo Bolsonaro",
+        "link": "https://www.lacapital.com.ar/el-mundo/la-justicia-brasil-ordeno-el-arresto-eduardo-bolsonaro-n10285744.html",
+        "image": "https://media.lacapital.com.ar/p/422951c589b7254acaa8206474fb1278/adjuntos/203/imagenes/103/456/0103456182/2026-10-08-eduardo-bolsonaro.jpg",
+        "summary": "El hermano del candidato presidencial fue sentenciado a cuatro años de prisión por hacer lobby ante el gobierno de Estados Unidos",
+        "pubDate": "2026-10-09T01:43:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Estados Unidos ejecutará por fusilamiento a un militar y lo transmitirá en directo",
@@ -262,15 +271,6 @@
         "link": "https://www.lacapital.com.ar/policiales/prision-preventiva-el-unico-detenido-el-crimen-una-mujer-capitan-bermudez-n10285695.html",
         "image": "https://media.lacapital.com.ar/p/098ea16749f5e5e21b29c245b69f312e/adjuntos/203/imagenes/103/451/0103451530/9-julio-500-capitan-bermudez.jpg",
         "summary": "El imputado fue identificado como Abel B. de 40 años. Había ingresado al domicilio de la víctima para realizar tareas de albañilería",
-        "pubDate": "2026-10-08T21:13:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Jornada intensa en VGG para asistir a los barrios más afectados por el temporal",
-        "link": "https://www.lacapital.com.ar/la-region/jornada-intensa-vgg-asistir-los-barrios-mas-afectados-el-temporal-n10285702.html",
-        "image": "https://media.lacapital.com.ar/p/d550aac0fd9db97b21ccbf2c5b54939a/adjuntos/203/imagenes/103/455/0103455719/1200x675/smart/temporal-2.jpeg",
-        "summary": "Tras las intensas lluvias registradas durante el miércoles, la Municipalidad de Villa Gobernador Gálvez continúa con tareas para mejorar el escurrimiento del agua en distintos sectores",
         "pubDate": "2026-10-08T21:13:00+00:00",
         "approxTime": false
       }
