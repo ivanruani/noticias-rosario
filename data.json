@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T01:01:09.130324+00:00",
+  "generatedAt": "2026-10-09T01:30:59.298647+00:00",
   "sites": {
     "rosario3": [
       {
@@ -76,10 +76,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Los búnkeres de Fran Riquelme: tiraron abajo dos aguantaderos en zona noroeste",
-        "link": "https://www.rosario3.com/policiales/los-bunkeres-de-fran-riquelme-tiraron-abajo-dos-aguantaderos-en-zona-noroeste-20261008-0082.html",
-        "image": "https://www.rosario3.com/__export/1791496351664/sites/rosario3/img/2026/10/08/french_2000_bunker_riquelme.jpg_506286608.jpg",
-        "summary": "Con las caras tapadas, operarios derribaron dos construcciones precarias de French al 2000 que, según la investigación, funcionaban como puntos de venta de droga de la organización liderada por el preso federal",
+        "title": "Primero en Rosario: la historia poco conocida del carnet de socio honorario que Newell’s le otorgó a Lionel Messi y a su familia",
+        "link": "https://www.rosario3.com/deportes/primero-en-rosario-la-historia-detras-del-carnet-de-socio-honorario-que-newells-le-otorgo-a-lionel-messi-y-a-su-familia-20261008-0028.html",
+        "image": "https://www.rosario3.com/__export/1791470472638/sites/rosario3/img/2026/10/08/image_-17-.jpg_928314579.jpg",
+        "summary": "Luego de conocerse el carnet que River le entregó a Leo el martes pasado, Rosario3 indagó sobre el que le dio Newell's años atrás. El reconocimiento se gestó en 2015, cuando el rosarino jugaba en Barcelona. Por su antigüedad en el club, los integrantes de la familia Messi…",
         "pubDate": "2026-10-08T11:52:00+00:00",
         "approxTime": true
       },
@@ -121,10 +121,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Para salvar el DNU 70/23, el oficialismo ahora propone debatir límites a la venta de tierras a extranjeros",
-        "link": "https://www.rosario3.com/politica/para-salvar-el-dnu-7023-el-oficialismo-ahora-propone-debatir-limites-a-la-venta-de-tierras-a-extranjeros-20261008-0070.html",
-        "image": "https://www.rosario3.com/__export/1790981210228/sites/rosario3/img/2026/10/02/tierra.jpg_1768679258.jpg",
-        "summary": "La Libertad Avanza convocó a los diputados para discutir la restitución de restricciones a la compra de tierras. Tras el fallo de la Corte Suprema que habilitó a extranjeros a quedarse con grandes extensiones sin control, la oposición propuso derogar todo el decreto de Milei…",
+        "title": "Los búnkeres de Fran Riquelme: tiraron abajo dos aguantaderos en zona noroeste",
+        "link": "https://www.rosario3.com/policiales/los-bunkeres-de-fran-riquelme-tiraron-abajo-dos-aguantaderos-en-zona-noroeste-20261008-0082.html",
+        "image": "https://www.rosario3.com/__export/1791496351664/sites/rosario3/img/2026/10/08/french_2000_bunker_riquelme.jpg_506286608.jpg",
+        "summary": "Con las caras tapadas, operarios derribaron dos construcciones precarias de French al 2000 que, según la investigación, funcionaban como puntos de venta de droga de la organización liderada por el preso federal",
         "pubDate": "2026-10-08T11:47:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Estados Unidos ejecutará por fusilamiento a un militar y lo transmitirá en directo",
+        "link": "https://www.lacapital.com.ar/el-mundo/estados-unidos-ejecutara-fusilamiento-un-militar-y-lo-transmitira-directo-n10285743.html",
+        "image": "https://media.lacapital.com.ar/p/d02f43277c9ed1cd7310231ed702e75f/adjuntos/203/imagenes/103/456/0103456161/2026-10-08-ejecucion-estados-unidos.jpg",
+        "summary": "La ejecución del exmayor del Ejército Nidal Hasan, que en 2009 mató a 13 soldados, está programada para el 3 de diciembre",
+        "pubDate": "2026-10-09T01:16:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Con 98 donaciones de órganos en 10 meses, la provincia alcanzó el récord histórico de todo un año",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/d550aac0fd9db97b21ccbf2c5b54939a/adjuntos/203/imagenes/103/455/0103455719/1200x675/smart/temporal-2.jpeg",
         "summary": "Tras las intensas lluvias registradas durante el miércoles, la Municipalidad de Villa Gobernador Gálvez continúa con tareas para mejorar el escurrimiento del agua en distintos sectores",
         "pubDate": "2026-10-08T21:13:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Luis Palacios: Cristina Villarreal y la historia de correr detrás de un sueño",
-        "link": "https://www.lacapital.com.ar/la-region/luis-palacios-cristina-villarreal-y-la-historia-correr-detras-un-sueno-n10285693.html",
-        "image": "https://media.lacapital.com.ar/p/adc197bd4b2fc029304998be14fc07e1/adjuntos/203/imagenes/103/455/0103455647/1200x675/smart/luis-palacios-2.jpg",
-        "summary": "Cada carrera representa horas de entrenamiento, esfuerzo, constancia y orgullo de representar a su pueblo natal. De esta forma la corredora, hace camino al andar",
-        "pubDate": "2026-10-08T20:38:00+00:00",
         "approxTime": false
       }
     ]
