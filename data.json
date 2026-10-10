@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T18:30:57.072697+00:00",
+  "generatedAt": "2026-10-10T19:01:07.416115+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "\"Soy de Acá\": un programa para acceder a la tierra en Luis Palacios",
+        "link": "https://www.lacapital.com.ar/la-region/soy-aca-un-programa-acceder-la-tierra-luis-palacios-n10285697.html",
+        "image": "https://media.lacapital.com.ar/p/6e53c566f62c563228889fc38eb49a9d/adjuntos/203/imagenes/103/455/0103455715/1200x675/smart/luis-palacios-4.jpeg",
+        "summary": "Para poder postularse es necesario acreditar, entre otros requisitos, al menos cinco años de residencia en la localidad y no ser propietario de otro inmueble",
+        "pubDate": "2026-10-10T18:50:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Franco Colapinto se separó de Maia Reficco, quien negó rumores de infidelidad",
         "link": "https://www.lacapital.com.ar/zoom/franco-colapinto-se-separo-maia-reficco-quien-nego-rumores-infidelidad-n10285998.html",
         "image": "https://media.lacapital.com.ar/p/59145971e50210667e7930ae58c76ec3/adjuntos/203/imagenes/103/459/0103459551/1200x675/smart/image-2026-10-10t151541595.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/c377f01adca505bd9e39f4b818eb878f/adjuntos/203/imagenes/103/459/0103459016/1200x675/smart/heridos-amor.jpg",
         "summary": "La psicóloga María Eugenia Gasparý, del Servicio de Cuidados Paliativos de Grupo Gamma, reflexiona sobre el vínculo terapéutico, el deseo como motor y la presencia como herramienta sanadora",
         "pubDate": "2026-10-10T11:19:39+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Búmeran para Lando Norris, que lo hizo al fin y sacó de carrera a su compañero",
-        "link": "https://www.lacapital.com.ar/ovacion/bumeran-lando-norris-que-lo-hizo-al-fin-y-saco-carrera-su-companero-n10285959.html",
-        "image": "https://media.lacapital.com.ar/p/7eb2f4e74e05d2517a11cae052281afe/adjuntos/203/imagenes/103/459/0103459014/1200x675/smart/image-24.jpg",
-        "summary": "Luego de decir que Franco Colapinto no merecía estar en la Fórmula 1, Lando Norris casi choca en Malasia y lo hizo en Singapur sacando de carrera a su compañero",
-        "pubDate": "2026-10-10T10:55:00+00:00",
         "approxTime": false
       }
     ]
