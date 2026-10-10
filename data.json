@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T20:30:58.558311+00:00",
+  "generatedAt": "2026-10-10T21:01:11.522101+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,9 +141,18 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Diputados: la oposición busca tumbar el megadecreto de desregulación sin quorum asegurado",
+        "link": "https://www.lacapital.com.ar/politica/diputados-la-oposicion-busca-tumbar-el-megadecreto-desregulacion-quorum-asegurado-n10286023.html",
+        "image": "https://media.lacapital.com.ar/p/08bd6ea2ebc1a9eb414a11f017219d6c/adjuntos/203/imagenes/102/616/0102616580/1200x675/smart/camara-diputados-la-nacion-elecciones.jpg",
+        "summary": "El nuevo fallo de la Corte Suprema que repuso la vigencia de la ley de tierras alteró el escenario en la Cámara baja, por lo que recobran fuerzas los proyectos de sobreendeudamiento de familias y de discapacidad",
+        "pubDate": "2026-10-10T20:56:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Atlético del Rosario hizo lo que tenía que hacer y seguirá siendo Top 14 en la Urba en 2027",
         "link": "https://www.lacapital.com.ar/ovacion/atletico-del-rosario-hizo-lo-que-tenia-que-hacer-y-seguira-siendo-top-14-la-urba-2027-n10286012.html",
-        "image": "https://media.lacapital.com.ar/p/dbbbbe2df986799eaf7425bb0f5df8bd/adjuntos/203/imagenes/103/459/0103459858/1200x675/smart/image-4.jpg",
+        "image": "https://media.lacapital.com.ar/p/1788b1abf414ef560fc88c133295452a/adjuntos/203/imagenes/103/459/0103459969/1200x675/smart/image-5.jpg",
         "summary": "Con un primer tiempo avasallante, Atlético del Rosario venció en el Pasaje Gould al descendido Champagnat y logró la permanencia en la Unión de Rugby de Buenos Aires",
         "pubDate": "2026-10-10T20:20:00+00:00",
         "approxTime": false
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/d7bc31960a3265d8791d7916332db0c4/adjuntos/203/imagenes/103/459/0103459071/droga-pueblo-esther-1.jpg",
         "summary": "La Policía de Santa Fe encontró cocaína y marihuana durante un control de rutina en General Lagos. Ambas personas quedaron detenidas",
         "pubDate": "2026-10-10T13:35:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El Papa León XIV rechazó la pena de muerte tras la ejecución fallida de Christa Pike",
-        "link": "https://www.lacapital.com.ar/informacion-general/el-papa-leon-xiv-rechazo-la-pena-muerte-la-ejecucion-fallida-christa-pike-n10285963.html",
-        "image": "https://media.lacapital.com.ar/p/1359015279e02752dd045a92641e7ac5/adjuntos/203/imagenes/103/459/0103459115/papa-leon-xiv.jpg",
-        "summary": "El sumo pontífice dijo que la orden judicial para matar a una persona es \"inadmisible\". La mujer condenada en Tennesseee sobrevivió a dos inyecciones letales",
-        "pubDate": "2026-10-10T12:41:00+00:00",
         "approxTime": false
       }
     ]
