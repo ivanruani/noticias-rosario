@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T13:01:13.889241+00:00",
+  "generatedAt": "2026-10-10T13:30:57.990464+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,10 +13,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Tres autos incendiados en menos de doce horas en Rosario",
-        "link": "https://www.rosario3.com/informaciongeneral/tres-autos-incendiados-en-menos-de-doce-horas-en-rosario-20261010-0009.html",
-        "image": "https://www.rosario3.com/__export/1791636342295/sites/rosario3/img/2026/10/10/whatsapp_image_2026-10-10_at_09_09_27_version1791636341704.jpeg_1825222445.jpeg",
-        "summary": "Los episodios ocurrieron en distintos puntos de la ciudad, entre la noche del viernes y las primeras horas de este sábado. Bomberos Zapadores intervino en los tres casos y no se informaron personas heridas.",
+        "title": "Charlas de Mercado: Rosgan va por su \"segunda revolución\" en un \"súper martes\" que se jugará en dos canchas",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/charlas-de-mercado-rosgan-va-por-su-segunda-revolucion-en-un-super-martes-que-se-jugara-en-dos-canchas-20261010-0008.html",
+        "image": "https://www.rosario3.com/__export/1791635543300/sites/rosario3/img/2026/10/10/rosgan-remates-abril.jpg_1825221351.jpg",
+        "summary": "El mercado ganadero de la Bolsa de Rosario enfrenta el desafío de mantenerse vigente en un negocio en el que los consignatarios apuestan a bajar costos y se retiran de la entidad para hacer remates por streaming en soledad. Colombo y Colombo se suma a ese lote. La tecnología y…",
         "pubDate": "2026-10-10T11:59:00+00:00",
         "approxTime": true
       },
@@ -31,10 +31,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Clima en Rosario: lluvias por la mañana y una mejora hacia la tarde de este sábado",
-        "link": "https://www.rosario3.com/informaciongeneral/clima-en-rosario-lluvias-por-la-manana-y-una-mejora-hacia-la-tarde-de-este-sabado-20261010-0002.html",
-        "image": "https://www.rosario3.com/__export/1791631140409/sites/rosario3/img/2024/04/15/lluvia_ciudad_1.jpg_2106848869.jpg",
-        "summary": "La jornada comenzó con neblina y una temperatura de 11,6 grados. El pronóstico anticipa lluvias durante la mañana, una disminución de la probabilidad de precipitaciones hacia la tarde y un domingo con tiempo estable para disfrutar del fin de semana largo",
+        "title": "Balearon a un joven de 19 años afuera de un boliche de Rosario: hay dos detenidos",
+        "link": "https://www.rosario3.com/policiales/balearon-a-un-joven-de-19-anos-afuera-de-un-boliche-de-rosario-hay-dos-detenidos-20261010-0010.html",
+        "image": "https://www.rosario3.com/__export/1791636873665/sites/rosario3/img/2026/10/10/policia_urquiza_y_dorrego.jpg_1960258663.jpg",
+        "summary": "Según las primeras informaciones, recibió un disparo en un brazo en medio de una gresca en Urquiza y Dorrego, a las 5.30. Hay dos aprehendidos, uno de ellos menor de edad, y dieron con un auto en cuyo interior estaría el arma",
         "pubDate": "2026-10-10T11:57:00+00:00",
         "approxTime": true
       },
@@ -58,10 +58,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "GP de Singapur: Colapinto debió abandonar la Sprint",
-        "link": "https://www.rosario3.com/deportes/gp-de-singapur-colapinto-debio-abandonar-la-sprint-20261010-0003.html",
-        "image": "https://www.rosario3.com/__export/1791632467140/sites/rosario3/img/2026/10/10/image_-10-.jpg_928314581.jpg",
-        "summary": "El argentino marchaba undécimo, cuando su monoplaza se frenó mientras la carrera estaba con safety car. Max Verstappen ganó la carrera y el podio lo completaron el británico Lewis Hamilton y el monegasco Charles Leclerc, ambos de Ferrari",
+        "title": "La previa del Run Run: apellido de peso llega al Aeropuerto y dos nuevos negocios con vista al río",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-previa-del-run-run-apellido-de-peso-llega-al-aeropuerto-y-dos-nuevos-negocios-con-vista-al-rio-20261010-0001.html",
+        "image": "https://www.rosario3.com/__export/1789167090572/sites/rosario3/img/2026/09/11/marianoportada_jpg.jpeg_506286608.jpeg",
+        "summary": "El podcast con el anticipo de las novedades económicas y corporativas que se publicarán en la tradicional columna de los domingos en Rosario3",
         "pubDate": "2026-10-10T11:54:00+00:00",
         "approxTime": true
       },
@@ -94,11 +94,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Tres autos incendiados en menos de doce horas en Rosario",
+        "link": "https://www.rosario3.com/informaciongeneral/tres-autos-incendiados-en-menos-de-doce-horas-en-rosario-20261010-0009.html",
+        "image": "https://www.rosario3.com/__export/1791636342295/sites/rosario3/img/2026/10/10/whatsapp_image_2026-10-10_at_09_09_27_version1791636341704.jpeg_1825222445.jpeg",
+        "summary": "Los episodios ocurrieron en distintos puntos de la ciudad, entre la noche del viernes y las primeras horas de este sábado. Bomberos Zapadores intervino en los tres casos y no se informaron personas heridas.",
+        "pubDate": "2026-10-10T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "La AFA intervino y Marcos Rojo finalmente jugará en Estudiantes de La Plata",
         "link": "https://www.rosario3.com/deportes/la-afa-intervino-y-marcos-rojo-finalmente-jugara-en-estudiantes-de-la-plata-20261010-0005.html",
         "image": "https://www.rosario3.com/__export/1791632948900/sites/rosario3/img/2026/10/10/marcos_rojo.jpg_928314580.jpg",
         "summary": "A pesar de haberle negado el pase, AFA se retractó y aceptó la salida del defensor de Racing",
-        "pubDate": "2026-10-10T11:50:00+00:00",
+        "pubDate": "2026-10-10T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -107,34 +116,25 @@
         "link": "https://www.rosario3.com/deportes/arruabarrena-confirmo-que-paredes-sera-baja-en-boca-para-la-sudamericana-descartado-20261010-0004.html",
         "image": "https://www.rosario3.com/__export/1791632636045/sites/rosario3/img/2026/10/10/image_-11-.jpg_928314580.jpg",
         "summary": "El jugador xeneize tuvo una molestia en Córdoba frente a Instituto y habría sufrido un desgarro. Los detalles",
-        "pubDate": "2026-10-10T11:49:00+00:00",
+        "pubDate": "2026-10-10T11:48:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Juicio por Ivana Garcilazo: las revelaciones de la novia de Reifenstuel y otros testigos que estuvieron con los acusados el día del crimen",
-        "link": "https://www.rosario3.com/policiales/juicio-por-ivana-garcilazo-las-revelaciones-de-la-novia-de-reifenstuel-y-otros-testigos-que-estuvieron-con-los-acusados-el-dia-del-crimen-20261009-0071.html",
-        "image": "https://www.rosario3.com/__export/1791589954886/sites/rosario3/img/2026/10/05/juicio_ivana_garcilazo_octubre_2026_cjp_-1-.jpeg_982625323.jpeg",
-        "summary": "Este viernes terminó la primera semana de audiencias en el Centro de Justicia Penal por el asesinato de la hincha de Central ocurrido tras un clásico rosarino en 2023. En la última jornada declararon allegados a los tres imputados y aportaron datos sobre las horas previas y…",
-        "pubDate": "2026-10-09T11:48:00+00:00",
+        "title": "GP de Singapur: Colapinto debió abandonar la Sprint",
+        "link": "https://www.rosario3.com/deportes/gp-de-singapur-colapinto-debio-abandonar-la-sprint-20261010-0003.html",
+        "image": "https://www.rosario3.com/__export/1791632467140/sites/rosario3/img/2026/10/10/image_-10-.jpg_928314581.jpg",
+        "summary": "El argentino marchaba undécimo, cuando su monoplaza se frenó mientras la carrera estaba con safety car. Max Verstappen ganó la carrera y el podio lo completaron el británico Lewis Hamilton y el monegasco Charles Leclerc, ambos de Ferrari",
+        "pubDate": "2026-10-10T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "El embajador de EE. UU. volvió a cuestionar la contratación de empresas chinas: \"Es como entregar las llaves de tu casa\"",
-        "link": "https://www.rosario3.com/informaciongeneral/el-embajador-de-ee.-uu.-volvio-a-cuestionar-la-contratacion-de-empresas-chinas-es-como-entregar-las-llaves-de-tu-casa-20261009-0046.html",
-        "image": "https://www.rosario3.com/__export/1791571865915/sites/rosario3/img/2026/10/09/lamelas.jpg_982625323.jpg",
-        "summary": "El diplomático Peter Lamelas se pronunció al respecto luego de una reunión con un ejecutivo de la empresa estadounidense Oracle y consideró que adquirir tecnologías de menor costo no se justifica cuando implica riesgos para la soberanía",
-        "pubDate": "2026-10-09T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Ya tenía antecedentes por homicidio y ahora firmó una condena perpetua por abusar y matar a un jubilado en el centro",
-        "link": "https://www.rosario3.com/policiales/ya-tenia-antecedentes-por-homicidio-y-ahora-firmo-una-condena-perpetua-por-abusar-y-matar-a-un-jubilado-en-el-centro-20261009-0069.html",
-        "image": "https://www.rosario3.com/__export/1791586418871/sites/rosario3/img/2026/10/09/marcelo_daniel_rodriguez_condena.jpg_672794304.jpg",
-        "summary": "Con pruebas contundentes, un hombre de 35 años acordó la pena máxima por el abuso sexual seguido de muerte de Ricardo Castillo, atacado vilmente en un pasaje céntrico en enero de 2025. El condenado había cumplido una pena en la década pasada por el crimen de un celador de un…",
-        "pubDate": "2026-10-09T11:46:00+00:00",
+        "title": "Clima en Rosario: lluvias por la mañana y una mejora hacia la tarde de este sábado",
+        "link": "https://www.rosario3.com/informaciongeneral/clima-en-rosario-lluvias-por-la-manana-y-una-mejora-hacia-la-tarde-de-este-sabado-20261010-0002.html",
+        "image": "https://www.rosario3.com/__export/1791631140409/sites/rosario3/img/2024/04/15/lluvia_ciudad_1.jpg_2106848869.jpg",
+        "summary": "La jornada comenzó con neblina y una temperatura de 11,6 grados. El pronóstico anticipa lluvias durante la mañana, una disminución de la probabilidad de precipitaciones hacia la tarde y un domingo con tiempo estable para disfrutar del fin de semana largo",
+        "pubDate": "2026-10-10T11:46:00+00:00",
         "approxTime": true
       }
     ],
