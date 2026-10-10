@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T10:01:07.185265+00:00",
+  "generatedAt": "2026-10-10T10:30:53.710010+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,78 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "A Franco Colapinto se le quedó el Alpine cuando iba atrás del safety car: abandono en la sprint",
+        "link": "https://www.lacapital.com.ar/ovacion/a-franco-colapinto-se-le-quedo-el-alpine-cuando-iba-atras-del-safety-car-abandono-la-sprint-n10285936.html",
+        "image": "https://media.lacapital.com.ar/p/4aa05455291a35004719a1784c6e7a98/adjuntos/203/imagenes/103/459/0103459013/1200x675/smart/image-23.jpg",
+        "summary": "Mientras iba atrás del safety car, el argentino abandonó por un problema técnico, aún no especificado. Accidentada sprint en Singapur",
+        "pubDate": "2026-10-10T10:24:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Se viene una jornada sobre autonomía y seguridad municipal en la Universidad del Gran Rosario",
+        "link": "https://www.lacapital.com.ar/la-ciudad/se-viene-una-jornada-autonomia-y-seguridad-municipal-la-universidad-del-gran-rosario-n10285415.html",
+        "image": "https://media.lacapital.com.ar/p/4e7a51e875c43aeddd18f75ab1353f97/adjuntos/203/imagenes/103/457/0103457169/1200x675/smart/ugr.jpg",
+        "summary": "El encuentro contará la presencia de intendentes, legisladores, secretarios de seguridad y especialistas para debatir cómo se reconfigura el rol de los municipios frente a nuevas demandas de convivencia, control urbano y prevención del delito",
+        "pubDate": "2026-10-10T10:05:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "En política los enanos crecen",
+        "link": "https://www.lacapital.com.ar/politica/en-politica-los-enanos-crecen-n10285890.html",
+        "image": "https://media.lacapital.com.ar/p/ee5a40fb9a52bbf363aa67fbdbe0c1cb/adjuntos/203/imagenes/101/571/0101571172/kicillof-massa-lousteau-javier-milei-gobierno-universidades-jpg.jpg",
+        "summary": "En defensa propia es preferible creer que no aparecen dirigentes",
+        "pubDate": "2026-10-10T10:05:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Dormir dentro del paisaje: las suites más originales",
+        "link": "https://www.lacapital.com.ar/turismo/dormir-dentro-del-paisaje-las-suites-mas-originales-n10285869.html",
+        "image": "https://media.lacapital.com.ar/p/b061089aa5bf84c04358d50dec58ad2a/adjuntos/203/imagenes/103/458/0103458121/kn2-foto.jpg",
+        "summary": "Una selección de alojamientos donde la arquitectura, el paisaje y la experiencia forman una sola propuesta",
+        "pubDate": "2026-10-10T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Río Negro ya recibió más de un millón de turistas en 2026 y busca ampliar su temporada",
+        "link": "https://www.lacapital.com.ar/turismo/rio-negro-ya-recibio-mas-un-millon-turistas-2026-y-busca-ampliar-su-temporada-n10285871.html",
+        "image": "https://media.lacapital.com.ar/p/da80644a61e2b360b813f228c4827d1d/adjuntos/203/imagenes/103/457/0103457956/imagen-nota.jpg",
+        "summary": "Entre enero y septiembre, la provincia registró más de un millón de visitantes y busca sostener el movimiento durante todo el año",
+        "pubDate": "2026-10-10T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Interlagos 2026: la Fórmula 1 vuelve a sentirse argentina",
+        "link": "https://www.lacapital.com.ar/turismo/interlagos-2026-la-formula-1-vuelve-sentirse-argentina-n10285872.html",
+        "image": "https://media.lacapital.com.ar/p/a0849817837881fc148b777c87c72861/adjuntos/203/imagenes/103/458/0103458206/franco-colapinto.jpg",
+        "summary": "Con Franco Colapinto como uno de los protagonistas de la máxima categoría, el Gran Premio de San Pablo recibirá a miles de fanáticos",
+        "pubDate": "2026-10-10T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Tiene 254 kilómetros de extensión y es la playa más larga del mundo",
+        "link": "https://www.lacapital.com.ar/turismo/tiene-254-kilometros-extension-y-es-la-playa-mas-larga-del-mundo-n10285873.html",
+        "image": "https://media.lacapital.com.ar/p/22004abe034fe31cc7c7cb954323d861/adjuntos/203/imagenes/103/458/0103458155/imagen-nota.jpg",
+        "summary": "Cerca de la frontera con Uruguay, ofrece una costa de enormes dimensiones, naturaleza y distintas alternativas para recorrerla",
+        "pubDate": "2026-10-10T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "De almacén de barrio a parrilla: la historia de una esquina de Palermo que conserva más de 70 años",
+        "link": "https://www.lacapital.com.ar/turismo/de-almacen-barrio-parrilla-la-historia-una-esquina-palermo-que-conserva-mas-70-anos-n10285877.html",
+        "image": "https://media.lacapital.com.ar/p/b37dbab09b98f07971b111a71c1fecd5/adjuntos/203/imagenes/103/457/0103457919/img_3480.JPG",
+        "summary": "A comienzos de los 2000, un gastronómico recuperó el local y lo convirtió en Lo de Jesús, con una propuesta de parrilla argentina, platos de bodegón y vinos",
+        "pubDate": "2026-10-10T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Una herramienta para frenar la erosión del suelo y preservar la productividad del campo",
         "link": "https://www.lacapital.com.ar/agro/una-herramienta-frenar-la-erosion-del-suelo-y-preservar-la-productividad-del-campo-n10285683.html",
         "image": "https://media.lacapital.com.ar/p/b5aa214c8c043cab0299ae694f18b52d/adjuntos/305/imagenes/102/463/0102463645/1200x675/smart/suelojpg.jpg",
@@ -163,15 +235,6 @@
         "link": "https://www.lacapital.com.ar/economia/andres-malamud-la-geografia-economica-esta-cambiando-y-los-nuevos-complejos-exportadores-desplazan-el-centro-n10285661.html",
         "image": "https://media.lacapital.com.ar/p/4a0f98f9cc5d0b8c75ee401262836a43/adjuntos/203/imagenes/103/452/0103452815/1200x675/smart/malamud2.jpg",
         "summary": "El especialista en relaciones internacionales analizó en Rosario las oportunidades de Argentina en un mundo inestable. Señaló que las nuevas fuentes de divisas reducen la dependencia del agro y modifican el mapa productivo del país",
-        "pubDate": "2026-10-10T09:25:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "A Franco Colapinto se le quedó el Alpine cuando iba atrás del safety car: abandono en la sprint",
-        "link": "https://www.lacapital.com.ar/ovacion/a-franco-colapinto-se-le-quedo-el-alpine-cuando-iba-atras-del-safety-car-abandono-la-sprint-n10285936.html",
-        "image": "https://media.lacapital.com.ar/p/4aa05455291a35004719a1784c6e7a98/adjuntos/203/imagenes/103/459/0103459013/1200x675/smart/image-23.jpg",
-        "summary": "Mientras iba atrás del safety car, el argentino abandonó por un problema técnico, aún no especificado. Accidentada sprint en Singapur",
         "pubDate": "2026-10-10T09:25:00+00:00",
         "approxTime": false
       },
@@ -209,69 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/32ba161f350a3dca7720ad8d13534020/adjuntos/203/imagenes/103/458/0103458597/rrrccc2.jpeg",
         "summary": "Central recibe el domingo, a las 17, a Independiente Rivadavia de Mendoza y sólo le sirve ganar para seguir en carrera por el primer puesto en la anual",
         "pubDate": "2026-10-10T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Arredo festejó su 37° aniversario en Shopping Alto Rosario",
-        "link": "https://www.lacapital.com.ar/es-social/arredo-festejo-su-37-aniversario-shopping-alto-rosario-n10285169.html",
-        "image": "https://media.lacapital.com.ar/p/9743dc3234e7fa7e7e2c819d689321bc/adjuntos/203/imagenes/103/449/0103449756/1200x675/smart/6arredo-1.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-10-10T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Recorrida semanal",
-        "link": "https://www.lacapital.com.ar/es-social/recorrida-semanal-n10285176.html",
-        "image": "https://media.lacapital.com.ar/p/7111c58a6be7c7f69a5dec9e11bcaf85/adjuntos/203/imagenes/103/449/0103449811/1200x675/smart/chinchibira-2.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-10-10T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Neuro Odontología Biológica, el nuevo libro de Sergio Hiskin",
-        "link": "https://www.lacapital.com.ar/es-social/neuro-odontologia-biologica-el-nuevo-libro-sergio-hiskin-n10285182.html",
-        "image": "https://media.lacapital.com.ar/p/f26d8ba88eb61c01007fe33cbebda11c/adjuntos/203/imagenes/103/449/0103449903/1200x675/smart/congreso-1.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-10-10T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Junior Achievement junto a Alto Rosario, en un evento de emprendedores",
-        "link": "https://www.lacapital.com.ar/es-social/junior-achievement-junto-alto-rosario-un-evento-emprendedores-n10285189.html",
-        "image": "https://media.lacapital.com.ar/p/ff3183a1d5551ddee784d96c24f32956/adjuntos/203/imagenes/103/449/0103449942/1200x675/smart/7junior-1.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-10-10T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cuando Pilates también se convierte en amistad",
-        "link": "https://www.lacapital.com.ar/es-social/cuando-pilates-tambien-se-convierte-amistad-n10285193.html",
-        "image": "https://media.lacapital.com.ar/p/4c23e15e3b740e7241b4ccf8475b56e3/adjuntos/203/imagenes/103/449/0103449974/1200x675/smart/foto-1.jpeg",
-        "summary": "La Capital",
-        "pubDate": "2026-10-10T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Casa Alvear, se inauguró una nueva sala de arte",
-        "link": "https://www.lacapital.com.ar/es-social/casa-alvear-se-inauguro-una-nueva-sala-arte-n10285201.html",
-        "image": "https://media.lacapital.com.ar/p/e179a301ed1b40cba81829a3bc7bac22/adjuntos/203/imagenes/103/450/0103450054/1200x675/smart/bernardo-1.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-10-10T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Rosario recibe el Torneo Argentino Federal de Pádel, con casi 700 jugadores de todo el país",
-        "link": "https://www.lacapital.com.ar/rosario-recibe-el-torneo-argentino-federal-padel-casi-700-jugadores-todo-el-pais-n10285948.html",
-        "image": "https://media.lacapital.com.ar/p/690576825fc2dc85a34d0062dadfd4f1/adjuntos/203/imagenes/101/818/0101818720/1200x675/smart/padeljpg.jpg",
-        "summary": "La ciudad será sede, este fin de semana largo, de una de las grandes citas a nivel nacional, con representantes de distintas provincias que competirán por los títulos argentinos y la Copa por Equipos",
-        "pubDate": "2026-10-10T01:07:00+00:00",
         "approxTime": false
       }
     ]
