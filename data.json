@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-10T14:01:06.703502+00:00",
+  "generatedAt": "2026-10-10T14:30:59.143928+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Quedó preso impostor que se hizo pasar por juez federal para acceder a una base de datos judicial",
+        "link": "https://www.rosario3.com/policiales/quedo-preso-impostor-que-se-hizo-pasar-por-juez-federal-para-acceder-a-una-base-de-datos-judicial-20261010-0011.html",
+        "image": "https://www.rosario3.com/__export/1791640089238/sites/rosario3/img/2026/10/10/cristian_martinez_imputado.jpg_672794304.jpg",
+        "summary": "Un rosarino de 34 años, detenido en un country de Fisherton, creó casillas de correo falsas, simuló ser funcionario judicial e invocó a la jueza federal María Servini para conseguir claves del sistema que registra pedidos de captura sobre personas y vehículos, entre otra…",
+        "pubDate": "2026-10-10T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "El Parque de la Cabecera rumbo a la licitación: inversores interesados, traslados pendientes y un Museo de la Paz",
         "link": "https://www.rosario3.com/-economia-negocios-agro-/el-parque-de-la-cabecera-rumbo-a-la-licitacion-inversores-interesados-traslados-pendientes-y-un-museo-de-la-paz-20261008-0029.html",
         "image": "https://www.rosario3.com/__export/1791469706324/sites/rosario3/img/2026/10/08/parquecabecera.jpg_982625323.jpg",
         "summary": "La Provincia cerró la etapa de consulta de los borradores y trabaja en los pliegos definitivos con la intención de licitar durante el verano. Hay grandes grupos nacionales que manifestaron interés y empresas locales dispuestas a asociarse con ellos. Mientras se reconvierte el…",
-        "pubDate": "2026-10-08T12:00:00+00:00",
+        "pubDate": "2026-10-08T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,16 +26,7 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/charlas-de-mercado-rosgan-va-por-su-segunda-revolucion-en-un-super-martes-que-se-jugara-en-dos-canchas-20261010-0008.html",
         "image": "https://www.rosario3.com/__export/1791635543300/sites/rosario3/img/2026/10/10/rosgan-remates-abril.jpg_1825221351.jpg",
         "summary": "El mercado ganadero de la Bolsa de Rosario enfrenta el desafío de mantenerse vigente en un negocio en el que los consignatarios apuestan a bajar costos y se retiran de la entidad para hacer remates por streaming en soledad. Colombo y Colombo se suma a ese lote. La tecnología y…",
-        "pubDate": "2026-10-10T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Feria Internacional del Libro de Rosario 2026: las actividades de este sábado",
-        "link": "https://www.rosario3.com/ocio/feria-internacional-del-libro-de-rosario-2026-las-actividades-de-este-sabado-20261008-0034.html",
-        "image": "https://www.rosario3.com/__export/1791633049870/sites/rosario3/img/2026/10/10/dsc03272.jpg_2106848869.jpg",
-        "summary": "El Cultural Fontanarrosa (San Martín 1080) abre sus puertas desde las 10 hasta la medianoche. Gratis, con gestión previa del código QR",
-        "pubDate": "2026-10-08T11:58:00+00:00",
+        "pubDate": "2026-10-10T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -40,11 +40,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "“No finjo demencia”: Ciro Korol estrena una canción que escribió durante una internación psiquiátrica",
+        "link": "https://www.rosario3.com/ocio/no-finjo-demencia-ciro-korol-estrena-una-cancion-que-escribio-durante-una-internacion-psiquiatrica-20261008-0042.html",
+        "image": "https://www.rosario3.com/__export/1791471992069/sites/rosario3/img/2026/10/08/cirokorol.jpg_982625323.jpg",
+        "summary": "El escritor rosarino debuta en la música con un tema de hip hop que cruza autobiografía, humor y crítica social. La canción y su videoclip están disponibles desde este sábado, Día Mundial de la Salud Mental",
+        "pubDate": "2026-10-08T11:56:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Santa Fe sumó 453 agentes penitenciarios capacitados para trabajar en cárceles de alto perfil",
         "link": "https://www.rosario3.com/informaciongeneral/santa-fe-sumo-453-agentes-penitenciarios-capacitados-para-trabajar-en-carceles-de-alto-perfil-20261010-0012.html",
         "image": "https://www.rosario3.com/__export/1791640570034/sites/rosario3/img/2026/10/10/disen-o_sin_ti-tulo_-69-.png_928314581.png",
         "summary": "La nueva promoción completó seis meses de formación y está integrada por 221 hombres y 232 mujeres. Los subayudantes serán distribuidos en distintas unidades penitenciarias de la provincia para reforzar las dotaciones",
-        "pubDate": "2026-10-10T11:56:00+00:00",
+        "pubDate": "2026-10-10T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -53,34 +62,25 @@
         "link": "https://www.rosario3.com/deportes/otro-gran-desafio-para-scaloni-organizar-el-equipo-para-afrontar-el-comienzo-de-una-nueva-era-20261009-0047.html",
         "image": "https://www.rosario3.com/__export/1791571388856/sites/rosario3/img/2026/10/09/scaloni_desafio.jpg_2106848869.jpg",
         "summary": "Volvió la liga y la selección descansa, mientras tanto, el entrenador pergeña un plantel que disimule la ausencia de Messi y siga transitando su camino entre los mejores",
-        "pubDate": "2026-10-09T11:55:00+00:00",
+        "pubDate": "2026-10-09T11:54:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "La previa del Run Run: apellido de peso llega al Aeropuerto y dos nuevos negocios con vista al río",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-previa-del-run-run-apellido-de-peso-llega-al-aeropuerto-y-dos-nuevos-negocios-con-vista-al-rio-20261010-0001.html",
-        "image": "https://www.rosario3.com/__export/1789167090572/sites/rosario3/img/2026/09/11/marianoportada_jpg.jpeg_506286608.jpeg",
-        "summary": "El podcast con el anticipo de las novedades económicas y corporativas que se publicarán en la tradicional columna de los domingos en Rosario3",
-        "pubDate": "2026-10-10T11:54:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Los detalles de la acusación por múltiples estafas a los dueños de la agencia MotorSport",
-        "link": "https://www.rosario3.com/policiales/los-detalles-de-la-acusacion-por-multiples-estafas-a-los-duenos-de-la-agencia-motorsport-20261009-0041.html",
-        "image": "https://www.rosario3.com/__export/1791568413180/sites/rosario3/img/2026/10/09/motorsport_1.jpg_1010838702.jpg",
-        "summary": "Juan Gabriel Alegre (36), Eduardo Escarcelo (40) y Noelia Inés Escarcelo fueron imputados este viernes por 69 casos en los que perjudicaron a clientes de su local de San Martín al 2600. Los dos hombres quedaron en prisión preventiva, mientras que la mujer fue liberada con…",
+        "title": "Violeta Gorodischer: “Si tuviera que transformarme en bestseller, elegiría otros temas, pero no es el tipo de escritora que soy ni quiero ser”",
+        "link": "https://www.rosario3.com/ocio/violeta-gorodischer-si-tuviera-que-transformarme-en-bestseller-elegiria-otros-temas-pero-no-es-el-tipo-de-escritora-que-soy-ni-quiero-ser-20261009-0014.html",
+        "image": "https://www.rosario3.com/__export/1791552383452/sites/rosario3/img/2026/10/09/cruces_nota.jpg_928314580.jpg",
+        "summary": "La escritora y periodista lanzó este año Cruces, su segunda novela, donde usa otra vez los vínculos como materia prima, pero agrega un plano de fantasía. “Borra los límites del realismo, pero para hablar de cosas muy reales”, advierte, en la charla previa con Rosario3",
         "pubDate": "2026-10-09T11:53:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Viajes sin destino: detuvieron a pareja acusada de estafar con falsos paquetes turísticos",
-        "link": "https://www.rosario3.com/policiales/viajes-sin-destino-detuvieron-a-pareja-acusada-de-estafar-con-falsos-paquetes-turisticos-20261009-0045.html",
-        "image": "https://www.rosario3.com/__export/1791571236196/sites/rosario3/img/2026/10/09/detenidos_estafa_viajes_arroyo_seco.jpg_374587788.jpg",
-        "summary": "Sin agencia registrada ni local comercial, los sospechosos ofrecían pasajes aéreos a precios preferenciales y proyectaban una imagen de solvencia para ganarse la confianza de los clientes. Ambos fueron detenidos en Arroyo Seco",
-        "pubDate": "2026-10-09T11:52:00+00:00",
+        "title": "Feria Internacional del Libro de Rosario 2026: las actividades de este sábado",
+        "link": "https://www.rosario3.com/ocio/feria-internacional-del-libro-de-rosario-2026-las-actividades-de-este-sabado-20261008-0034.html",
+        "image": "https://www.rosario3.com/__export/1791633049870/sites/rosario3/img/2026/10/10/dsc03272.jpg_2106848869.jpg",
+        "summary": "El Cultural Fontanarrosa (San Martín 1080) abre sus puertas desde las 10 hasta la medianoche. Gratis, con gestión previa del código QR",
+        "pubDate": "2026-10-08T11:52:00+00:00",
         "approxTime": true
       },
       {
@@ -94,11 +94,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Violeta Gorodischer: “Si tuviera que transformarme en bestseller, elegiría otros temas, pero no es el tipo de escritora que soy ni quiero ser”",
-        "link": "https://www.rosario3.com/ocio/violeta-gorodischer-si-tuviera-que-transformarme-en-bestseller-elegiria-otros-temas-pero-no-es-el-tipo-de-escritora-que-soy-ni-quiero-ser-20261009-0014.html",
-        "image": "https://www.rosario3.com/__export/1791552383452/sites/rosario3/img/2026/10/09/cruces_nota.jpg_928314580.jpg",
-        "summary": "La escritora y periodista lanzó este año Cruces, su segunda novela, donde usa otra vez los vínculos como materia prima, pero agrega un plano de fantasía. “Borra los límites del realismo, pero para hablar de cosas muy reales”, advierte, en la charla previa con Rosario3",
-        "pubDate": "2026-10-09T11:50:00+00:00",
+        "title": "La previa del Run Run: apellido de peso llega al Aeropuerto y dos nuevos negocios con vista al río",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-previa-del-run-run-apellido-de-peso-llega-al-aeropuerto-y-dos-nuevos-negocios-con-vista-al-rio-20261010-0001.html",
+        "image": "https://www.rosario3.com/__export/1789167090572/sites/rosario3/img/2026/09/11/marianoportada_jpg.jpeg_506286608.jpeg",
+        "summary": "El podcast con el anticipo de las novedades económicas y corporativas que se publicarán en la tradicional columna de los domingos en Rosario3",
+        "pubDate": "2026-10-10T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -139,6 +139,24 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Una floja clasificación de Franco Colapinto en Singapur, que deberá remarla el domingo",
+        "link": "https://www.lacapital.com.ar/ovacion/una-floja-clasificacion-franco-colapinto-singapur-que-debera-remarla-el-domingo-n10285934.html",
+        "image": "https://media.lacapital.com.ar/p/1f6671d7ae9d20cdc9e81675df8568a3/adjuntos/203/imagenes/103/458/0103458560/1200x675/smart/image-3.jpg",
+        "summary": "El argentino largará 15° en Sepang el GP de Singapur. Después de una sólida Q1, falló en los dos intentos de la Q2. Su compañero de Alpine, de nuevo en Q3",
+        "pubDate": "2026-10-10T14:19:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Crónicas de campaña: el Niño comenzó a jugar para el trigo",
+        "link": "https://www.lacapital.com.ar/agro/cronicas-campana-el-nino-comenzo-jugar-el-trigo-n10285910.html",
+        "image": "https://media.lacapital.com.ar/p/58b195d14159ea2d1ba25d322834ade0/adjuntos/203/imagenes/103/447/0103447787/1200x675/smart/clima-nubes-trigo.avif",
+        "summary": "Las lluvias que llegaron con el mes de octubre fueron un punto de inflexión para la campaña fina. Los reportes de la Guía Estratégica para el Agro destacaron la recuperación de los rindes potenciales",
+        "pubDate": "2026-10-10T14:05:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Una pareja llevaba droga escondida por la ruta y los delató el seguro del auto",
@@ -253,24 +271,6 @@
         "link": "https://www.lacapital.com.ar/turismo/interlagos-2026-la-formula-1-vuelve-sentirse-argentina-n10285872.html",
         "image": "https://media.lacapital.com.ar/p/a0849817837881fc148b777c87c72861/adjuntos/203/imagenes/103/458/0103458206/franco-colapinto.jpg",
         "summary": "Con Franco Colapinto como uno de los protagonistas de la máxima categoría, el Gran Premio de San Pablo recibirá a miles de fanáticos",
-        "pubDate": "2026-10-10T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Tiene 254 kilómetros de extensión y es la playa más larga del mundo",
-        "link": "https://www.lacapital.com.ar/turismo/tiene-254-kilometros-extension-y-es-la-playa-mas-larga-del-mundo-n10285873.html",
-        "image": "https://media.lacapital.com.ar/p/22004abe034fe31cc7c7cb954323d861/adjuntos/203/imagenes/103/458/0103458155/imagen-nota.jpg",
-        "summary": "Cerca de la frontera con Uruguay, ofrece una costa de enormes dimensiones, naturaleza y distintas alternativas para recorrerla",
-        "pubDate": "2026-10-10T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "De almacén de barrio a parrilla: la historia de una esquina de Palermo que conserva más de 70 años",
-        "link": "https://www.lacapital.com.ar/turismo/de-almacen-barrio-parrilla-la-historia-una-esquina-palermo-que-conserva-mas-70-anos-n10285877.html",
-        "image": "https://media.lacapital.com.ar/p/b37dbab09b98f07971b111a71c1fecd5/adjuntos/203/imagenes/103/457/0103457919/img_3480.JPG",
-        "summary": "A comienzos de los 2000, un gastronómico recuperó el local y lo convirtió en Lo de Jesús, con una propuesta de parrilla argentina, platos de bodegón y vinos",
         "pubDate": "2026-10-10T10:00:00+00:00",
         "approxTime": false
       }
