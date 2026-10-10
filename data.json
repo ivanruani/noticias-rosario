@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-10T20:01:04.690987+00:00",
+  "generatedAt": "2026-10-10T20:30:58.558311+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "La Noche en mi Barrio llega este sábado a Azcuénaga: actividades, cortes de calle y desvíos de colectivos",
+        "link": "https://www.rosario3.com/informaciongeneral/la-noche-en-mi-barrio-llega-este-sabado-a-azcuenaga-actividades-cortes-de-calle-y-desvios-de-colectivos-20261007-0086.html",
+        "image": "https://www.rosario3.com/__export/1791424907951/sites/rosario3/img/2026/10/07/noche_en_mi_barrio.jpg_1825222445.jpg",
+        "summary": "La propuesta se desarrollará de 19 a 23 sobre Mendoza, entre Magallanes y Matienzo, con gastronomía, música en vivo y ferias. Las modificaciones en el tránsito comenzarán a las 18",
+        "pubDate": "2026-10-07T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Pasó 20 años preso, superó las adicciones y hoy trabaja para prevenirlas",
         "link": "https://www.rosario3.com/informaciongeneral/paso-20-anos-preso-supero-las-adicciones-y-hoy-trabaja-para-prevenirlas-20261010-0016.html",
         "image": "https://www.rosario3.com/__export/1791651822878/sites/rosario3/img/2026/10/10/disen-o_sin_ti-tulo_-69-_1.png_928314581.png",
         "summary": "Mario tiene 50 años y es uno de los impulsores de Rompiendo Cadenas, una asociación civil que realiza charlas en escuelas, clubes y empresas, y acompaña a personas con consumos problemáticos y a sus familias. “Muchas veces de lo que no hablan es de algún dolor, trauma o abuso”…",
-        "pubDate": "2026-10-10T12:00:00+00:00",
+        "pubDate": "2026-10-10T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,15 +26,6 @@
         "link": "https://www.rosario3.com/policiales/quedo-preso-impostor-que-se-hizo-pasar-por-juez-federal-para-acceder-a-una-base-de-datos-judicial-20261010-0011.html",
         "image": "https://www.rosario3.com/__export/1791640089238/sites/rosario3/img/2026/10/10/cristian_martinez_imputado.jpg_672794304.jpg",
         "summary": "Un rosarino de 34 años, detenido en un country de Fisherton, creó casillas de correo falsas, simuló ser funcionario judicial e invocó a la jueza federal María Servini para conseguir claves del sistema que registra pedidos de captura sobre personas y vehículos, entre otra…",
-        "pubDate": "2026-10-10T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Charlas de Mercado: Rosgan va por su \"segunda revolución\" en un \"súper martes\" que se jugará en dos canchas",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/charlas-de-mercado-rosgan-va-por-su-segunda-revolucion-en-un-super-martes-que-se-jugara-en-dos-canchas-20261010-0008.html",
-        "image": "https://www.rosario3.com/__export/1791635543300/sites/rosario3/img/2026/10/10/rosgan-remates-abril.jpg_1825221351.jpg",
-        "summary": "El mercado ganadero de la Bolsa de Rosario enfrenta el desafío de mantenerse vigente en un negocio en el que los consignatarios apuestan a bajar costos y se retiran de la entidad para hacer remates por streaming en soledad. Colombo y Colombo se suma a ese lote. La tecnología y…",
         "pubDate": "2026-10-10T11:58:00+00:00",
         "approxTime": true
       },
@@ -40,29 +40,29 @@
       },
       {
         "source": "Rosario3",
-        "title": "Balearon a un joven de 19 años afuera de un boliche de Rosario: hay dos detenidos",
-        "link": "https://www.rosario3.com/policiales/balearon-a-un-joven-de-19-anos-afuera-de-un-boliche-de-rosario-hay-dos-detenidos-20261010-0010.html",
-        "image": "https://www.rosario3.com/__export/1791636873665/sites/rosario3/img/2026/10/10/policia_urquiza_y_dorrego.jpg_1960258663.jpg",
-        "summary": "Según las primeras informaciones, recibió un disparo en un brazo en medio de una gresca en Urquiza y Dorrego, a las 5.30. Hay dos aprehendidos, uno de ellos menor de edad, y dieron con un auto en cuyo interior estaría el arma",
+        "title": "Charlas de Mercado: Rosgan va por su \"segunda revolución\" en un \"súper martes\" que se jugará en dos canchas",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/charlas-de-mercado-rosgan-va-por-su-segunda-revolucion-en-un-super-martes-que-se-jugara-en-dos-canchas-20261010-0008.html",
+        "image": "https://www.rosario3.com/__export/1791635543300/sites/rosario3/img/2026/10/10/rosgan-remates-abril.jpg_1825221351.jpg",
+        "summary": "El mercado ganadero de la Bolsa de Rosario enfrenta el desafío de mantenerse vigente en un negocio en el que los consignatarios apuestan a bajar costos y se retiran de la entidad para hacer remates por streaming en soledad. Colombo y Colombo se suma a ese lote. La tecnología y…",
         "pubDate": "2026-10-10T11:56:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Liberaron al aguará guazú que habían rescatado en el oeste de Rosario",
-        "link": "https://www.rosario3.com/informaciongeneral/liberaron-al-aguara-guazu-que-habian-rescatado-en-el-oeste-de-rosario-20261010-0013.html",
-        "image": "https://www.rosario3.com/__export/1791643583215/sites/rosario3/img/2026/10/10/whatsapp_image_2026-10-10_at_10_41_22.jpeg_1559198129.jpeg",
-        "summary": "El ejemplar fue encontrado semanas atrás cerca de avenida Uriburu y Circunvalación. Tras completar una serie de estudios veterinarios, determinaron que era un macho de entre nueve y diez años y lo trasladaron a una zona rural del departamento San Cristóbal",
+        "title": "Balearon a un joven de 19 años afuera de un boliche de Rosario: hay dos detenidos",
+        "link": "https://www.rosario3.com/policiales/balearon-a-un-joven-de-19-anos-afuera-de-un-boliche-de-rosario-hay-dos-detenidos-20261010-0010.html",
+        "image": "https://www.rosario3.com/__export/1791636873665/sites/rosario3/img/2026/10/10/policia_urquiza_y_dorrego.jpg_1960258663.jpg",
+        "summary": "Según las primeras informaciones, recibió un disparo en un brazo en medio de una gresca en Urquiza y Dorrego, a las 5.30. Hay dos aprehendidos, uno de ellos menor de edad, y dieron con un auto en cuyo interior estaría el arma",
         "pubDate": "2026-10-10T11:55:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Otro gran desafío para Scaloni: organizar el equipo para afrontar el comienzo de una nueva era",
-        "link": "https://www.rosario3.com/deportes/otro-gran-desafio-para-scaloni-organizar-el-equipo-para-afrontar-el-comienzo-de-una-nueva-era-20261009-0047.html",
-        "image": "https://www.rosario3.com/__export/1791571388856/sites/rosario3/img/2026/10/09/scaloni_desafio.jpg_2106848869.jpg",
-        "summary": "Volvió la liga y la selección descansa, mientras tanto, el entrenador pergeña un plantel que disimule la ausencia de Messi y siga transitando su camino entre los mejores",
-        "pubDate": "2026-10-09T11:54:00+00:00",
+        "title": "El papa León XIV tildó de \"inadmisible\" la pena de muerte por atentar contra la dignidad de las personas",
+        "link": "https://www.rosario3.com/informaciongeneral/el-papa-leon-xiv-tildo-de-inadmisible-la-pena-de-muerte-por-atentar-contra-la-dignidad-de-las-personas-20261010-0021.html",
+        "image": "https://www.rosario3.com/__export/1791121293689/sites/rosario3/img/2026/10/04/papa.jpg_1825222445.jpg",
+        "summary": "El mensaje del sumo pontífice se dio por el Día Mundial contra la Pena de Muerte, que se conmemora cada 10 de octubre, pero también en medio de un intenso debate en Estados Unidos por la futura ejecución de un exmayor del Ejército a manos de un pelotón de fusilamente, que además…",
+        "pubDate": "2026-10-10T11:54:00+00:00",
         "approxTime": true
       },
       {
@@ -85,11 +85,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Otro gran desafío para Scaloni: organizar el equipo para afrontar el comienzo de una nueva era",
+        "link": "https://www.rosario3.com/deportes/otro-gran-desafio-para-scaloni-organizar-el-equipo-para-afrontar-el-comienzo-de-una-nueva-era-20261009-0047.html",
+        "image": "https://www.rosario3.com/__export/1791571388856/sites/rosario3/img/2026/10/09/scaloni_desafio.jpg_2106848869.jpg",
+        "summary": "Volvió la liga y la selección descansa, mientras tanto, el entrenador pergeña un plantel que disimule la ausencia de Messi y siga transitando su camino entre los mejores",
+        "pubDate": "2026-10-09T11:51:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Día Mundial de la Salud Mental: advierten que solo una fracción de las personas con problemas reciben atención",
         "link": "https://www.rosario3.com/salud/dia-mundial-de-la-salud-mental-advierten-que-solo-una-fraccion-de-las-personas-con-problemas-reciben-atencion-20261009-0062.html",
         "image": "https://www.rosario3.com/__export/1791581226349/sites/rosario3/img/2026/10/09/saludmental.jpg_982625323.jpg",
         "summary": "Desde la Organización Panamericana de la Salud no solo llaman a reforzar las políticas sanitarias con un enfoque basado en la comunidad, sino además a poner el foco en la situación de chicos y chicas que atraviesan su infancia y adolescencia, etapas críticas para el desarrollo y…",
-        "pubDate": "2026-10-09T11:51:00+00:00",
+        "pubDate": "2026-10-09T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -98,15 +107,6 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/la-previa-del-run-run-apellido-de-peso-llega-al-aeropuerto-y-dos-nuevos-negocios-con-vista-al-rio-20261010-0001.html",
         "image": "https://www.rosario3.com/__export/1789167090572/sites/rosario3/img/2026/09/11/marianoportada_jpg.jpeg_506286608.jpeg",
         "summary": "El podcast con el anticipo de las novedades económicas y corporativas que se publicarán en la tradicional columna de los domingos en Rosario3",
-        "pubDate": "2026-10-10T11:50:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Jornada muy adversa para los tenistas argentinos en la segunda ronda del Masters 1000 de Shanghái",
-        "link": "https://www.rosario3.com/deportes/jornada-muy-adversa-para-los-tenistas-argentinos-en-la-segunda-ronda-del-masters-1000-de-shanghai-20261010-0017.html",
-        "image": "https://www.rosario3.com/__export/1791652856782/sites/rosario3/img/2026/10/10/tomi-etcheverry.jpg_928314580.jpg",
-        "summary": "Cinco representantes nacionales sufrieron derrotas en la jornada del sábado. Francisco Cerúndolo quedó como el único representante del país en la competencia tras avanzar a la siguiente instancia",
         "pubDate": "2026-10-10T11:49:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Atlético del Rosario hizo lo que tenía que hacer y seguirá siendo Top 14 en la Urba en 2027",
+        "link": "https://www.lacapital.com.ar/ovacion/atletico-del-rosario-hizo-lo-que-tenia-que-hacer-y-seguira-siendo-top-14-la-urba-2027-n10286012.html",
+        "image": "https://media.lacapital.com.ar/p/dbbbbe2df986799eaf7425bb0f5df8bd/adjuntos/203/imagenes/103/459/0103459858/1200x675/smart/image-4.jpg",
+        "summary": "Con un primer tiempo avasallante, Atlético del Rosario venció en el Pasaje Gould al descendido Champagnat y logró la permanencia en la Unión de Rugby de Buenos Aires",
+        "pubDate": "2026-10-10T20:20:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "La Joaqui se confesó con Mario Pergolini: \"Me siento descartable todos los días\"",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/1359015279e02752dd045a92641e7ac5/adjuntos/203/imagenes/103/459/0103459115/papa-leon-xiv.jpg",
         "summary": "El sumo pontífice dijo que la orden judicial para matar a una persona es \"inadmisible\". La mujer condenada en Tennesseee sobrevivió a dos inyecciones letales",
         "pubDate": "2026-10-10T12:41:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cómo llegó al borde de la exoneración la investigadora que estudió plaguicidas en muestras humanas",
-        "link": "https://www.lacapital.com.ar/la-region/como-llego-al-borde-la-exoneracion-la-investigadora-que-estudio-plaguicidas-muestras-humanas-n10285907.html",
-        "image": "https://media.lacapital.com.ar/p/9e941056f6b17a648fed96a68516e56c/adjuntos/203/imagenes/103/458/0103458358/1200x675/smart/virginia-aparicio-2.jpeg",
-        "summary": "Virginia Aparicio defiende la investigación sobre agroquímicos, la libertad de la ciencia y alerta sobre la autocensura en la producción de conocimiento",
-        "pubDate": "2026-10-10T12:05:00+00:00",
         "approxTime": false
       }
     ]
