@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T23:01:09.877447+00:00",
+  "generatedAt": "2026-10-10T23:30:58.102646+00:00",
   "sites": {
     "rosario3": [
       {
@@ -103,11 +103,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Panamá declaró el estado de emergencia nacional tras el terremoto y destinará 100 millones de dólares a la asistencia",
+        "link": "https://www.rosario3.com/informaciongeneral/panama-declaro-el-estado-de-emergencia-nacional-tras-el-terremoto-y-destinara-100-millones-de-dolares-a-la-asistencia-20261010-0029.html",
+        "image": "https://www.rosario3.com/__export/1791672887416/sites/rosario3/img/2026/10/10/panama.jpg_928314580.jpg",
+        "summary": "El presidente José Raúl Mulino dispuso la medida extraordinaria para financiar ayuda humanitaria y la reconstrucción de infraestructura dañada, tras el sismo de magnitud 7,7 que se registró el viernes en el país centroamericano",
+        "pubDate": "2026-10-10T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Triunfo agónico del Atlético Madrid con gol del Cuti Romero y escándalo con expulsión de Vinicius en el Real Madrid",
         "link": "https://www.rosario3.com/deportes/triunfo-agonico-del-atletico-madrid-con-gol-del-cuti-romero-y-escandalo-con-expulsion-de-vinicius-en-el-real-madrid-20261010-0028.html",
         "image": "https://www.rosario3.com/__export/1791671444853/sites/rosario3/img/2026/10/10/gol-cuti.jpg_928314580.jpg",
         "summary": "El equipo conducido por Diego Simeone venció 2 a 1 al Deportivo Alavés con un gol de cabeza del nuevo capitán de Argentina y quedó como escolta. Por su parte, el conjunto merengue sufrió la anulación de un tanto y la tarjeta roja del atacante brasileño tras la intervención del…",
-        "pubDate": "2026-10-10T11:49:00+00:00",
+        "pubDate": "2026-10-10T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +125,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/el-papa-leon-xiv-tildo-de-inadmisible-la-pena-de-muerte-por-atentar-contra-la-dignidad-de-las-personas-20261010-0021.html",
         "image": "https://www.rosario3.com/__export/1791121293689/sites/rosario3/img/2026/10/04/papa.jpg_1825222445.jpg",
         "summary": "El mensaje del sumo pontífice se dio por el Día Mundial contra la Pena de Muerte, que se conmemora cada 10 de octubre, pero también en medio de un intenso debate en Estados Unidos por la futura ejecución de un exmayor del Ejército a manos de un pelotón de fusilamente, que además…",
-        "pubDate": "2026-10-10T11:48:00+00:00",
+        "pubDate": "2026-10-10T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,20 +134,29 @@
         "link": "https://www.rosario3.com/informaciongeneral/la-historia-de-morocho-el-perro-callejero-que-sobrevivio-a-la-crecida-del-rio-mapocho-y-se-convirtio-en-funcionario-municipal-20261010-0015.html",
         "image": "https://www.rosario3.com/__export/1791648782478/sites/rosario3/img/2026/10/10/morocho_chile_perro.jpg_672794304.jpg",
         "summary": "Esta semana protagonizó un rescate de cuatro horas en Santiago de Chile. El operativo trascendió las fronteras y llegaron solicitudes de adopción de todas partes. Pero finalmente vivirá en la Dirección de Seguridad de la Municipalidad, donde trabajan quienes lo rescataron",
-        "pubDate": "2026-10-10T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Una esperanza para Bauti, un niño con síndrome de Goldenhar: tiene que operarse y su familia organiza una rifa solidaria",
-        "link": "https://www.rosario3.com/informaciongeneral/una-esperanza-para-bauti-un-nino-con-sindrome-de-goldenhar-tiene-que-operarse-y-su-familia-organiza-una-rifa-solidaria-20261010-0014.html",
-        "image": "https://www.rosario3.com/__export/1791646622807/sites/rosario3/img/2026/10/10/disen-o_sin_ti-tulo_-70-.png_928314581.png",
-        "summary": "El nene de 10 años necesita una nueva cirugía maxilar para continuar alargando su mandíbula. Actualmente se alimenta a través de un botón gástrico y la intervención está prevista para antes del 12 de noviembre",
         "pubDate": "2026-10-10T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "El gobierno activó la revisión de convenios colectivos de trabajo",
+        "link": "https://www.lacapital.com.ar/economia/el-gobierno-activo-la-revision-convenios-colectivos-trabajo-n10286051.html",
+        "image": "https://media.lacapital.com.ar/p/86d041ebae99d3be2d8f0d9d600c59d7/adjuntos/203/imagenes/103/125/0103125107/1200x675/smart/cgt2.jpeg",
+        "summary": "La Dirección Nacional de Relaciones y Regulaciones del Trabajo comenzó a notificar a gremios y cámaras empresarios para que negocien nuevos acuerdos",
+        "pubDate": "2026-10-10T23:08:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Santa Fe es la provincia que sufrió el mayor recorte en la coparticipación",
+        "link": "https://www.lacapital.com.ar/economia/santa-fe-es-la-provincia-que-sufrio-el-mayor-recorte-la-coparticipacion-n10286048.html",
+        "image": "https://media.lacapital.com.ar/p/7e27fe23fc79af48c1c247fe9649b19d/adjuntos/203/imagenes/101/873/0101873708/1200x675/smart/cfijpg.jpg",
+        "summary": "Según el Iaraf, entre los primeros nueve meses de 2023 y 2026 las transferencias bajaron casi 13%. Resignó recursos por $775 mil millones por transferencias automáticas",
+        "pubDate": "2026-10-10T23:05:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Se viene una nueva regata recreativa de Stand Up Paddle en el río Paraná",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/f50b1de38a31d9eaafb8cc19f5add3ee/adjuntos/203/imagenes/103/458/0103458088/1200x675/smart/image.png",
         "summary": "Los días nublados son la excusa perfecta para quedarse en casa y entrenar las habilidades culinarias. Tres recetas fáciles y ricas para mejorar el fin de semana",
         "pubDate": "2026-10-10T18:20:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El economista al que más escucha Milei asegura que el dólar está atrasado",
-        "link": "https://www.lacapital.com.ar/politica/el-economista-al-que-mas-escucha-milei-asegura-que-el-dolar-esta-atrasado-n10286000.html",
-        "image": "https://media.lacapital.com.ar/p/0a30ce1de9722ca36967dcb4eafc1e4d/adjuntos/203/imagenes/103/459/0103459552/1200x675/smart/image-2026-10-10t150148798.png",
-        "summary": "Es doctor en Economía por Harvard, hace más de 30 años que trabaja en Wall Street y fue invitado a una reunión de Gabinete por el presidente",
-        "pubDate": "2026-10-10T18:06:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Lo condenaron a prisión perpetua por la muerte de un hombre abusado en pleno microcentro",
-        "link": "https://www.lacapital.com.ar/policiales/lo-condenaron-prision-perpetua-la-muerte-un-hombre-abusado-pleno-microcentro-n10285993.html",
-        "image": "https://media.lacapital.com.ar/p/67ed4da36a1d237e47fe42e20d4d57fc/adjuntos/203/imagenes/102/162/0102162082/1200x675/smart/pasaje-arayajpg.jpg",
-        "summary": "Marcelo Rodríguez aceptó la pena máxima por la golpiza y la violación de Ricardo Castillo, fallecido a principios de 2025",
-        "pubDate": "2026-10-10T17:04:00+00:00",
         "approxTime": false
       }
     ]
