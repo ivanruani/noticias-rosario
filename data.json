@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T12:31:00.674810+00:00",
+  "generatedAt": "2026-10-10T13:01:13.889241+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,11 +13,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Tres autos incendiados en menos de doce horas en Rosario",
+        "link": "https://www.rosario3.com/informaciongeneral/tres-autos-incendiados-en-menos-de-doce-horas-en-rosario-20261010-0009.html",
+        "image": "https://www.rosario3.com/__export/1791636342295/sites/rosario3/img/2026/10/10/whatsapp_image_2026-10-10_at_09_09_27_version1791636341704.jpeg_1825222445.jpeg",
+        "summary": "Los episodios ocurrieron en distintos puntos de la ciudad, entre la noche del viernes y las primeras horas de este sábado. Bomberos Zapadores intervino en los tres casos y no se informaron personas heridas.",
+        "pubDate": "2026-10-10T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Feria Internacional del Libro de Rosario 2026: las actividades de este sábado",
         "link": "https://www.rosario3.com/ocio/feria-internacional-del-libro-de-rosario-2026-las-actividades-de-este-sabado-20261008-0034.html",
         "image": "https://www.rosario3.com/__export/1791633049870/sites/rosario3/img/2026/10/10/dsc03272.jpg_2106848869.jpg",
         "summary": "El Cultural Fontanarrosa (San Martín 1080) abre sus puertas desde las 10 hasta la medianoche. Gratis, con gestión previa del código QR",
-        "pubDate": "2026-10-08T11:59:00+00:00",
+        "pubDate": "2026-10-08T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/clima-en-rosario-lluvias-por-la-manana-y-una-mejora-hacia-la-tarde-de-este-sabado-20261010-0002.html",
         "image": "https://www.rosario3.com/__export/1791631140409/sites/rosario3/img/2024/04/15/lluvia_ciudad_1.jpg_2106848869.jpg",
         "summary": "La jornada comenzó con neblina y una temperatura de 11,6 grados. El pronóstico anticipa lluvias durante la mañana, una disminución de la probabilidad de precipitaciones hacia la tarde y un domingo con tiempo estable para disfrutar del fin de semana largo",
-        "pubDate": "2026-10-10T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La previa del Run Run: apellido de peso llega al Aeropuerto y dos nuevos negocios con vista al río",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-previa-del-run-run-apellido-de-peso-llega-al-aeropuerto-y-dos-nuevos-negocios-con-vista-al-rio-20261010-0001.html",
-        "image": "https://www.rosario3.com/__export/1789167090572/sites/rosario3/img/2026/09/11/marianoportada_jpg.jpeg_506286608.jpeg",
-        "summary": "El podcast con el anticipo de las novedades económicas y corporativas que se publicarán en la tradicional columna de los domingos en Rosario3",
         "pubDate": "2026-10-10T11:57:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El Papa León XIV rechazó la pena de muerte tras la ejecución fallida de Christa Pike",
+        "link": "https://www.lacapital.com.ar/informacion-general/el-papa-leon-xiv-rechazo-la-pena-muerte-la-ejecucion-fallida-christa-pike-n10285963.html",
+        "image": "https://media.lacapital.com.ar/p/1359015279e02752dd045a92641e7ac5/adjuntos/203/imagenes/103/459/0103459115/papa-leon-xiv.jpg",
+        "summary": "El sumo pontífice dijo que la orden judicial para matar a una persona es \"inadmisible\". La mujer condenada en Tennesseee sobrevivió a dos inyecciones letales",
+        "pubDate": "2026-10-10T12:41:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Cómo llegó al borde de la exoneración la investigadora que estudió plaguicidas en muestras humanas",
         "link": "https://www.lacapital.com.ar/la-region/como-llego-al-borde-la-exoneracion-la-investigadora-que-estudio-plaguicidas-muestras-humanas-n10285907.html",
         "image": "https://media.lacapital.com.ar/p/9e941056f6b17a648fed96a68516e56c/adjuntos/203/imagenes/103/458/0103458358/1200x675/smart/virginia-aparicio-2.jpeg",
@@ -213,19 +222,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Río Negro ya recibió más de un millón de turistas en 2026 y busca ampliar su temporada",
-        "link": "https://www.lacapital.com.ar/turismo/rio-negro-ya-recibio-mas-un-millon-turistas-2026-y-busca-ampliar-su-temporada-n10285871.html",
-        "image": "https://media.lacapital.com.ar/p/da80644a61e2b360b813f228c4827d1d/adjuntos/203/imagenes/103/457/0103457956/imagen-nota.jpg",
-        "summary": "Entre enero y septiembre, la provincia registró más de un millón de visitantes y busca sostener el movimiento durante todo el año",
+        "title": "Dormir dentro del paisaje: las suites más originales",
+        "link": "https://www.lacapital.com.ar/turismo/dormir-dentro-del-paisaje-las-suites-mas-originales-n10285869.html",
+        "image": "https://media.lacapital.com.ar/p/b061089aa5bf84c04358d50dec58ad2a/adjuntos/203/imagenes/103/458/0103458121/kn2-foto.jpg",
+        "summary": "Una selección de alojamientos donde la arquitectura, el paisaje y la experiencia forman una sola propuesta",
         "pubDate": "2026-10-10T10:00:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Dormir dentro del paisaje: las suites más originales",
-        "link": "https://www.lacapital.com.ar/turismo/dormir-dentro-del-paisaje-las-suites-mas-originales-n10285869.html",
-        "image": "https://media.lacapital.com.ar/p/b061089aa5bf84c04358d50dec58ad2a/adjuntos/203/imagenes/103/458/0103458121/kn2-foto.jpg",
-        "summary": "Una selección de alojamientos donde la arquitectura, el paisaje y la experiencia forman una sola propuesta",
+        "title": "Río Negro ya recibió más de un millón de turistas en 2026 y busca ampliar su temporada",
+        "link": "https://www.lacapital.com.ar/turismo/rio-negro-ya-recibio-mas-un-millon-turistas-2026-y-busca-ampliar-su-temporada-n10285871.html",
+        "image": "https://media.lacapital.com.ar/p/da80644a61e2b360b813f228c4827d1d/adjuntos/203/imagenes/103/457/0103457956/imagen-nota.jpg",
+        "summary": "Entre enero y septiembre, la provincia registró más de un millón de visitantes y busca sostener el movimiento durante todo el año",
         "pubDate": "2026-10-10T10:00:00+00:00",
         "approxTime": false
       },
@@ -262,15 +271,6 @@
         "link": "https://www.lacapital.com.ar/agro/una-herramienta-frenar-la-erosion-del-suelo-y-preservar-la-productividad-del-campo-n10285683.html",
         "image": "https://media.lacapital.com.ar/p/b5aa214c8c043cab0299ae694f18b52d/adjuntos/305/imagenes/102/463/0102463645/1200x675/smart/suelojpg.jpg",
         "summary": "El 75% de la superficie agrícola de Santa Fe está afectada por algún tipo de erosión hídrica. El Observatorio Santafesino de Suelos de Santa Fe ya tiene operativa su plataforma y permite elaborar planes de manejo, acceder a beneficios impositivos y anticipar cómo las decisiones…",
-        "pubDate": "2026-10-10T09:35:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Finde XXL: una agenda articulada con más de 30 propuestas en toda la provincia",
-        "link": "https://www.lacapital.com.ar/la-ciudad/finde-xxl-una-agenda-articulada-mas-30-propuestas-toda-la-provincia-n10285887.html",
-        "image": "https://media.lacapital.com.ar/p/18f5be264d62f1e28960384537aa2566/adjuntos/203/imagenes/103/458/0103458062/1200x675/smart/finde-xxl.jpg",
-        "summary": "Hasta el 12 de octubre, el territorio santafesino desplegará una variada grilla de actividades culturales, deportivas, gastronómicas y recreativas",
         "pubDate": "2026-10-10T09:35:00+00:00",
         "approxTime": false
       }
