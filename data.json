@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T22:30:58.572030+00:00",
+  "generatedAt": "2026-10-10T23:01:09.877447+00:00",
   "sites": {
     "rosario3": [
       {
@@ -103,11 +103,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Triunfo agónico del Atlético Madrid con gol del Cuti Romero y escándalo con expulsión de Vinicius en el Real Madrid",
+        "link": "https://www.rosario3.com/deportes/triunfo-agonico-del-atletico-madrid-con-gol-del-cuti-romero-y-escandalo-con-expulsion-de-vinicius-en-el-real-madrid-20261010-0028.html",
+        "image": "https://www.rosario3.com/__export/1791671444853/sites/rosario3/img/2026/10/10/gol-cuti.jpg_928314580.jpg",
+        "summary": "El equipo conducido por Diego Simeone venció 2 a 1 al Deportivo Alavés con un gol de cabeza del nuevo capitán de Argentina y quedó como escolta. Por su parte, el conjunto merengue sufrió la anulación de un tanto y la tarjeta roja del atacante brasileño tras la intervención del…",
+        "pubDate": "2026-10-10T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "El papa León XIV tildó de \"inadmisible\" la pena de muerte por atentar contra la dignidad de las personas",
         "link": "https://www.rosario3.com/informaciongeneral/el-papa-leon-xiv-tildo-de-inadmisible-la-pena-de-muerte-por-atentar-contra-la-dignidad-de-las-personas-20261010-0021.html",
         "image": "https://www.rosario3.com/__export/1791121293689/sites/rosario3/img/2026/10/04/papa.jpg_1825222445.jpg",
         "summary": "El mensaje del sumo pontífice se dio por el Día Mundial contra la Pena de Muerte, que se conmemora cada 10 de octubre, pero también en medio de un intenso debate en Estados Unidos por la futura ejecución de un exmayor del Ejército a manos de un pelotón de fusilamente, que además…",
-        "pubDate": "2026-10-10T11:49:00+00:00",
+        "pubDate": "2026-10-10T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +125,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/la-historia-de-morocho-el-perro-callejero-que-sobrevivio-a-la-crecida-del-rio-mapocho-y-se-convirtio-en-funcionario-municipal-20261010-0015.html",
         "image": "https://www.rosario3.com/__export/1791648782478/sites/rosario3/img/2026/10/10/morocho_chile_perro.jpg_672794304.jpg",
         "summary": "Esta semana protagonizó un rescate de cuatro horas en Santiago de Chile. El operativo trascendió las fronteras y llegaron solicitudes de adopción de todas partes. Pero finalmente vivirá en la Dirección de Seguridad de la Municipalidad, donde trabajan quienes lo rescataron",
-        "pubDate": "2026-10-10T11:48:00+00:00",
+        "pubDate": "2026-10-10T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,20 +134,29 @@
         "link": "https://www.rosario3.com/informaciongeneral/una-esperanza-para-bauti-un-nino-con-sindrome-de-goldenhar-tiene-que-operarse-y-su-familia-organiza-una-rifa-solidaria-20261010-0014.html",
         "image": "https://www.rosario3.com/__export/1791646622807/sites/rosario3/img/2026/10/10/disen-o_sin_ti-tulo_-70-.png_928314581.png",
         "summary": "El nene de 10 años necesita una nueva cirugía maxilar para continuar alargando su mandíbula. Actualmente se alimenta a través de un botón gástrico y la intervención está prevista para antes del 12 de noviembre",
-        "pubDate": "2026-10-10T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Feria Internacional del Libro de Rosario 2026: las actividades de este sábado",
-        "link": "https://www.rosario3.com/ocio/feria-internacional-del-libro-de-rosario-2026-las-actividades-de-este-sabado-20261008-0034.html",
-        "image": "https://www.rosario3.com/__export/1791633049870/sites/rosario3/img/2026/10/10/dsc03272.jpg_2106848869.jpg",
-        "summary": "El Cultural Fontanarrosa (San Martín 1080) abre sus puertas desde las 10 hasta la medianoche. Gratis, con gestión previa del código QR",
-        "pubDate": "2026-10-08T11:46:00+00:00",
+        "pubDate": "2026-10-10T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Se viene una nueva regata recreativa de Stand Up Paddle en el río Paraná",
+        "link": "https://www.lacapital.com.ar/la-ciudad/se-viene-una-nueva-regata-recreativa-stand-up-paddle-el-rio-parana-n10286041.html",
+        "image": "https://media.lacapital.com.ar/p/886fd02c3f30af1679bb9ab29a53aa61/adjuntos/203/imagenes/103/460/0103460213/1200x675/smart/sup-1.jpg",
+        "summary": "La travesía, que se desarrollará por décimo año consecutivo, recorre la silueta de la ciudad, desde el puente Rosario-Victoria hasta el Monumento Nacional a la Bandera",
+        "pubDate": "2026-10-10T22:52:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Beneficio para Newell's: Estudiantes empató en Santiago del Estero",
+        "link": "https://www.lacapital.com.ar/ovacion/beneficio-newells-estudiantes-empato-santiago-del-estero-n10286045.html",
+        "image": "https://media.lacapital.com.ar/p/76d03bfc79f50b2797aec4444317ea53/adjuntos/203/imagenes/103/460/0103460258/1200x675/smart/image-47.png",
+        "summary": "El Pincha, inmediato perseguidor de los clasificados, no pudo ganar este sábado frente a Central Córdoba y quedó a tres puntos del conjunto de Frank Kudelka",
+        "pubDate": "2026-10-10T22:46:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "El tiempo en Rosario: los días seguirán nublados y con inestabilidad latente",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/67ed4da36a1d237e47fe42e20d4d57fc/adjuntos/203/imagenes/102/162/0102162082/1200x675/smart/pasaje-arayajpg.jpg",
         "summary": "Marcelo Rodríguez aceptó la pena máxima por la golpiza y la violación de Ricardo Castillo, fallecido a principios de 2025",
         "pubDate": "2026-10-10T17:04:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cuarentena superada: ¿qué pasó con el aguará guazú perseguido por la policía rosarina?",
-        "link": "https://www.lacapital.com.ar/la-ciudad/cuarentena-superada-que-paso-el-aguara-guazu-perseguido-la-policia-rosarina-n10285985.html",
-        "image": "https://media.lacapital.com.ar/p/46b1214e50c3d6271ad5d6131d40cc14/adjuntos/203/imagenes/103/459/0103459411/aguara-guazu-2.jpeg",
-        "summary": "El operativo para capturar al animal en la zona oeste había demandado casi una hora de trabajo. Después de cuatro semanas, volvió a su hábitat natural",
-        "pubDate": "2026-10-10T15:37:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Una floja clasificación de Franco Colapinto en Singapur, que deberá remarla el domingo",
-        "link": "https://www.lacapital.com.ar/ovacion/una-floja-clasificacion-franco-colapinto-singapur-que-debera-remarla-el-domingo-n10285934.html",
-        "image": "https://media.lacapital.com.ar/p/1f6671d7ae9d20cdc9e81675df8568a3/adjuntos/203/imagenes/103/458/0103458560/1200x675/smart/image-3.jpg",
-        "summary": "El argentino largará 15° en Sepang el GP de Singapur. Después de una sólida Q1, falló en los dos intentos de la Q2. Su compañero de Alpine, el mejor del resto",
-        "pubDate": "2026-10-10T14:42:00+00:00",
         "approxTime": false
       }
     ]
