@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T09:01:08.239998+00:00",
+  "generatedAt": "2026-10-10T09:30:56.071244+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,11 +141,56 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "Recorrida semanal",
-        "link": "https://www.lacapital.com.ar/es-social/recorrida-semanal-n10285176.html",
-        "image": "https://media.lacapital.com.ar/p/7111c58a6be7c7f69a5dec9e11bcaf85/adjuntos/203/imagenes/103/449/0103449811/1200x675/smart/chinchibira-2.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-10-10T03:00:00+00:00",
+        "title": "La FIA durmió el inicio del sprint en Singapur por la lluvia: una constante en la Fórmula 1",
+        "link": "https://www.lacapital.com.ar/ovacion/la-fia-durmio-el-inicio-del-sprint-singapur-la-lluvia-una-constante-la-formula-1-n10285936.html",
+        "image": "https://media.lacapital.com.ar/p/834c1ed64972d133276976d323383f5a/adjuntos/203/imagenes/103/459/0103459012/1200x675/smart/image-22.jpg",
+        "summary": "Sea circuito urbano como el de Singapur o el de Malasia, en esta era de la super tecnificación la Fórmula 1 no deja correr",
+        "pubDate": "2026-10-10T09:25:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Andrés Malamud: \"La geografía económica está cambiando y los nuevos complejos exportadores desplazan el centro\"",
+        "link": "https://www.lacapital.com.ar/economia/andres-malamud-la-geografia-economica-esta-cambiando-y-los-nuevos-complejos-exportadores-desplazan-el-centro-n10285661.html",
+        "image": "https://media.lacapital.com.ar/p/4a0f98f9cc5d0b8c75ee401262836a43/adjuntos/203/imagenes/103/452/0103452815/1200x675/smart/malamud2.jpg",
+        "summary": "El especialista en relaciones internacionales analizó en Rosario las oportunidades de Argentina en un mundo inestable. Señaló que las nuevas fuentes de divisas reducen la dependencia del agro y modifican el mapa productivo del país",
+        "pubDate": "2026-10-10T09:25:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Rosario: confirman la aplicación del nuevo Régimen Penal Juvenil a adolescentes de 14 y 15 años",
+        "link": "https://www.lacapital.com.ar/la-ciudad/rosario-confirman-la-aplicacion-del-nuevo-regimen-penal-juvenil-adolescentes-14-y-15-anos-n10285909.html",
+        "image": "https://media.lacapital.com.ar/p/1544f89d844d104dee98681760697246/adjuntos/203/imagenes/102/487/0102487830/1200x675/smart/menores-2jpg.jpg",
+        "summary": "Lo definió este viernes la Cámara de Apelación en lo Penal en el marco de una causa por robo calificado con uso de arma en la que intervinieron dos adolescentes",
+        "pubDate": "2026-10-10T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Newell's vuelve a medirse con el que comenzó su salto de impulso y levantada",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-vuelve-medirse-el-que-comenzo-su-salto-impulso-y-levantada-n10285928.html",
+        "image": "https://media.lacapital.com.ar/p/ed59136b7035d02a50ef59432a8bc921/adjuntos/203/imagenes/103/458/0103458525/nob-mazz-148289.jpg",
+        "summary": "Este lunes Newell's se enfrentará con Gimnasia de Mendoza, contra quien pudo instalar un punto de inflexión que representó su despegue",
+        "pubDate": "2026-10-10T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Búfalos: una alternativa productiva que busca crecer en el norte santafesino",
+        "link": "https://www.lacapital.com.ar/agro/bufalos-una-alternativa-productiva-que-busca-crecer-el-norte-santafesino-n10285643.html",
+        "image": "https://media.lacapital.com.ar/p/5f74adb64afab8bbd381591b0638982d/adjuntos/203/imagenes/103/120/0103120128/bufalos.jpg",
+        "summary": "Santa Fe participó del Congreso Internacional de Búfalos junto con criadores, investigadores y fabricantes de maquinaria. Se expuso el trabajo de las mesas productivas y el fortalecimiento de la faena en el norte provincial",
+        "pubDate": "2026-10-10T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central: juega una final, el sueño del bicampeonato y el camino más corto a la Libertadores",
+        "link": "https://www.lacapital.com.ar/ovacion/central-juega-una-final-el-sueno-del-bicampeonato-y-el-camino-mas-corto-la-libertadores-n10285935.html",
+        "image": "https://media.lacapital.com.ar/p/32ba161f350a3dca7720ad8d13534020/adjuntos/203/imagenes/103/458/0103458597/rrrccc2.jpeg",
+        "summary": "Central recibe el domingo, a las 17, a Independiente Rivadavia de Mendoza y sólo le sirve ganar para seguir en carrera por el primer puesto en la anual",
+        "pubDate": "2026-10-10T09:10:00+00:00",
         "approxTime": false
       },
       {
@@ -159,18 +204,9 @@
       },
       {
         "source": "La Capital",
-        "title": "Casa Alvear, se inauguró una nueva sala de arte",
-        "link": "https://www.lacapital.com.ar/es-social/casa-alvear-se-inauguro-una-nueva-sala-arte-n10285201.html",
-        "image": "https://media.lacapital.com.ar/p/e179a301ed1b40cba81829a3bc7bac22/adjuntos/203/imagenes/103/450/0103450054/1200x675/smart/bernardo-1.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-10-10T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cuando Pilates también se convierte en amistad",
-        "link": "https://www.lacapital.com.ar/es-social/cuando-pilates-tambien-se-convierte-amistad-n10285193.html",
-        "image": "https://media.lacapital.com.ar/p/4c23e15e3b740e7241b4ccf8475b56e3/adjuntos/203/imagenes/103/449/0103449974/1200x675/smart/foto-1.jpeg",
+        "title": "Recorrida semanal",
+        "link": "https://www.lacapital.com.ar/es-social/recorrida-semanal-n10285176.html",
+        "image": "https://media.lacapital.com.ar/p/7111c58a6be7c7f69a5dec9e11bcaf85/adjuntos/203/imagenes/103/449/0103449811/1200x675/smart/chinchibira-2.jpg",
         "summary": "La Capital",
         "pubDate": "2026-10-10T03:00:00+00:00",
         "approxTime": false
@@ -189,6 +225,24 @@
         "title": "Junior Achievement junto a Alto Rosario, en un evento de emprendedores",
         "link": "https://www.lacapital.com.ar/es-social/junior-achievement-junto-alto-rosario-un-evento-emprendedores-n10285189.html",
         "image": "https://media.lacapital.com.ar/p/ff3183a1d5551ddee784d96c24f32956/adjuntos/203/imagenes/103/449/0103449942/1200x675/smart/7junior-1.jpg",
+        "summary": "La Capital",
+        "pubDate": "2026-10-10T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Cuando Pilates también se convierte en amistad",
+        "link": "https://www.lacapital.com.ar/es-social/cuando-pilates-tambien-se-convierte-amistad-n10285193.html",
+        "image": "https://media.lacapital.com.ar/p/4c23e15e3b740e7241b4ccf8475b56e3/adjuntos/203/imagenes/103/449/0103449974/1200x675/smart/foto-1.jpeg",
+        "summary": "La Capital",
+        "pubDate": "2026-10-10T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Casa Alvear, se inauguró una nueva sala de arte",
+        "link": "https://www.lacapital.com.ar/es-social/casa-alvear-se-inauguro-una-nueva-sala-arte-n10285201.html",
+        "image": "https://media.lacapital.com.ar/p/e179a301ed1b40cba81829a3bc7bac22/adjuntos/203/imagenes/103/450/0103450054/1200x675/smart/bernardo-1.jpg",
         "summary": "La Capital",
         "pubDate": "2026-10-10T03:00:00+00:00",
         "approxTime": false
@@ -218,60 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/b6bac774113001e992a5f77af8b30c53/adjuntos/203/imagenes/103/458/0103458559/1200x675/smart/image.jpg",
         "summary": "Duendes es el único clasificado. Jockey Club y Estudiantes es el partido más atrayente, pero hay otros decisivos en la antepenúltima fecha del torneo",
         "pubDate": "2026-10-10T00:23:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Tres recomendaciones para pasar el fin de semana en Netflix",
-        "link": "https://www.lacapital.com.ar/zoom/tres-recomendaciones-pasar-el-fin-semana-netflix-n10285876.html",
-        "image": "https://media.lacapital.com.ar/p/1e5fea1e5a4679d3642c6a9572b03779/adjuntos/203/imagenes/103/457/0103457860/1200x675/smart/image-3.png",
-        "summary": "Producciones de drama, suspenso y thriller para maratonear desde el sillón en este fin de semana nublado",
-        "pubDate": "2026-10-10T00:20:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Decomisan en Posadas camiones con marihuana que tenían como destino Buenos Aires",
-        "link": "https://www.lacapital.com.ar/policiales/decomisan-posadas-camiones-marihuana-que-tenian-como-destino-buenos-aires-n10285862.html",
-        "image": "https://media.lacapital.com.ar/p/c0a3dd4ad6f3bd4b47f9860b826ce538/adjuntos/203/imagenes/103/457/0103457844/1200x675/smart/cam.jpg",
-        "summary": "En el marco de los distintos procedimientos realizados en los últimos meses y vinculados con la investigación, se más de 13 toneladas de marihuana",
-        "pubDate": "2026-10-10T00:16:28+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Tres producciones para ver en streaming este fin de semana",
-        "link": "https://www.lacapital.com.ar/zoom/tres-producciones-ver-streaming-este-fin-semana-n10285883.html",
-        "image": "https://media.lacapital.com.ar/p/8bf750e342c9c00571e55934980ab0ee/adjuntos/203/imagenes/103/458/0103458040/1200x675/smart/image-5.png",
-        "summary": "Historias de drama, romance y terror para disfrutar en las distintas plataformas tanto el sábado como el domingo",
-        "pubDate": "2026-10-10T00:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Atlético del Rosario busca sacar la cabeza de la permanencia y seguir en el Top 14 de la Urba",
-        "link": "https://www.lacapital.com.ar/ovacion/atletico-del-rosario-busca-sacar-la-cabeza-la-permanencia-y-seguir-el-top-14-la-urba-n10285931.html",
-        "image": "https://media.lacapital.com.ar/p/6358dcdd76a06bad127b293f302a3271/adjuntos/203/imagenes/103/458/0103458515/1200x675/smart/image-1.jpg",
-        "summary": "Tiene la gran chance de asegurar su lugar en la máxima categoría, de local, ante el descendido Champagnat. Si gana, logrará el objetivo",
-        "pubDate": "2026-10-10T00:06:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Redrado atribuyó a un \"error de cálculo\" la pérdida del BCRA en operaciones con oro",
-        "link": "https://www.lacapital.com.ar/economia/redrado-atribuyo-un-error-calculo-la-perdida-del-bcra-operaciones-oro-n10285918.html",
-        "image": "https://media.lacapital.com.ar/p/609bfa2c273b1677168a60fb3ef4a3c9/adjuntos/203/imagenes/100/016/0100016682/1200x675/smart/redradojpg.jpg",
-        "summary": "La Auditoría General informó que el ente monetario perdió más de u$s 1.000 millones en un contrato de derivados. El ex presidente del Central advirtió sobre la necesidad de ser \"extremadamente conservador\" en el manejo de activos internacionales",
-        "pubDate": "2026-10-09T23:48:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cerraron 948 empresas en julio y ya suman más de 32.000 en la era Milei",
-        "link": "https://www.lacapital.com.ar/economia/cerraron-948-empresas-julio-y-ya-suman-mas-32000-la-era-milei-n10285915.html",
-        "image": "https://media.lacapital.com.ar/p/86d041ebae99d3be2d8f0d9d600c59d7/adjuntos/203/imagenes/103/125/0103125107/1200x675/smart/cgt2.jpeg",
-        "summary": "Según datos de la Superintendencia de Trabajo, la caída se acelera. Se perdieron 437 mil empleos formales desde fines de 2023",
-        "pubDate": "2026-10-09T23:40:00+00:00",
         "approxTime": false
       }
     ]
