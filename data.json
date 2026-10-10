@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T00:44:49.880858+00:00",
+  "generatedAt": "2026-10-10T01:01:09.804875+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El tiempo en Rosario: las lluvias siguen en un fin de semana largo que será otoñal",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-las-lluvias-siguen-un-fin-semana-largo-que-sera-otonal-n10285946.html",
+        "image": "https://media.lacapital.com.ar/p/2c9619028b9b9ef8daef6f254dee6c7f/adjuntos/203/imagenes/101/872/0101872393/1200x675/smart/lluvia-llovizna.png",
+        "summary": "La inestabilidad y el cielo totalmente nublado serán parte del paisaje tanto el sábado como el domingo, junto a temperaturas frescas",
+        "pubDate": "2026-10-10T00:58:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Regional del Litoral: tres que juegan por la meta de asegurar el pasaje a las semifinales",
         "link": "https://www.lacapital.com.ar/ovacion/regional-del-litoral-tres-que-juegan-la-meta-asegurar-el-pasaje-las-semifinales-n10285932.html",
         "image": "https://media.lacapital.com.ar/p/b6bac774113001e992a5f77af8b30c53/adjuntos/203/imagenes/103/458/0103458559/1200x675/smart/image.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/41b37d3367239c8674f6c767c1c7fa2d/adjuntos/203/imagenes/103/457/0103457859/1200x675/smart/muestra-fotoperiodismo.jpg",
         "summary": "La exposición puede visitarse desde hoy en Plataforma Lavardén, en Sarmiento y Mendoza. Celina Mutti Lovera y Sebastián Suárez Meccia participan por La Capital",
         "pubDate": "2026-10-09T18:57:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Financiamiento universitario: el juez aceptó la apelación del gobierno, pero sostuvo el cumplimiento de la ley",
-        "link": "https://www.lacapital.com.ar/politica/financiamiento-universitario-el-juez-acepto-la-apelacion-del-gobierno-pero-sostuvo-el-cumplimiento-la-ley-n10285865.html",
-        "image": "https://media.lacapital.com.ar/p/b13d779bede7446319b2920a91357bbb/adjuntos/203/imagenes/103/457/0103457843/1200x675/smart/image.png",
-        "summary": "Martín Cormick dio lugar al pedido del Ejecutivo y ahora el caso será revisado por la Cámara de Apelaciones en lo Contencioso Administrativo Federal",
-        "pubDate": "2026-10-09T18:29:00+00:00",
         "approxTime": false
       }
     ]
