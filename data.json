@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T19:01:07.416115+00:00",
+  "generatedAt": "2026-10-10T19:30:57.558124+00:00",
   "sites": {
     "rosario3": [
       {
@@ -103,11 +103,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Jornada muy adversa para los tenistas argentinos en la segunda ronda del Masters 1000 de Shanghái",
+        "link": "https://www.rosario3.com/deportes/jornada-muy-adversa-para-los-tenistas-argentinos-en-la-segunda-ronda-del-masters-1000-de-shanghai-20261010-0017.html",
+        "image": "https://www.rosario3.com/__export/1791652856782/sites/rosario3/img/2026/10/10/tomi-etcheverry.jpg_928314580.jpg",
+        "summary": "Cinco representantes nacionales sufrieron derrotas en la jornada del sábado. Francisco Cerúndolo quedó como el único representante del país en la competencia tras avanzar a la siguiente instancia",
+        "pubDate": "2026-10-10T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "La historia de Morocho, el perro callejero que sobrevivió a la crecida del río Mapocho y se convirtió en “funcionario municipal”",
         "link": "https://www.rosario3.com/informaciongeneral/la-historia-de-morocho-el-perro-callejero-que-sobrevivio-a-la-crecida-del-rio-mapocho-y-se-convirtio-en-funcionario-municipal-20261010-0015.html",
         "image": "https://www.rosario3.com/__export/1791648782478/sites/rosario3/img/2026/10/10/morocho_chile_perro.jpg_672794304.jpg",
         "summary": "Esta semana protagonizó un rescate de cuatro horas en Santiago de Chile. El operativo trascendió las fronteras y llegaron solicitudes de adopción de todas partes. Pero finalmente vivirá en la Dirección de Seguridad de la Municipalidad, donde trabajan quienes lo rescataron",
-        "pubDate": "2026-10-10T11:49:00+00:00",
+        "pubDate": "2026-10-10T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +125,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/una-esperanza-para-bauti-un-nino-con-sindrome-de-goldenhar-tiene-que-operarse-y-su-familia-organiza-una-rifa-solidaria-20261010-0014.html",
         "image": "https://www.rosario3.com/__export/1791646622807/sites/rosario3/img/2026/10/10/disen-o_sin_ti-tulo_-70-.png_928314581.png",
         "summary": "El nene de 10 años necesita una nueva cirugía maxilar para continuar alargando su mandíbula. Actualmente se alimenta a través de un botón gástrico y la intervención está prevista para antes del 12 de noviembre",
-        "pubDate": "2026-10-10T11:48:00+00:00",
+        "pubDate": "2026-10-10T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,16 +134,7 @@
         "link": "https://www.rosario3.com/ocio/no-finjo-demencia-ciro-korol-estrena-una-cancion-que-escribio-durante-una-internacion-psiquiatrica-20261008-0042.html",
         "image": "https://www.rosario3.com/__export/1791471992069/sites/rosario3/img/2026/10/08/cirokorol.jpg_982625323.jpg",
         "summary": "El escritor rosarino debuta en la música con un tema de hip hop que cruza autobiografía, humor y crítica social. La canción y su videoclip están disponibles desde este sábado, Día Mundial de la Salud Mental",
-        "pubDate": "2026-10-08T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Tres autos incendiados en menos de doce horas en Rosario",
-        "link": "https://www.rosario3.com/informaciongeneral/tres-autos-incendiados-en-menos-de-doce-horas-en-rosario-20261010-0009.html",
-        "image": "https://www.rosario3.com/__export/1791636342295/sites/rosario3/img/2026/10/10/whatsapp_image_2026-10-10_at_09_09_27_version1791636341704.jpeg_1825222445.jpeg",
-        "summary": "Los episodios ocurrieron en distintos puntos de la ciudad, entre la noche del viernes y las primeras horas de este sábado. Bomberos Zapadores intervino en los tres casos y no se informaron personas heridas.",
-        "pubDate": "2026-10-10T11:46:00+00:00",
+        "pubDate": "2026-10-08T11:46:00+00:00",
         "approxTime": true
       }
     ],
