@@ -1,32 +1,23 @@
 {
-  "generatedAt": "2026-10-10T17:01:04.007900+00:00",
+  "generatedAt": "2026-10-10T17:30:56.822123+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Pasó 20 años preso, superó las adicciones y hoy trabaja para prevenirlas",
+        "link": "https://www.rosario3.com/informaciongeneral/paso-20-anos-preso-supero-las-adicciones-y-hoy-trabaja-para-prevenirlas-20261010-0016.html",
+        "image": "https://www.rosario3.com/__export/1791651822878/sites/rosario3/img/2026/10/10/disen-o_sin_ti-tulo_-69-_1.png_928314581.png",
+        "summary": "Mario tiene 50 años y es uno de los impulsores de Rompiendo Cadenas, una asociación civil que realiza charlas en escuelas, clubes y empresas, y acompaña a personas con consumos problemáticos y a sus familias. “Muchas veces de lo que no hablan es de algún dolor, trauma o abuso”…",
+        "pubDate": "2026-10-10T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Quedó preso impostor que se hizo pasar por juez federal para acceder a una base de datos judicial",
         "link": "https://www.rosario3.com/policiales/quedo-preso-impostor-que-se-hizo-pasar-por-juez-federal-para-acceder-a-una-base-de-datos-judicial-20261010-0011.html",
         "image": "https://www.rosario3.com/__export/1791640089238/sites/rosario3/img/2026/10/10/cristian_martinez_imputado.jpg_672794304.jpg",
         "summary": "Un rosarino de 34 años, detenido en un country de Fisherton, creó casillas de correo falsas, simuló ser funcionario judicial e invocó a la jueza federal María Servini para conseguir claves del sistema que registra pedidos de captura sobre personas y vehículos, entre otra…",
-        "pubDate": "2026-10-10T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El Parque de la Cabecera rumbo a la licitación: inversores interesados, traslados pendientes y un Museo de la Paz",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/el-parque-de-la-cabecera-rumbo-a-la-licitacion-inversores-interesados-traslados-pendientes-y-un-museo-de-la-paz-20261008-0029.html",
-        "image": "https://www.rosario3.com/__export/1791469706324/sites/rosario3/img/2026/10/08/parquecabecera.jpg_982625323.jpg",
-        "summary": "La Provincia cerró la etapa de consulta de los borradores y trabaja en los pliegos definitivos con la intención de licitar durante el verano. Hay grandes grupos nacionales que manifestaron interés y empresas locales dispuestas a asociarse con ellos. Mientras se reconvierte el…",
-        "pubDate": "2026-10-08T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Liberaron al aguará guazú que habían rescatado en el oeste de Rosario",
-        "link": "https://www.rosario3.com/informaciongeneral/liberaron-al-aguara-guazu-que-habian-rescatado-en-el-oeste-de-rosario-20261010-0013.html",
-        "image": "https://www.rosario3.com/__export/1791643583215/sites/rosario3/img/2026/10/10/whatsapp_image_2026-10-10_at_10_41_22.jpeg_1559198129.jpeg",
-        "summary": "El ejemplar fue encontrado semanas atrás cerca de avenida Uriburu y Circunvalación. Tras completar una serie de estudios veterinarios, determinaron que era un macho de entre nueve y diez años y lo trasladaron a una zona rural del departamento San Cristóbal",
-        "pubDate": "2026-10-10T11:58:00+00:00",
+        "pubDate": "2026-10-10T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -35,7 +26,16 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/charlas-de-mercado-rosgan-va-por-su-segunda-revolucion-en-un-super-martes-que-se-jugara-en-dos-canchas-20261010-0008.html",
         "image": "https://www.rosario3.com/__export/1791635543300/sites/rosario3/img/2026/10/10/rosgan-remates-abril.jpg_1825221351.jpg",
         "summary": "El mercado ganadero de la Bolsa de Rosario enfrenta el desafío de mantenerse vigente en un negocio en el que los consignatarios apuestan a bajar costos y se retiran de la entidad para hacer remates por streaming en soledad. Colombo y Colombo se suma a ese lote. La tecnología y…",
-        "pubDate": "2026-10-10T11:57:00+00:00",
+        "pubDate": "2026-10-10T11:58:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "El Parque de la Cabecera rumbo a la licitación: inversores interesados, traslados pendientes y un Museo de la Paz",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/el-parque-de-la-cabecera-rumbo-a-la-licitacion-inversores-interesados-traslados-pendientes-y-un-museo-de-la-paz-20261008-0029.html",
+        "image": "https://www.rosario3.com/__export/1791469706324/sites/rosario3/img/2026/10/08/parquecabecera.jpg_982625323.jpg",
+        "summary": "La Provincia cerró la etapa de consulta de los borradores y trabaja en los pliegos definitivos con la intención de licitar durante el verano. Hay grandes grupos nacionales que manifestaron interés y empresas locales dispuestas a asociarse con ellos. Mientras se reconvierte el…",
+        "pubDate": "2026-10-08T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -49,11 +49,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "“No finjo demencia”: Ciro Korol estrena una canción que escribió durante una internación psiquiátrica",
-        "link": "https://www.rosario3.com/ocio/no-finjo-demencia-ciro-korol-estrena-una-cancion-que-escribio-durante-una-internacion-psiquiatrica-20261008-0042.html",
-        "image": "https://www.rosario3.com/__export/1791471992069/sites/rosario3/img/2026/10/08/cirokorol.jpg_982625323.jpg",
-        "summary": "El escritor rosarino debuta en la música con un tema de hip hop que cruza autobiografía, humor y crítica social. La canción y su videoclip están disponibles desde este sábado, Día Mundial de la Salud Mental",
-        "pubDate": "2026-10-08T11:55:00+00:00",
+        "title": "Liberaron al aguará guazú que habían rescatado en el oeste de Rosario",
+        "link": "https://www.rosario3.com/informaciongeneral/liberaron-al-aguara-guazu-que-habian-rescatado-en-el-oeste-de-rosario-20261010-0013.html",
+        "image": "https://www.rosario3.com/__export/1791643583215/sites/rosario3/img/2026/10/10/whatsapp_image_2026-10-10_at_10_41_22.jpeg_1559198129.jpeg",
+        "summary": "El ejemplar fue encontrado semanas atrás cerca de avenida Uriburu y Circunvalación. Tras completar una serie de estudios veterinarios, determinaron que era un macho de entre nueve y diez años y lo trasladaron a una zona rural del departamento San Cristóbal",
+        "pubDate": "2026-10-10T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -103,20 +103,29 @@
       },
       {
         "source": "Rosario3",
-        "title": "Una esperanza para Bauti, un niño con síndrome de Goldenhar: tiene que operarse y su familia organiza una rifa solidaria",
-        "link": "https://www.rosario3.com/informaciongeneral/una-esperanza-para-bauti-un-nino-con-sindrome-de-goldenhar-tiene-que-operarse-y-su-familia-organiza-una-rifa-solidaria-20261010-0014.html",
-        "image": "https://www.rosario3.com/__export/1791646622807/sites/rosario3/img/2026/10/10/disen-o_sin_ti-tulo_-70-.png_928314581.png",
-        "summary": "El nene de 10 años necesita una nueva cirugía maxilar para continuar alargando su mandíbula. Actualmente se alimenta a través de un botón gástrico y la intervención está prevista para antes del 12 de noviembre",
+        "title": "La historia de Morocho, el perro callejero que sobrevivió a la crecida del río Mapocho y se convirtió en “funcionario municipal”",
+        "link": "https://www.rosario3.com/informaciongeneral/la-historia-de-morocho-el-perro-callejero-que-sobrevivio-a-la-crecida-del-rio-mapocho-y-se-convirtio-en-funcionario-municipal-20261010-0015.html",
+        "image": "https://www.rosario3.com/__export/1791648782478/sites/rosario3/img/2026/10/10/morocho_chile_perro.jpg_672794304.jpg",
+        "summary": "Esta semana protagonizó un rescate de cuatro horas en Santiago de Chile. El operativo trascendió las fronteras y llegaron solicitudes de adopción de todas partes. Pero finalmente vivirá en la Dirección de Seguridad de la Municipalidad, donde trabajan quienes lo rescataron",
         "pubDate": "2026-10-10T11:49:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Santa Fe sumó 453 agentes penitenciarios capacitados para trabajar en cárceles de alto perfil",
-        "link": "https://www.rosario3.com/informaciongeneral/santa-fe-sumo-453-agentes-penitenciarios-capacitados-para-trabajar-en-carceles-de-alto-perfil-20261010-0012.html",
-        "image": "https://www.rosario3.com/__export/1791640570034/sites/rosario3/img/2026/10/10/disen-o_sin_ti-tulo_-69-.png_928314581.png",
-        "summary": "La nueva promoción completó seis meses de formación y está integrada por 221 hombres y 232 mujeres. Los subayudantes serán distribuidos en distintas unidades penitenciarias de la provincia para reforzar las dotaciones",
+        "title": "Una esperanza para Bauti, un niño con síndrome de Goldenhar: tiene que operarse y su familia organiza una rifa solidaria",
+        "link": "https://www.rosario3.com/informaciongeneral/una-esperanza-para-bauti-un-nino-con-sindrome-de-goldenhar-tiene-que-operarse-y-su-familia-organiza-una-rifa-solidaria-20261010-0014.html",
+        "image": "https://www.rosario3.com/__export/1791646622807/sites/rosario3/img/2026/10/10/disen-o_sin_ti-tulo_-70-.png_928314581.png",
+        "summary": "El nene de 10 años necesita una nueva cirugía maxilar para continuar alargando su mandíbula. Actualmente se alimenta a través de un botón gástrico y la intervención está prevista para antes del 12 de noviembre",
         "pubDate": "2026-10-10T11:48:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "“No finjo demencia”: Ciro Korol estrena una canción que escribió durante una internación psiquiátrica",
+        "link": "https://www.rosario3.com/ocio/no-finjo-demencia-ciro-korol-estrena-una-cancion-que-escribio-durante-una-internacion-psiquiatrica-20261008-0042.html",
+        "image": "https://www.rosario3.com/__export/1791471992069/sites/rosario3/img/2026/10/08/cirokorol.jpg_982625323.jpg",
+        "summary": "El escritor rosarino debuta en la música con un tema de hip hop que cruza autobiografía, humor y crítica social. La canción y su videoclip están disponibles desde este sábado, Día Mundial de la Salud Mental",
+        "pubDate": "2026-10-08T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,20 +134,20 @@
         "link": "https://www.rosario3.com/informaciongeneral/tres-autos-incendiados-en-menos-de-doce-horas-en-rosario-20261010-0009.html",
         "image": "https://www.rosario3.com/__export/1791636342295/sites/rosario3/img/2026/10/10/whatsapp_image_2026-10-10_at_09_09_27_version1791636341704.jpeg_1825222445.jpeg",
         "summary": "Los episodios ocurrieron en distintos puntos de la ciudad, entre la noche del viernes y las primeras horas de este sábado. Bomberos Zapadores intervino en los tres casos y no se informaron personas heridas.",
-        "pubDate": "2026-10-10T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La AFA intervino y Marcos Rojo finalmente jugará en Estudiantes de La Plata",
-        "link": "https://www.rosario3.com/deportes/la-afa-intervino-y-marcos-rojo-finalmente-jugara-en-estudiantes-de-la-plata-20261010-0005.html",
-        "image": "https://www.rosario3.com/__export/1791632948900/sites/rosario3/img/2026/10/10/marcos_rojo.jpg_928314580.jpg",
-        "summary": "A pesar de haberle negado el pase, AFA se retractó y aceptó la salida del defensor de Racing",
         "pubDate": "2026-10-10T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Lo condenaron a prisión perpetua por la muerte de un hombre abusado en pleno microcentro",
+        "link": "https://www.lacapital.com.ar/policiales/lo-condenaron-prision-perpetua-la-muerte-un-hombre-abusado-pleno-microcentro-n10285993.html",
+        "image": "https://media.lacapital.com.ar/p/67ed4da36a1d237e47fe42e20d4d57fc/adjuntos/203/imagenes/102/162/0102162082/1200x675/smart/pasaje-arayajpg.jpg",
+        "summary": "Marcelo Rodríguez aceptó la pena máxima por la golpiza y la violación de Ricardo Castillo, fallecido a principios de 2025",
+        "pubDate": "2026-10-10T17:04:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Cuarentena superada: ¿qué pasó con el aguará guazú perseguido por la policía rosarina?",
@@ -161,7 +170,7 @@
         "source": "La Capital",
         "title": "Una pelea cerca de un boliche del centro terminó con un joven baleado e internado",
         "link": "https://www.lacapital.com.ar/policiales/una-pelea-cerca-un-boliche-del-centro-termino-un-joven-baleado-e-internado-n10285977.html",
-        "image": "https://media.lacapital.com.ar/p/b682b9abd1a88880b64763d66abdca95/adjuntos/203/imagenes/102/330/0102330747/1200x675/smart/heca-quirofanos-cierrejpg.jpg",
+        "image": "https://media.lacapital.com.ar/p/b5fdcbeaeb56f15b44a939bbba8f4219/adjuntos/203/imagenes/103/459/0103459516/urquiza-dorrego.jpeg",
         "summary": "La víctima recibió un disparo a la madrugada. La policía demoró a dos sospechosos y uno de ellos es menor de edad",
         "pubDate": "2026-10-10T14:38:00+00:00",
         "approxTime": false
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/ee5a40fb9a52bbf363aa67fbdbe0c1cb/adjuntos/203/imagenes/101/571/0101571172/kicillof-massa-lousteau-javier-milei-gobierno-universidades-jpg.jpg",
         "summary": "En defensa propia es preferible creer que no aparecen dirigentes",
         "pubDate": "2026-10-10T10:05:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Dormir dentro del paisaje: las suites más originales",
-        "link": "https://www.lacapital.com.ar/turismo/dormir-dentro-del-paisaje-las-suites-mas-originales-n10285869.html",
-        "image": "https://media.lacapital.com.ar/p/b061089aa5bf84c04358d50dec58ad2a/adjuntos/203/imagenes/103/458/0103458121/kn2-foto.jpg",
-        "summary": "Una selección de alojamientos donde la arquitectura, el paisaje y la experiencia forman una sola propuesta",
-        "pubDate": "2026-10-10T10:00:00+00:00",
         "approxTime": false
       }
     ]
