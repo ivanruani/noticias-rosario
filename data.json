@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T10:30:53.710010+00:00",
+  "generatedAt": "2026-10-10T11:01:10.317675+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,20 +141,20 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Búmeran para Lando Norris, que lo hizo al fin y sacó de carrera a su compañero",
+        "link": "https://www.lacapital.com.ar/ovacion/bumeran-lando-norris-que-lo-hizo-al-fin-y-saco-carrera-su-companero-n10285959.html",
+        "image": "https://media.lacapital.com.ar/p/7eb2f4e74e05d2517a11cae052281afe/adjuntos/203/imagenes/103/459/0103459014/1200x675/smart/image-24.jpg",
+        "summary": "Luego de decir que Franco Colapinto no merecía estar en la Fórmula 1, Lando Norris casi choca en Malasia y lo hizo en Singapur sacando de carrera a su compañero",
+        "pubDate": "2026-10-10T10:55:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "A Franco Colapinto se le quedó el Alpine cuando iba atrás del safety car: abandono en la sprint",
         "link": "https://www.lacapital.com.ar/ovacion/a-franco-colapinto-se-le-quedo-el-alpine-cuando-iba-atras-del-safety-car-abandono-la-sprint-n10285936.html",
         "image": "https://media.lacapital.com.ar/p/4aa05455291a35004719a1784c6e7a98/adjuntos/203/imagenes/103/459/0103459013/1200x675/smart/image-23.jpg",
         "summary": "Mientras iba atrás del safety car, el argentino abandonó por un problema técnico, aún no especificado. Accidentada sprint en Singapur",
         "pubDate": "2026-10-10T10:24:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Se viene una jornada sobre autonomía y seguridad municipal en la Universidad del Gran Rosario",
-        "link": "https://www.lacapital.com.ar/la-ciudad/se-viene-una-jornada-autonomia-y-seguridad-municipal-la-universidad-del-gran-rosario-n10285415.html",
-        "image": "https://media.lacapital.com.ar/p/4e7a51e875c43aeddd18f75ab1353f97/adjuntos/203/imagenes/103/457/0103457169/1200x675/smart/ugr.jpg",
-        "summary": "El encuentro contará la presencia de intendentes, legisladores, secretarios de seguridad y especialistas para debatir cómo se reconfigura el rol de los municipios frente a nuevas demandas de convivencia, control urbano y prevención del delito",
-        "pubDate": "2026-10-10T10:05:00+00:00",
         "approxTime": false
       },
       {
@@ -168,28 +168,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Dormir dentro del paisaje: las suites más originales",
-        "link": "https://www.lacapital.com.ar/turismo/dormir-dentro-del-paisaje-las-suites-mas-originales-n10285869.html",
-        "image": "https://media.lacapital.com.ar/p/b061089aa5bf84c04358d50dec58ad2a/adjuntos/203/imagenes/103/458/0103458121/kn2-foto.jpg",
-        "summary": "Una selección de alojamientos donde la arquitectura, el paisaje y la experiencia forman una sola propuesta",
-        "pubDate": "2026-10-10T10:00:00+00:00",
+        "title": "Se viene una jornada sobre autonomía y seguridad municipal en la Universidad del Gran Rosario",
+        "link": "https://www.lacapital.com.ar/la-ciudad/se-viene-una-jornada-autonomia-y-seguridad-municipal-la-universidad-del-gran-rosario-n10285415.html",
+        "image": "https://media.lacapital.com.ar/p/4e7a51e875c43aeddd18f75ab1353f97/adjuntos/203/imagenes/103/457/0103457169/1200x675/smart/ugr.jpg",
+        "summary": "El encuentro contará la presencia de intendentes, legisladores, secretarios de seguridad y especialistas para debatir cómo se reconfigura el rol de los municipios frente a nuevas demandas de convivencia, control urbano y prevención del delito",
+        "pubDate": "2026-10-10T10:05:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Río Negro ya recibió más de un millón de turistas en 2026 y busca ampliar su temporada",
-        "link": "https://www.lacapital.com.ar/turismo/rio-negro-ya-recibio-mas-un-millon-turistas-2026-y-busca-ampliar-su-temporada-n10285871.html",
-        "image": "https://media.lacapital.com.ar/p/da80644a61e2b360b813f228c4827d1d/adjuntos/203/imagenes/103/457/0103457956/imagen-nota.jpg",
-        "summary": "Entre enero y septiembre, la provincia registró más de un millón de visitantes y busca sostener el movimiento durante todo el año",
-        "pubDate": "2026-10-10T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Interlagos 2026: la Fórmula 1 vuelve a sentirse argentina",
-        "link": "https://www.lacapital.com.ar/turismo/interlagos-2026-la-formula-1-vuelve-sentirse-argentina-n10285872.html",
-        "image": "https://media.lacapital.com.ar/p/a0849817837881fc148b777c87c72861/adjuntos/203/imagenes/103/458/0103458206/franco-colapinto.jpg",
-        "summary": "Con Franco Colapinto como uno de los protagonistas de la máxima categoría, el Gran Premio de San Pablo recibirá a miles de fanáticos",
+        "title": "De almacén de barrio a parrilla: la historia de una esquina de Palermo que conserva más de 70 años",
+        "link": "https://www.lacapital.com.ar/turismo/de-almacen-barrio-parrilla-la-historia-una-esquina-palermo-que-conserva-mas-70-anos-n10285877.html",
+        "image": "https://media.lacapital.com.ar/p/b37dbab09b98f07971b111a71c1fecd5/adjuntos/203/imagenes/103/457/0103457919/img_3480.JPG",
+        "summary": "A comienzos de los 2000, un gastronómico recuperó el local y lo convirtió en Lo de Jesús, con una propuesta de parrilla argentina, platos de bodegón y vinos",
         "pubDate": "2026-10-10T10:00:00+00:00",
         "approxTime": false
       },
@@ -204,10 +195,28 @@
       },
       {
         "source": "La Capital",
-        "title": "De almacén de barrio a parrilla: la historia de una esquina de Palermo que conserva más de 70 años",
-        "link": "https://www.lacapital.com.ar/turismo/de-almacen-barrio-parrilla-la-historia-una-esquina-palermo-que-conserva-mas-70-anos-n10285877.html",
-        "image": "https://media.lacapital.com.ar/p/b37dbab09b98f07971b111a71c1fecd5/adjuntos/203/imagenes/103/457/0103457919/img_3480.JPG",
-        "summary": "A comienzos de los 2000, un gastronómico recuperó el local y lo convirtió en Lo de Jesús, con una propuesta de parrilla argentina, platos de bodegón y vinos",
+        "title": "Interlagos 2026: la Fórmula 1 vuelve a sentirse argentina",
+        "link": "https://www.lacapital.com.ar/turismo/interlagos-2026-la-formula-1-vuelve-sentirse-argentina-n10285872.html",
+        "image": "https://media.lacapital.com.ar/p/a0849817837881fc148b777c87c72861/adjuntos/203/imagenes/103/458/0103458206/franco-colapinto.jpg",
+        "summary": "Con Franco Colapinto como uno de los protagonistas de la máxima categoría, el Gran Premio de San Pablo recibirá a miles de fanáticos",
+        "pubDate": "2026-10-10T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Río Negro ya recibió más de un millón de turistas en 2026 y busca ampliar su temporada",
+        "link": "https://www.lacapital.com.ar/turismo/rio-negro-ya-recibio-mas-un-millon-turistas-2026-y-busca-ampliar-su-temporada-n10285871.html",
+        "image": "https://media.lacapital.com.ar/p/da80644a61e2b360b813f228c4827d1d/adjuntos/203/imagenes/103/457/0103457956/imagen-nota.jpg",
+        "summary": "Entre enero y septiembre, la provincia registró más de un millón de visitantes y busca sostener el movimiento durante todo el año",
+        "pubDate": "2026-10-10T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Dormir dentro del paisaje: las suites más originales",
+        "link": "https://www.lacapital.com.ar/turismo/dormir-dentro-del-paisaje-las-suites-mas-originales-n10285869.html",
+        "image": "https://media.lacapital.com.ar/p/b061089aa5bf84c04358d50dec58ad2a/adjuntos/203/imagenes/103/458/0103458121/kn2-foto.jpg",
+        "summary": "Una selección de alojamientos donde la arquitectura, el paisaje y la experiencia forman una sola propuesta",
         "pubDate": "2026-10-10T10:00:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/ed59136b7035d02a50ef59432a8bc921/adjuntos/203/imagenes/103/458/0103458525/nob-mazz-148289.jpg",
         "summary": "Este lunes Newell's se enfrentará con Gimnasia de Mendoza, contra quien pudo instalar un punto de inflexión que representó su despegue",
         "pubDate": "2026-10-10T09:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central: juega una final, el sueño del bicampeonato y el camino más corto a la Libertadores",
-        "link": "https://www.lacapital.com.ar/ovacion/central-juega-una-final-el-sueno-del-bicampeonato-y-el-camino-mas-corto-la-libertadores-n10285935.html",
-        "image": "https://media.lacapital.com.ar/p/32ba161f350a3dca7720ad8d13534020/adjuntos/203/imagenes/103/458/0103458597/rrrccc2.jpeg",
-        "summary": "Central recibe el domingo, a las 17, a Independiente Rivadavia de Mendoza y sólo le sirve ganar para seguir en carrera por el primer puesto en la anual",
-        "pubDate": "2026-10-10T09:10:00+00:00",
         "approxTime": false
       }
     ]
