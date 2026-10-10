@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T15:30:57.552596+00:00",
+  "generatedAt": "2026-10-10T16:01:05.051921+00:00",
   "sites": {
     "rosario3": [
       {
@@ -103,11 +103,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Una esperanza para Bauti, un niño con síndrome de Goldenhar: tiene que operarse y su familia organiza una rifa solidaria",
+        "link": "https://www.rosario3.com/informaciongeneral/una-esperanza-para-bauti-un-nino-con-sindrome-de-goldenhar-tiene-que-operarse-y-su-familia-organiza-una-rifa-solidaria-20261010-0014.html",
+        "image": "https://www.rosario3.com/__export/1791646622807/sites/rosario3/img/2026/10/10/disen-o_sin_ti-tulo_-70-.png_928314581.png",
+        "summary": "El nene de 10 años necesita una nueva cirugía maxilar para continuar alargando su mandíbula. Actualmente se alimenta a través de un botón gástrico y la intervención está prevista para antes del 12 de noviembre",
+        "pubDate": "2026-10-10T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Santa Fe sumó 453 agentes penitenciarios capacitados para trabajar en cárceles de alto perfil",
         "link": "https://www.rosario3.com/informaciongeneral/santa-fe-sumo-453-agentes-penitenciarios-capacitados-para-trabajar-en-carceles-de-alto-perfil-20261010-0012.html",
         "image": "https://www.rosario3.com/__export/1791640570034/sites/rosario3/img/2026/10/10/disen-o_sin_ti-tulo_-69-.png_928314581.png",
         "summary": "La nueva promoción completó seis meses de formación y está integrada por 221 hombres y 232 mujeres. Los subayudantes serán distribuidos en distintas unidades penitenciarias de la provincia para reforzar las dotaciones",
-        "pubDate": "2026-10-10T11:49:00+00:00",
+        "pubDate": "2026-10-10T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +125,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/tres-autos-incendiados-en-menos-de-doce-horas-en-rosario-20261010-0009.html",
         "image": "https://www.rosario3.com/__export/1791636342295/sites/rosario3/img/2026/10/10/whatsapp_image_2026-10-10_at_09_09_27_version1791636341704.jpeg_1825222445.jpeg",
         "summary": "Los episodios ocurrieron en distintos puntos de la ciudad, entre la noche del viernes y las primeras horas de este sábado. Bomberos Zapadores intervino en los tres casos y no se informaron personas heridas.",
-        "pubDate": "2026-10-10T11:48:00+00:00",
+        "pubDate": "2026-10-10T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,20 +134,20 @@
         "link": "https://www.rosario3.com/deportes/la-afa-intervino-y-marcos-rojo-finalmente-jugara-en-estudiantes-de-la-plata-20261010-0005.html",
         "image": "https://www.rosario3.com/__export/1791632948900/sites/rosario3/img/2026/10/10/marcos_rojo.jpg_928314580.jpg",
         "summary": "A pesar de haberle negado el pase, AFA se retractó y aceptó la salida del defensor de Racing",
-        "pubDate": "2026-10-10T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Arruabarrena confirmó que Paredes será baja en Boca para la Sudamericana: \"Descartado\"",
-        "link": "https://www.rosario3.com/deportes/arruabarrena-confirmo-que-paredes-sera-baja-en-boca-para-la-sudamericana-descartado-20261010-0004.html",
-        "image": "https://www.rosario3.com/__export/1791632636045/sites/rosario3/img/2026/10/10/image_-11-.jpg_928314580.jpg",
-        "summary": "El jugador xeneize tuvo una molestia en Córdoba frente a Instituto y habría sufrido un desgarro. Los detalles",
         "pubDate": "2026-10-10T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Cuarentena superada: ¿qué pasó con el aguará guazú perseguido por la policía rosarina?",
+        "link": "https://www.lacapital.com.ar/la-ciudad/cuarentena-superada-que-paso-el-aguara-guazu-perseguido-la-policia-rosarina-n10285985.html",
+        "image": "https://media.lacapital.com.ar/p/46b1214e50c3d6271ad5d6131d40cc14/adjuntos/203/imagenes/103/459/0103459411/aguara-guazu-2.jpeg",
+        "summary": "El operativo para capturar al animal en la zona oeste había demandado casi una hora de trabajo. Después de cuatro semanas, volvió a su hábitat natural",
+        "pubDate": "2026-10-10T15:37:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Una floja clasificación de Franco Colapinto en Singapur, que deberá remarla el domingo",
@@ -262,15 +271,6 @@
         "link": "https://www.lacapital.com.ar/turismo/dormir-dentro-del-paisaje-las-suites-mas-originales-n10285869.html",
         "image": "https://media.lacapital.com.ar/p/b061089aa5bf84c04358d50dec58ad2a/adjuntos/203/imagenes/103/458/0103458121/kn2-foto.jpg",
         "summary": "Una selección de alojamientos donde la arquitectura, el paisaje y la experiencia forman una sola propuesta",
-        "pubDate": "2026-10-10T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Río Negro ya recibió más de un millón de turistas en 2026 y busca ampliar su temporada",
-        "link": "https://www.lacapital.com.ar/turismo/rio-negro-ya-recibio-mas-un-millon-turistas-2026-y-busca-ampliar-su-temporada-n10285871.html",
-        "image": "https://media.lacapital.com.ar/p/da80644a61e2b360b813f228c4827d1d/adjuntos/203/imagenes/103/457/0103457956/imagen-nota.jpg",
-        "summary": "Entre enero y septiembre, la provincia registró más de un millón de visitantes y busca sostener el movimiento durante todo el año",
         "pubDate": "2026-10-10T10:00:00+00:00",
         "approxTime": false
       }
