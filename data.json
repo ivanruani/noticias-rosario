@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T11:01:10.317675+00:00",
+  "generatedAt": "2026-10-10T11:30:54.577328+00:00",
   "sites": {
     "rosario3": [
       {
@@ -31,11 +31,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Habrá paro de docentes universitarios en Rosario el día de la próxima Marcha Federal",
-        "link": "https://www.rosario3.com/informaciongeneral/habra-paro-de-docentes-universitarios-en-rosario-el-dia-de-la-proxima-marcha-federal-20261009-0067.html",
-        "image": "https://www.rosario3.com/__export/1791583805430/sites/rosario3/img/2026/10/09/marcha_federal_universitaria.jpg_506286608.jpg",
-        "summary": "Será el jueves 15 de octubre. En la ciudad, la jornada incluirá actividades previas, una vigilia interclaustros, una movilización hacia el Monumento Nacional a la Bandera y la lectura de un documento consensuado",
-        "pubDate": "2026-10-09T11:57:00+00:00",
+        "title": "Clima en Rosario: lluvias por la mañana y una mejora hacia la tarde de este sábado",
+        "link": "https://www.rosario3.com/informaciongeneral/clima-en-rosario-lluvias-por-la-manana-y-una-mejora-hacia-la-tarde-de-este-sabado-20261010-0002.html",
+        "image": "https://www.rosario3.com/__export/1791631140409/sites/rosario3/img/2024/04/15/lluvia_ciudad_1.jpg_2106848869.jpg",
+        "summary": "La jornada comenzó con neblina y una temperatura de 11,6 grados. El pronóstico anticipa lluvias durante la mañana, una disminución de la probabilidad de precipitaciones hacia la tarde y un domingo con tiempo estable para disfrutar del fin de semana largo",
+        "pubDate": "2026-10-10T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Eileen Schmidt y su renacer tras el cáncer de mama: \"Siento una enorme gratitud\"",
+        "link": "https://www.lacapital.com.ar/la-capital/eileen-schmidt-y-su-renacer-el-cancer-mama-siento-una-enorme-gratitud-n10284656.html",
+        "image": "https://media.lacapital.com.ar/p/82b49310f2e4b40025d3a620ab8915f8/adjuntos/203/imagenes/103/443/0103443495/1200x675/smart/imagen-l.jpg",
+        "summary": "La reconocida pastelera estuvo en \"Más Cerca\", con Florencia O'Keeffe. Hace 13 años su vida cambió por completo. En una charla profunda relató su historia de superación, y su gran cambio personal",
+        "pubDate": "2026-10-10T11:26:49+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Cuidar desde el deseo y la confianza: acompañar el sufrimiento en fin de vida",
+        "link": "https://www.lacapital.com.ar/salud/cuidar-el-deseo-y-la-confianza-acompanar-el-sufrimiento-fin-vida-n10285606.html",
+        "image": "https://media.lacapital.com.ar/p/c377f01adca505bd9e39f4b818eb878f/adjuntos/203/imagenes/103/459/0103459016/1200x675/smart/heridos-amor.jpg",
+        "summary": "La psicóloga María Eugenia Gasparý, del Servicio de Cuidados Paliativos de Grupo Gamma, reflexiona sobre el vínculo terapéutico, el deseo como motor y la presencia como herramienta sanadora",
+        "pubDate": "2026-10-10T11:19:39+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Búmeran para Lando Norris, que lo hizo al fin y sacó de carrera a su compañero",
         "link": "https://www.lacapital.com.ar/ovacion/bumeran-lando-norris-que-lo-hizo-al-fin-y-saco-carrera-su-companero-n10285959.html",
         "image": "https://media.lacapital.com.ar/p/7eb2f4e74e05d2517a11cae052281afe/adjuntos/203/imagenes/103/459/0103459014/1200x675/smart/image-24.jpg",
@@ -159,19 +177,19 @@
       },
       {
         "source": "La Capital",
-        "title": "En política los enanos crecen",
-        "link": "https://www.lacapital.com.ar/politica/en-politica-los-enanos-crecen-n10285890.html",
-        "image": "https://media.lacapital.com.ar/p/ee5a40fb9a52bbf363aa67fbdbe0c1cb/adjuntos/203/imagenes/101/571/0101571172/kicillof-massa-lousteau-javier-milei-gobierno-universidades-jpg.jpg",
-        "summary": "En defensa propia es preferible creer que no aparecen dirigentes",
+        "title": "Se viene una jornada sobre autonomía y seguridad municipal en la Universidad del Gran Rosario",
+        "link": "https://www.lacapital.com.ar/la-ciudad/se-viene-una-jornada-autonomia-y-seguridad-municipal-la-universidad-del-gran-rosario-n10285415.html",
+        "image": "https://media.lacapital.com.ar/p/4e7a51e875c43aeddd18f75ab1353f97/adjuntos/203/imagenes/103/457/0103457169/1200x675/smart/ugr.jpg",
+        "summary": "El encuentro contará la presencia de intendentes, legisladores, secretarios de seguridad y especialistas para debatir cómo se reconfigura el rol de los municipios frente a nuevas demandas de convivencia, control urbano y prevención del delito",
         "pubDate": "2026-10-10T10:05:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Se viene una jornada sobre autonomía y seguridad municipal en la Universidad del Gran Rosario",
-        "link": "https://www.lacapital.com.ar/la-ciudad/se-viene-una-jornada-autonomia-y-seguridad-municipal-la-universidad-del-gran-rosario-n10285415.html",
-        "image": "https://media.lacapital.com.ar/p/4e7a51e875c43aeddd18f75ab1353f97/adjuntos/203/imagenes/103/457/0103457169/1200x675/smart/ugr.jpg",
-        "summary": "El encuentro contará la presencia de intendentes, legisladores, secretarios de seguridad y especialistas para debatir cómo se reconfigura el rol de los municipios frente a nuevas demandas de convivencia, control urbano y prevención del delito",
+        "title": "En política los enanos crecen",
+        "link": "https://www.lacapital.com.ar/politica/en-politica-los-enanos-crecen-n10285890.html",
+        "image": "https://media.lacapital.com.ar/p/ee5a40fb9a52bbf363aa67fbdbe0c1cb/adjuntos/203/imagenes/101/571/0101571172/kicillof-massa-lousteau-javier-milei-gobierno-universidades-jpg.jpg",
+        "summary": "En defensa propia es preferible creer que no aparecen dirigentes",
         "pubDate": "2026-10-10T10:05:00+00:00",
         "approxTime": false
       },
@@ -245,24 +263,6 @@
         "image": "https://media.lacapital.com.ar/p/4a0f98f9cc5d0b8c75ee401262836a43/adjuntos/203/imagenes/103/452/0103452815/1200x675/smart/malamud2.jpg",
         "summary": "El especialista en relaciones internacionales analizó en Rosario las oportunidades de Argentina en un mundo inestable. Señaló que las nuevas fuentes de divisas reducen la dependencia del agro y modifican el mapa productivo del país",
         "pubDate": "2026-10-10T09:25:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Búfalos: una alternativa productiva que busca crecer en el norte santafesino",
-        "link": "https://www.lacapital.com.ar/agro/bufalos-una-alternativa-productiva-que-busca-crecer-el-norte-santafesino-n10285643.html",
-        "image": "https://media.lacapital.com.ar/p/5f74adb64afab8bbd381591b0638982d/adjuntos/203/imagenes/103/120/0103120128/bufalos.jpg",
-        "summary": "Santa Fe participó del Congreso Internacional de Búfalos junto con criadores, investigadores y fabricantes de maquinaria. Se expuso el trabajo de las mesas productivas y el fortalecimiento de la faena en el norte provincial",
-        "pubDate": "2026-10-10T09:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Rosario: confirman la aplicación del nuevo Régimen Penal Juvenil a adolescentes de 14 y 15 años",
-        "link": "https://www.lacapital.com.ar/la-ciudad/rosario-confirman-la-aplicacion-del-nuevo-regimen-penal-juvenil-adolescentes-14-y-15-anos-n10285909.html",
-        "image": "https://media.lacapital.com.ar/p/1544f89d844d104dee98681760697246/adjuntos/203/imagenes/102/487/0102487830/1200x675/smart/menores-2jpg.jpg",
-        "summary": "Lo definió este viernes la Cámara de Apelación en lo Penal en el marco de una causa por robo calificado con uso de arma en la que intervinieron dos adolescentes",
-        "pubDate": "2026-10-10T09:15:00+00:00",
         "approxTime": false
       },
       {
