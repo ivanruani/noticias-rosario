@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-11T00:30:55.352538+00:00",
+  "generatedAt": "2026-10-11T01:01:06.479718+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Milei y la sociedad argentina: los que lo quieren, los que no lo soportan y los que no quieren volver al pasado",
+        "link": "https://www.rosario3.com/politica/milei-y-la-sociedad-argentina-los-que-lo-quieren-los-que-no-lo-soportan-y-los-que-no-quieren-volver-al-pasado-20261010-0023.html",
+        "image": "https://www.rosario3.com/__export/1791565434226/sites/rosario3/img/2026/10/09/milei_bullrich.png_786111822.png",
+        "summary": "A casi tres años de gobierno, Milei conserva un núcleo duro de apoyo, pero pierde terreno entre quienes lo votaron y tienen pensamiento de centro. Un estudio de opinión pública revela las contradicciones de una sociedad que demanda más protección del Estado, valora el esfuerzo…",
+        "pubDate": "2026-10-10T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "El impacto de El Niño en la región: el río Paraná sigue en ascenso y prevén un semestre de intensas lluvias y tormentas",
         "link": "https://www.rosario3.com/informaciongeneral/el-impacto-de-el-nino-en-la-region-el-rio-parana-sigue-en-ascenso-y-preven-un-semestre-de-intensas-lluvias-y-tormentas-20261010-0024.html",
         "image": "https://www.rosario3.com/__export/1785248385421/sites/rosario3/img/2026/07/17/camalote_1.png_786111822.png",
         "summary": "Con el río superando los promedios históricos en Rosario y aproximándose a los cuatro metros en la capital provincial, los informes meteorológicos e hidrológicos anticipan la consolidación de un fenómeno 'muy fuerte'. Cómo evolucionarán las temperaturas, los caudales y el…",
-        "pubDate": "2026-10-10T12:00:00+00:00",
+        "pubDate": "2026-10-10T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,15 +26,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/paso-20-anos-preso-supero-las-adicciones-y-hoy-trabaja-para-prevenirlas-20261010-0016.html",
         "image": "https://www.rosario3.com/__export/1791651822878/sites/rosario3/img/2026/10/10/disen-o_sin_ti-tulo_-69-_1.png_928314581.png",
         "summary": "Mario tiene 50 años y es uno de los impulsores de Rompiendo Cadenas, una asociación civil que realiza charlas en escuelas, clubes y empresas, y acompaña a personas con consumos problemáticos y a sus familias. “Muchas veces de lo que no hablan es de algún dolor, trauma o abuso”…",
-        "pubDate": "2026-10-10T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Quedó preso impostor que se hizo pasar por juez federal para acceder a una base de datos judicial",
-        "link": "https://www.rosario3.com/policiales/quedo-preso-impostor-que-se-hizo-pasar-por-juez-federal-para-acceder-a-una-base-de-datos-judicial-20261010-0011.html",
-        "image": "https://www.rosario3.com/__export/1791640089238/sites/rosario3/img/2026/10/10/cristian_martinez_imputado.jpg_672794304.jpg",
-        "summary": "Un rosarino de 34 años, detenido en un country de Fisherton, creó casillas de correo falsas, simuló ser funcionario judicial e invocó a la jueza federal María Servini para conseguir claves del sistema que registra pedidos de captura sobre personas y vehículos, entre otra…",
         "pubDate": "2026-10-10T11:58:00+00:00",
         "approxTime": true
       },
@@ -40,10 +40,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Charlas de Mercado: Rosgan va por su \"segunda revolución\" en un \"súper martes\" que se jugará en dos canchas",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/charlas-de-mercado-rosgan-va-por-su-segunda-revolucion-en-un-super-martes-que-se-jugara-en-dos-canchas-20261010-0008.html",
-        "image": "https://www.rosario3.com/__export/1791635543300/sites/rosario3/img/2026/10/10/rosgan-remates-abril.jpg_1825221351.jpg",
-        "summary": "El mercado ganadero de la Bolsa de Rosario enfrenta el desafío de mantenerse vigente en un negocio en el que los consignatarios apuestan a bajar costos y se retiran de la entidad para hacer remates por streaming en soledad. Colombo y Colombo se suma a ese lote. La tecnología y…",
+        "title": "Quedó preso impostor que se hizo pasar por juez federal para acceder a una base de datos judicial",
+        "link": "https://www.rosario3.com/policiales/quedo-preso-impostor-que-se-hizo-pasar-por-juez-federal-para-acceder-a-una-base-de-datos-judicial-20261010-0011.html",
+        "image": "https://www.rosario3.com/__export/1791640089238/sites/rosario3/img/2026/10/10/cristian_martinez_imputado.jpg_672794304.jpg",
+        "summary": "Un rosarino de 34 años, detenido en un country de Fisherton, creó casillas de correo falsas, simuló ser funcionario judicial e invocó a la jueza federal María Servini para conseguir claves del sistema que registra pedidos de captura sobre personas y vehículos, entre otra…",
         "pubDate": "2026-10-10T11:56:00+00:00",
         "approxTime": true
       },
@@ -58,11 +58,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Violeta Gorodischer: “Si tuviera que transformarme en bestseller, elegiría otros temas, pero no es el tipo de escritora que soy ni quiero ser”",
-        "link": "https://www.rosario3.com/ocio/violeta-gorodischer-si-tuviera-que-transformarme-en-bestseller-elegiria-otros-temas-pero-no-es-el-tipo-de-escritora-que-soy-ni-quiero-ser-20261009-0014.html",
-        "image": "https://www.rosario3.com/__export/1791552383452/sites/rosario3/img/2026/10/09/cruces_nota.jpg_928314580.jpg",
-        "summary": "La escritora y periodista lanzó este año Cruces, su segunda novela, donde usa otra vez los vínculos como materia prima, pero agrega un plano de fantasía. “Borra los límites del realismo, pero para hablar de cosas muy reales”, advierte, en la charla previa con Rosario3",
-        "pubDate": "2026-10-09T11:54:00+00:00",
+        "title": "Charlas de Mercado: Rosgan va por su \"segunda revolución\" en un \"súper martes\" que se jugará en dos canchas",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/charlas-de-mercado-rosgan-va-por-su-segunda-revolucion-en-un-super-martes-que-se-jugara-en-dos-canchas-20261010-0008.html",
+        "image": "https://www.rosario3.com/__export/1791635543300/sites/rosario3/img/2026/10/10/rosgan-remates-abril.jpg_1825221351.jpg",
+        "summary": "El mercado ganadero de la Bolsa de Rosario enfrenta el desafío de mantenerse vigente en un negocio en el que los consignatarios apuestan a bajar costos y se retiran de la entidad para hacer remates por streaming en soledad. Colombo y Colombo se suma a ese lote. La tecnología y…",
+        "pubDate": "2026-10-10T11:54:00+00:00",
         "approxTime": true
       },
       {
@@ -85,20 +85,20 @@
       },
       {
         "source": "Rosario3",
-        "title": "La FIFA detectó 240 mil mensajes de odio y contenido ofensivo durante el Mundial 2026: Argentina, el que más recibió",
-        "link": "https://www.rosario3.com/deportes/la-fifa-detecto-240-mil-mensajes-de-odio-y-contenido-ofensivo-durante-el-mundial-2026-argentina-fue-el-que-mas-volumen-recibio-20261010-0027.html",
-        "image": "https://www.rosario3.com/__export/1791669001400/sites/rosario3/img/2026/08/03/720_-_2026-08-03t190712_988.jpg_1221029627.jpg",
-        "summary": "El organismo internacional presentó los resultados de su Servicio de Protección en Redes Sociales en el marco del Día Mundial de la Salud Mental, miles de esos comentarios fueron contra la selección argentina. Las agresiones racistas abarcaron el 20% de las publicaciones…",
-        "pubDate": "2026-10-10T11:51:00+00:00",
+        "title": "Violeta Gorodischer: “Si tuviera que transformarme en bestseller, elegiría otros temas, pero no es el tipo de escritora que soy ni quiero ser”",
+        "link": "https://www.rosario3.com/ocio/violeta-gorodischer-si-tuviera-que-transformarme-en-bestseller-elegiria-otros-temas-pero-no-es-el-tipo-de-escritora-que-soy-ni-quiero-ser-20261009-0014.html",
+        "image": "https://www.rosario3.com/__export/1791552383452/sites/rosario3/img/2026/10/09/cruces_nota.jpg_928314580.jpg",
+        "summary": "La escritora y periodista lanzó este año Cruces, su segunda novela, donde usa otra vez los vínculos como materia prima, pero agrega un plano de fantasía. “Borra los límites del realismo, pero para hablar de cosas muy reales”, advierte, en la charla previa con Rosario3",
+        "pubDate": "2026-10-09T11:51:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Día Mundial de la Salud Mental: advierten que solo una fracción de las personas con problemas reciben atención",
-        "link": "https://www.rosario3.com/salud/dia-mundial-de-la-salud-mental-advierten-que-solo-una-fraccion-de-las-personas-con-problemas-reciben-atencion-20261009-0062.html",
-        "image": "https://www.rosario3.com/__export/1791581226349/sites/rosario3/img/2026/10/09/saludmental.jpg_982625323.jpg",
-        "summary": "Desde la Organización Panamericana de la Salud no solo llaman a reforzar las políticas sanitarias con un enfoque basado en la comunidad, sino además a poner el foco en la situación de chicos y chicas que atraviesan su infancia y adolescencia, etapas críticas para el desarrollo y…",
-        "pubDate": "2026-10-09T11:50:00+00:00",
+        "title": "Tiroteo en Estados Unidos con ocho muertos, entre ellos dos niños",
+        "link": "https://www.rosario3.com/informaciongeneral/tiroteo-en-estados-unidos-con-ocho-muertos-entre-ellos-dos-ninos-20261010-0035.html",
+        "image": "https://www.rosario3.com/__export/1791679657132/sites/rosario3/img/2026/10/10/tiroteo_estados_unidos.jpg_506286608.jpg",
+        "summary": "Ocurrió el viernes en la localidad de Erie, en el norte del estado de Pensilvania. Tras el ataque, el tirador se quitó la vida",
+        "pubDate": "2026-10-10T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -112,20 +112,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Triunfo agónico del Atlético Madrid con gol del Cuti Romero y escándalo con expulsión de Vinicius en el Real Madrid",
-        "link": "https://www.rosario3.com/deportes/triunfo-agonico-del-atletico-madrid-con-gol-del-cuti-romero-y-escandalo-con-expulsion-de-vinicius-en-el-real-madrid-20261010-0028.html",
-        "image": "https://www.rosario3.com/__export/1791671444853/sites/rosario3/img/2026/10/10/gol-cuti.jpg_928314580.jpg",
-        "summary": "El equipo conducido por Diego Simeone venció 2 a 1 al Deportivo Alavés con un gol de cabeza del nuevo capitán de Argentina y quedó como escolta. Por su parte, el conjunto merengue sufrió la anulación de un tanto y la tarjeta roja del atacante brasileño tras la intervención del…",
+        "title": "La FIFA detectó 240 mil mensajes de odio y contenido ofensivo durante el Mundial 2026: Argentina, el que más recibió",
+        "link": "https://www.rosario3.com/deportes/la-fifa-detecto-240-mil-mensajes-de-odio-y-contenido-ofensivo-durante-el-mundial-2026-argentina-fue-el-que-mas-volumen-recibio-20261010-0027.html",
+        "image": "https://www.rosario3.com/__export/1791669001400/sites/rosario3/img/2026/08/03/720_-_2026-08-03t190712_988.jpg_1221029627.jpg",
+        "summary": "El organismo internacional presentó los resultados de su Servicio de Protección en Redes Sociales en el marco del Día Mundial de la Salud Mental, miles de esos comentarios fueron contra la selección argentina. Las agresiones racistas abarcaron el 20% de las publicaciones…",
         "pubDate": "2026-10-10T11:48:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El papa León XIV tildó de \"inadmisible\" la pena de muerte por atentar contra la dignidad de las personas",
-        "link": "https://www.rosario3.com/informaciongeneral/el-papa-leon-xiv-tildo-de-inadmisible-la-pena-de-muerte-por-atentar-contra-la-dignidad-de-las-personas-20261010-0021.html",
-        "image": "https://www.rosario3.com/__export/1791121293689/sites/rosario3/img/2026/10/04/papa.jpg_1825222445.jpg",
-        "summary": "El mensaje del sumo pontífice se dio por el Día Mundial contra la Pena de Muerte, que se conmemora cada 10 de octubre, pero también en medio de un intenso debate en Estados Unidos por la futura ejecución de un exmayor del Ejército a manos de un pelotón de fusilamente, que además…",
-        "pubDate": "2026-10-10T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -134,7 +125,16 @@
         "link": "https://www.rosario3.com/informaciongeneral/la-historia-de-morocho-el-perro-callejero-que-sobrevivio-a-la-crecida-del-rio-mapocho-y-se-convirtio-en-funcionario-municipal-20261010-0015.html",
         "image": "https://www.rosario3.com/__export/1791648782478/sites/rosario3/img/2026/10/10/morocho_chile_perro.jpg_672794304.jpg",
         "summary": "Esta semana protagonizó un rescate de cuatro horas en Santiago de Chile. El operativo trascendió las fronteras y llegaron solicitudes de adopción de todas partes. Pero finalmente vivirá en la Dirección de Seguridad de la Municipalidad, donde trabajan quienes lo rescataron",
-        "pubDate": "2026-10-10T11:46:00+00:00",
+        "pubDate": "2026-10-10T11:47:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Día Mundial de la Salud Mental: advierten que solo una fracción de las personas con problemas reciben atención",
+        "link": "https://www.rosario3.com/salud/dia-mundial-de-la-salud-mental-advierten-que-solo-una-fraccion-de-las-personas-con-problemas-reciben-atencion-20261009-0062.html",
+        "image": "https://www.rosario3.com/__export/1791581226349/sites/rosario3/img/2026/10/09/saludmental.jpg_982625323.jpg",
+        "summary": "Desde la Organización Panamericana de la Salud no solo llaman a reforzar las políticas sanitarias con un enfoque basado en la comunidad, sino además a poner el foco en la situación de chicos y chicas que atraviesan su infancia y adolescencia, etapas críticas para el desarrollo y…",
+        "pubDate": "2026-10-09T11:46:00+00:00",
         "approxTime": true
       }
     ],
