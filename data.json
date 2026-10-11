@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T23:31:00.365341+00:00",
+  "generatedAt": "2026-10-11T23:38:42.692626+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Tarde redonda para Central: desde la locura de Di María hasta los goles de los 9",
+        "link": "https://www.lacapital.com.ar/ovacion/tarde-redonda-central-la-locura-di-maria-los-goles-los-9-n10286165.html",
+        "image": "https://media.lacapital.com.ar/p/3b5f6f1a1f5372dc93728f817a3c105b/adjuntos/203/imagenes/103/462/0103462288/di-maria.jpg",
+        "summary": "Fideo marcó el camino en la gran victoria canalla en el Gigante y en medio del derrame aparecieron los centrodelanteros para romper su sequía",
+        "pubDate": "2026-10-11T23:35:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Triunfo gigante: Central ganó un partido clave y lo hizo revoleando el poncho y a puro gol",
         "link": "https://www.lacapital.com.ar/ovacion/triunfo-gigante-central-gano-un-partido-clave-y-lo-hizo-revoleando-el-poncho-y-puro-gol-n10286132.html",
         "image": "https://media.lacapital.com.ar/p/557157cdc8e8bd8144f967f805c153ef/adjuntos/203/imagenes/103/462/0103462113/mmmaaa.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/a914ee0348e125b2131ae0d7e3977345/adjuntos/203/imagenes/103/461/0103461009/almironlv.jpeg",
         "summary": "El DT canalla Jorge Almirón dispuso los ingresos de Jaminton Campaz, Vicente Pizarro y Agustín Sández para recibir a Independiente Rivadavia",
         "pubDate": "2026-10-11T19:08:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Motoqueros denuncian la compra de Pedidos Ya por Uber: \"Afectará a los repartidores\"",
-        "link": "https://www.lacapital.com.ar/la-ciudad/motoqueros-denuncian-la-compra-pedidos-ya-uber-afectara-los-repartidores-n10286131.html",
-        "image": "https://media.lacapital.com.ar/p/2f9738bfb67b999a8f624d7d4f3d69a6/adjuntos/203/imagenes/027/251/0027251369/1200x675/smart/pedidosyajpg.jpg",
-        "summary": "El gremio pidió frenar la millonaria operación ante la Autoridad Nacional de la Competencia. Advirtió que Uber podría convertirse en el único empleador de hecho, con poder para imponer tarifas y condiciones laborales a los repartidores.",
-        "pubDate": "2026-10-11T19:07:00+00:00",
         "approxTime": false
       }
     ]
