@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T14:01:08.449523+00:00",
+  "generatedAt": "2026-10-11T14:30:56.009668+00:00",
   "sites": {
     "rosario3": [
       {
@@ -22,11 +22,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Un muerto y dos heridos en un ataque a balazos en Alvear",
+        "link": "https://www.rosario3.com/policiales/un-muerto-y-dos-heridos-en-un-ataque-a-balazos-en-alvear-20261011-0013.html",
+        "image": "https://www.rosario3.com/__export/1791727396431/sites/rosario3/img/2026/10/11/policia.jpg_1825222445.jpg",
+        "summary": "El episodio ocurrió este sábado por la noche, en inmediaciones de una plaza. Una de las víctimas aseguró que los disparos se produjeron cuando se acercó al lugar donde discutían sus hijos con otras personas",
+        "pubDate": "2026-10-11T11:58:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "El derecho internacional bajo ataque: el mensaje detrás del Nobel de la Paz",
         "link": "https://www.rosario3.com/politica/el-derecho-internacional-bajo-ataque-el-mensaje-detras-del-nobel-de-la-paz-20261010-0030.html",
         "image": "https://www.rosario3.com/__export/1791724357523/sites/rosario3/img/2026/10/11/pillay_version1791724357021.jpg_54252875.jpg",
         "summary": "El Nobel a Navi Pillay expuso las tensiones entre la justicia internacional y los intereses de las grandes potencias. Las reacciones de Israel y Estados Unidos muestran las dificultades para exigir responsabilidades cuando las investigaciones afectan a Estados poderosos o sus…",
-        "pubDate": "2026-10-10T11:58:00+00:00",
+        "pubDate": "2026-10-10T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -35,7 +44,7 @@
         "link": "https://www.rosario3.com/tecnologia/hay-alguien-ahi-la-ia-y-la-busqueda-del-ser-20261009-0051.html",
         "image": "https://www.rosario3.com/__export/1791572134079/sites/rosario3/img/2026/10/09/000_-_imagen_de_portada_-_2026-10-09t155502_195.jpg_1768679257.jpg",
         "summary": "Mientras los modelos de IA muestran comportamientos cada vez más parecidos a los de una mente, científicos, filósofos y religiosos discuten qué haríamos si fuera imposible descartar que hay alguien detrás de sus palabras",
-        "pubDate": "2026-10-09T11:57:00+00:00",
+        "pubDate": "2026-10-09T11:56:00+00:00",
         "approxTime": true
       },
       {
@@ -44,7 +53,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/la-provincia-renovo-la-web-de-las-personas-mas-buscadas-y-fortalece-la-politica-de-recompensas-20261011-0011.html",
         "image": "https://www.rosario3.com/__export/1791725449053/sites/rosario3/img/2026/10/11/recomepnsas.jpeg_1825222467.jpeg",
         "summary": "El Ministerio de Justicia y Seguridad detalló que la plataforma facilita el acceso a información sobre prófugos, recompensas y pedidos de paradero. Ya fueron detenidas 16 personas consideradas de alta peligrosidad y se pagaron $ 88 millones por datos relevantes",
-        "pubDate": "2026-10-11T11:56:00+00:00",
+        "pubDate": "2026-10-11T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -53,16 +62,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/sergio-aladio-en-arizona-por-que-la-confianza-es-un-valor-intangible-para-el-desarrollo-20261011-0007.html",
         "image": "https://www.rosario3.com/__export/1791721411099/sites/rosario3/img/2026/10/11/aladio.jpeg_1825222467.jpeg",
         "summary": "En una prestigiosa escuela de negocios de Phoenix, el presidente de Fuceit defendió el valor de los acuerdos entre empresarios y trabajadores como condición para atraer inversiones y sostenerlas en el tiempo. La experiencia de Santa Fe como punto de partida para pensar el…",
-        "pubDate": "2026-10-11T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Central juega una final por la tabla anual ante la Lepra mendocina en el Gigante",
-        "link": "https://www.rosario3.com/deportes/central-juega-una-final-por-la-tabla-anual-ante-la-lepra-mendocina-en-el-gigante-20261010-0032.html",
-        "image": "https://www.rosario3.com/__export/1783695819206/sites/rosario3/img/2026/07/10/di-maria-campaz.jpg_928314580.jpg",
-        "summary": "Se enfrentan este domingo desde las 17 por la fecha 12. El Canalla cuenta con las vueltas de Agustín Sández, Jaminton Campaz y Vicente Pizarro. Independiente Rivadavia, con Alfredo Berti como DT, es el líder del acumulado y le lleva cinco puntos al equipo auriazul",
-        "pubDate": "2026-10-10T11:54:00+00:00",
+        "pubDate": "2026-10-11T11:54:00+00:00",
         "approxTime": true
       },
       {
@@ -112,29 +112,29 @@
       },
       {
         "source": "Rosario3",
-        "title": "Milei y la sociedad argentina: los que lo quieren, los que no lo soportan y los que no quieren volver al pasado",
-        "link": "https://www.rosario3.com/politica/milei-y-la-sociedad-argentina-los-que-lo-quieren-los-que-no-lo-soportan-y-los-que-no-quieren-volver-al-pasado-20261010-0023.html",
-        "image": "https://www.rosario3.com/__export/1791565434226/sites/rosario3/img/2026/10/09/milei_bullrich.png_786111822.png",
-        "summary": "A casi tres años de gobierno, Milei conserva un núcleo duro de apoyo, pero pierde terreno entre quienes lo votaron y tienen pensamiento de centro. Un estudio de opinión pública revela las contradicciones de una sociedad que demanda más protección del Estado, valora el esfuerzo…",
+        "title": "Central juega una final por la tabla anual ante la Lepra mendocina en el Gigante",
+        "link": "https://www.rosario3.com/deportes/central-juega-una-final-por-la-tabla-anual-ante-la-lepra-mendocina-en-el-gigante-20261010-0032.html",
+        "image": "https://www.rosario3.com/__export/1783695819206/sites/rosario3/img/2026/07/10/di-maria-campaz.jpg_928314580.jpg",
+        "summary": "Se enfrentan este domingo desde las 17 por la fecha 12. El Canalla cuenta con las vueltas de Agustín Sández, Jaminton Campaz y Vicente Pizarro. Independiente Rivadavia, con Alfredo Berti como DT, es el líder del acumulado y le lleva cinco puntos al equipo auriazul",
         "pubDate": "2026-10-10T11:48:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "El Parque de la Cabecera rumbo a la licitación: inversores interesados, traslados pendientes y un Museo de la Paz",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/el-parque-de-la-cabecera-rumbo-a-la-licitacion-inversores-interesados-traslados-pendientes-y-un-museo-de-la-paz-20261008-0029.html",
-        "image": "https://www.rosario3.com/__export/1791469706324/sites/rosario3/img/2026/10/08/parquecabecera.jpg_982625323.jpg",
-        "summary": "La Provincia cerró la etapa de consulta de los borradores y trabaja en los pliegos definitivos con la intención de licitar durante el verano. Hay grandes grupos nacionales que manifestaron interés y empresas locales dispuestas a asociarse con ellos. Mientras se reconvierte el…",
-        "pubDate": "2026-10-08T11:47:00+00:00",
+        "title": "Milei y la sociedad argentina: los que lo quieren, los que no lo soportan y los que no quieren volver al pasado",
+        "link": "https://www.rosario3.com/politica/milei-y-la-sociedad-argentina-los-que-lo-quieren-los-que-no-lo-soportan-y-los-que-no-quieren-volver-al-pasado-20261010-0023.html",
+        "image": "https://www.rosario3.com/__export/1791565434226/sites/rosario3/img/2026/10/09/milei_bullrich.png_786111822.png",
+        "summary": "A casi tres años de gobierno, Milei conserva un núcleo duro de apoyo, pero pierde terreno entre quienes lo votaron y tienen pensamiento de centro. Un estudio de opinión pública revela las contradicciones de una sociedad que demanda más protección del Estado, valora el esfuerzo…",
+        "pubDate": "2026-10-10T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Hallaron una escultura perdida de un maestro del Barroco que podría valer miles de dólares",
-        "link": "https://www.rosario3.com/informaciongeneral/hallaron-una-escultura-perdida-de-un-maestro-del-barroco-que-podria-valer-miles-de-dolares-20261007-0050.html",
-        "image": "https://www.rosario3.com/__export/1791392874782/sites/rosario3/img/2026/10/07/escultura.png_786111822.png",
-        "summary": "Un hombre compró una figura de mármol sin saber que era la maqueta original del Papa Clemente XII del legendario escultor italiano Pietro Bracci. Los detalles",
-        "pubDate": "2026-10-07T11:46:00+00:00",
+        "title": "Por qué este domingo se celebra el Día del dulce de leche: historia de la cucharada más rica y una receta para hacer en casa",
+        "link": "https://www.rosario3.com/informaciongeneral/por-que-este-domingo-se-celebra-el-dia-del-dulce-de-leche-historia-de-la-cucharada-mas-rica-y-una-receta-para-hacer-en-casa-20261011-0014.html",
+        "image": "https://www.rosario3.com/__export/1791727925178/sites/rosario3/img/2026/10/11/dulce_de_leche_version1791727924691.jpg_1073143217.jpg",
+        "summary": "Si bien hay varias versiones sobre cómo nació este manjar, la más extendida data de 1839, tiene como escenario la cocina de Juan Manuel de Rosas y, como protagonista, a una criada",
+        "pubDate": "2026-10-11T11:46:00+00:00",
         "approxTime": true
       }
     ],
@@ -161,7 +161,7 @@
         "source": "La Capital",
         "title": "Franco Colapinto volvió a abandonar en Sepang por un problema mecánico, igual que en la sprint",
         "link": "https://www.lacapital.com.ar/ovacion/franco-colapinto-volvio-abandonar-sepang-un-problema-mecanico-igual-que-la-sprint-n10286064.html",
-        "image": "https://media.lacapital.com.ar/p/9180c8ba6cb54e0b8ff7be8f33e791fa/adjuntos/203/imagenes/103/460/0103460443/1200x675/smart/image-8.jpg",
+        "image": "https://media.lacapital.com.ar/p/e4587e2d99fc6df90f49421669215c08/adjuntos/203/imagenes/103/461/0103461112/1200x675/smart/image-27.jpg",
         "summary": "El argentino sufrió otra vez problemas en su Alpine que lo dejaron tirado a mitad de carrera en Sepang. Una gira asiática para el olvido",
         "pubDate": "2026-10-11T13:10:00+00:00",
         "approxTime": false
