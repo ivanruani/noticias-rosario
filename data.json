@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T12:30:58.357508+00:00",
+  "generatedAt": "2026-10-11T13:01:07.648991+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,11 +13,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "¿Hay alguien ahí? La IA y la búsqueda del ser",
+        "link": "https://www.rosario3.com/tecnologia/hay-alguien-ahi-la-ia-y-la-busqueda-del-ser-20261009-0051.html",
+        "image": "https://www.rosario3.com/__export/1791572134079/sites/rosario3/img/2026/10/09/000_-_imagen_de_portada_-_2026-10-09t155502_195.jpg_1768679257.jpg",
+        "summary": "Mientras los modelos de IA muestran comportamientos cada vez más parecidos a los de una mente, científicos, filósofos y religiosos discuten qué haríamos si fuera imposible descartar que hay alguien detrás de sus palabras",
+        "pubDate": "2026-10-09T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "El papa León XIV anunció que será operado de un nódulo en un pulmón y permanecerá una semana internado",
         "link": "https://www.rosario3.com/informaciongeneral/el-papa-leon-xiv-anuncio-que-sera-operado-de-un-nodulo-en-un-pulmon-y-permanecera-una-semana-internado-20261011-0006.html",
         "image": "https://www.rosario3.com/__export/1791720382177/sites/rosario3/img/2026/10/11/papa.jpg_1825222445.jpg",
         "summary": "El pontífice, de 71 años, informó que la lesión fue detectada en una fase muy inicial. La intervención se realizará en los próximos días, según confirmó el Vaticano. En noviembre tiene previsto visitar Argentina, Uruguay y Perú",
-        "pubDate": "2026-10-11T11:59:00+00:00",
+        "pubDate": "2026-10-11T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,16 +35,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/domingo-gris-y-fresco-en-rosario-se-viene-una-semana-con-poco-sol-20261011-0003.html",
         "image": "https://www.rosario3.com/__export/1791718816563/sites/rosario3/img/2026/10/11/clima.jpg_1825222445.jpg",
         "summary": "El cielo permanecerá mayormente cubierto durante los próximos días, con temperaturas moderadas y máximas que rondarán los 19 y 20 grados",
-        "pubDate": "2026-10-11T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Central juega una final por la tabla anual ante la Lepra mendocina en el Gigante",
-        "link": "https://www.rosario3.com/deportes/central-juega-una-final-por-la-tabla-anual-ante-la-lepra-mendocina-en-el-gigante-20261010-0032.html",
-        "image": "https://www.rosario3.com/__export/1783695819206/sites/rosario3/img/2026/07/10/di-maria-campaz.jpg_928314580.jpg",
-        "summary": "Se enfrentan este domingo desde las 17 por la fecha 12. El Canalla cuenta con las vueltas de Agustín Sández, Jaminton Campaz y Vicente Pizarro. Independiente Rivadavia, con Alfredo Berti como DT, es el líder del acumulado y le lleva cinco puntos al equipo auriazul",
-        "pubDate": "2026-10-10T11:57:00+00:00",
+        "pubDate": "2026-10-11T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -58,10 +58,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Milei y la sociedad argentina: los que lo quieren, los que no lo soportan y los que no quieren volver al pasado",
-        "link": "https://www.rosario3.com/politica/milei-y-la-sociedad-argentina-los-que-lo-quieren-los-que-no-lo-soportan-y-los-que-no-quieren-volver-al-pasado-20261010-0023.html",
-        "image": "https://www.rosario3.com/__export/1791565434226/sites/rosario3/img/2026/10/09/milei_bullrich.png_786111822.png",
-        "summary": "A casi tres años de gobierno, Milei conserva un núcleo duro de apoyo, pero pierde terreno entre quienes lo votaron y tienen pensamiento de centro. Un estudio de opinión pública revela las contradicciones de una sociedad que demanda más protección del Estado, valora el esfuerzo…",
+        "title": "Central juega una final por la tabla anual ante la Lepra mendocina en el Gigante",
+        "link": "https://www.rosario3.com/deportes/central-juega-una-final-por-la-tabla-anual-ante-la-lepra-mendocina-en-el-gigante-20261010-0032.html",
+        "image": "https://www.rosario3.com/__export/1783695819206/sites/rosario3/img/2026/07/10/di-maria-campaz.jpg_928314580.jpg",
+        "summary": "Se enfrentan este domingo desde las 17 por la fecha 12. El Canalla cuenta con las vueltas de Agustín Sández, Jaminton Campaz y Vicente Pizarro. Independiente Rivadavia, con Alfredo Berti como DT, es el líder del acumulado y le lleva cinco puntos al equipo auriazul",
         "pubDate": "2026-10-10T11:54:00+00:00",
         "approxTime": true
       },
@@ -76,19 +76,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "Pasó 20 años preso, superó las adicciones y hoy trabaja para prevenirlas",
-        "link": "https://www.rosario3.com/informaciongeneral/paso-20-anos-preso-supero-las-adicciones-y-hoy-trabaja-para-prevenirlas-20261010-0016.html",
-        "image": "https://www.rosario3.com/__export/1791651822878/sites/rosario3/img/2026/10/10/disen-o_sin_ti-tulo_-69-_1.png_928314581.png",
-        "summary": "Mario tiene 50 años y es uno de los impulsores de Rompiendo Cadenas, una asociación civil que realiza charlas en escuelas, clubes y empresas, y acompaña a personas con consumos problemáticos y a sus familias. “Muchas veces de lo que no hablan es de algún dolor, trauma o abuso”…",
-        "pubDate": "2026-10-10T11:52:00+00:00",
+        "title": "Lionel Messi brilló con un doblete en la goleada de Inter Miami tras su despedida de la selección argentina",
+        "link": "https://www.rosario3.com/deportes/lionel-messi-brillo-con-un-doblete-en-la-goleada-de-inter-miami-tras-su-despedida-de-la-seleccion-argentina-20261011-0008.html",
+        "image": "https://www.rosario3.com/__export/1791722892487/sites/rosario3/img/2026/10/11/messi_inter_miami.jpg_1825222445.jpg",
+        "summary": "El astro rosarino convirtió dos goles en la victoria por 4-0 ante DC United, apenas cuatro días después de su último partido con la Albiceleste. Luis Suárez anotó los otros dos tantos y el equipo de Florida se mantiene en el segundo puesto de la Conferencia Este de la MLS",
+        "pubDate": "2026-10-11T11:52:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Tiroteo en Estados Unidos con ocho muertos, entre ellos dos niños",
-        "link": "https://www.rosario3.com/informaciongeneral/tiroteo-en-estados-unidos-con-ocho-muertos-entre-ellos-dos-ninos-20261010-0035.html",
-        "image": "https://www.rosario3.com/__export/1791679657132/sites/rosario3/img/2026/10/10/tiroteo_estados_unidos.jpg_506286608.jpg",
-        "summary": "Ocurrió el viernes en la localidad de Erie, en el norte del estado de Pensilvania. Tras el ataque, el tirador se quitó la vida",
+        "title": "Milei y la sociedad argentina: los que lo quieren, los que no lo soportan y los que no quieren volver al pasado",
+        "link": "https://www.rosario3.com/politica/milei-y-la-sociedad-argentina-los-que-lo-quieren-los-que-no-lo-soportan-y-los-que-no-quieren-volver-al-pasado-20261010-0023.html",
+        "image": "https://www.rosario3.com/__export/1791565434226/sites/rosario3/img/2026/10/09/milei_bullrich.png_786111822.png",
+        "summary": "A casi tres años de gobierno, Milei conserva un núcleo duro de apoyo, pero pierde terreno entre quienes lo votaron y tienen pensamiento de centro. Un estudio de opinión pública revela las contradicciones de una sociedad que demanda más protección del Estado, valora el esfuerzo…",
         "pubDate": "2026-10-10T11:51:00+00:00",
         "approxTime": true
       },
@@ -121,24 +121,60 @@
       },
       {
         "source": "Rosario3",
-        "title": "Violeta Gorodischer: “Si tuviera que transformarme en bestseller, elegiría otros temas, pero no es el tipo de escritora que soy ni quiero ser”",
-        "link": "https://www.rosario3.com/ocio/violeta-gorodischer-si-tuviera-que-transformarme-en-bestseller-elegiria-otros-temas-pero-no-es-el-tipo-de-escritora-que-soy-ni-quiero-ser-20261009-0014.html",
-        "image": "https://www.rosario3.com/__export/1791552383452/sites/rosario3/img/2026/10/09/cruces_nota.jpg_928314580.jpg",
-        "summary": "La escritora y periodista lanzó este año Cruces, su segunda novela, donde usa otra vez los vínculos como materia prima, pero agrega un plano de fantasía. “Borra los límites del realismo, pero para hablar de cosas muy reales”, advierte, en la charla previa con Rosario3",
-        "pubDate": "2026-10-09T11:47:00+00:00",
+        "title": "Se viene una nueva edición de la Regata de Stand Up Paddle \"Ciudad de Rosario\"",
+        "link": "https://www.rosario3.com/deportes/se-viene-una-nueva-edicion-de-la-regata-de-stand-up-paddle-ciudad-de-rosario-20261010-0033.html",
+        "image": "https://www.rosario3.com/__export/1791674350973/sites/rosario3/img/2026/10/10/regata_sup.jpg_506286608.jpg",
+        "summary": "Será este lunes 12 de octubre a partir de las 10. Unirá el puente Rosario-Victoria con el Monumento Nacional a la Bandera, recorriendo la silueta rosarina por las aguas del río Paraná",
+        "pubDate": "2026-10-10T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "La previa del Run Run: apellido de peso llega al Aeropuerto y dos nuevos negocios con vista al río",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-previa-del-run-run-apellido-de-peso-llega-al-aeropuerto-y-dos-nuevos-negocios-con-vista-al-rio-20261010-0001.html",
-        "image": "https://www.rosario3.com/__export/1789167090572/sites/rosario3/img/2026/09/11/marianoportada_jpg.jpeg_506286608.jpeg",
-        "summary": "El podcast con el anticipo de las novedades económicas y corporativas que se publicarán en la tradicional columna de los domingos en Rosario3",
-        "pubDate": "2026-10-10T11:46:00+00:00",
+        "title": "Borsalino, una marca emblemática de Rosario que combina moda y tendencia al mejor precio",
+        "link": "https://www.rosario3.com/informaciongeneral/borsalino-una-marca-emblematica-de-rosario-que-combina-moda-y-tendencia-al-mejor-precio-20261011-0001.html",
+        "image": "https://www.rosario3.com/__export/1791692209319/sites/rosario3/img/2026/10/11/borsalino.jpg_1321341558.jpg",
+        "summary": "Desde hace más de 40 años, esta firma reconocida de la ciudad ofrece el mejor servicio en sus cuatro sucursales, siempre pensando en sus clientes. En el local de San Martín 1031, esta semana y hasta agotar stock hay promociones imperdibles",
+        "pubDate": "2026-10-11T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "El capitán de nuestro cerebro: las funciones ejecutivas",
+        "link": "https://www.lacapital.com.ar/salud/el-capitan-nuestro-cerebro-las-funciones-ejecutivas-n10285685.html",
+        "image": "https://media.lacapital.com.ar/p/f68d9fb5f4d9ce4e025144a65e55d223/adjuntos/203/imagenes/103/455/0103455577/1200x675/smart/imagen-nota.jpg",
+        "summary": "Silvina Peralta, del Servicio de Fonoaudiología de Grupo Gamma, explica qué son las funciones ejecutivas y cómo cuidarlas para preservar la autonomía",
+        "pubDate": "2026-10-11T12:30:16+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Fiebre amarilla: por qué alcanza con una sola dosis de vacuna para toda la vida",
+        "link": "https://www.lacapital.com.ar/salud/fiebre-amarilla-que-alcanza-una-sola-dosis-vacuna-toda-la-vida-n10285608.html",
+        "image": "https://media.lacapital.com.ar/p/da89dd79c178364af225760ec765dada/adjuntos/203/imagenes/103/454/0103454732/1200x675/smart/imagen-nota.jpg",
+        "summary": "No tiene tratamiento específico, pero sí una vacuna de altísima efectividad que se aplica una única vez. Qué saber antes de viajar y quiénes pueden recibirla, según Grupo Oroño",
+        "pubDate": "2026-10-11T12:30:15+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Creó una empresa de tarjetas NFC y ahora apuesta a localizar mascotas perdidas",
+        "link": "https://www.lacapital.com.ar/negocios/creo-una-empresa-tarjetas-nfc-y-ahora-apuesta-localizar-mascotas-perdidas-n10285631.html",
+        "image": "https://media.lacapital.com.ar/p/684e7691944dd143eb4d09fb7945f538/adjuntos/203/imagenes/103/455/0103455193/tomas-tiscornia.jpg",
+        "summary": "Son tarjetas de contacto que ya usan más de 50 empresas en la región. La nueva línea para mascotas tiene 500 dispositivos en circulación",
+        "pubDate": "2026-10-11T12:29:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Fabrica módulos que son tendencia para oficinas o casas",
+        "link": "https://www.lacapital.com.ar/negocios/fabrica-modulos-que-son-tendencia-oficinas-o-casas-n10285686.html",
+        "image": "https://media.lacapital.com.ar/p/90a927a884b0e8adfb140df1686afa7b/adjuntos/203/imagenes/103/457/0103457691/el-vagon-foto-final.jpg",
+        "summary": "Sebastián Escudero creó El Vagón, una fábrica de módulos que empezó a crecer exponencialmente post pandemia. Están en Funes y desde allí atienden a toda la región. La peculiar historia detrás de esta empresa.",
+        "pubDate": "2026-10-11T11:00:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Más de 120 jóvenes del departamento San Martín participaron de Santa Fe en Movimiento",
@@ -159,29 +195,11 @@
       },
       {
         "source": "La Capital",
-        "title": "Fabrica módulos que son tendencia para oficinas o casas",
-        "link": "https://www.lacapital.com.ar/negocios/fabrica-modulos-que-son-tendencia-oficinas-o-casas-n10285686.html",
-        "image": "https://media.lacapital.com.ar/p/90a927a884b0e8adfb140df1686afa7b/adjuntos/203/imagenes/103/457/0103457691/el-vagon-foto-final.jpg",
-        "summary": "Sebastián Escudero creó El Vagón, una fábrica de módulos que empezó a crecer exponencialmente post pandemia. Están en Funes y desde allí atienden a toda la región. La peculiar historia detrás de esta empresa.",
-        "pubDate": "2026-10-11T11:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "Rosario tiene cada vez menos baldíos y ya casi no quedan terrenos ociosos en el ejido urbano",
         "link": "https://www.lacapital.com.ar/la-ciudad/rosario-tiene-cada-vez-menos-baldios-y-ya-casi-no-quedan-terrenos-ociosos-el-ejido-urbano-n10285708.html",
         "image": "https://media.lacapital.com.ar/p/22667b6e09bcbfe38596c0986f190188/adjuntos/203/imagenes/103/459/0103459665/1200x675/smart/9968d942-ca84-46cc-a546-eca14b13bc52.jpg",
         "summary": "La mayoría de los baldíos está en zonas no urbanizadas. El municipio tiene estrategias para estos lotes, mientras avanza la densificación de la ciudad",
         "pubDate": "2026-10-11T09:50:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Con una propuesta de \"lujo accesible\" los bazares chinos cambian la fisonomía de las vidrieras en el centro rosarino",
-        "link": "https://www.lacapital.com.ar/la-ciudad/con-una-propuesta-lujo-accesible-los-bazares-chinos-cambian-la-fisonomia-las-vidrieras-el-centro-rosarino-n10285945.html",
-        "image": "https://media.lacapital.com.ar/p/a0277ab4a1b2b1798a3c8dcfb7320d42/adjuntos/203/imagenes/103/458/0103458732/1200x675/smart/bazar-chino.avif",
-        "summary": "En días se sumará Stylo, donde fue el icónico local de la librería Técnica. Los bazares chinos van por más, con un espaldarazo del embajador",
-        "pubDate": "2026-10-11T09:30:00+00:00",
         "approxTime": false
       },
       {
@@ -195,29 +213,20 @@
       },
       {
         "source": "La Capital",
+        "title": "Con una propuesta de \"lujo accesible\" los bazares chinos cambian la fisonomía de las vidrieras en el centro rosarino",
+        "link": "https://www.lacapital.com.ar/la-ciudad/con-una-propuesta-lujo-accesible-los-bazares-chinos-cambian-la-fisonomia-las-vidrieras-el-centro-rosarino-n10285945.html",
+        "image": "https://media.lacapital.com.ar/p/a0277ab4a1b2b1798a3c8dcfb7320d42/adjuntos/203/imagenes/103/458/0103458732/1200x675/smart/bazar-chino.avif",
+        "summary": "En días se sumará Stylo, donde fue el icónico local de la librería Técnica. Los bazares chinos van por más, con un espaldarazo del embajador",
+        "pubDate": "2026-10-11T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Crédito al agro: ¿Cuánto cuesta financiar la campaña 2026/27?",
         "link": "https://www.lacapital.com.ar/agro/credito-al-agro-cuanto-cuesta-financiar-la-campana-202627-n10286054.html",
         "image": "https://media.lacapital.com.ar/p/c734058c5dd490d46905a5986fed32e7/adjuntos/203/imagenes/103/368/0103368698/1200x675/563x341:583x361/siembra-campo.jpg",
         "summary": "Un informe de la Bolsa de Comercio de Rosario relevó el costo del financiamiento a través de bancos, mercado de capitales y créditos del sector comercial. Las tasas de interés en dólares oscilan entre 5% y 13%.",
         "pubDate": "2026-10-11T09:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central regresa al Gigante con el nuevo título y ya busca quedar a tiro de otro",
-        "link": "https://www.lacapital.com.ar/ovacion/central-regresa-al-gigante-el-nuevo-titulo-y-ya-busca-quedar-tiro-otro-n10286063.html",
-        "image": "https://media.lacapital.com.ar/p/d8e7871903a288bfe5e72e4c51a803f1/adjuntos/203/imagenes/103/460/0103460469/camm.jpeg",
-        "summary": "Central se presenta en Arroyito tras ser campeón de la Supercopa Internacional. Tiene una final con Independiente Rivadavia, líder de la anual",
-        "pubDate": "2026-10-11T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La receta de Newell's para Mendoza: defensa sólida y tiempo y cabeza para atacar",
-        "link": "https://www.lacapital.com.ar/ovacion/la-receta-newells-mendoza-defensa-solida-y-tiempo-y-cabeza-atacar-n10286052.html",
-        "image": "https://media.lacapital.com.ar/p/b2a37abbcd78c4863c84843245f75a84/adjuntos/203/imagenes/103/460/0103460393/1200x675/smart/image-48.png",
-        "summary": "La Lepra deberá sostener la fortaleza defensiva que logró en el torneo y aprovechar las libertades que otorga Gimnasia de Mendoza para ganar el lunes",
-        "pubDate": "2026-10-11T09:10:00+00:00",
         "approxTime": false
       },
       {
@@ -240,11 +249,20 @@
       },
       {
         "source": "La Capital",
-        "title": "Milei en el laberinto: quiénes lo ayudan a atravesarlo y con qué intereses",
-        "link": "https://www.lacapital.com.ar/suscriptores/milei-el-laberinto-quienes-lo-ayudan-atravesarlo-y-que-intereses-n10286056.html",
-        "image": "https://media.lacapital.com.ar/p/3ae594af4668e5745a21d985dd622672/adjuntos/203/imagenes/103/460/0103460438/1200x675/smart/milei-onu-ingreso-web.jpg",
-        "summary": "El fallo de urgencia de la Corte Suprema sobre la ley de tierras le dio oxígeno al gobierno y desactivó la ofensiva opositora contra el DNU 70/2023. Los aliados juegan con el apuro de la Casa Rosada y ponen condiciones. Pullaro muestra autonomía y apunta al peronismo",
-        "pubDate": "2026-10-11T09:05:00+00:00",
+        "title": "La receta de Newell's para Mendoza: defensa sólida y tiempo y cabeza para atacar",
+        "link": "https://www.lacapital.com.ar/ovacion/la-receta-newells-mendoza-defensa-solida-y-tiempo-y-cabeza-atacar-n10286052.html",
+        "image": "https://media.lacapital.com.ar/p/b2a37abbcd78c4863c84843245f75a84/adjuntos/203/imagenes/103/460/0103460393/1200x675/smart/image-48.png",
+        "summary": "La Lepra deberá sostener la fortaleza defensiva que logró en el torneo y aprovechar las libertades que otorga Gimnasia de Mendoza para ganar el lunes",
+        "pubDate": "2026-10-11T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central regresa al Gigante con el nuevo título y ya busca quedar a tiro de otro",
+        "link": "https://www.lacapital.com.ar/ovacion/central-regresa-al-gigante-el-nuevo-titulo-y-ya-busca-quedar-tiro-otro-n10286063.html",
+        "image": "https://media.lacapital.com.ar/p/d8e7871903a288bfe5e72e4c51a803f1/adjuntos/203/imagenes/103/460/0103460469/camm.jpeg",
+        "summary": "Central se presenta en Arroyito tras ser campeón de la Supercopa Internacional. Tiene una final con Independiente Rivadavia, líder de la anual",
+        "pubDate": "2026-10-11T09:10:00+00:00",
         "approxTime": false
       },
       {
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/3dccdb2fc61e6d16d36626be2f4c97b7/adjuntos/203/imagenes/103/310/0103310754/1200x675/smart/uber-y-didi-villa-gobernador-galvez.jpg",
         "summary": "Rosario debe avanzar legitimando las aplicaciones de transporte. No es darles vía libre, es reconocer la realidad en lugar de negarla; es establecer reglas, proteger fuentes de trabajo y darles mayor seguridad a quienes viajan",
         "pubDate": "2026-10-11T09:05:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Franco Colapinto buscará redimir en Sepang el triplete por Asia que viene torcido",
-        "link": "https://www.lacapital.com.ar/ovacion/franco-colapinto-buscara-redimir-sepang-el-triplete-asia-que-viene-torcido-n10286062.html",
-        "image": "https://media.lacapital.com.ar/p/51d686f50a375cd624100b99f2b8aa27/adjuntos/203/imagenes/103/460/0103460440/1200x675/smart/image-7.jpg",
-        "summary": "Al golpe de Bakú y los contratiempos de Baréin se le sumaron los problemas de un mal sábado en Singapur. A Franco Colapinto queda el domingo de GP",
-        "pubDate": "2026-10-11T00:08:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Trabajó 44 años en La Capital y hoy, con 83, mantiene las rotativas que son historia",
-        "link": "https://www.lacapital.com.ar/la-ciudad/trabajo-44-anos-la-capital-y-hoy-83-mantiene-las-rotativas-que-son-historia-n10284048.html",
-        "image": "https://media.lacapital.com.ar/p/1a6d5abb5a136d5717fbb3cfc11c226e/adjuntos/203/imagenes/103/436/0103436903/1200x675/smart/capacio-1.jpeg",
-        "summary": "Viene de una familia ligada al diario. El mecánico de linotipos Hugo Capacio conserva las rotativas y linotipos que ya son leyenda",
-        "pubDate": "2026-10-11T00:06:37+00:00",
         "approxTime": false
       }
     ]
