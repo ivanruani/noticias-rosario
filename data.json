@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T17:01:04.716972+00:00",
+  "generatedAt": "2026-10-11T17:30:51.883088+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Murió Ana Viglione, exjefa de la Policía de Santa Fe y funcionaria del Ministerio de Justicia y Seguridad",
+        "link": "https://www.lacapital.com.ar/la-ciudad/murio-ana-viglione-exjefa-la-policia-santa-fe-y-funcionaria-del-ministerio-justicia-y-seguridad-n10286117.html",
+        "image": "https://media.lacapital.com.ar/p/6d5fb59e876e1902b3e3e6d34b5074cf/adjuntos/203/imagenes/103/461/0103461354/1200x675/smart/image.jpg",
+        "summary": "Viglione se desempeñaba como subsecretaria de Articulación de Procesos de Reforma Institucional. La provincia confirmó su fallecimiento en redes sociales",
+        "pubDate": "2026-10-11T17:14:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Dos detenidos por el crimen de una mujer en barrio Tablada",
+        "link": "https://www.lacapital.com.ar/policiales/dos-detenidos-el-crimen-una-mujer-barrio-tablada-n10286088.html",
+        "image": "https://media.lacapital.com.ar/p/da6adaa099800886311371e5171b15f6/adjuntos/203/imagenes/103/431/0103431660/1200x675/smart/femicidio-natalia-andrea-gimenez.jpg",
+        "summary": "Se trata de una mujer de 36 años y un hombre de 42. Las detenciones se dieron tras una serie de allanamientos en Rosario y Villa Gobernador Gálvez",
+        "pubDate": "2026-10-11T17:13:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Planazo de domingo: la Feria del Libro ofrece una programación para todos los gustos",
         "link": "https://www.lacapital.com.ar/planazo-domingo-la-feria-del-libro-ofrece-una-programacion-todos-los-gustos-n10286112.html",
         "image": "https://media.lacapital.com.ar/p/0a45e5c16fdc752f4b58937c82d171f1/adjuntos/203/imagenes/102/756/0102756723/1200x675/smart/feria-del-libro-agenda.png",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/a3708e2dc57ca5ce657c874be6325087/adjuntos/203/imagenes/103/401/0103401125/1200x675/smart/pullaro-juegos.jpeg",
         "summary": "El gobernador Maximiliano Pullaro confirmó el cronograma electoral y se suma a la idea de eliminar las Paso nacionales",
         "pubDate": "2026-10-11T09:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Con una propuesta de \"lujo accesible\" los bazares chinos cambian la fisonomía de las vidrieras en el centro rosarino",
-        "link": "https://www.lacapital.com.ar/la-ciudad/con-una-propuesta-lujo-accesible-los-bazares-chinos-cambian-la-fisonomia-las-vidrieras-el-centro-rosarino-n10285945.html",
-        "image": "https://media.lacapital.com.ar/p/a0277ab4a1b2b1798a3c8dcfb7320d42/adjuntos/203/imagenes/103/458/0103458732/1200x675/smart/bazar-chino.avif",
-        "summary": "En días se sumará Stylo, donde fue el icónico local de la librería Técnica. Los bazares chinos van por más, con un espaldarazo del embajador",
-        "pubDate": "2026-10-11T09:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Crédito al agro: ¿Cuánto cuesta financiar la campaña 2026/27?",
-        "link": "https://www.lacapital.com.ar/agro/credito-al-agro-cuanto-cuesta-financiar-la-campana-202627-n10286054.html",
-        "image": "https://media.lacapital.com.ar/p/c734058c5dd490d46905a5986fed32e7/adjuntos/203/imagenes/103/368/0103368698/1200x675/563x341:583x361/siembra-campo.jpg",
-        "summary": "Un informe de la Bolsa de Comercio de Rosario relevó el costo del financiamiento a través de bancos, mercado de capitales y créditos del sector comercial. Las tasas de interés en dólares oscilan entre 5% y 13%.",
-        "pubDate": "2026-10-11T09:15:00+00:00",
         "approxTime": false
       }
     ]
