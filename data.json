@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T12:01:04.878066+00:00",
+  "generatedAt": "2026-10-11T12:30:58.357508+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,11 +13,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "El papa León XIV anunció que será operado de un nódulo en un pulmón y permanecerá una semana internado",
+        "link": "https://www.rosario3.com/informaciongeneral/el-papa-leon-xiv-anuncio-que-sera-operado-de-un-nodulo-en-un-pulmon-y-permanecera-una-semana-internado-20261011-0006.html",
+        "image": "https://www.rosario3.com/__export/1791720382177/sites/rosario3/img/2026/10/11/papa.jpg_1825222445.jpg",
+        "summary": "El pontífice, de 71 años, informó que la lesión fue detectada en una fase muy inicial. La intervención se realizará en los próximos días, según confirmó el Vaticano. En noviembre tiene previsto visitar Argentina, Uruguay y Perú",
+        "pubDate": "2026-10-11T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Domingo gris y fresco en Rosario: se viene una semana con poco sol",
         "link": "https://www.rosario3.com/informaciongeneral/domingo-gris-y-fresco-en-rosario-se-viene-una-semana-con-poco-sol-20261011-0003.html",
         "image": "https://www.rosario3.com/__export/1791718816563/sites/rosario3/img/2026/10/11/clima.jpg_1825222445.jpg",
         "summary": "El cielo permanecerá mayormente cubierto durante los próximos días, con temperaturas moderadas y máximas que rondarán los 19 y 20 grados",
-        "pubDate": "2026-10-11T11:59:00+00:00",
+        "pubDate": "2026-10-11T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,25 +35,16 @@
         "link": "https://www.rosario3.com/deportes/central-juega-una-final-por-la-tabla-anual-ante-la-lepra-mendocina-en-el-gigante-20261010-0032.html",
         "image": "https://www.rosario3.com/__export/1783695819206/sites/rosario3/img/2026/07/10/di-maria-campaz.jpg_928314580.jpg",
         "summary": "Se enfrentan este domingo desde las 17 por la fecha 12. El Canalla cuenta con las vueltas de Agustín Sández, Jaminton Campaz y Vicente Pizarro. Independiente Rivadavia, con Alfredo Berti como DT, es el líder del acumulado y le lleva cinco puntos al equipo auriazul",
-        "pubDate": "2026-10-10T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Milei y la sociedad argentina: los que lo quieren, los que no lo soportan y los que no quieren volver al pasado",
-        "link": "https://www.rosario3.com/politica/milei-y-la-sociedad-argentina-los-que-lo-quieren-los-que-no-lo-soportan-y-los-que-no-quieren-volver-al-pasado-20261010-0023.html",
-        "image": "https://www.rosario3.com/__export/1791565434226/sites/rosario3/img/2026/10/09/milei_bullrich.png_786111822.png",
-        "summary": "A casi tres años de gobierno, Milei conserva un núcleo duro de apoyo, pero pierde terreno entre quienes lo votaron y tienen pensamiento de centro. Un estudio de opinión pública revela las contradicciones de una sociedad que demanda más protección del Estado, valora el esfuerzo…",
         "pubDate": "2026-10-10T11:57:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Quedó preso impostor que se hizo pasar por juez federal para acceder a una base de datos judicial",
-        "link": "https://www.rosario3.com/policiales/quedo-preso-impostor-que-se-hizo-pasar-por-juez-federal-para-acceder-a-una-base-de-datos-judicial-20261010-0011.html",
-        "image": "https://www.rosario3.com/__export/1791640089238/sites/rosario3/img/2026/10/10/cristian_martinez_imputado.jpg_672794304.jpg",
-        "summary": "Un rosarino de 34 años, detenido en un country de Fisherton, creó casillas de correo falsas, simuló ser funcionario judicial e invocó a la jueza federal María Servini para conseguir claves del sistema que registra pedidos de captura sobre personas y vehículos, entre otra…",
-        "pubDate": "2026-10-10T11:56:00+00:00",
+        "title": "Sergio Aladio en Arizona: ¿por qué la confianza es un valor intangible para el desarrollo?",
+        "link": "https://www.rosario3.com/informaciongeneral/sergio-aladio-en-arizona-por-que-la-confianza-es-un-valor-intangible-para-el-desarrollo-20261011-0007.html",
+        "image": "https://www.rosario3.com/__export/1791721411099/sites/rosario3/img/2026/10/11/aladio.jpeg_1825222467.jpeg",
+        "summary": "En una prestigiosa escuela de negocios de Phoenix, el presidente de Fuceit defendió el valor de los acuerdos entre empresarios y trabajadores como condición para atraer inversiones y sostenerlas en el tiempo. La experiencia de Santa Fe como punto de partida para pensar el…",
+        "pubDate": "2026-10-11T11:56:00+00:00",
         "approxTime": true
       },
       {
@@ -58,10 +58,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "El impacto de El Niño en la región: el río Paraná sigue en ascenso y prevén un semestre de intensas lluvias y tormentas",
-        "link": "https://www.rosario3.com/informaciongeneral/el-impacto-de-el-nino-en-la-region-el-rio-parana-sigue-en-ascenso-y-preven-un-semestre-de-intensas-lluvias-y-tormentas-20261010-0024.html",
-        "image": "https://www.rosario3.com/__export/1785248385421/sites/rosario3/img/2026/07/17/camalote_1.png_786111822.png",
-        "summary": "Con el río superando los promedios históricos en Rosario y aproximándose a los cuatro metros en la capital provincial, los informes meteorológicos e hidrológicos anticipan la consolidación de un fenómeno 'muy fuerte'. Cómo evolucionarán las temperaturas, los caudales y el…",
+        "title": "Milei y la sociedad argentina: los que lo quieren, los que no lo soportan y los que no quieren volver al pasado",
+        "link": "https://www.rosario3.com/politica/milei-y-la-sociedad-argentina-los-que-lo-quieren-los-que-no-lo-soportan-y-los-que-no-quieren-volver-al-pasado-20261010-0023.html",
+        "image": "https://www.rosario3.com/__export/1791565434226/sites/rosario3/img/2026/10/09/milei_bullrich.png_786111822.png",
+        "summary": "A casi tres años de gobierno, Milei conserva un núcleo duro de apoyo, pero pierde terreno entre quienes lo votaron y tienen pensamiento de centro. Un estudio de opinión pública revela las contradicciones de una sociedad que demanda más protección del Estado, valora el esfuerzo…",
         "pubDate": "2026-10-10T11:54:00+00:00",
         "approxTime": true
       },
