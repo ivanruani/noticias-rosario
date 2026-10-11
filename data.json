@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-11T18:01:07.466973+00:00",
+  "generatedAt": "2026-10-11T18:30:54.561722+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "De Pira a López Gagliaso: un documental sobre tragedias viales de Rosario llegará a las escuelas",
+        "link": "https://www.rosario3.com/informaciongeneral/de-pira-a-lopez-gagliaso-un-documental-sobre-tragedias-viales-de-rosario-llegara-a-las-escuelas-20261011-0010.html",
+        "image": "https://www.rosario3.com/__export/1791724897565/sites/rosario3/img/2026/10/11/documental.jpeg_1825222445.jpeg",
+        "summary": "La Secretaría de Control municipal presentó “Memoria Vial”, un audiovisual que reconstruye siniestros fatales ocurridos desde 1997 hasta 2025 y busca generar conciencia entre estudiantes secundarios sobre la responsabilidad al volante",
+        "pubDate": "2026-10-11T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Run Run: gigante noruego viene por un puerto, escribana en problemas y denuncian por estafa al grupo Razzini",
         "link": "https://www.rosario3.com/-economia-negocios-agro-/run-run-gigante-noruego-viene-por-un-puerto-escribana-en-problemas-y-denuncian-por-estafa-al-grupo-razzini-20261011-0009.html",
         "image": "https://www.rosario3.com/__export/1791731829415/sites/rosario3/img/2026/10/11/auto1.jpg_982625323.jpg",
         "summary": "Además: arranca el debate sobre quién pagará el costo diario del futuro tren eléctrico de Rosario, asoma la idea de que propietarios de terrenos que se beneficien con obras hídricas aporten para futura infraestructura, las primeras lluvias pusieron en aprietos a varias…",
-        "pubDate": "2026-10-11T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Vox Cordium: el coro que nació para abrir corazones en las parroquias, hoy se prepara para abrir corazones frente al Papa",
-        "link": "https://www.rosario3.com/informaciongeneral/vox-cordium-el-coro-que-nacio-para-abrir-corazones-en-las-parroquias-hoy-se-prepara-para-abrir-corazones-frente-al-papa-20261010-0006.html",
-        "image": "https://www.rosario3.com/__export/1791636188748/sites/rosario3/img/2026/10/10/coro.png_786111822.png",
-        "summary": "Formado para llevar música a las parroquias que no tienen coro propio, el ensamble creció sumando voces con ganas de servir. Ahora ensayan a distancia, entre partituras y audios de WhatsApp para un evento histórico. Como todo su servicio es ad honorem, buscan ayuda para costear…",
-        "pubDate": "2026-10-10T11:59:00+00:00",
+        "pubDate": "2026-10-11T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -31,11 +31,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Un muerto y dos heridos en un ataque a balazos en Alvear",
-        "link": "https://www.rosario3.com/policiales/un-muerto-y-dos-heridos-en-un-ataque-a-balazos-en-alvear-20261011-0013.html",
-        "image": "https://www.rosario3.com/__export/1791727396431/sites/rosario3/img/2026/10/11/policia.jpg_1825222445.jpg",
-        "summary": "El episodio ocurrió este sábado por la noche, en inmediaciones de una plaza. Una de las víctimas aseguró que los disparos se produjeron cuando se acercó al lugar donde discutían sus hijos con otras personas",
-        "pubDate": "2026-10-11T11:57:00+00:00",
+        "title": "Vox Cordium: el coro que nació para abrir corazones en las parroquias, hoy se prepara para abrir corazones frente al Papa",
+        "link": "https://www.rosario3.com/informaciongeneral/vox-cordium-el-coro-que-nacio-para-abrir-corazones-en-las-parroquias-hoy-se-prepara-para-abrir-corazones-frente-al-papa-20261010-0006.html",
+        "image": "https://www.rosario3.com/__export/1791636188748/sites/rosario3/img/2026/10/10/coro.png_786111822.png",
+        "summary": "Formado para llevar música a las parroquias que no tienen coro propio, el ensamble creció sumando voces con ganas de servir. Ahora ensayan a distancia, entre partituras y audios de WhatsApp para un evento histórico. Como todo su servicio es ad honorem, buscan ayuda para costear…",
+        "pubDate": "2026-10-10T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -49,11 +49,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "¿Hay alguien ahí? La IA y la búsqueda del ser",
-        "link": "https://www.rosario3.com/tecnologia/hay-alguien-ahi-la-ia-y-la-busqueda-del-ser-20261009-0051.html",
-        "image": "https://www.rosario3.com/__export/1791572134079/sites/rosario3/img/2026/10/09/000_-_imagen_de_portada_-_2026-10-09t155502_195.jpg_1768679257.jpg",
-        "summary": "Mientras los modelos de IA muestran comportamientos cada vez más parecidos a los de una mente, científicos, filósofos y religiosos discuten qué haríamos si fuera imposible descartar que hay alguien detrás de sus palabras",
-        "pubDate": "2026-10-09T11:55:00+00:00",
+        "title": "Un muerto y dos heridos en un ataque a balazos en Alvear",
+        "link": "https://www.rosario3.com/policiales/un-muerto-y-dos-heridos-en-un-ataque-a-balazos-en-alvear-20261011-0013.html",
+        "image": "https://www.rosario3.com/__export/1791727396431/sites/rosario3/img/2026/10/11/policia.jpg_1825222445.jpg",
+        "summary": "El episodio ocurrió este sábado por la noche, en inmediaciones de una plaza. Una de las víctimas aseguró que los disparos se produjeron cuando se acercó al lugar donde discutían sus hijos con otras personas",
+        "pubDate": "2026-10-11T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -67,11 +67,20 @@
       },
       {
         "source": "Rosario3",
-        "title": "Feria Internacional del Libro de Rosario 2026: todas las actividades de este domingo",
-        "link": "https://www.rosario3.com/ocio/feria-internacional-del-libro-de-rosario-2026-todas-las-actividades-de-este-domingo-20261008-0038.html",
-        "image": "https://www.rosario3.com/__export/1791717169085/sites/rosario3/img/2026/10/11/fil_ros.jpg_1825222445.jpg",
-        "summary": "El Cultural Fontanarrosa (San Martín 1080) abre sus puertas de 13 a 22. Gratis, con gestión previa del código QR",
-        "pubDate": "2026-10-08T11:53:00+00:00",
+        "title": "Plaza sigue siendo top: Atlético del Rosario venció a Champagnat y aseguró la permanencia en la máxima categoría de la URBA",
+        "link": "https://www.rosario3.com/deportes/plaza-sigue-siendo-top-atletico-del-rosario-vencio-a-champagnat-y-aseguro-la-permanencia-en-la-maxima-categoria-de-la-urba-20261011-0024.html",
+        "image": "https://www.rosario3.com/__export/1791742565822/sites/rosario3/img/2026/10/11/rugby_plaza_festejos_triunfo_sobre_champagnat_10_10_2026_crxdito_phinina_jpg.jpeg_928314580.jpeg",
+        "summary": "Con una gran actuación colectiva y una gran producción en el primer tiempo, el conjunto rosarino se impuso por 42 a 22 en Plaza Jewell por la 25ª fecha del URBA Top 14 al equipo de Estancias del Pilar. Además, Santiago Casals celebró sus 250 partidos oficiales con la camiseta de…",
+        "pubDate": "2026-10-11T11:53:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "¿Hay alguien ahí? La IA y la búsqueda del ser",
+        "link": "https://www.rosario3.com/tecnologia/hay-alguien-ahi-la-ia-y-la-busqueda-del-ser-20261009-0051.html",
+        "image": "https://www.rosario3.com/__export/1791572134079/sites/rosario3/img/2026/10/09/000_-_imagen_de_portada_-_2026-10-09t155502_195.jpg_1768679257.jpg",
+        "summary": "Mientras los modelos de IA muestran comportamientos cada vez más parecidos a los de una mente, científicos, filósofos y religiosos discuten qué haríamos si fuera imposible descartar que hay alguien detrás de sus palabras",
+        "pubDate": "2026-10-09T11:52:00+00:00",
         "approxTime": true
       },
       {
@@ -80,7 +89,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/el-papa-leon-xiv-anuncio-que-sera-operado-de-un-nodulo-en-un-pulmon-y-permanecera-una-semana-internado-20261011-0006.html",
         "image": "https://www.rosario3.com/__export/1791720382177/sites/rosario3/img/2026/10/11/papa.jpg_1825222445.jpg",
         "summary": "El pontífice, de 71 años, informó que la lesión fue detectada en una fase muy inicial. La intervención se realizará en los próximos días, según confirmó el Vaticano. En noviembre tiene previsto visitar Argentina, Uruguay y Perú",
-        "pubDate": "2026-10-11T11:52:00+00:00",
+        "pubDate": "2026-10-11T11:51:00+00:00",
         "approxTime": true
       },
       {
@@ -89,15 +98,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/la-provincia-invirtio-mas-de-2.500-millones-de-pesos-al-ano-en-ciencia-y-consolida-una-alianza-estrategica-con-las-universidades-publicas-20261011-0021.html",
         "image": "https://www.rosario3.com/__export/1791737605505/sites/rosario3/img/2026/10/11/puccini_version1791737605007.jpg_54252875.jpg",
         "summary": "A través del Ministerio de Desarrollo Productivo, el Gobierno cofinancia proyectos de investigación junto a UNL, UNR, UNRaf y UTN. Para el ministro Gustavo Puccini se trata de “pensar a la ciencia como política de Estado” y así “potenciar el entramado productivo”",
-        "pubDate": "2026-10-11T11:51:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Fin de semana largo: feria especial en Puerto Emprende y Biomercado",
-        "link": "https://www.rosario3.com/informaciongeneral/fin-de-semana-largo-feria-especial-en-puerto-emprende-y-biomercado-20261011-0015.html",
-        "image": "https://www.rosario3.com/__export/1791729229083/sites/rosario3/img/2026/10/11/emprende_version1791729228648.jpg_985135466.jpg",
-        "summary": "El espacio municipal de Presidente Roca y el río abre este domingo y lunes, de 16 a 20. En tanto que el mercado de productos de alimentación saludable funciona también este domingo, de 10 a 20, en la zona de Balcarce y el río",
         "pubDate": "2026-10-11T11:50:00+00:00",
         "approxTime": true
       },
@@ -121,11 +121,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Todos los datos en la previa al trascendental choque entre el Canalla y la Lepra mendocina",
-        "link": "https://www.rosario3.com/deportes/todos-los-datos-en-la-previa-al-trascendental-choque-entre-el-canalla-y-la-lepra-mendocina-20261010-0031.html",
-        "image": "https://www.rosario3.com/__export/1777067550315/sites/rosario3/img/2026/04/24/campaz.jpg_1010838702.jpg",
-        "summary": "Rosario Central recibe al líder de la tabla general en un duelo clave; los cuyanos nunca ganaron visitando a los auriazules",
-        "pubDate": "2026-10-10T11:47:00+00:00",
+        "title": "Feria Internacional del Libro de Rosario 2026: todas las actividades de este domingo",
+        "link": "https://www.rosario3.com/ocio/feria-internacional-del-libro-de-rosario-2026-todas-las-actividades-de-este-domingo-20261008-0038.html",
+        "image": "https://www.rosario3.com/__export/1791717169085/sites/rosario3/img/2026/10/11/fil_ros.jpg_1825222445.jpg",
+        "summary": "El Cultural Fontanarrosa (San Martín 1080) abre sus puertas de 13 a 22. Gratis, con gestión previa del código QR",
+        "pubDate": "2026-10-08T11:47:00+00:00",
         "approxTime": true
       },
       {
