@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T09:01:09.270923+00:00",
+  "generatedAt": "2026-10-11T09:30:55.584842+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,69 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Crédito al agro: ¿Cuánto cuesta financiar la campaña 2026/27?",
+        "link": "https://www.lacapital.com.ar/agro/credito-al-agro-cuanto-cuesta-financiar-la-campana-202627-n10286054.html",
+        "image": "https://media.lacapital.com.ar/p/c734058c5dd490d46905a5986fed32e7/adjuntos/203/imagenes/103/368/0103368698/1200x675/563x341:583x361/siembra-campo.jpg",
+        "summary": "Un informe de la Bolsa de Comercio de Rosario relevó el costo del financiamiento a través de bancos, mercado de capitales y créditos del sector comercial. Las tasas de interés en dólares oscilan entre 5% y 13%.",
+        "pubDate": "2026-10-11T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central regresa al Gigante con el nuevo título y ya busca quedar a tiro de otro",
+        "link": "https://www.lacapital.com.ar/ovacion/central-regresa-al-gigante-el-nuevo-titulo-y-ya-busca-quedar-tiro-otro-n10286063.html",
+        "image": "https://media.lacapital.com.ar/p/d8e7871903a288bfe5e72e4c51a803f1/adjuntos/203/imagenes/103/460/0103460469/camm.jpeg",
+        "summary": "Central se presenta en Arroyito tras ser campeón de la Supercopa Internacional. Tiene una final con Independiente Rivadavia, líder de la anual",
+        "pubDate": "2026-10-11T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Recta final para el recambio histórico en la Corte Suprema de Santa Fe",
+        "link": "https://www.lacapital.com.ar/politica/recta-final-el-recambio-historico-la-corte-suprema-santa-fe-n10285996.html",
+        "image": "https://media.lacapital.com.ar/p/53b15d35eae2cebbe80b1e662670c1a7/adjuntos/203/imagenes/103/459/0103459550/1200x675/smart/image.png",
+        "summary": "El magistrado Roberto Falistocco tiene previsto materializar su alejamiento del cuerpo entre el 20 y el 25 de noviembre próximo",
+        "pubDate": "2026-10-11T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La receta de Newell's para Mendoza: defensa sólida y tiempo y cabeza para atacar",
+        "link": "https://www.lacapital.com.ar/ovacion/la-receta-newells-mendoza-defensa-solida-y-tiempo-y-cabeza-atacar-n10286052.html",
+        "image": "https://media.lacapital.com.ar/p/b2a37abbcd78c4863c84843245f75a84/adjuntos/203/imagenes/103/460/0103460393/1200x675/smart/image-48.png",
+        "summary": "La Lepra deberá sostener la fortaleza defensiva que logró en el torneo y aprovechar las libertades que otorga Gimnasia de Mendoza para ganar el lunes",
+        "pubDate": "2026-10-11T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Taxis: proponen una nueva categoría de choferes para desalentar la venta o caución de chapas",
+        "link": "https://www.lacapital.com.ar/la-ciudad/taxis-proponen-una-nueva-categoria-choferes-desalentar-la-venta-o-caucion-chapas-n10285401.html",
+        "image": "https://media.lacapital.com.ar/p/089716e7a4a1f81c313867e3d1caace7/adjuntos/203/imagenes/102/684/0102684301/1200x675/smart/taxis3.jpg",
+        "summary": "El proyecto busca incentivar la contratación de peones de taxis con otra figura legal, sin perder de vista las otras tres categorías vigentes. Los detalles",
+        "pubDate": "2026-10-11T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Milei en el laberinto: quiénes lo ayudan a atravesarlo y con qué intereses",
+        "link": "https://www.lacapital.com.ar/suscriptores/milei-el-laberinto-quienes-lo-ayudan-atravesarlo-y-que-intereses-n10286056.html",
+        "image": "https://media.lacapital.com.ar/p/3ae594af4668e5745a21d985dd622672/adjuntos/203/imagenes/103/460/0103460438/1200x675/smart/milei-onu-ingreso-web.jpg",
+        "summary": "El fallo de urgencia de la Corte Suprema sobre la ley de tierras le dio oxígeno al gobierno y desactivó la ofensiva opositora contra el DNU 70/2023. Los aliados juegan con el apuro de la Casa Rosada y ponen condiciones. Pullaro muestra autonomía y apunta al peronismo",
+        "pubDate": "2026-10-11T09:05:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "¿Por qué hay que legalizar Uber y DiDi?",
+        "link": "https://www.lacapital.com.ar/opinion/por-que-hay-que-legalizar-uber-y-didi-n10285999.html",
+        "image": "https://media.lacapital.com.ar/p/3dccdb2fc61e6d16d36626be2f4c97b7/adjuntos/203/imagenes/103/310/0103310754/1200x675/smart/uber-y-didi-villa-gobernador-galvez.jpg",
+        "summary": "Rosario debe avanzar legitimando las aplicaciones de transporte. No es darles vía libre, es reconocer la realidad en lugar de negarla; es establecer reglas, proteger fuentes de trabajo y darles mayor seguridad a quienes viajan",
+        "pubDate": "2026-10-11T09:05:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Franco Colapinto buscará redimir en Sepang el triplete por Asia que viene torcido",
         "link": "https://www.lacapital.com.ar/ovacion/franco-colapinto-buscara-redimir-sepang-el-triplete-asia-que-viene-torcido-n10286062.html",
         "image": "https://media.lacapital.com.ar/p/51d686f50a375cd624100b99f2b8aa27/adjuntos/203/imagenes/103/460/0103460440/1200x675/smart/image-7.jpg",
@@ -209,69 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/ca6312c39c4e080cf2620405453c626d/adjuntos/203/imagenes/027/942/0027942393/1200x675/smart/nublado11jpg.jpg",
         "summary": "Tanto el domingo como el lunes habrá cielo cubierto, con alto porcentaje de humedad que podría derivar en lluvias aisladas",
         "pubDate": "2026-10-10T22:23:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Una salida colectiva: los jardines de infantes se reconvierten para no desaparecer ante la crisis",
-        "link": "https://www.lacapital.com.ar/la-ciudad/una-salida-colectiva-los-jardines-infantes-se-reconvierten-no-desaparecer-la-crisis-n10284064.html",
-        "image": "https://media.lacapital.com.ar/p/d4c9a74b36d6e285f242b45d09e51675/adjuntos/203/imagenes/103/459/0103459688/1200x675/smart/image-2026-10-10t153726843.jpg",
-        "summary": "Muchas instituciones se transformaron en cooperativas para sostener las fuentes de trabajo y \"no dejar en banda\" a familias y niños",
-        "pubDate": "2026-10-10T21:52:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Regional del Litoral: Jockey Club perdió en Fisherton, Gimnasia ganó en Paraná y mete presión",
-        "link": "https://www.lacapital.com.ar/ovacion/regional-del-litoral-jockey-club-perdio-fisherton-gimnasia-gano-parana-y-mete-presion-n10286031.html",
-        "image": "https://media.lacapital.com.ar/p/95b3fb638621a2591fb7143aaa32c366/adjuntos/203/imagenes/103/460/0103460097/1200x675/smart/image-6.jpg",
-        "summary": "Estudiantes de Paraná le ganó al bicampeón del Regional del Litoral y ya tiene el camino allanado a semifinales, algo por lo que deberá pelear Jockey Club en las dos últimas",
-        "pubDate": "2026-10-10T21:42:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Diputados: la oposición busca tumbar el megadecreto de desregulación sin quorum asegurado",
-        "link": "https://www.lacapital.com.ar/politica/diputados-la-oposicion-busca-tumbar-el-megadecreto-desregulacion-quorum-asegurado-n10286023.html",
-        "image": "https://media.lacapital.com.ar/p/08bd6ea2ebc1a9eb414a11f017219d6c/adjuntos/203/imagenes/102/616/0102616580/1200x675/smart/camara-diputados-la-nacion-elecciones.jpg",
-        "summary": "El nuevo fallo de la Corte Suprema que repuso la vigencia de la ley de tierras alteró el escenario en la Cámara baja, por lo que recobran fuerzas los proyectos de sobreendeudamiento de familias y de discapacidad",
-        "pubDate": "2026-10-10T20:56:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Atlético del Rosario hizo lo que tenía que hacer y seguirá siendo Top 14 en la Urba en 2027",
-        "link": "https://www.lacapital.com.ar/ovacion/atletico-del-rosario-hizo-lo-que-tenia-que-hacer-y-seguira-siendo-top-14-la-urba-2027-n10286012.html",
-        "image": "https://media.lacapital.com.ar/p/1788b1abf414ef560fc88c133295452a/adjuntos/203/imagenes/103/459/0103459969/1200x675/smart/image-5.jpg",
-        "summary": "Con un primer tiempo avasallante, Atlético del Rosario venció en el Pasaje Gould al descendido Champagnat y logró la permanencia en la Unión de Rugby de Buenos Aires",
-        "pubDate": "2026-10-10T20:20:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La Joaqui se confesó con Mario Pergolini: \"Me siento descartable todos los días\"",
-        "link": "https://www.lacapital.com.ar/zoom/la-joaqui-se-confeso-mario-pergolini-me-siento-descartable-todos-los-dias-n10286002.html",
-        "image": "https://media.lacapital.com.ar/p/7f16dea157fa269749ff2befe996a904/adjuntos/203/imagenes/103/459/0103459561/1200x675/smart/image-2026-10-10t155301255.jpg",
-        "summary": "La cantante estuvo en el programa “Otro Día Perdido” y habló de sus deseos de casarse y formar una familia numerosa, y de sus inseguridades en la industria musical",
-        "pubDate": "2026-10-10T19:48:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El motivo por el que Santiago Solari será bien recibido en la visita de Newell's a Gimnasia de Mendoza",
-        "link": "https://www.lacapital.com.ar/ovacion/el-motivo-el-que-santiago-solari-sera-bien-recibido-la-visita-newells-gimnasia-mendoza-n10286001.html",
-        "image": "https://media.lacapital.com.ar/p/c1d7f8faef1d29f109590fedce4c216d/adjuntos/203/imagenes/103/459/0103459689/1200x675/smart/image-45.png",
-        "summary": "El atacante dejó una huella imborrable en su paso por el Lobo mendocino, con grandes actuaciones y un gol histórico",
-        "pubDate": "2026-10-10T19:42:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El río Paraná ya superó su altura media para octubre en Rosario",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-rio-parana-ya-supero-su-altura-media-octubre-rosario-n10286006.html",
-        "image": "https://media.lacapital.com.ar/p/9df7ccb7f9bd2edb12798d8f343f23d8/adjuntos/203/imagenes/100/085/0100085388/1200x675/smart/la-semana10jpg.jpg",
-        "summary": "El valor de referencia toma mediciones que van de 1991 a 2024. El nivel seguirá en ascenso, aunque las previsiones a corto plazo siguen lejos del nivel de alerta",
-        "pubDate": "2026-10-10T19:33:00+00:00",
         "approxTime": false
       }
     ]
