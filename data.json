@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T09:30:55.584842+00:00",
+  "generatedAt": "2026-10-11T10:01:03.105645+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,33 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Rosario tiene cada vez menos baldíos y ya casi no quedan terrenos ociosos en el ejido urbano",
+        "link": "https://www.lacapital.com.ar/la-ciudad/rosario-tiene-cada-vez-menos-baldios-y-ya-casi-no-quedan-terrenos-ociosos-el-ejido-urbano-n10285708.html",
+        "image": "https://media.lacapital.com.ar/p/22667b6e09bcbfe38596c0986f190188/adjuntos/203/imagenes/103/459/0103459665/1200x675/smart/9968d942-ca84-46cc-a546-eca14b13bc52.jpg",
+        "summary": "La mayoría de los baldíos está en zonas no urbanizadas. El municipio tiene estrategias para estos lotes, mientras avanza la densificación de la ciudad",
+        "pubDate": "2026-10-11T09:50:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Con una propuesta de \"lujo accesible\" los bazares chinos cambian la fisonomía de las vidrieras en el centro rosarino",
+        "link": "https://www.lacapital.com.ar/la-ciudad/con-una-propuesta-lujo-accesible-los-bazares-chinos-cambian-la-fisonomia-las-vidrieras-el-centro-rosarino-n10285945.html",
+        "image": "https://media.lacapital.com.ar/p/a0277ab4a1b2b1798a3c8dcfb7320d42/adjuntos/203/imagenes/103/458/0103458732/1200x675/smart/bazar-chino.avif",
+        "summary": "En días se sumará Stylo, donde fue el icónico local de la librería Técnica. Los bazares chinos van por más, con un espaldarazo del embajador",
+        "pubDate": "2026-10-11T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Adelante Santa Fe",
+        "link": "https://www.lacapital.com.ar/opinion/adelante-santa-fe-n10285879.html",
+        "image": "https://media.lacapital.com.ar/p/a3708e2dc57ca5ce657c874be6325087/adjuntos/203/imagenes/103/401/0103401125/1200x675/smart/pullaro-juegos.jpeg",
+        "summary": "El gobernador Maximiliano Pullaro confirmó el cronograma electoral y se suma a la idea de eliminar las Paso nacionales",
+        "pubDate": "2026-10-11T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Crédito al agro: ¿Cuánto cuesta financiar la campaña 2026/27?",
         "link": "https://www.lacapital.com.ar/agro/credito-al-agro-cuanto-cuesta-financiar-la-campana-202627-n10286054.html",
         "image": "https://media.lacapital.com.ar/p/c734058c5dd490d46905a5986fed32e7/adjuntos/203/imagenes/103/368/0103368698/1200x675/563x341:583x361/siembra-campo.jpg",
@@ -159,15 +186,6 @@
       },
       {
         "source": "La Capital",
-        "title": "Recta final para el recambio histórico en la Corte Suprema de Santa Fe",
-        "link": "https://www.lacapital.com.ar/politica/recta-final-el-recambio-historico-la-corte-suprema-santa-fe-n10285996.html",
-        "image": "https://media.lacapital.com.ar/p/53b15d35eae2cebbe80b1e662670c1a7/adjuntos/203/imagenes/103/459/0103459550/1200x675/smart/image.png",
-        "summary": "El magistrado Roberto Falistocco tiene previsto materializar su alejamiento del cuerpo entre el 20 y el 25 de noviembre próximo",
-        "pubDate": "2026-10-11T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "La receta de Newell's para Mendoza: defensa sólida y tiempo y cabeza para atacar",
         "link": "https://www.lacapital.com.ar/ovacion/la-receta-newells-mendoza-defensa-solida-y-tiempo-y-cabeza-atacar-n10286052.html",
         "image": "https://media.lacapital.com.ar/p/b2a37abbcd78c4863c84843245f75a84/adjuntos/203/imagenes/103/460/0103460393/1200x675/smart/image-48.png",
@@ -181,6 +199,15 @@
         "link": "https://www.lacapital.com.ar/la-ciudad/taxis-proponen-una-nueva-categoria-choferes-desalentar-la-venta-o-caucion-chapas-n10285401.html",
         "image": "https://media.lacapital.com.ar/p/089716e7a4a1f81c313867e3d1caace7/adjuntos/203/imagenes/102/684/0102684301/1200x675/smart/taxis3.jpg",
         "summary": "El proyecto busca incentivar la contratación de peones de taxis con otra figura legal, sin perder de vista las otras tres categorías vigentes. Los detalles",
+        "pubDate": "2026-10-11T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Recta final para el recambio histórico en la Corte Suprema de Santa Fe",
+        "link": "https://www.lacapital.com.ar/politica/recta-final-el-recambio-historico-la-corte-suprema-santa-fe-n10285996.html",
+        "image": "https://media.lacapital.com.ar/p/53b15d35eae2cebbe80b1e662670c1a7/adjuntos/203/imagenes/103/459/0103459550/1200x675/smart/image.png",
+        "summary": "El magistrado Roberto Falistocco tiene previsto materializar su alejamiento del cuerpo entre el 20 y el 25 de noviembre próximo",
         "pubDate": "2026-10-11T09:10:00+00:00",
         "approxTime": false
       },
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/7e27fe23fc79af48c1c247fe9649b19d/adjuntos/203/imagenes/101/873/0101873708/1200x675/smart/cfijpg.jpg",
         "summary": "Según el Iaraf, entre los primeros nueve meses de 2023 y 2026 las transferencias bajaron casi 13%. Resignó recursos por $775 mil millones por transferencias automáticas",
         "pubDate": "2026-10-10T23:05:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Se viene una nueva regata recreativa de Stand Up Paddle en el río Paraná",
-        "link": "https://www.lacapital.com.ar/la-ciudad/se-viene-una-nueva-regata-recreativa-stand-up-paddle-el-rio-parana-n10286041.html",
-        "image": "https://media.lacapital.com.ar/p/886fd02c3f30af1679bb9ab29a53aa61/adjuntos/203/imagenes/103/460/0103460213/1200x675/smart/sup-1.jpg",
-        "summary": "La travesía, que se desarrollará por décimo año consecutivo, recorre la silueta de la ciudad, desde el puente Rosario-Victoria hasta el Monumento Nacional a la Bandera",
-        "pubDate": "2026-10-10T22:52:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Beneficio para Newell's: Estudiantes empató en Santiago del Estero",
-        "link": "https://www.lacapital.com.ar/ovacion/beneficio-newells-estudiantes-empato-santiago-del-estero-n10286045.html",
-        "image": "https://media.lacapital.com.ar/p/76d03bfc79f50b2797aec4444317ea53/adjuntos/203/imagenes/103/460/0103460258/1200x675/smart/image-47.png",
-        "summary": "El Pincha, inmediato perseguidor de los clasificados, no pudo ganar este sábado frente a Central Córdoba y quedó a tres puntos del conjunto de Frank Kudelka",
-        "pubDate": "2026-10-10T22:46:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El tiempo en Rosario: los días seguirán nublados y con inestabilidad latente",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-los-dias-seguiran-nublados-y-inestabilidad-latente-n10286043.html",
-        "image": "https://media.lacapital.com.ar/p/ca6312c39c4e080cf2620405453c626d/adjuntos/203/imagenes/027/942/0027942393/1200x675/smart/nublado11jpg.jpg",
-        "summary": "Tanto el domingo como el lunes habrá cielo cubierto, con alto porcentaje de humedad que podría derivar en lluvias aisladas",
-        "pubDate": "2026-10-10T22:23:00+00:00",
         "approxTime": false
       }
     ]
