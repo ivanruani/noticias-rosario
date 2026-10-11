@@ -1,14 +1,32 @@
 {
-  "generatedAt": "2026-10-11T13:01:07.648991+00:00",
+  "generatedAt": "2026-10-11T13:30:58.176172+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "La intendenta santafesina a la que le diagnosticaron cáncer de mama, sigue gobernando en pleno tratamiento y busca generar conciencia",
+        "link": "https://www.rosario3.com/informaciongeneral/la-intendenta-santafesina-a-la-que-le-diagnosticaron-cancer-de-mama-sigue-gobernando-en-pleno-tratamiento-y-busca-generar-conciencia-20261011-0002.html",
+        "image": "https://www.rosario3.com/__export/1791693941002/sites/rosario3/img/2026/10/11/paula_mitre_1.jpg_2106848869.jpg",
+        "summary": "Es Paula Mitre, que gobierna la ciudad de Vera desde 2023. En mayo pasado le diagnosticaron la enfermedad y está en pleno tratamiento. No dejó la gestión aunque sí ajustó prioridades. “Si te va a pasar, lo mejor es detectarlo tempranamente y así es curable”, planteó. Milita en…",
+        "pubDate": "2026-10-11T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Rosario busca caja: empresas bajo presión, negocios frente al río y una baja de impuestos en carpeta | Ecos365",
         "link": "https://www.rosario3.com/ecos365/noticias/rosario-busca-caja-empresas-bajo-presion-negocios-frente-al-rio-y-una-baja-de-impuestos-en-carpeta-20261011-0001.html",
         "image": "https://www.rosario3.com/__export/1791718127357/sites/rosario3/img/2026/10/11/el_color_del_dinero.png_446026524.png",
         "summary": "La economía entró en modo electoral antes que la política. Santa Fe prepara beneficios fiscales para captar exportaciones, Rosario redefine negocios sobre el río y las empresas buscan efectivo. La pelea es por llegar",
-        "pubDate": "2026-10-11T12:00:00+00:00",
+        "pubDate": "2026-10-11T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "El derecho internacional bajo ataque: el mensaje detrás del Nobel de la Paz",
+        "link": "https://www.rosario3.com/politica/el-derecho-internacional-bajo-ataque-el-mensaje-detras-del-nobel-de-la-paz-20261010-0030.html",
+        "image": "https://www.rosario3.com/__export/1791724357523/sites/rosario3/img/2026/10/11/pillay_version1791724357021.jpg_54252875.jpg",
+        "summary": "El Nobel a Navi Pillay expuso las tensiones entre la justicia internacional y los intereses de las grandes potencias. Las reacciones de Israel y Estados Unidos muestran las dificultades para exigir responsabilidades cuando las investigaciones afectan a Estados poderosos o sus…",
+        "pubDate": "2026-10-10T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -17,25 +35,7 @@
         "link": "https://www.rosario3.com/tecnologia/hay-alguien-ahi-la-ia-y-la-busqueda-del-ser-20261009-0051.html",
         "image": "https://www.rosario3.com/__export/1791572134079/sites/rosario3/img/2026/10/09/000_-_imagen_de_portada_-_2026-10-09t155502_195.jpg_1768679257.jpg",
         "summary": "Mientras los modelos de IA muestran comportamientos cada vez más parecidos a los de una mente, científicos, filósofos y religiosos discuten qué haríamos si fuera imposible descartar que hay alguien detrás de sus palabras",
-        "pubDate": "2026-10-09T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El papa León XIV anunció que será operado de un nódulo en un pulmón y permanecerá una semana internado",
-        "link": "https://www.rosario3.com/informaciongeneral/el-papa-leon-xiv-anuncio-que-sera-operado-de-un-nodulo-en-un-pulmon-y-permanecera-una-semana-internado-20261011-0006.html",
-        "image": "https://www.rosario3.com/__export/1791720382177/sites/rosario3/img/2026/10/11/papa.jpg_1825222445.jpg",
-        "summary": "El pontífice, de 71 años, informó que la lesión fue detectada en una fase muy inicial. La intervención se realizará en los próximos días, según confirmó el Vaticano. En noviembre tiene previsto visitar Argentina, Uruguay y Perú",
-        "pubDate": "2026-10-11T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Domingo gris y fresco en Rosario: se viene una semana con poco sol",
-        "link": "https://www.rosario3.com/informaciongeneral/domingo-gris-y-fresco-en-rosario-se-viene-una-semana-con-poco-sol-20261011-0003.html",
-        "image": "https://www.rosario3.com/__export/1791718816563/sites/rosario3/img/2026/10/11/clima.jpg_1825222445.jpg",
-        "summary": "El cielo permanecerá mayormente cubierto durante los próximos días, con temperaturas moderadas y máximas que rondarán los 19 y 20 grados",
-        "pubDate": "2026-10-11T11:57:00+00:00",
+        "pubDate": "2026-10-09T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -76,11 +76,20 @@
       },
       {
         "source": "Rosario3",
-        "title": "Lionel Messi brilló con un doblete en la goleada de Inter Miami tras su despedida de la selección argentina",
-        "link": "https://www.rosario3.com/deportes/lionel-messi-brillo-con-un-doblete-en-la-goleada-de-inter-miami-tras-su-despedida-de-la-seleccion-argentina-20261011-0008.html",
-        "image": "https://www.rosario3.com/__export/1791722892487/sites/rosario3/img/2026/10/11/messi_inter_miami.jpg_1825222445.jpg",
-        "summary": "El astro rosarino convirtió dos goles en la victoria por 4-0 ante DC United, apenas cuatro días después de su último partido con la Albiceleste. Luis Suárez anotó los otros dos tantos y el equipo de Florida se mantiene en el segundo puesto de la Conferencia Este de la MLS",
+        "title": "El papa León XIV anunció que será operado de un nódulo en un pulmón y permanecerá una semana internado",
+        "link": "https://www.rosario3.com/informaciongeneral/el-papa-leon-xiv-anuncio-que-sera-operado-de-un-nodulo-en-un-pulmon-y-permanecera-una-semana-internado-20261011-0006.html",
+        "image": "https://www.rosario3.com/__export/1791720382177/sites/rosario3/img/2026/10/11/papa.jpg_1825222445.jpg",
+        "summary": "El pontífice, de 71 años, informó que la lesión fue detectada en una fase muy inicial. La intervención se realizará en los próximos días, según confirmó el Vaticano. En noviembre tiene previsto visitar Argentina, Uruguay y Perú",
         "pubDate": "2026-10-11T11:52:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Domingo gris y fresco en Rosario: se viene una semana con poco sol",
+        "link": "https://www.rosario3.com/informaciongeneral/domingo-gris-y-fresco-en-rosario-se-viene-una-semana-con-poco-sol-20261011-0003.html",
+        "image": "https://www.rosario3.com/__export/1791718816563/sites/rosario3/img/2026/10/11/clima.jpg_1825222445.jpg",
+        "summary": "El cielo permanecerá mayormente cubierto durante los próximos días, con temperaturas moderadas y máximas que rondarán los 19 y 20 grados",
+        "pubDate": "2026-10-11T11:51:00+00:00",
         "approxTime": true
       },
       {
@@ -89,15 +98,6 @@
         "link": "https://www.rosario3.com/politica/milei-y-la-sociedad-argentina-los-que-lo-quieren-los-que-no-lo-soportan-y-los-que-no-quieren-volver-al-pasado-20261010-0023.html",
         "image": "https://www.rosario3.com/__export/1791565434226/sites/rosario3/img/2026/10/09/milei_bullrich.png_786111822.png",
         "summary": "A casi tres años de gobierno, Milei conserva un núcleo duro de apoyo, pero pierde terreno entre quienes lo votaron y tienen pensamiento de centro. Un estudio de opinión pública revela las contradicciones de una sociedad que demanda más protección del Estado, valora el esfuerzo…",
-        "pubDate": "2026-10-10T11:51:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Panamá declaró el estado de emergencia nacional tras el terremoto y destinará 100 millones de dólares a la asistencia",
-        "link": "https://www.rosario3.com/informaciongeneral/panama-declaro-el-estado-de-emergencia-nacional-tras-el-terremoto-y-destinara-100-millones-de-dolares-a-la-asistencia-20261010-0029.html",
-        "image": "https://www.rosario3.com/__export/1791672887416/sites/rosario3/img/2026/10/10/panama.jpg_928314580.jpg",
-        "summary": "El presidente José Raúl Mulino dispuso la medida extraordinaria para financiar ayuda humanitaria y la reconstrucción de infraestructura dañada, tras el sismo de magnitud 7,7 que se registró el viernes en el país centroamericano",
         "pubDate": "2026-10-10T11:50:00+00:00",
         "approxTime": true
       },
@@ -121,24 +121,33 @@
       },
       {
         "source": "Rosario3",
-        "title": "Se viene una nueva edición de la Regata de Stand Up Paddle \"Ciudad de Rosario\"",
-        "link": "https://www.rosario3.com/deportes/se-viene-una-nueva-edicion-de-la-regata-de-stand-up-paddle-ciudad-de-rosario-20261010-0033.html",
-        "image": "https://www.rosario3.com/__export/1791674350973/sites/rosario3/img/2026/10/10/regata_sup.jpg_506286608.jpg",
-        "summary": "Será este lunes 12 de octubre a partir de las 10. Unirá el puente Rosario-Victoria con el Monumento Nacional a la Bandera, recorriendo la silueta rosarina por las aguas del río Paraná",
-        "pubDate": "2026-10-10T11:47:00+00:00",
+        "title": "Lionel Messi brilló con un doblete en la goleada de Inter Miami tras su despedida de la selección argentina",
+        "link": "https://www.rosario3.com/deportes/lionel-messi-brillo-con-un-doblete-en-la-goleada-de-inter-miami-tras-su-despedida-de-la-seleccion-argentina-20261011-0008.html",
+        "image": "https://www.rosario3.com/__export/1791722892487/sites/rosario3/img/2026/10/11/messi_inter_miami.jpg_1825222445.jpg",
+        "summary": "El astro rosarino convirtió dos goles en la victoria por 4-0 ante DC United, apenas cuatro días después de su último partido con la Albiceleste. Luis Suárez anotó los otros dos tantos y el equipo de Florida se mantiene en el segundo puesto de la Conferencia Este de la MLS",
+        "pubDate": "2026-10-11T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Borsalino, una marca emblemática de Rosario que combina moda y tendencia al mejor precio",
-        "link": "https://www.rosario3.com/informaciongeneral/borsalino-una-marca-emblematica-de-rosario-que-combina-moda-y-tendencia-al-mejor-precio-20261011-0001.html",
-        "image": "https://www.rosario3.com/__export/1791692209319/sites/rosario3/img/2026/10/11/borsalino.jpg_1321341558.jpg",
-        "summary": "Desde hace más de 40 años, esta firma reconocida de la ciudad ofrece el mejor servicio en sus cuatro sucursales, siempre pensando en sus clientes. En el local de San Martín 1031, esta semana y hasta agotar stock hay promociones imperdibles",
-        "pubDate": "2026-10-11T11:46:00+00:00",
+        "title": "Se viene una nueva edición de la Regata de Stand Up Paddle \"Ciudad de Rosario\"",
+        "link": "https://www.rosario3.com/deportes/se-viene-una-nueva-edicion-de-la-regata-de-stand-up-paddle-ciudad-de-rosario-20261010-0033.html",
+        "image": "https://www.rosario3.com/__export/1791674350973/sites/rosario3/img/2026/10/10/regata_sup.jpg_506286608.jpg",
+        "summary": "Será este lunes 12 de octubre a partir de las 10. Unirá el puente Rosario-Victoria con el Monumento Nacional a la Bandera, recorriendo la silueta rosarina por las aguas del río Paraná",
+        "pubDate": "2026-10-10T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Franco Colapinto volvió a abandonar en Sepang por un problema mecánico como en la sprint",
+        "link": "https://www.lacapital.com.ar/ovacion/franco-colapinto-volvio-abandonar-sepang-un-problema-mecanico-como-la-sprint-n10286064.html",
+        "image": "https://media.lacapital.com.ar/p/9180c8ba6cb54e0b8ff7be8f33e791fa/adjuntos/203/imagenes/103/460/0103460443/1200x675/smart/image-8.jpg",
+        "summary": "El argentino sufrió otra vez problemas en su Alpine que lo dejaron tirado a mitad de carrera en Sepang. Una gira asiática para el olvido",
+        "pubDate": "2026-10-11T13:10:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "El capitán de nuestro cerebro: las funciones ejecutivas",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/d8e7871903a288bfe5e72e4c51a803f1/adjuntos/203/imagenes/103/460/0103460469/camm.jpeg",
         "summary": "Central se presenta en Arroyito tras ser campeón de la Supercopa Internacional. Tiene una final con Independiente Rivadavia, líder de la anual",
         "pubDate": "2026-10-11T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "¿Por qué hay que legalizar Uber y DiDi?",
-        "link": "https://www.lacapital.com.ar/opinion/por-que-hay-que-legalizar-uber-y-didi-n10285999.html",
-        "image": "https://media.lacapital.com.ar/p/3dccdb2fc61e6d16d36626be2f4c97b7/adjuntos/203/imagenes/103/310/0103310754/1200x675/smart/uber-y-didi-villa-gobernador-galvez.jpg",
-        "summary": "Rosario debe avanzar legitimando las aplicaciones de transporte. No es darles vía libre, es reconocer la realidad en lugar de negarla; es establecer reglas, proteger fuentes de trabajo y darles mayor seguridad a quienes viajan",
-        "pubDate": "2026-10-11T09:05:00+00:00",
         "approxTime": false
       }
     ]
