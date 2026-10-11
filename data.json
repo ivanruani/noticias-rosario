@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T22:30:56.459176+00:00",
+  "generatedAt": "2026-10-11T23:01:07.625889+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Triunfo gigante: Central ganó un partido clave y lo hizo revoleando el poncho y a puro gol",
+        "link": "https://www.lacapital.com.ar/ovacion/triunfo-gigante-central-gano-un-partido-clave-y-lo-hizo-revoleando-el-poncho-y-puro-gol-n10286132.html",
+        "image": "https://media.lacapital.com.ar/p/557157cdc8e8bd8144f967f805c153ef/adjuntos/203/imagenes/103/462/0103462113/mmmaaa.jpg",
+        "summary": "El Canalla metió un aplastante 5-0 sobre Independiente Rivadavia para soñar más que nunca con la tabla anual. Fue el mejor partido en el ciclo de Almirón",
+        "pubDate": "2026-10-11T22:44:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Scaloni compitió en una carrera ciclística de 129 km en Buenos Aires",
+        "link": "https://www.lacapital.com.ar/ovacion/scaloni-compitio-una-carrera-ciclistica-129-km-buenos-aires-n10286161.html",
+        "image": "https://media.lacapital.com.ar/p/ac3dca49564ab3cbcb68a06bf3f4f700/adjuntos/203/imagenes/103/462/0103462132/2026-10-11-scaloni.jpg",
+        "summary": "El técnico de la selección argentina hizo un muy buen tiempo en la cuarta edición del Gran Fondo Buenos Aires",
+        "pubDate": "2026-10-11T22:36:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El uno x uno de Central: Di María, el ángel que otra vez hizo vibrar a todos en Arroyito",
         "link": "https://www.lacapital.com.ar/ovacion/el-uno-x-uno-central-di-maria-el-angel-que-otra-vez-hizo-vibrar-todos-arroyito-n10286058.html",
         "image": "https://media.lacapital.com.ar/p/1511430ead8a7440b3e680fa1e2d6bd7/adjuntos/203/imagenes/103/462/0103462045/fideo.jpg",
@@ -171,7 +189,7 @@
         "title": "Un joven de Pergamino murió en un brutal accidente de tránsito en Punta Cana",
         "link": "https://www.lacapital.com.ar/informacion-general/un-joven-pergamino-murio-un-brutal-accidente-transito-punta-cana-n10286156.html",
         "image": "https://media.lacapital.com.ar/p/ef69c2e2ec8d501d80c4c9dd72bc8564/adjuntos/203/imagenes/103/461/0103461968/1200x675/smart/imagecana.jpg",
-        "summary": "Robert Farías García tenía 30 años y circulaba en moto cuando sufrió un accidente con un camión en República Dominicana. Su pareja pidió que se esclarezca lo ocurrido: \"Robert merece justicia\".",
+        "summary": "Roberto Farías García tenía 30 años y circulaba en moto cuando sufrió un accidente con un camión en República Dominicana. Su pareja pidió que se esclarezca lo ocurrido: \"Robert merece justicia\".",
         "pubDate": "2026-10-11T21:59:00+00:00",
         "approxTime": false
       },
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/2f9738bfb67b999a8f624d7d4f3d69a6/adjuntos/203/imagenes/027/251/0027251369/1200x675/smart/pedidosyajpg.jpg",
         "summary": "El gremio pidió frenar la millonaria operación ante la Autoridad Nacional de la Competencia. Advirtió que Uber podría convertirse en el único empleador de hecho, con poder para imponer tarifas y condiciones laborales a los repartidores.",
         "pubDate": "2026-10-11T19:07:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Por qué conectar los datos de Gmail con WhatsApp puede salvar tu cuenta",
-        "link": "https://www.lacapital.com.ar/informacion-general/por-que-conectar-los-datos-gmail-whatsapp-puede-salvar-tu-cuenta-n10285868.html",
-        "image": "https://media.lacapital.com.ar/p/25189a1f571869d17980f90a0a212402/adjuntos/203/imagenes/102/632/0102632960/1200x675/smart/celular-whatsapp.png",
-        "summary": "Agregar el correo electrónico es fundamental para tener un método alternativo de acceso a WhatsApp en caso de no poder recibir el código de verificación a través del número telefónico",
-        "pubDate": "2026-10-11T18:41:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Netflix estrenó una miniserie canadiense de suspenso y criaturas extrañas",
-        "link": "https://www.lacapital.com.ar/zoom/netflix-estreno-una-miniserie-canadiense-suspenso-y-criaturas-extranas-n10285864.html",
-        "image": "https://media.lacapital.com.ar/p/e6bc86e2d08f564cd44986b851d54f9e/adjuntos/203/imagenes/103/457/0103457842/1200x675/smart/image-2.png",
-        "summary": "A lo largo de 6 episodios, la producción mezcla géneros como el drama, el thriller y la ciencia ficción para contar una historia de criaturas marinas misteriosas",
-        "pubDate": "2026-10-11T18:40:00+00:00",
         "approxTime": false
       }
     ]
