@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T09:30:56.450304+00:00",
+  "generatedAt": "2026-10-12T10:01:11.246776+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Barrios populares: una familia necesita casi $2,5 millones para vivir en Rosario",
+        "link": "https://www.lacapital.com.ar/la-ciudad/barrios-populares-una-familia-necesita-casi-25-millones-vivir-rosario-n10286141.html",
+        "image": "https://media.lacapital.com.ar/p/cf898e2b4dba4e7dabbd787819b139f7/adjuntos/203/imagenes/101/846/0101846782/1200x675/smart/empalmejpg.jpg",
+        "summary": "El costo de vida aumentó un 13,1% entre junio y septiembre, según un relevamiento del CESO. Los alimentos registraron fuertes subas y ninguno de los salarios de referencia alcanzó para cubrir la canasta familiar",
+        "pubDate": "2026-10-12T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Baldíos: proponen beneficios para quienes los mantienen y multas más duras por abandono",
+        "link": "https://www.lacapital.com.ar/la-ciudad/baldios-proponen-beneficios-quienes-los-mantienen-y-multas-mas-duras-abandono-n10286127.html",
+        "image": "https://media.lacapital.com.ar/p/e8e0086da8efab8d3dcd0f9a3c6e42e2/adjuntos/203/imagenes/102/908/0102908655/1200x675/smart/limpieza-terrenos-baldios02.jpg",
+        "summary": "Un proyecto en el Concejo busca eximir de una sobretasa a terrenos parquizados e integrados a viviendas y aumentar las sanciones por falta de mantenimiento. Hay 5.000 terrenos alcanzables por la propuesta",
+        "pubDate": "2026-10-12T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Un libro sobre oficios de Rosario llega a la Bienal de Diseño de Madrid",
         "link": "https://www.lacapital.com.ar/la-ciudad/un-libro-oficios-rosario-llega-la-bienal-diseno-madrid-n10285362.html",
         "image": "https://media.lacapital.com.ar/p/eb6ade905e27fc5df24218ffa695f602/adjuntos/203/imagenes/103/452/0103452609/1200x675/smart/artes3.jpg",
@@ -159,19 +177,10 @@
       },
       {
         "source": "La Capital",
-        "title": "Oscar Martínez: \"El mito del fin del trabajo funciona como una amenaza\"",
-        "link": "https://www.lacapital.com.ar/economia/oscar-martinez-el-mito-del-fin-del-trabajo-funciona-como-una-amenaza-n10286149.html",
-        "image": "https://media.lacapital.com.ar/p/8e5697a7bbd3ba49cc4cc7b41f457c96/adjuntos/203/imagenes/103/461/0103461829/1200x675/589x307:609x327/oscarmartinez.jpeg",
-        "summary": "El sociólogo especialista en el mundo del trabajo presentó en Rosario su libro sobre inteligencia artificial y movimiento obrero",
-        "pubDate": "2026-10-12T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Newell's expone su racha invicta en Mendoza ante un rival directo por la clasificación",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-expone-su-racha-invicta-mendoza-un-rival-directo-la-clasificacion-n10286137.html",
-        "image": "https://media.lacapital.com.ar/p/00fbb4ed8b6424d56d7f8161af77946e/adjuntos/203/imagenes/103/462/0103462322/1200x675/smart/image-12.jpg",
-        "summary": "El conjunto de Frank Kudelka visitará a Gimnasia de Mendoza, con quien comparte la cantidad de puntos. Duelo clave a 5 fechas del final",
+        "title": "La historia soñada del trompetista rosarino que toca en \"una de las sinfónicas más grandes del mundo\"",
+        "link": "https://www.lacapital.com.ar/la-ciudad/la-historia-sonada-del-trompetista-rosarino-que-toca-una-las-sinfonicas-mas-grandes-del-mundo-n10284676.html",
+        "image": "https://media.lacapital.com.ar/p/a8c6ae4324e64047316b126b88a56c6c/adjuntos/203/imagenes/103/452/0103452608/1200x675/smart/malatesta1.jpg",
+        "summary": "Marco Malatesta, de 22 años, ingresó a la Orquesta Sinfónica de la Radio de Frankfurt. Un hito para el país y Sudamérica por las características del caso",
         "pubDate": "2026-10-12T09:10:00+00:00",
         "approxTime": false
       },
@@ -186,10 +195,19 @@
       },
       {
         "source": "La Capital",
-        "title": "La historia soñada del trompetista rosarino que toca en \"una de las sinfónicas más grandes del mundo\"",
-        "link": "https://www.lacapital.com.ar/la-ciudad/la-historia-sonada-del-trompetista-rosarino-que-toca-una-las-sinfonicas-mas-grandes-del-mundo-n10284676.html",
-        "image": "https://media.lacapital.com.ar/p/a8c6ae4324e64047316b126b88a56c6c/adjuntos/203/imagenes/103/452/0103452608/1200x675/smart/malatesta1.jpg",
-        "summary": "Marco Malatesta, de 22 años, ingresó a la Orquesta Sinfónica de la Radio de Frankfurt. Un hito para el país y Sudamérica por las características del caso",
+        "title": "Oscar Martínez: \"El mito del fin del trabajo funciona como una amenaza\"",
+        "link": "https://www.lacapital.com.ar/economia/oscar-martinez-el-mito-del-fin-del-trabajo-funciona-como-una-amenaza-n10286149.html",
+        "image": "https://media.lacapital.com.ar/p/8e5697a7bbd3ba49cc4cc7b41f457c96/adjuntos/203/imagenes/103/461/0103461829/1200x675/589x307:609x327/oscarmartinez.jpeg",
+        "summary": "El sociólogo especialista en el mundo del trabajo presentó en Rosario su libro sobre inteligencia artificial y movimiento obrero",
+        "pubDate": "2026-10-12T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Newell's expone su racha invicta en Mendoza ante un rival directo por la clasificación",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-expone-su-racha-invicta-mendoza-un-rival-directo-la-clasificacion-n10286137.html",
+        "image": "https://media.lacapital.com.ar/p/00fbb4ed8b6424d56d7f8161af77946e/adjuntos/203/imagenes/103/462/0103462322/1200x675/smart/image-12.jpg",
+        "summary": "El conjunto de Frank Kudelka visitará a Gimnasia de Mendoza, con quien comparte la cantidad de puntos. Duelo clave a 5 fechas del final",
         "pubDate": "2026-10-12T09:10:00+00:00",
         "approxTime": false
       },
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/43b351df70b20fe317ff19d138549d87/adjuntos/203/imagenes/103/462/0103462334/centra.jpg",
         "summary": "Fue el único equipo de los que pelean por ese primer puesto que logró sumar de a tres. Resta que juegue Vélez, en cancha de Lanús",
         "pubDate": "2026-10-12T00:06:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "De un extremo a otro, el pasado une a Newell's y el Lobo mendocino",
-        "link": "https://www.lacapital.com.ar/ovacion/de-un-extremo-otro-el-pasado-une-newells-y-el-lobo-mendocino-n10286138.html",
-        "image": "https://media.lacapital.com.ar/p/46b8cbda9b239b37485d0e4401ce221b/adjuntos/203/imagenes/103/461/0103461649/1200x675/smart/image-10.jpg",
-        "summary": "Santiago Solari y Luciano Cingolani son apuestas de desequilibrio en ambos equipos y jugaron con la camiseta del rival de hoy. Pero no son los únicos casos",
-        "pubDate": "2026-10-11T23:42:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Tarde redonda para Central: desde la locura de Di María hasta los goles de los 9",
-        "link": "https://www.lacapital.com.ar/ovacion/tarde-redonda-central-la-locura-di-maria-los-goles-los-9-n10286165.html",
-        "image": "https://media.lacapital.com.ar/p/3b5f6f1a1f5372dc93728f817a3c105b/adjuntos/203/imagenes/103/462/0103462288/di-maria.jpg",
-        "summary": "Fideo marcó el camino en la gran victoria canalla en el Gigante y en medio del derrame aparecieron los centrodelanteros para romper su sequía",
-        "pubDate": "2026-10-11T23:35:00+00:00",
         "approxTime": false
       }
     ]
