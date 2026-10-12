@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T23:38:42.692626+00:00",
+  "generatedAt": "2026-10-12T00:01:11.620601+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "De un extremo a otro, el pasado une a Newell's y el Lobo mendocino",
+        "link": "https://www.lacapital.com.ar/ovacion/de-un-extremo-otro-el-pasado-une-newells-y-el-lobo-mendocino-n10286138.html",
+        "image": "https://media.lacapital.com.ar/p/46b8cbda9b239b37485d0e4401ce221b/adjuntos/203/imagenes/103/461/0103461649/1200x675/smart/image-10.jpg",
+        "summary": "Santiago Solari y Luciano Cingolani son apuestas de desequilibrio en ambos equipos y jugaron con la camiseta del rival de hoy. Pero no son los únicos casos",
+        "pubDate": "2026-10-11T23:42:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Tarde redonda para Central: desde la locura de Di María hasta los goles de los 9",
         "link": "https://www.lacapital.com.ar/ovacion/tarde-redonda-central-la-locura-di-maria-los-goles-los-9-n10286165.html",
         "image": "https://media.lacapital.com.ar/p/3b5f6f1a1f5372dc93728f817a3c105b/adjuntos/203/imagenes/103/462/0103462288/di-maria.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/6f3a6d58e536495765b8df08b61bc2a1/adjuntos/203/imagenes/103/461/0103461762/1200x675/smart/imagebs.jpg",
         "summary": "La región registra una de las mayores concentraciones de riqueza del mundo, incluso por encima de Estados Unidos y Europa. En Brasil y México, el 1% más rico posee casi el 50% del patrimonio, mientras que la mitad más pobre no llega al 1%.",
         "pubDate": "2026-10-11T20:39:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central va con todo su potencial por tres puntos clave en la lucha por la anual",
-        "link": "https://www.lacapital.com.ar/ovacion/central-va-todo-su-potencial-tres-puntos-clave-la-lucha-la-anual-n10286097.html",
-        "image": "https://media.lacapital.com.ar/p/a914ee0348e125b2131ae0d7e3977345/adjuntos/203/imagenes/103/461/0103461009/almironlv.jpeg",
-        "summary": "El DT canalla Jorge Almirón dispuso los ingresos de Jaminton Campaz, Vicente Pizarro y Agustín Sández para recibir a Independiente Rivadavia",
-        "pubDate": "2026-10-11T19:08:00+00:00",
         "approxTime": false
       }
     ]
