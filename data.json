@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T17:01:14.704075+00:00",
+  "generatedAt": "2026-10-12T17:31:02.012353+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Femicidio en Empalme Graneros: revelaron que la víctima presentaba signos de asfixia",
+        "link": "https://www.lacapital.com.ar/policiales/femicidio-empalme-graneros-revelaron-que-la-victima-presentaba-signos-asfixia-n10286258.html",
+        "image": "https://media.lacapital.com.ar/p/c368803dd018700b343c81c2e4d3b6ae/adjuntos/203/imagenes/103/463/0103463927/1200x675/smart/image-2026-10-12t141655638.png",
+        "summary": "El expolicía detenido por el asesinato de Bárbara Aragón enfrentará la audiencia imputativa en los próximos días",
+        "pubDate": "2026-10-12T17:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central anunció cómo será la venta de entradas para el partido frente a Atlético Tucumán",
+        "link": "https://www.lacapital.com.ar/ovacion/central-anuncio-como-sera-la-venta-entradas-el-partido-frente-atletico-tucuman-n10286262.html",
+        "image": "https://media.lacapital.com.ar/p/b14d052ad167a9943aa60c0b5a8ece35/adjuntos/203/imagenes/103/448/0103448534/1200x675/smart/image-15.jpg",
+        "summary": "El Canalla podrá llevar hinchas al Monumental José Fierro el sábado 17 de octubre, a las 20, por la 13ª fecha del torneo Clausura",
+        "pubDate": "2026-10-12T17:03:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Arroyo Seco: \"Queremos dejar una ciudad pujante\", dijo Daniel Tonelli",
         "link": "https://www.lacapital.com.ar/la-region/arroyo-seco-queremos-dejar-una-ciudad-pujante-dijo-daniel-tonelli-n10286203.html",
         "image": "https://media.lacapital.com.ar/p/f56b3bf05af10c1be2f35db5558e425f/adjuntos/203/imagenes/103/463/0103463882/1200x675/smart/tonelli-pullaro.jpeg",
@@ -253,24 +271,6 @@
         "link": "https://www.lacapital.com.ar/suscriptores/el-ensayo-giuliano-n10285849.html",
         "image": "https://media.lacapital.com.ar/p/547fced08dfa189975dadb2c576c73f3/adjuntos/203/imagenes/103/457/0103457648/1200x675/smart/giuliano-diego.jpg",
         "summary": "El diputado nacional y presidente del partido de Sergio Massa se lanzó a gobernador en un peronismo desorganizado. Las carambolas para meterse como candidato",
-        "pubDate": "2026-10-12T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Newell's expone su racha invicta en Mendoza ante un rival directo por la clasificación",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-expone-su-racha-invicta-mendoza-un-rival-directo-la-clasificacion-n10286137.html",
-        "image": "https://media.lacapital.com.ar/p/00fbb4ed8b6424d56d7f8161af77946e/adjuntos/203/imagenes/103/462/0103462322/1200x675/smart/image-12.jpg",
-        "summary": "El conjunto de Frank Kudelka visitará a Gimnasia de Mendoza, con quien comparte la cantidad de puntos. Duelo clave a 5 fechas del final",
-        "pubDate": "2026-10-12T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Oscar Martínez: \"El mito del fin del trabajo funciona como una amenaza\"",
-        "link": "https://www.lacapital.com.ar/economia/oscar-martinez-el-mito-del-fin-del-trabajo-funciona-como-una-amenaza-n10286149.html",
-        "image": "https://media.lacapital.com.ar/p/8e5697a7bbd3ba49cc4cc7b41f457c96/adjuntos/203/imagenes/103/461/0103461829/1200x675/589x307:609x327/oscarmartinez.jpeg",
-        "summary": "El sociólogo especialista en el mundo del trabajo presentó en Rosario su libro sobre inteligencia artificial y movimiento obrero",
         "pubDate": "2026-10-12T09:10:00+00:00",
         "approxTime": false
       }
