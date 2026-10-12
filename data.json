@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T02:01:06.664453+00:00",
+  "generatedAt": "2026-10-12T02:30:58.686640+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Seis millones de trabajadores sin protección social y cada vez más argentinos con dos empleos",
+        "link": "https://www.lacapital.com.ar/economia/seis-millones-trabajadores-proteccion-social-y-cada-vez-mas-argentinos-dos-empleos-n10286154.html",
+        "image": "https://media.lacapital.com.ar/p/0466b95cefd910560120d81c87e4f0f0/adjuntos/203/imagenes/102/193/0102193922/1200x675/2183x1791:2203x1811/cadetes-2jpg.jpg",
+        "summary": "Casi la mitad de los ocupados carece de cobertura y, entre quienes necesitan combinar trabajos, las jornadas pueden superar las 60 horas semanales",
+        "pubDate": "2026-10-12T02:20:28+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Otra vez atentaron con un misil contra el aeropuerto de la capital de Arabia Saudita",
         "link": "https://www.lacapital.com.ar/el-mundo/otra-vez-atentaron-un-misil-contra-el-aeropuerto-la-capital-arabia-saudita-n10286187.html",
         "image": "https://media.lacapital.com.ar/p/1fcd48f0036ac136cbdc2ff62c33ef79/adjuntos/203/imagenes/103/462/0103462494/2026-10-11-atentado-riad-aeropuerto.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/b141eb9d07cd46a46d0ac5885adb9cc4/adjuntos/203/imagenes/103/461/0103461954/2026-10-11-milei-papa.jpg",
         "summary": "El presidente publicó en redes sociales un mensaje para León XIV, luego de conocerse que será operado en los próximos días",
         "pubDate": "2026-10-11T21:49:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El efusivo y colorido recibimiento de los hinchas de Central para el equipo campeón",
-        "link": "https://www.lacapital.com.ar/ovacion/el-efusivo-y-colorido-recibimiento-los-hinchas-central-el-equipo-campeon-n10286140.html",
-        "image": "https://media.lacapital.com.ar/p/a0763f6d469f2ab42161fc1d34223899/adjuntos/203/imagenes/103/461/0103461888/festejorc.jpg",
-        "summary": "En la previa del partido entre Central e Independiente Rivadavia de Mendoza, el Gigante se tiñó de azul y amarillo y hubo show de pirotecnia",
-        "pubDate": "2026-10-11T21:39:00+00:00",
         "approxTime": false
       }
     ]
