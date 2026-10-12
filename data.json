@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-10-12T21:01:12.095238+00:00",
+  "generatedAt": "2026-10-12T21:30:59.106827+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Newell’s visita a Gimnasia de Mendoza, un rival directo en la pelea por los playoffs",
+        "link": "https://www.rosario3.com/deportes/newells-visita-a-gimnasia-de-mendoza-la-lepra-quiere-estirar-su-invicto-y-acercarse-a-los-playoffs-20261011-0025.html",
+        "image": "https://www.rosario3.com/__export/1791838792814/sites/rosario3/img/2026/10/12/franco_escobar_newell-s.jpg_506286608.jpg",
+        "summary": "El equipo rojinegro juega este lunes desde las 18.30 en el estadio Víctor Antonio Legrotaglie, por la fecha 12 del torneo Clausura. La Lepra acumula siete partidos sin derrotas, mientras que el conjunto mendocino lleva cuatro encuentros sin ganar. Hay dos cambios en la defensa…",
+        "pubDate": "2026-10-11T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Caso del rosarino que se hizo pasar por juez federal en correos electrónicos: \"Esto se hace por algún tipo de beneficio y en alguna red”",
         "link": "https://www.rosario3.com/informaciongeneral/caso-del-rosarino-que-se-hizo-pasar-por-juez-federal-en-correos-electronicos-esto-se-hace-por-algun-tipo-de-beneficio-y-en-alguna-red-20261012-0027.html",
         "image": "https://www.rosario3.com/__export/1791640089238/sites/rosario3/img/2026/10/10/cristian_martinez_imputado.jpg_672794304.jpg",
         "summary": "La causa del hombre que envió mails para solicitar claves de accesos al Sistema Federal de Comunicaciones Policiales abrió interrogantes sobre el uso de la información que el imputado buscaba obtener y la posible ligazón con organizaciones criminales",
-        "pubDate": "2026-10-12T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El municipio aplicará sanciones a un comercio céntrico por talar un árbol nativo sin autorización",
-        "link": "https://www.rosario3.com/informaciongeneral/el-municipio-aplicara-sanciones-a-un-comercio-centrico-por-talar-un-arbol-nativo-sin-autorizacion-20261012-0020.html",
-        "image": "https://www.rosario3.com/__export/1791821121739/sites/rosario3/img/2026/10/12/disen-o_sin_ti-tulo_-70-_2.png_928314581.png",
-        "summary": "Se trata de un aromito o espinillo ubicado en la vereda de calle Rioja al 1200, en el centro de Rosario. El secretario de Ambiente y Espacio Público, Luciano Marelli, afirmó que el daño fue prácticamente total y anticipó multas severas, además de una compensación ambiental y el…",
         "pubDate": "2026-10-12T11:59:00+00:00",
         "approxTime": true
       },
@@ -31,19 +31,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "12 de Octubre: el Gobierno reivindicó la conquista de América e ignoró el impacto en las culturas nativas",
-        "link": "https://www.rosario3.com/informaciongeneral/12-de-octubre-el-gobierno-reivindico-la-conquista-de-america-e-ignoro-el-impacto-en-las-culturas-nativas-20261012-0033.html",
-        "image": "https://www.rosario3.com/__export/1791835914072/sites/rosario3/img/2026/10/12/the_first_landing_of_christopher_columbus_in_america.jpg_1491479963.jpg",
-        "summary": "En un nuevo mensaje institucional por el Día del Respeto a la Diversidad Cultural, la gestión nacional definió la llegada de Cristóbal Colón como un hito de 'civilización y progreso', omitiendo el consenso histórico sobre las masacres y la catástrofe demográfica en el continente",
+        "title": "El municipio aplicará sanciones a un comercio céntrico por talar un árbol nativo sin autorización",
+        "link": "https://www.rosario3.com/informaciongeneral/el-municipio-aplicara-sanciones-a-un-comercio-centrico-por-talar-un-arbol-nativo-sin-autorizacion-20261012-0020.html",
+        "image": "https://www.rosario3.com/__export/1791821121739/sites/rosario3/img/2026/10/12/disen-o_sin_ti-tulo_-70-_2.png_928314581.png",
+        "summary": "Se trata de un aromito o espinillo ubicado en la vereda de calle Rioja al 1200, en el centro de Rosario. El secretario de Ambiente y Espacio Público, Luciano Marelli, afirmó que el daño fue prácticamente total y anticipó multas severas, además de una compensación ambiental y el…",
         "pubDate": "2026-10-12T11:57:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Santa Fe recibió más de 100 mil visitantes en el fin de semana largo y el turismo generó casi 22 mil millones de pesos",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/santa-fe-recibio-mas-de-100-mil-visitantes-en-el-fin-de-semana-largo-y-el-turismo-genero-casi-22-mil-millones-de-pesos-20261012-0015.html",
-        "image": "https://www.rosario3.com/__export/1791814550627/sites/rosario3/img/2026/10/12/dsc03205_version1791814550046.jpg_299394407.jpg",
-        "summary": "Según el relevamiento de Came, la provincia registró una ocupación hotelera superior al 78%, con mejores niveles en Rosario y la ciudad de Santa Fe. La agenda de eventos culturales, gastronómicos y deportivos fue uno de los principales motores del movimiento turístico",
+        "title": "12 de Octubre: el Gobierno reivindicó la conquista de América e ignoró el impacto en las culturas nativas",
+        "link": "https://www.rosario3.com/informaciongeneral/12-de-octubre-el-gobierno-reivindico-la-conquista-de-america-e-ignoro-el-impacto-en-las-culturas-nativas-20261012-0033.html",
+        "image": "https://www.rosario3.com/__export/1791835914072/sites/rosario3/img/2026/10/12/the_first_landing_of_christopher_columbus_in_america.jpg_1491479963.jpg",
+        "summary": "En un nuevo mensaje institucional por el Día del Respeto a la Diversidad Cultural, la gestión nacional definió la llegada de Cristóbal Colón como un hito de 'civilización y progreso', omitiendo el consenso histórico sobre las masacres y la catástrofe demográfica en el continente",
         "pubDate": "2026-10-12T11:56:00+00:00",
         "approxTime": true
       },
@@ -58,29 +58,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Pérez: cuatro detenidos con cannabis para la venta, una pistola con balas de la Policía y un póster de Scarface",
-        "link": "https://www.rosario3.com/policiales/perez-cuatro-detenidos-con-cannabis-para-la-venta-una-pistola-con-balas-de-la-policia-y-un-poster-de-scarface-20261012-0029.html",
-        "image": "https://www.rosario3.com/__export/1791831049637/sites/rosario3/img/2026/10/12/tony_montana_incautado_marihuana_arma_perez.jpg_1378162447.jpg",
-        "summary": "La investigación se inició a partir de denuncias venta de drogas en Villa América. Los agentes secuestraron marihuana prensada, un arma de fuego y municiones que tiempo atrás había sido asignadas a personal policial",
+        "title": "Santa Fe recibió más de 100 mil visitantes en el fin de semana largo y el turismo generó casi 22 mil millones de pesos",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/santa-fe-recibio-mas-de-100-mil-visitantes-en-el-fin-de-semana-largo-y-el-turismo-genero-casi-22-mil-millones-de-pesos-20261012-0015.html",
+        "image": "https://www.rosario3.com/__export/1791814550627/sites/rosario3/img/2026/10/12/dsc03205_version1791814550046.jpg_299394407.jpg",
+        "summary": "Según el relevamiento de Came, la provincia registró una ocupación hotelera superior al 78%, con mejores niveles en Rosario y la ciudad de Santa Fe. La agenda de eventos culturales, gastronómicos y deportivos fue uno de los principales motores del movimiento turístico",
         "pubDate": "2026-10-12T11:54:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Kudelka cambia media defensa en la visita de Newell’s a Gimnasia de Mendoza, un rival directo",
-        "link": "https://www.rosario3.com/deportes/newells-visita-a-gimnasia-de-mendoza-la-lepra-quiere-estirar-su-invicto-y-acercarse-a-los-playoffs-20261011-0025.html",
-        "image": "https://www.rosario3.com/__export/1791838792814/sites/rosario3/img/2026/10/12/franco_escobar_newell-s.jpg_506286608.jpg",
-        "summary": "El equipo rojinegro juega este lunes desde las 18.30 en el estadio Víctor Antonio Legrotaglie, por la fecha 12 del torneo Clausura. La Lepra acumula siete partidos sin derrotas, mientras que el conjunto mendocino lleva cuatro encuentros sin ganar. Entran Cabrera y Escobar por el…",
-        "pubDate": "2026-10-11T11:53:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Hinchas de Central a Tucumán: cómo, cuándo y a qué precio se venderán las entradas",
-        "link": "https://www.rosario3.com/deportes/hinchas-de-central-a-tucuman-como-cuando-y-a-que-precio-se-venderan-las-entradas-20261012-0034.html",
-        "image": "https://www.rosario3.com/__export/1791835173909/sites/rosario3/img/2026/10/05/central_banfield_visitantes.jpg_506286608.jpg",
-        "summary": "El partido ante Atlético será el próximo sábado a las 20 en el Estadio Monumental José Fierro. Como ante Banfield, los canallas podrán viajar para acompañar al equipo de Di María, que pelea por el título en la tabla anual y busca terminar lo más arriba posible la fase regular…",
-        "pubDate": "2026-10-12T11:52:00+00:00",
         "approxTime": true
       },
       {
@@ -89,7 +71,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/nos-vemos-en-argentina-el-papa-leon-xiv-le-confirmo-al-arzobispo-de-san-juan-su-intencion-de-visitar-el-pais-tras-la-operacion-20261012-0024.html",
         "image": "https://www.rosario3.com/__export/1791827803740/sites/rosario3/img/2026/10/12/papa.jpg_1768679258.jpg",
         "summary": "El Pontífice recibió en el Vaticano a Jorge Eduardo Lozano, un día antes de ser hospitalizado para una intervención pulmonar. El líder de la Iglesia católica le transmitió su voluntad de cumplir con el viaje",
-        "pubDate": "2026-10-12T11:51:00+00:00",
+        "pubDate": "2026-10-12T11:53:00+00:00",
         "approxTime": true
       },
       {
@@ -98,7 +80,16 @@
         "link": "https://www.rosario3.com/policiales/hallaron-el-cuerpo-de-una-mujer-dentro-de-una-valija-en-rosario-y-detuvieron-a-un-ex-policia-por-femicidio-20261012-0006.html",
         "image": "https://www.rosario3.com/__export/1791810326405/sites/rosario3/img/2026/10/12/whatsapp_image_2026-10-12_at_10_00_52_version1791810325904.jpeg_982625323.jpeg",
         "summary": "La víctima tenía 26 años y era oriunda de Villa Gobernador Gálvez. Sus familiares la buscaban desde el sábado y llegaron hasta una pensión de la zona de Juan José Paso al 6200. El detenido había sido condenado en 2021 a seis años de prisión por narcotráfico y fue exonerado de la…",
-        "pubDate": "2026-10-12T11:50:00+00:00",
+        "pubDate": "2026-10-12T11:52:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Franco Colapinto buscará recuperarse en EE.UU. por la F1: días y horarios",
+        "link": "https://www.rosario3.com/deportes/franco-colapinto-buscara-recuperarse-en-ee.uu.-por-la-f1-dias-y-horarios-20261012-0035.html",
+        "image": "https://www.rosario3.com/__export/1791837706780/sites/rosario3/img/2026/10/12/colapinto.jpg_2138234794.jpg",
+        "summary": "El piloto argentino intentará cortar la racha negativa y sumar puntos en el circuito de Austin. La grilla completa con los días y horarios de la actividad en pista",
+        "pubDate": "2026-10-12T11:51:00+00:00",
         "approxTime": true
       },
       {
@@ -107,7 +98,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/ciberataque-en-francia-hackearon-los-sistemas-de-frio-de-cientos-de-supermercados-y-provocaron-una-perdida-masiva-de-alimentos-20261012-0031.html",
         "image": "https://www.rosario3.com/__export/1791834976418/sites/rosario3/img/2026/10/12/super_francia_-afp.jpg_672794304.jpg",
         "summary": "Piratas informáticos elevaron la temperatura de heladeras y congeladores de varias cadenas hasta los 50 grados provocando incendios y echando a perder los alimentos",
-        "pubDate": "2026-10-12T11:49:00+00:00",
+        "pubDate": "2026-10-12T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -116,29 +107,74 @@
         "link": "https://www.rosario3.com/informaciongeneral/pueblos-originarios-se-concentraron-frente-a-la-casa-de-cristina-kirchner-en-rechazo-al-dia-de-la-raza-20261012-0030.html",
         "image": "https://www.rosario3.com/__export/1791833512156/sites/rosario3/img/2026/10/12/pueblos.jpg_1768679257.jpg",
         "summary": "Las comunidades llamaron a un acto cultural para respaldar el decreto de 2010 de la exmandataria que establecía la fecha como 'Día del respeto a la Diversidad Cultural'. Qué se conmemora el 12 de octubre en Argentina. Cómo se conoce a este día en el resto de América y en España",
+        "pubDate": "2026-10-12T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Pérez: cuatro detenidos con cannabis para la venta, una pistola con balas de la Policía y un póster de Scarface",
+        "link": "https://www.rosario3.com/policiales/perez-cuatro-detenidos-con-cannabis-para-la-venta-una-pistola-con-balas-de-la-policia-y-un-poster-de-scarface-20261012-0029.html",
+        "image": "https://www.rosario3.com/__export/1791831049637/sites/rosario3/img/2026/10/12/tony_montana_incautado_marihuana_arma_perez.jpg_1378162447.jpg",
+        "summary": "La investigación se inició a partir de denuncias venta de drogas en Villa América. Los agentes secuestraron marihuana prensada, un arma de fuego y municiones que tiempo atrás había sido asignadas a personal policial",
         "pubDate": "2026-10-12T11:48:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Con actividades abiertas a la comunidad, Rosario se prepara para la Semana del Clima 2026",
-        "link": "https://www.rosario3.com/informaciongeneral/con-actividades-abiertas-a-la-comunidad-rosario-se-prepara-para-semana-del-clima-2026-20261012-0018.html",
-        "image": "https://www.rosario3.com/__export/1791819127835/sites/rosario3/img/2026/10/12/semana_del_clima_rosario.jpg_54252853.jpg",
-        "summary": "Bajo los ejes temáticos “Adaptación al cambio climático”, “Innovación productiva y transición justa” y “Del acuerdo global a la acción local”, la segunda edición de la actividad se desarrollará entre el miércoles 14 y el viernes 16 de octubre, en La Fluvial. Organizan la…",
-        "pubDate": "2026-10-12T11:47:00+00:00",
+        "title": "Feria Internacional del Libro de Rosario 2026: todas las actividades de este lunes",
+        "link": "https://www.rosario3.com/ocio/feria-internacional-del-libro-de-rosario-2026-todas-las-actividades-de-este-lunes-20261008-0039.html",
+        "image": "https://www.rosario3.com/__export/1791740289474/sites/rosario3/img/2026/10/11/feria_del_libro.jpg_54252853.jpg",
+        "summary": "El Cultural Fontanarrosa (San Martín 1080) abre sus puertas de 13 a 21. Gratis, con gestión previa del código QR",
+        "pubDate": "2026-10-08T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Comienza el debate del Presupuesto 2027 en Diputados",
-        "link": "https://www.rosario3.com/politica/comienza-el-debate-del-presupuesto-2027-en-diputados-20261012-0019.html",
-        "image": "https://www.rosario3.com/__export/1785790013049/sites/rosario3/img/2026/07/20/congreso-jpg-25343506_-1-.jpg_1221028662.jpg",
-        "summary": "La Cámara baja abrirá este martes al mediodía el tratamiento en la Comisión de Presupuesto y Hacienda, con la exposición del secretario de Hacienda, Carlos Guberman. El cronograma parlamentario contempla reuniones informativas hasta la primera semana de noviembre. El plan del…",
+        "title": "La insólita crítica que Lionel Messi recibió de parte de Joan Gaspart, expresidente de Barcelona",
+        "link": "https://www.rosario3.com/deportes/la-insolita-critica-que-lionel-messi-recibio-de-parte-de-joan-gaspart-expresidente-de-barcelona-20261012-0028.html",
+        "image": "https://www.rosario3.com/__export/1791828932028/sites/rosario3/img/2026/10/12/messi.jpg_1768679258.jpg",
+        "summary": "El exdirigente sorprendió con un comentario muy fuerte contra el crack argentino, quien solo regresó una vez al club desde su salida, en una visita nocturna sin previo aviso en 2025",
         "pubDate": "2026-10-12T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Cuerpos generados con inteligencia artificial, daño en la vida real",
+        "link": "https://www.lacapital.com.ar/opinion/cuerpos-generados-inteligencia-artificial-dano-la-vida-real-n10286310.html",
+        "image": "https://media.lacapital.com.ar/p/ce33d48a36a335269df88112d67e3aa2/adjuntos/203/imagenes/103/464/0103464346/1200x675/smart/ia-escuela-1210.jpg",
+        "summary": "Una alumna del Colegio Modelo Lomas fue víctima de imágenes sexuales falsas creadas con inteligencia artificial. La difusión de estos contenidos, vendidos y compartidos, expone a las víctimas a graves peligros.",
+        "pubDate": "2026-10-12T21:14:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "En vivo: Newell's busca puntos en Mendoza que lo acerquen a los octavos del Clausura",
+        "link": "https://www.lacapital.com.ar/ovacion/en-vivo-newells-busca-puntos-mendoza-que-lo-acerquen-los-octavos-del-clausura-n10286305.html",
+        "image": "https://media.lacapital.com.ar/p/395c7af9f600154f7667a8936943dfe4/adjuntos/203/imagenes/103/464/0103464323/1200x675/smart/image-5.jpg",
+        "summary": "El equipo de Frank Kudelka enfrenta a Gimnasia de Mendoza, en un partido de rivales directos por entrar al grupo de los ocho. Seguilo en vivo por La Capital",
+        "pubDate": "2026-10-12T21:12:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central fue el gran ganador de la fecha: Vélez perdió y el Canalla se ilusiona con la tabla anual",
+        "link": "https://www.lacapital.com.ar/ovacion/central-fue-el-gran-ganador-la-fecha-velez-perdio-y-el-canalla-se-ilusiona-la-tabla-anual-n10286312.html",
+        "image": "https://media.lacapital.com.ar/p/6e7f6d8e696334257c173767ac582723/adjuntos/203/imagenes/103/464/0103464348/1200x675/smart/imageanual.jpg",
+        "summary": "La derrota del Fortín por 2 a 0 ante Lanús terminó de redondear una jornada ideal para el equipo de Jorge Almirón. Tras golear 5 a 0 al líder Independiente Rivadavia, fue el único de los principales aspirantes al primer puesto que consiguió una victoria y quedó a dos puntos de…",
+        "pubDate": "2026-10-12T21:11:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Empresas del Polo Tecnológico Rosario apuntan a la transformación digital de Vaca Muerta",
+        "link": "https://www.lacapital.com.ar/economia/empresas-del-polo-tecnologico-rosario-apuntan-la-transformacion-digital-vaca-muerta-n10286306.html",
+        "image": "https://media.lacapital.com.ar/p/3938c49fac96df38c6732d170eb51777/adjuntos/203/imagenes/103/464/0103464317/1200x675/583x370:603x390/polo.jpeg",
+        "summary": "Diez firmas rosarinas viajarán a Neuquén para ofrecer soluciones de automatización, inteligencia artificial y gestión de sistemas",
+        "pubDate": "2026-10-12T20:59:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Primera C: Leones FC cantó victoria, Córdoba y Argentino cerraron con derrotas en la fecha 32",
@@ -236,42 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/b14d052ad167a9943aa60c0b5a8ece35/adjuntos/203/imagenes/103/448/0103448534/1200x675/smart/image-15.jpg",
         "summary": "El Canalla podrá llevar hinchas al Monumental José Fierro el sábado 17 de octubre, a las 20, por la 13ª fecha del torneo Clausura",
         "pubDate": "2026-10-12T17:03:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Arroyo Seco: \"Queremos dejar una ciudad pujante\", dijo Daniel Tonelli",
-        "link": "https://www.lacapital.com.ar/la-region/arroyo-seco-queremos-dejar-una-ciudad-pujante-dijo-daniel-tonelli-n10286203.html",
-        "image": "https://media.lacapital.com.ar/p/f56b3bf05af10c1be2f35db5558e425f/adjuntos/203/imagenes/103/463/0103463882/1200x675/smart/tonelli-pullaro.jpeg",
-        "summary": "El intendente de Arroyo Seco, Daniel Tonelli, repasó los principales ejes de la gestión municipal, destacó el trabajo conjunto con el gobernador Maximiliano Pullaro y puso en valor la finalización de la repavimentación de calle Juan B. Justo.",
-        "pubDate": "2026-10-12T15:47:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Ataque con bomba molotov a barbería: el dueño reconoció a un cliente entre los agresores",
-        "link": "https://www.lacapital.com.ar/policiales/ataque-bomba-molotov-barberia-el-dueno-reconocio-un-cliente-los-agresores-n10286242.html",
-        "image": "https://media.lacapital.com.ar/p/7a7c8a690cb3d50462d77e2283be3e2b/adjuntos/203/imagenes/103/463/0103463499/1200x675/smart/barberia-incendiada.jpg",
-        "summary": "Sucedió en la noche del domingo en Bolivia al 1200 bis, en barrio Larrea. La policía detuvo a dos de los presuntos agresores",
-        "pubDate": "2026-10-12T15:08:56+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Una motociclista chocó con un auto en 3 de Febrero y Paraguay",
-        "link": "https://www.lacapital.com.ar/la-ciudad/una-motociclista-choco-un-auto-3-febrero-y-paraguay-n10286240.html",
-        "image": "https://media.lacapital.com.ar/p/6692afea082a292859949fea138abd38/adjuntos/203/imagenes/103/463/0103463500/1200x675/smart/choque.jpg",
-        "summary": "Una joven motociclista que circulaba por 3 de Febrero y pasó sin respetar la señal de \"Pare\" fue embestida esta mañana por un Fiat Siena. Sólo sufrió algunos golpes",
-        "pubDate": "2026-10-12T14:49:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Reducen de 6 años a 6 meses los trámites ambientales y extienden licencias hasta 15 años",
-        "link": "https://www.lacapital.com.ar/la-ciudad/reducen-6-anos-6-meses-los-tramites-ambientales-y-extienden-licencias-15-anos-n10286221.html",
-        "image": "https://media.lacapital.com.ar/p/ad783cabd79f8c33bbf96952cb8efde0/adjuntos/203/imagenes/103/463/0103463318/1200x675/smart/image-2026-10-12t101345894.png",
-        "summary": "El Ministerio de Ambiente y Cambio Climático presentó el balance del primer año de la Licencia Ambiental Digital, que permitió categorizar a más de 4.500 empresas y emitir 862 autorizaciones.",
-        "pubDate": "2026-10-12T13:43:12+00:00",
         "approxTime": false
       }
     ]
