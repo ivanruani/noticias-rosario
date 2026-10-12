@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-12T19:01:12.212327+00:00",
+  "generatedAt": "2026-10-12T19:31:08.208290+00:00",
   "sites": {
     "rosario3": [
       {
         "source": "Rosario3",
-        "title": "Con actividades abiertas a la comunidad, Rosario se prepara para Semana del Clima 2026",
+        "title": "Con actividades abiertas a la comunidad, Rosario se prepara para la Semana del Clima 2026",
         "link": "https://www.rosario3.com/informaciongeneral/con-actividades-abiertas-a-la-comunidad-rosario-se-prepara-para-semana-del-clima-2026-20261012-0018.html",
         "image": "https://www.rosario3.com/__export/1791819127835/sites/rosario3/img/2026/10/12/semana_del_clima_rosario.jpg_54252853.jpg",
         "summary": "Bajo los ejes temáticos “Adaptación al cambio climático”, “Innovación productiva y transición justa” y “Del acuerdo global a la acción local”, la segunda edición de la actividad se desarrollará entre el miércoles 14 y el viernes 16 de octubre, en La Fluvial. Organizan la…",
@@ -69,7 +69,7 @@
         "source": "Rosario3",
         "title": "Newell’s visita a Gimnasia de Mendoza: la Lepra quiere estirar su invicto y acercarse a los playoffs",
         "link": "https://www.rosario3.com/deportes/newells-visita-a-gimnasia-de-mendoza-la-lepra-quiere-estirar-su-invicto-y-acercarse-a-los-playoffs-20261011-0025.html",
-        "image": "https://www.rosario3.com/__export/1791067708260/sites/rosario3/img/2026/10/03/reinatti.jpg_928314581.jpg",
+        "image": "https://www.rosario3.com/__export/1791136631260/sites/rosario3/img/2026/10/04/regiardo.jpg_506286608.jpg",
         "summary": "El equipo de Frank Kudelka jugará este lunes desde las 18.30 en el estadio Víctor Antonio Legrotaglie, por la fecha 12 del Torneo Clausura. El rojinegro acumula siete partidos sin derrotas, mientras que el conjunto mendocino lleva cuatro encuentros sin ganar",
         "pubDate": "2026-10-11T11:53:00+00:00",
         "approxTime": true
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Primera C: se definen los clasificados para jugar por el ascenso y el Reducido a la B",
+        "link": "https://www.lacapital.com.ar/ovacion/primera-c-se-definen-los-clasificados-jugar-el-ascenso-y-el-reducido-la-b-n10286270.html",
+        "image": "https://media.lacapital.com.ar/p/1c9b922df02eea3704ebd2c51704c4eb/adjuntos/203/imagenes/103/464/0103464066/1200x675/smart/image-2026-10-12t154545956.png",
+        "summary": "Central Córdoba visita a Deportivo Español, Leones FC recibe a Fénix en el Griffa y en barrio Sarmiento, Argentino enfrenta a Sacachispas",
+        "pubDate": "2026-10-12T19:13:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Milei criticó la medición del Indec y rechazó una salida de Luis Caputo del Gabinete",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/eb6ade905e27fc5df24218ffa695f602/adjuntos/203/imagenes/103/452/0103452609/1200x675/smart/artes3.jpg",
         "summary": "\"Artes de Hacer\", de la comunicadora rosarina Sofía López King, recibió además el Sello del Buen Diseño Argentino",
         "pubDate": "2026-10-12T09:20:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Año Niño y drones: una solución para entrar al lote",
-        "link": "https://www.lacapital.com.ar/agro/ano-nino-y-drones-una-solucion-entrar-al-lote-n10286057.html",
-        "image": "https://media.lacapital.com.ar/p/f68be4075bcbaf420086d154e95e5caa/adjuntos/203/imagenes/103/460/0103460437/1200x675/smart/dron-1-1.jpeg",
-        "summary": "Los drones agrícolas tienen una ventaja ante los excesos hídrico porque permiten independizar una aplicación de la transitabilidad del lote. Pero requiere capacitación, criterios agronómicos y logística.",
-        "pubDate": "2026-10-12T09:15:00+00:00",
         "approxTime": false
       }
     ]
