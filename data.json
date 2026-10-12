@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T00:01:11.620601+00:00",
+  "generatedAt": "2026-10-12T00:30:57.236104+00:00",
   "sites": {
     "rosario3": [
       {
@@ -94,10 +94,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "De Harry Potter a la Scaloneta: las propuestas juveniles en la Feria del Libro de Rosario 2026",
-        "link": "https://www.rosario3.com/ocio/de-harry-potter-a-la-scaloneta-las-propuestas-juveniles-en-la-feria-del-libro-de-rosario-2026-20261011-0027.html",
-        "image": "https://www.rosario3.com/__export/1791750697860/sites/rosario3/img/2026/10/08/feria_del_libro_2026_-12-.jpeg_982625323.jpeg",
-        "summary": "Novelas, charlas sobre el fenómeno del fútbol, música y esoterismo integran la grilla pensada para los más jóvenes en el Cultural Fontanarrosa",
+        "title": "Torneo del Litoral 2026: Duendes manda, Estudiantes y Jockey se sacan chispas y la definición está al rojo vivo",
+        "link": "https://www.rosario3.com/deportes/torneo-del-litoral-2026-duendes-manda-estudiantes-y-jockey-se-sacan-chispas-y-la-definicion-esta-al-rojo-vivo-20261011-0034.html",
+        "image": "https://www.rosario3.com/__export/1791760802210/sites/rosario3/img/2026/10/11/rugby_litoral_jockey_estudiantes_2026_credito_vir_dellepaine_prensa_uar_jpg.jpeg_1825222445.jpeg",
+        "summary": "Se disputó la 16ª fecha de la fase clasificación del TRL 2026 con emociones al límite. Duendes ya aseguró la clasificación y va rumbo a ser el primero de la fase regular; Estudiantes dio el golpe en Fisherton, en tanto, Jockey Club perdió pero se mantiene arriba. La lucha por…",
         "pubDate": "2026-10-11T11:50:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Central fue el gran ganador de la fecha en la pelea por la tabla anual",
+        "link": "https://www.lacapital.com.ar/ovacion/central-fue-el-gran-ganador-la-fecha-la-pelea-la-tabla-anual-n10286173.html",
+        "image": "https://media.lacapital.com.ar/p/43b351df70b20fe317ff19d138549d87/adjuntos/203/imagenes/103/462/0103462334/centra.jpg",
+        "summary": "Fue el único equipo de los que pelean por ese primer puesto que logró sumar de a tres. Resta que juegue Vélez, en cancha de Lanús",
+        "pubDate": "2026-10-12T00:06:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "De un extremo a otro, el pasado une a Newell's y el Lobo mendocino",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/976191d5ea1552d93043de54ff63671e/adjuntos/203/imagenes/101/179/0101179399/1200x675/489x479:509x499/bcrajpg.jpg",
         "summary": "Ieral Fundación Mediterránea señaló que la estrategia de acumular reservas y evitar presiones inflacionarias limita el margen para estimular la actividad.",
         "pubDate": "2026-10-11T20:47:22+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Desigualdad extrema en América Latina: el 1% más rico concentra casi la mitad de la riqueza",
-        "link": "https://www.lacapital.com.ar/economia/desigualdad-extrema-america-latina-el-1-mas-rico-concentra-casi-la-mitad-la-riqueza-n10286142.html",
-        "image": "https://media.lacapital.com.ar/p/6f3a6d58e536495765b8df08b61bc2a1/adjuntos/203/imagenes/103/461/0103461762/1200x675/smart/imagebs.jpg",
-        "summary": "La región registra una de las mayores concentraciones de riqueza del mundo, incluso por encima de Estados Unidos y Europa. En Brasil y México, el 1% más rico posee casi el 50% del patrimonio, mientras que la mitad más pobre no llega al 1%.",
-        "pubDate": "2026-10-11T20:39:00+00:00",
         "approxTime": false
       }
     ]
