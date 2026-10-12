@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T01:30:58.635445+00:00",
+  "generatedAt": "2026-10-12T02:01:06.664453+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Otra vez atentaron con un misil contra el aeropuerto de la capital de Arabia Saudita",
+        "link": "https://www.lacapital.com.ar/el-mundo/otra-vez-atentaron-un-misil-contra-el-aeropuerto-la-capital-arabia-saudita-n10286187.html",
+        "image": "https://media.lacapital.com.ar/p/1fcd48f0036ac136cbdc2ff62c33ef79/adjuntos/203/imagenes/103/462/0103462494/2026-10-11-atentado-riad-aeropuerto.jpg",
+        "summary": "Ocurrió un día después de que un misil alcanzara la misma terminal y matara al menos a 12 personas",
+        "pubDate": "2026-10-12T01:51:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El tiempo en Rosario: el lunes arrancaría con lluvias y seguiría nublado",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-el-lunes-arrancaria-lluvias-y-seguiria-nublado-n10286186.html",
+        "image": "https://media.lacapital.com.ar/p/a038df818f5e018bbfd26f251601b2ae/adjuntos/203/imagenes/103/462/0103462451/clima-by_vbenedetto-78816533.jpg",
+        "summary": "La temperatura máxima no superaría los 17º y estaría en aumento desde el martes, aunque seguiría inestable",
+        "pubDate": "2026-10-12T01:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Hubo dos ganadores en el Quini 6: uno es santafesino y se lleva $2.650 millones",
         "link": "https://www.lacapital.com.ar/informacion-general/hubo-dos-ganadores-el-quini-6-uno-es-santafesino-y-se-lleva-2650-millones-n10286183.html",
         "image": "https://media.lacapital.com.ar/p/6728eaa14941f3385f8fb01cee4f3494/adjuntos/203/imagenes/103/282/0103282247/2026-07-19-quini-6.jpg",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/a0763f6d469f2ab42161fc1d34223899/adjuntos/203/imagenes/103/461/0103461888/festejorc.jpg",
         "summary": "En la previa del partido entre Central e Independiente Rivadavia de Mendoza, el Gigante se tiñó de azul y amarillo y hubo show de pirotecnia",
         "pubDate": "2026-10-11T21:39:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Messi armó la lista de las 10 mayores promesas del fútbol mundial e incluyó a un argentino: quién es",
-        "link": "https://www.lacapital.com.ar/ovacion/messi-armo-la-lista-las-10-mayores-promesas-del-futbol-mundial-e-incluyo-un-argentino-quien-es-n10286152.html",
-        "image": "https://media.lacapital.com.ar/p/d3b25d57d4495ca0d64b420a2255a922/adjuntos/203/imagenes/103/451/0103451805/1200x675/smart/messi-despedida-argentina.jpeg",
-        "summary": "Tras su retiro de la selección, la estrella del Inter Miami se animó al desafío y ungió a una de las promesas de la Albiceleste: \"Proyecto de crack\"",
-        "pubDate": "2026-10-11T21:36:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Turismo Nacional en San Martín de Mendoza: dos finales bárbaras que pronostican un cierre de año incierto",
-        "link": "https://www.lacapital.com.ar/ovacion/turismo-nacional-san-martin-mendoza-dos-finales-barbaras-que-pronostican-un-cierre-ano-incierto-n10286147.html",
-        "image": "https://media.lacapital.com.ar/p/60d69f5aece67c3bc9cac66bc163f27f/adjuntos/203/imagenes/103/461/0103461853/1200x675/smart/image.jpg",
-        "summary": "El chapa-chapa brindó un gran espectáculo en Clase 3 y 2, que pusieron pimienta a los campeonatos que se definen en Concordia y Viedma. Buena actuación zonal",
-        "pubDate": "2026-10-11T21:33:00+00:00",
         "approxTime": false
       }
     ]
