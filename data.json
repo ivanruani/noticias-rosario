@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T18:30:59.344672+00:00",
+  "generatedAt": "2026-10-12T19:01:12.212327+00:00",
   "sites": {
     "rosario3": [
       {
@@ -94,11 +94,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "La insólita crítica que Lionel Messi recibió de parte de Joan Gaspart, expresidente de Barcelona",
+        "link": "https://www.rosario3.com/deportes/la-insolita-critica-que-lionel-messi-recibio-de-parte-de-joan-gaspart-expresidente-de-barcelona-20261012-0028.html",
+        "image": "https://www.rosario3.com/__export/1791828932028/sites/rosario3/img/2026/10/12/messi.jpg_1768679258.jpg",
+        "summary": "El exdirigente sorprendió con un comentario muy fuerte contra el crack argentino, quien solo regresó una vez al club desde su salida, en una visita nocturna sin previo aviso en 2025",
+        "pubDate": "2026-10-12T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Arrojaron una bomba molotov contra una barbería de zona noroeste: hay dos detenidos",
         "link": "https://www.rosario3.com/policiales/arrojaron-una-bomba-molotov-contra-una-barberia-de-zona-noroeste-hay-dos-detenidos-20261012-0016.html",
         "image": "https://www.rosario3.com/__export/1791815527855/sites/rosario3/img/2026/10/12/barberxa_bolivia_1200.jpg_54252853.jpg",
         "summary": "El hecho ocurrió entre la medianoche del domingo y las primeras horas de este lunes. El proyectil casero provocó daños en el frente del local ubicado en calle Bolivia 1200 bis, sin que se reportaran personas heridas",
-        "pubDate": "2026-10-12T11:50:00+00:00",
+        "pubDate": "2026-10-12T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -107,7 +116,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/milei-nego-la-salida-de-caputo-hablo-de-una-eventual-corrida-y-se-mostro-confiado-en-la-reeleccion-20261012-0008.html",
         "image": "https://www.rosario3.com/__export/1791809206799/sites/rosario3/img/2026/09/18/milei_caputo_jpg_25343506.jpg_1221028662.jpg",
         "summary": "El Presidente calificó de “disparate total” las versiones sobre una posible renuncia del ministro de Economía. También aseguró que el Gobierno se prepara para una eventual corrida cambiaria de cara a las elecciones de 2027, para la que afirmó que contará con USD 125.000 millones",
-        "pubDate": "2026-10-12T11:49:00+00:00",
+        "pubDate": "2026-10-12T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,15 +125,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/medicos-y-odontologos-de-pami-realizaran-un-paro-nacional-de-96-horas-20261012-0004.html",
         "image": "https://www.rosario3.com/__export/1791806048843/sites/rosario3/img/2026/10/12/image_-15-.jpg_928314580.jpg",
         "summary": "La medida de fuerza fue impulsada por la Asociación de Profesionales de la Salud, luego de varios meses de reclamar el retraso en sus ingresos",
-        "pubDate": "2026-10-12T11:48:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Hallaron el cuerpo de una mujer dentro de una valija en Empalme y detuvieron a un ex policía por femicidio",
-        "link": "https://www.rosario3.com/policiales/hallaron-el-cuerpo-de-una-mujer-dentro-de-una-valija-en-rosario-y-detuvieron-a-un-ex-policia-por-femicidio-20261012-0006.html",
-        "image": "https://www.rosario3.com/__export/1791810326405/sites/rosario3/img/2026/10/12/whatsapp_image_2026-10-12_at_10_00_52_version1791810325904.jpeg_982625323.jpeg",
-        "summary": "La víctima tenía 26 años y era oriunda de Villa Gobernador Gálvez. Sus familiares la buscaban desde el sábado y llegaron hasta una pensión de la zona de Juan José Paso al 6200. El detenido había sido condenado en 2021 a seis años de prisión por narcotráfico y fue exonerado de la…",
         "pubDate": "2026-10-12T11:47:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Milei criticó la medición del Indec y rechazó una salida de Luis Caputo del Gabinete",
+        "link": "https://www.lacapital.com.ar/politica/milei-critico-la-medicion-del-indec-y-rechazo-una-salida-luis-caputo-del-gabinete-n10286269.html",
+        "image": "https://media.lacapital.com.ar/p/4a53434df79d2ec5b3c59e87189efe80/adjuntos/203/imagenes/103/435/0103435572/2026-09-29-milei.jpg",
+        "summary": "El presidente aseguró además que en el gobierno están \"recontra convencidos\" de que van a conseguir la reelección en 2027",
+        "pubDate": "2026-10-12T18:31:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "El fin de semana largo cierra en la Feria del Libro con múltiples propuestas",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/f68be4075bcbaf420086d154e95e5caa/adjuntos/203/imagenes/103/460/0103460437/1200x675/smart/dron-1-1.jpeg",
         "summary": "Los drones agrícolas tienen una ventaja ante los excesos hídrico porque permiten independizar una aplicación de la transitabilidad del lote. Pero requiere capacitación, criterios agronómicos y logística.",
         "pubDate": "2026-10-12T09:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La historia soñada del trompetista rosarino que toca en \"una de las sinfónicas más grandes del mundo\"",
-        "link": "https://www.lacapital.com.ar/la-ciudad/la-historia-sonada-del-trompetista-rosarino-que-toca-una-las-sinfonicas-mas-grandes-del-mundo-n10284676.html",
-        "image": "https://media.lacapital.com.ar/p/a8c6ae4324e64047316b126b88a56c6c/adjuntos/203/imagenes/103/452/0103452608/1200x675/smart/malatesta1.jpg",
-        "summary": "Marco Malatesta, de 22 años, ingresó a la Orquesta Sinfónica de la Radio de Frankfurt. Un hito para el país y Sudamérica por las características del caso",
-        "pubDate": "2026-10-12T09:10:00+00:00",
         "approxTime": false
       }
     ]
