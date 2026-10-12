@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T14:31:04.002720+00:00",
+  "generatedAt": "2026-10-12T15:01:09.938760+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Una motociclista chocó con un auto en 3 de Febrero y Paraguay",
+        "link": "https://www.lacapital.com.ar/la-ciudad/una-motociclista-choco-un-auto-3-febrero-y-paraguay-n10286240.html",
+        "image": "https://media.lacapital.com.ar/p/6692afea082a292859949fea138abd38/adjuntos/203/imagenes/103/463/0103463500/1200x675/smart/choque.jpg",
+        "summary": "Una joven motociclista que circulaba por 3 de Febrero y pasó sin respetar la señal de \"Pare\" fue embestida esta mañana por un Fiat Siena. Sólo sufrió algunos golpes",
+        "pubDate": "2026-10-12T14:49:01+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Reducen de 6 años a 6 meses los trámites ambientales y extienden licencias hasta 15 años",
         "link": "https://www.lacapital.com.ar/la-ciudad/reducen-6-anos-6-meses-los-tramites-ambientales-y-extienden-licencias-15-anos-n10286221.html",
         "image": "https://media.lacapital.com.ar/p/ad783cabd79f8c33bbf96952cb8efde0/adjuntos/203/imagenes/103/463/0103463318/1200x675/smart/image-2026-10-12t101345894.png",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/0466b95cefd910560120d81c87e4f0f0/adjuntos/203/imagenes/102/193/0102193922/1200x675/2183x1791:2203x1811/cadetes-2jpg.jpg",
         "summary": "Casi la mitad de los ocupados carece de cobertura y, entre quienes necesitan combinar trabajos, las jornadas pueden superar las 60 horas semanales",
         "pubDate": "2026-10-12T02:20:28+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Otra vez atentaron con un misil contra el aeropuerto de la capital de Arabia Saudita",
-        "link": "https://www.lacapital.com.ar/el-mundo/otra-vez-atentaron-un-misil-contra-el-aeropuerto-la-capital-arabia-saudita-n10286187.html",
-        "image": "https://media.lacapital.com.ar/p/1fcd48f0036ac136cbdc2ff62c33ef79/adjuntos/203/imagenes/103/462/0103462494/2026-10-11-atentado-riad-aeropuerto.jpg",
-        "summary": "Ocurrió un día después de que un misil alcanzara la misma terminal y matara al menos a 12 personas",
-        "pubDate": "2026-10-12T01:51:00+00:00",
         "approxTime": false
       }
     ]
