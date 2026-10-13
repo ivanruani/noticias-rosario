@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T09:30:58.700589+00:00",
+  "generatedAt": "2026-10-13T10:01:17.965869+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,11 +141,11 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "Los feedlots tienen un stock récord, pero cae la salida de hacienda",
-        "link": "https://www.lacapital.com.ar/agro/los-feedlots-tienen-un-stock-record-pero-cae-la-salida-hacienda-n10286319.html",
-        "image": "https://media.lacapital.com.ar/p/7c603119bc82ddcfbe0104874a35265e/adjuntos/305/imagenes/100/565/0100565049/1200x675/325x160:345x180/agro601_lc_77768882__20-04-2023__0x0jpg.jpg",
-        "summary": "Los corrales comenzaron octubre con casi 2,1 millones de animales. Según Rosgan, los egresos de septiembre bajaron un 25% interanual y podrían reflejar una extensión del engorde para lograr mayor peso",
-        "pubDate": "2026-10-13T09:15:00+00:00",
+        "title": "Feria del Libro: cinco días con fuerte programación y gran asistencia de público",
+        "link": "https://www.lacapital.com.ar/feria-del-libro-cinco-dias-fuerte-programacion-y-gran-asistencia-publico-n10286327.html",
+        "image": "https://media.lacapital.com.ar/p/03fc902acb652696e5abd58091de4b30/adjuntos/203/imagenes/103/464/0103464496/1200x675/smart/libro-2.jpg",
+        "summary": "Durante la primera semana, grandes referentes de la literatura local y nacional se dieron cita en un Cultural Fontanarrosa colmado de visitantes",
+        "pubDate": "2026-10-13T09:30:00+00:00",
         "approxTime": false
       },
       {
@@ -163,6 +163,15 @@
         "link": "https://www.lacapital.com.ar/la-ciudad/asisten-refugios-municipales-y-presentan-un-libro-sus-escritos-literarios-n10286316.html",
         "image": "https://media.lacapital.com.ar/p/b8460ff5ab50d2d836a62e8af40216e1/adjuntos/203/imagenes/103/464/0103464396/1200x675/smart/taller-2.jpg",
         "summary": "“Historias de Refugio”, fruto de un taller de lectura y escritura en ámbitos para personas en situación de calle, llega al Cultural Fontanarrosa",
+        "pubDate": "2026-10-13T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Los feedlots tienen un stock récord, pero cae la salida de hacienda",
+        "link": "https://www.lacapital.com.ar/agro/los-feedlots-tienen-un-stock-record-pero-cae-la-salida-hacienda-n10286319.html",
+        "image": "https://media.lacapital.com.ar/p/7c603119bc82ddcfbe0104874a35265e/adjuntos/305/imagenes/100/565/0100565049/1200x675/325x160:345x180/agro601_lc_77768882__20-04-2023__0x0jpg.jpg",
+        "summary": "Los corrales comenzaron octubre con casi 2,1 millones de animales. Según Rosgan, los egresos de septiembre bajaron un 25% interanual y podrían reflejar una extensión del engorde para lograr mayor peso",
         "pubDate": "2026-10-13T09:15:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/7f049fc4054ce87d844e81d9d4fae3d4/adjuntos/203/imagenes/103/464/0103464490/1200x675/smart/imagerobert.jpg",
         "summary": "Roberto Farías García tenía 30 años, era protesista dental y llevaba seis años sin ver a sus padres. En diciembre planeaba regresar a la Argentina junto a su pareja. Murió atropellado por un camión cuyo conductor, según denunció su familia, escapó del lugar.",
         "pubDate": "2026-10-12T22:38:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El gol de Santiago Solari que pudo cambiar todo para Newell's pero fue anulado por vía del VAR",
-        "link": "https://www.lacapital.com.ar/ovacion/el-gol-santiago-solari-que-pudo-cambiar-todo-newells-pero-fue-anulado-via-del-var-n10286323.html",
-        "image": "https://media.lacapital.com.ar/p/2b64dd2ffa7202ec78d98706d7a8d929/adjuntos/203/imagenes/103/464/0103464489/1200x675/smart/image-8.jpg",
-        "summary": "Santiago Solari fue el más incisivo de Newell's ante Gimnasia de Mendoza en el primer tiempo y hasta gritó un gol que fue anulado vía VAR.",
-        "pubDate": "2026-10-12T22:26:00+00:00",
         "approxTime": false
       }
     ]
