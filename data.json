@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T12:31:03.669124+00:00",
+  "generatedAt": "2026-10-13T13:01:18.441024+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,11 +13,20 @@
       },
       {
         "source": "Rosario3",
-        "title": "Schmuck respondió a las acusaciones de adoctrinamiento y dijo que denunciará en la Justicia amenazas de muerte a su familia",
+        "title": "Schmuck respondió a las acusaciones libertarias y dijo que denunciará en la Justicia amenazas de muerte a su familia",
         "link": "https://www.rosario3.com/politica/schmuck-respondio-a-las-acusaciones-de-adoctrinamiento-y-dijo-que-denunciara-en-la-justicia-amenazas-de-muerte-a-su-familia-20261013-0012.html",
         "image": "https://www.rosario3.com/__export/1775060814419/sites/rosario3/img/2025/11/13/schmuck.jpg_1825222445.jpg",
-        "summary": "Por una frase suya contra Milei fue acusada de discriminar a los estudiantes libertarios que asisten a sus clases en la Facultad de Ciencia Política. La criticó el propio presidente. “No nos van a callar”, advirtió ella",
+        "summary": "Por una frase suya contra el presidente fue acusada de discriminar a los estudiantes mileístas que asisten a sus clases en la Facultad de Ciencia Política. La criticó el propio jefe del Estado. “No nos van a callar”, advirtió ella",
         "pubDate": "2026-10-13T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Una mujer fue abusada sexualmente por hombres que robaron en su casa de barrio Godoy",
+        "link": "https://www.rosario3.com/policiales/una-mujer-fue-abusada-sexualmente-por-hombres-que-robaron-en-su-casa-de-barrio-godoy-20261013-0022.html",
+        "image": "https://www.rosario3.com/__export/1791896314720/sites/rosario3/img/2026/10/13/roboyabuso.jpg_928314581.jpg",
+        "summary": "Ocurrió en la madrugada del lunes en una vivienda de la zona oeste. Al menos dos delincuentes ingresaron a la casa de la víctima mientras dormía. Tras exigirle dinero, la agredieron brutalmente y huyeron con escasas pertenencias",
+        "pubDate": "2026-10-13T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,25 +35,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/se-promulgo-la-ley-que-modifica-el-regimen-de-zona-fria-que-cambia-para-los-usuarios-de-gas-en-rosario-20261013-0014.html",
         "image": "https://www.rosario3.com/__export/1791892637837/sites/rosario3/img/2025/04/03/litoral_gas_1.jpg_928314581.jpg",
         "summary": "La Ley 27.828 fue promulgada por el gobierno nacional y establece que la bonificación adicional por Zona Fría quede focalizada en determinados hogares. En Rosario, el beneficio dejará de depender exclusivamente de la ubicación geográfica y estará sujeto a los requisitos del…",
-        "pubDate": "2026-10-13T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Más de 240 policías retirados se anotaron para volver a custodiar hospitales y otros espacios públicos",
-        "link": "https://www.rosario3.com/informaciongeneral/mas-de-240-policias-retirados-se-anotaron-para-volver-a-custodiar-hospitales-20261013-0008.html",
-        "image": "https://www.rosario3.com/__export/1791887847162/sites/rosario3/img/2026/10/13/policiascaminantes.jpg_928314581.jpg",
-        "summary": "El gobierno de la provincia abrió una nueva convocatoria para reincorporar agentes jubilados y destinarlos a la seguridad de espacios públicos, principalmente efectores de salud. En pocos días ya se anotaron cientos de aspirantes, con un fuerte componente en la ciudad",
         "pubDate": "2026-10-13T11:57:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Feria Internacional del Libro de Rosario 2026: todas las actividades de este martes",
-        "link": "https://www.rosario3.com/ocio/feria-internacional-del-libro-de-rosario-2026-todas-las-actividades-de-este-martes-20261008-0040.html",
-        "image": "https://www.rosario3.com/__export/1791740442902/sites/rosario3/img/2026/10/11/feria_del_libro_1.jpg_54252875.jpg",
-        "summary": "El Cultural Fontanarrosa (San Martín 1080) abre sus puertas de 13 a 21. Gratis, con gestión previa del código QR",
-        "pubDate": "2026-10-08T11:56:00+00:00",
         "approxTime": true
       },
       {
@@ -53,6 +44,15 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/el-indec-informa-la-inflacion-de-septiembre-se-ubicaria-entre-18-y-21-por-ciento-20261013-0010.html",
         "image": "https://www.rosario3.com/__export/1791888526859/sites/rosario3/img/2021/10/22/22102021-img_4988.jpg_566798741.jpg",
         "summary": "Se espera un leve repunte luego de la baja de agosto. Los alimentos tuvieron aumentos importantes",
+        "pubDate": "2026-10-13T11:56:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Malvinas: Argentina acudió al Tribunal del Mar para frenar Sea Lion, un millonario proyecto de explotación petrolera en las islas",
+        "link": "https://www.rosario3.com/politica/malvinas-argentina-acudio-al-tribunal-del-mar-para-frenar-sea-lion-un-millonario-proyecto-de-explotacion-petrolera-en-las-islas-20261013-0020.html",
+        "image": "https://www.rosario3.com/__export/1790077113549/sites/rosario3/img/2026/09/22/sealion.jpg_982625301.jpg",
+        "summary": "El gobierno de Javier Milei presentó un pedido de medidas urgentes para impedir que avance la extracción de petróleo en la Cuenca Malvinas Norte",
         "pubDate": "2026-10-13T11:55:00+00:00",
         "approxTime": true
       },
@@ -85,11 +85,20 @@
       },
       {
         "source": "Rosario3",
-        "title": "Agustín Módica, el goleador que amargó a Newell’s: \"Se lo dedico a toda mi familia, que es muy canalla\"",
-        "link": "https://www.rosario3.com/deportes/agustin-modica-el-goleador-que-amargo-a-newells-se-lo-dedico-a-toda-mi-familia-que-es-muy-canalla-20261012-0046.html",
-        "image": "https://www.rosario3.com/__export/1791852046117/sites/rosario3/img/2026/10/12/agustin_modica_gol_a_newells.jpg_506286608.jpg",
-        "summary": "El nueve de Gimnasia de Mendoza le convirtió un golazo a la Lepra que significó la victoria del equipo de Darío Franco luego de cuatro fechas. Formado en el conjunto auriazul, no ocultó que vivió el encuentro ante los rojiengros de manera especial",
-        "pubDate": "2026-10-12T11:51:00+00:00",
+        "title": "Feria Internacional del Libro de Rosario 2026: todas las actividades de este martes",
+        "link": "https://www.rosario3.com/ocio/feria-internacional-del-libro-de-rosario-2026-todas-las-actividades-de-este-martes-20261008-0040.html",
+        "image": "https://www.rosario3.com/__export/1791740442902/sites/rosario3/img/2026/10/11/feria_del_libro_1.jpg_54252875.jpg",
+        "summary": "El Cultural Fontanarrosa (San Martín 1080) abre sus puertas de 13 a 21. Gratis, con gestión previa del código QR",
+        "pubDate": "2026-10-08T11:51:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Más de 240 policías retirados se anotaron para volver a custodiar hospitales y otros espacios públicos",
+        "link": "https://www.rosario3.com/informaciongeneral/mas-de-240-policias-retirados-se-anotaron-para-volver-a-custodiar-hospitales-20261013-0008.html",
+        "image": "https://www.rosario3.com/__export/1791887847162/sites/rosario3/img/2026/10/13/policiascaminantes.jpg_928314581.jpg",
+        "summary": "El gobierno de la provincia abrió una nueva convocatoria para reincorporar agentes jubilados y destinarlos a la seguridad de espacios públicos, principalmente efectores de salud. En pocos días ya se anotaron cientos de aspirantes, con un fuerte componente en la ciudad",
+        "pubDate": "2026-10-13T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -98,16 +107,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/el-papa-leon-xiv-anuncio-que-sera-operado-de-un-nodulo-en-un-pulmon-y-permanecera-una-semana-internado-20261011-0006.html",
         "image": "https://www.rosario3.com/__export/1791720382177/sites/rosario3/img/2026/10/11/papa.jpg_1825222445.jpg",
         "summary": "El Vaticano informó que la intervención quirúrgica para extirpar el nódulo pulmonar se llevará a cabo en un instituto médico de Roma. En noviembre tiene previsto visitar Argentina, Uruguay y Perú",
-        "pubDate": "2026-10-11T11:50:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Femicidio en Empalme Graneros: la familia de Bárbara exige perpetua y apunta a cómplices",
-        "link": "https://www.rosario3.com/policiales/femicidio-en-empalme-graneros-la-familia-de-barbara-exige-perpetua-y-apunta-a-complices-20261012-0045.html",
-        "image": "https://www.rosario3.com/__export/1791850943599/sites/rosario3/img/2026/10/12/whatsapp_image_2026-10-12_at_08_31_52_version1791850916082.jpeg_1768679258.jpeg",
-        "summary": "Allegadas a la víctima relataron en El Tres la dramática búsqueda previa al hallazgo en la pensión de calle Juan José Paso. Cuestionaron el accionar en la escena del crimen y reclamaron la máxima pena para el expolicía detenido",
-        "pubDate": "2026-10-12T11:49:00+00:00",
+        "pubDate": "2026-10-11T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -139,6 +139,33 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Femicidio en Empalme Graneros: ¿quién es el expolicía detenido por el crimen?",
+        "link": "https://www.lacapital.com.ar/policiales/femicidio-empalme-graneros-quien-es-el-expolicia-detenido-el-crimen-n10286358.html",
+        "image": "https://media.lacapital.com.ar/p/c86b7a49300407972112999359987234/adjuntos/203/imagenes/103/462/0103462887/1200x675/smart/detenido-femicidio-empalme-graneros.jpg",
+        "summary": "Eliel Schiffo fue condenado a seis años de prisión en 2021 por narcotráfico. Años después de la exoneración, lo arrestaron vestido con uniforme",
+        "pubDate": "2026-10-13T12:49:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Octubre Rosa en Roldán: se viene el tradicional Festival Rosa y una caminata de concientización",
+        "link": "https://www.lacapital.com.ar/la-region/octubre-rosa-roldan-se-viene-el-tradicional-festival-rosa-y-una-caminata-concientizacion-n10286389.html",
+        "image": "https://media.lacapital.com.ar/p/8ddd1defc9913c26fd4fb0b8cabe27d6/adjuntos/203/imagenes/102/762/0102762598/1200x675/smart/puerto-san-martin-octubre-rosa.jpg",
+        "summary": "En el marco de las actividades que se realizan para concientizar sobre la importancia de la detección temprana del cáncer de mama, la Municipalidad planificó una jornada para el 17 de octubre",
+        "pubDate": "2026-10-13T12:47:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Paro de médicos y odontólogos del Pami: \"La situación es desesperante\"",
+        "link": "https://www.lacapital.com.ar/informacion-general/paro-medicos-y-odontologos-del-pami-la-situacion-es-desesperante-n10286377.html",
+        "image": "https://media.lacapital.com.ar/p/03abf4790ef5df9fddcd0062e8391fc1/adjuntos/203/imagenes/005/483/0005483880/1200x675/smart/los-medicos-cabecera-del-pami-trabajaran-manana-pero-no-el-proximo-jueves-motivo-del-paro-general.jpg",
+        "summary": "Los profesionales realizan una protesta por 96 horas y denuncian que el gobierno nacional redujo a la mitad sus ingresos. Si no hay respuesta, la medida será \"por tiempo indeterminado\"",
+        "pubDate": "2026-10-13T12:46:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "El papa León XIV ya fue internado en Roma para una operación por un nódulo pulmonar",
@@ -206,7 +233,7 @@
         "source": "La Capital",
         "title": "Una mujer embarazada está muy grave por quemaduras y detuvieron a su pareja",
         "link": "https://www.lacapital.com.ar/policiales/una-mujer-embarazada-esta-muy-grave-quemaduras-y-detuvieron-su-pareja-n10286352.html",
-        "image": "https://media.lacapital.com.ar/p/48bc2226fb7d3d21dd3e4398e97faf8b/adjuntos/203/imagenes/102/446/0102446512/1200x675/smart/hospijpg.jpg",
+        "image": "https://media.lacapital.com.ar/p/1f4c74f6a84702c5a8aae80eeed3d66b/adjuntos/203/imagenes/103/465/0103465052/1200x675/smart/femicidio01.jpg",
         "summary": "El caso de tentativa de femicidio sucedió en Granadero Baigorria. La víctima está internada en el Hospital Eva Perón con riesgo de vida",
         "pubDate": "2026-10-13T10:33:00+00:00",
         "approxTime": false
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/d585218f06bee6359e0ee8a8aaca4ec9/adjuntos/305/imagenes/029/786/0029786811/1200x675/smart/lluvia-campo.jpg",
         "summary": "Perspectiva agroclimática para la región núcleo y centro del país. En el sur de Santa Fe, norte de Buenos Aires y sudeste de Córdoba, las temperaturas se mantendrían relativamente bajas para octubre",
         "pubDate": "2026-10-13T09:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Los reclamos por conflictos al devolver un alquiler ya representan el 14 % de las denuncias",
-        "link": "https://www.lacapital.com.ar/los-reclamos-conflictos-al-devolver-un-alquiler-ya-representan-el-14-las-denuncias-n10285233.html",
-        "image": "https://media.lacapital.com.ar/p/98c88059faf5227ce1c8307cb8fe3ee9/adjuntos/203/imagenes/103/008/0103008149/1200x675/smart/alquileres.png",
-        "summary": "La Oficina de Defensa del Consumidor recibió 129 expedientes por pedidos desmedidos de inmobiliarias o propietarios al momento de recibir las llaves. Hay diferencias por reparaciones, cobros de días incorrectos y falta de constancias",
-        "pubDate": "2026-10-13T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central, hoy: con todos los soldados y en el momento justo para ir por más",
-        "link": "https://www.lacapital.com.ar/ovacion/central-hoy-todos-los-soldados-y-el-momento-justo-ir-mas-n10286303.html",
-        "image": "https://media.lacapital.com.ar/p/58301537e20204f1eedb87d813b7eb09/adjuntos/203/imagenes/103/464/0103464293/1200x675/smart/image-3.jpg",
-        "summary": "La goleada a Independiente Rivadavia con el retorno a Campaz y Pizarro, y los otros resultados, pusieron a Central como candidato al título de la tabla anual",
-        "pubDate": "2026-10-13T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Primera C: Leones FC define de local, Córdoba de visitante y en cancha neutral Argentino",
-        "link": "https://www.lacapital.com.ar/ovacion/primera-c-leones-fc-define-local-cordoba-visitante-y-cancha-neutral-argentino-n10286345.html",
-        "image": "https://media.lacapital.com.ar/p/c3f9ad52d15e24e6e9b510f134be9549/adjuntos/203/imagenes/103/464/0103464666/1200x675/smart/image-2026-10-12t224235551.png",
-        "summary": "El equipo de los Messi en su debut terminó como el mejor de la Rosarina y jugará Reducido junto al Charrúa. El Salaíto busca seguir en la Primera C",
-        "pubDate": "2026-10-13T01:54:00+00:00",
         "approxTime": false
       }
     ]
