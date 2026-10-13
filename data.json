@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T09:01:09.325916+00:00",
+  "generatedAt": "2026-10-13T09:30:58.700589+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,51 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Los feedlots tienen un stock récord, pero cae la salida de hacienda",
+        "link": "https://www.lacapital.com.ar/agro/los-feedlots-tienen-un-stock-record-pero-cae-la-salida-hacienda-n10286319.html",
+        "image": "https://media.lacapital.com.ar/p/7c603119bc82ddcfbe0104874a35265e/adjuntos/305/imagenes/100/565/0100565049/1200x675/325x160:345x180/agro601_lc_77768882__20-04-2023__0x0jpg.jpg",
+        "summary": "Los corrales comenzaron octubre con casi 2,1 millones de animales. Según Rosgan, los egresos de septiembre bajaron un 25% interanual y podrían reflejar una extensión del engorde para lograr mayor peso",
+        "pubDate": "2026-10-13T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Clima y agro: lluvias itinerantes, humedad en ascenso y fresco de otoño en plena primavera",
+        "link": "https://www.lacapital.com.ar/agro/clima-y-agro-lluvias-itinerantes-humedad-ascenso-y-fresco-otono-plena-primavera-n10286325.html",
+        "image": "https://media.lacapital.com.ar/p/d585218f06bee6359e0ee8a8aaca4ec9/adjuntos/305/imagenes/029/786/0029786811/1200x675/smart/lluvia-campo.jpg",
+        "summary": "Perspectiva agroclimática para la región núcleo y centro del país. En el sur de Santa Fe, norte de Buenos Aires y sudeste de Córdoba, las temperaturas se mantendrían relativamente bajas para octubre",
+        "pubDate": "2026-10-13T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Asisten a refugios municipales y presentan un libro con sus escritos literarios",
+        "link": "https://www.lacapital.com.ar/la-ciudad/asisten-refugios-municipales-y-presentan-un-libro-sus-escritos-literarios-n10286316.html",
+        "image": "https://media.lacapital.com.ar/p/b8460ff5ab50d2d836a62e8af40216e1/adjuntos/203/imagenes/103/464/0103464396/1200x675/smart/taller-2.jpg",
+        "summary": "“Historias de Refugio”, fruto de un taller de lectura y escritura en ámbitos para personas en situación de calle, llega al Cultural Fontanarrosa",
+        "pubDate": "2026-10-13T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Los reclamos por conflictos al devolver un alquiler ya representan el 14 % de las denuncias",
+        "link": "https://www.lacapital.com.ar/los-reclamos-conflictos-al-devolver-un-alquiler-ya-representan-el-14-las-denuncias-n10285233.html",
+        "image": "https://media.lacapital.com.ar/p/98c88059faf5227ce1c8307cb8fe3ee9/adjuntos/203/imagenes/103/008/0103008149/1200x675/smart/alquileres.png",
+        "summary": "La Oficina de Defensa del Consumidor recibió 129 expedientes por pedidos desmedidos de inmobiliarias o propietarios al momento de recibir las llaves. Hay diferencias por reparaciones, cobros de días incorrectos y falta de constancias",
+        "pubDate": "2026-10-13T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central, hoy: con todos los soldados y en el momento justo para ir por más",
+        "link": "https://www.lacapital.com.ar/ovacion/central-hoy-todos-los-soldados-y-el-momento-justo-ir-mas-n10286303.html",
+        "image": "https://media.lacapital.com.ar/p/58301537e20204f1eedb87d813b7eb09/adjuntos/203/imagenes/103/464/0103464293/1200x675/smart/image-3.jpg",
+        "summary": "La goleada a Independiente Rivadavia con el retorno a Campaz y Pizarro, y los otros resultados, pusieron a Central como candidato al título de la tabla anual",
+        "pubDate": "2026-10-13T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Primera C: Leones FC define de local, Córdoba de visitante y en cancha neutral Argentino",
         "link": "https://www.lacapital.com.ar/ovacion/primera-c-leones-fc-define-local-cordoba-visitante-y-cancha-neutral-argentino-n10286345.html",
         "image": "https://media.lacapital.com.ar/p/c3f9ad52d15e24e6e9b510f134be9549/adjuntos/203/imagenes/103/464/0103464666/1200x675/smart/image-2026-10-12t224235551.png",
@@ -227,51 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/2b64dd2ffa7202ec78d98706d7a8d929/adjuntos/203/imagenes/103/464/0103464489/1200x675/smart/image-8.jpg",
         "summary": "Santiago Solari fue el más incisivo de Newell's ante Gimnasia de Mendoza en el primer tiempo y hasta gritó un gol que fue anulado vía VAR.",
         "pubDate": "2026-10-12T22:26:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cuerpos generados con inteligencia artificial, daño en la vida real",
-        "link": "https://www.lacapital.com.ar/opinion/cuerpos-generados-inteligencia-artificial-dano-la-vida-real-n10286310.html",
-        "image": "https://media.lacapital.com.ar/p/ce33d48a36a335269df88112d67e3aa2/adjuntos/203/imagenes/103/464/0103464346/1200x675/smart/ia-escuela-1210.jpg",
-        "summary": "Una alumna del Colegio Modelo Lomas fue víctima de imágenes sexuales falsas creadas con inteligencia artificial. La difusión de estos contenidos, vendidos y compartidos, expone a las víctimas a graves peligros.",
-        "pubDate": "2026-10-12T21:14:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Newell's desperdició muchas jugadas y lo perdió en una sola de Gimnasia de Mendoza",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-desperdicio-muchas-jugadas-y-lo-perdio-una-sola-gimnasia-mendoza-n10286305.html",
-        "image": "https://media.lacapital.com.ar/p/df2283e6fcbbbb1ab6ff1ff8c793dbcf/adjuntos/203/imagenes/103/464/0103464422/1200x675/smart/image-7.jpg",
-        "summary": "El equipo de Frank Kudelka buscó y tuvo las mejores situaciones de gol, pero entre dos anulados y varias desperdiciadas, todo se definió por el golazo de Módica",
-        "pubDate": "2026-10-12T21:12:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central fue el gran ganador de la fecha: Vélez perdió y el Canalla se ilusiona con la tabla anual",
-        "link": "https://www.lacapital.com.ar/ovacion/central-fue-el-gran-ganador-la-fecha-velez-perdio-y-el-canalla-se-ilusiona-la-tabla-anual-n10286312.html",
-        "image": "https://media.lacapital.com.ar/p/6e7f6d8e696334257c173767ac582723/adjuntos/203/imagenes/103/464/0103464348/1200x675/smart/imageanual.jpg",
-        "summary": "La derrota del Fortín por 2 a 0 ante Lanús terminó de redondear una jornada ideal para el equipo de Jorge Almirón. Tras golear 5 a 0 al líder Independiente Rivadavia, fue el único de los principales aspirantes al primer puesto que consiguió una victoria y quedó a dos puntos de…",
-        "pubDate": "2026-10-12T21:11:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Empresas del Polo Tecnológico Rosario apuntan a la transformación digital de Vaca Muerta",
-        "link": "https://www.lacapital.com.ar/economia/empresas-del-polo-tecnologico-rosario-apuntan-la-transformacion-digital-vaca-muerta-n10286306.html",
-        "image": "https://media.lacapital.com.ar/p/3938c49fac96df38c6732d170eb51777/adjuntos/203/imagenes/103/464/0103464317/1200x675/583x370:603x390/polo.jpeg",
-        "summary": "Diez firmas rosarinas viajarán a Neuquén para ofrecer soluciones de automatización, inteligencia artificial y gestión de sistemas",
-        "pubDate": "2026-10-12T20:59:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cataratas del Iguazú: cierran de emergencia los paseos por una importante crecida del río",
-        "link": "https://www.lacapital.com.ar/informacion-general/cataratas-del-iguazu-cierran-emergencia-los-paseos-una-importante-crecida-del-rio-n10286291.html",
-        "image": "https://media.lacapital.com.ar/p/9f0720d65af3cead7335bed7524573c9/adjuntos/203/imagenes/103/464/0103464248/1200x675/smart/crecida-cataras-del-iguazu.png",
-        "summary": "El caudal superó los 12 millones de litros por segundo y desde el Instituto Nacional del Agua señalaron que el nivel se encuentra cerca del registro de alerta",
-        "pubDate": "2026-10-12T20:24:00+00:00",
         "approxTime": false
       }
     ]
