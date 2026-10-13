@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T13:31:09.630118+00:00",
+  "generatedAt": "2026-10-13T14:01:12.925614+00:00",
   "sites": {
     "rosario3": [
       {
@@ -130,15 +130,60 @@
       },
       {
         "source": "Rosario3",
-        "title": "Intento de femicidio en Baigorria: joven embarazada lucha por su vida y detienen a su pareja",
-        "link": "https://www.rosario3.com/policiales/intento-de-femicidio-en-baigorria-joven-embarazada-lucha-por-su-vida-y-detienen-a-su-pareja-20261012-0047.html",
-        "image": "https://www.rosario3.com/__export/1791853108097/sites/rosario3/img/2026/10/12/baigorria.jpg_328270839.jpg",
-        "summary": "La víctima, de 29 años y con una gestación avanzada, sufrió graves heridas en rostro y tórax. Se suma a una preocupante seguidilla de ataques a mujeres en la región",
+        "title": "Hinchas de Central a Tucumán: cómo, cuándo y a qué precio se venderán las entradas",
+        "link": "https://www.rosario3.com/deportes/hinchas-de-central-a-tucuman-como-cuando-y-a-que-precio-se-venderan-las-entradas-20261012-0034.html",
+        "image": "https://www.rosario3.com/__export/1791835173909/sites/rosario3/img/2026/10/05/central_banfield_visitantes.jpg_506286608.jpg",
+        "summary": "El partido ante Atlético será el próximo sábado a las 20 en el Estadio Monumental José Fierro. Como ante Banfield, los canallas podrán viajar para acompañar al equipo de Di María, que pelea por el título en la tabla anual y busca terminar lo más arriba posible la fase regular…",
         "pubDate": "2026-10-12T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "On The Spot celebró sus nueve años con una fiesta artística en la calle",
+        "link": "https://www.lacapital.com.ar/novedades/on-the-spot-celebro-sus-nueve-anos-una-fiesta-artistica-la-calle-n10286401.html",
+        "image": "https://media.lacapital.com.ar/p/3da4ba091fb2a3961a600de1b72281a1/adjuntos/203/imagenes/103/465/0103465289/1200x675/smart/2c0f697d-fa18-4b05-8f20-26fcd281a966.jpg",
+        "summary": "La cuadra de Dorrego 343 se vistió de fiesta para celebrar los nueve años de On The Spot con una propuesta artística inclusiva que reunió a alumnos, docentes y familias",
+        "pubDate": "2026-10-13T13:55:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Los adultos mayores vivirán a pleno el \"Octubre dorado\" en Villa Gobernador Gálvez",
+        "link": "https://www.lacapital.com.ar/la-region/los-adultos-mayores-viviran-pleno-el-octubre-dorado-villa-gobernador-galvez-n10286399.html",
+        "image": "https://media.lacapital.com.ar/p/57833a26300811b85730091ffa678a0d/adjuntos/203/imagenes/103/465/0103465334/1200x675/smart/vgg-octubre-dorado1.jpeg",
+        "summary": "Desde el municipio se planificó una intensa agenda de actividades para las personas de la tercera edad que incluirá deportes, homenajes y eventos culturales",
+        "pubDate": "2026-10-13T13:50:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Agustín Módica tiró una gambeta al explicar el festejo de su gol a Newell's",
+        "link": "https://www.lacapital.com.ar/ovacion/agustin-modica-tiro-una-gambeta-al-explicar-el-festejo-su-gol-newells-n10286393.html",
+        "image": "https://media.lacapital.com.ar/p/edcb7c4e59bf5427f726b4cc5626df01/adjuntos/203/imagenes/103/465/0103465253/agustin-modica.jpeg",
+        "summary": "El futbolista de Gimnasia y Esgrima de Mendoza respondió con ironía cuando le preguntaron por los gestos que hizo y su pasado en Central",
+        "pubDate": "2026-10-13T13:46:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Nódulo pulmonar: lo que tiene el Papa es un hallazgo frecuente en Santa Fe",
+        "link": "https://www.lacapital.com.ar/nodulo-pulmonar-lo-que-tiene-el-papa-es-un-hallazgo-frecuente-santa-fe-n10286380.html",
+        "image": "https://media.lacapital.com.ar/p/4f68dd9c960011a925b3b46e188aff36/adjuntos/203/imagenes/103/464/0103464947/1200x675/smart/nodulo-pulmonar.jpg",
+        "summary": "Los nódulos pulmonares pueden ser benignos o malignos. En el país, se estima que los tienen 35 de cada 100 personas que se hacen tomografía de tórax. Los pasos a seguir",
+        "pubDate": "2026-10-13T13:38:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La polémica del \"bochazo\": Schmuck niega el \"adoctrinamiento\" denunciado por La Libertad Avanza",
+        "link": "https://www.lacapital.com.ar/politica/la-polemica-del-bochazo-schmuck-niega-el-adoctrinamiento-denunciado-la-libertad-avanza-n10286397.html",
+        "image": "https://media.lacapital.com.ar/p/cded797e8f68ce0cb2ebd59d87ae7d30/adjuntos/203/imagenes/102/591/0102591467/1200x675/smart/image-33.jpg",
+        "summary": "La presidenta del Concejo municipal y docente de Ciencia Política dijo que la critican por un recorte malintencionado. La escracharon y hasta amenazaron a su marido, rector de la UNR",
+        "pubDate": "2026-10-13T13:29:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Femicidio en Empalme Graneros: ¿quién es el expolicía detenido por el crimen?",
@@ -227,51 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/f9d854db19ad0a2c8eb671a00d494258/adjuntos/203/imagenes/103/464/0103464758/detenido-homicidio-agustin-munoz.jpg",
         "summary": "La Policía de Investigaciones había allanado la casa del sospechoso horas después del asesinato de Agustín Muñoz en Pérez",
         "pubDate": "2026-10-13T10:45:52+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Una mujer embarazada está muy grave por quemaduras y detuvieron a su pareja",
-        "link": "https://www.lacapital.com.ar/policiales/una-mujer-embarazada-esta-muy-grave-quemaduras-y-detuvieron-su-pareja-n10286352.html",
-        "image": "https://media.lacapital.com.ar/p/1f4c74f6a84702c5a8aae80eeed3d66b/adjuntos/203/imagenes/103/465/0103465052/1200x675/smart/femicidio01.jpg",
-        "summary": "El caso de tentativa de femicidio sucedió en Granadero Baigorria. La víctima está internada en el Hospital Eva Perón con riesgo de vida",
-        "pubDate": "2026-10-13T10:33:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Feria del Libro: cinco días con fuerte programación y gran asistencia de público",
-        "link": "https://www.lacapital.com.ar/feria-del-libro-cinco-dias-fuerte-programacion-y-gran-asistencia-publico-n10286327.html",
-        "image": "https://media.lacapital.com.ar/p/03fc902acb652696e5abd58091de4b30/adjuntos/203/imagenes/103/464/0103464496/1200x675/smart/libro-2.jpg",
-        "summary": "Durante la primera semana, grandes referentes de la literatura local y nacional se dieron cita en un Cultural Fontanarrosa colmado de visitantes",
-        "pubDate": "2026-10-13T09:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Asisten a refugios municipales y presentan un libro con sus escritos literarios",
-        "link": "https://www.lacapital.com.ar/la-ciudad/asisten-refugios-municipales-y-presentan-un-libro-sus-escritos-literarios-n10286316.html",
-        "image": "https://media.lacapital.com.ar/p/b8460ff5ab50d2d836a62e8af40216e1/adjuntos/203/imagenes/103/464/0103464396/1200x675/smart/taller-2.jpg",
-        "summary": "“Historias de Refugio”, fruto de un taller de lectura y escritura en ámbitos para personas en situación de calle, llega al Cultural Fontanarrosa",
-        "pubDate": "2026-10-13T09:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Los feedlots tienen un stock récord, pero cae la salida de hacienda",
-        "link": "https://www.lacapital.com.ar/agro/los-feedlots-tienen-un-stock-record-pero-cae-la-salida-hacienda-n10286319.html",
-        "image": "https://media.lacapital.com.ar/p/7c603119bc82ddcfbe0104874a35265e/adjuntos/305/imagenes/100/565/0100565049/1200x675/325x160:345x180/agro601_lc_77768882__20-04-2023__0x0jpg.jpg",
-        "summary": "Los corrales comenzaron octubre con casi 2,1 millones de animales. Según Rosgan, los egresos de septiembre bajaron un 25% interanual y podrían reflejar una extensión del engorde para lograr mayor peso",
-        "pubDate": "2026-10-13T09:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Clima y agro: lluvias itinerantes, humedad en ascenso y fresco de otoño en plena primavera",
-        "link": "https://www.lacapital.com.ar/agro/clima-y-agro-lluvias-itinerantes-humedad-ascenso-y-fresco-otono-plena-primavera-n10286325.html",
-        "image": "https://media.lacapital.com.ar/p/d585218f06bee6359e0ee8a8aaca4ec9/adjuntos/305/imagenes/029/786/0029786811/1200x675/smart/lluvia-campo.jpg",
-        "summary": "Perspectiva agroclimática para la región núcleo y centro del país. En el sur de Santa Fe, norte de Buenos Aires y sudeste de Córdoba, las temperaturas se mantendrían relativamente bajas para octubre",
-        "pubDate": "2026-10-13T09:15:00+00:00",
         "approxTime": false
       }
     ]
