@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T20:01:13.884220+00:00",
+  "generatedAt": "2026-10-13T20:31:05.421896+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,10 +13,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "La inflación de septiembre fue de 1,9% y registró un leve incremento con respecto a agosto",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-inflacion-de-septiembre-fue-de-19-y-registro-un-leve-incremento-con-respecto-a-agosto-20261013-0070.html",
-        "image": "https://www.rosario3.com/__export/1791919516206/sites/rosario3/img/2026/10/13/inflacixn.jpg_982625323.jpg",
-        "summary": "El Índice de precios al consumidor (IPC) que mide el Indec registró un 23,6% de suba acumulada durante los primeros nueve meses del año, mientras que a nivel interanual se situó en 33,4%",
+        "title": "Alumnos rosarinos cincelan el cáliz que Juan Carlos Pallarols le regalará al Papa en su visita al país",
+        "link": "https://www.rosario3.com/informaciongeneral/alumnos-rosarinos-cincelan-el-caliz-que-juan-carlos-pallarols-le-regalara-al-papa-en-su-visita-al-pais-20261013-0044.html",
+        "image": "https://www.rosario3.com/__export/1791907479139/sites/rosario3/img/2026/10/13/colegio_boneo.png_786111822.png",
+        "summary": "Estudiantes del colegio Boneo cincelan la pieza que el famoso orfebre le entregará al sumo pontífice. El proyecto transforma vainas de balas en un símbolo de paz y busca reunir los deseos y mensajes de personas de todo el país",
         "pubDate": "2026-10-13T11:59:00+00:00",
         "approxTime": true
       },
@@ -40,11 +40,20 @@
       },
       {
         "source": "Rosario3",
-        "title": "Red Hot Chili Peppers en Rosario: anuncian un festival internacional en el Gigante de Arroyito",
-        "link": "https://www.rosario3.com/ocio/red-hot-chili-peppers-en-rosario-anuncian-un-festival-internacional-en-el-gigante-de-arroyito-20261013-0047.html",
-        "image": "https://www.rosario3.com/__export/1791907701668/sites/rosario3/img/2026/10/13/red_hot.jpg_54252853.jpg",
-        "summary": "El Music Gold Festival se desarrollará el sábado 12 de junio de 2027, en el estadio de Rosario Central. A la banda de California, se suman The Human League y Happy Mondays en una lista de artistas “a confirmar”. La preventa de entradas comienza este jueves",
+        "title": "Qué dicen en Conmebol sobre la postulación de Rosario Central y el Gigante para el Mundial 2030",
+        "link": "https://www.rosario3.com/deportes/que-dicen-en-conmebol-sobre-la-postulacion-de-rosario-central-y-el-gigante-para-el-mundial-2030-20261013-0077.html",
+        "image": "https://www.rosario3.com/__export/1788550519067/sites/rosario3/img/2026/09/04/gigante_de_arroyito.jpg_506286608.jpg",
+        "summary": "Nery Pumpido, quien se desempeña como secretario general Adjunto de Fútbol y director de Desarrollo de la Confederación, se refirió al tema este martes en Santa Fe capital. El club de Arroyito mostró su intención de recibir un partido de la Copa del Mundo del centenario, en la…",
         "pubDate": "2026-10-13T11:56:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "La inflación de septiembre fue de 1,9% y registró un leve incremento con respecto a agosto",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-inflacion-de-septiembre-fue-de-19-y-registro-un-leve-incremento-con-respecto-a-agosto-20261013-0070.html",
+        "image": "https://www.rosario3.com/__export/1791919516206/sites/rosario3/img/2026/10/13/inflacixn.jpg_982625323.jpg",
+        "summary": "El Índice de precios al consumidor (IPC) que mide el Indec registró un 23,6% de suba acumulada durante los primeros nueve meses del año, mientras que a nivel interanual se situó en 33,4%",
+        "pubDate": "2026-10-13T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -53,15 +62,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/la-provincia-lanzo-un-plan-para-incentivar-el-consumo-en-17-paseos-comerciales-de-rosario-20261013-0034.html",
         "image": "https://www.rosario3.com/__export/1791903347418/sites/rosario3/img/2026/10/13/dia_de_la_madre_compra.png_786111822.png",
         "summary": "La iniciativa incluye financiamiento de tres a seis cuotas sin interés, propuestas recreativas y sorteos especiales por el Día de la Madre, con el objetivo de fortalecer los negocios de cercanía frente a los grandes centros de compras",
-        "pubDate": "2026-10-13T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Crecida del Paraná: buscan retirar miles de cabezas de ganado de las islas antes de las inundaciones",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/crecida-del-parana-buscan-retirar-miles-de-cabezas-de-ganado-de-las-islas-antes-de-las-inundaciones-20261013-0017.html",
-        "image": "https://www.rosario3.com/__export/1791894757066/sites/rosario3/img/2026/10/13/humedales_ganado_clima_tiempo_campo-5_version1791894755548.jpg_1341324959.jpg",
-        "summary": "Los productores ganaderos comenzaron a sacar animales y a reducir la reposición ante la previsión de una creciente que podría alcanzar su pico en diciembre y extenderse hasta marzo o abril. El director de Ganadería de Entre Ríos, Martín Sieber, señaló que el principal obstáculo…",
         "pubDate": "2026-10-13T11:54:00+00:00",
         "approxTime": true
       },
@@ -130,15 +130,42 @@
       },
       {
         "source": "Rosario3",
-        "title": "Malvinas: Argentina acudió al Tribunal del Mar para frenar Sea Lion, un millonario proyecto de explotación petrolera en las islas",
-        "link": "https://www.rosario3.com/politica/malvinas-argentina-acudio-al-tribunal-del-mar-para-frenar-sea-lion-un-millonario-proyecto-de-explotacion-petrolera-en-las-islas-20261013-0020.html",
-        "image": "https://www.rosario3.com/__export/1790077113549/sites/rosario3/img/2026/09/22/sealion.jpg_982625301.jpg",
-        "summary": "El gobierno de Javier Milei presentó un pedido de medidas urgentes para impedir que avance la extracción de petróleo en la Cuenca Malvinas Norte",
+        "title": "Crecida del Paraná: buscan retirar miles de cabezas de ganado de las islas antes de las inundaciones",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/crecida-del-parana-buscan-retirar-miles-de-cabezas-de-ganado-de-las-islas-antes-de-las-inundaciones-20261013-0017.html",
+        "image": "https://www.rosario3.com/__export/1791894757066/sites/rosario3/img/2026/10/13/humedales_ganado_clima_tiempo_campo-5_version1791894755548.jpg_1341324959.jpg",
+        "summary": "Los productores ganaderos comenzaron a sacar animales y a reducir la reposición ante la previsión de una creciente que podría alcanzar su pico en diciembre y extenderse hasta marzo o abril. El director de Ganadería de Entre Ríos, Martín Sieber, señaló que el principal obstáculo…",
         "pubDate": "2026-10-13T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Estafas con paquetes turísticos: cómo operaba la pareja acusada por más de 20 fraudes en Rosario",
+        "link": "https://www.lacapital.com.ar/policiales/estafas-paquetes-turisticos-como-operaba-la-pareja-acusada-mas-20-fraudes-rosario-n10286498.html",
+        "image": "https://media.lacapital.com.ar/p/7cac174c731ff83f3bdf470e7509acc7/adjuntos/203/imagenes/103/466/0103466516/1200x675/smart/estafadores.jpg",
+        "summary": "Natali Dortona y Federico López quedaron presos acusados por estafas en Arroyo Seco y Rosario vinculadas a venta de paquetes turísticos que no se concretaban",
+        "pubDate": "2026-10-13T20:21:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central: Gaspar Duarte pasó por quirófano tras la grave lesión de rodilla que tuvo ante Banfield",
+        "link": "https://www.lacapital.com.ar/ovacion/central-gaspar-duarte-paso-quirofano-la-grave-lesion-rodilla-que-tuvo-banfield-n10286503.html",
+        "image": "https://media.lacapital.com.ar/p/a2838505bdeb7e9702382517cd8fdcb9/adjuntos/203/imagenes/103/466/0103466547/duartessm.jpeg",
+        "summary": "El delantero había sufrido la rotura del ligamento cruzado anterior y meniscos externo e interno. Lo que se le viene es un largo proceso de recuperación",
+        "pubDate": "2026-10-13T20:20:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El Centro de Teatro Independiente de Sastre celebró su 40° aniversario sobre las tablas",
+        "link": "https://www.lacapital.com.ar/la-region/el-centro-teatro-independiente-sastre-celebro-su-40-aniversario-las-tablas-n10286461.html",
+        "image": "https://media.lacapital.com.ar/p/2248d4e63fd9e12f9284920729501f42/adjuntos/203/imagenes/103/466/0103466101/1200x675/smart/teatrosastre-7.JPG",
+        "summary": "Con la reposición de la obra \"Por haber amado tanto\", del autor regional Oscar \"Cacho\" Balbi, escrita especialmente para el grupo vocacional, festejaron el amor por el teatro",
+        "pubDate": "2026-10-13T20:00:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "La inflación de septiembre se aceleró: se acercó al 2% y acumula un alza de 23,6% en el año",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/1ff92749ed9e1f34abbb324660dc4dd2/adjuntos/203/imagenes/103/466/0103466283/1200x675/smart/image-18.jpg",
         "summary": "La segunda edición de “No Garpa” se presenta bajo el concepto “Apodos” y muestra cómo una apuesta puede convertirse en una deuda que “te cambia el nombre”",
         "pubDate": "2026-10-13T18:28:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "WhatsApp permitirá programar mensajes para que se envíen horas o días más tarde",
-        "link": "https://www.lacapital.com.ar/informacion-general/whatsapp-permitira-programar-mensajes-que-se-envien-horas-o-dias-mas-tarde-n10286463.html",
-        "image": "https://media.lacapital.com.ar/p/09f532d5bfb655505c6fe86b89b57000/adjuntos/203/imagenes/102/727/0102727822/1200x675/smart/whatsapp-celular.png",
-        "summary": "Con la nueva función, los usuarios podrán dejar mensajes preparados para que se envíen de 10 minutos a dos semanas más tarde. Cómo funcionará la herramienta",
-        "pubDate": "2026-10-13T18:27:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Por qué se separaron Julieta Prandi y Emanuel Ortega: las teorías que sugieren una infidelidad",
-        "link": "https://www.lacapital.com.ar/zoom/por-que-se-separaron-julieta-prandi-y-emanuel-ortega-las-teorias-que-sugieren-una-infidelidad-n10286435.html",
-        "image": "https://media.lacapital.com.ar/p/fb38e6fc6a3bf0f626726b3d1f77e40a/adjuntos/203/imagenes/102/592/0102592975/1200x675/smart/image-68.jpg",
-        "summary": "A tan solo 27 días de su casamiento, la pareja le puso punto final a su historia. Aunque no revelaron oficialmente las causas, distintos periodistas sugieren sus hipótesis, donde una supuesta infidelidad cobra protagonismo",
-        "pubDate": "2026-10-13T18:26:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Anses actualizó los topes para acceder al SUAF: cómo quedaron en octubre",
-        "link": "https://www.lacapital.com.ar/informacion-general/anses-actualizo-los-topes-acceder-al-suaf-como-quedaron-octubre-n10286472.html",
-        "image": "https://media.lacapital.com.ar/p/0f794aa0eb1bc615b172e87fd7d9b451/adjuntos/203/imagenes/100/158/0100158641/1200x675/smart/ansespng.png",
-        "summary": "El organismo oficializó la actualización en función del aumento de octubre para las distintas prestaciones. Quiénes siguen accediendo al SUAF",
-        "pubDate": "2026-10-13T18:26:00+00:00",
         "approxTime": false
       }
     ]
