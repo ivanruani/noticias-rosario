@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T16:30:59.204153+00:00",
+  "generatedAt": "2026-10-13T17:01:20.352130+00:00",
   "sites": {
     "rosario3": [
       {
@@ -85,11 +85,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Feria Internacional del Libro de Rosario 2026: todas las actividades de este martes",
-        "link": "https://www.rosario3.com/ocio/feria-internacional-del-libro-de-rosario-2026-todas-las-actividades-de-este-martes-20261008-0040.html",
-        "image": "https://www.rosario3.com/__export/1791740442902/sites/rosario3/img/2026/10/11/feria_del_libro_1.jpg_54252875.jpg",
-        "summary": "El Cultural Fontanarrosa (San Martín 1080) abre sus puertas de 13 a 21. Gratis, con gestión previa del código QR",
-        "pubDate": "2026-10-08T11:51:00+00:00",
+        "title": "\"Estamos listos\": Central postula al Gigante de Arroyito como sede del Mundial 2030 con un video",
+        "link": "https://www.rosario3.com/deportes/estamos-listos-central-postula-al-gigante-de-arroyito-como-sede-del-mundial-2030-con-un-video-20261013-0018.html",
+        "image": "https://www.rosario3.com/__export/1791894003412/sites/rosario3/img/2026/10/13/captura_de_pantalla_-24-.jpg_1106330350.jpg",
+        "summary": "El club canalla presentó un impactante material audiovisual donde repasa sus obras de infraestructura, recuerda la experiencia de Argentina 1978 y le habla directamente a la AFA, Conmebol y FIFA para albergar la cita máxima del fútbol mundial",
+        "pubDate": "2026-10-13T11:51:00+00:00",
         "approxTime": true
       },
       {
@@ -103,11 +103,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Cuatro imputados más por la balacera a un cuidacoches en Oroño y Brown",
+        "link": "https://www.rosario3.com/policiales/cuatro-imputados-mas-por-la-balacera-a-un-cuidacoches-en-orono-y-brown-20261013-0035.html",
+        "image": "https://www.rosario3.com/__export/1791903204287/sites/rosario3/img/2026/10/13/dsc06204_version1791903203229.jpg_1096344066.jpg",
+        "summary": "Fueron llevados a audiencia imputativa el viernes pasado y quedaron en prisión preventiva hasta febrero próximo. El ataque a tiros del 23 de septiembre se dio luego de que el trapito mantuviera una discusión al comprar droga en la esquina de Alvear y Jujuy",
+        "pubDate": "2026-10-13T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Aguas Santafesinas invierte más de $1.000 millones para renovar la planta potabilizadora de Rosario",
         "link": "https://www.rosario3.com/informaciongeneral/aguas-santafesinas-invierte-mas-de-1.000-millones-para-renovar-la-planta-potabilizadora-de-rosario-20261013-0040.html",
         "image": "https://www.rosario3.com/__export/1791905530636/sites/rosario3/img/2026/10/13/compuerta_decantadores_1.jpeg_928314580.jpeg",
         "summary": "Las obras incluyen la rehabilitación de filtros, el reemplazo de compuertas y la renovación de cañerías y equipos con más de 60 años de antigüedad. La planta abastece a más de un millón de habitantes de Rosario, Funes y Villa Gobernador Gálvez",
-        "pubDate": "2026-10-13T11:49:00+00:00",
+        "pubDate": "2026-10-13T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +125,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/la-anmat-prohibio-la-venta-y-el-uso-de-una-marca-de-lavandina-en-todo-el-pais-20261013-0030.html",
         "image": "https://www.rosario3.com/__export/1791899532932/sites/rosario3/img/2026/10/13/lavandina_656.png_928314580.png",
         "summary": "La medida alcanza a todos los lotes de la lavandina 656 Profesional y también impide su distribución y publicidad en plataformas de comercio electrónico. El producto no tenía registro sanitario y no se pudo identificar quién lo elaboraba",
-        "pubDate": "2026-10-13T11:48:00+00:00",
+        "pubDate": "2026-10-13T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,16 +134,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/el-papa-leon-xiv-anuncio-que-sera-operado-de-un-nodulo-en-un-pulmon-y-permanecera-una-semana-internado-20261011-0006.html",
         "image": "https://www.rosario3.com/__export/1791720382177/sites/rosario3/img/2026/10/11/papa.jpg_1825222445.jpg",
         "summary": "El Vaticano informó que la intervención quirúrgica para extirpar el nódulo pulmonar se llevará a cabo en un instituto médico de Roma. En noviembre tiene previsto visitar Argentina, Uruguay y Perú",
-        "pubDate": "2026-10-11T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Recibió cuatro tiros en una pierna en una balacera contra su casa de Villa Gobernador Gálvez",
-        "link": "https://www.rosario3.com/policiales/recibio-cuatro-tiros-en-una-pierna-en-una-balacera-contra-su-casa-de-villa-gobernador-galvez-20261013-0029.html",
-        "image": "https://www.rosario3.com/__export/1791899901431/sites/rosario3/img/2026/10/13/balacera_nahuel_huapi.jpg_928314580.jpg",
-        "summary": "Ocurrió este lunes en Nahuel Huapi y Pasaje C, cuando la víctima, de 30 años, jugaba a las cartas con su hija. La víctima se encuentra fuera de peligro",
-        "pubDate": "2026-10-13T11:46:00+00:00",
+        "pubDate": "2026-10-11T11:46:00+00:00",
         "approxTime": true
       }
     ],
