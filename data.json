@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T23:01:07.142906+00:00",
+  "generatedAt": "2026-10-13T23:16:18.543531+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Al menos seis muertos en México por el paso de un huracán y una tormenta tropical",
+        "link": "https://www.lacapital.com.ar/informacion-general/al-menos-seis-muertos-mexico-el-paso-un-huracan-y-una-tormenta-tropical-n10286542.html",
+        "image": "https://media.lacapital.com.ar/p/7608ade2b0231069f515b1708d0d00bd/adjuntos/203/imagenes/103/466/0103466852/2026-10-13-tormenta-mexico.jpg",
+        "summary": "El huracán Simón y los remanentes de la tormenta Rachel ocasionaron fuertes precipitaciones, inundaciones y deslaves",
+        "pubDate": "2026-10-13T23:11:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Se viene otro clásico rosarino: Central y Newell's jugarán por un lugar en la final de la Copa Santa Fe",
         "link": "https://www.lacapital.com.ar/ovacion/se-viene-otro-clasico-rosarino-central-y-newells-jugaran-un-lugar-la-final-la-copa-santa-fe-n10286532.html",
         "image": "https://media.lacapital.com.ar/p/b11fafed53878624f9d9698cd2202e9e/adjuntos/203/imagenes/103/466/0103466780/clasico3.jpeg",
@@ -168,19 +177,19 @@
       },
       {
         "source": "La Capital",
-        "title": "La mesa política del gobierno volvió a reunirse para acelerar la agenda legislativa",
-        "link": "https://www.lacapital.com.ar/politica/la-mesa-politica-del-gobierno-volvio-reunirse-acelerar-la-agenda-legislativa-n10286516.html",
-        "image": "https://media.lacapital.com.ar/p/7b7fce38fc3488e6a05bbe650cacb994/adjuntos/203/imagenes/103/391/0103391363/1200x675/smart/image.png",
-        "summary": "La megasesión en Diputados y otros temas clave para el Ejecutivo marcaron el pulso del cónclave que encabezó Karina Milei. Se viene una ronda de negocios en Rosario",
+        "title": "La incertidumbre económica alcanzó su nivel más alto del año",
+        "link": "https://www.lacapital.com.ar/economia/la-incertidumbre-economica-alcanzo-su-nivel-mas-alto-del-ano-n10286534.html",
+        "image": "https://media.lacapital.com.ar/p/7b713b2a0a066bdaa82b9a4e093003fd/adjuntos/203/imagenes/102/877/0102877913/1200x675/551x450:571x470/ccc-san-caeytano.jpg",
+        "summary": "Trabajo, política e inflación concentraron las principales inquietudes, según la medición realizada por la UCA",
         "pubDate": "2026-10-13T22:37:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "La incertidumbre económica alcanzó su nivel más alto del año",
-        "link": "https://www.lacapital.com.ar/economia/la-incertidumbre-economica-alcanzo-su-nivel-mas-alto-del-ano-n10286534.html",
-        "image": "https://media.lacapital.com.ar/p/7b713b2a0a066bdaa82b9a4e093003fd/adjuntos/203/imagenes/102/877/0102877913/1200x675/551x450:571x470/ccc-san-caeytano.jpg",
-        "summary": "Trabajo, política e inflación concentraron las principales inquietudes, según la medición realizada por la UCA",
+        "title": "La mesa política del gobierno volvió a reunirse para acelerar la agenda legislativa",
+        "link": "https://www.lacapital.com.ar/politica/la-mesa-politica-del-gobierno-volvio-reunirse-acelerar-la-agenda-legislativa-n10286516.html",
+        "image": "https://media.lacapital.com.ar/p/7b7fce38fc3488e6a05bbe650cacb994/adjuntos/203/imagenes/103/391/0103391363/1200x675/smart/image.png",
+        "summary": "La megasesión en Diputados y otros temas clave para el Ejecutivo marcaron el pulso del cónclave que encabezó Karina Milei. Se viene una ronda de negocios en Rosario",
         "pubDate": "2026-10-13T22:37:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/7cac174c731ff83f3bdf470e7509acc7/adjuntos/203/imagenes/103/466/0103466516/1200x675/smart/estafadores.jpg",
         "summary": "Natali Dortona y Federico López quedaron presos acusados por estafas en Arroyo Seco y Rosario vinculadas a venta de paquetes turísticos que no se concretaban",
         "pubDate": "2026-10-13T20:21:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central: Gaspar Duarte pasó por quirófano tras la grave lesión de rodilla que tuvo ante Banfield",
-        "link": "https://www.lacapital.com.ar/ovacion/central-gaspar-duarte-paso-quirofano-la-grave-lesion-rodilla-que-tuvo-banfield-n10286503.html",
-        "image": "https://media.lacapital.com.ar/p/a2838505bdeb7e9702382517cd8fdcb9/adjuntos/203/imagenes/103/466/0103466547/duartessm.jpeg",
-        "summary": "El delantero había sufrido la rotura del ligamento cruzado anterior y meniscos externo e interno. Lo que se le viene es un largo proceso de recuperación",
-        "pubDate": "2026-10-13T20:20:00+00:00",
         "approxTime": false
       }
     ]
