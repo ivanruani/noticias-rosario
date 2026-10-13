@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T22:30:54.385465+00:00",
+  "generatedAt": "2026-10-13T23:01:07.142906+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,19 +141,64 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Se viene otro clásico rosarino: Central y Newell's jugarán por un lugar en la final de la Copa Santa Fe",
+        "link": "https://www.lacapital.com.ar/ovacion/se-viene-otro-clasico-rosarino-central-y-newells-jugaran-un-lugar-la-final-la-copa-santa-fe-n10286532.html",
+        "image": "https://media.lacapital.com.ar/p/b11fafed53878624f9d9698cd2202e9e/adjuntos/203/imagenes/103/466/0103466780/clasico3.jpeg",
+        "summary": "Canallas y leprosos se enfrentarán este sábado a las 16 en el estadio de Argentino de Rosario, por las semifinales del torneo provincial. El duelo podría contar con la presencia de ambas hinchadas.",
+        "pubDate": "2026-10-13T22:42:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Newell's: los pibes de la reserva rojinegra empataron en su visita a Quilmes",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-los-pibes-la-reserva-rojinegra-empataron-su-visita-quilmes-n10286533.html",
+        "image": "https://media.lacapital.com.ar/p/30c3e07cd2a9c8121698487088c6bb01/adjuntos/203/imagenes/103/466/0103466758/nob-res-acu-128h9woaep2hu.jpg",
+        "summary": "Los dirigidos por Lucas Bernardi igualaron 1 a 1, con gol de Alan Mereles, por la fecha 13 del torneo Proyección",
+        "pubDate": "2026-10-13T22:39:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Santiago Solari: \"Nos fuimos tristes por todas las ocasiones que erramos\"",
+        "link": "https://www.lacapital.com.ar/ovacion/santiago-solari-nos-fuimos-tristes-todas-las-ocasiones-que-erramos-n10286531.html",
+        "image": "https://media.lacapital.com.ar/p/d8ed8199e0aca70ec572cb887d32f1d7/adjuntos/203/imagenes/103/466/0103466736/nob-sol-121062.jpg",
+        "summary": "El delantero de Newell's, Santiago Solari habló sobre los goles desperdiciados y remarcó la falta de precisión, aunque igual consideró que tendrían que “haber ganado”",
+        "pubDate": "2026-10-13T22:38:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La mesa política del gobierno volvió a reunirse para acelerar la agenda legislativa",
+        "link": "https://www.lacapital.com.ar/politica/la-mesa-politica-del-gobierno-volvio-reunirse-acelerar-la-agenda-legislativa-n10286516.html",
+        "image": "https://media.lacapital.com.ar/p/7b7fce38fc3488e6a05bbe650cacb994/adjuntos/203/imagenes/103/391/0103391363/1200x675/smart/image.png",
+        "summary": "La megasesión en Diputados y otros temas clave para el Ejecutivo marcaron el pulso del cónclave que encabezó Karina Milei. Se viene una ronda de negocios en Rosario",
+        "pubDate": "2026-10-13T22:37:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La incertidumbre económica alcanzó su nivel más alto del año",
+        "link": "https://www.lacapital.com.ar/economia/la-incertidumbre-economica-alcanzo-su-nivel-mas-alto-del-ano-n10286534.html",
+        "image": "https://media.lacapital.com.ar/p/7b713b2a0a066bdaa82b9a4e093003fd/adjuntos/203/imagenes/102/877/0102877913/1200x675/551x450:571x470/ccc-san-caeytano.jpg",
+        "summary": "Trabajo, política e inflación concentraron las principales inquietudes, según la medición realizada por la UCA",
+        "pubDate": "2026-10-13T22:37:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Encontraron muerta a una rosarina en una posada de la Costa Atlántica y su familia denuncia un crimen",
         "link": "https://www.lacapital.com.ar/policiales/encontraron-muerta-una-rosarina-una-posada-la-costa-atlantica-y-su-familia-denuncia-un-crimen-n10286505.html",
         "image": "https://media.lacapital.com.ar/p/984ed518617c94f969ff9d47b73d421e/adjuntos/203/imagenes/103/466/0103466557/1200x675/smart/vallejos-costa-azul-1310.jpg",
-        "summary": "Paola Vallejos tenía 36 años y fue hallada sin vida en un alojamiento de Costa Azul. La primera hipótesis apuntó a un suicidio, pero sus familiares la rechazan y exigen que se investigue un posible homicidio.",
+        "summary": "Paola Vallejos tenía 36 años y fue hallada sin vida en un alojamiento de Costa Azul. La primera hipótesis apuntó a un suicidio, pero sus familiares la rechazan y exigen que se investigue un posible homicidio",
         "pubDate": "2026-10-13T22:23:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Se profundiza el conflicto universitario en Rosario: tomaron la Facultad de Humanidades",
-        "link": "https://www.lacapital.com.ar/la-ciudad/se-profundiza-el-conflicto-universitario-rosario-tomaron-la-facultad-humanidades-n10286530.html",
+        "title": "Se profundiza el conflicto en la UNR con tomas de facultades y clases públicas",
+        "link": "https://www.lacapital.com.ar/la-ciudad/se-profundiza-el-conflicto-la-unr-tomas-facultades-y-clases-publicas-n10286530.html",
         "image": "https://media.lacapital.com.ar/p/c2aeb009c63ba44ed75a6c29480ef7b4/adjuntos/203/imagenes/103/466/0103466725/1200x675/smart/image-21.jpg",
-        "summary": "Los estudiantes de la UNR resolvieron ocupar la facultad y cortar la calle Entre Ríos en reclamo de financiamiento para la educación pública. Este jueves habrá una nueva Marcha Federal Universitaria.",
+        "summary": "Ciencia Política y Humanidades harán una toma activa y Psicología se disponía a hacer una vigilia con pintadas. Este jueves habrá una nueva Marcha Federal Universitaria",
         "pubDate": "2026-10-13T22:03:00+00:00",
         "approxTime": false
       },
@@ -227,51 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/a2838505bdeb7e9702382517cd8fdcb9/adjuntos/203/imagenes/103/466/0103466547/duartessm.jpeg",
         "summary": "El delantero había sufrido la rotura del ligamento cruzado anterior y meniscos externo e interno. Lo que se le viene es un largo proceso de recuperación",
         "pubDate": "2026-10-13T20:20:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El Centro de Teatro Independiente de Sastre celebró su 40° aniversario sobre las tablas",
-        "link": "https://www.lacapital.com.ar/la-region/el-centro-teatro-independiente-sastre-celebro-su-40-aniversario-las-tablas-n10286461.html",
-        "image": "https://media.lacapital.com.ar/p/2248d4e63fd9e12f9284920729501f42/adjuntos/203/imagenes/103/466/0103466101/1200x675/smart/teatrosastre-7.JPG",
-        "summary": "Con la reposición de la obra \"Por haber amado tanto\", del autor regional Oscar \"Cacho\" Balbi, escrita especialmente para el grupo vocacional, festejaron el amor por el teatro",
-        "pubDate": "2026-10-13T20:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La inflación de septiembre se aceleró: se acercó al 2% y acumula un alza de 23,6% en el año",
-        "link": "https://www.lacapital.com.ar/economia/la-inflacion-septiembre-se-acelero-se-acerco-al-2-y-acumula-un-alza-236-el-ano-n10286490.html",
-        "image": "https://media.lacapital.com.ar/p/8563fbe7f25b244d0f4bb93d860b825a/adjuntos/203/imagenes/103/159/0103159923/1200x675/512x315:532x335/mayorista.jpg",
-        "summary": "El IPC nacional subió 1,9%, según la medición que difundió el Indec. Los servicios presentaron los mayores aumentos. Alimentos registró incrementos por encima del índice general",
-        "pubDate": "2026-10-13T19:14:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Los botones vuelven a los autos: por qué las grandes marcas empiezan a abandonar las pantallas táctiles",
-        "link": "https://www.lacapital.com.ar/informacion-general/los-botones-vuelven-los-autos-que-las-grandes-marcas-empiezan-abandonar-las-pantallas-tactiles-n10286491.html",
-        "image": "https://media.lacapital.com.ar/p/6d6243a3a123cdcb6e39269fec982800/adjuntos/203/imagenes/103/466/0103466403/1200x675/smart/imageboton.jpg",
-        "summary": "Después de años de reemplazar perillas e interruptores por enormes pantallas, la industria automotriz comienza a dar marcha atrás. Un organismo europeo de seguridad premia a los vehículos que conservan controles físicos para reducir las distracciones al volante. Qué marcas…",
-        "pubDate": "2026-10-13T19:12:25+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "\"Sunset en el Cristo\": música, arte y un atardecer especial en Timbúes",
-        "link": "https://www.lacapital.com.ar/la-region/sunset-el-cristo-musica-arte-y-un-atardecer-especial-timbues-n10286412.html",
-        "image": "https://media.lacapital.com.ar/p/956dc6065c044b732dbe0faa8cb24174/adjuntos/203/imagenes/103/465/0103465412/1200x675/smart/timbues-sunset5.jpeg",
-        "summary": "La programación musical recorrió distintos estilos, como Deep, House, Progressive, Minimal, Afro House y Tech House, acompañando el atardecer entre amigos y en familia",
-        "pubDate": "2026-10-13T19:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Milei viaja a Estados Unidos por quinta vez en lo que va del año",
-        "link": "https://www.lacapital.com.ar/politica/milei-viaja-estados-unidos-quinta-vez-lo-que-va-del-ano-n10286482.html",
-        "image": "https://media.lacapital.com.ar/p/518a0bdebc1cdc68377a82625db0e35a/adjuntos/203/imagenes/102/149/0102149651/1200x675/smart/mileieeuujpeg.jpeg",
-        "summary": "El presidente partirá esta noche hacia Washington DC, donde desplegará distintas actividades oficiales durante tres días",
-        "pubDate": "2026-10-13T18:50:00+00:00",
         "approxTime": false
       }
     ]
