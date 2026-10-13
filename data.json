@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-13T18:31:05.355698+00:00",
+  "generatedAt": "2026-10-13T19:01:13.190839+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "La partera Dolly irá a indagatoria este miércoles por la presunta sustracción de identidad de un bebé",
+        "link": "https://www.rosario3.com/policiales/la-partera-dolly-ira-a-indagatoria-este-miercoles-por-la-presunta-sustraccion-de-identidad-de-un-bebe-20261013-0045.html",
+        "image": "https://www.rosario3.com/__export/1791906925162/sites/rosario3/img/2026/09/18/tribunales_federales_rosario.jpg_1853120996.jpg",
+        "summary": "La citación es a las 10 en los tribunales de Oroño 940 y solo pueden concurrir las partes involucradas. Se trata de la causa que investiga la presunta sustracción de identidad de Roberto Carlos Fargioni, nacido en Rosario en 1978. “Se la imputará formalmente”, adelantó la…",
+        "pubDate": "2026-10-13T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "La Provincia lanzó un plan para incentivar el consumo en 17 paseos comerciales de Rosario",
         "link": "https://www.rosario3.com/informaciongeneral/la-provincia-lanzo-un-plan-para-incentivar-el-consumo-en-17-paseos-comerciales-de-rosario-20261013-0034.html",
         "image": "https://www.rosario3.com/__export/1791903347418/sites/rosario3/img/2026/10/13/dia_de_la_madre_compra.png_786111822.png",
         "summary": "La iniciativa incluye financiamiento de tres a seis cuotas sin interés, propuestas recreativas y sorteos especiales por el Día de la Madre, con el objetivo de fortalecer los negocios de cercanía frente a los grandes centros de compras",
-        "pubDate": "2026-10-13T12:00:00+00:00",
+        "pubDate": "2026-10-13T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/policiales/video-asi-fue-la-pelea-y-ataque-a-tiros-en-las-afuera-de-un-boliche-del-centro-de-rosario-20261013-0054.html",
         "image": "https://www.rosario3.com/__export/1791912604349/sites/rosario3/img/2026/10/13/picaro.jpg_928314580.jpg",
         "summary": "En las imágenes se pudo ver a distintos jóvenes que se tomaron a golpes de puño en las inmediaciones de Urquiza al 1900, donde luego uno terminó con un disparo en un brazo. Dos sospechosos fueron aprehendidos tras la agresión",
-        "pubDate": "2026-10-13T11:59:00+00:00",
+        "pubDate": "2026-10-13T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/ocio/red-hot-chili-peppers-en-rosario-anuncian-un-festival-internacional-en-el-gigante-de-arroyito-20261013-0047.html",
         "image": "https://www.rosario3.com/__export/1791907701668/sites/rosario3/img/2026/10/13/red_hot.jpg_54252853.jpg",
         "summary": "El Music Gold Festival se desarrollará el sábado 12 de junio de 2027, en el estadio de Rosario Central. A la banda de California, se suman The Human League y Happy Mondays en una lista de artistas “a confirmar”. La preventa de entradas comienza este jueves",
-        "pubDate": "2026-10-13T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Crecida del Paraná: buscan retirar miles de cabezas de ganado de las islas antes de las inundaciones",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/crecida-del-parana-buscan-retirar-miles-de-cabezas-de-ganado-de-las-islas-antes-de-las-inundaciones-20261013-0017.html",
-        "image": "https://www.rosario3.com/__export/1791894757066/sites/rosario3/img/2026/10/13/humedales_ganado_clima_tiempo_campo-5_version1791894755548.jpg_1341324959.jpg",
-        "summary": "Los productores ganaderos comenzaron a sacar animales y a reducir la reposición ante la previsión de una creciente que podría alcanzar su pico en diciembre y extenderse hasta marzo o abril. El director de Ganadería de Entre Ríos, Martín Sieber, señaló que el principal obstáculo…",
         "pubDate": "2026-10-13T11:57:00+00:00",
         "approxTime": true
       },
@@ -141,10 +141,82 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Milei viaja a Estados Unidos por quinta vez en lo que va del año",
+        "link": "https://www.lacapital.com.ar/politica/milei-viaja-estados-unidos-quinta-vez-lo-que-va-del-ano-n10286482.html",
+        "image": "https://media.lacapital.com.ar/p/518a0bdebc1cdc68377a82625db0e35a/adjuntos/203/imagenes/102/149/0102149651/1200x675/smart/mileieeuujpeg.jpeg",
+        "summary": "El presidente partirá esta noche hacia Washington DC, donde desplegará distintas actividades oficiales durante tres días",
+        "pubDate": "2026-10-13T18:50:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El Vaticano confirmó que la cirugía del Papa León XIV \"concluyó con éxito\"",
+        "link": "https://www.lacapital.com.ar/informacion-general/el-vaticano-confirmo-que-la-cirugia-del-papa-leon-xiv-concluyo-exito-n10286480.html",
+        "image": "https://media.lacapital.com.ar/p/6d05e889c39a506eee01ad7d639c4b68/adjuntos/203/imagenes/103/312/0103312640/1200x675/smart/el-dia13.jpeg",
+        "summary": "“La intervención ha concluido con éxito, en el plazo y de la forma previstos, y el Santo Padre ha regresado a su habitación. Próximamente se facilitará más información”, informó la Santa Sede",
+        "pubDate": "2026-10-13T18:42:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "ARCA puso el foco en OnlyFans y empieza a mirar con ganas a las creadoras",
+        "link": "https://www.lacapital.com.ar/economia/arca-puso-el-foco-onlyfans-y-empieza-mirar-ganas-las-creadoras-n10286438.html",
+        "image": "https://media.lacapital.com.ar/p/ae2085b2087fe85008063335eeac0721/adjuntos/203/imagenes/101/608/0101608832/1200x675/smart/only-fans-2jpg.jpg",
+        "summary": "Según trascendidos, la agencia de recaudación habría solicitado información a la empresa en Reino Unido sobre los cobros percibidos de argentinas. La agencias en el medio",
+        "pubDate": "2026-10-13T18:38:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Turismo en Rosario: otro fin de semana largo con interesante ocupación en hoteles",
+        "link": "https://www.lacapital.com.ar/la-ciudad/turismo-rosario-otro-fin-semana-largo-interesante-ocupacion-hoteles-n10286400.html",
+        "image": "https://media.lacapital.com.ar/p/f81a78491943cbc0c1b87b59245fe210/adjuntos/203/imagenes/100/038/0100038012/1200x675/smart/la-preferida-rosario-fue-el-destino-santafesino-mas-elegido-los-turistas.jpg",
+        "summary": "Según datos de Turismo de la Municipalidad, la ciudad cerró tres días con casi un 80 por ciento de ocupación hotelera y con 191.233 visitantes",
+        "pubDate": "2026-10-13T18:37:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Una herencia millonaria, 80 audios y una jueza suspendida: el escándalo que sacude a la Justicia de Rosario",
+        "link": "https://www.lacapital.com.ar/la-ciudad/una-herencia-millonaria-80-audios-y-una-jueza-suspendida-el-escandalo-que-sacude-la-justicia-rosario-n10286403.html",
+        "image": "https://media.lacapital.com.ar/p/7a03f8e5f98800221b3bcbe6a195a48f/adjuntos/203/imagenes/103/465/0103465427/tribunales-provinciales.jpg",
+        "summary": "La Corte Suprema de Santa Fe apartó a la magistrada Sabina Sansarricq, acusada de filtrar información judicial para favorecer al sobrino de un empresario fallecido. La disputa por el patrimonio, que incluye estaciones de servicio, inmuebles y autos de colección, destapó una…",
+        "pubDate": "2026-10-13T18:35:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Netflix sumó la comedia romántica de Sydney Sweeney y Glen Powell a su catálogo",
+        "link": "https://www.lacapital.com.ar/zoom/netflix-sumo-la-comedia-romantica-sydney-sweeney-y-glen-powell-su-catalogo-n10286452.html",
+        "image": "https://media.lacapital.com.ar/p/81217cd8dc5408b2178d962f8b03213c/adjuntos/203/imagenes/103/465/0103465938/1200x675/smart/image.png",
+        "summary": "Dirigida por Will Gluck, “Con todos menos contigo” tuvo una recepción positiva por parte del público y se posicionó entre las rom-coms favoritas de los últimos años",
+        "pubDate": "2026-10-13T18:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El Reino Unido autorizó la explotación petrolera en Malvinas",
+        "link": "https://www.lacapital.com.ar/politica/el-reino-unido-autorizo-la-explotacion-petrolera-malvinas-n10286473.html",
+        "image": "https://media.lacapital.com.ar/p/4f6a8a3744659fbe5ff3113da5d775d6/adjuntos/203/imagenes/103/388/0103388990/1200x675/smart/petroleo-malvinas-sea-lion.jpg",
+        "summary": "El gobierno británico le dio luz verde al proyecto Sea Lion para 2027 pese al reclamo judicial de la administración de Milei ante el Tribunal del Derecho del Mar",
+        "pubDate": "2026-10-13T18:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Gustavo Yankelevich habló de la acusación de sus nietos contra Darío Giordano",
         "link": "https://www.lacapital.com.ar/zoom/gustavo-yankelevich-hablo-la-acusacion-sus-nietos-contra-dario-giordano-n10286413.html",
         "image": "https://media.lacapital.com.ar/p/4d7130b79074a3b47aedb20398017885/adjuntos/203/imagenes/103/465/0103465509/1200x675/smart/image-2026-10-13t123928310.jpg",
         "summary": "El productor de televisión rompió el silencio luego de que de uno de sus nietos, Valentín, denunciara públicamente que recibió maltrato de su madre",
+        "pubDate": "2026-10-13T18:28:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Lotería de Santa Fe sale a la calle con una campaña de prevención del juego problemático en menores",
+        "link": "https://www.lacapital.com.ar/loteria-santa-fe-sale-la-calle-una-campana-prevencion-del-juego-problematico-menores-n10286470.html",
+        "image": "https://media.lacapital.com.ar/p/1ff92749ed9e1f34abbb324660dc4dd2/adjuntos/203/imagenes/103/466/0103466283/1200x675/smart/image-18.jpg",
+        "summary": "La segunda edición de “No Garpa” se presenta bajo el concepto “Apodos” y muestra cómo una apuesta puede convertirse en una deuda que “te cambia el nombre”",
         "pubDate": "2026-10-13T18:28:00+00:00",
         "approxTime": false
       },
@@ -200,78 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/421cc346648c5adb061b74d3d690ebf7/adjuntos/203/imagenes/103/465/0103465439/1200x675/smart/image.png",
         "summary": "El producto no se encontraba registrado ante el organismo, lo cual impide garantizar su seguridad y eficacia",
         "pubDate": "2026-10-13T15:46:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Estiman que el río Paraná llegará al nivel de alerta en Rosario hacia finales de octubre",
-        "link": "https://www.lacapital.com.ar/la-ciudad/estiman-que-el-rio-parana-llegara-al-nivel-alerta-rosario-finales-octubre-n10286383.html",
-        "image": "https://media.lacapital.com.ar/p/c5e7c89188525d026669aac60533975e/adjuntos/203/imagenes/103/465/0103465487/1200x675/smart/rio-parana.png",
-        "summary": "Desde el Instituto Nacional del Agua prevén un marcado ascenso en las mediciones tras las lluvias que se vienen dando en el corazón de la Cuenca del Plata",
-        "pubDate": "2026-10-13T15:45:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Este miércoles, llega una nueva edición del Día del Juego y la Convivencia",
-        "link": "https://www.lacapital.com.ar/la-ciudad/este-miercoles-llega-una-nueva-edicion-del-dia-del-juego-y-la-convivencia-n10286427.html",
-        "image": "https://media.lacapital.com.ar/p/af4b46cb0b81c17042eb294fff21ee74/adjuntos/203/imagenes/103/465/0103465558/1200x675/smart/timthumb-8.jpg",
-        "summary": "La Municipalidad de Rosario, desde el proyecto La Ciudad de las Niñas y los Niños, invita a la ciudadanía a transformar el ritmo cotidiano",
-        "pubDate": "2026-10-13T15:44:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El músico Nicolás Ibarburú trae a Rosario su fusión de candombe con otros géneros",
-        "link": "https://www.lacapital.com.ar/zoom/el-musico-nicolas-ibarburu-trae-rosario-su-fusion-candombe-otros-generos-n10286440.html",
-        "image": "https://media.lacapital.com.ar/p/575b88fbe89f91534bce6579138aeb98/adjuntos/203/imagenes/103/465/0103465630/1200x675/smart/nicolas-ibarburu.jpg",
-        "summary": "El reconocido guitarrista y cantante de Uruguay se presentará el domingo próximo al frente de un cuarteto junto a su hermano Martín, en batería",
-        "pubDate": "2026-10-13T15:42:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Realizaron una cesárea de urgencia a la embarazada que sufrió graves quemaduras",
-        "link": "https://www.lacapital.com.ar/policiales/realizaron-una-cesarea-urgencia-la-embarazada-que-sufrio-graves-quemaduras-n10286416.html",
-        "image": "https://media.lacapital.com.ar/p/c16b11ed73bbafb943fc555dfcd6ada7/adjuntos/203/imagenes/103/465/0103465366/1200x675/smart/hospital-eva-peron.jpg",
-        "summary": "El bebé permanece en Neonatología, intubado pero estable. La mujer sigue en estado reservado por lesiones en el 15% del cuerpo. Investigan tentativa de femicidio",
-        "pubDate": "2026-10-13T14:34:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Violento asalto en barrio Godoy: abusaron de una mujer y la amenazaron de muerte",
-        "link": "https://www.lacapital.com.ar/policiales/violento-asalto-barrio-godoy-abusaron-una-mujer-y-la-amenazaron-muerte-n10286407.html",
-        "image": "https://media.lacapital.com.ar/p/7d5295ec9212abcbe761b72be76aa933/adjuntos/203/imagenes/103/465/0103465365/1200x675/smart/barrio-godoy-violento-asalto.png",
-        "summary": "Al menos dos delincuentes entraron a una casa de la zona oeste, golpearon a una mujer y abusaron sexualmente de ella. Le robaron dinero, un celular y las llaves",
-        "pubDate": "2026-10-13T14:24:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Santa Fe renovó la web de los más buscados: cómo consultar las recompensas y aportar datos",
-        "link": "https://www.lacapital.com.ar/policiales/santa-fe-renovo-la-web-los-mas-buscados-como-consultar-las-recompensas-y-aportar-datos-n10286390.html",
-        "image": "https://media.lacapital.com.ar/p/fec50ce30da111276d05db01314a9903/adjuntos/203/imagenes/103/465/0103465121/1200x675/smart/mas-buscados-santa-fe.png",
-        "summary": "La plataforma reúne datos de prófugos, pedidos de paradero y recompensas vigentes. Desde su implementación, detuvieron a 16 personas de alta peligrosidad",
-        "pubDate": "2026-10-13T14:24:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El agro debate cómo producir más con un uso eficiente del agua",
-        "link": "https://www.lacapital.com.ar/agro/el-agro-debate-como-producir-mas-un-uso-eficiente-del-agua-n10286309.html",
-        "image": "https://media.lacapital.com.ar/p/9e863351e5cf87e781825520ca569ed7/adjuntos/305/imagenes/100/589/0100589369/1200x675/611x312:631x332/riego-campojpg.jpg",
-        "summary": "El Inta Manfredi será sede de la 9ª Reunión Internacional de Riego el 14 y 15 de octubre. Habrá experiencias productivas, herramientas de precisión y una recorrida a campo para conocer sistemas en funcionamiento",
-        "pubDate": "2026-10-13T14:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "On The Spot celebró sus nueve años con una fiesta artística en la calle",
-        "link": "https://www.lacapital.com.ar/novedades/on-the-spot-celebro-sus-nueve-anos-una-fiesta-artistica-la-calle-n10286401.html",
-        "image": "https://media.lacapital.com.ar/p/3da4ba091fb2a3961a600de1b72281a1/adjuntos/203/imagenes/103/465/0103465289/1200x675/smart/2c0f697d-fa18-4b05-8f20-26fcd281a966.jpg",
-        "summary": "La cuadra de Dorrego 343 se vistió de fiesta para celebrar los nueve años de On The Spot con una propuesta artística inclusiva que reunió a alumnos, docentes y familias",
-        "pubDate": "2026-10-13T13:55:00+00:00",
         "approxTime": false
       }
     ]
