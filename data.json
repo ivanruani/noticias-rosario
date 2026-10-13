@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T15:01:19.019626+00:00",
+  "generatedAt": "2026-10-13T15:31:01.800079+00:00",
   "sites": {
     "rosario3": [
       {
@@ -40,11 +40,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Juan Mattio, autor de La nación de los sueños diurnos: “Estamos atentos a la tecnología y no a la relación social que la contiene”",
+        "link": "https://www.rosario3.com/ocio/juan-mattio-autor-de-la-nacion-de-los-suenos-diurnos-estamos-atentos-a-la-tecnologia-y-no-a-la-relacion-social-que-la-contiene-20261012-0023.html",
+        "image": "https://www.rosario3.com/__export/1791903438909/sites/rosario3/img/2026/10/13/mavion_suexos_diurnos.jpg_54252853.jpg",
+        "summary": "El escritor argentino presentó en la Feria Internacional del Libro de Rosario 2026 su última novela, publicada por Editorial Caja Negra. En la trama, plantea una grieta entre el mundo real y su representación a partir de la intervención de un archivo fotográfico analógico con…",
+        "pubDate": "2026-10-12T11:56:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Estudiantes de la UNR realizarán asambleas para definir tomas de facultades en reclamo por el financiamiento universitario",
         "link": "https://www.rosario3.com/informaciongeneral/estudiantes-de-la-unr-realizaran-asambleas-para-definir-tomas-de-facultades-en-reclamo-por-el-financiamiento-universitario-20261013-0026.html",
         "image": "https://www.rosario3.com/__export/1791897878167/sites/rosario3/img/2026/10/13/dsc00945_version1791897877243.jpg_1096344066.jpg",
         "summary": "Las reuniones se realizarán en Ciencia Política a las 16, Psicología a las 17 y Humanidades y Artes a las 18. Reclaman que el gobierno de Javier Milei cumpla con la Ley de Financiamiento Universitario y aumente las becas estudiantiles",
-        "pubDate": "2026-10-13T11:56:00+00:00",
+        "pubDate": "2026-10-13T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -53,15 +62,6 @@
         "link": "https://www.rosario3.com/policiales/recibio-cuatro-tiros-en-una-pierna-en-una-balacera-contra-su-casa-de-villa-gobernador-galvez-20261013-0029.html",
         "image": "https://www.rosario3.com/__export/1791899901431/sites/rosario3/img/2026/10/13/balacera_nahuel_huapi.jpg_928314580.jpg",
         "summary": "Ocurrió este lunes en Nahuel Huapi y Pasaje C, cuando la víctima, de 30 años, jugaba a las cartas con su hija. La víctima se encuentra fuera de peligro",
-        "pubDate": "2026-10-13T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Una mujer fue abusada sexualmente por hombres que robaron en su casa de barrio Godoy",
-        "link": "https://www.rosario3.com/policiales/una-mujer-fue-abusada-sexualmente-por-hombres-que-robaron-en-su-casa-de-barrio-godoy-20261013-0022.html",
-        "image": "https://www.rosario3.com/__export/1791896314720/sites/rosario3/img/2026/10/13/roboyabuso.jpg_928314581.jpg",
-        "summary": "Ocurrió en la madrugada del lunes en una vivienda de la zona oeste. Al menos dos delincuentes ingresaron a la casa de la víctima mientras dormía. Tras exigirle dinero, la agredieron brutalmente y huyeron con escasas pertenencias",
         "pubDate": "2026-10-13T11:54:00+00:00",
         "approxTime": true
       },
