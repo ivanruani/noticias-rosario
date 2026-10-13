@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T17:01:20.352130+00:00",
+  "generatedAt": "2026-10-13T17:31:02.967284+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Lanzan un nuevo curso de oficios para el departamento General López",
+        "link": "https://www.lacapital.com.ar/la-region/lanzan-un-nuevo-curso-oficios-el-departamento-general-lopez-n10286408.html",
+        "image": "https://media.lacapital.com.ar/p/043e6e46b0c7b3289c8ac672f2b93b57/adjuntos/203/imagenes/103/465/0103465350/1200x675/smart/grallopez-gomeria.jpeg",
+        "summary": "La capacitación gratuita de gomería se suma a las que están en curso y las que ya finalizaron donde ya hay más de 350 egresados de disferentes localidades del sur provincial",
+        "pubDate": "2026-10-13T17:05:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Los Red Hot Chilli Peppers tocarán en la cancha de Rosario Central",
         "link": "https://www.lacapital.com.ar/zoom/los-red-hot-chilli-peppers-tocaran-la-cancha-rosario-central-n10286444.html",
         "image": "https://media.lacapital.com.ar/p/395e7a4c08e9a1968a1cfe319a84ae4a/adjuntos/203/imagenes/100/482/0100482898/1200x675/smart/image-19jpg.jpg",
@@ -195,19 +204,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Santa Fe renovó la web de los más buscados: cómo consultar las recompensas y aportar datos",
-        "link": "https://www.lacapital.com.ar/policiales/santa-fe-renovo-la-web-los-mas-buscados-como-consultar-las-recompensas-y-aportar-datos-n10286390.html",
-        "image": "https://media.lacapital.com.ar/p/fec50ce30da111276d05db01314a9903/adjuntos/203/imagenes/103/465/0103465121/1200x675/smart/mas-buscados-santa-fe.png",
-        "summary": "La plataforma reúne datos de prófugos, pedidos de paradero y recompensas vigentes. Desde su implementación, detuvieron a 16 personas de alta peligrosidad",
+        "title": "Violento asalto en barrio Godoy: abusaron de una mujer y la amenazaron de muerte",
+        "link": "https://www.lacapital.com.ar/policiales/violento-asalto-barrio-godoy-abusaron-una-mujer-y-la-amenazaron-muerte-n10286407.html",
+        "image": "https://media.lacapital.com.ar/p/7d5295ec9212abcbe761b72be76aa933/adjuntos/203/imagenes/103/465/0103465365/1200x675/smart/barrio-godoy-violento-asalto.png",
+        "summary": "Al menos dos delincuentes entraron a una casa de la zona oeste, golpearon a una mujer y abusaron sexualmente de ella. Le robaron dinero, un celular y las llaves",
         "pubDate": "2026-10-13T14:24:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Violento asalto en barrio Godoy: abusaron de una mujer y la amenazaron de muerte",
-        "link": "https://www.lacapital.com.ar/policiales/violento-asalto-barrio-godoy-abusaron-una-mujer-y-la-amenazaron-muerte-n10286407.html",
-        "image": "https://media.lacapital.com.ar/p/7d5295ec9212abcbe761b72be76aa933/adjuntos/203/imagenes/103/465/0103465365/1200x675/smart/barrio-godoy-violento-asalto.png",
-        "summary": "Al menos dos delincuentes entraron a una casa de la zona oeste, golpearon a una mujer y abusaron sexualmente de ella. Le robaron dinero, un celular y las llaves",
+        "title": "Santa Fe renovó la web de los más buscados: cómo consultar las recompensas y aportar datos",
+        "link": "https://www.lacapital.com.ar/policiales/santa-fe-renovo-la-web-los-mas-buscados-como-consultar-las-recompensas-y-aportar-datos-n10286390.html",
+        "image": "https://media.lacapital.com.ar/p/fec50ce30da111276d05db01314a9903/adjuntos/203/imagenes/103/465/0103465121/1200x675/smart/mas-buscados-santa-fe.png",
+        "summary": "La plataforma reúne datos de prófugos, pedidos de paradero y recompensas vigentes. Desde su implementación, detuvieron a 16 personas de alta peligrosidad",
         "pubDate": "2026-10-13T14:24:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/cded797e8f68ce0cb2ebd59d87ae7d30/adjuntos/203/imagenes/102/591/0102591467/1200x675/smart/image-33.jpg",
         "summary": "La presidenta del Concejo municipal y docente de Ciencia Política dijo que la critican por un recorte malintencionado. La escracharon y hasta amenazaron a su marido, rector de la UNR",
         "pubDate": "2026-10-13T13:29:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Femicidio en Empalme Graneros: ¿quién es el expolicía detenido por el crimen?",
-        "link": "https://www.lacapital.com.ar/policiales/femicidio-empalme-graneros-quien-es-el-expolicia-detenido-el-crimen-n10286358.html",
-        "image": "https://media.lacapital.com.ar/p/c86b7a49300407972112999359987234/adjuntos/203/imagenes/103/462/0103462887/1200x675/smart/detenido-femicidio-empalme-graneros.jpg",
-        "summary": "Eliel Schiffo fue condenado a seis años de prisión en 2021 por narcotráfico. Años después de la exoneración, lo arrestaron vestido con uniforme",
-        "pubDate": "2026-10-13T12:49:00+00:00",
         "approxTime": false
       }
     ]
