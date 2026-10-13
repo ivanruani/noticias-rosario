@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T19:01:13.190839+00:00",
+  "generatedAt": "2026-10-13T19:12:54.623963+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "\"Sunset en el Cristo\": música, arte y un atardecer especial en Timbúes",
+        "link": "https://www.lacapital.com.ar/la-region/sunset-el-cristo-musica-arte-y-un-atardecer-especial-timbues-n10286412.html",
+        "image": "https://media.lacapital.com.ar/p/956dc6065c044b732dbe0faa8cb24174/adjuntos/203/imagenes/103/465/0103465412/1200x675/smart/timbues-sunset5.jpeg",
+        "summary": "La programación musical recorrió distintos estilos, como Deep, House, Progressive, Minimal, Afro House y Tech House, acompañando el atardecer entre amigos y en familia",
+        "pubDate": "2026-10-13T19:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Milei viaja a Estados Unidos por quinta vez en lo que va del año",
         "link": "https://www.lacapital.com.ar/politica/milei-viaja-estados-unidos-quinta-vez-lo-que-va-del-ano-n10286482.html",
         "image": "https://media.lacapital.com.ar/p/518a0bdebc1cdc68377a82625db0e35a/adjuntos/203/imagenes/102/149/0102149651/1200x675/smart/mileieeuujpeg.jpeg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/395e7a4c08e9a1968a1cfe319a84ae4a/adjuntos/203/imagenes/100/482/0100482898/1200x675/smart/image-19jpg.jpg",
         "summary": "En el marco de un nuevo festival llamado Music Gol, el evento tendrá lugar a mediados de 2027 en el Gigante",
         "pubDate": "2026-10-13T15:50:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Anmat prohibió una marca de lavandina por falta de registros",
-        "link": "https://www.lacapital.com.ar/informacion-general/anmat-prohibio-una-marca-lavandina-falta-registros-n10286418.html",
-        "image": "https://media.lacapital.com.ar/p/421cc346648c5adb061b74d3d690ebf7/adjuntos/203/imagenes/103/465/0103465439/1200x675/smart/image.png",
-        "summary": "El producto no se encontraba registrado ante el organismo, lo cual impide garantizar su seguridad y eficacia",
-        "pubDate": "2026-10-13T15:46:00+00:00",
         "approxTime": false
       }
     ]
