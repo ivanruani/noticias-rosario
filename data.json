@@ -1,14 +1,32 @@
 {
-  "generatedAt": "2026-10-14T18:01:13.838099+00:00",
+  "generatedAt": "2026-10-14T18:31:01.121139+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Comenzaron a juzgar a la banda narco de Camino por el crimen al azar de “Jimi” Altamirano y la balacera al supermercado Único",
+        "link": "https://www.rosario3.com/policiales/comenzaron-a-juzgar-a-la-banda-narco-de-camino-por-el-crimen-al-azar-de-jimi-altamirano-y-la-balacera-al-supermercado-unico-20261014-0045.html",
+        "image": "https://www.rosario3.com/__export/1791998036212/sites/rosario3/img/2023/02/06/jimi_altamirano.jpg_1825222445.jpg",
+        "summary": "El debate oral y público contra la organización liderada por el preso que integró una facción disidente de Los Monos comprende cuatro homicidios, balaceras y extorsiones. Todos los hechos ocurrieron entre finales de 2022 y comienzos de 2023",
+        "pubDate": "2026-10-14T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Perfil fantasma y fotos borradas: quién es Gonzalo Entenza, el empresario que negoció con Central por el recital de los Red Hot Chili Peppers en Rosario",
         "link": "https://www.rosario3.com/informaciongeneral/perfil-fantasma-y-fotos-borradas-quien-es-gonzalo-entenza-el-empresario-que-negocio-con-central-por-el-recital-de-los-red-hot-chili-peppers-en-rosario-20261014-0025.html",
         "image": "https://www.rosario3.com/__export/1791989541771/sites/rosario3/img/2026/10/14/red-hot---central.jpg_928314580.jpg",
         "summary": "Tras la desmentida de la banda californiana sobre su participación en un festival internacional en el Gigante de Arroyito en 2027, desde Rosario Central intimaron a la productora Underdog Entertainment y apuntaron directamente como responsable a su supuesto socio fundador. Lo…",
-        "pubDate": "2026-10-14T12:00:00+00:00",
+        "pubDate": "2026-10-14T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Se realizará la sexta subasta de bienes incautados al delito y aseguran que será la más grande desde la creación de la Aprad",
+        "link": "https://www.rosario3.com/informaciongeneral/se-realizara-la-sexta-subasta-de-bienes-incautados-al-delito-y-aseguran-que-sera-la-mas-grande-desde-la-creacion-de-la-aprad-20261014-0043.html",
+        "image": "https://www.rosario3.com/__export/1791997129126/sites/rosario3/img/2026/10/14/bienes-incautados-3.jpg_928314580.jpg",
+        "summary": "Este viernes rematarán 224 lotes en la Estación Belgrano. Durante este miércoles se exhibieron 15 vehículos y dos lanchas en la cabecera oeste del Puente Colgante que también se podrán visitar durante el jueves y el dìa de la subasta",
+        "pubDate": "2026-10-14T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -17,24 +35,6 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/la-provincia-licitara-5-hectareas-frente-al-rio-en-el-mangrullo-para-actividades-logisticas-20261014-0036.html",
         "image": "https://www.rosario3.com/__export/1791993713265/sites/rosario3/img/2026/10/14/rio.jpeg_2104932121.jpeg",
         "summary": "'El gobernador Maximiliano Pullaro y el ministro de Desarrollo, Gustavo Puccini, realizarán el anuncio el lunes próximo con todas las precisiones y condiciones', anticipó hoy la titular del Enapro, Graciela Alabarce",
-        "pubDate": "2026-10-14T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Investigan intento de femicidio en Baigorria: el estado de salud de la joven quemada y su bebé",
-        "link": "https://www.rosario3.com/informaciongeneral/investigan-intento-de-femicidio-en-baigorria-el-estado-de-salud-de-la-joven-quemada-y-su-bebe-20261014-0031.html",
-        "image": "https://www.rosario3.com/__export/1774006875678/sites/rosario3/img/2026/01/18/policrinico_eva_perxn_5_1.jpg_1825222445.jpg",
-        "summary": "Desde Salud provincial cofirmaron que la mujer de 29 años sigue con estado reservado. La criatura que nació ayer tras una cesárea practicada fue extubada y permanece estable",
-        "pubDate": "2026-10-14T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Suspendieron a una jueza de Familia de Rosario por filtrar información de un expediente ajeno",
-        "link": "https://www.rosario3.com/informaciongeneral/suspendieron-a-una-jueza-de-familia-de-rosario-por-filtrar-informacion-de-un-expediente-ajeno-20261014-0019.html",
-        "image": "https://www.rosario3.com/__export/1769434698744/sites/rosario3/img/2025/06/08/tribunales_de_rosario_1.jpg_878428967.jpg",
-        "summary": "La Corte Suprema de Justicia de Santa Fe aplicó la medida a la titular del Juzgado de Familia Nº 7 Sabina Sansarricq por haber enviado a una amiga, involucrada en una posible defraudación millonaria, datos de un caso que se tramitaba en otro juzgado. El Ministerio Público de la…",
         "pubDate": "2026-10-14T11:57:00+00:00",
         "approxTime": true
       },
@@ -49,20 +49,38 @@
       },
       {
         "source": "Rosario3",
-        "title": "Alarma en Puerto Madryn: encontraron cinco ballenas muertas en menos de 48 horas",
-        "link": "https://www.rosario3.com/informaciongeneral/alarma-en-puerto-madryn-encontraron-cinco-ballenas-muertas-en-menos-de-48-horas-20261014-0030.html",
-        "image": "https://www.rosario3.com/__export/1791989483171/sites/rosario3/img/2026/10/14/puerto_madryn.png_786111822.png",
-        "summary": "Los hallazgos encendieron las alertas de las autoridades ambientales, que investigan las causas de los decesos. Los registros preliminares advierten que esta temporada podría alcanzar el nivel más alto de mortandad documentado para la especie",
+        "title": "Taxistas y remiseros siguen con el reclamo contra la legalización de Uber y Didi: piden “igualdad de condiciones”",
+        "link": "https://www.rosario3.com/informaciongeneral/taxistas-y-remiseros-siguen-con-el-reclamo-contra-la-legalizacion-de-uber-y-didi-piden-igualdad-de-condiciones-20261014-0040.html",
+        "image": "https://www.rosario3.com/__export/1791995989017/sites/rosario3/img/2026/10/14/taxi.png_786111822.png",
+        "summary": "Los trabajadores del sector se presentaron de nuevo en el Concejo para exigir reglas claras, controles sobre las aplicaciones y las mismas exigencias para todos los servicios de transporte. Advierten sobre el impacto que la competencia puede tener en las fuentes laborales",
         "pubDate": "2026-10-14T11:55:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "La oposición aún no tiene quórum para tratar el DNU 70/23 y mete presión a los diputados que dudan",
-        "link": "https://www.rosario3.com/politica/la-oposicion-aun-no-tiene-quorum-para-tratar-el-dnu-7023-y-mete-presion-a-los-diputados-que-dudan-20261014-0024.html",
-        "image": "https://www.rosario3.com/__export/1791986649705/sites/rosario3/img/2026/10/14/opodiputados.jpg_982625323.jpg",
-        "summary": "Si los legisladores que responden a Llaryora confirman su asistencia, quedarán muy cerca del número para habilitar la sesión. El gobierno negocia con otros mandatarios. La estrategia del cumpleañito",
+        "title": "Alarma en Puerto Madryn: encontraron cinco ballenas muertas en menos de 48 horas",
+        "link": "https://www.rosario3.com/informaciongeneral/alarma-en-puerto-madryn-encontraron-cinco-ballenas-muertas-en-menos-de-48-horas-20261014-0030.html",
+        "image": "https://www.rosario3.com/__export/1791989483171/sites/rosario3/img/2026/10/14/puerto_madryn.png_786111822.png",
+        "summary": "Los hallazgos encendieron las alertas de las autoridades ambientales, que investigan las causas de los decesos. Los registros preliminares advierten que esta temporada podría alcanzar el nivel más alto de mortandad documentado para la especie",
         "pubDate": "2026-10-14T11:54:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Investigan intento de femicidio en Baigorria: el estado de salud de la joven quemada y su bebé",
+        "link": "https://www.rosario3.com/informaciongeneral/investigan-intento-de-femicidio-en-baigorria-el-estado-de-salud-de-la-joven-quemada-y-su-bebe-20261014-0031.html",
+        "image": "https://www.rosario3.com/__export/1774006875678/sites/rosario3/img/2026/01/18/policrinico_eva_perxn_5_1.jpg_1825222445.jpg",
+        "summary": "Desde Salud provincial cofirmaron que la mujer de 29 años sigue con estado reservado. La criatura que nació ayer tras una cesárea practicada fue extubada y permanece estable",
+        "pubDate": "2026-10-14T11:53:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Suspendieron a una jueza de Familia de Rosario por filtrar información de un expediente ajeno",
+        "link": "https://www.rosario3.com/informaciongeneral/suspendieron-a-una-jueza-de-familia-de-rosario-por-filtrar-informacion-de-un-expediente-ajeno-20261014-0019.html",
+        "image": "https://www.rosario3.com/__export/1769434698744/sites/rosario3/img/2025/06/08/tribunales_de_rosario_1.jpg_878428967.jpg",
+        "summary": "La Corte Suprema de Justicia de Santa Fe aplicó la medida a la titular del Juzgado de Familia Nº 7 Sabina Sansarricq por haber enviado a una amiga, involucrada en una posible defraudación millonaria, datos de un caso que se tramitaba en otro juzgado. El Ministerio Público de la…",
+        "pubDate": "2026-10-14T11:52:00+00:00",
         "approxTime": true
       },
       {
@@ -71,16 +89,16 @@
         "link": "https://www.rosario3.com/deportes/se-cancelo-la-gira-de-la-seleccion-argentina-por-asia-para-la-proxima-ventana-fifa-20261014-0033.html",
         "image": "https://www.rosario3.com/__export/1791990850056/sites/rosario3/img/2026/10/14/scaloni-seleccixn.jpg_928314580.jpg",
         "summary": "La Asociación del fútbol Argentino comenzará a negociar otros encuentros con diferentes selecciones sudamericanas para lo que será la primera fecha sin Lionel Messi en el equipo",
-        "pubDate": "2026-10-14T11:53:00+00:00",
+        "pubDate": "2026-10-14T11:51:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Red Hot Chili Peppers en Rosario: Central intimó a la productora a presentar los contratos y reveló que ya cobró el 50% del alquiler",
-        "link": "https://www.rosario3.com/informaciongeneral/red-hot-chili-peppers-en-rosario-central-intimo-a-la-productora-a-presentar-los-contratos-y-revelo-que-ya-cobro-el-50-del-alquiler-20261014-0004.html",
-        "image": "https://www.rosario3.com/__export/1791976637531/sites/rosario3/img/2026/10/14/red_hot.jpg_506286608.jpg",
-        "summary": "El gerente general del club, Javier Sola, se refirió a la polémica generada luego de que la banda estadounidense desmintiera su participación en un festival en el Gigante de Arroyito. El dirigente aclaró que la institución exigió certezas inmediatas a la empresa organizadora, y…",
-        "pubDate": "2026-10-14T11:52:00+00:00",
+        "title": "Habló por primera vez Chantal Leclercq, una de las anestesiólogas investigadas por el escándalo del propofol",
+        "link": "https://www.rosario3.com/informaciongeneral/hablo-por-primera-vez-chantal-leclercq-una-de-las-anestesiologas-investigadas-por-el-escandalo-del-propofol-20261014-0047.html",
+        "image": "https://www.rosario3.com/__export/1791998705833/sites/rosario3/img/2026/10/14/chantal_propofest.png_786111822.png",
+        "summary": "La residente del Hospital Rivadavia rompió el silencio y compartió una reflexión en redes sociales sobre cómo atravesó los últimos seis meses. “De la nada, la peligrosa era yo”, escribió en medio de la causa por el presunto desvío de anestésicos para uso recreativo",
+        "pubDate": "2026-10-14T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -89,7 +107,16 @@
         "link": "https://www.rosario3.com/informaciongeneral/la-sifilis-sigue-en-aumento-entre-las-mujeres-de-argentina-que-pasa-en-rosario-20261014-0034.html",
         "image": "https://www.rosario3.com/__export/1791991342300/sites/rosario3/img/2026/10/14/sifilis.png_786111822.png",
         "summary": "Un nuevo relevamiento de AHF Argentina advirtió sobre el avance de esta infección de transmisión sexual en Buenos Aires y Rosario. Además, alertó por el incremento de las reinfecciones, que treparon un 166% en un año",
-        "pubDate": "2026-10-14T11:51:00+00:00",
+        "pubDate": "2026-10-14T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "La oposición aún no tiene quórum para tratar el DNU 70/23 y mete presión a los diputados que dudan",
+        "link": "https://www.rosario3.com/politica/la-oposicion-aun-no-tiene-quorum-para-tratar-el-dnu-7023-y-mete-presion-a-los-diputados-que-dudan-20261014-0024.html",
+        "image": "https://www.rosario3.com/__export/1791986649705/sites/rosario3/img/2026/10/14/opodiputados.jpg_982625323.jpg",
+        "summary": "Si los legisladores que responden a Llaryora confirman su asistencia, quedarán muy cerca del número para habilitar la sesión. El gobierno negocia con otros mandatarios. La estrategia del cumpleañito",
+        "pubDate": "2026-10-14T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -98,7 +125,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/el-papa-leon-xiv-paso-una-noche-tranquila-luego-de-ser-operado-de-un-tumor-pulmonar-20261014-0022.html",
         "image": "https://www.rosario3.com/__export/1791728966717/sites/rosario3/img/2026/10/11/360_-25-.jpg_1221029502.jpg",
         "summary": "El Vaticano informó que luego de la operación, el Sumo Pontífice despertó bien y que luego de un período de observaciones fue trasladado a una habitación común",
-        "pubDate": "2026-10-14T11:50:00+00:00",
+        "pubDate": "2026-10-14T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -107,38 +134,38 @@
         "link": "https://www.rosario3.com/policiales/particular-entradera-en-rufino-irrumpieron-ocho-ladrones-con-prendas-de-la-policia-de-la-ciudad-de-buenos-aires-20261014-0026.html",
         "image": "https://www.rosario3.com/__export/1791986270743/sites/rosario3/img/2026/10/14/ciudad_de_rufino.jpg_1010838702.jpg",
         "summary": "El robo ocurrió en el domicilio de una mujer de 66 años, a quien le dijeron que estaban realizando un allanamiento. Se llevaron dinero y alhajas",
-        "pubDate": "2026-10-14T11:49:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Qué dicen las encuestas a tres semanas de las elecciones de medio mandato en Estados Unidos",
-        "link": "https://www.rosario3.com/politica/que-dicen-las-encuestas-a-tres-semanas-de-las-elecciones-de-medio-mandato-en-estados-unidos-20261014-0017.html",
-        "image": "https://www.rosario3.com/__export/1791982201651/sites/rosario3/img/2026/10/14/trumpitos.jpg_982625323.jpg",
-        "summary": "Trump pone el cuerpo en la campaña ante el temor de que los republicanos pierdan la mayoría en ambas cámaras legislativas",
-        "pubDate": "2026-10-14T11:48:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Provincial debuta en la Liga Argentina de Básquet con el sueño del ascenso",
-        "link": "https://www.rosario3.com/deportes/provincial-debuta-en-la-liga-argentina-de-basquet-con-el-sueno-del-ascenso-20261014-0015.html",
-        "image": "https://www.rosario3.com/__export/1791987308023/sites/rosario3/img/2026/10/14/pro.jpg_421298246.jpg",
-        "summary": "El equipo rosarino, que el año pasado hizo un gran torneo, disputará su primer partido de la temporada este sábado en el Salvador Bonilla ante La Unión (Colón). El fixture, cómo se armó el plantel y todos los datos a tener en cuenta",
-        "pubDate": "2026-10-14T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La selección argentina femenina empató 2 a 2 contra Brasil en el segundo amistoso rumbo al Mundial del año que viene",
-        "link": "https://www.rosario3.com/deportes/la-seleccion-argentina-femenina-empato-2-a-2-contra-brasil-en-el-segundo-amistoso-rumbo-al-mundial-del-ano-que-viene-20261014-0039.html",
-        "image": "https://www.rosario3.com/__export/1791994828302/sites/rosario3/img/2026/10/14/seleccion-fem.jpg_928314580.jpg",
-        "summary": "Daiana Falfán y María Florencia Bonsegundo anotaron para las dirigidas por Germán Portanova mientras que Bia Zaneratto y Gio Garbelini fueron las autoras de los goles de Brasil",
         "pubDate": "2026-10-14T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "La herramienta de Pami que puede salvar a los jubilados ante una emergencia",
+        "link": "https://www.lacapital.com.ar/la-herramienta-pami-que-puede-salvar-los-jubilados-una-emergencia-n10286681.html",
+        "image": "https://media.lacapital.com.ar/p/249e4b4666bb9353c5b2b772f5d12603/adjuntos/203/imagenes/101/933/0101933480/1200x675/smart/pami-aplicacionjpg.jpg",
+        "summary": "El botón de emergencias de la obra social permite a los afiliados comunicarse de forma directa ante una urgencia. Los detalles, en esta nota",
+        "pubDate": "2026-10-14T18:08:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La cárcel federal de Coronda Fe encabezó el aumento de presos en todo el país",
+        "link": "https://www.lacapital.com.ar/policiales/la-carcel-federal-coronda-fe-encabezo-el-aumento-presos-todo-el-pais-n10286695.html",
+        "image": "https://media.lacapital.com.ar/p/caf6882a07a11d2fee616371ff4cceea/adjuntos/203/imagenes/103/468/0103468913/1200x675/smart/imagecarcel.jpg",
+        "summary": "Unidad 36 pasó de 334 a 449 internos entre diciembre de 2025 y septiembre de 2026, un incremento del 34,4%. El dato surge de un informe oficial que también advierte sobre la sobrepoblación en las cárceles federales",
+        "pubDate": "2026-10-14T18:06:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Daniel Escalante recorrió seis empresas de Roldán para conocer sobre sus inversiones y proyectos para la ciudad",
+        "link": "https://www.lacapital.com.ar/la-region/daniel-escalante-recorrio-seis-empresas-roldan-conocer-sus-inversiones-y-proyectos-la-ciudad-n10286669.html",
+        "image": "https://media.lacapital.com.ar/p/d7fb82aa854da2db6f968055ec212a1d/adjuntos/203/imagenes/103/468/0103468385/1200x675/smart/roldan-empresas4.jpeg",
+        "summary": "El intendente recorrió industrias radicadas en la ciudad o en proceso de radicación, con proyectos de ampliación, plantas en construcción y traslados de actividad hacia el área y el parque industrial",
+        "pubDate": "2026-10-14T18:00:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "La yerba de coco marca la evolución del mate: por qué crece en Argentina y gana espacio en mercados internacionales",
@@ -186,19 +213,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Las duras declaraciones de Lisandro Martínez que abrieron un escándalo en Manchester United",
-        "link": "https://www.lacapital.com.ar/ovacion/las-duras-declaraciones-lisandro-martinez-que-abrieron-un-escandalo-manchester-united-n10286663.html",
-        "image": "https://media.lacapital.com.ar/p/c78448bd725a74318c9ea76785c507fa/adjuntos/203/imagenes/103/468/0103468340/lisandro-martinez-manchester-united.png",
-        "summary": "El defensor argentino fue contundente con su crítica a los dirigentes de los Red Devils y afirmó: \"Si no decimos la verdad, nada cambiará\"",
+        "title": "Tenis: la comitiva santafesina dijo presente en la tierra de Güemes",
+        "link": "https://www.lacapital.com.ar/ovacion/tenis-la-comitiva-santafesina-dijo-presente-la-tierra-guemes-n10286550.html",
+        "image": "https://media.lacapital.com.ar/p/7b341f3761bb2329c98595fb47b24c99/adjuntos/203/imagenes/103/467/0103467032/tenis5.jpeg",
+        "summary": "En Sporting y Jockey Club de Salta se disputaron los torneos que otorgaron puntos para el ranking de la Asociación Argentina de Tenis",
         "pubDate": "2026-10-14T17:29:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Tenis: la comitiva santafesina dijo presente en la tierra de Güemes",
-        "link": "https://www.lacapital.com.ar/ovacion/tenis-la-comitiva-santafesina-dijo-presente-la-tierra-guemes-n10286550.html",
-        "image": "https://media.lacapital.com.ar/p/7b341f3761bb2329c98595fb47b24c99/adjuntos/203/imagenes/103/467/0103467032/tenis5.jpeg",
-        "summary": "En Sporting y Jockey Club de Salta se disputaron los torneos que otorgaron puntos para el ranking de la Asociación Argentina de Tenis",
+        "title": "Las duras declaraciones de Lisandro Martínez que abrieron un escándalo en Manchester United",
+        "link": "https://www.lacapital.com.ar/ovacion/las-duras-declaraciones-lisandro-martinez-que-abrieron-un-escandalo-manchester-united-n10286663.html",
+        "image": "https://media.lacapital.com.ar/p/c78448bd725a74318c9ea76785c507fa/adjuntos/203/imagenes/103/468/0103468340/lisandro-martinez-manchester-united.png",
+        "summary": "El defensor argentino fue contundente con su crítica a los dirigentes de los Red Devils y afirmó: \"Si no decimos la verdad, nada cambiará\"",
         "pubDate": "2026-10-14T17:29:00+00:00",
         "approxTime": false
       },
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/bc82604665e33739f3deb02ff0259a7b/adjuntos/203/imagenes/030/143/0030143851/1200x675/smart/empleada-domesticajpg.jpg",
         "summary": "Se oficializó el aumento en el salario para las tareas de cuidado y asistencia. Cuáles son los nuevos mínimos obligatorios en octubre",
         "pubDate": "2026-10-14T15:58:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Tras ser operado, el papa León XIV comenzó a caminar y retomó su alimentación habitual",
-        "link": "https://www.lacapital.com.ar/informacion-general/tras-ser-operado-el-papa-leon-xiv-comenzo-caminar-y-retomo-su-alimentacion-habitual-n10286664.html",
-        "image": "https://media.lacapital.com.ar/p/92bbda46b3bd09f4dc27a4873b8f9821/adjuntos/203/imagenes/103/468/0103468359/1200x675/smart/papa-leon-xiv.jpg",
-        "summary": "A días de su viaje planificado por Sudamérica, el Sumo Pontífice se recupera dentro de los parámetros normales para su operación del tumor maligno en el pulmón.",
-        "pubDate": "2026-10-14T15:55:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Caso Roña Castro: la cercana relación entre diabetes y problemas del corazón",
-        "link": "https://www.lacapital.com.ar/salud/caso-rona-castro-la-cercana-relacion-diabetes-y-problemas-del-corazon-n10286610.html",
-        "image": "https://media.lacapital.com.ar/p/2fc460963384678db321525e499cad04/adjuntos/203/imagenes/103/468/0103468329/1200x675/smart/rona-castro-boxeador.jpg",
-        "summary": "El ex boxeador falleció repentinamente a los 59 años. Su hija, que estaba con él cuando se descompuso, dijo que \"le dolía el pecho\"",
-        "pubDate": "2026-10-14T15:53:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La Fiesta Nacional de la Misa Criolla celebrará sus 20 años con una nueva identidad",
-        "link": "https://www.lacapital.com.ar/la-region/la-fiesta-nacional-la-misa-criolla-celebrara-sus-20-anos-una-nueva-identidad-n10286661.html",
-        "image": "https://media.lacapital.com.ar/p/390b58296f63bb647633e67be4925ff2/adjuntos/203/imagenes/102/875/0102875876/1200x675/smart/timbues-misa-criolla-2025-7.jpg",
-        "summary": "El evento se desarrollará ente el 5 y el 6 de diciembre y durante la presentación del programa de la fiesta presentó el nuevo logotipo que identifica a la celebración",
-        "pubDate": "2026-10-14T15:47:00+00:00",
         "approxTime": false
       }
     ]
