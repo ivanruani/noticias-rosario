@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T08:31:02.511010+00:00",
+  "generatedAt": "2026-10-14T09:01:22.469652+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Central y un cierre a todo o nada: no tiene las riendas en la mano, pero sí la fusta bajo el brazo",
+        "link": "https://www.lacapital.com.ar/ovacion/central-y-un-cierre-todo-o-nada-no-tiene-las-riendas-la-mano-pero-si-la-fusta-el-brazo-n10286398.html",
+        "image": "https://media.lacapital.com.ar/p/f7527ea4b0f8b8abd1f8c93cb548b73c/adjuntos/203/imagenes/103/465/0103465882/centrassm.jpeg",
+        "summary": "El Canalla busca un gran final en la temporada, en la que una buena sumatoria, por la anual, obligaría a los tres de arriba a lograr también buenos resultados",
+        "pubDate": "2026-10-14T09:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El placer de coincidir: Bebecê celebra el Día de la Madre desde el estilo y la complicidad",
         "link": "https://www.lacapital.com.ar/novedades/el-placer-coincidir-bebece-celebra-el-dia-la-madre-el-estilo-y-la-complicidad-n10286420.html",
         "image": "https://media.lacapital.com.ar/p/82b29b11d75c166c277c05aec0e18ba6/adjuntos/203/imagenes/103/465/0103465462/1200x675/smart/image.png",
@@ -222,19 +231,19 @@
       },
       {
         "source": "La Capital",
-        "title": "La mesa política del gobierno volvió a reunirse para acelerar la agenda legislativa",
-        "link": "https://www.lacapital.com.ar/politica/la-mesa-politica-del-gobierno-volvio-reunirse-acelerar-la-agenda-legislativa-n10286516.html",
-        "image": "https://media.lacapital.com.ar/p/7b7fce38fc3488e6a05bbe650cacb994/adjuntos/203/imagenes/103/391/0103391363/1200x675/smart/image.png",
-        "summary": "La megasesión en Diputados y otros temas clave para el Ejecutivo marcaron el pulso del cónclave que encabezó Karina Milei. Se viene una ronda de negocios en Rosario",
+        "title": "La incertidumbre económica alcanzó su nivel más alto del año",
+        "link": "https://www.lacapital.com.ar/economia/la-incertidumbre-economica-alcanzo-su-nivel-mas-alto-del-ano-n10286534.html",
+        "image": "https://media.lacapital.com.ar/p/7b713b2a0a066bdaa82b9a4e093003fd/adjuntos/203/imagenes/102/877/0102877913/1200x675/551x450:571x470/ccc-san-caeytano.jpg",
+        "summary": "Trabajo, política e inflación concentraron las principales inquietudes, según la medición realizada por la UCA",
         "pubDate": "2026-10-13T22:37:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "La incertidumbre económica alcanzó su nivel más alto del año",
-        "link": "https://www.lacapital.com.ar/economia/la-incertidumbre-economica-alcanzo-su-nivel-mas-alto-del-ano-n10286534.html",
-        "image": "https://media.lacapital.com.ar/p/7b713b2a0a066bdaa82b9a4e093003fd/adjuntos/203/imagenes/102/877/0102877913/1200x675/551x450:571x470/ccc-san-caeytano.jpg",
-        "summary": "Trabajo, política e inflación concentraron las principales inquietudes, según la medición realizada por la UCA",
+        "title": "La mesa política del gobierno volvió a reunirse para acelerar la agenda legislativa",
+        "link": "https://www.lacapital.com.ar/politica/la-mesa-politica-del-gobierno-volvio-reunirse-acelerar-la-agenda-legislativa-n10286516.html",
+        "image": "https://media.lacapital.com.ar/p/7b7fce38fc3488e6a05bbe650cacb994/adjuntos/203/imagenes/103/391/0103391363/1200x675/smart/image.png",
+        "summary": "La megasesión en Diputados y otros temas clave para el Ejecutivo marcaron el pulso del cónclave que encabezó Karina Milei. Se viene una ronda de negocios en Rosario",
         "pubDate": "2026-10-13T22:37:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/a942eb9f4b5efa854dfb8c6baba41ca1/adjuntos/203/imagenes/103/465/0103465411/1200x675/smart/santiago-siri.png",
         "summary": "El especialista analizó en La Capital+ cómo la IA transformará el trabajo, la educación y la economía. También reclamó una estrategia tecnológica para Argentina",
         "pubDate": "2026-10-13T21:47:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Primera C: se definió día y hora en que Argentino de Rosario jugará para evitar la desafiliación",
-        "link": "https://www.lacapital.com.ar/ovacion/primera-c-se-definio-dia-y-hora-que-argentino-rosario-jugara-evitar-la-desafiliacion-n10286493.html",
-        "image": "https://media.lacapital.com.ar/p/a210c3b12d458fe026210673e385c78f/adjuntos/203/imagenes/103/466/0103466500/salaito.jpeg",
-        "summary": "El fin de semana Argentino jugará para evitar la desafiliación de la Primera C. Además, Central Córdoba y Leones FC iniciarán el Reducido",
-        "pubDate": "2026-10-13T21:45:00+00:00",
         "approxTime": false
       }
     ]
