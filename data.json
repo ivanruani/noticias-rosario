@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T17:01:09.871714+00:00",
+  "generatedAt": "2026-10-14T17:31:01.627800+00:00",
   "sites": {
     "rosario3": [
       {
@@ -40,20 +40,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "La oposición aún no tiene quórum para tratar el DNU 70/23 y mete presión a los diputados que dudan",
-        "link": "https://www.rosario3.com/politica/la-oposicion-aun-no-tiene-quorum-para-tratar-el-dnu-7023-y-mete-presion-a-los-diputados-que-dudan-20261014-0024.html",
-        "image": "https://www.rosario3.com/__export/1791986649705/sites/rosario3/img/2026/10/14/opodiputados.jpg_982625323.jpg",
-        "summary": "Si los legisladores que responden a Llaryora confirman su asistencia, quedarán muy cerca del número para habilitar la sesión. El gobierno negocia con otros mandatarios. La estrategia del cumpleañito",
+        "title": "Toma activa en facultades de la UNR y protesta estudiantil de cara a la marcha federal",
+        "link": "https://www.rosario3.com/informaciongeneral/toma-en-humanidades-de-rosario-y-protesta-estudiantil-con-clases-publicas-al-mediodia-20261014-0011.html",
+        "image": "https://www.rosario3.com/__export/1791983150593/sites/rosario3/img/2026/10/14/fachumanidades.jpg_928314581.jpg",
+        "summary": "Humanidades y Ciencia Política mantienen ocupaciones 'sin suspensión de clases ni exámenes'. Exigen financiamiento universitario y actualización de becas. Anuncian detalles de la movilización de este jueves en Rosario",
         "pubDate": "2026-10-14T11:56:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Se canceló la gira de la selección argentina por Asia para la próxima ventana FIFA",
-        "link": "https://www.rosario3.com/deportes/se-cancelo-la-gira-de-la-seleccion-argentina-por-asia-para-la-proxima-ventana-fifa-20261014-0033.html",
-        "image": "https://www.rosario3.com/__export/1791990850056/sites/rosario3/img/2026/10/14/scaloni-seleccixn.jpg_928314580.jpg",
-        "summary": "La Asociación del fútbol Argentino comenzará a negociar otros encuentros con diferentes selecciones sudamericanas para lo que será la primera fecha sin Lionel Messi en el equipo",
-        "pubDate": "2026-10-14T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -62,15 +53,24 @@
         "link": "https://www.rosario3.com/informaciongeneral/alarma-en-puerto-madryn-encontraron-cinco-ballenas-muertas-en-menos-de-48-horas-20261014-0030.html",
         "image": "https://www.rosario3.com/__export/1791989483171/sites/rosario3/img/2026/10/14/puerto_madryn.png_786111822.png",
         "summary": "Los hallazgos encendieron las alertas de las autoridades ambientales, que investigan las causas de los decesos. Los registros preliminares advierten que esta temporada podría alcanzar el nivel más alto de mortandad documentado para la especie",
+        "pubDate": "2026-10-14T11:55:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "La oposición aún no tiene quórum para tratar el DNU 70/23 y mete presión a los diputados que dudan",
+        "link": "https://www.rosario3.com/politica/la-oposicion-aun-no-tiene-quorum-para-tratar-el-dnu-7023-y-mete-presion-a-los-diputados-que-dudan-20261014-0024.html",
+        "image": "https://www.rosario3.com/__export/1791986649705/sites/rosario3/img/2026/10/14/opodiputados.jpg_982625323.jpg",
+        "summary": "Si los legisladores que responden a Llaryora confirman su asistencia, quedarán muy cerca del número para habilitar la sesión. El gobierno negocia con otros mandatarios. La estrategia del cumpleañito",
         "pubDate": "2026-10-14T11:54:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Toma en Humanidades de Rosario y protesta estudiantil con clases públicas al mediodía",
-        "link": "https://www.rosario3.com/informaciongeneral/toma-en-humanidades-de-rosario-y-protesta-estudiantil-con-clases-publicas-al-mediodia-20261014-0011.html",
-        "image": "https://www.rosario3.com/__export/1791983150593/sites/rosario3/img/2026/10/14/fachumanidades.jpg_928314581.jpg",
-        "summary": "De cara a la Marcha Universitaria, estudiantes que este miércoles tomaron la facultad céntrica de la UNR anunciaron nuevas medidas para visibilizar su reclamo. En la víspera, con velas y mensajes dirigidos a Javier Milei, alumnos de distintas facultades se manifestaron en el…",
+        "title": "Se canceló la gira de la selección argentina por Asia para la próxima ventana FIFA",
+        "link": "https://www.rosario3.com/deportes/se-cancelo-la-gira-de-la-seleccion-argentina-por-asia-para-la-proxima-ventana-fifa-20261014-0033.html",
+        "image": "https://www.rosario3.com/__export/1791990850056/sites/rosario3/img/2026/10/14/scaloni-seleccixn.jpg_928314580.jpg",
+        "summary": "La Asociación del fútbol Argentino comenzará a negociar otros encuentros con diferentes selecciones sudamericanas para lo que será la primera fecha sin Lionel Messi en el equipo",
         "pubDate": "2026-10-14T11:53:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,33 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "El crimen al azar del músico Jimi Altamirano, clave en el juicio a la banda de Pablo Camino",
+        "link": "https://www.lacapital.com.ar/policiales/el-crimen-al-azar-del-musico-jimi-altamirano-clave-el-juicio-la-banda-pablo-camino-n10286673.html",
+        "image": "https://media.lacapital.com.ar/p/49c22349f038695ff296dd25406f3e7d/adjuntos/203/imagenes/100/786/0100786443/1200x675/smart/whatsapp-image-2023-06-29-at-130623jpeg.jpeg",
+        "summary": "El asesinato ocurrido en febrero de 2023 comenzó a ser juzgado junto a otros tres homicidios en el marco de un conflicto interno en la banda Los Monos",
+        "pubDate": "2026-10-14T17:26:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Anses: cómo cobrar la Prestación por Desempleo en octubre",
+        "link": "https://www.lacapital.com.ar/informacion-general/anses-como-cobrar-la-prestacion-desempleo-octubre-n10286666.html",
+        "image": "https://media.lacapital.com.ar/p/41073248fa7a45de444303bff1cd9243/adjuntos/203/imagenes/101/634/0101634796/1200x675/smart/jubilados-pensionados-ansesjpg.jpg",
+        "summary": "Quienes se encuentren en situación de desempleo podrán inscribirse para recibir una ayuda económica de parte de Anses, siempre y cuando cumplan con los requisitos exigidos en octubre",
+        "pubDate": "2026-10-14T17:05:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Lanzan un tour de agronegocios por Australia y Nueva Zelanda",
+        "link": "https://www.lacapital.com.ar/negocios/lanzanun-tour-agronegocios-australia-y-nueva-zelanda-n10286674.html",
+        "image": "https://media.lacapital.com.ar/p/ff657daa2e8e04ecd0cee076d231f0d0/adjuntos/203/imagenes/103/468/0103468502/1200x675/smart/viaje-nz-aus-1410.jpg",
+        "summary": "Fundación Libertad y Daminato Viajes se vuelven a unir en esta propuesta, que busca develar el entramado productivo de los países de Oceanía. El viaje será en 2027",
+        "pubDate": "2026-10-14T17:04:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Invitan a un taller gratuito de comunicación ambiental y sostenibilidad",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/245b8e5becb5f257023925e8dd71d7b2/adjuntos/203/imagenes/103/468/0103468200/1200x675/smart/vconstitucion-diversidad1.jpeg",
         "summary": "Durante el acto por el Día de la Diversidad Cultutal, Jorge Berti reflexionó sobre el significado de esta fecha y la oportunidad de revisar la historia reconociendo las voces de los pueblos originarios",
         "pubDate": "2026-10-14T14:57:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La psíquica de mascotas de Javier Milei, en el New York Times: qué dijo de Conan y sus clones",
-        "link": "https://www.lacapital.com.ar/politica/la-psiquica-mascotas-javier-milei-el-new-york-times-que-dijo-conan-y-sus-clones-n10286641.html",
-        "image": "https://media.lacapital.com.ar/p/4b2963baac7e2151fac2a639fde8e331/adjuntos/203/imagenes/101/570/0101570303/1200x675/smart/image-2024-04-23t071821089jpg.jpg",
-        "summary": "Celia Melamed aseguró que trabajó con el perro del presidente argentino y sus clones durante años. En la entrevista del prestigioso medio, la mujer reconstruye su relación con Milei y su hermana Karina",
-        "pubDate": "2026-10-14T14:52:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Las mejores agencias para subir al Kilimanjaro: todo lo que necesitás saber",
-        "link": "https://www.lacapital.com.ar/novedades/las-mejores-agencias-subir-al-kilimanjaro-todo-lo-que-necesitas-saber-n10286649.html",
-        "image": "https://media.lacapital.com.ar/p/98c93ba5fb3477b7ec31954b774c6cc0/adjuntos/203/imagenes/103/468/0103468198/1200x675/smart/8bd2bc59-9597-42c6-9535-412eae44ee4e.jpg",
-        "summary": "Elegir la agencia adecuada para ascender al Kilimanjaro es crucial; la siguiente guía detalla operadores y resuelve dudas frecuentes antes de reservar.",
-        "pubDate": "2026-10-14T14:52:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Milei llegó a a EE. UU. en su vigésima visita y apuesta darle un fuerte respaldo a Trump",
-        "link": "https://www.lacapital.com.ar/politica/milei-llego-a-ee-uu-su-vigesima-visita-y-apuesta-darle-un-fuerte-respaldo-trump-n10286634.html",
-        "image": "https://media.lacapital.com.ar/p/9061b4cb4071423d4fee6470a6d42c80/adjuntos/203/imagenes/103/155/0103155981/1200x675/smart/milei-y-trump.png",
-        "summary": "El presidente desplegará distintas actividades oficiales durante 36 horas. El objetivo principal es el apoyo al presidente norteamericano de cara a las elecciones legislativas",
-        "pubDate": "2026-10-14T14:20:00+00:00",
         "approxTime": false
       }
     ]
