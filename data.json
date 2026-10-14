@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-14T00:01:14.005165+00:00",
+  "generatedAt": "2026-10-14T00:31:01.119521+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Avanza en el Concejo un proyecto para instalar refugios para repartidores de aplicaciones",
+        "link": "https://www.rosario3.com/informaciongeneral/avanza-en-el-concejo-un-proyecto-para-instalar-refugios-para-repartidores-de-aplicaciones-20261013-0079.html",
+        "image": "https://www.rosario3.com/__export/1791924776250/sites/rosario3/img/2026/10/13/delivery.jpg_1825222445.jpg",
+        "summary": "La comisión de Obras Públicas dio despacho favorable a la iniciativa que propone crear estaciones modulares con espacios de descanso y servicios básicos para los cadetes. El expediente deberá pasar por otras dos comisiones antes de llegar al recinto",
+        "pubDate": "2026-10-13T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Femicidio de Bárbara: familiares se movilizaron para pedir justicia y que se investigue a posibles cómplices",
         "link": "https://www.rosario3.com/policiales/femicidio-de-barbara-familiares-se-movilizaron-para-pedir-justicia-y-que-se-investigue-a-posibles-complices-20261013-0085.html",
         "image": "https://www.rosario3.com/__export/1791927976748/sites/rosario3/img/2026/10/13/cjp_justicia_por_barbara.jpg_1825222445.jpg",
         "summary": "Tras despedir a la joven de 26 años en Villa Gobernador Gálvez, sus allegados se concentraron frente al Centro de Justicia Penal de Rosario y exigieron una reunión con la fiscal a cargo del caso. La familia sospecha que el expolicía detenido por el crimen no actuó solo",
-        "pubDate": "2026-10-13T12:00:00+00:00",
+        "pubDate": "2026-10-13T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/policiales/prision-preventiva-para-la-pareja-acusada-de-estafar-con-viajes-truchos-al-menos-23-maniobras-con-pasajes-y-paquetes-20261013-0065.html",
         "image": "https://www.rosario3.com/__export/1791915385186/sites/rosario3/img/2026/10/13/estafa.jpg_1683690895.jpg",
         "summary": "Fiscalía imputó a un hombre y una mujer por 23 maniobras con pasajes aéreos y paquetes turísticos no emitidos entre 2025 y 2026. El juez ordenó tres meses de prisión efectiva y el embargo de sus cuentas",
-        "pubDate": "2026-10-13T11:59:00+00:00",
+        "pubDate": "2026-10-13T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/bartolacci-sobre-amenazas-a-su-familia-mi-pecado-es-defender-con-vehemencia-la-educacion-y-la-universidad-20261013-0066.html",
         "image": "https://www.rosario3.com/__export/1791915530554/sites/rosario3/img/2024/10/02/bartolacci_marcha.jpg_1825222445.jpg",
         "summary": "Franco Bartolacci se refirió a las intimidaciones que le hicieron por redes sociales en el marco del reclamo al gobierno nacional por el cumplimiento de la ley de financiamiento universitario. “Señalaban que me iban a pegar unos tiros”, reveló. Además, habló de las acusaciones…",
-        "pubDate": "2026-10-13T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Video: así fue la pelea y ataque a tiros en las afuera de un boliche del centro de Rosario",
-        "link": "https://www.rosario3.com/policiales/video-asi-fue-la-pelea-y-ataque-a-tiros-en-las-afuera-de-un-boliche-del-centro-de-rosario-20261013-0054.html",
-        "image": "https://www.rosario3.com/__export/1791912604349/sites/rosario3/img/2026/10/13/picaro.jpg_928314580.jpg",
-        "summary": "En las imágenes se pudo ver a distintos jóvenes que se tomaron a golpes de puño en las inmediaciones de Urquiza al 1900, donde luego uno terminó con un disparo en un brazo. Dos sospechosos fueron aprehendidos tras la agresión",
         "pubDate": "2026-10-13T11:57:00+00:00",
         "approxTime": true
       },
@@ -85,20 +85,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "La AFA designó a los árbitros para la fecha 13 del Torneo Clausura: quiénes dirigen a Central y Newell’s el fin de semana",
-        "link": "https://www.rosario3.com/deportes/la-afa-designo-a-los-arbitros-para-la-fecha-13-del-torneo-clausura-quienes-dirigen-a-central-y-newells-el-fin-de-semana-20261013-0087.html",
-        "image": "https://www.rosario3.com/__export/1791933035138/sites/rosario3/img/2026/10/13/00024943-02.jpg_240262416.jpg",
-        "summary": "La Liga Profesional publicó este martes la nómina de autoridades que serán los encargados de impartir justicia en todas las canchas de Primera División",
+        "title": "Agustín Módica, íntimo: el gol a Newell’s, su amor por Central y el sueño de jugar para Italia",
+        "link": "https://www.rosario3.com/deportes/agustin-modica-intimo-el-gol-a-newells-su-amor-por-central-y-el-sueno-de-jugar-para-italia-20261013-0089.html",
+        "image": "https://www.rosario3.com/__export/1784936433463/sites/rosario3/img/2026/07/24/modica.jpg_928314580.jpg",
+        "summary": "El goleador del Torneo Clausura habló en exclusiva con Radio 2, tras la victoria de su Gimnasia de Mendoza ante Newell's. El futbolista explicó su salida del club de Arroyito y destacó la labor de su entrenador Darío Franco. Además, se refirió a los sondeos del fútbol italiano y…",
         "pubDate": "2026-10-13T11:51:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Intento de femicidio en Baigorria: le practicaron una cesárea de urgencia a la joven quemada y su bebé está internado",
-        "link": "https://www.rosario3.com/policiales/intento-de-femicidio-en-baigorria-le-practicaron-una-cesarea-de-urgencia-a-la-joven-quemada-y-su-bebe-esta-internado-20261013-0024.html",
-        "image": "https://www.rosario3.com/__export/1791896374790/sites/rosario3/img/2026/09/03/hospitalevaper.jpg_1825222445.jpg",
-        "summary": "La mujer, de 29 años y embarazada de 33 semanas, permanece en terapia intensiva, con asistencia respiratoria mecánica y pronóstico reservado. El recién nacido está intubado y estable en Neonatología del Hospital Eva Perón. Por el ataque fue detenida su pareja, de 36 años",
-        "pubDate": "2026-10-13T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -107,6 +98,15 @@
         "link": "https://www.rosario3.com/informaciongeneral/china-respaldo-el-reclamo-de-soberania-argentina-sobre-las-islas-malvinas-y-llamo-a-resolver-la-disputa-mediante-negociaciones-pacificas-20261013-0086.html",
         "image": "https://www.rosario3.com/__export/1791932562235/sites/rosario3/img/2026/10/13/malvinas.jpg_982625323.jpg",
         "summary": "Durante el debate general sobre descolonización de la Cuarta Comisión de la Asamblea General de la ONU, el embajador y representante permanente adjunto de China ante el organismo, Sun Lei, pidió a Gran Bretaña que responda al reclamo argentino y que acepte negociar cuanto antes",
+        "pubDate": "2026-10-13T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "La AFA designó a los árbitros para la fecha 13 del Torneo Clausura: quiénes dirigen a Central y Newell’s el fin de semana",
+        "link": "https://www.rosario3.com/deportes/la-afa-designo-a-los-arbitros-para-la-fecha-13-del-torneo-clausura-quienes-dirigen-a-central-y-newells-el-fin-de-semana-20261013-0087.html",
+        "image": "https://www.rosario3.com/__export/1791933035138/sites/rosario3/img/2026/10/13/00024943-02.jpg_240262416.jpg",
+        "summary": "La Liga Profesional publicó este martes la nómina de autoridades que serán los encargados de impartir justicia en todas las canchas de Primera División",
         "pubDate": "2026-10-13T11:49:00+00:00",
         "approxTime": true
       },
@@ -130,15 +130,24 @@
       },
       {
         "source": "Rosario3",
-        "title": "River y Estudiantes se reunieron para impulsar cambios en el fútbol argentino: Di Carlo y Verón se mostraron juntos",
-        "link": "https://www.rosario3.com/deportes/river-y-estudiantes-se-reunieron-para-impulsar-cambios-en-el-futbol-argentino-di-carlo-y-veron-se-mostraron-juntos-20261013-0080.html",
-        "image": "https://www.rosario3.com/__export/1791925667247/sites/rosario3/img/2026/10/13/dicarlo-veron.jpg_928314580.jpg",
-        "summary": "Los presidentes del Millonario y el Pincha protagonizaron un encuentro en el estadio Monumental para avanzar en una agenda de trabajo conjunta. Los clubes acordaron crear una mesa permanente para debatir propuestas institucionales, deportivas y económicas",
+        "title": "Video: así fue la pelea y ataque a tiros en las afuera de un boliche del centro de Rosario",
+        "link": "https://www.rosario3.com/policiales/video-asi-fue-la-pelea-y-ataque-a-tiros-en-las-afuera-de-un-boliche-del-centro-de-rosario-20261013-0054.html",
+        "image": "https://www.rosario3.com/__export/1791912604349/sites/rosario3/img/2026/10/13/picaro.jpg_928314580.jpg",
+        "summary": "En las imágenes se pudo ver a distintos jóvenes que se tomaron a golpes de puño en las inmediaciones de Urquiza al 1900, donde luego uno terminó con un disparo en un brazo. Dos sospechosos fueron aprehendidos tras la agresión",
         "pubDate": "2026-10-13T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "F1 y derechos humanos: por qué Ruanda tendrá un Gran Premio de Fórmula 1",
+        "link": "https://www.lacapital.com.ar/ovacion/f1-y-derechos-humanos-que-ruanda-tendra-un-gran-premio-formula-1-n10286548.html",
+        "image": "https://media.lacapital.com.ar/p/5647996930aed535e6b09ef10333bc2f/adjuntos/203/imagenes/103/466/0103466939/2026-10-13-f1-ruanda.jpg",
+        "summary": "El presidente Kagame dijo que el país africano busca desarrollar infraestructura deportiva y turismo. Organismos denuncian un \"lavado de imagen\" por violaciones a los derechos humanos",
+        "pubDate": "2026-10-14T00:23:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Al menos seis muertos en México por el paso de un huracán y una tormenta tropical",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/3d3cc016e59176fd12fbe3409d3def58/adjuntos/203/imagenes/103/466/0103466594/brujita.JPG",
         "summary": "Ambos clubes, en sus redes, emitieron un comunicado sobre su alianza para presentar propuestas conjuntas dirigidas a la mejora de los torneos de AFA",
         "pubDate": "2026-10-13T20:41:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Estafas con paquetes turísticos: cómo operaba la pareja acusada por más de 20 fraudes en Rosario",
-        "link": "https://www.lacapital.com.ar/policiales/estafas-paquetes-turisticos-como-operaba-la-pareja-acusada-mas-20-fraudes-rosario-n10286498.html",
-        "image": "https://media.lacapital.com.ar/p/7cac174c731ff83f3bdf470e7509acc7/adjuntos/203/imagenes/103/466/0103466516/1200x675/smart/estafadores.jpg",
-        "summary": "Natali Dortona y Federico López quedaron presos acusados por estafas en Arroyo Seco y Rosario vinculadas a venta de paquetes turísticos que no se concretaban",
-        "pubDate": "2026-10-13T20:21:00+00:00",
         "approxTime": false
       }
     ]
