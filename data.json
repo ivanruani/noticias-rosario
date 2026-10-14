@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T23:10:19.112345+00:00",
+  "generatedAt": "2026-10-14T23:30:54.985240+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "La Corte y el Ministerio Público presentaron sus planteos sobre la reforma de seguridad",
+        "link": "https://www.lacapital.com.ar/politica/la-corte-y-el-ministerio-publico-presentaron-sus-planteos-la-reforma-seguridad-n10286767.html",
+        "image": "https://media.lacapital.com.ar/p/56fb23451997cc4d18e776e140e0309d/adjuntos/203/imagenes/103/469/0103469802/1200x675/smart/image.png",
+        "summary": "La Cámara baja santafesina ingresa en la etapa final de consultas para votar la iniciativa en la sesión del 29 de octubre próximo",
+        "pubDate": "2026-10-14T23:23:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Consejo de la Magistratura: los libertarios proponen cambios en la selección de jueces",
         "link": "https://www.lacapital.com.ar/politica/consejo-la-magistratura-los-libertarios-proponen-cambios-la-seleccion-jueces-n10286755.html",
         "image": "https://media.lacapital.com.ar/p/1dc286aa4dbb6e086517f386c4b9c241/adjuntos/203/imagenes/103/469/0103469577/1200x675/smart/luis-palomino-consejo-la-magistratura.jpg",
@@ -249,15 +258,6 @@
       },
       {
         "source": "La Capital",
-        "title": "La Asociación Médica de Rosario adhiere a la Marcha Federal Universitaria",
-        "link": "https://www.lacapital.com.ar/politica/la-asociacion-medica-rosario-adhiere-la-marcha-federal-universitaria-n10286715.html",
-        "image": "https://media.lacapital.com.ar/p/b0f8b371c2c23866d379d72e7500d2b0/adjuntos/203/imagenes/103/086/0103086949/1200x675/830x360:850x380/unr-marcha-universitaria-financiamiento-universitario.png",
-        "summary": "“Somos profesionales formados en la universidad pública y compartimos sus valores igualitarios\", sostuvo Dardo Dorato, secretario general de la entidad",
-        "pubDate": "2026-10-14T20:20:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "Juegos Suramericanos: Cáritas, Cilsa y veteranos de guerra recibieron $ 1.100 millones de la venta de entradas",
         "link": "https://www.lacapital.com.ar/juegos-suramericanos-caritas-cilsa-y-veteranos-guerra-recibieron-1100-millones-la-venta-entradas-n10286712.html",
         "image": "https://media.lacapital.com.ar/p/993688648cbd0a6ad7a2ba532fb1366b/adjuntos/203/imagenes/103/469/0103469104/1200x675/smart/veteranos-guerra-la-provincia.jpg",
@@ -267,11 +267,11 @@
       },
       {
         "source": "La Capital",
-        "title": "Central y Newell's jugarán el clásico de la Copa Santa Fe a puertas cerradas por razones de seguridad",
-        "link": "https://www.lacapital.com.ar/ovacion/central-y-newells-jugaran-el-clasico-la-copa-santa-fe-puertas-cerradas-razones-seguridad-n10286719.html",
-        "image": "https://media.lacapital.com.ar/p/e5aa9860c8ed48297f8fbcc0444a3e30/adjuntos/203/imagenes/103/469/0103469235/derbyyy.jpeg",
-        "summary": "El duelo por un lugar en la final se disputará este sábado, a las 16, en el estadio de Argentino de Rosario. No habrá hinchas en las tribunas y tampoco podrán acercarse a las inmediaciones de la cancha",
-        "pubDate": "2026-10-14T20:19:00+00:00",
+        "title": "La Asociación Médica de Rosario adhiere a la Marcha Federal Universitaria",
+        "link": "https://www.lacapital.com.ar/politica/la-asociacion-medica-rosario-adhiere-la-marcha-federal-universitaria-n10286715.html",
+        "image": "https://media.lacapital.com.ar/p/b0f8b371c2c23866d379d72e7500d2b0/adjuntos/203/imagenes/103/086/0103086949/1200x675/830x360:850x380/unr-marcha-universitaria-financiamiento-universitario.png",
+        "summary": "“Somos profesionales formados en la universidad pública y compartimos sus valores igualitarios\", sostuvo Dardo Dorato, secretario general de la entidad",
+        "pubDate": "2026-10-14T20:20:00+00:00",
         "approxTime": false
       }
     ]
