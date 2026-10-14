@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T16:01:13.073210+00:00",
+  "generatedAt": "2026-10-14T16:31:01.433917+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,11 +13,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "La Provincia licitará 5 hectáreas frente al río en el Mangrullo para actividades logísticas",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-provincia-licitara-5-hectareas-frente-al-rio-en-el-mangrullo-para-actividades-logisticas-20261014-0036.html",
+        "image": "https://www.rosario3.com/__export/1791993713265/sites/rosario3/img/2026/10/14/rio.jpeg_2104932121.jpeg",
+        "summary": "'El gobernador Maximiliano Pullaro y el ministro de Desarrollo, Gustavo Puccini, realizarán el anuncio el lunes próximo con todas las precisiones y condiciones', anticipó hoy la titular del Enapro, Graciela Alabarce",
+        "pubDate": "2026-10-14T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Investigan intento de femicidio en Baigorria: el estado de salud de la joven quemada y su bebé",
         "link": "https://www.rosario3.com/informaciongeneral/investigan-intento-de-femicidio-en-baigorria-el-estado-de-salud-de-la-joven-quemada-y-su-bebe-20261014-0031.html",
         "image": "https://www.rosario3.com/__export/1774006875678/sites/rosario3/img/2026/01/18/policrinico_eva_perxn_5_1.jpg_1825222445.jpg",
         "summary": "Desde Salud provincial cofirmaron que la mujer de 29 años sigue con estado reservado. La criatura que nació ayer tras una cesárea practicada fue extubada y permanece estable",
-        "pubDate": "2026-10-14T11:59:00+00:00",
+        "pubDate": "2026-10-14T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/politica/la-oposicion-aun-no-tiene-quorum-para-tratar-el-dnu-7023-y-mete-presion-a-los-diputados-que-dudan-20261014-0024.html",
         "image": "https://www.rosario3.com/__export/1791986649705/sites/rosario3/img/2026/10/14/opodiputados.jpg_982625323.jpg",
         "summary": "Si los legisladores que responden a Llaryora confirman su asistencia, quedarán muy cerca del número para habilitar la sesión. El gobierno negocia con otros mandatarios. La estrategia del cumpleañito",
-        "pubDate": "2026-10-14T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Suspendieron a una jueza de Familia de Rosario por filtrar información de un expediente ajeno",
-        "link": "https://www.rosario3.com/informaciongeneral/suspendieron-a-una-jueza-de-familia-de-rosario-por-filtrar-informacion-de-un-expediente-ajeno-20261014-0019.html",
-        "image": "https://www.rosario3.com/__export/1769434698744/sites/rosario3/img/2025/06/08/tribunales_de_rosario_1.jpg_878428967.jpg",
-        "summary": "La Corte Suprema de Justicia de Santa Fe aplicó la medida a la titular del Juzgado de Familia Nº 7 Sabina Sansarricq por haber enviado a una amiga, involucrada en una posible defraudación millonaria, datos de un caso que se tramitaba en otro juzgado. El Ministerio Público de la…",
         "pubDate": "2026-10-14T11:57:00+00:00",
         "approxTime": true
       },
@@ -121,24 +121,42 @@
       },
       {
         "source": "Rosario3",
-        "title": "Una experiencia única: tour Agronegocios Australia y Nueva Zelanda en febrero y marzo 2027",
-        "link": "https://www.rosario3.com/informaciongeneral/una-experiencia-unica-tour-agronegocios-australia-y-nueva-zelanda-en-febrero-y-marzo-2027-20260911-0038.html",
-        "image": "https://www.rosario3.com/__export/1789135376493/sites/rosario3/img/2026/09/11/oceania1.jpg_928314581.jpg",
-        "summary": "El Centro de Gestión Agropecuaria de Fundación Libertad junto a Daminato Viajes, invita a sumarse a esta experiencia inolvidable para conocer Oceanía, un viaje que combina historia, cultura, gastronomía y turismo",
-        "pubDate": "2026-09-11T11:47:00+00:00",
+        "title": "Adiós a la icónica melena: el Pibe Valderrama decidió cambiar de look",
+        "link": "https://www.rosario3.com/deportes/adios-a-la-iconica-melena-el-pibe-valderrama-decidio-cambiar-de-look-20261014-0035.html",
+        "image": "https://www.rosario3.com/__export/1791991580893/sites/rosario3/img/2026/10/14/pibe.jpg_659109038.jpg",
+        "summary": "Por primera vez en varias décadas, el exfutbolista de la selección colombiana luce diferente: sorprendió en sus redes sociales con un video donde muestra el proceso de su transformación. Un repaso por el sello estético que marcó una época en el fútbol mundial",
+        "pubDate": "2026-10-14T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Microsoft creó Xbox Labs para impulsar el desarrollo de videojuegos mediante inteligencia artificial",
-        "link": "https://www.rosario3.com/tecnologia/microsoft-creo-xbox-labs-para-impulsar-el-desarrollo-de-videojuegos-mediante-inteligencia-artificial-20261014-0037.html",
-        "image": "https://www.rosario3.com/__export/1791992554103/sites/rosario3/img/2026/10/14/labs.jpg_928314580.jpg",
-        "summary": "El nuevo departamento interno investigará herramientas tecnológicas para facilitar la creación de títulos sin necesidad de programar, mejorar la compatibilidad entre plataformas y recuperar clásicos. La división estará liderada por el director de tecnología de la marca, Scott…",
-        "pubDate": "2026-10-14T11:46:00+00:00",
+        "title": "Una experiencia única: tour Agronegocios Australia y Nueva Zelanda en febrero y marzo 2027",
+        "link": "https://www.rosario3.com/informaciongeneral/una-experiencia-unica-tour-agronegocios-australia-y-nueva-zelanda-en-febrero-y-marzo-2027-20260911-0038.html",
+        "image": "https://www.rosario3.com/__export/1789135376493/sites/rosario3/img/2026/09/11/oceania1.jpg_928314581.jpg",
+        "summary": "El Centro de Gestión Agropecuaria de Fundación Libertad junto a Daminato Viajes, invita a sumarse a esta experiencia inolvidable para conocer Oceanía, un viaje que combina historia, cultura, gastronomía y turismo",
+        "pubDate": "2026-09-11T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Invitan a un taller gratuito de comunicación ambiental y sostenibilidad",
+        "link": "https://www.lacapital.com.ar/la-ciudad/invitan-un-taller-gratuito-comunicacion-ambiental-y-sostenibilidad-n10286670.html",
+        "image": "https://media.lacapital.com.ar/p/94f756154177731bb9ff39795eb39830/adjuntos/203/imagenes/103/121/0103121645/inundaciones-santa-fe.jpg",
+        "summary": "En la actividad, que se realiza en el marco de la Semana del Clima Rosario 2026, participa el periodista de La Capital especializado en medio ambiente Tomás Barrandeguy",
+        "pubDate": "2026-10-14T16:11:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Cuánto cobran niñeras y empleadas domésticas en octubre",
+        "link": "https://www.lacapital.com.ar/informacion-general/cuanto-cobran-nineras-y-empleadas-domesticas-octubre-n10286662.html",
+        "image": "https://media.lacapital.com.ar/p/bc82604665e33739f3deb02ff0259a7b/adjuntos/203/imagenes/030/143/0030143851/1200x675/smart/empleada-domesticajpg.jpg",
+        "summary": "Se oficializó el aumento en el salario para las tareas de cuidado y asistencia. Cuáles son los nuevos mínimos obligatorios en octubre",
+        "pubDate": "2026-10-14T15:58:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Tras ser operado, el papa León XIV comenzó a caminar y retomó su alimentación habitual",
@@ -231,19 +249,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Las mejores agencias para subir al Kilimanjaro: todo lo que necesitás saber",
-        "link": "https://www.lacapital.com.ar/novedades/las-mejores-agencias-subir-al-kilimanjaro-todo-lo-que-necesitas-saber-n10286649.html",
-        "image": "https://media.lacapital.com.ar/p/98c93ba5fb3477b7ec31954b774c6cc0/adjuntos/203/imagenes/103/468/0103468198/1200x675/smart/8bd2bc59-9597-42c6-9535-412eae44ee4e.jpg",
-        "summary": "Elegir la agencia adecuada para ascender al Kilimanjaro es crucial; la siguiente guía detalla operadores y resuelve dudas frecuentes antes de reservar.",
+        "title": "La psíquica de mascotas de Javier Milei, en el New York Times: qué dijo de Conan y sus clones",
+        "link": "https://www.lacapital.com.ar/politica/la-psiquica-mascotas-javier-milei-el-new-york-times-que-dijo-conan-y-sus-clones-n10286641.html",
+        "image": "https://media.lacapital.com.ar/p/4b2963baac7e2151fac2a639fde8e331/adjuntos/203/imagenes/101/570/0101570303/1200x675/smart/image-2024-04-23t071821089jpg.jpg",
+        "summary": "Celia Melamed aseguró que trabajó con el perro del presidente argentino y sus clones durante años. En la entrevista del prestigioso medio, la mujer reconstruye su relación con Milei y su hermana Karina",
         "pubDate": "2026-10-14T14:52:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "La psíquica de mascotas de Javier Milei, en el New York Times: qué dijo de Conan y sus clones",
-        "link": "https://www.lacapital.com.ar/politica/la-psiquica-mascotas-javier-milei-el-new-york-times-que-dijo-conan-y-sus-clones-n10286641.html",
-        "image": "https://media.lacapital.com.ar/p/4b2963baac7e2151fac2a639fde8e331/adjuntos/203/imagenes/101/570/0101570303/1200x675/smart/image-2024-04-23t071821089jpg.jpg",
-        "summary": "Celia Melamed aseguró que trabajó con el perro del presidente argentino y sus clones durante años. En la entrevista del prestigioso medio, la mujer reconstruye su relación con Milei y su hermana Karina",
+        "title": "Las mejores agencias para subir al Kilimanjaro: todo lo que necesitás saber",
+        "link": "https://www.lacapital.com.ar/novedades/las-mejores-agencias-subir-al-kilimanjaro-todo-lo-que-necesitas-saber-n10286649.html",
+        "image": "https://media.lacapital.com.ar/p/98c93ba5fb3477b7ec31954b774c6cc0/adjuntos/203/imagenes/103/468/0103468198/1200x675/smart/8bd2bc59-9597-42c6-9535-412eae44ee4e.jpg",
+        "summary": "Elegir la agencia adecuada para ascender al Kilimanjaro es crucial; la siguiente guía detalla operadores y resuelve dudas frecuentes antes de reservar.",
         "pubDate": "2026-10-14T14:52:00+00:00",
         "approxTime": false
       },
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/9061b4cb4071423d4fee6470a6d42c80/adjuntos/203/imagenes/103/155/0103155981/1200x675/smart/milei-y-trump.png",
         "summary": "El presidente desplegará distintas actividades oficiales durante 36 horas. El objetivo principal es el apoyo al presidente norteamericano de cara a las elecciones legislativas",
         "pubDate": "2026-10-14T14:20:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Coca-Cola Andina: apuesta por la economía circular en los Juegos Suramericanos Santa Fe 2026",
-        "link": "https://www.lacapital.com.ar/novedades/coca-cola-andina-apuesta-la-economia-circular-los-juegos-suramericanos-santa-fe-2026-n10286632.html",
-        "image": "https://media.lacapital.com.ar/p/74ecbe56e2fbb3cf281e487ee7d346b5/adjuntos/203/imagenes/103/468/0103468033/1200x675/smart/_zga7419.jpg",
-        "summary": "La compañía hidrató a más de 4.000 atletas y desplegó activaciones en los Fan Fest. Además, llevó una propuesta de sustentabilidad a organizaciones sociales y cooperativas locales.",
-        "pubDate": "2026-10-14T14:18:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Newell's y Central ya conocen los árbitros para los partidos de la fecha 13 del Clausura",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-y-central-ya-conocen-los-arbitros-los-partidos-la-fecha-13-del-clausura-n10286598.html",
-        "image": "https://media.lacapital.com.ar/p/40bd5844a55a533b2884927b2ff75f2e/adjuntos/203/imagenes/103/467/0103467668/1200x675/smart/diseno-titulo-78.png",
-        "summary": "Álvaro Carranza estará en la visita del Canalla ante Atlético Tucumán, mientras que Hernán Mastrángelo dirigirá el encuentro de la Lepra con Central Córdoba",
-        "pubDate": "2026-10-14T13:58:00+00:00",
         "approxTime": false
       }
     ]
