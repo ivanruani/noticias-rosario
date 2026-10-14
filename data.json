@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-14T11:31:02.029648+00:00",
+  "generatedAt": "2026-10-14T12:01:12.717540+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Red Hot Chili Peppers en Rosario: Central intimó a la productora a presentar los contratos y reveló que ya cobró el 50% del alquiler",
+        "link": "https://www.rosario3.com/informaciongeneral/red-hot-chili-peppers-en-rosario-central-intimo-a-la-productora-a-presentar-los-contratos-y-revelo-que-ya-cobro-el-50-del-alquiler-20261014-0004.html",
+        "image": "https://www.rosario3.com/__export/1791976637531/sites/rosario3/img/2026/10/14/red_hot.jpg_506286608.jpg",
+        "summary": "El gerente general de Rosario Central, Javier Sola, se refirió a la polémica generada luego de que la banda estadounidense desmintiera su participación en un festival en el Gigante de Arroyito. El dirigente aclaró que la institución exigió certezas inmediatas a la empresa…",
+        "pubDate": "2026-10-14T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Provincia busca agilizar el sistema de recompensas con mayor autonomía: “Llevamos 96 millones entregados”",
         "link": "https://www.rosario3.com/informaciongeneral/provincia-busca-agilizar-el-sistema-de-recompensas-con-mayor-autonomia-llevamos-96-millones-entregados-20261014-0006.html",
         "image": "https://www.rosario3.com/__export/1791976279644/sites/rosario3/img/2026/10/14/preso.jpg_928314581.jpg",
         "summary": "La Cámara baja debate un paquete de herramientas para la seguridad pública en la provincia de Santa Fe. Entre las modificaciones, la secretaria de Asuntos Penales, Lucía Masneri, detalló los cambios para el pago a cambio de datos certeros. El Ejecutivo pretende iniciar los…",
-        "pubDate": "2026-10-14T12:00:00+00:00",
+        "pubDate": "2026-10-14T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,15 +26,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/murio-jorge-rona-castro-a-los-59-anos-el-excampeon-mundial-de-boxeo-se-descompenso-en-un-bingo-20261014-0001.html",
         "image": "https://www.rosario3.com/__export/1791973001827/sites/rosario3/img/2026/10/14/jorge_ro-a_castro_-2-.jpg_506286608.jpg",
         "summary": "La leyenda del pugilismo argentino falleció mientras estaba en el Bingo de Morón. Nacido el 18 de agosto de 1967 en Caleta Olivia, Santa Cruz, fue campeón mundial de peso mediano en 1994 y protagonizó una de las peleas más recordadas de la historia, cuando venció a John David…",
-        "pubDate": "2026-10-14T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El clima en Rosario: todos los tonos del gris",
-        "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-todos-los-tonos-del-gris-20261014-0002.html",
-        "image": "https://www.rosario3.com/__export/1791973783668/sites/rosario3/img/2026/10/14/riogris.jpg_928314581.jpg",
-        "summary": "El miércoles despertó gris y fresco. Bancos de niebla cruzaban las calles de la ciudad. A la tarde, levantaría el termómetro un poco, pero llegan los chaparrones a la noche",
         "pubDate": "2026-10-14T11:58:00+00:00",
         "approxTime": true
       },
@@ -40,20 +40,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Feria Internacional del Libro de Rosario 2026: todas las actividades de este miércoles",
-        "link": "https://www.rosario3.com/ocio/feria-internacional-del-libro-de-rosario-2026-todas-las-actividades-de-este-miercoles-20261013-0038.html",
-        "image": "https://www.rosario3.com/__export/1791904593410/sites/rosario3/img/2026/10/13/feria_libro_version1791904592786.jpg_2106848869.jpg",
-        "summary": "El Cultural Fontanarrosa (San Martín 1080) abre sus puertas de 13 a 21. Gratis, con gestión previa del código QR",
-        "pubDate": "2026-10-13T11:56:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "\"Presidente, cumpla la ley\": estudiantes se manifestaron en La Siberia de cara a la Marcha Federal Universitaria",
-        "link": "https://www.rosario3.com/informaciongeneral/presidente-cumpla-la-ley-estudiantes-de-la-unr-se-manifestaron-en-la-siberia-a-dias-de-la-marcha-federal-por-el-financiamiento-universitario-20261013-0088.html",
-        "image": "https://www.rosario3.com/__export/1791938148805/sites/rosario3/img/2026/10/13/unr_fur.jpg_1825222445.jpg",
-        "summary": "Con velas y mensajes dirigidos a Javier Milei, alumnos de distintas facultades realizaron una intervención nocturna en el ingreso al Centro Universitario Rosario. La actividad forma parte de una semana de reclamos que incluye asambleas, clases públicas y jornadas de difusión",
-        "pubDate": "2026-10-13T11:55:00+00:00",
+        "title": "Se cayó un árbol de gran porte en pleno centro de Rosario y cortó el tránsito en 9 de Julio y Moreno",
+        "link": "https://www.rosario3.com/informaciongeneral/se-cayo-un-arbol-de-gran-porte-en-pleno-centro-de-rosario-y-corto-el-transito-en-9-de-julio-y-moreno-20261014-0010.html",
+        "image": "https://www.rosario3.com/__export/1791978782318/sites/rosario3/img/2026/10/14/arbol_caido_9_de_julio.jpg_1745207816.jpg",
+        "summary": "Un árbol de gran tamaño cedió este lunes por la mañana y bloqueó por completo la calle 9 de Julio, entre Dorrego y Moreno, en un horario pico por el ingreso escolar y laboral en Rosario. La caída provocó el corte de cables, lo que afectó los servicios de energía e internet en la…",
+        "pubDate": "2026-10-14T11:56:00+00:00",
         "approxTime": true
       },
       {
@@ -62,15 +53,24 @@
         "link": "https://www.rosario3.com/deportes/boca-perdio-con-vasco-da-gama-y-debera-dar-vuelta-la-serie-de-visitante-por-las-semifinales-de-la-copa-sudamericana-en-brasil-o-paraguay-20261014-0003.html",
         "image": "https://www.rosario3.com/__export/1791974777186/sites/rosario3/img/2026/10/14/boca_vasco_sudamericana.jpg_506286608.jpg",
         "summary": "El Xeneize perdió 1-0 en La Bombonera por la ida. La revancha será el martes 20 de octubre en sede a confirmar, ya que aún no se determinó si el encuentro será en el Maracaná o en Asunción. El equipo brasileño, que sufrió una expulsión en el segundo tiempo, se impuso con un gol…",
-        "pubDate": "2026-10-14T11:54:00+00:00",
+        "pubDate": "2026-10-14T11:55:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Agustín Módica, íntimo: el gol a Newell’s, su amor por Central y el sueño de jugar para Italia",
-        "link": "https://www.rosario3.com/deportes/agustin-modica-intimo-el-gol-a-newells-su-amor-por-central-y-el-sueno-de-jugar-para-italia-20261013-0089.html",
-        "image": "https://www.rosario3.com/__export/1784936433463/sites/rosario3/img/2026/07/24/modica.jpg_928314580.jpg",
-        "summary": "El goleador del Torneo Clausura habló en exclusiva con Radio 2, tras la victoria de su Gimnasia de Mendoza ante Newell's. El futbolista explicó su salida del club de Arroyito y destacó la labor de su entrenador Darío Franco. Además, se refirió a los sondeos del fútbol italiano y…",
+        "title": "\"Presidente, cumpla la ley\": estudiantes se manifestaron en La Siberia de cara a la Marcha Federal Universitaria",
+        "link": "https://www.rosario3.com/informaciongeneral/presidente-cumpla-la-ley-estudiantes-de-la-unr-se-manifestaron-en-la-siberia-a-dias-de-la-marcha-federal-por-el-financiamiento-universitario-20261013-0088.html",
+        "image": "https://www.rosario3.com/__export/1791938148805/sites/rosario3/img/2026/10/13/unr_fur.jpg_1825222445.jpg",
+        "summary": "Con velas y mensajes dirigidos a Javier Milei, alumnos de distintas facultades realizaron una intervención nocturna en el ingreso al Centro Universitario Rosario. La actividad forma parte de una semana de reclamos que incluye asambleas, clases públicas y jornadas de difusión",
+        "pubDate": "2026-10-13T11:54:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Feria Internacional del Libro de Rosario 2026: todas las actividades de este miércoles",
+        "link": "https://www.rosario3.com/ocio/feria-internacional-del-libro-de-rosario-2026-todas-las-actividades-de-este-miercoles-20261013-0038.html",
+        "image": "https://www.rosario3.com/__export/1791904593410/sites/rosario3/img/2026/10/13/feria_libro_version1791904592786.jpg_2106848869.jpg",
+        "summary": "El Cultural Fontanarrosa (San Martín 1080) abre sus puertas de 13 a 21. Gratis, con gestión previa del código QR",
         "pubDate": "2026-10-13T11:53:00+00:00",
         "approxTime": true
       },
@@ -85,11 +85,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "El clima en Rosario: todos los tonos del gris",
+        "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-todos-los-tonos-del-gris-20261014-0002.html",
+        "image": "https://www.rosario3.com/__export/1791973783668/sites/rosario3/img/2026/10/14/riogris.jpg_928314581.jpg",
+        "summary": "El miércoles despertó gris y fresco. Bancos de niebla cruzaban las calles de la ciudad. A la tarde, levantaría el termómetro un poco, pero llegan los chaparrones a la noche",
+        "pubDate": "2026-10-14T11:51:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Avanza en el Concejo un proyecto para instalar refugios para repartidores de aplicaciones",
         "link": "https://www.rosario3.com/informaciongeneral/avanza-en-el-concejo-un-proyecto-para-instalar-refugios-para-repartidores-de-aplicaciones-20261013-0079.html",
         "image": "https://www.rosario3.com/__export/1791924776250/sites/rosario3/img/2026/10/13/delivery.jpg_1825222445.jpg",
         "summary": "La comisión de Obras Públicas dio despacho favorable a la iniciativa que propone crear estaciones modulares con espacios de descanso y servicios básicos para los cadetes. El expediente deberá pasar por otras dos comisiones antes de llegar al recinto",
-        "pubDate": "2026-10-13T11:51:00+00:00",
+        "pubDate": "2026-10-13T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -98,15 +107,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/china-respaldo-el-reclamo-de-soberania-argentina-sobre-las-islas-malvinas-y-llamo-a-resolver-la-disputa-mediante-negociaciones-pacificas-20261013-0086.html",
         "image": "https://www.rosario3.com/__export/1791932562235/sites/rosario3/img/2026/10/13/malvinas.jpg_982625323.jpg",
         "summary": "Durante el debate general sobre descolonización de la Cuarta Comisión de la Asamblea General de la ONU, el embajador y representante permanente adjunto de China ante el organismo, Sun Lei, pidió a Gran Bretaña que responda al reclamo argentino y que acepte negociar cuanto antes",
-        "pubDate": "2026-10-13T11:50:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La AFA designó a los árbitros para la fecha 13 del Torneo Clausura: quiénes dirigen a Central y Newell’s el fin de semana",
-        "link": "https://www.rosario3.com/deportes/la-afa-designo-a-los-arbitros-para-la-fecha-13-del-torneo-clausura-quienes-dirigen-a-central-y-newells-el-fin-de-semana-20261013-0087.html",
-        "image": "https://www.rosario3.com/__export/1791933035138/sites/rosario3/img/2026/10/13/00024943-02.jpg_240262416.jpg",
-        "summary": "La Liga Profesional publicó este martes la nómina de autoridades que serán los encargados de impartir justicia en todas las canchas de Primera División",
         "pubDate": "2026-10-13T11:49:00+00:00",
         "approxTime": true
       },
@@ -130,15 +130,24 @@
       },
       {
         "source": "Rosario3",
-        "title": "Qué es un adenocarcinoma pulmonar, el tumor maligno que le extirparon al papa León XIV",
-        "link": "https://www.rosario3.com/informaciongeneral/que-es-un-adenocarcinoma-pulmonar-el-tumor-maligno-que-le-extirparon-al-papa-leon-xiv-20261013-0081.html",
-        "image": "https://www.rosario3.com/__export/1791927506933/sites/rosario3/img/2026/10/13/papaleon.jpg_982625323.jpg",
-        "summary": "El pontífice de 71 años fue sometido este martes a una intervención quirúrgica de alrededor de 90 minutos que concluyó de manera exitosa y tras la cual se confirmó el diagnóstico",
-        "pubDate": "2026-10-13T11:46:00+00:00",
+        "title": "La separación de Emanuel Ortega y Julieta Prandi: qué dijeron Ana Paula Dutil y Mariana Marx",
+        "link": "https://www.rosario3.com/ocio/la-separacion-de-emanuel-ortega-y-julieta-prandi-que-dijeron-ana-paula-dutil-y-mariana-marx-20261014-0008.html",
+        "image": "https://www.rosario3.com/__export/1791978657210/sites/rosario3/img/2026/10/14/dos.jpg_54252853.jpg",
+        "summary": "La exesposa del cantante se manifestó “sorprendida” y aseguró: “Me duele que me involucren en esto”. Por su parte, la escritora que es señalada por haber mantenido algún tipo de ”relación' con el cantante negó tal cosa",
+        "pubDate": "2026-10-14T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Fuerte recorte del FMI a su pronóstico sobre la economía argentina",
+        "link": "https://www.lacapital.com.ar/economia/fuerte-recorte-del-fmi-su-pronostico-la-economia-argentina-n10286544.html",
+        "image": "https://media.lacapital.com.ar/p/e56934814ab197874f3039144ebb0935/adjuntos/203/imagenes/103/466/0103466836/1200x675/smart/fmi-caputo.jpeg",
+        "summary": "El organismo bajó su previsión de 3,5% a 2,1% en 2026. El ministro Caputo se reunió con Georgieva para destrabar un desembolso",
+        "pubDate": "2026-10-14T11:29:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "\"Saber que soy autista me salvó\": cuando el diagnóstico llega en la vida adulta",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/b1180a0c21e422805d0775e164f94e81/adjuntos/203/imagenes/103/467/0103467107/2026-10-13-robot-acoso-sexual-alemania.jpg",
         "summary": "Ocurrió en Alemania. La Policía quiere saber si el robot estaba programado o si los adolescentes lo manejaban y pueden ser denunciados por acoso sexual",
         "pubDate": "2026-10-14T01:08:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "F1 y derechos humanos: por qué Ruanda tendrá un Gran Premio de Fórmula 1",
-        "link": "https://www.lacapital.com.ar/ovacion/f1-y-derechos-humanos-que-ruanda-tendra-un-gran-premio-formula-1-n10286548.html",
-        "image": "https://media.lacapital.com.ar/p/5647996930aed535e6b09ef10333bc2f/adjuntos/203/imagenes/103/466/0103466939/2026-10-13-f1-ruanda.jpg",
-        "summary": "El presidente Kagame dijo que el país africano busca desarrollar infraestructura deportiva y turismo. Organismos denuncian un \"lavado de imagen\" por violaciones a los derechos humanos",
-        "pubDate": "2026-10-14T00:23:00+00:00",
         "approxTime": false
       }
     ]
