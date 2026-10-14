@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T09:01:22.469652+00:00",
+  "generatedAt": "2026-10-14T09:31:00.382501+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Granos: el maíz sostiene las ventas y el trigo enfrenta el desafío de la nueva cosecha",
+        "link": "https://www.lacapital.com.ar/agro/granos-el-maiz-sostiene-las-ventas-y-el-trigo-enfrenta-el-desafio-la-nueva-cosecha-n10286481.html",
+        "image": "https://media.lacapital.com.ar/p/0f7702450047e78470b4463a23dd5a7d/adjuntos/203/imagenes/027/598/0027598711/1200x675/451x113:471x133/agro_08_01_lc_68142885__14-11-2019__0x0jpg.jpg",
+        "summary": "La mayor oferta estadounidense presiona sobre los precios del maíz, aunque el ritmo comercial argentino sigue por encima del promedio. La demanda de harina sostiene a la soja y las dificultades logísticas en el Mar Negro condicionan al trigo. El análisis de Dante Romano",
+        "pubDate": "2026-10-14T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Newell's se quedó sin nada por carecer de puntería en las buenas chances que tuvo",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-se-quedo-nada-carecer-punteria-las-buenas-chances-que-tuvo-n10286543.html",
+        "image": "https://media.lacapital.com.ar/p/2ac3913282b1a58c21da4d0524c924cd/adjuntos/203/imagenes/103/466/0103466873/nob-kud-82761282.jpg",
+        "summary": "La falta de gol no es una problemática nueva en Newell's y en Mendoza pagó caro la ausencia de eficacia, que en cambio tuvo Módica para romper el cero",
+        "pubDate": "2026-10-14T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Central y un cierre a todo o nada: no tiene las riendas en la mano, pero sí la fusta bajo el brazo",
         "link": "https://www.lacapital.com.ar/ovacion/central-y-un-cierre-todo-o-nada-no-tiene-las-riendas-la-mano-pero-si-la-fusta-el-brazo-n10286398.html",
         "image": "https://media.lacapital.com.ar/p/f7527ea4b0f8b8abd1f8c93cb548b73c/adjuntos/203/imagenes/103/465/0103465882/centrassm.jpeg",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/984ed518617c94f969ff9d47b73d421e/adjuntos/203/imagenes/103/466/0103466557/1200x675/smart/vallejos-costa-azul-1310.jpg",
         "summary": "Paola Vallejos tenía 36 años y fue hallada sin vida en un alojamiento de Costa Azul. La primera hipótesis apuntó a un suicidio, pero sus familiares la rechazan y exigen que se investigue un posible homicidio",
         "pubDate": "2026-10-13T22:23:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Se profundiza el conflicto en la UNR con tomas de facultades y clases públicas",
-        "link": "https://www.lacapital.com.ar/la-ciudad/se-profundiza-el-conflicto-la-unr-tomas-facultades-y-clases-publicas-n10286530.html",
-        "image": "https://media.lacapital.com.ar/p/c2aeb009c63ba44ed75a6c29480ef7b4/adjuntos/203/imagenes/103/466/0103466725/1200x675/smart/image-21.jpg",
-        "summary": "Ciencia Política y Humanidades harán una toma activa y Psicología se disponía a hacer una vigilia con pintadas. Este jueves habrá una nueva Marcha Federal Universitaria",
-        "pubDate": "2026-10-13T22:03:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Santiago Siri, experto en IA: \"El humano no desaparece, sino que encuentra dónde es indispensable\"",
-        "link": "https://www.lacapital.com.ar/zoom/santiago-siri-experto-ia-el-humano-no-desaparece-sino-que-encuentra-donde-es-indispensable-n10286414.html",
-        "image": "https://media.lacapital.com.ar/p/a942eb9f4b5efa854dfb8c6baba41ca1/adjuntos/203/imagenes/103/465/0103465411/1200x675/smart/santiago-siri.png",
-        "summary": "El especialista analizó en La Capital+ cómo la IA transformará el trabajo, la educación y la economía. También reclamó una estrategia tecnológica para Argentina",
-        "pubDate": "2026-10-13T21:47:00+00:00",
         "approxTime": false
       }
     ]
