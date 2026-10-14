@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T03:01:19.203902+00:00",
+  "generatedAt": "2026-10-14T03:30:58.895985+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El placer de coincidir: Bebecê celebra el Día de la Madre desde el estilo y la complicidad",
+        "link": "https://www.lacapital.com.ar/novedades/el-placer-coincidir-bebece-celebra-el-dia-la-madre-el-estilo-y-la-complicidad-n10286420.html",
+        "image": "https://media.lacapital.com.ar/p/82b29b11d75c166c277c05aec0e18ba6/adjuntos/203/imagenes/103/465/0103465462/1200x675/smart/image.png",
+        "summary": "La marca de calzado femenino celebra la conexión entre generaciones, el gusto por el diseño y las distintas formas de compartir el estilo.",
+        "pubDate": "2026-10-14T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El tiempo en Rosario: miércoles con chaparrones antes de un jueves con más agua",
         "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-miercoles-chaparrones-antes-un-jueves-mas-agua-n10286559.html",
         "image": "https://media.lacapital.com.ar/p/cbe4a0662d2b9649f90bebd52ed57777/adjuntos/203/imagenes/103/467/0103467174/2026-10-13-clima-by_smeccia-80794279.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/a210c3b12d458fe026210673e385c78f/adjuntos/203/imagenes/103/466/0103466500/salaito.jpeg",
         "summary": "El fin de semana Argentino jugará para evitar la desafiliación de la Primera C. Además, Central Córdoba y Leones FC iniciarán el Reducido",
         "pubDate": "2026-10-13T21:45:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El Vaticano confirmó que al Papa León XIV le extirparon un tumor maligno del pulmón",
-        "link": "https://www.lacapital.com.ar/informacion-general/el-vaticano-confirmo-que-al-papa-leon-xiv-le-extirparon-un-tumor-maligno-del-pulmon-n10286517.html",
-        "image": "https://media.lacapital.com.ar/p/1359015279e02752dd045a92641e7ac5/adjuntos/203/imagenes/103/459/0103459115/papa-leon-xiv.jpg",
-        "summary": "Según se difundió oficialmente, el examen confirmó el \"diagnóstico de adenocarcinoma pulmonar, tal como se sospechaba de los estudios\"",
-        "pubDate": "2026-10-13T20:55:00+00:00",
         "approxTime": false
       }
     ]
