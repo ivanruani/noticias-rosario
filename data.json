@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-14T12:31:05.033401+00:00",
+  "generatedAt": "2026-10-14T13:01:14.166109+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Toma en Humanidades de Rosario y protesta estudiantil con clases públicas al mediodía",
+        "link": "https://www.rosario3.com/informaciongeneral/toma-en-humanidades-de-rosario-y-protesta-estudiantil-con-clases-publicas-al-mediodia-20261014-0011.html",
+        "image": "https://www.rosario3.com/__export/1791979676568/sites/rosario3/img/2026/10/14/facultadtomada.jpg_928314581.jpg",
+        "summary": "De cara a la Marcha Universitaria, estudiantes que tomaron la facultad céntrica anunciaron nuevas medidas para visibilizar su reclamo. Violeta Finocchiaro, de Santiago Pampillón, anunció la realización de clases públicas al mediodía en la zona céntrica. Anoche, con velas y…",
+        "pubDate": "2026-10-14T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Red Hot Chili Peppers en Rosario: Central intimó a la productora a presentar los contratos y reveló que ya cobró el 50% del alquiler",
         "link": "https://www.rosario3.com/informaciongeneral/red-hot-chili-peppers-en-rosario-central-intimo-a-la-productora-a-presentar-los-contratos-y-revelo-que-ya-cobro-el-50-del-alquiler-20261014-0004.html",
         "image": "https://www.rosario3.com/__export/1791976637531/sites/rosario3/img/2026/10/14/red_hot.jpg_506286608.jpg",
         "summary": "El gerente general del club, Javier Sola, se refirió a la polémica generada luego de que la banda estadounidense desmintiera su participación en un festival en el Gigante de Arroyito. El dirigente aclaró que la institución exigió certezas inmediatas a la empresa organizadora, y…",
-        "pubDate": "2026-10-14T12:00:00+00:00",
+        "pubDate": "2026-10-14T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/provincia-busca-agilizar-el-sistema-de-recompensas-con-mayor-autonomia-llevamos-96-millones-entregados-20261014-0006.html",
         "image": "https://www.rosario3.com/__export/1791976279644/sites/rosario3/img/2026/10/14/preso.jpg_928314581.jpg",
         "summary": "La Cámara baja debate un paquete de herramientas para la seguridad pública en la provincia de Santa Fe. Entre las modificaciones, la secretaria de Asuntos Penales, Lucía Masneri, detalló los cambios para el pago a cambio de datos certeros. El Ejecutivo pretende iniciar los…",
-        "pubDate": "2026-10-14T11:59:00+00:00",
+        "pubDate": "2026-10-14T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/murio-jorge-rona-castro-a-los-59-anos-el-excampeon-mundial-de-boxeo-se-descompenso-en-un-bingo-20261014-0001.html",
         "image": "https://www.rosario3.com/__export/1791973001827/sites/rosario3/img/2026/10/14/jorge_ro-a_castro_-2-.jpg_506286608.jpg",
         "summary": "La leyenda del pugilismo argentino falleció mientras estaba en el Bingo de Morón. Nacido el 18 de agosto de 1967 en Caleta Olivia, Santa Cruz, fue campeón mundial de peso mediano en 1994 y protagonizó una de las peleas más recordadas de la historia, cuando venció a John David…",
-        "pubDate": "2026-10-14T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Claves del día: el BCRA junta dólares, pero se pierden empleos y una marca de ropa pide concurso | Ecos365",
-        "link": "https://www.rosario3.com/ecos365/noticias/claves-del-dia-el-bcra-junta-dolares-pero-se-pierden-empleos-y-una-marca-de-ropa-pide-concurso-20261014-0001.html",
-        "image": "https://www.rosario3.com/__export/1791971303491/sites/rosario3/img/2026/08/25/dolares.png_714673148.png",
-        "summary": "El Central compra dólares, pero el alivio no llega a todas las cajas: cae el empleo, la inflación repunta y Zhoue pide concurso. Una licitación de deuda pondrá precio a la confianza del mercado en el Gobierno",
         "pubDate": "2026-10-14T11:57:00+00:00",
         "approxTime": true
       },
@@ -49,20 +49,20 @@
       },
       {
         "source": "Rosario3",
-        "title": "Boca perdió con Vasco da Gama por las semifinales de la Sudamericana y deberá dar vuelta la serie de visitante: ¿en Brasil o Paraguay?",
-        "link": "https://www.rosario3.com/deportes/boca-perdio-con-vasco-da-gama-y-debera-dar-vuelta-la-serie-de-visitante-por-las-semifinales-de-la-copa-sudamericana-en-brasil-o-paraguay-20261014-0003.html",
-        "image": "https://www.rosario3.com/__export/1791974777186/sites/rosario3/img/2026/10/14/boca_vasco_sudamericana.jpg_506286608.jpg",
-        "summary": "El Xeneize perdió 1-0 en La Bombonera por la ida. La revancha será el martes 20 de octubre en sede a confirmar, ya que aún no se determinó si el encuentro será en el Maracaná o en Asunción. El equipo brasileño, que sufrió una expulsión en el segundo tiempo, se impuso con un gol…",
+        "title": "Qué dicen las encuestas a tres semanas de las elecciones de medio mandato en Estados Unidos",
+        "link": "https://www.rosario3.com/politica/que-dicen-las-encuestas-a-tres-semanas-de-las-elecciones-de-medio-mandato-en-estados-unidos-20261014-0017.html",
+        "image": "https://www.rosario3.com/__export/1791982201651/sites/rosario3/img/2026/10/14/trumpitos.jpg_982625323.jpg",
+        "summary": "Trump pone el cuerpo en la campaña ante el temor de que los republicanos pierdan la mayoría en ambas cámaras legislativas",
         "pubDate": "2026-10-14T11:55:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "\"Presidente, cumpla la ley\": estudiantes se manifestaron en La Siberia de cara a la Marcha Federal Universitaria",
-        "link": "https://www.rosario3.com/informaciongeneral/presidente-cumpla-la-ley-estudiantes-de-la-unr-se-manifestaron-en-la-siberia-a-dias-de-la-marcha-federal-por-el-financiamiento-universitario-20261013-0088.html",
-        "image": "https://www.rosario3.com/__export/1791938148805/sites/rosario3/img/2026/10/13/unr_fur.jpg_1825222445.jpg",
-        "summary": "Con velas y mensajes dirigidos a Javier Milei, alumnos de distintas facultades realizaron una intervención nocturna en el ingreso al Centro Universitario Rosario. La actividad forma parte de una semana de reclamos que incluye asambleas, clases públicas y jornadas de difusión",
-        "pubDate": "2026-10-13T11:54:00+00:00",
+        "title": "Claves del día: el BCRA junta dólares, pero se pierden empleos y una marca de ropa pide concurso | Ecos365",
+        "link": "https://www.rosario3.com/ecos365/noticias/claves-del-dia-el-bcra-junta-dolares-pero-se-pierden-empleos-y-una-marca-de-ropa-pide-concurso-20261014-0001.html",
+        "image": "https://www.rosario3.com/__export/1791971303491/sites/rosario3/img/2026/08/25/dolares.png_714673148.png",
+        "summary": "El Central compra dólares, pero el alivio no llega a todas las cajas: cae el empleo, la inflación repunta y Zhoue pide concurso. Una licitación de deuda pondrá precio a la confianza del mercado en el Gobierno",
+        "pubDate": "2026-10-14T11:54:00+00:00",
         "approxTime": true
       },
       {
@@ -85,37 +85,37 @@
       },
       {
         "source": "Rosario3",
-        "title": "El clima en Rosario: todos los tonos del gris",
-        "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-todos-los-tonos-del-gris-20261014-0002.html",
-        "image": "https://www.rosario3.com/__export/1791973783668/sites/rosario3/img/2026/10/14/riogris.jpg_928314581.jpg",
-        "summary": "El miércoles despertó gris y fresco. Bancos de niebla cruzaban las calles de la ciudad. A la tarde, levantaría el termómetro un poco, pero llegan los chaparrones a la noche",
+        "title": "Insólito robo de madrugada en una verdulería de zona sur: un ladrón se llevó un cajón de apios",
+        "link": "https://www.rosario3.com/policiales/insolito-robo-de-madrugada-el-ladron-se-llevo-un-cajon-de-apios-20261014-0014.html",
+        "image": "https://www.rosario3.com/__export/1791981190989/sites/rosario3/img/2026/10/14/verduleria_segui_y_espaxa.jpg_928314581.jpg",
+        "summary": "Un comerciante de zona sur sufrió un particular hurto durante la madrugada. El delincuente escapó con una sola caja de verduras tras ser descubierto por el guardi. El caso recuerda otro robo casi igual de llamativo: la ladrona de quesos del centro",
         "pubDate": "2026-10-14T11:51:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Avanza en el Concejo un proyecto para instalar refugios para repartidores de aplicaciones",
-        "link": "https://www.rosario3.com/informaciongeneral/avanza-en-el-concejo-un-proyecto-para-instalar-refugios-para-repartidores-de-aplicaciones-20261013-0079.html",
-        "image": "https://www.rosario3.com/__export/1791924776250/sites/rosario3/img/2026/10/13/delivery.jpg_1825222445.jpg",
-        "summary": "La comisión de Obras Públicas dio despacho favorable a la iniciativa que propone crear estaciones modulares con espacios de descanso y servicios básicos para los cadetes. El expediente deberá pasar por otras dos comisiones antes de llegar al recinto",
-        "pubDate": "2026-10-13T11:50:00+00:00",
+        "title": "Boca perdió con Vasco da Gama por las semifinales de la Sudamericana y deberá dar vuelta la serie de visitante: ¿en Brasil o Paraguay?",
+        "link": "https://www.rosario3.com/deportes/boca-perdio-con-vasco-da-gama-y-debera-dar-vuelta-la-serie-de-visitante-por-las-semifinales-de-la-copa-sudamericana-en-brasil-o-paraguay-20261014-0003.html",
+        "image": "https://www.rosario3.com/__export/1791974777186/sites/rosario3/img/2026/10/14/boca_vasco_sudamericana.jpg_506286608.jpg",
+        "summary": "El Xeneize perdió 1-0 en La Bombonera por la ida. La revancha será el martes 20 de octubre en sede a confirmar, ya que aún no se determinó si el encuentro será en el Maracaná o en Asunción. El equipo brasileño, que sufrió una expulsión en el segundo tiempo, se impuso con un gol…",
+        "pubDate": "2026-10-14T11:50:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "China respaldó el reclamo de soberanía argentina sobre las islas Malvinas y llamó a resolver la disputa mediante \"negociaciones pacíficas\"",
-        "link": "https://www.rosario3.com/informaciongeneral/china-respaldo-el-reclamo-de-soberania-argentina-sobre-las-islas-malvinas-y-llamo-a-resolver-la-disputa-mediante-negociaciones-pacificas-20261013-0086.html",
-        "image": "https://www.rosario3.com/__export/1791932562235/sites/rosario3/img/2026/10/13/malvinas.jpg_982625323.jpg",
-        "summary": "Durante el debate general sobre descolonización de la Cuarta Comisión de la Asamblea General de la ONU, el embajador y representante permanente adjunto de China ante el organismo, Sun Lei, pidió a Gran Bretaña que responda al reclamo argentino y que acepte negociar cuanto antes",
-        "pubDate": "2026-10-13T11:49:00+00:00",
+        "title": "El clima en Rosario: todos los tonos del gris",
+        "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-todos-los-tonos-del-gris-20261014-0002.html",
+        "image": "https://www.rosario3.com/__export/1791973783668/sites/rosario3/img/2026/10/14/riogris.jpg_928314581.jpg",
+        "summary": "El miércoles despertó gris y fresco. Bancos de niebla cruzaban las calles de la ciudad. A la tarde, levantaría el termómetro un poco, pero llegan los chaparrones a la noche",
+        "pubDate": "2026-10-14T11:49:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Pullaro entregó más $ 1.100 millones a tres instituciones por la recaudación de las entradas de los Juegos Suramericanos",
-        "link": "https://www.rosario3.com/informaciongeneral/pullaro-entrego-mas--1.100-millones-a-tres-instituciones-por-la-recaudacion-de-las-entradas-de-los-juegos-suramericanos-20261013-0084.html",
-        "image": "https://www.rosario3.com/__export/1791929525838/sites/rosario3/img/2026/10/13/reparto_malvinas.jpg_928314580.jpg",
-        "summary": "Los fondos provenientes de la venta anticipada de los accesos se distribuyeron en partes iguales entre Cáritas, Cilsa y la Federación de Veteranos de Guerra de la Provincia, que recibieron cada una $ 394.612.000",
+        "title": "\"Presidente, cumpla la ley\": estudiantes se manifestaron en La Siberia de cara a la Marcha Federal Universitaria",
+        "link": "https://www.rosario3.com/informaciongeneral/presidente-cumpla-la-ley-estudiantes-de-la-unr-se-manifestaron-en-la-siberia-a-dias-de-la-marcha-federal-por-el-financiamiento-universitario-20261013-0088.html",
+        "image": "https://www.rosario3.com/__export/1791938148805/sites/rosario3/img/2026/10/13/unr_fur.jpg_1825222445.jpg",
+        "summary": "Con velas y mensajes dirigidos a Javier Milei, alumnos de distintas facultades realizaron una intervención nocturna en el ingreso al Centro Universitario Rosario. La actividad forma parte de una semana de reclamos que incluye asambleas, clases públicas y jornadas de difusión",
         "pubDate": "2026-10-13T11:48:00+00:00",
         "approxTime": true
       },
@@ -130,15 +130,60 @@
       },
       {
         "source": "Rosario3",
-        "title": "Pamela David reveló el drástico cambio de look que se hizo para una película y no quedó",
-        "link": "https://www.rosario3.com/ocio/pamela-david-revelo-el-drastico-cambio-de-look-que-se-hizo-para-una-pelicula-y-no-quedo-20261014-0012.html",
-        "image": "https://www.rosario3.com/__export/1791980268588/sites/rosario3/img/2026/10/14/pamela_david.jpg_54252853.jpg",
-        "summary": "La conductora recorrió su pasado laboral en la charla con Mario Pergolini en el programa Otro día perdido. Entonces, reveló que cambió rotundamente su imagen para interpretar un personaje, pero el papel se lo dieron a otra persona. Mirá",
+        "title": "Cine fuera de la norma: se viene una nueva edición del Festival Mostra con producciones audiovisuales disidentes",
+        "link": "https://www.rosario3.com/ocio/cine-fuera-de-la-norma-se-viene-una-nueva-edicion-del-festival-mostra-con-producciones-audiovisuales-disidentes-20261014-0013.html",
+        "image": "https://www.rosario3.com/__export/1791982122923/sites/rosario3/img/2026/10/14/fotojet_-_2026-10-14t094500_392_version1791981971991.jpg_1665193838.jpg",
+        "summary": "La programación incluye estrenos y exhibición de corto y largometrajes. Entre las actividades destacadas, la realizadora Albertina Carri presenta su libro Cine Vivo, acompañada de proyecciones de su filmografía. En el segmento Memorias Cuir en VHS, el actor y artivista Omar…",
         "pubDate": "2026-10-14T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "La ópera \"Macbeth\" se presenta por primera vez en Teatro El Círculo",
+        "link": "https://www.lacapital.com.ar/zoom/la-opera-macbeth-se-presenta-primera-vez-teatro-el-circulo-n10286433.html",
+        "image": "https://media.lacapital.com.ar/p/65e19963c8fba14bccfd5a1056bb1de2/adjuntos/203/imagenes/103/467/0103467599/1200x675/smart/image-2026-10-14t100522171.jpg",
+        "summary": "La reconocida pieza de Giuseppe Verdi, en una nueva producción de la Asociación Cultural El Círculo, tendrá tres funciones a fin de octubre",
+        "pubDate": "2026-10-14T12:41:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Negocio dulce: ¿por qué surgen tantas marcas nuevas de alfajores?",
+        "link": "https://www.lacapital.com.ar/negocios/negocio-dulce-por-que-surgen-tantas-marcas-nuevas-alfajores-n10285419.html",
+        "image": "https://media.lacapital.com.ar/p/135c906a8514d4f1ad641a9ca5c1916e/adjuntos/203/imagenes/103/455/0103455238/alfajores-2.jpg",
+        "summary": "Son más de 30 en lo que va de 2026 y hay de todo: marcas nuevas, líneas alternativas de los grandes clásicos y hasta productos patrocinados por artistas famosos",
+        "pubDate": "2026-10-14T12:40:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La despedida de la novia de Locomotora Castro: \"No sabés cuánto te vamos a necesitar\"",
+        "link": "https://www.lacapital.com.ar/ovacion/la-despedida-la-novia-locomotora-castro-no-sabes-cuanto-te-vamos-necesitar-n10286580.html",
+        "image": "https://media.lacapital.com.ar/p/e7046f3fe941cd9f2c1a48f724ee91ce/adjuntos/203/imagenes/103/467/0103467280/1200x675/smart/image-2026-10-14t075418519.png",
+        "summary": "Tras el fallecimiento del excampeón mundial de boxeo, Noelia Vigliarolo lo despidió con un emotivo posteo en redes sociales",
+        "pubDate": "2026-10-14T12:36:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Apropiación de bebés: reprogramaron la declaración indagatoria de la partera Dolly",
+        "link": "https://www.lacapital.com.ar/policiales/apropiacion-bebes-reprogramaron-la-declaracion-indagatoria-la-partera-dolly-n10286578.html",
+        "image": "https://media.lacapital.com.ar/p/b3e1df3a1593ade3e67c0b7aa109b817/adjuntos/203/imagenes/102/838/0102838799/1200x675/smart/tribunales-federales-justicia-federal-rosario.png",
+        "summary": "La audiencia de la obstetra jubilada se postergó el día anterior a la fecha fijada originalmente por la Justicia",
+        "pubDate": "2026-10-14T12:35:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La Orquesta Utópica presenta un espectáculo que pone al tango rosarino en movimiento",
+        "link": "https://www.lacapital.com.ar/zoom/la-orquesta-utopica-presenta-un-espectaculo-que-pone-al-tango-rosarino-movimiento-n10286582.html",
+        "image": "https://media.lacapital.com.ar/p/c77035ff2fe6ad09e9d78298fecf6414/adjuntos/203/imagenes/103/467/0103467423/1200x675/smart/orquesta-utopica.png",
+        "summary": "Música original, canto y danza. La cita es el 15 de octubre en el Centro Cultural Parque de España, con referentes del tango rosarino y bailarines subcampeones mundiales",
+        "pubDate": "2026-10-14T12:34:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Fuerte recorte del FMI a su pronóstico sobre la economía argentina",
@@ -227,51 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/2ac3913282b1a58c21da4d0524c924cd/adjuntos/203/imagenes/103/466/0103466873/nob-kud-82761282.jpg",
         "summary": "La falta de gol no es una problemática nueva en Newell's y en Mendoza pagó caro la ausencia de eficacia, que en cambio tuvo Módica para romper el cero",
         "pubDate": "2026-10-14T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central y un cierre a todo o nada: no tiene las riendas en la mano, pero sí la fusta bajo el brazo",
-        "link": "https://www.lacapital.com.ar/ovacion/central-y-un-cierre-todo-o-nada-no-tiene-las-riendas-la-mano-pero-si-la-fusta-el-brazo-n10286398.html",
-        "image": "https://media.lacapital.com.ar/p/f7527ea4b0f8b8abd1f8c93cb548b73c/adjuntos/203/imagenes/103/465/0103465882/centrassm.jpeg",
-        "summary": "El Canalla busca un gran final en la temporada, en la que una buena sumatoria, por la anual, obligaría a los tres de arriba a lograr también buenos resultados",
-        "pubDate": "2026-10-14T09:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El placer de coincidir: Bebecê celebra el Día de la Madre desde el estilo y la complicidad",
-        "link": "https://www.lacapital.com.ar/novedades/el-placer-coincidir-bebece-celebra-el-dia-la-madre-el-estilo-y-la-complicidad-n10286420.html",
-        "image": "https://media.lacapital.com.ar/p/82b29b11d75c166c277c05aec0e18ba6/adjuntos/203/imagenes/103/465/0103465462/1200x675/smart/image.png",
-        "summary": "La marca de calzado femenino celebra la conexión entre generaciones, el gusto por el diseño y las distintas formas de compartir el estilo.",
-        "pubDate": "2026-10-14T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El tiempo en Rosario: miércoles con chaparrones antes de un jueves con más agua",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-miercoles-chaparrones-antes-un-jueves-mas-agua-n10286559.html",
-        "image": "https://media.lacapital.com.ar/p/cbe4a0662d2b9649f90bebd52ed57777/adjuntos/203/imagenes/103/467/0103467174/2026-10-13-clima-by_smeccia-80794279.jpg",
-        "summary": "La máxima no superaría los 20º y estaría en leve descenso hasta llegar el sábado a 16º",
-        "pubDate": "2026-10-14T02:34:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Red Hot Chili Peppers desmintió que tenga planeado tocar en Rosario",
-        "link": "https://www.lacapital.com.ar/zoom/red-hot-chili-peppers-desmintio-que-tenga-planeado-tocar-rosario-n10286558.html",
-        "image": "https://media.lacapital.com.ar/p/528a215d79365af161861a87401e8920/adjuntos/203/imagenes/103/467/0103467140/1200x675/smart/2026-10-13-rhcp-kiedis-flea.jpg",
-        "summary": "Lo había anunciado Rosario Central en sus redes sociales para junio de 2027 en el Gigante, pero la reacción general fue de incredulidad",
-        "pubDate": "2026-10-14T01:56:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Investigan a dos adolescentes por un robot que manoseó a una chica",
-        "link": "https://www.lacapital.com.ar/informacion-general/investigan-dos-adolescentes-un-robot-que-manoseo-una-chica-n10286557.html",
-        "image": "https://media.lacapital.com.ar/p/b1180a0c21e422805d0775e164f94e81/adjuntos/203/imagenes/103/467/0103467107/2026-10-13-robot-acoso-sexual-alemania.jpg",
-        "summary": "Ocurrió en Alemania. La Policía quiere saber si el robot estaba programado o si los adolescentes lo manejaban y pueden ser denunciados por acoso sexual",
-        "pubDate": "2026-10-14T01:08:00+00:00",
         "approxTime": false
       }
     ]
