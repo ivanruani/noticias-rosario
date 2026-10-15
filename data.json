@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T00:31:01.935841+00:00",
+  "generatedAt": "2026-10-15T01:01:10.024371+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El Quini 6 quedó vacante y un santafesino ganó $52 millones en el Siempre Sale",
+        "link": "https://www.lacapital.com.ar/informacion-general/el-quini-6-quedo-vacante-y-un-santafesino-gano-52-millones-el-siempre-sale-n10286776.html",
+        "image": "https://media.lacapital.com.ar/p/ab6fe365fd1f46ca3b15c45a0bdad7d6/adjuntos/203/imagenes/103/469/0103469977/2026-10-14-quini-6.jpg",
+        "summary": "El sorteo del próximo domingo 18 tendrá un pozo acumulado de $9.100.000.000",
+        "pubDate": "2026-10-15T00:48:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "La Bolsa de Comercio de Rosario cree que El Niño tendrá un impacto \"sectorizado\" en el campo",
         "link": "https://www.lacapital.com.ar/economia/la-bolsa-comercio-rosario-cree-que-el-nino-tendra-un-impacto-sectorizado-el-campo-n10286651.html",
         "image": "https://media.lacapital.com.ar/p/df1d96ecb7241e12e90f1548c4782535/adjuntos/203/imagenes/103/468/0103468294/pablo-bortolato.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/56a484582cca96bd16c97ef494918571/adjuntos/203/imagenes/101/559/0101559097/1200x675/smart/universidadesjpg.jpg",
         "summary": "La sanción es por el incumplimiento de la ley de financiamiento a la educación superior. Se espera una masiva movilización este jueves, tanto en Rosario como frente al Congreso de la Nación",
         "pubDate": "2026-10-14T20:27:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Subasta récord: casi nueve mil inscriptos y controles para excluir a bandas criminales",
-        "link": "https://www.lacapital.com.ar/la-ciudad/subasta-record-casi-nueve-mil-inscriptos-y-controles-excluir-bandas-criminales-n10286726.html",
-        "image": "https://media.lacapital.com.ar/p/1d5dcc796e760f2fc4a55ddf401190e3/adjuntos/203/imagenes/103/469/0103469197/1200x675/smart/image-23.jpg",
-        "summary": "El remate se realizará este viernes y contará con 224 lotes, entre motos, autos, camionetas, lanchas, bicicletas, un inmueble en Rosario y máquinas arcade",
-        "pubDate": "2026-10-14T20:21:00+00:00",
         "approxTime": false
       }
     ]
