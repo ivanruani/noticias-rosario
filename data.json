@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T21:01:13.441221+00:00",
+  "generatedAt": "2026-10-15T21:30:59.855301+00:00",
   "sites": {
     "rosario3": [
       {
@@ -67,19 +67,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "Dolor de cabeza para Almirón: Central pierde a dos futbolistas clave para jugar en Tucumán",
-        "link": "https://www.rosario3.com/deportes/dolor-de-cabeza-para-almiron-central-pierde-a-dos-futbolistas-clave-para-jugar-en-tucuman-20261015-0067.html",
-        "image": "https://www.rosario3.com/__export/1792094661745/sites/rosario3/img/2026/10/15/franco_ibarra.jpg_506286608.jpg",
-        "summary": "En la recta final de la fase regular del torneo Clausura y en medio de la definición por el título de la tabla anual, el Canalla deberá suplir las bajas de Franco Ibarra y Federico Navarro, descartados por distintas molestias. Cómo los puede reemplazar el DT",
+        "title": "Sin su capitán, Newell’s necesita ajustar el foco para quedar cerca de los playoffs",
+        "link": "https://www.rosario3.com/deportes/sin-su-capitan-newells-necesita-ajustar-el-foco-para-quedar-cerca-de-los-playoffs-20261015-0078.html",
+        "image": "https://www.rosario3.com/__export/1777943570249/sites/rosario3/img/2026/05/04/kudelka_newell-s.png_506286608.png",
+        "summary": "El volante Luca Regiardo no jugará el lunes ante Central de Córdoba de Santiago del Estero en el Coloso, por la fecha 13 del torneo Clausura. Tras la derrota en Mendoza con un fallo arbitral que lo perjudicó, el equipo rojinegro buscará volver a ganar en casa",
         "pubDate": "2026-10-15T11:53:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Andres “Chapu” Nocioni protagonizó un accidente de lancha en el Río Paraná",
-        "link": "https://www.rosario3.com/informaciongeneral/andres-chapu-nocioni-protagonizo-un-accidente-de-lancha-en-el-rio-parana-20261015-0048.html",
-        "image": "https://www.rosario3.com/__export/1792082494009/sites/rosario3/img/2026/10/15/nocioni.jpg_928314580.jpg",
-        "summary": "El ex jugador de la generación dorada de básquet viajaba en una lancha particular cuando colisionó contra una embarcación de la Prefectura Naval Argentina",
+        "title": "Dolor de cabeza para Almirón: Central pierde a dos futbolistas clave para jugar en Tucumán",
+        "link": "https://www.rosario3.com/deportes/dolor-de-cabeza-para-almiron-central-pierde-a-dos-futbolistas-clave-para-jugar-en-tucuman-20261015-0067.html",
+        "image": "https://www.rosario3.com/__export/1792094661745/sites/rosario3/img/2026/10/15/franco_ibarra.jpg_506286608.jpg",
+        "summary": "En la recta final de la fase regular del torneo Clausura y en medio de la definición por el título de la tabla anual, el Canalla deberá suplir las bajas de Franco Ibarra y Federico Navarro, descartados por distintas molestias. Cómo los puede reemplazar el DT",
         "pubDate": "2026-10-15T11:52:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,42 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Incidentes frente al Congreso en medio de la Marcha Federal Universitaria",
+        "link": "https://www.lacapital.com.ar/politica/incidentes-frente-al-congreso-medio-la-marcha-federal-universitaria-n10286898.html",
+        "image": "https://media.lacapital.com.ar/p/de0ddc4e8b7693a31141817ed308ae6b/adjuntos/203/imagenes/103/472/0103472008/1200x675/smart/image.png",
+        "summary": "Hubo gases lacrimógenos y camiones hidrantes minutos antes del acto central en la plaza próxima al Parlamento. El gobierno nacional repudió los hechos",
+        "pubDate": "2026-10-15T21:20:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Dos bajas de peso en el mediocampo de Central para lo que vendrá",
+        "link": "https://www.lacapital.com.ar/ovacion/dos-bajas-peso-el-mediocampo-central-lo-que-vendra-n10286912.html",
+        "image": "https://media.lacapital.com.ar/p/9e0a6339889bf741fdf2a3660246a368/adjuntos/203/imagenes/103/471/0103471844/1200x675/smart/image-14.jpg",
+        "summary": "Federico Navarro y Franco Ibarra se perderán el próximo partido y tal vez algunos más. Jorge Almirón se queda sin dos jugadores clave en el medio de Central",
+        "pubDate": "2026-10-15T21:17:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El hermano de Gastón Ávila pagó caro su festejo con Central: apartado en Estudiantes y con futuro incierto",
+        "link": "https://www.lacapital.com.ar/ovacion/el-hermano-gaston-avila-pago-caro-su-festejo-central-apartado-estudiantes-y-futuro-incierto-n10286921.html",
+        "image": "https://media.lacapital.com.ar/p/4a1479672475ad972630da28b45b12e6/adjuntos/203/imagenes/103/471/0103471942/1200x675/smart/imageavila.jpg",
+        "summary": "Franco Domínguez Ávila no volvió a jugar ni a entrenarse con la Reserva del Pincha tras la viralización de una foto celebrando la Supercopa Internacional junto al defensor canalla.",
+        "pubDate": "2026-10-15T21:07:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Debate sobre inteligencia artificial en empresas, trabajo y sociedad llega a Rosario",
+        "link": "https://www.lacapital.com.ar/novedades/debate-inteligencia-artificial-empresas-trabajo-y-sociedad-llega-rosario-n10286920.html",
+        "image": "https://media.lacapital.com.ar/p/88612fe5572c2d39f31c3493acb7d7bc/adjuntos/203/imagenes/103/471/0103471936/1200x675/smart/imagen-nota.jpg",
+        "summary": "La Comunidad BIRRIA y la Fundación para la Democratización de la IA organizan un encuentro gratuito el 21 de octubre en la Bolsa de Comercio, en el marco de Rosario Tech Week 2026",
+        "pubDate": "2026-10-15T21:05:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Reclamos a Grupo Roma: impulsan un sistema de información de loteos en Santa Fe",
         "link": "https://www.lacapital.com.ar/la-ciudad/reclamos-grupo-roma-impulsan-un-sistema-informacion-loteos-santa-fe-n10286842.html",
         "image": "https://media.lacapital.com.ar/p/f6e4c5b74a633392e89c022408d4d607/adjuntos/203/imagenes/103/421/0103421577/1200x675/smart/grupo-roma.jpg",
@@ -173,15 +209,6 @@
         "image": "https://media.lacapital.com.ar/p/0dcc0712806848575c7576e83d0edab2/adjuntos/203/imagenes/023/714/0023714339/1200x675/smart/djangojpg.jpg",
         "summary": "El cantante español, de 86 años, sufrió un cuadro de laringitis que le impide cantar y debió reprogramar el concierto previsto para este viernes en el Teatro El Círculo. Qué pasará con las entradas y cuándo volverá a presentarse en la ciudad.",
         "pubDate": "2026-10-15T20:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Incidentes frente al Congreso en medio de la Marcha Federal Universitaria",
-        "link": "https://www.lacapital.com.ar/politica/incidentes-frente-al-congreso-medio-la-marcha-federal-universitaria-n10286898.html",
-        "image": "https://media.lacapital.com.ar/p/c7d64132a0f9c7d7eca1b42bd56712ac/adjuntos/203/imagenes/103/471/0103471634/1200x675/smart/image.png",
-        "summary": "Hubo gases lacrimógenos y camiones hidrantes minutos antes del acto central en la plaza próxima al Parlamento. El gobierno nacional repudió los hechos",
-        "pubDate": "2026-10-15T19:46:00+00:00",
         "approxTime": false
       },
       {
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/f33304ab352355ffe0dbaff2f0b85f47/adjuntos/203/imagenes/103/471/0103471576/1200x675/smart/image-24.jpg",
         "summary": "Miles de estudiantes, docentes, no docentes y autoridades universitarios recorren las calles de la ciudad para reclamarle al gobierno nacional que cumpla la ley de financiamiento",
         "pubDate": "2026-10-15T19:09:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cambios en la Fórmula 1: Haas anunció quién será su nuevo piloto titular para la temporada 2027",
-        "link": "https://www.lacapital.com.ar/ovacion/cambios-la-formula-1-haas-anuncio-quien-sera-su-nuevo-piloto-titular-la-temporada-2027-n10286859.html",
-        "image": "https://media.lacapital.com.ar/p/be3bbafcf0435f295121986ad4bbaaa1/adjuntos/203/imagenes/103/471/0103471161/1200x675/smart/image-2026-10-15t130337397.png",
-        "summary": "El brasileño de 21 años, Rafael Câmara, llegará a la máxima categoría en reemplazo de Esteban Ocon, donde será compañero de Oliver Bearman",
-        "pubDate": "2026-10-15T19:07:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Los aranceles de las prestaciones para personas con discapacidad aumentan en octubre",
-        "link": "https://www.lacapital.com.ar/informacion-general/los-aranceles-las-prestaciones-personas-discapacidad-aumentan-octubre-n10286866.html",
-        "image": "https://media.lacapital.com.ar/p/81df0bfbf59f361c35374b5448896fd2/adjuntos/203/imagenes/102/528/0102528908/1200x675/smart/discapacidad-2jpg.jpg",
-        "summary": "La suma dispuesta por el gobierno, basada en la inflación de septiembre, se aplicará a todas las prestaciones por igual",
-        "pubDate": "2026-10-15T19:06:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Qué trámites de Anses se pueden realizar de forma virtual",
-        "link": "https://www.lacapital.com.ar/informacion-general/que-tramites-anses-se-pueden-realizar-forma-virtual-n10286886.html",
-        "image": "https://media.lacapital.com.ar/p/44e7b468f4b814c4131593bf77c85038/adjuntos/203/imagenes/101/297/0101297570/1200x675/smart/image-2023-12-29t092450202jpg.jpg",
-        "summary": "El organismo cuenta con un canal de atención virtual desde el cual se pueden realizar distintas gestiones directamente desde el celular o computadora. Qué trámites están habilitados",
-        "pubDate": "2026-10-15T19:06:00+00:00",
         "approxTime": false
       }
     ]
