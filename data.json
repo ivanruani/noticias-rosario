@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-15T00:01:12.702719+00:00",
+  "generatedAt": "2026-10-15T00:31:01.935841+00:00",
   "sites": {
     "rosario3": [
       {
         "source": "Rosario3",
-        "title": "Choque fatal en la autopista a Córdoba, a la altura de Roldán: una mujer murió tras la colisión de una camioneta y un camión",
-        "link": "https://www.rosario3.com/informaciongeneral/choque-fatal-en-la-autopista-a-cordoba-a-la-altura-de-roldan-una-mujer-murio-tras-la-colision-de-una-camioneta-y-un-camion-20261014-0060.html",
-        "image": "https://www.rosario3.com/__export/1792011462581/sites/rosario3/img/2026/10/14/roldan.jpg_1825222445.jpg",
-        "summary": "El siniestro ocurrió este miércoles por la tarde, cerca del cruce con la ruta A012. La víctima viajaba como acompañante en una Renault Oroch. Otras dos personas resultaron heridas y fueron trasladadas para atención médica",
+        "title": "Dos detenidos en V.G.Gálvez por amenazas a un adolescente: secuestraron dos pistolas con numeración suprimida",
+        "link": "https://www.rosario3.com/policiales/dos-detenidos-en-v.g.galvez-por-amenazas-a-un-adolescente-secuestraron-dos-pistolas-con-numeracion-suprimida-20261014-0063.html",
+        "image": "https://www.rosario3.com/__export/1792016187704/sites/rosario3/img/2026/10/14/allanamiento_coronel_aguirre_vgg_pdi_bori_robo_-7-.jpeg_1825222445.jpeg",
+        "summary": "La víctima, de 16 años, denunció que le robaron la bicicleta a punta de pistola y que después recibió amenazas por distintas vías. En la misma causa se investigan dos ataques armados contra viviendas. Una de las pistolas secuestradas tenía la inscripción de la Policía de Buenos…",
         "pubDate": "2026-10-14T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "El Gobierno dio marcha atrás con la venta de tierras a extranjeros y busca evitar que la oposición derogue el DNU 70/23",
+        "link": "https://www.rosario3.com/informaciongeneral/el-gobierno-dio-marcha-atras-con-la-venta-de-tierras-a-extranjeros-y-busca-evitar-que-la-oposicion-derogue-el-dnu-7023-20261014-0069.html",
+        "image": "https://www.rosario3.com/__export/1792022234607/sites/rosario3/img/2026/10/14/diputads.jpg_1825222445.jpg",
+        "summary": "La Libertad Avanza acordó con el PRO y la UCR restablecer los límites a la propiedad rural establecidos en una ley de 2011. La iniciativa obtuvo dictamen en Diputados y será tratada el 21 de octubre, en medio de la disputa parlamentaria por el decreto de desregulación de Javier…",
+        "pubDate": "2026-10-14T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,24 +26,15 @@
         "link": "https://www.rosario3.com/policiales/con-un-vw-gol-robado-y-adulterado-cayeron-por-un-raid-de-robos-con-inhibidores-20261014-0059.html",
         "image": "https://www.rosario3.com/__export/1792011365350/sites/rosario3/img/2026/10/14/detenidos_achira_robo_inhibidores.jpeg_1825222445.jpeg",
         "summary": "Días atrás, dos rosarinos fueron imputados por hurtos en Fisherton, Roldán y Cañada de Gómez. Los investigan por sustraer dinero, cheques, herramientas y otros elementos de camionetas. El auto que utilizaban había sido robado en Ciudad Evita y tenía los números de motor y chasis…",
-        "pubDate": "2026-10-14T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El Índice de Incertidumbre Económica de septiembre alcanzó el nivel más alto de 2026, según la UCA",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/el-indice-de-incertidumbre-economica-de-septiembre-alcanzo-el-nivel-mas-alto-de-2026-segun-la-uca-20261014-0058.html",
-        "image": "https://www.rosario3.com/__export/1792009260570/sites/rosario3/img/2026/10/14/fila.jpg_1768679258.jpg",
-        "summary": "El indicador mostró un deterioro el mes pasado, de la mano de datos negativos en las principales variables",
         "pubDate": "2026-10-14T11:58:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Se realizará la sexta subasta de bienes incautados al delito y aseguran que será la más grande desde la creación de la Aprad",
-        "link": "https://www.rosario3.com/informaciongeneral/se-realizara-la-sexta-subasta-de-bienes-incautados-al-delito-y-aseguran-que-sera-la-mas-grande-desde-la-creacion-de-la-aprad-20261014-0043.html",
-        "image": "https://www.rosario3.com/__export/1791997129126/sites/rosario3/img/2026/10/14/bienes-incautados-3.jpg_928314580.jpg",
-        "summary": "Este viernes rematarán 224 lotes en la Estación Belgrano. Durante este miércoles se exhibieron 15 vehículos y dos lanchas en la cabecera oeste del Puente Colgante que también se podrán visitar durante el jueves y el dìa de la subasta",
+        "title": "Choque fatal en la autopista a Córdoba, a la altura de Roldán: una mujer murió tras la colisión de una camioneta y un camión",
+        "link": "https://www.rosario3.com/informaciongeneral/choque-fatal-en-la-autopista-a-cordoba-a-la-altura-de-roldan-una-mujer-murio-tras-la-colision-de-una-camioneta-y-un-camion-20261014-0060.html",
+        "image": "https://www.rosario3.com/__export/1792011462581/sites/rosario3/img/2026/10/14/roldan.jpg_1825222445.jpg",
+        "summary": "El siniestro ocurrió este miércoles por la tarde, cerca del cruce con la ruta A012. La víctima viajaba como acompañante en una Renault Oroch. Otras dos personas resultaron heridas y fueron trasladadas para atención médica",
         "pubDate": "2026-10-14T11:57:00+00:00",
         "approxTime": true
       },
@@ -94,19 +94,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "Franco Colapinto le pidió a sus seguidores que dejen de enviar mensajes de odio a sus compañeros y rivales: \"No me ayudan\"",
-        "link": "https://www.rosario3.com/deportes/franco-colapinto-le-pidio-a-sus-seguidores-que-dejen-de-enviar-mensajes-de-odio-a-sus-companeros-y-rivales-no-me-ayudan-20261014-0062.html",
-        "image": "https://www.rosario3.com/__export/1792015409188/sites/rosario3/img/2026/10/14/colapinto.jpg_982625323.jpg",
-        "summary": "El piloto argentino hizo un posteo en redes sociales para expresar su preocupación por la actitud de quienes atacan a otros pilotos, compañeros de equipo, ingenieros y mecánicos de Alpine mediante redes sociales. “Se que están pensando que me están defendiendo pero están…",
+        "title": "River no pudo con Sarmiento en Junín y sigue afuera de la zona de playoffs",
+        "link": "https://www.rosario3.com/deportes/river-visita-a-sarmiento-en-junin-con-la-obligacion-de-ganar-para-meterse-en-zona-de-playoffs-20261014-0066.html",
+        "image": "https://www.rosario3.com/__export/1792022947252/sites/rosario3/img/2026/10/14/river.jpg_928314580.jpg",
+        "summary": "El Millonario arrancó perdiendo por el gol de Contrera y le anularon un tanto por una polémica mano de Vera, pero Montiel consiguió el empate tras un buen pase de Almada. Por ahora, los de Ponzio están en zona de Sudamericana en la tabla anual. El Verde de Junín, por su parte…",
         "pubDate": "2026-10-14T11:50:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "River visita a Sarmiento en Junín con la obligación de ganar para meterse en zona de playoffs",
-        "link": "https://www.rosario3.com/deportes/river-visita-a-sarmiento-en-junin-con-la-obligacion-de-ganar-para-meterse-en-zona-de-playoffs-20261014-0066.html",
-        "image": "https://www.rosario3.com/__export/1792016037051/sites/rosario3/img/2026/10/14/beltram.jpg_928314581.jpg",
-        "summary": "El Millonario enfrenta este miércoles al Verde, en un partido pendiente de la fecha 11 del Torneo Clausura. El equipo de Leonardo Ponzio viene de ganarle a Estudiantes de Río Cuarto, pero necesita sumar de a tres para escalar en la Zona B. Los dirigidos por Facundo Sava llegan…",
+        "title": "Franco Colapinto le pidió a sus seguidores que dejen de enviar mensajes de odio a sus compañeros y rivales: \"No me ayudan\"",
+        "link": "https://www.rosario3.com/deportes/franco-colapinto-le-pidio-a-sus-seguidores-que-dejen-de-enviar-mensajes-de-odio-a-sus-companeros-y-rivales-no-me-ayudan-20261014-0062.html",
+        "image": "https://www.rosario3.com/__export/1792015409188/sites/rosario3/img/2026/10/14/colapinto.jpg_982625323.jpg",
+        "summary": "El piloto argentino hizo un posteo en redes sociales para expresar su preocupación por la actitud de quienes atacan a otros pilotos, compañeros de equipo, ingenieros y mecánicos de Alpine mediante redes sociales. “Se que están pensando que me están defendiendo pero están…",
         "pubDate": "2026-10-14T11:49:00+00:00",
         "approxTime": true
       },
@@ -121,24 +121,42 @@
       },
       {
         "source": "Rosario3",
-        "title": "Abrieron las compuertas de la represa de Itaipú y Yacyretá y cierran las visitas por la crecida del Paraná",
-        "link": "https://www.rosario3.com/informaciongeneral/abrieron-las-compuertas-de-la-represa-de-itaipu-y-yacyreta-y-cierran-las-visitas-por-la-crecida-del-parana-20261014-0049.html",
-        "image": "https://www.rosario3.com/__export/1792004019099/sites/rosario3/img/2026/10/14/yacyreta.jpg_982625323.jpg",
-        "summary": "A raíz del impacto del fenómeno de El Niño en la región, la Entidad Binacional Yacyretá (EBY) suspendió las visitas turísticas y técnicas por razones de seguridad, y también comunicó que el paso fronterizo entre Paraguay y Argentina sobre el coronamiento de la Central…",
+        "title": "El Índice de Incertidumbre Económica de septiembre alcanzó el nivel más alto de 2026, según la UCA",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/el-indice-de-incertidumbre-economica-de-septiembre-alcanzo-el-nivel-mas-alto-de-2026-segun-la-uca-20261014-0058.html",
+        "image": "https://www.rosario3.com/__export/1792009260570/sites/rosario3/img/2026/10/14/fila.jpg_1768679258.jpg",
+        "summary": "El indicador mostró un deterioro el mes pasado, de la mano de datos negativos en las principales variables",
         "pubDate": "2026-10-14T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Investigan intento de femicidio en Baigorria: el estado de salud de la joven quemada y su bebé",
-        "link": "https://www.rosario3.com/informaciongeneral/investigan-intento-de-femicidio-en-baigorria-el-estado-de-salud-de-la-joven-quemada-y-su-bebe-20261014-0031.html",
-        "image": "https://www.rosario3.com/__export/1774006875678/sites/rosario3/img/2026/01/18/policrinico_eva_perxn_5_1.jpg_1825222445.jpg",
-        "summary": "Desde Salud provincial cofirmaron que la mujer de 29 años sigue con estado reservado. La criatura que nació ayer tras una cesárea practicada fue extubada y permanece estable",
+        "title": "Se realizará la sexta subasta de bienes incautados al delito y aseguran que será la más grande desde la creación de la Aprad",
+        "link": "https://www.rosario3.com/informaciongeneral/se-realizara-la-sexta-subasta-de-bienes-incautados-al-delito-y-aseguran-que-sera-la-mas-grande-desde-la-creacion-de-la-aprad-20261014-0043.html",
+        "image": "https://www.rosario3.com/__export/1791997129126/sites/rosario3/img/2026/10/14/bienes-incautados-3.jpg_928314580.jpg",
+        "summary": "Este viernes rematarán 224 lotes en la Estación Belgrano. Durante este miércoles se exhibieron 15 vehículos y dos lanchas en la cabecera oeste del Puente Colgante que también se podrán visitar durante el jueves y el dìa de la subasta",
         "pubDate": "2026-10-14T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "La Bolsa de Comercio de Rosario cree que El Niño tendrá un impacto \"sectorizado\" en el campo",
+        "link": "https://www.lacapital.com.ar/economia/la-bolsa-comercio-rosario-cree-que-el-nino-tendra-un-impacto-sectorizado-el-campo-n10286651.html",
+        "image": "https://media.lacapital.com.ar/p/df1d96ecb7241e12e90f1548c4782535/adjuntos/203/imagenes/103/468/0103468294/pablo-bortolato.jpg",
+        "summary": "El presidente de la entidad, Pablo Bortolato, dijo que la expectativa por el fenómeno climático ha cambiado",
+        "pubDate": "2026-10-15T00:06:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Rugby: Santiago Casals, 250 batallas en el pecho y el legado de Tatá en las venas",
+        "link": "https://www.lacapital.com.ar/ovacion/rugby-santiago-casals-250-batallas-el-pecho-y-el-legado-tata-las-venas-n10286757.html",
+        "image": "https://media.lacapital.com.ar/p/ecea8173b04692cde58cb3ece30625f5/adjuntos/203/imagenes/103/469/0103469676/rug-cas-01-82766697.jpg",
+        "summary": "El tercera línea de Atlético del Rosario alcanzó la marca de 250 partidos jugados en primera división",
+        "pubDate": "2026-10-15T00:04:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "La Corte y el Ministerio Público presentaron sus planteos sobre la reforma de seguridad",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/1d5dcc796e760f2fc4a55ddf401190e3/adjuntos/203/imagenes/103/469/0103469197/1200x675/smart/image-23.jpg",
         "summary": "El remate se realizará este viernes y contará con 224 lotes, entre motos, autos, camionetas, lanchas, bicicletas, un inmueble en Rosario y máquinas arcade",
         "pubDate": "2026-10-14T20:21:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Juegos Suramericanos: Cáritas, Cilsa y veteranos de guerra recibieron $ 1.100 millones de la venta de entradas",
-        "link": "https://www.lacapital.com.ar/juegos-suramericanos-caritas-cilsa-y-veteranos-guerra-recibieron-1100-millones-la-venta-entradas-n10286712.html",
-        "image": "https://media.lacapital.com.ar/p/993688648cbd0a6ad7a2ba532fb1366b/adjuntos/203/imagenes/103/469/0103469104/1200x675/smart/veteranos-guerra-la-provincia.jpg",
-        "summary": "El gobernador entregó este miércoles los fondos que permitirán fortalecer el trabajo social de las organizaciones",
-        "pubDate": "2026-10-14T20:20:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La Asociación Médica de Rosario adhiere a la Marcha Federal Universitaria",
-        "link": "https://www.lacapital.com.ar/politica/la-asociacion-medica-rosario-adhiere-la-marcha-federal-universitaria-n10286715.html",
-        "image": "https://media.lacapital.com.ar/p/b0f8b371c2c23866d379d72e7500d2b0/adjuntos/203/imagenes/103/086/0103086949/1200x675/830x360:850x380/unr-marcha-universitaria-financiamiento-universitario.png",
-        "summary": "“Somos profesionales formados en la universidad pública y compartimos sus valores igualitarios\", sostuvo Dardo Dorato, secretario general de la entidad",
-        "pubDate": "2026-10-14T20:20:00+00:00",
         "approxTime": false
       }
     ]
