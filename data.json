@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T12:31:00.583648+00:00",
+  "generatedAt": "2026-10-15T13:01:12.026562+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,11 +13,20 @@
       },
       {
         "source": "Rosario3",
-        "title": "Fuerte debate en Santa Fe por la reforma de seguridad y los límites del accionar policial",
-        "link": "https://www.rosario3.com/informaciongeneral/fuerte-debate-en-santa-fe-por-la-reforma-de-seguridad-y-los-limites-del-accionar-policial-20261015-0008.html",
-        "image": "https://www.rosario3.com/__export/1792062398424/sites/rosario3/img/2026/10/15/cortelegislatura.jpg_928314581.jpg",
-        "summary": "El proyecto enviado por el gobierno provincial para fortalecer la seguridad pública y combatir el crimen organizado comenzó a debatirse en la Cámara baja. Durante un plenario de comisiones, la diputada Lionela Catalini destacó el diálogo institucional, pero el ministro de la…",
+        "title": "Por qué el pullarismo se convirtió en aliado clave del mileísmo para blindar el DNU 70/23",
+        "link": "https://www.rosario3.com/politica/por-que-el-pullarismo-se-convirtio-en-aliado-clave-del-mileismo-para-blindar-el-dnu-7023-20261015-0019.html",
+        "image": "https://www.rosario3.com/__export/1771618683905/sites/rosario3/img/2026/02/20/jose_nuxez_-_diputado_freidora_de_aire.png_928314580.png",
+        "summary": "Al oficialismo le faltaba un voto para sacar el dictamen que repone la ley de tierras dentro del proyecto de inviolabilidad a la ley de propiedad privada y apareció una firma santafesina",
         "pubDate": "2026-10-15T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Por primera vez, una empresaria mujer presidirá la Asociación de Industriales Metalúrgicos de Rosario",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/por-primera-vez-una-empresaria-mujer-presidira-la-asociacion-de-industriales-metalurgicos-de-rosario-20261015-0016.html",
+        "image": "https://www.rosario3.com/__export/1792065639945/sites/rosario3/img/2026/10/15/aim.jpg_1515390669.jpg",
+        "summary": "Jorgelina Gonano, de Aberturas Inducor, asumió la presidencia en reemplazo de Rafael Catalano de una de las principales entidades corporativas de la ciudad",
+        "pubDate": "2026-10-15T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,25 +35,25 @@
         "link": "https://www.rosario3.com/informaciongeneral/anses-anuncio-cambios-para-el-pago-de-la-asignacion-por-embarazo-20261015-0014.html",
         "image": "https://www.rosario3.com/__export/1792065149592/sites/rosario3/img/2024/05/24/anses.jpg_928314581.jpg",
         "summary": "El organismo implementará un sistema de acreditación automática y mensual mediante el intercambio de información con el ministerio de Salud. Si los datos no están disponibles o la titular presenta un reclamo, podrá presentar documentación respaldatoria",
-        "pubDate": "2026-10-15T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Claves del día: Grupo 83 amplía la marca de Messi, Mercado Libre, constructores buscan un frente y AIM estrena presidenta | Ecos365",
-        "link": "https://www.rosario3.com/ecos365/noticias/claves-del-dia-grupo-83-amplia-la-marca-de-messi-mercado-libre-constructores-buscan-un-frente-y-aim-estrena-presidenta-20261015-0001.html",
-        "image": "https://www.rosario3.com/__export/1792059311790/sites/rosario3/img/2026/10/15/claves_del_dxa_15_de_octubre_de_2026.png_446026524.png",
-        "summary": "Mercado Libre acelera contra Kavak, los negocios con Messi suman presencia y los constructores locales buscan un frente para impulsar inversiones. Una mujer hace historia en AIM, mientras Caputo gana plazo y una causa judicial sacude al negocio portuario",
         "pubDate": "2026-10-15T11:57:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "El Paraná continuará en ascenso frente a Rosario: qué prevén los informes oficiales para los próximos meses",
-        "link": "https://www.rosario3.com/informaciongeneral/el-parana-continuara-en-ascenso-frente-a-rosario-que-preven-los-informes-oficiales-para-los-proximos-meses-20261014-0067.html",
-        "image": "https://www.rosario3.com/__export/1792017250615/sites/rosario3/img/2026/10/14/rio_parana1.jpg_1825222445.jpg",
-        "summary": "La altura del río se ubica en torno a los 3,34 metros y podría alcanzar los 4,50 hacia fines de octubre, según un reporte de Prefectura. Mientras tanto, el Instituto Nacional del Agua advierte sobre posibles niveles de alerta y evacuación en localidades del norte del Litoral…",
-        "pubDate": "2026-10-14T11:56:00+00:00",
+        "title": "Fuerte debate en Santa Fe por la reforma de seguridad y los límites del accionar policial",
+        "link": "https://www.rosario3.com/informaciongeneral/fuerte-debate-en-santa-fe-por-la-reforma-de-seguridad-y-los-limites-del-accionar-policial-20261015-0008.html",
+        "image": "https://www.rosario3.com/__export/1792062398424/sites/rosario3/img/2026/10/15/cortelegislatura.jpg_928314581.jpg",
+        "summary": "El proyecto enviado por el gobierno provincial para fortalecer la seguridad pública y combatir el crimen organizado comenzó a debatirse en la Cámara baja. Durante un plenario de comisiones, la diputada Lionela Catalini destacó el diálogo institucional, pero el ministro de la…",
+        "pubDate": "2026-10-15T11:56:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "El roldanense Manuel Paniagua se consagró campeón en Salta y quedó segundo en el ranking sudamericano Sub 16 con 14 años",
+        "link": "https://www.rosario3.com/deportes/el-roldanense-manuel-paniagua-se-consagro-campeon-en-salta-y-quedo-segundo-en-el-ranking-sudamericano-sub-16-con-14-anos-20261015-0015.html",
+        "image": "https://www.rosario3.com/__export/1792065162579/sites/rosario3/img/2026/10/15/manu_paniagua.jpg_2106848869.jpg",
+        "summary": "El joven tenista cerró la primera parte de la gira sudamericana con un título en la Copa Argentina y dos semifinales. Además, ocupa el primer puesto del ranking Cosat Sub 14 y fue convocado para representar a Sudamérica en la Copa América, en Estados Unidos",
+        "pubDate": "2026-10-15T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -53,16 +62,7 @@
         "link": "https://www.rosario3.com/ocio/noche-de-gala-en-el-primer-martin-fierro-de-la-musica-abel-pintos-de-oro-platino-para-pimpinela-y-tributo-a-charly-la-mona-y-palito-20261015-0002.html",
         "image": "https://www.rosario3.com/__export/1792056532972/sites/rosario3/img/2026/10/15/image_-26-.jpg_928314580.jpg",
         "summary": "Este miércoles por la noche se realizó la primera entrega a lo mejor de la música nacional. La celebración incluyó el debut del galardón 'Leyenda de leyendas' para Charly García, un inesperado premio para Wanda Nara y los shows en vivo de Los Palmeras, Emanero y Malena Narvay…",
-        "pubDate": "2026-10-15T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El Gobierno dio marcha atrás con la venta de tierras a extranjeros y busca evitar que la oposición derogue el DNU 70/23",
-        "link": "https://www.rosario3.com/informaciongeneral/el-gobierno-dio-marcha-atras-con-la-venta-de-tierras-a-extranjeros-y-busca-evitar-que-la-oposicion-derogue-el-dnu-7023-20261014-0069.html",
-        "image": "https://www.rosario3.com/__export/1792022234607/sites/rosario3/img/2026/10/14/diputads.jpg_1825222445.jpg",
-        "summary": "La Libertad Avanza acordó con el PRO y la UCR restablecer los límites a la propiedad rural establecidos en una ley de 2011. La iniciativa obtuvo dictamen en Diputados y será tratada el 21 de octubre, en medio de la disputa parlamentaria por el decreto de desregulación de Javier…",
-        "pubDate": "2026-10-14T11:54:00+00:00",
+        "pubDate": "2026-10-15T11:54:00+00:00",
         "approxTime": true
       },
       {
@@ -85,11 +85,29 @@
       },
       {
         "source": "Rosario3",
+        "title": "El Gobierno dio marcha atrás con la venta de tierras a extranjeros y busca evitar que la oposición derogue el DNU 70/23",
+        "link": "https://www.rosario3.com/informaciongeneral/el-gobierno-dio-marcha-atras-con-la-venta-de-tierras-a-extranjeros-y-busca-evitar-que-la-oposicion-derogue-el-dnu-7023-20261014-0069.html",
+        "image": "https://www.rosario3.com/__export/1792022234607/sites/rosario3/img/2026/10/14/diputads.jpg_1825222445.jpg",
+        "summary": "La Libertad Avanza acordó con el PRO y la UCR restablecer los límites a la propiedad rural establecidos en una ley de 2011. La iniciativa obtuvo dictamen en Diputados y será tratada el 21 de octubre, en medio de la disputa parlamentaria por el decreto de desregulación de Javier…",
+        "pubDate": "2026-10-14T11:51:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "El clima en Rosario: dónde estás, primavera, que no te podemos encontrar",
         "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-donde-estas-primavera-que-no-te-podemos-encontrar-20261015-0001.html",
         "image": "https://www.rosario3.com/__export/1792055964921/sites/rosario3/img/2025/05/15/parguas.jpg_1109350390.jpg",
         "summary": "El Servicio Meteorológico Nacional anticipa otra jornada gris y fresca en la ciudad, con probables chaparrones hacia la tarde y la noche",
-        "pubDate": "2026-10-15T11:51:00+00:00",
+        "pubDate": "2026-10-15T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Claves del día: Grupo 83 amplía la marca de Messi, Mercado Libre, constructores buscan un frente y AIM estrena presidenta | Ecos365",
+        "link": "https://www.rosario3.com/ecos365/noticias/claves-del-dia-grupo-83-amplia-la-marca-de-messi-mercado-libre-constructores-buscan-un-frente-y-aim-estrena-presidenta-20261015-0001.html",
+        "image": "https://www.rosario3.com/__export/1792059311790/sites/rosario3/img/2026/10/15/claves_del_dxa_15_de_octubre_de_2026.png_446026524.png",
+        "summary": "Mercado Libre acelera contra Kavak, los negocios con Messi suman presencia y los constructores locales buscan un frente para impulsar inversiones. Una mujer hace historia en AIM, mientras Caputo gana plazo y una causa judicial sacude al negocio portuario",
+        "pubDate": "2026-10-15T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -98,7 +116,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/juicio-por-la-muerte-de-maradona-burlando-pidio-hasta-15-anos-de-prision-para-los-acusados-20261014-0070.html",
         "image": "https://www.rosario3.com/__export/1792025842286/sites/rosario3/img/2026/10/14/burlando.jpg_1825222445.jpg",
         "summary": "Los abogados de Dalma y Gianinna Maradona solicitaron la pena más alta para el neurocirujano Leopoldo Luque. También reclamaron condenas para otros cinco imputados y la absolución del médico Pedro Di Spagna. La próxima semana comenzarán los alegatos de las defensas",
-        "pubDate": "2026-10-14T11:50:00+00:00",
+        "pubDate": "2026-10-14T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -107,38 +125,29 @@
         "link": "https://www.rosario3.com/policiales/un-joven-fue-asesinado-a-balazos-en-zona-sur-y-otro-hombre-resulto-herido-20261014-0071.html",
         "image": "https://www.rosario3.com/__export/1792029214524/sites/rosario3/img/2026/10/14/patricias_arg.jpg_1825222445.jpg",
         "summary": "El ataque ocurrió en Patricias Argentinas al 4300, donde dos sujetos que circulaban en moto abrieron fuego contra la víctima y escaparon. Una segunda persona, de 37 años, recibió un disparo en un brazo a los pocos metros",
-        "pubDate": "2026-10-14T11:49:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Dos detenidos en V.G.Gálvez por amenazas a un adolescente: secuestraron dos pistolas con numeración suprimida",
-        "link": "https://www.rosario3.com/policiales/dos-detenidos-en-v.g.galvez-por-amenazas-a-un-adolescente-secuestraron-dos-pistolas-con-numeracion-suprimida-20261014-0063.html",
-        "image": "https://www.rosario3.com/__export/1792016187704/sites/rosario3/img/2026/10/14/allanamiento_coronel_aguirre_vgg_pdi_bori_robo_-7-.jpeg_1825222445.jpeg",
-        "summary": "La víctima, de 16 años, denunció que le robaron la bicicleta a punta de pistola y que después recibió amenazas por distintas vías. En la misma causa se investigan dos ataques armados contra viviendas. Una de las pistolas secuestradas tenía la inscripción de la Policía de Buenos…",
-        "pubDate": "2026-10-14T11:48:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Toma activa en facultades de la UNR y protesta estudiantil de cara a la marcha federal",
-        "link": "https://www.rosario3.com/informaciongeneral/toma-en-humanidades-de-rosario-y-protesta-estudiantil-con-clases-publicas-al-mediodia-20261014-0011.html",
-        "image": "https://www.rosario3.com/__export/1791983150593/sites/rosario3/img/2026/10/14/fachumanidades.jpg_928314581.jpg",
-        "summary": "Humanidades y Ciencia Política mantienen ocupaciones 'sin suspensión de clases ni exámenes'. Exigen financiamiento universitario y actualización de becas. Anuncian detalles de la movilización de este jueves en Rosario",
         "pubDate": "2026-10-14T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "“Bad Bitch es un himno”: la emoción de Wanda Nara al ser premiada en los Martín Fierro de la Música",
-        "link": "https://www.rosario3.com/ocio/bad-bitch-es-un-himno-la-emocion-de-wanda-nara-al-ser-premiada-en-los-martin-fierro-de-la-musica-20261015-0003.html",
-        "image": "https://www.rosario3.com/__export/1792057448677/sites/rosario3/img/2026/10/15/image_-27-.jpg_928314582.jpg",
-        "summary": "La mediática subió al escenario para recibir el reconocimiento a Canción Viral, por su hit debut en el estreno este miércoles porla noche de los premios que organiza Aptra",
-        "pubDate": "2026-10-15T11:46:00+00:00",
+        "title": "El Paraná continuará en ascenso frente a Rosario: qué prevén los informes oficiales para los próximos meses",
+        "link": "https://www.rosario3.com/informaciongeneral/el-parana-continuara-en-ascenso-frente-a-rosario-que-preven-los-informes-oficiales-para-los-proximos-meses-20261014-0067.html",
+        "image": "https://www.rosario3.com/__export/1792017250615/sites/rosario3/img/2026/10/14/rio_parana1.jpg_1825222445.jpg",
+        "summary": "La altura del río se ubica en torno a los 3,34 metros y podría alcanzar los 4,50 hacia fines de octubre, según un reporte de Prefectura. Mientras tanto, el Instituto Nacional del Agua advierte sobre posibles niveles de alerta y evacuación en localidades del norte del Litoral…",
+        "pubDate": "2026-10-14T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Se viene \"Desafío Técnico\", donde los jóvenes transforman ideas en soluciones para la comunidad",
+        "link": "https://www.lacapital.com.ar/la-region/se-viene-desafio-tecnico-donde-los-jovenes-transforman-ideas-soluciones-la-comunidad-n10286802.html",
+        "image": "https://media.lacapital.com.ar/p/dd57c6871e39850862bf63f4d79d2fe7/adjuntos/203/imagenes/103/470/0103470459/1200x675/smart/desafio-tecnico1.jpeg",
+        "summary": "Estudiantes de cuatro escuelas técnicas del departamento Constitución presentarán proyectos tecnológicos pensados para resolver problemáticas concretas",
+        "pubDate": "2026-10-15T12:35:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Franco Colapinto pidió frenar los mensajes de odio en redes: \"Tenemos que mejorar como sociedad\"",
@@ -262,15 +271,6 @@
         "link": "https://www.lacapital.com.ar/ovacion/a-maradona-lo-sacaron-del-mundial-teniamos-un-equipazo-n10284444.html",
         "image": "https://media.lacapital.com.ar/p/7e2c6a89dfe73e9c8936a3eb36b51861/adjuntos/203/imagenes/103/469/0103469410/1200x675/smart/_1360062jpg.jpeg",
         "summary": "En \"diez al toque\", Pepe Basualdo no dudó en opinar sobre lo sucedido en Estados Unidos 1994 porque Argentina era plena candidata a jugar la final",
-        "pubDate": "2026-10-15T09:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central: además de la goleada, la yapa que encontró de cara a la recta final de la temporada",
-        "link": "https://www.lacapital.com.ar/ovacion/central-ademas-la-goleada-la-yapa-que-encontro-cara-la-recta-final-la-temporada-n10286594.html",
-        "image": "https://media.lacapital.com.ar/p/b18cb237efa0c6b14759a610bb4ce34f/adjuntos/203/imagenes/103/470/0103470254/1200x675/smart/goles-canallas.jpg",
-        "summary": "El Canalla no sólo fortaleció al ánimo y encontró su mejor juego, sino que después de mucho tiempo se les abrió el arco a los centrodelanteros",
         "pubDate": "2026-10-15T09:00:00+00:00",
         "approxTime": false
       }
