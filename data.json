@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T01:31:03.004922+00:00",
+  "generatedAt": "2026-10-15T02:01:17.917457+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Fin de un ícono turístico de Nueva York: prohibirán los carruajes tirados por caballos",
+        "link": "https://www.lacapital.com.ar/informacion-general/fin-un-icono-turistico-nueva-york-prohibiran-los-carruajes-tirados-caballos-n10286781.html",
+        "image": "https://media.lacapital.com.ar/p/1354ebcefaf9c48b03d96cf81f31b886/adjuntos/203/imagenes/103/470/0103470044/2026-10-14-caballos-nueva-york.jpg",
+        "summary": "Ya hay un acuerdo entre el alcalde y la presidenta del Concejo Municipal para que el servicio deje de funcionar a partir de junio de 2028",
+        "pubDate": "2026-10-15T01:46:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Asociación Rosarina de Fútbol: Club del Gran Rosario ascendió al círculo superior",
         "link": "https://www.lacapital.com.ar/ovacion/asociacion-rosarina-futbol-club-del-gran-rosario-ascendio-al-circulo-superior-n10286761.html",
         "image": "https://media.lacapital.com.ar/p/827dc642b11f44e2a2b4b5200cd05b7b/adjuntos/203/imagenes/103/469/0103469692/1200x675/smart/image-2026-10-14t193138386.png",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/effd4a860f89343001afddba4bfdbd3f/adjuntos/203/imagenes/103/469/0103469186/reserva3.jpg",
         "summary": "El Canalla igualó 1 a 1 y dejó escapar la chance de subirse a lo más alto de la tabla. Igualmente se mantiene entre los cuatro primeros del grupo",
         "pubDate": "2026-10-14T20:59:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Crecen las dificultades para pagar deudas: la radiografía nacional y de Santa Fe",
-        "link": "https://www.lacapital.com.ar/economia/crecen-las-dificultades-pagar-deudas-la-radiografia-nacional-y-santa-fe-n10286721.html",
-        "image": "https://media.lacapital.com.ar/p/6ef4f93c893e8b7b71c789c015159ae5/adjuntos/203/imagenes/103/151/0103151903/1200x675/727x205:747x225/deudas-135.jpg",
-        "summary": "La morosidad acumula 22 meses consecutivos de aumento, detalló un informe elaborado por la Universidad Austral y EcoGo. Las dificultades de pago alcanzan al 23,9% de los santafesinos",
-        "pubDate": "2026-10-14T20:28:00+00:00",
         "approxTime": false
       }
     ]
