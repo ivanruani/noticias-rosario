@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-15T12:01:14.495622+00:00",
+  "generatedAt": "2026-10-15T12:31:00.583648+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Rosario se suma a la Marcha Federal Universitaria: cuándo, dónde y por qué es la movilización",
+        "link": "https://www.rosario3.com/informaciongeneral/rosario-se-suma-a-la-marcha-federal-universitaria-cuando-donde-y-por-que-es-la-movilizacion-20261015-0018.html",
+        "image": "https://www.rosario3.com/__export/1792066414562/sites/rosario3/img/2026/10/15/universidad1.jpg_928314581.jpg",
+        "summary": "Este jueves tiene lugar la quinta Marcha Federal Universitaria en las principales ciudades del país y Rosario adhiere. La concentración es a las 15.30 en la plaza San Martín y el recorrido termina en el Monumento a la Bandera. Crónica del conflicto con el gobierno nacional por…",
+        "pubDate": "2026-10-15T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Fuerte debate en Santa Fe por la reforma de seguridad y los límites del accionar policial",
         "link": "https://www.rosario3.com/informaciongeneral/fuerte-debate-en-santa-fe-por-la-reforma-de-seguridad-y-los-limites-del-accionar-policial-20261015-0008.html",
         "image": "https://www.rosario3.com/__export/1792062398424/sites/rosario3/img/2026/10/15/cortelegislatura.jpg_928314581.jpg",
         "summary": "El proyecto enviado por el gobierno provincial para fortalecer la seguridad pública y combatir el crimen organizado comenzó a debatirse en la Cámara baja. Durante un plenario de comisiones, la diputada Lionela Catalini destacó el diálogo institucional, pero el ministro de la…",
-        "pubDate": "2026-10-15T12:00:00+00:00",
+        "pubDate": "2026-10-15T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/anses-anuncio-cambios-para-el-pago-de-la-asignacion-por-embarazo-20261015-0014.html",
         "image": "https://www.rosario3.com/__export/1792065149592/sites/rosario3/img/2024/05/24/anses.jpg_928314581.jpg",
         "summary": "El organismo implementará un sistema de acreditación automática y mensual mediante el intercambio de información con el ministerio de Salud. Si los datos no están disponibles o la titular presenta un reclamo, podrá presentar documentación respaldatoria",
-        "pubDate": "2026-10-15T11:59:00+00:00",
+        "pubDate": "2026-10-15T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,16 +35,7 @@
         "link": "https://www.rosario3.com/ecos365/noticias/claves-del-dia-grupo-83-amplia-la-marca-de-messi-mercado-libre-constructores-buscan-un-frente-y-aim-estrena-presidenta-20261015-0001.html",
         "image": "https://www.rosario3.com/__export/1792059311790/sites/rosario3/img/2026/10/15/claves_del_dxa_15_de_octubre_de_2026.png_446026524.png",
         "summary": "Mercado Libre acelera contra Kavak, los negocios con Messi suman presencia y los constructores locales buscan un frente para impulsar inversiones. Una mujer hace historia en AIM, mientras Caputo gana plazo y una causa judicial sacude al negocio portuario",
-        "pubDate": "2026-10-15T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El Gobierno dio marcha atrás con la venta de tierras a extranjeros y busca evitar que la oposición derogue el DNU 70/23",
-        "link": "https://www.rosario3.com/informaciongeneral/el-gobierno-dio-marcha-atras-con-la-venta-de-tierras-a-extranjeros-y-busca-evitar-que-la-oposicion-derogue-el-dnu-7023-20261014-0069.html",
-        "image": "https://www.rosario3.com/__export/1792022234607/sites/rosario3/img/2026/10/14/diputads.jpg_1825222445.jpg",
-        "summary": "La Libertad Avanza acordó con el PRO y la UCR restablecer los límites a la propiedad rural establecidos en una ley de 2011. La iniciativa obtuvo dictamen en Diputados y será tratada el 21 de octubre, en medio de la disputa parlamentaria por el decreto de desregulación de Javier…",
-        "pubDate": "2026-10-14T11:57:00+00:00",
+        "pubDate": "2026-10-15T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -58,10 +58,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Un joven fue asesinado a balazos en zona sur y otro hombre resultó herido",
-        "link": "https://www.rosario3.com/policiales/un-joven-fue-asesinado-a-balazos-en-zona-sur-y-otro-hombre-resulto-herido-20261014-0071.html",
-        "image": "https://www.rosario3.com/__export/1792029214524/sites/rosario3/img/2026/10/14/patricias_arg.jpg_1825222445.jpg",
-        "summary": "El ataque ocurrió en Patricias Argentinas al 4300, donde dos sujetos que circulaban en moto abrieron fuego contra la víctima y escaparon. Una segunda persona, de 37 años, recibió un disparo en un brazo a los pocos metros",
+        "title": "El Gobierno dio marcha atrás con la venta de tierras a extranjeros y busca evitar que la oposición derogue el DNU 70/23",
+        "link": "https://www.rosario3.com/informaciongeneral/el-gobierno-dio-marcha-atras-con-la-venta-de-tierras-a-extranjeros-y-busca-evitar-que-la-oposicion-derogue-el-dnu-7023-20261014-0069.html",
+        "image": "https://www.rosario3.com/__export/1792022234607/sites/rosario3/img/2026/10/14/diputads.jpg_1825222445.jpg",
+        "summary": "La Libertad Avanza acordó con el PRO y la UCR restablecer los límites a la propiedad rural establecidos en una ley de 2011. La iniciativa obtuvo dictamen en Diputados y será tratada el 21 de octubre, en medio de la disputa parlamentaria por el decreto de desregulación de Javier…",
         "pubDate": "2026-10-14T11:54:00+00:00",
         "approxTime": true
       },
@@ -85,20 +85,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "El Autódromo Gálvez superó el 60 por ciento de las obras y avanza hacia el regreso del MotoGP",
-        "link": "https://www.rosario3.com/deportes/el-autodromo-galvez-supero-el-60-por-ciento-de-las-obras-y-avanza-hacia-el-regreso-del-motogp-20261015-0005.html",
-        "image": "https://www.rosario3.com/__export/1792060835811/sites/rosario3/img/2026/10/15/autodromo_galvez.jpg_928314493.jpg",
-        "summary": "Uno de los principales avances se concentra en las pruebas de pavimentación de la pista, una etapa clave para garantizar que el trazado cumpla con los estándares técnicos de las grandes categorías del automovilismo y el motociclismo mundial. “Estamos poniendo al Autódromo a la…",
-        "pubDate": "2026-10-15T11:51:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
         "title": "El clima en Rosario: dónde estás, primavera, que no te podemos encontrar",
         "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-donde-estas-primavera-que-no-te-podemos-encontrar-20261015-0001.html",
         "image": "https://www.rosario3.com/__export/1792055964921/sites/rosario3/img/2025/05/15/parguas.jpg_1109350390.jpg",
         "summary": "El Servicio Meteorológico Nacional anticipa otra jornada gris y fresca en la ciudad, con probables chaparrones hacia la tarde y la noche",
-        "pubDate": "2026-10-15T11:50:00+00:00",
+        "pubDate": "2026-10-15T11:51:00+00:00",
         "approxTime": true
       },
       {
@@ -107,6 +98,15 @@
         "link": "https://www.rosario3.com/informaciongeneral/juicio-por-la-muerte-de-maradona-burlando-pidio-hasta-15-anos-de-prision-para-los-acusados-20261014-0070.html",
         "image": "https://www.rosario3.com/__export/1792025842286/sites/rosario3/img/2026/10/14/burlando.jpg_1825222445.jpg",
         "summary": "Los abogados de Dalma y Gianinna Maradona solicitaron la pena más alta para el neurocirujano Leopoldo Luque. También reclamaron condenas para otros cinco imputados y la absolución del médico Pedro Di Spagna. La próxima semana comenzarán los alegatos de las defensas",
+        "pubDate": "2026-10-14T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Un joven fue asesinado a balazos en zona sur y otro hombre resultó herido",
+        "link": "https://www.rosario3.com/policiales/un-joven-fue-asesinado-a-balazos-en-zona-sur-y-otro-hombre-resulto-herido-20261014-0071.html",
+        "image": "https://www.rosario3.com/__export/1792029214524/sites/rosario3/img/2026/10/14/patricias_arg.jpg_1825222445.jpg",
+        "summary": "El ataque ocurrió en Patricias Argentinas al 4300, donde dos sujetos que circulaban en moto abrieron fuego contra la víctima y escaparon. Una segunda persona, de 37 años, recibió un disparo en un brazo a los pocos metros",
         "pubDate": "2026-10-14T11:49:00+00:00",
         "approxTime": true
       },
@@ -121,10 +121,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "La Justicia impuso multas diarias de $100.000 al jefe de Gabinete por incumplir la ley de Financiamiento Universitario",
-        "link": "https://www.rosario3.com/informaciongeneral/la-justicia-impuso-multas-diarias-de-100.000-al-jefe-de-gabinete-por-incumplir-la-ley-de-financiamiento-universitario-20261014-0050.html",
-        "image": "https://www.rosario3.com/__export/1792007327779/sites/rosario3/img/2026/10/14/marcha.jpg_1768679257.jpg",
-        "summary": "El juez Martín Cormick advirtió un incumplimiento y dispuso sanciones económicas diarias contra Diego Santilli. La medida busca garantizar la resolución judicial. Además, se presentó una denuncia penal contra el presidente Javier Milei y el ministro de Economía, Luis Caputo, por…",
+        "title": "Toma activa en facultades de la UNR y protesta estudiantil de cara a la marcha federal",
+        "link": "https://www.rosario3.com/informaciongeneral/toma-en-humanidades-de-rosario-y-protesta-estudiantil-con-clases-publicas-al-mediodia-20261014-0011.html",
+        "image": "https://www.rosario3.com/__export/1791983150593/sites/rosario3/img/2026/10/14/fachumanidades.jpg_928314581.jpg",
+        "summary": "Humanidades y Ciencia Política mantienen ocupaciones 'sin suspensión de clases ni exámenes'. Exigen financiamiento universitario y actualización de becas. Anuncian detalles de la movilización de este jueves en Rosario",
         "pubDate": "2026-10-14T11:47:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,24 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Franco Colapinto pidió frenar los mensajes de odio en redes: \"Tenemos que mejorar como sociedad\"",
+        "link": "https://www.lacapital.com.ar/ovacion/franco-colapinto-pidio-frenar-los-mensajes-odio-redes-tenemos-que-mejorar-como-sociedad-n10286803.html",
+        "image": "https://media.lacapital.com.ar/p/8e65f7f46491cf5797fd9d51a9ebd99e/adjuntos/203/imagenes/103/470/0103470280/1200x675/smart/image-2026-10-15t083959441.png",
+        "summary": "El argentino agradeció el apoyo de sus fanáticos, pero advirtió sobre las consecuencias que pueden generar esos ataques contra otros corredores y su equipo",
+        "pubDate": "2026-10-15T12:13:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Violenta pelea familiar terminó con un hombre apuñalado en el cuello por su hijo",
+        "link": "https://www.lacapital.com.ar/policiales/violenta-pelea-familiar-termino-un-hombre-apunalado-el-cuello-su-hijo-n10286799.html",
+        "image": "https://media.lacapital.com.ar/p/12a93500d42a31f258ddbb1c05e26fc3/adjuntos/203/imagenes/103/470/0103470256/1200x675/smart/pelea-villa-gobernador-galvez.jpg",
+        "summary": "El incidente sucedió el miércoles a la noche en Villa Gobernador Gálvez. La víctima está internada en el Hospital Gamen y el agresor quedó detenido",
+        "pubDate": "2026-10-15T12:10:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Quini 6 vacante: cuántos millones se llevaron los ganadores del Siempre Sale",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/b18cb237efa0c6b14759a610bb4ce34f/adjuntos/203/imagenes/103/470/0103470254/1200x675/smart/goles-canallas.jpg",
         "summary": "El Canalla no sólo fortaleció al ánimo y encontró su mejor juego, sino que después de mucho tiempo se les abrió el arco a los centrodelanteros",
         "pubDate": "2026-10-15T09:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Asesinaron a balazos a un hombre en la zona de Ayacucho y Uriburu",
-        "link": "https://www.lacapital.com.ar/policiales/asesinaron-balazos-un-hombre-la-zona-ayacucho-y-uriburu-n10286784.html",
-        "image": "https://media.lacapital.com.ar/p/4d8d4778e681d1bb3145b003137fd8ed/adjuntos/203/imagenes/103/470/0103470112/2026-10-14-policia-crimen-02.jpg",
-        "summary": "Fue atacada desde una moto. Otra persona que estaba en la cuadra resultó herida en un brazo",
-        "pubDate": "2026-10-15T02:54:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El tiempo en Rosario: jueves con neblinas y algunas chances de chaparrones",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-jueves-neblinas-y-algunas-chances-chaparrones-n10286783.html",
-        "image": "https://media.lacapital.com.ar/p/85c8f629070c7fbae361ddfa312e47db/adjuntos/203/imagenes/103/470/0103470090/2026-10-14-clima-by_cmutti-80077790.jpg",
-        "summary": "El viernes habría poco cambio en las condiciones y para el sábado se anuncia un descenso en la temperatura",
-        "pubDate": "2026-10-15T02:34:00+00:00",
         "approxTime": false
       }
     ]
