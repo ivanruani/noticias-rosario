@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-15T16:31:05.888075+00:00",
+  "generatedAt": "2026-10-15T17:01:19.142374+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Bartolacci avaló más auditorías a universidades pero advirtió sobre el presupuesto 2027",
+        "link": "https://www.rosario3.com/informaciongeneral/franco-bartolacci-avalo-mas-auditorias-a-universidades-pero-advirtio-sobre-el-presupuesto-2027-20261015-0044.html",
+        "image": "https://www.rosario3.com/__export/1792080623982/sites/rosario3/img/2022/04/14/02bartolacci.jpg_566798741.jpg",
+        "summary": "El rector de la UNR y presidente del Consejo Interuniversitario Nacional habló en la previa de la marcha federal y tras los nuevos lineamientos del Gobierno. Defendió los controles vigentes, respaldó mayores exigencias de transparencia y alertó sobre la proyección económica para…",
+        "pubDate": "2026-10-15T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Javkin: “Si no es hoy será en las próximas semanas, pero la ciudad va a tener legalizadas las aplicaciones”",
         "link": "https://www.rosario3.com/informaciongeneral/javkin-si-no-es-hoy-sera-en-las-proximas-semanas-pero-la-ciudad-va-a-tener-legalizadas-las-aplicaciones-20261015-0043.html",
         "image": "https://www.rosario3.com/__export/1792079292705/sites/rosario3/img/2026/10/15/concejouber1.jpg_928314581.jpg",
         "summary": "El intendente se refirió al tratamiento en el Concejo de la normativa para regular plataformas de viajes. Remarcó la importancia de garantizar la seguridad de los pasajeros y nivelar las condiciones para los taxistas. El debate clave entre comisiones buscará unificar los…",
-        "pubDate": "2026-10-15T12:00:00+00:00",
+        "pubDate": "2026-10-15T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,15 +26,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/en-la-previa-a-la-marcha-federal-el-gobierno-definio-nuevos-lineamientos-para-auditar-las-cuentas-de-las-universidades-nacionales-20261015-0029.html",
         "image": "https://www.rosario3.com/__export/1792072439128/sites/rosario3/img/2026/07/20/universidades.jpg_1768679257.jpg",
         "summary": "La Sindicatura General de la Nación aprobó pautas para las auditorías internas del ejercicio 2027. Los controles abarcarán presupuestos, contrataciones, salarios, transferencias y rendiciones de fondos, entre otras áreas, en medio del conflicto por el financiamiento universitario",
-        "pubDate": "2026-10-15T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Un motociclista herido en fuerte choque en Mendoza y Carriego",
-        "link": "https://www.rosario3.com/informaciongeneral/un-motociclista-herido-en-fuerte-choque-en-mendoza-y-carriego-20261015-0037.html",
-        "image": "https://www.rosario3.com/__export/1792077811624/sites/rosario3/img/2026/10/15/moto_accidentada_carrieog_y_mendoza.jpg_243282455.jpg",
-        "summary": "Un muchacho se estrelló este jueves por la mañana contra un árbol cuando, con su moto, intentó esquivar en la esquina a un automovilista que, de acuerdo a testigos, hizo caso omiso al cartel de Pare. Está internado en el Heca",
         "pubDate": "2026-10-15T11:58:00+00:00",
         "approxTime": true
       },
@@ -58,11 +58,29 @@
       },
       {
         "source": "Rosario3",
+        "title": "Trump dio marcha atrás y el Pentágono no transmitirá la ejecución por fusilamiento de Nidal Malik Hasan",
+        "link": "https://www.rosario3.com/informaciongeneral/trump-dio-marcha-atras-y-el-pentagono-no-transmitira-la-ejecucion-por-fusilamiento-de-nidal-malik-hasan-20261015-0046.html",
+        "image": "https://www.rosario3.com/__export/1791563584056/sites/rosario3/img/2026/10/09/diseno-sin-titulo-5.jpg_928314580.jpg",
+        "summary": "El presidente de Estados Unidos descartó emitir en directo el ajusticiamiento del expsiquiatra militar, condenado por matar a 13 personas y herir a otras 32 en una base de Texas en 2009. La ejecución sigue prevista para el 3 de diciembre",
+        "pubDate": "2026-10-15T11:54:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Andres “Chapu” Nocioni protagonizó un accidente de lancha en el Río Paraná",
+        "link": "https://www.rosario3.com/informaciongeneral/andres-chapu-nocioni-protagonizo-un-accidente-de-lancha-en-el-rio-parana-20261015-0048.html",
+        "image": "https://www.rosario3.com/__export/1792082494009/sites/rosario3/img/2026/10/15/nocioni.jpg_928314580.jpg",
+        "summary": "El ex jugador de la generación dorada de básquet viajaba en una lancha particular cuando colisionó contra una embarcación de la Prefectura Naval Argentina",
+        "pubDate": "2026-10-15T11:53:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Marcos Rojo no fue autorizado para jugar la semifinal de la Copa Libertadores ante Flamengo: Estudiantes irá al TAS",
         "link": "https://www.rosario3.com/deportes/marcos-rojo-no-fue-autorizado-para-jugar-la-semifinal-de-la-copa-libertadores-ante-flamengo-estudiantes-ira-al-tas-20261015-0039.html",
         "image": "https://www.rosario3.com/__export/1792077631174/sites/rosario3/img/2026/10/15/marcos-rojo.jpg_928314580.jpg",
         "summary": "La Conmebol rechazó el pedido del equipo argentino luego de su incorporación al plantel. El Pincha juega ante el Fla este jueves a partir de las 21.30",
-        "pubDate": "2026-10-15T11:54:00+00:00",
+        "pubDate": "2026-10-15T11:52:00+00:00",
         "approxTime": true
       },
       {
@@ -71,16 +89,7 @@
         "link": "https://www.rosario3.com/ocio/narda-lepes-en-la-feria-del-libro-de-rosario-la-reticencia-de-los-chicos-a-probar-cosas-nuevas-es-construida-20261015-0032.html",
         "image": "https://www.rosario3.com/__export/1792075430686/sites/rosario3/img/2026/10/15/narda_lepes_version1792075430221.jpg_1753201588.jpg",
         "summary": "La reconocida cocinera presenta su nuevo libro, “Viandas, recetas e ideas para llevar con vos”, este jueves a las 19, en el Auditorio Angélica Gorodischer. En diálogo con Radio 2, derribó mitos sobre la “falta de tiempo” para cocinar, reflexionó acerca de la alimentación de los…",
-        "pubDate": "2026-10-15T11:53:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Feria Internacional del Libro de Rosario 2026: todas las actividades de este jueves",
-        "link": "https://www.rosario3.com/ocio/feria-internacional-del-libro-de-rosario-2026-todas-las-actividades-de-este-jueves-20261013-0039.html",
-        "image": "https://www.rosario3.com/__export/1791904927543/sites/rosario3/img/2026/10/13/dsc03335.jpg_2106848869.jpg",
-        "summary": "El Cultural Fontanarrosa (San Martín 1080) abre sus puertas de 13 a 22. Gratis, con gestión previa del código QR",
-        "pubDate": "2026-10-13T11:52:00+00:00",
+        "pubDate": "2026-10-15T11:51:00+00:00",
         "approxTime": true
       },
       {
@@ -89,7 +98,16 @@
         "link": "https://www.rosario3.com/informaciongeneral/rosario-se-suma-a-la-marcha-federal-universitaria-cuando-donde-y-por-que-es-la-movilizacion-20261015-0018.html",
         "image": "https://www.rosario3.com/__export/1792066414562/sites/rosario3/img/2026/10/15/universidad1.jpg_928314581.jpg",
         "summary": "Este jueves tiene lugar la quinta Marcha Federal Universitaria en las principales ciudades del país y Rosario adhiere. La concentración es a las 15.30 en la plaza San Martín y el recorrido termina en el Monumento a la Bandera. Crónica del conflicto con el gobierno nacional por…",
-        "pubDate": "2026-10-15T11:51:00+00:00",
+        "pubDate": "2026-10-15T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Lisandro Martínez argumentó sus potentes declaraciones luego de perder ante el Atlético Madrid por Champions League",
+        "link": "https://www.rosario3.com/deportes/lisandro-martinez-argumento-sus-potentes-declaraciones-luego-de-perder-ante-el-atletico-madrid-por-champions-league-20261015-0045.html",
+        "image": "https://www.rosario3.com/__export/1792079442183/sites/rosario3/img/2026/10/15/lisandro-martxnez.jpg_928314580.jpg",
+        "summary": "El defensor de la selección argentina manifestó que lo que dijo post partido fueron producto del enojo y la frustración por la derrota ante el equipo dirigido por el Cholo Simeone",
+        "pubDate": "2026-10-15T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -98,25 +116,16 @@
         "link": "https://www.rosario3.com/policiales/balacera-a-la-salida-del-boliche-liberaron-a-los-dos-detenidos-con-un-arma-y-se-concentran-ahora-en-dar-con-el-tirador-20261015-0035.html",
         "image": "https://www.rosario3.com/__export/1791912604349/sites/rosario3/img/2026/10/13/picaro.jpg_928314580.jpg",
         "summary": "El caso, que ocurrió el sábado pasado en inmediaciones de Urquiza entre Moreno y Dorrego, tuvo en sus inicios a dos aprehendidos con una pistola calibre 9 milímetros. Sin embargo, quedaron en libertad tras una serie de medidas. El muchacho que efectuó los disparos, que quedó…",
-        "pubDate": "2026-10-15T11:50:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El Gobierno lanzó un plan para prevenir infartos y ACV y actualizó la lista de medicamentos esenciales",
-        "link": "https://www.rosario3.com/informaciongeneral/el-gobierno-lanzo-un-plan-para-prevenir-infartos-y-acv-y-actualizo-la-lista-de-medicamentos-esenciales-20261015-0020.html",
-        "image": "https://www.rosario3.com/__export/1792068511630/sites/rosario3/img/2026/10/15/enfermedades_cardiovasculares_.png_928314580.png",
-        "summary": "El Ministerio de Salud aprobó una estrategia nacional hasta 2030 para reducir las enfermedades cardiovasculares y renovó el listado de medicamentos de referencia para la atención primaria. Incluye seis principios activos, entre ellos aspirina y dos fármacos para controlar el…",
-        "pubDate": "2026-10-15T11:49:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Brasil impulsa la producción nacional de videojuegos con financiamiento estatal y nuevo marco legal",
-        "link": "https://www.rosario3.com/tecnologia/brasil-impulsa-la-produccion-nacional-de-videojuegos-con-financiamiento-estatal-y-nuevo-marco-legal-20261015-0028.html",
-        "image": "https://www.rosario3.com/__export/1786808942728/sites/rosario3/img/2026/08/15/suramericanos-esports.jpg_928314580.jpg",
-        "summary": "Un decreto de Lula da Silva reconoce a los títulos de consola como obras audiovisuales, abre líneas de crédito y busca posicionar al país en un mercado local de 115 millones de usuarios",
         "pubDate": "2026-10-15T11:48:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Un motociclista herido en fuerte choque en Mendoza y Carriego",
+        "link": "https://www.rosario3.com/informaciongeneral/un-motociclista-herido-en-fuerte-choque-en-mendoza-y-carriego-20261015-0037.html",
+        "image": "https://www.rosario3.com/__export/1792077811624/sites/rosario3/img/2026/10/15/moto_accidentada_carrieog_y_mendoza.jpg_243282455.jpg",
+        "summary": "Un muchacho se estrelló este jueves por la mañana contra un árbol cuando, con su moto, intentó esquivar en la esquina a un automovilista que, de acuerdo a testigos, hizo caso omiso al cartel de Pare. Está internado en el Heca",
+        "pubDate": "2026-10-15T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,15 +134,6 @@
         "link": "https://www.rosario3.com/politica/por-que-el-pullarismo-se-convirtio-en-aliado-clave-del-mileismo-para-blindar-el-dnu-7023-20261015-0019.html",
         "image": "https://www.rosario3.com/__export/1771618683905/sites/rosario3/img/2026/02/20/jose_nuxez_-_diputado_freidora_de_aire.png_928314580.png",
         "summary": "Al oficialismo le faltaba un voto para sacar el dictamen que repone la ley de tierras dentro del proyecto de inviolabilidad a la ley de propiedad privada y apareció una firma santafesina",
-        "pubDate": "2026-10-15T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Por primera vez, una empresaria mujer presidirá la Asociación de Industriales Metalúrgicos de Rosario",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/por-primera-vez-una-empresaria-mujer-presidira-la-asociacion-de-industriales-metalurgicos-de-rosario-20261015-0016.html",
-        "image": "https://www.rosario3.com/__export/1792070098991/sites/rosario3/img/2026/10/15/5c70aa2d-6dd2-4ec5-843d-fc5aa7f46327.jpg_1825222507.jpg",
-        "summary": "Jorgelina Gonano, de Aberturas Inducor, asumió la presidencia en reemplazo de Rafael Catalano de una de las principales entidades corporativas de la ciudad",
         "pubDate": "2026-10-15T11:46:00+00:00",
         "approxTime": true
       }
