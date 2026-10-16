@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T18:30:59.002730+00:00",
+  "generatedAt": "2026-10-16T19:01:10.269629+00:00",
   "sites": {
     "rosario3": [
       {
@@ -130,15 +130,33 @@
       },
       {
         "source": "Rosario3",
-        "title": "Destruyó los plantines de El Aura, quedó grabado y fue detenido",
-        "link": "https://www.rosario3.com/informaciongeneral/destruyo-los-plantines-de-el-aura-quedo-grabado-y-fue-detenido-20261016-0028.html",
-        "image": "https://www.rosario3.com/__export/1792158888858/sites/rosario3/img/2026/10/16/vandalismo_aura.jpg_928314581.jpg",
-        "summary": "Cámaras de videovigilancia captaron el acto de vandalismo de parte de un joven de 32 años que destrozó los panes de vegetación y los conductos de riego. “Es un acto estúpido que repudiamos, iremos fuerte con Código de Convivencia”, sostuvo Luciano Marelli, secretario de Ambiente…",
+        "title": "Naufragio en Fray Luis Beltrán: “Se agarraron al casco pero los llevó la corriente y pedían auxilio”",
+        "link": "https://www.rosario3.com/informaciongeneral/naufragio-en-fray-luis-beltran-se-agarraron-al-casco-pero-los-llevo-la-corriente-y-pedian-auxilio-20261016-0027.html",
+        "image": "https://www.rosario3.com/__export/1792157567002/sites/rosario3/img/2026/10/16/naufragiofliares.jpg_928314581.jpg",
+        "summary": "La cuñada de uno de los tres hombres que son buscados tras caerse anoche al Paraná, contó que habló con quien pudo salir a flote y ser rescatado. Prefectura y Policía mantenían una búsqueda intensa en la zona",
         "pubDate": "2026-10-16T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Milei finalizó su viaje a Estados Unidos y ya prepara su inminente visita a España",
+        "link": "https://www.lacapital.com.ar/politica/milei-finalizo-su-viaje-estados-unidos-y-ya-prepara-su-inminente-visita-espana-n10287102.html",
+        "image": "https://media.lacapital.com.ar/p/b874de2119a822d83fae9674967d3c34/adjuntos/203/imagenes/103/473/0103473984/1200x675/smart/jm1.jpg",
+        "summary": "Asimismo, el presidente tiene previsto desembarcar la semana próxima en Neuquén y Catamarca",
+        "pubDate": "2026-10-16T18:48:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Horacio Marín en Rosario: \"YPF es la argentinidad al palo\"",
+        "link": "https://www.lacapital.com.ar/economia/horacio-marin-rosario-ypf-es-la-argentinidad-al-palo-n10287106.html",
+        "image": "https://media.lacapital.com.ar/p/cd679d51828d4fce8d1f3d350ad46a33/adjuntos/203/imagenes/103/473/0103473983/1200x675/smart/marin272.jpg",
+        "summary": "El presidente de la petrolera nacional dio una charla abierta de dos horas en la Bolsa de Comercio. Contó los proyectos para escalar la operación en Vaca Muerta y exportar gas licuado. Aseguró que Santa Fe Bio comenzará a exportar SAF en 2030 y defendió el \"efecto derrame\" de la…",
+        "pubDate": "2026-10-16T18:48:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Charla abierta en el Sindicato de Prensa: \"Periodistas frente a la Inteligencia Artificial\"",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/81d303f9cbb0d3807d60f051efe85e2f/adjuntos/203/imagenes/103/473/0103473421/1200x675/smart/el-chofer-que-murio-intentar-rescatar-las-ninas-desaparecidas-el-temporal-bahia-blanca-43.png",
         "summary": "En medio de los rumores sobre los motivos de la separación, la cantante se expresó en redes sociales y aclaró la situación",
         "pubDate": "2026-10-16T16:56:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Netflix ya estrenó \"Lo dejamos acá\", la película con Darín y Peretti",
-        "link": "https://www.lacapital.com.ar/zoom/netflix-ya-estreno-lo-dejamos-aca-la-pelicula-darin-y-peretti-n10287061.html",
-        "image": "https://media.lacapital.com.ar/p/b41a84e0d94a92affaf77c2631be6479/adjuntos/203/imagenes/102/427/0102427884/1200x675/smart/darin-y-perettijpeg.jpeg",
-        "summary": "El drama psicológico, dirigido por Hernán Goldfrid, está cargado de tensiones y dilemas morales. Todos los detalles de su trama",
-        "pubDate": "2026-10-16T16:54:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Los deudores alimentarios de la provincia de Santa Fe pronto no podrán ir a la cancha",
-        "link": "https://www.lacapital.com.ar/la-ciudad/los-deudores-alimentarios-la-provincia-santa-fe-pronto-no-podran-ir-la-cancha-n10287010.html",
-        "image": "https://media.lacapital.com.ar/p/5e050fc97f479eff8e15c8a79aae069e/adjuntos/203/imagenes/103/473/0103473105/tribuna-segura.jpg",
-        "summary": "Avanza en la Legislatura un nuevo registro que incorporará automáticamente a quienes deben pagar una cuota mensual fijada por la Justicia para aplicar sanciones si no cumplen",
-        "pubDate": "2026-10-16T15:53:00+00:00",
         "approxTime": false
       }
     ]
