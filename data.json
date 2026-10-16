@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T11:01:17.131232+00:00",
+  "generatedAt": "2026-10-16T11:15:12.731671+00:00",
   "sites": {
     "rosario3": [
       {
@@ -94,11 +94,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "La selección argentina se enfrentará a Uruguay y Costa Rica en la fecha FIFA de noviembre",
+        "link": "https://www.rosario3.com/deportes/la-seleccion-argentina-se-enfrentara-a-uruguay-y-costa-rica-en-la-fecha-fifa-de-noviembre-20261016-0008.html",
+        "image": "https://www.rosario3.com/__export/1784646906208/sites/rosario3/img/2026/07/21/scaloni-avion-jpg-277165558_-1-.jpg_1221028662.jpg",
+        "summary": "El cambio de planes por parte de la Asociación del Fútbol Argentino (AFA) se dio por la caída de la gira por Asia, en la cual la Albiceleste se iba a enfrentar a Arabia Saudita e India. Los detalles",
+        "pubDate": "2026-10-16T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Estudiantes igualó sin goles ante Flamengo y definirá el pase a la final de la Libertadores en el Maracaná",
         "link": "https://www.rosario3.com/deportes/estudiantes-igualo-sin-goles-ante-flamengo-y-definira-el-pase-a-la-final-de-la-libertadores-en-el-maracana-20261016-0004.html",
         "image": "https://www.rosario3.com/__export/1792143803678/sites/rosario3/img/2026/10/16/00024956-01_-1-.jpg_57945781.jpg",
         "summary": "La vuelta de la semifinal se jugará el próximo jueves 22, a las 21.30",
-        "pubDate": "2026-10-16T11:50:00+00:00",
+        "pubDate": "2026-10-16T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -107,16 +116,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/la-masoneria-argentina-y-la-facultad-de-humanidades-y-artes-crean-una-catedra-de-librepensamiento-20261016-0009.html",
         "image": "https://www.rosario3.com/__export/1792147106633/sites/rosario3/img/2026/10/16/masoneria.jpg_928314581.jpg",
         "summary": "Este viernes a las 18, la Gran Logia de la Argentina de Libres y Aceptados Masones y la Facultad de Humanidades y Artes firmarán el acuerdo que permitirá poner en marcha, durante el segundo semestre de 2027, la propuesta académica. De qué se trata",
-        "pubDate": "2026-10-16T11:49:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Industria en retroceso: según el Indec, cuatro de cada diez máquinas continuaron paradas en agosto",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/industria-en-retroceso-segun-el-indec-cuatro-de-cada-diez-maquinas-continuaron-paradas-en-agosto-20261015-0074.html",
-        "image": "https://www.rosario3.com/__export/1792100188142/sites/rosario3/img/2026/10/15/industria.jpg_1768679258.jpg",
-        "summary": "Los productos de metalmecánica excepto automotores tuvieron un parate más importante, en torno al 64,1%, debido a los menores niveles de producción de maquinaria agropecuaria y de aparatos de uso doméstico",
-        "pubDate": "2026-10-15T11:48:00+00:00",
+        "pubDate": "2026-10-16T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -130,10 +130,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Por qué el pullarismo se convirtió en aliado clave del mileísmo para blindar el DNU 70/23",
-        "link": "https://www.rosario3.com/politica/por-que-el-pullarismo-se-convirtio-en-aliado-clave-del-mileismo-para-blindar-el-dnu-7023-20261015-0019.html",
-        "image": "https://www.rosario3.com/__export/1771618683905/sites/rosario3/img/2026/02/20/jose_nuxez_-_diputado_freidora_de_aire.png_928314580.png",
-        "summary": "Al oficialismo le faltaba un voto para sacar el dictamen que repone la ley de tierras dentro del proyecto de inviolabilidad a la ley de propiedad privada y apareció una firma santafesina",
+        "title": "La oposición no llegó al quórum para derogar el DNU 70: gobernadores aliados aportaron ausencias clave",
+        "link": "https://www.rosario3.com/politica/la-oposicion-no-llego-al-quorum-para-derogar-el-dnu-70-gobernadores-aliados-aportaron-ausencias-clave-20261015-0068.html",
+        "image": "https://www.rosario3.com/__export/1792091595877/sites/rosario3/img/2026/10/15/congreso.jpg_1768679258.jpg",
+        "summary": "En la previa de la sesión el oficialismo jugó fuerte para blindar el mega decreto que desreguló amplios sectores de la economía. Las ausencias que terminaron de inclinar la balanza fueron los santafesinos Gisela Scaglia y José Nuñez. Los libertarios incluyeron límites a la venta…",
         "pubDate": "2026-10-15T11:46:00+00:00",
         "approxTime": true
       }
