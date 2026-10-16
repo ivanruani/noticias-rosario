@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T22:31:05.608913+00:00",
+  "generatedAt": "2026-10-16T22:47:17.519647+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,33 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El riesgo país cerró otra semana en alza y ya subió un 50% en noventa días",
+        "link": "https://www.lacapital.com.ar/economia/el-riesgo-pais-cerro-otra-semana-alza-y-ya-subio-un-50-noventa-dias-n10287150.html",
+        "image": "https://media.lacapital.com.ar/p/494f13edafb7b7a67793b60ca9b5e5e5/adjuntos/203/imagenes/103/310/0103310427/1200x675/1489x650:1509x670/dolares.jpeg",
+        "summary": "Sigue el castigo sobre los bonos soberanos argentinos. El gobierno informó el superávit fiscal de septiembre. La inflación mayorista escaló al 3,2%, por los precios del combustible",
+        "pubDate": "2026-10-16T22:42:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Crecen las consultas por seguros contra inundaciones en Rosario ante la llegada de El Niño",
+        "link": "https://www.lacapital.com.ar/la-ciudad/crecen-las-consultas-seguros-contra-inundaciones-rosario-la-llegada-el-nino-n10286853.html",
+        "image": "https://media.lacapital.com.ar/p/23a9d5c8a5658b68cd9b6f0b0198c707/adjuntos/203/imagenes/103/471/0103471138/1200x675/smart/inundacines.png",
+        "summary": "Las eventuales lluvias intensas activaron acciones preventivas entre los rosarinos, que buscan cobertura. Qué contemplan las pólizas y cómo prepararse ante las tormentas",
+        "pubDate": "2026-10-16T22:32:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Los concentrados en Central: un jugador que vuelve y tiene chances de ser titular",
+        "link": "https://www.lacapital.com.ar/ovacion/los-concentrados-central-un-jugador-que-vuelve-y-tiene-chances-ser-titular-n10287016.html",
+        "image": "https://media.lacapital.com.ar/p/89f45b23ac0cc8394dc0bd1f817e926e/adjuntos/203/imagenes/103/473/0103473082/alanssm.jpg",
+        "summary": "Frente a las bajas de Franco Ibarra y Federico Navarro, Almirón convocó a Alan Rodríguez, con posibilidades de jugar, y al juvenil Paolo Giaccone",
+        "pubDate": "2026-10-16T22:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Granadero Baigorria: imputaron al hombre que quiso prender fuego a su pareja",
         "link": "https://www.lacapital.com.ar/policiales/granadero-baigorria-imputaron-al-hombre-que-quiso-prender-fuego-su-pareja-n10287142.html",
         "image": "https://media.lacapital.com.ar/p/b410e0a59ce7be0e52716d528ce107f7/adjuntos/203/imagenes/103/467/0103467603/1200x675/smart/hospital-eva-peron-2.jpg",
@@ -240,38 +267,11 @@
       },
       {
         "source": "La Capital",
-        "title": "Milei finalizó su viaje a Estados Unidos y ya prepara su inminente visita a España",
-        "link": "https://www.lacapital.com.ar/politica/milei-finalizo-su-viaje-estados-unidos-y-ya-prepara-su-inminente-visita-espana-n10287102.html",
-        "image": "https://media.lacapital.com.ar/p/b874de2119a822d83fae9674967d3c34/adjuntos/203/imagenes/103/473/0103473984/1200x675/smart/jm1.jpg",
-        "summary": "Asimismo, el presidente tiene previsto desembarcar la semana próxima en Neuquén y Catamarca",
-        "pubDate": "2026-10-16T18:48:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "Horacio Marín en Rosario: \"YPF es la argentinidad al palo\"",
         "link": "https://www.lacapital.com.ar/economia/horacio-marin-rosario-ypf-es-la-argentinidad-al-palo-n10287106.html",
         "image": "https://media.lacapital.com.ar/p/cd679d51828d4fce8d1f3d350ad46a33/adjuntos/203/imagenes/103/473/0103473983/1200x675/smart/marin272.jpg",
         "summary": "El presidente de la petrolera nacional dio una charla abierta de dos horas en la Bolsa de Comercio. Contó los proyectos para escalar la operación en Vaca Muerta y exportar gas licuado. Aseguró que Santa Fe Bio comenzará a exportar SAF en 2030 y defendió el \"efecto derrame\" de la…",
         "pubDate": "2026-10-16T18:48:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Charla abierta en el Sindicato de Prensa: \"Periodistas frente a la Inteligencia Artificial\"",
-        "link": "https://www.lacapital.com.ar/la-ciudad/charla-abierta-el-sindicato-prensa-periodistas-frente-la-inteligencia-artificial-n10287091.html",
-        "image": "https://media.lacapital.com.ar/p/3a55d8419d646e224b4feb719ef82a61/adjuntos/203/imagenes/103/473/0103473960/1200x675/smart/luis-lozano.jpg",
-        "summary": "Luis Lozano, doctor en Derechos Humanos y licenciado en Ciencias de la Comunicación (UBA), hablará sobre automatización, plataformas, condiciones laborales y democracia informativa en la era algorítmica",
-        "pubDate": "2026-10-16T18:20:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Santilli les mete presión a los gobernadores en plena negociación por la Paso",
-        "link": "https://www.lacapital.com.ar/politica/santilli-les-mete-presion-los-gobernadores-plena-negociacion-la-paso-n10287096.html",
-        "image": "https://media.lacapital.com.ar/p/d79ac3e5702f8ddbd20bc7d5ecc4e081/adjuntos/203/imagenes/103/256/0103256002/1200x675/smart/santilli-milei-ministro-del-interior-1.jpg",
-        "summary": "El jefe de Gabinete sostuvo que los mandatarios provinciales deberían estar “preocupados” por un eventual regreso del kirchnerismo. Mensaje a Santa Fe",
-        "pubDate": "2026-10-16T18:16:00+00:00",
         "approxTime": false
       }
     ]
