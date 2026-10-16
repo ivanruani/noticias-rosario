@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T16:33:23.149601+00:00",
+  "generatedAt": "2026-10-16T17:01:16.585689+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,10 +141,19 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "Los deudores alimentarios de la provincia de Santa Fe ya no podrán ir a la cancha",
-        "link": "https://www.lacapital.com.ar/la-ciudad/los-deudores-alimentarios-la-provincia-santa-fe-ya-no-podran-ir-la-cancha-n10287010.html",
+        "title": "Netflix ya estrenó \"Lo dejamos acá\", la película con Darín y Peretti",
+        "link": "https://www.lacapital.com.ar/zoom/netflix-ya-estreno-lo-dejamos-aca-la-pelicula-darin-y-peretti-n10287061.html",
+        "image": "https://media.lacapital.com.ar/p/b41a84e0d94a92affaf77c2631be6479/adjuntos/203/imagenes/102/427/0102427884/1200x675/smart/darin-y-perettijpeg.jpeg",
+        "summary": "El drama psicológico, dirigido por Hernán Goldfrid, está cargado de tensiones y dilemas morales. Todos los detalles de su trama",
+        "pubDate": "2026-10-16T16:54:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Los deudores alimentarios de la provincia de Santa Fe pronto no podrán ir a la cancha",
+        "link": "https://www.lacapital.com.ar/la-ciudad/los-deudores-alimentarios-la-provincia-santa-fe-pronto-no-podran-ir-la-cancha-n10287010.html",
         "image": "https://media.lacapital.com.ar/p/5e050fc97f479eff8e15c8a79aae069e/adjuntos/203/imagenes/103/473/0103473105/tribuna-segura.jpg",
-        "summary": "El nuevo registro incorporará automáticamente a quienes deben pagar una cuota mensual fijada por la Justicia para aplicar sanciones si no cumplen",
+        "summary": "Avanza en la Legislatura un nuevo registro que incorporará automáticamente a quienes deben pagar una cuota mensual fijada por la Justicia para aplicar sanciones si no cumplen",
         "pubDate": "2026-10-16T15:53:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/dc928c485e7d0920a118897cd6b235fe/adjuntos/203/imagenes/103/276/0103276293/1200x675/smart/toro.JPG",
         "summary": "El delantero de la selección argentina recordó su agónico gol para eliminar a Inglatera en el Mundial y reveló: \"No era un partido como los otros, era especial\"",
         "pubDate": "2026-10-16T13:33:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El papa León XIV reaparecerá este domingo: las primeras fotos tras la operación",
-        "link": "https://www.lacapital.com.ar/el-mundo/el-papa-leon-xiv-reaparecera-este-domingo-las-primeras-fotos-la-operacion-n10287008.html",
-        "image": "https://media.lacapital.com.ar/p/5b688e46834600fa4d609e574832da56/adjuntos/203/imagenes/103/473/0103473064/1200x675/smart/papa-leon-misa.png",
-        "summary": "El nuevo parte médico destacó su recuperación tras la intervención en el pulmón derecho. El Vaticano anunció que el domingo participará del tradicional Ángelus",
-        "pubDate": "2026-10-16T13:32:00+00:00",
         "approxTime": false
       }
     ]
