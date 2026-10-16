@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T09:01:13.321080+00:00",
+  "generatedAt": "2026-10-16T09:31:01.522813+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Créditos de precisión: claves para financiar el negocio ganadero",
+        "link": "https://www.lacapital.com.ar/agro/creditos-precision-claves-financiar-el-negocio-ganadero-n10286523.html",
+        "image": "https://media.lacapital.com.ar/p/72633c86e65062c93a395991e1d6e9c0/adjuntos/203/imagenes/103/466/0103466722/1200x675/580x329:600x349/remate-rosgan3.jpeg",
+        "summary": "Desde el Banco Nación remarcaron que ningún banco logró superar su presencia y oferta crediticia en el país. Mucho menos en las ofertas que ponen a disposición del campo",
+        "pubDate": "2026-10-16T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Newell's y la pelea por clasificar a octavos de final: ¿qué les queda a los principales rivales?",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-y-la-pelea-clasificar-octavos-final-que-les-queda-los-principales-rivales-n10286968.html",
+        "image": "https://media.lacapital.com.ar/p/1a64d4e6adc519a65d77eafe5aaa580a/adjuntos/203/imagenes/103/472/0103472387/1200x675/smart/image-20.jpg",
+        "summary": "Newell's encara la recta final del torneo Clausura en la búsqueda de una de las plazas para entrar entre los ocho primeros del grupo A y mira a los demás",
+        "pubDate": "2026-10-16T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El río Paraná sigue creciendo y piden extremar los cuidados al navegar o usar las playas",
         "link": "https://www.lacapital.com.ar/la-ciudad/el-rio-parana-sigue-creciendo-y-piden-extremar-los-cuidados-al-navegar-o-usar-las-playas-n10286834.html",
         "image": "https://media.lacapital.com.ar/p/c2ea0c777313b6e9fbe1a7e6de1263ff/adjuntos/203/imagenes/103/471/0103471124/1200x675/smart/crecida-del-parana.jpg",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/6a8de0745da3198bc3aab993f4d57f7a/adjuntos/203/imagenes/103/304/0103304684/1200x675/smart/bcra-317.jpg",
         "summary": "El índice que mide el sobrecosto de la deuda soberana llegó a tocar los 640 puntos, aunque luego moderó la suba. El BCRA volvió a comprar dólares y las reservas brutas superaron los u$s 50 mil millones",
         "pubDate": "2026-10-15T23:51:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Los juveniles de Newell's vuelven a Miami a jugar la Messi Cup con los grandes del mundo",
-        "link": "https://www.lacapital.com.ar/ovacion/los-juveniles-newells-vuelven-miami-jugar-la-messi-cup-los-grandes-del-mundo-n10286954.html",
-        "image": "https://media.lacapital.com.ar/p/358ade564a3d1188d5b2f61684886427/adjuntos/203/imagenes/103/472/0103472289/1200x675/smart/image-15.jpg",
-        "summary": "La Messi Cup volverá a contar con Newell's en la ciudad donde reside el mejor de todos y le esperan rivales de los grandes clubes mundiales",
-        "pubDate": "2026-10-15T23:42:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Incidentes frente al Congreso en medio de la Marcha Federal Universitaria",
-        "link": "https://www.lacapital.com.ar/politica/incidentes-frente-al-congreso-medio-la-marcha-federal-universitaria-n10286898.html",
-        "image": "https://media.lacapital.com.ar/p/de0ddc4e8b7693a31141817ed308ae6b/adjuntos/203/imagenes/103/472/0103472008/1200x675/smart/image.png",
-        "summary": "Hubo gases lacrimógenos y camiones hidrantes minutos antes del acto central en la plaza próxima al Parlamento. El gobierno nacional repudió los hechos y realizará una denuncia penal",
-        "pubDate": "2026-10-15T23:15:00+00:00",
         "approxTime": false
       }
     ]
