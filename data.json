@@ -1,23 +1,32 @@
 {
-  "generatedAt": "2026-10-16T00:31:00.852338+00:00",
+  "generatedAt": "2026-10-16T01:01:16.666314+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Agotados, endeudados y furiosos: una marcha masiva y pacífica en Rosario defendió la universidad contra el ajuste ilegal de Milei",
+        "link": "https://www.rosario3.com/informaciongeneral/agotados-endeudados-y-furiosos-una-marcha-masiva-y-pacifica-en-rosario-defendio-la-universidad-contra-el-ajuste-ilegal-de-milei-20261015-0088.html",
+        "image": "https://www.rosario3.com/__export/1792110716818/sites/rosario3/img/2026/10/15/dsc04725.jpg_2106848869.jpg",
+        "summary": "De la estrella culona del Conicet a Darío Grandinetti, y de profesores, no docentes y estudiantes a familias, sindicatos y partidos políticos: unas 50 mil personas desafiaron la lluvia de este jueves y colmaron el parque frente al Monumento. Acusaron al gobierno de incumplir la…",
+        "pubDate": "2026-10-15T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Endurecen los controles a patentes adulteradas en Rosario: qué cambia y cuáles son las sanciones",
         "link": "https://www.rosario3.com/informaciongeneral/endurecen-los-controles-a-patentes-adulteradas-en-rosario-que-cambia-y-cuales-son-las-sanciones-20261015-0084.html",
         "image": "https://www.rosario3.com/__export/1787169480414/sites/rosario3/img/2026/08/19/controles.jpg_1825222445.jpg",
         "summary": "La ordenanza, aprobada este jueves en el Concejo Municipal, amplía las facultades de fiscalización del Ejecutivo. Permitirá remitir al corralón vehículos que circulen, estén detenidos o estacionados con patentes ausentes, ocultas o adulteradas. También incrementa las multas para…",
-        "pubDate": "2026-10-15T12:00:00+00:00",
+        "pubDate": "2026-10-15T11:59:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Rosario volvió a movilizarse en defensa de la universidad pública con una marcha multitudinaria",
+        "title": "Rosario volvió a movilizarse en defensa de la universidad pública: las imágenes de una marcha multitudinaria",
         "link": "https://www.rosario3.com/informaciongeneral/rosario-se-suma-a-la-marcha-federal-universitaria-cuando-donde-y-por-que-es-la-movilizacion-20261015-0018.html",
         "image": "https://www.rosario3.com/__export/1792103546275/sites/rosario3/img/2026/10/15/marcha3.jpg_1825222445.jpg",
         "summary": "Estudiantes, docentes, no docentes y organizaciones sociales y sindicales recorrieron el centro hasta el Monumento para reclamar el cumplimiento de la Ley de Financiamiento Universitario. La jornada transcurrió sin incidentes y alta participación",
-        "pubDate": "2026-10-15T11:59:00+00:00",
+        "pubDate": "2026-10-15T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/uber-tras-la-postergacion-del-debate-en-rosario-la-iniciativa-del-ejecutivo-es-un-paso-en-la-direccion-correcta-20261015-0062.html",
         "image": "https://www.rosario3.com/__export/1771596700820/sites/rosario3/img/2025/10/17/uberapp.jpg_982625323.jpg",
         "summary": "Juan Labaqui, director de Comunicaciones de la empresa para el Cono Sur, analizó el freno en el Concejo Municipal a la regulación de las aplicaciones de transporte, entre las que también está Didi, debido a las diferencias entre el oficialismo y La Libertad Avanza. Cuál es la…",
-        "pubDate": "2026-10-15T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Un apriete mafioso en Casilda y el rastro que llevó a un detenido en Rosario",
-        "link": "https://www.rosario3.com/policiales/un-apriete-mafioso-en-casilda-y-el-rastro-que-llevo-a-un-detenido-en-rosario-20261015-0079.html",
-        "image": "https://www.rosario3.com/__export/1792099673558/sites/rosario3/img/2026/10/15/allanamiento_ravignani_1300.jpg_672794304.jpg",
-        "summary": "A partir de un oscuro episodio delictivo ocurrido en septiembre en barrio Nueva Roma B, de Casilda, la PDI siguió el rastro de una EcoSport roja con ayuda del sistema Lince. Las pistas condujeron hasta un domicilio del barrio Antártida Argentina, en Rosario, donde secuestraron…",
         "pubDate": "2026-10-15T11:57:00+00:00",
         "approxTime": true
       },
@@ -121,24 +121,51 @@
       },
       {
         "source": "Rosario3",
-        "title": "Financiamiento universitario: la Justicia suspendió por ahora las multas al Gobierno",
-        "link": "https://www.rosario3.com/politica/financiamiento-universitario-la-justicia-suspendio-por-ahora-las-multas-al-gobierno-20261015-0070.html",
-        "image": "https://www.rosario3.com/__export/1792092642476/sites/rosario3/img/2026/10/15/marcha.jpg_1768679257.jpg",
-        "summary": "La medida se tomó tras una presentación del Ministerio de Capital Humano, luego de que se fijaran sanciones económicas contra Diego Santilli por no cumplir con una orden judicial que exige actualizar salarios universitarios y garantizar fondos para becas estudiantiles. Los…",
+        "title": "Un apriete mafioso en Casilda y el rastro que llevó a un detenido en Rosario",
+        "link": "https://www.rosario3.com/policiales/un-apriete-mafioso-en-casilda-y-el-rastro-que-llevo-a-un-detenido-en-rosario-20261015-0079.html",
+        "image": "https://www.rosario3.com/__export/1792099673558/sites/rosario3/img/2026/10/15/allanamiento_ravignani_1300.jpg_672794304.jpg",
+        "summary": "A partir de un oscuro episodio delictivo ocurrido en septiembre en barrio Nueva Roma B, de Casilda, la PDI siguió el rastro de una EcoSport roja con ayuda del sistema Lince. Las pistas condujeron hasta un domicilio del barrio Antártida Argentina, en Rosario, donde secuestraron…",
         "pubDate": "2026-10-15T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Deficiencia en controles: indagan a once integrantes de la Fuerza Aérea por la muerte de un capitán en un accidente aéreo",
-        "link": "https://www.rosario3.com/informaciongeneral/deficiencia-en-controles-indagan-a-once-integrantes-de-la-fuerza-aerea-por-la-muerte-de-un-capitan-en-un-accidente-aereo-20261015-0072.html",
-        "image": "https://www.rosario3.com/__export/1792095771348/sites/rosario3/img/2026/10/15/mauro_javier_testa_la_rosa_-1-.jpg_672794304.jpg",
-        "summary": "La investigación radicada en el Juzgado Federal de Villa Mercedes, San Luis, apunta a posibles fallas en el mantenimiento de la aeronave que habrían contribuido a la muerte de Mauro Testa La Rosa, ocurrida el 15 de julio de 2024. También se investiga la destrucción de los…",
+        "title": "Financiamiento universitario: la Justicia suspendió por ahora las multas al Gobierno",
+        "link": "https://www.rosario3.com/politica/financiamiento-universitario-la-justicia-suspendio-por-ahora-las-multas-al-gobierno-20261015-0070.html",
+        "image": "https://www.rosario3.com/__export/1792092642476/sites/rosario3/img/2026/10/15/marcha.jpg_1768679257.jpg",
+        "summary": "La medida se tomó tras una presentación del Ministerio de Capital Humano, luego de que se fijaran sanciones económicas contra Diego Santilli por no cumplir con una orden judicial que exige actualizar salarios universitarios y garantizar fondos para becas estudiantiles. Los…",
         "pubDate": "2026-10-15T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "El Concejo Municipal endurece los controles a las patentes adulteradas",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-concejo-municipal-endurece-los-controles-las-patentes-adulteradas-n10286967.html",
+        "image": "https://media.lacapital.com.ar/p/e50caf6b192cf82bf604d3240d2e5f43/adjuntos/203/imagenes/103/472/0103472388/1200x675/smart/patentes-adulteradas.jpg",
+        "summary": "Se aprobó ampliar las facultades de fiscalización, remitir al corralón vehículos que circulen o estén detenidos con patentes ausentes, ocultas o adulteradas",
+        "pubDate": "2026-10-16T00:52:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Las reinas del básquet rosarino son las de Náutico Sportivo Avellaneda",
+        "link": "https://www.lacapital.com.ar/ovacion/las-reinas-del-basquet-rosarino-son-las-nautico-sportivo-avellaneda-n10286964.html",
+        "image": "https://media.lacapital.com.ar/p/32d85c4558aa4bc40ac178d0a1c59745/adjuntos/203/imagenes/103/472/0103472383/1200x675/smart/image-18.jpg",
+        "summary": "El equipo de Arroyito, conducido por Guillermo Carrozzo, se impuso claramente a Talleres de Villa Gobernador Gálvez y obtuvo el título de la Rosarina",
+        "pubDate": "2026-10-16T00:48:55+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Maciel tiene un equipo de primera en la Rosarina de Básquet: Alba Argentina",
+        "link": "https://www.lacapital.com.ar/ovacion/maciel-tiene-un-equipo-primera-la-rosarina-basquet-alba-argentina-n10286965.html",
+        "image": "https://media.lacapital.com.ar/p/7e827cd8a02d757d79b9b9c6994e6314/adjuntos/203/imagenes/103/472/0103472386/1200x675/smart/image-17.jpg",
+        "summary": "Alba Argentina se quedó con el título de la Primera B del básquet de la Rosarina al derrotar a un histórico como Sport Club de Cañada de Gómez.",
+        "pubDate": "2026-10-16T00:48:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Cayó la participación de los trabajadores en el ingreso",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/103de6e1ef1e432186a7b383a7df5acf/adjuntos/203/imagenes/103/472/0103472153/1200x675/smart/imageciervo.jpg",
         "summary": "El animal recorrió varios sectores de la ciudad y terminó refugiado en una vivienda, donde una vecina logró retenerlo. Se desplegó un operativo con policías, agentes municipales y veterinarios, pero murió cuando lo llevaban a una dependencia policial.",
         "pubDate": "2026-10-15T22:07:34+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Rosario volvió a marchar en defensa de la universidad pública: multitudinaria movilización contra el ajuste",
-        "link": "https://www.lacapital.com.ar/politica/rosario-volvio-marchar-defensa-la-universidad-publica-multitudinaria-movilizacion-contra-el-ajuste-n10286888.html",
-        "image": "https://media.lacapital.com.ar/p/f33304ab352355ffe0dbaff2f0b85f47/adjuntos/203/imagenes/103/471/0103471576/1200x675/smart/image-24.jpg",
-        "summary": "Estudiantes, docentes, no docentes y autoridades recorrieron las calles de la ciudad para reclamar el cumplimiento de la ley de financiamiento",
-        "pubDate": "2026-10-15T21:35:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Dos bajas de peso en el mediocampo de Central para lo que vendrá",
-        "link": "https://www.lacapital.com.ar/ovacion/dos-bajas-peso-el-mediocampo-central-lo-que-vendra-n10286912.html",
-        "image": "https://media.lacapital.com.ar/p/9e0a6339889bf741fdf2a3660246a368/adjuntos/203/imagenes/103/471/0103471844/1200x675/smart/image-14.jpg",
-        "summary": "Federico Navarro y Franco Ibarra se perderán el próximo partido y tal vez algunos más. Jorge Almirón se queda sin dos jugadores clave en el medio de Central",
-        "pubDate": "2026-10-15T21:17:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El hermano de Gastón Ávila pagó caro su festejo con Central: apartado en Estudiantes y con futuro incierto",
-        "link": "https://www.lacapital.com.ar/ovacion/el-hermano-gaston-avila-pago-caro-su-festejo-central-apartado-estudiantes-y-futuro-incierto-n10286921.html",
-        "image": "https://media.lacapital.com.ar/p/4a1479672475ad972630da28b45b12e6/adjuntos/203/imagenes/103/471/0103471942/1200x675/smart/imageavila.jpg",
-        "summary": "Franco Domínguez Ávila no volvió a jugar ni a entrenarse con la Reserva del Pincha tras la viralización de una foto celebrando la Supercopa Internacional junto al defensor canalla.",
-        "pubDate": "2026-10-15T21:07:00+00:00",
         "approxTime": false
       }
     ]
