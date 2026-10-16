@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T09:31:01.522813+00:00",
+  "generatedAt": "2026-10-16T10:01:15.867133+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "La obra \"Tirria\", con Diego Capusotto, vuelve a Rosario con su humor disparatado",
+        "link": "https://www.lacapital.com.ar/zoom/la-obra-tirria-diego-capusotto-vuelve-rosario-su-humor-disparatado-n10286850.html",
+        "image": "https://media.lacapital.com.ar/p/fb8ce58bb94f042856c72a9d2d16c83a/adjuntos/203/imagenes/103/471/0103471137/1200x675/smart/image-2026-10-15t131910208.jpg",
+        "summary": "Después de una exitosa primera visita a la ciudad, vuelven a presentarse este viernes 16 de octubre en el Teatro La Comedia",
+        "pubDate": "2026-10-16T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La masonería y la UNR crearán una Cátedra de Librepensamiento en Rosario",
+        "link": "https://www.lacapital.com.ar/la-ciudad/la-masoneria-y-la-unr-crearan-una-catedra-librepensamiento-rosario-n10286875.html",
+        "image": "https://media.lacapital.com.ar/p/ad8a5fb9e6f7305c254877cd34a008e9/adjuntos/203/imagenes/103/471/0103471517/1200x675/smart/78649175.jpg",
+        "summary": "La propuesta funcionará en Humanidades como materia optativa y tendrá actividades abiertas a la comunidad. El acuerdo se firmará este viernes, en el marco de un encuentro nacional de representantes de los masones",
+        "pubDate": "2026-10-16T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Créditos de precisión: claves para financiar el negocio ganadero",
         "link": "https://www.lacapital.com.ar/agro/creditos-precision-claves-financiar-el-negocio-ganadero-n10286523.html",
         "image": "https://media.lacapital.com.ar/p/72633c86e65062c93a395991e1d6e9c0/adjuntos/203/imagenes/103/466/0103466722/1200x675/580x329:600x349/remate-rosgan3.jpeg",
@@ -208,7 +226,7 @@
         "link": "https://www.lacapital.com.ar/ovacion/las-reinas-del-basquet-rosarino-son-las-nautico-sportivo-avellaneda-n10286964.html",
         "image": "https://media.lacapital.com.ar/p/32d85c4558aa4bc40ac178d0a1c59745/adjuntos/203/imagenes/103/472/0103472383/1200x675/smart/image-18.jpg",
         "summary": "El equipo de Arroyito, conducido por Guillermo Carrozzo, se impuso claramente a Talleres de Villa Gobernador Gálvez y obtuvo el título de la Rosarina",
-        "pubDate": "2026-10-16T00:48:55+00:00",
+        "pubDate": "2026-10-16T00:48:00+00:00",
         "approxTime": false
       },
       {
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/a1fe2483a2ae1ed20bbda78c43d5b418/adjuntos/203/imagenes/028/186/0028186208/1200x675/smart/industria-linea-blancajpg.jpg",
         "summary": "La caída de la producción manufacturera tiene efecto en la reducción del stock de equipos. En la metalmecánica los activos ociosos llegan al 64,1 %",
         "pubDate": "2026-10-15T23:58:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Por primera vez una mujer presidirá la Asociación de Industriales Metalúrgicos",
-        "link": "https://www.lacapital.com.ar/economia/por-primera-vez-una-mujer-presidira-la-asociacion-industriales-metalurgicos-n10286959.html",
-        "image": "https://media.lacapital.com.ar/p/313c5d3c47531a0e26cf1c94506fb78f/adjuntos/203/imagenes/103/472/0103472291/1200x675/smart/aim.jpeg",
-        "summary": "Jorgelina Gonano fue electa como titular de AIM, la entidad que reúne a las empresas del sector. Reemplazará a Rafael Catalano en un momento complejo para la actividad fabril",
-        "pubDate": "2026-10-15T23:55:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Los bonos argentinos siguen bajo presión y se empina el riesgo país",
-        "link": "https://www.lacapital.com.ar/economia/los-bonos-argentinos-siguen-presion-y-se-empina-el-riesgo-pais-n10286956.html",
-        "image": "https://media.lacapital.com.ar/p/6a8de0745da3198bc3aab993f4d57f7a/adjuntos/203/imagenes/103/304/0103304684/1200x675/smart/bcra-317.jpg",
-        "summary": "El índice que mide el sobrecosto de la deuda soberana llegó a tocar los 640 puntos, aunque luego moderó la suba. El BCRA volvió a comprar dólares y las reservas brutas superaron los u$s 50 mil millones",
-        "pubDate": "2026-10-15T23:51:00+00:00",
         "approxTime": false
       }
     ]
