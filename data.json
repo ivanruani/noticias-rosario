@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T20:31:00.216725+00:00",
+  "generatedAt": "2026-10-16T21:01:13.443207+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Vuelve \"MasterChef Junior\": cuándo comienza y quiénes serán los jurados",
+        "link": "https://www.lacapital.com.ar/zoom/vuelve-masterchef-junior-cuando-comienza-y-quienes-seran-los-jurados-n10287119.html",
+        "image": "https://media.lacapital.com.ar/p/a4e28f8c53c65057feb663b063f47f93/adjuntos/203/imagenes/103/474/0103474144/1200x675/smart/image-2026-10-16t163822694.png",
+        "summary": "A diez años de su última emisión, el reality culinario regresa a Telefe y HBO Max con 14 participantes de entre 8 y 13 años",
+        "pubDate": "2026-10-16T20:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El Concejo Municipal de Rosario acompaña la postulación de Central como sede del Mundial 2030",
         "link": "https://www.lacapital.com.ar/ovacion/el-concejo-municipal-rosario-acompana-la-postulacion-central-como-sede-del-mundial-2030-n10287101.html",
         "image": "https://media.lacapital.com.ar/p/97873e1f8e052ec97dec7a4aaad0af1b/adjuntos/203/imagenes/103/474/0103474064/cancha.jpeg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/67aae00fa56d7c114bb6aecebc42f615/adjuntos/203/imagenes/103/473/0103473796/1200x675/smart/ruta13-rotonda1.jpeg",
         "summary": "El gobernador recorrió pueblos y ciudades del centro oeste santafesino donde se realizaron los actos de entrega de 39 viviendas y el corte de cintas en la intersección de las rutas 13 y 66",
         "pubDate": "2026-10-16T17:39:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Capturaron a Pocholo, prófugo por dos causas y presunto integrante de Los Menores",
-        "link": "https://www.lacapital.com.ar/policiales/capturaron-pocholo-profugo-dos-causas-y-presunto-integrante-los-menores-n10287077.html",
-        "image": "https://media.lacapital.com.ar/p/f0d90be33cfe77ee2766a429d06e1d97/adjuntos/203/imagenes/103/473/0103473580/1200x675/smart/whatsapp-image-2026-10-16-at-132114.jpeg",
-        "summary": "Alex Joel V., de 27 años, era buscado en el marco de una investigación por asociación ilícita y otra por infracción a la ley de estupefacientes",
-        "pubDate": "2026-10-16T17:14:00+00:00",
         "approxTime": false
       }
     ]
