@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-16T21:01:13.443207+00:00",
+  "generatedAt": "2026-10-16T21:30:55.794187+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Más de 20 allanamientos contra la banda que tomó la posta tras el cimbronazo por el crimen del policía en Villa Banana",
+        "link": "https://www.rosario3.com/policiales/mas-de-20-allanamientos-contra-la-banda-que-tomo-la-posta-tras-el-cimbronazo-por-el-crimen-del-policia-en-villa-banana-20261016-0070.html",
+        "image": "https://www.rosario3.com/__export/1782212193804/sites/rosario3/img/2026/06/13/villa_banana_crimen_manfredi.jpeg_982625323.jpeg",
+        "summary": "El homicidio del suboficial Rodolfo Manfredi precipitó la caída del clan Muñoz, que regenteaba la venta de drogas en el asentamiento del oeste rosarino. Ahora, una investigación detectó a un nuevo “apoderado” del territorio, que, sin embargo, permanece prófugo",
+        "pubDate": "2026-10-16T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Javkin a los concejales que bloquearon la sesión para legalizar Uber y Didi: \"Hay que regularizarlo y dejarse de joder\"",
         "link": "https://www.rosario3.com/informaciongeneral/javkin-a-los-concejales-que-bloquearon-la-sesion-para-legalizar-uber-y-didi-hay-que-regularizarlo-y-dejarse-joder-20261016-0061.html",
         "image": "https://www.rosario3.com/__export/1792180862167/sites/rosario3/img/2026/10/16/javkin_sobre_uber.jpg_2106848869.jpg",
         "summary": "Hasta hace poco tenía concejales que me hacían videítos en la puerta de la Muni diciéndome que por qué no regularizaba Uber y ayer votaron en contra; es medio ridículo”, lanzó el intendente. Y volvió a cargar contra la propuesta del bloque de La Libertad Avanza: 'Es una cosa que…",
-        "pubDate": "2026-10-16T12:00:00+00:00",
+        "pubDate": "2026-10-16T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/video-rompio-a-punetazos-la-puerta-de-un-colectivo-en-movimiento-en-pleno-centro-de-rosario-20261016-0053.html",
         "image": "https://www.rosario3.com/__export/1792176058493/sites/rosario3/img/2026/10/16/maipu_y_cordoba_2.jpg_374587788.jpg",
         "summary": "El hombre corrió la unidad y se paró en el estribo de acceso para destrozar la puerta plegable, sin llegar a entrar. Ocurrió este viernes al mediodía en Maipú y peatonal Córdoba, ante la mirada atónita de peatones que registraron parte de la secuencia",
-        "pubDate": "2026-10-16T11:59:00+00:00",
+        "pubDate": "2026-10-16T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/policiales/cayo-pocholo-senalado-como-integrante-de-los-menores-y-buscado-por-dos-causas-20261016-0042.html",
         "image": "https://www.rosario3.com/__export/1792168733750/sites/rosario3/img/2026/10/16/detencion.png_786111822.png",
         "summary": "Alex Joel V., de 27 años, fue detenido en un operativo en la zona oeste de la ciudad. Tenía pedidos de captura por asociación ilícita y microtráfico. Tras su arresto, se realizaron cuatro allanamientos en Rosario y Casilda",
-        "pubDate": "2026-10-16T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Deudores alimentarios de Santa Fe ya no podrán ingresar a la cancha ni al casino",
-        "link": "https://www.rosario3.com/informaciongeneral/deudores-alimentarios-de-santa-fe-ya-no-podran-ingresar-a-la-cancha-ni-al-casino-20261016-0044.html",
-        "image": "https://www.rosario3.com/__export/1792170503813/sites/rosario3/img/2026/10/16/diputados.jpg_1768679257.jpg",
-        "summary": "El nuevo Registro aprobado por la Cámara de Diputados de la provincia, incorporará automáticamente a quienes incumplan de forma parcial o total el pago de cuota alimentaria fijada por la Justicia. La ley también prevé sanciones más severas para quienes acumulen deuda…",
         "pubDate": "2026-10-16T11:57:00+00:00",
         "approxTime": true
       },
@@ -49,11 +49,29 @@
       },
       {
         "source": "Rosario3",
+        "title": "La inflación mayorista volvió a acelerarse en septiembre y fue de 3,2%",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-inflacion-mayorista-volvio-a-acelerarse-en-septiembre-y-fue-de-32-20261016-0066.html",
+        "image": "https://www.rosario3.com/__export/1792182295416/sites/rosario3/img/2026/10/16/mayorista.jpg_2106848869.jpg",
+        "summary": "El Indec informó este viernes que la variación del Índice de Precios Internos al por Mayor fue superior a la inflación minorista, ya que los precios al consumidor se movieron 1,9% en el noveno mes del año",
+        "pubDate": "2026-10-16T11:55:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Deudores alimentarios de Santa Fe ya no podrán ingresar a la cancha ni al casino",
+        "link": "https://www.rosario3.com/informaciongeneral/deudores-alimentarios-de-santa-fe-ya-no-podran-ingresar-a-la-cancha-ni-al-casino-20261016-0044.html",
+        "image": "https://www.rosario3.com/__export/1792170503813/sites/rosario3/img/2026/10/16/diputados.jpg_1768679257.jpg",
+        "summary": "El nuevo Registro aprobado por la Cámara de Diputados de la provincia, incorporará automáticamente a quienes incumplan de forma parcial o total el pago de cuota alimentaria fijada por la Justicia. La ley también prevé sanciones más severas para quienes acumulen deuda…",
+        "pubDate": "2026-10-16T11:54:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Causa Andis: amplían el procesamiento de Spagnuolo y otros acusados por el esquema de sobreprecios en la compra de insumos",
         "link": "https://www.rosario3.com/informaciongeneral/causa-andis-amplian-el-procesamiento-de-spagnuolo-y-otros-acusados-por-el-esquema-de-sobreprecios-en-la-compra-de-insumos-20261016-0049.html",
         "image": "https://www.rosario3.com/__export/1792174648567/sites/rosario3/img/2026/10/16/andis.jpg_1768679258.jpg",
         "summary": "Lo dispuso el juez Ariel Lijo en el marco de la causa en que se investiga una presunta asociación ilícita; el magistrado estimó un perjuicio al Estado de $1849 millones",
-        "pubDate": "2026-10-16T11:55:00+00:00",
+        "pubDate": "2026-10-16T11:53:00+00:00",
         "approxTime": true
       },
       {
@@ -62,7 +80,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/con-el-foco-en-los-sectores-mas-vulnerables-el-fmi-pidio-profundizar-la-baja-de-subsidios-20261016-0040.html",
         "image": "https://www.rosario3.com/__export/1792168173976/sites/rosario3/img/2026/10/16/fmi.jpg_1768679258.jpg",
         "summary": "En su informe de Perspectivas Económicas para el Hemisferio Occidental, el organismo recomendó seguir reduciendo las ayudas a la energía y reemplazar los subsidios generalizados. También recortó su proyección de crecimiento para la Argentina, ante la baja en la actividad…",
-        "pubDate": "2026-10-16T11:54:00+00:00",
+        "pubDate": "2026-10-16T11:52:00+00:00",
         "approxTime": true
       },
       {
@@ -71,16 +89,16 @@
         "link": "https://www.rosario3.com/informaciongeneral/luis-novaresio-y-un-emotivo-regreso-a-rosario-el-amor-que-no-esperaba-y-una-historia-que-lo-hizo-llorar-20261016-0003.html",
         "image": "https://www.rosario3.com/__export/1792148148950/sites/rosario3/img/2026/10/16/whatsapp_image_2026-10-13_at_13_42_53.jpeg_1825221542.jpeg",
         "summary": "El periodista y escritor vuelve a su ciudad para presentar “La vida que importa”, su segunda novela. En una charla con Rosario3, habló de la familia que nunca imaginó formar, de los deseos que todavía lo movilizan y de una historia que lo conmovió hasta las lágrimas mientras la…",
-        "pubDate": "2026-10-16T11:53:00+00:00",
+        "pubDate": "2026-10-16T11:51:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Presentaron un proyecto de ley para declarar la emergencia provincial del sector editorial y librero",
-        "link": "https://www.rosario3.com/politica/presentaron-un-proyecto-de-ley-para-declarar-la-emergencia-provincial-del-sector-editorial-y-librero-20261016-0033.html",
-        "image": "https://www.rosario3.com/__export/1792162261068/sites/rosario3/img/2025/04/23/libros.jpg_54252015.jpg",
-        "summary": "La iniciativa apunta a sostener un rubro que “está atravesando una gravísima crisis. Una librería no es un comercio más”, sostuvo el diputado provincial Joaquín Blanco",
-        "pubDate": "2026-10-16T11:52:00+00:00",
+        "title": "Según un informe, Argentina tiene récord de ingenieros recibidos, pero faltan los que más se necesitan",
+        "link": "https://www.rosario3.com/informaciongeneral/segun-un-informe-argentina-tiene-record-de-ingenieros-recibidos-pero-faltan-los-que-mas-se-necesitan-20261016-0065.html",
+        "image": "https://www.rosario3.com/__export/1792180994796/sites/rosario3/img/2026/10/16/ingenieria.jpg_1768679257.jpg",
+        "summary": "De acuerdo al Monitor de la Ingeniería Argentina, elaborado a partir de estadísticas oficiales, en 2024 se recibieron 8.759 ingenieros y la carrera atrae cada vez a más estudiantes, mientras la inscripción universitaria general cae. Las mujeres duplicaron inscripciones y para…",
+        "pubDate": "2026-10-16T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -89,43 +107,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/nueva-tecnica-de-trasplante-para-evitar-el-rechazo-de-los-organos-la-desarrollan-cientificos-del-conicet-junto-a-medicos-de-espana-20261016-0060.html",
         "image": "https://www.rosario3.com/__export/1792178039239/sites/rosario3/img/2026/10/16/conicet.jpg_1768679257.jpg",
         "summary": "Se trata de un trabajo conjunto entre expertos del Consejo Nacional de Investigaciones y médicos del Hospital La Paz de Madrid. Consiste en aplicar células de la médula ósea del donante al receptor para hacer convivir en él ambos sistemas inmunes y así favorecer la tolerancia al…",
-        "pubDate": "2026-10-16T11:51:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Faltante de medicación para el párkinson: piden compras urgentes porque \"no hay plan B\"",
-        "link": "https://www.rosario3.com/informaciongeneral/faltante-de-medicacion-para-el-parkinson-piden-compras-urgentes-porque-no-hay-plan-b-20261016-0034.html",
-        "image": "https://www.rosario3.com/__export/1792162847943/sites/rosario3/img/2026/10/16/parkinson1.jpg_928314581.jpg",
-        "summary": "El médico y ex secretario de Salud de Rosario, Leonardo Caruana, cuestionó la lentitud estatal para resolver el desabastecimiento de levodopa, un fármaco vital para los pacientes. El laboratorio internacional prometió reponer el stock a fin de año, pero los afectados advierten…",
-        "pubDate": "2026-10-16T11:50:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Trump echó a su vocera presidencial cinco días después de nombrarla en el cargo",
-        "link": "https://www.rosario3.com/informaciongeneral/trump-echo-a-su-vocera-presidencial-cinco-dias-despues-de-nombrarla-en-el-cargo-20261016-0062.html",
-        "image": "https://www.rosario3.com/__export/1792178646197/sites/rosario3/img/2026/10/16/vocera_trump.png_786111822.png",
-        "summary": "Katie Zacharia dejó el puesto de secretaria de prensa de la Casa Blanca después de una breve conferencia ante la prensa y una polémica por haberse presentado como abogada sin contar con la habilitación profesional",
         "pubDate": "2026-10-16T11:49:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El galgo apuñalado en zona norte se recupera y buscan darlo en “tenencia responsable”",
-        "link": "https://www.rosario3.com/informaciongeneral/el-galgo-apunalado-en-zona-norte-se-recupera-y-buscan-darlo-en-tenencia-responsable-20261016-0047.html",
-        "image": "https://www.rosario3.com/__export/1792169849040/sites/rosario3/img/2026/10/16/e76383b7-8ec7-44d8-8bf3-edfa125fb044.jpg_928314581.jpg",
-        "summary": "El veterinario Carlos Cossia explicó que las lesiones no pusieron en riesgo la vida del animal. También advirtió que está muy delgado y tenía al menos 20 garrapatas. La Justicia deberá definir su destino para evitar que vuelva con sus actuales propietarios",
-        "pubDate": "2026-10-16T11:48:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Tragedia en el norte santafesino: murió ahogado un trabajador rural mientras trasladaba ganado por las inundaciones",
-        "link": "https://www.rosario3.com/informaciongeneral/tragedia-en-el-norte-santafesino-murio-ahogado-un-trabajador-rural-mientras-trasladaba-ganado-por-las-inundaciones-20261016-0037.html",
-        "image": "https://www.rosario3.com/__export/1792165314086/sites/rosario3/img/2026/10/16/trabajador_rural.png_786111822.png",
-        "summary": "Jorge Eliezer Hardy tenía 70 años y cayó a una laguna cuando intentaba guiar a uno de los animales en una zona de bañados de Villa Ocampo. Sus compañeros hallaron el cuerpo y el médico policial confirmó que falleció por asfixia por inmersión",
-        "pubDate": "2026-10-16T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -134,11 +116,56 @@
         "link": "https://www.rosario3.com/informaciongeneral/la-ola-solidaria-que-le-cambio-la-vida-al-exjugador-rosarino-que-perdio-la-vision-20261016-0038.html",
         "image": "https://www.rosario3.com/__export/1792165372367/sites/rosario3/img/2026/10/16/agradecimiento1.jpg_928314581.jpg",
         "summary": "El ex jugador Matías Rosso, que atraviesa un duro momento económico tras perder la visión de su ojo izquierdo, agradeció la inmensa colaboración de la gente de Rosario y la región. Tras conocerse su historia en El TresTV, consiguió turno médico gratuito, ofertas de empleo…",
+        "pubDate": "2026-10-16T11:48:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Presentaron un proyecto de ley para declarar la emergencia provincial del sector editorial y librero",
+        "link": "https://www.rosario3.com/politica/presentaron-un-proyecto-de-ley-para-declarar-la-emergencia-provincial-del-sector-editorial-y-librero-20261016-0033.html",
+        "image": "https://www.rosario3.com/__export/1792162261068/sites/rosario3/img/2025/04/23/libros.jpg_54252015.jpg",
+        "summary": "La iniciativa apunta a sostener un rubro que “está atravesando una gravísima crisis. Una librería no es un comercio más”, sostuvo el diputado provincial Joaquín Blanco",
+        "pubDate": "2026-10-16T11:47:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Faltante de medicación para el párkinson: piden compras urgentes porque \"no hay plan B\"",
+        "link": "https://www.rosario3.com/informaciongeneral/faltante-de-medicacion-para-el-parkinson-piden-compras-urgentes-porque-no-hay-plan-b-20261016-0034.html",
+        "image": "https://www.rosario3.com/__export/1792162847943/sites/rosario3/img/2026/10/16/parkinson1.jpg_928314581.jpg",
+        "summary": "El médico y ex secretario de Salud de Rosario, Leonardo Caruana, cuestionó la lentitud estatal para resolver el desabastecimiento de levodopa, un fármaco vital para los pacientes. El laboratorio internacional prometió reponer el stock a fin de año, pero los afectados advierten…",
         "pubDate": "2026-10-16T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Wanda Nara vende una camiseta de la selección: cuánto cuesta y por qué la relacionan con Icardi",
+        "link": "https://www.lacapital.com.ar/zoom/wanda-nara-vende-una-camiseta-la-seleccion-cuanto-cuesta-y-que-la-relacionan-icardi-n10287129.html",
+        "image": "https://media.lacapital.com.ar/p/8b128e9405603dcef44e2373376b3c61/adjuntos/203/imagenes/103/474/0103474242/1200x675/smart/el-chofer-que-murio-intentar-rescatar-las-ninas-desaparecidas-el-temporal-bahia-blanca-44.png",
+        "summary": "La prenda lleva el número 9, el mismo que utilizó el delantero durante su paso por la albiceleste. Está publicada en una feria americana online",
+        "pubDate": "2026-10-16T21:22:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "De los golpes a los balazos: prisión para el acusado por un crimen en Pérez durante una pelea",
+        "link": "https://www.lacapital.com.ar/policiales/de-los-golpes-los-balazos-prision-el-acusado-un-crimen-perez-una-pelea-n10287054.html",
+        "image": "https://media.lacapital.com.ar/p/7feecf45378ca84fbc556a50de792912/adjuntos/203/imagenes/101/880/0101880682/1200x675/smart/cjpjpg.jpg",
+        "summary": "Lucas Natanael V., de 26 años, fue imputado como autor del asesinato de Agustín Alfredo Muñoz, ocurrido el domingo pasado en medio de una gresca",
+        "pubDate": "2026-10-16T21:13:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Día de la Lealtad: el peronismo de Rosario convocó a una vigilia",
+        "link": "https://www.lacapital.com.ar/politica/dia-la-lealtad-el-peronismo-rosario-convoco-una-vigilia-n10287133.html",
+        "image": "https://media.lacapital.com.ar/p/e1a4b1616224ad967cd9ff65f5ded4b2/adjuntos/203/imagenes/102/541/0102541090/1200x675/smart/martinez1jpeg.jpeg",
+        "summary": "En busca de la unidad, el PJ de la ciudad programó una previa del 17 de octubre con el senador José Mayans como invitado. La interna nacional deparó tres actos",
+        "pubDate": "2026-10-16T21:00:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Vuelve \"MasterChef Junior\": cuándo comienza y quiénes serán los jurados",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/a40c886c0bb5f95eaa5ed1214b989a38/adjuntos/203/imagenes/103/473/0103473858/1200x675/smart/cong1.jpg",
         "summary": "El planteo incluye acusaciones por resistencia y atentado a la autoridad, atentado al orden constitucional y daño agravado. Hubo 25 detenidos, 8 efectivos heridos y destrozos estimados en 90 millones de pesos",
         "pubDate": "2026-10-16T17:57:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Newell's confirmó la nueva marca de indumentaria que lo vestirá a partir de 2027",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-confirmo-la-nueva-marca-indumentaria-que-lo-vestira-partir-2027-n10287078.html",
-        "image": "https://media.lacapital.com.ar/p/3a7156d6bf13593d8109c4130e9ca80b/adjuntos/203/imagenes/103/202/0103202407/1200x675/smart/newells-boero-86-ssm.jpg",
-        "summary": "La Lepra anunció un \"acuerdo estratégico\" con una firma nacional que representará \"un avance económico y comercial con condiciones superadoras\" para el club",
-        "pubDate": "2026-10-16T17:51:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La Gurruchaga celebra 30 años de FestiRock con homenaje al Indio Solari",
-        "link": "https://www.lacapital.com.ar/zoom/la-gurruchaga-celebra-30-anos-festirock-homenaje-al-indio-solari-n10287080.html",
-        "image": "https://media.lacapital.com.ar/p/6fe32a950c2f6e2194278ad41e09e77b/adjuntos/203/imagenes/103/473/0103473605/1200x675/smart/image-2026-10-16t145526258.jpg",
-        "summary": "El tradicional evento tendrá lugar durante toda la jornada del sábado 17 en la escuela: tocarán catorce bandas, con entrada a la gorra",
-        "pubDate": "2026-10-16T17:51:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Departamento San Martín: Pullaro entregó viviendas e inauguró una rotonda sobre dos rutas provinciales",
-        "link": "https://www.lacapital.com.ar/la-region/departamento-san-martin-pullaro-entrego-viviendas-e-inauguro-una-rotonda-dos-rutas-provinciales-n10287087.html",
-        "image": "https://media.lacapital.com.ar/p/67aae00fa56d7c114bb6aecebc42f615/adjuntos/203/imagenes/103/473/0103473796/1200x675/smart/ruta13-rotonda1.jpeg",
-        "summary": "El gobernador recorrió pueblos y ciudades del centro oeste santafesino donde se realizaron los actos de entrega de 39 viviendas y el corte de cintas en la intersección de las rutas 13 y 66",
-        "pubDate": "2026-10-16T17:39:00+00:00",
         "approxTime": false
       }
     ]
