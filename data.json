@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T00:01:17.951972+00:00",
+  "generatedAt": "2026-10-16T00:22:31.978256+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Giuliano: \"Impedir la sesión fue cerrarles la puerta a las familias santafesinas que necesitan respuestas\"",
+        "link": "https://www.lacapital.com.ar/politica/giuliano-impedir-la-sesion-fue-cerrarles-la-puerta-las-familias-santafesinas-que-necesitan-respuestas-n10286962.html",
+        "image": "https://media.lacapital.com.ar/p/174a25127988225e60fdb347eb44b685/adjuntos/203/imagenes/103/472/0103472372/2026-10-15-giuliano.jpg",
+        "summary": "\"Acá faltan los diputados de Santa Fe que conduce el Gobernador Pullaro”, manifestó el legislador santafesino, quien cuestionó la falta de quorum que frustró el tratamiento del DNU 70/2023 y de iniciativas sobre discapacidad y endeudamiento familiar",
+        "pubDate": "2026-10-16T00:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El uso de la capacidad instalada en la industria bajó al 58,5 % en agosto",
         "link": "https://www.lacapital.com.ar/economia/el-uso-la-capacidad-instalada-la-industria-al-585-agosto-n10286960.html",
         "image": "https://media.lacapital.com.ar/p/a1fe2483a2ae1ed20bbda78c43d5b418/adjuntos/203/imagenes/028/186/0028186208/1200x675/smart/industria-linea-blancajpg.jpg",
@@ -195,19 +204,19 @@
       },
       {
         "source": "La Capital",
-        "title": "U2 tocará en el estadio de River Plate con Beck como telonero",
-        "link": "https://www.lacapital.com.ar/zoom/u2-tocara-el-estadio-river-plate-beck-como-telonero-n10286944.html",
-        "image": "https://media.lacapital.com.ar/p/abe478e2c8926d0b597efe726760f3b8/adjuntos/203/imagenes/103/472/0103472187/2026-10-15-u2.jpg",
-        "summary": "La preventa en línea comenzará el próximo lunes. Todavía no se sabe el precio de las entradas",
+        "title": "Urbanística 2026 cerró con una propuesta para sostener la planificación metropolitana",
+        "link": "https://www.lacapital.com.ar/la-ciudad/urbanistica-2026-cerro-una-propuesta-sostener-la-planificacion-metropolitana-n10286941.html",
+        "image": "https://media.lacapital.com.ar/p/b90c046c1527ad392e6267c8c2f264e0/adjuntos/203/imagenes/103/472/0103472176/1200x675/smart/image-25.jpg",
+        "summary": "La jornada reunió a especialistas, funcionarios, profesionales, empresarios y referentes académicos para debatir los principales desafíos del desarrollo de Rosario y su región",
         "pubDate": "2026-10-15T22:36:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Urbanística 2026 cerró con una propuesta para sostener la planificación metropolitana",
-        "link": "https://www.lacapital.com.ar/la-ciudad/urbanistica-2026-cerro-una-propuesta-sostener-la-planificacion-metropolitana-n10286941.html",
-        "image": "https://media.lacapital.com.ar/p/b90c046c1527ad392e6267c8c2f264e0/adjuntos/203/imagenes/103/472/0103472176/1200x675/smart/image-25.jpg",
-        "summary": "La jornada reunió a especialistas, funcionarios, profesionales, empresarios y referentes académicos para debatir los principales desafíos del desarrollo de Rosario y su región",
+        "title": "U2 tocará en el estadio de River Plate con Beck como telonero",
+        "link": "https://www.lacapital.com.ar/zoom/u2-tocara-el-estadio-river-plate-beck-como-telonero-n10286944.html",
+        "image": "https://media.lacapital.com.ar/p/abe478e2c8926d0b597efe726760f3b8/adjuntos/203/imagenes/103/472/0103472187/2026-10-15-u2.jpg",
+        "summary": "La preventa en línea comenzará el próximo lunes. Todavía no se sabe el precio de las entradas",
         "pubDate": "2026-10-15T22:36:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/f6e4c5b74a633392e89c022408d4d607/adjuntos/203/imagenes/103/421/0103421577/1200x675/smart/grupo-roma.jpg",
         "summary": "La Cámara de Diputados de la provincia analiza un proyecto para crear un registro digital, público y gratuito de desarrollos inmobiliarios de zonas urbanas",
         "pubDate": "2026-10-15T20:23:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cómo saber en qué dispositivos está abierta mi cuenta de WhatsApp",
-        "link": "https://www.lacapital.com.ar/informacion-general/como-saber-que-dispositivos-esta-abierta-mi-cuenta-whatsapp-n10286901.html",
-        "image": "https://media.lacapital.com.ar/p/09f532d5bfb655505c6fe86b89b57000/adjuntos/203/imagenes/102/727/0102727822/1200x675/smart/whatsapp-celular.png",
-        "summary": "Desde la configuración se pueden detectar accesos desde dispositivos desconocidos o sesiones abiertas que se desean cerrar. Cómo hacerlo",
-        "pubDate": "2026-10-15T20:22:00+00:00",
         "approxTime": false
       }
     ]
