@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T19:55:27.647836+00:00",
+  "generatedAt": "2026-10-16T20:01:07.662036+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Javkin: \"Hay que aprobar la legalización de Uber de una vez y dejarse de joder\"",
+        "link": "https://www.lacapital.com.ar/la-ciudad/javkin-hay-que-aprobar-la-legalizacion-uber-una-vez-y-dejarse-joder-n10287124.html",
+        "image": "https://media.lacapital.com.ar/p/cb86aa76e674c01c905733dcb3edae90/adjuntos/203/imagenes/103/109/0103109704/uber-rosario-271.jpg",
+        "summary": "El intendente cuestionó a los concejales que rechazaron la propuesta para regularizar las aplicaciones de transporte y defendió la iniciativa para dar seguridad a usuarios y choferes",
+        "pubDate": "2026-10-16T19:56:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El Niño: Santa Fe sumó 90 bombas para responder a posibles crecidas y lluvias intensas",
         "link": "https://www.lacapital.com.ar/la-ciudad/el-nino-santa-fe-sumo-90-bombas-responder-posibles-crecidas-y-lluvias-intensas-n10287122.html",
         "image": "https://media.lacapital.com.ar/p/38b3e4d76e9d30c4a9772b465517e3a4/adjuntos/203/imagenes/103/474/0103474172/1200x675/smart/bombas-santa-fe.png",
@@ -159,19 +168,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Milei finalizó su viaje a Estados Unidos y ya prepara su inminente visita a España",
-        "link": "https://www.lacapital.com.ar/politica/milei-finalizo-su-viaje-estados-unidos-y-ya-prepara-su-inminente-visita-espana-n10287102.html",
-        "image": "https://media.lacapital.com.ar/p/b874de2119a822d83fae9674967d3c34/adjuntos/203/imagenes/103/473/0103473984/1200x675/smart/jm1.jpg",
-        "summary": "Asimismo, el presidente tiene previsto desembarcar la semana próxima en Neuquén y Catamarca",
+        "title": "Horacio Marín en Rosario: \"YPF es la argentinidad al palo\"",
+        "link": "https://www.lacapital.com.ar/economia/horacio-marin-rosario-ypf-es-la-argentinidad-al-palo-n10287106.html",
+        "image": "https://media.lacapital.com.ar/p/cd679d51828d4fce8d1f3d350ad46a33/adjuntos/203/imagenes/103/473/0103473983/1200x675/smart/marin272.jpg",
+        "summary": "El presidente de la petrolera nacional dio una charla abierta de dos horas en la Bolsa de Comercio. Contó los proyectos para escalar la operación en Vaca Muerta y exportar gas licuado. Aseguró que Santa Fe Bio comenzará a exportar SAF en 2030 y defendió el \"efecto derrame\" de la…",
         "pubDate": "2026-10-16T18:48:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Horacio Marín en Rosario: \"YPF es la argentinidad al palo\"",
-        "link": "https://www.lacapital.com.ar/economia/horacio-marin-rosario-ypf-es-la-argentinidad-al-palo-n10287106.html",
-        "image": "https://media.lacapital.com.ar/p/cd679d51828d4fce8d1f3d350ad46a33/adjuntos/203/imagenes/103/473/0103473983/1200x675/smart/marin272.jpg",
-        "summary": "El presidente de la petrolera nacional dio una charla abierta de dos horas en la Bolsa de Comercio. Contó los proyectos para escalar la operación en Vaca Muerta y exportar gas licuado. Aseguró que Santa Fe Bio comenzará a exportar SAF en 2030 y defendió el \"efecto derrame\" de la…",
+        "title": "Milei finalizó su viaje a Estados Unidos y ya prepara su inminente visita a España",
+        "link": "https://www.lacapital.com.ar/politica/milei-finalizo-su-viaje-estados-unidos-y-ya-prepara-su-inminente-visita-espana-n10287102.html",
+        "image": "https://media.lacapital.com.ar/p/b874de2119a822d83fae9674967d3c34/adjuntos/203/imagenes/103/473/0103473984/1200x675/smart/jm1.jpg",
+        "summary": "Asimismo, el presidente tiene previsto desembarcar la semana próxima en Neuquén y Catamarca",
         "pubDate": "2026-10-16T18:48:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/6ef539778632f6d441558a8080a201b9/adjuntos/203/imagenes/102/993/0102993357/1200x675/smart/whatsapp-celular.png",
         "summary": "Una función de la aplicación permite a los padres cuidar a sus hijos sin tener que revisar sus conversaciones y manteniendo su privacidad. Cómo funciona y cómo crear una cuenta de este tipo",
         "pubDate": "2026-10-16T16:59:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Anmat prohibió el uso y la venta de un equipo de depilación láser",
-        "link": "https://www.lacapital.com.ar/informacion-general/anmat-prohibio-el-uso-y-la-venta-un-equipo-depilacion-laser-n10287058.html",
-        "image": "https://media.lacapital.com.ar/p/e04c360766e1b76b18a36822094fbf07/adjuntos/203/imagenes/102/704/0102704000/1200x675/smart/image-2025-09-25t113052834.jpg",
-        "summary": "La medida fue tomada al no poder determinar el origen del producto en el país ni las condiciones en que se encuentra",
-        "pubDate": "2026-10-16T16:58:00+00:00",
         "approxTime": false
       }
     ]
