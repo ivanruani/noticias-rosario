@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T00:22:31.978256+00:00",
+  "generatedAt": "2026-10-16T00:31:00.852338+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Cayó la participación de los trabajadores en el ingreso",
+        "link": "https://www.lacapital.com.ar/economia/cayo-la-participacion-los-trabajadores-el-ingreso-n10286961.html",
+        "image": "https://media.lacapital.com.ar/p/86d041ebae99d3be2d8f0d9d600c59d7/adjuntos/203/imagenes/103/125/0103125107/1200x675/smart/cgt2.jpeg",
+        "summary": "Según el Indec, la remuneración del trabajo redujo más de dos puntos su participación en el valor agregado bruto, en el segundo trimestre del año. Cayeron los empleos en blanco y crecieron los puestos no asalariados",
+        "pubDate": "2026-10-16T00:22:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Frank Kudelka está rearmando el once de Newell's sin la presencia de su sancionado capitán",
+        "link": "https://www.lacapital.com.ar/ovacion/frank-kudelka-esta-rearmando-el-once-newells-la-presencia-su-sancionado-capitan-n10286963.html",
+        "image": "https://media.lacapital.com.ar/p/0d71ad2a3cada1710a41898e1799cadc/adjuntos/203/imagenes/103/472/0103472382/1200x675/smart/image-16.jpg",
+        "summary": "Luca Regiardo se queda afuera por acumulación de amarillas y Frank Kudelka está pensando en su reemplazante, que sería uno de los juveniles",
+        "pubDate": "2026-10-16T00:19:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Giuliano: \"Impedir la sesión fue cerrarles la puerta a las familias santafesinas que necesitan respuestas\"",
         "link": "https://www.lacapital.com.ar/politica/giuliano-impedir-la-sesion-fue-cerrarles-la-puerta-las-familias-santafesinas-que-necesitan-respuestas-n10286962.html",
         "image": "https://media.lacapital.com.ar/p/174a25127988225e60fdb347eb44b685/adjuntos/203/imagenes/103/472/0103472372/2026-10-15-giuliano.jpg",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/4a1479672475ad972630da28b45b12e6/adjuntos/203/imagenes/103/471/0103471942/1200x675/smart/imageavila.jpg",
         "summary": "Franco Domínguez Ávila no volvió a jugar ni a entrenarse con la Reserva del Pincha tras la viralización de una foto celebrando la Supercopa Internacional junto al defensor canalla.",
         "pubDate": "2026-10-15T21:07:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Debate sobre inteligencia artificial en empresas, trabajo y sociedad llega a Rosario",
-        "link": "https://www.lacapital.com.ar/novedades/debate-inteligencia-artificial-empresas-trabajo-y-sociedad-llega-rosario-n10286920.html",
-        "image": "https://media.lacapital.com.ar/p/88612fe5572c2d39f31c3493acb7d7bc/adjuntos/203/imagenes/103/471/0103471936/1200x675/smart/imagen-nota.jpg",
-        "summary": "La Comunidad BIRRIA y la Fundación para la Democratización de la IA organizan un encuentro gratuito el 21 de octubre en la Bolsa de Comercio, en el marco de Rosario Tech Week 2026",
-        "pubDate": "2026-10-15T21:05:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Reclamos a Grupo Roma: impulsan un sistema de información de loteos en Santa Fe",
-        "link": "https://www.lacapital.com.ar/la-ciudad/reclamos-grupo-roma-impulsan-un-sistema-informacion-loteos-santa-fe-n10286842.html",
-        "image": "https://media.lacapital.com.ar/p/f6e4c5b74a633392e89c022408d4d607/adjuntos/203/imagenes/103/421/0103421577/1200x675/smart/grupo-roma.jpg",
-        "summary": "La Cámara de Diputados de la provincia analiza un proyecto para crear un registro digital, público y gratuito de desarrollos inmobiliarios de zonas urbanas",
-        "pubDate": "2026-10-15T20:23:00+00:00",
         "approxTime": false
       }
     ]
