@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-10-16T23:01:12.146737+00:00",
+  "generatedAt": "2026-10-16T23:30:57.947285+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Crecida del río Paraná: Santa Fe sumó 90 bombas ante posibles emergencias e inundaciones por El Niño",
+        "link": "https://www.rosario3.com/informaciongeneral/crecida-del-rio-parana-santa-fe-sumo-90-bombas-ante-posibles-emergencias-e-inundaciones-por-el-nino-20261016-0068.html",
+        "image": "https://www.rosario3.com/__export/1792183611183/sites/rosario3/img/2026/10/16/bombas_-1-.jpg_506286608.jpg",
+        "summary": "El gobierno provincial las adquirió por $1.109.772.600 para reforzar la capacidad de respuesta ante posibles emergencias hídricas y se distribuirán en distintos puntos, con especial atención en el centro-norte. Las autoridades monitorean el nivel del agua, que en Rosario alcanza…",
+        "pubDate": "2026-10-16T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Más de 20 allanamientos contra la banda que tomó la posta tras el cimbronazo por el crimen del policía en Villa Banana",
         "link": "https://www.rosario3.com/policiales/mas-de-20-allanamientos-contra-la-banda-que-tomo-la-posta-tras-el-cimbronazo-por-el-crimen-del-policia-en-villa-banana-20261016-0070.html",
         "image": "https://www.rosario3.com/__export/1782212193804/sites/rosario3/img/2026/06/13/villa_banana_crimen_manfredi.jpeg_982625323.jpeg",
         "summary": "El homicidio del suboficial Rodolfo Manfredi precipitó la caída del clan Muñoz, que regenteaba la venta de drogas en el asentamiento del oeste rosarino. Ahora, una investigación detectó a un nuevo “apoderado” del territorio, que, sin embargo, permanece prófugo",
-        "pubDate": "2026-10-16T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Con un .38 en la cartuchera: niño de 4 años fue al jardín con un revólver en Rosario",
-        "link": "https://www.rosario3.com/policiales/con-un-.38-en-la-cartuchera-nino-de-4-anos-fue-al-jardin-con-un-revolver-20261016-0074.html",
-        "image": "https://www.rosario3.com/__export/1792187788517/sites/rosario3/img/2026/10/11/policia.jpg_1825222445.jpg",
-        "summary": "Ocurrió este viernes por la tarde en una institución del oeste de la ciudad. El arma no tenía municiones. Intervino el Comando Radioeléctrico",
         "pubDate": "2026-10-16T11:59:00+00:00",
         "approxTime": true
       },
@@ -49,11 +49,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Con un .38 en la cartuchera: niño de 4 años fue al jardín con un revólver en Rosario",
+        "link": "https://www.rosario3.com/policiales/con-un-.38-en-la-cartuchera-nino-de-4-anos-fue-al-jardin-con-un-revolver-20261016-0074.html",
+        "image": "https://www.rosario3.com/__export/1792187788517/sites/rosario3/img/2026/10/11/policia.jpg_1825222445.jpg",
+        "summary": "Ocurrió este viernes por la tarde en una institución del oeste de la ciudad. El arma no tenía municiones. Intervino el Comando Radioeléctrico",
+        "pubDate": "2026-10-16T11:55:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Quedó preso el hombre acusado de prender fuego a su pareja embarazada de ocho meses en Granadero Baigorria",
         "link": "https://www.rosario3.com/policiales/quedo-preso-el-hombre-acusado-de-prender-fuego-a-su-pareja-embarazada-de-ocho-meses-en-granadero-baigorria-20261016-0073.html",
         "image": "https://www.rosario3.com/__export/1791853108097/sites/rosario3/img/2026/10/12/baigorria.jpg_328270839.jpg",
-        "summary": "M.C., de 36 años, fue imputado este viernes en el Centro de Justicia Penal de Rosario por el intento de asesinato de una joven de 29 años, a la que, según la teoría de la Fiscalía, roció con alcohol etílico y luego prendió fuego con intención de darle muerte. A la mujer, que…",
-        "pubDate": "2026-10-16T11:55:00+00:00",
+        "summary": "Maximiliano Castagnino., de 36 años, fue imputado este viernes en el Centro de Justicia Penal de Rosario por el intento de asesinato de una joven de 29 años, a la que, según la teoría de la Fiscalía, roció con alcohol etílico y luego prendió fuego con un encendedor con intención…",
+        "pubDate": "2026-10-16T11:54:00+00:00",
         "approxTime": true
       },
       {
@@ -62,15 +71,6 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/la-inflacion-mayorista-volvio-a-acelerarse-en-septiembre-y-fue-de-32-20261016-0066.html",
         "image": "https://www.rosario3.com/__export/1792182295416/sites/rosario3/img/2026/10/16/mayorista.jpg_2106848869.jpg",
         "summary": "El Indec informó este viernes que la variación del Índice de Precios Internos al por Mayor fue superior a la inflación minorista, ya que los precios al consumidor se movieron 1,9% en el noveno mes del año",
-        "pubDate": "2026-10-16T11:54:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Deudores alimentarios de Santa Fe ya no podrán ingresar a la cancha ni al casino",
-        "link": "https://www.rosario3.com/informaciongeneral/deudores-alimentarios-de-santa-fe-ya-no-podran-ingresar-a-la-cancha-ni-al-casino-20261016-0044.html",
-        "image": "https://www.rosario3.com/__export/1792170503813/sites/rosario3/img/2026/10/16/diputados.jpg_1768679257.jpg",
-        "summary": "El nuevo Registro aprobado por la Cámara de Diputados de la provincia, incorporará automáticamente a quienes incumplan de forma parcial o total el pago de cuota alimentaria fijada por la Justicia. La ley también prevé sanciones más severas para quienes acumulen deuda…",
         "pubDate": "2026-10-16T11:53:00+00:00",
         "approxTime": true
       },
@@ -130,15 +130,42 @@
       },
       {
         "source": "Rosario3",
-        "title": "Causa Andis: amplían el procesamiento de Spagnuolo y otros acusados por el esquema de sobreprecios en la compra de insumos",
-        "link": "https://www.rosario3.com/informaciongeneral/causa-andis-amplian-el-procesamiento-de-spagnuolo-y-otros-acusados-por-el-esquema-de-sobreprecios-en-la-compra-de-insumos-20261016-0049.html",
-        "image": "https://www.rosario3.com/__export/1792174648567/sites/rosario3/img/2026/10/16/andis.jpg_1768679258.jpg",
-        "summary": "Lo dispuso el juez Ariel Lijo en el marco de la causa en que se investiga una presunta asociación ilícita; el magistrado estimó un perjuicio al Estado de $1849 millones",
+        "title": "Deudores alimentarios de Santa Fe ya no podrán ingresar a la cancha ni al casino",
+        "link": "https://www.rosario3.com/informaciongeneral/deudores-alimentarios-de-santa-fe-ya-no-podran-ingresar-a-la-cancha-ni-al-casino-20261016-0044.html",
+        "image": "https://www.rosario3.com/__export/1792170503813/sites/rosario3/img/2026/10/16/diputados.jpg_1768679257.jpg",
+        "summary": "El nuevo Registro aprobado por la Cámara de Diputados de la provincia, incorporará automáticamente a quienes incumplan de forma parcial o total el pago de cuota alimentaria fijada por la Justicia. La ley también prevé sanciones más severas para quienes acumulen deuda…",
         "pubDate": "2026-10-16T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "La EPE recambió más de 120 kilómetros de cables de baja tensión y reparó mil veredas en Rosario",
+        "link": "https://www.lacapital.com.ar/la-ciudad/la-epe-recambio-mas-120-kilometros-cables-baja-tension-y-reparo-mil-veredas-rosario-n10286957.html",
+        "image": "https://media.lacapital.com.ar/p/cb10f65ff73200a0cb72cb69ad0097d1/adjuntos/203/imagenes/103/472/0103472346/1200x675/smart/obras-epe-1.jpeg",
+        "summary": "Las obras alcanzan al microcentro, al centro y a barrios, con una inversión de $ 17.250 millones del plan para modernizar el servicio eléctrico de la EPE",
+        "pubDate": "2026-10-16T23:24:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Messi, Kily González y el Tata Martino se cruzan en un estadio inolvidable para los argentinos",
+        "link": "https://www.lacapital.com.ar/ovacion/messi-kily-gonzalez-y-el-tata-martino-se-cruzan-un-estadio-inolvidable-los-argentinos-n10287151.html",
+        "image": "https://media.lacapital.com.ar/p/acbcad5a06f7552c479b8f1c47cacf1d/adjuntos/203/imagenes/103/474/0103474509/atlanta.jpg",
+        "summary": "Este sábado por la noche, Inter Miami visita a Atlanta United, en el estadio donde la selección argentina vivió su máxima alegría en el último Mundial",
+        "pubDate": "2026-10-16T23:04:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Regional del Litoral: una fecha crucial que puede definir las semifinales",
+        "link": "https://www.lacapital.com.ar/ovacion/regional-del-litoral-una-fecha-crucial-que-puede-definir-las-semifinales-n10287154.html",
+        "image": "https://media.lacapital.com.ar/p/02cac20d463bd2cf479ad6899aa13a92/adjuntos/203/imagenes/103/474/0103474482/sin-titulo.jpg",
+        "summary": "Entre los candidatos para acompañar al ya clasificado Duendes está Jockey Club Rosario, que este sábado enfrenta al verdinegro en el clásico de la ciudad",
+        "pubDate": "2026-10-16T22:58:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Verdecchia: \"Ni cuando fui intendente ni ahora como senador voy a ceder ante las mafias\"",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/b800597a8bfa2527578665ee3a74b6ea/adjuntos/203/imagenes/103/473/0103473027/almironssm.jpeg",
         "summary": "El técnico canalla volvería a cambiar el esquema en Tucumán. Cantizano podría reaparecer y en el medio Alan Rodríguez corre con ventaja sobre Juan Giménez",
         "pubDate": "2026-10-16T20:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Javkin: \"Hay que aprobar la legalización de Uber de una vez y dejarse de joder\"",
-        "link": "https://www.lacapital.com.ar/la-ciudad/javkin-hay-que-aprobar-la-legalizacion-uber-una-vez-y-dejarse-joder-n10287124.html",
-        "image": "https://media.lacapital.com.ar/p/cb86aa76e674c01c905733dcb3edae90/adjuntos/203/imagenes/103/109/0103109704/uber-rosario-271.jpg",
-        "summary": "El intendente cuestionó a los concejales que rechazaron la propuesta para regularizar las aplicaciones de transporte y defendió la iniciativa para dar seguridad a usuarios y choferes",
-        "pubDate": "2026-10-16T19:56:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El Niño: Santa Fe sumó 90 bombas para responder a posibles crecidas y lluvias intensas",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-nino-santa-fe-sumo-90-bombas-responder-posibles-crecidas-y-lluvias-intensas-n10287122.html",
-        "image": "https://media.lacapital.com.ar/p/38b3e4d76e9d30c4a9772b465517e3a4/adjuntos/203/imagenes/103/474/0103474172/1200x675/smart/bombas-santa-fe.png",
-        "summary": "La provincia invirtió más de $1.109 millones en equipos de bombeo para reforzar la respuesta ante posibles crecidas de ríos, lluvias intensas y anegamientos",
-        "pubDate": "2026-10-16T19:48:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El Centro de Salud Matheu sumó consultorios, farmacia y nuevos espacios de atención",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-centro-salud-matheu-sumo-consultorios-farmacia-y-nuevos-espacios-atencion-n10287112.html",
-        "image": "https://media.lacapital.com.ar/p/20375560a91de5737b91014a53c84338/adjuntos/203/imagenes/103/474/0103474052/1200x675/smart/centro-salud.png",
-        "summary": "La remodelación demandó una inversión de casi $167 millones y permitió ampliar el efector de la zona sur de Rosario de 174 a 273 m². Es el décimo centro renovado",
-        "pubDate": "2026-10-16T19:05:00+00:00",
         "approxTime": false
       }
     ]
