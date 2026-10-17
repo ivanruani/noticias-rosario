@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T21:01:09.737778+00:00",
+  "generatedAt": "2026-10-17T21:24:40.074664+00:00",
   "sites": {
     "rosario3": [
       {
@@ -22,11 +22,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Salir del encierro e imaginar \"mundos posibles\": cómo es el taller de realidad virtual para presos",
-        "link": "https://www.rosario3.com/especiales/salir-del-encierro-e-imaginar-mundos-posibles-como-es-el-taller-de-realidad-virtual-para-presos-20261016-0064.html",
-        "image": "https://www.rosario3.com/__export/1792180715196/sites/rosario3/img/2026/10/16/dsc03620.jpg_2106848869.jpg",
-        "summary": "'Un lugar en el mundo' es un espacio de narrativa inmersiva que recorre las unidades penitenciarias. Comenzó en 2022 y ya lleva 54 historias grabadas con equipos de 360º. La experiencia de los internos que piden perdón a sus familias o vuelven a ver a sus hijos y la apuesta por…",
-        "pubDate": "2026-10-16T11:58:00+00:00",
+        "title": "Newell’s derrotó a Central en el clásico y avanzó a la final de la Copa Santa Fe: enfrentará a Atlético Tostado",
+        "link": "https://www.rosario3.com/deportes/clasico-por-la-copa-santa-fe-central-y-newells-jugaran-este-sabado-a-puertas-cerradas-20261015-0017.html",
+        "image": "https://www.rosario3.com/__export/1792268020763/sites/rosario3/img/2026/10/17/gol-nob.jpg_928314580.jpg",
+        "summary": "La Lepra se quedó con el triunfo por 1 a 0 gracias al gol de Joaquín Amadio a los 34 minutos del primer tiempo. Francisco Sciarini, el arquero leproso fue la gran figura atajando dos remates sobre el final del encuentro",
+        "pubDate": "2026-10-15T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -67,11 +67,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Central busca el empate mientras que Newell’s lo aguanta con uno menos en la semifinal de la Copa Santa Fe",
-        "link": "https://www.rosario3.com/deportes/clasico-por-la-copa-santa-fe-central-y-newells-jugaran-este-sabado-a-puertas-cerradas-20261015-0017.html",
-        "image": "https://www.rosario3.com/__export/1792268020763/sites/rosario3/img/2026/10/17/gol-nob.jpg_928314580.jpg",
-        "summary": "El encuentro arrancó a las 16 hs y en la gran final espera Atlético Tostado. Por disposición de Seguridad, hay pocos hinchas en las tribunas ni en las inmediaciones. Solo ingresó una delegación reducida por club. Se transmite por Radio 2. Los detalles",
-        "pubDate": "2026-10-15T11:53:00+00:00",
+        "title": "Salir del encierro e imaginar \"mundos posibles\": cómo es el taller de realidad virtual para presos",
+        "link": "https://www.rosario3.com/especiales/salir-del-encierro-e-imaginar-mundos-posibles-como-es-el-taller-de-realidad-virtual-para-presos-20261016-0064.html",
+        "image": "https://www.rosario3.com/__export/1792180715196/sites/rosario3/img/2026/10/16/dsc03620.jpg_2106848869.jpg",
+        "summary": "'Un lugar en el mundo' es un espacio de narrativa inmersiva que recorre las unidades penitenciarias. Comenzó en 2022 y ya lleva 54 historias grabadas con equipos de 360º. La experiencia de los internos que piden perdón a sus familias o vuelven a ver a sus hijos y la apuesta por…",
+        "pubDate": "2026-10-16T11:53:00+00:00",
         "approxTime": true
       },
       {
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Newell's celebró en el clásico rosarino y es finalista de la Copa Santa Fe",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-celebro-el-clasico-rosarino-y-es-finalista-la-copa-santa-fe-n10287232.html",
+        "image": "https://media.lacapital.com.ar/p/a6468f80d9898825ef769eb43ee6a5dc/adjuntos/203/imagenes/103/475/0103475924/1200x675/smart/image-2026-10-17t174252786.png",
+        "summary": "El delantero Joaquín Amadio le dio la victoria a la Lepra por 1 a 0 y definirá la copa frente a Atlético Tostado. Gran actuación del arquero Francisco Sciarini",
+        "pubDate": "2026-10-17T21:19:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Tres producciones para conocer este fin de semana en streaming",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/61b7444ea0f918fda8b7549e25053eaf/adjuntos/203/imagenes/103/475/0103475141/papa-leon-xiv.jpg",
         "summary": "Los últimos estudios médicos en Roma ratificaron que el sumo pontífice tuvo una buena evolución luego de la operación por un adenocarcinoma de pulmón",
         "pubDate": "2026-10-17T13:38:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "General Lagos vivió una jornada de prevención e información en el marco de la campaña Octubre Rosa",
-        "link": "https://www.lacapital.com.ar/la-region/general-lagos-vivio-una-jornada-prevencion-e-informacion-el-marco-la-campana-octubre-rosa-n10287079.html",
-        "image": "https://media.lacapital.com.ar/p/c04097e6e5f91b92ec5a918fc4882604/adjuntos/203/imagenes/103/473/0103473581/1200x675/smart/grallagos-octubrerosa3.jpeg",
-        "summary": "La propuesta combinó datos médicos, dinámicas grupales y juegos para informar con seriedad dentro de un contexto distendido y participarivo",
-        "pubDate": "2026-10-17T13:05:00+00:00",
         "approxTime": false
       }
     ]
