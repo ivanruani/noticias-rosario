@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T19:01:09.547087+00:00",
+  "generatedAt": "2026-10-17T19:30:58.794148+00:00",
   "sites": {
     "rosario3": [
       {
@@ -67,10 +67,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Con formaciones confirmadas, Central y Newell’s juegan este sábado a puertas cerradas por las semifinales de la Copa Santa Fe",
+        "title": "En un partido muy cerrado, Central y Newell’s igualan sin goles en la semifinal de la Copa Santa Fe",
         "link": "https://www.rosario3.com/deportes/clasico-por-la-copa-santa-fe-central-y-newells-jugaran-este-sabado-a-puertas-cerradas-20261015-0017.html",
-        "image": "https://www.rosario3.com/__export/1792065837551/sites/rosario3/img/2026/10/15/image_-30-.jpg_2106848869.jpg",
-        "summary": "Será a las 16 hs en la cancha de Argentino de Rosario. Por disposición de Seguridad, no habrá hinchas en las tribunas ni en las inmediaciones. Solo ingresará una delegación reducida por club. Será con tranmisión de Radio 2. Los detalles",
+        "image": "https://www.rosario3.com/__export/1792265404590/sites/rosario3/img/2026/10/17/rc-nob.jpg_928314580.jpg",
+        "summary": "Será a las 16 hs y en la gran final espera Atlético Tostado. Por disposición de Seguridad, no habrá hinchas en las tribunas ni en las inmediaciones. Solo ingresará una delegación reducida por club. Será con tranmisión de Radio 2. Los detalles",
         "pubDate": "2026-10-15T11:53:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Horacio Vargas presenta su último libro con nuevas crónicas de Rosario",
+        "link": "https://www.lacapital.com.ar/horacio-vargas-presenta-su-ultimo-libro-nuevas-cronicas-rosario-n10287234.html",
+        "image": "https://media.lacapital.com.ar/p/06c44287b48c24ba0e13d97649b702b8/adjuntos/203/imagenes/103/475/0103475638/1200x675/smart/whatsapp-image-2026-10-09-at-173150.jpeg",
+        "summary": "El domingo 18 a las 18, en la Feria del Libro. Lo acompañarán Reynaldo Sietecase y Sebastián Riestra.\"Postales de una ciudad\" fue publicado por Homo Sapiens",
+        "pubDate": "2026-10-17T19:17:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Siniestro fatal en la ruta 34: dos personas murieron y otras dos fueron rescatadas",
@@ -262,15 +271,6 @@
         "link": "https://www.lacapital.com.ar/turismo/rosario-un-septiembre-record-y-un-octubre-que-mantiene-el-impulso-turistico-n10287067.html",
         "image": "https://media.lacapital.com.ar/p/cad6256ff237ebb7f0f02656490031f2/adjuntos/203/imagenes/103/473/0103473593/imagen-nota.jpg",
         "summary": "La ciudad recibió más de 859.000 visitantes el mes pasado, con una ocupación hotelera del 77% y un impacto económico superior a los $62.800 millones",
-        "pubDate": "2026-10-17T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Punta Tombo inauguró la temporada de pingüinos con nuevos senderos y espacios renovados",
-        "link": "https://www.lacapital.com.ar/turismo/punta-tombo-inauguro-la-temporada-pinguinos-nuevos-senderos-y-espacios-renovados-n10287069.html",
-        "image": "https://media.lacapital.com.ar/p/c63afcfd0cbf49098d5f1ad0b3f8e27f/adjuntos/203/imagenes/103/473/0103473432/imagen-nota.jpg",
-        "summary": "La reserva chubutense vuelve a recibir visitantes con mejoras en los accesos, rampas accesibles y una sala audiovisual inmersiva",
         "pubDate": "2026-10-17T10:00:00+00:00",
         "approxTime": false
       }
