@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T18:31:02.980239+00:00",
+  "generatedAt": "2026-10-17T19:01:09.547087+00:00",
   "sites": {
     "rosario3": [
       {
@@ -67,7 +67,7 @@
       },
       {
         "source": "Rosario3",
-        "title": "Central y Newell’s juegan este sábado a puertas cerradas por las semifinales de la Copa Santa Fe",
+        "title": "Con formaciones confirmadas, Central y Newell’s juegan este sábado a puertas cerradas por las semifinales de la Copa Santa Fe",
         "link": "https://www.rosario3.com/deportes/clasico-por-la-copa-santa-fe-central-y-newells-jugaran-este-sabado-a-puertas-cerradas-20261015-0017.html",
         "image": "https://www.rosario3.com/__export/1792065837551/sites/rosario3/img/2026/10/15/image_-30-.jpg_2106848869.jpg",
         "summary": "Será a las 16 hs en la cancha de Argentino de Rosario. Por disposición de Seguridad, no habrá hinchas en las tribunas ni en las inmediaciones. Solo ingresará una delegación reducida por club. Será con tranmisión de Radio 2. Los detalles",
@@ -139,6 +139,24 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Siniestro fatal en la ruta 34: dos personas murieron y otras dos fueron rescatadas",
+        "link": "https://www.lacapital.com.ar/la-region/siniestro-fatal-la-ruta-34-dospersonas-murieron-y-otras-dos-fueron-rescatadas-n10287206.html",
+        "image": "https://media.lacapital.com.ar/p/44f503c24e9176f108127435293fa435/adjuntos/203/imagenes/103/475/0103475607/1200x675/smart/ruta-34-siniestro-fatal-1710.jpg",
+        "summary": "El hecho ocurrió minutos antes de las 11.30 de este sábado cuando una camioneta perdió el control a la altura de Lehmann",
+        "pubDate": "2026-10-17T18:50:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Tras la denuncia por presunta estafa, Hernán Casciari rompió el silencio",
+        "link": "https://www.lacapital.com.ar/zoom/tras-la-denuncia-presunta-estafa-hernan-casciari-rompio-el-silencio-n10287225.html",
+        "image": "https://media.lacapital.com.ar/p/c7048e395a268fba5fd02741a2a9a6f6/adjuntos/203/imagenes/103/475/0103475610/1200x675/smart/image-2026-10-17t153920346.png",
+        "summary": "El creador y director de la revista Orsai rechazó las acusaciones de un grupo de personas que lo demandaron y dio su versión de los hechos",
+        "pubDate": "2026-10-17T18:38:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "José Mayans, contra Milei en el Día de la Lealtad: \"El justicialismo es otra cosa\"",
@@ -253,24 +271,6 @@
         "link": "https://www.lacapital.com.ar/turismo/punta-tombo-inauguro-la-temporada-pinguinos-nuevos-senderos-y-espacios-renovados-n10287069.html",
         "image": "https://media.lacapital.com.ar/p/c63afcfd0cbf49098d5f1ad0b3f8e27f/adjuntos/203/imagenes/103/473/0103473432/imagen-nota.jpg",
         "summary": "La reserva chubutense vuelve a recibir visitantes con mejoras en los accesos, rampas accesibles y una sala audiovisual inmersiva",
-        "pubDate": "2026-10-17T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Gramado, una ciudad de aire europeo entre montañas, chocolates y parques temáticos",
-        "link": "https://www.lacapital.com.ar/turismo/gramado-una-ciudad-aire-europeo-montanas-chocolates-y-parques-tematicos-n10287070.html",
-        "image": "https://media.lacapital.com.ar/p/ae29dfcdd9cda2744769530eed4fe73b/adjuntos/203/imagenes/103/473/0103473523/imagen-nota.jpg",
-        "summary": "En la Sierra Gaúcha, este destino combina arquitectura de inspiración alemana, lagos, gastronomía y propuestas para viajeros de todas las edades",
-        "pubDate": "2026-10-17T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Diez años convirtiendo sueños en viajes",
-        "link": "https://www.lacapital.com.ar/turismo/diez-anos-convirtiendo-suenos-viajes-n10287086.html",
-        "image": "https://media.lacapital.com.ar/p/ffcdad01cc14bb538ca183a8a749c280/adjuntos/203/imagenes/103/473/0103473811/bald-traveler-in-bustling-airport-terminal.png",
-        "summary": "Desde sus primeros pasos en el turismo, en 1989, hasta la creación de su propia agencia en Arroyo Seco, Andrés Acoroni construyó una trayectoria basada en la atención personalizada y el acompañamiento de sus pasajeros",
         "pubDate": "2026-10-17T10:00:00+00:00",
         "approxTime": false
       }
