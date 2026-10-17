@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T20:01:10.343404+00:00",
+  "generatedAt": "2026-10-17T20:30:55.832496+00:00",
   "sites": {
     "rosario3": [
       {
@@ -67,10 +67,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Se abrió el marcador en la semifinal de la Copa Santa Fe: Newell’s le gana a Central en el José Martín Olaeta de Argentino",
+        "title": "Al inicio del segundo tiempo, Newell’s le gana a Central en la semifinal de la Copa Santa Fe",
         "link": "https://www.rosario3.com/deportes/clasico-por-la-copa-santa-fe-central-y-newells-jugaran-este-sabado-a-puertas-cerradas-20261015-0017.html",
-        "image": "https://www.rosario3.com/__export/1792265404590/sites/rosario3/img/2026/10/17/rc-nob.jpg_928314580.jpg",
-        "summary": "El encuentro arrancó a las 16 hs y en la gran final espera Atlético Tostado. Por disposición de Seguridad, hay pocos hinchas en las tribunas ni en las inmediaciones. Solo ingresó una delegación reducida por club. Será con tranmisión de Radio 2. Los detalles",
+        "image": "https://www.rosario3.com/__export/1792268020763/sites/rosario3/img/2026/10/17/gol-nob.jpg_928314580.jpg",
+        "summary": "El encuentro arrancó a las 16 hs y en la gran final espera Atlético Tostado. Por disposición de Seguridad, hay pocos hinchas en las tribunas ni en las inmediaciones. Solo ingresó una delegación reducida por club. Se transmite por Radio 2. Los detalles",
         "pubDate": "2026-10-15T11:53:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,33 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Tres producciones para conocer este fin de semana en streaming",
+        "link": "https://www.lacapital.com.ar/zoom/tres-producciones-conocer-este-fin-semana-streaming-n10287104.html",
+        "image": "https://media.lacapital.com.ar/p/ca9595d81eb86ec6c983e8ab771f837f/adjuntos/203/imagenes/103/474/0103474007/1200x675/smart/image-7.png",
+        "summary": "Relatos de drama, romance y terror prometen llevarse toda la atención de los usuarios en las distintas plataformas de streaming",
+        "pubDate": "2026-10-17T20:16:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Rosario tiene a la primera mujer al frente de una asociación de electricistas en Argentina",
+        "link": "https://www.lacapital.com.ar/la-ciudad/rosario-tiene-la-primera-mujer-al-frente-una-asociacion-electricistas-argentina-n10287208.html",
+        "image": "https://media.lacapital.com.ar/p/fbc3f585bd6d250d637bd2ef02d18ce7/adjuntos/203/imagenes/103/475/0103475572/1200x675/smart/electricista-1710-2.jpg",
+        "summary": "Luciana Serrano se hizo cargo de la Asociación de Profesionales Electricistas y junto a su comisión directiva impulsaron capacitaciones gratuitas y trabajan en una ley de seguridad eléctrica",
+        "pubDate": "2026-10-17T20:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central Córdoba dio el primer paso en el Reducido con una victoria merecida en el Gabino Sosa",
+        "link": "https://www.lacapital.com.ar/ovacion/central-cordoba-dio-el-primer-paso-el-reducido-una-victoria-merecida-el-gabino-sosa-n10287236.html",
+        "image": "https://media.lacapital.com.ar/p/eb21c6e3b9a44820c8d1d3e57d714ad2/adjuntos/203/imagenes/103/475/0103475686/1200x675/smart/image-24.jpg",
+        "summary": "El veterano Paulo Killer hizo la diferencia en el primer tiempo y ahora Central Córdoba va con ventaja a la revancha con Centro Español.",
+        "pubDate": "2026-10-17T20:01:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Conmoción en zona oeste: un niño fue al jardín de infantes con un arma en su cartuchera",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/c04097e6e5f91b92ec5a918fc4882604/adjuntos/203/imagenes/103/473/0103473581/1200x675/smart/grallagos-octubrerosa3.jpeg",
         "summary": "La propuesta combinó datos médicos, dinámicas grupales y juegos para informar con seriedad dentro de un contexto distendido y participarivo",
         "pubDate": "2026-10-17T13:05:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La subasta de bienes incautados al delito en Santa Fe terminó con una recaudación récord",
-        "link": "https://www.lacapital.com.ar/la-ciudad/la-subasta-bienes-incautados-al-delito-santa-fe-termino-una-recaudacion-record-n10287177.html",
-        "image": "https://media.lacapital.com.ar/p/058b28d8c845e99abdb91e6d9f99ed19/adjuntos/203/imagenes/103/474/0103474826/subasta-octubre-2026.jpeg",
-        "summary": "El gobierno provincial vendió una casa en Rosario por 76 millones de pesos y fue el lote más caro de la jornada",
-        "pubDate": "2026-10-17T12:45:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Tres películas nuevas e imperdibles para ver en Netflix",
-        "link": "https://www.lacapital.com.ar/zoom/tres-peliculas-nuevas-e-imperdibles-ver-netflix-n10287072.html",
-        "image": "https://media.lacapital.com.ar/p/d0f5247fe66c566069364da071d50dd2/adjuntos/203/imagenes/103/473/0103473444/1200x675/smart/image-6.png",
-        "summary": "Historias de thriller, drama y romance para disfrutar de un fin de semana lleno de estrenos",
-        "pubDate": "2026-10-17T10:05:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Estafas digitales: Roldán realizó una jornada de prevención destinada a los adultos mayores",
-        "link": "https://www.lacapital.com.ar/la-region/estafas-digitales-roldan-realizo-una-jornada-prevencion-destinada-los-adultos-mayores-n10287043.html",
-        "image": "https://media.lacapital.com.ar/p/95ce98ebbeddfb327fa9496eb2814022/adjuntos/203/imagenes/103/473/0103473220/1200x675/smart/roldan-estafas2.jpeg",
-        "summary": "Durante el encuentro se abordaron distintas modalidades de fraude y se compartieron recomendaciones para identificar situaciones sospechosas",
-        "pubDate": "2026-10-17T10:00:00+00:00",
         "approxTime": false
       }
     ]
