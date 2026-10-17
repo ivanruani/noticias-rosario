@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T13:01:06.906783+00:00",
+  "generatedAt": "2026-10-17T13:31:11.945343+00:00",
   "sites": {
     "rosario3": [
       {
@@ -40,11 +40,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Se viene la 3ª edición del Festival Intercultural organizado por Uniendo Fronteras RTV, para disfrutar en familia",
+        "link": "https://www.rosario3.com/informaciongeneral/se-viene-la-3-edicion-del-festival-intercultural-organizado-por-uniendo-fronteras-rtv-para-disfrutar-en-familia-20261002-0048.html",
+        "image": "https://www.rosario3.com/__export/1790966867607/sites/rosario3/img/2026/10/02/festival_7.jpg_1768679258.jpg",
+        "summary": "Este domingo 18 de octubre, Rosario será escenario de una nueva jornada de encuentro entre diferentes culturas y comunidades para celebrar el Día de la Madre y la diversidad cultural. Las actividades incluirán el Tercer Mundial de Fútbol 7 amateur, música, gastronomía y cultura…",
+        "pubDate": "2026-10-02T11:56:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Apuntes de la fecha 13, dos rivales tramposamente amigables si no se toman recaudos",
         "link": "https://www.rosario3.com/deportes/apuntes-de-la-fecha-13-dos-rivales-tramposamente-amigables-si-no-se-toman-recaudos-20261016-0055.html",
         "image": "https://www.rosario3.com/__export/1791417386423/sites/rosario3/img/2026/10/07/kudelka_y_almiron.jpg_928314581.jpg",
         "summary": "La lógica indica que Newell’s debería hacer menos esfuerzos en el Coloso que Central en el José Fierro para sumar de a tres. Pero en el fútbol la lógica no existe",
-        "pubDate": "2026-10-16T11:56:00+00:00",
+        "pubDate": "2026-10-16T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -53,16 +62,7 @@
         "link": "https://www.rosario3.com/policiales/quedo-preso-el-hombre-acusado-de-prender-fuego-a-su-pareja-embarazada-de-ocho-meses-en-granadero-baigorria-20261016-0073.html",
         "image": "https://www.rosario3.com/__export/1787248279274/sites/rosario3/img/2025/05/13/cjp.jpg_928314581.jpg",
         "summary": "Maximiliano Castagnino, de 36 años, fue imputado este viernes en el Centro de Justicia Penal de Rosario y quedó preso por el intento de asesinato de la joven de 29 años. Según la teoría de la Fiscalía, la roció con alcohol etílico y luego la prendió fuego con un encendedor, el…",
-        "pubDate": "2026-10-16T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El papa León XIV recibirá el alta hospitalaria este sábado",
-        "link": "https://www.rosario3.com/informaciongeneral/el-papa-leon-xiv-recibira-el-alta-hospitalaria-este-sabado-20261017-0001.html",
-        "image": "https://www.rosario3.com/__export/1791915394772/sites/rosario3/img/2026/10/13/papalexn.jpg_982625323.jpg",
-        "summary": "Sus médicos dijeron que el pontífice se sometió a análisis de sangre y una radiografía de tórax por la mañana, lo que confirma que su condición clínica permite que abandone el hospital",
-        "pubDate": "2026-10-17T11:54:00+00:00",
+        "pubDate": "2026-10-16T11:54:00+00:00",
         "approxTime": true
       },
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "General Lagos vivió una jornada de prevención e información en el marco de la campaña Octubre Rosa",
+        "link": "https://www.lacapital.com.ar/la-region/general-lagos-vivio-una-jornada-prevencion-e-informacion-el-marco-la-campana-octubre-rosa-n10287079.html",
+        "image": "https://media.lacapital.com.ar/p/c04097e6e5f91b92ec5a918fc4882604/adjuntos/203/imagenes/103/473/0103473581/1200x675/smart/grallagos-octubrerosa3.jpeg",
+        "summary": "La propuesta combinó datos médicos, dinámicas grupales y juegos para informar con seriedad dentro de un contexto distendido y participarivo",
+        "pubDate": "2026-10-17T13:05:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "La subasta de bienes incautados al delito en Santa Fe terminó con una recaudación récord",
         "link": "https://www.lacapital.com.ar/la-ciudad/la-subasta-bienes-incautados-al-delito-santa-fe-termino-una-recaudacion-record-n10287177.html",
         "image": "https://media.lacapital.com.ar/p/058b28d8c845e99abdb91e6d9f99ed19/adjuntos/203/imagenes/103/474/0103474826/subasta-octubre-2026.jpeg",
@@ -164,6 +173,15 @@
         "image": "https://media.lacapital.com.ar/p/d0f5247fe66c566069364da071d50dd2/adjuntos/203/imagenes/103/473/0103473444/1200x675/smart/image-6.png",
         "summary": "Historias de thriller, drama y romance para disfrutar de un fin de semana lleno de estrenos",
         "pubDate": "2026-10-17T10:05:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Diez años convirtiendo sueños en viajes",
+        "link": "https://www.lacapital.com.ar/turismo/diez-anos-convirtiendo-suenos-viajes-n10287086.html",
+        "image": "https://media.lacapital.com.ar/p/ffcdad01cc14bb538ca183a8a749c280/adjuntos/203/imagenes/103/473/0103473811/bald-traveler-in-bustling-airport-terminal.png",
+        "summary": "Desde sus primeros pasos en el turismo, en 1989, hasta la creación de su propia agencia en Arroyo Seco, Andrés Acoroni construyó una trayectoria basada en la atención personalizada y el acompañamiento de sus pasajeros",
+        "pubDate": "2026-10-17T10:00:00+00:00",
         "approxTime": false
       },
       {
@@ -199,15 +217,6 @@
         "link": "https://www.lacapital.com.ar/turismo/gramado-una-ciudad-aire-europeo-montanas-chocolates-y-parques-tematicos-n10287070.html",
         "image": "https://media.lacapital.com.ar/p/ae29dfcdd9cda2744769530eed4fe73b/adjuntos/203/imagenes/103/473/0103473523/imagen-nota.jpg",
         "summary": "En la Sierra Gaúcha, este destino combina arquitectura de inspiración alemana, lagos, gastronomía y propuestas para viajeros de todas las edades",
-        "pubDate": "2026-10-17T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Diez años convirtiendo sueños en viajes",
-        "link": "https://www.lacapital.com.ar/turismo/diez-anos-convirtiendo-suenos-viajes-n10287086.html",
-        "image": "https://media.lacapital.com.ar/p/ffcdad01cc14bb538ca183a8a749c280/adjuntos/203/imagenes/103/473/0103473811/bald-traveler-in-bustling-airport-terminal.png",
-        "summary": "Desde sus primeros pasos en el turismo, en 1989, hasta la creación de su propia agencia en Arroyo Seco, Andrés Acoroni construyó una trayectoria basada en la atención personalizada y el acompañamiento de sus pasajeros",
         "pubDate": "2026-10-17T10:00:00+00:00",
         "approxTime": false
       },
@@ -249,10 +258,10 @@
       },
       {
         "source": "La Capital",
-        "title": "Central va por otro buen libreto para no bajarse del escenario del protagonismo",
-        "link": "https://www.lacapital.com.ar/ovacion/central-va-otro-buen-libreto-no-bajarse-del-escenario-del-protagonismo-n10286996.html",
-        "image": "https://media.lacapital.com.ar/p/4311badc1be65cfc81713389ad968bb1/adjuntos/203/imagenes/103/474/0103474662/fide.jpg",
-        "summary": "Aún con bajas importantes, el Canalla visita a Atlético Tucumán en la primera de las cuatro finales que tiene por delante en busca del bicampeonato de Liga",
+        "title": "Newell's debe apoyarse en la  fuerza interior que le surge en el Coloso del Parque",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-debe-apoyarse-la-fuerza-interior-que-le-surge-el-coloso-del-parque-n10287158.html",
+        "image": "https://media.lacapital.com.ar/p/791a6aad779ba17abdb133eb1c2023ca/adjuntos/203/imagenes/103/474/0103474521/1200x675/smart/nob-local-5885.jpg",
+        "summary": "Newell's marcha invicto en condición de local y si extiende esa racha puede ser crucial en su objetivo por clasificar",
         "pubDate": "2026-10-17T09:10:00+00:00",
         "approxTime": false
       },
@@ -262,15 +271,6 @@
         "link": "https://www.lacapital.com.ar/ovacion/los-43-franco-colapinto-la-formula-1-un-repaso-una-curva-crecimiento-y-largo-alcance-n10287136.html",
         "image": "https://media.lacapital.com.ar/p/297540ba815cbb39c56d17200356173b/adjuntos/203/imagenes/103/474/0103474403/1200x675/smart/image-21.jpg",
         "summary": "El argentino llegó en 2024 para quedarse y está en el equipo indicado para seguir dando pasos adelante. Williams, Alpine y los haters que encienden alertas",
-        "pubDate": "2026-10-17T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Newell's debe apoyarse en la  fuerza interior que le surge en el Coloso del Parque",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-debe-apoyarse-la-fuerza-interior-que-le-surge-el-coloso-del-parque-n10287158.html",
-        "image": "https://media.lacapital.com.ar/p/791a6aad779ba17abdb133eb1c2023ca/adjuntos/203/imagenes/103/474/0103474521/1200x675/smart/nob-local-5885.jpg",
-        "summary": "Newell's marcha invicto en condición de local y si extiende esa racha puede ser crucial en su objetivo por clasificar",
         "pubDate": "2026-10-17T09:10:00+00:00",
         "approxTime": false
       }
