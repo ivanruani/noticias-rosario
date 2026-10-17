@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-17T11:01:09.411182+00:00",
+  "generatedAt": "2026-10-17T11:31:00.465628+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Quién quiere ser intendente: la carrera más compleja de 2027 ya tiene varios anotados y una duda central",
+        "link": "https://www.rosario3.com/politica/quien-quiere-ser-intendente-la-carrera-mas-compleja-de-2027-ya-tiene-varios-anotados-y-una-duda-central-20261015-0036.html",
+        "image": "https://www.rosario3.com/__export/1787856422914/sites/rosario3/img/2023/07/16/elecciones_rosario.jpeg_1825222445.jpeg",
+        "summary": "Unidos, con Pullaro como estratega, prepara una interna competitiva y espera que Javkin defina si buscará otro mandato. Monteverde concentra apoyos, pero hay otros nombres en danza. Las posibilidades que baraja La Libertad Avanza. El peso de la seguridad en el debate preelectoral",
+        "pubDate": "2026-10-15T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Revelaron detalles del ataque a la embarazada prendida fuego por su pareja y evalúan ampliar la imputación por los daños al bebé",
         "link": "https://www.rosario3.com/policiales/quedo-preso-el-hombre-acusado-de-prender-fuego-a-su-pareja-embarazada-de-ocho-meses-en-granadero-baigorria-20261016-0073.html",
         "image": "https://www.rosario3.com/__export/1787248279274/sites/rosario3/img/2025/05/13/cjp.jpg_928314581.jpg",
         "summary": "Maximiliano Castagnino, de 36 años, fue imputado este viernes en el Centro de Justicia Penal de Rosario y quedó preso por el intento de asesinato de la joven de 29 años. Según la teoría de la Fiscalía, la roció con alcohol etílico y luego la prendió fuego con un encendedor, el…",
-        "pubDate": "2026-10-16T12:00:00+00:00",
+        "pubDate": "2026-10-16T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/crecida-del-rio-parana-santa-fe-sumo-90-bombas-ante-posibles-emergencias-e-inundaciones-por-el-nino-20261016-0068.html",
         "image": "https://www.rosario3.com/__export/1792183611183/sites/rosario3/img/2026/10/16/bombas_-1-.jpg_506286608.jpg",
         "summary": "El gobierno provincial las adquirió por $1.109.772.600 para reforzar la capacidad de respuesta ante posibles emergencias hídricas y se distribuirán en distintos puntos, con especial atención en el centro-norte. Las autoridades monitorean el nivel del agua, que en Rosario alcanza…",
-        "pubDate": "2026-10-16T11:59:00+00:00",
+        "pubDate": "2026-10-16T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/policiales/mas-de-20-allanamientos-contra-la-banda-que-tomo-la-posta-tras-el-cimbronazo-por-el-crimen-del-policia-en-villa-banana-20261016-0070.html",
         "image": "https://www.rosario3.com/__export/1782212193804/sites/rosario3/img/2026/06/13/villa_banana_crimen_manfredi.jpeg_982625323.jpeg",
         "summary": "El homicidio del suboficial Rodolfo Manfredi precipitó la caída del clan Muñoz, que regenteaba la venta de drogas en el asentamiento del oeste rosarino. Ahora, una investigación detectó a un nuevo “apoderado” del territorio, que, sin embargo, permanece prófugo",
-        "pubDate": "2026-10-16T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Javkin a los concejales que bloquearon la sesión para legalizar Uber y Didi: \"Hay que regularizarlo y dejarse de joder\"",
-        "link": "https://www.rosario3.com/informaciongeneral/javkin-a-los-concejales-que-bloquearon-la-sesion-para-legalizar-uber-y-didi-hay-que-regularizarlo-y-dejarse-joder-20261016-0061.html",
-        "image": "https://www.rosario3.com/__export/1792180862167/sites/rosario3/img/2026/10/16/javkin_sobre_uber.jpg_2106848869.jpg",
-        "summary": "Hasta hace poco tenía concejales que me hacían videítos en la puerta de la Muni diciéndome que por qué no regularizaba Uber y ayer votaron en contra; es medio ridículo”, lanzó el intendente. Y volvió a cargar contra la propuesta del bloque de La Libertad Avanza: 'Es una cosa que…",
         "pubDate": "2026-10-16T11:57:00+00:00",
         "approxTime": true
       },
@@ -159,10 +159,10 @@
       },
       {
         "source": "La Capital",
-        "title": "Gramado, una ciudad de aire europeo entre montañas, chocolates y parques temáticos",
-        "link": "https://www.lacapital.com.ar/turismo/gramado-una-ciudad-aire-europeo-montanas-chocolates-y-parques-tematicos-n10287070.html",
-        "image": "https://media.lacapital.com.ar/p/ae29dfcdd9cda2744769530eed4fe73b/adjuntos/203/imagenes/103/473/0103473523/imagen-nota.jpg",
-        "summary": "En la Sierra Gaúcha, este destino combina arquitectura de inspiración alemana, lagos, gastronomía y propuestas para viajeros de todas las edades",
+        "title": "Rosario con un septiembre récord y un octubre que mantiene el impulso turístico",
+        "link": "https://www.lacapital.com.ar/turismo/rosario-un-septiembre-record-y-un-octubre-que-mantiene-el-impulso-turistico-n10287067.html",
+        "image": "https://media.lacapital.com.ar/p/cad6256ff237ebb7f0f02656490031f2/adjuntos/203/imagenes/103/473/0103473593/imagen-nota.jpg",
+        "summary": "La ciudad recibió más de 859.000 visitantes el mes pasado, con una ocupación hotelera del 77% y un impacto económico superior a los $62.800 millones",
         "pubDate": "2026-10-17T10:00:00+00:00",
         "approxTime": false
       },
@@ -177,19 +177,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Diez años convirtiendo sueños en viajes",
-        "link": "https://www.lacapital.com.ar/turismo/diez-anos-convirtiendo-suenos-viajes-n10287086.html",
-        "image": "https://media.lacapital.com.ar/p/ffcdad01cc14bb538ca183a8a749c280/adjuntos/203/imagenes/103/473/0103473811/bald-traveler-in-bustling-airport-terminal.png",
-        "summary": "Desde sus primeros pasos en el turismo, en 1989, hasta la creación de su propia agencia en Arroyo Seco, Andrés Acoroni construyó una trayectoria basada en la atención personalizada y el acompañamiento de sus pasajeros",
+        "title": "Gramado, una ciudad de aire europeo entre montañas, chocolates y parques temáticos",
+        "link": "https://www.lacapital.com.ar/turismo/gramado-una-ciudad-aire-europeo-montanas-chocolates-y-parques-tematicos-n10287070.html",
+        "image": "https://media.lacapital.com.ar/p/ae29dfcdd9cda2744769530eed4fe73b/adjuntos/203/imagenes/103/473/0103473523/imagen-nota.jpg",
+        "summary": "En la Sierra Gaúcha, este destino combina arquitectura de inspiración alemana, lagos, gastronomía y propuestas para viajeros de todas las edades",
         "pubDate": "2026-10-17T10:00:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Rosario con un septiembre récord y un octubre que mantiene el impulso turístico",
-        "link": "https://www.lacapital.com.ar/turismo/rosario-un-septiembre-record-y-un-octubre-que-mantiene-el-impulso-turistico-n10287067.html",
-        "image": "https://media.lacapital.com.ar/p/cad6256ff237ebb7f0f02656490031f2/adjuntos/203/imagenes/103/473/0103473593/imagen-nota.jpg",
-        "summary": "La ciudad recibió más de 859.000 visitantes el mes pasado, con una ocupación hotelera del 77% y un impacto económico superior a los $62.800 millones",
+        "title": "Diez años convirtiendo sueños en viajes",
+        "link": "https://www.lacapital.com.ar/turismo/diez-anos-convirtiendo-suenos-viajes-n10287086.html",
+        "image": "https://media.lacapital.com.ar/p/ffcdad01cc14bb538ca183a8a749c280/adjuntos/203/imagenes/103/473/0103473811/bald-traveler-in-bustling-airport-terminal.png",
+        "summary": "Desde sus primeros pasos en el turismo, en 1989, hasta la creación de su propia agencia en Arroyo Seco, Andrés Acoroni construyó una trayectoria basada en la atención personalizada y el acompañamiento de sus pasajeros",
         "pubDate": "2026-10-17T10:00:00+00:00",
         "approxTime": false
       },
@@ -222,7 +222,7 @@
       },
       {
         "source": "La Capital",
-        "title": "Copa Santa Fe: Canallas y rojinegros definen el pasaje a la final en el estadio Olaeta",
+        "title": "Copa Santa Fe: canallas y rojinegros definen el pasaje a la final en el estadio Olaeta",
         "link": "https://www.lacapital.com.ar/ovacion/copa-santa-fe-canallas-y-rojinegros-definen-el-pasaje-la-final-el-estadio-olaeta-n10287163.html",
         "image": "https://media.lacapital.com.ar/p/e1c163fc01f43f9f127fada389f83260/adjuntos/203/imagenes/103/474/0103474605/1200x675/smart/image-2026-10-16t214728707.png",
         "summary": "El partido comenzará este sábado a las 16, será a puertas cerradas y solo ingresarán 110 personas por institución. En caso de igualdad se define con tiros penales",
@@ -231,28 +231,10 @@
       },
       {
         "source": "La Capital",
-        "title": "Asociación Rosarina: Pablo VI está obligado con Morning y si no gana el campeón será Central",
-        "link": "https://www.lacapital.com.ar/ovacion/asociacion-rosarina-pablo-vi-esta-obligado-morning-y-si-no-gana-el-campeon-sera-central-n10287166.html",
-        "image": "https://media.lacapital.com.ar/p/b38f8142ba86d2050d86d9a64ad5235e/adjuntos/203/imagenes/103/474/0103474651/1200x675/smart/image-2026-10-16t222219092.png",
-        "summary": "En el Viaducto, los papales necesitan el triunfo ante el Verde para tener chances en la recta final. Una igualdad dejaría al Canalla con el título en Rosarina",
-        "pubDate": "2026-10-17T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "Central va por otro buen libreto para no bajarse del escenario del protagonismo",
         "link": "https://www.lacapital.com.ar/ovacion/central-va-otro-buen-libreto-no-bajarse-del-escenario-del-protagonismo-n10286996.html",
         "image": "https://media.lacapital.com.ar/p/4311badc1be65cfc81713389ad968bb1/adjuntos/203/imagenes/103/474/0103474662/fide.jpg",
         "summary": "Aún con bajas importantes, el Canalla visita a Atlético Tucumán en la primera de las cuatro finales que tiene por delante en busca del bicampeonato de Liga",
-        "pubDate": "2026-10-17T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Newell's debe apoyarse en la  fuerza interior que le surge en el Coloso del Parque",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-debe-apoyarse-la-fuerza-interior-que-le-surge-el-coloso-del-parque-n10287158.html",
-        "image": "https://media.lacapital.com.ar/p/791a6aad779ba17abdb133eb1c2023ca/adjuntos/203/imagenes/103/474/0103474521/1200x675/smart/nob-local-5885.jpg",
-        "summary": "Newell's marcha invicto en condición de local y si extiende esa racha puede ser crucial en su objetivo por clasificar",
         "pubDate": "2026-10-17T09:10:00+00:00",
         "approxTime": false
       },
@@ -267,9 +249,27 @@
       },
       {
         "source": "La Capital",
-        "title": "Feria Internacional del Libro 2026",
-        "link": "https://www.lacapital.com.ar/es-social/feria-internacional-del-libro-2026-n10286627.html",
-        "image": "https://media.lacapital.com.ar/p/a046817cac66c5680a331db1b3514395/adjuntos/203/imagenes/103/467/0103467980/1200x675/smart/2feriadellibro-2.jpg",
+        "title": "Newell's debe apoyarse en la  fuerza interior que le surge en el Coloso del Parque",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-debe-apoyarse-la-fuerza-interior-que-le-surge-el-coloso-del-parque-n10287158.html",
+        "image": "https://media.lacapital.com.ar/p/791a6aad779ba17abdb133eb1c2023ca/adjuntos/203/imagenes/103/474/0103474521/1200x675/smart/nob-local-5885.jpg",
+        "summary": "Newell's marcha invicto en condición de local y si extiende esa racha puede ser crucial en su objetivo por clasificar",
+        "pubDate": "2026-10-17T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Asociación Rosarina: Pablo VI está obligado con Morning y si no gana el campeón será Central",
+        "link": "https://www.lacapital.com.ar/ovacion/asociacion-rosarina-pablo-vi-esta-obligado-morning-y-si-no-gana-el-campeon-sera-central-n10287166.html",
+        "image": "https://media.lacapital.com.ar/p/b38f8142ba86d2050d86d9a64ad5235e/adjuntos/203/imagenes/103/474/0103474651/1200x675/smart/image-2026-10-16t222219092.png",
+        "summary": "En el Viaducto, los papales necesitan el triunfo ante el Verde para tener chances en la recta final. Una igualdad dejaría al Canalla con el título en Rosarina",
+        "pubDate": "2026-10-17T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Brindis con Mamá en Alto Rosario",
+        "link": "https://www.lacapital.com.ar/es-social/brindis-mama-alto-rosario-n10286619.html",
+        "image": "https://media.lacapital.com.ar/p/898e8824ef367b9da2ae765009ae0010/adjuntos/203/imagenes/103/467/0103467880/1200x675/smart/brindisconmama-1.jpg",
         "summary": "La Capital",
         "pubDate": "2026-10-17T03:00:00+00:00",
         "approxTime": false
