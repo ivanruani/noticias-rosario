@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T16:01:11.934648+00:00",
+  "generatedAt": "2026-10-17T16:30:59.224928+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Pullaro se desmarcó de las críticas a Provincias Unidas por el DNU 70/23",
+        "link": "https://www.lacapital.com.ar/politica/pullaro-se-desmarco-las-criticas-provincias-unidas-el-dnu-7023-n10287205.html",
+        "image": "https://media.lacapital.com.ar/p/63f4244bcd5f736ad1d3b9c7a7c40c37/adjuntos/203/imagenes/103/473/0103473422/1200x675/smart/pullaro-sacglia-interministerial-2.jpeg",
+        "summary": "El gobernador de Santa Fe ratificó su posición frente al Poder Ejecutivo nacional tras el intento fallido de la oposición para derogar la normativa",
+        "pubDate": "2026-10-17T16:20:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El cirujano del papa León XIV dijo que estará en condiciones de viajar a Argentina",
+        "link": "https://www.lacapital.com.ar/informacion-general/el-cirujano-del-papa-leon-xiv-dijo-que-estara-condiciones-viajar-argentina-n10287212.html",
+        "image": "https://media.lacapital.com.ar/p/16b000b3a9afc6558f9f908e4b376181/adjuntos/203/imagenes/103/475/0103475322/papa-leon-xiv.jpg",
+        "summary": "Stefano Margaritora reconoció que el sumo pontífice alcanzará su plena recuperación en 10 días, justo antes de iniciar su viaje por Sudamérica",
+        "pubDate": "2026-10-17T16:13:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Alerta en la selección argentina: Dibu Martínez salió en camilla del partido de Chelsea",
         "link": "https://www.lacapital.com.ar/ovacion/alerta-la-seleccion-argentina-dibu-martinez-salio-camilla-del-partido-chelsea-n10287199.html",
         "image": "https://media.lacapital.com.ar/p/d6317abd79861c239e2a6eec5299a0a7/adjuntos/203/imagenes/103/475/0103475164/dibu-martinez-2.jpeg",
@@ -168,7 +186,7 @@
       },
       {
         "source": "La Capital",
-        "title": "El Papa León XIV recibió el alta y vuelve al Vaticano tras la cirugía por cáncer",
+        "title": "El papa León XIV recibió el alta y vuelve al Vaticano tras la cirugía por cáncer",
         "link": "https://www.lacapital.com.ar/informacion-general/el-papa-leon-xiv-recibio-el-alta-y-vuelve-al-vaticano-la-cirugia-cancer-n10287173.html",
         "image": "https://media.lacapital.com.ar/p/61b7444ea0f918fda8b7549e25053eaf/adjuntos/203/imagenes/103/475/0103475141/papa-leon-xiv.jpg",
         "summary": "Los últimos estudios médicos en Roma ratificaron que el sumo pontífice tuvo una buena evolución luego de la operación por un adenocarcinoma de pulmón",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/dfa87e5973262c36e9df2fa35eddadd7/adjuntos/203/imagenes/103/269/0103269177/1200x675/smart/comercios-mrb-117-1.jpg",
         "summary": "Una encuesta del Observatorio Económico de la Federación Gremial indica que el 82% de los comerciantes no logró mejorar sus ventas como consecuencia de la recesión",
         "pubDate": "2026-10-17T09:45:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Primera C: Córdoba y Leones FC, comienzan el sueño de ascenso con el inicio del Reducido",
-        "link": "https://www.lacapital.com.ar/ovacion/primera-c-cordoba-y-leones-fc-comienzan-el-sueno-ascenso-el-inicio-del-reducido-n10287161.html",
-        "image": "https://media.lacapital.com.ar/p/a96c26c65b64968ed6d5fc84a91614a1/adjuntos/203/imagenes/103/474/0103474544/1200x675/smart/image-2026-10-16t212052985.png",
-        "summary": "El Charrúa recibe a Centro Español este sábado desde las 15 en Tablada y el equipo de Alvear, visita Mercedes a las 16.30. Las revanchas dentro de siete días en Primera C",
-        "pubDate": "2026-10-17T09:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Producir y demostrar: el desafío ambiental del agro argentino",
-        "link": "https://www.lacapital.com.ar/agro/producir-y-demostrar-el-desafio-ambiental-del-agro-argentino-n10286700.html",
-        "image": "https://media.lacapital.com.ar/p/d22780fd9209b45d935d20791ce4f093/adjuntos/305/imagenes/102/749/0102749327/1200x675/692x278:712x298/img-campo.jpg",
-        "summary": "Durante la Semana del Clima Rosario, referentes del sector señalaron que los buenos indicadores deben respaldarse con evidencia. Desde Aapresid, Crea y la UNR pidieron una agenda propia que combine cuidado del suelo, eficiencia y desarrollo federal",
-        "pubDate": "2026-10-17T09:25:00+00:00",
         "approxTime": false
       }
     ]
