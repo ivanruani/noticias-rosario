@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T10:01:17.417509+00:00",
+  "generatedAt": "2026-10-17T10:30:57.865765+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,60 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Tres películas nuevas e imperdibles para ver en Netflix",
+        "link": "https://www.lacapital.com.ar/zoom/tres-peliculas-nuevas-e-imperdibles-ver-netflix-n10287072.html",
+        "image": "https://media.lacapital.com.ar/p/d0f5247fe66c566069364da071d50dd2/adjuntos/203/imagenes/103/473/0103473444/1200x675/smart/image-6.png",
+        "summary": "Historias de thriller, drama y romance para disfrutar de un fin de semana lleno de estrenos",
+        "pubDate": "2026-10-17T10:05:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Estafas digitales: Roldán realizó una jornada de prevención destinada a los adultos mayores",
+        "link": "https://www.lacapital.com.ar/la-region/estafas-digitales-roldan-realizo-una-jornada-prevencion-destinada-los-adultos-mayores-n10287043.html",
+        "image": "https://media.lacapital.com.ar/p/95ce98ebbeddfb327fa9496eb2814022/adjuntos/203/imagenes/103/473/0103473220/1200x675/smart/roldan-estafas2.jpeg",
+        "summary": "Durante el encuentro se abordaron distintas modalidades de fraude y se compartieron recomendaciones para identificar situaciones sospechosas",
+        "pubDate": "2026-10-17T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Gramado, una ciudad de aire europeo entre montañas, chocolates y parques temáticos",
+        "link": "https://www.lacapital.com.ar/turismo/gramado-una-ciudad-aire-europeo-montanas-chocolates-y-parques-tematicos-n10287070.html",
+        "image": "https://media.lacapital.com.ar/p/ae29dfcdd9cda2744769530eed4fe73b/adjuntos/203/imagenes/103/473/0103473523/imagen-nota.jpg",
+        "summary": "En la Sierra Gaúcha, este destino combina arquitectura de inspiración alemana, lagos, gastronomía y propuestas para viajeros de todas las edades",
+        "pubDate": "2026-10-17T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Punta Tombo inauguró la temporada de pingüinos con nuevos senderos y espacios renovados",
+        "link": "https://www.lacapital.com.ar/turismo/punta-tombo-inauguro-la-temporada-pinguinos-nuevos-senderos-y-espacios-renovados-n10287069.html",
+        "image": "https://media.lacapital.com.ar/p/c63afcfd0cbf49098d5f1ad0b3f8e27f/adjuntos/203/imagenes/103/473/0103473432/imagen-nota.jpg",
+        "summary": "La reserva chubutense vuelve a recibir visitantes con mejoras en los accesos, rampas accesibles y una sala audiovisual inmersiva",
+        "pubDate": "2026-10-17T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Diez años convirtiendo sueños en viajes",
+        "link": "https://www.lacapital.com.ar/turismo/diez-anos-convirtiendo-suenos-viajes-n10287086.html",
+        "image": "https://media.lacapital.com.ar/p/ffcdad01cc14bb538ca183a8a749c280/adjuntos/203/imagenes/103/473/0103473811/bald-traveler-in-bustling-airport-terminal.png",
+        "summary": "Desde sus primeros pasos en el turismo, en 1989, hasta la creación de su propia agencia en Arroyo Seco, Andrés Acoroni construyó una trayectoria basada en la atención personalizada y el acompañamiento de sus pasajeros",
+        "pubDate": "2026-10-17T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Rosario con un septiembre récord y un octubre que mantiene el impulso turístico",
+        "link": "https://www.lacapital.com.ar/turismo/rosario-un-septiembre-record-y-un-octubre-que-mantiene-el-impulso-turistico-n10287067.html",
+        "image": "https://media.lacapital.com.ar/p/cad6256ff237ebb7f0f02656490031f2/adjuntos/203/imagenes/103/473/0103473593/imagen-nota.jpg",
+        "summary": "La ciudad recibió más de 859.000 visitantes el mes pasado, con una ocupación hotelera del 77% y un impacto económico superior a los $62.800 millones",
+        "pubDate": "2026-10-17T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Más de la mitad de los comercios de Rosario acumula una caída de ventas en el último trimestre",
         "link": "https://www.lacapital.com.ar/la-ciudad/mas-la-mitad-los-comercios-rosario-acumula-una-caida-ventas-el-ultimo-trimestre-n10287083.html",
         "image": "https://media.lacapital.com.ar/p/dfa87e5973262c36e9df2fa35eddadd7/adjuntos/203/imagenes/103/269/0103269177/1200x675/smart/comercios-mrb-117-1.jpg",
@@ -186,6 +240,15 @@
       },
       {
         "source": "La Capital",
+        "title": "Central va por otro buen libreto para no bajarse del escenario del protagonismo",
+        "link": "https://www.lacapital.com.ar/ovacion/central-va-otro-buen-libreto-no-bajarse-del-escenario-del-protagonismo-n10286996.html",
+        "image": "https://media.lacapital.com.ar/p/4311badc1be65cfc81713389ad968bb1/adjuntos/203/imagenes/103/474/0103474662/fide.jpg",
+        "summary": "Aún con bajas importantes, el Canalla visita a Atlético Tucumán en la primera de las cuatro finales que tiene por delante en busca del bicampeonato de Liga",
+        "pubDate": "2026-10-17T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Newell's debe apoyarse en la  fuerza interior que le surge en el Coloso del Parque",
         "link": "https://www.lacapital.com.ar/ovacion/newells-debe-apoyarse-la-fuerza-interior-que-le-surge-el-coloso-del-parque-n10287158.html",
         "image": "https://media.lacapital.com.ar/p/791a6aad779ba17abdb133eb1c2023ca/adjuntos/203/imagenes/103/474/0103474521/1200x675/smart/nob-local-5885.jpg",
@@ -204,74 +267,11 @@
       },
       {
         "source": "La Capital",
-        "title": "Central va por otro buen libreto para no bajarse del escenario del protagonismo",
-        "link": "https://www.lacapital.com.ar/ovacion/central-va-otro-buen-libreto-no-bajarse-del-escenario-del-protagonismo-n10286996.html",
-        "image": "https://media.lacapital.com.ar/p/4311badc1be65cfc81713389ad968bb1/adjuntos/203/imagenes/103/474/0103474662/fide.jpg",
-        "summary": "Aún con bajas importantes, el Canalla visita a Atlético Tucumán en la primera de las cuatro finales que tiene por delante en busca del bicampeonato de Liga",
-        "pubDate": "2026-10-17T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Brindis con Mamá en Alto Rosario",
-        "link": "https://www.lacapital.com.ar/es-social/brindis-mama-alto-rosario-n10286619.html",
-        "image": "https://media.lacapital.com.ar/p/898e8824ef367b9da2ae765009ae0010/adjuntos/203/imagenes/103/467/0103467880/1200x675/smart/brindisconmama-1.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-10-17T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "Feria Internacional del Libro 2026",
         "link": "https://www.lacapital.com.ar/es-social/feria-internacional-del-libro-2026-n10286627.html",
         "image": "https://media.lacapital.com.ar/p/a046817cac66c5680a331db1b3514395/adjuntos/203/imagenes/103/467/0103467980/1200x675/smart/2feriadellibro-2.jpg",
         "summary": "La Capital",
         "pubDate": "2026-10-17T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La Casa de Muñecas se presentó en el teatro Broadway",
-        "link": "https://www.lacapital.com.ar/es-social/la-casa-munecas-se-presento-el-teatro-broadway-n10286639.html",
-        "image": "https://media.lacapital.com.ar/p/7f6d4f18ef1809db9b5b9c8db1bdea14/adjuntos/203/imagenes/103/468/0103468065/1200x675/smart/1casademuneca-1.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-10-17T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Workshop Floral para Mamá en Alto Rosario",
-        "link": "https://www.lacapital.com.ar/es-social/workshop-floral-mama-alto-rosario-n10286642.html",
-        "image": "https://media.lacapital.com.ar/p/6149e2826893715014de79a5ee35c3a0/adjuntos/203/imagenes/103/468/0103468075/1200x675/smart/tallerfloral-7.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-10-17T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Escultura de los Deseos, la gran obra de Marta Minujin en el Museo Castagnino",
-        "link": "https://www.lacapital.com.ar/es-social/escultura-los-deseos-la-gran-obra-marta-minujin-el-museo-castagnino-n10286644.html",
-        "image": "https://media.lacapital.com.ar/p/bb80515169385fb1953b7a5904842ac5/adjuntos/203/imagenes/103/468/0103468144/1200x675/smart/3museocastgnino-1.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-10-17T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Recorrida semanal",
-        "link": "https://www.lacapital.com.ar/es-social/recorrida-semanal-n10286655.html",
-        "image": "https://media.lacapital.com.ar/p/3f4f007199a5a8c4125e26e099cda956/adjuntos/203/imagenes/103/468/0103468271/1200x675/smart/5rock-1.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-10-17T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central ya llegó a Tucumán y su arribo fue con una flor de esperanza",
-        "link": "https://www.lacapital.com.ar/ovacion/central-ya-llego-tucuman-y-su-arribo-fue-una-flor-esperanza-n10287125.html",
-        "image": "https://media.lacapital.com.ar/p/cbfa38367b0f13a1def161dadcda6ace/adjuntos/203/imagenes/103/474/0103474577/di-maria.jpg",
-        "summary": "La delegación Canalla se instaló en la noche de este viernes en el Jardín de la República y tuvo un gran recibimiento de los hinchas",
-        "pubDate": "2026-10-17T00:42:00+00:00",
         "approxTime": false
       }
     ]
