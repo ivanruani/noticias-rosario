@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T17:30:59.516734+00:00",
+  "generatedAt": "2026-10-17T18:01:08.365788+00:00",
   "sites": {
     "rosario3": [
       {
@@ -94,20 +94,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "OpenAI confirmó que un modelo de inteligencia artificial vulneró cuentas y usó fondos ajenos durante pruebas de seguridad",
-        "link": "https://www.rosario3.com/tecnologia/openai-confirmo-que-un-modelo-de-inteligencia-artificial-vulnero-cuentas-y-uso-fondos-ajenos-durante-pruebas-de-seguridad-20261017-0018.html",
-        "image": "https://www.rosario3.com/__export/1791415738630/sites/rosario3/img/2026/10/07/openaii.jpg_982625323.jpg",
-        "summary": "La compañía reveló que el sistema GPT-5.6 Sol extrajo credenciales para financiar operaciones con criptomonedas de prueba sin autorización previa",
-        "pubDate": "2026-10-17T11:50:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
         "title": "Murió un adolescente que perdió el control de la moto en una picada clandestina en Rafaela",
         "link": "https://www.rosario3.com/informaciongeneral/murio-un-adolescente-que-perdio-el-control-de-la-moto-en-una-picada-clandestina-en-rafaela-20261017-0014.html",
         "image": "https://www.rosario3.com/__export/1778429268769/sites/rosario3/img/2026/05/10/policxa_patrullero.jpg_54252852.jpg",
         "summary": "El chico falleció en la madrugada de este sábado tras un accidente en cercanías del autódromo, donde se disputaba una prueba de velocidad ilegal. El otro motociclista involucrado habría escapado y buscan identificarlo",
-        "pubDate": "2026-10-17T11:49:00+00:00",
+        "pubDate": "2026-10-17T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +107,7 @@
         "link": "https://www.rosario3.com/deportes/un-arquero-de-las-inferiores-de-rosario-central-fue-convocado-a-la-seleccion-mayor-de-paraguay-20261017-0013.html",
         "image": "https://www.rosario3.com/__export/1792254692285/sites/rosario3/img/2026/10/17/image_-20-.jpg_2106848869.jpg",
         "summary": "Leonardo Sosa, arquero juvenil del Canalla e internacional con la Albirroja en divisiones juveniles, recibió el llamado para integrar el plantel principal de cara a la próxima fecha FIFA. Los detalles",
-        "pubDate": "2026-10-17T11:48:00+00:00",
+        "pubDate": "2026-10-17T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -125,16 +116,25 @@
         "link": "https://www.rosario3.com/policiales/otro-frente-penal-para-su-senoria-el-juez-gaston-salmain-ira-a-juicio-por-abuso-de-autoridad-e-incumplimiento-de-deberes-20261017-0009.html",
         "image": "https://www.rosario3.com/__export/1792248235268/sites/rosario3/img/2025/11/18/gaston-salmain-juez.jpg_672794305.jpg",
         "summary": "La Cámara Federal rechazó el sobreseimiento solicitado por la defensa y dio luz verde para un futuro debate oral. El magistrado, suspendido, posee otro expediente penal de mayor gravedad y por estos días afronta un jury de enjuiciamiento ante el Consejo de la Magistratura",
+        "pubDate": "2026-10-17T11:48:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Estafa virtual en Funes: la engañaron con videollamadas y le robaron cerca de 1 millón de pesos",
+        "link": "https://www.rosario3.com/informaciongeneral/estafa-virtual-en-funes-la-enganaron-con-videollamadas-y-le-robaron-cerca-de-1-millon-de-pesos-20261017-0010.html",
+        "image": "https://www.rosario3.com/__export/1792248829591/sites/rosario3/img/2021/06/23/estafas.jpg_1010838668.jpg",
+        "summary": "La mujer había llamado a Tarjeta Naranja para realizar una gestión y recibió dos videollamadas de falsos operadores. Cuando revisó su cuenta del Banco Nación, descubrió que solo le quedaban $2.000",
         "pubDate": "2026-10-17T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Preocupación en Chelsea: Dibu Martínez sufrió un fuerte golpe y lo retiraron en camilla",
-        "link": "https://www.rosario3.com/deportes/preocupacion-en-chelsea-dibu-martinez-sufrio-un-fuerte-golpe-y-lo-retiraron-en-camilla-20261017-0011.html",
-        "image": "https://www.rosario3.com/__export/1792249400837/sites/rosario3/img/2026/10/17/dibu.jpg_928314581.jpg",
-        "summary": "El arquero argentino recibió asistencia médica y fue retirado de la cancha tras chocar con un rival",
-        "pubDate": "2026-10-17T11:46:00+00:00",
+        "title": "Se viene la 3ª edición del Festival Intercultural organizado por Uniendo Fronteras RTV, para disfrutar en familia",
+        "link": "https://www.rosario3.com/informaciongeneral/se-viene-la-3-edicion-del-festival-intercultural-organizado-por-uniendo-fronteras-rtv-para-disfrutar-en-familia-20261002-0048.html",
+        "image": "https://www.rosario3.com/__export/1790966867607/sites/rosario3/img/2026/10/02/festival_7.jpg_1768679258.jpg",
+        "summary": "Este domingo 18 de octubre, Rosario será escenario de una nueva jornada de encuentro entre diferentes culturas y comunidades para celebrar el Día de la Madre y la diversidad cultural. Las actividades incluirán el Tercer Mundial de Fútbol 7 amateur, música, gastronomía y cultura…",
+        "pubDate": "2026-10-02T11:46:00+00:00",
         "approxTime": true
       }
     ],
