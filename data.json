@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T23:30:57.947285+00:00",
+  "generatedAt": "2026-10-17T00:01:15.386939+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,10 +141,28 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El tiempo en Rosario: la primavera se aleja cada vez más con un nuevo descenso de temperaturas",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-la-primavera-se-aleja-cada-vez-mas-un-nuevo-descenso-temperaturas-n10287160.html",
+        "image": "https://media.lacapital.com.ar/p/681aff17fa3e04adc75979258363864e/adjuntos/203/imagenes/100/731/0100731621/2023-06-11-frio-by_lvincenti-79261492jpg.jpg",
+        "summary": "El sol tendrá más apariciones este fin de semana pero los termómetros mostrarán registros casi invernales",
+        "pubDate": "2026-10-16T23:59:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El vice de Newell's bancó a Kudelka: \"Es un pilar fundamental del proyecto de reconstrucción del club\"",
+        "link": "https://www.lacapital.com.ar/ovacion/el-vice-newells-banco-kudelka-es-un-pilar-fundamental-del-proyecto-reconstruccion-del-club-n10287159.html",
+        "image": "https://media.lacapital.com.ar/p/e1a57024438a65c09030ae7209cf5266/adjuntos/203/imagenes/103/474/0103474532/fdk9.jpeg",
+        "summary": "El dirigente Juan Manuel Medina se alejó de lo expresado por uno de sus pares de comisión directiva, quien puso en duda la continuidad del entrenador rojinegro",
+        "pubDate": "2026-10-16T23:41:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "La EPE recambió más de 120 kilómetros de cables de baja tensión y reparó mil veredas en Rosario",
         "link": "https://www.lacapital.com.ar/la-ciudad/la-epe-recambio-mas-120-kilometros-cables-baja-tension-y-reparo-mil-veredas-rosario-n10286957.html",
         "image": "https://media.lacapital.com.ar/p/cb10f65ff73200a0cb72cb69ad0097d1/adjuntos/203/imagenes/103/472/0103472346/1200x675/smart/obras-epe-1.jpeg",
-        "summary": "Las obras alcanzan al microcentro, al centro y a barrios, con una inversión de $ 17.250 millones del plan para modernizar el servicio eléctrico de la EPE",
+        "summary": "Las obras alcanzan al microcentro, al centro y a barrios, con una inversión de 17.250 millones de pesos del plan para modernizar el servicio eléctrico de la EPE",
         "pubDate": "2026-10-16T23:24:00+00:00",
         "approxTime": false
       },
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/a4e28f8c53c65057feb663b063f47f93/adjuntos/203/imagenes/103/474/0103474144/1200x675/smart/image-2026-10-16t163822694.png",
         "summary": "A diez años de su última emisión, el reality culinario regresa a Telefe y HBO Max con 14 participantes de entre 8 y 13 años",
         "pubDate": "2026-10-16T20:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El Concejo Municipal de Rosario acompaña la postulación de Central como sede del Mundial 2030",
-        "link": "https://www.lacapital.com.ar/ovacion/el-concejo-municipal-rosario-acompana-la-postulacion-central-como-sede-del-mundial-2030-n10287101.html",
-        "image": "https://media.lacapital.com.ar/p/97873e1f8e052ec97dec7a4aaad0af1b/adjuntos/203/imagenes/103/474/0103474064/cancha.jpeg",
-        "summary": "Central recibió y agradeció el acompañamiento del Concejo Municipal de Rosario por su postulación para ser una de las sedes de la Copa Mundial de la FIFA 2030",
-        "pubDate": "2026-10-16T20:19:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central: las chances que maneja Jorge Almirón frente a las bajas obligadas para Tucumán",
-        "link": "https://www.lacapital.com.ar/ovacion/central-las-chances-que-maneja-jorge-almiron-frente-las-bajas-obligadas-tucuman-n10287000.html",
-        "image": "https://media.lacapital.com.ar/p/b800597a8bfa2527578665ee3a74b6ea/adjuntos/203/imagenes/103/473/0103473027/almironssm.jpeg",
-        "summary": "El técnico canalla volvería a cambiar el esquema en Tucumán. Cantizano podría reaparecer y en el medio Alan Rodríguez corre con ventaja sobre Juan Giménez",
-        "pubDate": "2026-10-16T20:15:00+00:00",
         "approxTime": false
       }
     ]
