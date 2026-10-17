@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T21:30:59.414379+00:00",
+  "generatedAt": "2026-10-17T22:01:09.966751+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Sin un acto central, el peronismo conmemoró el Día de la Lealtad",
+        "link": "https://www.lacapital.com.ar/politica/sin-un-acto-central-el-peronismo-conmemoro-el-dia-la-lealtad-n10287256.html",
+        "image": "https://media.lacapital.com.ar/p/063d3c141832d4fb80ac76434a0bd02b/adjuntos/203/imagenes/103/475/0103475977/1200x675/smart/kicillof.png",
+        "summary": "Militantes fueron hasta la casa de Cristina Fernández, Áxel Kicillof dijo que el PJ “volverá a gobernar” y Máximo Kirchner envió un mensaje interno desde Chaco",
+        "pubDate": "2026-10-17T21:40:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Leones FC lo ganaba pero a Mercedes le dieron dos penales polémicos y lo ganó en el adicional",
+        "link": "https://www.lacapital.com.ar/ovacion/leones-fc-lo-ganaba-pero-mercedes-le-dieron-dos-penales-polemicos-y-lo-gano-el-adicional-n10287246.html",
+        "image": "https://media.lacapital.com.ar/p/fa38ac8e103979c9a49ac3f8cabc22b8/adjuntos/203/imagenes/103/475/0103475814/1200x675/smart/image-27.jpg",
+        "summary": "Leones FC empezó ganando, pero al inicio del complemento y al final, por un supuesto agarrón y un empujón, a través de dos penales Mercedeslo revirtió en la ida del Reducido",
+        "pubDate": "2026-10-17T21:37:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Newell's celebró en el clásico rosarino y es finalista de la Copa Santa Fe",
         "link": "https://www.lacapital.com.ar/ovacion/newells-celebro-el-clasico-rosarino-y-es-finalista-la-copa-santa-fe-n10287232.html",
         "image": "https://media.lacapital.com.ar/p/a6468f80d9898825ef769eb43ee6a5dc/adjuntos/203/imagenes/103/475/0103475924/1200x675/smart/image-2026-10-17t174252786.png",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/20700ae7ef66093df3666e5c55aac344/adjuntos/203/imagenes/101/246/0101246686/2023-12-07-casciarijpg.jpg",
         "summary": "El financiamiento colectivo a través de la plataforma Orsai Audiovisuales será investigado por un Juzgado Nacional",
         "pubDate": "2026-10-17T14:48:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La víctima de un femicidio en barrio Tablada le había pedido plata prestada a un preso",
-        "link": "https://www.lacapital.com.ar/policiales/la-victima-un-femicidio-barrio-tablada-le-habia-pedido-plata-prestada-un-preso-n10287185.html",
-        "image": "https://media.lacapital.com.ar/p/18a58804e46636cac78bfd36991689eb/adjuntos/203/imagenes/103/474/0103474939/femicidio-natalia-gimenez-grandoli-3800-3.jpeg",
-        "summary": "Germán C. fue imputado por usura durante la audiencia sobre la muerte de Natalia Giménez, pero todavía no se lo vincula directamente con el asesinato",
-        "pubDate": "2026-10-17T14:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El papa León XIV recibió el alta y vuelve al Vaticano tras la cirugía por cáncer",
-        "link": "https://www.lacapital.com.ar/informacion-general/el-papa-leon-xiv-recibio-el-alta-y-vuelve-al-vaticano-la-cirugia-cancer-n10287173.html",
-        "image": "https://media.lacapital.com.ar/p/61b7444ea0f918fda8b7549e25053eaf/adjuntos/203/imagenes/103/475/0103475141/papa-leon-xiv.jpg",
-        "summary": "Los últimos estudios médicos en Roma ratificaron que el sumo pontífice tuvo una buena evolución luego de la operación por un adenocarcinoma de pulmón",
-        "pubDate": "2026-10-17T13:38:00+00:00",
         "approxTime": false
       }
     ]
