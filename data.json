@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T00:01:15.386939+00:00",
+  "generatedAt": "2026-10-17T00:30:58.347556+00:00",
   "sites": {
     "rosario3": [
       {
@@ -40,7 +40,7 @@
       },
       {
         "source": "Rosario3",
-        "title": "Opiniones divididas por la nueva cara de la esquina del mítico Pasaporte: ¿de París a Palermo?",
+        "title": "Opiniones divididas por la nueva cara de la esquina del mítico bar Pasaporte: ¿de París a Palermo?",
         "link": "https://www.rosario3.com/informaciongeneral/opiniones-divididas-por-la-nueva-cara-de-la-esquina-del-mitico-pasaporte-de-paris-a-palermo-20261016-0076.html",
         "image": "https://www.rosario3.com/__export/1792190966710/sites/rosario3/img/2026/10/16/pasaporte_.jpg_506286608.jpg",
         "summary": "Tras el cierre del histórico espacio en 2025, una cafetería de especialidad y bar abrirá en la ochava de Maipú y Urquiza, en la denominada como una de las zonas “más parisinas” de Rosario, a metros de la bajada Sargento Cabral y del edificio de la ex Aduana. En redes sociales…",
@@ -94,11 +94,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Fin de semana a puro rugby: Superclásico del TRL, Plaza baja el telón en la URBA, juega Rosario M17 y habrá clásico de Oceanía",
+        "link": "https://www.rosario3.com/deportes/fin-de-semana-a-puro-rugby-superclasico-del-trl-plaza-baja-el-telon-en-la-urba-juega-rosario-m17-y-habra-clasico-de-oceania-20261016-0075.html",
+        "image": "https://www.rosario3.com/__export/1792191853542/sites/rosario3/img/2026/10/16/jockey-duendes.jpg_1825222445.jpg",
+        "summary": "Torneo del Litoral con el duelo entre Duendes y Jockey Club, URBA Top 14, Argentino Juvenil con el Ñandú Junior buscando el pase a semifinales, TRL M19 y la Bledisloe Cup protagonizan un sábado imperdible de altísima intensidad. Repasamos la agenda completa, formaciones, tablas…",
+        "pubDate": "2026-10-16T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Rosario dio la sorpresa: apareció en un ranking mundial de turismo y hay un motivo | Ecos365",
         "link": "https://www.rosario3.com/ecos365/noticias/rosario-dio-la-sorpresa-aparecio-en-un-ranking-mundial-de-turismo-y-hay-un-motivo-20261016-0009.html",
         "image": "https://www.rosario3.com/__export/1792175232310/sites/rosario3/img/2026/10/16/rosario_turismo_crop1792174888349.jpg_413417401.jpg",
         "summary": "La plataforma Booking.com incluyó a Rosario entre los diez destinos que marcarán tendencia en 2027. Detalles, atractivos y criterios",
-        "pubDate": "2026-10-16T11:50:00+00:00",
+        "pubDate": "2026-10-16T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -107,7 +116,7 @@
         "link": "https://www.rosario3.com/policiales/cayo-pocholo-senalado-como-integrante-de-los-menores-y-buscado-por-dos-causas-20261016-0042.html",
         "image": "https://www.rosario3.com/__export/1792168733750/sites/rosario3/img/2026/10/16/detencion.png_786111822.png",
         "summary": "Alex Joel V., de 27 años, fue detenido en un operativo en la zona oeste de la ciudad. Tenía pedidos de captura por asociación ilícita y microtráfico. Tras su arresto, se realizaron cuatro allanamientos en Rosario y Casilda",
-        "pubDate": "2026-10-16T11:49:00+00:00",
+        "pubDate": "2026-10-16T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,15 +125,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/segun-un-informe-argentina-tiene-record-de-ingenieros-recibidos-pero-faltan-los-que-mas-se-necesitan-20261016-0065.html",
         "image": "https://www.rosario3.com/__export/1792180994796/sites/rosario3/img/2026/10/16/ingenieria.jpg_1768679257.jpg",
         "summary": "De acuerdo al Monitor de la Ingeniería Argentina, elaborado a partir de estadísticas oficiales, en 2024 se recibieron 8.759 ingenieros y la carrera atrae cada vez a más estudiantes, mientras la inscripción universitaria general cae. Las mujeres duplicaron inscripciones y para…",
-        "pubDate": "2026-10-16T11:48:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Nueva técnica de trasplante para evitar el rechazo de los órganos: la desarrollan científicos del Conicet junto a médicos de España",
-        "link": "https://www.rosario3.com/informaciongeneral/nueva-tecnica-de-trasplante-para-evitar-el-rechazo-de-los-organos-la-desarrollan-cientificos-del-conicet-junto-a-medicos-de-espana-20261016-0060.html",
-        "image": "https://www.rosario3.com/__export/1792178039239/sites/rosario3/img/2026/10/16/conicet.jpg_1768679257.jpg",
-        "summary": "Se trata de un trabajo conjunto entre expertos del Consejo Nacional de Investigaciones y médicos del Hospital La Paz de Madrid. Consiste en aplicar células de la médula ósea del donante al receptor para hacer convivir en él ambos sistemas inmunes y así favorecer la tolerancia al…",
         "pubDate": "2026-10-16T11:47:00+00:00",
         "approxTime": true
       },
@@ -152,7 +152,7 @@
         "source": "La Capital",
         "title": "El vice de Newell's bancó a Kudelka: \"Es un pilar fundamental del proyecto de reconstrucción del club\"",
         "link": "https://www.lacapital.com.ar/ovacion/el-vice-newells-banco-kudelka-es-un-pilar-fundamental-del-proyecto-reconstruccion-del-club-n10287159.html",
-        "image": "https://media.lacapital.com.ar/p/e1a57024438a65c09030ae7209cf5266/adjuntos/203/imagenes/103/474/0103474532/fdk9.jpeg",
+        "image": "https://media.lacapital.com.ar/p/576f69a682386c651443385da8e0b0b5/adjuntos/203/imagenes/103/395/0103395854/ffff.jpg",
         "summary": "El dirigente Juan Manuel Medina se alejó de lo expresado por uno de sus pares de comisión directiva, quien puso en duda la continuidad del entrenador rojinegro",
         "pubDate": "2026-10-16T23:41:00+00:00",
         "approxTime": false
