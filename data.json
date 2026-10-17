@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T03:01:11.281359+00:00",
+  "generatedAt": "2026-10-17T03:31:00.402306+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,60 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Feria Internacional del Libro 2026",
+        "link": "https://www.lacapital.com.ar/es-social/feria-internacional-del-libro-2026-n10286627.html",
+        "image": "https://media.lacapital.com.ar/p/a046817cac66c5680a331db1b3514395/adjuntos/203/imagenes/103/467/0103467980/1200x675/smart/2feriadellibro-2.jpg",
+        "summary": "La Capital",
+        "pubDate": "2026-10-17T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Brindis con Mamá en Alto Rosario",
+        "link": "https://www.lacapital.com.ar/es-social/brindis-mama-alto-rosario-n10286619.html",
+        "image": "https://media.lacapital.com.ar/p/898e8824ef367b9da2ae765009ae0010/adjuntos/203/imagenes/103/467/0103467880/1200x675/smart/brindisconmama-1.jpg",
+        "summary": "La Capital",
+        "pubDate": "2026-10-17T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Recorrida semanal",
+        "link": "https://www.lacapital.com.ar/es-social/recorrida-semanal-n10286655.html",
+        "image": "https://media.lacapital.com.ar/p/3f4f007199a5a8c4125e26e099cda956/adjuntos/203/imagenes/103/468/0103468271/1200x675/smart/5rock-1.jpg",
+        "summary": "La Capital",
+        "pubDate": "2026-10-17T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Escultura de los Deseos, la gran obra de Marta Minujin en el Museo Castagnino",
+        "link": "https://www.lacapital.com.ar/es-social/escultura-los-deseos-la-gran-obra-marta-minujin-el-museo-castagnino-n10286644.html",
+        "image": "https://media.lacapital.com.ar/p/bb80515169385fb1953b7a5904842ac5/adjuntos/203/imagenes/103/468/0103468144/1200x675/smart/3museocastgnino-1.jpg",
+        "summary": "La Capital",
+        "pubDate": "2026-10-17T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La Casa de Muñecas se presentó en el teatro Broadway",
+        "link": "https://www.lacapital.com.ar/es-social/la-casa-munecas-se-presento-el-teatro-broadway-n10286639.html",
+        "image": "https://media.lacapital.com.ar/p/7f6d4f18ef1809db9b5b9c8db1bdea14/adjuntos/203/imagenes/103/468/0103468065/1200x675/smart/1casademuneca-1.jpg",
+        "summary": "La Capital",
+        "pubDate": "2026-10-17T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Workshop Floral para Mamá en Alto Rosario",
+        "link": "https://www.lacapital.com.ar/es-social/workshop-floral-mama-alto-rosario-n10286642.html",
+        "image": "https://media.lacapital.com.ar/p/6149e2826893715014de79a5ee35c3a0/adjuntos/203/imagenes/103/468/0103468075/1200x675/smart/tallerfloral-7.jpg",
+        "summary": "La Capital",
+        "pubDate": "2026-10-17T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Central ya llegó a Tucumán y su arribo fue con una flor de esperanza",
         "link": "https://www.lacapital.com.ar/ovacion/central-ya-llego-tucuman-y-su-arribo-fue-una-flor-esperanza-n10287125.html",
         "image": "https://media.lacapital.com.ar/p/cbfa38367b0f13a1def161dadcda6ace/adjuntos/203/imagenes/103/474/0103474577/di-maria.jpg",
@@ -218,60 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/23a9d5c8a5658b68cd9b6f0b0198c707/adjuntos/203/imagenes/103/471/0103471138/1200x675/smart/inundacines.png",
         "summary": "Las eventuales lluvias intensas activaron acciones preventivas entre los rosarinos, que buscan cobertura. Qué contemplan las pólizas y cómo prepararse ante las tormentas",
         "pubDate": "2026-10-16T22:32:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Los concentrados en Central: un jugador que vuelve y tiene chances de ser titular",
-        "link": "https://www.lacapital.com.ar/ovacion/los-concentrados-central-un-jugador-que-vuelve-y-tiene-chances-ser-titular-n10287016.html",
-        "image": "https://media.lacapital.com.ar/p/89f45b23ac0cc8394dc0bd1f817e926e/adjuntos/203/imagenes/103/473/0103473082/alanssm.jpg",
-        "summary": "Frente a las bajas de Franco Ibarra y Federico Navarro, Almirón convocó a Alan Rodríguez, con posibilidades de jugar, y al juvenil Paolo Giaccone",
-        "pubDate": "2026-10-16T22:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Granadero Baigorria: imputaron al hombre que quiso prender fuego a su pareja",
-        "link": "https://www.lacapital.com.ar/policiales/granadero-baigorria-imputaron-al-hombre-que-quiso-prender-fuego-su-pareja-n10287142.html",
-        "image": "https://media.lacapital.com.ar/p/b410e0a59ce7be0e52716d528ce107f7/adjuntos/203/imagenes/103/467/0103467603/1200x675/smart/hospital-eva-peron-2.jpg",
-        "summary": "También le dictaron prisión preventiva hasta marzo del año próximo. La Fiscalía acreditó situaciones de violencia de género desde hace al menos dos años",
-        "pubDate": "2026-10-16T22:11:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Fórmula 1 en Brasil: vuelo chárter desde Rosario para el Gran Premio de São Paulo",
-        "link": "https://www.lacapital.com.ar/turismo/formula-1-brasil-vuelo-charter-rosario-el-gran-premio-sao-paulo-n10287146.html",
-        "image": "https://media.lacapital.com.ar/p/a4807ec6a0406ea36b1001403af994b0/adjuntos/203/imagenes/103/474/0103474378/1200x675/smart/imagen-nota.jpg",
-        "summary": "La agencia Daminato Viajes organiza una salida grupal el 5 de noviembre con vuelo exclusivo, tres noches de alojamiento y entrada al circuito de Interlagos, con los últimos lugares disponibles",
-        "pubDate": "2026-10-16T21:57:27+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Wanda Nara vende una camiseta de la selección: cuánto cuesta y por qué la relacionan con Icardi",
-        "link": "https://www.lacapital.com.ar/zoom/wanda-nara-vende-una-camiseta-la-seleccion-cuanto-cuesta-y-que-la-relacionan-icardi-n10287129.html",
-        "image": "https://media.lacapital.com.ar/p/8b128e9405603dcef44e2373376b3c61/adjuntos/203/imagenes/103/474/0103474242/1200x675/smart/el-chofer-que-murio-intentar-rescatar-las-ninas-desaparecidas-el-temporal-bahia-blanca-44.png",
-        "summary": "La prenda lleva el número 9, el mismo que utilizó el delantero durante su paso por la albiceleste. Está publicada en una feria americana online",
-        "pubDate": "2026-10-16T21:22:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "De los golpes a los balazos: prisión para el acusado por un crimen en Pérez durante una pelea",
-        "link": "https://www.lacapital.com.ar/policiales/de-los-golpes-los-balazos-prision-el-acusado-un-crimen-perez-una-pelea-n10287054.html",
-        "image": "https://media.lacapital.com.ar/p/7feecf45378ca84fbc556a50de792912/adjuntos/203/imagenes/101/880/0101880682/1200x675/smart/cjpjpg.jpg",
-        "summary": "Lucas Natanael V., de 26 años, fue imputado como autor del asesinato de Agustín Alfredo Muñoz, ocurrido el domingo pasado en medio de una gresca",
-        "pubDate": "2026-10-16T21:13:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Día de la Lealtad: el peronismo de Rosario convocó a una vigilia",
-        "link": "https://www.lacapital.com.ar/politica/dia-la-lealtad-el-peronismo-rosario-convoco-una-vigilia-n10287133.html",
-        "image": "https://media.lacapital.com.ar/p/e1a4b1616224ad967cd9ff65f5ded4b2/adjuntos/203/imagenes/102/541/0102541090/1200x675/smart/martinez1jpeg.jpeg",
-        "summary": "En busca de la unidad, el PJ de la ciudad programó una previa del 17 de octubre con el senador José Mayans como invitado. La interna nacional deparó tres actos",
-        "pubDate": "2026-10-16T21:00:00+00:00",
         "approxTime": false
       }
     ]
