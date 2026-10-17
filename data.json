@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T00:30:58.347556+00:00",
+  "generatedAt": "2026-10-17T01:01:05.176781+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Central ya llegó a Tucumán y su arribo fue con una flor de esperanza",
+        "link": "https://www.lacapital.com.ar/ovacion/central-ya-llego-tucuman-y-su-arribo-fue-una-flor-esperanza-n10287125.html",
+        "image": "https://media.lacapital.com.ar/p/cbfa38367b0f13a1def161dadcda6ace/adjuntos/203/imagenes/103/474/0103474577/di-maria.jpg",
+        "summary": "La delegación Canalla se instaló en la noche de este viernes en el Jardín de la República y tuvo un gran recibimiento de los hinchas",
+        "pubDate": "2026-10-17T00:42:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El tiempo en Rosario: la primavera se aleja cada vez más con un nuevo descenso de temperaturas",
         "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-la-primavera-se-aleja-cada-vez-mas-un-nuevo-descenso-temperaturas-n10287160.html",
         "image": "https://media.lacapital.com.ar/p/681aff17fa3e04adc75979258363864e/adjuntos/203/imagenes/100/731/0100731621/2023-06-11-frio-by_lvincenti-79261492jpg.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/e1a4b1616224ad967cd9ff65f5ded4b2/adjuntos/203/imagenes/102/541/0102541090/1200x675/smart/martinez1jpeg.jpeg",
         "summary": "En busca de la unidad, el PJ de la ciudad programó una previa del 17 de octubre con el senador José Mayans como invitado. La interna nacional deparó tres actos",
         "pubDate": "2026-10-16T21:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Vuelve \"MasterChef Junior\": cuándo comienza y quiénes serán los jurados",
-        "link": "https://www.lacapital.com.ar/zoom/vuelve-masterchef-junior-cuando-comienza-y-quienes-seran-los-jurados-n10287119.html",
-        "image": "https://media.lacapital.com.ar/p/a4e28f8c53c65057feb663b063f47f93/adjuntos/203/imagenes/103/474/0103474144/1200x675/smart/image-2026-10-16t163822694.png",
-        "summary": "A diez años de su última emisión, el reality culinario regresa a Telefe y HBO Max con 14 participantes de entre 8 y 13 años",
-        "pubDate": "2026-10-16T20:30:00+00:00",
         "approxTime": false
       }
     ]
