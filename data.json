@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T09:30:57.320931+00:00",
+  "generatedAt": "2026-10-17T10:01:17.417509+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Más de la mitad de los comercios de Rosario acumula una caída de ventas en el último trimestre",
+        "link": "https://www.lacapital.com.ar/la-ciudad/mas-la-mitad-los-comercios-rosario-acumula-una-caida-ventas-el-ultimo-trimestre-n10287083.html",
+        "image": "https://media.lacapital.com.ar/p/dfa87e5973262c36e9df2fa35eddadd7/adjuntos/203/imagenes/103/269/0103269177/1200x675/smart/comercios-mrb-117-1.jpg",
+        "summary": "Una encuesta del Observatorio Económico de la Federación Gremial indica que el 82% de los comerciantes no logró mejorar sus ventas como consecuencia de la recesión",
+        "pubDate": "2026-10-17T09:45:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Primera C: Córdoba y Leones FC, comienzan el sueño de ascenso con el inicio del Reducido",
+        "link": "https://www.lacapital.com.ar/ovacion/primera-c-cordoba-y-leones-fc-comienzan-el-sueno-ascenso-el-inicio-del-reducido-n10287161.html",
+        "image": "https://media.lacapital.com.ar/p/a96c26c65b64968ed6d5fc84a91614a1/adjuntos/203/imagenes/103/474/0103474544/1200x675/smart/image-2026-10-16t212052985.png",
+        "summary": "El Charrúa recibe a Centro Español este sábado desde las 15 en Tablada y el equipo de Alvear, visita Mercedes a las 16.30. Las revanchas dentro de siete días en Primera C",
+        "pubDate": "2026-10-17T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Producir y demostrar: el desafío ambiental del agro argentino",
         "link": "https://www.lacapital.com.ar/agro/producir-y-demostrar-el-desafio-ambiental-del-agro-argentino-n10286700.html",
         "image": "https://media.lacapital.com.ar/p/d22780fd9209b45d935d20791ce4f093/adjuntos/305/imagenes/102/749/0102749327/1200x675/692x278:712x298/img-campo.jpg",
@@ -159,10 +177,10 @@
       },
       {
         "source": "La Capital",
-        "title": "Central va por otro buen libreto para no bajarse del escenario del protagonismo",
-        "link": "https://www.lacapital.com.ar/ovacion/central-va-otro-buen-libreto-no-bajarse-del-escenario-del-protagonismo-n10286996.html",
-        "image": "https://media.lacapital.com.ar/p/4311badc1be65cfc81713389ad968bb1/adjuntos/203/imagenes/103/474/0103474662/fide.jpg",
-        "summary": "Aún con bajas importantes, el Canalla visita a Atlético Tucumán en la primera de las cuatro finales que tiene por delante en busca del bicampeonato de Liga",
+        "title": "Asociación Rosarina: Pablo VI está obligado con Morning y si no gana el campeón será Central",
+        "link": "https://www.lacapital.com.ar/ovacion/asociacion-rosarina-pablo-vi-esta-obligado-morning-y-si-no-gana-el-campeon-sera-central-n10287166.html",
+        "image": "https://media.lacapital.com.ar/p/b38f8142ba86d2050d86d9a64ad5235e/adjuntos/203/imagenes/103/474/0103474651/1200x675/smart/image-2026-10-16t222219092.png",
+        "summary": "En el Viaducto, los papales necesitan el triunfo ante el Verde para tener chances en la recta final. Una igualdad dejaría al Canalla con el título en Rosarina",
         "pubDate": "2026-10-17T09:10:00+00:00",
         "approxTime": false
       },
@@ -186,10 +204,10 @@
       },
       {
         "source": "La Capital",
-        "title": "Asociación Rosarina: Pablo VI está obligado con Morning y si no gana el campeón será Central",
-        "link": "https://www.lacapital.com.ar/ovacion/asociacion-rosarina-pablo-vi-esta-obligado-morning-y-si-no-gana-el-campeon-sera-central-n10287166.html",
-        "image": "https://media.lacapital.com.ar/p/b38f8142ba86d2050d86d9a64ad5235e/adjuntos/203/imagenes/103/474/0103474651/1200x675/smart/image-2026-10-16t222219092.png",
-        "summary": "En el Viaducto, los papales necesitan el triunfo ante el Verde para tener chances en la recta final. Una igualdad dejaría al Canalla con el título en Rosarina",
+        "title": "Central va por otro buen libreto para no bajarse del escenario del protagonismo",
+        "link": "https://www.lacapital.com.ar/ovacion/central-va-otro-buen-libreto-no-bajarse-del-escenario-del-protagonismo-n10286996.html",
+        "image": "https://media.lacapital.com.ar/p/4311badc1be65cfc81713389ad968bb1/adjuntos/203/imagenes/103/474/0103474662/fide.jpg",
+        "summary": "Aún con bajas importantes, el Canalla visita a Atlético Tucumán en la primera de las cuatro finales que tiene por delante en busca del bicampeonato de Liga",
         "pubDate": "2026-10-17T09:10:00+00:00",
         "approxTime": false
       },
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/cbfa38367b0f13a1def161dadcda6ace/adjuntos/203/imagenes/103/474/0103474577/di-maria.jpg",
         "summary": "La delegación Canalla se instaló en la noche de este viernes en el Jardín de la República y tuvo un gran recibimiento de los hinchas",
         "pubDate": "2026-10-17T00:42:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El tiempo en Rosario: la primavera se aleja cada vez más con un nuevo descenso de temperaturas",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-la-primavera-se-aleja-cada-vez-mas-un-nuevo-descenso-temperaturas-n10287160.html",
-        "image": "https://media.lacapital.com.ar/p/681aff17fa3e04adc75979258363864e/adjuntos/203/imagenes/100/731/0100731621/2023-06-11-frio-by_lvincenti-79261492jpg.jpg",
-        "summary": "El sol tendrá más apariciones este fin de semana pero los termómetros mostrarán registros casi invernales",
-        "pubDate": "2026-10-16T23:59:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El vice de Newell's bancó a Kudelka: \"Es un pilar fundamental del proyecto de reconstrucción del club\"",
-        "link": "https://www.lacapital.com.ar/ovacion/el-vice-newells-banco-kudelka-es-un-pilar-fundamental-del-proyecto-reconstruccion-del-club-n10287159.html",
-        "image": "https://media.lacapital.com.ar/p/576f69a682386c651443385da8e0b0b5/adjuntos/203/imagenes/103/395/0103395854/ffff.jpg",
-        "summary": "El dirigente Juan Manuel Medina se alejó de lo expresado por uno de sus pares de comisión directiva, quien puso en duda la continuidad del entrenador rojinegro",
-        "pubDate": "2026-10-16T23:41:00+00:00",
         "approxTime": false
       }
     ]
