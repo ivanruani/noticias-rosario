@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-10-17T22:30:55.597837+00:00",
+  "generatedAt": "2026-10-17T23:01:09.375590+00:00",
   "sites": {
     "rosario3": [
-      {
-        "source": "Rosario3",
-        "title": "Santa Fe lleva 150 empresas a Neuquén para buscar negocios con Vaca Muerta",
-        "link": "https://www.rosario3.com/informaciongeneral/santa-fe-lleva-150-empresas-a-neuquen-para-buscar-negocios-con-vaca-muerta-20261017-0022.html",
-        "image": "https://www.rosario3.com/__export/1792269225199/sites/rosario3/img/2026/10/17/pullaro_y_puccini.jpg_1825222445.jpg",
-        "summary": "La provincia participará de la Argentina Oil & Gas Expo Patagonia 2026, del 19 al 22 de octubre. Veinte firmas santafesinas tendrán un espacio en el stand institucional y la delegación buscará fortalecer los vínculos comerciales con las principales operadoras de la industria…",
-        "pubDate": "2026-10-17T12:00:00+00:00",
-        "approxTime": true
-      },
       {
         "source": "Rosario3",
         "title": "Con equipo confirmado y nuevo mediocampo, Central visita a Atlético Tucumán en otro duelo clave para su ilusión",
         "link": "https://www.rosario3.com/deportes/con-bajas-de-peso-central-visita-a-atletico-tucuman-en-otro-duelo-clave-para-su-ilusion-20261016-0063.html",
         "image": "https://www.rosario3.com/__export/1792180716679/sites/rosario3/img/2026/10/16/di_maria_central.jpg_506286608.jpg",
         "summary": "Se miden este sábado desde las 20 en el estadio Monumental José Fierro, por la fecha 13. El técnico Jorge Almirón debe reemplazar a Franco Ibarra y Federico Navarro, descartados por lesión. El Canalla pelea en la tabla anual y quiere ser primero de su zona. Dirige Álvaro…",
-        "pubDate": "2026-10-16T11:59:00+00:00",
+        "pubDate": "2026-10-16T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Santa Fe lleva 150 empresas a Neuquén para buscar negocios con Vaca Muerta",
+        "link": "https://www.rosario3.com/informaciongeneral/santa-fe-lleva-150-empresas-a-neuquen-para-buscar-negocios-con-vaca-muerta-20261017-0022.html",
+        "image": "https://www.rosario3.com/__export/1792269225199/sites/rosario3/img/2026/10/17/pullaro_y_puccini.jpg_1825222445.jpg",
+        "summary": "La provincia participará de la Argentina Oil & Gas Expo Patagonia 2026, del 19 al 22 de octubre. Veinte firmas santafesinas tendrán un espacio en el stand institucional y la delegación buscará fortalecer los vínculos comerciales con las principales operadoras de la industria…",
+        "pubDate": "2026-10-17T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -121,24 +121,42 @@
       },
       {
         "source": "Rosario3",
-        "title": "Murió un adolescente que perdió el control de la moto en una picada clandestina en Rafaela",
-        "link": "https://www.rosario3.com/informaciongeneral/murio-un-adolescente-que-perdio-el-control-de-la-moto-en-una-picada-clandestina-en-rafaela-20261017-0014.html",
-        "image": "https://www.rosario3.com/__export/1778429268769/sites/rosario3/img/2026/05/10/policxa_patrullero.jpg_54252852.jpg",
-        "summary": "El chico falleció en la madrugada de este sábado tras un accidente en cercanías del autódromo, donde se disputaba una prueba de velocidad ilegal. El otro motociclista involucrado habría escapado y buscan identificarlo",
+        "title": "Usura y préstamos desde la cárcel, el trasfondo que rodea el brutal crimen de una joven en barrio Tablada",
+        "link": "https://www.rosario3.com/policiales/usura-y-prestamos-desde-la-carcel-el-trasfondo-que-rodea-el-brutal-crimen-de-una-joven-en-barrio-tablada-20261017-0007.html",
+        "image": "https://www.rosario3.com/__export/1792244569400/sites/rosario3/img/2026/09/28/femicidio_grandoli_3800_2.jpg_928314581.jpg",
+        "summary": "Natalia Giménez apareció asesinada y torturada en su casa de Grandoli al 3800. La investigación detectó que debía dinero que había obtenido con un préstamo informal de un recluso. La Fiscalía imputó al preso que manejaba el negocio desde la cárcel, a una mujer que intervenía en…",
         "pubDate": "2026-10-17T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Usura y préstamos desde la cárcel, el trasfondo que rodea el brutal crimen de una joven en barrio Tablada",
-        "link": "https://www.rosario3.com/policiales/usura-y-prestamos-desde-la-carcel-el-trasfondo-que-rodea-el-brutal-crimen-de-una-joven-en-barrio-tablada-20261017-0007.html",
-        "image": "https://www.rosario3.com/__export/1792244569400/sites/rosario3/img/2026/09/28/femicidio_grandoli_3800_2.jpg_928314581.jpg",
-        "summary": "Natalia Giménez apareció asesinada y torturada en su casa de Grandoli al 3800. La investigación detectó que debía dinero que había obtenido con un préstamo informal de un recluso. La Fiscalía imputó al preso que manejaba el negocio desde la cárcel, a una mujer que intervenía en…",
+        "title": "Otro frente penal para su señoría: el juez Gastón Salmain irá a juicio por abuso de autoridad e incumplimiento de deberes",
+        "link": "https://www.rosario3.com/policiales/otro-frente-penal-para-su-senoria-el-juez-gaston-salmain-ira-a-juicio-por-abuso-de-autoridad-e-incumplimiento-de-deberes-20261017-0009.html",
+        "image": "https://www.rosario3.com/__export/1792248235268/sites/rosario3/img/2025/11/18/gaston-salmain-juez.jpg_672794305.jpg",
+        "summary": "La Cámara Federal rechazó el sobreseimiento solicitado por la defensa y dio luz verde para un futuro debate oral. El magistrado, suspendido, posee otro expediente penal de mayor gravedad y por estos días afronta un jury de enjuiciamiento ante el Consejo de la Magistratura",
         "pubDate": "2026-10-17T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "El karate rosarino es de nuevo mundial en Eslovenia por Daniel y Tomás Rossetto",
+        "link": "https://www.lacapital.com.ar/ovacion/el-karate-rosarino-es-nuevo-mundial-eslovenia-daniel-y-tomas-rossetto-n10287263.html",
+        "image": "https://media.lacapital.com.ar/p/08266a46120e0b624fb5a5c271d4b87c/adjuntos/203/imagenes/103/476/0103476147/1200x675/smart/image-28.jpg",
+        "summary": "Los karatecas que representan a Obras Sanitarias de Rosario se presentan en el Mundial de Eslovenia, con la chapa de una década al tope del deporte",
+        "pubDate": "2026-10-17T22:55:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "En vivo: Central va por una victoria en Tucumán para no bajarse del tren de la tabla anual",
+        "link": "https://www.lacapital.com.ar/ovacion/en-vivo-central-va-una-victoria-tucuman-no-bajarse-del-tren-la-tabla-anual-n10287248.html",
+        "image": "https://media.lacapital.com.ar/p/eccb01364a587fef3dd4a7adaa966372/adjuntos/203/imagenes/103/476/0103476158/aa3.jpg",
+        "summary": "Central visita a Atlético Tucumán y necesita ganar para no perderle pisada a los líderes de la acumulada. Seguilo en vivo por La Capital",
+        "pubDate": "2026-10-17T22:44:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Central: quiénes fueron los elegidos por Almirón para suplir las bajas en el medio",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/0e36bc2e245bf60421fc6d9460404c54/adjuntos/203/imagenes/103/475/0103475119/vigilia-pj-rosario-dia-la-lealtad.jpeg",
         "summary": "El senador nacional encabezó la vigilia peronista que organizó el PJ en Rosario para conmemorar el 17 de octubre de 1945",
         "pubDate": "2026-10-17T17:09:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Pullaro se desmarcó de las críticas a Provincias Unidas por el DNU 70/23",
-        "link": "https://www.lacapital.com.ar/politica/pullaro-se-desmarco-las-criticas-provincias-unidas-el-dnu-7023-n10287205.html",
-        "image": "https://media.lacapital.com.ar/p/63f4244bcd5f736ad1d3b9c7a7c40c37/adjuntos/203/imagenes/103/473/0103473422/1200x675/smart/pullaro-sacglia-interministerial-2.jpeg",
-        "summary": "El gobernador de Santa Fe ratificó su posición frente al Poder Ejecutivo nacional tras el intento fallido de la oposición para derogar la normativa",
-        "pubDate": "2026-10-17T16:20:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El cirujano del papa León XIV dijo que estará en condiciones de viajar a Argentina",
-        "link": "https://www.lacapital.com.ar/informacion-general/el-cirujano-del-papa-leon-xiv-dijo-que-estara-condiciones-viajar-argentina-n10287212.html",
-        "image": "https://media.lacapital.com.ar/p/16b000b3a9afc6558f9f908e4b376181/adjuntos/203/imagenes/103/475/0103475322/papa-leon-xiv.jpg",
-        "summary": "Stefano Margaritora reconoció que el sumo pontífice alcanzará su plena recuperación en 10 días, justo antes de iniciar su viaje por Sudamérica",
-        "pubDate": "2026-10-17T16:13:00+00:00",
         "approxTime": false
       }
     ]
