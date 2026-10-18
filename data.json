@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T20:30:58.805801+00:00",
+  "generatedAt": "2026-10-18T20:35:21.720301+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El Tata Martino respondió sobre la posibilidad de volver a Newell's para dirigir a Messi",
+        "link": "https://www.lacapital.com.ar/ovacion/el-tata-martino-respondio-la-posibilidad-volver-newells-dirigir-messi-n10287354.html",
+        "image": "https://media.lacapital.com.ar/p/6c8e8c32d54fc0d8df7bd3757c7a343b/adjuntos/203/imagenes/103/477/0103477292/tatarr.jpg",
+        "summary": "El Tata Martino, que ahora está al frente de Atlanta United de los Estados Unidos, fue categórico ante la consulta de regresar al Parque en el futuro",
+        "pubDate": "2026-10-18T20:32:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Argentino de Rosario se juega el todo por el todo ante Muñiz para evitar la desafiliación",
+        "link": "https://www.lacapital.com.ar/ovacion/argentino-rosario-sejuega-el-todopor-el-todoante-muniz-evitar-la-desafiliacion-n10287339.html",
+        "image": "https://media.lacapital.com.ar/p/98d7059badb2a3191da9254c16a4ca62/adjuntos/203/imagenes/103/477/0103477044/salaito3.jpg",
+        "summary": "El Salaíto enfrenta a Muñiz en la cancha de Atlético Empalme en partido único por la permanencia en la Primera C",
+        "pubDate": "2026-10-18T20:31:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Bancarios: nuevo aumento salarial, sueldo inicial de $2,6 millones y un bono millonario en noviembre",
         "link": "https://www.lacapital.com.ar/economia/bancarios-nuevo-aumento-salarial-sueldo-inicial-26-millones-y-un-bono-millonario-noviembre-n10287335.html",
         "image": "https://media.lacapital.com.ar/p/048ac8236bdeaf8d5e44e32dd06a6df2/adjuntos/203/imagenes/103/476/0103476944/1200x675/smart/imagebanc.jpg",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/f7f03dc92e76e0189502fdea900565bb/adjuntos/203/imagenes/103/476/0103476621/1200x675/smart/imagen-nota.jpg",
         "summary": "Termas, playas, patrimonio y gastronomía integraron la oferta presentada en el Workshop de ARAV. Las alternativas para llegar y los beneficios para visitantes extranjeros completaron la propuesta",
         "pubDate": "2026-10-18T11:41:20+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Feria del Libro: este domingo será el último día para recorrer stands, escuchar y descubrir a nuevos autores",
-        "link": "https://www.lacapital.com.ar/la-ciudad/feria-del-libro-este-domingo-sera-el-ultimo-dia-recorrer-stands-escuchar-y-descubrir-nuevos-autores-n10287293.html",
-        "image": "https://media.lacapital.com.ar/p/9ffae62f0e3eb8a62cb2dde04d806855/adjuntos/203/imagenes/103/476/0103476619/1200x675/smart/feria-del-libro1.jpeg",
-        "summary": "Habrá presentaciones de Facundo Pastor, Reynaldo Sietecase y Marcelo Scalona, entre otros. La cita es en el Cultural Fontanarrosa, con entrada libre y gratuita",
-        "pubDate": "2026-10-18T11:23:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Tus manos: la barrera más efectiva contra la transmisión de infecciones",
-        "link": "https://www.lacapital.com.ar/salud/tus-manos-la-barrera-mas-efectiva-contra-la-transmision-infecciones-n10286864.html",
-        "image": "https://media.lacapital.com.ar/p/b61e5ae5c66d128e88a9cbca5f9829dd/adjuntos/203/imagenes/103/471/0103471228/1200x675/smart/imagen-nota.jpg",
-        "summary": "La infectóloga María Julia Aleman, del Servicio de Infectología de Grupo Gamma, explica cuándo y cómo lavarse las manos correctamente para proteger la salud propia y la de los demás",
-        "pubDate": "2026-10-18T11:16:00+00:00",
         "approxTime": false
       }
     ]
