@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T18:01:08.026800+00:00",
+  "generatedAt": "2026-10-18T18:31:00.216419+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Autos eléctricos: YPF y Tesla proyectan cinco rutas con supercargadores desde Rosario para 2027",
+        "link": "https://www.lacapital.com.ar/informacion-general/autos-electricos-ypf-y-tesla-proyectan-cinco-rutas-supercargadores-rosario-2027-n10287333.html",
+        "image": "https://media.lacapital.com.ar/p/671f09d9500a5c044fdb63e1fc885984/adjuntos/203/imagenes/103/476/0103476942/1200x675/smart/imagetesla.jpg",
+        "summary": "La petrolera anunció que el despliegue comenzaría el próximo año. La primera etapa contempla conexiones con Buenos Aires, Córdoba, Santa Fe, Mendoza y Mar del Plata. Más adelante, la red buscará extenderse hasta La Quiaca y Ushuaia.",
+        "pubDate": "2026-10-18T18:24:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Qué tan fácil es abrir un negocio en Rosario: qué lugar ocupa en un ranking de 30 ciudades argentinas",
+        "link": "https://www.lacapital.com.ar/la-ciudad/que-tan-facil-es-abrir-un-negocio-rosario-que-lugar-ocupa-un-ranking-30-ciudades-argentinas-n10287331.html",
+        "image": "https://media.lacapital.com.ar/p/5e5401ae27c49f0ec5ea79a520b74dc4/adjuntos/203/imagenes/102/988/0102988213/1200x675/smart/barrio.webp",
+        "summary": "Un estudio de Idesa, realizado a pedido del BID, evaluó los trámites y requisitos para habilitar comercios y empresas en distintos municipios del país. Cómo quedó posicionada Rosario y cuáles fueron los aspectos analizados.",
+        "pubDate": "2026-10-18T18:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Juan Alberto Mateyko estalló contra Julieta Prandi por su separación de Emanuel Ortega: \"Así no\"",
         "link": "https://www.lacapital.com.ar/juan-alberto-mateyko-estallo-contra-julieta-prandi-su-separacion-emanuel-ortega-asi-no-n10287327.html",
         "image": "https://media.lacapital.com.ar/p/ab013b5ccefefa8ffeb3b84e2683ac75/adjuntos/203/imagenes/103/476/0103476917/1200x675/smart/imagemate3.jpg",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/bdfdc046ec14ae9a69a0c499fdd3d535/adjuntos/203/imagenes/103/471/0103471252/1200x675/smart/img_9649.jpg",
         "summary": "La detección temprana del cáncer de mama mejora el pronóstico y permite tratamientos menos agresivos. Especialistas de Elas, Grupo Oroño, explican cómo definir el esquema adecuado para cada paciente",
         "pubDate": "2026-10-18T11:16:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Agencia santafesina cumple una década con casi 10 mil pasajeros transportados",
-        "link": "https://www.lacapital.com.ar/negocios/agencia-santafesina-cumple-una-decada-casi-10-mil-pasajeros-transportados-n10286889.html",
-        "image": "https://media.lacapital.com.ar/p/c911ca1cc9c8e0dd839252bfd9f9ee81/adjuntos/203/imagenes/103/471/0103471597/andres-acoroni-foto-final.jpg",
-        "summary": "Desde Arroyo Seco, Andrés Acoroni Viajes y Turismo se consolidó como una referencia para viajeros de la región. Cómo cambió el negocio de las agencias y los destinos más buscados",
-        "pubDate": "2026-10-18T11:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Pasacalle: el original boliche que atraviesa generaciones festeja 35 años",
-        "link": "https://www.lacapital.com.ar/negocios/pasacalle-el-original-boliche-que-atraviesa-generaciones-festeja-35-anos-n10286900.html",
-        "image": "https://media.lacapital.com.ar/p/5113ef27243fcb0e6d16684e92875430/adjuntos/203/imagenes/103/471/0103471648/82763997.jpeg",
-        "summary": "La disco de Arroyo Seco, Pasacalle, es conocida por su clásico puente. Abrió en 1991 y convoca tanto a jóvenes como a quienes regresan para sus fiestas retro.",
-        "pubDate": "2026-10-18T11:00:00+00:00",
         "approxTime": false
       }
     ]
