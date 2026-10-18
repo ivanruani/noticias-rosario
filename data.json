@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T18:31:00.216419+00:00",
+  "generatedAt": "2026-10-18T19:01:06.163396+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Bancarios: nuevo aumento salarial, sueldo inicial de $2,6 millones y un bono millonario en noviembre",
+        "link": "https://www.lacapital.com.ar/economia/bancarios-nuevo-aumento-salarial-sueldo-inicial-26-millones-y-un-bono-millonario-noviembre-n10287335.html",
+        "image": "https://media.lacapital.com.ar/p/048ac8236bdeaf8d5e44e32dd06a6df2/adjuntos/203/imagenes/103/476/0103476944/1200x675/smart/imagebanc.jpg",
+        "summary": "El sindicato del sector acordó una suba del 1,9% para septiembre y acumula un incremento del 23,6% en lo que va del año. Además, los trabajadores cobrarán un bono de más de $2,2 millones por el Día del Bancario.",
+        "pubDate": "2026-10-18T18:38:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Autos eléctricos: YPF y Tesla proyectan cinco rutas con supercargadores desde Rosario para 2027",
         "link": "https://www.lacapital.com.ar/informacion-general/autos-electricos-ypf-y-tesla-proyectan-cinco-rutas-supercargadores-rosario-2027-n10287333.html",
         "image": "https://media.lacapital.com.ar/p/671f09d9500a5c044fdb63e1fc885984/adjuntos/203/imagenes/103/476/0103476942/1200x675/smart/imagetesla.jpg",
@@ -262,15 +271,6 @@
         "link": "https://www.lacapital.com.ar/salud/tus-manos-la-barrera-mas-efectiva-contra-la-transmision-infecciones-n10286864.html",
         "image": "https://media.lacapital.com.ar/p/b61e5ae5c66d128e88a9cbca5f9829dd/adjuntos/203/imagenes/103/471/0103471228/1200x675/smart/imagen-nota.jpg",
         "summary": "La infectóloga María Julia Aleman, del Servicio de Infectología de Grupo Gamma, explica cuándo y cómo lavarse las manos correctamente para proteger la salud propia y la de los demás",
-        "pubDate": "2026-10-18T11:16:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Octubre Rosa: por qué los controles mamarios deben adaptarse a cada mujer",
-        "link": "https://www.lacapital.com.ar/salud/octubre-rosa-que-los-controles-mamarios-deben-adaptarse-cada-mujer-n10286865.html",
-        "image": "https://media.lacapital.com.ar/p/bdfdc046ec14ae9a69a0c499fdd3d535/adjuntos/203/imagenes/103/471/0103471252/1200x675/smart/img_9649.jpg",
-        "summary": "La detección temprana del cáncer de mama mejora el pronóstico y permite tratamientos menos agresivos. Especialistas de Elas, Grupo Oroño, explican cómo definir el esquema adecuado para cada paciente",
         "pubDate": "2026-10-18T11:16:00+00:00",
         "approxTime": false
       }
