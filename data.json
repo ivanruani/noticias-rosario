@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T17:01:12.336737+00:00",
+  "generatedAt": "2026-10-18T17:18:18.117356+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Newell's vs. Central Córdoba por el torneo Clausura: hora, canal y posibles formaciones",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-vs-central-cordoba-el-torneo-clausura-hora-canal-y-posibles-formaciones-n10287076.html",
+        "image": "https://media.lacapital.com.ar/p/79b918bf4b894598d5ec8df698d84295/adjuntos/203/imagenes/102/590/0102590069/1200x675/smart/newells-central-cordoba.png",
+        "summary": "La Lepra necesita recuperarse y sumar ante el Ferroviario para mantenerse en los puestos de playoffs. Detalles y estadísticas del partido",
+        "pubDate": "2026-10-18T17:05:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Cómo actualizar los datos de Pami desde la web",
+        "link": "https://www.lacapital.com.ar/informacion-general/como-actualizar-los-datos-pami-la-web-n10287108.html",
+        "image": "https://media.lacapital.com.ar/p/249e4b4666bb9353c5b2b772f5d12603/adjuntos/203/imagenes/101/933/0101933480/1200x675/smart/pami-aplicacionjpg.jpg",
+        "summary": "Con el objetivo de reforzar la información y mejorar la comunicación, Pami impulsa a sus afiliados a revisar determinada información. Cómo hacerlo",
+        "pubDate": "2026-10-18T17:04:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Incrementan la recompensa para esclarecer el crimen de un comerciante de Villa Gobernador Gálvez",
         "link": "https://www.lacapital.com.ar/la-ciudad/incrementan-la-recompensa-esclarecer-el-crimen-un-comerciante-villa-gobernador-galvez-n10287311.html",
         "image": "https://media.lacapital.com.ar/p/514e4c6b64fc65c7030472d08bd00de9/adjuntos/203/imagenes/103/476/0103476816/1200x675/smart/turnaturi.jpg",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/f7d9c51788e7fc23c530265befaa76ea/adjuntos/203/imagenes/103/473/0103473125/1200x675/smart/villa8jpg.jpeg",
         "summary": "La recuperación de la Terminal I y el desarrollo de la zona franca amplían el horizonte logístico. Se viene el turismo fluvial",
         "pubDate": "2026-10-18T11:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "\"Hello!\" llega a Rosario para celebrar el histórico MTV Unplugged de Charly García",
-        "link": "https://www.lacapital.com.ar/zoom/hello-llega-rosario-celebrar-el-historico-mtv-unplugged-charly-garcia-n10287196.html",
-        "image": "https://media.lacapital.com.ar/p/bc100e67fc882c4a2d9e88b5f969c4e6/adjuntos/203/imagenes/103/472/0103472987/1200x675/smart/image-2026-10-16t100206512.jpg",
-        "summary": "Con participación de varios músicos que estuvieron en la grabación original, el show se podrá ver el 21 de octubre próximo en Casa Brava",
-        "pubDate": "2026-10-18T11:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Guarderías para perros: un negocio que crece al ritmo de una nueva forma de vincularse con las mascotas",
-        "link": "https://www.lacapital.com.ar/la-ciudad/guarderias-perros-un-negocio-que-crece-al-ritmo-una-nueva-forma-vincularse-las-mascotas-n10284112.html",
-        "image": "https://media.lacapital.com.ar/p/0cfefc52cf79739eb272149fe75829dd/adjuntos/203/imagenes/103/437/0103437514/1200x675/smart/whatsapp-image-2026-09-30-at-153255-3.jpeg",
-        "summary": "Hay desde lugares con espacios especiales y videollamadas hasta pequeños cuidadores que reciben pocos perros en sus casas. Una demanda que que busca confianza y precio",
-        "pubDate": "2026-10-18T09:50:00+00:00",
         "approxTime": false
       }
     ]
