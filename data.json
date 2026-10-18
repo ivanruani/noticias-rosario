@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T16:01:11.804839+00:00",
+  "generatedAt": "2026-10-18T16:30:58.741064+00:00",
   "sites": {
     "rosario3": [
       {
@@ -31,11 +31,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Facundo Pastor y su libro El cuerpo de Perón: \"Argentina no logró superar su muerte en términos políticos\"",
+        "link": "https://www.rosario3.com/politica/facundo-pastor-y-su-libro-el-cuerpo-de-peron-argentina-no-logro-superar-su-muerte-en-terminos-politicos-20261016-0052.html",
+        "image": "https://www.rosario3.com/__export/1792179190453/sites/rosario3/img/2026/10/16/facundo_pastor_peron.jpg_928314580.jpg",
+        "summary": "El periodista Facundo Pastor lo presenta este domingo en la Feria del Libro de Rosario. En un adelanto con Rosario3 habló sobre la historia del cadáver del ex presidente y dijo que “no está cerrado” ante la falta de esclarecimiento del robo de las manos de 1987",
+        "pubDate": "2026-10-16T11:57:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "El dinero ya juega a 2030: la interna del ladrillo, los negocios con Messi y el dinero huele el poder antes que los votos | Ecos365",
         "link": "https://www.rosario3.com/ecos365/noticias/el-dinero-ya-juega-a-2030-la-interna-del-ladrillo-los-negocios-con-messi-y-el-dinero-huele-el-poder-antes-que-los-votos-20261018-0001.html",
         "image": "https://www.rosario3.com/__export/1792330116978/sites/rosario3/img/2026/10/18/horacio_marxn_ypf_bolsa_de_comercio_de_rosario_1_crop1792330078910.jpeg_317231356.jpeg",
         "summary": "Constructores reclaman al Estado, pero también se miran entre ellos. Grupo 83 crece con el impulso de Messi, la industria busca contratos en Vaca Muerta. Brasil, Israel y Estados Unidos votan en nueve días. Las pymes hacen otra cuenta: cuánto pueden aguantar",
-        "pubDate": "2026-10-18T11:57:00+00:00",
+        "pubDate": "2026-10-18T11:56:00+00:00",
         "approxTime": true
       },
       {
@@ -44,16 +53,7 @@
         "link": "https://www.rosario3.com/politica/a-una-semana-del-balotaje-brasileno-lula-y-flavio-juegan-sus-ultimas-cartas-20261017-0027.html",
         "image": "https://www.rosario3.com/__export/1792329899951/sites/rosario3/img/2026/10/18/lula_bolsonaro.jpg_54252853.jpg",
         "summary": "Con el primer debate televisivo entre ambos previsto para hoy, el presidente busca recuperar apoyos y defender su gestión. Mientras, el senador intenta ampliar su coalición y demostrar que puede gobernar más allá del legado de su padre",
-        "pubDate": "2026-10-17T11:56:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Ucrania lanzó uno de los mayores ataques con drones desde inicio de la guerra contra San Petesburgo, la ciudad natal de Putin",
-        "link": "https://www.rosario3.com/informaciongeneral/ucrania-lanzo-uno-de-los-mayores-ataques-con-drones-desde-inicio-de-la-guerra-contra-san-petesburgo-la-ciudad-natal-de-putin-20261018-0010.html",
-        "image": "https://www.rosario3.com/__export/1792336499875/sites/rosario3/img/2026/10/18/ucrania_rusia_version1792336499403.jpg_1466170194.jpg",
-        "summary": "Unos 150 drones hicieron estragos durante la madrugada en la infraestructura petrolera, logística y digital de la segunda urbe rusa luego de que el presidente de Estados Unidos, Donald Trump, anunciara acuerdos con el Kremlin. La avanzada militar también alcanzó a la adyacente…",
-        "pubDate": "2026-10-18T11:55:00+00:00",
+        "pubDate": "2026-10-17T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -85,11 +85,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Ucrania lanzó uno de los mayores ataques con drones desde inicio de la guerra contra San Petesburgo, la ciudad natal de Putin",
+        "link": "https://www.rosario3.com/informaciongeneral/ucrania-lanzo-uno-de-los-mayores-ataques-con-drones-desde-inicio-de-la-guerra-contra-san-petesburgo-la-ciudad-natal-de-putin-20261018-0010.html",
+        "image": "https://www.rosario3.com/__export/1792336499875/sites/rosario3/img/2026/10/18/ucrania_rusia_version1792336499403.jpg_1466170194.jpg",
+        "summary": "Unos 150 drones hicieron estragos durante la madrugada en la infraestructura petrolera, logística y digital de la segunda urbe rusa luego de que el presidente de Estados Unidos, Donald Trump, anunciara acuerdos con el Kremlin. La avanzada militar también alcanzó a la adyacente…",
+        "pubDate": "2026-10-18T11:51:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Imágenes del rescate: al menos tres muertos y cuatro heridos por una avalancha de nieve en un centro de esquí de Chile",
         "link": "https://www.rosario3.com/informaciongeneral/imagenes-del-rescate-al-menos-tres-muertos-y-cuatro-heridos-por-una-avalancha-de-nieve-en-un-centro-de-esqui-de-chile-20261018-0008.html",
         "image": "https://www.rosario3.com/__export/1792335254510/sites/rosario3/img/2026/10/18/el_portillo.jpg_54252875.jpg",
         "summary": "El desprendimiento ocurrió en un sector restringido de la Laguna del Inca, en la comuna de Los Andes, en la frontera con Mendoza. El hecho ocurrió el último sábado y, según la información oficial, la nieve arrastró a los montañistas –que no contaban con el permiso para escalar–…",
-        "pubDate": "2026-10-18T11:51:00+00:00",
+        "pubDate": "2026-10-18T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -98,15 +107,6 @@
         "link": "https://www.rosario3.com/deportes/chiqui-tapia-te-dejo-un-mensaje-al-dibu-martinez-no-tengo-dudas-vas-a-volver-mas-fuerte-que-nunca-20261018-0006.html",
         "image": "https://www.rosario3.com/__export/1792330382997/sites/rosario3/img/2026/10/18/chiqui_y_dibu.jpg_1768679257.jpg",
         "summary": "El presidente de la AFA se solidarizó con el arquero de la selección argentina por la lesión sufrida en el partido entre Chelsea y Everton",
-        "pubDate": "2026-10-18T11:50:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Los detenidos en las protestas en Francia ascendían a 1.800 y se espera el discurso de Macron",
-        "link": "https://www.rosario3.com/informaciongeneral/los-detenidos-en-las-protestas-en-francia-ascendian-a-1.800-y-se-espera-el-discurso-de-macron-20261018-0005.html",
-        "image": "https://www.rosario3.com/__export/1792329349624/sites/rosario3/img/2026/10/18/francia_version1792329349129.jpg_1753201588.jpg",
-        "summary": "Esa cifra provisional la dio a conocer en su cuenta de X el ministro del Interior, Laurent Núñez. En funcionario precisó que 500 policías, gendarmes y bomberos resultaron heridos en los disturbios. Este domingo por la noche, el presidente francés dará un discurso",
         "pubDate": "2026-10-18T11:49:00+00:00",
         "approxTime": true
       },
