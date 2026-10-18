@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T09:30:52.681999+00:00",
+  "generatedAt": "2026-10-18T10:01:08.444241+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Guarderías para perros: un negocio que crece al ritmo de una nueva forma de vincularse con las mascotas",
+        "link": "https://www.lacapital.com.ar/guarderias-perros-un-negocio-que-crece-al-ritmo-una-nueva-forma-vincularse-las-mascotas-n10284112.html",
+        "image": "https://media.lacapital.com.ar/p/59c8f564d64ff13996a4e6b910b11f5f/adjuntos/203/imagenes/103/437/0103437515/1200x675/smart/whatsapp-image-2026-09-30-at-153253-2.jpeg",
+        "summary": "Hay desde lugares con espacios especiales y videollamadas hasta pequeños cuidadores que reciben pocos perros en sus casas. Una demanda que que busca confianza y precio",
+        "pubDate": "2026-10-18T09:50:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El alcohol sigue encabezando los consumos problemáticos en Rosario y el país",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-alcohol-sigue-encabezando-los-consumos-problematicos-rosario-y-el-pais-n10286851.html",
+        "image": "https://media.lacapital.com.ar/p/2d668588c302c025d55b64546a7f4722/adjuntos/203/imagenes/030/664/0030664345/1200x675/smart/alcoholismojpg.jpg",
+        "summary": "En el marco del 74° aniversario de Alcóholicos Anónimos que se realizará en Rosario, especialistas consignan que hay 2 millones de adictos en Argentina",
+        "pubDate": "2026-10-18T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Las obras para los Juegos Suramericanos ya tienen destino y concesiones",
         "link": "https://www.lacapital.com.ar/la-ciudad/las-obras-los-juegos-suramericanos-ya-tienen-destino-y-concesiones-n10285681.html",
         "image": "https://media.lacapital.com.ar/p/b9f740ef39c652e3e135acb96027d9bc/adjuntos/203/imagenes/103/432/0103432991/1200x675/smart/image-8.jpg",
@@ -168,19 +186,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Violencia de género: buscan que la Justicia no mire para otro lado",
-        "link": "https://www.lacapital.com.ar/politica/violencia-genero-buscan-que-la-justicia-no-mire-otro-lado-n10287247.html",
-        "image": "https://media.lacapital.com.ar/p/5eb5d038e65f3ec301cd436f437b1d63/adjuntos/203/imagenes/103/359/0103359415/senado1.jpg",
-        "summary": "La Casa Gris envió al Senado un proyecto que intima a los magistrados a actuar de modo ágil y efectivo frente a esos casos, entre otras medidas clave",
+        "title": "Milei cede para ganar, Pullaro moviliza a su tropa y el PJ discute a quién ser leal",
+        "link": "https://www.lacapital.com.ar/suscriptores/milei-cede-ganar-pullaro-moviliza-su-tropa-y-el-pj-discute-quien-ser-leal-n10287275.html",
+        "image": "https://media.lacapital.com.ar/p/02646c6be8972316e2c1d85015a76328/adjuntos/203/imagenes/103/476/0103476349/1200x675/smart/milei-gobernadores-paris-argentina-week.jpg",
+        "summary": "El blindaje del DNU mostró el peso de los gobernadores. La trama de la relación entre la Casa Rosada y las provincias y el rol de Santa Fe. Unidos toma nota del humor social y apunta al metro cuadrado. El peronismo provincial, entre dos polos",
         "pubDate": "2026-10-18T09:05:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Milei cede para ganar, Pullaro moviliza a su tropa y el PJ discute a quién ser leal",
-        "link": "https://www.lacapital.com.ar/suscriptores/milei-cede-ganar-pullaro-moviliza-su-tropa-y-el-pj-discute-quien-ser-leal-n10287275.html",
-        "image": "https://media.lacapital.com.ar/p/02646c6be8972316e2c1d85015a76328/adjuntos/203/imagenes/103/476/0103476349/1200x675/smart/milei-gobernadores-paris-argentina-week.jpg",
-        "summary": "El blindaje del DNU mostró el peso de los gobernadores. La trama de la relación entre la Casa Rosada y las provincias y el rol de Santa Fe. Unidos toma nota del humor social y apunta al metro cuadrado. El peronismo provincial, entre dos polos",
+        "title": "Violencia de género: buscan que la Justicia no mire para otro lado",
+        "link": "https://www.lacapital.com.ar/politica/violencia-genero-buscan-que-la-justicia-no-mire-otro-lado-n10287247.html",
+        "image": "https://media.lacapital.com.ar/p/5eb5d038e65f3ec301cd436f437b1d63/adjuntos/203/imagenes/103/359/0103359415/senado1.jpg",
+        "summary": "La Casa Gris envió al Senado un proyecto que intima a los magistrados a actuar de modo ágil y efectivo frente a esos casos, entre otras medidas clave",
         "pubDate": "2026-10-18T09:05:00+00:00",
         "approxTime": false
       },
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/4fb71c2e455b4f70b7153076c7ba788b/adjuntos/305/imagenes/103/205/0103205614/1200x675/smart/sojag.jpg",
         "summary": "La Guía Estratégica para el Agro prevé un aumento de 2% en la superficie a implantar en la región núcleo. Los planes son sembrar antes, intensificar los planteos y acortar los ciclos.",
         "pubDate": "2026-10-17T23:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La Noche de las Peatonales no defraudó y se reeditó una fiesta",
-        "link": "https://www.lacapital.com.ar/la-ciudad/la-noche-las-peatonales-no-defraudo-y-se-reedito-una-fiesta-n10287266.html",
-        "image": "https://media.lacapital.com.ar/p/727cf7f7c927b0ac76145593678049a0/adjuntos/203/imagenes/103/476/0103476215/1200x675/smart/whatsapp-image-2026-10-17-at-201139.jpeg",
-        "summary": "La abundante y variada propuesta en los paseos comerciales convocaron a una multitud en medio de música y espectáculos en una noche que ya es un clásico",
-        "pubDate": "2026-10-17T23:12:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Newell's ya tiene en la mira al reemplazante del capitán rojinegro",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-ya-tiene-la-mira-al-reemplazante-del-capitan-rojinegro-n10287268.html",
-        "image": "https://media.lacapital.com.ar/p/32e19c389fef20d3b18ba1441636eb8c/adjuntos/203/imagenes/103/476/0103476202/nob-gmat-957319.jpg",
-        "summary": "Ante el cambio obligado por acumulación de tarjetas de Regiardo, en Newell's todo apunta a Jerónimo Gómez Mattar, otro pibe de la casa",
-        "pubDate": "2026-10-17T23:10:00+00:00",
         "approxTime": false
       }
     ]
