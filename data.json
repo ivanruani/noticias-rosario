@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T22:01:12.672510+00:00",
+  "generatedAt": "2026-10-18T22:31:02.902358+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Horror en una ruta de Santa Fe: tres jóvenes murieron atropellados por una camioneta mientras cambiaban una rueda",
+        "link": "https://www.lacapital.com.ar/policiales/horror-una-ruta-santa-fe-tres-jovenes-murieron-atropellados-una-camioneta-mientras-cambiaban-una-rueda-n10287379.html",
+        "image": "https://media.lacapital.com.ar/p/51055ef1c880be17c17853ae35fa15c4/adjuntos/203/imagenes/103/477/0103477625/1200x675/smart/image-2026-10-18t185643797.jpg",
+        "summary": "Las víctimas estaban junto a un Renault 9 detenido sobre la ruta 65, entre Monje y Díaz, a 80 kilómetros de Rosario. Dos de los fallecidos eran hermanos de 26 y 29 años.",
+        "pubDate": "2026-10-18T22:12:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Dos de cada tres argentinos se quedan sin dinero antes del día 20 de cada mes",
         "link": "https://www.lacapital.com.ar/economia/dos-cada-tres-argentinos-se-quedan-dinero-antes-del-dia-20-cada-mes-n10287372.html",
         "image": "https://media.lacapital.com.ar/p/160d5088236b3f6f5ee4ac0be9f14e25/adjuntos/203/imagenes/101/716/0101716347/1200x675/497x289:517x309/endeudado-billetera-deuda-pagosjpg.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/514e4c6b64fc65c7030472d08bd00de9/adjuntos/203/imagenes/103/476/0103476816/1200x675/smart/turnaturi.jpg",
         "summary": "El homicidio de Ariel Turnaturi se produjo tras un intento de robo ocurrido en diciembre de 2023. Se ofrecen $ 25 millones a quienes puedan aportar nuevos datos",
         "pubDate": "2026-10-18T14:32:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Salud pública: diez hospitales santafesinos realizarán más de 300 cirugías de vesícula y amígdalas desde este lunes",
-        "link": "https://www.lacapital.com.ar/la-ciudad/salud-publica-diez-hospitales-santafesinos-realizaran-mas-300-cirugias-vesicula-y-amigdalas-este-lunes-n10287308.html",
-        "image": "https://media.lacapital.com.ar/p/c9875ac1cdaaccf4493ee8bf47f9a086/adjuntos/203/imagenes/103/476/0103476792/1200x675/smart/cirugias1.jpg",
-        "summary": "Será durante jornadas intensivas, en los hospitales de tercer nivel, para tratar los cálculos en la vesícula y las afecciones de amígdalas en niños",
-        "pubDate": "2026-10-18T13:35:00+00:00",
         "approxTime": false
       }
     ]
