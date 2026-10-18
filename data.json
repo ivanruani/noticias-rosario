@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T13:31:02.433297+00:00",
+  "generatedAt": "2026-10-18T13:58:25.648344+00:00",
   "sites": {
     "rosario3": [
       {
@@ -94,20 +94,20 @@
       },
       {
         "source": "Rosario3",
-        "title": "El clima en Rosario: un domingo fresco para aprovechar algo de sol",
+        "title": "El clima en Rosario: un domingo fresco para aprovechar algo de sol, cuando asoma",
         "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-un-domingo-fresco-para-aprovechar-el-sol-20261018-0001.html",
-        "image": "https://www.rosario3.com/__export/1788089709101/sites/rosario3/img/2026/08/30/clima_soleado.jpg_1825222445.jpg",
-        "summary": "El Servicio Meteorológico Nacional (SMN) prevé una jornada con buen tiempo, cielo parcialmente nublado hacia la tarde, y una máxima que llegaría a los 18ºC. Cómo sigue la semana",
+        "image": "https://www.rosario3.com/__export/1792330874544/sites/rosario3/img/2022/08/30/nublado_mayormente_nublado_cielo_azul_con_nubes.jpg_566798741.jpg",
+        "summary": "El Servicio Meteorológico Nacional (SMN) prevé una jornada con buen tiempo y cielo parcialmente nublado hacia la tarde, cuando la nubosidad irá en aumento. La temperatura máxima llegaría a los 18ºC. Cómo sigue la semana",
         "pubDate": "2026-10-18T11:50:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Jorge Almirón, tras el triunfo ante Atlético Tucumán: \"Me siento muy orgulloso del equipo\"",
-        "link": "https://www.rosario3.com/deportes/jorge-almiron-tras-el-triunfo-ante-atletico-tucuman-me-siento-muy-orgulloso-del-equipo-20261017-0030.html",
-        "image": "https://www.rosario3.com/__export/1779478366081/sites/rosario3/img/2026/05/22/jorge_almiron_gigante.jpg_566798741.jpg",
-        "summary": "El entrenador canalla destacó la unión del grupo, la solidez que mostró el equipo y la personalidad para sostener la búsqueda después de que el Decano igualara el partido. También valoró la convocatoria del juvenil Leonardo Sosa a la selección mayor de Paraguay",
-        "pubDate": "2026-10-17T11:49:00+00:00",
+        "title": "“Chiqui” Tapia te dejó un mensaje al Dibu Martínez: \"No tengo dudas, vas a volver más fuerte que nunca\"",
+        "link": "https://www.rosario3.com/deportes/chiqui-tapia-te-dejo-un-mensaje-al-dibu-martinez-no-tengo-dudas-vas-a-volver-mas-fuerte-que-nunca-20261018-0006.html",
+        "image": "https://www.rosario3.com/__export/1792330382997/sites/rosario3/img/2026/10/18/chiqui_y_dibu.jpg_1768679257.jpg",
+        "summary": "El presidente de la AFA se solidarizó con el arquero de la selección argentina por la lesión sufrida en el partido entre Chelsea y Everton",
+        "pubDate": "2026-10-18T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Salud pública: diez hospitales santafesinos realizarán más de 300 cirugías de vesícula y amígdalas desde este lunes",
+        "link": "https://www.lacapital.com.ar/la-ciudad/salud-publica-diez-hospitales-santafesinos-realizaran-mas-300-cirugias-vesicula-y-amigdalas-este-lunes-n10287308.html",
+        "image": "https://media.lacapital.com.ar/p/c9875ac1cdaaccf4493ee8bf47f9a086/adjuntos/203/imagenes/103/476/0103476792/1200x675/smart/cirugias1.jpg",
+        "summary": "Será durante jornadas intensivas, en los hospitales de tercer nivel, para tratar los cálculos en la vesícula y las afecciones de amígdalas en niños",
+        "pubDate": "2026-10-18T13:35:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "El papa León XIV reapareció tras su operación y agradeció el apoyo de los fieles",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/2d668588c302c025d55b64546a7f4722/adjuntos/203/imagenes/030/664/0030664345/1200x675/smart/alcoholismojpg.jpg",
         "summary": "En el marco del 74° aniversario de Alcóholicos Anónimos que se realizará en Rosario, especialistas consignan que hay 2 millones de adictos en Argentina",
         "pubDate": "2026-10-18T09:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Las obras para los Juegos Suramericanos ya tienen destino y concesiones",
-        "link": "https://www.lacapital.com.ar/la-ciudad/las-obras-los-juegos-suramericanos-ya-tienen-destino-y-concesiones-n10285681.html",
-        "image": "https://media.lacapital.com.ar/p/b9f740ef39c652e3e135acb96027d9bc/adjuntos/203/imagenes/103/432/0103432991/1200x675/smart/image-8.jpg",
-        "summary": "Estadios multipropósito, estructuras reconvertidas, e inversiones en los clubes dejaron al deporte rosarino en un escalón superior tras los Juegos Suramericanos",
-        "pubDate": "2026-10-18T09:20:00+00:00",
         "approxTime": false
       }
     ]
