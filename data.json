@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T09:01:11.115959+00:00",
+  "generatedAt": "2026-10-18T09:30:52.681999+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,60 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Las obras para los Juegos Suramericanos ya tienen destino y concesiones",
+        "link": "https://www.lacapital.com.ar/la-ciudad/las-obras-los-juegos-suramericanos-ya-tienen-destino-y-concesiones-n10285681.html",
+        "image": "https://media.lacapital.com.ar/p/b9f740ef39c652e3e135acb96027d9bc/adjuntos/203/imagenes/103/432/0103432991/1200x675/smart/image-8.jpg",
+        "summary": "Estadios multipropósito, estructuras reconvertidas, e inversiones en los clubes dejaron al deporte rosarino en un escalón superior tras los Juegos Suramericanos",
+        "pubDate": "2026-10-18T09:20:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "AFA Escala: convocan a presentar ideas innovadoras para el agro",
+        "link": "https://www.lacapital.com.ar/agro/afa-escala-convocan-presentar-ideas-innovadoras-el-agro-n10287254.html",
+        "image": "https://media.lacapital.com.ar/p/45e55605ebafce2a395af2b556dea5e9/adjuntos/203/imagenes/103/475/0103475926/1200x675/smart/carina-zarich-1.jpg",
+        "summary": "La iniciativa de Agricultores Federados Argentinos para impulsar proyectos de innovación tecnológica y desarrollo territorial entra en una etapa decisiva. Hay tiempo hasta el 23 de octubre para que sus asociados se inscriban.",
+        "pubDate": "2026-10-18T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La Libertad Avanza de Santa Fe calienta motores rumbo a 2027",
+        "link": "https://www.lacapital.com.ar/politica/la-libertad-avanza-santa-fe-calienta-motores-rumbo-2027-n10287220.html",
+        "image": "https://media.lacapital.com.ar/p/6c0ac3d609bb3a4c895495af0c4176cd/adjuntos/203/imagenes/103/475/0103475510/1200x675/smart/image.png",
+        "summary": "El partido violeta prepara una ronda de negocios en Rosario a la espera de Milei y organiza un congreso juvenil antes de fin de año",
+        "pubDate": "2026-10-18T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Violencia de género: buscan que la Justicia no mire para otro lado",
+        "link": "https://www.lacapital.com.ar/politica/violencia-genero-buscan-que-la-justicia-no-mire-otro-lado-n10287247.html",
+        "image": "https://media.lacapital.com.ar/p/5eb5d038e65f3ec301cd436f437b1d63/adjuntos/203/imagenes/103/359/0103359415/senado1.jpg",
+        "summary": "La Casa Gris envió al Senado un proyecto que intima a los magistrados a actuar de modo ágil y efectivo frente a esos casos, entre otras medidas clave",
+        "pubDate": "2026-10-18T09:05:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Milei cede para ganar, Pullaro moviliza a su tropa y el PJ discute a quién ser leal",
+        "link": "https://www.lacapital.com.ar/suscriptores/milei-cede-ganar-pullaro-moviliza-su-tropa-y-el-pj-discute-quien-ser-leal-n10287275.html",
+        "image": "https://media.lacapital.com.ar/p/02646c6be8972316e2c1d85015a76328/adjuntos/203/imagenes/103/476/0103476349/1200x675/smart/milei-gobernadores-paris-argentina-week.jpg",
+        "summary": "El blindaje del DNU mostró el peso de los gobernadores. La trama de la relación entre la Casa Rosada y las provincias y el rol de Santa Fe. Unidos toma nota del humor social y apunta al metro cuadrado. El peronismo provincial, entre dos polos",
+        "pubDate": "2026-10-18T09:05:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El socialismo planifica la agenda 2027 para Rosario y su área metropolitana",
+        "link": "https://www.lacapital.com.ar/politica/el-socialismo-planifica-la-agenda-2027-rosario-y-su-area-metropolitana-n10287251.html",
+        "image": "https://media.lacapital.com.ar/p/79e56adf8c050f6fa04e7be4c0c90037/adjuntos/203/imagenes/103/475/0103475875/1200x675/smart/dirigentes-ps-rosario.jpg",
+        "summary": "Vecinos, profesionales y representantes de instituciones y organizaciones sociales debatieron junto a referentes del PS propuestas para llevar adelante en la ciudad",
+        "pubDate": "2026-10-18T09:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El balance de Jorge Almirón: \"Ninguno afloja\", el \"valor de ganar de visitante\" y un complemento \"buenísimo\"",
         "link": "https://www.lacapital.com.ar/ovacion/el-balance-jorge-almiron-ninguno-afloja-el-valor-ganar-visitante-y-un-complemento-buenisimo-n10287287.html",
         "image": "https://media.lacapital.com.ar/p/e43d0d58e9c33615141929374cc265b8/adjuntos/203/imagenes/103/476/0103476597/1200x675/smart/image-30.jpg",
@@ -178,7 +232,7 @@
       {
         "source": "La Capital",
         "title": "En vivo: Central ganó en un partido dramático en Tucumán y está a tiro en la anual",
-        "link": "https://www.lacapital.com.ar/ovacion/en-vivo-central-gano-un-partido-dramatico-tucuman-y-esta-tiro-la-anual-n10287248.html",
+        "link": "https://www.lacapital.com.ar/en-vivo-central-gano-un-partido-dramatico-tucuman-y-esta-tiro-la-anual-n10287288.html",
         "image": "https://media.lacapital.com.ar/p/4f36760a7017b213fe083212e2c9bba1/adjuntos/203/imagenes/103/476/0103476337/gatod.jpg",
         "summary": "Central derrotó 3 a 2 Atlético Tucumán y quedó a un punto de los líderes Boca y Argentinos. Gran triunfo canalla",
         "pubDate": "2026-10-18T01:00:00+00:00",
@@ -187,7 +241,7 @@
       {
         "source": "La Capital",
         "title": "En vivo: Central ganó en un partido dramático en Tucumán y está a tiro en la anual",
-        "link": "https://www.lacapital.com.ar/en-vivo-central-gano-un-partido-dramatico-tucuman-y-esta-tiro-la-anual-n10287288.html",
+        "link": "https://www.lacapital.com.ar/ovacion/en-vivo-central-gano-un-partido-dramatico-tucuman-y-esta-tiro-la-anual-n10287248.html",
         "image": "https://media.lacapital.com.ar/p/4f36760a7017b213fe083212e2c9bba1/adjuntos/203/imagenes/103/476/0103476337/gatod.jpg",
         "summary": "Central derrotó 3 a 2 Atlético Tucumán y quedó a un punto de los líderes Boca y Argentinos. Gran triunfo canalla",
         "pubDate": "2026-10-18T01:00:00+00:00",
@@ -218,60 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/32e19c389fef20d3b18ba1441636eb8c/adjuntos/203/imagenes/103/476/0103476202/nob-gmat-957319.jpg",
         "summary": "Ante el cambio obligado por acumulación de tarjetas de Regiardo, en Newell's todo apunta a Jerónimo Gómez Mattar, otro pibe de la casa",
         "pubDate": "2026-10-17T23:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Regional del Litoral. Jockey le ganó a Duendes con autoridad y continúa la defensa del título",
-        "link": "https://www.lacapital.com.ar/ovacion/regional-del-litoral-jockey-le-gano-duendes-autoridad-y-continua-la-defensa-del-titulo-n10287269.html",
-        "image": "https://media.lacapital.com.ar/p/9c6a7d4c215ed022087c9d8cf529aa8a/adjuntos/203/imagenes/103/476/0103476180/82710807.jpeg",
-        "summary": "El bicampeón del Regional del Litoral superó al verdinegro en Las Delicias 32-13 y se metió en semifinales al igual que Estudiantes y Santa Fe Rugby",
-        "pubDate": "2026-10-17T23:04:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El karate rosarino es de nuevo mundial en Eslovenia por Daniel y Tomás Rossetto",
-        "link": "https://www.lacapital.com.ar/ovacion/el-karate-rosarino-es-nuevo-mundial-eslovenia-daniel-y-tomas-rossetto-n10287263.html",
-        "image": "https://media.lacapital.com.ar/p/08266a46120e0b624fb5a5c271d4b87c/adjuntos/203/imagenes/103/476/0103476147/1200x675/smart/image-28.jpg",
-        "summary": "Los karatecas que representan a Obras Sanitarias de Rosario se presentan en el Mundial de Eslovenia, con la chapa de una década al tope del deporte",
-        "pubDate": "2026-10-17T22:55:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central: quiénes fueron los elegidos por Almirón para suplir las bajas en el medio",
-        "link": "https://www.lacapital.com.ar/ovacion/central-quienes-fueron-los-elegidos-almiron-suplir-las-bajas-el-medio-n10287181.html",
-        "image": "https://media.lacapital.com.ar/p/649643a479233c43ce94be1e0c7b6650/adjuntos/203/imagenes/103/474/0103474852/almiron.jpeg",
-        "summary": "Frente a las ausencias de Ibarra y Navarro, el DT canalla se la juega por un equipo ofensivo. Ingresan Alan Rodríguez y Giovanni Cantizano",
-        "pubDate": "2026-10-17T22:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El tiempo en Rosario: domingo casi invernal y con más nubes en el cielo para el Día de la Madre",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-domingo-casi-invernal-y-mas-nubes-el-cielo-el-dia-la-madre-n10287259.html",
-        "image": "https://media.lacapital.com.ar/p/f484618adc0e3c5a94cad7cfa89b147b/adjuntos/203/imagenes/103/417/0103417825/2026-09-21-clima-by_ssmeccia-74442090.jpg",
-        "summary": "Las temperaturas seguirán bajando en el cierre del fin de semana y las condiciones meteorológicas siguen muy lejos de ser primaverales",
-        "pubDate": "2026-10-17T22:12:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Sin un acto central, el peronismo conmemoró el Día de la Lealtad",
-        "link": "https://www.lacapital.com.ar/politica/sin-un-acto-central-el-peronismo-conmemoro-el-dia-la-lealtad-n10287256.html",
-        "image": "https://media.lacapital.com.ar/p/063d3c141832d4fb80ac76434a0bd02b/adjuntos/203/imagenes/103/475/0103475977/1200x675/smart/kicillof.png",
-        "summary": "Militantes fueron hasta la casa de Cristina Fernández, Áxel Kicillof dijo que el PJ “volverá a gobernar” y Máximo Kirchner envió un mensaje interno desde Chaco",
-        "pubDate": "2026-10-17T21:40:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Leones FC lo ganaba pero a Mercedes le dieron dos penales polémicos y lo ganó en el adicional",
-        "link": "https://www.lacapital.com.ar/ovacion/leones-fc-lo-ganaba-pero-mercedes-le-dieron-dos-penales-polemicos-y-lo-gano-el-adicional-n10287246.html",
-        "image": "https://media.lacapital.com.ar/p/fa38ac8e103979c9a49ac3f8cabc22b8/adjuntos/203/imagenes/103/475/0103475814/1200x675/smart/image-27.jpg",
-        "summary": "Leones FC empezó ganando, pero al inicio del complemento y al final, por un supuesto agarrón y un empujón, a través de dos penales Mercedeslo revirtió en la ida del Reducido",
-        "pubDate": "2026-10-17T21:37:00+00:00",
         "approxTime": false
       }
     ]
