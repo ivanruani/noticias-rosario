@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T02:31:03.275275+00:00",
+  "generatedAt": "2026-10-18T03:01:11.603241+00:00",
   "sites": {
     "rosario3": [
       {
@@ -186,6 +186,15 @@
       },
       {
         "source": "La Capital",
+        "title": "En vivo: Central ganó en un partido dramático en Tucumán y está a tiro en la anual",
+        "link": "https://www.lacapital.com.ar/en-vivo-central-gano-un-partido-dramatico-tucuman-y-esta-tiro-la-anual-n10287288.html",
+        "image": "https://media.lacapital.com.ar/p/4f36760a7017b213fe083212e2c9bba1/adjuntos/203/imagenes/103/476/0103476337/gatod.jpg",
+        "summary": "Central derrotó 3 a 2 Atlético Tucumán y quedó a un punto de los líderes Boca y Argentinos. Gran triunfo canalla",
+        "pubDate": "2026-10-18T01:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Crónicas de campaña: la soja se blinda por el Niño",
         "link": "https://www.lacapital.com.ar/agro/cronicas-campana-la-soja-se-blinda-el-nino-n10287267.html",
         "image": "https://media.lacapital.com.ar/p/4fb71c2e455b4f70b7153076c7ba788b/adjuntos/305/imagenes/103/205/0103205614/1200x675/smart/sojag.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/fa38ac8e103979c9a49ac3f8cabc22b8/adjuntos/203/imagenes/103/475/0103475814/1200x675/smart/image-27.jpg",
         "summary": "Leones FC empezó ganando, pero al inicio del complemento y al final, por un supuesto agarrón y un empujón, a través de dos penales Mercedeslo revirtió en la ida del Reducido",
         "pubDate": "2026-10-17T21:37:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Newell's celebró en el clásico rosarino y es finalista de la Copa Santa Fe",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-celebro-el-clasico-rosarino-y-es-finalista-la-copa-santa-fe-n10287232.html",
-        "image": "https://media.lacapital.com.ar/p/a6468f80d9898825ef769eb43ee6a5dc/adjuntos/203/imagenes/103/475/0103475924/1200x675/smart/image-2026-10-17t174252786.png",
-        "summary": "El delantero Joaquín Amadio le dio la victoria a la Lepra por 1 a 0 y definirá la copa frente a Atlético Tostado. Gran actuación del arquero Francisco Sciarini",
-        "pubDate": "2026-10-17T21:19:00+00:00",
         "approxTime": false
       }
     ]
