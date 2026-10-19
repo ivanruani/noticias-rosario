@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T17:31:02.252107+00:00",
+  "generatedAt": "2026-10-19T18:01:17.455799+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Un mecánico de Rosario quedó preso por presuntas estafas: cobró millones por arreglos que nunca hizo",
+        "link": "https://www.lacapital.com.ar/policiales/un-mecanico-rosario-quedo-preso-presuntas-estafas-cobro-millones-arreglos-que-nunca-hizo-n10287494.html",
+        "image": "https://media.lacapital.com.ar/p/a09950ecb90fd5f51efbdf1f49f4ede8/adjuntos/203/imagenes/103/478/0103478598/1200x675/smart/imageauto.jpg",
+        "summary": "El hombre tenía un taller en French al 700. Cuatro clientes lo denunciaron por quedarse con sus vehículos y exigirles dinero para reparaciones que jamás concretó.",
+        "pubDate": "2026-10-19T17:35:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Hockey inline: Las Toras hicieron un gran Mundial de Asunción con dos rosarinas entre sus filas",
         "link": "https://www.lacapital.com.ar/ovacion/hockey-inline-las-toras-hicieron-un-gran-mundial-asuncion-dos-rosarinas-sus-filas-n10287467.html",
         "image": "https://media.lacapital.com.ar/p/e55bce5d2b0898aa7be3048b4de1c9ec/adjuntos/203/imagenes/103/478/0103478475/1200x675/smart/image-28.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/f0d90be33cfe77ee2766a429d06e1d97/adjuntos/203/imagenes/103/473/0103473580/1200x675/smart/whatsapp-image-2026-10-16-at-132114.jpeg",
         "summary": "Alex Joel V. quedó preso luego de ser imputado en la Justicia federal pero también afrontará acusaciones en el fuero provincial por asociación ilícita",
         "pubDate": "2026-10-19T14:38:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Villa Hortensia abre sus jardines al cine de terror y las artes escénicas",
-        "link": "https://www.lacapital.com.ar/la-ciudad/villa-hortensia-abre-sus-jardines-al-cine-terror-y-las-artes-escenicas-n10287445.html",
-        "image": "https://media.lacapital.com.ar/p/7f4852cf47953c00a8ca13f031528c2f/adjuntos/203/imagenes/100/004/0100004127/1200x675/smart/1641748jpg.jpg",
-        "summary": "El ciclo TURBIO proyectará “Carne de tu carne”, del colombiano Carlos Mayolo, en dos funciones al aire libre con performances y una propuesta gastronómica",
-        "pubDate": "2026-10-19T14:10:41+00:00",
         "approxTime": false
       }
     ]
