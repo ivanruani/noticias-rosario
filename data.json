@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T11:31:01.278779+00:00",
+  "generatedAt": "2026-10-19T12:01:16.218728+00:00",
   "sites": {
     "rosario3": [
       {
@@ -76,11 +76,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Los fantasmas también se heredan: noche de terror en la casona embrujada",
+        "link": "https://www.rosario3.com/ocio/los-fantasmas-tambien-se-heredan-noche-de-terror-en-la-casona-embrujada-20261019-0015.html",
+        "image": "https://www.rosario3.com/__export/1792410450373/sites/rosario3/img/2026/10/19/hortensia.jpg_928314581.jpg",
+        "summary": "Turbio, el proyecto cultural que lleva el cine de Terror a lugares icónicos de Rosario, presenta una película en Villa Hortensia. Todo lo que hay que saber para no perderse la experiencia",
+        "pubDate": "2026-10-19T11:52:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "En medio de los saqueos en París, robaron una camiseta y la cinta de capitán firmadas por Messi en el PSG",
         "link": "https://www.rosario3.com/informaciongeneral/en-medio-de-los-saques-en-paris-robaron-una-camiseta-y-la-cinta-de-capitan-firmadas-por-messi-en-el-psg-20261019-0003.html",
         "image": "https://www.rosario3.com/__export/1792402394886/sites/rosario3/img/2026/10/19/befunky-collage_-7-.jpg_928314581.jpg",
         "summary": "El robo quedó registrado en videos viralizados en redes sociales, donde se observa a integrantes del colectivo radical Black Blocs exhibiendo los cuadros que contenían ambas reliquias deportivas",
-        "pubDate": "2026-10-19T11:52:00+00:00",
+        "pubDate": "2026-10-19T11:51:00+00:00",
         "approxTime": true
       },
       {
@@ -89,7 +98,7 @@
         "link": "https://www.rosario3.com/ocio/mirtha-legrand-reaparecio-tras-su-internacion-y-compartio-una-foto-familiar-20261019-0004.html",
         "image": "https://www.rosario3.com/__export/1788794219660/sites/rosario3/img/2026/09/07/mirtha-legrand-1995169.jpg_1221028662.jpg",
         "summary": "La conductora publicó su primera foto tras recibir el alta médica. Celebró el Día de la Madre junto a sus seres queridos mientras continúa recuperándose. Mirá",
-        "pubDate": "2026-10-19T11:51:00+00:00",
+        "pubDate": "2026-10-19T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -98,7 +107,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-arranque-de-semana-con-tiempo-estable-y-con-el-frio-que-empieza-a-alejarse-20261019-0001.html",
         "image": "https://www.rosario3.com/__export/1792401583296/sites/rosario3/img/2025/08/24/soleado.jpg_1825222445.jpg",
         "summary": "El Servicio Meteorológico Nacional prevé una jornada sin probabilidad de precipitaciones en la región. Las marcas térmicas mínimas comienzan a subir gradualmente, anticipando días más templados",
-        "pubDate": "2026-10-19T11:50:00+00:00",
+        "pubDate": "2026-10-19T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -107,25 +116,7 @@
         "link": "https://www.rosario3.com/ecos365/noticias/claves-del-dia-record-en-el-mav-consumo-en-baja-y-galicia-acelera-con-ia-rosario-debate-uber-y-presenta-casa-foa-20261019-0002.html",
         "image": "https://www.rosario3.com/__export/1792403910024/sites/rosario3/img/2019/11/13/cuales-son-las-empresas-de-servicios-financieros-que-hay-en-uruguay-a.jpg_911186587.jpg",
         "summary": "Más financiamiento no garantiza más ventas: el Día de la Madre volvió a caer. Mientras llegan cifras del comercio exterior, Galicia y Pagsmile redibujan negocios financieros. En Rosario, Uber disputa sus reglas y Casa FOA prepara su desembarco",
-        "pubDate": "2026-10-19T11:49:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Tragedia en la ruta 65: tres muertos en un choque entre Monje y Díaz",
-        "link": "https://www.rosario3.com/informaciongeneral/tragedia-en-la-ruta-65-tres-muertos-en-un-choque-entre-monje-y-diaz-20261018-0027.html",
-        "image": "https://www.rosario3.com/__export/1792370532544/sites/rosario3/img/2026/10/18/accidente.jpg_222275255.jpg",
-        "summary": "Las víctimas arreglaban una rueda al costado de la calzada cuando el auto en el que se movilizaban fue embestido por una camioneta. Hay tres heridos",
-        "pubDate": "2026-10-18T11:48:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Día de la Madre 2026: las ventas cayeron 1,4% y suman cinco años en baja",
-        "link": "https://www.rosario3.com/informaciongeneral/dia-de-la-madre-2026-las-ventas-cayeron-14-y-suman-cinco-anos-en-baja-20261018-0020.html",
-        "image": "https://www.rosario3.com/__export/1792359487225/sites/rosario3/img/2026/10/18/dia_de_la_madre_alan_monzon_-1-.jpg_1096344065.jpg",
-        "summary": "El consumo en las pymes minoristas volvió a mostrar la prudencia de los hogares. El ticket promedio fue de $63.197 y las promociones, cuotas y descuentos sirvieron para sostener el movimiento, pero no alcanzaron para revertir la tendencia",
-        "pubDate": "2026-10-18T11:47:00+00:00",
+        "pubDate": "2026-10-19T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -134,11 +125,38 @@
         "link": "https://www.rosario3.com/ocio/tini-stoessel-suspendio-un-show-en-miami-minutos-antes-del-comienzo-20261019-0007.html",
         "image": "https://www.rosario3.com/__export/1792406527710/sites/rosario3/img/2026/10/19/tini_show_miami.png_786111822.png",
         "summary": "La presentación en el Kaseya Center fue cancelada cuando miles de personas ya estaban en el recinto o esperaban para ingresar al predio. La cantante explicó que hubo fallas técnicas, demoras en el montaje y problemas de seguridad que impidieron realizar el espectáculo",
+        "pubDate": "2026-10-19T11:47:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Argentina perdió por penales y es subcampeón del Mundial de Hockey sobre Patines",
+        "link": "https://www.rosario3.com/deportes/argentina-perdio-por-penales-y-es-subcampeon-del-mundial-de-hockey-sobre-patines-20261019-0005.html",
+        "image": "https://www.rosario3.com/__export/1792405283849/sites/rosario3/img/2026/10/19/image_-36-.jpg_222590872.jpg",
+        "summary": "El seleccionado dirigido por José Luis Negro Páez había igualado 2 a 2 en el tiempo reglamentario, pero no pudo en la definición bajo los tres palos. Los detalles",
         "pubDate": "2026-10-19T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Rescataron a un ciervo en Arroyo Seco: se recupera en una veterinaria de Rosario",
+        "link": "https://www.lacapital.com.ar/la-region/rescataron-un-ciervo-arroyo-seco-se-recupera-una-veterinaria-rosario-n10287412.html",
+        "image": "https://media.lacapital.com.ar/p/84bad5dce34b206ee1092a357e46c09f/adjuntos/203/imagenes/103/477/0103477969/1200x675/smart/ciervo-arroyo-seco.jpg",
+        "summary": "El animal silvestre fue hallado el domingo a la noche en la zona de Juan B. Justo e Independencia. Presentaba un buen estado salud",
+        "pubDate": "2026-10-19T11:48:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Fin del Remediar: qué medicamentos deja de enviar Nación y cómo impacta en Santa Fe",
+        "link": "https://www.lacapital.com.ar/la-ciudad/fin-del-remediar-que-medicamentos-deja-enviar-nacion-y-como-impacta-santa-fe-n10287241.html",
+        "image": "https://media.lacapital.com.ar/p/b601fa9e3f76072e10b420f38782fe33/adjuntos/203/imagenes/103/475/0103475777/1200x675/smart/remediar-1710.jpg",
+        "summary": "El programa de atención primaria, nacido en 2002, entregaba 128 remedios a centros de salud pero ahora sólo entregará 6 para enfermedades cardiovasculares",
+        "pubDate": "2026-10-19T11:36:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "El gobierno nacional recorta en atención primaria y deja de entregar más de 120 medicamentos",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/a9b1744a1fd59a9f16b9b078c1fc864e/adjuntos/203/imagenes/103/473/0103473306/1200x675/smart/imagen-nota.jpg",
         "summary": "En el marco de Octubre Rosa, Elas invita a priorizar los controles mamarios y explica por qué los estudios deben adaptarse a cada mujer",
         "pubDate": "2026-10-19T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Dos ganadores en el Quini 6: uno es santafesino y se lleva $1.418 millones",
-        "link": "https://www.lacapital.com.ar/informacion-general/dos-ganadores-el-quini-6-uno-es-santafesino-y-se-lleva-1418-millones-n10287397.html",
-        "image": "https://media.lacapital.com.ar/p/65c572c222b5604877869c5f6d9dfb14/adjuntos/203/imagenes/103/453/0103453622/2026-10-07-quini-6.jpg",
-        "summary": "Ambos apostadores se repartieron el pozo principal del Tradicional. Además, hubo 30 ganadores en el Siempre Sale de los cuales ocho jugaron en Santa Fe",
-        "pubDate": "2026-10-19T00:58:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Newell's sigue en el 8º puesto pese a que San Lorenzo ganó y lo igualó en puntos",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-sigue-el-8-puesto-pese-que-san-lorenzo-gano-y-lo-igualo-puntos-n10287386.html",
-        "image": "https://media.lacapital.com.ar/p/3ae9ae92a667e04c40490d73cb1c462d/adjuntos/203/imagenes/103/477/0103477697/1200x675/smart/image-2026-10-18t201727817.png",
-        "summary": "El conjunto rojinegro supera en las posiciones por diferencia de gol al Ciclón, que obtuvo una gran victoria sobre Estudiantes en La Plata",
-        "pubDate": "2026-10-18T23:33:00+00:00",
         "approxTime": false
       }
     ]
