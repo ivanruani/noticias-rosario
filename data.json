@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-10-19T21:01:14.938422+00:00",
+  "generatedAt": "2026-10-19T21:31:01.101251+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Dos líneas en el crimen de Natalia: la mató su primo, pero había prestamistas que la acechaban",
+        "link": "https://www.rosario3.com/policiales/dos-lineas-en-el-crimen-de-natalia-la-mato-su-primo-pero-habia-prestamistas-que-la-acechaban-20261019-0065.html",
+        "image": "https://www.rosario3.com/__export/1792441035566/sites/rosario3/img/2026/10/19/grandoli_3860_crimen_natalia_gimenez_-alanmonzon.jpg_1096344065.jpg",
+        "summary": "Natalia Giménez fue asesinada a puñaladas en su casa el 27 de septiembre. Su primo, imputado como autor material, había mantenido una relación sentimental con ella. La fiscal investiga si el crimen tiene conexión con una red de préstamos usurarios que también quedó bajo la lupa",
+        "pubDate": "2026-10-19T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Uber en el Concejo: buscarán dictamen este miércoles para aprobarlo la semana que viene",
         "link": "https://www.rosario3.com/informaciongeneral/uber-en-el-concejo-buscaran-dictamen-este-miercoles-para-aprobarlo-la-semana-que-viene-20261019-0058.html",
         "image": "https://www.rosario3.com/__export/1792436392362/sites/rosario3/img/2026/10/19/9fe632f9-b7d1-4f6f-9d55-ff07e0e876e5_version1792436326462.jpg_982625323.jpg",
         "summary": "Servicios Públicos avanzó con cambios a favor de los cadetes y fijó una reunión conjunta con la comisión de Gobierno. Sin el aval del peronismo y Ciudad Futura, el oficialismo necesita el apoyo libertario para destrabar la norma",
-        "pubDate": "2026-10-19T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Amplían a Rosario la búsqueda de los tres pescadores que cayeron al río en Fray Luis Beltrán la semana pasada",
-        "link": "https://www.rosario3.com/informaciongeneral/amplian-a-rosario-la-busqueda-de-los-tres-pescadores-que-cayeron-al-rio-en-fray-luis-beltran-la-semana-pasada-20261019-0046.html",
-        "image": "https://www.rosario3.com/__export/1792429129689/sites/rosario3/img/2026/10/19/bomberos_rio.jpg_1768679257.jpg",
-        "summary": "A cuatro días del naufragio en el Paraná, el rastrillaje bajó hasta el puente Rosario-Victoria. Familias de las víctimas acusaron a Prefectura Naval de inacción y escenificar la búsqueda, mientras allegados hallaron pertenencias por cuenta propia. Sin embargo, desde la fuerza…",
         "pubDate": "2026-10-19T11:59:00+00:00",
         "approxTime": true
       },
@@ -49,11 +49,29 @@
       },
       {
         "source": "Rosario3",
+        "title": "Con un cambio en el medio, Newell’s defiende su lugar en playoffs ante Central Córdoba",
+        "link": "https://www.rosario3.com/deportes/newells-pone-en-juego-su-lugar-en-playoffs-ante-central-cordoba-en-uno-de-los-partios-que-cierra-la-fecha-13-20261016-0067.html",
+        "image": "https://www.rosario3.com/__export/1792443500703/sites/rosario3/img/2026/02/21/mattar_1.jpg_928314581.jpg",
+        "summary": "La Lepra vuelve a jugar en Rosario este lunes, ante el Ferroviario de Santiago del Estero, en uno de los encuentros que cerrarán la jornada del Torneo Clausura. El equipo de Frank Kudelka busca recuperarse de la derrota en Mendoza y sostenerse entre los clasificados. Gómez…",
+        "pubDate": "2026-10-16T11:55:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "La tabla anual, al rojo vivo: qué les queda a Central y a los otros cuatro equipos separados por apenas dos puntos",
+        "link": "https://www.rosario3.com/deportes/la-tabla-anual-al-rojo-vivo-que-les-queda-a-central-y-a-los-otros-cuatro-equipos-separados-por-apenas-dos-puntos-20261019-0069.html",
+        "image": "https://www.rosario3.com/__export/1792443158187/sites/rosario3/img/2026/10/11/fideeeeeeee.jpg_1381182483.jpg",
+        "summary": "A falta de tres fechas, el Canalla está a una sola unidad de Boca y Argentinos, los líderes. En la mísma línea que los rosarinos está Independiente Rivadavia y apenas abajo Vélez. Qué partidos tiene por delante, el fixture de los rivales directos y los detalles de una definición…",
+        "pubDate": "2026-10-19T11:54:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Chicana a Milei desde España antes de su viaje: \"Un ejemplo del recorte en las cosas del comer\"",
         "link": "https://www.rosario3.com/informaciongeneral/chicana-a-milei-desde-espana-antes-de-su-viaje-un-ejemplo-del-recorte-en-las-cosas-del-comer-20261019-0062.html",
         "image": "https://www.rosario3.com/__export/1791245858241/sites/rosario3/img/2026/10/05/milei-1-jpg-726409099_-1-.jpg_1221028662.jpg",
         "summary": "El ministro socialista Óscar Puente ironizó con la llegada del presidente argentino en plena precampaña española y contrapuso la pérdida de miles de empresas bajo el modelo libertario frente a la gestión de Pedro Sánchez",
-        "pubDate": "2026-10-19T11:55:00+00:00",
+        "pubDate": "2026-10-19T11:53:00+00:00",
         "approxTime": true
       },
       {
@@ -62,24 +80,6 @@
         "link": "https://www.rosario3.com/politica/la-causa-malvinas-causo-una-imprevista-diferencia-geopolitica-entre-milei-y-trump-por-el-comite-de-descolonizacion-de-la-onu-20261019-0060.html",
         "image": "https://www.rosario3.com/__export/1792437942038/sites/rosario3/img/2026/10/19/malvinas_.jpg_1768679257.jpg",
         "summary": "Estados Unidos propone disolver ese comité porque significa “un despilfarro de recursos”, mientras que Argentina sostiene que “es un escenario clave” para reclamar la soberanía en las Islas del Atlántico Sur. La iniciativa beneficia al Reino Unido y perjudica a los intereses…",
-        "pubDate": "2026-10-19T11:54:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Arde Francia: por qué el país enfrenta una crisis sin precedentes en sus calles",
-        "link": "https://www.rosario3.com/informaciongeneral/arde-francia-por-que-el-pais-enfrenta-una-crisis-sin-precedentes-en-sus-calles-20261019-0059.html",
-        "image": "https://www.rosario3.com/__export/1792440640812/sites/rosario3/img/2026/10/19/francia_arde.jpg_2106848869.jpg",
-        "summary": "Las masivas manifestaciones contra el aumento del costo de vida derivaron en fuertes incidentes en París, con miles de detenidos. En diálogo con Radio 2, el politólogo Pascal Drouhaud analizó los motivos del malestar social y advirtió sobre el agotamiento del Estado protector y…",
-        "pubDate": "2026-10-19T11:53:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Tras la vandalización de la Catedral, proponen un protocolo para proteger el patrimonio durante las marchas en Rosario",
-        "link": "https://www.rosario3.com/informaciongeneral/tras-la-vandalizacion-de-la-catedral-proponen-un-protocolo-para-proteger-el-patrimonio-durante-las-marchas-en-rosario-20261019-0043.html",
-        "image": "https://www.rosario3.com/__export/1792423906890/sites/rosario3/img/2026/10/19/dise-o_sin_t-tulo_-1-_1.png_928314581.png",
-        "summary": "La iniciativa ingresó al Concejo Municipal y plantea medidas preventivas para cuidar edificios históricos, monumentos y esculturas durante movilizaciones y eventos masivos. También contempla la posibilidad de reclamar los gastos de reparación a los responsables de los daños",
         "pubDate": "2026-10-19T11:52:00+00:00",
         "approxTime": true
       },
@@ -94,10 +94,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Subastarán otro departamento decomisado en la causa por lavado de la familia de uno de los jefes narcos de Carbón Blanco",
-        "link": "https://www.rosario3.com/informaciongeneral/subastaran-otro-departamento-decomisado-en-la-causa-por-lavado-de-la-familia-de-uno-de-los-jefes-narcos-de-carbon-blanco-20261019-0026.html",
-        "image": "https://www.rosario3.com/__export/1792417863832/sites/rosario3/img/2026/10/19/disexo_sin_txtulo_1.png_928314581.png",
-        "summary": "El inmueble está ubicado en una esquina de avenida Congreso y Galván, en la ciudad de Buenos Aires, y tiene una superficie de 80,31 metros cuadrados. La base de venta se fijó en 74.468 dólares. Es el segundo departamento cuya subasta se autoriza en pocos días en el marco de la…",
+        "title": "Qué se sabe de la docente de 52 años desaparecida en Corrientes: hay dos detenidos y su familia cree que la engañaron",
+        "link": "https://www.rosario3.com/policiales/que-se-sabe-de-la-docente-de-52-anos-desaparecida-en-corrientes-hay-dos-detenidos-y-su-familia-cree-que-la-enganaron-20261019-0066.html",
+        "image": "https://www.rosario3.com/__export/1792442004846/sites/rosario3/img/2026/10/19/docente_2.jpg_1768679257.jpg",
+        "summary": "Nanci Estela Godoy se comunicó por última vez con sus familiares el 7 de octubre; sospechosa coincidencia temporal con la renuncia de un peón de una estancia; las autoridades hallaron cuchillos y ropa con manchas rojas en la casa de un sospechoso",
         "pubDate": "2026-10-19T11:50:00+00:00",
         "approxTime": true
       },
@@ -121,10 +121,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "¿Un barco fantasma en el Paraná?: la crecida hizo que se soltara un buque abandonado de 107 metros y quedó a la deriva",
-        "link": "https://www.rosario3.com/informaciongeneral/un-barco-fantasma-en-el-parana-la-crecida-hizo-que-se-soltara-un-buque-abandonado-de-107-metros-y-quedo-a-la-deriva-20261019-0049.html",
-        "image": "https://www.rosario3.com/__export/1792427528062/sites/rosario3/img/2026/10/19/disexo_sin_txtulo_5.png_928314581.png",
-        "summary": "El barco, que nunca llegó a terminarse, estaba amarrado en un astillero de Corrientes. La corriente rompió las amarras y lo arrastró casi dos kilómetros, hasta dejarlo varado frente a dos barrios. Advierten por los riesgos para la navegación",
+        "title": "Amplían a Rosario la búsqueda de los tres pescadores que cayeron al río en Fray Luis Beltrán la semana pasada",
+        "link": "https://www.rosario3.com/informaciongeneral/amplian-a-rosario-la-busqueda-de-los-tres-pescadores-que-cayeron-al-rio-en-fray-luis-beltran-la-semana-pasada-20261019-0046.html",
+        "image": "https://www.rosario3.com/__export/1792429129689/sites/rosario3/img/2026/10/19/bomberos_rio.jpg_1768679257.jpg",
+        "summary": "A cuatro días del naufragio en el Paraná, el rastrillaje bajó hasta el puente Rosario-Victoria. Familias de las víctimas acusaron a Prefectura Naval de inacción y escenificar la búsqueda, mientras allegados hallaron pertenencias por cuenta propia. Sin embargo, desde la fuerza…",
         "pubDate": "2026-10-19T11:47:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,33 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Desesperada búsqueda de tres desaparecidos en el río Paraná: un nuevo indicio reorientó el operativo",
+        "link": "https://www.lacapital.com.ar/la-region/desesperada-busqueda-tres-desaparecidos-el-rio-parana-un-nuevo-indicio-reoriento-el-operativo-n10287537.html",
+        "image": "https://media.lacapital.com.ar/p/5f25818a68659145545c3ced46782ade/adjuntos/203/imagenes/103/479/0103479144/1200x675/smart/proyecto-nuevo-3.jpg",
+        "summary": "Los tres hombres siguen desaparecidos desde el viernes, cuando volcó la lancha en la que navegaban frente a Fray Luis Beltrán. Una señal detectada durante los rastrillajes llevó a Prefectura a concentrar la búsqueda en un sector de la ribera, mientras las familias reclaman más…",
+        "pubDate": "2026-10-19T21:13:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Con un solo cambio, Newell's tiene el once para recibir a Central Córdoba de Santiago",
+        "link": "https://www.lacapital.com.ar/ovacion/con-un-solo-cambio-newells-tiene-el-once-recibir-central-cordoba-santiago-n10287535.html",
+        "image": "https://media.lacapital.com.ar/p/32f2c66d33a30fe96417f17a362f64c3/adjuntos/203/imagenes/103/295/0103295982/1200x675/smart/image-8.png",
+        "summary": "Jerónimo Gómez Mattar será el responsable de ocupar el puesto de Luca Regiardo, ausente por encontrarse suspendido por una fecha",
+        "pubDate": "2026-10-19T21:06:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Tabla anual al rojo vivo: los partidos que les quedan a los cinco candidatos al título",
+        "link": "https://www.lacapital.com.ar/ovacion/tabla-anual-al-rojo-vivo-los-partidos-que-les-quedan-los-cinco-candidatos-al-titulo-n10287493.html",
+        "image": "https://media.lacapital.com.ar/p/1ef80fadba405b567c5658945705e839/adjuntos/203/imagenes/103/414/0103414871/1200x675/smart/image-25.jpg",
+        "summary": "A falta de tres fechas, Central buscará trepar a lo más alto, donde aparecen Boca y Argentinos. En tanto, Independiente Rivadavia y Vélez siguen desde atrás",
+        "pubDate": "2026-10-19T21:03:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El Niño en Rosario: las inundaciones históricas que ayudan a entender los riesgos actuales",
         "link": "https://www.lacapital.com.ar/la-ciudad/el-nino-rosario-las-inundaciones-historicas-que-ayudan-entender-los-riesgos-actuales-n10287447.html",
         "image": "https://media.lacapital.com.ar/p/44065a38306e94ac6b4abaaca1f675c6/adjuntos/203/imagenes/103/478/0103478376/1200x675/smart/inundaciones-fisherton-2012.png",
@@ -150,19 +177,19 @@
       },
       {
         "source": "La Capital",
-        "title": "\"Este comercio no soporta el modelo económico\": una campaña para ponerle imagen a la crisis pyme",
-        "link": "https://www.lacapital.com.ar/economia/este-comercio-no-soporta-el-modelo-economico-una-campana-ponerle-imagen-la-crisis-pyme-n10287510.html",
-        "image": "https://media.lacapital.com.ar/p/3d32ecb78efd46554d4e2e538dd5ffd5/adjuntos/203/imagenes/103/478/0103478793/1200x675/361x278:381x298/apymelocal.jpg",
-        "summary": "Apyme colocó carteles en locales desocupados de Rosario. La campaña se lleva adelante en diferentes ciudades del país. El impacto de la caída del consumo y los mayores costos pega de lleno en las pymes",
+        "title": "El gobierno de Santa Fe armas la Expo Seguridad Rosario como vidriera para empresarios",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-gobierno-santa-fe-armas-la-expo-seguridad-rosario-como-vidriera-empresarios-n10287488.html",
+        "image": "https://media.lacapital.com.ar/p/c04de89c3fb81214866525feb5ee1d4f/adjuntos/203/imagenes/103/478/0103478764/1200x675/smart/whatsapp-image-2026-10-19-at-144233.jpeg",
+        "summary": "Como balance y para proyectar a la ciudad en materia de seguridad, la provincia y el sector privado arman un plenario que sirva para convencer a los inversores",
         "pubDate": "2026-10-19T20:52:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "El gobierno de Santa Fe armas la Expo Seguridad Rosario como vidriera para empresarios",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-gobierno-santa-fe-armas-la-expo-seguridad-rosario-como-vidriera-empresarios-n10287488.html",
-        "image": "https://media.lacapital.com.ar/p/c04de89c3fb81214866525feb5ee1d4f/adjuntos/203/imagenes/103/478/0103478764/1200x675/smart/whatsapp-image-2026-10-19-at-144233.jpeg",
-        "summary": "Como balance y para proyectar a la ciudad en materia de seguridad, la provincia y el sector privado arman un plenario que sirva para convencer a los inversores",
+        "title": "\"Este comercio no soporta el modelo económico\": la campaña en Rosario que expone la crisis pyme",
+        "link": "https://www.lacapital.com.ar/economia/este-comercio-no-soporta-el-modelo-economico-la-campana-rosario-que-expone-la-crisis-pyme-n10287510.html",
+        "image": "https://media.lacapital.com.ar/p/3d32ecb78efd46554d4e2e538dd5ffd5/adjuntos/203/imagenes/103/478/0103478793/1200x675/361x278:381x298/apymelocal.jpg",
+        "summary": "Apyme colocó carteles en locales desocupados de Rosario. La campaña se lleva adelante en diferentes ciudades del país. El impacto de la caída del consumo y los mayores costos pega de lleno en las pymes",
         "pubDate": "2026-10-19T20:52:00+00:00",
         "approxTime": false
       },
@@ -177,19 +204,19 @@
       },
       {
         "source": "La Capital",
-        "title": "La actividad metalúrgica cayó 3,3% durante septiembre",
-        "link": "https://www.lacapital.com.ar/economia/la-actividad-metalurgica-cayo-33-septiembre-n10287526.html",
-        "image": "https://media.lacapital.com.ar/p/377b83be1f0aec5270d8b17ac02969cf/adjuntos/203/imagenes/027/223/0027223583/1200x675/smart/metalurgicajpg.jpg",
-        "summary": "El sector acumula una contracción del 5,3% en 2026. La industria metalúrgica registró el menor uso de sus instalaciones para un septiembre desde 2016. En Santa Fe la producción retrocedió un 2,3% interanual",
+        "title": "Netflix ofrece una sección con clips cortos para descubrir producciones",
+        "link": "https://www.lacapital.com.ar/zoom/netflix-ofrece-una-seccion-clips-cortos-descubrir-producciones-n10287518.html",
+        "image": "https://media.lacapital.com.ar/p/a87899d4a88d667fd0574af75b83aee2/adjuntos/203/imagenes/103/478/0103478939/1200x675/smart/image-3.png",
+        "summary": "Al estilo TikTok, la sección permite scrollear entre distintas producciones y espiar algunos fragmentos para decidir si es del interés del usuario o no",
         "pubDate": "2026-10-19T20:39:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Netflix ofrece una sección con clips cortos para descubrir producciones",
-        "link": "https://www.lacapital.com.ar/zoom/netflix-ofrece-una-seccion-clips-cortos-descubrir-producciones-n10287518.html",
-        "image": "https://media.lacapital.com.ar/p/a87899d4a88d667fd0574af75b83aee2/adjuntos/203/imagenes/103/478/0103478939/1200x675/smart/image-3.png",
-        "summary": "Al estilo TikTok, la sección permite scrollear entre distintas producciones y espiar algunos fragmentos para decidir si es del interés del usuario o no",
+        "title": "La actividad metalúrgica cayó 3,3% durante septiembre",
+        "link": "https://www.lacapital.com.ar/economia/la-actividad-metalurgica-cayo-33-septiembre-n10287526.html",
+        "image": "https://media.lacapital.com.ar/p/377b83be1f0aec5270d8b17ac02969cf/adjuntos/203/imagenes/027/223/0027223583/1200x675/smart/metalurgicajpg.jpg",
+        "summary": "El sector acumula una contracción del 5,3% en 2026. La industria metalúrgica registró el menor uso de sus instalaciones para un septiembre desde 2016. En Santa Fe la producción retrocedió un 2,3% interanual",
         "pubDate": "2026-10-19T20:39:00+00:00",
         "approxTime": false
       },
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/b8cf1c012c881be0addc293a0a8181dd/adjuntos/203/imagenes/103/478/0103478714/1200x675/smart/imagecande.jpg",
         "summary": "La modelo e influencer rosarina no asistió a la citación judicial de este lunes y presentó un escrito para evitar nuevas declaraciones. Está en su ciudad natal junto a su madre, pero la Fiscalía volvió a convocarla para este viernes.",
         "pubDate": "2026-10-19T18:20:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Un mecánico de Rosario quedó preso por presuntas estafas: cobró millones por arreglos que nunca hizo",
-        "link": "https://www.lacapital.com.ar/policiales/un-mecanico-rosario-quedo-preso-presuntas-estafas-cobro-millones-arreglos-que-nunca-hizo-n10287494.html",
-        "image": "https://media.lacapital.com.ar/p/a09950ecb90fd5f51efbdf1f49f4ede8/adjuntos/203/imagenes/103/478/0103478598/1200x675/smart/imageauto.jpg",
-        "summary": "El hombre tenía un taller en French al 700. Cuatro clientes lo denunciaron por quedarse con sus vehículos y exigirles dinero para reparaciones que jamás concretó.",
-        "pubDate": "2026-10-19T17:35:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Hockey inline: Las Toras hicieron un gran Mundial de Asunción con dos rosarinas entre sus filas",
-        "link": "https://www.lacapital.com.ar/ovacion/hockey-inline-las-toras-hicieron-un-gran-mundial-asuncion-dos-rosarinas-sus-filas-n10287467.html",
-        "image": "https://media.lacapital.com.ar/p/e55bce5d2b0898aa7be3048b4de1c9ec/adjuntos/203/imagenes/103/478/0103478475/1200x675/smart/image-28.jpg",
-        "summary": "La selección argentina participó de los World Skate Games en Paraguay, denominados los “Juegos Olímpicos” del patinaje sobre ruedas, y mejoraron lo hecho en 2024 con dos jugadoras locales: Macarena Aragonés y Giuliana Plano",
-        "pubDate": "2026-10-19T17:14:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cómo ganar espacio de almacenamiento en WhatsApp sin borrar chats importantes",
-        "link": "https://www.lacapital.com.ar/informacion-general/como-ganar-espacio-almacenamiento-whatsapp-borrar-chats-importantes-n10287484.html",
-        "image": "https://media.lacapital.com.ar/p/09f532d5bfb655505c6fe86b89b57000/adjuntos/203/imagenes/102/727/0102727822/1200x675/smart/whatsapp-celular.png",
-        "summary": "Se puede recuperar espacio de almacenamiento en el teléfono y mejorar sus funciones sin borrar los archivos y chats importante. Cómo hacerlo",
-        "pubDate": "2026-10-19T17:11:00+00:00",
         "approxTime": false
       }
     ]
