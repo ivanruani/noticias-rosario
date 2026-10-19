@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T22:01:14.030795+00:00",
+  "generatedAt": "2026-10-19T22:30:59.189354+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,9 +141,18 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Parkinson: es grave la situación de pacientes rosarinos por la falta de medicamentos",
+        "link": "https://www.lacapital.com.ar/la-ciudad/parkinson-es-grave-la-situacion-pacientes-rosarinos-la-falta-medicamentos-n10287454.html",
+        "image": "https://media.lacapital.com.ar/p/838edd53a49d0d9a75d08543fc97b066/adjuntos/203/imagenes/103/478/0103478574/1200x675/smart/i-abrazo-solidario-plaza-montenegro.jpeg",
+        "summary": "Afectados realizaron un encuentro masivo donde reclamaron al Estado que intervenga para que el laboratorio normalice la entrega de la droga. El comunicado de Pfizer.",
+        "pubDate": "2026-10-19T22:21:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "En vivo: Newell's va por puntos gordos que lo encaminen a la clasificación a octavos de final del Clausura",
         "link": "https://www.lacapital.com.ar/en-vivo-newells-va-puntos-gordos-que-lo-encaminen-la-clasificacion-octavos-final-del-clausura-n10287538.html",
-        "image": "https://media.lacapital.com.ar/p/49a7cf343c5f848f0028dfee0fcb7de4/adjuntos/203/imagenes/103/479/0103479215/1200x675/smart/image.jpg",
+        "image": "https://media.lacapital.com.ar/p/c4bd5841f0757bc187cfad2e54322042/adjuntos/203/imagenes/103/479/0103479514/1200x675/smart/image-1.jpg",
         "summary": "Newell's enfrenta a Central Córdoba de Santiago del Estero en el Marcelo Bielsa, en busca de una victoria que le allane el camino. Seguilo en vivo por La Capital",
         "pubDate": "2026-10-19T21:51:00+00:00",
         "approxTime": false
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/8beac10124181b8764d1643893be7500/adjuntos/203/imagenes/103/478/0103478601/1200x675/smart/ganado-victoria-1910.jpg",
         "summary": "Los productores aceleran el traslado de unas 20 mil cabezas de ganado ante el avance de la crecida desde el norte. Cinco balsas participan del operativo y advierten que, si el agua sigue subiendo, incluso podrían inundarse los campos más altos del Delta.",
         "pubDate": "2026-10-19T18:34:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cómo consultar el listado de medicamentos reconocido por Pami",
-        "link": "https://www.lacapital.com.ar/informacion-general/como-consultar-el-listado-medicamentos-reconocido-pami-n10287498.html",
-        "image": "https://media.lacapital.com.ar/p/4d0de477fac467f0904059219d251bd7/adjuntos/203/imagenes/100/063/0100063318/1200x675/smart/medicamentosjpg.jpg",
-        "summary": "La obra social de los jubilados ofrece información en línea sobre los medicamentos cubiertos, lo que permite a los afiliados agilizar los procesos",
-        "pubDate": "2026-10-19T18:28:00+00:00",
         "approxTime": false
       }
     ]
