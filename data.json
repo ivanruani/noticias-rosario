@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T00:01:18.077960+00:00",
+  "generatedAt": "2026-10-19T00:31:03.305948+00:00",
   "sites": {
     "rosario3": [
       {
@@ -49,10 +49,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Los sueños de mi madre en las aulas de la Universidad de Rosario",
-        "link": "https://www.rosario3.com/opinion/los-suenos-de-mi-madre-en-las-aulas-de-la-universidad-de-rosario-20261018-0009.html",
-        "image": "https://www.rosario3.com/__export/1792332904724/sites/rosario3/img/2026/10/18/caferra_version1792332827755.jpg_734311246.jpg",
-        "summary": "En una semana donde la crisis educativa expuso el reclamo en las calles, recuerdo la historia de Ana, una joven que llegó a la ciudad para construirse",
+        "title": "Despidos en Nación Servicios: reunión clave este lunes en el Ministerio de Trabajo en Rosario",
+        "link": "https://www.rosario3.com/informaciongeneral/despidos-en-nacion-servicios-reunion-clave-este-lunes-en-el-ministerio-de-trabajo-en-rosario-20261018-0026.html",
+        "image": "https://www.rosario3.com/__export/1792367689323/sites/rosario3/img/2023/02/23/paro_bancario_4.jpg_1768679258.jpg",
+        "summary": "La seccional local de La Bancaria denunció 21 nuevas cesantías sin causa en la firma estatal y va a la sede laboral santafesina a las 12 para exigir reincorporaciones",
         "pubDate": "2026-10-18T11:55:00+00:00",
         "approxTime": true
       },
@@ -85,11 +85,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Los sueños de mi madre en las aulas de la Universidad de Rosario",
+        "link": "https://www.rosario3.com/opinion/los-suenos-de-mi-madre-en-las-aulas-de-la-universidad-de-rosario-20261018-0009.html",
+        "image": "https://www.rosario3.com/__export/1792332904724/sites/rosario3/img/2026/10/18/caferra_version1792332827755.jpg_734311246.jpg",
+        "summary": "En una semana donde la crisis educativa expuso el reclamo en las calles, recuerdo la historia de Ana, una joven que llegó a la ciudad para construirse",
+        "pubDate": "2026-10-18T11:51:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Facundo Pastor y su libro El cuerpo de Perón: \"Argentina no logró superar su muerte en términos políticos\"",
         "link": "https://www.rosario3.com/politica/facundo-pastor-y-su-libro-el-cuerpo-de-peron-argentina-no-logro-superar-su-muerte-en-terminos-politicos-20261016-0052.html",
         "image": "https://www.rosario3.com/__export/1792179190453/sites/rosario3/img/2026/10/16/facundo_pastor_peron.jpg_928314580.jpg",
         "summary": "El periodista Facundo Pastor lo presenta este domingo en la Feria del Libro de Rosario. En un adelanto con Rosario3 habló sobre la historia del cadáver del ex presidente y dijo que “no está cerrado” ante la falta de esclarecimiento del robo de las manos de 1987",
-        "pubDate": "2026-10-16T11:51:00+00:00",
+        "pubDate": "2026-10-16T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -98,7 +107,7 @@
         "link": "https://www.rosario3.com/politica/a-una-semana-del-balotaje-brasileno-lula-y-flavio-juegan-sus-ultimas-cartas-20261017-0027.html",
         "image": "https://www.rosario3.com/__export/1792329899951/sites/rosario3/img/2026/10/18/lula_bolsonaro.jpg_54252853.jpg",
         "summary": "Con el primer debate televisivo entre ambos previsto para hoy, el presidente busca recuperar apoyos y defender su gestión. Mientras, el senador intenta ampliar su coalición y demostrar que puede gobernar más allá del legado de su padre",
-        "pubDate": "2026-10-17T11:50:00+00:00",
+        "pubDate": "2026-10-17T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -107,7 +116,7 @@
         "link": "https://www.rosario3.com/tecnologia/cuando-el-fabricante-decide-que-tu-aparato-ya-no-sirve-20261016-0059.html",
         "image": "https://www.rosario3.com/__export/1792177581943/sites/rosario3/img/2026/10/16/000_-_imagen_de_portada_-_2026-10-16t160443_041.jpg_1768679257.jpg",
         "summary": "Desde heladeras industriales hasta televisores y celulares, cada vez más productos dependen de un software que sus fabricantes pueden dejar de mantener. Una nueva forma de obsolescencia que cuestiona cuánto control tenemos sobre las cosas que compramos",
-        "pubDate": "2026-10-16T11:49:00+00:00",
+        "pubDate": "2026-10-16T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +125,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/mauricio-macri-compartio-fotos-de-la-fiesta-de-15-de-su-hija-antonia-baile-sobre-el-escenario-y-desde-la-cabina-del-dj-20261018-0024.html",
         "image": "https://www.rosario3.com/__export/1792364955267/sites/rosario3/img/2026/10/18/macri1.jpg_2106848869.jpg",
         "summary": "Las postales que difundió el expresidente en su cuenta de Instagram revelaron algunos detalles de la intimidad de la fiesta, desde el look que eligió la cumpleañera hasta la ambientación del salón y la música que acompañó la noche",
-        "pubDate": "2026-10-18T11:48:00+00:00",
+        "pubDate": "2026-10-18T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,15 +134,6 @@
         "link": "https://www.rosario3.com/deportes/tablas-en-avellaneda-racing-e-independiente-empataron-en-un-clasico-con-gusto-a-poco-20261018-0022.html",
         "image": "https://www.rosario3.com/__export/1792362125640/sites/rosario3/img/2026/10/18/racing_independiente.jpg_1973996057.jpg",
         "summary": "Matías Zaracho abrió la cuenta para la Academia en el primer tiempo, mientras que Maximiliano Meza igualó de penal en el complemento para el Rojo. El reparto de puntos dejó un saldo pobre para ambos en una temporada compleja",
-        "pubDate": "2026-10-18T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Andy Chango recordó la fiesta clandestina que hizo en un hospital con Andrés Calamaro: \"Hay un archivo que no verá la luz\"",
-        "link": "https://www.rosario3.com/ocio/andy-chango-recordo-la-fiesta-clandestina-que-hizo-en-un-hospital-con-andres-calamaro-hay-un-archivo-que-no-vera-la-luz-20261018-0012.html",
-        "image": "https://www.rosario3.com/__export/1792338449002/sites/rosario3/img/2026/10/18/andy_chango.jpg_1768679257.jpg",
-        "summary": "El artista estuvo como invitado a PH Podemos Hablar y contó la noche que vivió con el músico en un centro de salud",
         "pubDate": "2026-10-18T11:46:00+00:00",
         "approxTime": true
       }
