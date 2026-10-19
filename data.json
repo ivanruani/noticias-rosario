@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T09:01:11.771777+00:00",
+  "generatedAt": "2026-10-19T09:31:00.829804+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,96 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "La Feria del Libro de Rosario cerró su edición más convocante con un impulso en las ventas",
+        "link": "https://www.lacapital.com.ar/la-feria-del-libro-rosario-cerro-su-edicion-mas-convocante-un-impulso-las-ventas-n10287388.html",
+        "image": "https://media.lacapital.com.ar/p/9be261e26cac204e72c9ff647311f020/adjuntos/203/imagenes/103/477/0103477699/1200x675/smart/libros.jpg",
+        "summary": "El evento concluyó ayer con un balance favorable y se consolida como uno de los grandes encuentros literarios del país",
+        "pubDate": "2026-10-19T09:25:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La rosarina que halló en los museos un espacio para devolverles la voz a las culturas colonizadas",
+        "link": "https://www.lacapital.com.ar/la-ciudad/la-rosarina-que-hallo-los-museos-un-espacio-devolverles-la-voz-las-culturas-colonizadas-n10281976.html",
+        "image": "https://media.lacapital.com.ar/p/e2562f060aa9140173e2b16708df54ee/adjuntos/203/imagenes/103/418/0103418939/1200x675/smart/british.jpg",
+        "summary": "La comunicadora, docente de la UNR y gestora cultural Lucía Dozo busca poner en diálogo voces, memorias y culturas atravesadas por el colonialismo",
+        "pubDate": "2026-10-19T09:25:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Newell's precisa una reacción inmediata en el Coloso para afirmarse entre los clasificados",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-precisa-una-reaccion-inmediata-el-coloso-afirmarse-los-clasificados-n10287381.html",
+        "image": "https://media.lacapital.com.ar/p/db3d9f88b4571f5a7ddc4ae99337a1d1/adjuntos/203/imagenes/103/477/0103477674/1200x675/smart/image-2026-10-18t194444623.png",
+        "summary": "Tras la caída en Mendoza, La Lepra recibirá a Central Córdoba (SdE) y buscará volver este lunes al triunfo tras dos fechas sin conseguirlo",
+        "pubDate": "2026-10-19T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "\"Hace falta una obra que sea monumental para transmitir el legado de Lionel Messi\"",
+        "link": "https://www.lacapital.com.ar/ovacion/hace-falta-una-obra-que-sea-monumental-transmitir-el-legado-lionel-messi-n10287377.html",
+        "image": "https://media.lacapital.com.ar/p/c138a42791ab0b8d60a7fd879b982877/adjuntos/203/imagenes/103/477/0103477626/1200x675/smart/image-2026-10-18t185721602.png",
+        "summary": "El escultor Jerónimo Villalba impulsa el proyecto de un monumento en honor a la Pulga, con Rosario como un sitio posible para emplazarlo",
+        "pubDate": "2026-10-19T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Pequeños productores, grandes mercados: las claves de la ganadería en Estados Unidos",
+        "link": "https://www.lacapital.com.ar/agro/pequenos-productores-grandes-mercados-las-claves-la-ganaderia-estados-unidos-n10286735.html",
+        "image": "https://media.lacapital.com.ar/p/f69653631d4c5a40b24b7827f21b126f/adjuntos/203/imagenes/103/469/0103469318/1200x675/smart/campo-ganaderia-eeuu2.jpeg",
+        "summary": "Estados Unidos construyó una industria de carne de alta calidad a partir de pequeños establecimientos. El profesor de sistemas de producción de carne vacuna de la Universidad de Nebraska, Alfredo Di Costanzo, explica las claves del modelo y el desafío del recambio generacional",
+        "pubDate": "2026-10-19T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Uber quiere sumarse al debate en el Concejo por la legalización de las apps",
+        "link": "https://www.lacapital.com.ar/la-ciudad/uber-quiere-sumarse-al-debate-el-concejo-la-legalizacion-las-apps-n10287353.html",
+        "image": "https://media.lacapital.com.ar/p/cdef107a73cc8488df1a710fe478faab/adjuntos/203/imagenes/103/471/0103471580/1200x675/smart/imageconce.jpg",
+        "summary": "El gerente de Comunicación de Uber ofreció \"aportar datos\" a la discusión. \"Van en la dirección correcta\", enfatizó",
+        "pubDate": "2026-10-19T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central: el as bajo la manga con la que le está haciendo frente a estas finales por el título",
+        "link": "https://www.lacapital.com.ar/ovacion/central-el-as-la-manga-la-que-le-esta-haciendo-frente-estas-finales-el-titulo-n10287289.html",
+        "image": "https://media.lacapital.com.ar/p/79d737c89a7825459a9203cf7a043eed/adjuntos/203/imagenes/103/476/0103476686/gol.jpeg",
+        "summary": "Ante situaciones extremas, el Canalla sacó a relucir una capacidad goleadora que hasta aquí no había mostrado en todo el torneo Clausura",
+        "pubDate": "2026-10-19T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Pullaro y el kilómetro cero",
+        "link": "https://www.lacapital.com.ar/suscriptores/pullaro-y-el-kilometro-cero-n10287065.html",
+        "image": "https://media.lacapital.com.ar/p/e2aa4e9abaf2f2478f684d43eea4ed03/adjuntos/203/imagenes/103/473/0103473410/1200x675/smart/pullaro-scaglia-interministerial.jpeg",
+        "summary": "El gobernador exigió a su gabinete redoblar esfuerzos de cara a 2027. A ocho meses de las elecciones, fijó el punto de partida en el orden provincial y un gesto a nivel nacional",
+        "pubDate": "2026-10-19T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El doble cinco de Herrera y Gómez Mattar puede influir en el funcionamiento de Newell's",
+        "link": "https://www.lacapital.com.ar/ovacion/el-doble-cinco-herrera-y-gomez-mattar-puede-influir-el-funcionamiento-newells-n10287383.html",
+        "image": "https://media.lacapital.com.ar/p/9ebf15d650970b6af6014330412bee59/adjuntos/203/imagenes/103/477/0103477650/1200x675/smart/image-2026-10-18t192829590.png",
+        "summary": "La salida obligada de Regiardo le abrió la puerta al rubio volante en una zona donde la Lepra necesita mejorar la distribución para vencer a Central Córdoba",
+        "pubDate": "2026-10-19T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Rosario reunirá a la cadena del trigo para debatir los desafíos del cultivo",
+        "link": "https://www.lacapital.com.ar/agro/rosario-reunira-la-cadena-del-trigo-debatir-los-desafios-del-cultivo-n10287363.html",
+        "image": "https://media.lacapital.com.ar/p/440bb91465968ccd02e539f711e7020b/adjuntos/305/imagenes/102/806/0102806128/1200x675/smart/trigo81713561.jpg",
+        "summary": "Investigadores y productores abordarán avances en genética, manejo, tecnologías digitales y calidad industrial",
+        "pubDate": "2026-10-19T09:05:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Cáncer de mama: 15 minutos que pueden hacer la diferencia en los controles",
         "link": "https://www.lacapital.com.ar/novedades/cancer-mama-15-minutos-que-pueden-hacer-la-diferencia-los-controles-n10287056.html",
         "image": "https://media.lacapital.com.ar/p/a9b1744a1fd59a9f16b9b078c1fc864e/adjuntos/203/imagenes/103/473/0103473306/1200x675/smart/imagen-nota.jpg",
@@ -168,15 +258,6 @@
       },
       {
         "source": "La Capital",
-        "title": "Santa Fe desembarca en Neuquén con 170 empresas para potenciar la cadena Oil & Gas",
-        "link": "https://www.lacapital.com.ar/economia/santa-fe-desembarca-neuquen-170-empresas-potenciar-la-cadena-oil-gas-n10287380.html",
-        "image": "https://media.lacapital.com.ar/p/dc1c57ce644661f0995bdb5cc0d3802f/adjuntos/203/imagenes/103/016/0103016531/1200x675/smart/vaca-muerta.jpg",
-        "summary": "La delegación santafesina participará de la Argentina Oil & Gas Patagonia del 19 al 22 de octubre. Las empresas buscan fortalecer su lugar como proveedoras de la industria energética",
-        "pubDate": "2026-10-18T22:34:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "La prestación por desempleo creció casi un 30% en nueve meses",
         "link": "https://www.lacapital.com.ar/economia/la-prestacion-desempleo-crecio-casi-un-30-nueve-meses-n10287376.html",
         "image": "https://media.lacapital.com.ar/p/32ae45a25dc646610cb3ffdf7faddf36/adjuntos/203/imagenes/103/477/0103477624/1200x675/607x412:627x432/anses.jpg",
@@ -186,92 +267,11 @@
       },
       {
         "source": "La Capital",
-        "title": "Horror en una ruta de Santa Fe: tres jóvenes murieron atropellados por una camioneta mientras cambiaban una rueda",
-        "link": "https://www.lacapital.com.ar/policiales/horror-una-ruta-santa-fe-tres-jovenes-murieron-atropellados-una-camioneta-mientras-cambiaban-una-rueda-n10287379.html",
-        "image": "https://media.lacapital.com.ar/p/51055ef1c880be17c17853ae35fa15c4/adjuntos/203/imagenes/103/477/0103477625/1200x675/smart/image-2026-10-18t185643797.jpg",
-        "summary": "Las víctimas estaban junto a un Renault 9 detenido sobre la ruta 65, entre Monje y Díaz, a 80 kilómetros de Rosario. Dos de los fallecidos eran hermanos de 26 y 29 años.",
-        "pubDate": "2026-10-18T22:12:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Dos de cada tres argentinos se quedan sin dinero antes del día 20 de cada mes",
-        "link": "https://www.lacapital.com.ar/economia/dos-cada-tres-argentinos-se-quedan-dinero-antes-del-dia-20-cada-mes-n10287372.html",
-        "image": "https://media.lacapital.com.ar/p/160d5088236b3f6f5ee4ac0be9f14e25/adjuntos/203/imagenes/101/716/0101716347/1200x675/497x289:517x309/endeudado-billetera-deuda-pagosjpg.jpg",
-        "summary": "Solo el 34% alcanza a cubrir sus gastos mensuales. El 56,2% de la población tomó deuda en el último semestre para afrontar gastos básicos",
-        "pubDate": "2026-10-18T21:37:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Una diputada de Milei eligió el Día de la Lealtad Peronista para casarse en Rosario y reunió a dirigentes libertarios",
-        "link": "https://www.lacapital.com.ar/politica/una-diputada-milei-eligio-el-dia-la-lealtad-peronista-casarse-rosario-y-reunio-dirigentes-libertarios-n10287351.html",
-        "image": "https://media.lacapital.com.ar/p/d629fd24ed86d4bf82159e301264605c/adjuntos/203/imagenes/103/477/0103477419/1200x675/smart/imagedipu.jpg",
-        "summary": "Valentina Ravera, la legisladora nacional más joven del Congreso, contrajo matrimonio con el militante libertario Luciano Ibarra. La ceremonia religiosa se realizó en la Catedral de Rosario y la fiesta en Ibarlucea. Asistieron varios diputados de La Libertad Avanza.",
-        "pubDate": "2026-10-18T21:20:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Un sacerdote murió aplastado por una cruz que cayó durante una misa transmitida en vivo",
-        "link": "https://www.lacapital.com.ar/informacion-general/un-sacerdote-murio-aplastado-una-cruz-que-cayo-una-misa-transmitida-vivo-n10287360.html",
-        "image": "https://media.lacapital.com.ar/p/ec612e867bf58038e26da6e1332c9e94/adjuntos/203/imagenes/103/477/0103477334/1200x675/smart/imagecruz.jpg",
-        "summary": "Patricio Alfredo Sánchez Molinari celebraba la Eucaristía en una iglesia de Guayaquil, Ecuador, cuando la estructura se desprendió de la pared y lo golpeó frente a los fieles.",
-        "pubDate": "2026-10-18T21:05:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El impresionante yate de lujo que compró Messi: pagó 10 millones de euros y tiene comodidades de cinco estrellas",
-        "link": "https://www.lacapital.com.ar/informacion-general/el-impresionante-yate-lujo-que-compro-messi-pago-10-millones-euros-y-tiene-comodidades-cinco-estrellas-n10287358.html",
-        "image": "https://media.lacapital.com.ar/p/57bfffe9d7caf9bd7375bc156fe141dd/adjuntos/203/imagenes/103/477/0103477326/1200x675/smart/imageya.jpg",
-        "summary": "El capitán argentino encargó un espectacular catamarán de casi 27 metros, con cinco suites, terrazas sobre el mar y motos acuáticas. La embarcación se sumará a su negocio de alquileres de lujo.",
-        "pubDate": "2026-10-18T20:43:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Las ventas por el Día de la Madre 2026 bajaron 1,4%",
-        "link": "https://www.lacapital.com.ar/economia/las-ventas-el-dia-la-madre-2026-bajaron-14-n10287345.html",
-        "image": "https://media.lacapital.com.ar/p/775798883ea0d3f110d3ac95b93e7676/adjuntos/203/imagenes/101/082/0101082861/1200x675/smart/ventas-dia-la-madre01jpg.jpg",
-        "summary": "Cuatro de los seis rubros relevados registraron caídas, con electrodomésticos a la cabeza. Los compradores priorizaron regalos de menor precio y financiación para cuidar el presupuesto familiar, indicó un relevamiento de Came",
-        "pubDate": "2026-10-18T20:34:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El Tata Martino respondió sobre la posibilidad de volver a Newell's para dirigir a Messi",
-        "link": "https://www.lacapital.com.ar/ovacion/el-tata-martino-respondio-la-posibilidad-volver-newells-dirigir-messi-n10287354.html",
-        "image": "https://media.lacapital.com.ar/p/6c8e8c32d54fc0d8df7bd3757c7a343b/adjuntos/203/imagenes/103/477/0103477292/tatarr.jpg",
-        "summary": "El Tata Martino, que ahora está al frente de Atlanta United de los Estados Unidos, fue categórico ante la consulta de regresar al Parque en el futuro",
-        "pubDate": "2026-10-18T20:32:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Argentino de Rosario sufrió, pero dio el primer paso y ahora va por la Permanencia",
-        "link": "https://www.lacapital.com.ar/ovacion/argentino-rosario-sufrio-pero-dio-el-primer-paso-y-ahora-va-la-permanencia-n10287339.html",
-        "image": "https://media.lacapital.com.ar/p/822ee482ca8bfef88089328f010c57bb/adjuntos/203/imagenes/103/477/0103477843/salaiii.jpg",
-        "summary": "El Salaíto igualó 0 a 0 con Muñiz en Atlético Empalme y tras el alargue se impuso por 5 a 3 en los penales. Le falta un paso para seguir en la C",
-        "pubDate": "2026-10-18T20:31:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Bancarios: nuevo aumento salarial, sueldo inicial de $2,6 millones y un bono millonario en noviembre",
-        "link": "https://www.lacapital.com.ar/economia/bancarios-nuevo-aumento-salarial-sueldo-inicial-26-millones-y-un-bono-millonario-noviembre-n10287335.html",
-        "image": "https://media.lacapital.com.ar/p/048ac8236bdeaf8d5e44e32dd06a6df2/adjuntos/203/imagenes/103/476/0103476944/1200x675/smart/imagebanc.jpg",
-        "summary": "El sindicato del sector acordó una suba del 1,9% para septiembre y acumula un incremento del 23,6% en lo que va del año. Además, los trabajadores cobrarán un bono de más de $2,2 millones por el Día del Bancario.",
-        "pubDate": "2026-10-18T18:38:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Autos eléctricos: YPF y Tesla proyectan cinco rutas con supercargadores desde Rosario para 2027",
-        "link": "https://www.lacapital.com.ar/informacion-general/autos-electricos-ypf-y-tesla-proyectan-cinco-rutas-supercargadores-rosario-2027-n10287333.html",
-        "image": "https://media.lacapital.com.ar/p/671f09d9500a5c044fdb63e1fc885984/adjuntos/203/imagenes/103/476/0103476942/1200x675/smart/imagetesla.jpg",
-        "summary": "La petrolera anunció que el despliegue comenzaría el próximo año. La primera etapa contempla conexiones con Buenos Aires, Córdoba, Santa Fe, Mendoza y Mar del Plata. Más adelante, la red buscará extenderse hasta La Quiaca y Ushuaia.",
-        "pubDate": "2026-10-18T18:24:00+00:00",
+        "title": "Santa Fe desembarca en Neuquén con 170 empresas para potenciar la cadena Oil & Gas",
+        "link": "https://www.lacapital.com.ar/economia/santa-fe-desembarca-neuquen-170-empresas-potenciar-la-cadena-oil-gas-n10287380.html",
+        "image": "https://media.lacapital.com.ar/p/dc1c57ce644661f0995bdb5cc0d3802f/adjuntos/203/imagenes/103/016/0103016531/1200x675/smart/vaca-muerta.jpg",
+        "summary": "La delegación santafesina participará de la Argentina Oil & Gas Patagonia del 19 al 22 de octubre. Las empresas buscan fortalecer su lugar como proveedoras de la industria energética",
+        "pubDate": "2026-10-18T22:34:00+00:00",
         "approxTime": false
       }
     ]
