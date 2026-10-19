@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T23:30:58.576849+00:00",
+  "generatedAt": "2026-10-19T00:01:18.077960+00:00",
   "sites": {
     "rosario3": [
       {
@@ -112,11 +112,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Mauricio Macri compartió fotos de la fiesta de 15 de su hija Antonia: baile sobre el escenario y desde la cabina del DJ",
+        "link": "https://www.rosario3.com/informaciongeneral/mauricio-macri-compartio-fotos-de-la-fiesta-de-15-de-su-hija-antonia-baile-sobre-el-escenario-y-desde-la-cabina-del-dj-20261018-0024.html",
+        "image": "https://www.rosario3.com/__export/1792364955267/sites/rosario3/img/2026/10/18/macri1.jpg_2106848869.jpg",
+        "summary": "Las postales que difundió el expresidente en su cuenta de Instagram revelaron algunos detalles de la intimidad de la fiesta, desde el look que eligió la cumpleañera hasta la ambientación del salón y la música que acompañó la noche",
+        "pubDate": "2026-10-18T11:48:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Tablas en Avellaneda: Racing e Independiente empataron en un clásico con gusto a poco",
         "link": "https://www.rosario3.com/deportes/tablas-en-avellaneda-racing-e-independiente-empataron-en-un-clasico-con-gusto-a-poco-20261018-0022.html",
         "image": "https://www.rosario3.com/__export/1792362125640/sites/rosario3/img/2026/10/18/racing_independiente.jpg_1973996057.jpg",
         "summary": "Matías Zaracho abrió la cuenta para la Academia en el primer tiempo, mientras que Maximiliano Meza igualó de penal en el complemento para el Rojo. El reparto de puntos dejó un saldo pobre para ambos en una temporada compleja",
-        "pubDate": "2026-10-18T11:48:00+00:00",
+        "pubDate": "2026-10-18T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,20 +134,20 @@
         "link": "https://www.rosario3.com/ocio/andy-chango-recordo-la-fiesta-clandestina-que-hizo-en-un-hospital-con-andres-calamaro-hay-un-archivo-que-no-vera-la-luz-20261018-0012.html",
         "image": "https://www.rosario3.com/__export/1792338449002/sites/rosario3/img/2026/10/18/andy_chango.jpg_1768679257.jpg",
         "summary": "El artista estuvo como invitado a PH Podemos Hablar y contó la noche que vivió con el músico en un centro de salud",
-        "pubDate": "2026-10-18T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Hospitales de alta complejidad santafesinos realizarán más de 300 cirugías de vesícula y amígdalas en diez días",
-        "link": "https://www.rosario3.com/informaciongeneral/hospitales-de-alta-complejidad-santafesinos-realizaran-mas-de-300-cirugias-de-vesicula-y-amigdalas-en-diez-dias-20261018-0011.html",
-        "image": "https://www.rosario3.com/__export/1792339025222/sites/rosario3/img/2026/10/18/salud_provincia_de_santa_fe_version1792337555644.jpg_54252875.jpg",
-        "summary": "En total, diez instituciones de tercer nivel que dependen de la salud pública provincial serán parte de las jornadas intensivas. La estrategia del Ministerio de Salud de Santa Fe se implementará entre el 19 y el 30 de octubre para optimizar el uso de los quirófanos y mejorar la…",
         "pubDate": "2026-10-18T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Newell's sigue en el 8º puesto pese a que San Lorenzo ganó y lo igualó en puntos",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-sigue-el-8-puesto-pese-que-san-lorenzo-gano-y-lo-igualo-puntos-n10287386.html",
+        "image": "https://media.lacapital.com.ar/p/3ae9ae92a667e04c40490d73cb1c462d/adjuntos/203/imagenes/103/477/0103477697/1200x675/smart/image-2026-10-18t201727817.png",
+        "summary": "El conjunto rojinegro supera en las posiciones por diferencia de gol al Ciclón, que obtuvo una gran victoria sobre Estudiantes en La Plata",
+        "pubDate": "2026-10-18T23:33:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "La prestación por desempleo creció casi un 30% en nueve meses",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/ab013b5ccefefa8ffeb3b84e2683ac75/adjuntos/203/imagenes/103/476/0103476917/1200x675/smart/imagemate3.jpg",
         "summary": "El conductor salió en defensa del cantante en el día de su cumpleaños número 49 y cuestionó duramente a la modelo por la forma en que hizo pública la ruptura. Le recordó, además, el apoyo que recibió durante el juicio contra Claudio Contardi.",
         "pubDate": "2026-10-18T17:22:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Newell's vs. Central Córdoba por el torneo Clausura: hora, canal y posibles formaciones",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-vs-central-cordoba-el-torneo-clausura-hora-canal-y-posibles-formaciones-n10287076.html",
-        "image": "https://media.lacapital.com.ar/p/79b918bf4b894598d5ec8df698d84295/adjuntos/203/imagenes/102/590/0102590069/1200x675/smart/newells-central-cordoba.png",
-        "summary": "La Lepra necesita recuperarse y sumar ante el Ferroviario para mantenerse en los puestos de playoffs. Detalles y estadísticas del partido",
-        "pubDate": "2026-10-18T17:05:00+00:00",
         "approxTime": false
       }
     ]
