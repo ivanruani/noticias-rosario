@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-19T23:01:12.408786+00:00",
+  "generatedAt": "2026-10-19T23:31:00.775637+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Un camión se habría quedado sin frenos y chocó a cinco vehículos en Circunvalación y Mendoza",
+        "link": "https://www.rosario3.com/informaciongeneral/un-camion-se-habria-quedado-sin-frenos-y-choco-a-cinco-vehiculos-en-circunvalacion-y-mendoza-20261019-0074.html",
+        "image": "https://www.rosario3.com/__export/1792450620140/sites/rosario3/img/2026/10/19/whatsapp_image_2026-10-19_at_19_24_21.jpeg_1825222445.jpeg",
+        "summary": "El siniestro vial ocurrió este lunes por la tarde en la zona oeste de Rosario. Entre los rodados involucrados había un auto en el que viajaban un hombre y su hijo y un transporte escolar. No se registraron heridos",
+        "pubDate": "2026-10-19T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Dos líneas en el crimen de Natalia: la mató su primo, pero había prestamistas que la acechaban",
         "link": "https://www.rosario3.com/policiales/dos-lineas-en-el-crimen-de-natalia-la-mato-su-primo-pero-habia-prestamistas-que-la-acechaban-20261019-0065.html",
         "image": "https://www.rosario3.com/__export/1792441035566/sites/rosario3/img/2026/10/19/grandoli_3860_crimen_natalia_gimenez_-alanmonzon.jpg_1096344065.jpg",
         "summary": "Natalia Giménez fue asesinada a puñaladas en su casa el 27 de septiembre. Su primo, imputado como autor material, había mantenido una relación sentimental con ella. La fiscal investiga si el crimen tiene conexión con una red de préstamos usurarios que también quedó bajo la lupa",
-        "pubDate": "2026-10-19T12:00:00+00:00",
+        "pubDate": "2026-10-19T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/deportes/newells-pone-en-juego-su-lugar-en-playoffs-ante-central-cordoba-en-uno-de-los-partios-que-cierra-la-fecha-13-20261016-0067.html",
         "image": "https://www.rosario3.com/__export/1792450666547/sites/rosario3/img/2026/10/19/gomez_mattar_newells_cc.jpg_506286608.jpg",
         "summary": "La Lepra vuelve a jugar en Rosario este lunes, ante el Ferroviario de Santiago del Estero, en uno de los encuentros que cerrarán la jornada del Torneo Clausura. El equipo de Frank Kudelka busca recuperarse de la derrota en Mendoza y sostenerse entre los clasificados. Gómez…",
-        "pubDate": "2026-10-16T11:59:00+00:00",
+        "pubDate": "2026-10-16T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/uber-en-el-concejo-buscaran-dictamen-este-miercoles-para-aprobarlo-la-semana-que-viene-20261019-0058.html",
         "image": "https://www.rosario3.com/__export/1792436392362/sites/rosario3/img/2026/10/19/9fe632f9-b7d1-4f6f-9d55-ff07e0e876e5_version1792436326462.jpg_982625323.jpg",
         "summary": "Servicios Públicos avanzó con cambios a favor de los cadetes y fijó una reunión conjunta con la comisión de Gobierno. Sin el aval del peronismo y Ciudad Futura, el oficialismo necesita el apoyo libertario para destrabar la norma",
-        "pubDate": "2026-10-19T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Al acecho: denuncian dos salideras casi al mismo tiempo en el microcentro rosarino",
-        "link": "https://www.rosario3.com/policiales/al-acecho-denuncian-dos-salideras-casi-al-mismo-tiempo-en-el-microcentro-rosarino-20261019-0057.html",
-        "image": "https://www.rosario3.com/__export/1792435288012/sites/rosario3/img/2026/10/11/policia.jpg_1825222445.jpg",
-        "summary": "Un conocido arbolito denunció que le sustrajeron una bolsa con efectivo en Santa Fe y Corrientes. A pocas cuadras, un hombre sufrió el arrebato de una mochila con dólares",
         "pubDate": "2026-10-19T11:57:00+00:00",
         "approxTime": true
       },
@@ -112,11 +112,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Al acecho: denuncian dos salideras casi al mismo tiempo en el microcentro rosarino",
+        "link": "https://www.rosario3.com/policiales/al-acecho-denuncian-dos-salideras-casi-al-mismo-tiempo-en-el-microcentro-rosarino-20261019-0057.html",
+        "image": "https://www.rosario3.com/__export/1792435288012/sites/rosario3/img/2026/10/11/policia.jpg_1825222445.jpg",
+        "summary": "Un conocido arbolito denunció que le sustrajeron una bolsa con efectivo en Santa Fe y Corrientes. A pocas cuadras, un hombre sufrió el arrebato de una mochila con dólares",
+        "pubDate": "2026-10-19T11:48:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "La Iglesia le pidió al Senado que avance con la ley contra la ludopatía antes de noviembre",
         "link": "https://www.rosario3.com/informaciongeneral/la-iglesia-le-pidio-al-senado-que-avance-con-la-ley-contra-la-ludopatia-antes-de-noviembre-20261019-0054.html",
         "image": "https://www.rosario3.com/__export/1792431990767/sites/rosario3/img/2025/10/02/apxestas_online.jpg_1825222445.jpg",
         "summary": "La Comisión Episcopal de Pastoral Social advirtió que el proyecto para prevenir la ludopatía y regular las apuestas online corre riesgo de perder estado parlamentario. Reclamó un tratamiento urgente y alertó sobre el impacto en niños, adolescentes y jóvenes",
-        "pubDate": "2026-10-19T11:48:00+00:00",
+        "pubDate": "2026-10-19T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,20 +134,29 @@
         "link": "https://www.rosario3.com/informaciongeneral/amplian-a-rosario-la-busqueda-de-los-tres-pescadores-que-cayeron-al-rio-en-fray-luis-beltran-la-semana-pasada-20261019-0046.html",
         "image": "https://www.rosario3.com/__export/1792429129689/sites/rosario3/img/2026/10/19/bomberos_rio.jpg_1768679257.jpg",
         "summary": "A cuatro días del naufragio en el Paraná, el rastrillaje bajó hasta el puente Rosario-Victoria. Familias de las víctimas acusaron a Prefectura Naval de inacción y escenificar la búsqueda, mientras allegados hallaron pertenencias por cuenta propia. Sin embargo, desde la fuerza…",
-        "pubDate": "2026-10-19T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Acusaron por estafas a un mecánico rosarino que cobraba por arreglos que no hacía: los insólitos engaños a sus clientes",
-        "link": "https://www.rosario3.com/policiales/acusaron-por-estafas-a-un-mecanico-rosarino-que-cobraba-por-arreglos-que-no-hacia-los-insolitos-enganos-a-sus-clientes-20261019-0040.html",
-        "image": "https://www.rosario3.com/__export/1792424144383/sites/rosario3/img/2026/10/19/mecanico_detenido.jpg_928314581.jpg",
-        "summary": "Omar José Gómez (61) fue llevado a audiencia imputativa el pasado sábado en el Centro de Justicia Penal. Entre noviembre de 2025 y la actualidad causó un perjuicio económico a clientes que acudieron a su taller de French al 700. Quedó detenido",
         "pubDate": "2026-10-19T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Pullaro se reúne este martes con los gobernadores Llaryora y Frigerio en Paraná",
+        "link": "https://www.lacapital.com.ar/politica/pullaro-se-reune-este-martes-los-gobernadores-llaryora-y-frigerio-parana-n10287576.html",
+        "image": "https://media.lacapital.com.ar/p/e91b8884aea8f556a7c672329c61fc92/adjuntos/203/imagenes/103/479/0103479632/1200x675/smart/pullare.jpg",
+        "summary": "El encuentro tiene que ver con la Región Centro, pero también con la discusión sobre el Presupuesto 2027 y la reforma electoral como telón de fondo",
+        "pubDate": "2026-10-19T23:12:25+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Crimen de Natalia Giménez en barrio Tablada: su primo y expareja la habría matado y una deuda millonaria abre otra hipótesis",
+        "link": "https://www.lacapital.com.ar/policiales/crimen-natalia-gimenez-barrio-tablada-su-primo-y-expareja-la-habria-matado-y-una-deuda-millonaria-abre-otra-hipotesis-n10287564.html",
+        "image": "https://media.lacapital.com.ar/p/18a58804e46636cac78bfd36991689eb/adjuntos/203/imagenes/103/474/0103474939/femicidio-natalia-gimenez-grandoli-3800-3.jpeg",
+        "summary": "La Fiscalía reconstruyó los movimientos del principal acusado mediante cámaras de seguridad. En paralelo, investiga si el asesinato estuvo vinculado con una red de préstamos usurarios manejada desde la cárcel.",
+        "pubDate": "2026-10-19T23:04:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "La balanza comercial de registró un superávit de u$s 2.976 millones",
@@ -177,9 +195,9 @@
       },
       {
         "source": "La Capital",
-        "title": "En vivo: Newell's pasó a ganarlo con el gol de Jerónimo Gómez Mattar",
-        "link": "https://www.lacapital.com.ar/en-vivo-newells-paso-ganarlo-el-gol-jeronimo-gomez-mattar-n10287538.html",
-        "image": "https://media.lacapital.com.ar/p/0e4b9bf844ab4441f5ae4b494142e2bd/adjuntos/203/imagenes/103/479/0103479631/1200x675/smart/image-2.jpg",
+        "title": "En vivo: Newell's se fue al descanso dominando en el campo y en el resultado, con gol de Gómez Mattar",
+        "link": "https://www.lacapital.com.ar/en-vivo-newells-se-fue-al-descanso-dominando-el-campo-y-el-resultado-gol-gomez-mattar-n10287538.html",
+        "image": "https://media.lacapital.com.ar/p/0331d93f84fab2a559407b2dec8ebb67/adjuntos/203/imagenes/103/479/0103479633/1200x675/smart/image-3.jpg",
         "summary": "Newell's enfrenta a Central Córdoba de Santiago del Estero en el Marcelo Bielsa, en busca de una victoria que le allane el camino. Seguilo en vivo por La Capital",
         "pubDate": "2026-10-19T21:51:00+00:00",
         "approxTime": false
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/a87899d4a88d667fd0574af75b83aee2/adjuntos/203/imagenes/103/478/0103478939/1200x675/smart/image-3.png",
         "summary": "Al estilo TikTok, la sección permite scrollear entre distintas producciones y espiar algunos fragmentos para decidir si es del interés del usuario o no",
         "pubDate": "2026-10-19T20:39:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La actividad metalúrgica cayó 3,3% durante septiembre",
-        "link": "https://www.lacapital.com.ar/economia/la-actividad-metalurgica-cayo-33-septiembre-n10287526.html",
-        "image": "https://media.lacapital.com.ar/p/377b83be1f0aec5270d8b17ac02969cf/adjuntos/203/imagenes/027/223/0027223583/1200x675/smart/metalurgicajpg.jpg",
-        "summary": "El sector acumula una contracción del 5,3% en 2026. La industria metalúrgica registró el menor uso de sus instalaciones para un septiembre desde 2016. En Santa Fe la producción retrocedió un 2,3% interanual",
-        "pubDate": "2026-10-19T20:39:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El Vivero Departamental de General López ya entregó mas de 15.500 árboles desde su inicio",
-        "link": "https://www.lacapital.com.ar/la-region/el-vivero-departamental-general-lopez-ya-entrego-mas-15500-arboles-su-inicio-n10287438.html",
-        "image": "https://media.lacapital.com.ar/p/5d0f4f8020be7ceeba6c5c1aef91394c/adjuntos/203/imagenes/103/478/0103478244/1200x675/smart/grallopez-viviero1.jpeg",
-        "summary": "Los ejemplares de plantas nativas están destinados a instituciones públicas y entidades de todas las localidades del departamento General López en el sur provincial",
-        "pubDate": "2026-10-19T20:00:00+00:00",
         "approxTime": false
       }
     ]
