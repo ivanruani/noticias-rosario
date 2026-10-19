@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T01:01:13.214866+00:00",
+  "generatedAt": "2026-10-19T01:09:06.653955+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Dos ganadores en el Quini 6: uno es santafesino y se lleva $1.418 millones",
+        "link": "https://www.lacapital.com.ar/informacion-general/dos-ganadores-el-quini-6-uno-es-santafesino-y-se-lleva-1418-millones-n10287397.html",
+        "image": "https://media.lacapital.com.ar/p/65c572c222b5604877869c5f6d9dfb14/adjuntos/203/imagenes/103/453/0103453622/2026-10-07-quini-6.jpg",
+        "summary": "Ambos apostadores se repartieron el pozo principal del Tradicional. Además, hubo 30 ganadores en el Siempre Sale de los cuales ocho jugaron en Santa Fe",
+        "pubDate": "2026-10-19T00:58:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Newell's sigue en el 8º puesto pese a que San Lorenzo ganó y lo igualó en puntos",
         "link": "https://www.lacapital.com.ar/ovacion/newells-sigue-el-8-puesto-pese-que-san-lorenzo-gano-y-lo-igualo-puntos-n10287386.html",
         "image": "https://media.lacapital.com.ar/p/3ae9ae92a667e04c40490d73cb1c462d/adjuntos/203/imagenes/103/477/0103477697/1200x675/smart/image-2026-10-18t201727817.png",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/5e5401ae27c49f0ec5ea79a520b74dc4/adjuntos/203/imagenes/102/988/0102988213/1200x675/smart/barrio.webp",
         "summary": "Un estudio de Idesa, realizado a pedido del BID, evaluó los trámites y requisitos para habilitar comercios y empresas en distintos municipios del país. Cómo quedó posicionada Rosario y cuáles fueron los aspectos analizados.",
         "pubDate": "2026-10-18T18:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Juan Alberto Mateyko estalló contra Julieta Prandi por su separación de Emanuel Ortega: \"Así no\"",
-        "link": "https://www.lacapital.com.ar/juan-alberto-mateyko-estallo-contra-julieta-prandi-su-separacion-emanuel-ortega-asi-no-n10287327.html",
-        "image": "https://media.lacapital.com.ar/p/ab013b5ccefefa8ffeb3b84e2683ac75/adjuntos/203/imagenes/103/476/0103476917/1200x675/smart/imagemate3.jpg",
-        "summary": "El conductor salió en defensa del cantante en el día de su cumpleaños número 49 y cuestionó duramente a la modelo por la forma en que hizo pública la ruptura. Le recordó, además, el apoyo que recibió durante el juicio contra Claudio Contardi.",
-        "pubDate": "2026-10-18T17:22:00+00:00",
         "approxTime": false
       }
     ]
