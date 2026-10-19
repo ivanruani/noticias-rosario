@@ -1,14 +1,32 @@
 {
-  "generatedAt": "2026-10-19T13:31:17.239105+00:00",
+  "generatedAt": "2026-10-19T14:01:12.169447+00:00",
   "sites": {
     "rosario3": [
       {
         "source": "Rosario3",
+        "title": "Javkin sobre El Niño: “No entrar en pánico, pero saber que nos tenemos que ocupar”",
+        "link": "https://www.rosario3.com/informaciongeneral/javkin-sobre-el-nino-no-entrar-en-panico-pero-saber-que-nos-tenemos-que-ocupar-20261019-0028.html",
+        "image": "https://www.rosario3.com/__export/1780695617980/sites/rosario3/img/2026/05/07/dsc00363.jpg_2106848869.jpg",
+        "summary": "El intendente advirtió que se esperan lluvias superiores a las habituales hasta el otoño y explicó que la actual onda de crecida del Paraná no alcanzaría el nivel de alerta en Rosario",
+        "pubDate": "2026-10-19T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Rosario se prepara para El Niño: más controles y multas, limpieza de desagües y un plan para actuar ante emergencias",
         "link": "https://www.rosario3.com/informaciongeneral/rosario-se-prepara-para-el-nino-mas-controles-y-multas-limpieza-de-desagues-y-un-plan-para-actuar-ante-emergencias-20261019-0017.html",
-        "image": "https://www.rosario3.com/__export/1792413116989/sites/rosario3/img/2026/10/19/crecida.jpg_982625323.jpg",
+        "image": "https://www.rosario3.com/__export/1792417594982/sites/rosario3/img/2026/10/19/whatsapp_image_2026-10-19_at_10_42_15.jpg_982625323.jpg",
         "summary": "La Municipalidad impulsa la adhesión a la ley de emergencia hídrica provincial y prepara herramientas para acelerar la respuesta ante eventuales contingencias. El plan incluye sanciones por obstruir canales, doce nuevas estaciones meteorológicas y la conformación de un comité…",
-        "pubDate": "2026-10-19T12:00:00+00:00",
+        "pubDate": "2026-10-19T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Una mujer denunció que fue asaltada y abusada en el cruce de la ruta 34 y la A012",
+        "link": "https://www.rosario3.com/policiales/una-mujer-denuncio-que-fue-asaltada-y-abusada-en-el-cruce-de-la-ruta-34-y-la-a012-20261019-0027.html",
+        "image": "https://www.rosario3.com/__export/1791412821899/sites/rosario3/img/2026/10/07/policia.jpg_1825222445.jpg",
+        "summary": "El caso ocurrió en la madrugada de este lunes. La víctima, oriunda de Rafaela, señaló que el delincuente robó su mochila, la atacó sexualmente y luego huyó en una moto",
+        "pubDate": "2026-10-19T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -17,24 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/el-gobierno-declaro-secreto-militar-una-nueva-compra-de-equipamiento-para-las-fuerzas-armadas-20261019-0022.html",
         "image": "https://www.rosario3.com/__export/1792415048194/sites/rosario3/img/2026/10/19/disexo_sin_txtulo.png_928314581.png",
         "summary": "El decreto de Javier Milei y el ministro de Defensa, Carlos Presti, fue publicado este lunes en el Boletín Oficial. La norma no precisa qué material se adquirirá, cuánto costará ni qué fuerza lo recibirá. La decisión se conoce en medio de las tensiones diplomáticas con el Reino…",
-        "pubDate": "2026-10-19T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "“La mejor” Feria Internacional del Libro de Rosario: más visitantes, suba en las ventas y un cambio de mes con “balance muy positivo”",
-        "link": "https://www.rosario3.com/ocio/feria-internacional-del-libro-de-rosario-mas-visitantes-suba-en-las-ventas-y-un-cambio-de-mes-con-balance-positivo-20261019-0018.html",
-        "image": "https://www.rosario3.com/__export/1792412741832/sites/rosario3/img/2026/10/19/dsc03272_version1792412741228.jpg_2106848869.jpg",
-        "summary": "Con una concurrencia de más de 300 mil personas, el ultimo domingo culminó la edición 2026, que se desarrolló de 8 al 18 de octubre en el Cultural Fontanarrosa. Desde las librerías y editoriales, destacaron que la coincidencia con el fin de semana largo del 12 de octubre y la…",
-        "pubDate": "2026-10-19T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Detuvieron a un policía de Granadero Baigorria por golpear a su mujer y herir al bebé de ambos",
-        "link": "https://www.rosario3.com/policiales/detuvieron-a-un-policia-de-granadero-baigorria-por-golpear-a-su-mujer-y-herir-al-bebe-de-ambos-20261019-0013.html",
-        "image": "https://www.rosario3.com/__export/1792408927803/sites/rosario3/img/2026/10/19/sies1.jpg_928314581.jpg",
-        "summary": "La pareja, también integrante de la fuerza, denunció que el hombre en medio de una discusión, la golpeó y en ese marco resultó agredido el niño de 5 meses. El caso ocurrió en la madrugada de este lunes en Corrientes al 1100, en el centro de Rosario",
         "pubDate": "2026-10-19T11:57:00+00:00",
         "approxTime": true
       },
@@ -49,20 +49,20 @@
       },
       {
         "source": "Rosario3",
-        "title": "Los diez momentos más tensos del durísimo debate presidencial en Brasil, que tuvo a Milei como tópico en discusión",
-        "link": "https://www.rosario3.com/politica/los-diez-momentos-mas-tensos-del-durisimo-debate-presidencial-en-brasil-que-tuvo-a-milei-como-topico-en-discusion-20261019-0006.html",
-        "image": "https://www.rosario3.com/__export/1792406520401/sites/rosario3/img/2026/10/19/debate1.jpg_982625323.jpg",
-        "summary": "Lula y Flávio Bolsonaro protagonizaron un verdadero show político, con un formato que los llevó a estar cara a cara en varios pasajes. Pocas propuestas y muchas acusaciones",
+        "title": "Detuvieron a un policía de Granadero Baigorria por golpear a su mujer y herir al bebé de ambos",
+        "link": "https://www.rosario3.com/policiales/detuvieron-a-un-policia-de-granadero-baigorria-por-golpear-a-su-mujer-y-herir-al-bebe-de-ambos-20261019-0013.html",
+        "image": "https://www.rosario3.com/__export/1792408927803/sites/rosario3/img/2026/10/19/sies1.jpg_928314581.jpg",
+        "summary": "La pareja, también integrante de la fuerza, denunció que el hombre en medio de una discusión, la golpeó y en ese marco resultó agredido el niño de 5 meses. El caso ocurrió en la madrugada de este lunes en Corrientes al 1100, en el centro de Rosario",
         "pubDate": "2026-10-19T11:55:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Newell’s pone en juego su lugar en playoffs ante Central Córdoba en uno de los partidos que cierra la fecha 13",
-        "link": "https://www.rosario3.com/deportes/newells-pone-en-juego-su-lugar-en-playoffs-ante-central-cordoba-en-uno-de-los-partios-que-cierra-la-fecha-13-20261016-0067.html",
-        "image": "https://www.rosario3.com/__export/1792182074352/sites/rosario3/img/2026/10/16/coccaro.jpg_928314580.jpg",
-        "summary": "La Lepra vuelve a jugar en Rosario este lunes, ante el Ferroviario de Santiago del Estero, en uno de los encuentros que cerrarán la jornada del Torneo Clausura. El equipo de Frank Kudelka buscará recuperarse de la derrota en Mendoza y sostenerse en zona de playoffs. Dirige…",
-        "pubDate": "2026-10-16T11:54:00+00:00",
+        "title": "Los diez momentos más tensos del durísimo debate presidencial en Brasil, que tuvo a Milei como tópico en discusión",
+        "link": "https://www.rosario3.com/politica/los-diez-momentos-mas-tensos-del-durisimo-debate-presidencial-en-brasil-que-tuvo-a-milei-como-topico-en-discusion-20261019-0006.html",
+        "image": "https://www.rosario3.com/__export/1792406520401/sites/rosario3/img/2026/10/19/debate1.jpg_982625323.jpg",
+        "summary": "Lula y Flávio Bolsonaro protagonizaron un verdadero show político, con un formato que los llevó a estar cara a cara en varios pasajes. Pocas propuestas y muchas acusaciones",
+        "pubDate": "2026-10-19T11:54:00+00:00",
         "approxTime": true
       },
       {
@@ -94,11 +94,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Newell’s pone en juego su lugar en playoffs ante Central Córdoba en uno de los partidos que cierra la fecha 13",
+        "link": "https://www.rosario3.com/deportes/newells-pone-en-juego-su-lugar-en-playoffs-ante-central-cordoba-en-uno-de-los-partios-que-cierra-la-fecha-13-20261016-0067.html",
+        "image": "https://www.rosario3.com/__export/1792182074352/sites/rosario3/img/2026/10/16/coccaro.jpg_928314580.jpg",
+        "summary": "La Lepra vuelve a jugar en Rosario este lunes, ante el Ferroviario de Santiago del Estero, en uno de los encuentros que cerrarán la jornada del Torneo Clausura. El equipo de Frank Kudelka buscará recuperarse de la derrota en Mendoza y sostenerse en zona de playoffs. Dirige…",
+        "pubDate": "2026-10-16T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "El Gobierno lanzó un plan de retiros voluntarios para empleados de la administración pública nacional",
         "link": "https://www.rosario3.com/informaciongeneral/el-gobierno-lanzo-un-plan-de-retiros-voluntarios-para-empleados-de-la-administracion-publica-nacional-20261019-0025.html",
         "image": "https://www.rosario3.com/__export/1792415932389/sites/rosario3/img/2026/09/28/casa_rosada_jpg_25343506.jpg_1221028662.jpg",
         "summary": "El régimen alcanza a trabajadores de planta permanente y contratados por tiempo indeterminado de la administración centralizada. La inscripción estará abierta del 1° al 30 de noviembre. Las compensaciones varían según la edad y la antigüedad, y quienes adhieran no podrán volver…",
-        "pubDate": "2026-10-19T11:50:00+00:00",
+        "pubDate": "2026-10-19T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -107,16 +116,16 @@
         "link": "https://www.rosario3.com/deportes/el-jugador-de-hockey-nicolas-keenan-anuncio-que-sera-papa-junto-a-rob-jetten-el-primer-ministro-de-paises-bajos-20261019-0020.html",
         "image": "https://www.rosario3.com/__export/1792414403828/sites/rosario3/img/2026/10/19/nicokeenan-1792410067-4011345175031207581-299740104_-1-.jpg_928314580.jpg",
         "summary": "El jugador de la selección argentina y el político neerlandés están juntos desde 2022 y compartieron la noticia a través de sus redes sociales",
-        "pubDate": "2026-10-19T11:49:00+00:00",
+        "pubDate": "2026-10-19T11:48:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Cine en Rosario: noche de terror en la casona embrujada",
+        "title": "Cine en Rosario: noche de terror en una casona histórica",
         "link": "https://www.rosario3.com/ocio/los-fantasmas-tambien-se-heredan-noche-de-terror-en-la-casona-embrujada-20261019-0015.html",
         "image": "https://www.rosario3.com/__export/1792410450373/sites/rosario3/img/2026/10/19/hortensia.jpg_928314581.jpg",
         "summary": "Turbio, el proyecto cultural que lleva el cine de Terror a lugares icónicos de Rosario, presenta una película en Villa Hortensia. Todo lo que hay que saber para no perderse la experiencia",
-        "pubDate": "2026-10-19T11:48:00+00:00",
+        "pubDate": "2026-10-19T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,20 +134,20 @@
         "link": "https://www.rosario3.com/ocio/mirtha-legrand-reaparecio-tras-su-internacion-y-compartio-una-foto-familiar-20261019-0004.html",
         "image": "https://www.rosario3.com/__export/1788794219660/sites/rosario3/img/2026/09/07/mirtha-legrand-1995169.jpg_1221028662.jpg",
         "summary": "La conductora publicó su primera foto tras recibir el alta médica. Celebró el Día de la Madre junto a sus seres queridos mientras continúa recuperándose. Mirá",
-        "pubDate": "2026-10-19T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Claves del día: récord en el MAV, consumo en baja y Galicia acelera con IA; Rosario debate Uber y presenta Casa FOA | Ecos365",
-        "link": "https://www.rosario3.com/ecos365/noticias/claves-del-dia-record-en-el-mav-consumo-en-baja-y-galicia-acelera-con-ia-rosario-debate-uber-y-presenta-casa-foa-20261019-0002.html",
-        "image": "https://www.rosario3.com/__export/1792403910024/sites/rosario3/img/2019/11/13/cuales-son-las-empresas-de-servicios-financieros-que-hay-en-uruguay-a.jpg_911186587.jpg",
-        "summary": "Más financiamiento no garantiza más ventas: el Día de la Madre volvió a caer. Mientras llegan cifras del comercio exterior, Galicia y Pagsmile redibujan negocios financieros. En Rosario, Uber disputa sus reglas y Casa FOA prepara su desembarco",
         "pubDate": "2026-10-19T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "El Niño en Rosario: presentan un plan de obras, controles, multas y un comité de emergencia",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-nino-rosario-presentan-un-plan-obras-controles-multas-y-un-comite-emergencia-n10287426.html",
+        "image": "https://media.lacapital.com.ar/p/7dafa65a2c7c303bb4c7632e812039b3/adjuntos/203/imagenes/102/176/0102176565/1200x675/smart/lluvias-inundacionjpg.jpg",
+        "summary": "El municipio anunció medidas preventivas ante las lluvias previstas entre octubre y marzo, con limpieza de desagües, nuevas estaciones meteorológicas y mayores sanciones",
+        "pubDate": "2026-10-19T13:45:29+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Violencia digital en Santa Fe: impulsan sanciones por crear y difundir imágenes íntimas falsas",
@@ -254,15 +263,6 @@
         "image": "https://media.lacapital.com.ar/p/518a0bdebc1cdc68377a82625db0e35a/adjuntos/203/imagenes/102/149/0102149651/1200x675/smart/mileieeuujpeg.jpeg",
         "summary": "Sus actividades comenzarán el miércoles y su primera participación será en la jornada Nueva Economía Forum. Será la séptima visita de Milei a ese país",
         "pubDate": "2026-10-19T10:33:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La Feria del Libro de Rosario cerró su edición más convocante con un impulso en las ventas",
-        "link": "https://www.lacapital.com.ar/la-feria-del-libro-rosario-cerro-su-edicion-mas-convocante-un-impulso-las-ventas-n10287388.html",
-        "image": "https://media.lacapital.com.ar/p/9be261e26cac204e72c9ff647311f020/adjuntos/203/imagenes/103/477/0103477699/1200x675/smart/libros.jpg",
-        "summary": "El evento concluyó ayer con un balance favorable y se consolida como uno de los grandes encuentros literarios del país",
-        "pubDate": "2026-10-19T09:25:00+00:00",
         "approxTime": false
       },
       {
