@@ -1,14 +1,41 @@
 {
-  "generatedAt": "2026-10-19T19:31:03.145417+00:00",
+  "generatedAt": "2026-10-19T20:01:09.457928+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Uber en el Concejo: buscarán dictamen este miércoles para aprobarlo la semana que viene",
+        "link": "https://www.rosario3.com/informaciongeneral/uber-en-el-concejo-buscaran-dictamen-este-miercoles-para-aprobarlo-la-semana-que-viene-20261019-0058.html",
+        "image": "https://www.rosario3.com/__export/1792436392362/sites/rosario3/img/2026/10/19/9fe632f9-b7d1-4f6f-9d55-ff07e0e876e5_version1792436326462.jpg_982625323.jpg",
+        "summary": "Servicios Públicos avanzó con cambios a favor de los cadetes y fijó una reunión conjunta con la comisión de Gobierno. Sin el aval del peronismo y Ciudad Futura, el oficialismo necesita el apoyo libertario para destrabar la norma",
+        "pubDate": "2026-10-19T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Amplían a Rosario la búsqueda de los tres pescadores que cayeron al río en Fray Luis Beltrán la semana pasada",
         "link": "https://www.rosario3.com/informaciongeneral/amplian-a-rosario-la-busqueda-de-los-tres-pescadores-que-cayeron-al-rio-en-fray-luis-beltran-la-semana-pasada-20261019-0046.html",
         "image": "https://www.rosario3.com/__export/1792429129689/sites/rosario3/img/2026/10/19/bomberos_rio.jpg_1768679257.jpg",
         "summary": "A cuatro días del naufragio en el Paraná, el rastrillaje bajó hasta el puente Rosario-Victoria. Familias de las víctimas acusaron a la fuerza federal de inacción y escenificar la búsqueda, mientras allegados hallaron pertenencias por cuenta propia",
-        "pubDate": "2026-10-19T12:00:00+00:00",
+        "pubDate": "2026-10-19T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "La Causa Malvinas causó una imprevista diferencia geopolítica entre Milei y Trump por el Comité de Descolonización de la ONU",
+        "link": "https://www.rosario3.com/politica/la-causa-malvinas-causo-una-imprevista-diferencia-geopolitica-entre-milei-y-trump-por-el-comite-de-descolonizacion-de-la-onu-20261019-0060.html",
+        "image": "https://www.rosario3.com/__export/1792437942038/sites/rosario3/img/2026/10/19/malvinas_.jpg_1768679257.jpg",
+        "summary": "Estados Unidos propone disolver ese comité porque significa “un despilfarro de recursos”, mientras que Argentina sostiene que “es un escenario clave” para reclamar la soberanía en las Islas del Atlántico Sur. La iniciativa beneficia al Reino Unido y perjudica a los intereses…",
+        "pubDate": "2026-10-19T11:58:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Al acecho: denuncian dos salideras casi al mismo tiempo en el microcentro rosarino",
+        "link": "https://www.rosario3.com/policiales/al-acecho-denuncian-dos-salideras-casi-al-mismo-tiempo-en-el-microcentro-rosarino-20261019-0057.html",
+        "image": "https://www.rosario3.com/__export/1792435288012/sites/rosario3/img/2026/10/11/policia.jpg_1825222445.jpg",
+        "summary": "Un conocido arbolito denunció que le sustrajeron una bolsa con efectivo en Santa Fe y Corrientes. A pocas cuadras, un hombre sufrió el arrebato de una mochila con dólares",
+        "pubDate": "2026-10-19T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +44,7 @@
         "link": "https://www.rosario3.com/ocio/la-casa-en-rosario-donde-fito-paez-sono-ser-musico-esta-a-la-venta-un-recorrido-intimo-entre-recuerdos-y-emociones-20261019-0016.html",
         "image": "https://www.rosario3.com/__export/1792423132700/sites/rosario3/img/2026/10/19/fito_piano_portada_rosario3_1250x704.jpg_928314581.jpg",
         "summary": "La casa de la infancia de Fito Páez está a la venta. Rosario3 la recorrió junto a Fabián Gallardo, amigo del músico, quien sueña con convertirla en un museo. Imágenes de ayer y hoy que conforman un hogar donde se gestó uno de los músicos más importantes del país",
-        "pubDate": "2026-10-19T11:59:00+00:00",
+        "pubDate": "2026-10-19T11:56:00+00:00",
         "approxTime": true
       },
       {
@@ -26,7 +53,7 @@
         "link": "https://www.rosario3.com/policiales/acusaron-por-estafas-a-un-mecanico-rosarino-que-cobraba-por-arreglos-que-no-hacia-los-insolitos-enganos-a-sus-clientes-20261019-0040.html",
         "image": "https://www.rosario3.com/__export/1792424144383/sites/rosario3/img/2026/10/19/mecanico_detenido.jpg_928314581.jpg",
         "summary": "Omar José Gómez (61) fue llevado a audiencia imputativa el pasado sábado en el Centro de Justicia Penal. Entre noviembre de 2025 y la actualidad causó un perjuicio económico a clientes que acudieron a su taller de French al 700. Quedó detenido",
-        "pubDate": "2026-10-19T11:58:00+00:00",
+        "pubDate": "2026-10-19T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -35,33 +62,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/video-paso-por-encima-a-un-perro-con-su-auto-en-una-estacion-de-servicio-y-luego-cargo-nafta-como-si-nada-hubiera-pasado-20261019-0044.html",
         "image": "https://www.rosario3.com/__export/1792424726432/sites/rosario3/img/2026/10/19/auto_vgg_perro.png_786111822.png",
         "summary": "El episodio ocurrió este lunes en una estación de servicio de VGG y quedó registrado por las cámaras de seguridad. El perro callejero sobrevivió al impacto, pero sufrió fuertes golpes y debió ser trasladado de urgencia para recibir atención veterinaria. El video",
-        "pubDate": "2026-10-19T11:57:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Se viene el Turismo Carretera en Rosario y la organización proyecta a la ciudad para la apertura del calendario 2027",
-        "link": "https://www.rosario3.com/deportes/se-viene-el-turismo-carretera-en-rosario-y-la-organizacion-proyecta-a-la-ciudad-para-la-apertura-del-calendario-2027-20261019-0051.html",
-        "image": "https://www.rosario3.com/__export/1785347846551/sites/rosario3/img/2026/07/29/turismo-carretera.jpg_928314580.jpg",
-        "summary": "“Rosario es una plaza muy importante para la categoría, es lo que todos los fanáticos de la región estaban esperando”, ponderó el presidente de la ACTC, el ex piloto Gastón Mazzacane, que también adelantó que ya piensan en Rosario para la apertura de la temporada próxima.",
-        "pubDate": "2026-10-19T11:56:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La Iglesia le pidió al Senado que avance con la ley contra la ludopatía antes de noviembre",
-        "link": "https://www.rosario3.com/informaciongeneral/la-iglesia-le-pidio-al-senado-que-avance-con-la-ley-contra-la-ludopatia-antes-de-noviembre-20261019-0054.html",
-        "image": "https://www.rosario3.com/__export/1792431990767/sites/rosario3/img/2025/10/02/apxestas_online.jpg_1825222445.jpg",
-        "summary": "La Comisión Episcopal de Pastoral Social advirtió que el proyecto para prevenir la ludopatía y regular las apuestas online corre riesgo de perder estado parlamentario. Reclamó un tratamiento urgente y alertó sobre el impacto en niños, adolescentes y jóvenes",
-        "pubDate": "2026-10-19T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Tras la vandalización de la Catedral, proponen un protocolo para proteger el patrimonio durante las marchas en Rosario",
-        "link": "https://www.rosario3.com/informaciongeneral/tras-la-vandalizacion-de-la-catedral-proponen-un-protocolo-para-proteger-el-patrimonio-durante-las-marchas-en-rosario-20261019-0043.html",
-        "image": "https://www.rosario3.com/__export/1792423906890/sites/rosario3/img/2026/10/19/dise-o_sin_t-tulo_-1-_1.png_928314581.png",
-        "summary": "La iniciativa ingresó al Concejo Municipal y plantea medidas preventivas para cuidar edificios históricos, monumentos y esculturas durante movilizaciones y eventos masivos. También contempla la posibilidad de reclamar los gastos de reparación a los responsables de los daños",
         "pubDate": "2026-10-19T11:54:00+00:00",
         "approxTime": true
       },
@@ -76,11 +76,38 @@
       },
       {
         "source": "Rosario3",
+        "title": "La Iglesia le pidió al Senado que avance con la ley contra la ludopatía antes de noviembre",
+        "link": "https://www.rosario3.com/informaciongeneral/la-iglesia-le-pidio-al-senado-que-avance-con-la-ley-contra-la-ludopatia-antes-de-noviembre-20261019-0054.html",
+        "image": "https://www.rosario3.com/__export/1792431990767/sites/rosario3/img/2025/10/02/apxestas_online.jpg_1825222445.jpg",
+        "summary": "La Comisión Episcopal de Pastoral Social advirtió que el proyecto para prevenir la ludopatía y regular las apuestas online corre riesgo de perder estado parlamentario. Reclamó un tratamiento urgente y alertó sobre el impacto en niños, adolescentes y jóvenes",
+        "pubDate": "2026-10-19T11:52:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Se viene el Turismo Carretera en Rosario y la organización proyecta a la ciudad para la apertura del calendario 2027",
+        "link": "https://www.rosario3.com/deportes/se-viene-el-turismo-carretera-en-rosario-y-la-organizacion-proyecta-a-la-ciudad-para-la-apertura-del-calendario-2027-20261019-0051.html",
+        "image": "https://www.rosario3.com/__export/1785347846551/sites/rosario3/img/2026/07/29/turismo-carretera.jpg_928314580.jpg",
+        "summary": "“Rosario es una plaza muy importante para la categoría, es lo que todos los fanáticos de la región estaban esperando”, ponderó el presidente de la ACTC, el ex piloto Gastón Mazzacane, que también adelantó que ya piensan en Rosario para la apertura de la temporada próxima.",
+        "pubDate": "2026-10-19T11:51:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Rosario se prepara para El Niño: más controles y multas, limpieza de desagües y un plan para actuar ante emergencias",
         "link": "https://www.rosario3.com/informaciongeneral/rosario-se-prepara-para-el-nino-mas-controles-y-multas-limpieza-de-desagues-y-un-plan-para-actuar-ante-emergencias-20261019-0017.html",
         "image": "https://www.rosario3.com/__export/1792417594982/sites/rosario3/img/2026/10/19/whatsapp_image_2026-10-19_at_10_42_15.jpg_982625323.jpg",
         "summary": "La Municipalidad impulsa la adhesión a la ley de emergencia hídrica provincial y prepara herramientas para acelerar la respuesta ante eventuales contingencias. El plan incluye sanciones por obstruir canales, doce nuevas estaciones meteorológicas y la conformación de un comité…",
-        "pubDate": "2026-10-19T11:52:00+00:00",
+        "pubDate": "2026-10-19T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Causa del oro: pidieron allanar el BCRA e investigar posibles comisiones millonarias",
+        "link": "https://www.rosario3.com/informaciongeneral/causa-del-oro-pidieron-allanar-el-bcra-e-investigar-posibles-comisiones-millonarias-20261019-0055.html",
+        "image": "https://www.rosario3.com/__export/1792435545536/sites/rosario3/img/2026/10/19/oro.jpg_1768679258.jpg",
+        "summary": "Ampliaron la denuncia contra el ministro Luis Caputo y los funcionarios Santiago Bausili, Juan Curutchet y Nicolás Ferro. Solicitan investigar operaciones con oro, pérdidas por u$s1.023 millones y posibles comisiones",
+        "pubDate": "2026-10-19T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -89,7 +116,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/un-barco-fantasma-en-el-parana-la-crecida-hizo-que-se-soltara-un-buque-abandonado-de-107-metros-y-quedo-a-la-deriva-20261019-0049.html",
         "image": "https://www.rosario3.com/__export/1792427528062/sites/rosario3/img/2026/10/19/disexo_sin_txtulo_5.png_928314581.png",
         "summary": "El barco, que nunca llegó a terminarse, estaba amarrado en un astillero de Corrientes. La corriente rompió las amarras y lo arrastró casi dos kilómetros, hasta dejarlo varado frente a dos barrios. Advierten por los riesgos para la navegación",
-        "pubDate": "2026-10-19T11:51:00+00:00",
+        "pubDate": "2026-10-19T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -98,33 +125,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/faltante-de-medicacion-para-el-parkinson--no-es-posible-saltear-una-toma-20261019-0029.html",
         "image": "https://www.rosario3.com/__export/1792419827152/sites/rosario3/img/2026/10/19/parkinson2.jpg_928314581.jpg",
         "summary": "El diputado provincial Miguel Rabbia advirtió sobre la grave situación que atraviesan las personas que padecen la enfermedad de Parkinson en Santa Fe por la interrupción en la entrega de levodopa de parte de un laboratorio multinacional. Remarcó que se trata de un insumo vital y…",
-        "pubDate": "2026-10-19T11:50:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La Aduana subastará equipos de audio, consolas para DJ y tecnología: desde qué precio y cómo participar",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-aduana-subastara-equipos-de-audio-consolas-para-dj-y-tecnologia-desde-que-precio-y-como-participar-20261019-0035.html",
-        "image": "https://www.rosario3.com/__export/1792419362831/sites/rosario3/img/2026/10/19/disexo_sin_txtulo_2.png_928314581.png",
-        "summary": "El remate electrónico se realizará el 12 de noviembre a través del Banco Ciudad. Entre los artículos incluidos hay consolas Pioneer, equipos de sonido, micrófonos inalámbricos, parlantes y portarretratos digitales de Disney y Cartoon Network",
-        "pubDate": "2026-10-19T11:49:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Excesos hídricos y crecidas de ríos: el mapa del impacto de El Niño para el resto de octubre y la situación del Paraná en Rosario",
-        "link": "https://www.rosario3.com/informaciongeneral/excesos-hidricos-y-crecidas-de-rios-el-mapa-del-impacto-de-el-nino-para-el-resto-de-octubre-y-la-situacion-del-parana-en-rosario-20261019-0019.html",
-        "image": "https://www.rosario3.com/__export/1792415048240/sites/rosario3/img/2026/10/19/rxo_parana_pescador_nublado.jpg_930824724.jpg",
-        "summary": "Las proyecciones semanales del SMN anticipan excesos hídricos en el centro-norte y la Patagonia, mientras avanza una crecida clave en los grandes ríos del Litoral. En Corrientes, en el tramo medio del Paraná, ya hay más de 700 evacuados. En tanto, el tramo inferior, continúa en…",
-        "pubDate": "2026-10-19T11:48:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Una mujer denunció que fue asaltada y abusada en el cruce de la ruta 34 y la A012",
-        "link": "https://www.rosario3.com/policiales/una-mujer-denuncio-que-fue-asaltada-y-abusada-en-el-cruce-de-la-ruta-34-y-la-a012-20261019-0027.html",
-        "image": "https://www.rosario3.com/__export/1791412821899/sites/rosario3/img/2026/10/07/policia.jpg_1825222445.jpg",
-        "summary": "El caso ocurrió en la madrugada de este lunes. La víctima, oriunda de Rafaela, señaló que el delincuente robó su mochila, la atacó sexualmente y luego huyó en una moto",
         "pubDate": "2026-10-19T11:47:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "El Vivero Departamental de General López ya entregó mas de 15.500 árboles desde su inicio",
+        "link": "https://www.lacapital.com.ar/la-region/el-vivero-departamental-general-lopez-ya-entrego-mas-15500-arboles-su-inicio-n10287438.html",
+        "image": "https://media.lacapital.com.ar/p/5d0f4f8020be7ceeba6c5c1aef91394c/adjuntos/203/imagenes/103/478/0103478244/1200x675/smart/grallopez-viviero1.jpeg",
+        "summary": "Los ejemplares de plantas nativas están destinados a instituciones públicas y entidades de todas las localidades del departamento General López en el sur provincial",
+        "pubDate": "2026-10-19T20:00:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Crumbl cookies: cómo preparar las galletitas virales en casa",
@@ -204,10 +213,10 @@
       },
       {
         "source": "La Capital",
-        "title": "Anses mantiene abierta la convocatoria al Programa Progresar Trabajo: cómo inscribirse",
-        "link": "https://www.lacapital.com.ar/informacion-general/anses-mantiene-abierta-la-convocatoria-al-programa-progresar-trabajo-como-inscribirse-n10287474.html",
-        "image": "https://media.lacapital.com.ar/p/c047db1650ab568d60cf0b02a55ba76c/adjuntos/203/imagenes/100/049/0100049834/1200x675/smart/becasjpg.jpg",
-        "summary": "Este programa de Becas Progresar está destinado a jóvenes que cursen las formaciones profesionales avaladas por el Instituto Nacional de Educación Tecnológica (INET). Ofrece un estímulo económico mensual.",
+        "title": "Cómo ganar espacio de almacenamiento en WhatsApp sin borrar chats importantes",
+        "link": "https://www.lacapital.com.ar/informacion-general/como-ganar-espacio-almacenamiento-whatsapp-borrar-chats-importantes-n10287484.html",
+        "image": "https://media.lacapital.com.ar/p/09f532d5bfb655505c6fe86b89b57000/adjuntos/203/imagenes/102/727/0102727822/1200x675/smart/whatsapp-celular.png",
+        "summary": "Se puede recuperar espacio de almacenamiento en el teléfono y mejorar sus funciones sin borrar los archivos y chats importante. Cómo hacerlo",
         "pubDate": "2026-10-19T17:11:00+00:00",
         "approxTime": false
       },
@@ -222,10 +231,10 @@
       },
       {
         "source": "La Capital",
-        "title": "Cómo ganar espacio de almacenamiento en WhatsApp sin borrar chats importantes",
-        "link": "https://www.lacapital.com.ar/informacion-general/como-ganar-espacio-almacenamiento-whatsapp-borrar-chats-importantes-n10287484.html",
-        "image": "https://media.lacapital.com.ar/p/09f532d5bfb655505c6fe86b89b57000/adjuntos/203/imagenes/102/727/0102727822/1200x675/smart/whatsapp-celular.png",
-        "summary": "Se puede recuperar espacio de almacenamiento en el teléfono y mejorar sus funciones sin borrar los archivos y chats importante. Cómo hacerlo",
+        "title": "Anses mantiene abierta la convocatoria al Programa Progresar Trabajo: cómo inscribirse",
+        "link": "https://www.lacapital.com.ar/informacion-general/anses-mantiene-abierta-la-convocatoria-al-programa-progresar-trabajo-como-inscribirse-n10287474.html",
+        "image": "https://media.lacapital.com.ar/p/c047db1650ab568d60cf0b02a55ba76c/adjuntos/203/imagenes/100/049/0100049834/1200x675/smart/becasjpg.jpg",
+        "summary": "Este programa de Becas Progresar está destinado a jóvenes que cursen las formaciones profesionales avaladas por el Instituto Nacional de Educación Tecnológica (INET). Ofrece un estímulo económico mensual.",
         "pubDate": "2026-10-19T17:11:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/6d800aee0a412821c827127bf1677f4a/adjuntos/203/imagenes/103/478/0103478230/1200x675/smart/baigorria-predioevaperon.jpg",
         "summary": "Con la toma de posesión formal por parte del municipio, los baigorrienses vislumbran los primeros resultados de los trabajos de mantenimiento integral en el predio",
         "pubDate": "2026-10-19T16:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Asesinado por su exempleada doméstica: comienza el juicio por el crimen de un hombre de 84 años",
-        "link": "https://www.lacapital.com.ar/policiales/asesinado-su-exempleada-domestica-comienza-el-juicio-el-crimen-un-hombre-84-anos-n10287460.html",
-        "image": "https://media.lacapital.com.ar/p/1e053adbf219623c46867caf5633756d/adjuntos/203/imagenes/100/936/0100936162/1200x675/smart/14976540_339493779744808_523409969704339107_ojpg.jpg",
-        "summary": "La mujer acusada y su pareja enfrentan un pedido de prisión perpetua por el crimen de José Coelho de Sousa de Melo ocurrido en 2023 en Pérez",
-        "pubDate": "2026-10-19T16:15:00+00:00",
         "approxTime": false
       }
     ]
