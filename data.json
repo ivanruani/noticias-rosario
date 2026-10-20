@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T18:01:11.524728+00:00",
+  "generatedAt": "2026-10-20T18:31:00.492774+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,33 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Milei apuntó contra quienes dicen que los argentinos no llegan a fin de mes",
+        "link": "https://www.lacapital.com.ar/politica/milei-apunto-contra-quienes-dicen-que-los-argentinos-no-llegan-fin-mes-n10287716.html",
+        "image": "https://media.lacapital.com.ar/p/7b966154881280507a965430abf7cc0c/adjuntos/203/imagenes/103/481/0103481602/1200x675/smart/image.png",
+        "summary": "El presidente rechazó las afirmaciones sobre las dificultades económicas de la población. También advirtió acerca de un posible fraude electoral en Brasil y acusó a Lula de “zurdo ladrón”",
+        "pubDate": "2026-10-20T18:24:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Qué es la leche dorada, cuáles son sus beneficios y cómo prepararla en casa",
+        "link": "https://www.lacapital.com.ar/informacion-general/que-es-la-leche-dorada-cuales-son-sus-beneficios-y-como-prepararla-casa-n10287723.html",
+        "image": "https://media.lacapital.com.ar/p/68f140911124d865f3e31572b9ab78a9/adjuntos/203/imagenes/103/481/0103481625/1200x675/smart/image-7.png",
+        "summary": "Proveniente de la medicina india, esta bebida es reconocida por su sabor especiado y propiedades antiinflamatorias",
+        "pubDate": "2026-10-20T18:24:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Con cupos completos, comenzaron los cursos de gasista matriculado en el departamento San Martín",
+        "link": "https://www.lacapital.com.ar/la-region/con-cupos-completos-comenzaron-los-cursos-gasista-matriculado-el-departamento-san-martin-n10287640.html",
+        "image": "https://media.lacapital.com.ar/p/4c04324d7f8ea9d1cae5d90fad18b88b/adjuntos/203/imagenes/103/480/0103480592/1200x675/smart/motta-gasista.jpeg",
+        "summary": "Con el avance de los gasoductos de las rutas 20 y 34, ejecutados por el gobierno provincial, se abren nuevas perspectivas de trabajo vinculadas a las instalaciones domiciliarias",
+        "pubDate": "2026-10-20T18:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Giuliano: \"En Santa Fe tenemos la energía eléctrica más cara de toda la Argentina\"",
         "link": "https://www.lacapital.com.ar/politica/giuliano-en-santa-fe-tenemos-la-energia-electrica-mas-cara-toda-la-argentina-n10287713.html",
         "image": "https://media.lacapital.com.ar/p/e6bc2a412c088294686388cf877f2fdd/adjuntos/203/imagenes/103/481/0103481572/1200x675/smart/image.png",
@@ -186,19 +213,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Violencia narco en el cordón industrial: nueve acusados en una banda vinculada a resonante crimen",
-        "link": "https://www.lacapital.com.ar/policiales/violencia-narco-el-cordon-industrial-nueve-acusados-una-banda-vinculada-resonante-crimen-n10287703.html",
-        "image": "https://media.lacapital.com.ar/p/8f45f72a72e1b1ca873395cc93592ba5/adjuntos/203/imagenes/103/481/0103481494/1200x675/smart/whatsapp-image-2026-10-16-at-121850-pm.jpeg",
-        "summary": "La organización tiene a su presunto líder prófugo, quien a su vez es sospechoso del secuestro y asesinato de Gastón Montenegro en junio pasado",
+        "title": "WhatsApp prepara una función para obtener información antes de atender llamadas desconocidas",
+        "link": "https://www.lacapital.com.ar/informacion-general/whatsapp-prepara-una-funcion-obtener-informacion-antes-atender-llamadas-desconocidas-n10287704.html",
+        "image": "https://media.lacapital.com.ar/p/0fe4b6c0622262d8451848c4d77bb153/adjuntos/203/imagenes/103/366/0103366149/image-13.png",
+        "summary": "Ideal para evitar estafas, la plataforma busca recopilar una serie de datos para advertir al usuario acerca del origen de la llamada",
         "pubDate": "2026-10-20T17:23:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "WhatsApp prepara una función para obtener información antes de atender llamadas desconocidas",
-        "link": "https://www.lacapital.com.ar/informacion-general/whatsapp-prepara-una-funcion-obtener-informacion-antes-atender-llamadas-desconocidas-n10287704.html",
-        "image": "https://media.lacapital.com.ar/p/0fe4b6c0622262d8451848c4d77bb153/adjuntos/203/imagenes/103/366/0103366149/image-13.png",
-        "summary": "Ideal para evitar estafas, la plataforma busca recopilar una serie de datos para advertir al usuario acerca del origen de la llamada",
+        "title": "Violencia narco en el cordón industrial: nueve acusados en una banda vinculada a resonante crimen",
+        "link": "https://www.lacapital.com.ar/policiales/violencia-narco-el-cordon-industrial-nueve-acusados-una-banda-vinculada-resonante-crimen-n10287703.html",
+        "image": "https://media.lacapital.com.ar/p/8f45f72a72e1b1ca873395cc93592ba5/adjuntos/203/imagenes/103/481/0103481494/1200x675/smart/whatsapp-image-2026-10-16-at-121850-pm.jpeg",
+        "summary": "La organización tiene a su presunto líder prófugo, quien a su vez es sospechoso del secuestro y asesinato de Gastón Montenegro en junio pasado",
         "pubDate": "2026-10-20T17:23:00+00:00",
         "approxTime": false
       },
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/221eec6bea58130babb6bad8fde7fd73/adjuntos/203/imagenes/102/922/0102922636/1200x675/smart/bts.webp",
         "summary": "Los integrantes de la banda surcoreana aterrizaron en Ezeiza. Se presentarán el 21, 23 y 24 de octubre en el Estadio Único de La Plata",
         "pubDate": "2026-10-20T16:45:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Newell's mira la tabla y se ilusiona con los playoffs: qué necesita la Lepra para clasificar",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-mira-la-tabla-y-se-ilusiona-los-playoffs-que-necesita-la-lepra-clasificar-n10287646.html",
-        "image": "https://media.lacapital.com.ar/p/e1a57024438a65c09030ae7209cf5266/adjuntos/203/imagenes/103/474/0103474532/fdk9.jpeg",
-        "summary": "La Lepra venció a Central Córdoba y se acomodó en la Zona A, pero tendrá una final ante San Lorenzo para soñar con meterse en los octavos de final",
-        "pubDate": "2026-10-20T16:44:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Ansés continúa su cronograma de pagos: a quiénes les falta cobrar en octubre",
-        "link": "https://www.lacapital.com.ar/informacion-general/anses-continua-su-cronograma-pagos-quienes-les-falta-cobrar-octubre-n10287698.html",
-        "image": "https://media.lacapital.com.ar/p/59e9e9b9231f66b22d4e22d63199f6e6/adjuntos/203/imagenes/102/185/0102185137/1200x675/smart/ansesjpg.jpg",
-        "summary": "El organismo continúa con su cronograma de pago de jubilaciones, pensiones y asignaciones familiares en octubre. Toda la información relevante, en esta nota",
-        "pubDate": "2026-10-20T16:44:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La cosecha de maíz en Estados Unidos avanza al 33% y presiona los precios",
-        "link": "https://www.lacapital.com.ar/agro/la-cosecha-maiz-estados-unidos-avanza-al-33-y-presiona-los-precios-n10287699.html",
-        "image": "https://media.lacapital.com.ar/p/eb0628e9788cea844763287fd569ef25/adjuntos/203/imagenes/007/048/0007048328/1200x675/smart/a-full-la-cosecha-soja-y-maiz-se-retomo-luego-que-la-lluvia-interrumpiera-las-labores.jpg",
-        "summary": "El mercado internacional de granos enfrenta la presión de la cosecha norteamericana y los mayores stocks proyectados por el Usda, aunque las bajas reactivan la demanda. En Argentina, la siembra de maíz alcanza el 34,8% del área prevista, la soja todavía no despega",
-        "pubDate": "2026-10-20T16:40:00+00:00",
         "approxTime": false
       }
     ]
