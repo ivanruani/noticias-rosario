@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-20T11:01:11.942626+00:00",
+  "generatedAt": "2026-10-20T11:31:00.532116+00:00",
   "sites": {
     "rosario3": [
       {
         "source": "Rosario3",
-        "title": "Siniestro fatal en Circunvalación, en el mismo lugar donde volcó un camión con trigo: hay grandes demoras en el tránsito",
+        "title": "Siniestro fatal en Circunvalación, en el mismo lugar donde volcó un camión con trigo: hay demoras, pero el tránsito fue liberado",
         "link": "https://www.rosario3.com/policiales/siniestro-fatal-en-circunvalacion-en-el-mismo-lugar-donde-volco-un-camion-con-trigo-hay-grandes-demoras-en-el-transito-20261020-0006.html",
-        "image": "https://www.rosario3.com/__export/1792490953346/sites/rosario3/img/2026/10/20/image_-39-.jpg_928314581.jpg",
+        "image": "https://www.rosario3.com/__export/1792494358946/sites/rosario3/img/2026/10/20/image_-40-.jpg_928314580.jpg",
         "summary": "Ocurrió cerca de las 5 de la mañana en el sentido sur-norte. Médicos del Sies confirmaron el fallecimiento en el lugar. El choque se dio entre dos motos. Horas antes, un camión había dejado la calzada llena de cereal. Aconsejan evitar la zona aunque el tránsito está liberado",
         "pubDate": "2026-10-20T12:00:00+00:00",
         "approxTime": true
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Dengue en Santa Fe: el primer caso confirmado de la temporada es importado",
+        "link": "https://www.lacapital.com.ar/la-ciudad/dengue-santa-fe-el-primer-caso-confirmado-la-temporada-es-importado-n10287610.html",
+        "image": "https://media.lacapital.com.ar/p/a5c249f81cb3e66413ba2194bf6cbb9c/adjuntos/203/imagenes/028/326/0028326172/1200x675/smart/17_lc_75735751__29-05-2020__200x870jpg.jpg",
+        "summary": "Santa Fe notificó 74 casos de dengue en el inicio de la temporada. El único confirmado corresponde a una mujer de Rosario que viajó a Perú",
+        "pubDate": "2026-10-20T11:27:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Cortaron avenida Circunvalación tras un choque fatal en la zona oeste",
         "link": "https://www.lacapital.com.ar/la-ciudad/cortaron-avenida-circunvalacion-un-choque-fatal-la-zona-oeste-n10287604.html",
         "image": "https://media.lacapital.com.ar/p/4415a239fec87f4bce15619f0592a25b/adjuntos/203/imagenes/103/480/0103480052/choque-circunvalacion-presidente-peron.jpg",
@@ -204,19 +213,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Central debe descontar puntos todavía pero el fixture le da buenas señales para ir por todo",
-        "link": "https://www.lacapital.com.ar/ovacion/central-debe-descontar-puntos-todavia-pero-el-fixture-le-da-buenas-senales-ir-todo-n10287479.html",
-        "image": "https://media.lacapital.com.ar/p/de898ec44eb64abc308566fc3241471a/adjuntos/203/imagenes/103/478/0103478577/1200x675/smart/image-29.jpg",
-        "summary": "El equipo de Jorge Almirón tiene dos equipos por delante en la tabla anual, a un punto, pero las tres fechas que restan le dan buenas perspectivas",
+        "title": "Fenómeno El Niño: aplicarán sanciones más severas para quienes arrojen residuos en lugares no habilitados",
+        "link": "https://www.lacapital.com.ar/la-ciudad/fenomeno-el-nino-aplicaran-sanciones-mas-severas-quienes-arrojen-residuos-lugares-no-habilitados-n10287489.html",
+        "image": "https://media.lacapital.com.ar/p/09c48504ecc4c14c3ed928e37e46a532/adjuntos/203/imagenes/102/374/0102374456/1200x675/smart/basura01jpg.jpg",
+        "summary": "La medida forma parte de un plan anunciado por el municipio para reducir riesgos ante el aumento de las precipitaciones durante esta primavera verano",
         "pubDate": "2026-10-20T09:10:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Fenómeno El Niño: aplicarán sanciones más severas para quienes arrojen residuos en lugares no habilitados",
-        "link": "https://www.lacapital.com.ar/la-ciudad/fenomeno-el-nino-aplicaran-sanciones-mas-severas-quienes-arrojen-residuos-lugares-no-habilitados-n10287489.html",
-        "image": "https://media.lacapital.com.ar/p/09c48504ecc4c14c3ed928e37e46a532/adjuntos/203/imagenes/102/374/0102374456/1200x675/smart/basura01jpg.jpg",
-        "summary": "La medida forma parte de un plan anunciado por el municipio para reducir riesgos ante el aumento de las precipitaciones durante esta primavera verano",
+        "title": "Central debe descontar puntos todavía pero el fixture le da buenas señales para ir por todo",
+        "link": "https://www.lacapital.com.ar/ovacion/central-debe-descontar-puntos-todavia-pero-el-fixture-le-da-buenas-senales-ir-todo-n10287479.html",
+        "image": "https://media.lacapital.com.ar/p/de898ec44eb64abc308566fc3241471a/adjuntos/203/imagenes/103/478/0103478577/1200x675/smart/image-29.jpg",
+        "summary": "El equipo de Jorge Almirón tiene dos equipos por delante en la tabla anual, a un punto, pero las tres fechas que restan le dan buenas perspectivas",
         "pubDate": "2026-10-20T09:10:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/c7d471e029fa3ff23747c78f55e10f2f/adjuntos/203/imagenes/103/479/0103479515/1200x675/smart/image-1.jpg",
         "summary": "El extremo derecho volvió a ser el desequilibrante arriba. Intervino en los goles del triunfo de Newell's sobre Central Córdoba. El mejor del uno x uno leproso",
         "pubDate": "2026-10-20T00:36:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Con la fuerza del deseo, Newell's se recuperó rápido, ganó y se arrimó más al objetivo tan buscado",
-        "link": "https://www.lacapital.com.ar/ovacion/con-la-fuerza-del-deseo-newells-se-recupero-rapido-gano-y-se-arrimo-mas-al-objetivo-tan-buscado-n10287542.html",
-        "image": "https://media.lacapital.com.ar/p/166d6eae2141aca4d744421ff6b0a4c1/adjuntos/203/imagenes/103/479/0103479721/1200x675/smart/image-3.jpg",
-        "summary": "El conjunto de Frank Kudelka asumió el compromiso como se debía en el Coloso, venció a Central Córdoba por un 2 a 1 y se afirma en los puestos de clasificación",
-        "pubDate": "2026-10-20T00:31:00+00:00",
         "approxTime": false
       }
     ]
