@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T21:31:02.546954+00:00",
+  "generatedAt": "2026-10-20T22:01:11.017042+00:00",
   "sites": {
     "rosario3": [
       {
@@ -112,19 +112,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "Peligro en las Altas Cumbres: un camión volcó en plena curva, perdió el acoplado y la secuencia quedó grabada",
-        "link": "https://www.rosario3.com/informaciongeneral/peligro-en-las-altas-cumbres-un-camion-volco-en-plena-curva-perdio-el-acoplado-y-la-secuencia-quedo-grabada-20261020-0067.html",
-        "image": "https://www.rosario3.com/__export/1792525485265/sites/rosario3/img/2026/10/20/camion_volcado.jpg_928314581.jpg",
-        "summary": "El siniestro ocurrió en una curva de la ruta provincial E-34, en Córdoba. El vehículo transportaba fertilizantes y el conductor resultó ileso. La secuencia quedó registrada en video",
+        "title": "Champions League: PSG le ganó al Barcelona en un partidazo, Mac Allister brilló con un doblete y Julián Álvarez cortó la sequía",
+        "link": "https://www.rosario3.com/deportes/champions-league-psg-le-gano-al-barcelona-en-un-partidazo-mac-allister-brillo-con-un-doblete-y-julian-alvarez-corto-la-sequia-20261020-0078.html",
+        "image": "https://www.rosario3.com/__export/1792532123590/sites/rosario3/img/2026/10/20/b33f9b83bf835f95bd71af24ef8c4d084cada81e.jpg_928314581.jpg",
+        "summary": "La tercera fecha de la fase liga tuvo una jornada cargada de goles. El equipo parisino venció 4-2 al conjunto catalán, mientras que los Reds superaron 4-3 al Villarreal después de empezar dos tantos abajo. También ganó el Manchester City y hubo triunfos de Roma y PSV",
         "pubDate": "2026-10-20T11:48:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "La Cámara de Casación definió que habrá un juicio unificado para las causas Hotesur y Los Sauces",
-        "link": "https://www.rosario3.com/politica/la-camara-de-casacion-definio-que-habra-un-juicio-unificado-para-las-causas-hotesur-y-los-sauces-20261020-0064.html",
-        "image": "https://www.rosario3.com/__export/1792524790867/sites/rosario3/img/2026/10/20/hotesur_1.jpg_1768679257.jpg",
-        "summary": "El proceso es contra Cristina y Máximo Kirchner. El comienzo del debate está fijado para este viernes a las 10 de la mañana",
+        "title": "Peligro en las Altas Cumbres: un camión volcó en plena curva, perdió el acoplado y la secuencia quedó grabada",
+        "link": "https://www.rosario3.com/informaciongeneral/peligro-en-las-altas-cumbres-un-camion-volco-en-plena-curva-perdio-el-acoplado-y-la-secuencia-quedo-grabada-20261020-0067.html",
+        "image": "https://www.rosario3.com/__export/1792525485265/sites/rosario3/img/2026/10/20/camion_volcado.jpg_928314581.jpg",
+        "summary": "El siniestro ocurrió en una curva de la ruta provincial E-34, en Córdoba. El vehículo transportaba fertilizantes y el conductor resultó ileso. La secuencia quedó registrada en video",
         "pubDate": "2026-10-20T11:47:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,24 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Rosario se prepara para otros cinco días sin sol: anuncian lluvias, tormentas y ráfagas de viento",
+        "link": "https://www.lacapital.com.ar/la-ciudad/rosario-se-prepara-otros-cinco-dias-sol-anuncian-lluvias-tormentas-y-rafagas-viento-n10287771.html",
+        "image": "https://media.lacapital.com.ar/p/4b910f8dac681874b45b5cd380e33379/adjuntos/203/imagenes/103/452/0103452554/1200x675/smart/lluvia.jpg",
+        "summary": "El Servicio Meteorológico Nacional anticipa un período de marcada inestabilidad desde este miércoles hasta el domingo.",
+        "pubDate": "2026-10-20T21:50:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "\"Milei se burló de la gente que no llega a fin de mes con un cinismo desconocido\", cuestionó Kicillof",
+        "link": "https://www.lacapital.com.ar/politica/milei-se-burlo-la-gente-que-no-llega-fin-mes-un-cinismo-desconocido-cuestiono-kicillof-n10287761.html",
+        "image": "https://media.lacapital.com.ar/p/b1a3ab769bf92475ea8f6e031dab4775/adjuntos/203/imagenes/103/482/0103482178/1200x675/smart/ak2.jpg",
+        "summary": "El gobernador de Buenos Aires cruzó al presidente por sus dichos sobre el poder adquisitivo y lo acusó de “ignorar” la realidad de la calle",
+        "pubDate": "2026-10-20T21:48:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Esgrima: el rosarino Franco Marchetti hizo historia en la Copa del Mundo con un oro y una plata",
@@ -159,10 +177,10 @@
       },
       {
         "source": "La Capital",
-        "title": "Escándalo por el desvío de fondos judiciales: el exfiscal Ríos Artacho seguirá preso",
-        "link": "https://www.lacapital.com.ar/policiales/escandalo-el-desvio-fondos-judiciales-el-exfiscal-rios-artacho-seguira-preso-n10287733.html",
+        "title": "Ratificaron la prisión del exfiscal Ríos Artacho por el millonario desvío de fondos judiciales",
+        "link": "https://www.lacapital.com.ar/policiales/ratificaron-la-prision-del-exfiscal-rios-artacho-el-millonario-desvio-fondos-judiciales-n10287733.html",
         "image": "https://media.lacapital.com.ar/p/8489b3b01cdef051bd38badd5e2d94b0/adjuntos/203/imagenes/103/374/0103374522/1200x675/smart/mariano-rios-artacho.jpg",
-        "summary": "La Cámara ratificó la prisión preventiva del exfuncionario y otros cuatro acusados por el desvío de $425 millones. Ríos Artacho atribuyó las maniobras a sus problemas con el juego, pero la Justicia sostuvo la hipótesis de una asociación ilícita que operó durante años.",
+        "summary": "La Cámara confirmó la prisión preventiva del exfuncionario y otros cuatro acusados por el desvío de $425 millones. Ríos Artacho atribuyó las maniobras a sus problemas con el juego, pero la Justicia sostuvo la hipótesis de una asociación ilícita que operó durante años.",
         "pubDate": "2026-10-20T20:49:00+00:00",
         "approxTime": false
       },
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/68f140911124d865f3e31572b9ab78a9/adjuntos/203/imagenes/103/481/0103481625/1200x675/smart/image-7.png",
         "summary": "Proveniente de la medicina india, esta bebida es reconocida por su sabor especiado y propiedades antiinflamatorias",
         "pubDate": "2026-10-20T18:24:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Con cupos completos, comenzaron los cursos de gasista matriculado en el departamento San Martín",
-        "link": "https://www.lacapital.com.ar/la-region/con-cupos-completos-comenzaron-los-cursos-gasista-matriculado-el-departamento-san-martin-n10287640.html",
-        "image": "https://media.lacapital.com.ar/p/4c04324d7f8ea9d1cae5d90fad18b88b/adjuntos/203/imagenes/103/480/0103480592/1200x675/smart/motta-gasista.jpeg",
-        "summary": "Con el avance de los gasoductos de las rutas 20 y 34, ejecutados por el gobierno provincial, se abren nuevas perspectivas de trabajo vinculadas a las instalaciones domiciliarias",
-        "pubDate": "2026-10-20T18:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Giuliano: \"En Santa Fe tenemos la energía eléctrica más cara de toda la Argentina\"",
-        "link": "https://www.lacapital.com.ar/politica/giuliano-en-santa-fe-tenemos-la-energia-electrica-mas-cara-toda-la-argentina-n10287713.html",
-        "image": "https://media.lacapital.com.ar/p/e6bc2a412c088294686388cf877f2fdd/adjuntos/203/imagenes/103/481/0103481572/1200x675/smart/image.png",
-        "summary": "El diputado nacional recorrió el departamento Belgrano, donde mantuvo encuentros con representantes del sector industrial, dirigentes sindicales y referentes institucionales. Advirtió sobre el impacto de las tarifas en las familias y la crisis que atraviesan las pymes",
-        "pubDate": "2026-10-20T17:50:00+00:00",
         "approxTime": false
       }
     ]
