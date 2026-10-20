@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T17:32:01.087455+00:00",
+  "generatedAt": "2026-10-20T18:01:11.524728+00:00",
   "sites": {
     "rosario3": [
       {
@@ -103,11 +103,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "A seis meses de la muerte de Luis Brandoni, su esposa compartió una emotiva carta que le envió Robert De Niro",
+        "link": "https://www.rosario3.com/ocio/a-seis-meses-de-la-muerte-de-luis-brandoni-su-esposa-compartio-una-emotiva-carta-que-le-envio-robert-de-niro-20261020-0047.html",
+        "image": "https://www.rosario3.com/__export/1792516139517/sites/rosario3/img/2026/10/20/carta_robert_de_niro_.png_786111822.png",
+        "summary": "Saula Benavente recordó al actor con una publicación en redes sociales y mostró el mensaje manuscrito que el artista estadounidense le envió para expresar sus condolencias",
+        "pubDate": "2026-10-20T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Nación volvió a postergar la puesta en marcha del Fondo de Asistencia Laboral y extendió el período de carencia",
         "link": "https://www.rosario3.com/-economia-negocios-agro-/nacion-volvio-a-postergar-la-puesta-en-marcha-del-fondo-de-asistencia-laboral-y-extendio-el-periodo-de-carencia-20261020-0041.html",
         "image": "https://www.rosario3.com/__export/1792512202722/sites/rosario3/img/2026/10/20/mteyss-ministerio-001_version1792512202198.jpg_752808283.jpg",
         "summary": "El régimen destinado a asistir a los empleadores privados en el pago de indemnizaciones comenzará a regir el 1° de diciembre. Además, el plazo inicial de acumulación de recursos pasó de seis a 12 meses. La medida fue publicada este martes en el Boletín Oficial",
-        "pubDate": "2026-10-20T11:49:00+00:00",
+        "pubDate": "2026-10-20T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +125,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/santa-fe-actualizo-la-guia-de-alimentacion-infantil-con-foco-en-la-prevencion-del-consumo-de-ultraprocesados-20261020-0036.html",
         "image": "https://www.rosario3.com/__export/1792511064295/sites/rosario3/img/2026/10/20/comida_sana_nixos.png_786111822.png",
         "summary": "El documento reúne recomendaciones para la alimentación de niñas y niños de 0 a 36 meses e incorpora pautas para promover la lactancia materna, respetar las señales de hambre y saciedad y reducir la exposición a la publicidad de productos ultraprocesados y bebidas azucaradas…",
-        "pubDate": "2026-10-20T11:48:00+00:00",
+        "pubDate": "2026-10-20T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,20 +134,56 @@
         "link": "https://www.rosario3.com/informaciongeneral/se-suspendio-la-indagatoria-a-la-partera-dolly-por-una-cuestion-de-salud-20261020-0030.html",
         "image": "https://www.rosario3.com/__export/1792506244783/sites/rosario3/img/2022/11/17/tribunal_federal_jpg_1756841869.jpg_928314580.jpg",
         "summary": "La mujer, que debía comparecer este martes ante la Justicia federal, alegó estar descompuesta. De momento, se desconoce para cuándo se podrá reprogramar",
-        "pubDate": "2026-10-20T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "A los 82 años murió el actor Antonio Grimau",
-        "link": "https://www.rosario3.com/ocio/a-los-82-anos-murio-el-actor-antonio-grimau-20261020-0024.html",
-        "image": "https://www.rosario3.com/__export/1792502643986/sites/rosario3/img/2026/10/20/antonio_grimau.jpg_54252853.jpg",
-        "summary": "El deceso fue confirmado por la Asociación Argentina de Actores. El 2005, la institución y el Senado de la Nación le habían otorgado el Premio Podestá a la Trayectoria Honorable, en reconocimiento a su recorrido artístico que abarca teatro, cine, televisión y series",
         "pubDate": "2026-10-20T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Giuliano: \"En Santa Fe tenemos la energía eléctrica más cara de toda la Argentina\"",
+        "link": "https://www.lacapital.com.ar/politica/giuliano-en-santa-fe-tenemos-la-energia-electrica-mas-cara-toda-la-argentina-n10287713.html",
+        "image": "https://media.lacapital.com.ar/p/e6bc2a412c088294686388cf877f2fdd/adjuntos/203/imagenes/103/481/0103481572/1200x675/smart/image.png",
+        "summary": "El diputado nacional recorrió el departamento Belgrano, donde mantuvo encuentros con representantes del sector industrial, dirigentes sindicales y referentes institucionales. Advirtió sobre el impacto de las tarifas en las familias y la crisis que atraviesan las pymes",
+        "pubDate": "2026-10-20T17:50:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Santa Fe busca agilizar la protección de víctimas de violencia de género: las claves del proyecto",
+        "link": "https://www.lacapital.com.ar/la-ciudad/santa-fe-busca-agilizar-la-proteccion-victimas-violencia-genero-las-claves-del-proyecto-n10287632.html",
+        "image": "https://media.lacapital.com.ar/p/3c35b0378f170084a934c4407cc54acc/adjuntos/203/imagenes/103/193/0103193634/1200x675/smart/image-93.jpg",
+        "summary": "El proyecto establece niveles de riesgo, medidas judiciales urgentes, tobilleras duales y un registro digital para mejorar la protección de las víctimas",
+        "pubDate": "2026-10-20T17:38:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Netflix sumó una película de hace 10 años con Ben Affleck y Anna Kendrick",
+        "link": "https://www.lacapital.com.ar/zoom/netflix-sumo-una-pelicula-hace-10-anos-ben-affleck-y-anna-kendrick-n10287695.html",
+        "image": "https://media.lacapital.com.ar/p/00cb52a086783c51b7315ac5c8b9637b/adjuntos/203/imagenes/103/481/0103481396/1200x675/smart/image-4.png",
+        "summary": "Dirigida por Gavin O’Connor, la producción de thriller y acción sigue a un contador con habilidades para los números y las artes marciales",
+        "pubDate": "2026-10-20T17:37:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Pullaro, Frigerio y Llaryora preguntan a Milei qué hará con los dólares de la minería y energía",
+        "link": "https://www.lacapital.com.ar/politica/pullaro-frigerio-y-llaryora-preguntan-milei-que-hara-los-dolares-la-mineria-y-energia-n10287709.html",
+        "image": "https://media.lacapital.com.ar/p/8ae35f44e22ca91cacafdd38ab4e8e11/adjuntos/203/imagenes/103/481/0103481521/1200x675/smart/pullaro-frigerio-llaryora.jpeg",
+        "summary": "El gobernador santafesino sostuvo que la Región Centro debe participar en el debate nacional sobre el destino de las divisas que generarán esas actividades",
+        "pubDate": "2026-10-20T17:34:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Anmat ordenó inmovilizar un lote de un medicamento de la firma Bayer S.A",
+        "link": "https://www.lacapital.com.ar/informacion-general/anmat-ordeno-inmovilizar-un-lote-un-medicamento-la-firma-bayer-sa-n10287700.html",
+        "image": "https://media.lacapital.com.ar/p/8c0d1c69e71cd921b4db96269723f98b/adjuntos/203/imagenes/103/481/0103481493/1200x675/smart/image-6.png",
+        "summary": "El organismo recibió reportes de reacciones adversas graves y poco frecuentes aparentemente vinculadas a un desvío de calidad del lote en cuestión. Se tomó la decisión de prohibirlo.",
+        "pubDate": "2026-10-20T17:27:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Violencia narco en el cordón industrial: nueve acusados en una banda vinculada a resonante crimen",
@@ -204,19 +249,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Ansés continúa su cronograma de pagos: a quiénes les falta cobrar en octubre",
-        "link": "https://www.lacapital.com.ar/informacion-general/anses-continua-su-cronograma-pagos-quienes-les-falta-cobrar-octubre-n10287698.html",
-        "image": "https://media.lacapital.com.ar/p/59e9e9b9231f66b22d4e22d63199f6e6/adjuntos/203/imagenes/102/185/0102185137/1200x675/smart/ansesjpg.jpg",
-        "summary": "El organismo continúa con su cronograma de pago de jubilaciones, pensiones y asignaciones familiares en octubre. Toda la información relevante, en esta nota",
+        "title": "Newell's mira la tabla y se ilusiona con los playoffs: qué necesita la Lepra para clasificar",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-mira-la-tabla-y-se-ilusiona-los-playoffs-que-necesita-la-lepra-clasificar-n10287646.html",
+        "image": "https://media.lacapital.com.ar/p/e1a57024438a65c09030ae7209cf5266/adjuntos/203/imagenes/103/474/0103474532/fdk9.jpeg",
+        "summary": "La Lepra venció a Central Córdoba y se acomodó en la Zona A, pero tendrá una final ante San Lorenzo para soñar con meterse en los octavos de final",
         "pubDate": "2026-10-20T16:44:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Newell's mira la tabla y se ilusiona con los playoffs: qué necesita la Lepra para clasificar",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-mira-la-tabla-y-se-ilusiona-los-playoffs-que-necesita-la-lepra-clasificar-n10287646.html",
-        "image": "https://media.lacapital.com.ar/p/e1a57024438a65c09030ae7209cf5266/adjuntos/203/imagenes/103/474/0103474532/fdk9.jpeg",
-        "summary": "La Lepra venció a Central Córdoba y se acomodó en la Zona A, pero tendrá una final ante San Lorenzo para soñar con meterse en los octavos de final",
+        "title": "Ansés continúa su cronograma de pagos: a quiénes les falta cobrar en octubre",
+        "link": "https://www.lacapital.com.ar/informacion-general/anses-continua-su-cronograma-pagos-quienes-les-falta-cobrar-octubre-n10287698.html",
+        "image": "https://media.lacapital.com.ar/p/59e9e9b9231f66b22d4e22d63199f6e6/adjuntos/203/imagenes/102/185/0102185137/1200x675/smart/ansesjpg.jpg",
+        "summary": "El organismo continúa con su cronograma de pago de jubilaciones, pensiones y asignaciones familiares en octubre. Toda la información relevante, en esta nota",
         "pubDate": "2026-10-20T16:44:00+00:00",
         "approxTime": false
       },
@@ -227,51 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/eb0628e9788cea844763287fd569ef25/adjuntos/203/imagenes/007/048/0007048328/1200x675/smart/a-full-la-cosecha-soja-y-maiz-se-retomo-luego-que-la-lluvia-interrumpiera-las-labores.jpg",
         "summary": "El mercado internacional de granos enfrenta la presión de la cosecha norteamericana y los mayores stocks proyectados por el Usda, aunque las bajas reactivan la demanda. En Argentina, la siembra de maíz alcanza el 34,8% del área prevista, la soja todavía no despega",
         "pubDate": "2026-10-20T16:40:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Tragedia de San Cristóbal: el MPA pide que la causa no pase del fuero penal al familiar",
-        "link": "https://www.lacapital.com.ar/la-region/tragedia-san-cristobal-el-mpa-pide-que-la-causa-no-pase-del-fuero-penal-al-familiar-n10287691.html",
-        "image": "https://media.lacapital.com.ar/p/07a49eb48f86e17334cbdc0455163508/adjuntos/203/imagenes/103/480/0103480824/escuela-normal-mariano-moreno-san-cristobal.png",
-        "summary": "El juez José Boaglio sobreseyó al joven de 15 años que asesinó a un compañero de escuela",
-        "pubDate": "2026-10-20T16:08:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Casa FOA llega a Rosario: fechas, sede, propuestas y los pasos para ser expositor",
-        "link": "https://www.lacapital.com.ar/negocios/casa-foa-llega-rosario-fechas-sede-propuestas-y-los-pasos-ser-expositor-n10287512.html",
-        "image": "https://media.lacapital.com.ar/p/74b6aabf66402862edb3610a99040a5c/adjuntos/203/imagenes/103/479/0103479275/whatsapp-image-2026-10-19-at-175353.jpeg",
-        "summary": "En alianza con el desarrollo Midtown, la megamuestra de diseño tendrá un evento único en Rosario que conectará a profesionales, marcas y empresas del sector",
-        "pubDate": "2026-10-20T15:49:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Reconocieron el cuerpo de uno de los navegantes que desparecieron en Fray Luis Beltrán",
-        "link": "https://www.lacapital.com.ar/la-region/reconocieron-el-cuerpo-uno-los-navegantes-que-desparecieron-fray-luis-beltran-n10287676.html",
-        "image": "https://media.lacapital.com.ar/p/b12e01a724936c0bd2e31264449eeaa1/adjuntos/203/imagenes/100/168/0100168787/1200x675/smart/instituto-medico-legaljpg.jpg",
-        "summary": "Se trata del cadáver que apareció anoche en la ribera de Villa Gobernador Gálvez. Sus familiares lo identificaron por un tatuaje y un teléfono celular",
-        "pubDate": "2026-10-20T15:28:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Villa Constitución: continúa la obra de saneamiento del desagüe de avenida Presidente Perón",
-        "link": "https://www.lacapital.com.ar/la-region/villa-constitucion-continua-la-obra-saneamiento-del-desague-avenida-presidente-peron-n10287637.html",
-        "image": "https://media.lacapital.com.ar/p/db2cedde741404efb2eaa3d34b9088a8/adjuntos/203/imagenes/103/480/0103480524/1200x675/smart/vconstit-obras2.jpeg",
-        "summary": "Son trabajos que corresponden a la primera etapa de la interveción para mejorar el drenaje y evitar anegammientos en distitnos puntos de la traza",
-        "pubDate": "2026-10-20T15:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Santa Fe cuestionó el recorte de Remediar: \"El Estado tiene que garantizar los medicamentos\"",
-        "link": "https://www.lacapital.com.ar/la-ciudad/santa-fe-cuestiono-el-recorte-remediar-el-estado-tiene-que-garantizar-los-medicamentos-n10287653.html",
-        "image": "https://media.lacapital.com.ar/p/68c177a32ccf7cc5990490c16f5ecd5a/adjuntos/203/imagenes/103/480/0103480765/1200x675/smart/remediar-santa-fe.png",
-        "summary": "La ministra de Salud criticó la decisión de la Nación y aseguró que Santa Fe prevé que los botiquines nacionales de medicamentos desaparezcan en 2027",
-        "pubDate": "2026-10-20T14:54:00+00:00",
         "approxTime": false
       }
     ]
