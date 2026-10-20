@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T14:01:14.196901+00:00",
+  "generatedAt": "2026-10-20T14:31:05.862742+00:00",
   "sites": {
     "rosario3": [
       {
@@ -76,11 +76,29 @@
       },
       {
         "source": "Rosario3",
+        "title": "Un informe de la televisión chilena denunció el descarte de placas y tributos argentinos en el Cementerio de Darwin",
+        "link": "https://www.rosario3.com/informaciongeneral/un-informe-de-la-television-chilena-denuncio-el-descarte-de-placas-y-tributos-argentinos-en-el-cementerio-de-darwin-20261020-0027.html",
+        "image": "https://www.rosario3.com/__export/1792503608812/sites/rosario3/img/2026/10/20/cementerio-darwin.jpg_928314580.jpg",
+        "summary": "Un reporte mostró el amontonamiento de objetos conmemorativos y ofrendas personales detrás del cerco del cenotafio militar en las Islas Malvinas",
+        "pubDate": "2026-10-20T11:52:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Identificaron a tres alumnos en Mendoza por la difusión de fotos y un video íntimo de una docente",
+        "link": "https://www.rosario3.com/informaciongeneral/identificaron-a-tres-alumnos-en-mendoza-por-la-difusion-de-fotos-y-un-video-intimo-de-una-docente-20261020-0025.html",
+        "image": "https://www.rosario3.com/__export/1792502349748/sites/rosario3/img/2026/10/20/escuela-mendoza.jpg_928314580.jpg",
+        "summary": "Los estudiantes de una escuela técnica de San Martín accedieron a la cuenta personal de la profesora en una computadora del establecimiento. La Justicia y la Dirección General de Escuelas investigan la filtración del material compartido por WhatsApp",
+        "pubDate": "2026-10-20T11:51:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Cinco tiros a un taxi estacionado en Bolivia y Pellegrini",
         "link": "https://www.rosario3.com/policiales/cinco-tiros-a-un-taxi-estacionado-en-bolivia-y-pellegrini-20261020-0018.html",
         "image": "https://www.rosario3.com/__export/1792255841795/sites/rosario3/img/2026/09/13/policia.jpg_1825222445.jpg",
         "summary": "Ocurrió en la madrugada de este martes, cuando desde un auto abrieron fuego contra un Cronos. Aparentemente, en junio había ocurrido otra balacera contra el domicilio del taxista",
-        "pubDate": "2026-10-20T11:52:00+00:00",
+        "pubDate": "2026-10-20T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -89,7 +107,7 @@
         "link": "https://www.rosario3.com/policiales/rompieron-una-puerta-con-un-ladrillo-y-robaron-un-televisor-y-una-notebook-en-un-bar-de-puerto-norte-20261020-0020.html",
         "image": "https://www.rosario3.com/__export/1792504489205/sites/rosario3/img/2026/10/20/1000187876-01_jpeg_version1792504487926.jpg_1115470892.jpg",
         "summary": "El robo ocurrió durante la madrugada de este martes en el local gastronómico Fatto, ubicado en Carballo al 166. Un comerciante de la zona aseguró que ya hubo otros hechos delictivos en el sector, que cuenta con seguridad privada",
-        "pubDate": "2026-10-20T11:51:00+00:00",
+        "pubDate": "2026-10-20T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -98,34 +116,16 @@
         "link": "https://www.rosario3.com/ocio/a-los-82-anos-murio-el-actor-antonio-grimau-20261020-0024.html",
         "image": "https://www.rosario3.com/__export/1792502643986/sites/rosario3/img/2026/10/20/antonio_grimau.jpg_54252853.jpg",
         "summary": "El deceso fue confirmado por la Asociación Argentina de Actores. El 2005, la institución y el Senado de la Nación le habían otorgado el Premio Podestá a la Trayectoria Honorable, en reconocimiento a su recorrido artístico que abarca teatro, cine, televisión y series",
-        "pubDate": "2026-10-20T11:50:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Diego Peretti y Rada hablaron de la denuncia por presunta estafa contra Hernán Casciari: ¿lo bancaron?",
-        "link": "https://www.rosario3.com/ocio/diego-peretti-y-rada-hablaron-de-la-denuncia-por-presunta-estafa-contra-hernan-casciari-lo-bancaron-20261020-0014.html",
-        "image": "https://www.rosario3.com/__export/1792498798196/sites/rosario3/img/2026/10/20/fotojet_-_2026-10-20t091850_356_version1792498797601.jpg_1665193837.jpg",
-        "summary": "Ambos actores se refirieron a la denuncia judicial impulsada por 18 socios productores que acusan al escritor de haber promocionado inversiones en contenidos audiovisuales con promesas de rentabilidad que no se habrían concretado. Una de esa producciones es la película La muerte…",
-        "pubDate": "2026-10-20T11:49:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Claves del día: YPF busca a Mercado Libre, Brito apuesta a la carne y los fondos para despidos deberán esperar | Ecos365",
-        "link": "https://www.rosario3.com/ecos365/noticias/claves-del-dia-ypf-busca-a-mercado-libre-brito-apuesta-a-la-carne-y-los-fondos-para-despidos-deberan-esperar-20261020-0001.html",
-        "image": "https://www.rosario3.com/__export/1792490477135/sites/rosario3/img/2026/07/21/360_-5-_-3-.jpg_993571189.jpg",
-        "summary": "Los dólares exportadores baten récords, pero el riesgo país sube. YPF suma alivio judicial; Brito compra ganado y tierra, Coinag mejora su nota, los biocombustibles en Diputados",
         "pubDate": "2026-10-20T11:48:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Kudelka habló de su continuidad en Newell’s: \"Yo voy a decidir mi carrera, no otros\"",
-        "link": "https://www.rosario3.com/deportes/kudelka-hablo-de-su-continuidad-en-newells-yo-voy-a-decidir-mi-carrera-no-otros-20261019-0078.html",
-        "image": "https://www.rosario3.com/__export/1792456843924/sites/rosario3/img/2026/10/19/kudelka_-2-.jpg_504493270.jpg",
-        "summary": "Con cierto enojo, el director técnico leproso respondió sobre la renovación de su contrato, en medio de una semana con rumores que nacieron a partir de la declaración del vocal Carlos Altieri, pero que luego fue contradicha por el vicepresidente Juan Manuel Medina. Además, se…",
-        "pubDate": "2026-10-19T11:47:00+00:00",
+        "title": "Google renovó la estructura de Gemini: las Skills reemplazarán a los Gems e integrarán tareas automatizadas",
+        "link": "https://www.rosario3.com/tecnologia/google-renovo-la-estructura-de-gemini-las-skills-reemplazaran-a-los-gems-e-integraran-tareas-automatizadas-20261020-0029.html",
+        "image": "https://www.rosario3.com/__export/1790952032080/sites/rosario3/img/2026/10/02/gemini-4argon_jpg_815021172.jpg_1221028662.jpg",
+        "summary": "La compañía tecnológica inició un cronograma de actualización para unificar la personalización del asistente dentro del chat principal. El cambio abarca la reconversión de Gems, el renombramiento de agentes Spark bajo la denominación Tarea y la interoperabilidad con Google…",
+        "pubDate": "2026-10-20T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Quedó en libertad el conductor de Uber Moto que abandonó a un pasajero tras un choque",
+        "link": "https://www.lacapital.com.ar/policiales/quedo-libertad-el-conductor-uber-moto-que-abandono-un-pasajero-un-choque-n10287652.html",
+        "image": "https://media.lacapital.com.ar/p/1e3ed4fd728fceec4ab7eccb76cd440c/adjuntos/203/imagenes/102/552/0102552705/1200x675/smart/uber-moto-217.jpg",
+        "summary": "Tiene 36 años y ahora enfrentará una causa judicial por lesiones que sufrió su cliente al derrapar por una loma de burro",
+        "pubDate": "2026-10-20T14:04:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Newell's dispondrá la suspensión de Ignacio Astore y otros dos exdirectivos",
@@ -207,7 +216,7 @@
         "title": "Navegantes desaparecidos en el río Paraná: hallaron un cuerpo en Villa Gobernador Gálvez",
         "link": "https://www.lacapital.com.ar/la-region/navegantes-desaparecidos-el-rio-parana-hallaron-un-cuerpo-villa-gobernador-galvez-n10287607.html",
         "image": "https://media.lacapital.com.ar/p/bc84755021eafd07c7d27de63d814e07/adjuntos/203/imagenes/103/480/0103480296/ahogado-villa-gobernador-galvez.jpeg",
-        "summary": "Prefectura Naval confirmó que se trata de un hombre, aunque no pudieron establecer si se trata de una de las víctimas de Fray Luis Beltrán",
+        "summary": "Prefectura Naval confirmó que se trata de un hombre, aunque no pudieron establecer si es una de las víctimas de Fray Luis Beltrán",
         "pubDate": "2026-10-20T12:24:00+00:00",
         "approxTime": false
       },
@@ -262,15 +271,6 @@
         "link": "https://www.lacapital.com.ar/agro/cultivos-servicio-el-potencial-la-mostaza-cuidar-el-suelo-n10286313.html",
         "image": "https://media.lacapital.com.ar/p/9c74f773464687af14b1a0b0c31f06fd/adjuntos/203/imagenes/103/464/0103464395/1200x675/smart/mostaza.jpg",
         "summary": "Investigadores estudian su capacidad biofumigante y sus aportes al manejo de malezas y a la actividad biológica. La evaluación incorpora drones e imágenes satelitales para medir cobertura y biomasa",
-        "pubDate": "2026-10-20T09:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Asociación Rosarina: Central campeón de la A, CGR de la B y ascenso de San Roque en la C",
-        "link": "https://www.lacapital.com.ar/ovacion/asociacion-rosarina-central-campeon-la-a-cgr-la-b-y-ascenso-san-roque-la-c-n10287579.html",
-        "image": "https://media.lacapital.com.ar/p/a21fcb04a5a9d6c32d5e7da3a8de0170/adjuntos/203/imagenes/103/479/0103479658/1200x675/smart/image-2026-10-19t203920535.png",
-        "summary": "El Canalla, dirigido por Ezequiel Gentilo se quedó con título en el círculo superior después de 15 años. Por su parte el Club del Gran Rosario comandado por Pablo Castella hizo historia al ganar la B y San Roque volvió a hacer ruido",
         "pubDate": "2026-10-20T09:15:00+00:00",
         "approxTime": false
       }
