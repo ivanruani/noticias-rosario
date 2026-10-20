@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-20T09:30:58.354979+00:00",
+  "generatedAt": "2026-10-20T09:58:42.482363+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Un camión volcó en la avenida Circunvalación: quedó destruido, derramó cereal y hubo heridos",
+        "link": "https://www.rosario3.com/informaciongeneral/un-camion-volco-en-la-avenida-circunvalacion-quedo-destruido-derramo-cereal-y-hubo-heridos-20261020-0003.html",
+        "image": "https://www.rosario3.com/__export/1792488921669/sites/rosario3/img/2026/10/20/befunky-collage_-10-.jpg_928314581.jpg",
+        "summary": "El siniestro ocurrió este lunes por la noche. Médicos del Sies asistieron a las víctimas, mientras que personal vial debió intervenir para despejar el trigo sobre el pavimento",
+        "pubDate": "2026-10-20T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Caso Dolly: secuestraron documentación del hospital Roque Sáenz Peña y la partera deberá declarar este martes",
         "link": "https://www.rosario3.com/informaciongeneral/caso-dolly-secuestraron-documentacion-del-hospital-roque-saenz-pena-y-la-partera-debera-declarar-este-martes-20261019-0077.html",
         "image": "https://www.rosario3.com/__export/1791906925162/sites/rosario3/img/2026/09/18/tribunales_federales_rosario.jpg_1853120996.jpg",
         "summary": "La Justicia federal obtuvo registros de nacimientos desde 1959 y realizó pruebas de ADN a la mujer de 88 años y a su hija adoptiva en el marco de la investigación por presuntas alteraciones de identidad",
-        "pubDate": "2026-10-19T12:00:00+00:00",
+        "pubDate": "2026-10-19T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,25 +26,16 @@
         "link": "https://www.rosario3.com/deportes/newells-pone-en-juego-su-lugar-en-playoffs-ante-central-cordoba-en-uno-de-los-partios-que-cierra-la-fecha-13-20261016-0067.html",
         "image": "https://www.rosario3.com/__export/1792454783501/sites/rosario3/img/2026/10/19/gomez_mattar_newells.jpg_506286608.jpg",
         "summary": "La Lepra se impuso 2-1 este lunes, por la fecha 13 del campeonato. Jerónimo Gómez Mattar y Santiago Solari marcaron para los rojinegros, mientras que Leonardo Sequeira descontó para el Ferroviario y le puso suspenso al final. El equipo de Kudelka trepó al sexto puesto a falta de…",
-        "pubDate": "2026-10-16T11:59:00+00:00",
+        "pubDate": "2026-10-16T11:58:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Tommy Shelby, Los Menores y una Dodge Ram: la trama narco detrás de una maniobra de lavado",
-        "link": "https://www.rosario3.com/policiales/tommy-shelby-los-menores-y-una-dodge-ram-la-trama-narco-detras-de-una-maniobra-de-lavado-20261019-0073.html",
-        "image": "https://www.rosario3.com/__export/1792451239382/sites/rosario3/img/2026/10/19/dodge_ram_menores.jpg_672794304.jpg",
-        "summary": "Un prófugo de la banda narco Los Menores que se hacía llamar como el protagonista de la serie Peaky Blinders dispuso un testaferro para una Dodge Ram adquirida con fondos de la venta de drogas. Por la maniobra, quedó en prisión preventiva Alex Vallone, allegado a la…",
-        "pubDate": "2026-10-19T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Dos líneas en el crimen de Natalia: la mató su primo, pero había prestamistas que la acechaban",
-        "link": "https://www.rosario3.com/policiales/dos-lineas-en-el-crimen-de-natalia-la-mato-su-primo-pero-habia-prestamistas-que-la-acechaban-20261019-0065.html",
-        "image": "https://www.rosario3.com/__export/1792441035566/sites/rosario3/img/2026/10/19/grandoli_3860_crimen_natalia_gimenez_-alanmonzon.jpg_1096344065.jpg",
-        "summary": "Natalia Giménez fue asesinada a puñaladas en su casa el 27 de septiembre. Su primo, imputado como autor material, había mantenido una relación sentimental con ella. La fiscal investiga si el crimen tiene conexión con una red de préstamos usurarios que también quedó bajo la lupa",
-        "pubDate": "2026-10-19T11:57:00+00:00",
+        "title": "El clima en Rosario: martes estable, con ambiente bien templado, pero con lluvias que se acercan",
+        "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-martes-estable-con-ambiente-bien-templado-pero-con-lluvias-que-se-acercan-20261020-0001.html",
+        "image": "https://www.rosario3.com/__export/1792487974545/sites/rosario3/img/2024/04/07/sol_templado.jpg_54252853.jpg",
+        "summary": "El Servicio Meteorológico Nacional anticipa una jornada sin precipitaciones en la región y con sol entre nubes. Hacia la tarde, el viento se intensificará antes del regreso de la inestabilidad",
+        "pubDate": "2026-10-20T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -49,11 +49,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Dos líneas en el crimen de Natalia: la mató su primo, pero había prestamistas que la acechaban",
+        "link": "https://www.rosario3.com/policiales/dos-lineas-en-el-crimen-de-natalia-la-mato-su-primo-pero-habia-prestamistas-que-la-acechaban-20261019-0065.html",
+        "image": "https://www.rosario3.com/__export/1792441035566/sites/rosario3/img/2026/10/19/grandoli_3860_crimen_natalia_gimenez_-alanmonzon.jpg_1096344065.jpg",
+        "summary": "Natalia Giménez fue asesinada a puñaladas en su casa el 27 de septiembre. Su primo, imputado como autor material, había mantenido una relación sentimental con ella. La fiscal investiga si el crimen tiene conexión con una red de préstamos usurarios que también quedó bajo la lupa",
+        "pubDate": "2026-10-19T11:55:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "La revelación del pibe Gómez Mattar, tras su primer gol en Newell’s: \"Lo había soñado y lo escribí en un chat\"",
         "link": "https://www.rosario3.com/deportes/la-revelacion-del-pibe-gomez-mattar-tras-su-primer-gol-en-newells-lo-habia-sonado-y-lo-escribi-en-un-chat-20261019-0076.html",
         "image": "https://www.rosario3.com/__export/1792455669457/sites/rosario3/img/2026/10/19/gomez_mattar.jpg_506286608.jpg",
         "summary": "El juvenil de 18 años abrió el camino del triunfo rojinegro ante Central Córdoba de Santiago del Estero, en el Coloso. Tras el partido, no ocultó su emoción y felicidad, dijo que va a ser una de las “mejores noches” de su vida y remarcó el buen partido que hizo el equipo",
-        "pubDate": "2026-10-19T11:55:00+00:00",
+        "pubDate": "2026-10-19T11:54:00+00:00",
         "approxTime": true
       },
       {
@@ -62,25 +71,7 @@
         "link": "https://www.rosario3.com/deportes/seguimiento-individual-leproso-mazzantti-y-gomez-mattar-los-destacados-20261019-0075.html",
         "image": "https://www.rosario3.com/__export/1792459598587/sites/rosario3/img/2026/10/19/newells.jpg_506286608.jpg",
         "summary": "El rendimiento de los jugadores de Newell’s que vencieron a Central Córdoba de Santiago del Estero, por la fecha 13",
-        "pubDate": "2026-10-19T11:54:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Milei destacó el crecimiento del sector energético y defendió la desregulación: \"Comenzamos a exportar como nunca\"",
-        "link": "https://www.rosario3.com/informaciongeneral/milei-destaco-el-crecimiento-del-sector-energetico-y-defendio-la-desregulacion-comenzamos-a-exportar-como-nunca-20261019-0072.html",
-        "image": "https://www.rosario3.com/__export/1792453724355/sites/rosario3/img/2026/10/19/milei.jpg_982625323.jpg",
-        "summary": "El presidente sostuvo que el desempeño del sector de petróleo y gas está directamente relacionado con el programa económico de su administración. En ese sentido, destacó el superávit fiscal alcanzado durante el primer mes de gestión y lo definió como un factor de estabilidad…",
         "pubDate": "2026-10-19T11:53:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La Causa Malvinas provocó una imprevista diferencia geopolítica entre Milei y Trump por el Comité de Descolonización de la ONU",
-        "link": "https://www.rosario3.com/politica/la-causa-malvinas-causo-una-imprevista-diferencia-geopolitica-entre-milei-y-trump-por-el-comite-de-descolonizacion-de-la-onu-20261019-0060.html",
-        "image": "https://www.rosario3.com/__export/1792437942038/sites/rosario3/img/2026/10/19/malvinas_.jpg_1768679257.jpg",
-        "summary": "Estados Unidos propone disolver ese comité porque significa “un despilfarro de recursos”, mientras que Argentina sostiene que “es un escenario clave” para reclamar la soberanía en las Islas del Atlántico Sur. La iniciativa beneficia al Reino Unido y perjudica a los intereses…",
-        "pubDate": "2026-10-19T11:52:00+00:00",
         "approxTime": true
       },
       {
@@ -89,7 +80,7 @@
         "link": "https://www.rosario3.com/ocio/la-casa-en-rosario-donde-fito-paez-sono-ser-musico-esta-a-la-venta-un-recorrido-intimo-entre-recuerdos-y-emociones-20261019-0016.html",
         "image": "https://www.rosario3.com/__export/1792423132700/sites/rosario3/img/2026/10/19/fito_piano_portada_rosario3_1250x704.jpg_928314581.jpg",
         "summary": "La casa de la infancia de Fito Páez está a la venta. Rosario3 la recorrió junto a Fabián Gallardo, amigo del músico, quien sueña con convertirla en un museo. Imágenes de ayer y hoy que conforman un hogar donde se gestó uno de los músicos más importantes del país",
-        "pubDate": "2026-10-19T11:51:00+00:00",
+        "pubDate": "2026-10-19T11:52:00+00:00",
         "approxTime": true
       },
       {
@@ -98,7 +89,7 @@
         "link": "https://www.rosario3.com/deportes/la-tabla-anual-al-rojo-vivo-que-les-queda-a-central-y-a-los-otros-cuatro-equipos-separados-por-apenas-dos-puntos-20261019-0069.html",
         "image": "https://www.rosario3.com/__export/1792443158187/sites/rosario3/img/2026/10/11/fideeeeeeee.jpg_1381182483.jpg",
         "summary": "A falta de tres fechas, el Canalla está a una sola unidad de Boca y Argentinos, los líderes. En la mísma línea que los rosarinos está Independiente Rivadavia y apenas abajo Vélez. Qué partidos tiene por delante, el fixture de los rivales directos y los detalles de una definición…",
-        "pubDate": "2026-10-19T11:50:00+00:00",
+        "pubDate": "2026-10-19T11:51:00+00:00",
         "approxTime": true
       },
       {
@@ -107,7 +98,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/un-camion-se-habria-quedado-sin-frenos-y-choco-a-cinco-vehiculos-en-circunvalacion-y-mendoza-20261019-0074.html",
         "image": "https://www.rosario3.com/__export/1792450620140/sites/rosario3/img/2026/10/19/whatsapp_image_2026-10-19_at_19_24_21.jpeg_1825222445.jpeg",
         "summary": "El siniestro vial ocurrió este lunes por la tarde en la zona oeste de Rosario. Entre los rodados involucrados había un auto en el que viajaban un hombre y su hijo y un transporte escolar. No se registraron heridos",
-        "pubDate": "2026-10-19T11:49:00+00:00",
+        "pubDate": "2026-10-19T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +107,7 @@
         "link": "https://www.rosario3.com/policiales/que-se-sabe-de-la-docente-de-52-anos-desaparecida-en-corrientes-hay-dos-detenidos-y-su-familia-cree-que-la-enganaron-20261019-0066.html",
         "image": "https://www.rosario3.com/__export/1792442004846/sites/rosario3/img/2026/10/19/docente_2.jpg_1768679257.jpg",
         "summary": "Nanci Estela Godoy se comunicó por última vez con sus familiares el 7 de octubre; sospechosa coincidencia temporal con la renuncia de un peón de una estancia; las autoridades hallaron cuchillos y ropa con manchas rojas en la casa de un sospechoso",
-        "pubDate": "2026-10-19T11:48:00+00:00",
+        "pubDate": "2026-10-19T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -125,7 +116,7 @@
         "link": "https://www.rosario3.com/policiales/al-acecho-denuncian-dos-salideras-casi-al-mismo-tiempo-en-el-microcentro-rosarino-20261019-0057.html",
         "image": "https://www.rosario3.com/__export/1792435288012/sites/rosario3/img/2026/10/11/policia.jpg_1825222445.jpg",
         "summary": "Un conocido arbolito denunció que le sustrajeron una bolsa con efectivo en Santa Fe y Corrientes. A pocas cuadras, un hombre sufrió el arrebato de una mochila con dólares",
-        "pubDate": "2026-10-19T11:47:00+00:00",
+        "pubDate": "2026-10-19T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -134,11 +125,29 @@
         "link": "https://www.rosario3.com/informaciongeneral/amplian-a-rosario-la-busqueda-de-los-tres-pescadores-que-cayeron-al-rio-en-fray-luis-beltran-la-semana-pasada-20261019-0046.html",
         "image": "https://www.rosario3.com/__export/1792429129689/sites/rosario3/img/2026/10/19/bomberos_rio.jpg_1768679257.jpg",
         "summary": "A cuatro días del naufragio en el Paraná, el rastrillaje bajó hasta el puente Rosario-Victoria. Familias de las víctimas acusaron a Prefectura Naval de inacción y escenificar la búsqueda, mientras allegados hallaron pertenencias por cuenta propia. Sin embargo, desde la fuerza…",
+        "pubDate": "2026-10-19T11:47:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Con tres nominaciones, el Tres vuelve a competir en los Martín Fierro Federal",
+        "link": "https://www.rosario3.com/informaciongeneral/con-tres-nominaciones-el-tres-vuelve-a-competir-en-los-martin-fierro-federal-20261019-0023.html",
+        "image": "https://www.rosario3.com/__export/1792418441474/sites/rosario3/img/2026/10/19/befunky-collage_-9-.jpg_928314581.jpg",
+        "summary": "De 12 a 14, Cada día y Cocinando con Megna competirán por una estatuilla el próximo 31 de octubre. Todos los nominados de Aptra",
         "pubDate": "2026-10-19T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Presupuesto Participativo: todas las obras estarán terminadas o en marcha antes de fin de año",
+        "link": "https://www.lacapital.com.ar/la-ciudad/presupuesto-participativo-todas-las-obras-estaran-terminadas-o-marcha-antes-fin-ano-n10287497.html",
+        "image": "https://media.lacapital.com.ar/p/b03421f8e2029b37d6fba9554a99ae5d/adjuntos/203/imagenes/103/478/0103478625/1200x675/smart/whatsapp-image-2026-10-19-at-143241.jpeg",
+        "summary": "La mayoría de los proyectos elegidos por los vecinos para 2026 apunta a recuperar plazas y transformar espacios degradados. Ya hay intervenciones terminadas y otras en ejecución o próximas a arrancarse",
+        "pubDate": "2026-10-20T09:30:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Cultivos de servicio: el potencial de la mostaza para cuidar el suelo",
@@ -159,19 +168,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Central debe descontar puntos todavía pero el fixture le da buenas señales para ir por todo",
-        "link": "https://www.lacapital.com.ar/ovacion/central-debe-descontar-puntos-todavia-pero-el-fixture-le-da-buenas-senales-ir-todo-n10287479.html",
-        "image": "https://media.lacapital.com.ar/p/de898ec44eb64abc308566fc3241471a/adjuntos/203/imagenes/103/478/0103478577/1200x675/smart/image-29.jpg",
-        "summary": "El equipo de Jorge Almirón tiene dos equipos por delante en la tabla anual, a un punto, pero las tres fechas que restan le dan buenas perspectivas",
+        "title": "El municipio salió a limpiar zanjas de Circunvalación, pero siguen los yuyos en banquina",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-municipio-salio-limpiar-zanjas-circunvalacion-pero-siguen-los-yuyos-banquina-n10287341.html",
+        "image": "https://media.lacapital.com.ar/p/465cdf6328f348710a81e1265f92fd25/adjuntos/203/imagenes/103/479/0103479488/1200x675/smart/circunvala33.jpg",
+        "summary": "Desde hace unos 10 días, al anillo vial que rodea Rosario está en manos de Arcos Portuarios, quien además tiene a su cargo un tramo de la autopista a Buenos Aires y ruta 33.",
         "pubDate": "2026-10-20T09:10:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "El municipio salió a limpiar zanjas de Circunvalación, pero siguen los yuyos en banquina",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-municipio-salio-limpiar-zanjas-circunvalacion-pero-siguen-los-yuyos-banquina-n10287341.html",
-        "image": "https://media.lacapital.com.ar/p/465cdf6328f348710a81e1265f92fd25/adjuntos/203/imagenes/103/479/0103479488/1200x675/smart/circunvala33.jpg",
-        "summary": "Desde hace unos 10 días, al anillo vial que rodea Rosario está en manos de Arcos Portuarios, quien además tiene a su cargo un tramo de la autopista a Buenos Aires y ruta 33.",
+        "title": "Central debe descontar puntos todavía pero el fixture le da buenas señales para ir por todo",
+        "link": "https://www.lacapital.com.ar/ovacion/central-debe-descontar-puntos-todavia-pero-el-fixture-le-da-buenas-senales-ir-todo-n10287479.html",
+        "image": "https://media.lacapital.com.ar/p/de898ec44eb64abc308566fc3241471a/adjuntos/203/imagenes/103/478/0103478577/1200x675/smart/image-29.jpg",
+        "summary": "El equipo de Jorge Almirón tiene dos equipos por delante en la tabla anual, a un punto, pero las tres fechas que restan le dan buenas perspectivas",
         "pubDate": "2026-10-20T09:10:00+00:00",
         "approxTime": false
       },
@@ -262,15 +271,6 @@
         "link": "https://www.lacapital.com.ar/economia/la-balanza-comercial-registro-un-superavit-us-2976-millones-n10287570.html",
         "image": "https://media.lacapital.com.ar/p/9646d9759cd01399949d4ce210fe7456/adjuntos/203/imagenes/102/527/0102527899/1200x675/258x140:278x160/contenedoresjpg.jpg",
         "summary": "China fue el más activo de los socios comerciales de Argentina durante el mes de septiembre",
-        "pubDate": "2026-10-19T22:42:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Mercado: en una jornada agitada el riesgo país arrancó la semana en alza y cerró en 675 puntos",
-        "link": "https://www.lacapital.com.ar/economia/mercado-una-jornada-agitada-el-riesgo-pais-arranco-la-semana-alza-y-cerro-675-puntos-n10287572.html",
-        "image": "https://media.lacapital.com.ar/p/cdf645e59d2c56bf59be8e560e2968c1/adjuntos/203/imagenes/028/759/0028759263/1200x675/smart/mervalijpg.jpg",
-        "summary": "El indicador de JP Morgan subió un 4,2% en una rueda de bajas para los bonos en dólares y las acciones argentinas en Wall Street",
         "pubDate": "2026-10-19T22:42:00+00:00",
         "approxTime": false
       }
