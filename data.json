@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-20T21:01:16.034261+00:00",
+  "generatedAt": "2026-10-20T21:31:02.546954+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Canasta en Rosario: una familia necesitó $1,82 millón en septiembre para no ser pobre",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/canasta-en-rosario-una-familia-necesito-182-millon-en-septiembre-para-no-ser-pobre-20261020-0073.html",
+        "image": "https://www.rosario3.com/__export/1776124764157/sites/rosario3/img/2025/07/14/inflacion.jpg_786111823.jpg",
+        "summary": "Según la Usina de Datos de la UNR, la canasta básica subió un 2,5% mensual. En Radio 2, la investigadora Paula Durán advirtió que los sueldos ya no alcanzan y crece el endeudamiento",
+        "pubDate": "2026-10-20T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "La Provincia confirmó el primer secuestro de criptomonedas en el extranjero en medio de una estafa internacional",
         "link": "https://www.rosario3.com/policiales/la-provincia-confirmo-el-primer-secuestro-de-criptomonedas-en-el-extranjero-en-medio-de-una-estafa-internacional-20261020-0023.html",
         "image": "https://www.rosario3.com/__export/1792502045747/sites/rosario3/img/2026/10/20/fe1.jpg_928314581.jpg",
         "summary": "El secretario de Gestión de Registros Provinciales, Matías Figueroa Escauriza, anunció la intervención estatal que permitirá devolver los activos digitales a los afectados. Además, destacó la masiva participación en las recientes subastas de bienes incautados al delito en Santa…",
-        "pubDate": "2026-10-20T12:00:00+00:00",
+        "pubDate": "2026-10-20T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,15 +26,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/subastaran-un-tercer-departamento-decomisado-en-la-causa-por-lavado-de-la-familia-de-un-jefe-narco-de-carbon-blanco-20261020-0052.html",
         "image": "https://www.rosario3.com/__export/1792517797334/sites/rosario3/img/2026/10/20/1111111.png_928314580.png",
         "summary": "El inmueble está ubicado en el barrio porteño de Villa Pueyrredón y tiene una superficie total de 76,8 metros cuadrados, incluida una parte proporcional de un espacio complementario. La base de venta se fijó por debajo de los 70 mil dólares. Es la tercera subasta autorizada en…",
-        "pubDate": "2026-10-20T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Murió un operario tras caer desde unos seis metros de altura en Capitán Bermúdez",
-        "link": "https://www.rosario3.com/informaciongeneral/murio-un-operario-tras-caer-desde-unos-seis-metros-de-altura-en-capitan-bermudez-20261020-0046.html",
-        "image": "https://www.rosario3.com/__export/1792515881673/sites/rosario3/img/2026/10/20/accidente_laboral_cap_bermudez.jpg_506286608.jpg",
-        "summary": "Ocurrió este martes al mediodía en la zona de Remedios de Escalada y Santiago, donde se encontraba trabajando junto a un compañero. Según información preliminar, estaban realizando un nuevo tendido de fibra óptica. Falleció en el acto, aunque por ahora se desconocen las…",
         "pubDate": "2026-10-20T11:58:00+00:00",
         "approxTime": true
       },
@@ -40,11 +40,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Newell’s sueña con los playoffs: qué necesita para clasificar y por qué es crucial el duelo con San Lorenzo",
+        "link": "https://www.rosario3.com/deportes/newells-suena-con-los-playoffs-que-necesita-para-clasificar-y-por-que-es-crucial-el-duelo-con-san-lorenzo-20261020-0066.html",
+        "image": "https://www.rosario3.com/__export/1792450666547/sites/rosario3/img/2026/10/19/gomez_mattar_newells_cc.jpg_506286608.jpg",
+        "summary": "El triunfo sobre Central Córdoba le permitió escalar al sexto puesto de la Zona A y sacarle tres puntos de ventaja al Ciclón, que hoy está noveno con 17. Cuáles son las combinaciones de resultados que jugarían a favor de la Lepra en busca del boleto a octavos",
+        "pubDate": "2026-10-20T11:56:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "El cielo de Rosario sorprendió con un “arcoíris de fuego”: qué es, cómo se forma y en qué se diferencia del tradicional",
         "link": "https://www.rosario3.com/informaciongeneral/el-cielo-de-rosario-sorprendio-con-un-arcoiris-de-fuego-que-es-como-se-forma-y-en-que-se-diferencia-del-tradicional-20261020-0040.html",
         "image": "https://www.rosario3.com/__export/1792512206602/sites/rosario3/img/2026/10/20/arcoiris_de_fuego.png_786111822.png",
         "summary": "El fenómeno óptico pudo observarse desde distintos puntos de la ciudad y se caracteriza por sus llamativas tonalidades. Su aparición depende de condiciones atmosféricas específicas y de la interacción de la luz solar con las partículas presentes en las nubes. Las fotos",
-        "pubDate": "2026-10-20T11:56:00+00:00",
+        "pubDate": "2026-10-20T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -53,15 +62,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/cuanto-conoces-rosario-ya-se-puede-jugar-y-participar-por-premios-en-efectivo-20261020-0044.html",
         "image": "https://www.rosario3.com/__export/1792514302927/sites/rosario3/img/2026/10/20/belgrano_y_messi.jpg_2106848869.jpg",
         "summary": "Enterate de todos los detalles de este concurso que ya se lanzó y que pone a prueba tu conocimiento de la ciudad, con la posibilidad de ganar importantes premios semanales",
-        "pubDate": "2026-10-20T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Newell’s suspenderá como socios a Ignacio Astore y otros exdirectivos: por ahora, no irá a la Justicia",
-        "link": "https://www.rosario3.com/deportes/newells-suspendera-como-socios-a-ignacio-astore-y-otros-exdirectivos-por-ahora-no-ira-a-la-justicia-20261020-0039.html",
-        "image": "https://www.rosario3.com/__export/1792512632813/sites/rosario3/img/2025/11/25/astore_nob.jpg_506286608.jpg",
-        "summary": "Además del expresidente, la medida se dispondrá sobre Sharon Romero y Hernán Cardozo, quienes se desempeñaron como secretaria y tesorero, respectivamente. “Hay méritos para suspender a las personas que con su firma comprometían al club económicamente y llevaron a triplicar el…",
         "pubDate": "2026-10-20T11:54:00+00:00",
         "approxTime": true
       },
@@ -94,11 +94,29 @@
       },
       {
         "source": "Rosario3",
-        "title": "Un informe de la televisión chilena denunció el descarte de placas y tributos argentinos en el Cementerio de Darwin",
-        "link": "https://www.rosario3.com/informaciongeneral/un-informe-de-la-television-chilena-denuncio-el-descarte-de-placas-y-tributos-argentinos-en-el-cementerio-de-darwin-20261020-0027.html",
-        "image": "https://www.rosario3.com/__export/1792503608812/sites/rosario3/img/2026/10/20/cementerio-darwin.jpg_928314580.jpg",
-        "summary": "Un reporte mostró el amontonamiento de objetos conmemorativos y ofrendas personales detrás del cerco del cenotafio militar en las Islas Malvinas",
+        "title": "Murió un operario tras caer desde unos seis metros de altura en Capitán Bermúdez",
+        "link": "https://www.rosario3.com/informaciongeneral/murio-un-operario-tras-caer-desde-unos-seis-metros-de-altura-en-capitan-bermudez-20261020-0046.html",
+        "image": "https://www.rosario3.com/__export/1792515881673/sites/rosario3/img/2026/10/20/accidente_laboral_cap_bermudez.jpg_506286608.jpg",
+        "summary": "Ocurrió este martes al mediodía en la zona de Remedios de Escalada y Santiago, donde se encontraba trabajando junto a un compañero. Según información preliminar, estaban realizando un nuevo tendido de fibra óptica. Falleció en el acto, aunque por ahora se desconocen las…",
         "pubDate": "2026-10-20T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Detuvieron a un conocido streamer uruguayo por una denuncia de violencia de género en Nordelta: quién es y de qué lo acusan",
+        "link": "https://www.rosario3.com/informaciongeneral/detuvieron-a-un-conocido-streamer-uruguayo-por-una-denuncia-de-violencia-de-genero-en-nordelta-quien-es-y-de-que-lo-acusan-20261020-0063.html",
+        "image": "https://www.rosario3.com/__export/1792523540006/sites/rosario3/img/2026/10/20/streamer_uruguayo.png_786111822.png",
+        "summary": "El creador de contenido de 28 años fue denunciado por su pareja, de 20, quien aseguró haber sufrido golpes y patadas. La investigación quedó a cargo de la fiscalía especializada en género de Tigre, que busca esclarecer lo ocurrido. Los detalles",
+        "pubDate": "2026-10-20T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Peligro en las Altas Cumbres: un camión volcó en plena curva, perdió el acoplado y la secuencia quedó grabada",
+        "link": "https://www.rosario3.com/informaciongeneral/peligro-en-las-altas-cumbres-un-camion-volco-en-plena-curva-perdio-el-acoplado-y-la-secuencia-quedo-grabada-20261020-0067.html",
+        "image": "https://www.rosario3.com/__export/1792525485265/sites/rosario3/img/2026/10/20/camion_volcado.jpg_928314581.jpg",
+        "summary": "El siniestro ocurrió en una curva de la ruta provincial E-34, en Córdoba. El vehículo transportaba fertilizantes y el conductor resultó ileso. La secuencia quedó registrada en video",
+        "pubDate": "2026-10-20T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -107,7 +125,7 @@
         "link": "https://www.rosario3.com/politica/la-camara-de-casacion-definio-que-habra-un-juicio-unificado-para-las-causas-hotesur-y-los-sauces-20261020-0064.html",
         "image": "https://www.rosario3.com/__export/1792524790867/sites/rosario3/img/2026/10/20/hotesur_1.jpg_1768679257.jpg",
         "summary": "El proceso es contra Cristina y Máximo Kirchner. El comienzo del debate está fijado para este viernes a las 10 de la mañana",
-        "pubDate": "2026-10-20T11:49:00+00:00",
+        "pubDate": "2026-10-20T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -116,29 +134,29 @@
         "link": "https://www.rosario3.com/informaciongeneral/malvinas-el-tribunal-del-mar-fijo-las-audiencias-para-analizar-el-pedido-argentino-contra-el-reino-unido-20261020-0058.html",
         "image": "https://www.rosario3.com/__export/1792520805143/sites/rosario3/img/2026/10/20/malvinas_tribunal.png_786111822.png",
         "summary": "El Tribunal Internacional del Derecho del Mar escuchará a las partes el 10 y el 11 de noviembre, tras la solicitud presentada por el gobierno de Javier Milei para frenar las actividades hidrocarburíferas en el Atlántico Sur. La Argentina busca que se dicten medidas provisionales…",
-        "pubDate": "2026-10-20T11:48:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Nación volvió a postergar la puesta en marcha del Fondo de Asistencia Laboral y extendió el período de carencia",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/nacion-volvio-a-postergar-la-puesta-en-marcha-del-fondo-de-asistencia-laboral-y-extendio-el-periodo-de-carencia-20261020-0041.html",
-        "image": "https://www.rosario3.com/__export/1792512202722/sites/rosario3/img/2026/10/20/mteyss-ministerio-001_version1792512202198.jpg_752808283.jpg",
-        "summary": "El régimen destinado a asistir a los empleadores privados en el pago de indemnizaciones comenzará a regir el 1° de diciembre. Además, el plazo inicial de acumulación de recursos pasó de seis a 12 meses. La medida fue publicada este martes en el Boletín Oficial",
-        "pubDate": "2026-10-20T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Santa Fe actualizó la guía de alimentación infantil con foco en la prevención del consumo de ultraprocesados",
-        "link": "https://www.rosario3.com/informaciongeneral/santa-fe-actualizo-la-guia-de-alimentacion-infantil-con-foco-en-la-prevencion-del-consumo-de-ultraprocesados-20261020-0036.html",
-        "image": "https://www.rosario3.com/__export/1792511064295/sites/rosario3/img/2026/10/20/comida_sana_nixos.png_786111822.png",
-        "summary": "El documento reúne recomendaciones para la alimentación de niñas y niños de 0 a 36 meses e incorpora pautas para promover la lactancia materna, respetar las señales de hambre y saciedad y reducir la exposición a la publicidad de productos ultraprocesados y bebidas azucaradas…",
         "pubDate": "2026-10-20T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Esgrima: el rosarino Franco Marchetti hizo historia en la Copa del Mundo con un oro y una plata",
+        "link": "https://www.lacapital.com.ar/ovacion/esgrima-el-rosarino-franco-marchetti-hizo-historia-la-copa-del-mundo-un-oro-y-una-plata-n10287750.html",
+        "image": "https://media.lacapital.com.ar/p/01d50252b47d8560fbc1d00861202768/adjuntos/203/imagenes/103/481/0103481961/55534466789_50fbf89206_o.jpg",
+        "summary": "El joven de 19 años brilló en la Copa del Mundo juvenil disputada en Lima. Hijo de un exolímpico, también fue subcampeón individual y sigue creciendo entre los mejores del planeta.",
+        "pubDate": "2026-10-20T21:14:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Caravana tuerca en Rosario: los autos del Turismo Carretera acelerarán en el parque Independencia",
+        "link": "https://www.lacapital.com.ar/ovacion/caravana-tuerca-rosario-los-autos-del-turismo-carretera-aceleraran-el-parque-independencia-n10287720.html",
+        "image": "https://media.lacapital.com.ar/p/ffb26887cb19a8062096084b8b5bed50/adjuntos/203/imagenes/103/481/0103481670/tcfoto.jpg",
+        "summary": "Este viernes 23 de octubre bulevar Oroño será el epicentro de una caravana del TC, en la previa de la carrera en Rosario",
+        "pubDate": "2026-10-20T20:58:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Escándalo por el desvío de fondos judiciales: el exfiscal Ríos Artacho seguirá preso",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/e6bc2a412c088294686388cf877f2fdd/adjuntos/203/imagenes/103/481/0103481572/1200x675/smart/image.png",
         "summary": "El diputado nacional recorrió el departamento Belgrano, donde mantuvo encuentros con representantes del sector industrial, dirigentes sindicales y referentes institucionales. Advirtió sobre el impacto de las tarifas en las familias y la crisis que atraviesan las pymes",
         "pubDate": "2026-10-20T17:50:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Santa Fe busca agilizar la protección de víctimas de violencia de género: las claves del proyecto",
-        "link": "https://www.lacapital.com.ar/la-ciudad/santa-fe-busca-agilizar-la-proteccion-victimas-violencia-genero-las-claves-del-proyecto-n10287632.html",
-        "image": "https://media.lacapital.com.ar/p/3c35b0378f170084a934c4407cc54acc/adjuntos/203/imagenes/103/193/0103193634/1200x675/smart/image-93.jpg",
-        "summary": "El proyecto establece niveles de riesgo, medidas judiciales urgentes, tobilleras duales y un registro digital para mejorar la protección de las víctimas",
-        "pubDate": "2026-10-20T17:38:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Netflix sumó una película de hace 10 años con Ben Affleck y Anna Kendrick",
-        "link": "https://www.lacapital.com.ar/zoom/netflix-sumo-una-pelicula-hace-10-anos-ben-affleck-y-anna-kendrick-n10287695.html",
-        "image": "https://media.lacapital.com.ar/p/00cb52a086783c51b7315ac5c8b9637b/adjuntos/203/imagenes/103/481/0103481396/1200x675/smart/image-4.png",
-        "summary": "Dirigida por Gavin O’Connor, la producción de thriller y acción sigue a un contador con habilidades para los números y las artes marciales",
-        "pubDate": "2026-10-20T17:37:00+00:00",
         "approxTime": false
       }
     ]
