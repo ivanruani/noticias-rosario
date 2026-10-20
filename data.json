@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T20:01:14.122470+00:00",
+  "generatedAt": "2026-10-20T20:31:00.257927+00:00",
   "sites": {
     "rosario3": [
       {
@@ -103,11 +103,20 @@
       },
       {
         "source": "Rosario3",
-        "title": "A seis meses de la muerte de Luis Brandoni, su esposa compartió una emotiva carta que le envió Robert De Niro",
-        "link": "https://www.rosario3.com/ocio/a-seis-meses-de-la-muerte-de-luis-brandoni-su-esposa-compartio-una-emotiva-carta-que-le-envio-robert-de-niro-20261020-0047.html",
-        "image": "https://www.rosario3.com/__export/1792516139517/sites/rosario3/img/2026/10/20/carta_robert_de_niro_.png_786111822.png",
-        "summary": "Saula Benavente recordó al actor con una publicación en redes sociales y mostró el mensaje manuscrito que el artista estadounidense le envió para expresar sus condolencias",
+        "title": "La Cámara de Casación definió que habrá un juicio unificado para las causas Hotesur y Los Sauces",
+        "link": "https://www.rosario3.com/politica/la-camara-de-casacion-definio-que-habra-un-juicio-unificado-para-las-causas-hotesur-y-los-sauces-20261020-0064.html",
+        "image": "https://www.rosario3.com/__export/1792524790867/sites/rosario3/img/2026/10/20/hotesur_1.jpg_1768679257.jpg",
+        "summary": "El proceso es contra Cristina y Máximo Kirchner. El comienzo del debate está fijado para este viernes a las 10 de la mañana",
         "pubDate": "2026-10-20T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Malvinas: el Tribunal del Mar fijó las audiencias para analizar el pedido argentino contra el Reino Unido",
+        "link": "https://www.rosario3.com/informaciongeneral/malvinas-el-tribunal-del-mar-fijo-las-audiencias-para-analizar-el-pedido-argentino-contra-el-reino-unido-20261020-0058.html",
+        "image": "https://www.rosario3.com/__export/1792520805143/sites/rosario3/img/2026/10/20/malvinas_tribunal.png_786111822.png",
+        "summary": "El Tribunal Internacional del Derecho del Mar escuchará a las partes el 10 y el 11 de noviembre, tras la solicitud presentada por el gobierno de Javier Milei para frenar las actividades hidrocarburíferas en el Atlántico Sur. La Argentina busca que se dicten medidas provisionales…",
+        "pubDate": "2026-10-20T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +125,7 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/nacion-volvio-a-postergar-la-puesta-en-marcha-del-fondo-de-asistencia-laboral-y-extendio-el-periodo-de-carencia-20261020-0041.html",
         "image": "https://www.rosario3.com/__export/1792512202722/sites/rosario3/img/2026/10/20/mteyss-ministerio-001_version1792512202198.jpg_752808283.jpg",
         "summary": "El régimen destinado a asistir a los empleadores privados en el pago de indemnizaciones comenzará a regir el 1° de diciembre. Además, el plazo inicial de acumulación de recursos pasó de seis a 12 meses. La medida fue publicada este martes en el Boletín Oficial",
-        "pubDate": "2026-10-20T11:48:00+00:00",
+        "pubDate": "2026-10-20T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,15 +134,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/santa-fe-actualizo-la-guia-de-alimentacion-infantil-con-foco-en-la-prevencion-del-consumo-de-ultraprocesados-20261020-0036.html",
         "image": "https://www.rosario3.com/__export/1792511064295/sites/rosario3/img/2026/10/20/comida_sana_nixos.png_786111822.png",
         "summary": "El documento reúne recomendaciones para la alimentación de niñas y niños de 0 a 36 meses e incorpora pautas para promover la lactancia materna, respetar las señales de hambre y saciedad y reducir la exposición a la publicidad de productos ultraprocesados y bebidas azucaradas…",
-        "pubDate": "2026-10-20T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Detuvieron a dos ladrones que entraron a robar en un edificio de Moreno y Brown",
-        "link": "https://www.rosario3.com/policiales/detuvieron-a-dos-ladrones-que-entraron-a-robar-en-un-edificio-de-moreno-y-brown-20261020-0034.html",
-        "image": "https://www.rosario3.com/__export/1792509552039/sites/rosario3/img/2026/10/20/ladrones_moreno_y_brown.jpg_928315511.jpg",
-        "summary": "Ocurrió cerca del mediodía de este martes. Los delincuentes entraron en un departamento, donde sustrajeron perfumes, dinero y alhajas. Aparentemente, la víctima les abrió la puerta principal por conocer a uno de ellos",
         "pubDate": "2026-10-20T11:46:00+00:00",
         "approxTime": true
       }
@@ -186,19 +186,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Qué es la leche dorada, cuáles son sus beneficios y cómo prepararla en casa",
-        "link": "https://www.lacapital.com.ar/informacion-general/que-es-la-leche-dorada-cuales-son-sus-beneficios-y-como-prepararla-casa-n10287723.html",
-        "image": "https://media.lacapital.com.ar/p/68f140911124d865f3e31572b9ab78a9/adjuntos/203/imagenes/103/481/0103481625/1200x675/smart/image-7.png",
-        "summary": "Proveniente de la medicina india, esta bebida es reconocida por su sabor especiado y propiedades antiinflamatorias",
+        "title": "Milei apuntó contra quienes dicen que los argentinos no llegan a fin de mes",
+        "link": "https://www.lacapital.com.ar/politica/milei-apunto-contra-quienes-dicen-que-los-argentinos-no-llegan-fin-mes-n10287716.html",
+        "image": "https://media.lacapital.com.ar/p/7b966154881280507a965430abf7cc0c/adjuntos/203/imagenes/103/481/0103481602/1200x675/smart/image.png",
+        "summary": "El presidente rechazó las afirmaciones sobre las dificultades económicas de la población. También advirtió acerca de un posible fraude electoral en Brasil y acusó a Lula de “zurdo ladrón”",
         "pubDate": "2026-10-20T18:24:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Milei apuntó contra quienes dicen que los argentinos no llegan a fin de mes",
-        "link": "https://www.lacapital.com.ar/politica/milei-apunto-contra-quienes-dicen-que-los-argentinos-no-llegan-fin-mes-n10287716.html",
-        "image": "https://media.lacapital.com.ar/p/7b966154881280507a965430abf7cc0c/adjuntos/203/imagenes/103/481/0103481602/1200x675/smart/image.png",
-        "summary": "El presidente rechazó las afirmaciones sobre las dificultades económicas de la población. También advirtió acerca de un posible fraude electoral en Brasil y acusó a Lula de “zurdo ladrón”",
+        "title": "Qué es la leche dorada, cuáles son sus beneficios y cómo prepararla en casa",
+        "link": "https://www.lacapital.com.ar/informacion-general/que-es-la-leche-dorada-cuales-son-sus-beneficios-y-como-prepararla-casa-n10287723.html",
+        "image": "https://media.lacapital.com.ar/p/68f140911124d865f3e31572b9ab78a9/adjuntos/203/imagenes/103/481/0103481625/1200x675/smart/image-7.png",
+        "summary": "Proveniente de la medicina india, esta bebida es reconocida por su sabor especiado y propiedades antiinflamatorias",
         "pubDate": "2026-10-20T18:24:00+00:00",
         "approxTime": false
       },
