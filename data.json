@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T22:17:24.299367+00:00",
+  "generatedAt": "2026-10-21T22:31:01.235970+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Llega al cine El Cairo \"La Espera\", un documental que invita a repensar la adopción",
+        "link": "https://www.lacapital.com.ar/llega-al-cine-el-cairo-la-espera-un-documental-que-invita-repensar-la-adopcion-n10287980.html",
+        "image": "https://media.lacapital.com.ar/p/c9415efc28febd1bf2fa8dbd8f4b20f5/adjuntos/203/imagenes/103/484/0103484401/1200x675/smart/image-2026-10-21t194457544.png",
+        "summary": "La cita será el sábado 24 de octubre, a las 18, con entrada libre y gratuita y con la presencia de su director, Darío Doria",
+        "pubDate": "2026-10-21T22:19:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Una camioneta de Gendarmería terminó incrustada en una casa de Empalme Graneros y un agente resultó herido",
         "link": "https://www.lacapital.com.ar/policiales/una-camioneta-gendarmeria-termino-incrustada-una-casa-empalme-graneros-y-un-agente-resulto-herido-n10287976.html",
         "image": "https://media.lacapital.com.ar/p/e8398d5f809b3961a3fedbc20fc7c6cf/adjuntos/203/imagenes/103/484/0103484377/1200x675/smart/image-28.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/fa3d9df7d50e7e943051f4b6182469ba/adjuntos/203/imagenes/103/483/0103483949/1200x675/smart/imagetasa.jpg",
         "summary": "Las entidades financieras actualizaron las tasas de octubre y hay diferencias importantes entre las opciones para hacer rendir los pesos. Cuáles pagan más y qué conviene tener en cuenta antes de invertir.",
         "pubDate": "2026-10-21T19:42:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La UNR abrió la inscripción al curso preuniversitario para los ingresantes",
-        "link": "https://www.lacapital.com.ar/la-ciudad/la-unr-abrio-la-inscripcion-al-curso-preuniversitario-los-ingresantes-n10287879.html",
-        "image": "https://media.lacapital.com.ar/p/7c783ead54d8602b1a3d85a3678b8572/adjuntos/203/imagenes/103/395/0103395540/1200x675/smart/unr-expo-carreras-119-3.jpg",
-        "summary": "La propuesta es virtual y propone un primer acercamiento con la vida de la UNR. No es obligatoria ni reemplaza los cursos que se dictan en las facultades",
-        "pubDate": "2026-10-21T19:18:00+00:00",
         "approxTime": false
       }
     ]
