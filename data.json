@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T10:01:09.892253+00:00",
+  "generatedAt": "2026-10-21T10:30:58.792997+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,19 +13,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "Amanecer engañoso: Rosario se prepara para varios días de lluvias y lloviznas, con tormentas fuertes el jueves",
-        "link": "https://www.rosario3.com/informaciongeneral/rosario-se-prepara-para-varios-dias-de-lluvias-y-lloviznas-con-tormentas-fuertes-el-jueves-20261020-0089.html",
-        "image": "https://www.rosario3.com/__export/1792544507236/sites/rosario3/img/2026/10/20/lluvias.jpg_1825222445.jpg",
-        "summary": "El miércoles amaneció con algunas nubes pero también con sol. Pero el Servicio Meteorológico emitió un alerta amarillo por fenómenos intensos, con ráfagas y abundantes precipitaciones. La inestabilidad continuará durante el fin de semana, acompañada por un marcado descenso de…",
-        "pubDate": "2026-10-20T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
         "title": "El clima en Rosario: posibles lluvias y un primaveral cielo de Van Gogh",
         "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-posibles-lluvias-y-un-primaveral-cielo-de-van-gogh-20261021-0003.html",
         "image": "https://www.rosario3.com/__export/1792576481919/sites/rosario3/img/2026/10/21/riogris.jpg_928314581.jpg",
         "summary": "El pronóstico anuncia chaparrones para la mañana y muchos tonos de gris y azul para el resto de la jornada, con un termómetro que podría superar los 20 grados. El preámbulo de un jueves tormentoso",
+        "pubDate": "2026-10-21T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Claves del día: Cotar busca $1.600 millones, EE.UU. promete US$20.000 M y Karagozian entra en concurso | Ecos365",
+        "link": "https://www.rosario3.com/ecos365/noticias/claves-del-dia-cotar-busca-1.600-millones-ee.uu.-promete-us20.000-m-y-karagozian-entra-en-concurso-20261021-0001.html",
+        "image": "https://www.rosario3.com/__export/1786732155389/sites/rosario3/img/2026/08/14/dolar.jpg_1697240521.jpg",
+        "summary": "La Justicia dijo sí a Cotar en manos obreras, pero cuesta $1.600 millones; Washington anticipa US$20.000 millones con peaje político; Arriazu retó al BCRA; el biodiésel divide a las pymes y Pullaro mira los dólares",
         "pubDate": "2026-10-21T11:58:00+00:00",
         "approxTime": true
       },
@@ -40,11 +40,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Rosario se prepara para varios días de lluvias y lloviznas, con tormentas fuertes el jueves",
+        "link": "https://www.rosario3.com/informaciongeneral/rosario-se-prepara-para-varios-dias-de-lluvias-y-lloviznas-con-tormentas-fuertes-el-jueves-20261020-0089.html",
+        "image": "https://www.rosario3.com/__export/1792544507236/sites/rosario3/img/2026/10/20/lluvias.jpg_1825222445.jpg",
+        "summary": "El miércoles amaneció con algunas nubes pero también con sol. Pero el Servicio Meteorológico emitió un alerta amarillo por fenómenos intensos, con ráfagas y abundantes precipitaciones. La inestabilidad continuará durante el fin de semana, acompañada por un marcado descenso de…",
+        "pubDate": "2026-10-20T11:56:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Presupuesto universitario: fuertes cruces en Diputados y críticas del Gobierno a los rectores",
         "link": "https://www.rosario3.com/informaciongeneral/presupuesto-universitario-fuertes-cruces-en-diputados-y-criticas-del-gobierno-a-los-rectores-20261020-0077.html",
         "image": "https://www.rosario3.com/__export/1792530200765/sites/rosario3/img/2026/10/20/a.jpeg_1825222445.jpeg",
         "summary": "Carlos Torrendell y Alejandro Álvarez expusieron ante la Comisión de Presupuesto y Hacienda y rechazaron los reclamos por mayores partidas. La oposición exigió el cumplimiento de la Ley de Financiamiento Universitario y la reunión estuvo marcada por fuertes discusiones entre…",
-        "pubDate": "2026-10-20T11:56:00+00:00",
+        "pubDate": "2026-10-20T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -53,16 +62,7 @@
         "link": "https://www.rosario3.com/deportes/boca-le-gano-por-3-1-a-vasco-da-gama-y-es-finalista-de-la-copa-sudamericana-20261021-0001.html",
         "image": "https://www.rosario3.com/__export/1792574859638/sites/rosario3/img/2026/10/21/merentiel.jpg_480268841.jpg",
         "summary": "Lautaro Di Lollo, Miguel Merentiel y Leandro Paredes, los goleadores del xeneize. “Solo tengo palabras de agradecimiento para este grupo”, se emocionó el mediocampista de la selección argentina",
-        "pubDate": "2026-10-21T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Una camioneta de Control Urbano impactó contra un árbol y un contenedor luego de que la chocaran desde atrás",
-        "link": "https://www.rosario3.com/informaciongeneral/una-camioneta-de-control-urbano-impacto-contra-un-arbol-y-un-contenedor-luego-de-que-la-chocaran-desde-atras-20261020-0082.html",
-        "image": "https://www.rosario3.com/__export/1792534303637/sites/rosario3/img/2026/10/20/descontrol.jpg_823035838.jpg",
-        "summary": "El siniestro ocurrió en Uriburu y Sarmiento, producto del impacto de un auto contra la parte trasera del vehículo municipal. Un grupo de personas que estaba tomando algo en la vereda se asustó por el ruido. No hubo heridos",
-        "pubDate": "2026-10-20T11:54:00+00:00",
+        "pubDate": "2026-10-21T11:54:00+00:00",
         "approxTime": true
       },
       {
@@ -94,11 +94,29 @@
       },
       {
         "source": "Rosario3",
+        "title": "Cerraron complejo termal en Catamarca tras la muerte de un niño por ameba “come cerebros”",
+        "link": "https://www.rosario3.com/informaciongeneral/cerraron-complejo-termal-en-catamarca-tras-la-muerte-de-un-nino-por-ameba-come-cerebros-20261021-0006.html",
+        "image": "https://www.rosario3.com/__export/1792577248181/sites/rosario3/img/2026/10/21/catamarca.jpg_1768679257.jpg",
+        "summary": "El Ministerio de Salud de Catamarca ordenó el cierre preventivo del complejo ubicado en Fiambalá y el inicio de tareas de muestreo y análisis de agua para verificar si hay presencia del microorganismo",
+        "pubDate": "2026-10-21T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Como una asamblea de los 70: presentan Legado militante, un libro que recupera la historia del movimiento estudiantil en la UNR",
+        "link": "https://www.rosario3.com/politica/como-una-asamblea-de-los-70-presentan-legado-militante-un-libro-que-recupera-la-historia-del-movimiento-estudiantil-en-la-unr-20261021-0007.html",
+        "image": "https://www.rosario3.com/__export/1792577521395/sites/rosario3/img/2026/10/21/whatsapp_image_2026-10-21_at_07_05_08.jpeg_54252853.jpeg",
+        "summary": "La obra de Adriana Hereñú reúne testimonios sobre la militancia universitaria entre 1968 y 1976. La presentación, con exmilitantes universitarios que luego fueron dirigentes de diversos partidos, será este jueves en la Facultad de Humanidades y Artes, con entrada libre y gratuita",
+        "pubDate": "2026-10-21T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Otra señal para la visita papal: llega una nueva delegación a la Argentina para avanzar con la coordinación del viaje de León XIV",
         "link": "https://www.rosario3.com/informaciongeneral/otra-senal-para-la-visita-papal-llega-una-nueva-delegacion-a-la-argentina-para-avanzar-con-la-coordinacion-del-viaje-de-leon-xiv-20261020-0084.html",
         "image": "https://www.rosario3.com/__export/1792537449029/sites/rosario3/img/2026/10/20/papa.jpg_1768679257.jpg",
         "summary": "Si bien la llegada de esta delegación no significa la confirmación de la visita del santo padre a la Argentina, sería inminente una comunicación del Vaticano sobre la realización del viaje",
-        "pubDate": "2026-10-20T11:50:00+00:00",
+        "pubDate": "2026-10-20T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -107,33 +125,15 @@
         "link": "https://www.rosario3.com/informaciongeneral/lula-pedira-anular-la-candidatura-de-flavio-bolsonaro-por-interferencia-de-meta-en-las-elecciones-de-brasil-20261020-0085.html",
         "image": "https://www.rosario3.com/__export/1792535885688/sites/rosario3/img/2026/10/20/lulabrasil.jpg_982625323.jpg",
         "summary": "Desde el espacio del mandatario, que el domingo buscará un cuarto mandato, denuncian una presunta “manipulación algorítmica” del gigante tecnológico estadounidense para restringir sus contenidos de campaña en Instagram y WhatsApp",
-        "pubDate": "2026-10-20T11:49:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Subastarán un tercer departamento decomisado en la causa por lavado de la familia de un jefe narco de Carbón Blanco",
-        "link": "https://www.rosario3.com/informaciongeneral/subastaran-un-tercer-departamento-decomisado-en-la-causa-por-lavado-de-la-familia-de-un-jefe-narco-de-carbon-blanco-20261020-0052.html",
-        "image": "https://www.rosario3.com/__export/1792517797334/sites/rosario3/img/2026/10/20/1111111.png_928314580.png",
-        "summary": "El inmueble está ubicado en el barrio porteño de Villa Pueyrredón y tiene una superficie total de 76,8 metros cuadrados, incluida una parte proporcional de un espacio complementario. La base de venta se fijó por debajo de los 70 mil dólares. Es la tercera subasta autorizada en…",
-        "pubDate": "2026-10-20T11:48:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La Provincia confirmó el primer secuestro de criptomonedas en el extranjero en medio de una estafa internacional",
-        "link": "https://www.rosario3.com/policiales/la-provincia-confirmo-el-primer-secuestro-de-criptomonedas-en-el-extranjero-en-medio-de-una-estafa-internacional-20261020-0023.html",
-        "image": "https://www.rosario3.com/__export/1792502045747/sites/rosario3/img/2026/10/20/fe1.jpg_928314581.jpg",
-        "summary": "El secretario de Gestión de Registros Provinciales, Matías Figueroa Escauriza, anunció la intervención estatal que permitirá devolver los activos digitales a los afectados. Además, destacó la masiva participación en las recientes subastas de bienes incautados al delito en Santa…",
         "pubDate": "2026-10-20T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Confirmaron la prisión del exfiscal Ríos Artacho y su rol como jefe de un esquema criminal de cinco pasos para vaciar cuentas judiciales",
-        "link": "https://www.rosario3.com/policiales/confirmaron-la-prision-del-exfiscal-rios-artacho-y-su-rol-como-jefe-de-un-esquema-criminal-de-cinco-pasos-para-vaciar-cuentas-judiciales-20261020-0028.html",
-        "image": "https://www.rosario3.com/__export/1792522083597/sites/rosario3/img/2026/10/20/riosartacho.jpg_930824724.jpg",
-        "summary": "La camarista Carolina Hernández ratificó el rumbo de la investigación impulsada por los fiscales Adrián Spelta y Carla Cerliani que reconstruyó la metodología con la que operaba el ex funcionadio judicial. Agregó que su alegada ludopatía podría explicar la motivación de las…",
+        "title": "Una camioneta de Control Urbano impactó contra un árbol y un contenedor luego de que la chocaran desde atrás",
+        "link": "https://www.rosario3.com/informaciongeneral/una-camioneta-de-control-urbano-impacto-contra-un-arbol-y-un-contenedor-luego-de-que-la-chocaran-desde-atras-20261020-0082.html",
+        "image": "https://www.rosario3.com/__export/1792534303637/sites/rosario3/img/2026/10/20/descontrol.jpg_823035838.jpg",
+        "summary": "El siniestro ocurrió en Uriburu y Sarmiento, producto del impacto de un auto contra la parte trasera del vehículo municipal. Un grupo de personas que estaba tomando algo en la vereda se asustó por el ruido. No hubo heridos",
         "pubDate": "2026-10-20T11:46:00+00:00",
         "approxTime": true
       }
@@ -143,8 +143,8 @@
         "source": "La Capital",
         "title": "Vecinos y huerteros de Roldán protagonizaron una jornada de intercambio y aprendizaje comunitario",
         "link": "https://www.lacapital.com.ar/la-region/vecinos-y-huerteros-roldan-protagonizaron-una-jornada-intercambio-y-aprendizaje-comunitario-n10287679.html",
-        "image": "https://media.lacapital.com.ar/adjuntos/203/imagenes/030/134/0030134894.svg",
-        "summary": "La Capital",
+        "image": "https://media.lacapital.com.ar/p/d305c7e321dd8a949517627cce840fd0/adjuntos/203/imagenes/103/481/0103481230/1200x675/smart/roldan-huerteros4.jpeg",
+        "summary": "El Paseo de las Ferias se transformó en lugar de encuentro, orientado a prácticas sustentables y al fortalecimiento de los lazos sociales",
         "pubDate": "2026-10-21T10:00:00+00:00",
         "approxTime": false
       },
@@ -168,19 +168,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Clima y agro: lluvias itinerantes, nuevos pulsos de aire fresco y un Paraná en ascenso",
-        "link": "https://www.lacapital.com.ar/agro/clima-y-agro-lluvias-itinerantes-nuevos-pulsos-aire-fresco-y-un-parana-ascenso-n10287800.html",
-        "image": "https://media.lacapital.com.ar/p/775261600c64d6f0db4f63ac70cb03c7/adjuntos/203/imagenes/103/482/0103482477/1200x675/smart/tormenta.jpg",
-        "summary": "La creciente avanza desde el norte provincial hacia Rosario y podría complicar las actividades productivas en zonas ribereñas. En la región núcleo se prevén precipitaciones irregulares y temperaturas por debajo de los valores habituales para octubre",
+        "title": "Casi 3.200 motos fueron al corralón este año por \"avivadas\" con la patente",
+        "link": "https://www.lacapital.com.ar/la-ciudad/casi-3200-motos-fueron-al-corralon-este-ano-avivadas-la-patente-n10287729.html",
+        "image": "https://media.lacapital.com.ar/p/9e31aa1a6554bbbd588b6a67695c0ae8/adjuntos/203/imagenes/103/481/0103481928/1200x675/smart/whatsapp-image-2026-10-20-at-135336.jpeg",
+        "summary": "En lo que va de 2026, los controles municipales y policiales remitieron 11.000 motocicletas al depósito municipal. El 29 % de los secuestros estuvo relacionado con la falta de chapa o con llevarla tapada",
         "pubDate": "2026-10-21T09:25:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Casi 3.200 motos fueron al corralón este año por \"avivadas\" con la patente",
-        "link": "https://www.lacapital.com.ar/la-ciudad/casi-3200-motos-fueron-al-corralon-este-ano-avivadas-la-patente-n10287729.html",
-        "image": "https://media.lacapital.com.ar/p/9e31aa1a6554bbbd588b6a67695c0ae8/adjuntos/203/imagenes/103/481/0103481928/1200x675/smart/whatsapp-image-2026-10-20-at-135336.jpeg",
-        "summary": "En lo que va de 2026, los controles municipales y policiales remitieron 11.000 motocicletas al depósito municipal. El 29 % de los secuestros estuvo relacionado con la falta de chapa o con llevarla tapada",
+        "title": "Clima y agro: lluvias itinerantes, nuevos pulsos de aire fresco y un Paraná en ascenso",
+        "link": "https://www.lacapital.com.ar/agro/clima-y-agro-lluvias-itinerantes-nuevos-pulsos-aire-fresco-y-un-parana-ascenso-n10287800.html",
+        "image": "https://media.lacapital.com.ar/p/775261600c64d6f0db4f63ac70cb03c7/adjuntos/203/imagenes/103/482/0103482477/1200x675/smart/tormenta.jpg",
+        "summary": "La creciente avanza desde el norte provincial hacia Rosario y podría complicar las actividades productivas en zonas ribereñas. En la región núcleo se prevén precipitaciones irregulares y temperaturas por debajo de los valores habituales para octubre",
         "pubDate": "2026-10-21T09:25:00+00:00",
         "approxTime": false
       },
