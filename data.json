@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T00:30:58.523339+00:00",
+  "generatedAt": "2026-10-21T01:01:08.561365+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Hugo Yasky: \"Este programa económico se encamina al fracaso\"",
+        "link": "https://www.lacapital.com.ar/economia/hugo-yasky-este-programa-economico-se-encamina-al-fracaso-n10287801.html",
+        "image": "https://media.lacapital.com.ar/p/94f68ece9f56b9b0921b0cb72c896109/adjuntos/203/imagenes/103/482/0103482479/1200x675/smart/yasky1.jpg",
+        "summary": "El secretario general de la CTA de los Trabajadores presentó en Rosario la lista de candidatos para la conducción de la central. Señaló que conflictividad social va a crecer y aseguró que “el gobierno le teme a la enorme movilización por el Papa”.",
+        "pubDate": "2026-10-21T00:55:40+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Los árbitros designados para Newell's y Central, con un rosarino en un partido clave",
+        "link": "https://www.lacapital.com.ar/ovacion/los-arbitros-designados-newells-y-central-un-rosarino-un-partido-clave-n10287791.html",
+        "image": "https://media.lacapital.com.ar/p/7541fbd3d0aa44ce54e60aa6fbacd352/adjuntos/203/imagenes/103/482/0103482425/arasa-2.jpg",
+        "summary": "El próximo sábado Newell's visita a San Lorenzo y Central recibe a Huracán. El domingo un árbitro rosarino dirigirá al líder de la tabla anual",
+        "pubDate": "2026-10-21T00:29:54+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El sistema Lince fue clave para detener a dos jóvenes por el robo de celulares en el centro de Rosario",
         "link": "https://www.lacapital.com.ar/policiales/el-sistema-lince-fue-clave-detener-dos-jovenes-el-robo-celulares-el-centro-rosario-n10287798.html",
         "image": "https://media.lacapital.com.ar/p/c1957e0132f353451aca6cb5ec9c5f78/adjuntos/203/imagenes/103/482/0103482437/1200x675/smart/lince-1.jpg",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/ffb26887cb19a8062096084b8b5bed50/adjuntos/203/imagenes/103/481/0103481670/tcfoto.jpg",
         "summary": "Este viernes 23 de octubre bulevar Oroño será el epicentro de una caravana del TC, en la previa de la carrera en Rosario",
         "pubDate": "2026-10-20T20:58:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Ratificaron la prisión del exfiscal Ríos Artacho por el millonario desvío de fondos judiciales",
-        "link": "https://www.lacapital.com.ar/policiales/ratificaron-la-prision-del-exfiscal-rios-artacho-el-millonario-desvio-fondos-judiciales-n10287733.html",
-        "image": "https://media.lacapital.com.ar/p/8489b3b01cdef051bd38badd5e2d94b0/adjuntos/203/imagenes/103/374/0103374522/1200x675/smart/mariano-rios-artacho.jpg",
-        "summary": "La Cámara confirmó la prisión preventiva del exfuncionario y otros cuatro acusados por el desvío de $425 millones. Ríos Artacho atribuyó las maniobras a sus problemas con el juego, pero la Justicia sostuvo la hipótesis de una asociación ilícita que operó durante años.",
-        "pubDate": "2026-10-20T20:49:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Exsuboficial del Ejército de Rosario volvió a encadenarse por la salud de su esposa con cáncer",
-        "link": "https://www.lacapital.com.ar/la-ciudad/exsuboficial-del-ejercito-rosario-volvio-encadenarse-la-salud-su-esposa-cancer-n10287748.html",
-        "image": "https://media.lacapital.com.ar/p/c5c72f6858d96f30087bbcb35e8e8433/adjuntos/203/imagenes/103/481/0103481491/1200x675/smart/reclamo-obra-social-iosfa01.jpg",
-        "summary": "Carlos hace más de cuatro meses reclama a la obra social Iosfa para que atiendan a Andrea. Es la segunda vez que inicia un plan de lucha.",
-        "pubDate": "2026-10-20T20:45:00+00:00",
         "approxTime": false
       }
     ]
