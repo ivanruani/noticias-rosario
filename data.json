@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T03:01:11.588076+00:00",
+  "generatedAt": "2026-10-21T03:31:02.724139+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "DonWeb Day llega a Rosario: una tarde gratuita para aprender, probar y conectar con la inteligencia artificial",
+        "link": "https://www.lacapital.com.ar/novedades/donweb-day-llega-rosario-una-tarde-gratuita-aprender-probar-y-conectar-la-inteligencia-artificial-n10287458.html",
+        "image": "https://media.lacapital.com.ar/p/2a017746a5deb55e1122100c67b0a1cb/adjuntos/203/imagenes/103/478/0103478372/1200x675/smart/copia-imagen-nota-prensa-portada-1-1.png",
+        "summary": "Charlas, workshops, experiencias tecnológicas, gastronomía, sorteos y una hackatón con $1Millón de pesos en premios: el festival se hará el domingo 1 de noviembre en Tecnoteca, con entrada libre y gratuita.",
+        "pubDate": "2026-10-21T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Maracanazo de Boca: le ganó por 3-1 a Vasco Da Gama y es finalista de la Copa Sudamericana",
         "link": "https://www.lacapital.com.ar/ovacion/maracanazo-boca-le-gano-3-1-vasco-da-gama-y-es-finalista-la-copa-sudamericana-n10287808.html",
         "image": "https://media.lacapital.com.ar/p/12d7de0815781d794e4fbb77fc1b8d2d/adjuntos/203/imagenes/103/482/0103482626/paredes.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/bbfd5b3de9c2d359efb2c408f2e4a813/adjuntos/203/imagenes/103/482/0103482272/1200x675/smart/torrendell.jpg",
         "summary": "La reunión de la Comisión de Presupuesto del Congreso tuvo este martes fuertes cruces entre el oficialismo y el peronismo por las partidas para educación",
         "pubDate": "2026-10-20T22:04:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Rosario se prepara para otros cinco días sin sol: anuncian lluvias, tormentas y ráfagas de viento",
-        "link": "https://www.lacapital.com.ar/la-ciudad/rosario-se-prepara-otros-cinco-dias-sol-anuncian-lluvias-tormentas-y-rafagas-viento-n10287771.html",
-        "image": "https://media.lacapital.com.ar/p/4b910f8dac681874b45b5cd380e33379/adjuntos/203/imagenes/103/452/0103452554/1200x675/smart/lluvia.jpg",
-        "summary": "El Servicio Meteorológico Nacional anticipa un período de marcada inestabilidad desde este miércoles hasta el domingo.",
-        "pubDate": "2026-10-20T21:50:00+00:00",
         "approxTime": false
       }
     ]
