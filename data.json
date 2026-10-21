@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T08:01:08.279662+00:00",
+  "generatedAt": "2026-10-21T08:30:59.971162+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Después de dos años de obras, el Museo Gallardo vuelve a abrir sus puertas",
+        "link": "https://www.lacapital.com.ar/la-ciudad/despues-dos-anos-obras-el-museo-gallardo-vuelve-abrir-sus-puertas-n10287736.html",
+        "image": "https://media.lacapital.com.ar/p/dd82b588e67be24e506ca96619955825/adjuntos/203/imagenes/011/727/0011727342/1200x675/smart/gallardo-3.jpg",
+        "summary": "Con una inversión de $ 224 millones, se impermeabilizaron techos y renovaron cielorrasos. Con la apertura llegan también nuevas muestras",
+        "pubDate": "2026-10-21T08:05:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "DonWeb Day llega a Rosario: una tarde gratuita para aprender, probar y conectar con la inteligencia artificial",
         "link": "https://www.lacapital.com.ar/novedades/donweb-day-llega-rosario-una-tarde-gratuita-aprender-probar-y-conectar-la-inteligencia-artificial-n10287458.html",
         "image": "https://media.lacapital.com.ar/p/2a017746a5deb55e1122100c67b0a1cb/adjuntos/203/imagenes/103/478/0103478372/1200x675/smart/copia-imagen-nota-prensa-portada-1-1.png",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/8d44ca8200d920bb6115a011abf594df/adjuntos/203/imagenes/103/482/0103482273/1200x675/smart/ricardo-mendez-ex-presidente-central-cordoba.jpg",
         "summary": "Ricardo Méndez falleció este martes en Rosario. Fue protagonista de los grandes ascensos del Charrúa y dejó una huella imborrable en la institución",
         "pubDate": "2026-10-20T22:14:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El gobierno defendió el presupuesto para las universidades y exigió \"gestión responsable y transparente\"",
-        "link": "https://www.lacapital.com.ar/politica/el-gobierno-defendio-el-presupuesto-las-universidades-y-exigio-gestion-responsable-y-transparente-n10287767.html",
-        "image": "https://media.lacapital.com.ar/p/bbfd5b3de9c2d359efb2c408f2e4a813/adjuntos/203/imagenes/103/482/0103482272/1200x675/smart/torrendell.jpg",
-        "summary": "La reunión de la Comisión de Presupuesto del Congreso tuvo este martes fuertes cruces entre el oficialismo y el peronismo por las partidas para educación",
-        "pubDate": "2026-10-20T22:04:00+00:00",
         "approxTime": false
       }
     ]
