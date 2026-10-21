@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T09:31:01.073816+00:00",
+  "generatedAt": "2026-10-21T10:01:09.892253+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,11 +13,20 @@
       },
       {
         "source": "Rosario3",
-        "title": "Rosario se prepara para varios días de lluvias y lloviznas, con tormentas fuertes el jueves",
+        "title": "Amanecer engañoso: Rosario se prepara para varios días de lluvias y lloviznas, con tormentas fuertes el jueves",
         "link": "https://www.rosario3.com/informaciongeneral/rosario-se-prepara-para-varios-dias-de-lluvias-y-lloviznas-con-tormentas-fuertes-el-jueves-20261020-0089.html",
         "image": "https://www.rosario3.com/__export/1792544507236/sites/rosario3/img/2026/10/20/lluvias.jpg_1825222445.jpg",
-        "summary": "El Servicio Meteorológico emitió un alerta amarillo por fenómenos intensos, con ráfagas y abundantes precipitaciones. La inestabilidad continuará durante el fin de semana, acompañada por un marcado descenso de temperatura",
+        "summary": "El miércoles amaneció con algunas nubes pero también con sol. Pero el Servicio Meteorológico emitió un alerta amarillo por fenómenos intensos, con ráfagas y abundantes precipitaciones. La inestabilidad continuará durante el fin de semana, acompañada por un marcado descenso de…",
         "pubDate": "2026-10-20T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "El clima en Rosario: posibles lluvias y un primaveral cielo de Van Gogh",
+        "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-posibles-lluvias-y-un-primaveral-cielo-de-van-gogh-20261021-0003.html",
+        "image": "https://www.rosario3.com/__export/1792576481919/sites/rosario3/img/2026/10/21/riogris.jpg_928314581.jpg",
+        "summary": "El pronóstico anuncia chaparrones para la mañana y muchos tonos de gris y azul para el resto de la jornada, con un termómetro que podría superar los 20 grados. El preámbulo de un jueves tormentoso",
+        "pubDate": "2026-10-21T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/dengue-confirmaron-el-primer-caso-de-2026-importado-por-una-mujer-de-rosario-que-viajo-a-peru-20261020-0055.html",
         "image": "https://www.rosario3.com/__export/1792518798788/sites/rosario3/img/2024/05/20/dengue_share_x1x.jpg_506286608.jpg",
         "summary": "Según el Boletín Epidemiológico provincial, la paciente evolucionó favorablemente y los estudios de laboratorio detectaron el serotipo DEN-3 del virus",
-        "pubDate": "2026-10-20T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La Justicia rechazó el reclamo millonario de arquitectos cordobeses por el Museo Castagnino",
-        "link": "https://www.rosario3.com/informaciongeneral/la-justicia-rechazo-el-reclamo-millonario-de-arquitectos-cordobeses-por-el-museo-castagnino-20261020-0083.html",
-        "image": "https://www.rosario3.com/__export/1792534631362/sites/rosario3/img/2026/10/20/castagnino.jpg_1825222445.jpg",
-        "summary": "La Cámara de lo Contencioso Administrativo N° 2 desestimó la demanda contra la Municipalidad por honorarios e indemnizaciones vinculados al proyecto de ampliación. Desde la gestión municipal indicaron que “la obra avanza a muy buen ritmo”",
         "pubDate": "2026-10-20T11:57:00+00:00",
         "approxTime": true
       },
@@ -49,19 +49,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "Una camioneta de Control Urbano impactó contra un árbol y un contenedor luego de que la chocaran desde atrás",
-        "link": "https://www.rosario3.com/informaciongeneral/una-camioneta-de-control-urbano-impacto-contra-un-arbol-y-un-contenedor-luego-de-que-la-chocaran-desde-atras-20261020-0082.html",
-        "image": "https://www.rosario3.com/__export/1792534303637/sites/rosario3/img/2026/10/20/descontrol.jpg_823035838.jpg",
-        "summary": "El siniestro ocurrió en Uriburu y Sarmiento, producto del impacto de un auto contra la parte trasera del vehículo municipal. Un grupo de personas que estaba tomando algo en la vereda se asustó por el ruido. No hubo heridos",
-        "pubDate": "2026-10-20T11:55:00+00:00",
+        "title": "Boca le ganó por 3-1 a Vasco Da Gama y es finalista de la Copa Sudamericana",
+        "link": "https://www.rosario3.com/deportes/boca-le-gano-por-3-1-a-vasco-da-gama-y-es-finalista-de-la-copa-sudamericana-20261021-0001.html",
+        "image": "https://www.rosario3.com/__export/1792574859638/sites/rosario3/img/2026/10/21/merentiel.jpg_480268841.jpg",
+        "summary": "Lautaro Di Lollo, Miguel Merentiel y Leandro Paredes, los goleadores del xeneize. “Solo tengo palabras de agradecimiento para este grupo”, se emocionó el mediocampista de la selección argentina",
+        "pubDate": "2026-10-21T11:55:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Canasta en Rosario: una familia necesitó $1,82 millón en septiembre para no ser pobre",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/canasta-en-rosario-una-familia-necesito-182-millon-en-septiembre-para-no-ser-pobre-20261020-0073.html",
-        "image": "https://www.rosario3.com/__export/1776124764157/sites/rosario3/img/2025/07/14/inflacion.jpg_786111823.jpg",
-        "summary": "Según la Usina de Datos de la UNR, la canasta básica subió un 2,5% mensual. En Radio 2, la investigadora Paula Durán advirtió que los sueldos ya no alcanzan y crece el endeudamiento",
+        "title": "Una camioneta de Control Urbano impactó contra un árbol y un contenedor luego de que la chocaran desde atrás",
+        "link": "https://www.rosario3.com/informaciongeneral/una-camioneta-de-control-urbano-impacto-contra-un-arbol-y-un-contenedor-luego-de-que-la-chocaran-desde-atras-20261020-0082.html",
+        "image": "https://www.rosario3.com/__export/1792534303637/sites/rosario3/img/2026/10/20/descontrol.jpg_823035838.jpg",
+        "summary": "El siniestro ocurrió en Uriburu y Sarmiento, producto del impacto de un auto contra la parte trasera del vehículo municipal. Un grupo de personas que estaba tomando algo en la vereda se asustó por el ruido. No hubo heridos",
         "pubDate": "2026-10-20T11:54:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,33 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Vecinos y huerteros de Roldán protagonizaron una jornada de intercambio y aprendizaje comunitario",
+        "link": "https://www.lacapital.com.ar/la-region/vecinos-y-huerteros-roldan-protagonizaron-una-jornada-intercambio-y-aprendizaje-comunitario-n10287679.html",
+        "image": "https://media.lacapital.com.ar/adjuntos/203/imagenes/030/134/0030134894.svg",
+        "summary": "La Capital",
+        "pubDate": "2026-10-21T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El Centro de Nutrición más innovador de la salud pública, abre en el Centenario",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-centro-nutricion-mas-innovador-la-salud-publica-abre-el-centenario-n10287649.html",
+        "image": "https://media.lacapital.com.ar/p/40d19b09955e2abb5cdf489766772811/adjuntos/203/imagenes/103/481/0103481466/1200x675/smart/centro-nutricion-del-centenario.jpg",
+        "summary": "\"Lo hemos gestado en el hospital que dio origen a la medicina de la ciudad y la región\", dijo Alberto Muniagurria, presidente de la Fundación de Ciencias Médicas",
+        "pubDate": "2026-10-21T09:50:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El obispo alinea a las fuerzas vivas de Rosario ante la llegada del Papa",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-obispo-alinea-las-fuerzas-vivas-rosario-la-llegada-del-papa-n10287787.html",
+        "image": "https://media.lacapital.com.ar/p/8b7e7ed063175ddf800a2a0b939a58ad/adjuntos/203/imagenes/103/482/0103482412/1200x675/smart/e9fec23b-9b0b-404e-9125-8a0fb0462fbb.jpg",
+        "summary": "Monseñor Martín encabezó un encuentro con políticos, empresarios, profesionales, jueces y gremios. Gran convocatoria",
+        "pubDate": "2026-10-21T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Clima y agro: lluvias itinerantes, nuevos pulsos de aire fresco y un Paraná en ascenso",
         "link": "https://www.lacapital.com.ar/agro/clima-y-agro-lluvias-itinerantes-nuevos-pulsos-aire-fresco-y-un-parana-ascenso-n10287800.html",
         "image": "https://media.lacapital.com.ar/p/775261600c64d6f0db4f63ac70cb03c7/adjuntos/203/imagenes/103/482/0103482477/1200x675/smart/tormenta.jpg",
@@ -159,19 +186,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Jerónimo Gómez Mattar: \"Newell's es mi vida y a este gol lo soñé siempre\"",
-        "link": "https://www.lacapital.com.ar/ovacion/jeronimo-gomez-mattar-newells-es-mi-vida-y-este-gol-lo-sone-siempre-n10287781.html",
-        "image": "https://media.lacapital.com.ar/p/a9388e0b2f8ff898761291f18c7233a4/adjuntos/203/imagenes/103/482/0103482331/nob-gmat-82782313.jpg",
-        "summary": "El joven volante de Newell's vivió su noche mágica con su primer gol con la camiseta leprosa y con una victoria fundamental para seguir soñando",
+        "title": "Algarrobo blanco, un recurso forrajero para la ganadería en sistemas silvopastoriles",
+        "link": "https://www.lacapital.com.ar/agro/algarrobo-blanco-un-recurso-forrajero-la-ganaderia-sistemas-silvopastoriles-n10287755.html",
+        "image": "https://media.lacapital.com.ar/p/4b78d27bdf2e240f91e6a07b8b95caca/adjuntos/203/imagenes/103/482/0103482040/1200x675/smart/algarroboblanco.jpg",
+        "summary": "Esta especie emblema del parque chaqueño es muy valorada por su madera, así como por sus frutos. Una investigación del Inta confirmó su potencial forrajero. Puede convertirse en un suplemento nativo estratégico para la ganadería, aportando proteínas y energía en momentos de…",
         "pubDate": "2026-10-21T09:15:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Algarrobo blanco, un recurso forrajero para la ganadería en sistemas silvopastoriles",
-        "link": "https://www.lacapital.com.ar/agro/algarrobo-blanco-un-recurso-forrajero-la-ganaderia-sistemas-silvopastoriles-n10287755.html",
-        "image": "https://media.lacapital.com.ar/p/4b78d27bdf2e240f91e6a07b8b95caca/adjuntos/203/imagenes/103/482/0103482040/1200x675/smart/algarroboblanco.jpg",
-        "summary": "Esta especie emblema del parque chaqueño es muy valorada por su madera, así como por sus frutos. Una investigación del Inta confirmó su potencial forrajero. Puede convertirse en un suplemento nativo estratégico para la ganadería, aportando proteínas y energía en momentos de…",
+        "title": "Jerónimo Gómez Mattar: \"Newell's es mi vida y a este gol lo soñé siempre\"",
+        "link": "https://www.lacapital.com.ar/ovacion/jeronimo-gomez-mattar-newells-es-mi-vida-y-este-gol-lo-sone-siempre-n10287781.html",
+        "image": "https://media.lacapital.com.ar/p/a9388e0b2f8ff898761291f18c7233a4/adjuntos/203/imagenes/103/482/0103482331/nob-gmat-82782313.jpg",
+        "summary": "El joven volante de Newell's vivió su noche mágica con su primer gol con la camiseta leprosa y con una victoria fundamental para seguir soñando",
         "pubDate": "2026-10-21T09:15:00+00:00",
         "approxTime": false
       },
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/8e86fff94077c94f39e06ee16dd364b0/adjuntos/203/imagenes/103/432/0103432325/1200x675/smart/electroluxministerio.jpg",
         "summary": "Horas antes de que venciera la conciliación obligatoria, se acordó la desvinculación de casi dos centenares de trabajadores. Cobrarán una indemnización calculada según la legislación laboral anterior más el equivalente a cinco salarios",
         "pubDate": "2026-10-21T01:43:47+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Hugo Yasky: \"Este programa económico se encamina al fracaso\"",
-        "link": "https://www.lacapital.com.ar/economia/hugo-yasky-este-programa-economico-se-encamina-al-fracaso-n10287801.html",
-        "image": "https://media.lacapital.com.ar/p/94f68ece9f56b9b0921b0cb72c896109/adjuntos/203/imagenes/103/482/0103482479/1200x675/smart/yasky1.jpg",
-        "summary": "El secretario general de la CTA de los Trabajadores presentó en Rosario la lista de candidatos para la conducción de la central. Señaló que conflictividad social va a crecer y aseguró que “el gobierno le teme a la enorme movilización por el Papa”.",
-        "pubDate": "2026-10-21T00:55:40+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Los árbitros designados para Newell's y Central, con un rosarino en un partido clave",
-        "link": "https://www.lacapital.com.ar/ovacion/los-arbitros-designados-newells-y-central-un-rosarino-un-partido-clave-n10287791.html",
-        "image": "https://media.lacapital.com.ar/p/7541fbd3d0aa44ce54e60aa6fbacd352/adjuntos/203/imagenes/103/482/0103482425/arasa-2.jpg",
-        "summary": "El próximo sábado Newell's visita a San Lorenzo y Central recibe a Huracán. El domingo un árbitro rosarino dirigirá al líder de la tabla anual",
-        "pubDate": "2026-10-21T00:29:54+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El sistema Lince fue clave para detener a dos jóvenes por el robo de celulares en el centro de Rosario",
-        "link": "https://www.lacapital.com.ar/policiales/el-sistema-lince-fue-clave-detener-dos-jovenes-el-robo-celulares-el-centro-rosario-n10287798.html",
-        "image": "https://media.lacapital.com.ar/p/c1957e0132f353451aca6cb5ec9c5f78/adjuntos/203/imagenes/103/482/0103482437/1200x675/smart/lince-1.jpg",
-        "summary": "Dos sospechosos de 25 y 27 años fueron detenidos y puestos a disposición judicial en el procedimiento realizado en barrio Ludueña",
-        "pubDate": "2026-10-21T00:12:38+00:00",
         "approxTime": false
       }
     ]
