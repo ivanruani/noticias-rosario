@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-21T19:30:58.746017+00:00",
+  "generatedAt": "2026-10-21T20:01:11.323653+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Violento choque entre un camión y un utilitario: trasladaron en helicóptero a un herido",
+        "link": "https://www.rosario3.com/informaciongeneral/violento-choque-entre-un-camion-y-un-utilitario-un-herido-trasladado-en-helicoptero-20261021-0067.html",
+        "image": "https://www.rosario3.com/__export/1792611646462/sites/rosario3/img/2026/10/21/choque3.jpeg_982625323.jpeg",
+        "summary": "Ocurrió en el cruce de las rutas 14 y A012. El chofer del transporte de carga volcó tras impactar contra una Citroën Berlingo y permaneció atrapado 45 minutos. Se activó el código rojo y fue transportado a Rosario con fracturas",
+        "pubDate": "2026-10-21T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Alerta por El Niño en el campo: piden suspender Ganancias a la venta de hacienda evacuada",
         "link": "https://www.rosario3.com/informaciongeneral/alerta-por-el-nino-en-el-campo-piden-suspender-ganancias-a-la-venta-de-hacienda-evacuada-20261021-0062.html",
         "image": "https://www.rosario3.com/__export/1792606678940/sites/rosario3/img/2026/10/16/islas_1.jpeg_393085738.jpeg",
         "summary": "Desde la Federación Agraria señalaron en Radio 2 que el fenómeno ya ingresó en una etapa crítica. Advierten que se trata de 'ventas forzosas' para salvar los animales y prevén un faltante de terneros para el año que viene",
-        "pubDate": "2026-10-21T12:00:00+00:00",
+        "pubDate": "2026-10-21T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/policiales/preso-de-coronda-fue-condenado-por-mandar-a-balear-una-casa-tras-un-incumplimiento-en-el-pago-de-un-prestamo-informal-20261021-0051.html",
         "image": "https://www.rosario3.com/__export/1792600147814/sites/rosario3/img/2023/02/10/carcel_de_coronda.jpeg_1825222445.jpeg",
         "summary": "Las extorsiones y el ataque a tiros ocurrieron en junio pasado en el barrio Puente Gallego. El recluso Brandon Escobar, fuertemente vinculado con Los Monos, aceptó un juicio abreviado este martes",
-        "pubDate": "2026-10-21T11:59:00+00:00",
+        "pubDate": "2026-10-21T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/uber-y-didi-en-rosario-el-oficialismo-busca-destrabar-el-proyecto-y-obtener-dictamen-este-miercoles-20261021-0020.html",
         "image": "https://www.rosario3.com/__export/1790889634743/sites/rosario3/img/2026/10/01/uber.jpg_1825222445.jpg",
         "summary": "Tras un plenario de las comisiones de Servicios Públicos y de Gobierno en el Concejo, al igual que la semana pasada no se alcanzó el consenso para conseguir un dictamen y llevar la iniciativa al recinto. No obstante, desde el oficialismo manifestaron que hubo acercamientos con…",
-        "pubDate": "2026-10-21T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Electrolux formalizó el cierre de su planta en Rosario y el despido de 200 trabajadores: la UOM insiste con la reapertura de la fábrica",
-        "link": "https://www.rosario3.com/informaciongeneral/electrolux-formalizo-el-cierre-de-su-planta-en-rosario-y-el-despido-de-200-trabajadores-la-uom-insiste-con-la-reapertura-de-la-fabrica-20261021-0028.html",
-        "image": "https://www.rosario3.com/__export/1777474280601/sites/rosario3/img/2026/04/29/electrolux_rosario.jpg_506286608.jpg",
-        "summary": "La multinacional y los empleados que permanecían en el establecimiento alcanzaron un acuerdo por las indemnizaciones, que se firmó el pasado lunes, a horas de que venciera la conciliación obligatoria dictada por el Ministerio de Trabajo. La firma seguirá en Argentina, pero…",
         "pubDate": "2026-10-21T11:57:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Cambian las tasas de interés: qué bancos y billeteras virtuales ofrecen los mejores rendimientos",
+        "link": "https://www.lacapital.com.ar/economia/cambian-las-tasas-interes-que-bancos-y-billeteras-virtuales-ofrecen-los-mejores-rendimientos-n10287948.html",
+        "image": "https://media.lacapital.com.ar/p/fa3d9df7d50e7e943051f4b6182469ba/adjuntos/203/imagenes/103/483/0103483949/1200x675/smart/imagetasa.jpg",
+        "summary": "Las entidades financieras actualizaron las tasas de octubre y hay diferencias importantes entre las opciones para hacer rendir los pesos. Cuáles pagan más y qué conviene tener en cuenta antes de invertir.",
+        "pubDate": "2026-10-21T19:42:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "La UNR abrió la inscripción al curso preuniversitario para los ingresantes",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/f326fa35bfff2068f16db753fa68131b/adjuntos/203/imagenes/103/483/0103483653/1200x675/smart/image-2026-10-21t150849745.jpg",
         "summary": "Un repaso por algunas de las propuestas teatrales de los próximos días en la ciudad: dramas, teatro independiente, microteatro y más",
         "pubDate": "2026-10-21T17:52:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El show que celebra el histórico MTV Unplugged de Charly García agrega una función en Rosario",
-        "link": "https://www.lacapital.com.ar/zoom/el-show-que-celebra-el-historico-mtv-unplugged-charly-garcia-agrega-una-funcion-rosario-n10287908.html",
-        "image": "https://media.lacapital.com.ar/p/bc100e67fc882c4a2d9e88b5f969c4e6/adjuntos/203/imagenes/103/472/0103472987/1200x675/smart/image-2026-10-16t100206512.jpg",
-        "summary": "Tras agotar entradas para la fecha de este miércoles, se podrá ver también el jueves 22 de octubre en Casa Brava",
-        "pubDate": "2026-10-21T17:51:00+00:00",
         "approxTime": false
       }
     ]
