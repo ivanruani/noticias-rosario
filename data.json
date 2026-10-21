@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-20T23:31:03.011525+00:00",
+  "generatedAt": "2026-10-21T00:01:13.251952+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Dengue: confirmaron el primer caso de 2026, importado por una mujer de Rosario que viajó a Perú",
+        "link": "https://www.rosario3.com/informaciongeneral/dengue-confirmaron-el-primer-caso-de-2026-importado-por-una-mujer-de-rosario-que-viajo-a-peru-20261020-0055.html",
+        "image": "https://www.rosario3.com/__export/1792518798788/sites/rosario3/img/2024/05/20/dengue_share_x1x.jpg_506286608.jpg",
+        "summary": "Según el Boletín Epidemiológico provincial, la paciente evolucionó favorablemente y los estudios de laboratorio detectaron el serotipo DEN-3 del virus",
+        "pubDate": "2026-10-20T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Canasta en Rosario: una familia necesitó $1,82 millón en septiembre para no ser pobre",
         "link": "https://www.rosario3.com/-economia-negocios-agro-/canasta-en-rosario-una-familia-necesito-182-millon-en-septiembre-para-no-ser-pobre-20261020-0073.html",
         "image": "https://www.rosario3.com/__export/1776124764157/sites/rosario3/img/2025/07/14/inflacion.jpg_786111823.jpg",
         "summary": "Según la Usina de Datos de la UNR, la canasta básica subió un 2,5% mensual. En Radio 2, la investigadora Paula Durán advirtió que los sueldos ya no alcanzan y crece el endeudamiento",
-        "pubDate": "2026-10-20T12:00:00+00:00",
+        "pubDate": "2026-10-20T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/la-justicia-rechazo-el-reclamo-millonario-de-arquitectos-cordobeses-por-el-museo-castagnino-20261020-0083.html",
         "image": "https://www.rosario3.com/__export/1792534631362/sites/rosario3/img/2026/10/20/castagnino.jpg_1825222445.jpg",
         "summary": "La Cámara de lo Contencioso Administrativo N° 2 desestimó la demanda contra la Municipalidad por honorarios e indemnizaciones vinculados al proyecto de ampliación. Desde la gestión municipal indicaron que “la obra avanza a muy buen ritmo”",
-        "pubDate": "2026-10-20T11:59:00+00:00",
+        "pubDate": "2026-10-20T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/una-camioneta-de-control-urbano-impacto-contra-un-arbol-y-un-contenedor-luego-de-que-la-chocaran-desde-atras-20261020-0082.html",
         "image": "https://www.rosario3.com/__export/1792534303637/sites/rosario3/img/2026/10/20/descontrol.jpg_823035838.jpg",
         "summary": "El siniestro ocurrió en Uriburu y Sarmiento, producto del impacto de un auto contra la parte trasera del vehículo municipal. Un grupo de personas que estaba tomando algo en la vereda se asustó por el ruido. No hubo heridos",
-        "pubDate": "2026-10-20T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La Provincia confirmó el primer secuestro de criptomonedas en el extranjero en medio de una estafa internacional",
-        "link": "https://www.rosario3.com/policiales/la-provincia-confirmo-el-primer-secuestro-de-criptomonedas-en-el-extranjero-en-medio-de-una-estafa-internacional-20261020-0023.html",
-        "image": "https://www.rosario3.com/__export/1792502045747/sites/rosario3/img/2026/10/20/fe1.jpg_928314581.jpg",
-        "summary": "El secretario de Gestión de Registros Provinciales, Matías Figueroa Escauriza, anunció la intervención estatal que permitirá devolver los activos digitales a los afectados. Además, destacó la masiva participación en las recientes subastas de bienes incautados al delito en Santa…",
         "pubDate": "2026-10-20T11:57:00+00:00",
         "approxTime": true
       },
@@ -76,10 +76,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Confirmaron la prisión del exfiscal Ríos Artacho y su rol como jefe de un esquema criminal de cinco pasos para vaciar cuentas judiciales",
-        "link": "https://www.rosario3.com/policiales/confirmaron-la-prision-del-exfiscal-rios-artacho-y-su-rol-como-jefe-de-un-esquema-criminal-de-cinco-pasos-para-vaciar-cuentas-judiciales-20261020-0028.html",
-        "image": "https://www.rosario3.com/__export/1792522083597/sites/rosario3/img/2026/10/20/riosartacho.jpg_930824724.jpg",
-        "summary": "La camarista Carolina Hernández ratificó el rumbo de la investigación impulsada por los fiscales Adrián Spelta y Carla Cerliani que reconstruyó la metodología con la que operaba el ex funcionadio judicial. Agregó que su alegada ludopatía podría explicar la motivación de las…",
+        "title": "La Provincia confirmó el primer secuestro de criptomonedas en el extranjero en medio de una estafa internacional",
+        "link": "https://www.rosario3.com/policiales/la-provincia-confirmo-el-primer-secuestro-de-criptomonedas-en-el-extranjero-en-medio-de-una-estafa-internacional-20261020-0023.html",
+        "image": "https://www.rosario3.com/__export/1792502045747/sites/rosario3/img/2026/10/20/fe1.jpg_928314581.jpg",
+        "summary": "El secretario de Gestión de Registros Provinciales, Matías Figueroa Escauriza, anunció la intervención estatal que permitirá devolver los activos digitales a los afectados. Además, destacó la masiva participación en las recientes subastas de bienes incautados al delito en Santa…",
         "pubDate": "2026-10-20T11:52:00+00:00",
         "approxTime": true
       },
@@ -130,15 +130,24 @@
       },
       {
         "source": "Rosario3",
-        "title": "El cielo de Rosario sorprendió con un “arcoíris de fuego”: qué es, cómo se forma y en qué se diferencia del tradicional",
-        "link": "https://www.rosario3.com/informaciongeneral/el-cielo-de-rosario-sorprendio-con-un-arcoiris-de-fuego-que-es-como-se-forma-y-en-que-se-diferencia-del-tradicional-20261020-0040.html",
-        "image": "https://www.rosario3.com/__export/1792512206602/sites/rosario3/img/2026/10/20/arcoiris_de_fuego.png_786111822.png",
-        "summary": "El fenómeno óptico pudo observarse desde distintos puntos de la ciudad y se caracteriza por sus llamativas tonalidades. Su aparición depende de condiciones atmosféricas específicas y de la interacción de la luz solar con las partículas presentes en las nubes. Las fotos",
+        "title": "Confirmaron la prisión del exfiscal Ríos Artacho y su rol como jefe de un esquema criminal de cinco pasos para vaciar cuentas judiciales",
+        "link": "https://www.rosario3.com/policiales/confirmaron-la-prision-del-exfiscal-rios-artacho-y-su-rol-como-jefe-de-un-esquema-criminal-de-cinco-pasos-para-vaciar-cuentas-judiciales-20261020-0028.html",
+        "image": "https://www.rosario3.com/__export/1792522083597/sites/rosario3/img/2026/10/20/riosartacho.jpg_930824724.jpg",
+        "summary": "La camarista Carolina Hernández ratificó el rumbo de la investigación impulsada por los fiscales Adrián Spelta y Carla Cerliani que reconstruyó la metodología con la que operaba el ex funcionadio judicial. Agregó que su alegada ludopatía podría explicar la motivación de las…",
         "pubDate": "2026-10-20T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Newell's: los pibes de la reserva vencieron a Platense y volvieron a sumar de a tres",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-los-pibes-la-reserva-vencieron-platense-y-volvieron-sumar-tres-n10287778.html",
+        "image": "https://media.lacapital.com.ar/p/3c029ce0534ed35c87bbcf4d2cfc4f78/adjuntos/203/imagenes/103/482/0103482276/1200x675/smart/nob-res-hvgfjiwxsaa8z9z.jpg",
+        "summary": "Los dirigidos por Lucas Benardi superaron 2 a 1 al Calamar en Bella Vista y trepan en el grupo B del torneo Proyección",
+        "pubDate": "2026-10-20T23:30:46+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Discapacidad y reforma electoral generan diferencias en la cúpula del gobierno",
@@ -189,7 +198,7 @@
         "title": "Murió un histórico presidente de Central Córdoba justo el día en que el club cumplió 120 años",
         "link": "https://www.lacapital.com.ar/ovacion/murio-un-historico-presidente-central-cordoba-justo-el-dia-que-el-club-cumplio-120-anos-n10287774.html",
         "image": "https://media.lacapital.com.ar/p/8d44ca8200d920bb6115a011abf594df/adjuntos/203/imagenes/103/482/0103482273/1200x675/smart/ricardo-mendez-ex-presidente-central-cordoba.jpg",
-        "summary": "Ricardo Méndez falleció este martes en Rosario. Fue protagonista de los grandes ascensos del Charrúa y dejó una huella imborrable en la institución. Nunca dejó de alentar al club de sus amores, ni siquiera cuando los médicos se lo prohibían.",
+        "summary": "Ricardo Méndez falleció este martes en Rosario. Fue protagonista de los grandes ascensos del Charrúa y dejó una huella imborrable en la institución",
         "pubDate": "2026-10-20T22:14:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/447f5a852cb3d63d600ba0b68b092a1e/adjuntos/203/imagenes/103/481/0103481894/rese.jpg",
         "summary": "El Canalla lo perdía, pero en el ingreso de Gino Pavoni, autor de los dos tantos, encontró la llave de un triunfo que lo mantuvo en zona de clasificación",
         "pubDate": "2026-10-20T20:43:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La viuda de Luis Brandoni dio a conocer la carta que Robert De Niro le envió tras su muerte",
-        "link": "https://www.lacapital.com.ar/zoom/la-viuda-luis-brandoni-dio-conocer-la-carta-que-robert-niro-le-envio-su-muerte-n10287738.html",
-        "image": "https://media.lacapital.com.ar/p/6c5b80ca03158dc7884f988f92b553e0/adjuntos/203/imagenes/103/481/0103481827/1200x675/smart/image-2026-10-20t173140678.png",
-        "summary": "A casi seis meses del fallecimiento del actor argentino, Saula Benavente compartió el mensaje manuscrito que recibió del artista de Hollywood",
-        "pubDate": "2026-10-20T20:42:00+00:00",
         "approxTime": false
       }
     ]
