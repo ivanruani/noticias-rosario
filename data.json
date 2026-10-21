@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-21T01:31:02.099096+00:00",
+  "generatedAt": "2026-10-21T02:01:09.266720+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Avanza en el Concejo un proyecto para habilitar la acuamación, un método alternativo para cremar mascotas",
+        "link": "https://www.rosario3.com/informaciongeneral/avanza-en-el-concejo-un-proyecto-para-habilitar-la-acuamacion-un-metodo-alternativo-para-cremar-mascotas-20261020-0081.html",
+        "image": "https://www.rosario3.com/__export/1792533524851/sites/rosario3/img/2026/10/20/mascotas.jpg_1825222445.jpg",
+        "summary": "La iniciativa obtuvo dictamen favorable en la comisión de Gobierno y continuará su tratamiento en Ecología y Ambiente. El procedimiento utiliza agua y sustancias alcalinas para descomponer los restos de animales sin necesidad de recurrir al fuego",
+        "pubDate": "2026-10-20T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Dengue: confirmaron el primer caso de 2026, importado por una mujer de Rosario que viajó a Perú",
         "link": "https://www.rosario3.com/informaciongeneral/dengue-confirmaron-el-primer-caso-de-2026-importado-por-una-mujer-de-rosario-que-viajo-a-peru-20261020-0055.html",
         "image": "https://www.rosario3.com/__export/1792518798788/sites/rosario3/img/2024/05/20/dengue_share_x1x.jpg_506286608.jpg",
         "summary": "Según el Boletín Epidemiológico provincial, la paciente evolucionó favorablemente y los estudios de laboratorio detectaron el serotipo DEN-3 del virus",
-        "pubDate": "2026-10-20T12:00:00+00:00",
+        "pubDate": "2026-10-20T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/canasta-en-rosario-una-familia-necesito-182-millon-en-septiembre-para-no-ser-pobre-20261020-0073.html",
         "image": "https://www.rosario3.com/__export/1776124764157/sites/rosario3/img/2025/07/14/inflacion.jpg_786111823.jpg",
         "summary": "Según la Usina de Datos de la UNR, la canasta básica subió un 2,5% mensual. En Radio 2, la investigadora Paula Durán advirtió que los sueldos ya no alcanzan y crece el endeudamiento",
-        "pubDate": "2026-10-20T11:59:00+00:00",
+        "pubDate": "2026-10-20T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/la-justicia-rechazo-el-reclamo-millonario-de-arquitectos-cordobeses-por-el-museo-castagnino-20261020-0083.html",
         "image": "https://www.rosario3.com/__export/1792534631362/sites/rosario3/img/2026/10/20/castagnino.jpg_1825222445.jpg",
         "summary": "La Cámara de lo Contencioso Administrativo N° 2 desestimó la demanda contra la Municipalidad por honorarios e indemnizaciones vinculados al proyecto de ampliación. Desde la gestión municipal indicaron que “la obra avanza a muy buen ritmo”",
-        "pubDate": "2026-10-20T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Una camioneta de Control Urbano impactó contra un árbol y un contenedor luego de que la chocaran desde atrás",
-        "link": "https://www.rosario3.com/informaciongeneral/una-camioneta-de-control-urbano-impacto-contra-un-arbol-y-un-contenedor-luego-de-que-la-chocaran-desde-atras-20261020-0082.html",
-        "image": "https://www.rosario3.com/__export/1792534303637/sites/rosario3/img/2026/10/20/descontrol.jpg_823035838.jpg",
-        "summary": "El siniestro ocurrió en Uriburu y Sarmiento, producto del impacto de un auto contra la parte trasera del vehículo municipal. Un grupo de personas que estaba tomando algo en la vereda se asustó por el ruido. No hubo heridos",
         "pubDate": "2026-10-20T11:57:00+00:00",
         "approxTime": true
       },
@@ -49,10 +49,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Otra señal para la visita papal: llega una nueva delegación a la Argentina para avanzar con la coordinación del viaje de León XIV",
-        "link": "https://www.rosario3.com/informaciongeneral/otra-senal-para-la-visita-papal-llega-una-nueva-delegacion-a-la-argentina-para-avanzar-con-la-coordinacion-del-viaje-de-leon-xiv-20261020-0084.html",
-        "image": "https://www.rosario3.com/__export/1792537449029/sites/rosario3/img/2026/10/20/papa.jpg_1768679257.jpg",
-        "summary": "Si bien la llegada de esta delegación no significa la confirmación de la visita del santo padre a la Argentina, sería inminente una comunicación del Vaticano sobre la realización del viaje",
+        "title": "Una camioneta de Control Urbano impactó contra un árbol y un contenedor luego de que la chocaran desde atrás",
+        "link": "https://www.rosario3.com/informaciongeneral/una-camioneta-de-control-urbano-impacto-contra-un-arbol-y-un-contenedor-luego-de-que-la-chocaran-desde-atras-20261020-0082.html",
+        "image": "https://www.rosario3.com/__export/1792534303637/sites/rosario3/img/2026/10/20/descontrol.jpg_823035838.jpg",
+        "summary": "El siniestro ocurrió en Uriburu y Sarmiento, producto del impacto de un auto contra la parte trasera del vehículo municipal. Un grupo de personas que estaba tomando algo en la vereda se asustó por el ruido. No hubo heridos",
         "pubDate": "2026-10-20T11:55:00+00:00",
         "approxTime": true
       },
@@ -94,19 +94,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "Lula pedirá anular la candidatura de Flávio Bolsonaro por \"interferencia\" de Meta en las elecciones de Brasil",
-        "link": "https://www.rosario3.com/informaciongeneral/lula-pedira-anular-la-candidatura-de-flavio-bolsonaro-por-interferencia-de-meta-en-las-elecciones-de-brasil-20261020-0085.html",
-        "image": "https://www.rosario3.com/__export/1792535885688/sites/rosario3/img/2026/10/20/lulabrasil.jpg_982625323.jpg",
-        "summary": "Desde el espacio del mandatario, que el domingo buscará un cuarto mandato, denuncian una presunta “manipulación algorítmica” del gigante tecnológico estadounidense para restringir sus contenidos de campaña en Instagram y WhatsApp",
+        "title": "Otra señal para la visita papal: llega una nueva delegación a la Argentina para avanzar con la coordinación del viaje de León XIV",
+        "link": "https://www.rosario3.com/informaciongeneral/otra-senal-para-la-visita-papal-llega-una-nueva-delegacion-a-la-argentina-para-avanzar-con-la-coordinacion-del-viaje-de-leon-xiv-20261020-0084.html",
+        "image": "https://www.rosario3.com/__export/1792537449029/sites/rosario3/img/2026/10/20/papa.jpg_1768679257.jpg",
+        "summary": "Si bien la llegada de esta delegación no significa la confirmación de la visita del santo padre a la Argentina, sería inminente una comunicación del Vaticano sobre la realización del viaje",
         "pubDate": "2026-10-20T11:50:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Milei llegó a Madrid en plena campaña: lo reciben con críticas del gobierno y sus aliados toman distancia",
-        "link": "https://www.rosario3.com/politica/milei-llego-a-madrid-en-plena-campana-lo-reciben-con-criticas-del-gobierno-y-sus-aliados-toman-distancia-20261020-0071.html",
-        "image": "https://www.rosario3.com/__export/1792528809886/sites/rosario3/img/2026/10/20/milei.jpg_1768679257.jpg",
-        "summary": "Estará un día en España para dar dos conferencias; el líder de Vox se excusó porque está de gira proselitista y Díaz Ayuso (PP) aún no confirma la cita que tenían prevista",
+        "title": "Lula pedirá anular la candidatura de Flávio Bolsonaro por \"interferencia\" de Meta en las elecciones de Brasil",
+        "link": "https://www.rosario3.com/informaciongeneral/lula-pedira-anular-la-candidatura-de-flavio-bolsonaro-por-interferencia-de-meta-en-las-elecciones-de-brasil-20261020-0085.html",
+        "image": "https://www.rosario3.com/__export/1792535885688/sites/rosario3/img/2026/10/20/lulabrasil.jpg_982625323.jpg",
+        "summary": "Desde el espacio del mandatario, que el domingo buscará un cuarto mandato, denuncian una presunta “manipulación algorítmica” del gigante tecnológico estadounidense para restringir sus contenidos de campaña en Instagram y WhatsApp",
         "pubDate": "2026-10-20T11:49:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Electrolux: confirman el cierre de la planta y el despido de los trabajadores",
+        "link": "https://www.lacapital.com.ar/economia/electrolux-confirman-el-cierre-la-planta-y-el-despido-los-trabajadores-n10287803.html",
+        "image": "https://media.lacapital.com.ar/p/8e86fff94077c94f39e06ee16dd364b0/adjuntos/203/imagenes/103/432/0103432325/1200x675/smart/electroluxministerio.jpg",
+        "summary": "Horas antes de que venciera la conciliación obligatoria, se acordó la desvinculación de casi dos centenares de trabajadores. Cobrarán una indemnización calculada según la legislación laboral anterior más el equivalente a cinco salarios",
+        "pubDate": "2026-10-21T01:43:47+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Hugo Yasky: \"Este programa económico se encamina al fracaso\"",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/01d50252b47d8560fbc1d00861202768/adjuntos/203/imagenes/103/481/0103481961/55534466789_50fbf89206_o.jpg",
         "summary": "El joven de 19 años brilló en la Copa del Mundo juvenil disputada en Lima. Hijo de un exolímpico, también fue subcampeón individual y sigue creciendo entre los mejores del planeta.",
         "pubDate": "2026-10-20T21:14:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Caravana tuerca en Rosario: los autos del Turismo Carretera acelerarán en el parque Independencia",
-        "link": "https://www.lacapital.com.ar/ovacion/caravana-tuerca-rosario-los-autos-del-turismo-carretera-aceleraran-el-parque-independencia-n10287720.html",
-        "image": "https://media.lacapital.com.ar/p/ffb26887cb19a8062096084b8b5bed50/adjuntos/203/imagenes/103/481/0103481670/tcfoto.jpg",
-        "summary": "Este viernes 23 de octubre bulevar Oroño será el epicentro de una caravana del TC, en la previa de la carrera en Rosario",
-        "pubDate": "2026-10-20T20:58:00+00:00",
         "approxTime": false
       }
     ]
