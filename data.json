@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T16:01:17.929043+00:00",
+  "generatedAt": "2026-10-21T16:31:03.282902+00:00",
   "sites": {
     "rosario3": [
       {
@@ -42,7 +42,7 @@
         "source": "Rosario3",
         "title": "A días del Festival Bandera 2026: ingreso, mapa del predio y sistema “cashless” para la compra de alimentos y merch",
         "link": "https://www.rosario3.com/ocio/a-dias-del-festival-bandera-2026-ingreso-mapa-del-predio-y-sistema-cashless-para-la-compra-de-alimentos-y-merch-20261021-0043.html",
-        "image": "https://www.rosario3.com/__export/1780068349894/sites/rosario3/img/2026/05/29/festival_bandera__archivo_drone.jpg_1681674948.jpg",
+        "image": "https://www.rosario3.com/__export/1792600148652/sites/rosario3/img/2026/10/21/gemini_generated_image_beomr9beomr9beom_version1792600148130.jpg_876629738.jpg",
         "summary": "El evento se desarrollará este sábado en el Parque Estación Central Córdoba (27 de Febrero y Buenos Aires). La organización dio a conocer la disposición de los escenarios y dónde estará ubicado el ingreso general. También la única modalidad –“sin efectivo”– para adquirir…",
         "pubDate": "2026-10-21T11:56:00+00:00",
         "approxTime": true
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El Concejo no logró un acuerdo sobre Uber en Rosario y la discusión sigue abierta",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-concejo-no-logro-un-acuerdo-uber-rosario-y-la-discusion-sigue-abierta-n10287886.html",
+        "image": "https://media.lacapital.com.ar/p/b596f3b9ffc7e678131a7ae130c63143/adjuntos/203/imagenes/103/240/0103240063/1200x675/smart/descarga-23.jpg",
+        "summary": "El oficialismo y sectores opositores ratificaron sus posturas durante la reunión conjunta de las comisiones de Gobierno y Servicios Públicos Concedidos",
+        "pubDate": "2026-10-21T16:02:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Ameba comecerebros: ¿qué riesgo hay en aguas de Rosario?",
         "link": "https://www.lacapital.com.ar/salud/ameba-comecerebros-que-riesgo-hay-aguas-rosario-n10287847.html",
         "image": "https://media.lacapital.com.ar/p/f07ba0f57598de527234d18b91b51f6b/adjuntos/203/imagenes/103/483/0103483400/1200x675/smart/pileta-termales-comecerebro.jpg",
@@ -206,7 +215,7 @@
         "source": "La Capital",
         "title": "Detienen en Buenos Aires a \"Ladrillo\", condenado en 2018 como parte de Los Monos",
         "link": "https://www.lacapital.com.ar/policiales/detienen-buenos-aires-ladrillo-condenado-2018-como-parte-los-monos-n10287873.html",
-        "image": "https://media.lacapital.com.ar/p/307c21708ca29c478054a37c52480517/adjuntos/203/imagenes/103/483/0103483306/1200x675/smart/ladrillo.jpg",
+        "image": "https://media.lacapital.com.ar/p/074753140de16db2a045052ab0f669b4/adjuntos/203/imagenes/103/483/0103483598/1200x675/smart/whatsapp-image-2026-10-21-at-131457.jpeg",
         "summary": "Gonzalo Rodríguez, de 32 años, había sido condenado a seis años y medio de prisión en la causa Los Patrones, primera condena por narcotráfico a Los Monos",
         "pubDate": "2026-10-21T14:33:00+00:00",
         "approxTime": false
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/c651107c7078aed4bbdd6011522109ce/adjuntos/203/imagenes/103/093/0103093496/escuela-mariano-moreno.jpg",
         "summary": "La Justicia dictó el sobreseimiento del chico de 15 años que mató a un compañero. Aún no volvió a la ciudad tras el asesinato",
         "pubDate": "2026-10-21T12:43:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Murió un nene en Catamarca por una ameba \"comecerebros\": cerraron unas termas para investigar",
-        "link": "https://www.lacapital.com.ar/informacion-general/murio-un-nene-catamarca-una-ameba-comecerebros-cerraron-unas-termas-investigar-n10287831.html",
-        "image": "https://media.lacapital.com.ar/p/44dd2876a829e407407608424f7146b5/adjuntos/203/imagenes/103/482/0103482809/1200x675/smart/termas.jpg",
-        "summary": "Las autoridades de Fiambalá clausuraron el complejo termal de forma temporaria. Un chico de 10 años murió tras contraer una grave infección",
-        "pubDate": "2026-10-21T12:19:00+00:00",
         "approxTime": false
       }
     ]
