@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T23:01:09.359746+00:00",
+  "generatedAt": "2026-10-21T23:30:55.327877+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Bullrich, \"preparada\" para la Presidencia, aunque aclara que aún no está en carrera",
+        "link": "https://www.lacapital.com.ar/politica/bullrich-preparada-la-presidencia-aunque-aclara-que-aun-no-esta-carrera-n10287993.html",
+        "image": "https://media.lacapital.com.ar/p/e451ff8d3442681dfa7c4b44e596f8b4/adjuntos/203/imagenes/103/429/0103429236/1200x675/smart/bullric-senado.jpg",
+        "summary": "En un nuevo mensaje al gobierno de Milei, la jefa de los senadores de LLA reconoció que la economía todavía está lejos de las expectativas de la sociedad",
+        "pubDate": "2026-10-21T23:27:18+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Llega un jueves con alerta naranja por tormentas para Rosario y la zona",
+        "link": "https://www.lacapital.com.ar/la-ciudad/llega-un-jueves-alerta-naranja-tormentas-rosario-y-la-zona-n10287999.html",
+        "image": "https://media.lacapital.com.ar/p/4b910f8dac681874b45b5cd380e33379/adjuntos/203/imagenes/103/452/0103452554/1200x675/smart/lluvia.jpg",
+        "summary": "Se espera una jornada con lluvias y un moderado descenso de la temperatura. El alerta anticipa abundantes precipitaciones en cortos períodos",
+        "pubDate": "2026-10-21T23:26:42+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Llega al cine El Cairo \"La Espera\", un documental que invita a repensar la adopción",
         "link": "https://www.lacapital.com.ar/llega-al-cine-el-cairo-la-espera-un-documental-que-invita-repensar-la-adopcion-n10287980.html",
         "image": "https://media.lacapital.com.ar/p/c9415efc28febd1bf2fa8dbd8f4b20f5/adjuntos/203/imagenes/103/484/0103484401/1200x675/smart/image-2026-10-21t194457544.png",
@@ -204,15 +222,6 @@
       },
       {
         "source": "La Capital",
-        "title": "Milei en España: encuentro con opositores, audiencia frustrada con el rey e insultos a periodistas",
-        "link": "https://www.lacapital.com.ar/politica/milei-espana-encuentro-opositores-audiencia-frustrada-el-rey-e-insultos-periodistas-n10287958.html",
-        "image": "https://media.lacapital.com.ar/p/ca967b528fe2f00cc0e27ee5de049002/adjuntos/203/imagenes/103/484/0103484099/1200x675/smart/milei-diaz-ayuso.jpg",
-        "summary": "El presidente se reunió con Díaz Ayuso y habló por videollamada con Abascal. Defendió su plan económico y volvió a atacar a Pedro Sánchez",
-        "pubDate": "2026-10-21T20:47:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "Murió a los 75 años Saúl Blanch, histórico cantante de Rata Blanca",
         "link": "https://www.lacapital.com.ar/zoom/murio-los-75-anos-saul-blanch-historico-cantante-rata-blanca-n10287962.html",
         "image": "https://media.lacapital.com.ar/p/e4fee53e2021dc9af78be25a66ec99d2/adjuntos/203/imagenes/103/484/0103484145/1200x675/smart/image-2026-10-21t182630717.png",
@@ -222,11 +231,11 @@
       },
       {
         "source": "La Capital",
-        "title": "La primavera tarda en llegar pero ya tiene fecha: cuándo sube la temperatura en Rosario",
-        "link": "https://www.lacapital.com.ar/la-ciudad/la-primavera-tarda-llegar-pero-ya-tiene-fecha-cuando-sube-la-temperatura-rosario-n10287885.html",
-        "image": "https://media.lacapital.com.ar/p/0376c4937b6ff1153228237eeede6253/adjuntos/203/imagenes/017/738/0017738311/1200x675/smart/tiempojpg.jpg",
-        "summary": "Este fenómeno ya ocurrió hace diez años y tiene sus explicaciones. Por ahora, las mañanas frescas seguirán unos días, de la mano de un nuevo frente de tormentas",
-        "pubDate": "2026-10-21T20:24:00+00:00",
+        "title": "Milei en España: encuentro con opositores, audiencia frustrada con el rey e insultos a periodistas",
+        "link": "https://www.lacapital.com.ar/politica/milei-espana-encuentro-opositores-audiencia-frustrada-el-rey-e-insultos-periodistas-n10287958.html",
+        "image": "https://media.lacapital.com.ar/p/ca967b528fe2f00cc0e27ee5de049002/adjuntos/203/imagenes/103/484/0103484099/1200x675/smart/milei-diaz-ayuso.jpg",
+        "summary": "El presidente se reunió con Díaz Ayuso y habló por videollamada con Abascal. Defendió su plan económico y volvió a atacar a Pedro Sánchez",
+        "pubDate": "2026-10-21T20:47:00+00:00",
         "approxTime": false
       },
       {
@@ -235,6 +244,15 @@
         "link": "https://www.lacapital.com.ar/politica/diputados-aprobo-cambios-la-ley-propiedad-privada-y-vuelve-al-senado-n10287954.html",
         "image": "https://media.lacapital.com.ar/p/a916ab8a8ab41349b92384e65bdaf621/adjuntos/203/imagenes/103/483/0103483657/1200x675/smart/image.png",
         "summary": "Con 124 votos a favor, 119 en contra y seis abstenciones, la Cámara baja restituyó la ley de tierras que se votó durante el gobierno de Cristina Kirchner. Ahora se debate la emergencia en discapacidad y después se trata la morosidad en las familias",
+        "pubDate": "2026-10-21T20:24:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La primavera tarda en llegar pero ya tiene fecha: cuándo sube la temperatura en Rosario",
+        "link": "https://www.lacapital.com.ar/la-ciudad/la-primavera-tarda-llegar-pero-ya-tiene-fecha-cuando-sube-la-temperatura-rosario-n10287885.html",
+        "image": "https://media.lacapital.com.ar/p/0376c4937b6ff1153228237eeede6253/adjuntos/203/imagenes/017/738/0017738311/1200x675/smart/tiempojpg.jpg",
+        "summary": "Este fenómeno ya ocurrió hace diez años y tiene sus explicaciones. Por ahora, las mañanas frescas seguirán unos días, de la mano de un nuevo frente de tormentas",
         "pubDate": "2026-10-21T20:24:00+00:00",
         "approxTime": false
       },
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/c33482c1d119fe3eda2e3234db4d16d2/adjuntos/203/imagenes/103/483/0103483585/1200x675/smart/movilizacion-discapacidad03.jpg",
         "summary": "Mientras en el Congreso comienza el debate, organizaciones y familias en todo el país reclaman la prórroga y efectivo cumplimiento de la emergencia para el sector",
         "pubDate": "2026-10-21T20:21:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Primera C: los equipos rosarinos del ascenso se juegan a todo o nada",
-        "link": "https://www.lacapital.com.ar/ovacion/primera-c-los-equipos-rosarinos-del-ascenso-se-juegan-todo-o-nada-n10287939.html",
-        "image": "https://media.lacapital.com.ar/p/93c861fcee0774ff247c0fdeb4a09215/adjuntos/203/imagenes/103/483/0103483960/carruuuaaaa.jpg",
-        "summary": "Argentino inicia el domingo la llave por la Permanencia y Central Córdoba y Leones FC buscarán el lunes avanzar en el Reducido de Primera C",
-        "pubDate": "2026-10-21T20:18:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cambian las tasas de interés: qué bancos y billeteras virtuales ofrecen los mejores rendimientos",
-        "link": "https://www.lacapital.com.ar/economia/cambian-las-tasas-interes-que-bancos-y-billeteras-virtuales-ofrecen-los-mejores-rendimientos-n10287948.html",
-        "image": "https://media.lacapital.com.ar/p/fa3d9df7d50e7e943051f4b6182469ba/adjuntos/203/imagenes/103/483/0103483949/1200x675/smart/imagetasa.jpg",
-        "summary": "Las entidades financieras actualizaron las tasas de octubre y hay diferencias importantes entre las opciones para hacer rendir los pesos. Cuáles pagan más y qué conviene tener en cuenta antes de invertir.",
-        "pubDate": "2026-10-21T19:42:00+00:00",
         "approxTime": false
       }
     ]
