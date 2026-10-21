@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-10-21T15:30:59.028414+00:00",
+  "generatedAt": "2026-10-21T16:01:17.929043+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Uber y DiDi en Rosario: otra vez sin acuerdo, el debate por la legalización pasó a cuarto intermedio hasta el lunes que viene",
+        "link": "https://www.rosario3.com/informaciongeneral/uber-y-didi-en-rosario-el-oficialismo-busca-destrabar-el-proyecto-y-obtener-dictamen-este-miercoles-20261021-0020.html",
+        "image": "https://www.rosario3.com/__export/1790889634743/sites/rosario3/img/2026/10/01/uber.jpg_1825222445.jpg",
+        "summary": "Tras un plenario de las comisiones de Servicios Públicos y de Gobierno en el Concejo, al igual que la semana pasada no se alcanzó el consenso para conseguir un dictamen y llevar la iniciativa al recinto. No obstante, desde el oficialismo manifestaron que hubo acercamientos con…",
+        "pubDate": "2026-10-21T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Reabre el Museo Gallardo: las obras que se hicieron y las muestras que se podrán visitar",
         "link": "https://www.rosario3.com/informaciongeneral/reabre-el-museo-gallardo-las-obras-que-se-hicieron-y-las-muestras-que-se-podran-visitar-20261021-0034.html",
         "image": "https://www.rosario3.com/__export/1792592340655/sites/rosario3/img/2026/10/21/museito.jpg_982625323.jpg",
         "summary": "El espacio de San Lorenzo al 1900 volverá a recibir al público este viernes, con propuestas sobre la biodiversidad santafesina, la historia de sus colecciones y los vínculos entre naturaleza y arte. Las intervenciones incluyeron reparaciones en techos, cielorrasos, instalaciones…",
-        "pubDate": "2026-10-21T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Uber y DiDi en Rosario: el oficialismo busca destrabar el proyecto y obtener dictamen este miércoles",
-        "link": "https://www.rosario3.com/informaciongeneral/uber-y-didi-en-rosario-el-oficialismo-busca-destrabar-el-proyecto-y-obtener-dictamen-este-miercoles-20261021-0020.html",
-        "image": "https://www.rosario3.com/__export/1792587072460/sites/rosario3/img/2026/10/08/uber.jpg_1825222445.jpg",
-        "summary": "La comisión de Servicios Públicos del Concejo Municipal avanzó con cambios a favor de los cadetes y fijó una reunión conjunta con la de Gobierno, que comenzó a las 11. Sin el aval del peronismo y Ciudad Futura, el oficialismo necesita el apoyo libertario para destrabar la norma…",
         "pubDate": "2026-10-21T11:59:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,33 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Ameba comecerebros: ¿qué riesgo hay en aguas de Rosario?",
+        "link": "https://www.lacapital.com.ar/salud/ameba-comecerebros-que-riesgo-hay-aguas-rosario-n10287847.html",
+        "image": "https://media.lacapital.com.ar/p/f07ba0f57598de527234d18b91b51f6b/adjuntos/203/imagenes/103/483/0103483400/1200x675/smart/pileta-termales-comecerebro.jpg",
+        "summary": "Después del caso fatal de un niño en Catamarca, que contrajo el parásito Naegleria fowleri, ¿hay que extremar los recaudos?",
+        "pubDate": "2026-10-21T15:57:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Rutas nacionales 11 y 34: las autovías que Santa Fe espera desde hace más de una década",
+        "link": "https://www.lacapital.com.ar/la-ciudad/rutas-nacionales-11-y-34-las-autovias-que-santa-fe-espera-hace-mas-una-decada-n10287838.html",
+        "image": "https://media.lacapital.com.ar/p/da7aa26390145cc46751e4e81c33ea22/adjuntos/203/imagenes/103/483/0103483001/1200x675/smart/pozos-ruta-11.png",
+        "summary": "Atraviesan Santa Fe y forman parte de seis corredores nacionales con obras postergadas que fueron foco de una investigación. Víctimas fatales y demoras en los proyectos",
+        "pubDate": "2026-10-21T15:48:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Extorsiones desde la cárcel: un recluso fue condenado por exigir dinero mediante Whatsapp",
+        "link": "https://www.lacapital.com.ar/policiales/extorsiones-la-carcel-un-recluso-fue-condenado-exigir-dinero-whatsapp-n10287878.html",
+        "image": "https://media.lacapital.com.ar/p/354881b2e8988599878785c35ba090cb/adjuntos/203/imagenes/102/399/0102399239/2025-05-14-carcel-coronda-by_cmutti-78816418jpg.jpg",
+        "summary": "Brandon Escobar cumplirá una condena total de 9 años de prisión luego de aceptar en un procedimiento abreviado delitos cometidos desde el encierro",
+        "pubDate": "2026-10-21T15:42:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Fenómeno El Niño: operativo de limpieza de sumideros frente al alerta por tormentas fuertes",
         "link": "https://www.lacapital.com.ar/la-ciudad/fenomeno-el-nino-operativo-limpieza-sumideros-frente-al-alerta-tormentas-fuertes-n10287867.html",
         "image": "https://media.lacapital.com.ar/p/ed5f03644129179a7f6c9e5375304fe7/adjuntos/203/imagenes/103/483/0103483514/1200x675/smart/sumideros-limpieza.png",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/44dd2876a829e407407608424f7146b5/adjuntos/203/imagenes/103/482/0103482809/1200x675/smart/termas.jpg",
         "summary": "Las autoridades de Fiambalá clausuraron el complejo termal de forma temporaria. Un chico de 10 años murió tras contraer una grave infección",
         "pubDate": "2026-10-21T12:19:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cordobés preso cuando intentaba robar con inhibidor de señales",
-        "link": "https://www.lacapital.com.ar/policiales/cordobes-preso-cuando-intentaba-robar-inhibidor-senales-n10287827.html",
-        "image": "https://media.lacapital.com.ar/p/06e2032f071fbd5b1bdabca60a4477ba/adjuntos/203/imagenes/103/482/0103482781/detenido-inhibidor.jpg",
-        "summary": "El presunto ladrón fue descubierto cuando ya había ingresado en un vehículo estacionado en la zona de Oroño y Tres de Febrero.",
-        "pubDate": "2026-10-21T12:08:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El día que la caída de un caniche desde un piso 13 terminó en una tragedia con tres muertos",
-        "link": "https://www.lacapital.com.ar/informacion-general/el-dia-que-la-caida-un-caniche-un-piso-13-termino-una-tragedia-tres-muertos-n10287823.html",
-        "image": "https://media.lacapital.com.ar/p/9b7b02ad5102bcc3b6ff0e5b41a9bd89/adjuntos/203/imagenes/101/687/0101687362/1200x675/smart/caniche-avif_11zonjpg.jpg",
-        "summary": "El 21 de octubre de 1988, Cachy se precipitó al vacío. El animal impactó contra la cabeza de una mujer que estaba en la vereda. Pero hubo dos muertes más",
-        "pubDate": "2026-10-21T12:06:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Timbúes homenajeará a su fundador, José María Cullen, a 150 años de su fallecimiento",
-        "link": "https://www.lacapital.com.ar/la-region/timbues-homenajeara-su-fundador-jose-maria-cullen-150-anos-su-fallecimiento-n10287686.html",
-        "image": "https://media.lacapital.com.ar/p/39c94ceb045be350ddb17f120e928857/adjuntos/203/imagenes/103/163/0103163780/1200x675/smart/timbues-patrimonio3.jpeg",
-        "summary": "Este 21 de octubre, desde las 16.30, se desarrollará una agenda de actividades conmemorativas que incluirán recorridos por la localidad y un conversatorio, entre otras",
-        "pubDate": "2026-10-21T12:00:00+00:00",
         "approxTime": false
       }
     ]
