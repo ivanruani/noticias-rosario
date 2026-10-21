@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T18:01:10.575944+00:00",
+  "generatedAt": "2026-10-21T18:31:04.754596+00:00",
   "sites": {
     "rosario3": [
       {
@@ -76,10 +76,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "\"Zurdo y orgulloso\": la respuesta de Pedro Sánchez a Javier Milei con un spot y una canción de Lali Espósito",
-        "link": "https://www.rosario3.com/politica/zurdo-y-orgulloso-la-respuesta-de-pedro-sanchez-a-javier-milei-con-un-spot-y-una-cancion-de-lali-esposito-20261021-0025.html",
-        "image": "https://www.rosario3.com/__export/1792587434137/sites/rosario3/img/2026/10/21/image_-45-.jpg_142260625.jpg",
-        "summary": "En plena visita del presidente argentino a España, el mandatario ibérico le respondió con ironía tras ser tildado de 'impresentable dictador'. Lanzó una campaña en redes reivindicando las políticas de izquierda y compartió el tema que la artista argentina le dedicó al líder…",
+        "title": "Lisandro Martínez, en medio de la polémica con el Manchester United, podría fichar por un gigante de Europa",
+        "link": "https://www.rosario3.com/deportes/lisandro-martinez-en-medio-de-la-polemica-con-el-manchester-united-podria-fichar-por-un-gigante-de-europa-20261021-0053.html",
+        "image": "https://www.rosario3.com/__export/1792601939811/sites/rosario3/img/2026/10/21/lisandro.jpg_928314580.jpg",
+        "summary": "Las duras frases del defensor argentino contra la dirigencia del club inglés abrieron la puerta a una posible salida. Barcelona se mantiene expectante ante una posible contratación",
         "pubDate": "2026-10-21T11:52:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,24 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Dramática crecida del Paraná en una ciudad turística: se rompieron las defensas y el agua avanza sobre la zona urbana",
+        "link": "https://www.lacapital.com.ar/informacion-general/dramatica-crecida-del-parana-una-ciudad-turistica-se-rompieron-las-defensas-y-el-agua-avanza-la-zona-urbana-n10287915.html",
+        "image": "https://media.lacapital.com.ar/p/72adbae1d4ade0999706018871682a14/adjuntos/203/imagenes/103/483/0103483689/1200x675/smart/imagepaso.jpg",
+        "summary": "La inundación golpea a Paso de la Patria, en Corrientes, donde unas 300 viviendas resultaron afectadas. La costanera quedó bajo el agua, hay sectores aislados y crece el temor por nuevas lluvias. También peligra la temporada de verano.",
+        "pubDate": "2026-10-21T18:17:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Reforma en seguridad: defensa y cuestionamientos en el último tramo legislativo",
+        "link": "https://www.lacapital.com.ar/politica/reforma-seguridad-defensa-y-cuestionamientos-el-ultimo-tramo-legislativo-n10287882.html",
+        "image": "https://media.lacapital.com.ar/p/ee97830d0aade18c3c620ab6c2b41cbe/adjuntos/203/imagenes/103/447/0103447281/1200x675/smart/seguridad-y-asuntos-legislatura.jpg",
+        "summary": "El oficialismo quiere cerrar los cambios procesales, penales y penitenciarios, pero se mantienen las observaciones en algunos puntos. El radicalismo los defiende",
+        "pubDate": "2026-10-21T18:03:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "En Netflix, una serie autobiográfica de 8 episodios se mantiene vigente",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/f07ba0f57598de527234d18b91b51f6b/adjuntos/203/imagenes/103/483/0103483400/1200x675/smart/pileta-termales-comecerebro.jpg",
         "summary": "Después del caso fatal de un niño en Catamarca, que contrajo el parásito Naegleria fowleri, ¿hay que extremar los recaudos?",
         "pubDate": "2026-10-21T15:57:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Rutas nacionales 11 y 34: las autovías que Santa Fe espera desde hace más de una década",
-        "link": "https://www.lacapital.com.ar/la-ciudad/rutas-nacionales-11-y-34-las-autovias-que-santa-fe-espera-hace-mas-una-decada-n10287838.html",
-        "image": "https://media.lacapital.com.ar/p/da7aa26390145cc46751e4e81c33ea22/adjuntos/203/imagenes/103/483/0103483001/1200x675/smart/pozos-ruta-11.png",
-        "summary": "Atraviesan Santa Fe y forman parte de seis corredores nacionales con obras postergadas que fueron foco de una investigación. Víctimas fatales y demoras en los proyectos",
-        "pubDate": "2026-10-21T15:48:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Extorsiones desde la cárcel: un recluso fue condenado por exigir dinero mediante Whatsapp",
-        "link": "https://www.lacapital.com.ar/policiales/extorsiones-la-carcel-un-recluso-fue-condenado-exigir-dinero-whatsapp-n10287878.html",
-        "image": "https://media.lacapital.com.ar/p/354881b2e8988599878785c35ba090cb/adjuntos/203/imagenes/102/399/0102399239/2025-05-14-carcel-coronda-by_cmutti-78816418jpg.jpg",
-        "summary": "Brandon Escobar cumplirá una condena total de 9 años de prisión luego de aceptar en un procedimiento abreviado delitos cometidos desde el encierro",
-        "pubDate": "2026-10-21T15:42:00+00:00",
         "approxTime": false
       }
     ]
