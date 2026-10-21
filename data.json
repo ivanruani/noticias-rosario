@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T19:01:14.281787+00:00",
+  "generatedAt": "2026-10-21T19:30:58.746017+00:00",
   "sites": {
     "rosario3": [
       {
@@ -94,20 +94,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Central confirmó la lesión de Federico Navarro: ¿qué se sabe sobre la recuperación de Franco Ibarra?",
-        "link": "https://www.rosario3.com/deportes/central-confirmo-la-lesion-de-federico-navarro-que-se-sabe-sobre-la-recuperacion-de-franco-ibarra-20261021-0045.html",
-        "image": "https://www.rosario3.com/__export/1777763242217/sites/rosario3/img/2026/05/02/ibarra.jpg_928314580.jpg",
-        "summary": "El exjugador de Talleres fue operado por una rotura del ligamento interno del tobillo derecho y se perderá el final de la temporada. En paralelo, el técnico Jorge Almirón aguarda por la evolución de uno de sus futbolistas más importantes, que tampoco estuvo en Tucumán por un…",
-        "pubDate": "2026-10-21T11:50:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
         "title": "Detuvieron a “Ladrillo”, un delincuente vinculado a Los Menores que fue escrachado en banderas mafiosas en escuelas",
         "link": "https://www.rosario3.com/policiales/detuvieron-a-ladrillo-un-delincuente-vinculado-a-los-menores-que-fue-escrachado-en-banderas-mafiosas-en-escuelas-20261021-0022.html",
         "image": "https://www.rosario3.com/__export/1792592673745/sites/rosario3/img/2026/10/21/image_-47-.jpg_928314580.jpg",
         "summary": "Gonzalo R. fue arrestado este martes por la noche en la localidad bonaerense de Berazategui en un operativo de la Tropa de Operaciones Especiales. Lo llevará a audiencia imputativa el fiscal Franco Miatello",
-        "pubDate": "2026-10-21T11:49:00+00:00",
+        "pubDate": "2026-10-21T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -116,6 +107,15 @@
         "link": "https://www.rosario3.com/politica/martin-rosua-defendio-el-nuevo-paquete-de-leyes-de-seguridad-es-para-garantizar-a-las-victimas-el-derecho-de-vivir-en-paz-20261021-0018.html",
         "image": "https://www.rosario3.com/__export/1792586127599/sites/rosario3/img/2024/01/25/homicidio_las_flores.jpeg_28272100.jpeg",
         "summary": "El presidente de la comisión de Seguridad de Diputados explicó las nuevas herramientas que impulsa el gobierno provincial. Reconoció que todavía se discute qué valor tendrán las declaraciones ante la policía sin defensor y sostuvo que el debate legislativo permitirá mejorar el…",
+        "pubDate": "2026-10-21T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Con Nico Paz figura y líder, Como goleó a Manchester United por Champions League",
+        "link": "https://www.rosario3.com/deportes/con-nico-paz-figura-y-lider-como-goleo-a-manchester-united-por-champions-league-20261021-0065.html",
+        "image": "https://www.rosario3.com/__export/1792608642913/sites/rosario3/img/2026/10/21/nico-paz.jpg_928314580.jpg",
+        "summary": "El mediocampista de la selección argentina anotó dos goles y repartió una asistencia en la victoria por 4 a 1 del equipo italiano ante el inglés. En el United no jugó Lisandro Martínez",
         "pubDate": "2026-10-21T11:48:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,51 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "La UNR abrió la inscripción al curso preuniversitario para los ingresantes",
+        "link": "https://www.lacapital.com.ar/la-ciudad/la-unr-abrio-la-inscripcion-al-curso-preuniversitario-los-ingresantes-n10287879.html",
+        "image": "https://media.lacapital.com.ar/p/7c783ead54d8602b1a3d85a3678b8572/adjuntos/203/imagenes/103/395/0103395540/1200x675/smart/unr-expo-carreras-119-3.jpg",
+        "summary": "La propuesta es virtual y propone un primer acercamiento con la vida de la UNR. No es obligatoria ni reemplaza los cursos que se dictan en las facultades",
+        "pubDate": "2026-10-21T19:18:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Las \"redes de salud\" de todo el país se reúnen en Rosario",
+        "link": "https://www.lacapital.com.ar/las-redes-salud-todo-el-pais-se-reunen-rosario-n10287899.html",
+        "image": "https://media.lacapital.com.ar/p/c60d5e0c6d6f8b8be7cc3a53650f122c/adjuntos/203/imagenes/103/483/0103483645/1200x675/smart/gestion-salud.jpg",
+        "summary": "El jueves 22 de octubre, en la UCA, representantes de hospitales, sanatorios, obras sociales y financiadores debatirán sobre el presente y futuro del sistema en la Argentina",
+        "pubDate": "2026-10-21T19:18:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Tragedia en San Cristóbal: la familia del alumno asesinado demandará a los padres del atacante y al colegio",
+        "link": "https://www.lacapital.com.ar/la-region/tragedia-san-cristobal-la-familia-del-alumno-asesinado-demandara-los-padres-del-atacante-y-al-colegio-n10287914.html",
+        "image": "https://media.lacapital.com.ar/p/07a49eb48f86e17334cbdc0455163508/adjuntos/203/imagenes/103/480/0103480824/escuela-normal-mariano-moreno-san-cristobal.png",
+        "summary": "Tras el sobreseimiento del adolescente que mató a Ian Cabrera, de 13 años, la familia de la víctima anunció que iniciará acciones civiles contra los padres y el abuelo del menor agresor y contra la escuela donde ocurrió el crimen.",
+        "pubDate": "2026-10-21T19:14:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Pullaro, Frigerio y Llaryora le hacen un guiño a Milei: quieren eliminar las Paso",
+        "link": "https://www.lacapital.com.ar/politica/pullaro-frigerio-y-llaryora-le-hacen-un-guino-milei-quieren-eliminar-las-paso-n10287919.html",
+        "image": "https://media.lacapital.com.ar/p/af2ec74b89f191a476a048aed76fb726/adjuntos/203/imagenes/103/483/0103483692/1200x675/smart/rc.jpg",
+        "summary": "Los tres gobernadores de la Región Centro respaldaron la propuesta de la Casa Rosada para suspender o eliminar las primarias nacionales",
+        "pubDate": "2026-10-21T19:03:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La fruta que ayuda a limpiar los riñones y mantenerse hidratado",
+        "link": "https://www.lacapital.com.ar/informacion-general/la-fruta-que-ayuda-limpiar-los-rinones-y-mantenerse-hidratado-n10287910.html",
+        "image": "https://media.lacapital.com.ar/p/661ab0baa70b23ef5fc54299162f70fb/adjuntos/203/imagenes/103/483/0103483654/1200x675/smart/image-9.png",
+        "summary": "Entre tantas frutas existe una que, por sus niveles de agua, permite limpiar el organismo y mejorar el sistema renal. Su composición y beneficios",
+        "pubDate": "2026-10-21T19:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "La lista de farmacias que trabajan con Pami",
         "link": "https://www.lacapital.com.ar/informacion-general/la-lista-farmacias-que-trabajan-pami-n10287916.html",
         "image": "https://media.lacapital.com.ar/p/9e3026d3c8712165b71812547ecb3d98/adjuntos/203/imagenes/102/554/0102554193/1200x675/smart/receta-electronica-farmacias.jpg",
@@ -153,7 +198,7 @@
         "title": "Escándalo judicial para una diputada libertaria de Rosario: denuncian a su familia por estafa con tres departamentos",
         "link": "https://www.lacapital.com.ar/politica/escandalo-judicial-una-diputada-libertaria-rosario-denuncian-su-familia-estafa-tres-departamentos-n10287726.html",
         "image": "https://media.lacapital.com.ar/p/78a3bb2ad14546a3bce3487bd3857286/adjuntos/203/imagenes/102/828/0102828761/1200x675/smart/veronica-razzini.jpg",
-        "summary": "Un empresario denunció al grupo Razzini por tres departamentos que pagó 300 mil dólares y nunca recibió. La diputada libertaria Verónica Razzini y sus hermanos fueron citados a declarar. El holding familiar acumula deudas millonarias.",
+        "summary": "Un empresario denunció al grupo Razzini por tres departamentos que pagó 300 mil dólares y nunca recibió. La diputada libertaria Verónica Razzini y sus hermanos fueron citados a declarar. El holding familiar acumula deudas millonarias",
         "pubDate": "2026-10-21T18:55:00+00:00",
         "approxTime": false
       },
@@ -179,7 +224,7 @@
         "source": "La Capital",
         "title": "Reforma en seguridad: defensa y cuestionamientos en el último tramo legislativo",
         "link": "https://www.lacapital.com.ar/politica/reforma-seguridad-defensa-y-cuestionamientos-el-ultimo-tramo-legislativo-n10287882.html",
-        "image": "https://media.lacapital.com.ar/p/ee97830d0aade18c3c620ab6c2b41cbe/adjuntos/203/imagenes/103/447/0103447281/1200x675/smart/seguridad-y-asuntos-legislatura.jpg",
+        "image": "https://media.lacapital.com.ar/p/333645b24fbe4f14f2f4b4fa6f0060b1/adjuntos/203/imagenes/103/483/0103483827/1200x675/smart/seguridad-legislatura.jpeg",
         "summary": "El oficialismo quiere cerrar los cambios procesales, penales y penitenciarios, pero se mantienen las observaciones en algunos puntos. El radicalismo los defiende",
         "pubDate": "2026-10-21T18:03:00+00:00",
         "approxTime": false
@@ -227,51 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/bc100e67fc882c4a2d9e88b5f969c4e6/adjuntos/203/imagenes/103/472/0103472987/1200x675/smart/image-2026-10-16t100206512.jpg",
         "summary": "Tras agotar entradas para la fecha de este miércoles, se podrá ver también el jueves 22 de octubre en Casa Brava",
         "pubDate": "2026-10-21T17:51:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El oficialismo consiguió quorum y se desarrolla una maratónica sesión en Diputados",
-        "link": "https://www.lacapital.com.ar/politica/el-oficialismo-consiguio-quorum-y-se-desarrolla-una-maratonica-sesion-diputados-n10287912.html",
-        "image": "https://media.lacapital.com.ar/p/a916ab8a8ab41349b92384e65bdaf621/adjuntos/203/imagenes/103/483/0103483657/1200x675/smart/image.png",
-        "summary": "El temario abrió con la discusión del proyecto de inviolabilidad de la propiedad privada y seguirá con discapacidad y morosidad familiar, entre otras iniciativas",
-        "pubDate": "2026-10-21T17:50:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Todos los celulares que se quedarán sin WhatsApp el 31 de octubre",
-        "link": "https://www.lacapital.com.ar/informacion-general/todos-los-celulares-que-se-quedaran-whatsapp-el-31-octubre-n10287907.html",
-        "image": "https://media.lacapital.com.ar/p/c2dc10788c59f1b07d2f034be46ac1cc/adjuntos/203/imagenes/101/031/0101031163/1200x675/smart/whatsapp-wp-app.png",
-        "summary": "Distintos modelos de Android y iOS no podrán descargar ni abrir la aplicación. La lista completa y algunos consejos para evitar perder datos importantes",
-        "pubDate": "2026-10-21T17:49:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Celebrar 160 años escribiendo juntos: así será la Feria del Libro de Roldán",
-        "link": "https://www.lacapital.com.ar/la-region/celebrar-160-anos-escribiendo-juntos-asi-sera-la-feria-del-libro-roldan-n10287904.html",
-        "image": "https://media.lacapital.com.ar/p/4d8882bbfdee87e6c3e72b32b7684fb3/adjuntos/203/imagenes/103/483/0103483649/1200x675/smart/roldan-ferialibro3.jpeg",
-        "summary": "Programada para realizarse entre el 12 y el 14 de noviembre próximos, será la quinta edición y se desarrollará en el Salón de Usos Múltiples de Paseo de la Estación",
-        "pubDate": "2026-10-21T17:03:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Furor absoluto por U2 en Argentina: más de un millón de personas en fila virtual",
-        "link": "https://www.lacapital.com.ar/zoom/furor-absoluto-u2-argentina-mas-un-millon-personas-fila-virtual-n10287900.html",
-        "image": "https://media.lacapital.com.ar/p/86fd07ac97c8df66b2f509852dbaae02/adjuntos/203/imagenes/103/483/0103483648/1200x675/smart/image-2026-10-21t144015024.jpg",
-        "summary": "La emblemática banda irlandesa se presentará en el Estadio de River los días 23 y 25 de marzo de 2027, y ya se agotó la preventa",
-        "pubDate": "2026-10-21T16:56:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Asignación por Matrimonio de Ansés: quiénes pueden acceder y cuánto se paga",
-        "link": "https://www.lacapital.com.ar/informacion-general/asignacion-matrimonio-anses-quienes-pueden-acceder-y-cuanto-se-paga-n10287892.html",
-        "image": "https://media.lacapital.com.ar/p/2c6cb69e78398486205eeed94fd72cf9/adjuntos/203/imagenes/102/621/0102621116/1200x675/smart/anses-prestamo.webp",
-        "summary": "Existe una ayuda económica que ciertos grupos pueden solicitar y se relaciona con el matrimonio. Los detalles, en esta nota",
-        "pubDate": "2026-10-21T16:53:00+00:00",
         "approxTime": false
       }
     ]
