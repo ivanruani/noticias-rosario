@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T02:31:03.016572+00:00",
+  "generatedAt": "2026-10-21T03:01:11.588076+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Maracanazo de Boca: le ganó por 3-1 a Vasco Da Gama y es finalista de la Copa Sudamericana",
+        "link": "https://www.lacapital.com.ar/ovacion/maracanazo-boca-le-gano-3-1-vasco-da-gama-y-es-finalista-la-copa-sudamericana-n10287808.html",
+        "image": "https://media.lacapital.com.ar/p/12d7de0815781d794e4fbb77fc1b8d2d/adjuntos/203/imagenes/103/482/0103482626/paredes.jpg",
+        "summary": "Lautaro Di Lollo, Miguel Merentiel y Leandro Paredes fueron los goleadores del equipo xeneize esta noche en Brasil",
+        "pubDate": "2026-10-21T02:44:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El Fresu calculó en más de $3 millones el salario mínimo, vital y móvil",
         "link": "https://www.lacapital.com.ar/economia/el-fresu-calculo-mas-3-millones-el-salario-minimo-vital-y-movil-n10287805.html",
         "image": "https://media.lacapital.com.ar/p/2322220fc49ed3e5a383255af90ac35d/adjuntos/203/imagenes/103/482/0103482526/1200x675/smart/fresu11.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/4b910f8dac681874b45b5cd380e33379/adjuntos/203/imagenes/103/452/0103452554/1200x675/smart/lluvia.jpg",
         "summary": "El Servicio Meteorológico Nacional anticipa un período de marcada inestabilidad desde este miércoles hasta el domingo.",
         "pubDate": "2026-10-20T21:50:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "\"Milei se burló de la gente que no llega a fin de mes con un cinismo desconocido\", cuestionó Kicillof",
-        "link": "https://www.lacapital.com.ar/politica/milei-se-burlo-la-gente-que-no-llega-fin-mes-un-cinismo-desconocido-cuestiono-kicillof-n10287761.html",
-        "image": "https://media.lacapital.com.ar/p/b1a3ab769bf92475ea8f6e031dab4775/adjuntos/203/imagenes/103/482/0103482178/1200x675/smart/ak2.jpg",
-        "summary": "El gobernador de Buenos Aires cruzó al presidente por sus dichos sobre el poder adquisitivo y lo acusó de “ignorar” la realidad de la calle",
-        "pubDate": "2026-10-20T21:48:00+00:00",
         "approxTime": false
       }
     ]
