@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-10-22T09:01:12.151227+00:00",
+  "generatedAt": "2026-10-22T09:30:59.148744+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "El clima en Rosario: alerta naranja por lluvias intensas, granizo y ráfagas",
+        "link": "https://www.rosario3.com/informaciongeneral/elevan-a-naranja-el-alerta-por-tormentas-para-este-jueves-en-rosario-advierten-por-lluvias-intensas-granizo-y-rafagas-20261021-0083.html",
+        "image": "https://www.rosario3.com/__export/1792622841326/sites/rosario3/img/2026/10/21/lluvia.jpg_1825222445.jpg",
+        "summary": "El Servicio Meteorológico agravó el pronóstico para la tarde y extendió las advertencias hasta la noche. Se esperan precipitaciones acumuladas de hasta 100 milímetros y vientos de 90 kilómetros por hora. El municipio reforzó los trabajos de prevención y pidió a vecinos que…",
+        "pubDate": "2026-10-21T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Acuerdo entre adultos para cuidar la niñez: la escuela, el primer celular y la recomendación de retrasarlo lo máximo posible",
         "link": "https://www.rosario3.com/informaciongeneral/acuerdo-entre-adultos-para-cuidar-la-ninez-la-escuela-el-primer-celular-y-la-recomendacion-de-retrasarlo-lo-maximo-posible-20261021-0087.html",
         "image": "https://www.rosario3.com/__export/1792630296090/sites/rosario3/img/2026/10/21/nixo_mira_el_cel.jpg_928314580.jpg",
         "summary": "Un proyecto conjunto entre alumnos y docentes de los niveles inicial y secundario del Normal 1 puso el foco en la preocupación por el acceso cada vez a edades más tempranas de celulares y otros dispositivos electrónicos. Autoridades observaron que son cada vez más frecuentes las…",
-        "pubDate": "2026-10-21T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Elevan a naranja el alerta por tormentas para este jueves en Rosario: advierten por lluvias intensas, granizo y ráfagas",
-        "link": "https://www.rosario3.com/informaciongeneral/elevan-a-naranja-el-alerta-por-tormentas-para-este-jueves-en-rosario-advierten-por-lluvias-intensas-granizo-y-rafagas-20261021-0083.html",
-        "image": "https://www.rosario3.com/__export/1792622841326/sites/rosario3/img/2026/10/21/lluvia.jpg_1825222445.jpg",
-        "summary": "El Servicio Meteorológico agravó el pronóstico para la tarde y extendió las advertencias hasta la noche. Se esperan precipitaciones acumuladas de hasta 100 milímetros y vientos de 90 kilómetros por hora. El municipio reforzó los trabajos de prevención y pidió a vecinos que…",
         "pubDate": "2026-10-21T11:59:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,51 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Concejo: acuerdan evitar que taxis y remises realicen el servicio de cadetería",
+        "link": "https://www.lacapital.com.ar/la-ciudad/concejo-acuerdan-evitar-que-taxis-y-remises-realicen-el-servicio-cadeteria-n10287744.html",
+        "image": "https://media.lacapital.com.ar/p/dfc961ebdcb9f174bd9c41cc2049bdd8/adjuntos/203/imagenes/103/163/0103163895/1200x675/smart/repartidores.jpg",
+        "summary": "Se consensuó la modificación del anteproyecto del Ejecutivo que, según dijeron los trabajadores de traslados, ponía en jaque la actividad",
+        "pubDate": "2026-10-22T09:25:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Tras meses de abandono, la nueva concesionaria de Circunvalación arranca el desmalezamiento",
+        "link": "https://www.lacapital.com.ar/la-ciudad/tras-meses-abandono-la-nueva-concesionaria-circunvalacion-arranca-el-desmalezamiento-n10287935.html",
+        "image": "https://media.lacapital.com.ar/p/465cdf6328f348710a81e1265f92fd25/adjuntos/203/imagenes/103/479/0103479488/1200x675/smart/circunvala33.jpg",
+        "summary": "Arco Portuario SAU lanza este jueves tareas clave en la avenida, además del bacheo de la autopista a Buenos Aires y el corte del pasto en la ruta 33",
+        "pubDate": "2026-10-22T09:25:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Arrancó la siembra de soja en el centro norte santafesino y apunta a cubrir 1,1 millón de hectáreas",
+        "link": "https://www.lacapital.com.ar/agro/arranco-la-siembra-soja-el-centro-norte-santafesino-y-apunta-cubrir-11-millon-hectareas-n10287922.html",
+        "image": "https://media.lacapital.com.ar/p/3a1eb1197758773b37d8c672452f41a2/adjuntos/203/imagenes/103/483/0103483693/1200x675/462x286:482x306/soja-siembra.jpg",
+        "summary": "Las tareas comenzaron con condiciones ambientales óptimas y una intención similar a la campaña anterior. Finalizó la implantación de girasol y maíz temprano",
+        "pubDate": "2026-10-22T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Confirman que la venta de La Favorita a una firma uruguaya sigue en pie",
+        "link": "https://www.lacapital.com.ar/la-ciudad/confirman-que-la-venta-la-favorita-una-firma-uruguaya-sigue-pie-n10287927.html",
+        "image": "https://media.lacapital.com.ar/p/628db501fb10d0f314b7e17644a810d1/adjuntos/203/imagenes/101/621/0101621154/fv-frente2png.png",
+        "summary": "El grupo comprador Indian está gestionando la sociedad en Argentina que le permita adquirir La Favorita.",
+        "pubDate": "2026-10-22T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "En Newell's, hoy se realiza la asamblea ordinaria en el estadio cubierto",
+        "link": "https://www.lacapital.com.ar/ovacion/en-newells-hoy-se-realiza-la-asamblea-ordinaria-el-estadio-cubierto-n10288000.html",
+        "image": "https://media.lacapital.com.ar/p/eaee1d23d544ae2fc9f95decda4551bb/adjuntos/203/imagenes/103/484/0103484495/1200x675/smart/nob-asamb-81254235.jpg",
+        "summary": "Se analizará la memoria y balance general, y también se discutirán las correcciones y la aprobación del período anterior",
+        "pubDate": "2026-10-22T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "La actividad económica cayó 1,7 % en agosto y la recesión técnica parece inevitable",
         "link": "https://www.lacapital.com.ar/economia/la-actividad-economica-cayo-17-agosto-y-la-recesion-tecnica-parece-inevitable-n10288002.html",
         "image": "https://media.lacapital.com.ar/p/98e968df10e7b004acb260c64b007a67/adjuntos/203/imagenes/103/157/0103157987/1200x675/544x213:564x233/construccion.jpg",
@@ -227,51 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/c9415efc28febd1bf2fa8dbd8f4b20f5/adjuntos/203/imagenes/103/484/0103484401/1200x675/smart/image-2026-10-21t194457544.png",
         "summary": "La cita será el sábado 24 de octubre, a las 18, con entrada libre y gratuita y con la presencia de su director, Darío Doria",
         "pubDate": "2026-10-21T22:19:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Una camioneta de Gendarmería terminó incrustada en una casa de Empalme Graneros y un agente resultó herido",
-        "link": "https://www.lacapital.com.ar/policiales/una-camioneta-gendarmeria-termino-incrustada-una-casa-empalme-graneros-y-un-agente-resulto-herido-n10287976.html",
-        "image": "https://media.lacapital.com.ar/p/e8398d5f809b3961a3fedbc20fc7c6cf/adjuntos/203/imagenes/103/484/0103484377/1200x675/smart/image-28.jpg",
-        "summary": "El accidente se dio en el marco de una persecución a una mujer que se trasladaba en moto y que también sufrió heridas",
-        "pubDate": "2026-10-21T22:09:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Choque y vuelco en la A012: un camionero quedó atrapado y fue trasladado en helicóptero al Heca",
-        "link": "https://www.lacapital.com.ar/la-region/choque-y-vuelco-la-a012-un-camionero-quedo-atrapado-y-fue-trasladado-helicoptero-al-heca-n10287979.html",
-        "image": "https://media.lacapital.com.ar/p/62726c097bcbb47f49960c14aef976c5/adjuntos/203/imagenes/103/484/0103484332/1200x675/smart/ruta1.jpg",
-        "summary": "El siniestro ocurrió en el cruce con la ruta 14, donde un camión cargado con cereal chocó contra una camioneta en la que viajaban dos mujeres.",
-        "pubDate": "2026-10-21T22:08:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Lácteos Verónica podría reactivar una de sus plantas en Santa Fe tras diez meses de parálisis",
-        "link": "https://www.lacapital.com.ar/la-region/lacteos-veronica-podria-reactivar-una-sus-plantas-santa-fe-diez-meses-paralisis-n10287984.html",
-        "image": "https://media.lacapital.com.ar/p/6fb871ea0b350399d313bb4af6947c8e/adjuntos/203/imagenes/103/484/0103484402/1200x675/smart/imagelacteo.jpg",
-        "summary": "La histórica empresa láctea negocia un acuerdo con una firma cordobesa para volver a producir en la localidad de Lehmann. Los trabajadores acumulan meses sin cobrar. La compañía arrastra deudas por casi 120 mil millones de pesos.",
-        "pubDate": "2026-10-21T22:05:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Las exportaciones agroindustriales crecieron 13,2%",
-        "link": "https://www.lacapital.com.ar/agro/las-exportaciones-agroindustriales-crecieron-132-n10287931.html",
-        "image": "https://media.lacapital.com.ar/p/b3b3fc801d9155880bf69e10a07421e3/adjuntos/305/imagenes/100/200/0100200292/barco-puerto.jpg",
-        "summary": "El sector acumuló ventas por u$s 42.304 millones en los primeros nueve meses de 2026. En septiembre, los embarques alcanzaron los u$s 5.500 millones",
-        "pubDate": "2026-10-21T21:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Expertos advierten que El Niño alcanzará su pico a fines de 2026, pero sus efectos se prolongarán",
-        "link": "https://www.lacapital.com.ar/informacion-general/expertos-advierten-que-el-nino-alcanzara-su-pico-fines-2026-pero-sus-efectos-se-prolongaran-n10287941.html",
-        "image": "https://media.lacapital.com.ar/p/425d5ffb74a697e51b8984ed05330e6e/adjuntos/203/imagenes/103/484/0103484094/1200x675/smart/celeste-saulo.png",
-        "summary": "La secretaria general de la Organización Meteorológica Mundial hizo un llamado a gobiernos y tomadores de decisiones a que refuercen las políticas preventivas",
-        "pubDate": "2026-10-21T21:25:00+00:00",
         "approxTime": false
       }
     ]
