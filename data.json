@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T00:30:58.751157+00:00",
+  "generatedAt": "2026-10-22T01:01:12.724011+00:00",
   "sites": {
     "rosario3": [
       {
@@ -85,10 +85,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Scaloni a punto de sellar su continuidad al frente de la Selección argentina hasta 2030: el acuerdo que alcanzó con la AFA",
-        "link": "https://www.rosario3.com/deportes/scaloni-a-punto-de-sellar-su-continuidad-al-frente-de-la-seleccion-argentina-hasta-2030-el-acuerdo-que-alcanzo-con-la-afa-20261021-0077.html",
-        "image": "https://www.rosario3.com/__export/1792615436363/sites/rosario3/img/2026/10/21/scaloni-chiqui.jpg_1991603025.jpg",
-        "summary": "El nuevo contrato contempla una primera etapa hasta la Copa América 2028 y una renovación automática, de común acuerdo, hasta el Mundial. La firma se concretaría durante la próxima fecha FIFA",
+        "title": "María Becerra cerrará la Marcha del Orgullo en Buenos Aires: \"Bancando los trapos como siempre\"",
+        "link": "https://www.rosario3.com/ocio/maria-becerra-cerrara-la-marcha-del-orgullo-en-buenos-aires-bancando-los-trapos-como-siempre-20261021-0075.html",
+        "image": "https://www.rosario3.com/__export/1792614916860/sites/rosario3/img/2026/10/21/maria_becerra.jpg_1768679257.jpg",
+        "summary": "La artista se mostró feliz de ser ella quien cierre la 35ª edición de la masiva movilización por los derechos de las personas LGTBQ+",
         "pubDate": "2026-10-21T11:51:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,24 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "El riesgo país volvió a subir, el dólar trepó y el BCRA moderó sus compras",
+        "link": "https://www.lacapital.com.ar/economia/el-riesgo-pais-volvio-subir-el-dolar-trepo-y-el-bcra-modero-sus-compras-n10288006.html",
+        "image": "https://media.lacapital.com.ar/p/2ab04075f5e7b8433996bfa54fb5e063/adjuntos/203/imagenes/102/112/0102112601/1200x675/smart/bolsa-mervaljpg.jpg",
+        "summary": "Aunque las acciones argentinas rebotaron, los bonos soberanos no logran zafar del castigo. Los datos de actividad suman incertidumbre y preocupan cada vez más a los inversores",
+        "pubDate": "2026-10-22T00:54:59+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Quini 6: un apostador ganó más de $4.684 millones en el sorteo Revancha",
+        "link": "https://www.lacapital.com.ar/informacion-general/quini-6-un-apostador-gano-mas-4684-millones-el-sorteo-revancha-n10288009.html",
+        "image": "https://media.lacapital.com.ar/p/ff26de17391d1de983193234b89bbe29/adjuntos/203/imagenes/103/484/0103484585/1200x675/smart/quini6.png",
+        "summary": "Además dos santafesinos se llevan 31 millones de pesos cada uno por acertar en la modalidad Siempre Sale.",
+        "pubDate": "2026-10-22T00:54:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Presentan \"Legado militante\", un libro sobre la lucha estudiantil de la UNR en los 70",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/e4fee53e2021dc9af78be25a66ec99d2/adjuntos/203/imagenes/103/484/0103484145/1200x675/smart/image-2026-10-21t182630717.png",
         "summary": "El músico fue una de las figuras fundacionales del heavy metal argentino y dejó su huella en los comienzos de la banda",
         "pubDate": "2026-10-21T20:47:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La primavera tarda en llegar pero ya tiene fecha: cuándo sube la temperatura en Rosario",
-        "link": "https://www.lacapital.com.ar/la-ciudad/la-primavera-tarda-llegar-pero-ya-tiene-fecha-cuando-sube-la-temperatura-rosario-n10287885.html",
-        "image": "https://media.lacapital.com.ar/p/0376c4937b6ff1153228237eeede6253/adjuntos/203/imagenes/017/738/0017738311/1200x675/smart/tiempojpg.jpg",
-        "summary": "Este fenómeno ya ocurrió hace diez años y tiene sus explicaciones. Por ahora, las mañanas frescas seguirán unos días, de la mano de un nuevo frente de tormentas",
-        "pubDate": "2026-10-21T20:24:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Diputados aprobó con cambios la ley de propiedad privada y vuelve al Senado",
-        "link": "https://www.lacapital.com.ar/politica/diputados-aprobo-cambios-la-ley-propiedad-privada-y-vuelve-al-senado-n10287954.html",
-        "image": "https://media.lacapital.com.ar/p/a916ab8a8ab41349b92384e65bdaf621/adjuntos/203/imagenes/103/483/0103483657/1200x675/smart/image.png",
-        "summary": "Con 124 votos a favor, 119 en contra y seis abstenciones, la Cámara baja restituyó la ley de tierras que se votó durante el gobierno de Cristina Kirchner. Ahora se debate la emergencia en discapacidad y después se trata la morosidad en las familias",
-        "pubDate": "2026-10-21T20:24:00+00:00",
         "approxTime": false
       }
     ]
