@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T02:30:59.498731+00:00",
+  "generatedAt": "2026-10-22T03:01:14.034040+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "La actividad económica cayó 1,7 % en agosto y la recesión técnica parece inevitable",
+        "link": "https://www.lacapital.com.ar/economia/la-actividad-economica-cayo-17-agosto-y-la-recesion-tecnica-parece-inevitable-n10288002.html",
+        "image": "https://media.lacapital.com.ar/p/98e968df10e7b004acb260c64b007a67/adjuntos/203/imagenes/103/157/0103157987/1200x675/544x213:564x233/construccion.jpg",
+        "summary": "De no mediar una recuperación milagrosa en septiembre, acumularía dos trimestres de contracción. La industria, el comercio, la construcción y el sector financiero cerraron en baja",
+        "pubDate": "2026-10-22T02:31:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Belgrano cargas: se bajó un oferente y el gobierno cortó contratos de obras",
+        "link": "https://www.lacapital.com.ar/economia/belgrano-cargas-se-un-oferente-y-el-gobierno-corto-contratos-obras-n10288005.html",
+        "image": "https://media.lacapital.com.ar/p/843d7941601148e46913004f9c6ba1ce/adjuntos/203/imagenes/102/993/0102993650/1200x675/smart/belgrano_cargas_900_kilometros_0.jpg",
+        "summary": "El único grupo internacional que se mostró interesado en participar de la licitación se bajó de la compulsa. La Nación dio de baja los acuerdos de obras ferroviarias en seis provincias",
+        "pubDate": "2026-10-22T02:31:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Dos detenidos acusados de  una violenta agresión a una mujer en un conflicto familiar",
         "link": "https://www.lacapital.com.ar/policiales/dos-detenidos-acusados-una-violenta-agresion-una-mujer-un-conflicto-familiar-n10288013.html",
         "image": "https://media.lacapital.com.ar/p/d21149e89fa0f8933e373f5b1b4feebf/adjuntos/203/imagenes/103/484/0103484675/1200x675/smart/allana.png",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/425d5ffb74a697e51b8984ed05330e6e/adjuntos/203/imagenes/103/484/0103484094/1200x675/smart/celeste-saulo.png",
         "summary": "La secretaria general de la Organización Meteorológica Mundial hizo un llamado a gobiernos y tomadores de decisiones a que refuercen las políticas preventivas",
         "pubDate": "2026-10-21T21:25:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El Papa León XIV no necesitará tratamiento oncológico y crece la expectativa por su viaje a la Argentina",
-        "link": "https://www.lacapital.com.ar/el-mundo/el-papa-leon-xiv-no-necesitara-tratamiento-oncologico-y-crece-la-expectativa-su-viaje-la-argentina-n10287957.html",
-        "image": "https://media.lacapital.com.ar/p/bff9d35c829c5301839f73f30d33bdab/adjuntos/203/imagenes/103/484/0103484171/1200x675/smart/papa-leon-xiv-2110.jpg",
-        "summary": "A poco más de una semana de la intervención, el sumo pontífice retomó su agenda.",
-        "pubDate": "2026-10-21T20:56:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Milei en España: encuentro con opositores, audiencia frustrada con el rey e insultos a periodistas",
-        "link": "https://www.lacapital.com.ar/politica/milei-espana-encuentro-opositores-audiencia-frustrada-el-rey-e-insultos-periodistas-n10287958.html",
-        "image": "https://media.lacapital.com.ar/p/ca967b528fe2f00cc0e27ee5de049002/adjuntos/203/imagenes/103/484/0103484099/1200x675/smart/milei-diaz-ayuso.jpg",
-        "summary": "El presidente se reunió con Díaz Ayuso y habló por videollamada con Abascal. Defendió su plan económico y volvió a atacar a Pedro Sánchez",
-        "pubDate": "2026-10-21T20:47:00+00:00",
         "approxTime": false
       }
     ]
