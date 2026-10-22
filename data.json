@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T12:31:03.107966+00:00",
+  "generatedAt": "2026-10-22T13:01:21.813805+00:00",
   "sites": {
     "rosario3": [
       {
@@ -49,10 +49,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Dos adolescentes fueron baleados en la zona oeste de Rosario",
-        "link": "https://www.rosario3.com/policiales/dos-adolescentes-fueron-baleados-en-la-zona-oeste-de-rosario-20261022-0002.html",
-        "image": "https://www.rosario3.com/__export/1786055585361/sites/rosario3/img/2026/07/20/heca.jpg_776569847.jpg",
-        "summary": "Tienen 12 y 15 años y fueron atacados en la madrugada de este jueves en Amenábar entre Lavalle y Avellaneda. Fueron trasladados al Heca y están fuera de peligro",
+        "title": "Los cambios que habrá en materia de desalojos si se aprueba la ley de inviolabilidad de la propiedad privada",
+        "link": "https://www.rosario3.com/informaciongeneral/los-cambios-que-habra-en-materia-de-desalojos-si-se-aprueba-la-ley-de-inviolabilidad-de-la-propiedad-privada-20261022-0020.html",
+        "image": "https://www.rosario3.com/__export/1792673752237/sites/rosario3/img/2026/10/22/desalojo.jpg_928314581.jpg",
+        "summary": "El proyecto, que deberá volver al Senado, incluye el juicio sumarísimo, es decir, una intimación previa de diez días por falta de pago, la entrega inmediata del inmueble en casos de ocupación y resguardos para personas vulnerables",
         "pubDate": "2026-10-22T11:55:00+00:00",
         "approxTime": true
       },
@@ -121,24 +121,33 @@
       },
       {
         "source": "Rosario3",
-        "title": "Diputados aprobó la ley de propiedad privada y mantuvo los límites a la compra de tierras por extranjeros",
-        "link": "https://www.rosario3.com/informaciongeneral/diputados-aprobo-la-ley-de-propiedad-privada-y-mantuvo-los-limites-a-la-compra-de-tierras-por-extranjeros-20261021-0074.html",
-        "image": "https://www.rosario3.com/__export/1792614564388/sites/rosario3/img/2026/10/21/inviolavilidad_de_la_propiedad_privada.jpg_1825222445.jpg",
-        "summary": "El oficialismo consiguió avanzar con la iniciativa por 124 votos a favor, 119 en contra y seis abstenciones. El proyecto restituye la Ley de Tierras del kirchnerismo e incorpora cambios en expropiaciones y desalojos. Deberá regresar al Senado para su revisión",
-        "pubDate": "2026-10-21T11:47:00+00:00",
+        "title": "Llega La Reina Rock Fest al Monumento con Cuarteto de Nos, Luck Ra, Estelares y Amira",
+        "link": "https://www.rosario3.com/ocio/llega-la-reina-rock-fest-al-monumento-con-cuarteto-de-nos-luck-ra-estelares-y-amira-20261022-0019.html",
+        "image": "https://www.rosario3.com/__export/1792673346989/sites/rosario3/img/2026/10/22/la_reina_rock_festival.jpg_928314581.jpg",
+        "summary": "El festival que ya se convirtió en un clásico de la ciudad se realizará de nuevo el sábado 31 de octubre con una apuesta increíble. Cómo participar",
+        "pubDate": "2026-10-22T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Premios Martín Fierro de Radio 2026: looks, la queja de Nancy Pazos y la lista completa de ganadores",
-        "link": "https://www.rosario3.com/ocio/premios-martin-fierro-de-radio-2026-looks-la-queja-de-nancy-pazos-y-la-lista-completa-de-ganadores-20261022-0014.html",
-        "image": "https://www.rosario3.com/__export/1792670659914/sites/rosario3/img/2026/10/22/martin_fierro_version1792670659451.jpg_393084846.jpg",
-        "summary": "Con la conducción de Luis Novaresio y Luciana Rubinska, el evento se desarrolló el último miércoles. La gala tuvo sus premios destacados, perlitas y su alfombra roja. El Martín Fierro de Oro María O'Donnell",
-        "pubDate": "2026-10-22T11:46:00+00:00",
+        "title": "Diputados aprobó la ley de propiedad privada y mantuvo los límites a la compra de tierras por extranjeros",
+        "link": "https://www.rosario3.com/informaciongeneral/diputados-aprobo-la-ley-de-propiedad-privada-y-mantuvo-los-limites-a-la-compra-de-tierras-por-extranjeros-20261021-0074.html",
+        "image": "https://www.rosario3.com/__export/1792614564388/sites/rosario3/img/2026/10/21/inviolavilidad_de_la_propiedad_privada.jpg_1825222445.jpg",
+        "summary": "El oficialismo consiguió avanzar con la iniciativa por 124 votos a favor, 119 en contra y seis abstenciones. El proyecto restituye la Ley de Tierras del kirchnerismo e incorpora cambios en expropiaciones y desalojos. Deberá regresar al Senado para su revisión",
+        "pubDate": "2026-10-21T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "El cierre de Electrolux: \"La forma en que nos despidieron fue muy cruel\"",
+        "link": "https://www.lacapital.com.ar/economia/el-cierre-electrolux-la-forma-que-nos-despidieron-fue-muy-cruel-n10288044.html",
+        "image": "https://media.lacapital.com.ar/p/a5b80f38c05c91c3b6add9571a8f5b94/adjuntos/203/imagenes/103/431/0103431606/1200x675/smart/electrolux.png",
+        "summary": "Adrián Cartazo, uno los trabajadores despedidos, sostuvo que la compañía \"alquiló galpones en Buenos Aires para distribuir los productos importados desde allí\"",
+        "pubDate": "2026-10-22T12:32:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Caso Ivana Garcilazo: \"Está en juego la libertad de que uno pueda caminar con sus colores\"",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/843d7941601148e46913004f9c6ba1ce/adjuntos/203/imagenes/102/993/0102993650/1200x675/smart/belgrano_cargas_900_kilometros_0.jpg",
         "summary": "El único grupo internacional que se mostró interesado en participar de la licitación se bajó de la compulsa. La Nación dio de baja los acuerdos de obras ferroviarias en seis provincias",
         "pubDate": "2026-10-22T02:31:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Dos detenidos acusados de  una violenta agresión a una mujer en un conflicto familiar",
-        "link": "https://www.lacapital.com.ar/policiales/dos-detenidos-acusados-una-violenta-agresion-una-mujer-un-conflicto-familiar-n10288013.html",
-        "image": "https://media.lacapital.com.ar/p/d21149e89fa0f8933e373f5b1b4feebf/adjuntos/203/imagenes/103/484/0103484675/1200x675/smart/allana.png",
-        "summary": "Los allanamientos se realizaron en la zona sur, tras investigar un hecho ocurrido el 15 de octubre. La víctima debió ser internada en el Roque Sáenz Peña",
-        "pubDate": "2026-10-22T01:46:06+00:00",
         "approxTime": false
       }
     ]
