@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T11:01:15.394421+00:00",
+  "generatedAt": "2026-10-22T11:31:05.187147+00:00",
   "sites": {
     "rosario3": [
       {
@@ -76,11 +76,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "La razón por la que el presidente Milei usó un vendaje en el cuello en su viaje a España",
+        "link": "https://www.rosario3.com/informaciongeneral/la-razon-por-la-que-el-presidente-milei-uso-un-vendaje-en-el-cuello-en-su-viaje-a-espana-20261022-0009.html",
+        "image": "https://www.rosario3.com/__export/1792668118090/sites/rosario3/img/2026/10/22/curita.jpg_928314581.jpg",
+        "summary": "El Gobierno informó que usó un apósito a la altura del cuello, que se evidenció en una conferencia de prensa con medios españoles, debido a un hematoma que sufrió al salir de la bañadera",
+        "pubDate": "2026-10-22T11:52:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Copa Libertadores: Palmeiras pasó a la final y espera por Flamengo o Estudiantes",
         "link": "https://www.rosario3.com/deportes/copa-libertadores-palmeiras-paso-a-la-final-y-espera-por-flamengo-o-estudiantes-20261022-0003.html",
         "image": "https://www.rosario3.com/__export/1792662765724/sites/rosario3/img/2026/10/22/bcde1d2554c2ca132d91f515354eef868eac1980_-1-.jpg_1447673137.jpg",
         "summary": "El actual subcampeón del certamen espera por el ganador de la llave que definirán este jueves, en Río de Janeiro",
-        "pubDate": "2026-10-22T11:52:00+00:00",
+        "pubDate": "2026-10-22T11:51:00+00:00",
         "approxTime": true
       },
       {
@@ -89,7 +98,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/trump-llamo-tonta-a-una-periodista-de-cnn-y-estupida-a-otra-de-abc-news-20261021-0088.html",
         "image": "https://www.rosario3.com/__export/1792630223780/sites/rosario3/img/2026/10/21/trump.jpg_1825222445.jpg",
         "summary": "El presidente de Estados Unidos volvió este miércoles a insultar a periodistas que le preguntaban por la liberación de un estadounidense detenido en Rusia",
-        "pubDate": "2026-10-21T11:51:00+00:00",
+        "pubDate": "2026-10-21T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -98,15 +107,6 @@
         "link": "https://www.rosario3.com/policiales/hostigo-a-su-ex-con-reclamos-por-una-casa-la-amenazo-y-ahora-pasara-las-fiestas-en-prision-20261021-0084.html",
         "image": "https://www.rosario3.com/__export/1792621970711/sites/rosario3/img/2024/05/27/_dsc7950.jpg_928314580.jpg",
         "summary": "Un rosarino de 35 años quedó en prisión preventiva por 90 días, imputado por presuntas extorsiones contra su ex y exigencias de dinero por una vivienda que asegura que le pertenece. La investigación también incluye maniobras contra otra mujer y su entorno familiar",
-        "pubDate": "2026-10-21T11:50:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La economía sigue sin recuperarse: retrocedió 1,7% interanual y apenas creció 0,1% frente a julio",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-economia-sigue-sin-recuperarse-retrocedio-17-interanual-y-apenas-crecio-01-frente-a-julio-20261021-0068.html",
-        "image": "https://www.rosario3.com/__export/1792611783229/sites/rosario3/img/2026/10/21/vaca_muerta.jpg_1825222445.jpg",
-        "summary": "La industria y el comercio fueron los sectores que más incidieron en el resultado negativo. Minería y energía mantienen resultados positivos",
         "pubDate": "2026-10-21T11:49:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "La historia detrás del cumpleaños viral del Quini 6: \"Quedó fascinado con la música\"",
+        "link": "https://www.lacapital.com.ar/la-ciudad/la-historia-detras-del-cumpleanos-viral-del-quini-6-quedo-fascinado-la-musica-n10288027.html",
+        "image": "https://media.lacapital.com.ar/p/ea48ae135592ba89090cc383613f6590/adjuntos/203/imagenes/103/484/0103484856/1200x675/smart/quini-6.png",
+        "summary": "Gabriela y Diego visitaron La Capital+, el streaming de La Capital, y aclararon que \"no son jugadores\". Toda la familia aportó para que la celebración fuera especial",
+        "pubDate": "2026-10-22T11:23:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Dos adolescentes de 13 y 15 años heridos en una balacera en San Francisquito",
         "link": "https://www.lacapital.com.ar/la-ciudad/dos-adolescentes-13-y-15-anos-heridos-una-balacera-san-francisquito-n10288023.html",
         "image": "https://media.lacapital.com.ar/p/fde16facfb5c2ae9d2df1d05b3debfd7/adjuntos/203/imagenes/103/104/0103104482/heca-riojpg.jpg",
@@ -150,10 +159,10 @@
       },
       {
         "source": "La Capital",
-        "title": "Murió la joven que fue víctima de un intento de femicidio en Granadero Baigorria",
-        "link": "https://www.lacapital.com.ar/policiales/murio-la-joven-que-fue-victima-un-intento-femicidio-granadero-baigorria-n10288018.html",
+        "title": "Murió la joven atacada por su pareja hace diez días en Granadero Baigorria",
+        "link": "https://www.lacapital.com.ar/policiales/murio-la-joven-atacada-su-pareja-hace-diez-dias-granadero-baigorria-n10288018.html",
         "image": "https://media.lacapital.com.ar/p/c16b11ed73bbafb943fc555dfcd6ada7/adjuntos/203/imagenes/103/465/0103465366/1200x675/smart/hospital-eva-peron.jpg",
-        "summary": "Talia Baduna tenía 29 años y había sido atacada por su pareja diez días atrás. Tras la agresión, le hicieron una cesárea de emergencia",
+        "summary": "Talia Baduna tenía 29 años, estaba embaradaza y sufrió graves quemaduras. Tras la agresión, le hicieron una cesárea de emergencia",
         "pubDate": "2026-10-22T10:19:00+00:00",
         "approxTime": false
       },
@@ -204,15 +213,6 @@
       },
       {
         "source": "La Capital",
-        "title": "Confirman que la venta de La Favorita a una firma uruguaya sigue en pie",
-        "link": "https://www.lacapital.com.ar/la-ciudad/confirman-que-la-venta-la-favorita-una-firma-uruguaya-sigue-pie-n10287927.html",
-        "image": "https://media.lacapital.com.ar/p/628db501fb10d0f314b7e17644a810d1/adjuntos/203/imagenes/101/621/0101621154/fv-frente2png.png",
-        "summary": "El grupo comprador Indian está gestionando la sociedad en Argentina que le permita adquirir La Favorita.",
-        "pubDate": "2026-10-22T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "En Newell's, hoy se realiza la asamblea ordinaria en el estadio cubierto",
         "link": "https://www.lacapital.com.ar/ovacion/en-newells-hoy-se-realiza-la-asamblea-ordinaria-el-estadio-cubierto-n10288000.html",
         "image": "https://media.lacapital.com.ar/p/eaee1d23d544ae2fc9f95decda4551bb/adjuntos/203/imagenes/103/484/0103484495/1200x675/smart/nob-asamb-81254235.jpg",
@@ -222,11 +222,11 @@
       },
       {
         "source": "La Capital",
-        "title": "La actividad económica cayó 1,7 % en agosto y la recesión técnica parece inevitable",
-        "link": "https://www.lacapital.com.ar/economia/la-actividad-economica-cayo-17-agosto-y-la-recesion-tecnica-parece-inevitable-n10288002.html",
-        "image": "https://media.lacapital.com.ar/p/98e968df10e7b004acb260c64b007a67/adjuntos/203/imagenes/103/157/0103157987/1200x675/544x213:564x233/construccion.jpg",
-        "summary": "De no mediar una recuperación milagrosa en septiembre, acumularía dos trimestres de contracción. La industria, el comercio, la construcción y el sector financiero cerraron en baja",
-        "pubDate": "2026-10-22T02:31:00+00:00",
+        "title": "Confirman que la venta de La Favorita a una firma uruguaya sigue en pie",
+        "link": "https://www.lacapital.com.ar/la-ciudad/confirman-que-la-venta-la-favorita-una-firma-uruguaya-sigue-pie-n10287927.html",
+        "image": "https://media.lacapital.com.ar/p/628db501fb10d0f314b7e17644a810d1/adjuntos/203/imagenes/101/621/0101621154/fv-frente2png.png",
+        "summary": "El grupo comprador Indian está gestionando la sociedad en Argentina que le permita adquirir La Favorita.",
+        "pubDate": "2026-10-22T09:10:00+00:00",
         "approxTime": false
       },
       {
@@ -235,6 +235,15 @@
         "link": "https://www.lacapital.com.ar/economia/belgrano-cargas-se-un-oferente-y-el-gobierno-corto-contratos-obras-n10288005.html",
         "image": "https://media.lacapital.com.ar/p/843d7941601148e46913004f9c6ba1ce/adjuntos/203/imagenes/102/993/0102993650/1200x675/smart/belgrano_cargas_900_kilometros_0.jpg",
         "summary": "El único grupo internacional que se mostró interesado en participar de la licitación se bajó de la compulsa. La Nación dio de baja los acuerdos de obras ferroviarias en seis provincias",
+        "pubDate": "2026-10-22T02:31:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La actividad económica cayó 1,7 % en agosto y la recesión técnica parece inevitable",
+        "link": "https://www.lacapital.com.ar/economia/la-actividad-economica-cayo-17-agosto-y-la-recesion-tecnica-parece-inevitable-n10288002.html",
+        "image": "https://media.lacapital.com.ar/p/98e968df10e7b004acb260c64b007a67/adjuntos/203/imagenes/103/157/0103157987/1200x675/544x213:564x233/construccion.jpg",
+        "summary": "De no mediar una recuperación milagrosa en septiembre, acumularía dos trimestres de contracción. La industria, el comercio, la construcción y el sector financiero cerraron en baja",
         "pubDate": "2026-10-22T02:31:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/ff26de17391d1de983193234b89bbe29/adjuntos/203/imagenes/103/484/0103484585/1200x675/smart/quini6.png",
         "summary": "Además dos santafesinos se llevan 31 millones de pesos cada uno por acertar en la modalidad Siempre Sale.",
         "pubDate": "2026-10-22T00:54:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Presentan \"Legado militante\", un libro sobre la lucha estudiantil de la UNR en los 70",
-        "link": "https://www.lacapital.com.ar/la-ciudad/presentan-legado-militante-un-libro-la-lucha-estudiantil-la-unr-los-70-n10287971.html",
-        "image": "https://media.lacapital.com.ar/p/f06341026e04bc0557a40dff87121106/adjuntos/203/imagenes/103/484/0103484494/1200x675/smart/legado1.png",
-        "summary": "El texto de Adriana Hereñú narra la historia del movimiento estudiantil en la Universidad Nacional de Rosario entre 1968 y 1976",
-        "pubDate": "2026-10-21T23:44:00+00:00",
         "approxTime": false
       }
     ]
