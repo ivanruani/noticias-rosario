@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T22:15:59.264267+00:00",
+  "generatedAt": "2026-10-22T22:31:03.207647+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Condenado a perpetua por irrumpir en una casa de Villa Gobernador Gálvez y matar al dueño a tiros",
+        "link": "https://www.lacapital.com.ar/policiales/condenado-perpetua-irrumpir-una-casa-villa-gobernador-galvez-y-matar-al-dueno-tiros-n10288144.html",
+        "image": "https://media.lacapital.com.ar/p/470acfe5a3cbfe7df07ace930cee09d6/adjuntos/203/imagenes/102/429/0102429159/1200x675/smart/asasinjpg.jpg",
+        "summary": "Nicolás Flores fue sentenciado por el asesinato de Fabián Ruiz, de julio de 2021. Estaba acusado de un ataque previo a un vecino pero en este caso fue absuelto",
+        "pubDate": "2026-10-22T22:16:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central: Franco Ibarra se ata los botines y será exigido en la previa de Huracán",
+        "link": "https://www.lacapital.com.ar/ovacion/central-franco-ibarra-se-ata-los-botines-y-sera-exigido-la-previa-huracan-n10288187.html",
+        "image": "https://media.lacapital.com.ar/p/84e066e9aca1e9c96a317776263234f3/adjuntos/203/imagenes/103/486/0103486621/f6.jpg",
+        "summary": "El volante se repone de una sobrecarga muscular y podría estar disponible para recibir el sábado a Huracán en un partido clave para Central",
+        "pubDate": "2026-10-22T22:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "La nueva concesionaria ya corta el pasto en Circunvalación",
         "link": "https://www.lacapital.com.ar/la-nueva-concesionaria-ya-corta-el-pasto-circunvalacion-n10288177.html",
         "image": "https://media.lacapital.com.ar/p/98c477c1c1bb69c3743294eca311e56f/adjuntos/203/imagenes/103/486/0103486470/1200x675/smart/circunvala43.jpg",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/c6f0bc4966642c23a99813d068fc5f41/adjuntos/203/imagenes/103/410/0103410029/1200x675/smart/pato-bullrich.jpg",
         "summary": "La jefa del bloque de senadores nacionales del oficialismo rechazó una posible nueva asistencia económica del Tesoro estadounidense",
         "pubDate": "2026-10-22T18:22:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Reconquista: cuatro condenados por lavado tras el hallazgo de $357 millones en una camioneta",
-        "link": "https://www.lacapital.com.ar/policiales/reconquista-cuatro-condenados-lavado-el-hallazgo-357-millones-una-camioneta-n10288104.html",
-        "image": "https://media.lacapital.com.ar/p/abafa0ddb48d271882d6565ba36b0eec/adjuntos/203/imagenes/103/036/0103036406/1200x675/smart/imageauto.jpg",
-        "summary": "El dinero estaba oculto bajo el tablero del vehículo, interceptado por Gendarmería. Una sociedad comercial con sede en Chaco era usada como fachada para el blanqueo",
-        "pubDate": "2026-10-22T18:21:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Tres series que no salen de lo más visto en Netflix",
-        "link": "https://www.lacapital.com.ar/zoom/tres-series-que-no-salen-lo-mas-visto-netflix-n10288108.html",
-        "image": "https://media.lacapital.com.ar/p/9a148ecaf6b274db90f85f3efbc7c101/adjuntos/203/imagenes/103/485/0103485716/1200x675/smart/image-10.png",
-        "summary": "Suspenso, drama y ciencia ficción caracterizan a algunas de las producciones que hace semanas se llevan todas las reproducciones en la plataforma. De qué se tratan",
-        "pubDate": "2026-10-22T17:57:00+00:00",
         "approxTime": false
       }
     ]
