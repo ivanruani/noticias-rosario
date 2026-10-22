@@ -1,23 +1,32 @@
 {
-  "generatedAt": "2026-10-22T11:31:05.187147+00:00",
+  "generatedAt": "2026-10-22T12:01:13.137879+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Lisandro Enrico y las rutas nacionales: \"El modelo del Presidente hizo que viajemos muy mal\"",
+        "link": "https://www.rosario3.com/informaciongeneral/lisandro-enrico-y-las-rutas-nacionales-el-modelo-del-presidente-hizo-que-viajemos-muy-mal-20261022-0013.html",
+        "image": "https://www.rosario3.com/__export/1792670385057/sites/rosario3/img/2026/10/22/a012.jpg_928314581.jpg",
+        "summary": "El ministro de Obras Públicas de Santa Fe, Lisandro Enrico, analizó el avance de los trabajos viales en el territorio provincial. Cuestionó la decisión del gobierno nacional de no invertir en el mantenimiento de sus corredores y destacó que la gestión local se hizo cargo de la…",
+        "pubDate": "2026-10-22T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Murió la joven que había sido prendida fuego por su pareja en Granadero Baigorria y la causa pasará a femicidio",
         "link": "https://www.rosario3.com/policiales/murio-la-joven-que-habia-sido-prendida-fuego-por-su-pareja-en-granadero-baigorria-y-la-causa-pasara-a-femicidio-20261022-0001.html",
         "image": "https://www.rosario3.com/__export/1792661963076/sites/rosario3/img/2026/10/22/image_-48-.jpg_928314580.jpg",
         "summary": "Tenía 29 años y cursaba un embarazo de ocho meses cuando fue atacada el pasado 12 de octubre. Estaba internada en terapia intensiva en el Hospital Eva Perón con el 15 por ciento del cuerpo quemado y compromiso en las vías respiratorias. Por el hecho, Maximiliano Castagnino se…",
-        "pubDate": "2026-10-22T12:00:00+00:00",
+        "pubDate": "2026-10-22T11:59:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Acuerdo entre adultos para cuidar la niñez: la escuela, el primer celular y la recomendación de retrasarlo lo máximo posible",
-        "link": "https://www.rosario3.com/informaciongeneral/acuerdo-entre-adultos-para-cuidar-la-ninez-la-escuela-el-primer-celular-y-la-recomendacion-de-retrasarlo-lo-maximo-posible-20261021-0087.html",
-        "image": "https://www.rosario3.com/__export/1792630296090/sites/rosario3/img/2026/10/21/nixo_mira_el_cel.jpg_928314580.jpg",
-        "summary": "Un proyecto conjunto entre alumnos y docentes de los niveles inicial y secundario del Normal 1 puso el foco en la preocupación por el acceso cada vez a edades más tempranas de celulares y otros dispositivos electrónicos. Autoridades observaron que son cada vez más frecuentes las…",
-        "pubDate": "2026-10-21T11:59:00+00:00",
+        "title": "Discapacidad: con apoyo peronista, el oficialismo logró aprobar el proyecto de ley que reemplaza el esquema de emergencia",
+        "link": "https://www.rosario3.com/politica/discapacidad-con-apoyo-peronista-el-oficialismo-logro-aprobar-el-proyecto-de-ley-que-reemplaza-el-esquema-de-emergencia-20261022-0006.html",
+        "image": "https://www.rosario3.com/__export/1790881656164/sites/rosario3/img/2026/09/28/camara_1.jpg_1768679257.jpg",
+        "summary": "Con amplio respaldo opositor, la Cámara de Diputados dio media sanción este miércoles a la nueva ley sobre protección social de la Discapacidad. Fueron 237 votos positivos, nueve negativos y cuatro abstenciones. Ahora el Senado deberá dar su aprobación final y se espera que lo…",
+        "pubDate": "2026-10-22T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,24 +35,15 @@
         "link": "https://www.rosario3.com/informaciongeneral/elevan-a-naranja-el-alerta-por-tormentas-para-este-jueves-en-rosario-advierten-por-lluvias-intensas-granizo-y-rafagas-20261021-0083.html",
         "image": "https://www.rosario3.com/__export/1792622841326/sites/rosario3/img/2026/10/21/lluvia.jpg_1825222445.jpg",
         "summary": "El Servicio Meteorológico agravó el pronóstico para la tarde y extendió las advertencias hasta la noche. Se esperan precipitaciones acumuladas de hasta 100 milímetros y vientos de 90 kilómetros por hora. El municipio reforzó los trabajos de prevención y pidió a vecinos que…",
-        "pubDate": "2026-10-21T11:58:00+00:00",
+        "pubDate": "2026-10-21T11:57:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Claves del día: se baja el gigante mexicano del Belgrano Cargas, Verónica revive y la economía no despega | Ecos365",
-        "link": "https://www.rosario3.com/ecos365/noticias/claves-del-dia-se-baja-el-gigante-mexicano-del-belgrano-cargas-veronica-revive-y-la-economia-no-despega-20261022-0001.html",
-        "image": "https://www.rosario3.com/__export/1792658810090/sites/rosario3/img/2024/07/17/trenes_carga.jpg_1199471419.jpg",
-        "summary": "Se baja el mexicano que prometía u$s3.000 M por el Belgrano Cargas, una láctea paralizada diez meses renace de la mano del ex CEO de Dreyfus, la economía apenas respira y bonos y acciones suben con luz amarilla",
-        "pubDate": "2026-10-22T11:57:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El poder de la red, de Aaron Sorkin, encabeza los estrenos en los cines de Rosario",
-        "link": "https://www.rosario3.com/ocio/el-poder-de-la-red-de-aaron-sorkin-encabeza-los-estrenos-en-los-cines-de-rosario-20261021-0080.html",
-        "image": "https://www.rosario3.com/__export/1792621189684/sites/rosario3/img/2026/10/21/estrenoscine.jpg_506286608.jpg",
-        "summary": "Además de la producción que sirve como “pieza complementaria” de La red social, las salas de la ciudad proyectan desde este jueves Clayface, Terror en el Amazonas, Buenas vibraciones, ¿Querés ser mi hijo?, Heidi: el rescate del lince y Que Dios perdona a todos",
+        "title": "Acuerdo entre adultos para cuidar la niñez: la escuela, el primer celular y la recomendación de retrasarlo lo máximo posible",
+        "link": "https://www.rosario3.com/informaciongeneral/acuerdo-entre-adultos-para-cuidar-la-ninez-la-escuela-el-primer-celular-y-la-recomendacion-de-retrasarlo-lo-maximo-posible-20261021-0087.html",
+        "image": "https://www.rosario3.com/__export/1792630296090/sites/rosario3/img/2026/10/21/nixo_mira_el_cel.jpg_928314580.jpg",
+        "summary": "Un proyecto conjunto entre alumnos y docentes de los niveles inicial y secundario del Normal 1 puso el foco en la preocupación por el acceso cada vez a edades más tempranas de celulares y otros dispositivos electrónicos. Autoridades observaron que son cada vez más frecuentes las…",
         "pubDate": "2026-10-21T11:56:00+00:00",
         "approxTime": true
       },
@@ -67,10 +67,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Diputados aprobó la ley de propiedad privada y mantuvo los límites a la compra de tierras por extranjeros",
-        "link": "https://www.rosario3.com/informaciongeneral/diputados-aprobo-la-ley-de-propiedad-privada-y-mantuvo-los-limites-a-la-compra-de-tierras-por-extranjeros-20261021-0074.html",
-        "image": "https://www.rosario3.com/__export/1792614564388/sites/rosario3/img/2026/10/21/inviolavilidad_de_la_propiedad_privada.jpg_1825222445.jpg",
-        "summary": "El oficialismo consiguió avanzar con la iniciativa por 124 votos a favor, 119 en contra y seis abstenciones. El proyecto restituye la Ley de Tierras del kirchnerismo e incorpora cambios en expropiaciones y desalojos. Deberá regresar al Senado para su revisión",
+        "title": "El poder de la red, de Aaron Sorkin, encabeza los estrenos en los cines de Rosario",
+        "link": "https://www.rosario3.com/ocio/el-poder-de-la-red-de-aaron-sorkin-encabeza-los-estrenos-en-los-cines-de-rosario-20261021-0080.html",
+        "image": "https://www.rosario3.com/__export/1792621189684/sites/rosario3/img/2026/10/21/estrenoscine.jpg_506286608.jpg",
+        "summary": "Además de la producción que sirve como “pieza complementaria” de La red social, las salas de la ciudad proyectan desde este jueves Clayface, Terror en el Amazonas, Buenas vibraciones, ¿Querés ser mi hijo?, Heidi: el rescate del lince y Que Dios perdona a todos",
         "pubDate": "2026-10-21T11:53:00+00:00",
         "approxTime": true
       },
@@ -85,11 +85,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Con Rojo habilitado, Estudiantes visita a Flamengo por un lugar en la final de la Copa Libertadores",
+        "link": "https://www.rosario3.com/informaciongeneral/con-rojo-habilitado-estudiantes-visita-a-flamengo-por-un-lugar-en-la-final-de-la-copa-libertadores-20261022-0005.html",
+        "image": "https://www.rosario3.com/__export/1792666129022/sites/rosario3/img/2026/10/22/marcos_rojo.jpg_928314580.jpg",
+        "summary": "El encuentro de ida, que se llevó a cabo en La Plata, terminó igualado sin goles. Ahora El Pincha jugará en el mítico Estadio de Maracaná a partir de las 21.30",
+        "pubDate": "2026-10-22T11:51:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Copa Libertadores: Palmeiras pasó a la final y espera por Flamengo o Estudiantes",
         "link": "https://www.rosario3.com/deportes/copa-libertadores-palmeiras-paso-a-la-final-y-espera-por-flamengo-o-estudiantes-20261022-0003.html",
         "image": "https://www.rosario3.com/__export/1792662765724/sites/rosario3/img/2026/10/22/bcde1d2554c2ca132d91f515354eef868eac1980_-1-.jpg_1447673137.jpg",
         "summary": "El actual subcampeón del certamen espera por el ganador de la llave que definirán este jueves, en Río de Janeiro",
-        "pubDate": "2026-10-22T11:51:00+00:00",
+        "pubDate": "2026-10-22T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -98,7 +107,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/trump-llamo-tonta-a-una-periodista-de-cnn-y-estupida-a-otra-de-abc-news-20261021-0088.html",
         "image": "https://www.rosario3.com/__export/1792630223780/sites/rosario3/img/2026/10/21/trump.jpg_1825222445.jpg",
         "summary": "El presidente de Estados Unidos volvió este miércoles a insultar a periodistas que le preguntaban por la liberación de un estadounidense detenido en Rusia",
-        "pubDate": "2026-10-21T11:50:00+00:00",
+        "pubDate": "2026-10-21T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -107,7 +116,7 @@
         "link": "https://www.rosario3.com/policiales/hostigo-a-su-ex-con-reclamos-por-una-casa-la-amenazo-y-ahora-pasara-las-fiestas-en-prision-20261021-0084.html",
         "image": "https://www.rosario3.com/__export/1792621970711/sites/rosario3/img/2024/05/27/_dsc7950.jpg_928314580.jpg",
         "summary": "Un rosarino de 35 años quedó en prisión preventiva por 90 días, imputado por presuntas extorsiones contra su ex y exigencias de dinero por una vivienda que asegura que le pertenece. La investigación también incluye maniobras contra otra mujer y su entorno familiar",
-        "pubDate": "2026-10-21T11:49:00+00:00",
+        "pubDate": "2026-10-21T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +125,7 @@
         "link": "https://www.rosario3.com/ocio/maria-becerra-cerrara-la-marcha-del-orgullo-en-buenos-aires-bancando-los-trapos-como-siempre-20261021-0075.html",
         "image": "https://www.rosario3.com/__export/1792614916860/sites/rosario3/img/2026/10/21/maria_becerra.jpg_1768679257.jpg",
         "summary": "La artista se mostró feliz de ser ella quien cierre la 35ª edición de la masiva movilización por los derechos de las personas LGTBQ+",
-        "pubDate": "2026-10-21T11:48:00+00:00",
+        "pubDate": "2026-10-21T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,20 +134,20 @@
         "link": "https://www.rosario3.com/deportes/lionel-messi-sorprendio-con-una-experiencia-que-combina-tecnologia-con-la-pasion-por-el-ajedrez-20261021-0082.html",
         "image": "https://www.rosario3.com/__export/1792622174388/sites/rosario3/img/2026/10/21/messi_ajedrez.jpg_1478478319.jpg",
         "summary": "El rosarino publicó un video en Instagram en el que le pide a la inteligencia artificial que le recomiende una estrategia para jugar al ajedrez. La iniciativa se vincula con GOAT Horns",
-        "pubDate": "2026-10-21T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Como en las películas: detuvieron en Estados Unidos a un ladrón de bancos disfrazado de abuelo",
-        "link": "https://www.rosario3.com/informaciongeneral/como-en-las-peliculas-detuvieron-en-estados-unidos-a-un-ladron-de-bancos-disfrazado-de-abuelo-20261021-0054.html",
-        "image": "https://www.rosario3.com/__export/1792602929576/sites/rosario3/img/2026/10/21/ladron.png_786111822.png",
-        "summary": "Tenía antecedentes por el mismo delito en 2008 y 2016. Esta vez lo atraparon tras registrar su casa y una segunda propiedad donde guardaba el disfraz completo, una pistola de juguete y hasta un diario personal con los detalles",
         "pubDate": "2026-10-21T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Boca tiene rival: Atlético Mineiro perdió pero logró el pase a la final de la Sudamericana",
+        "link": "https://www.lacapital.com.ar/ovacion/boca-tiene-rival-atletico-mineiro-perdio-pero-logro-el-pase-la-final-la-sudamericana-n10288017.html",
+        "image": "https://media.lacapital.com.ar/p/4bf79a7b85cd3b57e4ff49629e6b3f3f/adjuntos/203/imagenes/103/484/0103484701/1200x675/smart/image-14.jpg",
+        "summary": "El equipo brasileño dirigido por Eduardo Domínguez cayó por 2 a 0 en Uruguay ante City Torque, pero como en la ida venció por 3-0 se quedó con la clasificación",
+        "pubDate": "2026-10-22T11:35:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "La historia detrás del cumpleaños viral del Quini 6: \"Quedó fascinado con la música\"",
@@ -213,15 +222,6 @@
       },
       {
         "source": "La Capital",
-        "title": "En Newell's, hoy se realiza la asamblea ordinaria en el estadio cubierto",
-        "link": "https://www.lacapital.com.ar/ovacion/en-newells-hoy-se-realiza-la-asamblea-ordinaria-el-estadio-cubierto-n10288000.html",
-        "image": "https://media.lacapital.com.ar/p/eaee1d23d544ae2fc9f95decda4551bb/adjuntos/203/imagenes/103/484/0103484495/1200x675/smart/nob-asamb-81254235.jpg",
-        "summary": "Se analizará la memoria y balance general, y también se discutirán las correcciones y la aprobación del período anterior",
-        "pubDate": "2026-10-22T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "Confirman que la venta de La Favorita a una firma uruguaya sigue en pie",
         "link": "https://www.lacapital.com.ar/la-ciudad/confirman-que-la-venta-la-favorita-una-firma-uruguaya-sigue-pie-n10287927.html",
         "image": "https://media.lacapital.com.ar/p/628db501fb10d0f314b7e17644a810d1/adjuntos/203/imagenes/101/621/0101621154/fv-frente2png.png",
@@ -231,11 +231,11 @@
       },
       {
         "source": "La Capital",
-        "title": "Belgrano cargas: se bajó un oferente y el gobierno cortó contratos de obras",
-        "link": "https://www.lacapital.com.ar/economia/belgrano-cargas-se-un-oferente-y-el-gobierno-corto-contratos-obras-n10288005.html",
-        "image": "https://media.lacapital.com.ar/p/843d7941601148e46913004f9c6ba1ce/adjuntos/203/imagenes/102/993/0102993650/1200x675/smart/belgrano_cargas_900_kilometros_0.jpg",
-        "summary": "El único grupo internacional que se mostró interesado en participar de la licitación se bajó de la compulsa. La Nación dio de baja los acuerdos de obras ferroviarias en seis provincias",
-        "pubDate": "2026-10-22T02:31:00+00:00",
+        "title": "En Newell's, hoy se realiza la asamblea ordinaria en el estadio cubierto",
+        "link": "https://www.lacapital.com.ar/ovacion/en-newells-hoy-se-realiza-la-asamblea-ordinaria-el-estadio-cubierto-n10288000.html",
+        "image": "https://media.lacapital.com.ar/p/eaee1d23d544ae2fc9f95decda4551bb/adjuntos/203/imagenes/103/484/0103484495/1200x675/smart/nob-asamb-81254235.jpg",
+        "summary": "Se analizará la memoria y balance general, y también se discutirán las correcciones y la aprobación del período anterior",
+        "pubDate": "2026-10-22T09:10:00+00:00",
         "approxTime": false
       },
       {
@@ -244,6 +244,15 @@
         "link": "https://www.lacapital.com.ar/economia/la-actividad-economica-cayo-17-agosto-y-la-recesion-tecnica-parece-inevitable-n10288002.html",
         "image": "https://media.lacapital.com.ar/p/98e968df10e7b004acb260c64b007a67/adjuntos/203/imagenes/103/157/0103157987/1200x675/544x213:564x233/construccion.jpg",
         "summary": "De no mediar una recuperación milagrosa en septiembre, acumularía dos trimestres de contracción. La industria, el comercio, la construcción y el sector financiero cerraron en baja",
+        "pubDate": "2026-10-22T02:31:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Belgrano cargas: se bajó un oferente y el gobierno cortó contratos de obras",
+        "link": "https://www.lacapital.com.ar/economia/belgrano-cargas-se-un-oferente-y-el-gobierno-corto-contratos-obras-n10288005.html",
+        "image": "https://media.lacapital.com.ar/p/843d7941601148e46913004f9c6ba1ce/adjuntos/203/imagenes/102/993/0102993650/1200x675/smart/belgrano_cargas_900_kilometros_0.jpg",
+        "summary": "El único grupo internacional que se mostró interesado en participar de la licitación se bajó de la compulsa. La Nación dio de baja los acuerdos de obras ferroviarias en seis provincias",
         "pubDate": "2026-10-22T02:31:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/2ab04075f5e7b8433996bfa54fb5e063/adjuntos/203/imagenes/102/112/0102112601/1200x675/smart/bolsa-mervaljpg.jpg",
         "summary": "Aunque las acciones argentinas rebotaron, los bonos soberanos no logran zafar del castigo. Los datos de actividad suman incertidumbre y preocupan cada vez más a los inversores",
         "pubDate": "2026-10-22T00:54:59+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Quini 6: un apostador ganó más de $4.684 millones en el sorteo Revancha",
-        "link": "https://www.lacapital.com.ar/informacion-general/quini-6-un-apostador-gano-mas-4684-millones-el-sorteo-revancha-n10288009.html",
-        "image": "https://media.lacapital.com.ar/p/ff26de17391d1de983193234b89bbe29/adjuntos/203/imagenes/103/484/0103484585/1200x675/smart/quini6.png",
-        "summary": "Además dos santafesinos se llevan 31 millones de pesos cada uno por acertar en la modalidad Siempre Sale.",
-        "pubDate": "2026-10-22T00:54:00+00:00",
         "approxTime": false
       }
     ]
