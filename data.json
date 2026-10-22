@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-10-22T17:31:03.171646+00:00",
+  "generatedAt": "2026-10-22T18:01:07.852756+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Cómo se aplicará la prohibición de cuidacoches en Rosario: excepciones, multas y controles",
+        "link": "https://www.rosario3.com/informaciongeneral/como-se-aplicara-la-prohibicion-de-cuidacoches-en-rosario-excepciones-multas-y-controles-20261022-0042.html",
+        "image": "https://www.rosario3.com/__export/1770038546235/sites/rosario3/img/2025/01/08/trapitos-rosario.jpg_1662683607.jpg",
+        "summary": "El Concejo ya tiene el mensaje del Ejecutivo municipal que pone un freno a la actividad con castigos que pueden llegar a prisión",
+        "pubDate": "2026-10-22T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "“Para ellos es un vuelto, para nosotros una fortuna”: el dramático reclamo de una mamá a la obra social por la cirugía de su hijo",
         "link": "https://www.rosario3.com/informaciongeneral/para-ellos-es-un-vuelto-para-nosotros-una-fortuna-el-dramatico-reclamo-de-una-mama-a-la-obra-social-por-la-cirugia-de-su-hijo-20261022-0039.html",
         "image": "https://www.rosario3.com/__export/1792685600512/sites/rosario3/img/2026/10/22/whatsapp_image_2026-10-22_at_12_24_28.jpeg_928314581.jpeg",
         "summary": "Agustín necesita una operación en ambas rodillas y ambos pies para mejorar su movilidad. Estaba prevista para el 2 de octubre en Rosario, pero su mamá denuncia demoras y errores en las autorizaciones de Ospat. “Quiero que se hagan cargo de lo que les corresponde”, reclamó",
-        "pubDate": "2026-10-22T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Advierten por la falta de vacunas contra el dengue en farmacias de Rosario",
-        "link": "https://www.rosario3.com/informaciongeneral/advierten-por-la-falta-de-vacunas-contra-el-dengue-en-farmacias-de-rosario-20261022-0023.html",
-        "image": "https://www.rosario3.com/__export/1792675116589/sites/rosario3/img/2026/02/21/disen-o_sin_ti-tulo_-29-.png_928314581.png",
-        "summary": "Desde el Colegio de Farmacéuticos aseguraron que hace dos meses no reciben dosis. Según los proveedores, la entrega comenzaría a normalizarse durante noviembre. Cada aplicación cuesta alrededor de $168.500 y se necesita receta médica",
         "pubDate": "2026-10-22T11:59:00+00:00",
         "approxTime": true
       },
@@ -49,10 +49,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Procesaron a José Luis Espert por lavado de dinero: embargo millonario y prohibición de salir del país",
-        "link": "https://www.rosario3.com/informaciongeneral/procesaron-a-jose-luis-espert-por-lavado-de-dinero-embargo-millonario-y-prohibicion-de-salir-del-pais-20261022-0041.html",
-        "image": "https://www.rosario3.com/__export/1792686881010/sites/rosario3/img/2026/10/22/espert.png_786111822.png",
-        "summary": "El juez federal de San Isidro, Lino Mirabelli, dispuso la medida en la causa por los US$200.000 que el exdiputado recibió en 2019 de parte de Federico “Fred” Machado. La resolución también alcanza al contador Mariano Cosentino y a la firma Varianza S.A., mientras que la Cámara…",
+        "title": "Advierten por la falta de vacunas contra el dengue en farmacias de Rosario",
+        "link": "https://www.rosario3.com/informaciongeneral/advierten-por-la-falta-de-vacunas-contra-el-dengue-en-farmacias-de-rosario-20261022-0023.html",
+        "image": "https://www.rosario3.com/__export/1792675116589/sites/rosario3/img/2026/02/21/disen-o_sin_ti-tulo_-29-.png_928314581.png",
+        "summary": "Desde el Colegio de Farmacéuticos aseguraron que hace dos meses no reciben dosis. Según los proveedores, la entrega comenzaría a normalizarse durante noviembre. Cada aplicación cuesta alrededor de $168.500 y se necesita receta médica",
         "pubDate": "2026-10-22T11:55:00+00:00",
         "approxTime": true
       },
@@ -94,20 +94,29 @@
       },
       {
         "source": "Rosario3",
-        "title": "Newell’s enfrentará a Atlético Tostado en la final de la Copa Santa Fe: se confirmó el horario del partido de ida",
-        "link": "https://www.rosario3.com/deportes/newells-enfrentara-a-atletico-tostado-en-la-final-de-la-copa-santa-fe-se-confirmo-el-horario-del-partido-de-ida-20261022-0043.html",
-        "image": "https://www.rosario3.com/__export/1792268020763/sites/rosario3/img/2026/10/17/gol-nob.jpg_928314580.jpg",
-        "summary": "La Lepra jugará en el noroeste provincial en el primer encuentro de la serie por el certamen provincial. El partido definitorio, que deberá jugarse en Rosario, no se confirmó",
+        "title": "Tragedia en San Cristóbal: la familia de la víctima demandará a los padres del tirador tras ser sobreseído",
+        "link": "https://www.rosario3.com/policiales/tragedia-en-san-cristobal-la-familia-de-la-victima-demandara-a-los-padres-del-tirador-tras-ser-sobreseido-20261022-0021.html",
+        "image": "https://www.rosario3.com/__export/1792674123487/sites/rosario3/img/2026/10/22/ian_cabrera.jpg_480268841.jpg",
+        "summary": "El abogado querellante, Luis Hilbert, calificó de 'error garrafal' la decisión del juez José Boaglio y adelantó que iniciarán acciones civiles. Cuestionó que la medida se haya tomado de forma apresurada y sin garantías sobre el traslado del adolescente. Los detalles",
         "pubDate": "2026-10-22T11:50:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Daniel Osvaldo recibió el alta tras casi un mes internado por una grave infección derivada de una caries",
-        "link": "https://www.rosario3.com/ocio/daniel-osvaldo-recibio-el-alta-tras-casi-un-mes-internado-por-una-grave-infeccion-derivada-de-una-caries-20261022-0036.html",
-        "image": "https://www.rosario3.com/__export/1792684347157/sites/rosario3/img/2026/10/22/daniel_osvaldo_caries.png_786111822.png",
-        "summary": "El exfutbolista se recupera en su casa luego de atravesar un delicado cuadro de salud provocado por una infección dental que llegó a comprometer su sistema respiratorio",
+        "title": "Newell’s enfrentará a Atlético Tostado en la final de la Copa Santa Fe: se confirmó el horario del partido de ida",
+        "link": "https://www.rosario3.com/deportes/newells-enfrentara-a-atletico-tostado-en-la-final-de-la-copa-santa-fe-se-confirmo-el-horario-del-partido-de-ida-20261022-0043.html",
+        "image": "https://www.rosario3.com/__export/1792268020763/sites/rosario3/img/2026/10/17/gol-nob.jpg_928314580.jpg",
+        "summary": "La Lepra jugará en el noroeste provincial en el primer encuentro de la serie por el certamen provincial. El partido definitorio, que deberá jugarse en Rosario, no se confirmó",
         "pubDate": "2026-10-22T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Procesaron a José Luis Espert por lavado de dinero: embargo millonario y prohibición de salir del país",
+        "link": "https://www.rosario3.com/informaciongeneral/procesaron-a-jose-luis-espert-por-lavado-de-dinero-embargo-millonario-y-prohibicion-de-salir-del-pais-20261022-0041.html",
+        "image": "https://www.rosario3.com/__export/1792686881010/sites/rosario3/img/2026/10/22/espert.png_786111822.png",
+        "summary": "El juez federal de San Isidro, Lino Mirabelli, dispuso la medida en la causa por los US$200.000 que el exdiputado recibió en 2019 de parte de Federico “Fred” Machado. La resolución también alcanza al contador Mariano Cosentino y a la firma Varianza S.A., mientras que la Cámara…",
+        "pubDate": "2026-10-22T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +125,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/el-gobierno-incorporo-al-cartel-de-sinaloa-y-otras-cuatro-organizaciones-criminales-al-registro-antiterrorista-20261022-0031.html",
         "image": "https://www.rosario3.com/__export/1792682025482/sites/rosario3/img/2026/10/22/enl.png_928314580.png",
         "summary": "La medida alcanza también al ELN, las FARC-EP, La Nueva Familia Michoacana y Los Tiguerones. La resolución fue publicada en el Boletín Oficial y habilita mecanismos de cooperación internacional, reportes financieros y medidas vinculadas al congelamiento de activos",
-        "pubDate": "2026-10-22T11:48:00+00:00",
+        "pubDate": "2026-10-22T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,15 +134,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/el-papa-leon-xiv-les-confirmo-el-viaje-a-unos-santafesinos-argentina-alla-vamos-20261022-0026.html",
         "image": "https://www.rosario3.com/__export/1792676478822/sites/rosario3/img/2026/10/22/leon-1-.jpg_2018123357.jpg",
         "summary": "La declaración del Sumo Pontífice fue en una ronda de saludos fuera del Vaticano. Las imágenes",
-        "pubDate": "2026-10-22T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Llega La Reina Rock Fest al Monumento con Cuarteto de Nos, Luck Ra, Estelares y Amira",
-        "link": "https://www.rosario3.com/ocio/llega-la-reina-rock-fest-al-monumento-con-cuarteto-de-nos-luck-ra-estelares-y-amira-20261022-0019.html",
-        "image": "https://www.rosario3.com/__export/1792673346989/sites/rosario3/img/2026/10/22/la_reina_rock_festival.jpg_928314581.jpg",
-        "summary": "El festival que ya se convirtió en un clásico de la ciudad se realizará de nuevo el sábado 31 de octubre con una apuesta increíble. Cómo participar",
         "pubDate": "2026-10-22T11:46:00+00:00",
         "approxTime": true
       }
@@ -141,11 +141,29 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "La Justicia procesó a Espert en la causa por presunto lavado de dinero",
+        "link": "https://www.lacapital.com.ar/politica/la-justicia-proceso-espert-la-causa-presunto-lavado-dinero-n10288126.html",
+        "image": "https://media.lacapital.com.ar/p/32eb7e1fae3c004667eb5384f4631344/adjuntos/203/imagenes/103/343/0103343630/image.png",
+        "summary": "El exdiputado de La Libertad Avanza es investigado por haber recibido 200.000 dólares de Federico “Fred” Machado, empresario detenido por narcotráfico",
+        "pubDate": "2026-10-22T17:54:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Crecida del Paraná en Rosario: prevén que el río supere los 4 metros en los próximos días",
+        "link": "https://www.lacapital.com.ar/la-ciudad/crecida-del-parana-rosario-preven-que-el-rio-supere-los-4-metros-los-proximos-dias-n10288041.html",
+        "image": "https://media.lacapital.com.ar/p/88e6f6cba64e44ef2a4597b5e851e373/adjuntos/203/imagenes/103/419/0103419311/1200x675/smart/crecida-parana2.jpg",
+        "summary": "El Instituto Nacional del Agua prevé que podría llegar a 4,30 metros el 27 de octubre y seguir creciendo a comienzos de noviembre",
+        "pubDate": "2026-10-22T17:48:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "La Reina Rock Fest en el Monumento a la Bandera: Cuarteto de Nos, Luck Ra, Estelares y Amira",
         "link": "https://www.lacapital.com.ar/la-reina-rock-fest-el-monumento-la-bandera-cuarteto-nos-luck-ra-estelares-y-amira-n10288114.html",
         "image": "https://media.lacapital.com.ar/p/09acabaa3eba929a9e5bdbbd39c57315/adjuntos/203/imagenes/103/485/0103485763/1200x675/smart/imagen-nota.jpg",
         "summary": "Supermercados La Reina organiza La Reina Rock Fest el sábado 31 de octubre con Cuarteto de Nos, Luck Ra, Estelares y Amira como principales figuras del cartel",
-        "pubDate": "2026-10-22T17:04:51+00:00",
+        "pubDate": "2026-10-22T17:04:00+00:00",
         "approxTime": false
       },
       {
@@ -231,10 +249,10 @@
       },
       {
         "source": "La Capital",
-        "title": "Corral: \"Vamos a hacer una reforma de seguridad pero no a libro cerrado\"",
+        "title": "Corral: \"Vamos a hacer una reforma de seguridad, pero no a libro cerrado\"",
         "link": "https://www.lacapital.com.ar/santa-fe/corral-vamos-hacer-una-reforma-seguridad-pero-no-libro-cerrado-n10288080.html",
         "image": "https://media.lacapital.com.ar/p/01d0443343e8fce36e7138e5da239104/adjuntos/204/imagenes/103/354/0103354996/camara-diputados-santa-fe.jpeg",
-        "summary": "El diputado del oficialismo confirmó que modificarán la redacción para garantizar las garantías constitucionales como piden distintos ámbitos jurídicos",
+        "summary": "El diputado provincial del oficialismo confirmó que modificarán la redacción para resguardar las garantías constitucionales, como piden distintos ámbitos jurídicos",
         "pubDate": "2026-10-22T14:50:00+00:00",
         "approxTime": false
       },
@@ -249,29 +267,11 @@
       },
       {
         "source": "La Capital",
-        "title": "Soledad Pastorutti habló sobre la enfermedad de su papá: \"Reconoció mi voz\"",
-        "link": "https://www.lacapital.com.ar/zoom/soledad-pastorutti-hablo-la-enfermedad-su-papa-reconocio-mi-voz-n10288082.html",
-        "image": "https://media.lacapital.com.ar/p/57ddee541db95a2a640988d1bec9ee53/adjuntos/203/imagenes/103/485/0103485483/1200x675/smart/image-2026-10-22t121220732.jpg",
-        "summary": "La artista santafesina presentó su nuevo disco “Vale la pena” y habló emocionada de la canción que le dedica a su papá Omar",
-        "pubDate": "2026-10-22T14:48:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "Cuatro zorros bebé fueron rescatados por un pescador en la zona de Estancia Santa Rosa en Roldán",
         "link": "https://www.lacapital.com.ar/la-region/cuatro-zorros-bebe-fueron-rescatados-un-pescador-la-zona-estancia-santa-rosa-roldan-n10288090.html",
         "image": "https://media.lacapital.com.ar/p/f082f78c78549496a3f75501f0a4f145/adjuntos/203/imagenes/103/485/0103485507/1200x675/smart/zorros3.jpeg",
         "summary": "Tras el alerta que dio el vecino, Sanidad Animal trasladó a los cachorros a un centro especializado, donde reciben atención veterinaria para su futura reinserción en la naturaleza",
         "pubDate": "2026-10-22T14:48:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Juan José Campanella habló de las denuncias contra Hernán Casciari",
-        "link": "https://www.lacapital.com.ar/zoom/juan-jose-campanella-hablo-las-denuncias-contra-hernan-casciari-n10288071.html",
-        "image": "https://media.lacapital.com.ar/p/0c5dc3a232c9c1b4352f0dc97093b269/adjuntos/203/imagenes/103/427/0103427122/1200x675/smart/image-2026-09-25t142052586.jpg",
-        "summary": "El director ganador del Oscar se refirió a la situación que atraviesa Orsai Audiovisuales en la Justicia",
-        "pubDate": "2026-10-22T14:08:00+00:00",
         "approxTime": false
       }
     ]
