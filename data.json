@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-22T15:01:18.356656+00:00",
+  "generatedAt": "2026-10-22T15:31:04.459073+00:00",
   "sites": {
     "rosario3": [
       {
         "source": "Rosario3",
-        "title": "\"Dejen de boludear\": Angelini pide a la Libertad Avanza que sea coherente y apruebe la ordenanza para legalizar Uber",
-        "link": "https://www.rosario3.com/politica/dejen-de-boludear-angelini-pide-a-la-libertad-avanza-que-sea-coherente-y-apruebe-la-ordenanza-para-legalizar-uber-20261022-0015.html",
-        "image": "https://www.rosario3.com/__export/1792671512522/sites/rosario3/img/2021/07/29/angelini_federico.jpg_395595010.jpg",
-        "summary": "La Provincia se mete en el debate y sostiene que la regularización también es una cuestión que hace a la seguridad",
+        "title": "Advierten por la falta de vacunas contra el dengue en farmacias de Rosario",
+        "link": "https://www.rosario3.com/informaciongeneral/advierten-por-la-falta-de-vacunas-contra-el-dengue-en-farmacias-de-rosario-20261022-0023.html",
+        "image": "https://www.rosario3.com/__export/1792675116589/sites/rosario3/img/2026/02/21/disen-o_sin_ti-tulo_-29-.png_928314581.png",
+        "summary": "Desde el Colegio de Farmacéuticos aseguraron que hace dos meses no reciben dosis. Según los proveedores, la entrega comenzaría a normalizarse durante noviembre. Cada aplicación cuesta alrededor de $168.500 y se necesita receta médica",
         "pubDate": "2026-10-22T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "El Niño se hará sentir con mayor fuerza hacia fin de año: por qué y cómo puede influir en la región",
+        "link": "https://www.rosario3.com/informaciongeneral/el-nino-se-hara-sentir-con-mayor-fuerza-hacia-fin-de-ano-por-que-y-como-puede-influir-en-la-region-20261022-0032.html",
+        "image": "https://www.rosario3.com/__export/1792682000913/sites/rosario3/img/2026/10/22/saulo.jpg_982625323.jpg",
+        "summary": "Celeste Saulo, la argentina que conduce la Organización Meteorológica Mundial, instó a los gobiernos a multiplicar las herramientas para afinar los pronósticos y anticiparse con las medidas preventivas",
+        "pubDate": "2026-10-22T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/deportes/messi-hablo-de-su-padre-en-oviedo-antes-de-recibir-el-premio-princesa-de-asturias-seguramente-lo-esta-disfrutando-tambien-20261022-0028.html",
         "image": "https://www.rosario3.com/__export/1792678476670/sites/rosario3/img/2026/10/22/messi-efe.jpg_928314580.jpg",
         "summary": "El capitán de la selección argentina viajó a España para recibir la distinción por su trayectoria y su labor humanitaria. En sus primeras declaraciones tras el cruce ante Inglaterra, el futbolista valoró el impacto emocional del galardón en su entorno familiar",
-        "pubDate": "2026-10-22T11:59:00+00:00",
+        "pubDate": "2026-10-22T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/el-papa-leon-xiv-les-confirmo-el-viaje-a-unos-santafesinos-argentina-alla-vamos-20261022-0026.html",
         "image": "https://www.rosario3.com/__export/1792676478822/sites/rosario3/img/2026/10/22/leon-1-.jpg_2018123357.jpg",
         "summary": "La declaración del Sumo Pontífice fue en una ronda de saludos fuera del Vaticano. Las imágenes",
-        "pubDate": "2026-10-22T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Tragedia en San Cristóbal: la familia de la víctima demandará a los padres del tirador tras ser sobreseído",
-        "link": "https://www.rosario3.com/policiales/tragedia-en-san-cristobal-la-familia-de-la-victima-demandara-a-los-padres-del-tirador-tras-ser-sobreseido-20261022-0021.html",
-        "image": "https://www.rosario3.com/__export/1792674123487/sites/rosario3/img/2026/10/22/ian_cabrera.jpg_480268841.jpg",
-        "summary": "El abogado querellante, Luis Hilbert, calificó de 'error garrafal' la decisión del juez José Boaglio y adelantó que iniciarán acciones civiles. Cuestionó que la medida se haya tomado de forma apresurada y sin garantías sobre el traslado del adolescente. Los detalles",
         "pubDate": "2026-10-22T11:57:00+00:00",
         "approxTime": true
       },
@@ -49,11 +49,29 @@
       },
       {
         "source": "Rosario3",
-        "title": "Un joven resultó herido en una balacera en Roldán",
-        "link": "https://www.rosario3.com/policiales/un-joven-resulto-herido-en-una-balacera-en-roldan-20261022-0025.html",
-        "image": "https://www.rosario3.com/__export/1792255841795/sites/rosario3/img/2026/09/13/policia.jpg_1825222445.jpg",
-        "summary": "El ataque tuvo lugar en la noche de este miércoles en J. J. Valle al 400. La víctima fue atendida en el Samco local por cuatro impactos de arma de fuego en sus piernas. Está fuera de peligro",
+        "title": "\"Dejen de boludear\": Angelini pide a la Libertad Avanza que sea coherente y apruebe la ordenanza para legalizar Uber",
+        "link": "https://www.rosario3.com/politica/dejen-de-boludear-angelini-pide-a-la-libertad-avanza-que-sea-coherente-y-apruebe-la-ordenanza-para-legalizar-uber-20261022-0015.html",
+        "image": "https://www.rosario3.com/__export/1792671512522/sites/rosario3/img/2021/07/29/angelini_federico.jpg_395595010.jpg",
+        "summary": "La Provincia se mete en el debate y sostiene que la regularización también es una cuestión que hace a la seguridad",
         "pubDate": "2026-10-22T11:55:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Tragedia en San Cristóbal: la familia de la víctima demandará a los padres del tirador tras ser sobreseído",
+        "link": "https://www.rosario3.com/policiales/tragedia-en-san-cristobal-la-familia-de-la-victima-demandara-a-los-padres-del-tirador-tras-ser-sobreseido-20261022-0021.html",
+        "image": "https://www.rosario3.com/__export/1792674123487/sites/rosario3/img/2026/10/22/ian_cabrera.jpg_480268841.jpg",
+        "summary": "El abogado querellante, Luis Hilbert, calificó de 'error garrafal' la decisión del juez José Boaglio y adelantó que iniciarán acciones civiles. Cuestionó que la medida se haya tomado de forma apresurada y sin garantías sobre el traslado del adolescente. Los detalles",
+        "pubDate": "2026-10-22T11:54:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "El sentido mensaje de Lilia Lemoine y la arenga libertaria de Karina por el cumpleaños de Milei",
+        "link": "https://www.rosario3.com/informaciongeneral/el-sentido-mensaje-de-lilia-lemoine-y-la-arenga-libertaria-de-karina-por-el-cumpleanos-de-milei-20261022-0030.html",
+        "image": "https://www.rosario3.com/__export/1792681625385/sites/rosario3/img/2026/10/22/saludosamilei.jpg_928314581.jpg",
+        "summary": "La diputada nacional usó sus redes sociales para saludar al Presidente que cumple hoy 56 años y le dedicó un video. Además su hermana y colaboradores más cercanos le cantaron el feliz cumpleaños con tono de cancha",
+        "pubDate": "2026-10-22T11:53:00+00:00",
         "approxTime": true
       },
       {
@@ -62,25 +80,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/elevan-a-naranja-el-alerta-por-tormentas-para-este-jueves-en-rosario-advierten-por-lluvias-intensas-granizo-y-rafagas-20261021-0083.html",
         "image": "https://www.rosario3.com/__export/1792622841326/sites/rosario3/img/2026/10/21/lluvia.jpg_1825222445.jpg",
         "summary": "El Servicio Meteorológico agravó el pronóstico para la tarde y extendió las advertencias hasta la noche. Se esperan precipitaciones acumuladas de hasta 100 milímetros y vientos de 90 kilómetros por hora. El municipio reforzó los trabajos de prevención y pidió a vecinos que…",
-        "pubDate": "2026-10-21T11:54:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Caso Nancy Godoy: ya son cinco los detenidos por la desaparición de la docente en Corrientes",
-        "link": "https://www.rosario3.com/policiales/caso-nancy-godoy-ya-son-cinco-los-detenidos-por-la-desaparicion-de-la-docente-en-corrientes-20261022-0017.html",
-        "image": "https://www.rosario3.com/__export/1792675347278/sites/rosario3/img/2026/10/22/image_-49-.jpg_928314580.jpg",
-        "summary": "Este miércoles por la noche fueron arrestados los peones Ireneo Zarza y Sandoval. Además, en un allanamiento en Sauce secuestraron una campera y una ojota que pertenecerían a la mujer de 52 años",
-        "pubDate": "2026-10-22T11:53:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Murió la joven que había sido prendida fuego por su pareja en Granadero Baigorria y la causa pasará a femicidio",
-        "link": "https://www.rosario3.com/policiales/murio-la-joven-que-habia-sido-prendida-fuego-por-su-pareja-en-granadero-baigorria-y-la-causa-pasara-a-femicidio-20261022-0001.html",
-        "image": "https://www.rosario3.com/__export/1792661963076/sites/rosario3/img/2026/10/22/image_-48-.jpg_928314580.jpg",
-        "summary": "Tenía 29 años y cursaba un embarazo de ocho meses cuando fue atacada el pasado 12 de octubre. Estaba internada en terapia intensiva en el Hospital Eva Perón con el 15 por ciento del cuerpo quemado y compromiso en las vías respiratorias. Por el hecho, Maximiliano Castagnino se…",
-        "pubDate": "2026-10-22T11:52:00+00:00",
+        "pubDate": "2026-10-21T11:52:00+00:00",
         "approxTime": true
       },
       {
@@ -94,11 +94,20 @@
       },
       {
         "source": "Rosario3",
-        "title": "Acuerdo entre adultos para cuidar la niñez: la escuela, el primer celular y la recomendación de retrasarlo lo máximo posible",
-        "link": "https://www.rosario3.com/informaciongeneral/acuerdo-entre-adultos-para-cuidar-la-ninez-la-escuela-el-primer-celular-y-la-recomendacion-de-retrasarlo-lo-maximo-posible-20261021-0087.html",
-        "image": "https://www.rosario3.com/__export/1792630296090/sites/rosario3/img/2026/10/21/nixo_mira_el_cel.jpg_928314580.jpg",
-        "summary": "Un proyecto conjunto entre alumnos y docentes de los niveles inicial y secundario del Normal 1 puso el foco en la preocupación por el acceso cada vez a edades más tempranas de celulares y otros dispositivos electrónicos. Autoridades observaron que son cada vez más frecuentes las…",
-        "pubDate": "2026-10-21T11:50:00+00:00",
+        "title": "Caso Nancy Godoy: ya son cinco los detenidos por la desaparición de la docente en Corrientes",
+        "link": "https://www.rosario3.com/policiales/caso-nancy-godoy-ya-son-cinco-los-detenidos-por-la-desaparicion-de-la-docente-en-corrientes-20261022-0017.html",
+        "image": "https://www.rosario3.com/__export/1792675347278/sites/rosario3/img/2026/10/22/image_-49-.jpg_928314580.jpg",
+        "summary": "Este miércoles por la noche fueron arrestados los peones Ireneo Zarza y Sandoval. Además, en un allanamiento en Sauce secuestraron una campera y una ojota que pertenecerían a la mujer de 52 años",
+        "pubDate": "2026-10-22T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Un joven resultó herido en una balacera en Roldán",
+        "link": "https://www.rosario3.com/policiales/un-joven-resulto-herido-en-una-balacera-en-roldan-20261022-0025.html",
+        "image": "https://www.rosario3.com/__export/1792255841795/sites/rosario3/img/2026/09/13/policia.jpg_1825222445.jpg",
+        "summary": "El ataque tuvo lugar en la noche de este miércoles en J. J. Valle al 400. La víctima fue atendida en el Samco local por cuatro impactos de arma de fuego en sus piernas. Está fuera de peligro",
+        "pubDate": "2026-10-22T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -107,7 +116,7 @@
         "link": "https://www.rosario3.com/policiales/tenia-pedido-de-captura-y-cayo-con-un-arma-tras-una-persecucion-en-granadero-baigorria-20261022-0022.html",
         "image": "https://www.rosario3.com/__export/1792674180608/sites/rosario3/img/2026/10/22/baigorria_detenido.jpg_928314580.jpg",
         "summary": "El procedimiento ocurrió en la noche de este miércoles. El delincuente, que tenía una solicitud de arresto desde el 9 de octubre, tenía una pistola",
-        "pubDate": "2026-10-22T11:49:00+00:00",
+        "pubDate": "2026-10-22T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,29 +125,29 @@
         "link": "https://www.rosario3.com/informaciongeneral/los-cambios-que-habra-en-materia-de-desalojos-si-se-aprueba-la-ley-de-inviolabilidad-de-la-propiedad-privada-20261022-0020.html",
         "image": "https://www.rosario3.com/__export/1792673752237/sites/rosario3/img/2026/10/22/desalojo.jpg_928314581.jpg",
         "summary": "El proyecto, que deberá volver al Senado, incluye el juicio sumarísimo, es decir, una intimación previa de diez días por falta de pago, la entrega inmediata del inmueble en casos de ocupación y resguardos para personas vulnerables",
-        "pubDate": "2026-10-22T11:48:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Lisandro Enrico y las rutas nacionales: \"El modelo del Presidente hizo que viajemos muy mal\"",
-        "link": "https://www.rosario3.com/informaciongeneral/lisandro-enrico-y-las-rutas-nacionales-el-modelo-del-presidente-hizo-que-viajemos-muy-mal-20261022-0013.html",
-        "image": "https://www.rosario3.com/__export/1792670385057/sites/rosario3/img/2026/10/22/a012.jpg_928314581.jpg",
-        "summary": "El ministro de Obras Públicas de Santa Fe, Lisandro Enrico, analizó el avance de los trabajos viales en el territorio provincial. Cuestionó la decisión del gobierno nacional de no invertir en el mantenimiento de sus corredores y destacó que la gestión local se hizo cargo de la…",
         "pubDate": "2026-10-22T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "La razón por la que el presidente Milei usó un vendaje en el cuello en su viaje a España",
-        "link": "https://www.rosario3.com/informaciongeneral/la-razon-por-la-que-el-presidente-milei-uso-un-vendaje-en-el-cuello-en-su-viaje-a-espana-20261022-0009.html",
-        "image": "https://www.rosario3.com/__export/1792668118090/sites/rosario3/img/2026/10/22/curita.jpg_928314581.jpg",
-        "summary": "El Gobierno informó que usó un apósito a la altura del cuello, que se evidenció en una conferencia de prensa con medios españoles, debido a un hematoma que sufrió al salir de la bañadera",
+        "title": "Murió la joven que había sido prendida fuego por su pareja en Granadero Baigorria y la causa pasará a femicidio",
+        "link": "https://www.rosario3.com/policiales/murio-la-joven-que-habia-sido-prendida-fuego-por-su-pareja-en-granadero-baigorria-y-la-causa-pasara-a-femicidio-20261022-0001.html",
+        "image": "https://www.rosario3.com/__export/1792661963076/sites/rosario3/img/2026/10/22/image_-48-.jpg_928314580.jpg",
+        "summary": "Tenía 29 años y cursaba un embarazo de ocho meses cuando fue atacada el pasado 12 de octubre. Estaba internada en terapia intensiva en el Hospital Eva Perón con el 15 por ciento del cuerpo quemado y compromiso en las vías respiratorias. Por el hecho, Maximiliano Castagnino se…",
         "pubDate": "2026-10-22T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Alerta por El Niño: Santa Fe armó un mapa de obras en 100 localidades con mayor riesgo",
+        "link": "https://www.lacapital.com.ar/la-region/alerta-el-nino-santa-fe-armo-un-mapa-obras-100-localidades-mayor-riesgo-n10288040.html",
+        "image": "https://media.lacapital.com.ar/p/30276d9ee62ee432e49bd1b57549c1d3/adjuntos/203/imagenes/103/485/0103485051/obras-el-nino-1.jpeg",
+        "summary": "El gobierno provincial ya inició 92 proyectos a partir de un estudio sobre el atraso en infraestructura para lidiar con la lluvia y prevenir inundaciones",
+        "pubDate": "2026-10-22T15:03:31+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Corral: \"Vamos a hacer una reforma de seguridad pero no a libro cerrado\"",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/ea48ae135592ba89090cc383613f6590/adjuntos/203/imagenes/103/484/0103484856/1200x675/smart/quini-6.png",
         "summary": "Gabriela y Diego visitaron La Capital+, el streaming de La Capital, y aclararon que \"no son jugadores\". Toda la familia aportó para que la celebración fuera especial",
         "pubDate": "2026-10-22T11:23:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Dos adolescentes de 13 y 15 años heridos en una balacera en San Francisquito",
-        "link": "https://www.lacapital.com.ar/la-ciudad/dos-adolescentes-13-y-15-anos-heridos-una-balacera-san-francisquito-n10288023.html",
-        "image": "https://media.lacapital.com.ar/p/fde16facfb5c2ae9d2df1d05b3debfd7/adjuntos/203/imagenes/103/104/0103104482/heca-riojpg.jpg",
-        "summary": "El incidente se registró este jueves a la madrugada en Avellaneda y Lavalle. Los chicos sufrieron lesiones en brazo y pie",
-        "pubDate": "2026-10-22T10:54:13+00:00",
         "approxTime": false
       }
     ]
