@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T21:01:15.096590+00:00",
+  "generatedAt": "2026-10-22T21:30:59.815364+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Rosario avanza con la prohibición de los cuidacoches: cómo serán las multas y las sanciones",
+        "link": "https://www.lacapital.com.ar/la-ciudad/rosario-avanza-la-prohibicion-los-cuidacoches-como-seran-las-multas-y-las-sanciones-n10288148.html",
+        "image": "https://media.lacapital.com.ar/p/982939888ebd482fca24b06a63a038fd/adjuntos/203/imagenes/103/215/0103215221/1200x675/smart/cuidacoches24.jpg",
+        "summary": "El municipio envió al Concejo el proyecto para adherir a la ley provincial que prohíbe la actividad de los trapitos. Contempla multas de hasta $907.600, tareas comunitarias e intervención policial para retirar a los trapitos de las calles.",
+        "pubDate": "2026-10-22T21:20:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Corrupción en la Andis: el juez Lijo citó a indagatoria a los dueños de la droguería Suizo Argentina",
+        "link": "https://www.lacapital.com.ar/policiales/corrupcion-la-andis-el-juez-lijo-cito-indagatoria-los-duenos-la-drogueria-suizo-argentina-n10288163.html",
+        "image": "https://media.lacapital.com.ar/p/94ab61786214636f150e324d13d1a24f/adjuntos/203/imagenes/101/889/0101889979/1200x675/smart/ariel-lijojpg.jpg",
+        "summary": "Los empresarios Jonathan y Emmanuel Kovalivker fueron citados para el jueves 29 de octubre en la investigación por coimas en la venta de medicamentos",
+        "pubDate": "2026-10-22T21:03:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Narcotráfico en Rosario: allanamientos en el microcentro y Fisherton por un cargamento de 640 kilos de marihuana",
         "link": "https://www.lacapital.com.ar/policiales/narcotrafico-rosario-allanamientos-el-microcentro-y-fisherton-un-cargamento-640-kilos-marihuana-n10288152.html",
         "image": "https://media.lacapital.com.ar/p/2217141f71269d78751649ed52208c2a/adjuntos/203/imagenes/103/486/0103486183/1200x675/smart/whatsapp-image-2026-10-22-at-095719-1.jpeg",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/2965573e8e6642c611d42b9d527093ff/adjuntos/203/imagenes/103/485/0103485865/1200x675/smart/image-11.png",
         "summary": "Galletitas clásicas y sencillas que elevan cualquier merienda con pocos ingredientes.",
         "pubDate": "2026-10-22T17:55:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La Justicia procesó a Espert en la causa por presunto lavado de dinero",
-        "link": "https://www.lacapital.com.ar/politica/la-justicia-proceso-espert-la-causa-presunto-lavado-dinero-n10288126.html",
-        "image": "https://media.lacapital.com.ar/p/32eb7e1fae3c004667eb5384f4631344/adjuntos/203/imagenes/103/343/0103343630/image.png",
-        "summary": "El exdiputado de La Libertad Avanza es investigado por haber recibido 200.000 dólares de Federico “Fred” Machado, empresario detenido por narcotráfico",
-        "pubDate": "2026-10-22T17:54:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Crecida del Paraná en Rosario: prevén que el río supere los 4 metros en los próximos días",
-        "link": "https://www.lacapital.com.ar/la-ciudad/crecida-del-parana-rosario-preven-que-el-rio-supere-los-4-metros-los-proximos-dias-n10288041.html",
-        "image": "https://media.lacapital.com.ar/p/88e6f6cba64e44ef2a4597b5e851e373/adjuntos/203/imagenes/103/419/0103419311/1200x675/smart/crecida-parana2.jpg",
-        "summary": "El Instituto Nacional del Agua prevé que podría llegar a 4,30 metros el 27 de octubre y seguir creciendo a comienzos de noviembre",
-        "pubDate": "2026-10-22T17:48:00+00:00",
         "approxTime": false
       }
     ]
