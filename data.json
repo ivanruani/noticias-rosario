@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-22T10:01:09.728824+00:00",
+  "generatedAt": "2026-10-22T10:31:01.276400+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Murió la joven que había sido prendida fuego por su pareja en Granadero Baigorria y la causa pasará a femicidio",
+        "link": "https://www.rosario3.com/policiales/murio-la-joven-que-habia-sido-prendida-fuego-por-su-pareja-en-granadero-baigorria-y-la-causa-pasara-a-femicidio-20261022-0001.html",
+        "image": "https://www.rosario3.com/__export/1792661963076/sites/rosario3/img/2026/10/22/image_-48-.jpg_928314580.jpg",
+        "summary": "Tenía 29 años y cursaba un embarazo de ocho meses cuando fue atacada el pasado 12 de octubre. Estaba internada en terapia intensiva en el Hospital Eva Perón con el 15 por ciento del cuerpo quemado y compromiso en las vías respiratorias. Por el hecho, Maximiliano Castagnino se…",
+        "pubDate": "2026-10-22T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Acuerdo entre adultos para cuidar la niñez: la escuela, el primer celular y la recomendación de retrasarlo lo máximo posible",
         "link": "https://www.rosario3.com/informaciongeneral/acuerdo-entre-adultos-para-cuidar-la-ninez-la-escuela-el-primer-celular-y-la-recomendacion-de-retrasarlo-lo-maximo-posible-20261021-0087.html",
         "image": "https://www.rosario3.com/__export/1792630296090/sites/rosario3/img/2026/10/21/nixo_mira_el_cel.jpg_928314580.jpg",
         "summary": "Un proyecto conjunto entre alumnos y docentes de los niveles inicial y secundario del Normal 1 puso el foco en la preocupación por el acceso cada vez a edades más tempranas de celulares y otros dispositivos electrónicos. Autoridades observaron que son cada vez más frecuentes las…",
-        "pubDate": "2026-10-21T12:00:00+00:00",
+        "pubDate": "2026-10-21T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,34 @@
         "link": "https://www.rosario3.com/informaciongeneral/elevan-a-naranja-el-alerta-por-tormentas-para-este-jueves-en-rosario-advierten-por-lluvias-intensas-granizo-y-rafagas-20261021-0083.html",
         "image": "https://www.rosario3.com/__export/1792622841326/sites/rosario3/img/2026/10/21/lluvia.jpg_1825222445.jpg",
         "summary": "El Servicio Meteorológico agravó el pronóstico para la tarde y extendió las advertencias hasta la noche. Se esperan precipitaciones acumuladas de hasta 100 milímetros y vientos de 90 kilómetros por hora. El municipio reforzó los trabajos de prevención y pidió a vecinos que…",
-        "pubDate": "2026-10-21T11:59:00+00:00",
+        "pubDate": "2026-10-21T11:58:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Claves del día: se baja el gigante mexicano del Belgrano Cargas, Verónica revive y la economía no despega | Ecos365",
+        "link": "https://www.rosario3.com/ecos365/noticias/claves-del-dia-se-baja-el-gigante-mexicano-del-belgrano-cargas-veronica-revive-y-la-economia-no-despega-20261022-0001.html",
+        "image": "https://www.rosario3.com/__export/1792658810090/sites/rosario3/img/2024/07/17/trenes_carga.jpg_1199471419.jpg",
+        "summary": "Se baja el mexicano que prometía u$s3.000 M por el Belgrano Cargas, una láctea paralizada diez meses renace de la mano del ex CEO de Dreyfus, la economía apenas respira y bonos y acciones suben con luz amarilla",
+        "pubDate": "2026-10-22T11:57:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "El poder de la red, de Aaron Sorkin, encabeza los estrenos en los cines de Rosario",
+        "link": "https://www.rosario3.com/ocio/el-poder-de-la-red-de-aaron-sorkin-encabeza-los-estrenos-en-los-cines-de-rosario-20261021-0080.html",
+        "image": "https://www.rosario3.com/__export/1792621189684/sites/rosario3/img/2026/10/21/estrenoscine.jpg_506286608.jpg",
+        "summary": "Además de la producción que sirve como “pieza complementaria” de La red social, las salas de la ciudad proyectan desde este jueves Clayface, Terror en el Amazonas, Buenas vibraciones, ¿Querés ser mi hijo?, Heidi: el rescate del lince y Que Dios perdona a todos",
+        "pubDate": "2026-10-21T11:56:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Dos adolescentes fueron baleados en la zona oeste de Rosario",
+        "link": "https://www.rosario3.com/policiales/dos-adolescentes-fueron-baleados-en-la-zona-oeste-de-rosario-20261022-0002.html",
+        "image": "https://www.rosario3.com/__export/1786055585361/sites/rosario3/img/2026/07/20/heca.jpg_776569847.jpg",
+        "summary": "Tienen 12 y 15 años y fueron atacados en la madrugada de este jueves en Amenábar entre Lavalle y Avellaneda. Fueron trasladados al Heca y están fuera de peligro",
+        "pubDate": "2026-10-22T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -26,42 +62,6 @@
         "link": "https://www.rosario3.com/policiales/hostigo-a-su-ex-con-reclamos-por-una-casa-la-amenazo-y-ahora-pasara-las-fiestas-en-prision-20261021-0084.html",
         "image": "https://www.rosario3.com/__export/1792621970711/sites/rosario3/img/2024/05/27/_dsc7950.jpg_928314580.jpg",
         "summary": "Un rosarino de 35 años quedó en prisión preventiva por 90 días, imputado por presuntas extorsiones contra su ex y exigencias de dinero por una vivienda que asegura que le pertenece. La investigación también incluye maniobras contra otra mujer y su entorno familiar",
-        "pubDate": "2026-10-21T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Diputados aprobó la ley de propiedad privada y mantuvo los límites a la compra de tierras por extranjeros",
-        "link": "https://www.rosario3.com/informaciongeneral/diputados-aprobo-la-ley-de-propiedad-privada-y-mantuvo-los-limites-a-la-compra-de-tierras-por-extranjeros-20261021-0074.html",
-        "image": "https://www.rosario3.com/__export/1792614564388/sites/rosario3/img/2026/10/21/inviolavilidad_de_la_propiedad_privada.jpg_1825222445.jpg",
-        "summary": "El oficialismo consiguió avanzar con la iniciativa por 124 votos a favor, 119 en contra y seis abstenciones. El proyecto restituye la Ley de Tierras del kirchnerismo e incorpora cambios en expropiaciones y desalojos. Deberá regresar al Senado para su revisión",
-        "pubDate": "2026-10-21T11:57:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Una persecución terminó con una camioneta de Gendarmería incrustada contra una casa en Empalme Graneros",
-        "link": "https://www.rosario3.com/policiales/una-persecucion-termino-con-una-camioneta-de-gendarmeria-incrustada-contra-una-casa-en-empalme-graneros-20261021-0079.html",
-        "image": "https://www.rosario3.com/__export/1792617918117/sites/rosario3/img/2026/10/21/gna_olavarria_1300_bis.jpg_672794304.jpg",
-        "summary": "Los efectivos perseguían a una moto y perdieron el control del patrullero Fiat Toro en Olavarría al 1300 bis. Un gendarme sufrió heridas y la mujer que conducía el rodado también resultó lesionada y fue trasladada a un hospital",
-        "pubDate": "2026-10-21T11:56:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Violento choque entre un camión y un utilitario: trasladaron en helicóptero a un herido",
-        "link": "https://www.rosario3.com/informaciongeneral/violento-choque-entre-un-camion-y-un-utilitario-un-herido-trasladado-en-helicoptero-20261021-0067.html",
-        "image": "https://www.rosario3.com/__export/1792611646462/sites/rosario3/img/2026/10/21/choque3.jpeg_982625323.jpeg",
-        "summary": "Ocurrió en el cruce de las rutas 14 y A012. El chofer del transporte de carga volcó tras impactar contra una Citroën Berlingo y permaneció atrapado 45 minutos. Se activó el código rojo y fue transportado a Rosario con fracturas",
-        "pubDate": "2026-10-21T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Preso de Coronda fue condenado por mandar a balear una casa tras un incumplimiento en el pago de un préstamo informal",
-        "link": "https://www.rosario3.com/policiales/preso-de-coronda-fue-condenado-por-mandar-a-balear-una-casa-tras-un-incumplimiento-en-el-pago-de-un-prestamo-informal-20261021-0051.html",
-        "image": "https://www.rosario3.com/__export/1792600147814/sites/rosario3/img/2023/02/10/carcel_de_coronda.jpeg_1825222445.jpeg",
-        "summary": "Las extorsiones y el ataque a tiros ocurrieron en junio pasado en el barrio Puente Gallego. El recluso Brandon Escobar, fuertemente vinculado con Los Monos, aceptó un juicio abreviado este martes",
         "pubDate": "2026-10-21T11:54:00+00:00",
         "approxTime": true
       },
@@ -94,51 +94,69 @@
       },
       {
         "source": "Rosario3",
-        "title": "Trump llamó \"tonta\" a una periodista de CNN y \"estúpida\" a otra de ABC News",
-        "link": "https://www.rosario3.com/informaciongeneral/trump-llamo-tonta-a-una-periodista-de-cnn-y-estupida-a-otra-de-abc-news-20261021-0088.html",
-        "image": "https://www.rosario3.com/__export/1792630223780/sites/rosario3/img/2026/10/21/trump.jpg_1825222445.jpg",
-        "summary": "El presidente de Estados Unidos volvió este miércoles a insultar a periodistas que le preguntaban por la liberación de un estadounidense detenido en Rusia",
+        "title": "Diputados aprobó la ley de propiedad privada y mantuvo los límites a la compra de tierras por extranjeros",
+        "link": "https://www.rosario3.com/informaciongeneral/diputados-aprobo-la-ley-de-propiedad-privada-y-mantuvo-los-limites-a-la-compra-de-tierras-por-extranjeros-20261021-0074.html",
+        "image": "https://www.rosario3.com/__export/1792614564388/sites/rosario3/img/2026/10/21/inviolavilidad_de_la_propiedad_privada.jpg_1825222445.jpg",
+        "summary": "El oficialismo consiguió avanzar con la iniciativa por 124 votos a favor, 119 en contra y seis abstenciones. El proyecto restituye la Ley de Tierras del kirchnerismo e incorpora cambios en expropiaciones y desalojos. Deberá regresar al Senado para su revisión",
         "pubDate": "2026-10-21T11:50:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "El Geppetto rosarino que construye barcos increíbles en miniatura: BordeRío lleva una colección extraordinaria al DonWeb Day",
-        "link": "https://www.rosario3.com/informaciongeneral/el-geppetto-rosarino-que-construye-barcos-increibles-en-miniatura-borderio-lleva-una-coleccion-extraordinaria-al-donweb-day-20261021-0073.html",
-        "image": "https://www.rosario3.com/__export/1792620429159/sites/rosario3/img/2026/10/21/barco.jpg_1825222445.jpg",
-        "summary": "Guillermo Haddad es el artista plástico rosarino que transforma pequeñas piezas en impresionantes maquetas navales. Auspiciada por BordeRío, su colección tendrá su primera presentación en el marco de DonWeb Day Rosario, el próximo 1 de noviembre, en Tecnoteca",
+        "title": "Una persecución terminó con una camioneta de Gendarmería incrustada contra una casa en Empalme Graneros",
+        "link": "https://www.rosario3.com/policiales/una-persecucion-termino-con-una-camioneta-de-gendarmeria-incrustada-contra-una-casa-en-empalme-graneros-20261021-0079.html",
+        "image": "https://www.rosario3.com/__export/1792617918117/sites/rosario3/img/2026/10/21/gna_olavarria_1300_bis.jpg_672794304.jpg",
+        "summary": "Los efectivos perseguían a una moto y perdieron el control del patrullero Fiat Toro en Olavarría al 1300 bis. Un gendarme sufrió heridas y la mujer que conducía el rodado también resultó lesionada y fue trasladada a un hospital",
         "pubDate": "2026-10-21T11:49:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Por la golpiza en patota a un joven en Funes, la PDI realizó dos allanamientos en Rosario: dos aprehendidos",
-        "link": "https://www.rosario3.com/policiales/por-la-golpiza-en-patota-a-un-joven-en-funes-la-pdi-realizo-dos-allanamientos-en-rosario-dos-aprehendidos-20261021-0071.html",
-        "image": "https://www.rosario3.com/__export/1792613090504/sites/rosario3/img/2026/10/21/funes_patota.jpg_672794304.jpg",
-        "summary": "La investigación por la agresión a un adolescente de 17 años, cuyas imágenes se viralizaron, derivó en operativos en dos domicilios de Rosario. La PDI secuestró celulares, ropa y un Hyundai Veloster vinculado con el episodio del 12 de octubre",
-        "pubDate": "2026-10-21T11:48:00+00:00",
+        "title": "Copa Libertadores: Palmeiras pasó a la final y espera por Flamengo o Estudiantes",
+        "link": "https://www.rosario3.com/deportes/copa-libertadores-palmeiras-paso-a-la-final-y-espera-por-flamengo-o-estudiantes-20261022-0003.html",
+        "image": "https://www.rosario3.com/__export/1792662765724/sites/rosario3/img/2026/10/22/bcde1d2554c2ca132d91f515354eef868eac1980_-1-.jpg_1447673137.jpg",
+        "summary": "El actual subcampeón del certamen espera por el ganador de la llave que definirán este jueves, en Río de Janeiro",
+        "pubDate": "2026-10-22T11:48:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Habló la periodista española a la que Milei descalificó por una pregunta: \"Jamás me habían respondido así\"",
-        "link": "https://www.rosario3.com/informaciongeneral/hablo-la-periodista-espanola-a-la-que-milei-descalifico-por-una-pregunta-jamas-me-habian-respondido-asi-20261021-0064.html",
-        "image": "https://www.rosario3.com/__export/1792608310111/sites/rosario3/img/2026/10/21/mileiespaxa.jpg_982625323.jpg",
-        "summary": "En el marco de su viaje a España, el presidente argentino tildó de 'corta intelectualmente' y 'miserable' a una cronista de la Cadena SER. El episodio se produjo en una jornada en la que el mandatario también volvió a cuestionar al gobierno de Pedro Sánchez",
+        "title": "Trump llamó \"tonta\" a una periodista de CNN y \"estúpida\" a otra de ABC News",
+        "link": "https://www.rosario3.com/informaciongeneral/trump-llamo-tonta-a-una-periodista-de-cnn-y-estupida-a-otra-de-abc-news-20261021-0088.html",
+        "image": "https://www.rosario3.com/__export/1792630223780/sites/rosario3/img/2026/10/21/trump.jpg_1825222445.jpg",
+        "summary": "El presidente de Estados Unidos volvió este miércoles a insultar a periodistas que le preguntaban por la liberación de un estadounidense detenido en Rusia",
         "pubDate": "2026-10-21T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Uber y DiDi en Rosario: otra vez sin acuerdo, el debate por la legalización pasó a cuarto intermedio hasta el lunes que viene",
-        "link": "https://www.rosario3.com/informaciongeneral/uber-y-didi-en-rosario-el-oficialismo-busca-destrabar-el-proyecto-y-obtener-dictamen-este-miercoles-20261021-0020.html",
-        "image": "https://www.rosario3.com/__export/1790889634743/sites/rosario3/img/2026/10/01/uber.jpg_1825222445.jpg",
-        "summary": "Tras un plenario de las comisiones de Servicios Públicos y de Gobierno en el Concejo, al igual que la semana pasada no se alcanzó el consenso para conseguir un dictamen y llevar la iniciativa al recinto. No obstante, desde el oficialismo manifestaron que hubo acercamientos con…",
+        "title": "Violento choque entre un camión y un utilitario: trasladaron en helicóptero a un herido",
+        "link": "https://www.rosario3.com/informaciongeneral/violento-choque-entre-un-camion-y-un-utilitario-un-herido-trasladado-en-helicoptero-20261021-0067.html",
+        "image": "https://www.rosario3.com/__export/1792611646462/sites/rosario3/img/2026/10/21/choque3.jpeg_982625323.jpeg",
+        "summary": "Ocurrió en el cruce de las rutas 14 y A012. El chofer del transporte de carga volcó tras impactar contra una Citroën Berlingo y permaneció atrapado 45 minutos. Se activó el código rojo y fue transportado a Rosario con fracturas",
         "pubDate": "2026-10-21T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Murió la joven que fue víctima de un intento de femicidio en Granadero Baigorria",
+        "link": "https://www.lacapital.com.ar/policiales/murio-la-joven-que-fue-victima-un-intento-femicidio-granadero-baigorria-n10288018.html",
+        "image": "https://media.lacapital.com.ar/p/c16b11ed73bbafb943fc555dfcd6ada7/adjuntos/203/imagenes/103/465/0103465366/1200x675/smart/hospital-eva-peron.jpg",
+        "summary": "Talia Baduna tenía 29 años y había sido atacada por su pareja diez días atrás. Tras la agresión, le hicieron una cesárea de emergencia",
+        "pubDate": "2026-10-22T10:19:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Estrenos de cine en Rosario: comedia argentina, terror extranjero y animación",
+        "link": "https://www.lacapital.com.ar/zoom/estrenos-cine-rosario-comedia-argentina-terror-extranjero-y-animacion-n10287937.html",
+        "image": "https://media.lacapital.com.ar/p/5b0915f3f014a1b8020b44568a1e36e0/adjuntos/203/imagenes/103/484/0103484039/1200x675/smart/image-2026-10-21t174815794.png",
+        "summary": "Títulos para todos los gustos desembarcan en las salas de cine de la ciudad este jueves 22 de octubre. Promociones y descuentos a la hora de sacar entradas",
+        "pubDate": "2026-10-22T10:00:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Síndrome de Phelan-McDermid: la enfermedad genética que busca salir del anonimato en Argentina",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/cc52bdc0e87d2715c704ec0259ea0e16/adjuntos/203/imagenes/103/484/0103484482/nob-gmat-82382.jpg",
         "summary": "El volante de Newell's Rodrigo Herrera se lesionó en el cierre ante Central Córdoba y libera un lugar para que el joven continúe de titular",
         "pubDate": "2026-10-21T23:30:26+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Bullrich, \"preparada\" para la Presidencia, aunque aclara que aún no está en carrera",
-        "link": "https://www.lacapital.com.ar/politica/bullrich-preparada-la-presidencia-aunque-aclara-que-aun-no-esta-carrera-n10287993.html",
-        "image": "https://media.lacapital.com.ar/p/e451ff8d3442681dfa7c4b44e596f8b4/adjuntos/203/imagenes/103/429/0103429236/1200x675/smart/bullric-senado.jpg",
-        "summary": "En un nuevo mensaje al gobierno de Milei, la jefa de los senadores de LLA reconoció que la economía todavía está lejos de las expectativas de la sociedad",
-        "pubDate": "2026-10-21T23:27:18+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Llega un jueves con alerta naranja por tormentas para Rosario y la zona",
-        "link": "https://www.lacapital.com.ar/la-ciudad/llega-un-jueves-alerta-naranja-tormentas-rosario-y-la-zona-n10287999.html",
-        "image": "https://media.lacapital.com.ar/p/4b910f8dac681874b45b5cd380e33379/adjuntos/203/imagenes/103/452/0103452554/1200x675/smart/lluvia.jpg",
-        "summary": "Se espera una jornada con lluvias y un moderado descenso de la temperatura. El alerta anticipa abundantes precipitaciones en cortos períodos",
-        "pubDate": "2026-10-21T23:26:42+00:00",
         "approxTime": false
       }
     ]
