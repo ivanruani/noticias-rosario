@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-22T01:30:55.354404+00:00",
+  "generatedAt": "2026-10-22T02:01:10.871768+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Acuerdo entre adultos para cuidar la niñez: la escuela, el primer celular y la recomendación de retrasarlo lo máximo posible",
+        "link": "https://www.rosario3.com/informaciongeneral/acuerdo-entre-adultos-para-cuidar-la-ninez-la-escuela-el-primer-celular-y-la-recomendacion-de-retrasarlo-lo-maximo-posible-20261021-0087.html",
+        "image": "https://www.rosario3.com/__export/1792630296090/sites/rosario3/img/2026/10/21/nixo_mira_el_cel.jpg_928314580.jpg",
+        "summary": "Un proyecto conjunto entre alumnos y docentes de los niveles inicial y secundario del Normal 1 puso el foco en la preocupación por el acceso cada vez a edades más tempranas de celulares y otros dispositivos electrónicos. Autoridades observaron que son cada vez más frecuentes las…",
+        "pubDate": "2026-10-21T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Elevan a naranja el alerta por tormentas para este jueves en Rosario: advierten por lluvias intensas, granizo y ráfagas",
         "link": "https://www.rosario3.com/informaciongeneral/elevan-a-naranja-el-alerta-por-tormentas-para-este-jueves-en-rosario-advierten-por-lluvias-intensas-granizo-y-rafagas-20261021-0083.html",
         "image": "https://www.rosario3.com/__export/1792622841326/sites/rosario3/img/2026/10/21/lluvia.jpg_1825222445.jpg",
         "summary": "El Servicio Meteorológico agravó el pronóstico para la tarde y extendió las advertencias hasta la noche. Se esperan precipitaciones acumuladas de hasta 100 milímetros y vientos de 90 kilómetros por hora. El municipio reforzó los trabajos de prevención y pidió a vecinos que…",
-        "pubDate": "2026-10-21T12:00:00+00:00",
+        "pubDate": "2026-10-21T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,15 +26,6 @@
         "link": "https://www.rosario3.com/policiales/hostigo-a-su-ex-con-reclamos-por-una-casa-la-amenazo-y-ahora-pasara-las-fiestas-en-prision-20261021-0084.html",
         "image": "https://www.rosario3.com/__export/1792621970711/sites/rosario3/img/2024/05/27/_dsc7950.jpg_928314580.jpg",
         "summary": "Un rosarino de 35 años quedó en prisión preventiva por 90 días, imputado por presuntas extorsiones contra su ex y exigencias de dinero por una vivienda que asegura que le pertenece. La investigación también incluye maniobras contra otra mujer y su entorno familiar",
-        "pubDate": "2026-10-21T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Una persecución terminó con una camioneta de Gendarmería incrustada contra una casa en Empalme Graneros",
-        "link": "https://www.rosario3.com/policiales/una-persecucion-termino-con-una-camioneta-de-gendarmeria-incrustada-contra-una-casa-en-empalme-graneros-20261021-0079.html",
-        "image": "https://www.rosario3.com/__export/1792617918117/sites/rosario3/img/2026/10/21/gna_olavarria_1300_bis.jpg_672794304.jpg",
-        "summary": "Los efectivos perseguían a una moto y perdieron el control del patrullero Fiat Toro en Olavarría al 1300 bis. Un gendarme sufrió heridas y la mujer que conducía el rodado también resultó lesionada y fue trasladada a un hospital",
         "pubDate": "2026-10-21T11:58:00+00:00",
         "approxTime": true
       },
@@ -40,11 +40,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Una persecución terminó con una camioneta de Gendarmería incrustada contra una casa en Empalme Graneros",
+        "link": "https://www.rosario3.com/policiales/una-persecucion-termino-con-una-camioneta-de-gendarmeria-incrustada-contra-una-casa-en-empalme-graneros-20261021-0079.html",
+        "image": "https://www.rosario3.com/__export/1792617918117/sites/rosario3/img/2026/10/21/gna_olavarria_1300_bis.jpg_672794304.jpg",
+        "summary": "Los efectivos perseguían a una moto y perdieron el control del patrullero Fiat Toro en Olavarría al 1300 bis. Un gendarme sufrió heridas y la mujer que conducía el rodado también resultó lesionada y fue trasladada a un hospital",
+        "pubDate": "2026-10-21T11:56:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Violento choque entre un camión y un utilitario: trasladaron en helicóptero a un herido",
         "link": "https://www.rosario3.com/informaciongeneral/violento-choque-entre-un-camion-y-un-utilitario-un-herido-trasladado-en-helicoptero-20261021-0067.html",
         "image": "https://www.rosario3.com/__export/1792611646462/sites/rosario3/img/2026/10/21/choque3.jpeg_982625323.jpeg",
         "summary": "Ocurrió en el cruce de las rutas 14 y A012. El chofer del transporte de carga volcó tras impactar contra una Citroën Berlingo y permaneció atrapado 45 minutos. Se activó el código rojo y fue transportado a Rosario con fracturas",
-        "pubDate": "2026-10-21T11:56:00+00:00",
+        "pubDate": "2026-10-21T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -53,15 +62,6 @@
         "link": "https://www.rosario3.com/policiales/preso-de-coronda-fue-condenado-por-mandar-a-balear-una-casa-tras-un-incumplimiento-en-el-pago-de-un-prestamo-informal-20261021-0051.html",
         "image": "https://www.rosario3.com/__export/1792600147814/sites/rosario3/img/2023/02/10/carcel_de_coronda.jpeg_1825222445.jpeg",
         "summary": "Las extorsiones y el ataque a tiros ocurrieron en junio pasado en el barrio Puente Gallego. El recluso Brandon Escobar, fuertemente vinculado con Los Monos, aceptó un juicio abreviado este martes",
-        "pubDate": "2026-10-21T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Por la golpiza en patota a un joven en Funes, la PDI realizó dos allanamientos en Rosario: dos aprehendidos",
-        "link": "https://www.rosario3.com/policiales/por-la-golpiza-en-patota-a-un-joven-en-funes-la-pdi-realizo-dos-allanamientos-en-rosario-dos-aprehendidos-20261021-0071.html",
-        "image": "https://www.rosario3.com/__export/1792613090504/sites/rosario3/img/2026/10/21/funes_patota.jpg_672794304.jpg",
-        "summary": "La investigación por la agresión a un adolescente de 17 años, cuyas imágenes se viralizaron, derivó en operativos en dos domicilios de Rosario. La PDI secuestró celulares, ropa y un Hyundai Veloster vinculado con el episodio del 12 de octubre",
         "pubDate": "2026-10-21T11:54:00+00:00",
         "approxTime": true
       },
@@ -94,28 +94,28 @@
       },
       {
         "source": "Rosario3",
-        "title": "El Geppetto rosarino que construye barcos increíbles en miniatura: BordeRío lleva una colección extraordinaria al DonWeb Day",
-        "link": "https://www.rosario3.com/informaciongeneral/el-geppetto-rosarino-que-construye-barcos-increibles-en-miniatura-borderio-lleva-una-coleccion-extraordinaria-al-donweb-day-20261021-0073.html",
-        "image": "https://www.rosario3.com/__export/1792620429159/sites/rosario3/img/2026/10/21/barco.jpg_1825222445.jpg",
-        "summary": "Guillermo Haddad es el artista plástico rosarino que transforma pequeñas piezas en impresionantes maquetas navales. Auspiciada por BordeRío, su colección tendrá su primera presentación en el marco de DonWeb Day Rosario, el próximo 1 de noviembre, en Tecnoteca",
+        "title": "Trump llamó \"tonta\" a una periodista de CNN y \"estúpida\" a otra de ABC News",
+        "link": "https://www.rosario3.com/informaciongeneral/trump-llamo-tonta-a-una-periodista-de-cnn-y-estupida-a-otra-de-abc-news-20261021-0088.html",
+        "image": "https://www.rosario3.com/__export/1792630223780/sites/rosario3/img/2026/10/21/trump.jpg_1825222445.jpg",
+        "summary": "El presidente de Estados Unidos volvió este miércoles a insultar a periodistas que le preguntaban por la liberación de un estadounidense detenido en Rusia",
         "pubDate": "2026-10-21T11:50:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "El Vaticano difundió la biopsia del papa León XIV: no necesitará más tratamiento y prepara su viaje a la Argentina",
-        "link": "https://www.rosario3.com/informaciongeneral/el-vaticano-difundio-la-biopsia-del-papa-leon-xiv-no-necesitara-mas-tratamiento-y-prepara-su-viaje-a-la-argentina-20261021-0072.html",
-        "image": "https://www.rosario3.com/__export/1792612783012/sites/rosario3/img/2026/10/21/2_papa_2.jpg_1825222445.jpg",
-        "summary": "Los estudios histológicos definitivos confirmaron que el cáncer de pulmón estaba localizado y había sido extirpado con éxito. El pontífice retoma progresivamente sus actividades mientras se organiza la gira latinoamericana prevista para noviembre",
+        "title": "El Geppetto rosarino que construye barcos increíbles en miniatura: BordeRío lleva una colección extraordinaria al DonWeb Day",
+        "link": "https://www.rosario3.com/informaciongeneral/el-geppetto-rosarino-que-construye-barcos-increibles-en-miniatura-borderio-lleva-una-coleccion-extraordinaria-al-donweb-day-20261021-0073.html",
+        "image": "https://www.rosario3.com/__export/1792620429159/sites/rosario3/img/2026/10/21/barco.jpg_1825222445.jpg",
+        "summary": "Guillermo Haddad es el artista plástico rosarino que transforma pequeñas piezas en impresionantes maquetas navales. Auspiciada por BordeRío, su colección tendrá su primera presentación en el marco de DonWeb Day Rosario, el próximo 1 de noviembre, en Tecnoteca",
         "pubDate": "2026-10-21T11:49:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Scaloni a punto de sellar su continuidad al frente de la Selección argentina hasta 2030: el acuerdo que alcanzó con la AFA",
-        "link": "https://www.rosario3.com/deportes/scaloni-a-punto-de-sellar-su-continuidad-al-frente-de-la-seleccion-argentina-hasta-2030-el-acuerdo-que-alcanzo-con-la-afa-20261021-0077.html",
-        "image": "https://www.rosario3.com/__export/1792615436363/sites/rosario3/img/2026/10/21/scaloni-chiqui.jpg_1991603025.jpg",
-        "summary": "El nuevo contrato contempla una primera etapa hasta la Copa América 2028 y una renovación automática, de común acuerdo, hasta el Mundial. La firma se concretaría durante la próxima fecha FIFA",
+        "title": "Por la golpiza en patota a un joven en Funes, la PDI realizó dos allanamientos en Rosario: dos aprehendidos",
+        "link": "https://www.rosario3.com/policiales/por-la-golpiza-en-patota-a-un-joven-en-funes-la-pdi-realizo-dos-allanamientos-en-rosario-dos-aprehendidos-20261021-0071.html",
+        "image": "https://www.rosario3.com/__export/1792613090504/sites/rosario3/img/2026/10/21/funes_patota.jpg_672794304.jpg",
+        "summary": "La investigación por la agresión a un adolescente de 17 años, cuyas imágenes se viralizaron, derivó en operativos en dos domicilios de Rosario. La PDI secuestró celulares, ropa y un Hyundai Veloster vinculado con el episodio del 12 de octubre",
         "pubDate": "2026-10-21T11:48:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Dos detenidos acusados de  una violenta agresión a una mujer en un conflicto familiar",
+        "link": "https://www.lacapital.com.ar/policiales/dos-detenidos-acusados-una-violenta-agresion-una-mujer-un-conflicto-familiar-n10288013.html",
+        "image": "https://media.lacapital.com.ar/p/d21149e89fa0f8933e373f5b1b4feebf/adjuntos/203/imagenes/103/484/0103484675/1200x675/smart/allana.png",
+        "summary": "Los allanamientos se realizaron en la zona sur, tras investigar un hecho ocurrido el 15 de octubre. La víctima debió ser internada en el Roque Sáenz Peña",
+        "pubDate": "2026-10-22T01:46:06+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "El riesgo país volvió a subir, el dólar trepó y el BCRA moderó sus compras",
@@ -262,15 +271,6 @@
         "link": "https://www.lacapital.com.ar/politica/milei-espana-encuentro-opositores-audiencia-frustrada-el-rey-e-insultos-periodistas-n10287958.html",
         "image": "https://media.lacapital.com.ar/p/ca967b528fe2f00cc0e27ee5de049002/adjuntos/203/imagenes/103/484/0103484099/1200x675/smart/milei-diaz-ayuso.jpg",
         "summary": "El presidente se reunió con Díaz Ayuso y habló por videollamada con Abascal. Defendió su plan económico y volvió a atacar a Pedro Sánchez",
-        "pubDate": "2026-10-21T20:47:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Murió a los 75 años Saúl Blanch, histórico cantante de Rata Blanca",
-        "link": "https://www.lacapital.com.ar/zoom/murio-los-75-anos-saul-blanch-historico-cantante-rata-blanca-n10287962.html",
-        "image": "https://media.lacapital.com.ar/p/e4fee53e2021dc9af78be25a66ec99d2/adjuntos/203/imagenes/103/484/0103484145/1200x675/smart/image-2026-10-21t182630717.png",
-        "summary": "El músico fue una de las figuras fundacionales del heavy metal argentino y dejó su huella en los comienzos de la banda",
         "pubDate": "2026-10-21T20:47:00+00:00",
         "approxTime": false
       }
