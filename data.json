@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-10-22T09:30:59.148744+00:00",
+  "generatedAt": "2026-10-22T10:01:09.728824+00:00",
   "sites": {
     "rosario3": [
-      {
-        "source": "Rosario3",
-        "title": "El clima en Rosario: alerta naranja por lluvias intensas, granizo y ráfagas",
-        "link": "https://www.rosario3.com/informaciongeneral/elevan-a-naranja-el-alerta-por-tormentas-para-este-jueves-en-rosario-advierten-por-lluvias-intensas-granizo-y-rafagas-20261021-0083.html",
-        "image": "https://www.rosario3.com/__export/1792622841326/sites/rosario3/img/2026/10/21/lluvia.jpg_1825222445.jpg",
-        "summary": "El Servicio Meteorológico agravó el pronóstico para la tarde y extendió las advertencias hasta la noche. Se esperan precipitaciones acumuladas de hasta 100 milímetros y vientos de 90 kilómetros por hora. El municipio reforzó los trabajos de prevención y pidió a vecinos que…",
-        "pubDate": "2026-10-21T12:00:00+00:00",
-        "approxTime": true
-      },
       {
         "source": "Rosario3",
         "title": "Acuerdo entre adultos para cuidar la niñez: la escuela, el primer celular y la recomendación de retrasarlo lo máximo posible",
         "link": "https://www.rosario3.com/informaciongeneral/acuerdo-entre-adultos-para-cuidar-la-ninez-la-escuela-el-primer-celular-y-la-recomendacion-de-retrasarlo-lo-maximo-posible-20261021-0087.html",
         "image": "https://www.rosario3.com/__export/1792630296090/sites/rosario3/img/2026/10/21/nixo_mira_el_cel.jpg_928314580.jpg",
         "summary": "Un proyecto conjunto entre alumnos y docentes de los niveles inicial y secundario del Normal 1 puso el foco en la preocupación por el acceso cada vez a edades más tempranas de celulares y otros dispositivos electrónicos. Autoridades observaron que son cada vez más frecuentes las…",
+        "pubDate": "2026-10-21T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "El clima en Rosario: alerta naranja por lluvias intensas, granizo y ráfagas",
+        "link": "https://www.rosario3.com/informaciongeneral/elevan-a-naranja-el-alerta-por-tormentas-para-este-jueves-en-rosario-advierten-por-lluvias-intensas-granizo-y-rafagas-20261021-0083.html",
+        "image": "https://www.rosario3.com/__export/1792622841326/sites/rosario3/img/2026/10/21/lluvia.jpg_1825222445.jpg",
+        "summary": "El Servicio Meteorológico agravó el pronóstico para la tarde y extendió las advertencias hasta la noche. Se esperan precipitaciones acumuladas de hasta 100 milímetros y vientos de 90 kilómetros por hora. El municipio reforzó los trabajos de prevención y pidió a vecinos que…",
         "pubDate": "2026-10-21T11:59:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Síndrome de Phelan-McDermid: la enfermedad genética que busca salir del anonimato en Argentina",
+        "link": "https://www.lacapital.com.ar/salud/sindrome-phelan-mcdermid-la-enfermedad-genetica-que-busca-salir-del-anonimato-argentina-n10287854.html",
+        "image": "https://media.lacapital.com.ar/p/a9c904aafbdfe8a8c96f1d0005d323b3/adjuntos/203/imagenes/103/483/0103483093/1200x675/smart/imagen-nota.jpg",
+        "summary": "Cada 22 de octubre se conmemora el día internacional de esa afección. Adepa y la asociación que nuclea a familiares de pacientes impulsan una campaña federal para promover el diagnóstico temprano",
+        "pubDate": "2026-10-22T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Concejo: acuerdan evitar que taxis y remises realicen el servicio de cadetería",
         "link": "https://www.lacapital.com.ar/la-ciudad/concejo-acuerdan-evitar-que-taxis-y-remises-realicen-el-servicio-cadeteria-n10287744.html",
         "image": "https://media.lacapital.com.ar/p/dfc961ebdcb9f174bd9c41cc2049bdd8/adjuntos/203/imagenes/103/163/0103163895/1200x675/smart/repartidores.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/4b910f8dac681874b45b5cd380e33379/adjuntos/203/imagenes/103/452/0103452554/1200x675/smart/lluvia.jpg",
         "summary": "Se espera una jornada con lluvias y un moderado descenso de la temperatura. El alerta anticipa abundantes precipitaciones en cortos períodos",
         "pubDate": "2026-10-21T23:26:42+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Llega al cine El Cairo \"La Espera\", un documental que invita a repensar la adopción",
-        "link": "https://www.lacapital.com.ar/llega-al-cine-el-cairo-la-espera-un-documental-que-invita-repensar-la-adopcion-n10287980.html",
-        "image": "https://media.lacapital.com.ar/p/c9415efc28febd1bf2fa8dbd8f4b20f5/adjuntos/203/imagenes/103/484/0103484401/1200x675/smart/image-2026-10-21t194457544.png",
-        "summary": "La cita será el sábado 24 de octubre, a las 18, con entrada libre y gratuita y con la presencia de su director, Darío Doria",
-        "pubDate": "2026-10-21T22:19:00+00:00",
         "approxTime": false
       }
     ]
