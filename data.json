@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T23:30:55.327877+00:00",
+  "generatedAt": "2026-10-22T00:01:13.969297+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Presentan \"Legado militante\", un libro sobre la lucha estudiantil de la UNR en los 70",
+        "link": "https://www.lacapital.com.ar/la-ciudad/presentan-legado-militante-un-libro-la-lucha-estudiantil-la-unr-los-70-n10287971.html",
+        "image": "https://media.lacapital.com.ar/p/f06341026e04bc0557a40dff87121106/adjuntos/203/imagenes/103/484/0103484494/1200x675/smart/legado1.png",
+        "summary": "El texto de Adriana Hereñú narra la historia del movimiento estudiantil en la Universidad Nacional de Rosario entre 1968 y 1976",
+        "pubDate": "2026-10-21T23:44:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "En Newell's, una baja por lesión le permitiría a Gómez Mattar seguir en el once inicial",
+        "link": "https://www.lacapital.com.ar/ovacion/en-newells-una-baja-lesion-le-permitiria-gomez-mattar-seguir-el-once-inicial-n10287998.html",
+        "image": "https://media.lacapital.com.ar/p/cc52bdc0e87d2715c704ec0259ea0e16/adjuntos/203/imagenes/103/484/0103484482/nob-gmat-82382.jpg",
+        "summary": "El volante de Newell's Rodrigo Herrera se lesionó en el cierre ante Central Córdoba y libera un lugar para que el joven continúe de titular",
+        "pubDate": "2026-10-21T23:30:26+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Bullrich, \"preparada\" para la Presidencia, aunque aclara que aún no está en carrera",
         "link": "https://www.lacapital.com.ar/politica/bullrich-preparada-la-presidencia-aunque-aclara-que-aun-no-esta-carrera-n10287993.html",
         "image": "https://media.lacapital.com.ar/p/e451ff8d3442681dfa7c4b44e596f8b4/adjuntos/203/imagenes/103/429/0103429236/1200x675/smart/bullric-senado.jpg",
@@ -222,15 +240,6 @@
       },
       {
         "source": "La Capital",
-        "title": "Murió a los 75 años Saúl Blanch, histórico cantante de Rata Blanca",
-        "link": "https://www.lacapital.com.ar/zoom/murio-los-75-anos-saul-blanch-historico-cantante-rata-blanca-n10287962.html",
-        "image": "https://media.lacapital.com.ar/p/e4fee53e2021dc9af78be25a66ec99d2/adjuntos/203/imagenes/103/484/0103484145/1200x675/smart/image-2026-10-21t182630717.png",
-        "summary": "El músico fue una de las figuras fundacionales del heavy metal argentino y dejó su huella en los comienzos de la banda",
-        "pubDate": "2026-10-21T20:47:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "Milei en España: encuentro con opositores, audiencia frustrada con el rey e insultos a periodistas",
         "link": "https://www.lacapital.com.ar/politica/milei-espana-encuentro-opositores-audiencia-frustrada-el-rey-e-insultos-periodistas-n10287958.html",
         "image": "https://media.lacapital.com.ar/p/ca967b528fe2f00cc0e27ee5de049002/adjuntos/203/imagenes/103/484/0103484099/1200x675/smart/milei-diaz-ayuso.jpg",
@@ -240,11 +249,11 @@
       },
       {
         "source": "La Capital",
-        "title": "Diputados aprobó con cambios la ley de propiedad privada y vuelve al Senado",
-        "link": "https://www.lacapital.com.ar/politica/diputados-aprobo-cambios-la-ley-propiedad-privada-y-vuelve-al-senado-n10287954.html",
-        "image": "https://media.lacapital.com.ar/p/a916ab8a8ab41349b92384e65bdaf621/adjuntos/203/imagenes/103/483/0103483657/1200x675/smart/image.png",
-        "summary": "Con 124 votos a favor, 119 en contra y seis abstenciones, la Cámara baja restituyó la ley de tierras que se votó durante el gobierno de Cristina Kirchner. Ahora se debate la emergencia en discapacidad y después se trata la morosidad en las familias",
-        "pubDate": "2026-10-21T20:24:00+00:00",
+        "title": "Murió a los 75 años Saúl Blanch, histórico cantante de Rata Blanca",
+        "link": "https://www.lacapital.com.ar/zoom/murio-los-75-anos-saul-blanch-historico-cantante-rata-blanca-n10287962.html",
+        "image": "https://media.lacapital.com.ar/p/e4fee53e2021dc9af78be25a66ec99d2/adjuntos/203/imagenes/103/484/0103484145/1200x675/smart/image-2026-10-21t182630717.png",
+        "summary": "El músico fue una de las figuras fundacionales del heavy metal argentino y dejó su huella en los comienzos de la banda",
+        "pubDate": "2026-10-21T20:47:00+00:00",
         "approxTime": false
       },
       {
@@ -258,20 +267,11 @@
       },
       {
         "source": "La Capital",
-        "title": "Tenis: el calendario de menores de la FST siguió adelante en varios puntos de la región",
-        "link": "https://www.lacapital.com.ar/ovacion/tenis-el-calendario-menores-la-fst-siguio-adelante-varios-puntos-la-region-n10287952.html",
-        "image": "https://media.lacapital.com.ar/p/0be4cd99ad54064b4323a746fe813286/adjuntos/203/imagenes/103/484/0103484050/abierto-roldan.jpg",
-        "summary": "Tenis al por mayor para los más chicos. Con distintas propuestas el fin de semana hubo actividad en Rosario, Roldán y Empalme Villa Constitución",
-        "pubDate": "2026-10-21T20:23:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Nueva movilización por discapacidad en Rosario: \"Necesitamos que los pibes estén en las instituciones\"",
-        "link": "https://www.lacapital.com.ar/politica/nueva-movilizacion-discapacidad-rosario-necesitamos-que-los-pibes-esten-las-instituciones-n10287898.html",
-        "image": "https://media.lacapital.com.ar/p/c33482c1d119fe3eda2e3234db4d16d2/adjuntos/203/imagenes/103/483/0103483585/1200x675/smart/movilizacion-discapacidad03.jpg",
-        "summary": "Mientras en el Congreso comienza el debate, organizaciones y familias en todo el país reclaman la prórroga y efectivo cumplimiento de la emergencia para el sector",
-        "pubDate": "2026-10-21T20:21:00+00:00",
+        "title": "Diputados aprobó con cambios la ley de propiedad privada y vuelve al Senado",
+        "link": "https://www.lacapital.com.ar/politica/diputados-aprobo-cambios-la-ley-propiedad-privada-y-vuelve-al-senado-n10287954.html",
+        "image": "https://media.lacapital.com.ar/p/a916ab8a8ab41349b92384e65bdaf621/adjuntos/203/imagenes/103/483/0103483657/1200x675/smart/image.png",
+        "summary": "Con 124 votos a favor, 119 en contra y seis abstenciones, la Cámara baja restituyó la ley de tierras que se votó durante el gobierno de Cristina Kirchner. Ahora se debate la emergencia en discapacidad y después se trata la morosidad en las familias",
+        "pubDate": "2026-10-21T20:24:00+00:00",
         "approxTime": false
       }
     ]
