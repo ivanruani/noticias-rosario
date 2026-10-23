@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T10:30:59.272076+00:00",
+  "generatedAt": "2026-10-23T11:01:11.622222+00:00",
   "sites": {
     "rosario3": [
       {
@@ -103,11 +103,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Julieta Prandi habló por primera vez tras su separación de Emanuel Ortega",
+        "link": "https://www.rosario3.com/ocio/julieta-prandi-hablo-por-primera-vez-tras-su-separacion-de-emanuel-ortega-20261023-0003.html",
+        "image": "https://www.rosario3.com/__export/1792751492928/sites/rosario3/img/2026/10/23/prandi1.jpg_928314581.jpg",
+        "summary": "La modelo regresó de Brasil y se enfrentó a la prensa. Admitió que se siente triste, se refirió a los motivos por los que tomó distancia de su flamante esposo y se refirió a las mujeres vinculadas a su ex",
+        "pubDate": "2026-10-23T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Juicio por la muerte de Maradona: absolvieron a uno de los médicos y el 22 de diciembre se conocerá el veredicto",
         "link": "https://www.rosario3.com/informaciongeneral/juicio-por-la-muerte-de-maradona-absolvieron-a-uno-de-los-medicos-y-el-22-de-diciembre-se-conocera-el-veredicto-20261022-0083.html",
         "image": "https://www.rosario3.com/__export/1792720559396/sites/rosario3/img/2026/10/22/juicio_maradona.jpg_1825222445.jpg",
         "summary": "Pedro Di Spagna quedó fuera del proceso judicial luego de que la Fiscalía y las querellas desistieran de presentar cargos en su contra. Para los otros seis imputados solicitaron penas de hasta 12 años de prisión",
-        "pubDate": "2026-10-22T11:49:00+00:00",
+        "pubDate": "2026-10-22T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,15 +125,6 @@
         "link": "https://www.rosario3.com/deportes/con-tres-santafesinos-convocados-los-pumas-concentran-en-londres-para-el-tramo-final-del-nations-championship-20261022-0082.html",
         "image": "https://www.rosario3.com/__export/1792715991080/sites/rosario3/img/2026/10/22/rugby_pumas_santiago_chocobares__edro_rubiolo_mayco_vivas_crxdito_prensa_uar_jpg.jpeg_928314581.jpeg",
         "summary": "Felipe Contepomi citó a 33 jugadores para una concentración de tres días en la capital inglesa con grandes regresos. El seleccionado se prepara de cara a los compromisos de noviembre ante Irlanda, Italia y Francia. Repasamos la lista completa y los historiales. Citaron a…",
-        "pubDate": "2026-10-22T11:48:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Dos vuelcos en la autopista a Córdoba durante la tormenta: un camión quedó a centímetros de chocar contra un puente",
-        "link": "https://www.rosario3.com/informaciongeneral/dos-vuelcos-en-la-autopista-a-cordoba-durante-la-tormenta-un-camion-quedo-a-centimetros-de-chocar-contra-un-puente-20261022-0073.html",
-        "image": "https://www.rosario3.com/__export/1792705423465/sites/rosario3/img/2026/10/22/camion_home.jpg_1825222445.jpg",
-        "summary": "Los siniestros ocurrieron este jueves a pocos metros de distancia, a la altura de calle Wilde, en el acceso a Rosario. Un motociclista que habría ingresado en contramano provocó una maniobra brusca del transporte de carga. Más tarde, un utilitario perdió el control y terminó…",
         "pubDate": "2026-10-22T11:47:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Lo atacaron a balazos mientras bebía con un amigo y lo hirieron en la cabeza",
+        "link": "https://www.lacapital.com.ar/policiales/lo-atacaron-balazos-mientras-bebia-un-amigo-y-lo-hirieron-la-cabeza-n10288227.html",
+        "image": "https://media.lacapital.com.ar/p/fde16facfb5c2ae9d2df1d05b3debfd7/adjuntos/203/imagenes/103/104/0103104482/heca-riojpg.jpg",
+        "summary": "La policía confirmó que el hombre de 56 años sobrevivió luego de los disparos cerca de un kiosco del barrio Toba",
+        "pubDate": "2026-10-23T10:41:08+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Policías asistieron a una bebé que había sufrido convulsiones en zona sur",
@@ -177,19 +186,19 @@
       },
       {
         "source": "La Capital",
-        "title": "El doble cinco de Newell's para un partido clave: lucha, juego y sentido de pertenencia",
-        "link": "https://www.lacapital.com.ar/ovacion/el-doble-cinco-newells-un-partido-clave-lucha-juego-y-sentido-pertenencia-n10288202.html",
-        "image": "https://media.lacapital.com.ar/p/6b0b2e5929bc28a2c4344d7dbcc4bb40/adjuntos/203/imagenes/103/486/0103486721/1200x675/smart/image-49.png",
-        "summary": "Con el regreso de Luca Regiardo y la continuidad de Gómez Mattar, se recurrirá a una dupla que sabe lo está en juego para el club el sábado contra San Lorenzo",
+        "title": "Futsal: Banco Nación va por un batacazo histórico y la gloria ante Pinocho en la final de la Copa Argentina",
+        "link": "https://www.lacapital.com.ar/ovacion/futsal-banco-nacion-va-un-batacazo-historico-y-la-gloria-pinocho-la-final-la-copa-argentina-n10288156.html",
+        "image": "https://media.lacapital.com.ar/p/3970d7e3305e647f696e82c9846076da/adjuntos/203/imagenes/103/486/0103486203/1200x675/smart/image.jpg",
+        "summary": "Enfrentará al máximo referente del futsal nacional este domingo. Banco Nación también jugará un Final Four a fin de año por un cupo en la Libertadores 2027",
         "pubDate": "2026-10-23T09:10:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Futsal: Banco Nación va por un batacazo histórico y la gloria ante Pinocho en la final de la Copa Argentina",
-        "link": "https://www.lacapital.com.ar/ovacion/futsal-banco-nacion-va-un-batacazo-historico-y-la-gloria-pinocho-la-final-la-copa-argentina-n10288156.html",
-        "image": "https://media.lacapital.com.ar/p/3970d7e3305e647f696e82c9846076da/adjuntos/203/imagenes/103/486/0103486203/1200x675/smart/image.jpg",
-        "summary": "Enfrentará al máximo referente del futsal nacional este domingo. Banco Nación también jugará un Final Four a fin de año por un cupo en la Libertadores 2027",
+        "title": "El doble cinco de Newell's para un partido clave: lucha, juego y sentido de pertenencia",
+        "link": "https://www.lacapital.com.ar/ovacion/el-doble-cinco-newells-un-partido-clave-lucha-juego-y-sentido-pertenencia-n10288202.html",
+        "image": "https://media.lacapital.com.ar/p/6b0b2e5929bc28a2c4344d7dbcc4bb40/adjuntos/203/imagenes/103/486/0103486721/1200x675/smart/image-49.png",
+        "summary": "Con el regreso de Luca Regiardo y la continuidad de Gómez Mattar, se recurrirá a una dupla que sabe lo está en juego para el club el sábado contra San Lorenzo",
         "pubDate": "2026-10-23T09:10:00+00:00",
         "approxTime": false
       },
@@ -249,15 +258,6 @@
       },
       {
         "source": "La Capital",
-        "title": "El Gobierno de Santa Fe cerró una histórica compensación de deudas con la Nación",
-        "link": "https://www.lacapital.com.ar/economia/el-gobierno-santa-fe-cerro-una-historica-compensacion-deudas-la-nacion-n10288208.html",
-        "image": "https://media.lacapital.com.ar/p/2da569f62269f7fb72619238f0a8105f/adjuntos/203/imagenes/102/780/0102780062/1200x675/smart/pablo-olivares.jpg",
-        "summary": "A través del Régimen de Extinción de Obligaciones Recíprocas, la provincia percibió en efectivo $110 mil millones a cuenta del déficit previsional 2026. Se saldó con parte del adelanto de coparticipación por $400 mil millones que recibió de la Nación",
-        "pubDate": "2026-10-22T23:36:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "Senado de Santa Fe: media sanción a la nueva ley contra la violencia de género",
         "link": "https://www.lacapital.com.ar/politica/senado-santa-fe-media-sancion-la-nueva-ley-contra-la-violencia-genero-n10288206.html",
         "image": "https://media.lacapital.com.ar/p/de9c0ee329aba7db353a3f3c269006e1/adjuntos/203/imagenes/103/486/0103486767/1200x675/smart/image.png",
@@ -267,11 +267,11 @@
       },
       {
         "source": "La Capital",
-        "title": "El Turismo Carretera ya se hace sentir en Rosario y el RUS Med Team picó en punta en el aeropuerto",
-        "link": "https://www.lacapital.com.ar/ovacion/el-turismo-carretera-ya-se-hace-sentir-rosario-y-el-rus-med-team-pico-punta-el-aeropuerto-n10288172.html",
-        "image": "https://media.lacapital.com.ar/p/48db169bfa49d44e054780edb002dec4/adjuntos/203/imagenes/103/486/0103486836/1200x675/smart/image-3.jpg",
-        "summary": "Ya se respira Turismo Carretera en la ciudad, con la exhibición del equipo rosarino. Este viernes, el parque Independencia será escenario de una movida popular",
-        "pubDate": "2026-10-22T23:30:00+00:00",
+        "title": "El Gobierno de Santa Fe cerró una histórica compensación de deudas con la Nación",
+        "link": "https://www.lacapital.com.ar/economia/el-gobierno-santa-fe-cerro-una-historica-compensacion-deudas-la-nacion-n10288208.html",
+        "image": "https://media.lacapital.com.ar/p/2da569f62269f7fb72619238f0a8105f/adjuntos/203/imagenes/102/780/0102780062/1200x675/smart/pablo-olivares.jpg",
+        "summary": "A través del Régimen de Extinción de Obligaciones Recíprocas, la provincia percibió en efectivo $110 mil millones a cuenta del déficit previsional 2026. Se saldó con parte del adelanto de coparticipación por $400 mil millones que recibió de la Nación",
+        "pubDate": "2026-10-22T23:36:00+00:00",
         "approxTime": false
       }
     ]
