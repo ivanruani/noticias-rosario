@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-23T22:04:13.088092+00:00",
+  "generatedAt": "2026-10-23T22:31:04.371778+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Franco Bartolacci se encontró con el papa León XIV y le entregó un documento sobre la crisis del sistema universitario argentino",
+        "link": "https://www.rosario3.com/informaciongeneral/franco-bartolacci-se-encontro-con-el-papa-leon-xiv-y-le-entrego-un-documento-sobre-la-crisis-del-sistema-universitario-argentino-20261023-0075.html",
+        "image": "https://www.rosario3.com/__export/1792793565321/sites/rosario3/img/2026/10/23/bartolaccipapa.jpg_2106848869.jpg",
+        "summary": "El rector de la Universidad Nacional de Rosario participó de una audiencia general en el Vaticano y le dio al sumo pontífice un texto elaborado por el Consejo Interuniversitario Nacional que sintetiza la situación que están atravesando las universidades nacionales, en medio del…",
+        "pubDate": "2026-10-23T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Perpetua para la empleada doméstica que en 2023 asesinó a su patrón, un bombero retirado de Pérez",
         "link": "https://www.rosario3.com/policiales/perpetua-para-la-empleada-domestica-que-en-2023-asesino-a-su-patron-un-bombero-retirado-de-perez-20261023-0057.html",
         "image": "https://www.rosario3.com/__export/1792782789291/sites/rosario3/img/2023/08/23/jose_-_victima_de_homicidio_en_perez_1.jpeg_28271920.jpeg",
         "summary": "La mujer y su entonces pareja fueron condenados por el crimen de José Coelho De Sousa De Melo, de 84 años, estrangulado en agosto de 2023. Un remisero aportó pistas clave para identificarlos y una familiar de la mujer reveló una confesión estremecedora: “Matamos al viejo”",
-        "pubDate": "2026-10-23T12:00:00+00:00",
+        "pubDate": "2026-10-23T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/la-verdad-triunfa-por-si-misma-la-reaccion-de-javier-milei-tras-su-sobreseimiento-en-la-causa-libra-20261023-0074.html",
         "image": "https://www.rosario3.com/__export/1792791699857/sites/rosario3/img/2026/10/23/mileilibra.jpg_2106848869.jpg",
         "summary": "El presidente hizo una publicación en sus redes sociales luego de que se conociera la decisión del juez federal Marcelo Martínez de Giorgi, quien lo sobreseyó a él y a su hermana Karina en la causa que investigaba una presunta estafa vinculada con el lanzamiento y la promoción…",
-        "pubDate": "2026-10-23T11:59:00+00:00",
+        "pubDate": "2026-10-23T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/detuvieron-a-un-bioquimico-acusado-de-mantener-aislada-a-su-familia-en-condiciones-extremas-20261023-0069.html",
         "image": "https://www.rosario3.com/__export/1792788660730/sites/rosario3/img/2026/10/23/esquel.png_786111822.png",
         "summary": "El hecho ocurrió en Esquel. El hombre, de 71 años, quedó bajo investigación tras un procedimiento en su casa. La causa busca esclarecer las condiciones en las que vivían los integrantes de la familia y determinar si fueron privados ilegítimamente de su libertad",
-        "pubDate": "2026-10-23T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Espeluznante caso de bullying en viaje de egresados a Bariloche: \"Le dio un brote psicótico y yo lo disfrutaba\"",
-        "link": "https://www.rosario3.com/informaciongeneral/espeluznante-caso-de-bullying-en-viaje-de-egresados-a-bariloche-le-dio-un-brote-psicotico-y-yo-lo-disfrutaba-20261023-0055.html",
-        "image": "https://www.rosario3.com/__export/1792782680566/sites/rosario3/img/2026/10/23/colegio_2.jpg_1768679257.jpg",
-        "summary": "Una de las agresoras confesó ataques físicos, burlas y acoso contra su compañera y los padres de la víctima recurrieron a la Justicia. La familia ya había denunciado la circulación de un video íntimo que habían difundido los compañeros de su hija. El hostigamiento durante el…",
         "pubDate": "2026-10-23T11:57:00+00:00",
         "approxTime": true
       },
@@ -67,19 +67,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "El Gobierno reglamentó el régimen simplificado de Ganancias: qué cambia para los contribuyentes",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/el-gobierno-reglamento-el-regimen-simplificado-de-ganancias-que-cambia-para-los-contribuyentes-20261023-0047.html",
-        "image": "https://www.rosario3.com/__export/1792771326580/sites/rosario3/img/2025/11/06/ganancias.jpg_1768679258.jpg",
-        "summary": "El decreto publicado este viernes en el Boletín Oficial reemplaza la reglamentación anterior y establece las condiciones para acceder a la declaración jurada simplificada. El esquema contempla un efecto liberatorio del pago y una “presunción de exactitud”, aunque Arca podrá…",
+        "title": "Espeluznante caso de bullying en viaje de egresados a Bariloche: \"Le dio un brote psicótico y yo lo disfrutaba\"",
+        "link": "https://www.rosario3.com/informaciongeneral/espeluznante-caso-de-bullying-en-viaje-de-egresados-a-bariloche-le-dio-un-brote-psicotico-y-yo-lo-disfrutaba-20261023-0055.html",
+        "image": "https://www.rosario3.com/__export/1792782680566/sites/rosario3/img/2026/10/23/colegio_2.jpg_1768679257.jpg",
+        "summary": "Una de las agresoras confesó ataques físicos, burlas y acoso contra su compañera y los padres de la víctima recurrieron a la Justicia. La familia ya había denunciado la circulación de un video íntimo que habían difundido los compañeros de su hija. El hostigamiento durante el…",
         "pubDate": "2026-10-23T11:53:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Tuberculosis en Rosario: “Es una enfermedad de difícil diagnóstico y difícil tratamiento”",
-        "link": "https://www.rosario3.com/informaciongeneral/tuberculosis-en-rosario-es-una-enfermedad-de-dificil-diagnostico-y-dificil-tratamiento-20261023-0026.html",
-        "image": "https://www.rosario3.com/__export/1792761704924/sites/rosario3/img/2026/03/30/carrasco.jpg_1825222445.jpg",
-        "summary": "La secretaria de Salud Pública municipal, Soledad Rodríguez, explicó que el abordaje de la enfermedad requiere seis meses de medicación y un seguimiento riguroso. Además, advirtió sobre la influencia del hacinamiento y la falta de ventilación en los contagios. Remarcó la…",
+        "title": "El Gobierno reglamentó el régimen simplificado de Ganancias: qué cambia para los contribuyentes",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/el-gobierno-reglamento-el-regimen-simplificado-de-ganancias-que-cambia-para-los-contribuyentes-20261023-0047.html",
+        "image": "https://www.rosario3.com/__export/1792771326580/sites/rosario3/img/2025/11/06/ganancias.jpg_1768679258.jpg",
+        "summary": "El decreto publicado este viernes en el Boletín Oficial reemplaza la reglamentación anterior y establece las condiciones para acceder a la declaración jurada simplificada. El esquema contempla un efecto liberatorio del pago y una “presunción de exactitud”, aunque Arca podrá…",
         "pubDate": "2026-10-23T11:52:00+00:00",
         "approxTime": true
       },
@@ -103,19 +103,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "El crack de Barcelona que se confesó hincha de Newell’s por Messi: \"Es el mejor de la historia\"",
-        "link": "https://www.rosario3.com/deportes/el-crack-de-barcelona-que-se-confeso-hincha-de-newells-por-messi-es-el-mejor-de-la-historia-20261023-0073.html",
-        "image": "https://www.rosario3.com/__export/1792791030819/sites/rosario3/img/2026/10/23/pedri-messi.jpg_928314580.jpg",
-        "summary": "El campeón del mundo con España habló de su admiración por el rosarino, recordó el año que compartieron en el equipo catalán y reveló su simpatía por la Lepra. “Siempre me preguntan si soy de Boca o de River, pero soy de Newell's por Leo”",
+        "title": "Cinco imputados por la desaparición de la maestra rural en Corrientes: la Fiscalía no descarta un abuso sexual seguido de femicidio",
+        "link": "https://www.rosario3.com/informaciongeneral/cinco-imputados-por-la-desaparicion-de-la-maestra-rural-en-corrientes-la-fiscalia-no-descarta-un-abuso-sexual-seguido-de-femicidio-20261023-0070.html",
+        "image": "https://www.rosario3.com/__export/1792789003393/sites/rosario3/img/2026/10/23/nancy_godoy.jpg_672794304.jpg",
+        "summary": "Nancy Godoy, de 52 años, fue vista por última vez el 7 de octubre cuando se dirigía a la escuela donde trabajaba, en una zona rural de Esquina. Este viernes la fiscalía ventiló imputaciones por femicidio para tres dos baqueanos y un capataz de estancia. Sin embargo, la…",
         "pubDate": "2026-10-23T11:49:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Fórmula 1: Franco Colapinto tendrá una sanción de diez posiciones en la carrera del domingo",
-        "link": "https://www.rosario3.com/deportes/formula-1-franco-colapinto-tendra-una-sancion-de-diez-posiciones-en-la-carrera-del-domingo-20261023-0054.html",
-        "image": "https://www.rosario3.com/__export/1792779682363/sites/rosario3/img/2026/10/13/colapinto-jpg-413396750_-1-_1.jpg_1221028662.jpg",
-        "summary": "El piloto argentino deberá cumplir con una nueva penalización luego de que la escudería Alpine optó por modificar la unidad de control electrónica del monoplaza número 45",
+        "title": "El crack de Barcelona que se confesó hincha de Newell’s por Messi: \"Es el mejor de la historia\"",
+        "link": "https://www.rosario3.com/deportes/el-crack-de-barcelona-que-se-confeso-hincha-de-newells-por-messi-es-el-mejor-de-la-historia-20261023-0073.html",
+        "image": "https://www.rosario3.com/__export/1792791030819/sites/rosario3/img/2026/10/23/pedri-messi.jpg_928314580.jpg",
+        "summary": "El campeón del mundo con España habló de su admiración por el rosarino, recordó el año que compartieron en el equipo catalán y reveló su simpatía por la Lepra. “Siempre me preguntan si soy de Boca o de River, pero soy de Newell's por Leo”",
         "pubDate": "2026-10-23T11:48:00+00:00",
         "approxTime": true
       },
@@ -130,15 +130,24 @@
       },
       {
         "source": "Rosario3",
-        "title": "Turismo Carretera en Rosario: los autos podrán verse por bulevar Oroño este viernes y habrá cortes de tránsito a la tarde",
-        "link": "https://www.rosario3.com/deportes/se-viene-el-turismo-carretera-en-rosario-y-los-autos-podran-verse-por-bulevar-orono-antes-de-la-carrera-del-fin-de-semana-20261020-0053.html",
-        "image": "https://www.rosario3.com/__export/1792518134446/sites/rosario3/img/2026/10/20/tc.jpg_982625323.jpg",
-        "summary": "La exhibición será en la zona del Parque Independencia, donde la ciudad empezará a vibrar con el paso de las potentes máquinas de la categoría más popular del país. La carrera, por la fecha 13 del campeonato, será el domingo en el Autódromo Juan Manuel Fangio. Los detalles de…",
-        "pubDate": "2026-10-20T11:46:00+00:00",
+        "title": "Tuberculosis en Rosario: “Es una enfermedad de difícil diagnóstico y difícil tratamiento”",
+        "link": "https://www.rosario3.com/informaciongeneral/tuberculosis-en-rosario-es-una-enfermedad-de-dificil-diagnostico-y-dificil-tratamiento-20261023-0026.html",
+        "image": "https://www.rosario3.com/__export/1792761704924/sites/rosario3/img/2026/03/30/carrasco.jpg_1825222445.jpg",
+        "summary": "La secretaria de Salud Pública municipal, Soledad Rodríguez, explicó que el abordaje de la enfermedad requiere seis meses de medicación y un seguimiento riguroso. Además, advirtió sobre la influencia del hacinamiento y la falta de ventilación en los contagios. Remarcó la…",
+        "pubDate": "2026-10-23T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Crimen del Chivo Saravia: a 5 años del golpe que expuso los vínculos de la barra leprosa",
+        "link": "https://www.lacapital.com.ar/policiales/crimen-del-chivo-saravia-5-anos-del-golpe-que-expuso-los-vinculos-la-barra-leprosa-n10288322.html",
+        "image": "https://media.lacapital.com.ar/p/606704690ba72b83afc15ca2e2f4b19b/adjuntos/203/imagenes/103/488/0103488095/1200x675/smart/chivo.jpg",
+        "summary": "Cuatro barras de Newell's fueron condenados a perpetua por el crimen motivado por una venganza personal pero que implicó un mensaje al interior de la tribuna",
+        "pubDate": "2026-10-23T22:19:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Franco Colapinto y un viernes donde casi todo se puso para probar simulación de carrera en Austin",
@@ -186,19 +195,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Violencia digital en el Verbo Encarnado: \"Trabajamos de manera seria y prudente\"",
-        "link": "https://www.lacapital.com.ar/la-ciudad/violencia-digital-el-verbo-encarnado-trabajamos-manera-seria-y-prudente-n10288341.html",
-        "image": "https://media.lacapital.com.ar/p/5bbeaf9930408298ea83f970f5bf5520/adjuntos/203/imagenes/103/488/0103488229/1200x675/smart/verbo-encarnado-2310.jpg",
-        "summary": "El colegio rosarino recibió denuncias de al menos dos familias por fotos manipuladas de menores de edad y mantiene una investigación para determinar damnificados y responsables",
+        "title": "Concesionario de estreno: Iveco pone primera en Rosario con la apertura de Navicam Litoral",
+        "link": "https://www.lacapital.com.ar/negocios/concesionario-estreno-iveco-pone-primera-rosario-la-apertura-navicam-litoral-n10288321.html",
+        "image": "https://media.lacapital.com.ar/p/7808954d2083182a184acc3cdba9dcdb/adjuntos/203/imagenes/103/488/0103488363/daniel-y-nicolas-picone.jpg",
+        "summary": "Con esta inauguración, la familia Picone amplía su presencia en Santa Fe y Entre Ríos. Del evento participaron directivos de Iveco Argentina y Latam, junto al intendente Pablo Javkin",
         "pubDate": "2026-10-23T20:29:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Concesionario de estreno: Iveco pone primera en Rosario con la apertura de Navicam Litoral",
-        "link": "https://www.lacapital.com.ar/negocios/concesionario-estreno-iveco-pone-primera-rosario-la-apertura-navicam-litoral-n10288321.html",
-        "image": "https://media.lacapital.com.ar/p/7808954d2083182a184acc3cdba9dcdb/adjuntos/203/imagenes/103/488/0103488363/daniel-y-nicolas-picone.jpg",
-        "summary": "Con esta inauguración, la familia Picone amplía su presencia en Santa Fe y Entre Ríos. Del evento participaron directivos de Iveco Argentina y Latam, junto al intendente Pablo Javkin",
+        "title": "Violencia digital en el Verbo Encarnado: \"Trabajamos de manera seria y prudente\"",
+        "link": "https://www.lacapital.com.ar/la-ciudad/violencia-digital-el-verbo-encarnado-trabajamos-manera-seria-y-prudente-n10288341.html",
+        "image": "https://media.lacapital.com.ar/p/5bbeaf9930408298ea83f970f5bf5520/adjuntos/203/imagenes/103/488/0103488229/1200x675/smart/verbo-encarnado-2310.jpg",
+        "summary": "El colegio rosarino recibió denuncias de al menos dos familias por fotos manipuladas de menores de edad y mantiene una investigación para determinar damnificados y responsables",
         "pubDate": "2026-10-23T20:29:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/3908fadf62cc4068986ff5b8c50f5181/adjuntos/203/imagenes/103/486/0103486944/huracml.jpg",
         "summary": "La mala: el Canalla viene mal pisado frente al Globo, perdió los últimos cuatro que jugó. La buena: la última vez que le ganó, fue campeón",
         "pubDate": "2026-10-23T18:20:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Bullrich lanzó un nuevo spot en clave electoral y detonó las suspicacias",
-        "link": "https://www.lacapital.com.ar/politica/bullrich-lanzo-un-nuevo-spot-clave-electoral-y-detono-las-suspicacias-n10288332.html",
-        "image": "https://media.lacapital.com.ar/p/b19720f56ac3faf9698267e39ca1ea8b/adjuntos/203/imagenes/103/317/0103317558/bullroch3.jpg",
-        "summary": "El mensaje de la senadora busca potenciar su identidad política en medio de las diferencias internas en La Libertad Avanza",
-        "pubDate": "2026-10-23T18:19:00+00:00",
         "approxTime": false
       }
     ]
