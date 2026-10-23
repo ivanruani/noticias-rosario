@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T09:01:13.891873+00:00",
+  "generatedAt": "2026-10-23T09:30:56.926456+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,42 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El Niño: el aumento de lluvias ya dispara los precios de verduras y hortalizas",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-nino-el-aumento-lluvias-ya-dispara-los-precios-verduras-y-hortalizas-n10288055.html",
+        "image": "https://media.lacapital.com.ar/p/0c294e5b99244499d51e7f761fc1682e/adjuntos/203/imagenes/103/485/0103485839/1200x675/smart/verduleria-4.jpg",
+        "summary": "La papa, la cebolla y el pimiento rojo duplicaron sus precios. La calabaza, directamente, se fue por las nubes: el kilo ya cuesta hasta 6 mil pesos",
+        "pubDate": "2026-10-23T09:25:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La Bolsa de Rosario estimó una cosecha de trigo de 23,8 millones de toneladas",
+        "link": "https://www.lacapital.com.ar/agro/la-bolsa-rosario-estimo-una-cosecha-trigo-238-millones-toneladas-n10288216.html",
+        "image": "https://media.lacapital.com.ar/p/403d7c7224a29cf6b3bac8e2c1d61a58/adjuntos/305/imagenes/102/858/0102858040/1200x675/smart/trigo-nuevo-81769993.jpg",
+        "summary": "Según las proyecciones de la entidad, sería la segunda mayor producción en 17 años. En Santa Fe, el rind promedio se acerca a los 40 quintales. Temor por los efectos de un clima atípico en octubre",
+        "pubDate": "2026-10-23T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Futsal: Banco Nación va por un batacazo histórico y la gloria ante Pinocho en la final de la Copa Argentina",
+        "link": "https://www.lacapital.com.ar/ovacion/futsal-banco-nacion-va-un-batacazo-historico-y-la-gloria-pinocho-la-final-la-copa-argentina-n10288156.html",
+        "image": "https://media.lacapital.com.ar/p/3970d7e3305e647f696e82c9846076da/adjuntos/203/imagenes/103/486/0103486203/1200x675/smart/image.jpg",
+        "summary": "Enfrentará al máximo referente del futsal nacional este domingo. Banco Nación también jugará un Final Four a fin de año por un cupo en la Libertadores 2027",
+        "pubDate": "2026-10-23T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El doble cinco de Newell's para un partido clave: lucha, juego y sentido de pertenencia",
+        "link": "https://www.lacapital.com.ar/ovacion/el-doble-cinco-newells-un-partido-clave-lucha-juego-y-sentido-pertenencia-n10288202.html",
+        "image": "https://media.lacapital.com.ar/p/6b0b2e5929bc28a2c4344d7dbcc4bb40/adjuntos/203/imagenes/103/486/0103486721/1200x675/smart/image-49.png",
+        "summary": "Con el regreso de Luca Regiardo y la continuidad de Gómez Mattar, se recurrirá a una dupla que sabe lo está en juego para el club el sábado contra San Lorenzo",
+        "pubDate": "2026-10-23T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Estudiantes venció por penales a Flamengo y jugará la final de la Libertadores",
         "link": "https://www.lacapital.com.ar/ovacion/estudiantes-vencio-penales-flamengo-y-jugara-la-final-la-libertadores-n10288223.html",
         "image": "https://media.lacapital.com.ar/p/c415e9735624475b367abfef6ffc1f8b/adjuntos/203/imagenes/103/486/0103486956/1200x675/smart/estudio.png",
@@ -195,19 +231,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Senado de Santa Fe: media sanción a la nueva ley contra la violencia de género",
-        "link": "https://www.lacapital.com.ar/politica/senado-santa-fe-media-sancion-la-nueva-ley-contra-la-violencia-genero-n10288206.html",
-        "image": "https://media.lacapital.com.ar/p/de9c0ee329aba7db353a3f3c269006e1/adjuntos/203/imagenes/103/486/0103486767/1200x675/smart/image.png",
-        "summary": "El proyecto de la Casa Gris intima a los magistrados a actuar de modo ágil y efectivo frente a esos casos, entre otras medidas clave. La iniciativa pasó a Diputados",
+        "title": "El Gobierno de Santa Fe cerró una histórica compensación de deudas con la Nación",
+        "link": "https://www.lacapital.com.ar/economia/el-gobierno-santa-fe-cerro-una-historica-compensacion-deudas-la-nacion-n10288208.html",
+        "image": "https://media.lacapital.com.ar/p/2da569f62269f7fb72619238f0a8105f/adjuntos/203/imagenes/102/780/0102780062/1200x675/smart/pablo-olivares.jpg",
+        "summary": "A través del Régimen de Extinción de Obligaciones Recíprocas, la provincia percibió en efectivo $110 mil millones a cuenta del déficit previsional 2026. Se saldó con parte del adelanto de coparticipación por $400 mil millones que recibió de la Nación",
         "pubDate": "2026-10-22T23:36:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "El Gobierno de Santa Fe cerró una histórica compensación de deudas con la Nación",
-        "link": "https://www.lacapital.com.ar/economia/el-gobierno-santa-fe-cerro-una-historica-compensacion-deudas-la-nacion-n10288208.html",
-        "image": "https://media.lacapital.com.ar/p/2da569f62269f7fb72619238f0a8105f/adjuntos/203/imagenes/102/780/0102780062/1200x675/smart/pablo-olivares.jpg",
-        "summary": "A través del Régimen de Extinción de Obligaciones Recíprocas, la provincia percibió en efectivo $110 mil millones a cuenta del déficit previsional 2026. Se saldó con parte del adelanto de coparticipación por $400 mil millones que recibió de la Nación",
+        "title": "Senado de Santa Fe: media sanción a la nueva ley contra la violencia de género",
+        "link": "https://www.lacapital.com.ar/politica/senado-santa-fe-media-sancion-la-nueva-ley-contra-la-violencia-genero-n10288206.html",
+        "image": "https://media.lacapital.com.ar/p/de9c0ee329aba7db353a3f3c269006e1/adjuntos/203/imagenes/103/486/0103486767/1200x675/smart/image.png",
+        "summary": "El proyecto de la Casa Gris intima a los magistrados a actuar de modo ágil y efectivo frente a esos casos, entre otras medidas clave. La iniciativa pasó a Diputados",
         "pubDate": "2026-10-22T23:36:00+00:00",
         "approxTime": false
       },
@@ -236,42 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/470acfe5a3cbfe7df07ace930cee09d6/adjuntos/203/imagenes/102/429/0102429159/1200x675/smart/asasinjpg.jpg",
         "summary": "Nicolás Flores fue sentenciado por el asesinato de Fabián Ruiz, de julio de 2021. Estaba acusado de un ataque previo a un vecino pero en este caso fue absuelto",
         "pubDate": "2026-10-22T22:16:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central: Franco Ibarra se ata los botines y será exigido en la previa de Huracán",
-        "link": "https://www.lacapital.com.ar/ovacion/central-franco-ibarra-se-ata-los-botines-y-sera-exigido-la-previa-huracan-n10288187.html",
-        "image": "https://media.lacapital.com.ar/p/84e066e9aca1e9c96a317776263234f3/adjuntos/203/imagenes/103/486/0103486621/f6.jpg",
-        "summary": "El volante se repone de una sobrecarga muscular y podría estar disponible para recibir el sábado a Huracán en un partido clave para Central",
-        "pubDate": "2026-10-22T22:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La nueva concesionaria ya corta el pasto en Circunvalación",
-        "link": "https://www.lacapital.com.ar/la-nueva-concesionaria-ya-corta-el-pasto-circunvalacion-n10288177.html",
-        "image": "https://media.lacapital.com.ar/p/98c477c1c1bb69c3743294eca311e56f/adjuntos/203/imagenes/103/486/0103486470/1200x675/smart/circunvala43.jpg",
-        "summary": "Operarios enviados por Arco Portuario SAU comenzaron las tareas de desmalezamiento en la ruta A008. En paralelo, la Justicia Federal ordenó el mantenimiento del anillo vial que rodea la ciudad.",
-        "pubDate": "2026-10-22T22:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Netflix sumó un film policial de acción de menos de 90 minutos",
-        "link": "https://www.lacapital.com.ar/zoom/netflix-sumo-un-film-policial-accion-menos-90-minutos-n10288179.html",
-        "image": "https://media.lacapital.com.ar/p/e96eb40581b43946ff57fd81fd53ba2f/adjuntos/203/imagenes/103/486/0103486472/1200x675/smart/image-14.png",
-        "summary": "La película de 2022 está dirigida por Sam Macaroni y presenta a un agente que debe luchar contra los efectos de una amnesia",
-        "pubDate": "2026-10-22T22:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Google Maps permite seguir el camino de tus contactos en tiempo real",
-        "link": "https://www.lacapital.com.ar/informacion-general/google-maps-permite-seguir-el-camino-tus-contactos-tiempo-real-n10288183.html",
-        "image": "https://media.lacapital.com.ar/p/f6c77b4808ad3b7c038053529ec85aa6/adjuntos/203/imagenes/103/486/0103486523/1200x675/smart/image-15.png",
-        "summary": "La herramienta llamada “Modo de seguridad” es fácil de usar desde cualquier dispositivo y permite el seguimiento entre contactos para cuidarlos a la distancia",
-        "pubDate": "2026-10-22T22:00:00+00:00",
         "approxTime": false
       }
     ]
