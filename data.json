@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-23T01:01:09.588479+00:00",
+  "generatedAt": "2026-10-23T01:26:17.716535+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "La Justicia ordenó a Vialidad Nacional reparar la Circunvalación de Rosario: detectaron casi mil luminarias apagadas",
+        "link": "https://www.rosario3.com/informaciongeneral/la-justicia-ordeno-a-vialidad-nacional-reparar-la-circunvalacion-de-rosario-detectaron-casi-mil-luminarias-apagadas-20261022-0075.html",
+        "image": "https://www.rosario3.com/__export/1767713578712/sites/rosario3/img/2025/03/21/circunvalacion.jpg_786112687.jpg",
+        "summary": "El Juzgado Federal N° 2 condenó al organismo a realizar tareas de mantenimiento en toda la traza, que incluyen bacheo, desmalezamiento, señalización y limpieza de desagües. Además, deberá presentar un cronograma de obras en 20 días y advertir públicamente sobre los riesgos para…",
+        "pubDate": "2026-10-22T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Rosario evitó la peor parte del temporal: cayeron 29 milímetros de lluvia y hubo reclamos por inconvenientes menores",
         "link": "https://www.rosario3.com/informaciongeneral/rosario-evito-la-peor-parte-del-temporal-cayeron-29-milimetros-de-lluvia-y-hubo-reclamos-por-inconvenientes-menores-20261022-0080.html",
         "image": "https://www.rosario3.com/__export/1792713145836/sites/rosario3/img/2026/10/22/lluvia.jpg_1825222445.jpg",
         "summary": "Los fenómenos más severos se registraron en el centro y norte provincial. Protección Civil informó sobre ramas caídas, anegamientos leves y cables cortados, mientras las cuadrillas municipales continuaban con las tareas de asistencia",
-        "pubDate": "2026-10-22T12:00:00+00:00",
+        "pubDate": "2026-10-22T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/advirtieron-a-matias-capozucca-que-ira-preso-si-vuelve-a-incumplir-la-restriccion-de-acercamiento-20261022-0081.html",
         "image": "https://www.rosario3.com/__export/1788885569779/sites/rosario3/img/2026/09/08/matias_capozucca.jpg_506286608.jpg",
         "summary": "El imputado participó de una audiencia en el Centro de Justicia Penal, donde se revisaron las medidas cautelares dictadas tras la denuncia de su expareja. La víctima declaró por Zoom y relató la situación de miedo y angustia que atraviesa desde que él recuperó la libertad",
-        "pubDate": "2026-10-22T11:59:00+00:00",
+        "pubDate": "2026-10-22T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/el-senado-provincial-dio-media-sancion-a-la-nueva-ley-contra-la-violencia-de-genero-20261022-0068.html",
         "image": "https://www.rosario3.com/__export/1792702116418/sites/rosario3/img/2026/10/22/violencia_genero.jpg_1825222445.jpg",
         "summary": "La iniciativa impulsada por el Ejecutivo recibió el respaldo unánime de los legisladores presentes. Establece cuatro niveles de riesgo y prevé el uso de tobilleras electrónicas, el retiro preventivo de armas y arrestos ante incumplimientos de órdenes judiciales. Los detalles",
-        "pubDate": "2026-10-22T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Dos vuelcos en la autopista a Córdoba durante la tormenta: un camión quedó a centímetros de chocar contra un puente",
-        "link": "https://www.rosario3.com/informaciongeneral/dos-vuelcos-en-la-autopista-a-cordoba-durante-la-tormenta-un-camion-quedo-a-centimetros-de-chocar-contra-un-puente-20261022-0073.html",
-        "image": "https://www.rosario3.com/__export/1792705423465/sites/rosario3/img/2026/10/22/camion_home.jpg_1825222445.jpg",
-        "summary": "Los siniestros ocurrieron este jueves a pocos metros de distancia, a la altura de calle Wilde, en el acceso a Rosario. Un motociclista que habría ingresado en contramano provocó una maniobra brusca del transporte de carga. Más tarde, un utilitario perdió el control y terminó…",
         "pubDate": "2026-10-22T11:57:00+00:00",
         "approxTime": true
       },
@@ -49,20 +49,29 @@
       },
       {
         "source": "Rosario3",
-        "title": "“Que la gente no llega a fin de mes es un dato de la realidad”: la Iglesia se diferencia del análisis de Milei",
-        "link": "https://www.rosario3.com/politica/que-la-gente-no-llega-a-fin-de-mes-es-un-dato-de-la-realidad-la-iglesia-se-diferencia-del-analisis-de-milei-20261022-0074.html",
-        "image": "https://www.rosario3.com/__export/1792706226117/sites/rosario3/img/2026/10/22/papa_leon.jpg_1768679257.jpg",
-        "summary": "El presidente de la Conferencia Episcopal Argentina, Marcelo Colombom, ratificó el impacto de la crisis económica en las familias, tras las burlas del Presidente. “Muchos de los que nos vienen a pedir son los que antes nos ayudaban”, contó sobre la situación en los merenderos",
+        "title": "Santa Fe recibió $110.000 millones de la Nación por el déficit de la Caja de Jubilaciones",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/santa-fe-recibio-110.000-millones-de-la-nacion-por-el-deficit-de-la-caja-de-jubilaciones-20261022-0078.html",
+        "image": "https://www.rosario3.com/__export/1792710861696/sites/rosario3/img/2026/10/22/casa_de_gobierno_de_santa_fe_.jpg_1825222445.jpg",
+        "summary": "Los fondos corresponden al aporte de Ansés a cuenta del déficit de la Caja de Jubilaciones de 2026 y fueron percibidos en efectivo. El ministro de Economía provincial, Pablo Olivares, destacó que se trata de un mecanismo inédito. “La mayor compensación de la historia”, destacó…",
         "pubDate": "2026-10-22T11:55:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Santa Fe recibió $110.000 millones de la Nación por el déficit de la Caja de Jubilaciones",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/santa-fe-recibio-110.000-millones-de-la-nacion-por-el-deficit-de-la-caja-de-jubilaciones-20261022-0078.html",
-        "image": "https://www.rosario3.com/__export/1792710861696/sites/rosario3/img/2026/10/22/casa_de_gobierno_de_santa_fe_.jpg_1825222445.jpg",
-        "summary": "Los fondos corresponden al aporte de Ansés a cuenta del déficit de la Caja de Jubilaciones de 2026 y fueron percibidos en efectivo. El ministro de Economía provincial, Pablo Olivares, destacó que se trata de un mecanismo inédito. “La mayor compensación de la historia”, destacó…",
+        "title": "Dos vuelcos en la autopista a Córdoba durante la tormenta: un camión quedó a centímetros de chocar contra un puente",
+        "link": "https://www.rosario3.com/informaciongeneral/dos-vuelcos-en-la-autopista-a-cordoba-durante-la-tormenta-un-camion-quedo-a-centimetros-de-chocar-contra-un-puente-20261022-0073.html",
+        "image": "https://www.rosario3.com/__export/1792705423465/sites/rosario3/img/2026/10/22/camion_home.jpg_1825222445.jpg",
+        "summary": "Los siniestros ocurrieron este jueves a pocos metros de distancia, a la altura de calle Wilde, en el acceso a Rosario. Un motociclista que habría ingresado en contramano provocó una maniobra brusca del transporte de carga. Más tarde, un utilitario perdió el control y terminó…",
         "pubDate": "2026-10-22T11:54:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Cinco años después, perpetua para un tiratiros de Los Monos por un asesinato en Villa Gobernador Gálvez",
+        "link": "https://www.rosario3.com/policiales/cinco-anos-despues-perpetua-para-un-tiratiros-de-los-monos-por-un-asesinato-en-villa-gobernador-galvez-20261022-0076.html",
+        "image": "https://www.rosario3.com/__export/1792621970711/sites/rosario3/img/2024/05/27/_dsc7950.jpg_928314580.jpg",
+        "summary": "Nicolás Flores recibió la pena máxima por acribillar a un hombre de 38 años en su casa de barrio Costa Esperanza, en julio de 2021. Lo vincularon con una gavilla narco que cometía extorsiones a comerciantes de la vecina localidad",
+        "pubDate": "2026-10-22T11:53:00+00:00",
         "approxTime": true
       },
       {
@@ -71,15 +80,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/una-firma-de-motopartes-escondia-una-mesa-de-dinero-condenas-federales-por-venta-ilegal-de-divisas-y-lavado-de-activos-20261022-0063.html",
         "image": "https://www.rosario3.com/__export/1792699892432/sites/rosario3/img/2026/10/22/pesos_causa_avellaneda.jpg_672794304.jpg",
         "summary": "El caso se había iniciado en febrero de 2025 tras un operativo de rutina realizado por Gendarmería en el norte santafesino, en el que se encontraron 357 millones de pesos ocultos dentro de un vehículo. La condena alcanza también a una sociedad que se dedica a la venta de…",
-        "pubDate": "2026-10-22T11:53:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Un allanamiento en Fisherton y otro en el centro de Rosario por una causa narco de Corrientes",
-        "link": "https://www.rosario3.com/policiales/un-allanamiento-en-fisherton-y-otro-en-el-centro-de-rosario-por-una-causa-narco-de-corrientes-20261022-0051.html",
-        "image": "https://www.rosario3.com/__export/1792691587220/sites/rosario3/img/2026/10/22/pna_allanamiento_1.jpg_1010838702.jpg",
-        "summary": "Uno se hizo en España al 900, en pleno centro, y otro en Aldea, Fisherton. Es por una incautación de 640 kilos de marihuana que tuvo lugar el año pasado en la vecina provincia",
         "pubDate": "2026-10-22T11:52:00+00:00",
         "approxTime": true
       },
@@ -94,11 +94,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "“Que la gente no llega a fin de mes es un dato de la realidad”: la Iglesia se diferencia del análisis de Milei",
+        "link": "https://www.rosario3.com/politica/que-la-gente-no-llega-a-fin-de-mes-es-un-dato-de-la-realidad-la-iglesia-se-diferencia-del-analisis-de-milei-20261022-0074.html",
+        "image": "https://www.rosario3.com/__export/1792706226117/sites/rosario3/img/2026/10/22/papa_leon.jpg_1768679257.jpg",
+        "summary": "El presidente de la Conferencia Episcopal Argentina, Marcelo Colombom, ratificó el impacto de la crisis económica en las familias, tras las burlas del Presidente. “Muchos de los que nos vienen a pedir son los que antes nos ayudaban”, contó sobre la situación en los merenderos",
+        "pubDate": "2026-10-22T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Juan Pedro Aleart pidió habilitar las aplicaciones de transporte con tarifas libres y sin tasas municipales",
         "link": "https://www.rosario3.com/informaciongeneral/juan-pedro-aleart-pidio-habilitar-las-aplicaciones-de-transporte-con-tarifas-libres-y-sin-tasas-municipales-20261022-0072.html",
         "image": "https://www.rosario3.com/__export/1792704587501/sites/rosario3/img/2026/10/22/aleart_uber.jpg_982625323.jpg",
         "summary": "El concejal rosarino se expresó sobre el debate que se está dando en el Concejo y recibió el respaldo de la diputada nacional de La Libertad Avanza, Romina Diez",
-        "pubDate": "2026-10-22T11:50:00+00:00",
+        "pubDate": "2026-10-22T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -107,16 +116,16 @@
         "link": "https://www.rosario3.com/informaciongeneral/protesta-de-trabajadores-y-jubilados-de-pami-rosario-por-salarios-y-falta-de-recursos-20261022-0060.html",
         "image": "https://www.rosario3.com/__export/1792696988373/sites/rosario3/img/2026/10/22/pami.jpg_2102421760.jpg",
         "summary": "Tras el paro nacional de la semana pasada, el sector se movilizó frente a la sede de Sarmiento al 400. Reclamaron por la falta de insumos, equiparación salarial y la incorporación de personal",
-        "pubDate": "2026-10-22T11:49:00+00:00",
+        "pubDate": "2026-10-22T11:48:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "El consumo masivo cayó en septiembre: cuáles son los productos que más dejaron de comprar los argentinos",
-        "link": "https://www.rosario3.com/informaciongeneral/el-consumo-masivo-cayo-en-septiembre-cuales-son-los-productos-que-mas-dejaron-de-comprar-los-argentinos-20261022-0061.html",
-        "image": "https://www.rosario3.com/__export/1792698347702/sites/rosario3/img/2026/10/22/consumo_masivo.png_786111822.png",
-        "summary": "Según un informe de la consultora Scentia, las ventas retrocedieron un 1% mensual y acumularon una caída del 2,7% en los primeros nueve meses de 2026 frente al mismo período de 2025. Bebidas sin alcohol, productos perecederos y artículos de desayuno y merienda estuvieron entre…",
-        "pubDate": "2026-10-22T11:48:00+00:00",
+        "title": "Un allanamiento en Fisherton y otro en el centro de Rosario por una causa narco de Corrientes",
+        "link": "https://www.rosario3.com/policiales/un-allanamiento-en-fisherton-y-otro-en-el-centro-de-rosario-por-una-causa-narco-de-corrientes-20261022-0051.html",
+        "image": "https://www.rosario3.com/__export/1792691587220/sites/rosario3/img/2026/10/22/pna_allanamiento_1.jpg_1010838702.jpg",
+        "summary": "Uno se hizo en España al 900, en pleno centro, y otro en Aldea, Fisherton. Es por una incautación de 640 kilos de marihuana que tuvo lugar el año pasado en la vecina provincia",
+        "pubDate": "2026-10-22T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,20 +134,20 @@
         "link": "https://www.rosario3.com/informaciongeneral/como-se-aplicara-la-prohibicion-de-cuidacoches-en-rosario-excepciones-multas-y-controles-20261022-0042.html",
         "image": "https://www.rosario3.com/__export/1770038546235/sites/rosario3/img/2025/01/08/trapitos-rosario.jpg_1662683607.jpg",
         "summary": "El Concejo ya tiene el mensaje del Ejecutivo municipal que pone un freno a la actividad con castigos que pueden llegar a prisión",
-        "pubDate": "2026-10-22T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Procesaron a José Luis Espert por lavado de dinero: embargo millonario y prohibición de salir del país",
-        "link": "https://www.rosario3.com/informaciongeneral/procesaron-a-jose-luis-espert-por-lavado-de-dinero-embargo-millonario-y-prohibicion-de-salir-del-pais-20261022-0041.html",
-        "image": "https://www.rosario3.com/__export/1792686881010/sites/rosario3/img/2026/10/22/espert.png_786111822.png",
-        "summary": "El juez federal de San Isidro, Lino Mirabelli, dispuso la medida en la causa por los US$200.000 que el exdiputado recibió en 2019 de parte de Federico “Fred” Machado. La resolución también alcanza al contador Mariano Cosentino y a la firma Varianza S.A., mientras que la Cámara…",
         "pubDate": "2026-10-22T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Rosario Car Show: más de 100 autos en exhibición este fin de semana en Portal Rosario Shopping",
+        "link": "https://www.lacapital.com.ar/novedades/rosario-car-show-mas-100-autos-exhibicion-este-fin-semana-portal-rosario-shopping-n10288217.html",
+        "image": "https://media.lacapital.com.ar/p/d613a8bc2a0f33b74c25d485e780eeec/adjuntos/203/imagenes/103/486/0103486839/1200x675/smart/imagen-nota.jpg",
+        "summary": "Rosario Car Show se realiza del 23 al 25 de octubre con eléctricos, híbridos, clásicos, simuladores de Fórmula 1 y la presencia del niño prodigio Stefano Marconi",
+        "pubDate": "2026-10-23T00:55:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Totoras recibe la doble fecha final de un campeonato mundial de motociclismo: el Flat track",
@@ -150,10 +159,10 @@
       },
       {
         "source": "La Capital",
-        "title": "La asamblea de Newell's aprobó el balance del ejercicio 2025-2026",
-        "link": "https://www.lacapital.com.ar/ovacion/la-asamblea-newells-aprobo-el-balance-del-ejercicio-2025-2026-n10288199.html",
+        "title": "La asamblea de Newell's aprobó el balance y suspendieron a Astore y exdirectivos",
+        "link": "https://www.lacapital.com.ar/ovacion/la-asamblea-newells-aprobo-el-balance-y-suspendieron-astore-y-exdirectivos-n10288199.html",
         "image": "https://media.lacapital.com.ar/p/2b078d89b61fc34e6c248174629a05a6/adjuntos/203/imagenes/103/486/0103486837/1200x675/smart/image-50.png",
-        "summary": "La convocatoria reunió a cerca de 300 socios en el estadio cubierto. También fue aprobado el balance 2024-2025 de la gestión de Astore, cuya presentación estaba pendiente",
+        "summary": "Casi 300 socios avalaron el balance 2025-26 y el anterior que nunca se presentó. Informaron las sanciones al expresidente, la exsecretaria Romero y el extesorero Cardozo",
         "pubDate": "2026-10-23T00:19:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/94ab61786214636f150e324d13d1a24f/adjuntos/203/imagenes/101/889/0101889979/1200x675/smart/ariel-lijojpg.jpg",
         "summary": "Los empresarios Jonathan y Emmanuel Kovalivker fueron citados para el jueves 29 de octubre en la investigación por coimas en la venta de medicamentos",
         "pubDate": "2026-10-22T21:03:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Narcotráfico en Rosario: allanamientos en el microcentro y Fisherton por un cargamento de 640 kilos de marihuana",
-        "link": "https://www.lacapital.com.ar/policiales/narcotrafico-rosario-allanamientos-el-microcentro-y-fisherton-un-cargamento-640-kilos-marihuana-n10288152.html",
-        "image": "https://media.lacapital.com.ar/p/2217141f71269d78751649ed52208c2a/adjuntos/203/imagenes/103/486/0103486183/1200x675/smart/whatsapp-image-2026-10-22-at-095719-1.jpeg",
-        "summary": "Prefectura realizó dos operativos en España al 900 y la zona de Aldea. Investigan posibles conexiones con un cargamento de droga abandonado en una camioneta tras una persecución en Paso de la Patria, en 2025.",
-        "pubDate": "2026-10-22T19:52:00+00:00",
         "approxTime": false
       }
     ]
