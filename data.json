@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T10:01:07.769351+00:00",
+  "generatedAt": "2026-10-23T10:30:59.272076+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,11 +13,29 @@
       },
       {
         "source": "Rosario3",
+        "title": "Claves del día: cambio de manos en empresas locales, el changuito se achica y el Gobierno busca dólares del colchón | Ecos365",
+        "link": "https://www.rosario3.com/ecos365/noticias/claves-del-dia-cambio-de-manos-en-empresas-locales-el-changuito-se-achica-y-el-gobierno-busca-dolares-del-colchon-20261023-0002.html",
+        "image": "https://www.rosario3.com/__export/1791971303491/sites/rosario3/img/2026/08/25/dolares.png_714673148.png",
+        "summary": "El Gobierno activa Inocencia Fiscal II y pierde a González en Energía; las fintech anticipan fusiones, los mercados buscan refugio y YPF suma McDonald’s",
+        "pubDate": "2026-10-23T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "El clima en Rosario: un cielo inconstante",
         "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-un-cielo-inconstante-20261023-0002.html",
         "image": "https://www.rosario3.com/__export/1792748775931/sites/rosario3/img/2026/10/23/nubladollovizna.jpg_928314581.jpg",
         "summary": "El viernes despertó bajo una fina llovizna y aire pegajoso. El pronóstico anuncia chaparrones y lluvias hasta la tarde y un termómetro más arriba con 25 grados de máxima. Cómo sigue el tiempo este fin de semana",
-        "pubDate": "2026-10-23T11:59:00+00:00",
+        "pubDate": "2026-10-23T11:58:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "El Senado provincial dio media sanción a la nueva ley contra la violencia de género",
+        "link": "https://www.rosario3.com/informaciongeneral/el-senado-provincial-dio-media-sancion-a-la-nueva-ley-contra-la-violencia-de-genero-20261022-0068.html",
+        "image": "https://www.rosario3.com/__export/1792702116418/sites/rosario3/img/2026/10/22/violencia_genero.jpg_1825222445.jpg",
+        "summary": "La iniciativa impulsada por el Ejecutivo recibió el respaldo unánime de los legisladores presentes. Establece cuatro niveles de riesgo y prevé el uso de tobilleras electrónicas, el retiro preventivo de armas y arrestos ante incumplimientos de órdenes judiciales. Los detalles",
+        "pubDate": "2026-10-22T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -26,7 +44,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/advirtieron-a-matias-capozucca-que-ira-preso-si-vuelve-a-incumplir-la-restriccion-de-acercamiento-20261022-0081.html",
         "image": "https://www.rosario3.com/__export/1788885569779/sites/rosario3/img/2026/09/08/matias_capozucca.jpg_506286608.jpg",
         "summary": "El imputado participó de una audiencia en el Centro de Justicia Penal, donde se revisaron las medidas cautelares dictadas tras la denuncia de su expareja. La víctima declaró por Zoom y relató la situación de miedo y angustia que atraviesa desde que él recuperó la libertad",
-        "pubDate": "2026-10-22T11:58:00+00:00",
+        "pubDate": "2026-10-22T11:56:00+00:00",
         "approxTime": true
       },
       {
@@ -35,16 +53,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/rosario-evito-la-peor-parte-del-temporal-cayeron-29-milimetros-de-lluvia-y-hubo-reclamos-por-inconvenientes-menores-20261022-0080.html",
         "image": "https://www.rosario3.com/__export/1792713145836/sites/rosario3/img/2026/10/22/lluvia.jpg_1825222445.jpg",
         "summary": "Los fenómenos más severos se registraron en el centro y norte provincial. Protección Civil informó sobre ramas caídas, anegamientos leves y cables cortados, mientras las cuadrillas municipales continuaban con las tareas de asistencia",
-        "pubDate": "2026-10-22T11:57:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La tuberculosis creció un 92% en Rosario en cuatro años y ya se confirmaron 365 casos en 2026",
-        "link": "https://www.rosario3.com/informaciongeneral/la-tuberculosis-crecio-un-92-en-rosario-en-cuatro-anos-y-ya-se-confirmaron-365-casos-en-2026-20261022-0050.html",
-        "image": "https://www.rosario3.com/__export/1792701029977/sites/rosario3/img/2023/03/13/20221107-tuberculosis.jpg_871100207.jpg",
-        "summary": "Según un informe de la secretaría de Salud Pública municipal, los contagios pasaron de 263 en 2021 a 504 en 2025. En lo que va de este año, hasta mediados de agosto, se registraron 365 casos confirmados. El distrito Oeste concentró la mayor cantidad de casos el año pasado",
-        "pubDate": "2026-10-22T11:56:00+00:00",
+        "pubDate": "2026-10-22T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -53,15 +62,6 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/santa-fe-recibio-110.000-millones-de-la-nacion-por-el-deficit-de-la-caja-de-jubilaciones-20261022-0078.html",
         "image": "https://www.rosario3.com/__export/1792710861696/sites/rosario3/img/2026/10/22/casa_de_gobierno_de_santa_fe_.jpg_1825222445.jpg",
         "summary": "Los fondos corresponden al aporte de Ansés a cuenta del déficit de la Caja de Jubilaciones de 2026 y fueron percibidos en efectivo. El ministro de Economía provincial, Pablo Olivares, destacó que se trata de un mecanismo inédito. “La mayor compensación de la historia”, destacó…",
-        "pubDate": "2026-10-22T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Dos vuelcos en la autopista a Córdoba durante la tormenta: un camión quedó a centímetros de chocar contra un puente",
-        "link": "https://www.rosario3.com/informaciongeneral/dos-vuelcos-en-la-autopista-a-cordoba-durante-la-tormenta-un-camion-quedo-a-centimetros-de-chocar-contra-un-puente-20261022-0073.html",
-        "image": "https://www.rosario3.com/__export/1792705423465/sites/rosario3/img/2026/10/22/camion_home.jpg_1825222445.jpg",
-        "summary": "Los siniestros ocurrieron este jueves a pocos metros de distancia, a la altura de calle Wilde, en el acceso a Rosario. Un motociclista que habría ingresado en contramano provocó una maniobra brusca del transporte de carga. Más tarde, un utilitario perdió el control y terminó…",
         "pubDate": "2026-10-22T11:54:00+00:00",
         "approxTime": true
       },
@@ -94,11 +94,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "La tuberculosis creció un 92% en Rosario en cuatro años y ya se confirmaron 365 casos en 2026",
+        "link": "https://www.rosario3.com/informaciongeneral/la-tuberculosis-crecio-un-92-en-rosario-en-cuatro-anos-y-ya-se-confirmaron-365-casos-en-2026-20261022-0050.html",
+        "image": "https://www.rosario3.com/__export/1792701029977/sites/rosario3/img/2023/03/13/20221107-tuberculosis.jpg_871100207.jpg",
+        "summary": "Según un informe de la secretaría de Salud Pública municipal, los contagios pasaron de 263 en 2021 a 504 en 2025. En lo que va de este año, hasta mediados de agosto, se registraron 365 casos confirmados. El distrito Oeste concentró la mayor cantidad de casos el año pasado",
+        "pubDate": "2026-10-22T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Juicio por la muerte de Maradona: absolvieron a uno de los médicos y el 22 de diciembre se conocerá el veredicto",
         "link": "https://www.rosario3.com/informaciongeneral/juicio-por-la-muerte-de-maradona-absolvieron-a-uno-de-los-medicos-y-el-22-de-diciembre-se-conocera-el-veredicto-20261022-0083.html",
         "image": "https://www.rosario3.com/__export/1792720559396/sites/rosario3/img/2026/10/22/juicio_maradona.jpg_1825222445.jpg",
         "summary": "Pedro Di Spagna quedó fuera del proceso judicial luego de que la Fiscalía y las querellas desistieran de presentar cargos en su contra. Para los otros seis imputados solicitaron penas de hasta 12 años de prisión",
-        "pubDate": "2026-10-22T11:50:00+00:00",
+        "pubDate": "2026-10-22T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -107,7 +116,16 @@
         "link": "https://www.rosario3.com/deportes/con-tres-santafesinos-convocados-los-pumas-concentran-en-londres-para-el-tramo-final-del-nations-championship-20261022-0082.html",
         "image": "https://www.rosario3.com/__export/1792715991080/sites/rosario3/img/2026/10/22/rugby_pumas_santiago_chocobares__edro_rubiolo_mayco_vivas_crxdito_prensa_uar_jpg.jpeg_928314581.jpeg",
         "summary": "Felipe Contepomi citó a 33 jugadores para una concentración de tres días en la capital inglesa con grandes regresos. El seleccionado se prepara de cara a los compromisos de noviembre ante Irlanda, Italia y Francia. Repasamos la lista completa y los historiales. Citaron a…",
-        "pubDate": "2026-10-22T11:49:00+00:00",
+        "pubDate": "2026-10-22T11:48:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Dos vuelcos en la autopista a Córdoba durante la tormenta: un camión quedó a centímetros de chocar contra un puente",
+        "link": "https://www.rosario3.com/informaciongeneral/dos-vuelcos-en-la-autopista-a-cordoba-durante-la-tormenta-un-camion-quedo-a-centimetros-de-chocar-contra-un-puente-20261022-0073.html",
+        "image": "https://www.rosario3.com/__export/1792705423465/sites/rosario3/img/2026/10/22/camion_home.jpg_1825222445.jpg",
+        "summary": "Los siniestros ocurrieron este jueves a pocos metros de distancia, a la altura de calle Wilde, en el acceso a Rosario. Un motociclista que habría ingresado en contramano provocó una maniobra brusca del transporte de carga. Más tarde, un utilitario perdió el control y terminó…",
+        "pubDate": "2026-10-22T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -116,29 +134,29 @@
         "link": "https://www.rosario3.com/informaciongeneral/juan-pedro-aleart-pidio-habilitar-las-aplicaciones-de-transporte-con-tarifas-libres-y-sin-tasas-municipales-20261022-0072.html",
         "image": "https://www.rosario3.com/__export/1792704587501/sites/rosario3/img/2026/10/22/aleart_uber.jpg_982625323.jpg",
         "summary": "El concejal rosarino se expresó sobre el debate que se está dando en el Concejo y recibió el respaldo de la diputada nacional de La Libertad Avanza, Romina Diez",
-        "pubDate": "2026-10-22T11:48:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Protesta de trabajadores y jubilados de Pami Rosario por salarios y falta de recursos",
-        "link": "https://www.rosario3.com/informaciongeneral/protesta-de-trabajadores-y-jubilados-de-pami-rosario-por-salarios-y-falta-de-recursos-20261022-0060.html",
-        "image": "https://www.rosario3.com/__export/1792696988373/sites/rosario3/img/2026/10/22/pami.jpg_2102421760.jpg",
-        "summary": "Tras el paro nacional de la semana pasada, el sector se movilizó frente a la sede de Sarmiento al 400. Reclamaron por la falta de insumos, equiparación salarial y la incorporación de personal",
-        "pubDate": "2026-10-22T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Un allanamiento en Fisherton y otro en el centro de Rosario por una causa narco de Corrientes",
-        "link": "https://www.rosario3.com/policiales/un-allanamiento-en-fisherton-y-otro-en-el-centro-de-rosario-por-una-causa-narco-de-corrientes-20261022-0051.html",
-        "image": "https://www.rosario3.com/__export/1792691587220/sites/rosario3/img/2026/10/22/pna_allanamiento_1.jpg_1010838702.jpg",
-        "summary": "Uno se hizo en España al 900, en pleno centro, y otro en Aldea, Fisherton. Es por una incautación de 640 kilos de marihuana que tuvo lugar el año pasado en la vecina provincia",
         "pubDate": "2026-10-22T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Policías asistieron a una bebé que había sufrido convulsiones en zona sur",
+        "link": "https://www.lacapital.com.ar/la-ciudad/policias-asistieron-una-bebe-que-habia-sufrido-convulsiones-zona-sur-n10288228.html",
+        "image": "https://media.lacapital.com.ar/p/c420dd4172dec33e8bd588b6e3c27725/adjuntos/203/imagenes/103/487/0103487025/1200x675/smart/policias-bebe.png",
+        "summary": "Agentes de la Policía de Acción Táctica actuaron ante un pedido de colaboración en Uriburu y Alem. La niña se encuentra bien en el Hospital Vilela",
+        "pubDate": "2026-10-23T10:26:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Valentino Merlo, del Saladillo a los grandes escenarios: \"La palabra imposible ya no existe en mi vida\"",
+        "link": "https://www.lacapital.com.ar/zoom/valentino-merlo-del-saladillo-los-grandes-escenarios-la-palabra-imposible-ya-no-existe-mi-vida-n10288161.html",
+        "image": "https://media.lacapital.com.ar/p/d9234a4227189140db19e7df6abcf9b9/adjuntos/203/imagenes/103/486/0103486464/1200x675/smart/image-2026-10-22t190149971.png",
+        "summary": "El rosarino ganó el Martín Fierro de la Música como artista revelación. En diálogo con La Capital, repasó su camino y los sueños que aún le quedan por cumplir.",
+        "pubDate": "2026-10-23T10:00:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "El Niño: el aumento de lluvias ya dispara los precios de verduras y hortalizas",
@@ -159,19 +177,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Futsal: Banco Nación va por un batacazo histórico y la gloria ante Pinocho en la final de la Copa Argentina",
-        "link": "https://www.lacapital.com.ar/ovacion/futsal-banco-nacion-va-un-batacazo-historico-y-la-gloria-pinocho-la-final-la-copa-argentina-n10288156.html",
-        "image": "https://media.lacapital.com.ar/p/3970d7e3305e647f696e82c9846076da/adjuntos/203/imagenes/103/486/0103486203/1200x675/smart/image.jpg",
-        "summary": "Enfrentará al máximo referente del futsal nacional este domingo. Banco Nación también jugará un Final Four a fin de año por un cupo en la Libertadores 2027",
+        "title": "El doble cinco de Newell's para un partido clave: lucha, juego y sentido de pertenencia",
+        "link": "https://www.lacapital.com.ar/ovacion/el-doble-cinco-newells-un-partido-clave-lucha-juego-y-sentido-pertenencia-n10288202.html",
+        "image": "https://media.lacapital.com.ar/p/6b0b2e5929bc28a2c4344d7dbcc4bb40/adjuntos/203/imagenes/103/486/0103486721/1200x675/smart/image-49.png",
+        "summary": "Con el regreso de Luca Regiardo y la continuidad de Gómez Mattar, se recurrirá a una dupla que sabe lo está en juego para el club el sábado contra San Lorenzo",
         "pubDate": "2026-10-23T09:10:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "El doble cinco de Newell's para un partido clave: lucha, juego y sentido de pertenencia",
-        "link": "https://www.lacapital.com.ar/ovacion/el-doble-cinco-newells-un-partido-clave-lucha-juego-y-sentido-pertenencia-n10288202.html",
-        "image": "https://media.lacapital.com.ar/p/6b0b2e5929bc28a2c4344d7dbcc4bb40/adjuntos/203/imagenes/103/486/0103486721/1200x675/smart/image-49.png",
-        "summary": "Con el regreso de Luca Regiardo y la continuidad de Gómez Mattar, se recurrirá a una dupla que sabe lo está en juego para el club el sábado contra San Lorenzo",
+        "title": "Futsal: Banco Nación va por un batacazo histórico y la gloria ante Pinocho en la final de la Copa Argentina",
+        "link": "https://www.lacapital.com.ar/ovacion/futsal-banco-nacion-va-un-batacazo-historico-y-la-gloria-pinocho-la-final-la-copa-argentina-n10288156.html",
+        "image": "https://media.lacapital.com.ar/p/3970d7e3305e647f696e82c9846076da/adjuntos/203/imagenes/103/486/0103486203/1200x675/smart/image.jpg",
+        "summary": "Enfrentará al máximo referente del futsal nacional este domingo. Banco Nación también jugará un Final Four a fin de año por un cupo en la Libertadores 2027",
         "pubDate": "2026-10-23T09:10:00+00:00",
         "approxTime": false
       },
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/48db169bfa49d44e054780edb002dec4/adjuntos/203/imagenes/103/486/0103486836/1200x675/smart/image-3.jpg",
         "summary": "Ya se respira Turismo Carretera en la ciudad, con la exhibición del equipo rosarino. Este viernes, el parque Independencia será escenario de una movida popular",
         "pubDate": "2026-10-22T23:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El básquet rosarino consolida su gran estructura con un balance superador",
-        "link": "https://www.lacapital.com.ar/ovacion/el-basquet-rosarino-consolida-su-gran-estructura-un-balance-superador-n10288195.html",
-        "image": "https://media.lacapital.com.ar/p/9ca58cf4634b0849024c5e61e01f8db7/adjuntos/203/imagenes/103/486/0103486682/basquet2.jpeg",
-        "summary": "La Asociación Rosarina de Básquetbol presentó la memoria y balance con un informe del desempeño de la entidad camino al centenario",
-        "pubDate": "2026-10-22T22:56:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Condenado a perpetua por irrumpir en una casa de Villa Gobernador Gálvez y matar al dueño a tiros",
-        "link": "https://www.lacapital.com.ar/policiales/condenado-perpetua-irrumpir-una-casa-villa-gobernador-galvez-y-matar-al-dueno-tiros-n10288144.html",
-        "image": "https://media.lacapital.com.ar/p/470acfe5a3cbfe7df07ace930cee09d6/adjuntos/203/imagenes/102/429/0102429159/1200x675/smart/asasinjpg.jpg",
-        "summary": "Nicolás Flores fue sentenciado por el asesinato de Fabián Ruiz, de julio de 2021. Estaba acusado de un ataque previo a un vecino pero en este caso fue absuelto",
-        "pubDate": "2026-10-22T22:16:00+00:00",
         "approxTime": false
       }
     ]
