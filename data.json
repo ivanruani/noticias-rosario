@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T18:15:57.464542+00:00",
+  "generatedAt": "2026-10-23T18:31:02.293104+00:00",
   "sites": {
     "rosario3": [
       {
@@ -103,11 +103,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "El artista callejero Marcelo Moyano recibió una nueva guitarra tras el robo en su vivienda",
+        "link": "https://www.rosario3.com/informaciongeneral/le-robaron-la-guitarra-a-marcelo-moyano-conocido-musico-de-la-peatonal-pide-ayuda-para-volver-a-trabajar-20261023-0034.html",
+        "image": "https://www.rosario3.com/__export/1792763273994/sites/rosario3/img/2026/10/23/498021706_3874147046171785_686321747746067490_n.jpg_928314580.jpg",
+        "summary": "El reconocido músico de la peatonal Córdoba recuperó la posibilidad de seguir trabajando luego de que le robaran su instrumento en su casa. Tras pedir ayuda, recibió una nueva guitarra",
+        "pubDate": "2026-10-23T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Cáncer de piel: una vacuna de ARNm redujo 42% el riesgo de recurrencia o muerte por melanoma",
         "link": "https://www.rosario3.com/informaciongeneral/cancer-de-piel-una-vacuna-de-arnm-redujo-42-el-riesgo-de-recurrencia-o-muerte-por-melanoma-20261023-0046.html",
         "image": "https://www.rosario3.com/__export/1792770358833/sites/rosario3/img/2025/11/13/cancer_de_piel.png_786111823.png",
         "summary": "El tratamiento experimental mostró esos resultados en fase 3 y se espera que sean presentados detalladamente el sábado en Madrid, en el congreso de la Sociedad Europea de Oncología Médica (ESMO)",
-        "pubDate": "2026-10-23T11:49:00+00:00",
+        "pubDate": "2026-10-23T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +125,7 @@
         "link": "https://www.rosario3.com/deportes/se-viene-el-turismo-carretera-en-rosario-y-los-autos-podran-verse-por-bulevar-orono-antes-de-la-carrera-del-fin-de-semana-20261020-0053.html",
         "image": "https://www.rosario3.com/__export/1792518134446/sites/rosario3/img/2026/10/20/tc.jpg_982625323.jpg",
         "summary": "La exhibición será en la zona del Parque Independencia, donde la ciudad empezará a vibrar con el paso de las potentes máquinas de la categoría más popular del país. La carrera, por la fecha 13 del campeonato, será el domingo en el Autódromo Juan Manuel Fangio. Los detalles de…",
-        "pubDate": "2026-10-20T11:48:00+00:00",
+        "pubDate": "2026-10-20T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,20 +134,47 @@
         "link": "https://www.rosario3.com/informaciongeneral/un-video-revive-las-denuncias-contra-la-partera-dolly-y-su-hermana-de-cara-a-una-nueva-fecha-de-indagatoria-20261023-0042.html",
         "image": "https://www.rosario3.com/__export/1792767751620/sites/rosario3/img/2026/10/23/cardumen1.jpg_928314581.jpg",
         "summary": "La agrupación Cardumen, conformada por personas que buscan sus orígenes biológicos, publicó un video en el que acusa a las hermanas Viale por la sustracción de identidad y piden a quienes tengan dudas sobre su vínculo filial que se pongan en contacto para reclamar por la verdad",
-        "pubDate": "2026-10-23T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Comenzó el juicio por Hotesur-Los Sauces: la acusación describió una “compleja maniobra de corrupción”",
-        "link": "https://www.rosario3.com/politica/comenzo-el-juicio-por-hotesur-los-sauces-la-acusacion-describio-una-compleja-maniobra-de-corrupcion-20261023-0037.html",
-        "image": "https://www.rosario3.com/__export/1792765007324/sites/rosario3/img/2026/10/23/maximozoom.jpg_982625323.jpg",
-        "summary": "Cristina y Máximo Kirchner participaban por videoconferencia del debate en Comodoro Py. La primera audiencia comenzó con la lectura del dictamen fiscal de Los Sauces, que atribuye a los expresidentes la conducción de una organización destinada a canalizar fondos hacia el…",
         "pubDate": "2026-10-23T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Rosario Central vs. Huracán por el torneo Clausura: hora, canal y posibles formaciones",
+        "link": "https://www.lacapital.com.ar/ovacion/rosario-central-vs-huracan-el-torneo-clausura-hora-canal-y-posibles-formaciones-n10288333.html",
+        "image": "https://media.lacapital.com.ar/p/db16f5da8b076be4ed81e61d02f6d930/adjuntos/203/imagenes/103/488/0103488211/1200x675/smart/central-huracan.jpg",
+        "summary": "El Canalla enfrentará al Globo en el Gigante de Arroyito con la pelea por la tabla anual como objetivo. Detalles y estadísticas del partido",
+        "pubDate": "2026-10-23T18:22:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central ante Huracán: de los antecedentes que desmoralizan al recuerdo que ilusiona",
+        "link": "https://www.lacapital.com.ar/ovacion/central-huracan-los-antecedentes-que-desmoralizan-al-recuerdo-que-ilusiona-n10288222.html",
+        "image": "https://media.lacapital.com.ar/p/3908fadf62cc4068986ff5b8c50f5181/adjuntos/203/imagenes/103/486/0103486944/huracml.jpg",
+        "summary": "La mala: el Canalla viene mal pisado frente al Globo, perdió los últimos cuatro que jugó. La buena: la última vez que le ganó, fue campeón",
+        "pubDate": "2026-10-23T18:20:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "San Lorenzo vs. Newell's por el torneo Clausura: hora, canal y posibles formaciones",
+        "link": "https://www.lacapital.com.ar/ovacion/san-lorenzo-vs-newells-el-torneo-clausura-hora-canal-y-posibles-formaciones-n10288329.html",
+        "image": "https://media.lacapital.com.ar/p/e592c9d45e215c720f4552ee97a6083c/adjuntos/203/imagenes/103/488/0103488188/1200x675/smart/san-lorenzo-newells.jpg",
+        "summary": "La Lepra tendrá un duelo clave ante el Ciclón en la pelea por la clasificación a los playoffs. Detalles y estadísticas del partido",
+        "pubDate": "2026-10-23T18:19:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Bullrich lanzó un nuevo spot en clave electoral y detonó las suspicacias",
+        "link": "https://www.lacapital.com.ar/politica/bullrich-lanzo-un-nuevo-spot-clave-electoral-y-detono-las-suspicacias-n10288332.html",
+        "image": "https://media.lacapital.com.ar/p/b19720f56ac3faf9698267e39ca1ea8b/adjuntos/203/imagenes/103/317/0103317558/bullroch3.jpg",
+        "summary": "El mensaje de la senadora busca potenciar su identidad política en medio de las diferencias internas en La Libertad Avanza",
+        "pubDate": "2026-10-23T18:19:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Es rosarina, fan de BTS y vendió sándwiches en el parque para cumplir su sueño de ver a la banda",
@@ -236,42 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/b1f154684060f78d0f8c418df53ba29c/adjuntos/203/imagenes/103/487/0103487520/incendio-salon-segui-maipu-1.jpeg",
         "summary": "Los primeros testimonios recabados por los bomberos indican que alguien arrojó un artefacto explosivo a la noche contra la puerta de Status Center",
         "pubDate": "2026-10-23T15:03:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Políticos en redes: el Papa universitario, la concejala a la pasarela y el reto del senador",
-        "link": "https://www.lacapital.com.ar/politica/politicos-redes-el-papa-universitario-la-concejala-la-pasarela-y-el-reto-del-senador-n10288263.html",
-        "image": "https://media.lacapital.com.ar/p/3c72d15eb489874bf82829e9436bd01e/adjuntos/203/imagenes/103/487/0103487798/1200x675/smart/senado-michlig.jpg",
-        "summary": "El espacio de La Capital Políticos en redes busca mostrar y analizar algunos contenidos de redes sociales de los políticos",
-        "pubDate": "2026-10-23T15:02:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El Revés de la Taba celebra sus 10 años con concierto y fiesta en Distrito Siete",
-        "link": "https://www.lacapital.com.ar/zoom/el-reves-la-taba-celebra-sus-10-anos-concierto-y-fiesta-distrito-siete-n10288277.html",
-        "image": "https://media.lacapital.com.ar/p/748b7ea9095f3582e965d24748e61457/adjuntos/203/imagenes/103/487/0103487621/1200x675/smart/el-reves-la-taba.png",
-        "summary": "El coro rosarino se presentará este sábado 24 de octubre con un recorrido por su repertorio. Después del show, habrá música en vivo con Girda y los del Alba y DJ Saturno",
-        "pubDate": "2026-10-23T14:52:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Rosario se reinventa: BBZ Constructora y SCUBA Desarrollos presentan edificios",
-        "link": "https://www.lacapital.com.ar/especiales1/rosario-se-reinventa-bbz-constructora-y-scuba-desarrollos-presentan-edificios-n10288275.html",
-        "image": "https://media.lacapital.com.ar/p/32aeb735444774867dc57042bdca0e2a/adjuntos/203/imagenes/103/487/0103487618/1200x675/smart/66de734d-ea10-4ea4-b6db-8a0e72de68b7.jpg",
-        "summary": "Con la presentación de dos nuevos edificios, BBZ Constructora y SCUBA Desarrollos marcan el paso en Rosario, apostando a la integración del patrimonio histórico y la arquitectura moderna.",
-        "pubDate": "2026-10-23T14:32:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Hackearon al proveedor de servicios informáticos del municipio de Roldán",
-        "link": "https://www.lacapital.com.ar/la-region/hackearon-al-proveedor-servicios-informaticos-del-municipio-roldan-n10288276.html",
-        "image": "https://media.lacapital.com.ar/p/992d48733d064bc77667029e07af8646/adjuntos/203/imagenes/103/487/0103487639/1200x675/smart/municipalidad-roldan.jpeg",
-        "summary": "El ataque a PGM, que abastece a municipios de todo el país, afecta la atención al público tanto presencial como digital",
-        "pubDate": "2026-10-23T14:25:00+00:00",
         "approxTime": false
       }
     ]
