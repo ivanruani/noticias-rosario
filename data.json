@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T09:30:56.926456+00:00",
+  "generatedAt": "2026-10-23T10:01:07.769351+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,11 +13,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "El clima en Rosario: un cielo inconstante",
+        "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-un-cielo-inconstante-20261023-0002.html",
+        "image": "https://www.rosario3.com/__export/1792748775931/sites/rosario3/img/2026/10/23/nubladollovizna.jpg_928314581.jpg",
+        "summary": "El viernes despertó bajo una fina llovizna y aire pegajoso. El pronóstico anuncia chaparrones y lluvias hasta la tarde y un termómetro más arriba con 25 grados de máxima. Cómo sigue el tiempo este fin de semana",
+        "pubDate": "2026-10-23T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Advirtieron a Matías Capozucca que irá preso si vuelve a incumplir la restricción de acercamiento",
         "link": "https://www.rosario3.com/informaciongeneral/advirtieron-a-matias-capozucca-que-ira-preso-si-vuelve-a-incumplir-la-restriccion-de-acercamiento-20261022-0081.html",
         "image": "https://www.rosario3.com/__export/1788885569779/sites/rosario3/img/2026/09/08/matias_capozucca.jpg_506286608.jpg",
         "summary": "El imputado participó de una audiencia en el Centro de Justicia Penal, donde se revisaron las medidas cautelares dictadas tras la denuncia de su expareja. La víctima declaró por Zoom y relató la situación de miedo y angustia que atraviesa desde que él recuperó la libertad",
-        "pubDate": "2026-10-22T11:59:00+00:00",
+        "pubDate": "2026-10-22T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/rosario-evito-la-peor-parte-del-temporal-cayeron-29-milimetros-de-lluvia-y-hubo-reclamos-por-inconvenientes-menores-20261022-0080.html",
         "image": "https://www.rosario3.com/__export/1792713145836/sites/rosario3/img/2026/10/22/lluvia.jpg_1825222445.jpg",
         "summary": "Los fenómenos más severos se registraron en el centro y norte provincial. Protección Civil informó sobre ramas caídas, anegamientos leves y cables cortados, mientras las cuadrillas municipales continuaban con las tareas de asistencia",
-        "pubDate": "2026-10-22T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El Senado provincial dio media sanción a la nueva ley contra la violencia de género",
-        "link": "https://www.rosario3.com/informaciongeneral/el-senado-provincial-dio-media-sancion-a-la-nueva-ley-contra-la-violencia-de-genero-20261022-0068.html",
-        "image": "https://www.rosario3.com/__export/1792702116418/sites/rosario3/img/2026/10/22/violencia_genero.jpg_1825222445.jpg",
-        "summary": "La iniciativa impulsada por el Ejecutivo recibió el respaldo unánime de los legisladores presentes. Establece cuatro niveles de riesgo y prevé el uso de tobilleras electrónicas, el retiro preventivo de armas y arrestos ante incumplimientos de órdenes judiciales. Los detalles",
         "pubDate": "2026-10-22T11:57:00+00:00",
         "approxTime": true
       },
