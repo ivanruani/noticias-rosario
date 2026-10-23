@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-23T19:31:00.934373+00:00",
+  "generatedAt": "2026-10-23T20:01:17.653992+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Perpetua para la empleada doméstica que en 2023 asesinó a su patrón, un bombero retirado de Pérez",
+        "link": "https://www.rosario3.com/policiales/perpetua-para-la-empleada-domestica-que-en-2023-asesino-a-su-patron-un-bombero-retirado-de-perez-20261023-0057.html",
+        "image": "https://www.rosario3.com/__export/1792782789291/sites/rosario3/img/2023/08/23/jose_-_victima_de_homicidio_en_perez_1.jpeg_28271920.jpeg",
+        "summary": "La mujer y su entonces pareja fueron condenados por el crimen de José Coelho De Sousa De Melo, de 84 años, estrangulado en agosto de 2023. Un remisero aportó pistas clave para identificarlos y una familiar de la mujer reveló una confesión estremecedora: “Matamos al viejo”",
+        "pubDate": "2026-10-23T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Tuberculosis en Rosario: “Es una enfermedad de difícil diagnóstico y difícil tratamiento”",
         "link": "https://www.rosario3.com/informaciongeneral/tuberculosis-en-rosario-es-una-enfermedad-de-dificil-diagnostico-y-dificil-tratamiento-20261023-0026.html",
         "image": "https://www.rosario3.com/__export/1792761704924/sites/rosario3/img/2026/03/30/carrasco.jpg_1825222445.jpg",
         "summary": "La secretaria de Salud Pública municipal, Soledad Rodríguez, explicó que el abordaje de la enfermedad requiere seis meses de medicación y un seguimiento riguroso. Además, advirtió sobre la influencia del hacinamiento y la falta de ventilación en los contagios. Remarcó la…",
-        "pubDate": "2026-10-23T12:00:00+00:00",
+        "pubDate": "2026-10-23T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,15 +26,6 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/el-gobierno-reglamento-el-regimen-simplificado-de-ganancias-que-cambia-para-los-contribuyentes-20261023-0047.html",
         "image": "https://www.rosario3.com/__export/1792771326580/sites/rosario3/img/2025/11/06/ganancias.jpg_1768679258.jpg",
         "summary": "El decreto publicado este viernes en el Boletín Oficial reemplaza la reglamentación anterior y establece las condiciones para acceder a la declaración jurada simplificada. El esquema contempla un efecto liberatorio del pago y una “presunción de exactitud”, aunque Arca podrá…",
-        "pubDate": "2026-10-23T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Se hizo pasar por su hija en una nueva línea de WhatsApp y logró que le transfirieran plata, pero era un ladrón",
-        "link": "https://www.rosario3.com/policiales/se-hizo-pasar-por-su-hija-en-una-nueva-linea-de-whatsapp-y-le-transfirio-plata-pero-era-un-ladron-20261023-0041.html",
-        "image": "https://www.rosario3.com/__export/1792766788783/sites/rosario3/img/2026/10/23/estafa.jpg_928314580.jpg",
-        "summary": "El caso fue denunciado en la tarde de este jueves. Se trata de una suplantación de identidad que tiene como único objetivo sacarle dinero al padre o madre de la persona a la que le hicieron ingeniería social a través de sus redes sociales",
         "pubDate": "2026-10-23T11:58:00+00:00",
         "approxTime": true
       },
@@ -121,10 +121,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Cáncer de piel: una vacuna de ARNm redujo 42% el riesgo de recurrencia o muerte por melanoma",
-        "link": "https://www.rosario3.com/informaciongeneral/cancer-de-piel-una-vacuna-de-arnm-redujo-42-el-riesgo-de-recurrencia-o-muerte-por-melanoma-20261023-0046.html",
-        "image": "https://www.rosario3.com/__export/1792770358833/sites/rosario3/img/2025/11/13/cancer_de_piel.png_786111823.png",
-        "summary": "El tratamiento experimental mostró esos resultados en fase 3 y se espera que sean presentados detalladamente el sábado en Madrid, en el congreso de la Sociedad Europea de Oncología Médica (ESMO)",
+        "title": "Se hizo pasar por su hija en una nueva línea de WhatsApp y logró que le transfirieran plata, pero era un ladrón",
+        "link": "https://www.rosario3.com/policiales/se-hizo-pasar-por-su-hija-en-una-nueva-linea-de-whatsapp-y-le-transfirio-plata-pero-era-un-ladron-20261023-0041.html",
+        "image": "https://www.rosario3.com/__export/1792766788783/sites/rosario3/img/2026/10/23/estafa.jpg_928314580.jpg",
+        "summary": "El caso fue denunciado en la tarde de este jueves. Se trata de una suplantación de identidad que tiene como único objetivo sacarle dinero al padre o madre de la persona a la que le hicieron ingeniería social a través de sus redes sociales",
         "pubDate": "2026-10-23T11:47:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Acusan a Cristina y a Máximo Kirchner de liderar una asociación ilícita para apropiarse de fondos públicos",
+        "link": "https://www.lacapital.com.ar/politica/acusan-cristina-y-maximo-kirchner-liderar-una-asociacion-ilicita-apropiarse-fondos-publicos-n10288357.html",
+        "image": "https://media.lacapital.com.ar/p/12c2af5830f990d867a588c44f83c62e/adjuntos/203/imagenes/103/488/0103488504/1200x675/smart/image.png",
+        "summary": "Comenzó el juicio por las causas Hotesur-Los Sauces con la expresidenta y el diputado nacional conectados vía remota",
+        "pubDate": "2026-10-23T19:51:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "La Justicia reveló que en Circunvalación faltan 976 luces y exigió a Nación el mantenimiento",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/fda37c41a06526670f40ab3c30f916ce/adjuntos/203/imagenes/102/932/0102932772/1200x675/smart/celular-aulas-prohibicion.jpg",
         "summary": "La viralización de fotos falsas de alumnas del Verbo Encarnado no es un caso aislado. En distintas instituciones del país se conocieron denuncias similares. Hubo un caso que llegó a instancia judicial y un estudiante que será llevado a juicio",
         "pubDate": "2026-10-23T15:52:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La carta de Fito Páez a Charly García en su cumpleaños: \"Una de las personas que más amo\"",
-        "link": "https://www.lacapital.com.ar/zoom/la-carta-fito-paez-charly-garcia-su-cumpleanos-una-las-personas-que-mas-amo-n10288289.html",
-        "image": "https://media.lacapital.com.ar/p/c32c35d44a23ea5e9e9aa85cf998b66d/adjuntos/203/imagenes/103/487/0103487822/1200x675/smart/image-2026-10-23t121104641.png",
-        "summary": "El músico rosarino saludó a su amigo con un texto, fotos de ambos a lo largo de los años y también una canción",
-        "pubDate": "2026-10-23T15:22:00+00:00",
         "approxTime": false
       }
     ]
