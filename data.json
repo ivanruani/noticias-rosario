@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-23T15:31:03.716116+00:00",
+  "generatedAt": "2026-10-23T16:01:14.410594+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Tuberculosis en Rosario: “Es una enfermedad de difícil diagnóstico y difícil tratamiento”",
+        "link": "https://www.rosario3.com/informaciongeneral/tuberculosis-en-rosario-es-una-enfermedad-de-dificil-diagnostico-y-dificil-tratamiento-20261023-0026.html",
+        "image": "https://www.rosario3.com/__export/1792761704924/sites/rosario3/img/2026/03/30/carrasco.jpg_1825222445.jpg",
+        "summary": "La secretaria de Salud Pública municipal, Soledad Rodríguez, explicó que el abordaje de la enfermedad requiere seis meses de medicación y un seguimiento riguroso. Además, advirtió sobre la influencia del hacinamiento y la falta de ventilación en los contagios. Remarcó la…",
+        "pubDate": "2026-10-23T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Allanamientos en sanatorios de Rosario y una farmacia de Acebal por robo de fentanilo",
         "link": "https://www.rosario3.com/policiales/allanamientos-en-sanatorios-de-rosario-y-una-farmacia-de-acebal-por-robo-de-fentanilo-20261023-0029.html",
         "image": "https://www.rosario3.com/__export/1792762975401/sites/rosario3/img/2026/10/23/pfa_fentanilo_allanamiento_1.jpg_113259651.jpg",
         "summary": "Los hizo la División Operativa de Investigaciones Especiales Rosario de la Policía Federal. Dos de ellos, en domicilios de enfermeros que viven en la ciudad. Se secuestraron celulares, ampollas de distintos fármacos, una computadora y documentación vinculada al movimiento y…",
-        "pubDate": "2026-10-23T12:00:00+00:00",
+        "pubDate": "2026-10-23T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/policiales/se-hizo-pasar-por-su-hija-en-una-nueva-linea-de-whatsapp-y-le-transfirio-plata-pero-era-un-ladron-20261023-0041.html",
         "image": "https://www.rosario3.com/__export/1792766788783/sites/rosario3/img/2026/10/23/estafa.jpg_928314580.jpg",
         "summary": "El caso fue denunciado en la tarde de este jueves. Se trata de una suplantación de identidad que tiene como único objetivo sacarle dinero al padre o madre de la persona a la que le hicieron ingeniería social a través de sus redes sociales",
-        "pubDate": "2026-10-23T11:59:00+00:00",
+        "pubDate": "2026-10-23T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/politica/comenzo-el-juicio-por-hotesur-los-sauces-la-acusacion-describio-una-compleja-maniobra-de-corrupcion-20261023-0037.html",
         "image": "https://www.rosario3.com/__export/1792765007324/sites/rosario3/img/2026/10/23/maximozoom.jpg_982625323.jpg",
         "summary": "Cristina y Máximo Kirchner participaban por videoconferencia del debate en Comodoro Py. La primera audiencia comenzó con la lectura del dictamen fiscal de Los Sauces, que atribuye a los expresidentes la conducción de una organización destinada a canalizar fondos hacia el…",
-        "pubDate": "2026-10-23T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Revuelo en el colegio Verbo Encarnado tras la denuncia contra chicos por fotografiar a compañeras y alterar las imagenes con IA",
-        "link": "https://www.rosario3.com/informaciongeneral/revuelo-en-el-colegio-verbo-encarnado-tras-la-denuncia-contra-chicos-por-fotografiar-a-companeras-y-alterar-las-imagenes-con-ia-20261023-0035.html",
-        "image": "https://www.rosario3.com/__export/1792763601671/sites/rosario3/img/2026/10/23/verboencarnado.jpg_928314581.jpg",
-        "summary": "Familiares y alumnos de la escuela Verbo Encarnado denunciaron que unos tres estudiantes tomaron imágenes de, al menos 27 compañeras y las modificaron con inteligencia artificial. La comunidad educativa realizó una sentada en apoyo a las damnificadas en la puerta de la…",
         "pubDate": "2026-10-23T11:57:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Violencia digital en escuelas: una problemática que se extiende y en Santa Fe aborda la ley Ema",
+        "link": "https://www.lacapital.com.ar/policiales/violencia-digital-escuelas-una-problematica-que-se-extiende-y-santa-fe-aborda-la-ley-ema-n10288299.html",
+        "image": "https://media.lacapital.com.ar/p/fda37c41a06526670f40ab3c30f916ce/adjuntos/203/imagenes/102/932/0102932772/1200x675/smart/celular-aulas-prohibicion.jpg",
+        "summary": "La viralización de fotos falsas de alumnas del Verbo Encarnado no es un caso aislado. En distintas instituciones del país se conocieron denuncias similares. Hubo un caso que llegó a instancia judicial y un estudiante que será llevado a juicio",
+        "pubDate": "2026-10-23T15:52:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "La carta de Fito Páez a Charly García en su cumpleaños: \"Una de las personas que más amo\"",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/7ee2c9eed7a68eb35ac4891c34e08d5c/adjuntos/203/imagenes/103/487/0103487416/1200x675/smart/colegio-verbo-encarnado.jpg",
         "summary": "Las autoridades del Verbo Encarnado prohibieron el uso de celulares e implementaron la ley Ema. Se presume el uso de IA para modificar imágenes. Los estudiantes acusados dejaron de ir a clases",
         "pubDate": "2026-10-23T12:58:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cumbre del peronismo para ordenar la interna y defender las Paso nacionales",
-        "link": "https://www.lacapital.com.ar/politica/cumbre-del-peronismo-ordenar-la-interna-y-defender-las-paso-nacionales-n10288251.html",
-        "image": "https://media.lacapital.com.ar/p/c946331f4af9707b9ad3d92df228639f/adjuntos/203/imagenes/103/487/0103487347/1200x675/smart/image.png",
-        "summary": "Axel Kicillof, Máximo Kirchner y Sergio Massa, junto a legisladores y gobernadores, se reunieron a puertas cerradas y ratificaron la “vocación de unidad” del PJ",
-        "pubDate": "2026-10-23T12:36:00+00:00",
         "approxTime": false
       }
     ]
