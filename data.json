@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T00:31:01.505157+00:00",
+  "generatedAt": "2026-10-23T01:01:09.588479+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,10 +13,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Santa Fe recibió $110.000 millones de la Nación por el déficit de la Caja de Jubilaciones",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/santa-fe-recibio-110.000-millones-de-la-nacion-por-el-deficit-de-la-caja-de-jubilaciones-20261022-0078.html",
-        "image": "https://www.rosario3.com/__export/1792710861696/sites/rosario3/img/2026/10/22/casa_de_gobierno_de_santa_fe_.jpg_1825222445.jpg",
-        "summary": "Los fondos corresponden al aporte de Ansés a cuenta del déficit de la Caja de Jubilaciones de 2026 y fueron percibidos en efectivo. El ministro de Economía provincial, Pablo Olivares, destacó que se trata de un mecanismo inédito. “La mayor compensación de la historia”, destacó…",
+        "title": "Advirtieron a Matías Capozucca que irá preso si vuelve a incumplir la restricción de acercamiento",
+        "link": "https://www.rosario3.com/informaciongeneral/advirtieron-a-matias-capozucca-que-ira-preso-si-vuelve-a-incumplir-la-restriccion-de-acercamiento-20261022-0081.html",
+        "image": "https://www.rosario3.com/__export/1788885569779/sites/rosario3/img/2026/09/08/matias_capozucca.jpg_506286608.jpg",
+        "summary": "El imputado participó de una audiencia en el Centro de Justicia Penal, donde se revisaron las medidas cautelares dictadas tras la denuncia de su expareja. La víctima declaró por Zoom y relató la situación de miedo y angustia que atraviesa desde que él recuperó la libertad",
         "pubDate": "2026-10-22T11:59:00+00:00",
         "approxTime": true
       },
@@ -58,10 +58,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Candela Arizaga pidió que levanten la perimetral a Facundo Moyano: \"Queremos que esto se termine de una vez\"",
-        "link": "https://www.rosario3.com/informaciongeneral/candela-arizaga-pidio-que-levanten-la-perimetral-a-facundo-moyano-queremos-que-esto-se-termine-de-una-vez-20261022-0049.html",
-        "image": "https://www.rosario3.com/__export/1792691675740/sites/rosario3/img/2026/10/22/candela_y_moyano.jpg_982625323.jpg",
-        "summary": "La joven declaró ante la Justicia y al salir respondió preguntas sobre embarazo, casamiento y reclamó que se termine la investigación contra su pareja",
+        "title": "Santa Fe recibió $110.000 millones de la Nación por el déficit de la Caja de Jubilaciones",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/santa-fe-recibio-110.000-millones-de-la-nacion-por-el-deficit-de-la-caja-de-jubilaciones-20261022-0078.html",
+        "image": "https://www.rosario3.com/__export/1792710861696/sites/rosario3/img/2026/10/22/casa_de_gobierno_de_santa_fe_.jpg_1825222445.jpg",
+        "summary": "Los fondos corresponden al aporte de Ansés a cuenta del déficit de la Caja de Jubilaciones de 2026 y fueron percibidos en efectivo. El ministro de Economía provincial, Pablo Olivares, destacó que se trata de un mecanismo inédito. “La mayor compensación de la historia”, destacó…",
         "pubDate": "2026-10-22T11:54:00+00:00",
         "approxTime": true
       },
@@ -141,11 +141,20 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Totoras recibe la doble fecha final de un campeonato mundial de motociclismo: el Flat track",
+        "link": "https://www.lacapital.com.ar/ovacion/totoras-recibe-la-doble-fecha-final-un-campeonato-mundial-motociclismo-el-flat-track-n10288221.html",
+        "image": "https://media.lacapital.com.ar/p/9461e078a1cad9c1903312c4e8fefff4/adjuntos/203/imagenes/103/486/0103486886/1200x675/smart/image-4.jpg",
+        "summary": "Es la primera vez que el Mundial de Flat Track sale de Europa y definirá su campeonato en el circuito de tierra de Totoras. El Flat Track, para no perderse",
+        "pubDate": "2026-10-23T00:51:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "La asamblea de Newell's aprobó el balance del ejercicio 2025-2026",
         "link": "https://www.lacapital.com.ar/ovacion/la-asamblea-newells-aprobo-el-balance-del-ejercicio-2025-2026-n10288199.html",
         "image": "https://media.lacapital.com.ar/p/2b078d89b61fc34e6c248174629a05a6/adjuntos/203/imagenes/103/486/0103486837/1200x675/smart/image-50.png",
         "summary": "La convocatoria reunió a cerca de 300 socios en el estadio cubierto. También fue aprobado el balance 2024-2025 de la gestión de Astore, cuya presentación estaba pendiente",
-        "pubDate": "2026-10-23T00:19:32+00:00",
+        "pubDate": "2026-10-23T00:19:00+00:00",
         "approxTime": false
       },
       {
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/2217141f71269d78751649ed52208c2a/adjuntos/203/imagenes/103/486/0103486183/1200x675/smart/whatsapp-image-2026-10-22-at-095719-1.jpeg",
         "summary": "Prefectura realizó dos operativos en España al 900 y la zona de Aldea. Investigan posibles conexiones con un cargamento de droga abandonado en una camioneta tras una persecución en Paso de la Patria, en 2025.",
         "pubDate": "2026-10-22T19:52:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Adultos mayores serán guías de recorridas por el Palacio de los Leones",
-        "link": "https://www.lacapital.com.ar/la-ciudad/adultos-mayores-seran-guias-recorridas-el-palacio-los-leones-n10288107.html",
-        "image": "https://media.lacapital.com.ar/p/d7fdaee3b65f6aa1db9b9953f2e55fbe/adjuntos/203/imagenes/103/485/0103485815/1200x675/smart/whatsapp-image-2026-10-19-at-95512-am-2.jpeg",
-        "summary": "El edificio municipal abre sus puertas con dos visitas guiadas por personas mayores capacitadas especialmente para la ocasión. Será este sábado a las 9.30 y 11, con entrada gratuita y por orden de llegada",
-        "pubDate": "2026-10-22T19:12:00+00:00",
         "approxTime": false
       }
     ]
