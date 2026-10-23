@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T02:30:59.142286+00:00",
+  "generatedAt": "2026-10-23T03:01:10.037107+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Estudiantes venció por penales a Flamengo y jugará la final de la Libertadores",
+        "link": "https://www.lacapital.com.ar/ovacion/estudiantes-vencio-penales-flamengo-y-jugara-la-final-la-libertadores-n10288223.html",
+        "image": "https://media.lacapital.com.ar/p/c415e9735624475b367abfef6ffc1f8b/adjuntos/203/imagenes/103/486/0103486956/1200x675/smart/estudio.png",
+        "summary": "El Pincha empató sin goles en el Maracaná y el pase se definió desde los doce pasos. Ahora va por el título frente a Palmeiras",
+        "pubDate": "2026-10-23T02:47:16+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "La CGT Rosario analizó con la central nacional la crisis laboral de la región",
         "link": "https://www.lacapital.com.ar/economia/la-cgt-rosario-analizo-la-central-nacional-la-crisis-laboral-la-region-n10288212.html",
         "image": "https://media.lacapital.com.ar/p/f8e40c9d48adebf8ec557b2e46195d8c/adjuntos/203/imagenes/103/486/0103486812/1200x675/smart/cgt6c8.jpg",
@@ -186,19 +195,19 @@
       },
       {
         "source": "La Capital",
-        "title": "El Gobierno de Santa Fe cerró una histórica compensación de deudas con la Nación",
-        "link": "https://www.lacapital.com.ar/economia/el-gobierno-santa-fe-cerro-una-historica-compensacion-deudas-la-nacion-n10288208.html",
-        "image": "https://media.lacapital.com.ar/p/2da569f62269f7fb72619238f0a8105f/adjuntos/203/imagenes/102/780/0102780062/1200x675/smart/pablo-olivares.jpg",
-        "summary": "A través del Régimen de Extinción de Obligaciones Recíprocas, la provincia percibió en efectivo $110 mil millones a cuenta del déficit previsional 2026. Se saldó con parte del adelanto de coparticipación por $400 mil millones que recibió de la Nación",
+        "title": "Senado de Santa Fe: media sanción a la nueva ley contra la violencia de género",
+        "link": "https://www.lacapital.com.ar/politica/senado-santa-fe-media-sancion-la-nueva-ley-contra-la-violencia-genero-n10288206.html",
+        "image": "https://media.lacapital.com.ar/p/de9c0ee329aba7db353a3f3c269006e1/adjuntos/203/imagenes/103/486/0103486767/1200x675/smart/image.png",
+        "summary": "El proyecto de la Casa Gris intima a los magistrados a actuar de modo ágil y efectivo frente a esos casos, entre otras medidas clave. La iniciativa pasó a Diputados",
         "pubDate": "2026-10-22T23:36:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Senado de Santa Fe: media sanción a la nueva ley contra la violencia de género",
-        "link": "https://www.lacapital.com.ar/politica/senado-santa-fe-media-sancion-la-nueva-ley-contra-la-violencia-genero-n10288206.html",
-        "image": "https://media.lacapital.com.ar/p/de9c0ee329aba7db353a3f3c269006e1/adjuntos/203/imagenes/103/486/0103486767/1200x675/smart/image.png",
-        "summary": "El proyecto de la Casa Gris intima a los magistrados a actuar de modo ágil y efectivo frente a esos casos, entre otras medidas clave. La iniciativa pasó a Diputados",
+        "title": "El Gobierno de Santa Fe cerró una histórica compensación de deudas con la Nación",
+        "link": "https://www.lacapital.com.ar/economia/el-gobierno-santa-fe-cerro-una-historica-compensacion-deudas-la-nacion-n10288208.html",
+        "image": "https://media.lacapital.com.ar/p/2da569f62269f7fb72619238f0a8105f/adjuntos/203/imagenes/102/780/0102780062/1200x675/smart/pablo-olivares.jpg",
+        "summary": "A través del Régimen de Extinción de Obligaciones Recíprocas, la provincia percibió en efectivo $110 mil millones a cuenta del déficit previsional 2026. Se saldó con parte del adelanto de coparticipación por $400 mil millones que recibió de la Nación",
         "pubDate": "2026-10-22T23:36:00+00:00",
         "approxTime": false
       },
@@ -240,10 +249,10 @@
       },
       {
         "source": "La Capital",
-        "title": "Google Maps permite seguir el camino de tus contactos en tiempo real",
-        "link": "https://www.lacapital.com.ar/informacion-general/google-maps-permite-seguir-el-camino-tus-contactos-tiempo-real-n10288183.html",
-        "image": "https://media.lacapital.com.ar/p/f6c77b4808ad3b7c038053529ec85aa6/adjuntos/203/imagenes/103/486/0103486523/1200x675/smart/image-15.png",
-        "summary": "La herramienta llamada “Modo de seguridad” es fácil de usar desde cualquier dispositivo y permite el seguimiento entre contactos para cuidarlos a la distancia",
+        "title": "La nueva concesionaria ya corta el pasto en Circunvalación",
+        "link": "https://www.lacapital.com.ar/la-nueva-concesionaria-ya-corta-el-pasto-circunvalacion-n10288177.html",
+        "image": "https://media.lacapital.com.ar/p/98c477c1c1bb69c3743294eca311e56f/adjuntos/203/imagenes/103/486/0103486470/1200x675/smart/circunvala43.jpg",
+        "summary": "Operarios enviados por Arco Portuario SAU comenzaron las tareas de desmalezamiento en la ruta A008. En paralelo, la Justicia Federal ordenó el mantenimiento del anillo vial que rodea la ciudad.",
         "pubDate": "2026-10-22T22:00:00+00:00",
         "approxTime": false
       },
@@ -258,20 +267,11 @@
       },
       {
         "source": "La Capital",
-        "title": "La nueva concesionaria ya corta el pasto en Circunvalación",
-        "link": "https://www.lacapital.com.ar/la-nueva-concesionaria-ya-corta-el-pasto-circunvalacion-n10288177.html",
-        "image": "https://media.lacapital.com.ar/p/98c477c1c1bb69c3743294eca311e56f/adjuntos/203/imagenes/103/486/0103486470/1200x675/smart/circunvala43.jpg",
-        "summary": "Operarios enviados por Arco Portuario SAU comenzaron las tareas de desmalezamiento en la ruta A008. En paralelo, la Justicia Federal ordenó el mantenimiento del anillo vial que rodea la ciudad.",
+        "title": "Google Maps permite seguir el camino de tus contactos en tiempo real",
+        "link": "https://www.lacapital.com.ar/informacion-general/google-maps-permite-seguir-el-camino-tus-contactos-tiempo-real-n10288183.html",
+        "image": "https://media.lacapital.com.ar/p/f6c77b4808ad3b7c038053529ec85aa6/adjuntos/203/imagenes/103/486/0103486523/1200x675/smart/image-15.png",
+        "summary": "La herramienta llamada “Modo de seguridad” es fácil de usar desde cualquier dispositivo y permite el seguimiento entre contactos para cuidarlos a la distancia",
         "pubDate": "2026-10-22T22:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Uber: Juan Pedro Aleart pidió habilitar las aplicaciones de transporte con tarifas libres y sin tasas municipales",
-        "link": "https://www.lacapital.com.ar/uber-juan-pedro-aleart-pidio-habilitar-las-aplicaciones-transporte-tarifas-libres-y-tasas-municipales-n10288186.html",
-        "image": "https://media.lacapital.com.ar/p/78361d6b9f2742606a37a274dc6fadef/adjuntos/203/imagenes/103/486/0103486524/1200x675/smart/aleart.png",
-        "summary": "Para Aleart, el de las apps “es un sistema de acuerdo entre privados” y rechazó que sean encuadradas como un servicio público",
-        "pubDate": "2026-10-22T21:58:00+00:00",
         "approxTime": false
       }
     ]
