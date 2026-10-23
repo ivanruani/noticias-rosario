@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T17:31:03.590124+00:00",
+  "generatedAt": "2026-10-23T18:01:13.094472+00:00",
   "sites": {
     "rosario3": [
       {
@@ -22,7 +22,7 @@
       },
       {
         "source": "Rosario3",
-        "title": "Se hizo pasar por su hija en una nueva línea de WhatsApp y le transfirió plata, pero era un ladrón",
+        "title": "Se hizo pasar por su hija en una nueva línea de WhatsApp y logró que le transfirieran plata, pero era un ladrón",
         "link": "https://www.rosario3.com/policiales/se-hizo-pasar-por-su-hija-en-una-nueva-linea-de-whatsapp-y-le-transfirio-plata-pero-era-un-ladron-20261023-0041.html",
         "image": "https://www.rosario3.com/__export/1792766788783/sites/rosario3/img/2026/10/23/estafa.jpg_928314580.jpg",
         "summary": "El caso fue denunciado en la tarde de este jueves. Se trata de una suplantación de identidad que tiene como único objetivo sacarle dinero al padre o madre de la persona a la que le hicieron ingeniería social a través de sus redes sociales",
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Es rosarina, fan de BTS y vendió sándwiches en el parque para cumplir su sueño de ver a la banda",
+        "link": "https://www.lacapital.com.ar/zoom/es-rosarina-fan-bts-y-vendio-sandwiches-el-parque-cumplir-su-sueno-ver-la-banda-n10288255.html",
+        "image": "https://media.lacapital.com.ar/p/5ee820556761cdfe1dbf4db77e3ff025/adjuntos/203/imagenes/103/487/0103487417/1200x675/smart/lucia-bts.jpg",
+        "summary": "Lucía Brandana trabajó para reunir un millón y medio de pesos para pagar una entrada al soundcheck de BTS. También creó un traje que fusiona las culturas argentina y coreana y se viralizó",
+        "pubDate": "2026-10-23T17:40:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Allanaron tres sanatorios de Rosario por la venta ilegal de fentanilo y morfina",
+        "link": "https://www.lacapital.com.ar/policiales/allanaron-tres-sanatorios-rosario-la-venta-ilegal-fentanilo-y-morfina-n10288293.html",
+        "image": "https://media.lacapital.com.ar/p/c2501d9f19c2a2d309ed1ce5b877635b/adjuntos/203/imagenes/103/088/0103088489/1200x675/smart/fentanilo2.jpg",
+        "summary": "La Policía Federal Argentina identificó a siete sospechosos nuevos luego de la imputación a un médico y a un enfermero en Wheelwright",
+        "pubDate": "2026-10-23T17:39:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Banco Santa Fe ofrece créditos hipotecarios con tasa UVA + 4,20% para comprar departamentos",
         "link": "https://www.lacapital.com.ar/novedades/banco-santa-fe-ofrece-creditos-hipotecarios-tasa-uva-420-comprar-departamentos-n10288324.html",
         "image": "https://media.lacapital.com.ar/p/dd0ed0afaffbeb89229d0a6182a94dfc/adjuntos/203/imagenes/103/488/0103488119/1200x675/smart/villa.jpg",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/992d48733d064bc77667029e07af8646/adjuntos/203/imagenes/103/487/0103487639/1200x675/smart/municipalidad-roldan.jpeg",
         "summary": "El ataque a PGM, que abastece a municipios de todo el país, afecta la atención al público tanto presencial como digital",
         "pubDate": "2026-10-23T14:25:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Dengue: faltan vacunas, pero la situación se normalizará la semana próxima",
-        "link": "https://www.lacapital.com.ar/la-ciudad/dengue-faltan-vacunas-pero-la-situacion-se-normalizara-la-semana-proxima-n10288259.html",
-        "image": "https://media.lacapital.com.ar/p/eaf608b655d207e6a2ccb49d0268e84a/adjuntos/203/imagenes/102/643/0102643574/1200x675/smart/dengue-vacunacion.jpg",
-        "summary": "Así lo aseguraron desde el Colegio de Farmacéuticos de Rosario. Cuánto cuesta la vacuna y cómo debe aplicarse",
-        "pubDate": "2026-10-23T14:22:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Timbúes realizó actividades por el Octubre rosa y planifica una jornada interdisciplinaria de salud infantil",
-        "link": "https://www.lacapital.com.ar/la-region/timbues-realizo-actividades-el-octubre-rosa-y-planifica-una-jornada-interdisciplinaria-salud-infantil-n10288280.html",
-        "image": "https://media.lacapital.com.ar/p/bb0d55947123ae4b717cceedacdc485d/adjuntos/203/imagenes/103/487/0103487651/1200x675/smart/timbues-octubrerosa4.jpeg",
-        "summary": "El lunes tuvieron lugar las propuestas de difusión, concientización y prevención del cáncer de mama. El 31 de octubre, será el turno de hablar sobre la salud de los más pequeños",
-        "pubDate": "2026-10-23T14:19:00+00:00",
         "approxTime": false
       }
     ]
