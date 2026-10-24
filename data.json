@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T11:01:14.753296+00:00",
+  "generatedAt": "2026-10-24T11:31:03.130523+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Luis Novaresio: el bullying, su niñez y el amor que cambió su vida",
+        "link": "https://www.lacapital.com.ar/la-capital/luis-novaresio-el-bullying-su-ninez-y-el-amor-que-cambio-su-vida-n10287132.html",
+        "image": "https://media.lacapital.com.ar/p/8e5f11aa30dee1f280096c5c2a39be51/adjuntos/203/imagenes/103/474/0103474218/1200x675/smart/imagen-l.jpg",
+        "summary": "El reconocido periodista habló en el programa \"Más Cerca\", conducido por Florencia O'Keeffe, sobre los dolores, el deseo y el costo de la exposición pública",
+        "pubDate": "2026-10-24T11:12:38+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Qué ver en plataformas de streaming este fin de semana",
         "link": "https://www.lacapital.com.ar/zoom/que-ver-plataformas-streaming-este-fin-semana-n10288316.html",
         "image": "https://media.lacapital.com.ar/p/bf01f40d79fb28baaa6755c4faf25f35/adjuntos/203/imagenes/103/488/0103488005/1200x675/smart/image-17.png",
@@ -159,15 +168,6 @@
       },
       {
         "source": "La Capital",
-        "title": "Los Nocheros en Rosario: \"Las gargantas están gastadas, pero son sonadoras\"",
-        "link": "https://www.lacapital.com.ar/zoom/los-nocheros-rosario-las-gargantas-estan-gastadas-pero-son-sonadoras-n10288388.html",
-        "image": "https://media.lacapital.com.ar/p/d26d3d321bfc754660cb8180baeb1480/adjuntos/203/imagenes/103/488/0103488816/1200x675/smart/image-2026-10-23t192722569.png",
-        "summary": "El grupo salteño llega este sábado a la ciudad con “Los Nocheros, 40 años. El show”, un recorrido por las canciones que marcaron su historia",
-        "pubDate": "2026-10-24T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "De las playas brasileñas al Caribe: los nuevos vuelos desde Rosario",
         "link": "https://www.lacapital.com.ar/turismo/de-las-playas-brasilenas-al-caribe-los-nuevos-vuelos-rosario-n10288192.html",
         "image": "https://media.lacapital.com.ar/p/644e75f33162375058b0e90d502e28f7/adjuntos/203/imagenes/103/488/0103488561/andes-lineas.jpg",
@@ -181,6 +181,15 @@
         "link": "https://www.lacapital.com.ar/turismo/las-10-ciudades-del-mundo-donde-caminar-es-parte-del-viaje-n10288193.html",
         "image": "https://media.lacapital.com.ar/p/930a09a239741d2b66ec31df22f8ecec/adjuntos/203/imagenes/103/488/0103488590/imagen-nota.jpg",
         "summary": "Un ranking elaborado a partir de la opinión de 24 mil residentes reúne ciudades donde caminar no es solo una forma de trasladarse, sino también de conocerlas",
+        "pubDate": "2026-10-24T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Los Nocheros en Rosario: \"Las gargantas están gastadas, pero son sonadoras\"",
+        "link": "https://www.lacapital.com.ar/zoom/los-nocheros-rosario-las-gargantas-estan-gastadas-pero-son-sonadoras-n10288388.html",
+        "image": "https://media.lacapital.com.ar/p/d26d3d321bfc754660cb8180baeb1480/adjuntos/203/imagenes/103/488/0103488816/1200x675/smart/image-2026-10-23t192722569.png",
+        "summary": "El grupo salteño llega este sábado a la ciudad con “Los Nocheros, 40 años. El show”, un recorrido por las canciones que marcaron su historia",
         "pubDate": "2026-10-24T10:00:00+00:00",
         "approxTime": false
       },
@@ -240,27 +249,9 @@
       },
       {
         "source": "La Capital",
-        "title": "Taller de Arte by Charco en Alto Rosario",
-        "link": "https://www.lacapital.com.ar/es-social/taller-arte-by-charco-alto-rosario-n10287677.html",
-        "image": "https://media.lacapital.com.ar/p/dd3c3c49f8564382f6d0361066db5de2/adjuntos/203/imagenes/103/481/0103481181/1200x675/smart/charcodiadelamadre-3.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-10-24T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "María Cher en modo Verano27 en Alto Rosario",
-        "link": "https://www.lacapital.com.ar/es-social/maria-cher-modo-verano27-alto-rosario-n10287680.html",
-        "image": "https://media.lacapital.com.ar/p/a8f40106d872656b1007eb9d5622b844/adjuntos/203/imagenes/103/481/0103481234/1200x675/smart/mariacher-1.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-10-24T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Recorrida Semanal",
-        "link": "https://www.lacapital.com.ar/es-social/recorrida-semanal-n10287675.html",
-        "image": "https://media.lacapital.com.ar/p/795d8b20c971a3325ec940cf0d22a8af/adjuntos/203/imagenes/103/481/0103481176/1200x675/smart/8chicharra-1.jpg",
+        "title": "Retina inauguró su nueva clínica oftalmológica de última tecnología",
+        "link": "https://www.lacapital.com.ar/es-social/retina-inauguro-su-nueva-clinica-oftalmologica-ultima-tecnologia-n10287667.html",
+        "image": "https://media.lacapital.com.ar/p/762c784b7673b6387f2b74032cc44a8d/adjuntos/203/imagenes/103/480/0103480905/1200x675/smart/retina-1.jpg",
         "summary": "La Capital",
         "pubDate": "2026-10-24T03:00:00+00:00",
         "approxTime": false
@@ -270,6 +261,15 @@
         "title": "David Bisbal deslumbró Rosario con la gira Tour Eternos",
         "link": "https://www.lacapital.com.ar/es-social/david-bisbal-deslumbro-rosario-la-gira-tour-eternos-n10287669.html",
         "image": "https://media.lacapital.com.ar/p/a39df4739133250a9f9626b149863c76/adjuntos/203/imagenes/103/480/0103480924/1200x675/smart/david-bisbal-13.jpg",
+        "summary": "La Capital",
+        "pubDate": "2026-10-24T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Recorrida Semanal",
+        "link": "https://www.lacapital.com.ar/es-social/recorrida-semanal-n10287675.html",
+        "image": "https://media.lacapital.com.ar/p/795d8b20c971a3325ec940cf0d22a8af/adjuntos/203/imagenes/103/481/0103481176/1200x675/smart/8chicharra-1.jpg",
         "summary": "La Capital",
         "pubDate": "2026-10-24T03:00:00+00:00",
         "approxTime": false
