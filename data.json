@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T14:31:07.521187+00:00",
+  "generatedAt": "2026-10-24T15:01:16.271889+00:00",
   "sites": {
     "rosario3": [
       {
@@ -103,11 +103,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Mundial sub-17 de fútbol femenino: la selección argentina derrotó 5-1 a Marruecos y se clasificó a octavos",
+        "link": "https://www.rosario3.com/deportes/mundial-sub-17-de-futbol-femenino-la-seleccion-argentina-derroto-5-1-a-marruecos-y-se-clasifico-a-octavos-20261024-0004.html",
+        "image": "https://www.rosario3.com/__export/1792843559923/sites/rosario3/img/2026/10/24/sub_17_-1-.jpg_928314581.jpg",
+        "summary": "El próximo compromiso de las dirigidas por Meloni será el miércoles 28 de octubre, ante el segundo clasificado del Grupo C. Las posiciones de ese grupo se definirán este sábado a las 12, instancia en la que Argentina conocerá al rival que enfrentará en los octavos",
+        "pubDate": "2026-10-24T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Todos los datos previos al crucial choque entre el Canalla y el Globo en el Gigante",
         "link": "https://www.rosario3.com/deportes/todos-los-datos-previos-al-crucial-choque-entre-el-canalla-y-el-globo-en-el-gigante-20261023-0027.html",
         "image": "https://www.rosario3.com/__export/1792761825369/sites/rosario3/img/2026/08/14/ibarra-jpg_-1-.jpeg_1725580757.jpeg",
         "summary": "Los auriazules, que buscan seguir peleando la tabla anual, reciben al Globo, rival con el que arrastran una racha muy adversa. La reserva ganó y pelea arriba",
-        "pubDate": "2026-10-23T11:49:00+00:00",
+        "pubDate": "2026-10-23T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +125,7 @@
         "link": "https://www.rosario3.com/deportes/todos-los-datos-previos-a-un-duelo-clave-entre-el-ciclon-y-la-lepra-en-el-nuevo-gasometro-20261023-0021.html",
         "image": "https://www.rosario3.com/__export/1788727320677/sites/rosario3/img/2026/09/06/kudelka_-1-.jpg_506286608.jpg",
         "summary": "Los rojinegros visitan al Ciclón, rival directo en la lucha por la clasificación y con el que arrastran una muy buena racha. La reserva leprosa volvió a ganar",
-        "pubDate": "2026-10-23T11:48:00+00:00",
+        "pubDate": "2026-10-23T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,20 +134,20 @@
         "link": "https://www.rosario3.com/deportes/el-torneo-del-litoral-define-sus-cruces-de-semifinales-y-las-juveniles-tendran-un-fin-de-semana-decisivo-20261023-0081.html",
         "image": "https://www.rosario3.com/__export/1792807524493/sites/rosario3/img/2026/10/23/los_4.jpeg_928314580.jpeg",
         "summary": "Este sábado 24 de octubre se disputa la 18ª fecha del Top 10 para ordenar las llaves hacia el título, mientras que la Copa de Oro de Segunda División busca a su último semifinalista. Además, se definen los semifinalistas del TRL M19, el M16 rosarino busca campeón y Rosario se…",
-        "pubDate": "2026-10-23T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Un menor cayó desde varios metros de altura sobre la terraza de un bazar en el microcentro de Rosario",
-        "link": "https://www.rosario3.com/informaciongeneral/un-menor-cayo-desde-varios-metros-de-altura-sobre-la-terraza-de-un-bazar-en-el-microcentro-de-rosario-20261023-0077.html",
-        "image": "https://www.rosario3.com/__export/1792799377936/sites/rosario3/img/2026/10/23/rioja_1100.jpg_928314581.jpg",
-        "summary": "El chico de 14 años sufrió el accidente este viernes por la tarde en Rioja al 1100. Bomberos Zapadores realizaron un operativo para rescatarlo y trasladarlo de urgencia, en código rojo, al Hospital de Niños",
         "pubDate": "2026-10-23T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Una explosión sacudió a un bar del centro rosarino y una empleada sufrió quemaduras",
+        "link": "https://www.lacapital.com.ar/la-ciudad/una-explosion-sacudio-un-bar-del-centro-rosarino-y-una-empleada-sufrio-quemaduras-n10288448.html",
+        "image": "https://media.lacapital.com.ar/p/061fe7cc2de808e11e1542e7a2b4f057/adjuntos/203/imagenes/103/489/0103489562/bar-explosion-balcarce-3-febrero-2.jpeg",
+        "summary": "El estallido se produjo al amanecer en un local ubicado cerca del bulevar Oroño. La única víctima del incidente tiene 33 años",
+        "pubDate": "2026-10-24T14:32:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Ya sacaron el 72% del ganado de las islas ante el riesgo de inundaciones por El Niño",
@@ -180,7 +189,7 @@
         "title": "Mataron a balazos a un joven de 20 años y una muchacha fue internada tras el crimen",
         "link": "https://www.lacapital.com.ar/policiales/mataron-balazos-un-joven-20-anos-y-una-muchacha-fue-internada-el-crimen-n10288424.html",
         "image": "https://media.lacapital.com.ar/p/5ce4f446d91d9da177738fdeaf33a06c/adjuntos/203/imagenes/101/944/0101944478/1200x675/smart/hecajpg.jpg",
-        "summary": "Matías G. falleció a la noche por un disparo en el abdomen. Lo atacaron en Vía Honda durante una disputa entre varias personas",
+        "summary": "Matías Gálvez falleció a la noche por un disparo en el abdomen. Lo atacaron en Vía Honda durante una disputa entre varias personas",
         "pubDate": "2026-10-24T12:02:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/a45ef541497e3c7c5c0c4c64ec8149db/adjuntos/203/imagenes/103/489/0103489023/1200x675/smart/image-6.jpg",
         "summary": "El equipo de Frank Kudelka juega un partido clave en el Nuevo Gasómetro ante el rival que quiere sacarlo de la clasificación a octavos. Una final para Newell's",
         "pubDate": "2026-10-24T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Impulsan Fuerza Suma, una usina de ideas para debatir el futuro de la Argentina",
-        "link": "https://www.lacapital.com.ar/politica/impulsan-fuerza-suma-una-usina-ideas-debatir-el-futuro-la-argentina-n10288342.html",
-        "image": "https://media.lacapital.com.ar/p/65399795ac4a7719106c1e0f220a9f8f/adjuntos/203/imagenes/103/488/0103488228/1200x675/smart/image.png",
-        "summary": "Osvaldo Cornide, presidente honorario de la Came, promueve un espacio plural que busca construir un plan de desarrollo económico y social, exigiendo soluciones a la dirigencia política",
-        "pubDate": "2026-10-24T09:05:00+00:00",
         "approxTime": false
       }
     ]
