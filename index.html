@@ -422,6 +422,21 @@
     }, 150);
   });
 
+  // En iOS, cuando la app (instalada como PWA) queda "congelada" en segundo
+  // plano, al volver a abrirla a veces no se recarga sola: se ve la misma
+  // pantalla de la última vez, sin pedir datos nuevos. Por eso forzamos un
+  // refetch cada vez que la pestaña vuelve a estar visible (se reabre la
+  // app, se vuelve de otra app, se restaura desde el historial, o vuelve
+  // la conexión a internet), y además cada 5 minutos mientras esté abierta.
+  document.addEventListener('visibilitychange', function(){
+    if(document.visibilityState === 'visible') load(false);
+  });
+  window.addEventListener('pageshow', function(){ load(false); });
+  window.addEventListener('online', function(){ load(false); });
+  setInterval(function(){
+    if(document.visibilityState === 'visible') load(false);
+  }, 5 * 60 * 1000);
+
   load(false);
 })();
 </script>
