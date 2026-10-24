@@ -1,32 +1,23 @@
 {
-  "generatedAt": "2026-10-24T00:01:12.373248+00:00",
+  "generatedAt": "2026-10-24T00:30:58.709689+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Un menor cayó desde varios metros de altura sobre la terraza de un bazar en el microcentro de Rosario",
+        "link": "https://www.rosario3.com/deportes/un-menor-cayo-desde-varios-metros-de-altura-sobre-la-terraza-de-un-bazar-en-el-microcentro-de-rosario-20261023-0077.html",
+        "image": "https://www.rosario3.com/__export/1792799377936/sites/rosario3/img/2026/10/23/rioja_1100.jpg_928314581.jpg",
+        "summary": "El chico de 14 años sufrió el accidente este viernes por la tarde en Rioja al 1100. Bomberos Zapadores realizaron un operativo para rescatarlo y trasladarlo de urgencia, en código rojo, al Hospital de Niños",
+        "pubDate": "2026-10-23T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Franco Bartolacci se encontró con el papa León XIV y le entregó un documento sobre la crisis del sistema universitario argentino",
         "link": "https://www.rosario3.com/informaciongeneral/franco-bartolacci-se-encontro-con-el-papa-leon-xiv-y-le-entrego-un-documento-sobre-la-crisis-del-sistema-universitario-argentino-20261023-0075.html",
         "image": "https://www.rosario3.com/__export/1792793565321/sites/rosario3/img/2026/10/23/bartolaccipapa.jpg_2106848869.jpg",
         "summary": "El rector de la Universidad Nacional de Rosario participó de una audiencia general en el Vaticano y le dio al sumo pontífice un texto elaborado por el Consejo Interuniversitario Nacional que sintetiza la situación que están atravesando las universidades nacionales, en medio del…",
-        "pubDate": "2026-10-23T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Perpetua para la empleada doméstica que en 2023 asesinó a su patrón, un bombero retirado de Pérez",
-        "link": "https://www.rosario3.com/policiales/perpetua-para-la-empleada-domestica-que-en-2023-asesino-a-su-patron-un-bombero-retirado-de-perez-20261023-0057.html",
-        "image": "https://www.rosario3.com/__export/1792782789291/sites/rosario3/img/2023/08/23/jose_-_victima_de_homicidio_en_perez_1.jpeg_28271920.jpeg",
-        "summary": "La mujer y su entonces pareja fueron condenados por el crimen de José Coelho De Sousa De Melo, de 84 años, estrangulado en agosto de 2023. Un remisero aportó pistas clave para identificarlos y una familiar de la mujer reveló una confesión estremecedora: “Matamos al viejo”",
         "pubDate": "2026-10-23T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "\"La verdad triunfa por sí misma\": la reacción de Javier Milei tras su sobreseimiento en la causa Libra",
-        "link": "https://www.rosario3.com/informaciongeneral/la-verdad-triunfa-por-si-misma-la-reaccion-de-javier-milei-tras-su-sobreseimiento-en-la-causa-libra-20261023-0074.html",
-        "image": "https://www.rosario3.com/__export/1792791699857/sites/rosario3/img/2026/10/23/mileilibra.jpg_2106848869.jpg",
-        "summary": "El presidente hizo una publicación en sus redes sociales luego de que se conociera la decisión del juez federal Marcelo Martínez de Giorgi, quien lo sobreseyó a él y a su hermana Karina en la causa que investigaba una presunta estafa vinculada con el lanzamiento y la promoción…",
-        "pubDate": "2026-10-23T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -35,15 +26,24 @@
         "link": "https://www.rosario3.com/informaciongeneral/detuvieron-a-un-bioquimico-acusado-de-mantener-aislada-a-su-familia-en-condiciones-extremas-20261023-0069.html",
         "image": "https://www.rosario3.com/__export/1792788660730/sites/rosario3/img/2026/10/23/esquel.png_786111822.png",
         "summary": "El hecho ocurrió en Esquel. El hombre, de 71 años, quedó bajo investigación tras un procedimiento en su casa. La causa busca esclarecer las condiciones en las que vivían los integrantes de la familia y determinar si fueron privados ilegítimamente de su libertad",
+        "pubDate": "2026-10-23T11:58:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Perpetua para la empleada doméstica que en 2023 asesinó a su patrón, un bombero retirado de Pérez",
+        "link": "https://www.rosario3.com/policiales/perpetua-para-la-empleada-domestica-que-en-2023-asesino-a-su-patron-un-bombero-retirado-de-perez-20261023-0057.html",
+        "image": "https://www.rosario3.com/__export/1792782789291/sites/rosario3/img/2023/08/23/jose_-_victima_de_homicidio_en_perez_1.jpeg_28271920.jpeg",
+        "summary": "La mujer y su entonces pareja fueron condenados por el crimen de José Coelho De Sousa De Melo, de 84 años, estrangulado en agosto de 2023. Un remisero aportó pistas clave para identificarlos y una familiar de la mujer reveló una confesión estremecedora: “Matamos al viejo”",
         "pubDate": "2026-10-23T11:57:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Cuando la vida duele, pero la música sigue: la batalla más íntima de Soledad Pastorutti",
-        "link": "https://www.rosario3.com/informaciongeneral/cuando-la-vida-duele-pero-la-musica-sigue-la-batalla-mas-intima-de-soledad-pastorutti-20261023-0030.html",
-        "image": "https://www.rosario3.com/__export/1792763250478/sites/rosario3/img/2026/10/23/soledad_pastorutti_papa_rosario3_1250x704.jpg_928314581.jpg",
-        "summary": "La Sole presentó Vale la pena, su nuevo disco, y compartió el doloroso momento que vive con su papá. Una historia que invita a mirar más allá del éxito y reflexionar sobre las batallas que muchos atraviesan en silencio",
+        "title": "\"La verdad triunfa por sí misma\": la reacción de Javier Milei tras su sobreseimiento en la causa Libra",
+        "link": "https://www.rosario3.com/informaciongeneral/la-verdad-triunfa-por-si-misma-la-reaccion-de-javier-milei-tras-su-sobreseimiento-en-la-causa-libra-20261023-0074.html",
+        "image": "https://www.rosario3.com/__export/1792791699857/sites/rosario3/img/2026/10/23/mileilibra.jpg_2106848869.jpg",
+        "summary": "El presidente hizo una publicación en sus redes sociales luego de que se conociera la decisión del juez federal Marcelo Martínez de Giorgi, quien lo sobreseyó a él y a su hermana Karina en la causa que investigaba una presunta estafa vinculada con el lanzamiento y la promoción…",
         "pubDate": "2026-10-23T11:56:00+00:00",
         "approxTime": true
       },
@@ -67,19 +67,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "Espeluznante caso de bullying en viaje de egresados a Bariloche: \"Le dio un brote psicótico y yo lo disfrutaba\"",
-        "link": "https://www.rosario3.com/informaciongeneral/espeluznante-caso-de-bullying-en-viaje-de-egresados-a-bariloche-le-dio-un-brote-psicotico-y-yo-lo-disfrutaba-20261023-0055.html",
-        "image": "https://www.rosario3.com/__export/1792782680566/sites/rosario3/img/2026/10/23/colegio_2.jpg_1768679257.jpg",
-        "summary": "Una de las agresoras confesó ataques físicos, burlas y acoso contra su compañera y los padres de la víctima recurrieron a la Justicia. La familia ya había denunciado la circulación de un video íntimo que habían difundido los compañeros de su hija. El hostigamiento durante el…",
+        "title": "Cuando la vida duele, pero la música sigue: la batalla más íntima de Soledad Pastorutti",
+        "link": "https://www.rosario3.com/informaciongeneral/cuando-la-vida-duele-pero-la-musica-sigue-la-batalla-mas-intima-de-soledad-pastorutti-20261023-0030.html",
+        "image": "https://www.rosario3.com/__export/1792763250478/sites/rosario3/img/2026/10/23/soledad_pastorutti_papa_rosario3_1250x704.jpg_928314581.jpg",
+        "summary": "La Sole presentó Vale la pena, su nuevo disco, y compartió el doloroso momento que vive con su papá. Una historia que invita a mirar más allá del éxito y reflexionar sobre las batallas que muchos atraviesan en silencio",
         "pubDate": "2026-10-23T11:53:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "El Gobierno reglamentó el régimen simplificado de Ganancias: qué cambia para los contribuyentes",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/el-gobierno-reglamento-el-regimen-simplificado-de-ganancias-que-cambia-para-los-contribuyentes-20261023-0047.html",
-        "image": "https://www.rosario3.com/__export/1792771326580/sites/rosario3/img/2025/11/06/ganancias.jpg_1768679258.jpg",
-        "summary": "El decreto publicado este viernes en el Boletín Oficial reemplaza la reglamentación anterior y establece las condiciones para acceder a la declaración jurada simplificada. El esquema contempla un efecto liberatorio del pago y una “presunción de exactitud”, aunque Arca podrá…",
+        "title": "El mensaje de Lionel Messi tras recibir el Premio Princesa de Asturias de los Deportes: \"Hacía tiempo que no venía por acá\"",
+        "link": "https://www.rosario3.com/informaciongeneral/el-mensaje-de-lionel-messi-tras-recibir-el-premio-princesa-de-asturias-de-los-deportes-hacia-tiempo-que-no-venia-por-aca-20261023-0076.html",
+        "image": "https://www.rosario3.com/__export/1792796228988/sites/rosario3/img/2026/10/23/messiasturias.jpg_2106848869.jpg",
+        "summary": "A través de su cuenta de Instagram, el diez publicó una serie de imágenes de su estadía en Asturias y dedicó un especial agradecimiento a la organización y al público que se acercó a manifestarle su afecto durante las jornadas",
         "pubDate": "2026-10-23T11:52:00+00:00",
         "approxTime": true
       },
@@ -112,19 +112,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "El crack de Barcelona que se confesó hincha de Newell’s por Messi: \"Es el mejor de la historia\"",
-        "link": "https://www.rosario3.com/deportes/el-crack-de-barcelona-que-se-confeso-hincha-de-newells-por-messi-es-el-mejor-de-la-historia-20261023-0073.html",
-        "image": "https://www.rosario3.com/__export/1792791030819/sites/rosario3/img/2026/10/23/pedri-messi.jpg_928314580.jpg",
-        "summary": "El campeón del mundo con España habló de su admiración por el rosarino, recordó el año que compartieron en el equipo catalán y reveló su simpatía por la Lepra. “Siempre me preguntan si soy de Boca o de River, pero soy de Newell's por Leo”",
+        "title": "Espeluznante caso de bullying en viaje de egresados a Bariloche: \"Le dio un brote psicótico y yo lo disfrutaba\"",
+        "link": "https://www.rosario3.com/informaciongeneral/espeluznante-caso-de-bullying-en-viaje-de-egresados-a-bariloche-le-dio-un-brote-psicotico-y-yo-lo-disfrutaba-20261023-0055.html",
+        "image": "https://www.rosario3.com/__export/1792782680566/sites/rosario3/img/2026/10/23/colegio_2.jpg_1768679257.jpg",
+        "summary": "Una de las agresoras confesó ataques físicos, burlas y acoso contra su compañera y los padres de la víctima recurrieron a la Justicia. La familia ya había denunciado la circulación de un video íntimo que habían difundido los compañeros de su hija. El hostigamiento durante el…",
         "pubDate": "2026-10-23T11:48:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "El artista callejero Marcelo Moyano recibió una nueva guitarra tras el robo en su vivienda",
-        "link": "https://www.rosario3.com/informaciongeneral/le-robaron-la-guitarra-a-marcelo-moyano-conocido-musico-de-la-peatonal-pide-ayuda-para-volver-a-trabajar-20261023-0034.html",
-        "image": "https://www.rosario3.com/__export/1792763273994/sites/rosario3/img/2026/10/23/498021706_3874147046171785_686321747746067490_n.jpg_928314580.jpg",
-        "summary": "El reconocido músico de la peatonal Córdoba recuperó la posibilidad de seguir trabajando luego de que le robaran su instrumento en su casa. Tras pedir ayuda, recibió una nueva guitarra",
+        "title": "El Gobierno reglamentó el régimen simplificado de Ganancias: qué cambia para los contribuyentes",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/el-gobierno-reglamento-el-regimen-simplificado-de-ganancias-que-cambia-para-los-contribuyentes-20261023-0047.html",
+        "image": "https://www.rosario3.com/__export/1792771326580/sites/rosario3/img/2025/11/06/ganancias.jpg_1768679258.jpg",
+        "summary": "El decreto publicado este viernes en el Boletín Oficial reemplaza la reglamentación anterior y establece las condiciones para acceder a la declaración jurada simplificada. El esquema contempla un efecto liberatorio del pago y una “presunción de exactitud”, aunque Arca podrá…",
         "pubDate": "2026-10-23T11:47:00+00:00",
         "approxTime": true
       },
