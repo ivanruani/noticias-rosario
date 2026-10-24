@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T20:31:02.899790+00:00",
+  "generatedAt": "2026-10-24T20:42:08.122812+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Rosario registró 11 casos de tuberculosis por semana en lo que va del año",
+        "link": "https://www.lacapital.com.ar/la-ciudad/rosario-registro-11-casos-tuberculosis-semana-lo-que-va-del-ano-n10288483.html",
+        "image": "https://media.lacapital.com.ar/p/453323e8ed929cfc7da20709cf937567/adjuntos/203/imagenes/028/224/0028224942/1200x675/smart/4_leonardo-vincenti_75722671__04-05-2020__200x800jpg.jpg",
+        "summary": "La información ofrecida por la Secretaría de Salud también indica un crecimiento sostenido de estos cuadros desde 2020. A nivel nacional crecieron un 64% en los últimos seis años",
+        "pubDate": "2026-10-24T20:33:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El prólogo del Turismo Carretera en el Juan Manuel Fangio de Rosario fue de Mauricio Lambiris",
         "link": "https://www.lacapital.com.ar/ovacion/el-prologo-del-turismo-carretera-el-juan-manuel-fangio-rosario-fue-mauricio-lambiris-n10288480.html",
         "image": "https://media.lacapital.com.ar/p/b0dcec242e6f49eafbc1988e65973eb4/adjuntos/203/imagenes/103/489/0103489788/1200x675/smart/image.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/9d9eca78518a5288126cdd5b1adb1092/adjuntos/203/imagenes/103/489/0103489368/vacas-islas.jpg",
         "summary": "El gobierno santafesino recordó que a principios de agosto había más de 700.000 animales en zonas de riesgo por la crecida de los ríos",
         "pubDate": "2026-10-24T14:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Inauguraron el jardín de infantes del barrio San Cayetano de Villa Constitución",
-        "link": "https://www.lacapital.com.ar/la-region/inauguraron-el-jardin-infantes-del-barrio-san-cayetano-villa-constitucion-n10288303.html",
-        "image": "https://media.lacapital.com.ar/p/f459ecc260bc73cb80a98d39ffab4e1d/adjuntos/203/imagenes/103/487/0103487928/1200x675/smart/vcjardin1.jpeg",
-        "summary": "El intendente Jorge Berti destacó la importancia de invertir en la primera infancia y \"garantizar igualdad de oportunidades para todos los niños y niñas\"",
-        "pubDate": "2026-10-24T13:30:00+00:00",
         "approxTime": false
       }
     ]
