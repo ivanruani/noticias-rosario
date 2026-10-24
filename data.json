@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T12:31:02.693529+00:00",
+  "generatedAt": "2026-10-24T13:01:20.627363+00:00",
   "sites": {
     "rosario3": [
       {
@@ -122,7 +122,7 @@
       {
         "source": "Rosario3",
         "title": "Un menor cayó desde varios metros de altura sobre la terraza de un bazar en el microcentro de Rosario",
-        "link": "https://www.rosario3.com/deportes/un-menor-cayo-desde-varios-metros-de-altura-sobre-la-terraza-de-un-bazar-en-el-microcentro-de-rosario-20261023-0077.html",
+        "link": "https://www.rosario3.com/informaciongeneral/un-menor-cayo-desde-varios-metros-de-altura-sobre-la-terraza-de-un-bazar-en-el-microcentro-de-rosario-20261023-0077.html",
         "image": "https://www.rosario3.com/__export/1792799377936/sites/rosario3/img/2026/10/23/rioja_1100.jpg_928314581.jpg",
         "summary": "El chico de 14 años sufrió el accidente este viernes por la tarde en Rioja al 1100. Bomberos Zapadores realizaron un operativo para rescatarlo y trasladarlo de urgencia, en código rojo, al Hospital de Niños",
         "pubDate": "2026-10-23T11:47:00+00:00",
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Docentes universitarios de la UNR profundizan medidas de fuerza con un nuevo paro de semana completa",
+        "link": "https://www.lacapital.com.ar/la-ciudad/docentes-universitarios-la-unr-profundizan-medidas-fuerza-un-nuevo-paro-semana-completa-n10288434.html",
+        "image": "https://media.lacapital.com.ar/p/5c9d4751e73ad254ff74ff8dfbb2d53f/adjuntos/203/imagenes/102/257/0102257857/1200x675/smart/coad-143jpg.jpg",
+        "summary": "El plan de lucha será del miércoles 28 de octubre al martes 3 de noviembre para exigirle al gobierno que cumpla con la ley de financiamiento universitario",
+        "pubDate": "2026-10-24T12:39:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Mataron a balazos a un joven de 20 años y una muchacha fue internada tras el crimen",
@@ -261,15 +270,6 @@
         "title": "Retina inauguró su nueva clínica oftalmológica de última tecnología",
         "link": "https://www.lacapital.com.ar/es-social/retina-inauguro-su-nueva-clinica-oftalmologica-ultima-tecnologia-n10287667.html",
         "image": "https://media.lacapital.com.ar/p/762c784b7673b6387f2b74032cc44a8d/adjuntos/203/imagenes/103/480/0103480905/1200x675/smart/retina-1.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-10-24T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "David Bisbal deslumbró Rosario con la gira Tour Eternos",
-        "link": "https://www.lacapital.com.ar/es-social/david-bisbal-deslumbro-rosario-la-gira-tour-eternos-n10287669.html",
-        "image": "https://media.lacapital.com.ar/p/a39df4739133250a9f9626b149863c76/adjuntos/203/imagenes/103/480/0103480924/1200x675/smart/david-bisbal-13.jpg",
         "summary": "La Capital",
         "pubDate": "2026-10-24T03:00:00+00:00",
         "approxTime": false
