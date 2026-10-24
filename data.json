@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T16:31:02.758953+00:00",
+  "generatedAt": "2026-10-24T17:01:13.284184+00:00",
   "sites": {
     "rosario3": [
       {
@@ -22,19 +22,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "Conmoción en Córdoba por el femicidio de una joven de 28 años en su departamento",
-        "link": "https://www.rosario3.com/informaciongeneral/conmocion-en-cordoba-por-el-femicidio-de-una-joven-de-28-anos-en-su-departamento-20261024-0007.html",
-        "image": "https://www.rosario3.com/__export/1792848009855/sites/rosario3/img/2026/10/24/daniela_villalba_cordoba_femicidio.jpg_1106330350.jpg",
-        "summary": "Daniela Villalba tenía 28 años y fue hallada asesinada a puñaladas en su departamento de barrio Cofico. Creen que la mató un desconocido. El celular de la joven no fue encontrado y los investigadores buscan reconstruir sus últimos contactos",
-        "pubDate": "2026-10-24T11:58:00+00:00",
+        "title": "Festival Bandera 2026: ingreso, mapa del predio y sistema “cashless” para la compra de alimentos y merch",
+        "link": "https://www.rosario3.com/ocio/a-dias-del-festival-bandera-2026-ingreso-mapa-del-predio-y-sistema-cashless-para-la-compra-de-alimentos-y-merch-20261021-0043.html",
+        "image": "https://www.rosario3.com/__export/1792600148652/sites/rosario3/img/2026/10/21/gemini_generated_image_beomr9beomr9beom_version1792600148130.jpg_876629738.jpg",
+        "summary": "El evento se desarrolla desde esta tarde en el Parque Estación Central Córdoba (27 de Febrero y Buenos Aires). La organización dio a conocer la disposición de los escenarios y dónde estará ubicado el ingreso general. También la única modalidad –“sin efectivo”– para adquirir…",
+        "pubDate": "2026-10-21T11:58:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Fuerte explosión en un bar del centro: una persona sufrió quemaduras y estallaron los vidrios",
-        "link": "https://www.rosario3.com/informaciongeneral/fuerte-explosion-en-un-bar-de-rosario-una-persona-sufrio-quemaduras-y-estallaron-los-vidrios-20261024-0008.html",
-        "image": "https://www.rosario3.com/__export/1792847559169/sites/rosario3/img/2026/10/24/whatsapp_image_2026-10-24_at_10_02_24.jpeg_982625323.jpeg",
-        "summary": "El hecho ocurrió este sábado por la mañana en un local ubicado en Balcarce y 3 de Febrero. La onda expansiva rompió los vidrios del frente y la persona herida era atendida por el Sies",
+        "title": "Conmoción en Córdoba por el femicidio de una joven de 28 años en su departamento",
+        "link": "https://www.rosario3.com/informaciongeneral/conmocion-en-cordoba-por-el-femicidio-de-una-joven-de-28-anos-en-su-departamento-20261024-0007.html",
+        "image": "https://www.rosario3.com/__export/1792848009855/sites/rosario3/img/2026/10/24/daniela_villalba_cordoba_femicidio.jpg_1106330350.jpg",
+        "summary": "Daniela Villalba tenía 28 años y fue hallada asesinada a puñaladas en su departamento de barrio Cofico. Creen que la mató un desconocido. El celular de la joven no fue encontrado y los investigadores buscan reconstruir sus últimos contactos",
         "pubDate": "2026-10-24T11:57:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Balacera a la madrugada: dispararon cinco veces contra su casa mientras dormía",
+        "link": "https://www.lacapital.com.ar/policiales/balacera-la-madrugada-dispararon-cinco-veces-contra-su-casa-mientras-dormia-n10288464.html",
+        "image": "https://media.lacapital.com.ar/p/7e64451f490812bc257713c235dfa499/adjuntos/203/imagenes/102/569/0102569601/1200x675/smart/patrullero-nocturno.jpg",
+        "summary": "Un hombre de 38 años denunció que los proyectiles atravesaron una de las ventanas de la vivienda en el barrio Larrea",
+        "pubDate": "2026-10-24T16:40:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Una explosión sacudió a un bar del centro rosarino y una empleada sufrió quemaduras",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/91bbdd1f8bb26372d16e89db83744ecc/adjuntos/203/imagenes/103/484/0103484098/1200x675/smart/congreso-trigo.jpg",
         "summary": "os productores Crea aplican más nitrógeno y fósforo y planifican la nutrición de toda la rotación. En el Congreso Nacional de Trigo, José Andrade mostró qué prácticas ayudan a aprovechar el potencial de cada ambiente",
         "pubDate": "2026-10-24T09:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Newell's y una final anticipada ante San Lorenzo para meterse en el grupo de los ocho",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-y-una-final-anticipada-san-lorenzo-meterse-el-grupo-los-ocho-n10288283.html",
-        "image": "https://media.lacapital.com.ar/p/a45ef541497e3c7c5c0c4c64ec8149db/adjuntos/203/imagenes/103/489/0103489023/1200x675/smart/image-6.jpg",
-        "summary": "El equipo de Frank Kudelka juega un partido clave en el Nuevo Gasómetro ante el rival que quiere sacarlo de la clasificación a octavos. Una final para Newell's",
-        "pubDate": "2026-10-24T09:10:00+00:00",
         "approxTime": false
       }
     ]
