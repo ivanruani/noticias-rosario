@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T20:01:12.843303+00:00",
+  "generatedAt": "2026-10-24T20:31:02.899790+00:00",
   "sites": {
     "rosario3": [
       {
@@ -50,7 +50,7 @@
       {
         "source": "Rosario3",
         "title": "“Cuidar la libertad”: la cooperativa que nació en la cárcel, creció y le da trabajo a 50 personas",
-        "link": "https://www.rosario3.com/informaciongeneral/cuidar-la-libertad-la-cooperativa-que-nacio-en-la-carcel-crecio-y-le-da-trabajo-a-50-personas-20261022-0071.html",
+        "link": "https://www.rosario3.com/especiales/cuidar-la-libertad-la-cooperativa-que-nacio-en-la-carcel-crecio-y-le-da-trabajo-a-50-personas-20261022-0071.html",
         "image": "https://www.rosario3.com/__export/1792704465968/sites/rosario3/img/2026/10/22/dsc04293.jpg_2106848869.jpg",
         "summary": "En 2018, presos de la Unidad 6 se unieron con una certeza: si no creaban sus propios empleos, la reinserción iba a ser muy difícil. Armaron una firma textil con sus familiares y crearon el Frente de Liberados. Sostienen espacios de panificación, herrería, barbería, música y…",
         "pubDate": "2026-10-22T11:55:00+00:00",
@@ -85,11 +85,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Con presencia rosarina, se confirmaron los equipos clasificados a la primera Copa Santa Fe de futsal",
+        "link": "https://www.rosario3.com/deportes/con-presencia-rosarina-se-confirmaron-los-equipos-clasificados-a-la-primera-copa-santa-fe-de-futsal-20261024-0014.html",
+        "image": "https://www.rosario3.com/__export/1792864593651/sites/rosario3/img/2026/10/24/copa_sta_fe_2.jpg_928314580.jpg",
+        "summary": "El certamen provincial se disputará del 30 de octubre al 1 de noviembre en la ciudad capital. El Invencible Santa Fe y el microestadio de Colón albergarán la fase de grupos, mientras que el recinto construido para los Juegos Suramericanos recibirá las semifinales y la gran final",
+        "pubDate": "2026-10-24T11:51:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Es imprescindible que la AFA invierta en tecnología para que mejoren los arbitrajes de la Liga Profesional",
         "link": "https://www.rosario3.com/deportes/es-imprescindible-que-la-afa-invierta-en-tecnologia-para-que-mejoren-los-arbitrajes-de-la-liga-profesional-20261023-0058.html",
         "image": "https://www.rosario3.com/__export/1792783494779/sites/rosario3/img/2026/10/23/arbitro_tecnologxa.jpg_2106848869.jpg",
         "summary": "Existe la promesa de implementar el VAR semiautomático para 2027. Su utilización es impostergable",
-        "pubDate": "2026-10-23T11:51:00+00:00",
+        "pubDate": "2026-10-23T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -98,16 +107,7 @@
         "link": "https://www.rosario3.com/policiales/un-joven-de-20-anos-murio-tras-un-ataque-a-balazos-en-via-honda-una-chica-tambien-resulto-herida-20261023-0080.html",
         "image": "https://www.rosario3.com/__export/1792804799960/sites/rosario3/img/2026/10/23/via_honda.jpg_879139882.jpg",
         "summary": "El hecho ocurrió este viernes por la noche en un pasillo de Cerrillos y Espinosa en el marco de un enfrentamiento. La víctima fue trasladada al Heca, donde falleció cerca de las 21. Una joven de 19 años sufrió una herida de arma de fuego en el abdomen. Vinculan el episodio a un…",
-        "pubDate": "2026-10-23T11:50:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Video: se derrumbó el entrepiso de un bar en Paraná y hay a menos 11 heridos",
-        "link": "https://www.rosario3.com/informaciongeneral/video-se-derrumbo-el-entrepiso-de-un-bar-en-parana-y-hay-a-menos-11-heridos-20261024-0013.html",
-        "image": "https://www.rosario3.com/__export/1792857987442/sites/rosario3/img/2026/10/24/disen-o_sin_ti-tulo_-73-.png_928314581.png",
-        "summary": "El hecho ocurrió este viernes por la noche durante un cumpleaños en un establecimiento ubicado en Córdoba y Alameda de la Federación. Once personas fueron atendidas en el Hospital San Martín y recibieron el alta. La cantidad total de lesionados aún no estaba determinada y se…",
-        "pubDate": "2026-10-24T11:49:00+00:00",
+        "pubDate": "2026-10-23T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "El prólogo del Turismo Carretera en el Juan Manuel Fangio de Rosario fue de Mauricio Lambiris",
+        "link": "https://www.lacapital.com.ar/ovacion/el-prologo-del-turismo-carretera-el-juan-manuel-fangio-rosario-fue-mauricio-lambiris-n10288480.html",
+        "image": "https://media.lacapital.com.ar/p/b0dcec242e6f49eafbc1988e65973eb4/adjuntos/203/imagenes/103/489/0103489788/1200x675/smart/image.jpg",
+        "summary": "El uruguayo logró la pole y sueña con resurgir en Rosario, en una gran clasificación con gran presencia santafesina. Domingo de locos del Turismo Carretera",
+        "pubDate": "2026-10-24T20:04:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Por qué revisar los dispositivos vinculados en WhatsApp es esencial para la seguridad de la cuenta",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/f459ecc260bc73cb80a98d39ffab4e1d/adjuntos/203/imagenes/103/487/0103487928/1200x675/smart/vcjardin1.jpeg",
         "summary": "El intendente Jorge Berti destacó la importancia de invertir en la primera infancia y \"garantizar igualdad de oportunidades para todos los niños y niñas\"",
         "pubDate": "2026-10-24T13:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "\"El avance de las obras de la Quinta de Funes es estratégico en la región\"",
-        "link": "https://www.lacapital.com.ar/la-region/el-avance-las-obras-la-quinta-funes-es-estrategico-la-region-n10288364.html",
-        "image": "https://media.lacapital.com.ar/p/1d0da1c20db49d86e80f2019d5c30b54/adjuntos/203/imagenes/103/488/0103488616/1200x675/smart/quinta-funes-sitio-memoria-1jpeg.jpg",
-        "summary": "“Los trabajos para transformar el excentro clandestino de la dictadura en un sitio de memoria culminan la primera etapa” informó el dirigente la Mesa Promotora Quinta de Funes Lautaro D’Anna",
-        "pubDate": "2026-10-24T13:00:00+00:00",
         "approxTime": false
       }
     ]
