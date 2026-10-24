@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T16:01:18.285498+00:00",
+  "generatedAt": "2026-10-24T16:31:02.758953+00:00",
   "sites": {
     "rosario3": [
       {
@@ -97,8 +97,17 @@
         "title": "Un joven de 20 años murió tras un ataque a balazos en Vía Honda: una chica también resultó herida",
         "link": "https://www.rosario3.com/policiales/un-joven-de-20-anos-murio-tras-un-ataque-a-balazos-en-via-honda-una-chica-tambien-resulto-herida-20261023-0080.html",
         "image": "https://www.rosario3.com/__export/1792804799960/sites/rosario3/img/2026/10/23/via_honda.jpg_879139882.jpg",
-        "summary": "El hecho ocurrió este viernes por la noche en un pasillo de Cerrillos y Espinosa, tras un incidente entre varias personas. La víctima fue trasladada al Heca, donde falleció cerca de las 21. Una joven de 19 años sufrió una herida de arma de fuego en el abdomen",
+        "summary": "El hecho ocurrió este viernes por la noche en un pasillo de Cerrillos y Espinosa en el marco de un enfrentamiento. La víctima fue trasladada al Heca, donde falleció cerca de las 21. Una joven de 19 años sufrió una herida de arma de fuego en el abdomen. Vinculan el episodio a un…",
         "pubDate": "2026-10-23T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Video: se derrumbó el entrepiso de un bar en Paraná y hay a menos 11 heridos",
+        "link": "https://www.rosario3.com/informaciongeneral/video-se-derrumbo-el-entrepiso-de-un-bar-en-parana-y-hay-a-menos-11-heridos-20261024-0013.html",
+        "image": "https://www.rosario3.com/__export/1792857987442/sites/rosario3/img/2026/10/24/disen-o_sin_ti-tulo_-73-.png_928314581.png",
+        "summary": "El hecho ocurrió este viernes por la noche durante un cumpleaños en un establecimiento ubicado en Córdoba y Alameda de la Federación. Once personas fueron atendidas en el Hospital San Martín y recibieron el alta. La cantidad total de lesionados aún no estaba determinada y se…",
+        "pubDate": "2026-10-24T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -107,7 +116,7 @@
         "link": "https://www.rosario3.com/deportes/mundial-sub-17-de-futbol-femenino-la-seleccion-argentina-derroto-5-1-a-marruecos-y-se-clasifico-a-octavos-20261024-0004.html",
         "image": "https://www.rosario3.com/__export/1792843559923/sites/rosario3/img/2026/10/24/sub_17_-1-.jpg_928314581.jpg",
         "summary": "El próximo compromiso de las dirigidas por Meloni será el miércoles 28 de octubre, ante el segundo clasificado del Grupo C. Las posiciones de ese grupo se definirán este sábado a las 12, instancia en la que Argentina conocerá al rival que enfrentará en los octavos",
-        "pubDate": "2026-10-24T11:49:00+00:00",
+        "pubDate": "2026-10-24T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +125,7 @@
         "link": "https://www.rosario3.com/deportes/todos-los-datos-previos-al-crucial-choque-entre-el-canalla-y-el-globo-en-el-gigante-20261023-0027.html",
         "image": "https://www.rosario3.com/__export/1792761825369/sites/rosario3/img/2026/08/14/ibarra-jpg_-1-.jpeg_1725580757.jpeg",
         "summary": "Los auriazules, que buscan seguir peleando la tabla anual, reciben al Globo, rival con el que arrastran una racha muy adversa. La reserva ganó y pelea arriba",
-        "pubDate": "2026-10-23T11:48:00+00:00",
+        "pubDate": "2026-10-23T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,15 +134,6 @@
         "link": "https://www.rosario3.com/deportes/todos-los-datos-previos-a-un-duelo-clave-entre-el-ciclon-y-la-lepra-en-el-nuevo-gasometro-20261023-0021.html",
         "image": "https://www.rosario3.com/__export/1788727320677/sites/rosario3/img/2026/09/06/kudelka_-1-.jpg_506286608.jpg",
         "summary": "Los rojinegros visitan al Ciclón, rival directo en la lucha por la clasificación y con el que arrastran una muy buena racha. La reserva leprosa volvió a ganar",
-        "pubDate": "2026-10-23T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El Torneo del Litoral define sus cruces de semifinales y las juveniles tendrán un fin de semana decisivo",
-        "link": "https://www.rosario3.com/deportes/el-torneo-del-litoral-define-sus-cruces-de-semifinales-y-las-juveniles-tendran-un-fin-de-semana-decisivo-20261023-0081.html",
-        "image": "https://www.rosario3.com/__export/1792807524493/sites/rosario3/img/2026/10/23/los_4.jpeg_928314580.jpeg",
-        "summary": "Este sábado 24 de octubre se disputa la 18ª fecha del Top 10 para ordenar las llaves hacia el título, mientras que la Copa de Oro de Segunda División busca a su último semifinalista. Además, se definen los semifinalistas del TRL M19, el M16 rosarino busca campeón y Rosario se…",
         "pubDate": "2026-10-23T11:46:00+00:00",
         "approxTime": true
       }
