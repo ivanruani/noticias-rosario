@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T09:31:01.655203+00:00",
+  "generatedAt": "2026-10-24T10:01:12.751939+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Violencia digital, una problemática de época que alcanza a las mujeres en un 93 por ciento de los casos",
+        "link": "https://www.lacapital.com.ar/la-ciudad/violencia-digital-una-problematica-epoca-que-alcanza-las-mujeres-un-93-ciento-los-casos-n10288353.html",
+        "image": "https://media.lacapital.com.ar/p/c94c5f74c08c5c507723476d291384dc/adjuntos/203/imagenes/103/050/0103050988/1200x675/smart/violencia-digital.jpg",
+        "summary": "El hecho denunciado en el colegio Verbo Encarnado sobre difusión de imágenes con IA encendió las alarmas de una problemática compleja",
+        "pubDate": "2026-10-24T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Trigo: las decisiones que permiten un 20% más de rendimiento que el promedio nacional",
         "link": "https://www.lacapital.com.ar/agro/trigo-las-decisiones-que-permiten-un-20-mas-rendimiento-que-el-promedio-nacional-n10287951.html",
         "image": "https://media.lacapital.com.ar/p/91bbdd1f8bb26372d16e89db83744ecc/adjuntos/203/imagenes/103/484/0103484098/1200x675/smart/congreso-trigo.jpg",
@@ -159,19 +168,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Impulsan Fuerza Suma, una usina de ideas para debatir el futuro de la Argentina",
-        "link": "https://www.lacapital.com.ar/politica/impulsan-fuerza-suma-una-usina-ideas-debatir-el-futuro-la-argentina-n10288342.html",
-        "image": "https://media.lacapital.com.ar/p/65399795ac4a7719106c1e0f220a9f8f/adjuntos/203/imagenes/103/488/0103488228/1200x675/smart/image.png",
-        "summary": "Osvaldo Cornide, presidente honorario de la Came, promueve un espacio plural que busca construir un plan de desarrollo económico y social, exigiendo soluciones a la dirigencia política",
+        "title": "Cartelera económica: congreso de agronegocios en la Bolsa",
+        "link": "https://www.lacapital.com.ar/economia/cartelera-economica-congreso-agronegocios-la-bolsa-n10288376.html",
+        "image": "https://media.lacapital.com.ar/p/5d2e4cf637d977359315dc2f528eda30/adjuntos/203/imagenes/103/488/0103488696/1200x675/smart/agroeducacion51.jpg",
+        "summary": "El próximo 30 de octubre se realizará una nueva edición del clásico encuentro de Agroeducación. Los eventos económicos que se vienen. El lunes cierra la inscripción para el techcamp de \"Mentes transformadoras\". El jueves tendrá lugar la ronda de negocios Rigi en La Fluvial y la…",
         "pubDate": "2026-10-24T09:05:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Cartelera económica: congreso de agronegocios en la Bolsa",
-        "link": "https://www.lacapital.com.ar/economia/cartelera-economica-congreso-agronegocios-la-bolsa-n10288376.html",
-        "image": "https://media.lacapital.com.ar/p/5d2e4cf637d977359315dc2f528eda30/adjuntos/203/imagenes/103/488/0103488696/1200x675/smart/agroeducacion51.jpg",
-        "summary": "El próximo 30 de octubre se realizará una nueva edición del clásico encuentro de Agroeducación. Los eventos económicos que se vienen. El lunes cierra la inscripción para el techcamp de \"Mentes transformadoras\". El jueves tendrá lugar la ronda de negocios Rigi en La Fluvial y la…",
+        "title": "Impulsan Fuerza Suma, una usina de ideas para debatir el futuro de la Argentina",
+        "link": "https://www.lacapital.com.ar/politica/impulsan-fuerza-suma-una-usina-ideas-debatir-el-futuro-la-argentina-n10288342.html",
+        "image": "https://media.lacapital.com.ar/p/65399795ac4a7719106c1e0f220a9f8f/adjuntos/203/imagenes/103/488/0103488228/1200x675/smart/image.png",
+        "summary": "Osvaldo Cornide, presidente honorario de la Came, promueve un espacio plural que busca construir un plan de desarrollo económico y social, exigiendo soluciones a la dirigencia política",
         "pubDate": "2026-10-24T09:05:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/16069c869948ee7fb3c099b53a960806/adjuntos/203/imagenes/103/488/0103488479/ibalv.jpg",
         "summary": "Almirón incluyó a Franco Ibarra para el crucial choque ante Huracán y el esquema Canalla dependerá de su inclusión o no en la nómina final",
         "pubDate": "2026-10-23T23:47:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El riesgo país cierra otra semana con tendencia alcista",
-        "link": "https://www.lacapital.com.ar/economia/el-riesgo-pais-cierra-otra-semana-tendencia-alcista-n10288399.html",
-        "image": "https://media.lacapital.com.ar/p/65c7a926cb3625fd864c4ea5b4c808b9/adjuntos/203/imagenes/101/619/0101619751/2024-05-14-bcrajpg.jpg",
-        "summary": "Los títulos de deuda volvieron a operar en rojo. Además, el Banco Central desaceleró el ritmo de compras y el dólar mayorista subió por sexta jornada consecutiva",
-        "pubDate": "2026-10-23T23:42:00+00:00",
         "approxTime": false
       }
     ]
