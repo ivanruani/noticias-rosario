@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T00:35:19.237829+00:00",
+  "generatedAt": "2026-10-24T01:01:07.841432+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Dos campeones del Turismo Carretera se brindaron con el público en el centro de Rosario",
+        "link": "https://www.lacapital.com.ar/ovacion/dos-campeones-del-turismo-carretera-se-brindaron-el-publico-el-centro-rosario-n10288412.html",
+        "image": "https://media.lacapital.com.ar/p/8a10999462ad77261608c9f331af2b9a/adjuntos/203/imagenes/103/489/0103489025/1200x675/smart/image-7.jpg",
+        "summary": "Mariano Werner y Norberto Fontana hicieron las delicias del público tuerca en la estación de servicio de Córdoba y bulevar Oroño. Rosario respiró Turismo Carretera",
+        "pubDate": "2026-10-24T00:52:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Romina Diez celebró el sobreseimiento de Javier y Karina Milei en la causa $Libra",
+        "link": "https://www.lacapital.com.ar/politica/romina-diez-celebro-el-sobreseimiento-javier-y-karina-milei-la-causa-libra-n10288414.html",
+        "image": "https://media.lacapital.com.ar/p/6c0ac3d609bb3a4c895495af0c4176cd/adjuntos/203/imagenes/103/475/0103475510/1200x675/smart/image.png",
+        "summary": "\"Ninguna mentira puede destruir la dignidad de las personas de bien\", sostuvo la diputada nacional de La Libertad Avanza",
+        "pubDate": "2026-10-24T00:43:22+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Central: la lista de concentrados llegó con el regreso de uno de los pilares del equipo",
         "link": "https://www.lacapital.com.ar/ovacion/central-la-lista-concentrados-llego-el-regreso-uno-los-pilares-del-equipo-n10288359.html",
         "image": "https://media.lacapital.com.ar/p/16069c869948ee7fb3c099b53a960806/adjuntos/203/imagenes/103/488/0103488479/ibalv.jpg",
@@ -249,29 +267,11 @@
       },
       {
         "source": "La Capital",
-        "title": "Concesionario de estreno: Iveco pone primera en Rosario con la apertura de Navicam Litoral",
-        "link": "https://www.lacapital.com.ar/negocios/concesionario-estreno-iveco-pone-primera-rosario-la-apertura-navicam-litoral-n10288321.html",
-        "image": "https://media.lacapital.com.ar/p/7808954d2083182a184acc3cdba9dcdb/adjuntos/203/imagenes/103/488/0103488363/daniel-y-nicolas-picone.jpg",
-        "summary": "Con esta inauguración, la familia Picone amplía su presencia en Santa Fe y Entre Ríos. Del evento participaron directivos de Iveco Argentina y Latam, junto al intendente Pablo Javkin",
-        "pubDate": "2026-10-23T20:29:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "Violencia digital en el Verbo Encarnado: \"Trabajamos de manera seria y prudente\"",
         "link": "https://www.lacapital.com.ar/la-ciudad/violencia-digital-el-verbo-encarnado-trabajamos-manera-seria-y-prudente-n10288341.html",
         "image": "https://media.lacapital.com.ar/p/5bbeaf9930408298ea83f970f5bf5520/adjuntos/203/imagenes/103/488/0103488229/1200x675/smart/verbo-encarnado-2310.jpg",
         "summary": "El colegio rosarino recibió denuncias de al menos dos familias por fotos manipuladas de menores de edad y mantiene una investigación para determinar damnificados y responsables",
         "pubDate": "2026-10-23T20:29:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Causa $Libra: la Justicia sobreseyó a Javier Milei y a su hermana Karina",
-        "link": "https://www.lacapital.com.ar/politica/causa-libra-la-justicia-sobreseyo-javier-milei-y-su-hermana-karina-n10288361.html",
-        "image": "https://media.lacapital.com.ar/p/2923f8a517b2613a47ccada7543be636/adjuntos/203/imagenes/103/488/0103488501/1200x675/smart/milei-hayden-davis-libra.jpg",
-        "summary": "El magistrado Martínez de Giorgi aceptó el pedido del fiscal Taiano. La medida alcanza a otros nueve investigados y todavía puede ser apelada",
-        "pubDate": "2026-10-23T20:06:00+00:00",
         "approxTime": false
       }
     ]
