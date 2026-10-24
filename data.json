@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T17:30:59.986160+00:00",
+  "generatedAt": "2026-10-24T18:01:08.519340+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Hallaron un cuerpo en el río Paraná, a la altura de una guardería de Granadero Baigorria",
+        "link": "https://www.lacapital.com.ar/policiales/hallaron-un-cuerpo-el-rio-parana-la-altura-una-guarderia-granadero-baigorria-n10288466.html",
+        "image": "https://media.lacapital.com.ar/p/601810ff44e539c1b8def17ecf71363f/adjuntos/203/imagenes/004/941/0004941035/1200x675/smart/rescate-agentes-prefectura-naval-y-la-policia-sacaron-el-cuerpo-gerardo-la-altura-la-zona-franca-bolivia.jpg",
+        "summary": "El procedimiento fue llevado adelante por efectivos de Prefectura Naval. Se le realizará una autopsia en el Instituto Médico Legal para determinar su identidad",
+        "pubDate": "2026-10-24T17:29:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Las lluvias y la amplitud térmica arrasaron las poblaciones de chicharritas en todo el país",
         "link": "https://www.lacapital.com.ar/agro/las-lluvias-y-la-amplitud-termica-arrasaron-las-poblaciones-chicharritas-todo-el-pais-n10287925.html",
         "image": "https://media.lacapital.com.ar/p/0f7702450047e78470b4463a23dd5a7d/adjuntos/203/imagenes/027/598/0027598711/1200x675/451x113:471x133/agro_08_01_lc_68142885__14-11-2019__0x0jpg.jpg",
@@ -231,15 +240,6 @@
       },
       {
         "source": "La Capital",
-        "title": "Los Nocheros en Rosario: \"Las gargantas están gastadas, pero son sonadoras\"",
-        "link": "https://www.lacapital.com.ar/zoom/los-nocheros-rosario-las-gargantas-estan-gastadas-pero-son-sonadoras-n10288388.html",
-        "image": "https://media.lacapital.com.ar/p/d26d3d321bfc754660cb8180baeb1480/adjuntos/203/imagenes/103/488/0103488816/1200x675/smart/image-2026-10-23t192722569.png",
-        "summary": "El grupo salteño llega este sábado a la ciudad con “Los Nocheros, 40 años. El show”, un recorrido por las canciones que marcaron su historia",
-        "pubDate": "2026-10-24T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "El río, la cultura y los sabores ponen a Rosario en el mapa turístico mundial",
         "link": "https://www.lacapital.com.ar/turismo/el-rio-la-cultura-y-los-sabores-ponen-rosario-el-mapa-turistico-mundial-n10288189.html",
         "image": "https://media.lacapital.com.ar/p/95d08a84cc6f29741da27d933c8d12ec/adjuntos/203/imagenes/103/488/0103488518/rosario-riverside-park-photo.png",
@@ -267,11 +267,11 @@
       },
       {
         "source": "La Capital",
-        "title": "Violencia digital, una problemática de época que alcanza a las mujeres en un 93 por ciento de los casos",
-        "link": "https://www.lacapital.com.ar/la-ciudad/violencia-digital-una-problematica-epoca-que-alcanza-las-mujeres-un-93-ciento-los-casos-n10288353.html",
-        "image": "https://media.lacapital.com.ar/p/c94c5f74c08c5c507723476d291384dc/adjuntos/203/imagenes/103/050/0103050988/1200x675/smart/violencia-digital.jpg",
-        "summary": "El hecho denunciado en el colegio Verbo Encarnado sobre difusión de imágenes con IA encendió las alarmas de una problemática compleja",
-        "pubDate": "2026-10-24T09:30:00+00:00",
+        "title": "Los Nocheros en Rosario: \"Las gargantas están gastadas, pero son sonadoras\"",
+        "link": "https://www.lacapital.com.ar/zoom/los-nocheros-rosario-las-gargantas-estan-gastadas-pero-son-sonadoras-n10288388.html",
+        "image": "https://media.lacapital.com.ar/p/d26d3d321bfc754660cb8180baeb1480/adjuntos/203/imagenes/103/488/0103488816/1200x675/smart/image-2026-10-23t192722569.png",
+        "summary": "El grupo salteño llega este sábado a la ciudad con “Los Nocheros, 40 años. El show”, un recorrido por las canciones que marcaron su historia",
+        "pubDate": "2026-10-24T10:00:00+00:00",
         "approxTime": false
       }
     ]
