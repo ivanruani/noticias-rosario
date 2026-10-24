@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T18:30:57.773298+00:00",
+  "generatedAt": "2026-10-24T19:01:11.691012+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Franco Colapinto se dedicó en la última práctica de Austin a ponerse a punto para la carrera",
+        "link": "https://www.lacapital.com.ar/formula-1/franco-colapinto-se-dedico-la-ultima-practica-austin-ponerse-punto-la-carrera-n10288417.html",
+        "image": "https://media.lacapital.com.ar/p/ea490ea9819d8ca38ead8253005316c8/adjuntos/203/imagenes/103/489/0103489052/1200x675/smart/image-8.jpg",
+        "summary": "Si bien hizo un solo intento de simulación de clasificación, Franco Colapinto fue el que más giró sabiendo que penaliza. A las 18, clasificación en Austin",
+        "pubDate": "2026-10-24T18:31:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "En Netflix, un drama romántico de 2012 se convirtió en una de las películas más vistas",
         "link": "https://www.lacapital.com.ar/zoom/en-netflix-un-drama-romantico-2012-se-convirtio-una-las-peliculas-mas-vistas-n10288334.html",
         "image": "https://media.lacapital.com.ar/p/9224b392fb118df4a10c77e85fbd97af/adjuntos/203/imagenes/103/488/0103488214/1200x675/smart/image-18.png",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/c4369e38b13edca0bc05f9b51e2f77c2/adjuntos/203/imagenes/103/487/0103487842/1200x675/smart/octubrerosa-san-martin1.jpeg",
         "summary": "El senador provincial Esteban Motta expresó su compromiso para brindar accesoa las mujeres del departamento San Martín a los sistemas de diagnóstico",
         "pubDate": "2026-10-24T12:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Qué ver en plataformas de streaming este fin de semana",
-        "link": "https://www.lacapital.com.ar/zoom/que-ver-plataformas-streaming-este-fin-semana-n10288316.html",
-        "image": "https://media.lacapital.com.ar/p/bf01f40d79fb28baaa6755c4faf25f35/adjuntos/203/imagenes/103/488/0103488005/1200x675/smart/image-17.png",
-        "summary": "Opciones de drama, acción y suspenso para disfrutar en las distintas plataformas de streaming",
-        "pubDate": "2026-10-24T10:05:00+00:00",
         "approxTime": false
       }
     ]
