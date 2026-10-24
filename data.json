@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-24T19:01:11.691012+00:00",
+  "generatedAt": "2026-10-24T19:31:03.619444+00:00",
   "sites": {
     "rosario3": [
       {
         "source": "Rosario3",
-        "title": "Ex productor bolichero de Rosario, imputado por integrar red narco con contactos en cuatro provincias",
+        "title": "Exproductor bolichero de Rosario, imputado por integrar red narco con contactos en cuatro provincias",
         "link": "https://www.rosario3.com/policiales/ex-productor-bolichero-de-rosario-imputado-por-integrar-red-narco-con-contactos-en-cuatro-provincias-20261024-0012.html",
         "image": "https://www.rosario3.com/__export/1792857715329/sites/rosario3/img/2026/09/18/tribunales_federales_rosario.jpg_1853120996.jpg",
         "summary": "La investigación se inició con el peritaje del celular de un dealer rosarino detenido con 40 kilos de marihuana en febrero de 2025. Los fiscales ubicaron a Pablo Volpe, exsocio de la firma que explotaba Punta Stage, como un punto nodal de una trama con conexiones en Rosario…",
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El fabricante de Fiat frena parte de la producción en Córdoba tras anticipar un posible cierre de plantas",
+        "link": "https://www.lacapital.com.ar/economia/el-fabricante-fiat-frena-parte-la-produccion-cordoba-anticipar-un-posible-cierre-plantas-n10288478.html",
+        "image": "https://media.lacapital.com.ar/p/bed6161c59d512cfb966e7cc03d5e614/adjuntos/203/imagenes/103/489/0103489786/1200x675/smart/fabrica-fiat-cordoba.png",
+        "summary": "La automotriz Stellantis dispuso una suspensión en las tareas de fabricación del modelo Titano de la marca, además de la RAM Dakota, por baja demanda",
+        "pubDate": "2026-10-24T19:16:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Franco Colapinto se dedicó en la última práctica de Austin a ponerse a punto para la carrera",
         "link": "https://www.lacapital.com.ar/formula-1/franco-colapinto-se-dedico-la-ultima-practica-austin-ponerse-punto-la-carrera-n10288417.html",
         "image": "https://media.lacapital.com.ar/p/ea490ea9819d8ca38ead8253005316c8/adjuntos/203/imagenes/103/489/0103489052/1200x675/smart/image-8.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/5ce4f446d91d9da177738fdeaf33a06c/adjuntos/203/imagenes/101/944/0101944478/1200x675/smart/hecajpg.jpg",
         "summary": "Matías Gálvez falleció a la noche por un disparo en el abdomen. Lo atacaron en Vía Honda durante una disputa entre varias personas",
         "pubDate": "2026-10-24T12:02:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Octubre rosa: la importancia de generar las condiciones para que las mujeres accedan a los estudios",
-        "link": "https://www.lacapital.com.ar/la-region/octubre-rosa-la-importancia-generar-las-condiciones-que-las-mujeres-accedan-los-estudios-n10288295.html",
-        "image": "https://media.lacapital.com.ar/p/c4369e38b13edca0bc05f9b51e2f77c2/adjuntos/203/imagenes/103/487/0103487842/1200x675/smart/octubrerosa-san-martin1.jpeg",
-        "summary": "El senador provincial Esteban Motta expresó su compromiso para brindar accesoa las mujeres del departamento San Martín a los sistemas de diagnóstico",
-        "pubDate": "2026-10-24T12:00:00+00:00",
         "approxTime": false
       }
     ]
