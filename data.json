@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-24T21:30:59.911364+00:00",
+  "generatedAt": "2026-10-24T22:01:14.370979+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Con un doble cinco de la casa, Newell’s visita a San Lorenzo en un duelo clave para acercarse a los playoffs",
+        "link": "https://www.rosario3.com/deportes/newells-visita-a-san-lorenzo-en-un-duelo-clave-para-acercarse-a-los-playoffs-del-torneo-clausura-20261023-0067.html",
+        "image": "https://www.rosario3.com/__export/1792450666547/sites/rosario3/img/2026/10/19/gomez_mattar_newells_cc.jpg_506286608.jpg",
+        "summary": "La Lepra juega este sábado desde las 19.15 en el Nuevo Gasómetro, por la fecha 14 del torneo. El equipo de Frank Kudelka viene de ganarle 2-1 a Central Córdoba y buscará sostenerse en la zona de clasificación. El Ciclón, por su parte, acumula dos triunfos consecutivos y quiere…",
+        "pubDate": "2026-10-23T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Hallaron un cuerpo en el río Paraná, a la altura de una guardería náutica de Granadero Baigorria",
         "link": "https://www.rosario3.com/informaciongeneral/hallaron-un-cuerpo-en-el-rio-parana-a-la-altura-de-una-guarderia-nautica-de-granadero-baigorria-20261024-0017.html",
         "image": "https://www.rosario3.com/__export/1792871613233/sites/rosario3/img/2026/10/24/guarderia.jpg_506286608.jpg",
         "summary": "Ocurrió este sábado por la mañana frente a la Guardería Náutica Tifón. El cadáver fue trasladado al Instituto Médico Legal de Rosario, donde se realizará la autopsia para establecer tanto la identidad como las circunstancias del fallecimiento",
-        "pubDate": "2026-10-24T12:00:00+00:00",
+        "pubDate": "2026-10-24T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/policiales/ex-productor-bolichero-de-rosario-imputado-por-integrar-red-narco-con-contactos-en-cuatro-provincias-20261024-0012.html",
         "image": "https://www.rosario3.com/__export/1792857715329/sites/rosario3/img/2026/09/18/tribunales_federales_rosario.jpg_1853120996.jpg",
         "summary": "La investigación se inició con el peritaje del celular de un dealer rosarino detenido con 40 kilos de marihuana en febrero de 2025. Los fiscales ubicaron a Pablo Volpe, exsocio de la firma que explotaba Punta Stage, como un punto nodal de una trama con conexiones en Rosario…",
-        "pubDate": "2026-10-24T11:59:00+00:00",
+        "pubDate": "2026-10-24T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/habra-un-corte-de-agua-en-rosario-y-villa-gobernador-galvez-durante-la-madrugada-del-domingo-20261024-0019.html",
         "image": "https://www.rosario3.com/__export/1792874583800/sites/rosario3/img/2026/10/24/aguas_arroyitas.jpg_928314580.jpg",
         "summary": "La prestación de agua potable sufrirá una suspensión temporal entre la 1 y las 4. La empresa prestadora solicita un consumo responsable a los usuarios que dispongan de reservas domiciliarias",
-        "pubDate": "2026-10-24T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Charlas de Mercado: corredores y acopios le ponen el hombro a la soja con certificación ambiental que exige Europa",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/charlas-de-mercado-corredores-y-acopios-le-ponen-el-hombro-a-la-soja-con-certificacion-ambiental-que-exige-europa-20261024-0011.html",
-        "image": "https://www.rosario3.com/__export/1792861320175/sites/rosario3/img/2026/10/24/sojitin_version1792861319734.jpg_1737168140.jpg",
-        "summary": "Los operadores de la Bolsa de Rosario decidieron acompañar la difusión y uso de la plataforma Visec, que fue armada y pagada por los exploradores para instrumentar la trazabilidad reclamada por los europeos. Y la Federación de Acopiadores se hace cargo de la certificación de las…",
         "pubDate": "2026-10-24T11:57:00+00:00",
         "approxTime": true
       },
@@ -58,20 +58,20 @@
       },
       {
         "source": "Rosario3",
-        "title": "Festival Bandera 2026: ingreso, mapa del predio y sistema “cashless” para la compra de alimentos y merch",
-        "link": "https://www.rosario3.com/ocio/a-dias-del-festival-bandera-2026-ingreso-mapa-del-predio-y-sistema-cashless-para-la-compra-de-alimentos-y-merch-20261021-0043.html",
-        "image": "https://www.rosario3.com/__export/1792600148652/sites/rosario3/img/2026/10/21/gemini_generated_image_beomr9beomr9beom_version1792600148130.jpg_876629738.jpg",
-        "summary": "El evento se desarrolla desde esta tarde en el Parque Estación Central Córdoba (27 de Febrero y Buenos Aires). La organización dio a conocer la disposición de los escenarios y dónde estará ubicado el ingreso general. También la única modalidad –“sin efectivo”– para adquirir…",
-        "pubDate": "2026-10-21T11:54:00+00:00",
+        "title": "Charlas de Mercado: corredores y acopios le ponen el hombro a la soja con certificación ambiental que exige Europa",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/charlas-de-mercado-corredores-y-acopios-le-ponen-el-hombro-a-la-soja-con-certificacion-ambiental-que-exige-europa-20261024-0011.html",
+        "image": "https://www.rosario3.com/__export/1792861320175/sites/rosario3/img/2026/10/24/sojitin_version1792861319734.jpg_1737168140.jpg",
+        "summary": "Los operadores de la Bolsa de Rosario decidieron acompañar la difusión y uso de la plataforma Visec, que fue armada y pagada por los exploradores para instrumentar la trazabilidad reclamada por los europeos. Y la Federación de Acopiadores se hace cargo de la certificación de las…",
+        "pubDate": "2026-10-24T11:54:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Con un doble cinco de la casa, Newell’s visita a San Lorenzo en un duelo clave para acercarse a los playoffs",
-        "link": "https://www.rosario3.com/deportes/newells-visita-a-san-lorenzo-en-un-duelo-clave-para-acercarse-a-los-playoffs-del-torneo-clausura-20261023-0067.html",
-        "image": "https://www.rosario3.com/__export/1792450666547/sites/rosario3/img/2026/10/19/gomez_mattar_newells_cc.jpg_506286608.jpg",
-        "summary": "La Lepra juega este sábado desde las 19.15 en el Nuevo Gasómetro, por la fecha 14 del torneo. El equipo de Frank Kudelka viene de ganarle 2-1 a Central Córdoba y buscará sostenerse en la zona de clasificación. El Ciclón, por su parte, acumula dos triunfos consecutivos y quiere…",
-        "pubDate": "2026-10-23T11:53:00+00:00",
+        "title": "Turismo Carretera: un piloto uruguayo voló e hizo la pole en Rosario",
+        "link": "https://www.rosario3.com/deportes/turismo-carretera-un-piloto-uruguayo-volo-e-hizo-la-pole-en-rosario-20261024-0020.html",
+        "image": "https://www.rosario3.com/__export/1792875308935/sites/rosario3/img/2026/10/24/lambiris.jpg_506286608.jpg",
+        "summary": "Mauricio Lambiris (Ford Mustang) marcó un tiempo récord para el circuito de 1:35.092 y sumó dos puntos para el campeonato. Segundo quedó Matías Rossi (Toyota Camry) y tercero Otto Fritzler (Mercedes Benz)",
+        "pubDate": "2026-10-24T11:53:00+00:00",
         "approxTime": true
       },
       {
@@ -85,11 +85,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Turismo Carretera: un piloto uruguayo voló e hizo la pole en Rosario",
-        "link": "https://www.rosario3.com/deportes/turismo-carretera-un-piloto-uruguayo-volo-e-hizo-la-pole-en-rosario-20261024-0020.html",
-        "image": "https://www.rosario3.com/__export/1792875308935/sites/rosario3/img/2026/10/24/lambiris.jpg_506286608.jpg",
-        "summary": "Mauricio Lambiris (Ford Mustang) marcó un tiempo récord para el circuito de 1:35.092 y sumó dos puntos para el campeonato. Segundo quedó Matías Rossi (Toyota Camry) y tercero Otto Fritzler (Mercedes Benz)",
-        "pubDate": "2026-10-24T11:51:00+00:00",
+        "title": "Festival Bandera 2026: ingreso, mapa del predio y sistema “cashless” para la compra de alimentos y merch",
+        "link": "https://www.rosario3.com/ocio/a-dias-del-festival-bandera-2026-ingreso-mapa-del-predio-y-sistema-cashless-para-la-compra-de-alimentos-y-merch-20261021-0043.html",
+        "image": "https://www.rosario3.com/__export/1792600148652/sites/rosario3/img/2026/10/21/gemini_generated_image_beomr9beomr9beom_version1792600148130.jpg_876629738.jpg",
+        "summary": "El evento se desarrolla desde esta tarde en el Parque Estación Central Córdoba (27 de Febrero y Buenos Aires). La organización dio a conocer la disposición de los escenarios y dónde estará ubicado el ingreso general. También la única modalidad –“sin efectivo”– para adquirir…",
+        "pubDate": "2026-10-21T11:51:00+00:00",
         "approxTime": true
       },
       {
@@ -112,19 +112,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "Conmoción en Córdoba por el femicidio de una joven de 28 años en su departamento",
-        "link": "https://www.rosario3.com/informaciongeneral/conmocion-en-cordoba-por-el-femicidio-de-una-joven-de-28-anos-en-su-departamento-20261024-0007.html",
-        "image": "https://www.rosario3.com/__export/1792848009855/sites/rosario3/img/2026/10/24/daniela_villalba_cordoba_femicidio.jpg_1106330350.jpg",
-        "summary": "Daniela Villalba tenía 28 años y fue hallada asesinada a puñaladas en su departamento de barrio Cofico. Creen que la mató un desconocido. El celular de la joven no fue encontrado y los investigadores buscan reconstruir sus últimos contactos",
+        "title": "El aeropuerto de Ezeiza reduce su capacidad operativa por obras de remodelación en las pistas: Rosario funciona como alternativa",
+        "link": "https://www.rosario3.com/informaciongeneral/el-aeropuerto-de-ezeiza-reduce-su-capacidad-operativa-por-obras-de-remodelacion-en-las-pistas-rosario-funciona-como-alternativa-20261024-0021.html",
+        "image": "https://www.rosario3.com/__export/1792877456222/sites/rosario3/img/2026/09/02/aeropuerto_jpg_760710429_1.jpg_1221028662.jpg",
+        "summary": "La terminal mantendrá una sola pista habilitada con extensión reducida entre el 25 de octubre y el 11 de noviembre. La terminal aérea rosarina hace de base para recibir vuelos de algunas aerolíneas",
         "pubDate": "2026-10-24T11:48:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Fuerte explosión en un bar del centro: una persona sufrió quemaduras y estallaron los vidrios",
-        "link": "https://www.rosario3.com/informaciongeneral/fuerte-explosion-en-un-bar-de-rosario-una-persona-sufrio-quemaduras-y-estallaron-los-vidrios-20261024-0008.html",
-        "image": "https://www.rosario3.com/__export/1792847559169/sites/rosario3/img/2026/10/24/whatsapp_image_2026-10-24_at_10_02_24.jpeg_982625323.jpeg",
-        "summary": "El hecho ocurrió este sábado por la mañana en un local ubicado en Balcarce y 3 de Febrero. La onda expansiva rompió los vidrios del frente y la persona herida era atendida por el Sies",
+        "title": "Detuvieron en el norte de Santa Fe a un taiwanés de 80 años por una causa de trata laboral",
+        "link": "https://www.rosario3.com/informaciongeneral/detuvieron-en-el-norte-de-santa-fe-a-un-taiwanes-de-80-anos-por-una-causa-de-trata-laboral-20261024-0015.html",
+        "image": "https://www.rosario3.com/__export/1792865490646/sites/rosario3/img/2026/10/24/chacra_pilar.jpg_672794304.jpg",
+        "summary": "Lung Sen Chen, conocido como “El Chinito”, está acusado de captar trabajadores rurales con falsas promesas de empleo. La investigación permitió rescatar a cuatro santafesinos que habrían sido explotados en un establecimiento de Pilar, bajo amenazas y en condiciones de extrema…",
         "pubDate": "2026-10-24T11:47:00+00:00",
         "approxTime": true
       },
@@ -141,10 +141,37 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Milei pidió \"quemar en la hoguera\" a periodistas y hasta sus propios legisladores lo cruzaron",
+        "link": "https://www.lacapital.com.ar/politica/milei-pidio-quemar-la-hoguera-periodistas-y-sus-propios-legisladores-lo-cruzaron-n10288492.html",
+        "image": "https://media.lacapital.com.ar/p/2141f3495f232f32523baa875052162d/adjuntos/203/imagenes/103/490/0103490103/1200x675/smart/milei.png",
+        "summary": "El presidente disertó en una cena de la Fundación Faro, el think tank libertario, luego de que se conociera su sobreseímiento en el marco de la causa $Libra",
+        "pubDate": "2026-10-24T21:55:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Franco Colapinto largará en la última fila el GP de Estados Unidos en Austin",
+        "link": "https://www.lacapital.com.ar/formula-1/franco-colapinto-largara-la-ultima-fila-el-gp-estados-unidos-austin-n10288418.html",
+        "image": "https://media.lacapital.com.ar/p/e9106991e48d7a55e879201e61ae989c/adjuntos/203/imagenes/103/489/0103489053/1200x675/smart/image-9.jpg",
+        "summary": "El argentino clasificó 14º y al penalizar 10 lugares partirá 21º. Lo salvó Gabriel Bortoleto de ser último, mientras que el compañero de Alpine Pierre Gasly larga 10º.",
+        "pubDate": "2026-10-24T21:48:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Newell's visitará a San Lorenzo con un cambio obligado y otro de orden táctico",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-visitara-san-lorenzo-un-cambio-obligado-y-otro-orden-tactico-n10288452.html",
+        "image": "https://media.lacapital.com.ar/p/3f9b348c302b51d69688e2ed83b032c4/adjuntos/203/imagenes/103/383/0103383194/luca6.jpg",
+        "summary": "Rodrigo Herrera se lo perderá por una lesión en el pie, pero volverá Luca Regiardo. En el lateral izquierdo, Jerónimo Russo jugará por Franco Escobar",
+        "pubDate": "2026-10-24T21:28:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Rosario registró 11 casos de tuberculosis por semana en lo que va del año",
         "link": "https://www.lacapital.com.ar/la-ciudad/rosario-registro-11-casos-tuberculosis-semana-lo-que-va-del-ano-n10288483.html",
         "image": "https://media.lacapital.com.ar/p/453323e8ed929cfc7da20709cf937567/adjuntos/203/imagenes/028/224/0028224942/1200x675/smart/4_leonardo-vincenti_75722671__04-05-2020__200x800jpg.jpg",
-        "summary": "La información de la Secretaría de Salud municipal también indica un crecimiento sostenido de estos cuadros desde 2020. A nivel nacional crecieron un 64% en los últimos seis años",
+        "summary": "La información de la Secretaría de Salud municipal también indica un crecimiento sostenido de estos cuadros desde 2020. A nivel nacional subieron un 64 % en los últimos seis años",
         "pubDate": "2026-10-24T20:33:00+00:00",
         "approxTime": false
       },
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/0f7702450047e78470b4463a23dd5a7d/adjuntos/203/imagenes/027/598/0027598711/1200x675/451x113:471x133/agro_08_01_lc_68142885__14-11-2019__0x0jpg.jpg",
         "summary": "El monitoreo nacional registró una fuerte caída de las poblaciones en el norte y niveles mínimos en las regiones centrales. Los especialistas recomiendan sostener los controles desde la emergencia del maíz",
         "pubDate": "2026-10-24T17:05:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Balacera a la madrugada: dispararon cinco veces contra su casa mientras dormía",
-        "link": "https://www.lacapital.com.ar/policiales/balacera-la-madrugada-dispararon-cinco-veces-contra-su-casa-mientras-dormia-n10288464.html",
-        "image": "https://media.lacapital.com.ar/p/7e64451f490812bc257713c235dfa499/adjuntos/203/imagenes/102/569/0102569601/1200x675/smart/patrullero-nocturno.jpg",
-        "summary": "Un hombre de 38 años denunció que los proyectiles atravesaron una de las ventanas de la vivienda en el barrio Larrea",
-        "pubDate": "2026-10-24T16:40:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Una explosión sacudió a un bar del centro rosarino y una empleada sufrió quemaduras",
-        "link": "https://www.lacapital.com.ar/la-ciudad/una-explosion-sacudio-un-bar-del-centro-rosarino-y-una-empleada-sufrio-quemaduras-n10288448.html",
-        "image": "https://media.lacapital.com.ar/p/061fe7cc2de808e11e1542e7a2b4f057/adjuntos/203/imagenes/103/489/0103489562/bar-explosion-balcarce-3-febrero-2.jpeg",
-        "summary": "El estallido se produjo al amanecer en un local ubicado cerca del bulevar Oroño. La única víctima del incidente tiene 33 años",
-        "pubDate": "2026-10-24T14:32:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Ya sacaron el 72% del ganado de las islas ante el riesgo de inundaciones por El Niño",
-        "link": "https://www.lacapital.com.ar/la-ciudad/ya-sacaron-el-72-del-ganado-las-islas-el-riesgo-inundaciones-el-nino-n10288435.html",
-        "image": "https://media.lacapital.com.ar/p/9d9eca78518a5288126cdd5b1adb1092/adjuntos/203/imagenes/103/489/0103489368/vacas-islas.jpg",
-        "summary": "El gobierno santafesino recordó que a principios de agosto había más de 700.000 animales en zonas de riesgo por la crecida de los ríos",
-        "pubDate": "2026-10-24T14:00:00+00:00",
         "approxTime": false
       }
     ]
