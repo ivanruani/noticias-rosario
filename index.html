@@ -265,7 +265,11 @@
 
 <script>
 (function(){
-  var FEED_URL = './data.json';
+  // Pedimos data.json directo a GitHub (raw.githubusercontent.com) en vez de
+  // al servidor que sirve esta página (raw.githack.com), porque ese segundo
+  // servidor tiene su propia caché externa que a veces tarda bastante más
+  // de 30 minutos en actualizarse, aunque el archivo ya esté nuevo en GitHub.
+  var FEED_URL = 'https://raw.githubusercontent.com/ivanruani/noticias-rosario/main/data.json';
   var WIDE_QUERY = '(min-width: 700px)';
   var lastData = null;
 
