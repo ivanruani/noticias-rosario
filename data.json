@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-10-25T02:01:08.483237+00:00",
+  "generatedAt": "2026-10-25T02:31:02.443005+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Central vuela hacia la cima: le ganó a Huracán, es puntero de su zona y de la tabla anual al menos por un rato",
+        "link": "https://www.rosario3.com/deportes/rosario-central-recibe-a-huracan-en-arroyito-con-la-intencion-de-mantenerse-en-lo-alto-de-su-zona-y-de-pelear-por-la-tabla-anual-20261023-0071.html",
+        "image": "https://www.rosario3.com/__export/1792895417187/sites/rosario3/img/2026/10/24/cenral_vuela_a_la_cima.jpg_928314580.jpg",
+        "summary": "El equipo de Jorge Almirón abrió el partido gracias a un cabezazo de Coronel y lo cerró con una linda definición de Di María. El Canalla se impuso 2 a 0 al Globo en la fecha 14 del Torneo Clausura",
+        "pubDate": "2026-10-23T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Newell’s sumó ante San Lorenzo, hizo negocio y se acerca a los playoffs",
         "link": "https://www.rosario3.com/deportes/newells-visita-a-san-lorenzo-en-un-duelo-clave-para-acercarse-a-los-playoffs-del-torneo-clausura-20261023-0067.html",
         "image": "https://www.rosario3.com/__export/1792885370713/sites/rosario3/img/2026/10/24/san_lorenzo_newells_-1-.jpg_506286608.jpg",
         "summary": "Empataron sin goles este sábado en el Nuevo Gasómetro, por la fecha 14. La Lepra mantiene la diferencia de tres puntos sobre el Ciclón, que necesitaba vencerlo, y superó a Gimnasia de Mendoza, cuando quedan solo dos jornadas de la fase regular",
-        "pubDate": "2026-10-23T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Central le gana a Huracán en un partido parejo en Arroyito",
-        "link": "https://www.rosario3.com/deportes/rosario-central-recibe-a-huracan-en-arroyito-con-la-intencion-de-mantenerse-en-lo-alto-de-su-zona-y-de-pelear-por-la-tabla-anual-20261023-0071.html",
-        "image": "https://www.rosario3.com/__export/1792891527653/sites/rosario3/img/2026/10/24/00024970-01.jpg_928314581.jpg",
-        "summary": "El equipo de Jorge Almirón juega en el Gigante de Arroyito, por la fecha 14 del Torneo Clausura. Llega tras vencer 3-2 a Atlético Tucumán y quiere sostener su buen momento, mientras que el Globo necesita recuperarse después de dos derrotas consecutivas",
         "pubDate": "2026-10-23T11:59:00+00:00",
         "approxTime": true
       },
@@ -195,10 +195,10 @@
       },
       {
         "source": "La Capital",
-        "title": "En vivo: Central empezó bien el complemento pero se le vino Huracán",
-        "link": "https://www.lacapital.com.ar/ovacion/en-vivo-central-empezo-bien-el-complemento-pero-se-le-vino-huracan-n10288498.html",
-        "image": "https://media.lacapital.com.ar/p/3bbe26f9c1d3c7a560afef5ab7ccba5a/adjuntos/203/imagenes/103/490/0103490536/1200x675/smart/image-4.jpg",
-        "summary": "Central juega ante el Globo en el Gigante en busca de un triunfo que lo ubique como líder y le meta presión a Boca y Argentinos",
+        "title": "En vivo: Central asegura el triunfo con la gran recuperación de Ibarra y el gol de Di María",
+        "link": "https://www.lacapital.com.ar/ovacion/en-vivo-central-asegura-el-triunfo-la-gran-recuperacion-ibarra-y-el-gol-di-maria-n10288498.html",
+        "image": "https://media.lacapital.com.ar/p/7d9f722cd55f5d03ac262184235340e4/adjuntos/203/imagenes/103/490/0103490806/1200x675/smart/image-7.jpg",
+        "summary": "Central debió jugar un gran partido ante un rival que lo exigió mucho, para ganarle 2 a 0 y quedar momentáneamente arriba, hasta que jueguen Boca y Argentinos",
         "pubDate": "2026-10-25T00:32:00+00:00",
         "approxTime": false
       },
