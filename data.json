@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-25T16:30:57.887857+00:00",
+  "generatedAt": "2026-10-25T17:01:07.828850+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Paros en la UNR: docentes y no docentes anuncian medidas de fuerza para esta semana",
+        "link": "https://www.rosario3.com/informaciongeneral/paros-en-la-unr-docentes-y-no-docentes-anuncian-medidas-de-fuerza-para-esta-semana-20261025-0007.html",
+        "image": "https://www.rosario3.com/__export/1792935395097/sites/rosario3/img/2026/10/25/unr.jpg_1825222445.jpg",
+        "summary": "Coad realizará una huelga de cinco jornadas entre octubre y noviembre, mientras que Apur confirmó dos días de protesta. La actividad académica dependerá de la adhesión en cada facultad y cátedra",
+        "pubDate": "2026-10-25T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Detuvieron a dos mujeres en la Terminal con nueve celulares tras el rastreo de un teléfono robado",
         "link": "https://www.rosario3.com/policiales/detuvieron-a-dos-mujeres-en-la-terminal-con-nueve-celulares-tras-el-rastreo-de-un-telefono-robado-20261025-0016.html",
         "image": "https://www.rosario3.com/__export/1792940955381/sites/rosario3/img/2026/10/25/000.jpg_1825222412.jpg",
         "summary": "El procedimiento se realizó este domingo por la madrugada, luego de que una víctima lograra geolocalizar su dispositivo. La Policía encontró los aparatos envueltos en papel aluminio dentro de un baño",
-        "pubDate": "2026-10-25T12:00:00+00:00",
+        "pubDate": "2026-10-25T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/opinion/el-periodismo-el-espejo-que-el-presidente-detesta-20261025-0009.html",
         "image": "https://www.rosario3.com/__export/1792936370589/sites/rosario3/img/2026/10/25/milei.jpg_1825222445.jpg",
         "summary": "Milei insultando a periodistas es la replica de otro tiempo donde el poder también confrontaba con la comunicación política. Parecidos o diferentes, el camino del deja vu",
-        "pubDate": "2026-10-25T11:59:00+00:00",
+        "pubDate": "2026-10-25T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/por-que-tener-cada-vez-menos-hijos-puede-ser-una-buena-noticia-para-la-argentina-la-demografia-esta-cambiando-por-muy-buenas-razones-20261025-0006.html",
         "image": "https://www.rosario3.com/__export/1792935297791/sites/rosario3/img/2026/10/25/rofman.jpg_1768679313.jpg",
         "summary": "En apenas diez años, la cantidad de nacimientos en el país se redujo casi a la mitad. Rafael Rofman, economista y demógrafo del CIPPEC, explicó por qué considera que este fenómeno refleja avances sociales y mayores libertades, especialmente para las mujeres. En su libro La…",
-        "pubDate": "2026-10-25T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "DReI en el Gran Rosario: una misma empresa puede pagar siete veces más según dónde se radique | Ecos365",
-        "link": "https://www.rosario3.com/ecos365/noticias/drei-en-el-gran-rosario-una-misma-empresa-puede-pagar-siete-veces-mas-segun-donde-se-radique-20261025-0002.html",
-        "image": "https://www.rosario3.com/__export/1792935537286/sites/rosario3/img/2026/10/25/el_color_del_dinero_25_de_octubre_de_2026.png_446026524.png",
-        "summary": "Hay fuerte disparidad en industria, gastronomía y en varios rubros más. Fundación Apertura compara el DReI en 19 jurisdicciones. Propone un mapa colaborativo para transparentar la información tributaria que muchos municipios no publican",
         "pubDate": "2026-10-25T11:57:00+00:00",
         "approxTime": true
       },
@@ -85,10 +85,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Investigan la muerte de una mujer tras un encuentro sexual en el barrio porteño de Retiro",
-        "link": "https://www.rosario3.com/policiales/investigan-la-muerte-de-una-mujer-tras-un-encuentro-sexual-en-el-barrio-porteno-de-retiro-20261025-0019.html",
-        "image": "https://www.rosario3.com/__export/1792944379436/sites/rosario3/img/2026/10/25/bomberos.jpg_1825222445.jpg",
-        "summary": "La víctima fue hallada por una amiga que había perdido contacto con ella. La Justicia ordenó peritajes y analiza las cámaras de seguridad para reconstruir sus últimos movimientos",
+        "title": "La líder opositora María Corina Machado regresó a Venezuela",
+        "link": "https://www.rosario3.com/informaciongeneral/la-lider-opositora-maria-corina-machado-regreso-a-venezuela-20261025-0024.html",
+        "image": "https://www.rosario3.com/__export/1792947095602/sites/rosario3/img/2026/10/25/machado.jpg_1825222445.jpg",
+        "summary": "Reapareció este domingo en una Iglesia católica del estado Lara abrazada por los seguidores de su partido Vente Venezuela",
         "pubDate": "2026-10-25T11:51:00+00:00",
         "approxTime": true
       },
@@ -103,20 +103,20 @@
       },
       {
         "source": "Rosario3",
-        "title": "Los millonarios de Silicon Valley que quieren vencer a la muerte",
-        "link": "https://www.rosario3.com/tecnologia/los-millonarios-de-silicon-valley-que-quieren-vencer-a-la-muerte-20261023-0060.html",
-        "image": "https://www.rosario3.com/__export/1792784758527/sites/rosario3/img/2026/10/23/000_-_imagen_de_portada_-_2026-10-23t164455_224.jpg_1768679257.jpg",
-        "summary": "Durante miles de años, la humanidad imaginó la inmortalidad como un privilegio de los dioses. Hoy busca conquistarla con ciencia y tecnología, ya sea rejuveneciendo el cuerpo o prescindiendo de él",
-        "pubDate": "2026-10-23T11:49:00+00:00",
+        "title": "DReI en el Gran Rosario: una misma empresa puede pagar siete veces más según dónde se radique | Ecos365",
+        "link": "https://www.rosario3.com/ecos365/noticias/drei-en-el-gran-rosario-una-misma-empresa-puede-pagar-siete-veces-mas-segun-donde-se-radique-20261025-0002.html",
+        "image": "https://www.rosario3.com/__export/1792935537286/sites/rosario3/img/2026/10/25/el_color_del_dinero_25_de_octubre_de_2026.png_446026524.png",
+        "summary": "Hay fuerte disparidad en industria, gastronomía y en varios rubros más. Fundación Apertura compara el DReI en 19 jurisdicciones. Propone un mapa colaborativo para transparentar la información tributaria que muchos municipios no publican",
+        "pubDate": "2026-10-25T11:49:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Juan Carlos De Pablo, el economista amigo de Milei: \"Hay países donde las crisis hay que imaginarlas; en Argentina las vivimos\"",
-        "link": "https://www.rosario3.com/politica/juan-carlos-de-pablo-el-economista-amigo-de-milei-hay-paises-donde-las-crisis-hay-que-imaginarlas-en-argentina-las-vivimos-20261022-0079.html",
-        "image": "https://www.rosario3.com/__export/1792781969122/sites/rosario3/img/2026/10/23/de_pablo.jpg_2106848869.jpg",
-        "summary": "Acaba de publicar un nuevo libro y en una charla con Rosario3 habló sobre sus diálogos con el Presidente y repasó varios temas: dólar, continuidad del ministro Caputo, reformas previsional e impositiva y el posible resultado del balotaje en Brasil de este domingo",
-        "pubDate": "2026-10-22T11:48:00+00:00",
+        "title": "Los millonarios de Silicon Valley que quieren vencer a la muerte",
+        "link": "https://www.rosario3.com/tecnologia/los-millonarios-de-silicon-valley-que-quieren-vencer-a-la-muerte-20261023-0060.html",
+        "image": "https://www.rosario3.com/__export/1792784758527/sites/rosario3/img/2026/10/23/000_-_imagen_de_portada_-_2026-10-23t164455_224.jpg_1768679257.jpg",
+        "summary": "Durante miles de años, la humanidad imaginó la inmortalidad como un privilegio de los dioses. Hoy busca conquistarla con ciencia y tecnología, ya sea rejuveneciendo el cuerpo o prescindiendo de él",
+        "pubDate": "2026-10-23T11:48:00+00:00",
         "approxTime": true
       },
       {
