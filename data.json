@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-25T22:01:06.778695+00:00",
+  "generatedAt": "2026-10-25T22:31:01.237401+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Colectividades con novedades: este año debuta un stand y regresa otro",
+        "link": "https://www.rosario3.com/informaciongeneral/colectividades-con-novedades-este-ano-debuta-un-stand-y-regresa-otro-20261020-0043.html",
+        "image": "https://www.rosario3.com/__export/1792515947245/sites/rosario3/img/2024/09/18/cataluxa_rabas.jpg_928314581.jpg",
+        "summary": "Rumbo a la 42ª edición en el Parque a la Bandera, la lista oficial de 54 instituciones confirmó sorpresas en la oferta gastronómica y cultural de 2026. La grilla sumará un estreno absoluto y el esperado retorno de una comunidad caribeña tras dos años de ausencia",
+        "pubDate": "2026-10-20T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Récord del Puerto de Rosario: el movimiento de cargas subió un 22,4% en los primeros nueve meses",
         "link": "https://www.rosario3.com/-economia-negocios-agro-/record-del-puerto-de-rosario-el-movimiento-de-cargas-subio-un-224-en-los-primeros-nueve-meses-20261025-0018.html",
         "image": "https://www.rosario3.com/__export/1792943917977/sites/rosario3/img/2026/10/25/puerto_de_rosario_version1792943917488.jpg_1414369616.jpg",
         "summary": "El sistema de puertos públicos y la Zona Franca de Santa Fe acumuló más de 3,3 millones de toneladas de enero a septiembre de 2026. De ese total, Terminal Puerto Rosario aportó 2.365.214 toneladas",
-        "pubDate": "2026-10-25T12:00:00+00:00",
+        "pubDate": "2026-10-25T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/run-run-inmobiliarias-ponen-el-pecho-al-pedido-de-transparencia-en-loteos-habeas-corpus-para-shanahan-y-rosario-cae-como-ciudad-tech-20261025-0026.html",
         "image": "https://www.rosario3.com/__export/1792952094391/sites/rosario3/img/2026/10/25/tech.jpg_59782438.jpg",
         "summary": "Además: sorpresiva hipótesis sobre la industria del juicio laboral, malestar por un cambio en la legislación laboral que no se activa en la Legislatura, miden el peso de las tasas municipales en las empresas y hay sorpresas entre las ciudades más costosas para la producción…",
-        "pubDate": "2026-10-25T11:59:00+00:00",
+        "pubDate": "2026-10-25T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/paros-en-la-unr-docentes-y-no-docentes-anuncian-medidas-de-fuerza-para-esta-semana-20261025-0007.html",
         "image": "https://www.rosario3.com/__export/1792935395097/sites/rosario3/img/2026/10/25/unr.jpg_1825222445.jpg",
         "summary": "Coad realizará una huelga de cinco jornadas entre octubre y noviembre, mientras que Apur confirmó dos días de protesta. La actividad académica dependerá de la adhesión en cada facultad y cátedra",
-        "pubDate": "2026-10-25T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Empresarios y espacios opositores llamaron a un debate sin agravios tras los nuevos ataques de Milei al periodismo",
-        "link": "https://www.rosario3.com/informaciongeneral/empresarios-y-espacios-opositores-llamaron-a-un-debate-sin-agravios-tras-los-nuevos-ataques-de-milei-al-periodismo-20261025-0028.html",
-        "image": "https://www.rosario3.com/__export/1792954562573/sites/rosario3/img/2026/10/25/mileiperiodistas.jpg_2106848869.jpg",
-        "summary": "Desde el Instituto para el Desarrollo Empresarial de la Argentina (Idea), organización que agrupa a las principales compañías del país, manifestaron que “la libertad de prensa y el respeto por las ideas, aun cuando existan diferencias, son pilares fundamentales de la convivencia…",
         "pubDate": "2026-10-25T11:57:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,33 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Central volvió a quedarse sin punta: Boca lo ganó al final ante Independiente y a Newell's le vino bien",
+        "link": "https://www.lacapital.com.ar/ovacion/central-volvio-quedarse-punta-boca-lo-gano-al-final-independiente-y-newells-le-vino-bien-n10288642.html",
+        "image": "https://media.lacapital.com.ar/p/1aecbf8c8b03d7422bd4d94eff920bd9/adjuntos/203/imagenes/103/492/0103492007/partido.jpg",
+        "summary": "La victoria del Xeneize fue una mala noticia para el Canalla, que aún debe esperar por el partido de Argentinos Juniors contra Independiente Rivadavia. Newell's sigue arriba del Rojo",
+        "pubDate": "2026-10-25T22:21:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Karina Milei, Santilli y Caputo llegan a Rosario para participar de la Expo Rigi",
+        "link": "https://www.lacapital.com.ar/politica/karina-milei-santilli-y-caputo-llegan-rosario-participar-la-expo-rigi-n10288648.html",
+        "image": "https://media.lacapital.com.ar/p/392de7c0fcd05af307eff30770ded76b/adjuntos/203/imagenes/103/491/0103491996/1200x675/smart/image.png",
+        "summary": "La secretaria general de la presidencia junto a los ministros estarán en un encuentro en La Fluvial el jueves 29 de octubre",
+        "pubDate": "2026-10-25T22:14:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Cerraron las urnas en Brasil tras una prórroga: máxima expectativa por el resultado del balotaje",
+        "link": "https://www.lacapital.com.ar/el-mundo/cerraron-las-urnas-brasil-una-prorroga-maxima-expectativa-el-resultado-del-balotaje-n10288650.html",
+        "image": "https://media.lacapital.com.ar/p/d9c1b52c5536bdee18925c8472e984a1/adjuntos/203/imagenes/103/491/0103491997/1200x675/smart/imagebolso.jpg",
+        "summary": "La votación se extendió hasta las 19 por una decisión judicial de último momento. El Tribunal Superior Electoral reanuda ahora el escrutinio para definir al próximo presidente entre Lula da Silva y Flávio Bolsonaro.",
+        "pubDate": "2026-10-25T22:05:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El rosarino Valentino Merlo cantará para el Papa León XIV en Buenos Aires",
         "link": "https://www.lacapital.com.ar/la-ciudad/el-rosarino-valentino-merlo-cantara-el-papa-leon-xiv-buenos-aires-n10288643.html",
         "image": "https://media.lacapital.com.ar/p/044f9d9b4f495775f89f9376bedf09e4/adjuntos/203/imagenes/102/002/0102002616/1200x675/smart/image-2024-11-08t083654573jpg.jpg",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/0df2e80d29d9ea6e167cff473d9173b3/adjuntos/203/imagenes/103/481/0103481794/1200x675/smart/imagelula.jpg",
         "summary": "El Tribunal Superior Electoral comenzará a difundir los resultados oficiales este domingo a partir de las 17, hora argentina. El antecedente de 2022 permite estimar cuándo podría definirse la disputa presidencial.",
         "pubDate": "2026-10-25T19:26:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Lewandowski en Venado Tuerto: \"El modelo de Milei condena a las pymes y al trabajo argentino\"",
-        "link": "https://www.lacapital.com.ar/politica/lewandowski-venado-tuerto-el-modelo-milei-condena-las-pymes-y-al-trabajo-argentino-n10288608.html",
-        "image": "https://media.lacapital.com.ar/p/2cd6b81a8b5d399ac499a932dd348b24/adjuntos/203/imagenes/103/491/0103491441/1200x675/smart/image-2026-10-25t153615888.jpg",
-        "summary": "El senador nacional visitó la ciudad junto al diputado Miguel Rabbia. Cuestionó el modelo económico nacional por el impacto de las importaciones, el cierre de empresas y la pérdida de empleo",
-        "pubDate": "2026-10-25T19:17:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Puam de Ansés: cómo funciona y cuánto se cobra",
-        "link": "https://www.lacapital.com.ar/informacion-general/puam-anses-como-funciona-y-cuanto-se-cobra-n10288328.html",
-        "image": "https://media.lacapital.com.ar/p/59e9e9b9231f66b22d4e22d63199f6e6/adjuntos/203/imagenes/102/185/0102185137/1200x675/smart/ansesjpg.jpg",
-        "summary": "Este beneficio otorgado por Anses está dirigido a aquellas personas mayores de 65 años que no tienen acceso a una jubilación tradicional. Los detalles en esta nota",
-        "pubDate": "2026-10-25T18:23:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Autos 0 km sin rueda de auxilio: la novedad que llega a Rosario y preocupa por el estado de las rutas",
-        "link": "https://www.lacapital.com.ar/motores/autos-0-km-rueda-auxilio-la-novedad-que-llega-rosario-y-preocupa-el-estado-las-rutas-n10288344.html",
-        "image": "https://media.lacapital.com.ar/p/00295a8fac717fa506ae318edc19f4a9/adjuntos/203/imagenes/103/488/0103488254/1200x675/smart/cambio-neumatico.jpg",
-        "summary": "Varios modelos nuevos, especialmente híbridos y eléctricos de origen chino, prescinden del neumático de repuesto para reducir peso y ganar espacio. En su lugar incorporan kits de reparación que no sirven ante roturas graves.",
-        "pubDate": "2026-10-25T18:21:00+00:00",
         "approxTime": false
       }
     ]
