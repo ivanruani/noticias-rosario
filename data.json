@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-25T00:01:20.989025+00:00",
+  "generatedAt": "2026-10-25T00:31:03.896176+00:00",
   "sites": {
     "rosario3": [
       {
         "source": "Rosario3",
-        "title": "En un duelo muy parejo, Newell’s y San Lorenzo no se sacan ventajas",
+        "title": "Newell’s sumó ante San Lorenzo, hizo negocio y se acerca a los playoffs",
         "link": "https://www.rosario3.com/deportes/newells-visita-a-san-lorenzo-en-un-duelo-clave-para-acercarse-a-los-playoffs-del-torneo-clausura-20261023-0067.html",
         "image": "https://www.rosario3.com/__export/1792885370713/sites/rosario3/img/2026/10/24/san_lorenzo_newells_-1-.jpg_506286608.jpg",
-        "summary": "La Lepra juega este sábado desde las 19.15 en el Nuevo Gasómetro, por la fecha 14 del torneo. El equipo de Frank Kudelka viene de ganarle 2-1 a Central Córdoba y buscará sostenerse en la zona de clasificación. El Ciclón, por su parte, acumula dos triunfos consecutivos y quiere…",
+        "summary": "Empataron sin goles este sábado en el Nuevo Gasómetro, por la fecha 14. La Lepra mantiene la diferencia de tres puntos sobre el Ciclón, que necesitaba vencerlo, y superó a Gimnasia de Mendoza, cuando quedan solo dos jornadas de la fase regular",
         "pubDate": "2026-10-23T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Con la vuelta confirmada de Ibarra, Central recibe a Huracán en Arroyito con la intención de mantenerse en lo más alto",
+        "link": "https://www.rosario3.com/deportes/rosario-central-recibe-a-huracan-en-arroyito-con-la-intencion-de-mantenerse-en-lo-alto-de-su-zona-y-de-pelear-por-la-tabla-anual-20261023-0071.html",
+        "image": "https://www.rosario3.com/__export/1792761825369/sites/rosario3/img/2026/08/14/ibarra-jpg_-1-.jpeg_1725580757.jpeg",
+        "summary": "El equipo de Jorge Almirón jugará este sábado desde las 21.30 en el Gigante de Arroyito, por la fecha 14 del Torneo Clausura. Llega tras vencer 3-2 a Atlético Tucumán y quiere sostener su buen momento, mientras que el Globo necesita recuperarse después de dos derrotas…",
+        "pubDate": "2026-10-23T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,15 +26,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/hallaron-un-cuerpo-en-el-rio-parana-a-la-altura-de-una-guarderia-nautica-de-granadero-baigorria-20261024-0017.html",
         "image": "https://www.rosario3.com/__export/1792871613233/sites/rosario3/img/2026/10/24/guarderia.jpg_506286608.jpg",
         "summary": "Ocurrió este sábado por la mañana frente a la Guardería Náutica Tifón. El cadáver fue trasladado al Instituto Médico Legal de Rosario, donde se realizará la autopsia para establecer tanto la identidad como las circunstancias del fallecimiento",
-        "pubDate": "2026-10-24T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Exproductor bolichero de Rosario, imputado por integrar red narco con contactos en cuatro provincias",
-        "link": "https://www.rosario3.com/policiales/ex-productor-bolichero-de-rosario-imputado-por-integrar-red-narco-con-contactos-en-cuatro-provincias-20261024-0012.html",
-        "image": "https://www.rosario3.com/__export/1792857715329/sites/rosario3/img/2026/09/18/tribunales_federales_rosario.jpg_1853120996.jpg",
-        "summary": "La investigación se inició con el peritaje del celular de un dealer rosarino detenido con 40 kilos de marihuana en febrero de 2025. Los fiscales ubicaron a Pablo Volpe, exsocio de la firma que explotaba Punta Stage, como un punto nodal de una trama con conexiones en Rosario…",
         "pubDate": "2026-10-24T11:58:00+00:00",
         "approxTime": true
       },
@@ -40,20 +40,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Con la vuelta confirmada de Ibarra, Central recibe a Huracán en Arroyito con la intención de mantenerse en lo alto de su zona",
-        "link": "https://www.rosario3.com/deportes/rosario-central-recibe-a-huracan-en-arroyito-con-la-intencion-de-mantenerse-en-lo-alto-de-su-zona-y-de-pelear-por-la-tabla-anual-20261023-0071.html",
-        "image": "https://www.rosario3.com/__export/1792761825369/sites/rosario3/img/2026/08/14/ibarra-jpg_-1-.jpeg_1725580757.jpeg",
-        "summary": "El equipo de Jorge Almirón jugará este sábado desde las 21.30 en el Gigante de Arroyito, por la fecha 14 del Torneo Clausura. Llega tras vencer 3-2 a Atlético Tucumán y quiere sostener su buen momento, mientras que el Globo necesita recuperarse después de dos derrotas…",
-        "pubDate": "2026-10-23T11:56:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
         "title": "“Cuidar la libertad”: la cooperativa que nació en la cárcel, creció y le da trabajo a 50 personas",
         "link": "https://www.rosario3.com/especiales/cuidar-la-libertad-la-cooperativa-que-nacio-en-la-carcel-crecio-y-le-da-trabajo-a-50-personas-20261022-0071.html",
         "image": "https://www.rosario3.com/__export/1792704465968/sites/rosario3/img/2026/10/22/dsc04293.jpg_2106848869.jpg",
         "summary": "En 2018, presos de la Unidad 6 se unieron con una certeza: si no creaban sus propios empleos, la reinserción iba a ser muy difícil. Armaron una firma textil con sus familiares y crearon el Frente de Liberados. Sostienen espacios de panificación, herrería, barbería, música y…",
-        "pubDate": "2026-10-22T11:55:00+00:00",
+        "pubDate": "2026-10-22T11:56:00+00:00",
         "approxTime": true
       },
       {
@@ -62,6 +53,15 @@
         "link": "https://www.rosario3.com/informaciongeneral/causa-libra-milei-adelanto-que-iniciara-acciones-legales-contra-la-prensa-luego-de-ser-sobreseido-20261024-0022.html",
         "image": "https://www.rosario3.com/__export/1792878693819/sites/rosario3/img/2026/10/24/milei.jpg_421298246.jpg",
         "summary": "El mandatario afirmó que hubo una “operación” por parte de los medios de comunicación. “Nunca les mandé a la ARCA, la SIDE ni maté a un fiscal”, afirmó",
+        "pubDate": "2026-10-24T11:55:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Exproductor bolichero de Rosario, imputado por integrar red narco con contactos en cuatro provincias",
+        "link": "https://www.rosario3.com/policiales/ex-productor-bolichero-de-rosario-imputado-por-integrar-red-narco-con-contactos-en-cuatro-provincias-20261024-0012.html",
+        "image": "https://www.rosario3.com/__export/1792857715329/sites/rosario3/img/2026/09/18/tribunales_federales_rosario.jpg_1853120996.jpg",
+        "summary": "La investigación se inició con el peritaje del celular de un dealer rosarino detenido con 40 kilos de marihuana en febrero de 2025. Los fiscales ubicaron a Pablo Volpe, exsocio de la firma que explotaba Punta Stage, como un punto nodal de una trama con conexiones en Rosario…",
         "pubDate": "2026-10-24T11:54:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "En vivo: Newell's sacó un buen punto ante San Lorenzo que lo consolida en zona de playoffs",
+        "link": "https://www.lacapital.com.ar/ovacion/en-vivo-newells-saco-un-buen-punto-san-lorenzo-que-lo-consolida-zona-playoffs-n10288485.html",
+        "image": "https://media.lacapital.com.ar/p/43f13d43333b1263fa598102aebf71fe/adjuntos/203/imagenes/103/490/0103490269/jgm.jpg",
+        "summary": "Newell's igualó 0 a 0 en su visita a San Lorenzo y salió bien parado de un examen exigente. El rojinegro sigue sexto en zona A",
+        "pubDate": "2026-10-25T00:24:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El Festival Bandera hizo vibrar la zona sur de Rosario a pura música y fiesta",
+        "link": "https://www.lacapital.com.ar/zoom/el-festival-bandera-hizo-vibrar-la-zona-sur-rosario-pura-musica-y-fiesta-n10288518.html",
+        "image": "https://media.lacapital.com.ar/p/bd020fac345596d3ead484ab9257c259/adjuntos/203/imagenes/103/490/0103490419/1200x675/smart/image-2026-10-24t204404480.png",
+        "summary": "En su séptima edición, el encuentro llegó por primera vez al parque Estación Central Córdoba, con más de 30 artistas y gran convocatoria",
+        "pubDate": "2026-10-25T00:22:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Central tiene equipo confirmado: la vuelta de un jugador que todos querían volver a ver",
         "link": "https://www.lacapital.com.ar/ovacion/central-tiene-equipo-confirmado-la-vuelta-un-jugador-que-todos-querian-volver-ver-n10288447.html",
         "image": "https://media.lacapital.com.ar/p/1157decb9b07b9da12fc6aa9c2d40e9f/adjuntos/203/imagenes/103/489/0103489496/almironcml.jpeg",
@@ -164,15 +182,6 @@
         "image": "https://media.lacapital.com.ar/p/7e3738a36fcca4f45da83a290cb8a2ab/adjuntos/203/imagenes/103/490/0103490214/1200x675/smart/image.jpg",
         "summary": "Duendes ganó la fase regular y Jockey Club lo escoltó por las sorpresivas derrotas de Santa Fe RC y Estudiantes de Paraná. El clásico solo se daría en la final.",
         "pubDate": "2026-10-24T22:14:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "En vivo: Newell's lucha ante San Lorenzo en un duelo clave por la clasificación a los playoffs",
-        "link": "https://www.lacapital.com.ar/ovacion/en-vivo-newells-lucha-san-lorenzo-un-duelo-clave-la-clasificacion-los-playoffs-n10288485.html",
-        "image": "https://media.lacapital.com.ar/p/43f13d43333b1263fa598102aebf71fe/adjuntos/203/imagenes/103/490/0103490269/jgm.jpg",
-        "summary": "Newell's visita a San Lorenzo en un examen exigente. El rojinegro necesita sumar para consolidar su posición. Seguilo en vivo por La Capital",
-        "pubDate": "2026-10-24T22:00:00+00:00",
         "approxTime": false
       },
       {
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/9224b392fb118df4a10c77e85fbd97af/adjuntos/203/imagenes/103/488/0103488214/1200x675/smart/image-18.png",
         "summary": "Aunque ya formaba parte del catálogo, la cinta protagonizada por Zac Efron y Taylor Schilling se llenó de reproducciones. De qué se trata",
         "pubDate": "2026-10-24T18:28:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cómo hacer pastelitos de batata o membrillo caseros: receta simple e infalible",
-        "link": "https://www.lacapital.com.ar/informacion-general/como-hacer-pastelitos-batata-o-membrillo-caseros-receta-simple-e-infalible-n10288345.html",
-        "image": "https://media.lacapital.com.ar/p/2612b66fb06fc681d37bd2ccbd9ad752/adjuntos/203/imagenes/103/488/0103488255/1200x675/smart/image-19.png",
-        "summary": "Los pastelitos, además de símbolo patrio, son ideales para acompañar mates en días nublados y lluviosos",
-        "pubDate": "2026-10-24T18:26:00+00:00",
         "approxTime": false
       }
     ]
