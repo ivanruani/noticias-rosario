@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T20:31:00.528311+00:00",
+  "generatedAt": "2026-10-25T21:01:07.159541+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,11 +141,29 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "Primera C: Argentino empata en su visita a Defensores de Glew por la Promoción",
-        "link": "https://www.lacapital.com.ar/ovacion/primera-c-argentino-empata-su-visita-defensores-glew-la-promocion-n10288605.html",
+        "title": "Primera C: Argentino se trajo un buen punto ante Defensores de Glew por la Promoción",
+        "link": "https://www.lacapital.com.ar/ovacion/primera-c-argentino-se-trajo-un-buen-punto-defensores-glew-la-promocion-n10288605.html",
         "image": "https://media.lacapital.com.ar/p/27a1e05fbcd9ca714393e3a476733dbb/adjuntos/203/imagenes/103/491/0103491510/1200x675/smart/image-10.jpg",
-        "summary": "El equipo de barrio Sarmiento iguala en el encuentro de ida ante el elenco del Torneo Promocional Amateur 2026. Thiago Bartalini anotó para los salaitos",
-        "pubDate": "2026-10-25T20:19:00+00:00",
+        "summary": "El Salaíto igualó en el encuentro de ida ante el elenco del Promocional Amateur. Con otro empate, la próxima semana se quedará en la Primera C",
+        "pubDate": "2026-10-25T20:41:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Festival Bandera: recuperaron siete celulares robados durante el evento",
+        "link": "https://www.lacapital.com.ar/policiales/festival-bandera-recuperaron-siete-celulares-robados-el-evento-n10288633.html",
+        "image": "https://media.lacapital.com.ar/p/5f200bd38522652ed9aab62a02b19cf6/adjuntos/203/imagenes/103/491/0103491809/1200x675/smart/image-2026-10-25t173421504.jpg",
+        "summary": "Durante el espectáculo, realizado en el estadio de Central Córdoba, efectivos policiales aprehendieron a tres personas cuando se retiraban del predio con teléfonos robados",
+        "pubDate": "2026-10-25T20:39:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Máxima tensión en Brasil: prorrogaron la votación por dos horas y se demora la definición del balotaje",
+        "link": "https://www.lacapital.com.ar/el-mundo/maxima-tension-brasil-prorrogaron-la-votacion-dos-horas-y-se-demora-la-definicion-del-balotaje-n10288626.html",
+        "image": "https://media.lacapital.com.ar/p/f191955a1ee07e9b03718edbc402bab9/adjuntos/203/imagenes/103/491/0103491717/1200x675/smart/imagebol.jpg",
+        "summary": "Una decisión de último momento de la Justicia extendió el cierre de las urnas hasta las 19, tras un reclamo de la coalición de Lula por falta de transporte público. Crece la expectativa por el resultado de la disputa presidencial con Flávio Bolsonaro.",
+        "pubDate": "2026-10-25T20:31:00+00:00",
         "approxTime": false
       },
       {
@@ -155,15 +173,6 @@
         "image": "https://media.lacapital.com.ar/p/8e155d3e4682cabaf87af1aec25681cc/adjuntos/203/imagenes/103/491/0103491704/coronel.jpeg",
         "summary": "El lateral derecho canalla habló de las chicanas que recibía y se mostró feliz por su primer gol en Arroyito, aunque puso todo el valor en el triunfo",
         "pubDate": "2026-10-25T20:13:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Máxima expectativa en Brasil: cerraron las urnas y comienza el conteo de votos para definir al próximo presidente",
-        "link": "https://www.lacapital.com.ar/el-mundo/maxima-expectativa-brasil-cerraron-las-urnas-y-comienza-el-conteo-votos-definir-al-proximo-presidente-n10288626.html",
-        "image": "https://media.lacapital.com.ar/p/f191955a1ee07e9b03718edbc402bab9/adjuntos/203/imagenes/103/491/0103491717/1200x675/smart/imagebol.jpg",
-        "summary": "El balotaje entre Lula y Flávio Bolsonaro entró en su etapa decisiva. A qué hora se conocería el ganador y dónde seguir los resultados oficiales en vivo.",
-        "pubDate": "2026-10-25T20:11:00+00:00",
         "approxTime": false
       },
       {
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/c9ff504a791c1cf03e834d3c0b0ddbe0/adjuntos/203/imagenes/103/491/0103491411/1200x675/smart/calle-recreativa4.jpg",
         "summary": "Miles de rosarinos se acercaron a celebrar el cumpleaños de la Calle Recreativa lo festejó con una jornada especial de actividades deportivas, espectáculos y sorteos",
         "pubDate": "2026-10-25T15:32:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Di María: \"El objetivo es pelear absolutamente todo, volver a jugar la Copa Libertadores\"",
-        "link": "https://www.lacapital.com.ar/ovacion/di-maria-el-objetivo-es-pelear-absolutamente-todo-volver-jugar-la-copa-libertadores-n10288580.html",
-        "image": "https://media.lacapital.com.ar/p/6a77703cac2302a3837b6bd4635486dd/adjuntos/203/imagenes/103/491/0103491326/fideo.jpeg",
-        "summary": "El capitán se mostró ilusionado con el presente de Central y puso el acento en que \"el equipo está haciendo las cosas que tiene que hacer\"",
-        "pubDate": "2026-10-25T15:06:00+00:00",
         "approxTime": false
       }
     ]
