@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T13:01:08.556990+00:00",
+  "generatedAt": "2026-10-25T13:31:02.882603+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Del taller familiar a la consagración: un auto santafesino conquistó Autoclásica 2026",
+        "link": "https://www.lacapital.com.ar/la-region/del-taller-familiar-la-consagracion-un-auto-santafesino-conquisto-autoclasica-2026-n10288094.html",
+        "image": "https://media.lacapital.com.ar/p/75a86c1396b0431928fd25b14bcf2708/adjuntos/203/imagenes/103/485/0103485605/1200x675/smart/autoclasica4.jpeg",
+        "summary": "Construido de manera artesanal en un taller de la ciudad de Santa Fe por Oscar Helguero y sus hijos, el deportivo Ford-Barchetta fue distinguido en la muestra de autos y motos más importante de Sudamérica",
+        "pubDate": "2026-10-25T13:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Identificaron el cuerpo hallado en el Paraná: era uno de los pescadores desaparecidos en Fray Luis Beltrán",
         "link": "https://www.lacapital.com.ar/la-ciudad/identificaron-el-cuerpo-hallado-el-parana-era-uno-los-pescadores-desaparecidos-fray-luis-beltran-n10288565.html",
         "image": "https://media.lacapital.com.ar/p/5f9d05918b70667ce82346c7a7ff4271/adjuntos/203/imagenes/102/861/0102861825/busqueda-lancha-prefectura01.jpg",
@@ -262,15 +271,6 @@
         "link": "https://www.lacapital.com.ar/la-ciudad/el-futuro-del-pasaje-simeoni-se-piensa-como-paseo-gastronomico-n10285614.html",
         "image": "https://media.lacapital.com.ar/p/b7d4a503f0b1a31f18f320a63db5c26c/adjuntos/203/imagenes/103/490/0103490351/1200x675/smart/82751270jpegthumb.jpg",
         "summary": "Obras en la plaza de la Cooperación, locales gastronómicos en planta baja de dos nuevos edificios y lo que vendrá en Berlín anticipan una nueva etapa para la cortada. Analizan ensanchar veredas para acompañar el movimiento",
-        "pubDate": "2026-10-25T09:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Uñac, Anti-Milei perfecto",
-        "link": "https://www.lacapital.com.ar/politica/unac-anti-milei-perfecto-n10288176.html",
-        "image": "https://media.lacapital.com.ar/p/b8ecf035bf26acd42e46234206610ade/adjuntos/203/imagenes/029/422/0029422053/1200x675/smart/unacjpg.jpg",
-        "summary": "Si la próxima disrupción es la normalidad, se trata del postulante competitivo. Paso sí o Paso no, es la cuestión",
         "pubDate": "2026-10-25T09:30:00+00:00",
         "approxTime": false
       }
