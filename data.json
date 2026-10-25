@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T10:01:09.330922+00:00",
+  "generatedAt": "2026-10-25T10:30:59.690831+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,11 +141,11 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "Uñac, Anti-Milei perfecto",
-        "link": "https://www.lacapital.com.ar/politica/unac-anti-milei-perfecto-n10288176.html",
-        "image": "https://media.lacapital.com.ar/p/b8ecf035bf26acd42e46234206610ade/adjuntos/203/imagenes/029/422/0029422053/1200x675/smart/unacjpg.jpg",
-        "summary": "Si la próxima disrupción es la normalidad, se trata del postulante competitivo. Paso sí o Paso no, es la cuestión",
-        "pubDate": "2026-10-25T09:30:00+00:00",
+        "title": "Villa Constitución, la ciudad que pudo ser la capital argentina",
+        "link": "https://www.lacapital.com.ar/la-region/villa-constitucion-la-ciudad-que-pudo-ser-la-capital-argentina-n10287913.html",
+        "image": "https://media.lacapital.com.ar/p/4ceacc674c389d0b93b4cf8030499e7c/adjuntos/203/imagenes/103/483/0103483664/1200x675/smart/villa7jpg.jpeg",
+        "summary": "De un poblado de dos casas y 94 ranchos a un centro industrial del sur santafesino. Un recorrido por su fundación, su identidad obrera y los lugares que conservan su memoria",
+        "pubDate": "2026-10-25T10:00:00+00:00",
         "approxTime": false
       },
       {
@@ -163,6 +163,15 @@
         "link": "https://www.lacapital.com.ar/la-ciudad/a-metros-del-monumento-asoma-un-minibarrio-casas-rodantes-n10288516.html",
         "image": "https://media.lacapital.com.ar/p/b06311fdff3567c33944d467d61594ce/adjuntos/203/imagenes/103/490/0103490304/1200x675/smart/82786886jpegthumb.jpg",
         "summary": "Los motorhomes se ubican cerca de las guarderías náuticas de la zona. Una comunidad donde se respira espíritu nómade",
+        "pubDate": "2026-10-25T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Uñac, Anti-Milei perfecto",
+        "link": "https://www.lacapital.com.ar/politica/unac-anti-milei-perfecto-n10288176.html",
+        "image": "https://media.lacapital.com.ar/p/b8ecf035bf26acd42e46234206610ade/adjuntos/203/imagenes/029/422/0029422053/1200x675/smart/unacjpg.jpg",
+        "summary": "Si la próxima disrupción es la normalidad, se trata del postulante competitivo. Paso sí o Paso no, es la cuestión",
         "pubDate": "2026-10-25T09:30:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/6787c44c7f453007b2090f6c23ace1f0/adjuntos/203/imagenes/103/490/0103490637/bc.jpeg",
         "summary": "La caída de Gimnasia (M) con Platense fue un buen guiño y a San Lorenzo no le permitió achicar directamente. Newell's depende de sí mismo",
         "pubDate": "2026-10-25T01:27:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Fiesta popular del Turismo Carretera en el Fangio, con el ritual del encuentro entre miles de fanáticos",
-        "link": "https://www.lacapital.com.ar/ovacion/fiesta-popular-del-turismo-carretera-el-fangio-el-ritual-del-encuentro-miles-fanaticos-n10288533.html",
-        "image": "https://media.lacapital.com.ar/p/1a31e89b0a3b9b4aa8be891c4fbc955b/adjuntos/203/imagenes/103/490/0103490559/1200x675/smart/image-5.jpg",
-        "summary": "El Fangio de Rosario volvió a encenderse con la vuelta del Turismo Carretera, que convocó a una multitud que se instaló en sus adyacencias en los días previos.",
-        "pubDate": "2026-10-25T01:24:00+00:00",
         "approxTime": false
       }
     ]
