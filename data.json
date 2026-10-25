@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T21:31:05.287568+00:00",
+  "generatedAt": "2026-10-25T21:42:32.243287+00:00",
   "sites": {
     "rosario3": [
       {
@@ -40,29 +40,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Un incendio en una cochera de zona oeste provocó importantes daños materiales",
-        "link": "https://www.rosario3.com/informaciongeneral/un-incendio-en-una-cochera-de-zona-oeste-provoco-importantes-danos-materiales-20261025-0014.html",
-        "image": "https://www.rosario3.com/__export/1792938636444/sites/rosario3/img/2026/10/25/00.jpg_1825222445.jpg",
-        "summary": "El fuego se desató este domingo por la mañana en Liniers al 1700 y afectó una motocicleta, un lavarropas, muebles y herramientas. No se registraron heridos",
+        "title": "F1: Franco Colapinto debió abandonar el GP de Estados Unidos y lleva cuatro fechas sin sumar",
+        "link": "https://www.rosario3.com/deportes/f1-franco-colapinto-debio-abandonar-el-gp-de-estados-unidos-y-lleva-cuatro-fechas-sin-sumar-20261025-0031.html",
+        "image": "https://www.rosario3.com/__export/1792964236285/sites/rosario3/img/2026/10/25/colapinto_eeuu.jpg_2138234794.jpg",
+        "summary": "El piloto argentino marchaba en la 16ª posición cuando sufrió un desprendimiento en la carrocería de su Alpine. Aceptó la sugerencia del box para preservar el vehículo y acumula cuatro carreras sin puntos",
         "pubDate": "2026-10-25T11:56:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Identificaron el cuerpo hallado en el río Paraná en Granadero Baigorria: era uno de los pescadores desaparecidos",
-        "link": "https://www.rosario3.com/informaciongeneral/identificaron-el-cuerpo-hallado-en-el-rio-parana-en-granadero-baigorria-era-uno-de-los-pescadores-desaparecidos-20261025-0004.html",
-        "image": "https://www.rosario3.com/__export/1771421933838/sites/rosario3/img/2025/11/27/prefectura.jpg_1825222445.jpg",
-        "summary": "Se trata de Gustavo Fabián Muñoz, quien había caído al agua junto a otros tres hombres durante el naufragio de una lancha en Fray Luis Beltrán. Sus familiares lo reconocieron este sábado por la tarde en el Instituto Médico Legal de Rosario. Continúa la búsqueda de Héctor Flores",
-        "pubDate": "2026-10-25T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El Festival Bandera 2026 en imágenes: una multitud disfrutó de la música en Rosario",
-        "link": "https://www.rosario3.com/ocio/el-festival-bandera-2026-en-imagenes-una-multitud-disfruto-de-la-musica-en-rosario-20261025-0008.html",
-        "image": "https://www.rosario3.com/__export/1792935945739/sites/rosario3/img/2026/10/25/fotojet_-1-_version1792935945317.jpg_1753201588.jpg",
-        "summary": "La séptima edición del evento comenzó el último sábado por la tarde y se extendió hasta la madrugada de este domingo en el debut del Parque Estación Central Córdoba como sede. Treinta artistas distribuidos en cuatro escenarios conformaron una grilla amplia y diversa en la que…",
-        "pubDate": "2026-10-25T11:54:00+00:00",
         "approxTime": true
       },
       {
@@ -71,6 +53,24 @@
         "link": "https://www.rosario3.com/informaciongeneral/balotaje-en-brasil-ya-votaron-lula-da-silva-y-flavio-bolsonaro-20261025-0012.html",
         "image": "https://www.rosario3.com/__export/1792937839996/sites/rosario3/img/2026/10/25/dos.jpg_54252853.jpg",
         "summary": "Los comicios presidenciales se iban a extender hasta las 17 (hora local) en todo el país, pero el Tribunal Superior Electoral (TSE) extendió dos horas más ese plazo a partir de reclamos presentados por ambos candidatos a raíz de las dificultades para acudir a los centros de…",
+        "pubDate": "2026-10-25T11:55:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Identificaron el cuerpo hallado en el río Paraná en Granadero Baigorria: era uno de los pescadores desaparecidos",
+        "link": "https://www.rosario3.com/informaciongeneral/identificaron-el-cuerpo-hallado-en-el-rio-parana-en-granadero-baigorria-era-uno-de-los-pescadores-desaparecidos-20261025-0004.html",
+        "image": "https://www.rosario3.com/__export/1771421933838/sites/rosario3/img/2025/11/27/prefectura.jpg_1825222445.jpg",
+        "summary": "Se trata de Gustavo Fabián Muñoz, quien había caído al agua junto a otros tres hombres durante el naufragio de una lancha en Fray Luis Beltrán. Sus familiares lo reconocieron este sábado por la tarde en el Instituto Médico Legal de Rosario. Continúa la búsqueda de Héctor Flores",
+        "pubDate": "2026-10-25T11:54:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "El Festival Bandera 2026 en imágenes: una multitud disfrutó de la música en Rosario",
+        "link": "https://www.rosario3.com/ocio/el-festival-bandera-2026-en-imagenes-una-multitud-disfruto-de-la-musica-en-rosario-20261025-0008.html",
+        "image": "https://www.rosario3.com/__export/1792935945739/sites/rosario3/img/2026/10/25/fotojet_-1-_version1792935945317.jpg_1753201588.jpg",
+        "summary": "La séptima edición del evento comenzó el último sábado por la tarde y se extendió hasta la madrugada de este domingo en el debut del Parque Estación Central Córdoba como sede. Treinta artistas distribuidos en cuatro escenarios conformaron una grilla amplia y diversa en la que…",
         "pubDate": "2026-10-25T11:53:00+00:00",
         "approxTime": true
       },
@@ -94,11 +94,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Un incendio en una cochera de zona oeste provocó importantes daños materiales",
+        "link": "https://www.rosario3.com/informaciongeneral/un-incendio-en-una-cochera-de-zona-oeste-provoco-importantes-danos-materiales-20261025-0014.html",
+        "image": "https://www.rosario3.com/__export/1792938636444/sites/rosario3/img/2026/10/25/00.jpg_1825222445.jpg",
+        "summary": "El fuego se desató este domingo por la mañana en Liniers al 1700 y afectó una motocicleta, un lavarropas, muebles y herramientas. No se registraron heridos",
+        "pubDate": "2026-10-25T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Por qué tener cada vez menos hijos puede ser una buena noticia para la Argentina: \"La demografía está cambiando por muy buenas razones\"",
         "link": "https://www.rosario3.com/informaciongeneral/por-que-tener-cada-vez-menos-hijos-puede-ser-una-buena-noticia-para-la-argentina-la-demografia-esta-cambiando-por-muy-buenas-razones-20261025-0006.html",
         "image": "https://www.rosario3.com/__export/1792935297791/sites/rosario3/img/2026/10/25/rofman.jpg_1768679313.jpg",
         "summary": "En apenas diez años, la cantidad de nacimientos en el país se redujo casi a la mitad. Rafael Rofman, economista y demógrafo del CIPPEC, explicó por qué considera que este fenómeno refleja avances sociales y mayores libertades, especialmente para las mujeres. En su libro La…",
-        "pubDate": "2026-10-25T11:50:00+00:00",
+        "pubDate": "2026-10-25T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -107,7 +116,7 @@
         "link": "https://www.rosario3.com/opinion/el-periodismo-el-espejo-que-el-presidente-detesta-20261025-0009.html",
         "image": "https://www.rosario3.com/__export/1792936370589/sites/rosario3/img/2026/10/25/milei.jpg_1825222445.jpg",
         "summary": "Milei insultando a periodistas es la replica de otro tiempo donde el poder también confrontaba con la comunicación política. Parecidos o diferentes, el camino del deja vu",
-        "pubDate": "2026-10-25T11:49:00+00:00",
+        "pubDate": "2026-10-25T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +125,7 @@
         "link": "https://www.rosario3.com/tecnologia/los-millonarios-de-silicon-valley-que-quieren-vencer-a-la-muerte-20261023-0060.html",
         "image": "https://www.rosario3.com/__export/1792784758527/sites/rosario3/img/2026/10/23/000_-_imagen_de_portada_-_2026-10-23t164455_224.jpg_1768679257.jpg",
         "summary": "Durante miles de años, la humanidad imaginó la inmortalidad como un privilegio de los dioses. Hoy busca conquistarla con ciencia y tecnología, ya sea rejuveneciendo el cuerpo o prescindiendo de él",
-        "pubDate": "2026-10-23T11:48:00+00:00",
+        "pubDate": "2026-10-23T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,20 +134,29 @@
         "link": "https://www.rosario3.com/opinion/aranceles-si-derechos-laborales-no-para-el-estado-argentino-la-actividad-sexual-virtual-no-es-trabajo-pero-le-aplica-retenciones-como-si-lo-fuera-20261021-0086.html",
         "image": "https://www.rosario3.com/__export/1792695809248/sites/rosario3/img/2026/10/22/trabajo_sexual.jpg_1768679257.jpg",
         "summary": "Las trabajadoras sexuales que producen y comercializan contenido a través de internet, siguen fuera del debate público y de los proyectos políticos de inclusión. Mientras los censos de población no las identifican como tales, su actividad en la práctica crece y se precariza a la…",
-        "pubDate": "2026-10-21T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Carlos Avalle: “La simpleza lograda en su máxima expresión es el ideal en la gastronomía”",
-        "link": "https://www.rosario3.com/informaciongeneral/carlos-avalle-la-simpleza-lograda-en-su-maxima-expresion-es-el-ideal-en-la-gastronomia-20261023-0050.html",
-        "image": "https://www.rosario3.com/__export/1792776000264/sites/rosario3/img/2026/10/23/avalle.jpg_2106848870.jpg",
-        "summary": "En 2008, el chef de Refinería decidió abrir su propio restaurante junto a su hermano y construyó una propuesta gastronómica basada en el uso de pocos ingredientes, siempre de estación y trabajados con las técnicas adecuadas para potenciar sus sabores y texturas. En esta charla…",
-        "pubDate": "2026-10-23T11:46:00+00:00",
+        "pubDate": "2026-10-21T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "El rosarino Valentino Merlo cantará para el Papa León XIV en Buenos Aires",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-rosarino-valentino-merlo-cantara-el-papa-leon-xiv-buenos-aires-n10288643.html",
+        "image": "https://media.lacapital.com.ar/p/044f9d9b4f495775f89f9376bedf09e4/adjuntos/203/imagenes/102/002/0102002616/1200x675/smart/image-2024-11-08t083654573jpg.jpg",
+        "summary": "El joven, que hace poco ganó un Martín Fierro de la Música como artista revelación, estará en el \"Encuentro con los jóvenes\" durante la visita del Sumo Pontífice al país",
+        "pubDate": "2026-10-25T21:41:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Franco Colapinto cerró un domingo para olvidar rápido en Austin donde no salió nada y volvió a abandonar",
+        "link": "https://www.lacapital.com.ar/formula-1/franco-colapinto-cerro-un-domingo-olvidar-rapido-austin-donde-no-salio-nada-y-volvio-abandonar-n10288619.html",
+        "image": "https://media.lacapital.com.ar/p/aafd1efd794877901de21bbe5caaa7e8/adjuntos/203/imagenes/103/491/0103491878/1200x675/smart/image-12.jpg",
+        "summary": "El argentino largó en el puesto 20º, la estrategia no lo ayudó y un golpe con Arvid Lindblad lo complicó. La mala racha siguió en Austin para Franco Colapinto.",
+        "pubDate": "2026-10-25T21:30:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Perpetua para una empleada doméstica y su pareja por matar con saña a su patrón en Pérez",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/00295a8fac717fa506ae318edc19f4a9/adjuntos/203/imagenes/103/488/0103488254/1200x675/smart/cambio-neumatico.jpg",
         "summary": "Varios modelos nuevos, especialmente híbridos y eléctricos de origen chino, prescinden del neumático de repuesto para reducir peso y ganar espacio. En su lugar incorporan kits de reparación que no sirven ante roturas graves.",
         "pubDate": "2026-10-25T18:21:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Robos de celulares en Rosario: encontraron nueve teléfonos envueltos en papel aluminio y detuvieron a dos mujeres",
-        "link": "https://www.lacapital.com.ar/policiales/robos-celulares-rosario-encontraron-nueve-telefonos-envueltos-papel-aluminio-y-detuvieron-dos-mujeres-n10288603.html",
-        "image": "https://media.lacapital.com.ar/p/8697f09b15a82123a4b55e334136dda8/adjuntos/203/imagenes/103/491/0103491416/1200x675/smart/image-2026-10-25t145949751.jpg",
-        "summary": "Una víctima rastreó su teléfono mediante geolocalización hasta la Terminal de Ómnibus. La policía encontró los dispositivos ocultos en un baño y detuvo a dos sospechosas domiciliadas en Buenos Aires.",
-        "pubDate": "2026-10-25T18:16:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Ezeiza opera con restricciones por 18 días: por qué Rosario tendrá cuatro vuelos a Panamá y tres a Punta Cana en un solo día",
-        "link": "https://www.lacapital.com.ar/la-ciudad/ezeiza-opera-restricciones-18-dias-que-rosario-tendra-cuatro-vuelos-panama-y-tres-punta-cana-un-solo-dia-n10288602.html",
-        "image": "https://media.lacapital.com.ar/p/abf6272211ceea6c8f5a1b7e8ba40c23/adjuntos/203/imagenes/102/902/0102902553/002-001-copa_aeropuerto_rosario.JPG",
-        "summary": "Por las obras en Ezeiza, Copa Airlines y Arajet utilizan desde este domingo el aeropuerto local para realizar escalas técnicas de reabastecimiento. Los aviones llegan desde Buenos Aires con pasajeros a bordo, cargan combustible sin que nadie descienda y continúan hacia sus…",
-        "pubDate": "2026-10-25T18:15:00+00:00",
         "approxTime": false
       }
     ]
