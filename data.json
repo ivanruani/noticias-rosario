@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T19:01:12.914774+00:00",
+  "generatedAt": "2026-10-25T19:31:00.707877+00:00",
   "sites": {
     "rosario3": [
       {
@@ -7,7 +7,7 @@
         "title": "Run Run: inmobiliarias ponen el pecho al pedido de transparencia en loteos, habeas corpus para Shanahan y Rosario cae como ciudad tech",
         "link": "https://www.rosario3.com/-economia-negocios-agro-/run-run-inmobiliarias-ponen-el-pecho-al-pedido-de-transparencia-en-loteos-habeas-corpus-para-shanahan-y-rosario-cae-como-ciudad-tech-20261025-0026.html",
         "image": "https://www.rosario3.com/__export/1792952094391/sites/rosario3/img/2026/10/25/tech.jpg_59782438.jpg",
-        "summary": "Además: sorpresiva hipótesis sobre la industria del juicio laboral, malestar por un cambio en la legislación laboral que no se activa en la Legislatura, miden el peso del costo de las tasas municipales en la industria, dudas sobre la continuidad del Grupo Roma, grandes…",
+        "summary": "Además: sorpresiva hipótesis sobre la industria del juicio laboral, malestar por un cambio en la legislación laboral que no se activa en la Legislatura, miden el peso de las tasas municipales en las empresas y hay sorpresas entre las ciudades más costosas para la producción…",
         "pubDate": "2026-10-25T12:00:00+00:00",
         "approxTime": true
       },
@@ -141,11 +141,20 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "Primera C: Argentino visita a Defensores de Glew por la Promoción",
-        "link": "https://www.lacapital.com.ar/ovacion/primera-c-argentino-visita-defensores-glew-la-promocion-n10288605.html",
+        "title": "Primera C: Argentino pierde en su visita a Defensores de Glew por la Promoción",
+        "link": "https://www.lacapital.com.ar/ovacion/primera-c-argentino-pierde-su-visita-defensores-glew-la-promocion-n10288605.html",
         "image": "https://media.lacapital.com.ar/p/27a1e05fbcd9ca714393e3a476733dbb/adjuntos/203/imagenes/103/491/0103491510/1200x675/smart/image-10.jpg",
-        "summary": "El equipo de barrio Sarmiento busca un buen resultado en el encuentro de ida ante el elenco del Torneo Promocional Amateur 2026. La revancha dentro de 7 días",
-        "pubDate": "2026-10-25T19:00:00+00:00",
+        "summary": "El equipo de barrio Sarmiento cae en el encuentro de ida ante el elenco del Torneo Promocional Amateur 2026. Theo Guiñazú marró un penal. El local juega con diez por la expulsión de Souto",
+        "pubDate": "2026-10-25T19:22:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Lewandowski en Venado Tuerto: \"El modelo de Milei condena a las pymes y al trabajo argentino\"",
+        "link": "https://www.lacapital.com.ar/politica/lewandowski-venado-tuerto-el-modelo-milei-condena-las-pymes-y-al-trabajo-argentino-n10288608.html",
+        "image": "https://media.lacapital.com.ar/p/2cd6b81a8b5d399ac499a932dd348b24/adjuntos/203/imagenes/103/491/0103491441/1200x675/smart/image-2026-10-25t153615888.jpg",
+        "summary": "El senador nacional visitó la ciudad junto al diputado Miguel Rabbia. Cuestionó el modelo económico nacional por el impacto de las importaciones, el cierre de empresas y la pérdida de empleo",
+        "pubDate": "2026-10-25T19:17:00+00:00",
         "approxTime": false
       },
       {
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/6f874ea9352610bf4c76fbb6be7eee13/adjuntos/203/imagenes/103/483/0103483639/1200x675/smart/mama-autoexamen-jovenes.jpg",
         "summary": "Octubre rosa deja muchas enseñanzas. Cada cuánto debe hacerse la mamografía. Y desde qué edad. El jefe de Ginecología del Hospital Italiano de Rosario, responde todas las preguntas",
         "pubDate": "2026-10-25T11:46:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Nódulo pulmonar: qué significa encontrarlo en una tomografía y cuándo puede ser cáncer",
-        "link": "https://www.lacapital.com.ar/salud/nodulo-pulmonar-que-significa-encontrarlo-una-tomografia-y-cuando-puede-ser-cancer-n10288117.html",
-        "image": "https://media.lacapital.com.ar/p/3125d5272f52cb2c80742dc3090cbb57/adjuntos/203/imagenes/103/485/0103485813/1200x675/smart/imagen-nota.jpg",
-        "summary": "La doctora Ana Báez, del Servicio de Neumonología de Grupo Gamma, responde las consultas más frecuentes sobre nódulos pulmonares, su diagnóstico y cuándo preocuparse",
-        "pubDate": "2026-10-25T11:44:35+00:00",
         "approxTime": false
       }
     ]
