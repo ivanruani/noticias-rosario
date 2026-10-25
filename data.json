@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T02:31:02.443005+00:00",
+  "generatedAt": "2026-10-25T03:01:14.046159+00:00",
   "sites": {
     "rosario3": [
       {
@@ -7,7 +7,7 @@
         "title": "Central vuela hacia la cima: le ganó a Huracán, es puntero de su zona y de la tabla anual al menos por un rato",
         "link": "https://www.rosario3.com/deportes/rosario-central-recibe-a-huracan-en-arroyito-con-la-intencion-de-mantenerse-en-lo-alto-de-su-zona-y-de-pelear-por-la-tabla-anual-20261023-0071.html",
         "image": "https://www.rosario3.com/__export/1792895417187/sites/rosario3/img/2026/10/24/cenral_vuela_a_la_cima.jpg_928314580.jpg",
-        "summary": "El equipo de Jorge Almirón abrió el partido gracias a un cabezazo de Coronel y lo cerró con una linda definición de Di María. El Canalla se impuso 2 a 0 al Globo en la fecha 14 del Torneo Clausura",
+        "summary": "El equipo de Jorge Almirón abrió el partido gracias a un cabezazo de Coronel y lo cerró con una linda definición de Di María. El Canalla se impuso 2 a 0 al Globo en la fecha 14 del Torneo Clausura y mira a todos desde arriba. Puede ser alcanzado por Argentinos que recién juega…",
         "pubDate": "2026-10-23T12:00:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Bruno Cabrera, la gran figura de una defensa de Newell's que fue inexpugnable",
+        "link": "https://www.lacapital.com.ar/ovacion/bruno-cabrera-la-gran-figura-una-defensa-newells-que-fue-inexpugnable-n10288528.html",
+        "image": "https://media.lacapital.com.ar/p/b0639d53875a5eafbef5593adf57da49/adjuntos/203/imagenes/103/490/0103490839/bcabrera.jpeg",
+        "summary": "Bruno Cabrera fue el punto más alto de Newell's ante San Lorenzo. El zaguero está cada vez más sólido",
+        "pubDate": "2026-10-25T02:37:58+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Kudelka: \"El partido fue más luchado que jugado y con más nerviosismo que ideas\"",
         "link": "https://www.lacapital.com.ar/ovacion/kudelka-el-partido-fue-mas-luchado-que-jugado-y-mas-nerviosismo-que-ideas-n10288539.html",
         "image": "https://media.lacapital.com.ar/p/d6a1cb6fecbb97a8e8900c2e3cb2f49c/adjuntos/203/imagenes/103/490/0103490682/fdk.jpeg",
@@ -195,8 +204,8 @@
       },
       {
         "source": "La Capital",
-        "title": "En vivo: Central asegura el triunfo con la gran recuperación de Ibarra y el gol de Di María",
-        "link": "https://www.lacapital.com.ar/ovacion/en-vivo-central-asegura-el-triunfo-la-gran-recuperacion-ibarra-y-el-gol-di-maria-n10288498.html",
+        "title": "En vivo: Central derrotó a un duro Huracán y quedó en lo más alto de la tabla anual",
+        "link": "https://www.lacapital.com.ar/ovacion/en-vivo-central-derroto-un-duro-huracan-y-quedo-lo-mas-alto-la-tabla-anual-n10288498.html",
         "image": "https://media.lacapital.com.ar/p/7d9f722cd55f5d03ac262184235340e4/adjuntos/203/imagenes/103/490/0103490806/1200x675/smart/image-7.jpg",
         "summary": "Central debió jugar un gran partido ante un rival que lo exigió mucho, para ganarle 2 a 0 y quedar momentáneamente arriba, hasta que jueguen Boca y Argentinos",
         "pubDate": "2026-10-25T00:32:00+00:00",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/e9106991e48d7a55e879201e61ae989c/adjuntos/203/imagenes/103/489/0103489053/1200x675/smart/image-9.jpg",
         "summary": "El argentino clasificó 14º y al penalizar 10 lugares partirá 21º. Lo salvó Gabriel Bortoleto de ser último, mientras que el compañero de Alpine Pierre Gasly larga 10º.",
         "pubDate": "2026-10-24T21:48:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Newell's visita a San Lorenzo con un cambio obligado y otro de orden táctico",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-visita-san-lorenzo-un-cambio-obligado-y-otro-orden-tactico-n10288452.html",
-        "image": "https://media.lacapital.com.ar/p/3f9b348c302b51d69688e2ed83b032c4/adjuntos/203/imagenes/103/383/0103383194/luca6.jpg",
-        "summary": "Rodrigo Herrera se lo perderá por una lesión en el pie, pero volverá Luca Regiardo. En el lateral izquierdo, Jerónimo Russo jugará por Franco Escobar",
-        "pubDate": "2026-10-24T21:28:00+00:00",
         "approxTime": false
       }
     ]
