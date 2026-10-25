@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-25T23:01:12.295043+00:00",
+  "generatedAt": "2026-10-25T23:31:00.228433+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Belloso frenó la versión sobre su candidatura a intendente de Rosario: \"Estoy concentrado en Central\"",
+        "link": "https://www.rosario3.com/politica/belloso-freno-la-version-sobre-su-candidatura-a-intendente-de-rosario-estoy-concentrado-en-central-20261025-0035.html",
+        "image": "https://www.rosario3.com/__export/1792970348202/sites/rosario3/img/2023/02/10/belloso.jpg_183442370.jpg",
+        "summary": "Luego de que el intendente de Funes, Roly Santacroce, lo señalara como la persona indicada para gobernar la ciudad, el presidente canalla le agradeció el gesto pero aclaró que su único foco está en el presente y futuro del club de Arroyito",
+        "pubDate": "2026-10-25T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Colectividades con novedades: este año debuta un stand y regresa otro",
         "link": "https://www.rosario3.com/informaciongeneral/colectividades-con-novedades-este-ano-debuta-un-stand-y-regresa-otro-20261020-0043.html",
         "image": "https://www.rosario3.com/__export/1792515947245/sites/rosario3/img/2024/09/18/cataluxa_rabas.jpg_928314581.jpg",
         "summary": "Rumbo a la 42ª edición en el Parque a la Bandera, la lista oficial de 54 instituciones confirmó sorpresas en la oferta gastronómica y cultural de 2026. La grilla sumará un estreno absoluto y el esperado retorno de una comunidad caribeña tras dos años de ausencia",
-        "pubDate": "2026-10-20T12:00:00+00:00",
+        "pubDate": "2026-10-20T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/run-run-inmobiliarias-ponen-el-pecho-al-pedido-de-transparencia-en-loteos-habeas-corpus-para-shanahan-y-rosario-cae-como-ciudad-tech-20261025-0026.html",
         "image": "https://www.rosario3.com/__export/1792952094391/sites/rosario3/img/2026/10/25/tech.jpg_59782438.jpg",
         "summary": "Además: sorpresiva hipótesis sobre la industria del juicio laboral, malestar por un cambio en la legislación laboral que no se activa en la Legislatura, miden el peso de las tasas municipales en las empresas y hay sorpresas entre las ciudades más costosas para la producción…",
-        "pubDate": "2026-10-25T11:59:00+00:00",
+        "pubDate": "2026-10-25T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,25 +35,7 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/record-del-puerto-de-rosario-el-movimiento-de-cargas-subio-un-224-en-los-primeros-nueve-meses-20261025-0018.html",
         "image": "https://www.rosario3.com/__export/1792943917977/sites/rosario3/img/2026/10/25/puerto_de_rosario_version1792943917488.jpg_1414369616.jpg",
         "summary": "El sistema de puertos públicos y la Zona Franca de Santa Fe acumuló más de 3,3 millones de toneladas de enero a septiembre de 2026. De ese total, Terminal Puerto Rosario aportó 2.365.214 toneladas",
-        "pubDate": "2026-10-25T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Paros en la UNR: docentes y no docentes anuncian medidas de fuerza para esta semana",
-        "link": "https://www.rosario3.com/informaciongeneral/paros-en-la-unr-docentes-y-no-docentes-anuncian-medidas-de-fuerza-para-esta-semana-20261025-0007.html",
-        "image": "https://www.rosario3.com/__export/1792935395097/sites/rosario3/img/2026/10/25/unr.jpg_1825222445.jpg",
-        "summary": "Coad realizará una huelga de cinco jornadas entre octubre y noviembre, mientras que Apur confirmó dos días de protesta. La actividad académica dependerá de la adhesión en cada facultad y cátedra",
         "pubDate": "2026-10-25T11:57:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Balotaje en Brasil: concluyó la votación tras la polémica por la extensión del horario y se desarrollaba el recuento de votos",
-        "link": "https://www.rosario3.com/informaciongeneral/balotaje-en-brasil-ya-votaron-lula-da-silva-y-flavio-bolsonaro-20261025-0012.html",
-        "image": "https://www.rosario3.com/__export/1792937839996/sites/rosario3/img/2026/10/25/dos.jpg_54252853.jpg",
-        "summary": "Los comicios presidenciales se extendieron hasta las 19 por disposición del Tribunal Superior Electoral (TSE), a partir de reclamos presentados por Lula da Silva y Flávio Bolsonaro a raíz de las dificultades para acudir a los centros de votación en diferentes distritos",
-        "pubDate": "2026-10-25T11:56:00+00:00",
         "approxTime": true
       },
       {
@@ -53,6 +44,15 @@
         "link": "https://www.rosario3.com/informaciongeneral/empresarios-y-espacios-opositores-llamaron-a-un-debate-sin-agravios-tras-los-nuevos-ataques-de-milei-al-periodismo-20261025-0028.html",
         "image": "https://www.rosario3.com/__export/1792954562573/sites/rosario3/img/2026/10/25/mileiperiodistas.jpg_2106848869.jpg",
         "summary": "Desde el Instituto para el Desarrollo Empresarial de la Argentina (Idea), organización que agrupa a las principales compañías del país, manifestaron que “la libertad de prensa y el respeto por las ideas, aun cuando existan diferencias, son pilares fundamentales de la convivencia…",
+        "pubDate": "2026-10-25T11:56:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Balotaje en Brasil: concluyó la votación tras la polémica por la extensión del horario y se desarrollaba el recuento de votos",
+        "link": "https://www.rosario3.com/informaciongeneral/balotaje-en-brasil-ya-votaron-lula-da-silva-y-flavio-bolsonaro-20261025-0012.html",
+        "image": "https://www.rosario3.com/__export/1792937839996/sites/rosario3/img/2026/10/25/dos.jpg_54252853.jpg",
+        "summary": "Los comicios presidenciales se extendieron hasta las 19 por disposición del Tribunal Superior Electoral (TSE), a partir de reclamos presentados por Lula da Silva y Flávio Bolsonaro a raíz de las dificultades para acudir a los centros de votación en diferentes distritos",
         "pubDate": "2026-10-25T11:55:00+00:00",
         "approxTime": true
       },
@@ -67,10 +67,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "F1: Franco Colapinto debió abandonar el GP de Estados Unidos y lleva cuatro fechas sin sumar",
-        "link": "https://www.rosario3.com/deportes/f1-franco-colapinto-debio-abandonar-el-gp-de-estados-unidos-y-lleva-cuatro-fechas-sin-sumar-20261025-0031.html",
-        "image": "https://www.rosario3.com/__export/1792964236285/sites/rosario3/img/2026/10/25/colapinto_eeuu.jpg_2138234794.jpg",
-        "summary": "El piloto argentino marchaba en la 16ª posición cuando sufrió un desprendimiento en la carrocería y aceptó la sugerencia de Alpine. Acumula cuatro carreras sin puntos. Antonelli ganó y quedó a un paso del título",
+        "title": "Con un gol sobre el final, Boca le ganó a Independiente y recuperó la punta de la tabla anual",
+        "link": "https://www.rosario3.com/deportes/con-un-gol-sobre-el-final-boca-le-gano-a-independiente-y-recupero-la-punta-de-la-tabla-anual-20261025-0033.html",
+        "image": "https://www.rosario3.com/__export/1792967519091/sites/rosario3/img/2026/10/25/boca.jpg_2106848869.jpg",
+        "summary": "En un intenso partido, el Xeneize se llevó una importante victoria en Avellaneda gracias al cabezazo del juvenil Jagger Herrera, que marcó su primer tanto como profesional. Así, el equipo de Arruabarrena llega de la mejor manera al Superclásico. Por su parte, el Rojo acumula…",
         "pubDate": "2026-10-25T11:53:00+00:00",
         "approxTime": true
       },
@@ -85,11 +85,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "F1: Franco Colapinto debió abandonar el GP de Estados Unidos y lleva cuatro fechas sin sumar",
+        "link": "https://www.rosario3.com/deportes/f1-franco-colapinto-debio-abandonar-el-gp-de-estados-unidos-y-lleva-cuatro-fechas-sin-sumar-20261025-0031.html",
+        "image": "https://www.rosario3.com/__export/1792964236285/sites/rosario3/img/2026/10/25/colapinto_eeuu.jpg_2138234794.jpg",
+        "summary": "El piloto argentino marchaba en la 16ª posición cuando sufrió un desprendimiento en la carrocería y aceptó la sugerencia de Alpine. Acumula cuatro carreras sin puntos. Antonelli ganó y quedó a un paso del título",
+        "pubDate": "2026-10-25T11:51:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "El Festival Bandera 2026 en imágenes: una multitud disfrutó de la música en Rosario",
         "link": "https://www.rosario3.com/ocio/el-festival-bandera-2026-en-imagenes-una-multitud-disfruto-de-la-musica-en-rosario-20261025-0008.html",
         "image": "https://www.rosario3.com/__export/1792935945739/sites/rosario3/img/2026/10/25/fotojet_-1-_version1792935945317.jpg_1753201588.jpg",
         "summary": "La séptima edición del evento comenzó el último sábado por la tarde y se extendió hasta la madrugada de este domingo en el debut del Parque Estación Central Córdoba como sede. Treinta artistas distribuidos en cuatro escenarios conformaron una grilla amplia y diversa en la que…",
-        "pubDate": "2026-10-25T11:51:00+00:00",
+        "pubDate": "2026-10-25T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -98,7 +107,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/la-lider-opositora-maria-corina-machado-regreso-a-venezuela-20261025-0024.html",
         "image": "https://www.rosario3.com/__export/1792947095602/sites/rosario3/img/2026/10/25/machado.jpg_1825222445.jpg",
         "summary": "Reapareció este domingo en una Iglesia católica del estado Lara abrazada por los seguidores de su partido Vente Venezuela",
-        "pubDate": "2026-10-25T11:50:00+00:00",
+        "pubDate": "2026-10-25T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -107,7 +116,7 @@
         "link": "https://www.rosario3.com/policiales/detuvieron-a-dos-mujeres-en-la-terminal-con-nueve-celulares-tras-el-rastreo-de-un-telefono-robado-20261025-0016.html",
         "image": "https://www.rosario3.com/__export/1792940955381/sites/rosario3/img/2026/10/25/000.jpg_1825222412.jpg",
         "summary": "El procedimiento se realizó este domingo por la madrugada, luego de que una víctima lograra geolocalizar su dispositivo. La Policía encontró los aparatos envueltos en papel aluminio dentro de un baño",
-        "pubDate": "2026-10-25T11:49:00+00:00",
+        "pubDate": "2026-10-25T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +125,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/por-que-tener-cada-vez-menos-hijos-puede-ser-una-buena-noticia-para-la-argentina-la-demografia-esta-cambiando-por-muy-buenas-razones-20261025-0006.html",
         "image": "https://www.rosario3.com/__export/1792935297791/sites/rosario3/img/2026/10/25/rofman.jpg_1768679313.jpg",
         "summary": "En apenas diez años, la cantidad de nacimientos en el país se redujo casi a la mitad. Rafael Rofman, economista y demógrafo del CIPPEC, explicó por qué considera que este fenómeno refleja avances sociales y mayores libertades, especialmente para las mujeres. En su libro La…",
-        "pubDate": "2026-10-25T11:48:00+00:00",
+        "pubDate": "2026-10-25T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,27 +134,27 @@
         "link": "https://www.rosario3.com/opinion/el-periodismo-el-espejo-que-el-presidente-detesta-20261025-0009.html",
         "image": "https://www.rosario3.com/__export/1792936370589/sites/rosario3/img/2026/10/25/milei.jpg_1825222445.jpg",
         "summary": "Milei insultando a periodistas es la replica de otro tiempo donde el poder también confrontaba con la comunicación política. Parecidos o diferentes, el camino del deja vu",
-        "pubDate": "2026-10-25T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Los millonarios de Silicon Valley que quieren vencer a la muerte",
-        "link": "https://www.rosario3.com/tecnologia/los-millonarios-de-silicon-valley-que-quieren-vencer-a-la-muerte-20261023-0060.html",
-        "image": "https://www.rosario3.com/__export/1792784758527/sites/rosario3/img/2026/10/23/000_-_imagen_de_portada_-_2026-10-23t164455_224.jpg_1768679257.jpg",
-        "summary": "Durante miles de años, la humanidad imaginó la inmortalidad como un privilegio de los dioses. Hoy busca conquistarla con ciencia y tecnología, ya sea rejuveneciendo el cuerpo o prescindiendo de él",
-        "pubDate": "2026-10-23T11:46:00+00:00",
+        "pubDate": "2026-10-25T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "Cerraron las urnas en Brasil: Bolsonaro le saca una leve ventaja a Lula en el primer tramo del recuento",
-        "link": "https://www.lacapital.com.ar/el-mundo/cerraron-las-urnas-brasil-bolsonaro-le-saca-una-leve-ventaja-lula-el-primer-tramo-del-recuento-n10288650.html",
+        "title": "Balotaje voto a voto en Brasil: Bolsonaro sostiene una leve ventaja a Lula con más del 40% de los votos escrutados",
+        "link": "https://www.lacapital.com.ar/el-mundo/balotaje-voto-voto-brasil-bolsonaro-sostiene-una-leve-ventaja-lula-mas-del-40-los-votos-escrutados-n10288650.html",
         "image": "https://media.lacapital.com.ar/p/d9c1b52c5536bdee18925c8472e984a1/adjuntos/203/imagenes/103/491/0103491997/1200x675/smart/imagebolso.jpg",
         "summary": "La votación se extendió hasta las 19 por una decisión judicial de último momento. El Tribunal Superior Electoral reanudó el escrutinio para definir al próximo presidente entre Lula da Silva y Flávio Bolsonaro.",
-        "pubDate": "2026-10-25T22:52:00+00:00",
+        "pubDate": "2026-10-25T23:21:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Gonzalo Belloso rompió el silencio sobre su posible candidatura a intendente de Rosario: qué dijo",
+        "link": "https://www.lacapital.com.ar/politica/gonzalo-belloso-rompio-el-silencio-su-posible-candidatura-intendente-rosario-que-dijo-n10288659.html",
+        "image": "https://media.lacapital.com.ar/p/31fe6fcf94ac488e837e6ef8bc27288e/adjuntos/203/imagenes/102/878/0102878534/belloso.JPG",
+        "summary": "El presidente de Central respondió a las declaraciones del intendente de Funes, Roly Santacroce, quien lo postuló para disputar la Municipalidad en 2027 por el peronismo.",
+        "pubDate": "2026-10-25T22:59:00+00:00",
         "approxTime": false
       },
       {
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/7ab2d93dee8eaa17aab228149126f691/adjuntos/203/imagenes/103/491/0103491548/reinarri2.jpeg",
         "summary": "El arquero leproso volvió a tener una actuación determinante para que la Lepra consiga un punto valioso ante San Lorenzo y repartió elogios hacia la defensa",
         "pubDate": "2026-10-25T19:29:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Elecciones en Brasil: a qué hora se conocerá el ganador del balotaje entre Lula y Bolsonaro",
-        "link": "https://www.lacapital.com.ar/el-mundo/elecciones-brasil-que-hora-se-conocera-el-ganador-del-balotaje-lula-y-bolsonaro-n10288613.html",
-        "image": "https://media.lacapital.com.ar/p/0df2e80d29d9ea6e167cff473d9173b3/adjuntos/203/imagenes/103/481/0103481794/1200x675/smart/imagelula.jpg",
-        "summary": "El Tribunal Superior Electoral comenzará a difundir los resultados oficiales este domingo a partir de las 17, hora argentina. El antecedente de 2022 permite estimar cuándo podría definirse la disputa presidencial.",
-        "pubDate": "2026-10-25T19:26:00+00:00",
         "approxTime": false
       }
     ]
