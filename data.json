@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T14:30:58.830158+00:00",
+  "generatedAt": "2026-10-25T15:01:09.344219+00:00",
   "sites": {
     "rosario3": [
       {
@@ -49,11 +49,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Un incendio en una cochera de zona oeste provocó importantes daños materiales",
+        "link": "https://www.rosario3.com/informaciongeneral/un-incendio-en-una-cochera-de-zona-oeste-provoco-importantes-danos-materiales-20261025-0014.html",
+        "image": "https://www.rosario3.com/__export/1792938636444/sites/rosario3/img/2026/10/25/00.jpg_1825222445.jpg",
+        "summary": "El fuego se desató este domingo por la mañana en Liniers al 1700 y afectó una motocicleta, un lavarropas, muebles y herramientas. No se registraron heridos",
+        "pubDate": "2026-10-25T11:55:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Identificaron el cuerpo hallado en el río Paraná en Granadero Baigorria: era uno de los pescadores desaparecidos",
         "link": "https://www.rosario3.com/informaciongeneral/identificaron-el-cuerpo-hallado-en-el-rio-parana-en-granadero-baigorria-era-uno-de-los-pescadores-desaparecidos-20261025-0004.html",
         "image": "https://www.rosario3.com/__export/1771421933838/sites/rosario3/img/2025/11/27/prefectura.jpg_1825222445.jpg",
         "summary": "Se trata de Gustavo Fabián Muñoz, quien había caído al agua junto a otros tres hombres durante el naufragio de una lancha en Fray Luis Beltrán. Sus familiares lo reconocieron este sábado por la tarde en el Instituto Médico Legal de Rosario. Continúa la búsqueda de Héctor Flores",
-        "pubDate": "2026-10-25T11:55:00+00:00",
+        "pubDate": "2026-10-25T11:54:00+00:00",
         "approxTime": true
       },
       {
@@ -62,7 +71,7 @@
         "link": "https://www.rosario3.com/opinion/aranceles-si-derechos-laborales-no-para-el-estado-argentino-la-actividad-sexual-virtual-no-es-trabajo-pero-le-aplica-retenciones-como-si-lo-fuera-20261021-0086.html",
         "image": "https://www.rosario3.com/__export/1792695809248/sites/rosario3/img/2026/10/22/trabajo_sexual.jpg_1768679257.jpg",
         "summary": "Las trabajadoras sexuales que producen y comercializan contenido a través de internet, siguen fuera del debate público y de los proyectos políticos de inclusión. Mientras los censos de población no las identifican como tales, su actividad en la práctica crece y se precariza a la…",
-        "pubDate": "2026-10-21T11:54:00+00:00",
+        "pubDate": "2026-10-21T11:53:00+00:00",
         "approxTime": true
       },
       {
@@ -71,16 +80,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/balotaje-en-brasil-ya-votaron-lula-da-silva-y-flavio-bolsonaro-20261025-0012.html",
         "image": "https://www.rosario3.com/__export/1792937839996/sites/rosario3/img/2026/10/25/dos.jpg_54252853.jpg",
         "summary": "Los comicios presidenciales se desarrollaban este domingo, desde las 8 hasta las 17 (hora local) en todo el país. Unos 158,7 millones de personas están habilitadas para elegir al futuro jede de Estado y también seis mandatarios regionales",
-        "pubDate": "2026-10-25T11:53:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El impacto de \"El Niño\", la variabilidad del régimen de lluvias y el rol crucial de las mediciones exactas",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/el-impacto-de-el-nino-la-variabilidad-del-regimen-de-lluvias-y-el-rol-crucial-de-las-mediciones-exactas-20261022-0069.html",
-        "image": "https://www.rosario3.com/__export/1792702688144/sites/rosario3/img/2026/10/22/pluvixmetro_1.jpg_982625323.jpg",
-        "summary": "Clima, precisión y la tecnología indispensable para el campo actual",
-        "pubDate": "2026-10-22T11:52:00+00:00",
+        "pubDate": "2026-10-25T11:52:00+00:00",
         "approxTime": true
       },
       {
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Ranking de gobernadores: cómo quedó ubicado Pullaro en una encuesta nacional",
+        "link": "https://www.lacapital.com.ar/politica/ranking-gobernadores-como-quedo-ubicado-pullaro-una-encuesta-nacional-n10288586.html",
+        "image": "https://media.lacapital.com.ar/p/854e5c3913dab2c91c0ae690218c7d70/adjuntos/203/imagenes/103/396/0103396229/1200x675/smart/pullaro.jpeg",
+        "summary": "Según la encuestadora Global Data, el gobernador alcanzó el 52,5 % de valoración favorable y sigue entre los dirigentes provinciales con mejor imagen",
+        "pubDate": "2026-10-25T14:52:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Lanzan el primer premio provincial para estudiantes de arquitectura",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/d962f4929e767a18cc8ec40c5be94cc8/adjuntos/203/imagenes/103/486/0103486013/82783273.jpeg",
         "summary": "La nueva línea de Las Brisas está compuesta por tres sabores con proteína de colágeno, vitaminas B3, B6 y B12 y sin azúcar agregada. Además, proyectan lanzamientos de alimentos funcionales para los próximos meses",
         "pubDate": "2026-10-25T11:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Villa Constitución, la ciudad que pudo ser la capital argentina",
-        "link": "https://www.lacapital.com.ar/la-region/villa-constitucion-la-ciudad-que-pudo-ser-la-capital-argentina-n10287913.html",
-        "image": "https://media.lacapital.com.ar/p/4ceacc674c389d0b93b4cf8030499e7c/adjuntos/203/imagenes/103/483/0103483664/1200x675/smart/villa7jpg.jpeg",
-        "summary": "De un poblado de dos casas y 94 ranchos a un centro industrial del sur santafesino. Un recorrido por su fundación, su identidad obrera y los lugares que conservan su memoria",
-        "pubDate": "2026-10-25T10:00:00+00:00",
         "approxTime": false
       }
     ]
