@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T18:58:17.629560+00:00",
+  "generatedAt": "2026-10-25T19:01:12.914774+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Primera C: Argentino visita a Defensores de Glew por la Promoción",
+        "link": "https://www.lacapital.com.ar/ovacion/primera-c-argentino-visita-defensores-glew-la-promocion-n10288605.html",
+        "image": "https://media.lacapital.com.ar/p/27a1e05fbcd9ca714393e3a476733dbb/adjuntos/203/imagenes/103/491/0103491510/1200x675/smart/image-10.jpg",
+        "summary": "El equipo de barrio Sarmiento busca un buen resultado en el encuentro de ida ante el elenco del Torneo Promocional Amateur 2026. La revancha dentro de 7 días",
+        "pubDate": "2026-10-25T19:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Puam de Ansés: cómo funciona y cuánto se cobra",
         "link": "https://www.lacapital.com.ar/informacion-general/puam-anses-como-funciona-y-cuanto-se-cobra-n10288328.html",
         "image": "https://media.lacapital.com.ar/p/59e9e9b9231f66b22d4e22d63199f6e6/adjuntos/203/imagenes/102/185/0102185137/1200x675/smart/ansesjpg.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/3125d5272f52cb2c80742dc3090cbb57/adjuntos/203/imagenes/103/485/0103485813/1200x675/smart/imagen-nota.jpg",
         "summary": "La doctora Ana Báez, del Servicio de Neumonología de Grupo Gamma, responde las consultas más frecuentes sobre nódulos pulmonares, su diagnóstico y cuándo preocuparse",
         "pubDate": "2026-10-25T11:44:35+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Dengue: qué hay que saber sobre la vacuna y cómo prevenirlo",
-        "link": "https://www.lacapital.com.ar/salud/dengue-que-hay-que-saber-la-vacuna-y-como-prevenirlo-n10288118.html",
-        "image": "https://media.lacapital.com.ar/p/9022c2e7427b895341ae27be53d0e107/adjuntos/203/imagenes/103/485/0103485814/1200x675/smart/imagen-nota.jpg",
-        "summary": "Con la llegada de los meses cálidos y lluviosos, la prevención del dengue vuelve a ser prioridad. Cómo se transmite, qué hábitos cortan el ciclo del mosquito y quiénes pueden vacunarse en Grupo Oroño",
-        "pubDate": "2026-10-25T11:44:30+00:00",
         "approxTime": false
       }
     ]
