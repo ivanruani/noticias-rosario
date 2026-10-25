@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T15:31:00.963342+00:00",
+  "generatedAt": "2026-10-25T16:01:06.973796+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "La Calle Recreativa festejó sus 16 años con una convocatoria récord pese al frío",
+        "link": "https://www.lacapital.com.ar/la-ciudad/la-calle-recreativa-festejo-sus-16-anos-una-convocatoria-record-pese-al-frio-n10288592.html",
+        "image": "https://media.lacapital.com.ar/p/c9ff504a791c1cf03e834d3c0b0ddbe0/adjuntos/203/imagenes/103/491/0103491411/1200x675/smart/calle-recreativa4.jpg",
+        "summary": "Miles de rosarinos se acercaron a celebrar el cumpleaños de la Calle Recreativa lo festejó con una jornada especial de actividades deportivas, espectáculos y sorteos",
+        "pubDate": "2026-10-25T15:32:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Di María: \"El objetivo es pelear absolutamente todo, volver a jugar la Copa Libertadores\"",
         "link": "https://www.lacapital.com.ar/ovacion/di-maria-el-objetivo-es-pelear-absolutamente-todo-volver-jugar-la-copa-libertadores-n10288580.html",
         "image": "https://media.lacapital.com.ar/p/6a77703cac2302a3837b6bd4635486dd/adjuntos/203/imagenes/103/491/0103491326/fideo.jpeg",
@@ -262,15 +271,6 @@
         "link": "https://www.lacapital.com.ar/novedades/city-center-rosario-celebro-su-aniversario-eber-luduena-como-protagonista-n10287903.html",
         "image": "https://media.lacapital.com.ar/p/90835acd124338ee2b9eb7946f14f6d9/adjuntos/203/imagenes/103/483/0103483647/1200x675/smart/city-center-2110.jpg",
         "summary": "El complejo festejó un nuevo aniversario con un show de stand up del reconocido humorista, quien además es la cara visible de la gran promoción aniversario que sortea las llaves del City por un año.",
-        "pubDate": "2026-10-25T11:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La ópera \"Macbeth\" debuta en el Teatro El Círculo con una rosarina como protagonista",
-        "link": "https://www.lacapital.com.ar/zoom/la-opera-macbeth-debuta-el-teatro-el-circulo-una-rosarina-como-protagonista-n10288116.html",
-        "image": "https://media.lacapital.com.ar/p/c07dc1575263110254267f08482e2a91/adjuntos/203/imagenes/103/489/0103489784/1200x675/smart/lm.jpeg",
-        "summary": "La reconocida pieza de Giuseppe Verdi, en una nueva producción de la Asociación Cultural El Círculo, estrena en la ciudad este domingo",
         "pubDate": "2026-10-25T11:00:00+00:00",
         "approxTime": false
       }
