@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T08:30:58.227182+00:00",
+  "generatedAt": "2026-10-25T09:01:17.192576+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "La revancha de Milei, las señales de Bullrich y las tensiones en Unidos",
+        "link": "https://www.lacapital.com.ar/suscriptores/la-revancha-milei-las-senales-bullrich-y-las-tensiones-unidos-n10288524.html",
+        "image": "https://media.lacapital.com.ar/p/7fee048e34e8d657cb5fe9070fd505f4/adjuntos/203/imagenes/103/490/0103490444/1200x675/smart/milei-fundacion-faro.jpg",
+        "summary": "El presidente cerró una semana de furia entre España, las dudas sobre la economía y el fallo en el caso $Libra. Las ayudas de los aliados en un momento difícil. En Santa Fe, el proyecto sobre seguridad calienta la relación entre radicales y socialistas",
+        "pubDate": "2026-10-25T09:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Jorge Almirón se pasó de rosca pero su equipo siguió marchando hacia una victoria fundamental",
         "link": "https://www.lacapital.com.ar/ovacion/jorge-almiron-se-paso-rosca-pero-su-equipo-siguio-marchando-una-victoria-fundamental-n10288551.html",
         "image": "https://media.lacapital.com.ar/p/f61e9c4793176ec4c56294e1af76f5cd/adjuntos/203/imagenes/103/490/0103490940/1200x675/smart/image-9.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/bd020fac345596d3ead484ab9257c259/adjuntos/203/imagenes/103/490/0103490419/1200x675/smart/image-2026-10-24t204404480.png",
         "summary": "En su séptima edición, el encuentro llegó por primera vez al parque Estación Central Córdoba, con más de 30 artistas y gran convocatoria",
         "pubDate": "2026-10-25T00:22:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central tiene equipo confirmado: la vuelta de un jugador que todos querían volver a ver",
-        "link": "https://www.lacapital.com.ar/ovacion/central-tiene-equipo-confirmado-la-vuelta-un-jugador-que-todos-querian-volver-ver-n10288447.html",
-        "image": "https://media.lacapital.com.ar/p/1157decb9b07b9da12fc6aa9c2d40e9f/adjuntos/203/imagenes/103/489/0103489496/almironcml.jpeg",
-        "summary": "Almirón dispuso del regreso de Franco Ibarra, quien se recuperó de una molestia en el aductor. El Canalla juega otra final, esta vez ante Huracán",
-        "pubDate": "2026-10-24T23:38:00+00:00",
         "approxTime": false
       }
     ]
