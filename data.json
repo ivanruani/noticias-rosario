@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T09:30:58.878242+00:00",
+  "generatedAt": "2026-10-25T10:01:09.330922+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,33 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Uñac, Anti-Milei perfecto",
+        "link": "https://www.lacapital.com.ar/politica/unac-anti-milei-perfecto-n10288176.html",
+        "image": "https://media.lacapital.com.ar/p/b8ecf035bf26acd42e46234206610ade/adjuntos/203/imagenes/029/422/0029422053/1200x675/smart/unacjpg.jpg",
+        "summary": "Si la próxima disrupción es la normalidad, se trata del postulante competitivo. Paso sí o Paso no, es la cuestión",
+        "pubDate": "2026-10-25T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El futuro del pasaje Simeoni se piensa como paseo gastronómico",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-futuro-del-pasaje-simeoni-se-piensa-como-paseo-gastronomico-n10285614.html",
+        "image": "https://media.lacapital.com.ar/p/b7d4a503f0b1a31f18f320a63db5c26c/adjuntos/203/imagenes/103/490/0103490351/1200x675/smart/82751270jpegthumb.jpg",
+        "summary": "Obras en la plaza de la Cooperación, locales gastronómicos en planta baja de dos nuevos edificios y lo que vendrá en Berlín anticipan una nueva etapa para la cortada. Analizan ensanchar veredas para acompañar el movimiento",
+        "pubDate": "2026-10-25T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "A metros del Monumento asoma un minibarrio de casas rodantes",
+        "link": "https://www.lacapital.com.ar/la-ciudad/a-metros-del-monumento-asoma-un-minibarrio-casas-rodantes-n10288516.html",
+        "image": "https://media.lacapital.com.ar/p/b06311fdff3567c33944d467d61594ce/adjuntos/203/imagenes/103/490/0103490304/1200x675/smart/82786886jpegthumb.jpg",
+        "summary": "Los motorhomes se ubican cerca de las guarderías náuticas de la zona. Una comunidad donde se respira espíritu nómade",
+        "pubDate": "2026-10-25T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Gremios rechazan la desegulación del transporte fluvial",
         "link": "https://www.lacapital.com.ar/economia/gremios-rechazan-la-desegulacion-del-transporte-fluvial-n10288520.html",
         "image": "https://media.lacapital.com.ar/p/f073d75de7b6f82f5556c06b6d092e13/adjuntos/203/imagenes/103/490/0103490327/1200x675/smart/marina-mercante-eb.jpg",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/1a31e89b0a3b9b4aa8be891c4fbc955b/adjuntos/203/imagenes/103/490/0103490559/1200x675/smart/image-5.jpg",
         "summary": "El Fangio de Rosario volvió a encenderse con la vuelta del Turismo Carretera, que convocó a una multitud que se instaló en sus adyacencias en los días previos.",
         "pubDate": "2026-10-25T01:24:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Argentino empieza la otra final para seguir jugando en la Primera C en el 2027",
-        "link": "https://www.lacapital.com.ar/ovacion/argentino-empieza-la-otra-final-seguir-jugando-la-primera-c-el-2027-n10288529.html",
-        "image": "https://media.lacapital.com.ar/p/82d8151203db9d96b6177c8aa5bbf822/adjuntos/203/imagenes/103/490/0103490535/1200x675/smart/image-3.jpg",
-        "summary": "Los salaítos visitan a Defendores de Glew, del Promocional Amateur, y la semana próxima definen la permanencia en el Olaeta.",
-        "pubDate": "2026-10-25T01:07:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El uno x uno de Newell's: Bruno Cabrera sostuvo el sólido trabajo defensivo",
-        "link": "https://www.lacapital.com.ar/ovacion/el-uno-x-uno-newells-bruno-cabrera-sostuvo-el-solido-trabajo-defensivo-n10288493.html",
-        "image": "https://media.lacapital.com.ar/p/bef8e75c507b288054cd7061d507f335/adjuntos/203/imagenes/103/490/0103490384/111.jpg",
-        "summary": "El marcador central se impuso ante cada delantero de punta que trató de superarlo. Tuvo un desempeño destacado en el 0 a 0 frente a San Lorenzo.",
-        "pubDate": "2026-10-25T00:58:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Newell's sacó un empate con sabor a victoria que lo deja más cerca de la fase final",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-saco-un-empate-sabor-victoria-que-lo-deja-mas-cerca-la-fase-final-n10288495.html",
-        "image": "https://media.lacapital.com.ar/p/3367e67eb9795c298fed5e3618fbfdf7/adjuntos/203/imagenes/103/490/0103490501/lepra5.jpeg",
-        "summary": "La seriedad con la que el conjunto de Kudelka asumió el partido le permitió sumar un punto valioso frente a un rival directo por la clasificación. Newell's sueña",
-        "pubDate": "2026-10-25T00:49:00+00:00",
         "approxTime": false
       }
     ]
