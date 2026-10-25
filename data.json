@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T03:31:01.780500+00:00",
+  "generatedAt": "2026-10-25T04:01:13.159067+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Jorge Almirón se pasó de rosca pero su equipo siguió marchando hacia una victoria fundamental",
+        "link": "https://www.lacapital.com.ar/ovacion/jorge-almiron-se-paso-rosca-pero-su-equipo-siguio-marchando-una-victoria-fundamental-n10288551.html",
+        "image": "https://media.lacapital.com.ar/p/f61e9c4793176ec4c56294e1af76f5cd/adjuntos/203/imagenes/103/490/0103490940/1200x675/smart/image-9.jpg",
+        "summary": "El DT perdió la calma en el primer tiempo y el juez lo expulsó, pero Central nunca perdió la línea, al punto que los cambios llegaron al final",
+        "pubDate": "2026-10-25T03:38:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El uno x uno de Central: Campaz e Ibarra hicieron que la bandera canalla flameara allá arriba",
         "link": "https://www.lacapital.com.ar/ovacion/el-uno-x-uno-central-campaz-e-ibarra-hicieron-que-la-bandera-canalla-flameara-alla-arriba-n10288384.html",
         "image": "https://media.lacapital.com.ar/p/620f9d4d42132825493d36762dfc5d36/adjuntos/203/imagenes/103/490/0103490490/1200x675/smart/image-2.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/1157decb9b07b9da12fc6aa9c2d40e9f/adjuntos/203/imagenes/103/489/0103489496/almironcml.jpeg",
         "summary": "Almirón dispuso del regreso de Franco Ibarra, quien se recuperó de una molestia en el aductor. El Canalla juega otra final, esta vez ante Huracán",
         "pubDate": "2026-10-24T23:38:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El tiempo en Rosario: domingo de chaparrones y lunes con temperatura casi invernal",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-domingo-chaparrones-y-lunes-temperatura-casi-invernal-n10288514.html",
-        "image": "https://media.lacapital.com.ar/p/80fd65052852cd7fc0db755002ab913d/adjuntos/203/imagenes/102/565/0102565630/1200x675/smart/lluvia-5.jpeg",
-        "summary": "La inestabilidad será el común denominador en el cierre del fin de semana, antes de una baja considerable en los termómetros",
-        "pubDate": "2026-10-24T22:56:00+00:00",
         "approxTime": false
       }
     ]
