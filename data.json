@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-25T20:01:07.731494+00:00",
+  "generatedAt": "2026-10-25T20:31:00.528311+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Récord del Puerto de Rosario: el movimiento de cargas subió un 22,4% en los primeros nueve meses",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/record-del-puerto-de-rosario-el-movimiento-de-cargas-subio-un-224-en-los-primeros-nueve-meses-20261025-0018.html",
+        "image": "https://www.rosario3.com/__export/1792943917977/sites/rosario3/img/2026/10/25/puerto_de_rosario_version1792943917488.jpg_1414369616.jpg",
+        "summary": "El sistema de puertos públicos y la Zona Franca de Santa Fe acumuló más de 3,3 millones de toneladas de enero a septiembre de 2026. De ese total, Terminal Puerto Rosario aportó 2.365.214 toneladas",
+        "pubDate": "2026-10-25T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Run Run: inmobiliarias ponen el pecho al pedido de transparencia en loteos, habeas corpus para Shanahan y Rosario cae como ciudad tech",
         "link": "https://www.rosario3.com/-economia-negocios-agro-/run-run-inmobiliarias-ponen-el-pecho-al-pedido-de-transparencia-en-loteos-habeas-corpus-para-shanahan-y-rosario-cae-como-ciudad-tech-20261025-0026.html",
         "image": "https://www.rosario3.com/__export/1792952094391/sites/rosario3/img/2026/10/25/tech.jpg_59782438.jpg",
         "summary": "Además: sorpresiva hipótesis sobre la industria del juicio laboral, malestar por un cambio en la legislación laboral que no se activa en la Legislatura, miden el peso de las tasas municipales en las empresas y hay sorpresas entre las ciudades más costosas para la producción…",
-        "pubDate": "2026-10-25T12:00:00+00:00",
+        "pubDate": "2026-10-25T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,15 +26,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/paros-en-la-unr-docentes-y-no-docentes-anuncian-medidas-de-fuerza-para-esta-semana-20261025-0007.html",
         "image": "https://www.rosario3.com/__export/1792935395097/sites/rosario3/img/2026/10/25/unr.jpg_1825222445.jpg",
         "summary": "Coad realizará una huelga de cinco jornadas entre octubre y noviembre, mientras que Apur confirmó dos días de protesta. La actividad académica dependerá de la adhesión en cada facultad y cátedra",
-        "pubDate": "2026-10-25T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El periodismo, el espejo que el presidente detesta",
-        "link": "https://www.rosario3.com/opinion/el-periodismo-el-espejo-que-el-presidente-detesta-20261025-0009.html",
-        "image": "https://www.rosario3.com/__export/1792936370589/sites/rosario3/img/2026/10/25/milei.jpg_1825222445.jpg",
-        "summary": "Milei insultando a periodistas es la replica de otro tiempo donde el poder también confrontaba con la comunicación política. Parecidos o diferentes, el camino del deja vu",
         "pubDate": "2026-10-25T11:58:00+00:00",
         "approxTime": true
       },
@@ -49,10 +49,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Un incendio en una cochera de zona oeste provocó importantes daños materiales",
-        "link": "https://www.rosario3.com/informaciongeneral/un-incendio-en-una-cochera-de-zona-oeste-provoco-importantes-danos-materiales-20261025-0014.html",
-        "image": "https://www.rosario3.com/__export/1792938636444/sites/rosario3/img/2026/10/25/00.jpg_1825222445.jpg",
-        "summary": "El fuego se desató este domingo por la mañana en Liniers al 1700 y afectó una motocicleta, un lavarropas, muebles y herramientas. No se registraron heridos",
+        "title": "Balotaje en Brasil: extendieron dos horas el horario de votación tras reclamos de Lula y Bolsonaro",
+        "link": "https://www.rosario3.com/informaciongeneral/balotaje-en-brasil-ya-votaron-lula-da-silva-y-flavio-bolsonaro-20261025-0012.html",
+        "image": "https://www.rosario3.com/__export/1792937839996/sites/rosario3/img/2026/10/25/dos.jpg_54252853.jpg",
+        "summary": "Los comicios presidenciales se iban a extender hasta las 17 (hora local) en todo el país, pero el Tribunal Superior Electoral (TSE) extendió dos horas más ese plazo a partir de reclamos presentados por ambos candidatos a raíz de las dificultades para acudir a los centros de…",
         "pubDate": "2026-10-25T11:55:00+00:00",
         "approxTime": true
       },
@@ -76,11 +76,29 @@
       },
       {
         "source": "Rosario3",
-        "title": "Neuquén declarará la emergencia meteorológica por seis meses ante las lluvias extremas por el efecto de El Niño",
-        "link": "https://www.rosario3.com/informaciongeneral/neuquen-declarara-la-emergencia-meteorologica-por-seis-meses-ante-las-lluvias-extremas-por-el-efecto-de-el-nino-20261025-0025.html",
-        "image": "https://www.rosario3.com/__export/1792949843016/sites/rosario3/img/2026/10/25/neuquenninxo.jpg_2106848869.jpg",
-        "summary": "El gobernador Rolando Figueroa reveló que “se están llenando cañadones que hace 70 años no recibían esa cantidad de agua” y que esto está provocando el colapso de la infraestructura provincial. Detalló además que se creó un comité para asistir a los damnificados y que se está…",
+        "title": "El Clásico en marcha: Barcelona y Real Madrid paralizan a España y al mundo",
+        "link": "https://www.rosario3.com/deportes/el-clasico-en-marcha-barcelona-y-real-madrid-paralizan-a-espana-y-al-mundo-20261025-0029.html",
+        "image": "https://www.rosario3.com/__export/1792959103469/sites/rosario3/img/2026/10/25/barcelona_real_madrid_clasico.jpg_98453819.jpg",
+        "summary": "El equipo catalán recibe al conjunto blanco esta tarde en el Camp Nou. Ambas potencias se miden desde las 17 por la décima jornada de LaLiga 2026 27",
         "pubDate": "2026-10-25T11:52:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Un incendio en una cochera de zona oeste provocó importantes daños materiales",
+        "link": "https://www.rosario3.com/informaciongeneral/un-incendio-en-una-cochera-de-zona-oeste-provoco-importantes-danos-materiales-20261025-0014.html",
+        "image": "https://www.rosario3.com/__export/1792938636444/sites/rosario3/img/2026/10/25/00.jpg_1825222445.jpg",
+        "summary": "El fuego se desató este domingo por la mañana en Liniers al 1700 y afectó una motocicleta, un lavarropas, muebles y herramientas. No se registraron heridos",
+        "pubDate": "2026-10-25T11:51:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "El periodismo, el espejo que el presidente detesta",
+        "link": "https://www.rosario3.com/opinion/el-periodismo-el-espejo-que-el-presidente-detesta-20261025-0009.html",
+        "image": "https://www.rosario3.com/__export/1792936370589/sites/rosario3/img/2026/10/25/milei.jpg_1825222445.jpg",
+        "summary": "Milei insultando a periodistas es la replica de otro tiempo donde el poder también confrontaba con la comunicación política. Parecidos o diferentes, el camino del deja vu",
+        "pubDate": "2026-10-25T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -89,7 +107,16 @@
         "link": "https://www.rosario3.com/informaciongeneral/la-lider-opositora-maria-corina-machado-regreso-a-venezuela-20261025-0024.html",
         "image": "https://www.rosario3.com/__export/1792947095602/sites/rosario3/img/2026/10/25/machado.jpg_1825222445.jpg",
         "summary": "Reapareció este domingo en una Iglesia católica del estado Lara abrazada por los seguidores de su partido Vente Venezuela",
-        "pubDate": "2026-10-25T11:51:00+00:00",
+        "pubDate": "2026-10-25T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Detuvieron a dos mujeres en la Terminal con nueve celulares tras el rastreo de un teléfono robado",
+        "link": "https://www.rosario3.com/policiales/detuvieron-a-dos-mujeres-en-la-terminal-con-nueve-celulares-tras-el-rastreo-de-un-telefono-robado-20261025-0016.html",
+        "image": "https://www.rosario3.com/__export/1792940955381/sites/rosario3/img/2026/10/25/000.jpg_1825222412.jpg",
+        "summary": "El procedimiento se realizó este domingo por la madrugada, luego de que una víctima lograra geolocalizar su dispositivo. La Policía encontró los aparatos envueltos en papel aluminio dentro de un baño",
+        "pubDate": "2026-10-25T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -98,7 +125,7 @@
         "link": "https://www.rosario3.com/ecos365/noticias/drei-en-el-gran-rosario-una-misma-empresa-puede-pagar-siete-veces-mas-segun-donde-se-radique-20261025-0002.html",
         "image": "https://www.rosario3.com/__export/1792935537286/sites/rosario3/img/2026/10/25/el_color_del_dinero_25_de_octubre_de_2026.png_446026524.png",
         "summary": "Hay fuerte disparidad en industria, gastronomía y en varios rubros más. Fundación Apertura compara el DReI en 19 jurisdicciones. Propone un mapa colaborativo para transparentar la información tributaria que muchos municipios no publican",
-        "pubDate": "2026-10-25T11:50:00+00:00",
+        "pubDate": "2026-10-25T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -107,38 +134,47 @@
         "link": "https://www.rosario3.com/opinion/aranceles-si-derechos-laborales-no-para-el-estado-argentino-la-actividad-sexual-virtual-no-es-trabajo-pero-le-aplica-retenciones-como-si-lo-fuera-20261021-0086.html",
         "image": "https://www.rosario3.com/__export/1792695809248/sites/rosario3/img/2026/10/22/trabajo_sexual.jpg_1768679257.jpg",
         "summary": "Las trabajadoras sexuales que producen y comercializan contenido a través de internet, siguen fuera del debate público y de los proyectos políticos de inclusión. Mientras los censos de población no las identifican como tales, su actividad en la práctica crece y se precariza a la…",
-        "pubDate": "2026-10-21T11:49:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Brasil ante dos caminos: ¿Qué cambiaría con una victoria de Lula o de Flávio Bolsonaro?",
-        "link": "https://www.rosario3.com/politica/brasil-ante-dos-caminos-que-cambiaria-con-una-victoria-de-lula-o-de-flavio-bolsonaro-20261024-0026.html",
-        "image": "https://www.rosario3.com/__export/1792927570020/sites/rosario3/img/2026/10/25/lula_bollsonaro.jpg_1825222445.jpg",
-        "summary": "Quien llegue al Palacio del Planalto deberá enfrentar un Congreso conservador, demandas sociales urgentes y restricciones económicas que pondrán a prueba su capacidad de gobernar, con consecuencias que también alcanzarán a la Argentina y al equilibrio político de América Latina",
-        "pubDate": "2026-10-24T11:48:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Los millonarios de Silicon Valley que quieren vencer a la muerte",
-        "link": "https://www.rosario3.com/tecnologia/los-millonarios-de-silicon-valley-que-quieren-vencer-a-la-muerte-20261023-0060.html",
-        "image": "https://www.rosario3.com/__export/1792784758527/sites/rosario3/img/2026/10/23/000_-_imagen_de_portada_-_2026-10-23t164455_224.jpg_1768679257.jpg",
-        "summary": "Durante miles de años, la humanidad imaginó la inmortalidad como un privilegio de los dioses. Hoy busca conquistarla con ciencia y tecnología, ya sea rejuveneciendo el cuerpo o prescindiendo de él",
-        "pubDate": "2026-10-23T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Una cita para la historia: Banco Nación juega la final de la Copa Argentina de futsal ante Pinocho",
-        "link": "https://www.rosario3.com/deportes/una-cita-para-la-historia-banco-nacion-juega-la-final-de-la-copa-argentina-de-futsal-ante-pinocho-20261023-0063.html",
-        "image": "https://www.rosario3.com/__export/1792785940803/sites/rosario3/img/2026/10/23/banco-nacion-futsal.jpg_928314580.jpg",
-        "summary": "El conjunto rosarino disputará el título nacional desde las 16 en el Polideportivo Roberto Pando de San Lorenzo. El cuadro de zona norte afronta el choque ante el máximo ganador de la disciplina con la transmisión en vivo de LPF Play",
-        "pubDate": "2026-10-23T11:46:00+00:00",
+        "pubDate": "2026-10-21T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Primera C: Argentino empata en su visita a Defensores de Glew por la Promoción",
+        "link": "https://www.lacapital.com.ar/ovacion/primera-c-argentino-empata-su-visita-defensores-glew-la-promocion-n10288605.html",
+        "image": "https://media.lacapital.com.ar/p/27a1e05fbcd9ca714393e3a476733dbb/adjuntos/203/imagenes/103/491/0103491510/1200x675/smart/image-10.jpg",
+        "summary": "El equipo de barrio Sarmiento iguala en el encuentro de ida ante el elenco del Torneo Promocional Amateur 2026. Thiago Bartalini anotó para los salaitos",
+        "pubDate": "2026-10-25T20:19:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central: el gol de Emanuel Coronel que le pone fin a las \"cargadas\" de sus compañeros",
+        "link": "https://www.lacapital.com.ar/ovacion/central-el-gol-emanuel-coronel-que-le-pone-fin-las-cargadas-sus-companeros-n10288621.html",
+        "image": "https://media.lacapital.com.ar/p/8e155d3e4682cabaf87af1aec25681cc/adjuntos/203/imagenes/103/491/0103491704/coronel.jpeg",
+        "summary": "El lateral derecho canalla habló de las chicanas que recibía y se mostró feliz por su primer gol en Arroyito, aunque puso todo el valor en el triunfo",
+        "pubDate": "2026-10-25T20:13:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Máxima expectativa en Brasil: cerraron las urnas y comienza el conteo de votos para definir al próximo presidente",
+        "link": "https://www.lacapital.com.ar/el-mundo/maxima-expectativa-brasil-cerraron-las-urnas-y-comienza-el-conteo-votos-definir-al-proximo-presidente-n10288626.html",
+        "image": "https://media.lacapital.com.ar/p/f191955a1ee07e9b03718edbc402bab9/adjuntos/203/imagenes/103/491/0103491717/1200x675/smart/imagebol.jpg",
+        "summary": "El balotaje entre Lula y Flávio Bolsonaro entró en su etapa decisiva. A qué hora se conocería el ganador y dónde seguir los resultados oficiales en vivo.",
+        "pubDate": "2026-10-25T20:11:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Balotaje en Brasil 2026: cuál es el sitio oficial para seguir los resultados en vivo",
+        "link": "https://www.lacapital.com.ar/el-mundo/balotaje-brasil-2026-cual-es-el-sitio-oficial-seguir-los-resultados-vivo-n10288624.html",
+        "image": "https://media.lacapital.com.ar/p/0582741577b84a3556cac5b5731fbba6/adjuntos/203/imagenes/103/491/0103491716/1200x675/smart/image-2026-10-25t170614771.jpg",
+        "summary": "El escrutinio en Brasil suele avanzar con rapidez gracias al sistema de votación electrónica y los primeros resultados se empezarán a difundir después de las 17",
+        "pubDate": "2026-10-25T20:07:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Los campos más caros de Santa Fe: cuánto cuesta una hectárea y en qué departamentos están",
@@ -155,15 +191,6 @@
         "image": "https://media.lacapital.com.ar/p/f28185dd713410bb9d9c13074d517c33/adjuntos/203/imagenes/103/491/0103491535/1200x675/smart/image-11.jpg",
         "summary": "Mauricio Lambiris se llevó todo del Fangio y pese a que no dejó resquicios, tanto la final del Turismo Carretera como del TC Pista y las series fueron emotivas",
         "pubDate": "2026-10-25T19:42:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Primera C: Argentino pierde en su visita a Defensores de Glew por la Promoción",
-        "link": "https://www.lacapital.com.ar/ovacion/primera-c-argentino-pierde-su-visita-defensores-glew-la-promocion-n10288605.html",
-        "image": "https://media.lacapital.com.ar/p/27a1e05fbcd9ca714393e3a476733dbb/adjuntos/203/imagenes/103/491/0103491510/1200x675/smart/image-10.jpg",
-        "summary": "El equipo de barrio Sarmiento cae en el encuentro de ida ante el elenco del Torneo Promocional Amateur 2026. Theo Guiñazú marró un penal. El local juega con diez por la expulsión de Souto",
-        "pubDate": "2026-10-25T19:29:00+00:00",
         "approxTime": false
       },
       {
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/6a77703cac2302a3837b6bd4635486dd/adjuntos/203/imagenes/103/491/0103491326/fideo.jpeg",
         "summary": "El capitán se mostró ilusionado con el presente de Central y puso el acento en que \"el equipo está haciendo las cosas que tiene que hacer\"",
         "pubDate": "2026-10-25T15:06:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Ranking de gobernadores: cómo quedó ubicado Pullaro en una encuesta nacional",
-        "link": "https://www.lacapital.com.ar/politica/ranking-gobernadores-como-quedo-ubicado-pullaro-una-encuesta-nacional-n10288586.html",
-        "image": "https://media.lacapital.com.ar/p/854e5c3913dab2c91c0ae690218c7d70/adjuntos/203/imagenes/103/396/0103396229/1200x675/smart/pullaro.jpeg",
-        "summary": "Según la encuestadora Global Data, el gobernador alcanzó el 52,5 % de valoración favorable y sigue entre los dirigentes provinciales con mejor imagen",
-        "pubDate": "2026-10-25T14:52:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Lanzan el primer premio provincial para estudiantes de arquitectura",
-        "link": "https://www.lacapital.com.ar/la-ciudad/lanzan-el-primer-premio-provincial-estudiantes-arquitectura-n10288570.html",
-        "image": "https://media.lacapital.com.ar/p/eda8603656168434a97c269571378d3a/adjuntos/203/imagenes/103/491/0103491236/1200x675/smart/estudiantes-arquitectura.jpg",
-        "summary": "La convocatoria está dirigida a estudiantes de universidades públicas y privadas de toda Santa Fe. La propuesta invita a pensar nuestras ciudades, paisajes y formas de habitar.",
-        "pubDate": "2026-10-25T13:38:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Del taller familiar a la consagración: un auto santafesino conquistó Autoclásica 2026",
-        "link": "https://www.lacapital.com.ar/la-region/del-taller-familiar-la-consagracion-un-auto-santafesino-conquisto-autoclasica-2026-n10288094.html",
-        "image": "https://media.lacapital.com.ar/p/75a86c1396b0431928fd25b14bcf2708/adjuntos/203/imagenes/103/485/0103485605/1200x675/smart/autoclasica4.jpeg",
-        "summary": "Construido de manera artesanal en un taller de la ciudad de Santa Fe por Oscar Helguero y sus hijos, el deportivo Ford-Barchetta fue distinguido en la muestra de autos y motos más importante de Sudamérica",
-        "pubDate": "2026-10-25T13:00:00+00:00",
         "approxTime": false
       }
     ]
