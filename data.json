@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T19:31:00.707877+00:00",
+  "generatedAt": "2026-10-25T20:01:07.731494+00:00",
   "sites": {
     "rosario3": [
       {
@@ -31,10 +31,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Detuvieron a dos mujeres en la Terminal con nueve celulares tras el rastreo de un teléfono robado",
-        "link": "https://www.rosario3.com/policiales/detuvieron-a-dos-mujeres-en-la-terminal-con-nueve-celulares-tras-el-rastreo-de-un-telefono-robado-20261025-0016.html",
-        "image": "https://www.rosario3.com/__export/1792940955381/sites/rosario3/img/2026/10/25/000.jpg_1825222412.jpg",
-        "summary": "El procedimiento se realizó este domingo por la madrugada, luego de que una víctima lograra geolocalizar su dispositivo. La Policía encontró los aparatos envueltos en papel aluminio dentro de un baño",
+        "title": "Empresarios y espacios opositores llamaron a un debate sin agravios tras los nuevos ataques de Milei al periodismo",
+        "link": "https://www.rosario3.com/informaciongeneral/empresarios-y-espacios-opositores-llamaron-a-un-debate-sin-agravios-tras-los-nuevos-ataques-de-milei-al-periodismo-20261025-0028.html",
+        "image": "https://www.rosario3.com/__export/1792954562573/sites/rosario3/img/2026/10/25/mileiperiodistas.jpg_2106848869.jpg",
+        "summary": "Desde el Instituto para el Desarrollo Empresarial de la Argentina (Idea), organización que agrupa a las principales compañías del país, manifestaron que “la libertad de prensa y el respeto por las ideas, aun cuando existan diferencias, son pilares fundamentales de la convivencia…",
         "pubDate": "2026-10-25T11:57:00+00:00",
         "approxTime": true
       },
@@ -141,11 +141,47 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Los campos más caros de Santa Fe: cuánto cuesta una hectárea y en qué departamentos están",
+        "link": "https://www.lacapital.com.ar/la-region/los-campos-mas-caros-santa-fe-cuanto-cuesta-una-hectarea-y-que-departamentos-estan-n10288612.html",
+        "image": "https://media.lacapital.com.ar/p/dce53a9bd42e2adef4e7a2ff2c546b51/adjuntos/203/imagenes/103/491/0103491536/1200x675/smart/imagesiembra.jpg",
+        "summary": "Un informe de la Bolsa de Comercio de Santa Fe revela diferencias de hasta 120 veces en el valor de la tierra rural. Cuáles son las zonas más cotizadas de la provincia y qué impulsa la recuperación del mercado.",
+        "pubDate": "2026-10-25T19:51:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El Turismo Carretera dejó Rosario con un gran espectáculo y la victoria de Mauricio Lambiris",
+        "link": "https://www.lacapital.com.ar/ovacion/el-turismo-carretera-dejo-rosario-un-gran-espectaculo-y-la-victoria-mauricio-lambiris-n10288610.html",
+        "image": "https://media.lacapital.com.ar/p/f28185dd713410bb9d9c13074d517c33/adjuntos/203/imagenes/103/491/0103491535/1200x675/smart/image-11.jpg",
+        "summary": "Mauricio Lambiris se llevó todo del Fangio y pese a que no dejó resquicios, tanto la final del Turismo Carretera como del TC Pista y las series fueron emotivas",
+        "pubDate": "2026-10-25T19:42:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Primera C: Argentino pierde en su visita a Defensores de Glew por la Promoción",
         "link": "https://www.lacapital.com.ar/ovacion/primera-c-argentino-pierde-su-visita-defensores-glew-la-promocion-n10288605.html",
         "image": "https://media.lacapital.com.ar/p/27a1e05fbcd9ca714393e3a476733dbb/adjuntos/203/imagenes/103/491/0103491510/1200x675/smart/image-10.jpg",
         "summary": "El equipo de barrio Sarmiento cae en el encuentro de ida ante el elenco del Torneo Promocional Amateur 2026. Theo Guiñazú marró un penal. El local juega con diez por la expulsión de Souto",
-        "pubDate": "2026-10-25T19:22:00+00:00",
+        "pubDate": "2026-10-25T19:29:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Josué Reinatti: \"Me pone contento mantener el arco de Newell's en cero\"",
+        "link": "https://www.lacapital.com.ar/ovacion/josue-reinatti-me-pone-contento-mantener-el-arco-newells-cero-n10288609.html",
+        "image": "https://media.lacapital.com.ar/p/7ab2d93dee8eaa17aab228149126f691/adjuntos/203/imagenes/103/491/0103491548/reinarri2.jpeg",
+        "summary": "El arquero leproso volvió a tener una actuación determinante para que la Lepra consiga un punto valioso ante San Lorenzo y repartió elogios hacia la defensa",
+        "pubDate": "2026-10-25T19:29:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Elecciones en Brasil: a qué hora se conocerá el ganador del balotaje entre Lula y Bolsonaro",
+        "link": "https://www.lacapital.com.ar/el-mundo/elecciones-brasil-que-hora-se-conocera-el-ganador-del-balotaje-lula-y-bolsonaro-n10288613.html",
+        "image": "https://media.lacapital.com.ar/p/0df2e80d29d9ea6e167cff473d9173b3/adjuntos/203/imagenes/103/481/0103481794/1200x675/smart/imagelula.jpg",
+        "summary": "El Tribunal Superior Electoral comenzará a difundir los resultados oficiales este domingo a partir de las 17, hora argentina. El antecedente de 2022 permite estimar cuándo podría definirse la disputa presidencial.",
+        "pubDate": "2026-10-25T19:26:00+00:00",
         "approxTime": false
       },
       {
@@ -236,42 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/75a86c1396b0431928fd25b14bcf2708/adjuntos/203/imagenes/103/485/0103485605/1200x675/smart/autoclasica4.jpeg",
         "summary": "Construido de manera artesanal en un taller de la ciudad de Santa Fe por Oscar Helguero y sus hijos, el deportivo Ford-Barchetta fue distinguido en la muestra de autos y motos más importante de Sudamérica",
         "pubDate": "2026-10-25T13:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Identificaron el cuerpo hallado en el Paraná: era uno de los pescadores desaparecidos en Fray Luis Beltrán",
-        "link": "https://www.lacapital.com.ar/la-ciudad/identificaron-el-cuerpo-hallado-el-parana-era-uno-los-pescadores-desaparecidos-fray-luis-beltran-n10288565.html",
-        "image": "https://media.lacapital.com.ar/p/5f9d05918b70667ce82346c7a7ff4271/adjuntos/203/imagenes/102/861/0102861825/busqueda-lancha-prefectura01.jpg",
-        "summary": "Se trata de Gustavo Fabián Muñoz, quien viajaba en una lancha que se dio vuelta el 15 de octubre. Ya encontraron a dos de los tres hombres que eran buscados.",
-        "pubDate": "2026-10-25T12:46:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Autos clásicos: la historia del Chevy 51 que une a un padre y su hijo con las carreras de regularidad",
-        "link": "https://www.lacapital.com.ar/motores/autos-clasicos-la-historia-del-chevy-51-que-une-un-padre-y-su-hijo-las-carreras-regularidad-n10288337.html",
-        "image": "https://media.lacapital.com.ar/p/d51c37ec6f5b65f3e950c1289e266d80/adjuntos/203/imagenes/103/488/0103488221/1200x675/smart/chevrolet-styleline-deluxe-1951-chevy-51-eduardo-andreu.jpeg",
-        "summary": "Eduardo Andreu y Juan Cruz, de 11 años, recorren la provincia a bordo de un Styleline Deluxe de 75 años con el que pelean por el título del Crono Rally",
-        "pubDate": "2026-10-25T12:20:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Caen las ventas de combustible y avanzan las cargas parciales del tanque",
-        "link": "https://www.lacapital.com.ar/motores/caen-las-ventas-combustible-y-avanzan-las-cargas-parciales-del-tanque-n10288351.html",
-        "image": "https://media.lacapital.com.ar/p/f46d44c4c6cc5b8caeab8cb8a02c181c/adjuntos/203/imagenes/103/197/0103197417/1200x675/smart/rutas-nacionales-combustibles.jpeg",
-        "summary": "La demanda de nafta atraviesa un extenso período de caída, además de que los especialistas advierten un aumento de las cargas con promociones bancarias",
-        "pubDate": "2026-10-25T12:17:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cáncer de mama: llegar con precisión y rapidez al diagnóstico y tratamiento",
-        "link": "https://www.lacapital.com.ar/salud/cancer-mama-llegar-precision-y-rapidez-al-diagnostico-y-tratamiento-n10287895.html",
-        "image": "https://media.lacapital.com.ar/p/6f874ea9352610bf4c76fbb6be7eee13/adjuntos/203/imagenes/103/483/0103483639/1200x675/smart/mama-autoexamen-jovenes.jpg",
-        "summary": "Octubre rosa deja muchas enseñanzas. Cada cuánto debe hacerse la mamografía. Y desde qué edad. El jefe de Ginecología del Hospital Italiano de Rosario, responde todas las preguntas",
-        "pubDate": "2026-10-25T11:46:00+00:00",
         "approxTime": false
       }
     ]
