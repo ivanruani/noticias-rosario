@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T01:30:59.375945+00:00",
+  "generatedAt": "2026-10-25T02:01:08.483237+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,7 +13,7 @@
       },
       {
         "source": "Rosario3",
-        "title": "Central se fue al descanso arriba ante Huracán gracias a un cabezazo de Coronel",
+        "title": "Central le gana a Huracán en un partido parejo en Arroyito",
         "link": "https://www.rosario3.com/deportes/rosario-central-recibe-a-huracan-en-arroyito-con-la-intencion-de-mantenerse-en-lo-alto-de-su-zona-y-de-pelear-por-la-tabla-anual-20261023-0071.html",
         "image": "https://www.rosario3.com/__export/1792891527653/sites/rosario3/img/2026/10/24/00024970-01.jpg_928314581.jpg",
         "summary": "El equipo de Jorge Almirón juega en el Gigante de Arroyito, por la fecha 14 del Torneo Clausura. Llega tras vencer 3-2 a Atlético Tucumán y quiere sostener su buen momento, mientras que el Globo necesita recuperarse después de dos derrotas consecutivas",
@@ -76,10 +76,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Exproductor bolichero de Rosario, imputado por integrar red narco con contactos en cuatro provincias",
-        "link": "https://www.rosario3.com/policiales/ex-productor-bolichero-de-rosario-imputado-por-integrar-red-narco-con-contactos-en-cuatro-provincias-20261024-0012.html",
-        "image": "https://www.rosario3.com/__export/1792857715329/sites/rosario3/img/2026/09/18/tribunales_federales_rosario.jpg_1853120996.jpg",
-        "summary": "La investigación se inició con el peritaje del celular de un dealer rosarino detenido con 40 kilos de marihuana en febrero de 2025. Los fiscales ubicaron a Pablo Volpe, exsocio de la firma que explotaba Punta Stage, como un punto nodal de una trama con conexiones en Rosario…",
+        "title": "El Torneo del Litoral definió sus semifinales: cruces confirmados en Primera y el agónico pase de Logaritmo en Segunda",
+        "link": "https://www.rosario3.com/deportes/el-torneo-del-litoral-definio-sus-semifinales-cruces-confirmados-en-primera-y-el-agonico-pase-de-logaritmo-en-segunda-20261024-0031.html",
+        "image": "https://www.rosario3.com/__export/1792892801568/sites/rosario3/img/2026/10/24/rugby_logaritmo_martin_diaz_credito_lucia_rios_prensa_urr_0821_jpg.jpeg_928314580.jpeg",
+        "summary": "Quedaron armadas las llaves rumbo al título y al ascenso. Tras una última fecha vibrante en el Top 10 y el Ascenso, se revelaron los cruces de semifinales del próximo 7 de noviembre, con sedes confirmadas y la cancha del Hipódromo en el horizonte para la gran definición",
         "pubDate": "2026-10-24T11:52:00+00:00",
         "approxTime": true
       },
@@ -121,10 +121,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Turismo Carretera: un piloto uruguayo voló e hizo la pole en Rosario",
-        "link": "https://www.rosario3.com/deportes/turismo-carretera-un-piloto-uruguayo-volo-e-hizo-la-pole-en-rosario-20261024-0020.html",
-        "image": "https://www.rosario3.com/__export/1792875308935/sites/rosario3/img/2026/10/24/lambiris.jpg_506286608.jpg",
-        "summary": "Mauricio Lambiris (Ford Mustang) marcó un tiempo récord para el circuito de 1:35.092 y sumó dos puntos para el campeonato. Segundo quedó Matías Rossi (Toyota Camry) y tercero Otto Fritzler (Mercedes Benz)",
+        "title": "Exproductor bolichero de Rosario, imputado por integrar red narco con contactos en cuatro provincias",
+        "link": "https://www.rosario3.com/policiales/ex-productor-bolichero-de-rosario-imputado-por-integrar-red-narco-con-contactos-en-cuatro-provincias-20261024-0012.html",
+        "image": "https://www.rosario3.com/__export/1792857715329/sites/rosario3/img/2026/09/18/tribunales_federales_rosario.jpg_1853120996.jpg",
+        "summary": "La investigación se inició con el peritaje del celular de un dealer rosarino detenido con 40 kilos de marihuana en febrero de 2025. Los fiscales ubicaron a Pablo Volpe, exsocio de la firma que explotaba Punta Stage, como un punto nodal de una trama con conexiones en Rosario…",
         "pubDate": "2026-10-24T11:47:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,24 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Kudelka: \"El partido fue más luchado que jugado y con más nerviosismo que ideas\"",
+        "link": "https://www.lacapital.com.ar/ovacion/kudelka-el-partido-fue-mas-luchado-que-jugado-y-mas-nerviosismo-que-ideas-n10288539.html",
+        "image": "https://media.lacapital.com.ar/p/d6a1cb6fecbb97a8e8900c2e3cb2f49c/adjuntos/203/imagenes/103/490/0103490682/fdk.jpeg",
+        "summary": "El entrenador de Newell's, Frank Kudelka, se mostró conforme con el rendimiento del equipo en defensa",
+        "pubDate": "2026-10-25T01:49:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Los puntos y combinaciones que necesita Newell's para sellar su pasaje a los playoff del Clausura",
+        "link": "https://www.lacapital.com.ar/ovacion/los-puntos-y-combinaciones-que-necesita-newells-sellar-su-pasaje-los-playoff-del-clausura-n10288534.html",
+        "image": "https://media.lacapital.com.ar/p/6787c44c7f453007b2090f6c23ace1f0/adjuntos/203/imagenes/103/490/0103490637/bc.jpeg",
+        "summary": "La caída de Gimnasia (M) con Platense fue un buen guiño y a San Lorenzo no le permitió achicar directamente. Newell's depende de sí mismo",
+        "pubDate": "2026-10-25T01:27:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Fiesta popular del Turismo Carretera en el Fangio, con el ritual del encuentro entre miles de fanáticos",
@@ -171,14 +189,14 @@
         "title": "Newell's sacó un empate con sabor a victoria que lo deja más cerca de la fase final",
         "link": "https://www.lacapital.com.ar/ovacion/newells-saco-un-empate-sabor-victoria-que-lo-deja-mas-cerca-la-fase-final-n10288495.html",
         "image": "https://media.lacapital.com.ar/p/3367e67eb9795c298fed5e3618fbfdf7/adjuntos/203/imagenes/103/490/0103490501/lepra5.jpeg",
-        "summary": "La seriedad con la que el conjunto de Kudelka asumió el partido le permitió sumar un punto valioso frente a un rival directo por la clasificación. Newell' sueña",
+        "summary": "La seriedad con la que el conjunto de Kudelka asumió el partido le permitió sumar un punto valioso frente a un rival directo por la clasificación. Newell's sueña",
         "pubDate": "2026-10-25T00:49:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "En vivo: Central se fue al descanso con una sonrisa por el gol de palomita de Coronel",
-        "link": "https://www.lacapital.com.ar/ovacion/en-vivo-central-se-fue-al-descanso-una-sonrisa-el-gol-palomita-coronel-n10288498.html",
+        "title": "En vivo: Central empezó bien el complemento pero se le vino Huracán",
+        "link": "https://www.lacapital.com.ar/ovacion/en-vivo-central-empezo-bien-el-complemento-pero-se-le-vino-huracan-n10288498.html",
         "image": "https://media.lacapital.com.ar/p/3bbe26f9c1d3c7a560afef5ab7ccba5a/adjuntos/203/imagenes/103/490/0103490536/1200x675/smart/image-4.jpg",
         "summary": "Central juega ante el Globo en el Gigante en busca de un triunfo que lo ubique como líder y le meta presión a Boca y Argentinos",
         "pubDate": "2026-10-25T00:32:00+00:00",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/3f9b348c302b51d69688e2ed83b032c4/adjuntos/203/imagenes/103/383/0103383194/luca6.jpg",
         "summary": "Rodrigo Herrera se lo perderá por una lesión en el pie, pero volverá Luca Regiardo. En el lateral izquierdo, Jerónimo Russo jugará por Franco Escobar",
         "pubDate": "2026-10-24T21:28:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Rosario registró 11 casos de tuberculosis por semana en lo que va del año",
-        "link": "https://www.lacapital.com.ar/la-ciudad/rosario-registro-11-casos-tuberculosis-semana-lo-que-va-del-ano-n10288483.html",
-        "image": "https://media.lacapital.com.ar/p/453323e8ed929cfc7da20709cf937567/adjuntos/203/imagenes/028/224/0028224942/1200x675/smart/4_leonardo-vincenti_75722671__04-05-2020__200x800jpg.jpg",
-        "summary": "La información de la Secretaría de Salud municipal también indica un crecimiento sostenido de estos cuadros desde 2020. A nivel nacional subieron un 64 % en los últimos seis años",
-        "pubDate": "2026-10-24T20:33:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El prólogo del Turismo Carretera en el Juan Manuel Fangio de Rosario fue de Mauricio Lambiris",
-        "link": "https://www.lacapital.com.ar/ovacion/el-prologo-del-turismo-carretera-el-juan-manuel-fangio-rosario-fue-mauricio-lambiris-n10288480.html",
-        "image": "https://media.lacapital.com.ar/p/b0dcec242e6f49eafbc1988e65973eb4/adjuntos/203/imagenes/103/489/0103489788/1200x675/smart/image.jpg",
-        "summary": "El uruguayo logró la pole y sueña con resurgir en Rosario, en una gran clasificación con gran presencia santafesina. Domingo de locos del Turismo Carretera",
-        "pubDate": "2026-10-24T20:04:00+00:00",
         "approxTime": false
       }
     ]
