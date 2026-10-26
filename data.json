@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T02:01:08.325885+00:00",
+  "generatedAt": "2026-10-26T02:30:59.774392+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Lula habló tras el triunfo: \"Participé de muchas elecciones y nunca vi tanta mentira\"",
+        "link": "https://www.lacapital.com.ar/el-mundo/lula-hablo-el-triunfo-participe-muchas-elecciones-y-nunca-vi-tanta-mentira-n10288681.html",
+        "image": "https://media.lacapital.com.ar/p/01dc610672d0c9bc0bc054986302bbc0/adjuntos/203/imagenes/103/492/0103492367/1200x675/smart/luladasilva.png",
+        "summary": "El presidente, vencedor en el balotaje de este domingo, denunció interferencias de las plataformas digitales en las elecciones de Brasil y prometió regularlas",
+        "pubDate": "2026-10-26T02:08:19+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Cristina celebró la reelección de Lula: \"Felicidades al pueblo brasileño y al compañero presidente\"",
         "link": "https://www.lacapital.com.ar/cristina-celebro-la-reeleccion-lula-felicidades-al-pueblo-brasileno-y-al-companero-presidente-n10288679.html",
         "image": "https://media.lacapital.com.ar/p/1145c4df6b9c782297b726f78fcd56eb/adjuntos/203/imagenes/103/492/0103492364/1200x675/smart/lulas.png",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/f191955a1ee07e9b03718edbc402bab9/adjuntos/203/imagenes/103/491/0103491717/1200x675/smart/imagebol.jpg",
         "summary": "Una decisión de último momento de la Justicia extendió el cierre de las urnas hasta las 19, tras un reclamo de la coalición de Lula por falta de transporte público. Crece la expectativa por el resultado de la disputa presidencial con Flávio Bolsonaro.",
         "pubDate": "2026-10-25T20:31:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central: el gol de Emanuel Coronel que le pone fin a las \"cargadas\" de sus compañeros",
-        "link": "https://www.lacapital.com.ar/ovacion/central-el-gol-emanuel-coronel-que-le-pone-fin-las-cargadas-sus-companeros-n10288621.html",
-        "image": "https://media.lacapital.com.ar/p/8e155d3e4682cabaf87af1aec25681cc/adjuntos/203/imagenes/103/491/0103491704/coronel.jpeg",
-        "summary": "El lateral derecho canalla habló de las chicanas que recibía y se mostró feliz por su primer gol en Arroyito, aunque puso todo el valor en el triunfo",
-        "pubDate": "2026-10-25T20:13:00+00:00",
         "approxTime": false
       }
     ]
