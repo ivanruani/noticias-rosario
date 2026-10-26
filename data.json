@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T02:30:59.774392+00:00",
+  "generatedAt": "2026-10-26T03:01:14.662786+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Giuliano celebró el triunfo de Lula: \"Esto demuestra que es posible vencer a la derecha\"",
+        "link": "https://www.lacapital.com.ar/el-mundo/giuliano-celebro-el-triunfo-lula-esto-demuestra-que-es-posible-vencer-la-derecha-n10288682.html",
+        "image": "https://media.lacapital.com.ar/p/fc77af38b57ee7abbeb3ae2db636b6b4/adjuntos/203/imagenes/103/492/0103492368/1200x675/smart/giuliano.png",
+        "summary": "El diputado nacional santafesino festejó la victoria del mandatario brasileño y dijo que es \"un ejemplo a seguir para todos y todas\"",
+        "pubDate": "2026-10-26T02:52:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Lula habló tras el triunfo: \"Participé de muchas elecciones y nunca vi tanta mentira\"",
         "link": "https://www.lacapital.com.ar/el-mundo/lula-hablo-el-triunfo-participe-muchas-elecciones-y-nunca-vi-tanta-mentira-n10288681.html",
         "image": "https://media.lacapital.com.ar/p/01dc610672d0c9bc0bc054986302bbc0/adjuntos/203/imagenes/103/492/0103492367/1200x675/smart/luladasilva.png",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/5f200bd38522652ed9aab62a02b19cf6/adjuntos/203/imagenes/103/491/0103491809/1200x675/smart/image-2026-10-25t173421504.jpg",
         "summary": "Durante el espectáculo, realizado en el estadio de Central Córdoba, efectivos policiales aprehendieron a tres personas cuando se retiraban del predio con teléfonos robados",
         "pubDate": "2026-10-25T20:39:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Máxima tensión en Brasil: prorrogaron la votación por dos horas y se demora la definición del balotaje",
-        "link": "https://www.lacapital.com.ar/el-mundo/maxima-tension-brasil-prorrogaron-la-votacion-dos-horas-y-se-demora-la-definicion-del-balotaje-n10288626.html",
-        "image": "https://media.lacapital.com.ar/p/f191955a1ee07e9b03718edbc402bab9/adjuntos/203/imagenes/103/491/0103491717/1200x675/smart/imagebol.jpg",
-        "summary": "Una decisión de último momento de la Justicia extendió el cierre de las urnas hasta las 19, tras un reclamo de la coalición de Lula por falta de transporte público. Crece la expectativa por el resultado de la disputa presidencial con Flávio Bolsonaro.",
-        "pubDate": "2026-10-25T20:31:00+00:00",
         "approxTime": false
       }
     ]
