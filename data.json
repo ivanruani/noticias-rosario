@@ -1,14 +1,32 @@
 {
-  "generatedAt": "2026-10-26T00:30:59.674273+00:00",
+  "generatedAt": "2026-10-26T01:01:13.718707+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Lula, presidente de Brasil por cuarta vez: histórica remontada sobre Flávio Bolsonaro",
+        "link": "https://www.rosario3.com/informaciongeneral/balotaje-en-brasil-ya-votaron-lula-da-silva-y-flavio-bolsonaro-20261025-0012.html",
+        "image": "https://www.rosario3.com/__export/1792974499490/sites/rosario3/img/2026/10/25/brasil_lula2.jpg_2138234794.jpg",
+        "summary": "El actual mandatario, de 80 años, se impuso en el balotaje por casi tres puntos ante el senador ultraderechista. La votación se extendió dos horas tras la hora fijada para el cierre. El nordeste del país fue otra vez determinante para el líder del PT",
+        "pubDate": "2026-10-25T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Caso Ivana Garcilazo: este lunes se conocerá el veredicto que definirá la condena para los tres acusados",
+        "link": "https://www.rosario3.com/policiales/caso-ivana-garcilazo-este-lunes-se-conocera-el-veredicto-que-definira-la-condena-para-los-tres-acusados-20261025-0032.html",
+        "image": "https://www.rosario3.com/__export/1785500741223/sites/rosario3/img/2025/10/14/garcilazo1.jpg_928314582.jpg",
+        "summary": "En el banquillo de los acusados se encuentran Ariel Matías Cabrera, Juan José Masson y Damián Reifenstuel, quienes llegan al tramo final del juicio imputados como coautores del delito de homicidio agravado por haber sido cometido en ocasión de un espectáculo deportivo",
+        "pubDate": "2026-10-25T11:59:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Belloso frenó la versión sobre su candidatura a intendente de Rosario: \"Estoy concentrado en Central\"",
         "link": "https://www.rosario3.com/politica/belloso-freno-la-version-sobre-su-candidatura-a-intendente-de-rosario-estoy-concentrado-en-central-20261025-0035.html",
         "image": "https://www.rosario3.com/__export/1792970348202/sites/rosario3/img/2023/02/10/belloso.jpg_183442370.jpg",
         "summary": "Luego de que el intendente de Funes, Roly Santacroce, lo señalara como la persona indicada para gobernar la ciudad, el presidente canalla le agradeció el gesto pero aclaró que su único foco está en el presente y futuro del club de Arroyito",
-        "pubDate": "2026-10-25T12:00:00+00:00",
+        "pubDate": "2026-10-25T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +35,16 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/run-run-inmobiliarias-ponen-el-pecho-al-pedido-de-transparencia-en-loteos-habeas-corpus-para-shanahan-y-rosario-cae-como-ciudad-tech-20261025-0026.html",
         "image": "https://www.rosario3.com/__export/1792952094391/sites/rosario3/img/2026/10/25/tech.jpg_59782438.jpg",
         "summary": "Además: sorpresiva hipótesis sobre la industria del juicio laboral, malestar por un cambio en la legislación laboral que no se activa en la Legislatura, miden el peso de las tasas municipales en las empresas y hay sorpresas entre las ciudades más costosas para la producción…",
-        "pubDate": "2026-10-25T11:59:00+00:00",
+        "pubDate": "2026-10-25T11:57:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Incendio en un pasillo de macrocentro: asistieron a una mujer por inhalación de humo",
+        "link": "https://www.rosario3.com/informaciongeneral/incendio-en-un-pasillo-de-macrocentro-asistieron-a-una-mujer-por-inhalacion-de-humo-20261025-0036.html",
+        "image": "https://www.rosario3.com/__export/1792975712129/sites/rosario3/img/2026/10/25/incendio_-1-.jpeg_85046251.jpeg",
+        "summary": "El siniestro ocurrió este domingo por la tarde en Santiago al 1200. Bomberos Zapadores sofocaron las llamas que provocaron daños totales en el comedor de un departamento",
+        "pubDate": "2026-10-25T11:56:00+00:00",
         "approxTime": true
       },
       {
@@ -26,7 +53,7 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/record-del-puerto-de-rosario-el-movimiento-de-cargas-subio-un-224-en-los-primeros-nueve-meses-20261025-0018.html",
         "image": "https://www.rosario3.com/__export/1792943917977/sites/rosario3/img/2026/10/25/puerto_de_rosario_version1792943917488.jpg_1414369616.jpg",
         "summary": "El sistema de puertos públicos y la Zona Franca de Santa Fe acumuló más de 3,3 millones de toneladas de enero a septiembre de 2026. De ese total, Terminal Puerto Rosario aportó 2.365.214 toneladas",
-        "pubDate": "2026-10-25T11:58:00+00:00",
+        "pubDate": "2026-10-25T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -35,43 +62,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/paros-en-la-unr-docentes-y-no-docentes-anuncian-medidas-de-fuerza-para-esta-semana-20261025-0007.html",
         "image": "https://www.rosario3.com/__export/1792935395097/sites/rosario3/img/2026/10/25/unr.jpg_1825222445.jpg",
         "summary": "Coad realizará una huelga de cinco jornadas entre octubre y noviembre, mientras que Apur confirmó dos días de protesta. La actividad académica dependerá de la adhesión en cada facultad y cátedra",
-        "pubDate": "2026-10-25T11:57:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Lula, presidente de Brasil por cuarta vez: histórica remontada sobre Flávio Bolsonaro",
-        "link": "https://www.rosario3.com/informaciongeneral/balotaje-en-brasil-ya-votaron-lula-da-silva-y-flavio-bolsonaro-20261025-0012.html",
-        "image": "https://www.rosario3.com/__export/1792974499490/sites/rosario3/img/2026/10/25/brasil_lula2.jpg_2138234794.jpg",
-        "summary": "El actual mandatario, de 80 años, se impuso en el balotaje por casi tres puntos ante el senador ultraderechista. La votación se extendió dos horas tras la hora fijada para el cierre. El nordeste del país fue otra vez determinante para el líder del PT",
-        "pubDate": "2026-10-25T11:56:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Con un gol sobre el final, Boca le ganó a Independiente y recuperó la punta de la tabla anual",
-        "link": "https://www.rosario3.com/deportes/con-un-gol-sobre-el-final-boca-le-gano-a-independiente-y-recupero-la-punta-de-la-tabla-anual-20261025-0033.html",
-        "image": "https://www.rosario3.com/__export/1792967519091/sites/rosario3/img/2026/10/25/boca.jpg_2106848869.jpg",
-        "summary": "En un intenso partido, el Xeneize se llevó una importante victoria en Avellaneda gracias al cabezazo del juvenil Jagger Herrera, que marcó su primer tanto como profesional. Así, el equipo de Arruabarrena llega de la mejor manera al Superclásico. Por su parte, el Rojo acumula…",
-        "pubDate": "2026-10-25T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Real Madrid venció al Barcelona con doblete de Mbappé y puso la Liga al rojo vivo",
-        "link": "https://www.rosario3.com/deportes/el-clasico-en-marcha-barcelona-y-real-madrid-paralizan-a-espana-y-al-mundo-20261025-0029.html",
-        "image": "https://www.rosario3.com/__export/1792966642404/sites/rosario3/img/2026/10/25/mbappe_clasico.jpg_258760125.jpg",
-        "summary": "El equipo dirigido por José Mourinho se impuso por 2 a 1 sobre el final en Cataluña y le quitó el invicto al conjunto de Hansi Flick por la décima fecha en España. Pese a la caída, el Blaugrana se mantiene como único puntero",
         "pubDate": "2026-10-25T11:54:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "F1: Franco Colapinto debió abandonar el GP de Estados Unidos y lleva cuatro fechas sin sumar",
-        "link": "https://www.rosario3.com/deportes/f1-franco-colapinto-debio-abandonar-el-gp-de-estados-unidos-y-lleva-cuatro-fechas-sin-sumar-20261025-0031.html",
-        "image": "https://www.rosario3.com/__export/1792964236285/sites/rosario3/img/2026/10/25/colapinto_eeuu.jpg_2138234794.jpg",
-        "summary": "El piloto argentino marchaba en la 16ª posición cuando sufrió un desprendimiento en la carrocería y aceptó la sugerencia de Alpine. Acumula cuatro carreras sin puntos. Antonelli ganó y quedó a un paso del título",
-        "pubDate": "2026-10-25T11:53:00+00:00",
         "approxTime": true
       },
       {
@@ -80,6 +71,15 @@
         "link": "https://www.rosario3.com/deportes/la-frustracion-de-colapinto-tras-su-tercer-abandono-en-cuatro-carreras-hay-que-cortar-esta-racha-20261025-0034.html",
         "image": "https://www.rosario3.com/__export/1792969699589/sites/rosario3/img/2026/10/25/colapinto.jpg_2106848869.jpg",
         "summary": "El argentino tuvo que abandonar la pista en la vuelta 37 del GP de Estados Unidos por un toque con Arvid Linbland que provocó daños en su Alpine. La jornada ya había arrancado cuesta arriba para el piloto bonaerense de 23 años, que largó desde atrás por una penalización y apostó…",
+        "pubDate": "2026-10-25T11:53:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Real Madrid venció al Barcelona con doblete de Mbappé y puso la Liga al rojo vivo",
+        "link": "https://www.rosario3.com/deportes/el-clasico-en-marcha-barcelona-y-real-madrid-paralizan-a-espana-y-al-mundo-20261025-0029.html",
+        "image": "https://www.rosario3.com/__export/1792966642404/sites/rosario3/img/2026/10/25/mbappe_clasico.jpg_258760125.jpg",
+        "summary": "El equipo dirigido por José Mourinho se impuso por 2 a 1 sobre el final en Cataluña y le quitó el invicto al conjunto de Hansi Flick por la décima fecha en España. Pese a la caída, el Blaugrana se mantiene como único puntero",
         "pubDate": "2026-10-25T11:52:00+00:00",
         "approxTime": true
       },
@@ -103,11 +103,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Con un gol sobre el final, Boca le ganó a Independiente y recuperó la punta de la tabla anual",
+        "link": "https://www.rosario3.com/deportes/con-un-gol-sobre-el-final-boca-le-gano-a-independiente-y-recupero-la-punta-de-la-tabla-anual-20261025-0033.html",
+        "image": "https://www.rosario3.com/__export/1792967519091/sites/rosario3/img/2026/10/25/boca.jpg_2106848869.jpg",
+        "summary": "En un intenso partido, el Xeneize se llevó una importante victoria en Avellaneda gracias al cabezazo del juvenil Jagger Herrera, que marcó su primer tanto como profesional. Así, el equipo de Arruabarrena llega de la mejor manera al Superclásico. Por su parte, el Rojo acumula…",
+        "pubDate": "2026-10-25T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Empresarios y espacios opositores llamaron a un debate sin agravios tras los nuevos ataques de Milei al periodismo",
         "link": "https://www.rosario3.com/informaciongeneral/empresarios-y-espacios-opositores-llamaron-a-un-debate-sin-agravios-tras-los-nuevos-ataques-de-milei-al-periodismo-20261025-0028.html",
         "image": "https://www.rosario3.com/__export/1792954562573/sites/rosario3/img/2026/10/25/mileiperiodistas.jpg_2106848869.jpg",
         "summary": "Desde el Instituto para el Desarrollo Empresarial de la Argentina (Idea), organización que agrupa a las principales compañías del país, manifestaron que “la libertad de prensa y el respeto por las ideas, aun cuando existan diferencias, son pilares fundamentales de la convivencia…",
-        "pubDate": "2026-10-25T11:49:00+00:00",
+        "pubDate": "2026-10-25T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +125,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/la-lider-opositora-maria-corina-machado-regreso-a-venezuela-20261025-0024.html",
         "image": "https://www.rosario3.com/__export/1792947095602/sites/rosario3/img/2026/10/25/machado.jpg_1825222445.jpg",
         "summary": "Reapareció este domingo en una Iglesia católica del estado Lara abrazada por los seguidores de su partido Vente Venezuela",
-        "pubDate": "2026-10-25T11:48:00+00:00",
+        "pubDate": "2026-10-25T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,20 +134,20 @@
         "link": "https://www.rosario3.com/policiales/detuvieron-a-dos-mujeres-en-la-terminal-con-nueve-celulares-tras-el-rastreo-de-un-telefono-robado-20261025-0016.html",
         "image": "https://www.rosario3.com/__export/1792940955381/sites/rosario3/img/2026/10/25/000.jpg_1825222412.jpg",
         "summary": "El procedimiento se realizó este domingo por la madrugada, luego de que una víctima lograra geolocalizar su dispositivo. La Policía encontró los aparatos envueltos en papel aluminio dentro de un baño",
-        "pubDate": "2026-10-25T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Identificaron el cuerpo hallado en el río Paraná en Granadero Baigorria: era uno de los pescadores desaparecidos",
-        "link": "https://www.rosario3.com/informaciongeneral/identificaron-el-cuerpo-hallado-en-el-rio-parana-en-granadero-baigorria-era-uno-de-los-pescadores-desaparecidos-20261025-0004.html",
-        "image": "https://www.rosario3.com/__export/1771421933838/sites/rosario3/img/2025/11/27/prefectura.jpg_1825222445.jpg",
-        "summary": "Se trata de Gustavo Fabián Muñoz, quien había caído al agua junto a otros tres hombres durante el naufragio de una lancha en Fray Luis Beltrán. Sus familiares lo reconocieron este sábado por la tarde en el Instituto Médico Legal de Rosario. Continúa la búsqueda de Héctor Flores",
         "pubDate": "2026-10-25T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Quini 6: dos apostadores de Santa Fe se llevaron 61 millones de pesos cada uno en el Siempre Sale",
+        "link": "https://www.lacapital.com.ar/informacion-general/quini-6-dos-apostadores-santa-fe-se-llevaron-61-millones-pesos-cada-uno-el-siempre-sale-n10288672.html",
+        "image": "https://media.lacapital.com.ar/p/0d080140beae1c433c1dfb2d927f941e/adjuntos/203/imagenes/103/492/0103492249/1200x675/smart/revancha11.png",
+        "summary": "El sorteo tradicional, la segunda y revancha no tuvo ganadores. Para la próxima jugada el pozo es de 4.400 millones de pesos",
+        "pubDate": "2026-10-26T00:54:25+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Tribunas repletas, los de Ford chochos y el que ganó fue el automovilismo con el Turismo Carretera en Rosario",
@@ -153,7 +162,7 @@
         "title": "Lula ganó el balotaje a Bolsonaro y será presidente de Brasil por cuarta vez",
         "link": "https://www.lacapital.com.ar/el-mundo/lula-gano-el-balotaje-bolsonaro-y-sera-presidente-brasil-cuarta-vez-n10288650.html",
         "image": "https://media.lacapital.com.ar/p/d9c1b52c5536bdee18925c8472e984a1/adjuntos/203/imagenes/103/491/0103491997/1200x675/smart/imagebolso.jpg",
-        "summary": "Con el 99,77% de las mesas escrutadas, Lula sacó el 51,76% de los sufragios. Bolsonaro, ganador en primera vuelta, sumó 48,24%",
+        "summary": "Lula sacó el 51,77% de los sufragios. Bolsonaro, ganador en primera vuelta, sumó 48,23%",
         "pubDate": "2026-10-26T00:16:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/dce53a9bd42e2adef4e7a2ff2c546b51/adjuntos/203/imagenes/103/491/0103491536/1200x675/smart/imagesiembra.jpg",
         "summary": "Un informe de la Bolsa de Comercio de Santa Fe revela diferencias de hasta 120 veces en el valor de la tierra rural. Cuáles son las zonas más cotizadas de la provincia y qué impulsa la recuperación del mercado.",
         "pubDate": "2026-10-25T19:51:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El Turismo Carretera dejó Rosario con un gran espectáculo y la victoria de Mauricio Lambiris",
-        "link": "https://www.lacapital.com.ar/ovacion/el-turismo-carretera-dejo-rosario-un-gran-espectaculo-y-la-victoria-mauricio-lambiris-n10288610.html",
-        "image": "https://media.lacapital.com.ar/p/f28185dd713410bb9d9c13074d517c33/adjuntos/203/imagenes/103/491/0103491535/1200x675/smart/image-11.jpg",
-        "summary": "Mauricio Lambiris se llevó todo del Fangio y pese a que no dejó resquicios, tanto la final del Turismo Carretera como del TC Pista y las series fueron emotivas",
-        "pubDate": "2026-10-25T19:42:00+00:00",
         "approxTime": false
       }
     ]
