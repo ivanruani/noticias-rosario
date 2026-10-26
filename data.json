@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T00:15:15.016267+00:00",
+  "generatedAt": "2026-10-26T00:30:59.674273+00:00",
   "sites": {
     "rosario3": [
       {
@@ -40,10 +40,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Balotaje en Brasil: Lula saca ventaja sobre Flávio Bolsonaro en el tramo final del conteo",
+        "title": "Lula, presidente de Brasil por cuarta vez: histórica remontada sobre Flávio Bolsonaro",
         "link": "https://www.rosario3.com/informaciongeneral/balotaje-en-brasil-ya-votaron-lula-da-silva-y-flavio-bolsonaro-20261025-0012.html",
-        "image": "https://www.rosario3.com/__export/1792973430119/sites/rosario3/img/2026/10/25/brasil_lula.jpg_2138234794.jpg",
-        "summary": "Con tres cuartas partes de las mesas escrutadas, el actual presidente roza la reelección con el 51,09% de los sufragios válidos. El inicio del recuento se vio demorado porque se extendió la votación por dos horas",
+        "image": "https://www.rosario3.com/__export/1792974499490/sites/rosario3/img/2026/10/25/brasil_lula2.jpg_2138234794.jpg",
+        "summary": "El actual mandatario, de 80 años, se impuso en el balotaje por casi tres puntos ante el senador ultraderechista. La votación se extendió dos horas tras la hora fijada para el cierre. El nordeste del país fue otra vez determinante para el líder del PT",
         "pubDate": "2026-10-25T11:56:00+00:00",
         "approxTime": true
       },
@@ -141,11 +141,20 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "Balotaje voto a voto en Brasil: Lula estira la diferencia y se impone con el 90% de los votos escrutados",
-        "link": "https://www.lacapital.com.ar/el-mundo/balotaje-voto-voto-brasil-lula-estira-la-diferencia-y-se-impone-el-90-los-votos-escrutados-n10288650.html",
+        "title": "Tribunas repletas, los de Ford chochos y el que ganó fue el automovilismo con el Turismo Carretera en Rosario",
+        "link": "https://www.lacapital.com.ar/ovacion/tribunas-repletas-los-ford-chochos-y-el-que-gano-fue-el-automovilismo-el-turismo-carretera-rosario-n10288669.html",
+        "image": "https://media.lacapital.com.ar/p/155da3b35e9b47d173d0f0671a937682/adjuntos/203/imagenes/103/492/0103492247/1200x675/smart/image-13.jpg",
+        "summary": "Los fans del óvalo disfrutaron el triunfo de Mauricio Lambiris y el tercer puesto de Mariano Werner, pero todos salieron ganando en un día histórico en el Fangio",
+        "pubDate": "2026-10-26T00:25:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Lula ganó el balotaje a Bolsonaro y será presidente de Brasil por cuarta vez",
+        "link": "https://www.lacapital.com.ar/el-mundo/lula-gano-el-balotaje-bolsonaro-y-sera-presidente-brasil-cuarta-vez-n10288650.html",
         "image": "https://media.lacapital.com.ar/p/d9c1b52c5536bdee18925c8472e984a1/adjuntos/203/imagenes/103/491/0103491997/1200x675/smart/imagebolso.jpg",
-        "summary": "La votación se extendió hasta las 19 por una decisión judicial de último momento. El Tribunal Electoral reanudó el escrutinio para definir al próximo presidente. Lula suma 51,62% y Bolsonaro 48,38%",
-        "pubDate": "2026-10-26T00:04:00+00:00",
+        "summary": "Con el 99,77% de las mesas escrutadas, Lula sacó el 51,76% de los sufragios. Bolsonaro, ganador en primera vuelta, sumó 48,24%",
+        "pubDate": "2026-10-26T00:16:00+00:00",
         "approxTime": false
       },
       {
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/f28185dd713410bb9d9c13074d517c33/adjuntos/203/imagenes/103/491/0103491535/1200x675/smart/image-11.jpg",
         "summary": "Mauricio Lambiris se llevó todo del Fangio y pese a que no dejó resquicios, tanto la final del Turismo Carretera como del TC Pista y las series fueron emotivas",
         "pubDate": "2026-10-25T19:42:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Josué Reinatti: \"Me pone contento mantener el arco de Newell's en cero\"",
-        "link": "https://www.lacapital.com.ar/ovacion/josue-reinatti-me-pone-contento-mantener-el-arco-newells-cero-n10288609.html",
-        "image": "https://media.lacapital.com.ar/p/7ab2d93dee8eaa17aab228149126f691/adjuntos/203/imagenes/103/491/0103491548/reinarri2.jpeg",
-        "summary": "El arquero leproso volvió a tener una actuación determinante para que la Lepra consiga un punto valioso ante San Lorenzo y repartió elogios hacia la defensa",
-        "pubDate": "2026-10-25T19:29:00+00:00",
         "approxTime": false
       }
     ]
