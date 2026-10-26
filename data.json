@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T01:01:13.718707+00:00",
+  "generatedAt": "2026-10-26T01:31:06.713207+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Cristina celebró la reelección de Lula: \"Felicidades al pueblo brasileño y al compañero presidente\"",
+        "link": "https://www.lacapital.com.ar/cristina-celebro-la-reeleccion-lula-felicidades-al-pueblo-brasileno-y-al-companero-presidente-n10288679.html",
+        "image": "https://media.lacapital.com.ar/p/1145c4df6b9c782297b726f78fcd56eb/adjuntos/203/imagenes/103/492/0103492364/1200x675/smart/lulas.png",
+        "summary": "La ex mandataria fue una de las primeras que destacó el resultado del balotaje, donde el actual presidente de Brasil venció a Flávio Bolsonaro",
+        "pubDate": "2026-10-26T01:13:19+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Con transmisión en vivo, se conocerá la sentencia en el juicio por Ivana Garcilazo",
+        "link": "https://www.lacapital.com.ar/policiales/con-transmision-vivo-se-conocera-la-sentencia-el-juicio-ivana-garcilazo-n10288663.html",
+        "image": "https://media.lacapital.com.ar/p/e482e048b872d7e35645be96bd8f6a1e/adjuntos/203/imagenes/101/298/0101298074/1200x675/smart/manifestacio-tres-meses-del-crimen-ivana-garcilazojpg.jpg",
+        "summary": "La familia de la joven hincha de Central convocó a un acto frente al Centro de Justicia Penal. Hay tres acusados por el crimen, cometido en 2023 tras un clásico",
+        "pubDate": "2026-10-26T01:05:29+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Quini 6: dos apostadores de Santa Fe se llevaron 61 millones de pesos cada uno en el Siempre Sale",
         "link": "https://www.lacapital.com.ar/informacion-general/quini-6-dos-apostadores-santa-fe-se-llevaron-61-millones-pesos-cada-uno-el-siempre-sale-n10288672.html",
         "image": "https://media.lacapital.com.ar/p/0d080140beae1c433c1dfb2d927f941e/adjuntos/203/imagenes/103/492/0103492249/1200x675/smart/revancha11.png",
@@ -161,7 +179,7 @@
         "source": "La Capital",
         "title": "Lula ganó el balotaje a Bolsonaro y será presidente de Brasil por cuarta vez",
         "link": "https://www.lacapital.com.ar/el-mundo/lula-gano-el-balotaje-bolsonaro-y-sera-presidente-brasil-cuarta-vez-n10288650.html",
-        "image": "https://media.lacapital.com.ar/p/d9c1b52c5536bdee18925c8472e984a1/adjuntos/203/imagenes/103/491/0103491997/1200x675/smart/imagebolso.jpg",
+        "image": "https://media.lacapital.com.ar/p/bed1dda293e3ea68c265e1429854d289/adjuntos/203/imagenes/103/492/0103492340/1200x675/smart/lulas.png",
         "summary": "Lula sacó el 51,77% de los sufragios. Bolsonaro, ganador en primera vuelta, sumó 48,23%",
         "pubDate": "2026-10-26T00:16:00+00:00",
         "approxTime": false
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/8e155d3e4682cabaf87af1aec25681cc/adjuntos/203/imagenes/103/491/0103491704/coronel.jpeg",
         "summary": "El lateral derecho canalla habló de las chicanas que recibía y se mostró feliz por su primer gol en Arroyito, aunque puso todo el valor en el triunfo",
         "pubDate": "2026-10-25T20:13:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Balotaje en Brasil 2026: cuál es el sitio oficial para seguir los resultados en vivo",
-        "link": "https://www.lacapital.com.ar/el-mundo/balotaje-brasil-2026-cual-es-el-sitio-oficial-seguir-los-resultados-vivo-n10288624.html",
-        "image": "https://media.lacapital.com.ar/p/0582741577b84a3556cac5b5731fbba6/adjuntos/203/imagenes/103/491/0103491716/1200x675/smart/image-2026-10-25t170614771.jpg",
-        "summary": "El escrutinio en Brasil suele avanzar con rapidez gracias al sistema de votación electrónica y los primeros resultados se empezarán a difundir después de las 17",
-        "pubDate": "2026-10-25T20:07:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Los campos más caros de Santa Fe: cuánto cuesta una hectárea y en qué departamentos están",
-        "link": "https://www.lacapital.com.ar/la-region/los-campos-mas-caros-santa-fe-cuanto-cuesta-una-hectarea-y-que-departamentos-estan-n10288612.html",
-        "image": "https://media.lacapital.com.ar/p/dce53a9bd42e2adef4e7a2ff2c546b51/adjuntos/203/imagenes/103/491/0103491536/1200x675/smart/imagesiembra.jpg",
-        "summary": "Un informe de la Bolsa de Comercio de Santa Fe revela diferencias de hasta 120 veces en el valor de la tierra rural. Cuáles son las zonas más cotizadas de la provincia y qué impulsa la recuperación del mercado.",
-        "pubDate": "2026-10-25T19:51:00+00:00",
         "approxTime": false
       }
     ]
