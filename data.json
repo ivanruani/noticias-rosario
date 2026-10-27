@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-10-27T04:55:34.307076+00:00",
+  "generatedAt": "2026-10-27T10:28:41.962728+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Santa Fe toma distancia de la avanzada de supermercados grandes contra locales chicos que cobran con billetera digital",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/santa-fe-toma-distancia-de-la-avanzada-de-supermercados-grandes-contra-locales-chicos-que-cobran-con-billetera-digital-20261026-0072.html",
+        "image": "https://www.rosario3.com/__export/1773863565250/sites/rosario3/img/2026/03/18/supermercado.jpg_1825222445.jpg",
+        "summary": "Pese al reclamo de cadenas de supermercados nacionales y multinacionales por 'competencia desleal', el gobierno santafesino rechazó aplicar retenciones a las transferencias en billeteras virtuales para no perjudicar a microemprendedores ni resentir la seguridad",
+        "pubDate": "2026-10-26T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "El oficialismo buscará avanzar con la reforma de seguridad: “Hay que darle a Pullaro las herramientas que pide”",
         "link": "https://www.rosario3.com/policiales/el-oficialismo-buscara-avanzar-con-la-reforma-de-seguridad-hay-que-darle-a-pullaro-las-herramientas-que-pide-20261026-0086.html",
         "image": "https://www.rosario3.com/__export/1793053622312/sites/rosario3/img/2026/10/26/seguridad.jpg_1825222445.jpg",
         "summary": "El diputado radical José Corral aseguró que Unidos intentará darle media sanción este jueves al paquete de leyes impulsado por el Ejecutivo en Diputados",
-        "pubDate": "2026-10-26T12:00:00+00:00",
+        "pubDate": "2026-10-26T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,25 +26,16 @@
         "link": "https://www.rosario3.com/policiales/crimen-de-ivana-garcilazo-por-que-el-tribunal-condeno-a-dos-acusados-a-20-anos-y-al-tercero-a-18-20261026-0074.html",
         "image": "https://www.rosario3.com/__export/1793041274927/sites/rosario3/img/2026/10/26/juicio_ivana_garcilazo_sentencia_1.jpeg_672794304.jpeg",
         "summary": "Las fiscales Carla Ranciari y Laura Riccardo destacaron que el tribunal dio por acreditada la reconstrucción del homicidio de la simpatizante de Rosario Central. La diferencia de dos años entre las penas respondió, entre otros aspectos, a las características personales de los…",
-        "pubDate": "2026-10-26T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Santa Fe alcanzó un récord histórico de 100 donantes de órganos en diez meses",
-        "link": "https://www.rosario3.com/informaciongeneral/santa-fe-alcanzo-un-record-historico-de-100-donantes-de-organos-en-diez-meses-20261026-0088.html",
-        "image": "https://www.rosario3.com/__export/1793054138807/sites/rosario3/img/2026/10/26/donacion.jpeg_1825222445.jpeg",
-        "summary": "Los procedimientos permitieron realizar 272 trasplantes en todo el país. El último operativo se concretó en el Hospital Eva Perón de Granadero Baigorria y benefició a una niña de 10 años, entre otros pacientes. La tasa provincial supera los 27 donantes por millón de habitantes y…",
         "pubDate": "2026-10-26T11:58:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Mates con clonazepam: condenaron a Mónica, la viuda negra de San Nicolás",
-        "link": "https://www.rosario3.com/policiales/mates-con-clonazepam-condenaron-a-monica-la-viuda-negra-de-san-nicolas-20261026-0080.html",
-        "image": "https://www.rosario3.com/__export/1765394614079/sites/rosario3/img/2025/12/03/monica_santo.jpg_672794304.jpg",
-        "summary": "Contactaba a sus víctimas por Tinder. Entre los damnificados hay tres rosarinos y un hombre de Ramallo. Recibió una pena única de cuatro años y un mes de prisión",
-        "pubDate": "2026-10-26T11:57:00+00:00",
+        "title": "El clima en Rosario: martes a pleno sol",
+        "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-martes-a-pleno-sol-20261027-0001.html",
+        "image": "https://www.rosario3.com/__export/1790328064854/sites/rosario3/img/2025/07/20/domingo_clima.jpg_1825222445.jpg",
+        "summary": "El Servicio Meteorológico Nacional anticipa una jornada estable y mayormente despejada en la región. Las marcas térmicas comienzan a escalar y empujan a disfrutar del aire libre después de tanta lluvia",
+        "pubDate": "2026-10-27T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -141,6 +141,87 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Se presentaron más de 70 propuestas en el concurso que elegirá la bandera del departamento San Martín",
+        "link": "https://www.lacapital.com.ar/la-region/se-presentaron-mas-70-propuestas-el-concurso-que-elegira-la-bandera-del-departamento-san-martin-n10288798.html",
+        "image": "https://media.lacapital.com.ar/p/d9ee28ef1f8e9828a95f712b5e9a20c1/adjuntos/203/imagenes/103/161/0103161886/1200x675/smart/timbues-banderas1.jpeg",
+        "summary": "El certámen fue impulsado por el senador provincial, Esteba Motta con el objetivo de construir un símboo que represente los valores, la historia y la identidad de la región",
+        "pubDate": "2026-10-27T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Tren Rosario - Buenos Aires: desde la semana próxima aumentan los pasajes",
+        "link": "https://www.lacapital.com.ar/la-ciudad/tren-rosario-buenos-aires-la-semana-proxima-aumentan-los-pasajes-n10288758.html",
+        "image": "https://media.lacapital.com.ar/p/696090766a86d619b13b7eabffe3a6c6/adjuntos/203/imagenes/100/196/0100196702/1200x675/smart/tren-rosario-buenos-airesjpg.jpg",
+        "summary": "Las tarifas aumentaron entre un 11 y un 15 por ciento. Los servicios a Córdoba y Tucumán siguen interrumpidos desde hace 13 meses",
+        "pubDate": "2026-10-27T09:45:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El Presupuesto Participativo 2027 suma la transformación de grandes parques",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-presupuesto-participativo-2027-suma-la-transformacion-grandes-parques-n10288790.html",
+        "image": "https://media.lacapital.com.ar/p/78d5eb8251edab9118701cb21059a8bc/adjuntos/203/imagenes/103/493/0103493442/1200x675/smart/dji_0002jpg.jpeg",
+        "summary": "Durante todo noviembre se votarán 74 proyectos. Como novedad, la propuesta incluye intervenciones en los parques Alem, Urquiza y Scalabrini Ortiz, además de dos proyectos de gran envergadura para toda la ciudad",
+        "pubDate": "2026-10-27T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Un Poco de Ruido llega a Rosario: \"Trabajamos por y para la cumbia\"",
+        "link": "https://www.lacapital.com.ar/zoom/un-poco-ruido-llega-rosario-trabajamos-y-la-cumbia-n10288843.html",
+        "image": "https://media.lacapital.com.ar/p/317e571b65453331be2bab65b421df82/adjuntos/203/imagenes/103/493/0103493830/1200x675/smart/image-2026-10-26t182227640.jpg",
+        "summary": "El fenómeno del streaming de cumbia se presentará por cuarta vez en Metropolitano este sábado 31 de octubre",
+        "pubDate": "2026-10-27T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El Niño y las elecciones frenan inversiones en el sector agropecuario",
+        "link": "https://www.lacapital.com.ar/agro/el-nino-y-las-elecciones-frenan-inversiones-el-sector-agropecuario-n10288491.html",
+        "image": "https://media.lacapital.com.ar/p/2f13ad3cbd0df72c57da44636f4d62f9/adjuntos/305/imagenes/102/331/0102331144/1200x675/smart/soja-cosecha-santafejpeg.jpeg",
+        "summary": "El índice confianza de los productores que elabora el Centro de Agronegocios y Alimentos de la Universidad Austral se mantuvo elevado en septiembre y octubre. Pero hay cautela inversora por el riesgo climático y electoral",
+        "pubDate": "2026-10-27T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Clima y agro: cambian los vientos, suben las temperaturas y se esperan nuevas lluvias",
+        "link": "https://www.lacapital.com.ar/agro/clima-y-agro-cambian-los-vientos-suben-las-temperaturas-y-se-esperan-nuevas-lluvias-n10288845.html",
+        "image": "https://media.lacapital.com.ar/p/264275f9479f9230be5b4b79012c9ffc/adjuntos/305/imagenes/101/827/0101827611/1200x675/359x513:379x533/campo-molino.jpg",
+        "summary": "Tras varios días de precipitaciones irregulares y temperaturas bajas, el viento rotará hacia el norte y favorecerá el ingreso de humedad. Qué se espera para el sur de Santa Fe, la región núcleo y el Litoral",
+        "pubDate": "2026-10-27T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Uber y cuidacoches: dos temas polémicos encienden el Concejo",
+        "link": "https://www.lacapital.com.ar/la-ciudad/uber-y-cuidacoches-dos-temas-polemicos-encienden-el-concejo-n10288859.html",
+        "image": "https://media.lacapital.com.ar/p/536bc108dc8c8f5ea43bd2b276802303/adjuntos/203/imagenes/102/967/0102967958/1200x675/smart/cuidacoches-72.jpg",
+        "summary": "El Palacio Vasallo tiene en comisiones temas trascendentes: la habilitación de las aplicaciones paras movilidad y la prohibición de los trapitos en Rosario",
+        "pubDate": "2026-10-27T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Un acto de fanatismo y desprecio a la vida: conceptos del fallo por el crimen de Ivana Garcilazo",
+        "link": "https://www.lacapital.com.ar/policiales/un-acto-fanatismo-y-desprecio-la-vida-conceptos-del-fallo-el-crimen-ivana-garcilazo-n10288873.html",
+        "image": "https://media.lacapital.com.ar/p/b81900d876aa3bfb4b64f539272b4381/adjuntos/203/imagenes/103/494/0103494063/82803592jpegthumb.jpg",
+        "summary": "Este lunes se conoció la sentencia que condenó a penas de 20 y 18 años de prisión a los tres acusados por la muerte de la joven que recibió un piedrazo tras un clásico",
+        "pubDate": "2026-10-27T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Newell's buscará hacer valer la localía ante un Tatengue que sufre de visitante",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-buscara-hacer-valer-la-localia-un-tatengue-que-sufre-visitante-n10288879.html",
+        "image": "https://media.lacapital.com.ar/p/d665a311bc0d378dbc1a95c5e75f2eb6/adjuntos/203/imagenes/103/494/0103494125/1200x675/smart/image-2026-10-26t214806095.png",
+        "summary": "Con un 71 por ciento de eficacia en el Coloso, el equipo de Kudelka quiere estirar el invicto en el Parque, con la mira en la clasificación",
+        "pubDate": "2026-10-27T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "La histórica gesta de los masters de Regatas Rosario en el lago Bled, el templo del remo",
         "link": "https://www.lacapital.com.ar/ovacion/la-historica-gesta-los-masters-regatas-rosario-el-lago-bled-el-templo-del-remo-n10288835.html",
         "image": "https://media.lacapital.com.ar/p/5ed2b3694cd5387d56141e86434a77e6/adjuntos/203/imagenes/103/493/0103493640/img-20261022-wa0016.jpg",
@@ -191,87 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/b680bff9e375ccc6e09f045ef3a978e6/adjuntos/203/imagenes/103/494/0103494097/1200x675/smart/image-2026-10-26t212625909.png",
         "summary": "El conjunto de Leonardo Madelón quedó a 4 puntos de la Lepra tras la victoria por 3 a 1 sobre Estudiantes, que ya no podrá alcanzar al equipo de Kudelka",
         "pubDate": "2026-10-27T00:38:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El tiempo en Rosario: llega un martes con cielo nublado pero sin chances de lluvias",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-llega-un-martes-cielo-nublado-pero-chances-lluvias-n10288863.html",
-        "image": "https://media.lacapital.com.ar/p/b4cc718c4b024346a3bd538a7449f01a/adjuntos/203/imagenes/103/299/0103299721/1200x675/smart/perro-mascota-clima-templado-nublado-calle-recreativa.jpg",
-        "summary": "El Servicio Meteorológico anticipa una jornada con marcas térmicas agradables que oscilarán entre los 12° y los 21°, sin probabilidad de precipitaciones",
-        "pubDate": "2026-10-27T00:30:46+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Messi no fue a Londres a la entrega del Balón de Oro a Harry Kane y se quedó en Miami a ver a Newell's",
-        "link": "https://www.lacapital.com.ar/ovacion/messi-no-fue-londres-la-entrega-del-balon-oro-harry-kane-y-se-quedo-miami-ver-newells-n10288876.html",
-        "image": "https://media.lacapital.com.ar/p/cf98ad44680ce213c6465c34f297c2a1/adjuntos/203/imagenes/103/494/0103494117/1200x675/smart/image-15.jpg",
-        "summary": "Leo no viajó a la entrega del Balón de Oro y en cambio se quedó a ver a los juveniles leprosos, que igualaron con Palmeiras en la Messi Cup",
-        "pubDate": "2026-10-27T00:29:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Harry Kane ganó el Balón de Oro 2026 y el premio al máximo goleador de la temporada",
-        "link": "https://www.lacapital.com.ar/ovacion/harry-kane-gano-el-balon-oro-2026-y-el-premio-al-maximo-goleador-la-temporada-n10288871.html",
-        "image": "https://media.lacapital.com.ar/p/94ba4c0604d30f4fdc0cdf5a6781d90f/adjuntos/203/imagenes/103/494/0103494050/1200x675/smart/kane.png",
-        "summary": "El delantero de 33 años fue reconocido por su gran temporada en el Bayern Múnich y su Mundial con la selección inglesa. Messi no viajó a la premiación",
-        "pubDate": "2026-10-26T23:51:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Santa Fe alcanzó un récord histórico de 100 donantes de órganos en diez meses",
-        "link": "https://www.lacapital.com.ar/la-region/santa-fe-alcanzo-un-record-historico-100-donantes-organos-diez-meses-n10288865.html",
-        "image": "https://media.lacapital.com.ar/p/7ecb576240e4ee68dafac8b08dc86eff/adjuntos/203/imagenes/103/493/0103493975/1200x675/smart/image-29.jpg",
-        "summary": "La marca ubica la tasa provincial por encima de los 27 donantes por millón de habitantes, en sintonía con los estándares de los diez países más avanzados del mundo",
-        "pubDate": "2026-10-26T23:41:26+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Juicio por el crimen de Ivana Garcilazo: cuáles fueron los fundamentos para las condenas",
-        "link": "https://www.lacapital.com.ar/juicio-el-crimen-ivana-garcilazo-cuales-fueron-los-fundamentos-las-condenas-n10288866.html",
-        "image": "https://media.lacapital.com.ar/p/1c2a67c73b8d3d764add7724bf251363/adjuntos/203/imagenes/103/493/0103493320/1200x675/smart/juicio-ivana.jpeg",
-        "summary": "Dos de los tres acusados por el homicidio fueron sentenciados a 20 años de prisión mientras que un tercero recibió 18 años de cárcel",
-        "pubDate": "2026-10-26T23:41:23+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Exphortar puso el foco en los desafíos de la producción y comercialización de hortalizas",
-        "link": "https://www.lacapital.com.ar/agro/exphortar-puso-el-foco-los-desafios-la-produccion-y-comercializacion-hortalizas-n10288826.html",
-        "image": "https://media.lacapital.com.ar/p/901c74dc832084c05159035f3dc56825/adjuntos/203/imagenes/103/493/0103493602/1200x675/951x235:971x255/expo-horticola2.jpeg",
-        "summary": "El encuentro que se realizó en Arroyo Seco combinó capacitación y nuevas tecnologías con debates sobre precios y pérdidas. La variabilidad climática y la necesidad de profesionalizar la cadena atravesaron el encuentro",
-        "pubDate": "2026-10-26T21:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Trump denunció una \"elección amañada\" en Brasil tras el triunfo de Lula, pero tomó distancia de Bolsonaro",
-        "link": "https://www.lacapital.com.ar/el-mundo/trump-denuncio-una-eleccion-amanada-brasil-el-triunfo-lula-pero-tomo-distancia-bolsonaro-n10288853.html",
-        "image": "https://media.lacapital.com.ar/p/dc173143e6d8c8c729509122e7bdaeed/adjuntos/203/imagenes/103/402/0103402628/2026-09-14-trump-82670061.jpg",
-        "summary": "El presidente de Estados Unidos cuestionó la transparencia del balotaje, aunque no presentó pruebas de fraude. Aseguró que no respaldó a ninguno de los candidatos y desató una fuerte reacción de los demócratas, que reclamaron respetar el resultado electoral.",
-        "pubDate": "2026-10-26T21:02:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Qué hacer si no se pueden enviar o recibir mensajes en WhatsApp",
-        "link": "https://www.lacapital.com.ar/informacion-general/que-hacer-si-no-se-pueden-enviar-o-recibir-mensajes-whatsapp-n10288837.html",
-        "image": "https://media.lacapital.com.ar/p/691c08fcbb14e41889a2a670b987fdb3/adjuntos/203/imagenes/102/317/0102317802/1200x675/smart/whatsapp-celular-chatwebp.png",
-        "summary": "La entrega y recepción de mensajes puede fallar por diversas causas. Cómo detectar los motivos y cómo solucionarlo",
-        "pubDate": "2026-10-26T20:19:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Dos crímenes de trabajadoras sexuales y un mismo sospechoso: la pista telefónica que permitió detenerlo",
-        "link": "https://www.lacapital.com.ar/policiales/dos-crimenes-trabajadoras-sexuales-y-un-mismo-sospechoso-la-pista-telefonica-que-permitio-detenerlo-n10288840.html",
-        "image": "https://media.lacapital.com.ar/p/ecfe5d51b32d9da1c3a8ca018d25df66/adjuntos/203/imagenes/103/493/0103493765/1200x675/smart/detenido-cordoba-retiro-2610.jpg",
-        "summary": "Las víctimas, de 27 y 29 años, fueron asesinadas con pocos días de diferencia en Buenos Aires y Córdoba. Un hombre de 28 años fue detenido en un hotel porteño después de que los investigadores descubrieran una conexión clave entre ambos homicidios.",
-        "pubDate": "2026-10-26T20:18:00+00:00",
         "approxTime": false
       }
     ]
