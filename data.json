@@ -1,151 +1,232 @@
 {
-  "generatedAt": "2026-10-29T07:00:17.747345+00:00",
+  "generatedAt": "2026-10-29T14:11:48.406398+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Pullaro encabezó la primera Ronda Rigi en Rosario: “Hoy Santa Fe es el polo que nuclea los grandes negocios en Argentina”",
+        "link": "https://www.rosario3.com/informaciongeneral/pullaro-encabezo-la-primera-ronda-rigi-en-rosario-hoy-la-provincia-invencible-de-santa-fe-es-el-polo-que-nuclea-los-grandes-negocios-en-argentina-20261029-0023.html",
+        "image": "https://www.rosario3.com/__export/1793278083807/sites/rosario3/img/2026/10/29/pullaro.jpg_982625323.jpg",
+        "summary": "Antes de ingresar a la Estación Fluvial para oficiar de anfitrión ante funcionarios nacionales, empresarios y mandatarios de otras provincias, el gobernador santafesino destacó el potencial productivo de la provincia para proveer a los sectores minero y energético",
+        "pubDate": "2026-10-29T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Destituyeron al juez federal Gastón Salmain",
+        "link": "https://www.rosario3.com/informaciongeneral/destituyeron-al-juez-federal-gaston-salmain-20261029-0029.html",
+        "image": "https://www.rosario3.com/__export/1765934066667/sites/rosario3/img/2025/08/21/juez_federal_gaston_salmain.jpg_928314581.jpg",
+        "summary": "Lo resolvió este jueves el Consejo de la Magistratura tras el jury. El magistrado, que fue titular del Juzgado Nº 1 de Rosario, estaba sindicado por mal desempeño y por haber omitido información clave en su currículum al concursar para el puesto. El año pasado fue procesado con…",
+        "pubDate": "2026-10-29T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Causa Andis: peritaje de Gendarmería no pudo validar la autenticidad de los audios de Spagnuolo",
+        "link": "https://www.rosario3.com/informaciongeneral/causa-andis-peritaje-de-gendarmeria-no-pudo-validar-la-autenticidad-de-los-audios-de-spagnuolo-20261029-0028.html",
+        "image": "https://www.rosario3.com/__export/1793281232355/sites/rosario3/img/2026/10/29/spagnuolo.jpg_928314581.jpg",
+        "summary": "Los técnicos registraron cortes, rasgos de regrabación y fallas en la preservación del material incorporado al expediente que investiga presuntos sobornos",
+        "pubDate": "2026-10-29T11:58:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "El llamativo fallo de un juez que ordenó “domiciliaria” a involucrada en extorsiones, a pedido de Los Monos",
+        "link": "https://www.rosario3.com/policiales/el-llamativo-fallo-de-un-juez-que-ordeno-domiciliaria-a-involucrada-en-extorsiones-a-pedido-de-los-monos-20261029-0022.html",
+        "image": "https://www.rosario3.com/__export/1784248231779/sites/rosario3/img/2026/07/16/cjp.jpg_1825222445.jpg",
+        "summary": "El camarista Tomás Orso dispuso que Lorena Córdoba, imputada por haber cometido intimidaciones al dueño de una agencia de quinielas de Rosario que sufrió ataques incendiarios y a tiros en 2021, siga el proceso judicial fuera de prisión, en su casa, con tobillera electrónica. No…",
+        "pubDate": "2026-10-29T11:57:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Diego Santilli visitó Rosario por el Rigi y habló del polémico vuelo de Flavio Bolsonaro",
+        "link": "https://www.rosario3.com/informaciongeneral/diego-santilli-visito-rosario-por-el-rigi-y-hablo-del-polemico-vuelo-de-flavio-bolsonaro-20261029-0025.html",
+        "image": "https://www.rosario3.com/__export/1793278311875/sites/rosario3/img/2026/10/29/santillifluvial.jpg_928314581.jpg",
+        "summary": "El jefe de Gabinete participó este jueves de la primera Ronda de Negocios del Régimen de Incentivo para Grandes Inversiones (Rigi) en la Estación Fluvial de Rosario. Tras destacar el impacto de la medida en las pymes, Diego Santilli se refirió a la huida a Estados Unidos del…",
+        "pubDate": "2026-10-29T11:56:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Con dos rosarinos y muchas promesas, comienzan en Dakar los Juegos Olímpicos de la Juventud",
+        "link": "https://www.rosario3.com/deportes/con-dos-rosarinos-y-muchas-promesas-comienzan-en-dakar-los-juegos-olimpicos-de-la-juventud-20261027-0023.html",
+        "image": "https://www.rosario3.com/__export/1793107569157/sites/rosario3/img/2026/10/27/coa-2026.jpg_1533888505.jpg",
+        "summary": "Este sábado en la capital de Senegal empezarán los juegos juveniles con la participación de 2.700 atletas de más de 200 países. Argentina tendrá 42 representantes, entre ellos dos de la Cuna de la Bandera. Cuáles son las expectativas albicelestes",
+        "pubDate": "2026-10-27T11:55:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Mirá: Charly García y Juana Molina cantando juntos en la pantalla de el TresTV",
+        "link": "https://www.rosario3.com/ocio/mira-charly-garcia-y-juana-molina-cantando-juntos-en-la-pantalla-de-el-trestv-20261029-0024.html",
+        "image": "https://www.rosario3.com/__export/1793278869722/sites/rosario3/img/2026/10/29/charly_juana.jpg_54252853.jpg",
+        "summary": "La cuenta @archivocharly compartió en X un fragmento del programa Juana y sus hermanas en el que ambos interpretan la canción “Superhéroes”. En la grabación de 1991, aparece un antiguo logo del canal del Grupo TVL",
+        "pubDate": "2026-10-29T11:54:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "La adaptación de un clásico de Jane Austen y una versión macabra de Pinocho, entre los estrenos en los cines de Rosario",
+        "link": "https://www.rosario3.com/ocio/la-adaptacion-de-un-clasico-de-jane-austen-y-una-version-macabra-de-pinocho-entre-los-estrenos-en-los-cines-de-rosario-20261028-0072.html",
+        "image": "https://www.rosario3.com/__export/1793222642328/sites/rosario3/img/2026/10/28/portadaestrenos.jpg_506286608.jpg",
+        "summary": "Las salas de la ciudad proyectan desde este jueves Sensatez y sentimiento, Pinocho sin cuerdas, Wildwood: el bosque salvaje, La caja del demonio, La cena y Tierra de mi padre",
+        "pubDate": "2026-10-28T11:53:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Plataforma Lavardén: visita guiada por la 37º Muestra de Argra y charla de periodistas de Rosario3 en la Noche de Museos Abiertos",
+        "link": "https://www.rosario3.com/ocio/plataforma-lavarden-visita-guiada-por-la-37-muestra-de-argra-y-charla-de-periodistas-de-rosario3-en-la-noche-de-museos-abiertos-20261028-0033.html",
+        "image": "https://www.rosario3.com/__export/1793202386917/sites/rosario3/img/2026/10/05/alan_fotoo_2.jpeg_2106848869.jpeg",
+        "summary": "La Muestra Anual de Fotoperiodismo Argentino está integrada por 145 fotografías que retratan hechos destacados del último año. El periodista Ricardo Robins y el reportero gráfico Alan Monzón dialogarán sobre la crónica 'El barrio rosarino en donde el golf es (casi) tan popular…",
+        "pubDate": "2026-10-28T11:52:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Jornada de luto con paro y movilización docente por el femicidio de Nancy Godoy",
+        "link": "https://www.rosario3.com/informaciongeneral/jornada-de-luto-con-paro-y-movilizacion-docente-por-el-femicidio-de-nancy-godoy-20261029-0013.html",
+        "image": "https://www.rosario3.com/__export/1793273391768/sites/rosario3/img/2026/10/29/godoy.jpg_928314581.jpg",
+        "summary": "Amsafe y Sadop se suman en Rosario a la protesta y reclamo por el crimen de la docente catamarqueña, con un adhesión dispar en los establecimientos. A las 11 y a las 18 están previstas concentraciones en el centro",
+        "pubDate": "2026-10-29T11:51:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "De qué se trata la ronda Rigi que junta este jueves en Rosario a Karina Milei, Pullaro y otros 12 gobernadores con grandes y pequeñas empresas",
+        "link": "https://www.rosario3.com/politica/de-que-se-trata-la-ronda-rigi-que-juntara-en-rosario-a-karina-milei-pullaro-y-otros-12-gobernadores-con-grandes-y-pequenas-empresas-20261027-0013.html",
+        "image": "https://www.rosario3.com/__export/1793279023967/sites/rosario3/img/2026/10/29/karina_milei_con_pullaro.jpg_982625323.jpg",
+        "summary": "La primera ronda de negocios vinculada al régimen de grandes inversiones reunirá a representantes de proyectos mineros, energéticos y de infraestructura con más de 1.800 empresas proveedoras. El encuentro puede abrir también un espacio para las conversaciones políticas por las…",
+        "pubDate": "2026-10-27T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Aumentar las penas no alcanza: los damnificados de Herrera buscan frenar el nuevo intento de cerrar la causa de los 30 millones de dólares",
+        "link": "https://www.rosario3.com/informaciongeneral/aumentar-las-penas-no-alcanza-los-damnificados-de-herrera-buscan-frenar-el-nuevo-intento-de-cerrar-la-causa-de-los-30-millones-de-dolares-20261029-0014.html",
+        "image": "https://www.rosario3.com/__export/1767108405157/sites/rosario3/img/2022/11/01/herrera_esposado.jpg_1321341558.jpg",
+        "summary": "Querellantes se juntan el viernes en Fiscalía para rechazar la propuesta de juicio abreviado de la defensa del empresario. La principal razón que esgrimen es que no establece compensación alguna por la pérdida de sus ahorros",
+        "pubDate": "2026-10-29T11:49:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Uber y DiDi: tras intensas negociaciones, el Concejo logró un acuerdo para tratar la legalización este jueves",
         "link": "https://www.rosario3.com/informaciongeneral/tension-en-el-concejo-de-rosario-por-la-protesta-de-taxistas-contra-el-debate-por-la-legalizacion-de-uber-y-didi-20261028-0035.html",
         "image": "https://www.rosario3.com/__export/1793231115031/sites/rosario3/img/2026/10/28/concejo_uber_-2-.jpeg_982625323.jpeg",
         "summary": "Las comisiones de Gobierno y Servicios Públicos emitieron dictamen favorable con los votos de Unidos y La Libertad Avanza, mientras que el peronismo se opuso. El proyecto avanzó entrada la noche luego de una extensa jornada de debate, marcada también por las protestas de…",
-        "pubDate": "2026-10-28T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Una empresa santafesina fabricó el sillón para la visita del papa León XIV",
-        "link": "https://www.rosario3.com/informaciongeneral/una-empresa-santafesina-fabrico-el-sillon-para-la-visita-del-papa-leon-xiv-20261028-0070.html",
-        "image": "https://www.rosario3.com/__export/1793220879736/sites/rosario3/img/2026/10/28/lasillitadeleon.jpg_928314581.jpg",
-        "summary": "Una tradicional fábrica familiar de la ciudad de Esperanza fue la elegida para confeccionar el asiento principal y las dos sillas complementarias que utilizará el sumo pontífice en el Cottolengo Don Orione de Claypole. Su dueño, Gustavo Mehring, detalló en Radio 2 cómo fue el…",
-        "pubDate": "2026-10-28T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La pesadilla de una adolescente boliviana: la Corte revirtió una absolución por trata laboral",
-        "link": "https://www.rosario3.com/informaciongeneral/la-pesadilla-de-una-adolescente-boliviana-la-corte-revirtio-una-absolucion-por-trata-laboral-20261028-0073.html",
-        "image": "https://www.rosario3.com/__export/1793221906912/sites/rosario3/img/2026/10/28/palacio_de_tribunales_corte_suprema.jpg_672794304.jpg",
-        "summary": "La joven tenía 15 años cuando viajó a la Argentina con la promesa de trabajar como niñera, pero terminó sometida a jornadas extenuantes, malos tratos y condiciones insalubres. La pareja acusada había sido condenada a 10 años de prisión y luego absuelta; ahora, la Corte Suprema…",
-        "pubDate": "2026-10-28T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Flávio Bolsonaro rompió el silencio: se declaró \"verdadero presidente electo de Brasil\" y agradeció a Milei",
-        "link": "https://www.rosario3.com/informaciongeneral/flavio-bolsonaro-rompio-el-silencio-se-declaro-verdadero-presidente-electo-de-brasil-y-agradecio-a-milei-20261028-0071.html",
-        "image": "https://www.rosario3.com/__export/1793220546165/sites/rosario3/img/2026/10/28/flavio_bolsonaro_1.jpg_1825222445.jpg",
-        "summary": "Tras su derrota electoral frente a Lula da Silva, el senador brasileño se trasladó a Estados Unidos junto a su familia, denunció un supuesto fraude y anunció que liderará la oposición desde el exterior",
-        "pubDate": "2026-10-28T11:57:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Rescataron a un operario que sufrió una caída mientras reparaba un ascensor en un edificio del centro",
-        "link": "https://www.rosario3.com/informaciongeneral/rescataron-a-un-operario-que-sufrio-una-caida-mientras-reparaba-un-ascensor-en-un-edificio-del-centro-20261028-0074.html",
-        "image": "https://www.rosario3.com/__export/1793227338128/sites/rosario3/img/2026/10/28/bz.jpg_1825222445.jpg",
-        "summary": "El trabajador, de 36 años, se precipitó desde unos dos metros y medio de altura en un inmueble de 14 pisos ubicado en Tucumán al 2100. Bomberos Zapadores desplegaron un operativo especial para bajarlo desde la azotea y trasladarlo hasta una ambulancia",
-        "pubDate": "2026-10-28T11:56:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Cancillería confirmó al menos una víctima fatal argentina en el trágico accidente ferroviario de España",
-        "link": "https://www.rosario3.com/informaciongeneral/cancilleria-confirmo-al-menos-una-victima-fatal-argentina-en-el-tragico-accidente-ferroviario-de-espana-20261028-0077.html",
-        "image": "https://www.rosario3.com/__export/1793226219130/sites/rosario3/img/2026/10/28/trenes.jpg_982625323.jpg",
-        "summary": "A través de un escrito difundido en redes sociales, agregaron que otro argentino que vive en Madrid desde 2002 era intensamente buscado por su familia. La tragedia ocurrió cerca de la estación de Urda, en Toledo",
-        "pubDate": "2026-10-28T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Derribaron construcciones que ocupaban veredas y obstruían zanjas en Nuevo Alberdi Oeste",
-        "link": "https://www.rosario3.com/informaciongeneral/derribaron-construcciones-que-ocupaban-veredas-y-obstruian-zanjas-en-nuevo-alberdi-oeste-20261028-0076.html",
-        "image": "https://www.rosario3.com/__export/1793225010587/sites/rosario3/img/2026/10/28/operativo_1.jpg_1825222445.jpg",
-        "summary": "El operativo municipal se realizó tras reclamos de vecinos y dejó 140 actuaciones y 15 camiones de escombros retirados. Buscan recuperar espacios públicos, mejorar la circulación y facilitar el escurrimiento del agua ante posibles lluvias intensas",
-        "pubDate": "2026-10-28T11:54:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Rosario Central avanza con las obras en el Gigante de Arroyito: ya instalaron las primeras butacas en la tercera bandeja",
-        "link": "https://www.rosario3.com/deportes/rosario-central-avanza-con-las-obras-en-el-gigante-de-arroyito-ya-instalaron-las-primeras-butacas-en-la-tercera-bandeja-20261028-0081.html",
-        "image": "https://www.rosario3.com/__export/1793228226375/sites/rosario3/img/2026/10/28/gigante_nuevo.jpg_982625323.jpg",
-        "summary": "Llegaron desde China 3.500 asientos que comenzaron a colocarse en el estadio auriazul. El presidente del Canalla, Gonzalo Belloso, compartió imágenes de los trabajos y alimentó la expectativa de los hinchas por la ampliación de la cancha",
-        "pubDate": "2026-10-28T11:53:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Final Four Juvenil URR 2026: Duendes, GER, Plaza y Jockey gritaron campeones en una definición apasionante",
-        "link": "https://www.rosario3.com/deportes/final-four-juvenil-urr-2026-duendes-ger-plaza-y-jockey-gritaron-campeones-en-una-definicion-apasionante-20261028-0078.html",
-        "image": "https://www.rosario3.com/__export/1793226869944/sites/rosario3/img/2026/10/28/whatsapp_image_2026-10-26_at_12_28_43.jpeg_928314581.jpeg",
-        "summary": "El cierre del año en las divisiones formativas dejó emociones de alto vuelo en Rosario. Duendes coronó el tricampeonato en M17, Atlético del Rosario y GER compartieron el título en una definición histórica en M16, y Jockey Club festejó en un partidazo en M15",
-        "pubDate": "2026-10-28T11:52:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El pedido que impulsa San Lorenzo por la gesta de San Martín: ¿un nuevo feriado nacional?",
-        "link": "https://www.rosario3.com/informaciongeneral/el-pedido-que-impulsa-san-lorenzo-por-la-gesta-de-san-martin-un-nuevo-feriado-nacional-20261028-0053.html",
-        "image": "https://www.rosario3.com/__export/1793209590977/sites/rosario3/img/2026/10/28/combate_san_lorenzo.jpg_1053939213.jpg",
-        "summary": "El Concejo Municipal de esa ciudad aprobó por unanimidad una declaración para solicitar al Congreso de la Nación que la fecha del Combate de San Lorenzo sea incorporada al calendario de feriados nacionales. La iniciativa retoma un reclamo impulsado por vecinos en 2011, que…",
-        "pubDate": "2026-10-28T11:51:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "¿Un asesino serial en ciernes? El perfil de Renato Tabella y el oscuro episodio de su niñez",
-        "link": "https://www.rosario3.com/policiales/un-asesino-serial-en-ciernes-el-perfil-de-renato-tabella-y-el-oscuro-episodio-de-su-ninez-20261028-0080.html",
-        "image": "https://www.rosario3.com/__export/1793229073188/sites/rosario3/img/2026/10/28/renato_tabella.jpg_672794304.jpg",
-        "summary": "El cordobés de 28 años está acusado por los femicidios de Daniela Villalba y Tatiana Fernández y no registraba antecedentes penales. Un vecino de Huerta Grande recordó que, cuando eran chicos, robó ropa interior de su madre, su abuela y otras mujeres de la zona. Ahora, buscan…",
-        "pubDate": "2026-10-28T11:50:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La activista Norma Acosta, al borde del juicio por instigar un autoatentado",
-        "link": "https://www.rosario3.com/policiales/la-activista-norma-acosta-al-borde-del-juicio-por-instigar-un-autoatentado-20261028-0062.html",
-        "image": "https://www.rosario3.com/__export/1793213506149/sites/rosario3/img/2022/01/18/norma_acosta.jpg_672794330.jpg",
-        "summary": "Está presa desde hace más de un año y la Fiscalía anticipó un pedido de 9 años de cárcel. La investigación sostiene que armó una balacera contra su propia casa para instalar la sospecha de una represalia policial por sus denuncias de corrupción. El caso también salpicó a…",
-        "pubDate": "2026-10-28T11:49:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "“Pensé que no la contaba”: dramático ataque de un perro a una vecina de zona sur",
-        "link": "https://www.rosario3.com/informaciongeneral/pense-que-no-la-contaba-dramatico-ataque-de-un-perro-a-una-vecina-de-zona-sur-20261028-0047.html",
-        "image": "https://www.rosario3.com/__export/1793207517438/sites/rosario3/img/2026/10/28/perro.jpg_2011903194.jpg",
-        "summary": "Daniela y su hija sufrieron una feroz embestida de un animal sin bozal en la zona de Grandoli y Ayolas, cuando se encontraban en medio de una mudanza. La mujer debió realizar una maniobra límite para salvar su vida y reclama medidas de prevención y control. Imágenes sensibles",
         "pubDate": "2026-10-28T11:48:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Apelaron el decomiso sin condena de los bienes del asesinado “Pillín” Bracamonte",
-        "link": "https://www.rosario3.com/policiales/apelaron-el-decomiso-sin-condena-de-los-bienes-del-asesinado-pillin-bracamonte-20261028-0051.html",
-        "image": "https://www.rosario3.com/__export/1791221502809/sites/rosario3/img/2026/10/05/pillin_bracamonte.jpg_928314580.jpg",
-        "summary": "El planteo fue presentado por los abogados Carlos Varela y Adrián Martínez en representación de los herederos. Según afirmó, la Justicia federal nunca indagó al jefe de la barra brava de Rosario Central por maniobras de lavado, ya que la causa estaba en conflicto de…",
-        "pubDate": "2026-10-28T11:47:00+00:00",
+        "title": "Un hombre fue apuñalado en la zona oeste",
+        "link": "https://www.rosario3.com/policiales/un-hombre-fue-apunalado-en-la-zona-oeste-20261029-0027.html",
+        "image": "https://www.rosario3.com/__export/1768656640404/sites/rosario3/img/2024/10/15/heca.jpg_1825222445.jpg",
+        "summary": "El ataque ocurrió en la madrugada de este jueves en Rueda al 4200. Según el relato de la víctima, la agresión tuvo lugar en el marco del robo de su bicicleta",
+        "pubDate": "2026-10-29T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "El Niño, invasión de insectos y anticipo de calor en Rosario y la región: “Verán hormigas con alas”",
-        "link": "https://www.rosario3.com/informaciongeneral/el-nino-invasion-de-insectos-y-anticipo-de-calor-en-rosario-y-la-region-veran-hormigas-con-alas-20261028-0037.html",
-        "image": "https://www.rosario3.com/__export/1793202464908/sites/rosario3/img/2026/10/28/hormigas_voladoras.jpg_506286608.jpg",
-        "summary": "El biólogo Jorge Finardi analizó el particular comportamiento de los insectos en Rosario y la región como antesala a las fuertes precipitaciones pronosticadas para los próximos meses. El especialista explicó que estos animales buscan refugio en las viviendas porque detectan que…",
-        "pubDate": "2026-10-28T11:46:00+00:00",
+        "title": "De “presidente electo” a “líder”: Flávio Bolsonaro cambió el escudo de su comunicado y corrigió su título",
+        "link": "https://www.rosario3.com/informaciongeneral/de-presidente-electo-a-lider-flavio-bolsonario-cambio-el-escudo-de-su-comunicado-y-corrigio-su-titulo-20261029-0026.html",
+        "image": "https://www.rosario3.com/__export/1793278994037/sites/rosario3/img/2026/10/29/flavio_y_eduardo_.png_928314580.png",
+        "summary": "El senador brasileño difundió tres versiones sucesivas de una carta en la que denunció un supuesto fraude electoral y anunció que encabezará la oposición desde Estados Unidos. La primera versión incluía un emblema nacional en desuso y la última eliminó la referencia a sí mismo…",
+        "pubDate": "2026-10-29T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "Emerger mostró su ADN tecnológico: inteligencia artificial, conectividad y desarrollos propios",
-        "link": "https://www.lacapital.com.ar/novedades/emerger-mostro-su-adn-tecnologico-inteligencia-artificial-conectividad-y-desarrollos-propios-n10289179.html",
-        "image": "https://media.lacapital.com.ar/p/04f070e3577176d2013ae4f0bf350185/adjuntos/203/imagenes/103/497/0103497177/1200x675/smart/tapa-publinota.jpg",
-        "summary": "Grupo Emerger celebró su Ateneo 2026, un evento que destacó la adopción de inteligencia artificial y tecnologías de vanguardia para potenciar su crecimiento en el sector de la medicina.",
-        "pubDate": "2026-10-29T03:00:00+00:00",
+        "title": "Destituyeron por corrupción a Gastón Salmain como juez federal de Rosario",
+        "link": "https://www.lacapital.com.ar/politica/destituyeron-corrupcion-gaston-salmain-como-juez-federal-rosario-n10289357.html",
+        "image": "https://media.lacapital.com.ar/p/635ff29b212eb4cee842a1b0a5d7bf88/adjuntos/203/imagenes/102/832/0102832767/1200x675/smart/gaston-salmain.jpg",
+        "summary": "Así lo resolvió el Consejo de la Magistratura de la Nación tras el jury que se inició por mal desempeño de sus funciones",
+        "pubDate": "2026-10-29T13:48:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Le robaron la bicicleta a la noche y terminó internado por una puñalada en el abdomen",
+        "link": "https://www.lacapital.com.ar/policiales/le-robaron-la-bicicleta-la-noche-y-termino-internado-una-punalada-el-abdomen-n10289324.html",
+        "image": "https://media.lacapital.com.ar/p/d15be4acc3ff5e17f633acb42ebd1da7/adjuntos/203/imagenes/103/274/0103274831/1200x675/smart/carrasco-hospital.jpg",
+        "summary": "La madre de Fabián N. denunció que tres ladrones atacaron a su hijo en Villa Banana y escaparon sin ser identificados",
+        "pubDate": "2026-10-29T12:55:10+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Robo relámpago en una panadería ubicada a metros del Paseo del Siglo",
+        "link": "https://www.lacapital.com.ar/policiales/robo-relampago-una-panaderia-ubicada-metros-del-paseo-del-siglo-n10289329.html",
+        "image": "https://media.lacapital.com.ar/p/39c3079d8a981b78f6816b48bccc6865/adjuntos/203/imagenes/103/499/0103499074/1200x675/smart/panaderia-asaltada-el-centro.png",
+        "summary": "En menos de 15 segundo, un delincuente rompió la puerta de vidrio y se llevó dinero y un celular de un local ubicado en Balcarce al 800",
+        "pubDate": "2026-10-29T12:38:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "\"No llego ni en mil vidas\", dijo Williams sobre el empujón de Molina en la final del Mundial",
+        "link": "https://www.lacapital.com.ar/ovacion/no-llego-ni-mil-vidas-dijo-williams-el-empujon-molina-la-final-del-mundial-n10227299.html",
+        "image": "https://media.lacapital.com.ar/p/7223d3d4a0df7624a15df25382f2f5f6/adjuntos/203/imagenes/103/498/0103498517/1200x675/smart/image.jpg",
+        "summary": "El delantero de España afirmó que no llegaba a cabecear para asistir a Ferrán Torres si no fuese por el empujón del defensor de la selección argentina",
+        "pubDate": "2026-10-29T12:21:51+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Demoraron a un taxista alcoholizado porque intentó coimear a la policía en el control",
+        "link": "https://www.lacapital.com.ar/la-ciudad/demoraron-un-taxista-alcoholizado-porque-intento-coimear-la-policia-el-control-n10289315.html",
+        "image": "https://media.lacapital.com.ar/p/e74eedf5b21970c1eccc9b57eace672a/adjuntos/203/imagenes/103/498/0103498683/taxi-blanque-presidente-roca.jpeg",
+        "summary": "El chofer de 57 años se había negado a entregar la documentación cuando lo interceptaron en la zona sur de Rosario",
+        "pubDate": "2026-10-29T11:42:02+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Respeto en Pujato por la muerte de la mamá de Scaloni y un minuto de silencio en las canchas",
+        "link": "https://www.lacapital.com.ar/ovacion/respeto-pujato-la-muerte-la-mama-scaloni-y-un-minuto-silencio-las-canchas-n10266154.html",
+        "image": "https://media.lacapital.com.ar/p/7355ae12a5bea3a5662020685b446086/adjuntos/203/imagenes/103/498/0103498753/1200x675/smart/velatorio-mama-scaloni.jpg",
+        "summary": "El movimiento en la sala velatoria para despedir a la mamá del DT fue sólo de allegados y familiares bajo un inmenso respeto. En tanto, la AFA dispuso un minuto de silencio en primera y en el ascenso",
+        "pubDate": "2026-10-29T11:22:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Gremios docentes de Rosario se suman a un paro nacional este jueves por un femicidio",
+        "link": "https://www.lacapital.com.ar/la-ciudad/gremios-docentes-rosario-se-suman-un-paro-nacional-este-jueves-un-femicidio-n10289311.html",
+        "image": "https://media.lacapital.com.ar/p/0e53fb331389c0c16da39672b17ffa14/adjuntos/203/imagenes/103/498/0103498616/amsafe-rosario.jpg",
+        "summary": "CTERA lanzó la medida de fuerza luego del asesinato de Nancy Godoy, una maestra correntina que había desaparecido semanas atrás",
+        "pubDate": "2026-10-29T10:42:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Estrenos de cine en Rosario: romance británico, una versión oscura de Pinocho y zombies",
+        "link": "https://www.lacapital.com.ar/zoom/estrenos-cine-rosario-romance-britanico-una-version-oscura-pinocho-y-zombies-n10289225.html",
+        "image": "https://media.lacapital.com.ar/p/9954438d60e069999f2d4bc33176eb3e/adjuntos/203/imagenes/103/498/0103498020/1200x675/smart/image-2026-10-28t183928739.png",
+        "summary": "Títulos para todos los gustos desembarcan en las salas de cine de la ciudad este jueves 29 de octubre. Promociones y descuentos a la hora de sacar entradas",
+        "pubDate": "2026-10-29T10:05:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Cómo aprovechar la lluvia para potenciar los rindes",
+        "link": "https://www.lacapital.com.ar/agro/como-aprovechar-la-lluvia-potenciar-los-rindes-n10289025.html",
+        "image": "https://media.lacapital.com.ar/p/a3ff52ffd98799bf320582d65381e898/adjuntos/203/imagenes/025/548/0025548780/1200x675/smart/maizjpg.jpg",
+        "summary": "Una mayor disponibilidad de agua abre la posibilidad de alcanzar mejores rendimientos, pero para aprovecharla los cultivos necesitan una nutrición acorde con su potencial. Especialistas del Inta Balcarce, la Universidad Nacional de Mar del Plata y el Conicet explican por qué el…",
+        "pubDate": "2026-10-29T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "En Central hay una fórmula que no debe romper para encarar las dos finales que le quedan",
+        "link": "https://www.lacapital.com.ar/ovacion/en-central-hay-una-formula-que-no-debe-romper-encarar-las-dos-finales-que-le-quedan-n10289135.html",
+        "image": "https://media.lacapital.com.ar/p/e11e7e846b2a34c4a9b843ca24153934/adjuntos/203/imagenes/103/497/0103497494/foto.jpeg",
+        "summary": "En los últimos partidos, el Canalla mostró niveles altos en lo individual que potenciaron lo colectivo. La receta que debe mantener activa para lo que viene",
+        "pubDate": "2026-10-29T09:00:00+00:00",
         "approxTime": false
       },
       {
@@ -159,11 +240,20 @@
       },
       {
         "source": "La Capital",
+        "title": "Emerger mostró su ADN tecnológico: inteligencia artificial, conectividad y desarrollos propios",
+        "link": "https://www.lacapital.com.ar/novedades/emerger-mostro-su-adn-tecnologico-inteligencia-artificial-conectividad-y-desarrollos-propios-n10289179.html",
+        "image": "https://media.lacapital.com.ar/p/04f070e3577176d2013ae4f0bf350185/adjuntos/203/imagenes/103/497/0103497177/1200x675/smart/tapa-publinota.jpg",
+        "summary": "Grupo Emerger celebró su Ateneo 2026, un evento que destacó la adopción de inteligencia artificial y tecnologías de vanguardia para potenciar su crecimiento en el sector de la medicina.",
+        "pubDate": "2026-10-29T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Axel Kicillof busca hacer pie en Santa Fe y se reunió con intendentes y dirigentes del peronismo",
-        "link": "https://www.lacapital.com.ar/axel-kicillof-busca-hacer-pie-santa-fe-y-se-reunio-intendentes-y-dirigentes-del-peronismo-n10289301.html",
+        "link": "https://www.lacapital.com.ar/politica/axel-kicillof-busca-hacer-pie-santa-fe-y-se-reunio-intendentes-y-dirigentes-del-peronismo-n10289301.html",
         "image": "https://media.lacapital.com.ar/p/ab981ba92e7a71d28763cb021d5bbe7e/adjuntos/203/imagenes/103/498/0103498466/1200x675/smart/pj1.png",
-        "summary": "El encuentro se realizó en la oficinas del Bapro en la Ciudad de Buenos Aires. Hubo referentes de Rosario y de localidades de la zona",
-        "pubDate": "2026-10-29T02:31:53+00:00",
+        "summary": "El encuentro se realizó en la oficinas del Bapro en la ciudad de Buenos Aires. Hubo referentes de Rosario y de localidades de la zona",
+        "pubDate": "2026-10-29T02:31:00+00:00",
         "approxTime": false
       },
       {
@@ -182,96 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/b3634f1e3d229b6c1c2304a7f23faba8/adjuntos/203/imagenes/103/498/0103498463/1200x675/smart/arajet1.png",
         "summary": "La promoción de la aerolínea dominicana está disponible hasta el 5 de noviembre y es para viajar entre el 16 de noviembre de 2026 y el 13 de junio de 2027",
         "pubDate": "2026-10-29T01:46:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El presidente de la AFA, Chiqui Tapia, llegó a Pujato al velorio de la madre de Scaloni",
-        "link": "https://www.lacapital.com.ar/ovacion/el-presidente-la-afa-chiqui-tapia-llego-pujato-al-velorio-la-madre-scaloni-n10289298.html",
-        "image": "https://media.lacapital.com.ar/p/f79b1445f863a206291626a1005139b1/adjuntos/203/imagenes/103/498/0103498462/1200x675/smart/tapia.png",
-        "summary": "Este miércoles se confirmó el lamentable fallecimiento de la madre del director técnico de la selección argentina",
-        "pubDate": "2026-10-29T01:21:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Tenis: Rosario Rowing Club sumó y se quedó con la Copa Desafío de la ART",
-        "link": "https://www.lacapital.com.ar/ovacion/tenis-rosario-rowing-club-sumo-y-se-quedo-la-copa-desafio-la-art-n10289293.html",
-        "image": "https://media.lacapital.com.ar/p/8d938132b42a10afeefd539ba7dfcb3d/adjuntos/203/imagenes/103/498/0103498362/tenisppp.jpeg",
-        "summary": "Provincial y Jockey Club completaron el podio de la competencia que reunió a siete equipos y marcó el cierre de la temporada de la Asociación Rosarina",
-        "pubDate": "2026-10-29T01:10:55+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "A un paso de que el Concejo legalice las app Uber y DiDi, tras un día agitado y de fuerte debate",
-        "link": "https://www.lacapital.com.ar/la-ciudad/a-un-paso-que-el-concejo-legalice-las-app-uber-y-didi-un-dia-agitado-y-fuerte-debate-n10289297.html",
-        "image": "https://media.lacapital.com.ar/p/a30dbfcf45a7ccc165b6c6c6b564f909/adjuntos/203/imagenes/103/497/0103497596/1200x675/smart/concejo.jpg",
-        "summary": "Con el impulso de Unidos y La Libertad Avanza, el proyecto llegaría al recinto y lograría las voluntades para que las plataformas dejen de ser irregulares",
-        "pubDate": "2026-10-29T01:09:23+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Quini 6: un solo apostador ganó en la Revancha y se lleva 1.080 millones de pesos",
-        "link": "https://www.lacapital.com.ar/informacion-general/quini-6-un-solo-apostador-gano-la-revancha-y-se-lleva-1080-millones-pesos-n10289282.html",
-        "image": "https://media.lacapital.com.ar/p/113ecd8970f2a4ddfb7f18746d75d1bf/adjuntos/203/imagenes/103/498/0103498262/1200x675/smart/quini.png",
-        "summary": "Además hay un ganador de Santa Fe en la modalidad Siempre Sale, que se anotó con 184 millones de pesos",
-        "pubDate": "2026-10-29T00:54:10+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Rugby: presentaron las instancias finales del Regional del Litoral Copa Banco Macro",
-        "link": "https://www.lacapital.com.ar/ovacion/rugby-presentaron-las-instancias-finales-del-regional-del-litoral-copa-banco-macro-n10289291.html",
-        "image": "https://media.lacapital.com.ar/p/09a3e6b082a937794c6bbb0dc0c9d92d/adjuntos/203/imagenes/103/498/0103498384/r1.jpg",
-        "summary": "El próximo sábado 7 de noviembre se vivirá la primera jornada decisiva en el Hipódromo. Jockey Club enfrentará a Estudiantes y Duendes a Santa Fe Rugby",
-        "pubDate": "2026-10-29T00:53:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El tiempo en Rosario: se anticipa un jueves con probabilidad de tormentas y chaparrones",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-se-anticipa-un-jueves-probabilidad-tormentas-y-chaparrones-n10289281.html",
-        "image": "https://media.lacapital.com.ar/p/c698193681e719dcfca2b9900385714c/adjuntos/203/imagenes/103/452/0103452555/1200x675/smart/lluvia01.jpg",
-        "summary": "Tras jornadas estables y de buen tiempo, el Servicio Meteorológico Nacional anuncia un desmejoramiento en las condiciones hasta el tramo final de la semana",
-        "pubDate": "2026-10-29T00:20:01+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El proyecto de seguridad enfrenta a la UCR y al PS y Pullaro reclama la ley",
-        "link": "https://www.lacapital.com.ar/politica/el-proyecto-seguridad-enfrenta-la-ucr-y-al-ps-y-pullaro-reclama-la-ley-n10289287.html",
-        "image": "https://media.lacapital.com.ar/p/d11ef007f0c1d49c4ff53f188d70ade2/adjuntos/203/imagenes/103/498/0103498231/1200x675/smart/legislatura-santa-fe-ley-seguridad.jpg",
-        "summary": "Los ministros Cococcioni y Bastia se reunieron con legisladores de Unidos. El gobernador planteó que necesita las herramientas. Siguen las negociaciones",
-        "pubDate": "2026-10-29T00:13:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Diputados: la oposición a pleno exige al gobierno que explique su \"complicidad\" con la fuga de Bolsonaro",
-        "link": "https://www.lacapital.com.ar/politica/diputados-la-oposicion-pleno-exige-al-gobierno-que-explique-su-complicidad-la-fuga-bolsonaro-n10289286.html",
-        "image": "https://media.lacapital.com.ar/p/a916ab8a8ab41349b92384e65bdaf621/adjuntos/203/imagenes/103/483/0103483657/1200x675/smart/image.png",
-        "summary": "Reclaman a Milei que reconozca el triunfo de Lula y que los ministros Santilli, Monteoliva y Quirno concurran a la Cámara baja",
-        "pubDate": "2026-10-28T23:53:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La Higuera, la ONG rosarina que lleva salud y oportunidades a comunidades rurales de Chaco",
-        "link": "https://www.lacapital.com.ar/la-ciudad/la-higuera-la-ong-rosarina-que-lleva-salud-y-oportunidades-comunidades-rurales-chaco-n10289269.html",
-        "image": "https://media.lacapital.com.ar/p/873b163193c3ed2661437deed5cff837/adjuntos/203/imagenes/103/498/0103498092/1200x675/smart/image-32.jpg",
-        "summary": "La asociación nació hace más de 22 años. Desde el 2011 cuentan con la Casa de Salud Rural, donde brindan atención a comunidades y familias que se encuentran aisladas en el impenetrable chaqueño",
-        "pubDate": "2026-10-28T22:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Las lluvias frenaron el inicio de la cosecha de trigo en el centro norte de Santa Fe",
-        "link": "https://www.lacapital.com.ar/agro/las-lluvias-frenaron-el-inicio-la-cosecha-trigo-el-centro-norte-santa-fe-n10289227.html",
-        "image": "https://media.lacapital.com.ar/p/83018dfe3cb8577ed3ca561c9dc12275/adjuntos/203/imagenes/005/838/0005838095/1200x675/smart/revancha-la-ultima-cosecha-trigo-fue-muy-baja-ahora-se-recuperaria.jpg",
-        "summary": "Los primeros lotes rindieron entre 30 y 32 quintales por hectárea. La humedad también interrumpió la siembra de soja de primera, según la Bolsa de Comercio de Santa Fe",
-        "pubDate": "2026-10-28T22:25:00+00:00",
         "approxTime": false
       }
     ]
