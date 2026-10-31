@@ -1,14 +1,32 @@
 {
-  "generatedAt": "2026-10-31T15:42:13.258452+00:00",
+  "generatedAt": "2026-10-31T19:55:20.219184+00:00",
   "sites": {
     "rosario3": [
       {
         "source": "Rosario3",
-        "title": "Dos hombres con quemaduras tras la explosión de una garrafa e incendio en una iglesia evangélica en zona noroeste",
+        "title": "Mercado inmobiliario en Rosario: la estabilidad de los alquileres contrasta con la baja intermensual de la oferta y la mora residencial",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/mercado-inmobiliario-en-rosario-la-estabilidad-de-los-alquileres-contrasta-con-la-baja-intermensual-de-la-oferta-y-la-mora-residencial-20261031-0024.html",
+        "image": "https://www.rosario3.com/__export/1793475849459/sites/rosario3/img/2025/04/30/alquileres_en_rosario.jpg_1825222445.jpg",
+        "summary": "El precio mediano de alquiler por metro cuadrado para departamentos se mantuvo sin variaciones en octubre respecto a septiembre. Sin embargo, el estancamiento de la oferta disponible en el corto plazo se suma al deterioro de los ingresos y a un atraso en los pagos que ya fue…",
+        "pubDate": "2026-10-31T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Dos hombres con quemaduras tras la explosión de una garrafa e incendio en una iglesia evangélica de Ludueña",
         "link": "https://www.rosario3.com/informaciongeneral/dos-hombres-con-quemaduras-tras-la-explosion-de-una-garrafa-e-incendio-en-una-iglesia-evangelica-en-zona-noroeste-20261031-0015.html",
         "image": "https://www.rosario3.com/__export/1793459690476/sites/rosario3/img/2026/10/31/captura_de_pantalla_2026-10-31_a_la-s-_12-10-31-p--m-_version1793459673895.png_2061240855.png",
         "summary": "El episodio ocurrió este sábado por la mañana en un galpón de Arévalo al 6200, donde funciona la iglesia Discípulos de Nuestro Señor Jesucristo. Los dos hombres, de 18 y 46 años, estaban preparando una comida solidaria cuando una garrafa comenzó a prenderse fuego por una pérdida…",
-        "pubDate": "2026-10-31T12:00:00+00:00",
+        "pubDate": "2026-10-31T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Charlas de Mercado: “La trazabilidad de la soja es una oportunidad para la Argentina, pero no durará siempre”",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/charlas-de-mercado-la-trazabilidad-de-la-soja-es-una-oportunidad-para-la-argentina-pero-no-durara-siempre-20261031-0017.html",
+        "image": "https://www.rosario3.com/__export/1793463784935/sites/rosario3/img/2026/10/31/granoleta_version1793463784506.jpg_2146228566.jpg",
+        "summary": "En el Congreso de Agroeducación, el director de la trader china Cofco, Martín Spino, destacó que el país tiene una ventaja frente a las exigencias de Europa. El diferencial de precios para la producción con certificación ambiental llegó a u$s10. ¿Se acaba en abril?",
+        "pubDate": "2026-10-31T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -17,25 +35,25 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/la-autopista-rosario-santa-fe-tendra-una-balanza-que-multa-a-los-camiones-con-sobrepeso-sin-detenerlos-20261031-0009.html",
         "image": "https://www.rosario3.com/__export/1793449254911/sites/rosario3/img/2026/10/31/whatsapp_image_2026-10-31_at_09_13_07.jpeg_982625323.jpeg",
         "summary": "El dispositivo está ubicado en el kilómetro 7, en la mano hacia Santa Fe, y controla los tres carriles mientras los vehículos circulan. La Provincia informó que comenzará a aplicar multas dentro de 15 días. También incorporó móviles de asistencia y equipos para el mantenimiento…",
-        "pubDate": "2026-10-31T11:59:00+00:00",
+        "pubDate": "2026-10-31T11:57:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "La Previa del Run Run: estratégica inversión frente al río y vienen por inversores para negocios en Punta del Este",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-previa-del-run-run-estrategica-inversion-frente-al-rio-y-vienen-por-inversores-para-negocios-en-punta-del-este-20261031-0008.html",
-        "image": "https://www.rosario3.com/__export/1789167090572/sites/rosario3/img/2026/09/11/marianoportada_jpg.jpeg_506286608.jpeg",
-        "summary": "El podcast con el anticipo de las novedades económicas y corporativas que se publicarán en la tradicional columna de los domingos en Rosario3",
-        "pubDate": "2026-10-31T11:58:00+00:00",
+        "title": "Tensión en Santa Fe por intento de usurpación de la Villa Suramericana: audio de WhatsApp convocó a mujeres con niños y palos",
+        "link": "https://www.rosario3.com/policiales/tension-en-santa-fe-por-intento-de-usurpacion-de-la-villa-suramericana-audio-de-whatsapp-convoco-a-mujeres-con-ninos-y-palos-20261031-0020.html",
+        "image": "https://www.rosario3.com/__export/1793466480713/sites/rosario3/img/2026/10/31/villa_sudamericana_usurpacion.jpg_672794303.jpg",
+        "summary": "El intento de ocupación ocurrió el viernes por la noche en el complejo del barrio La Esmeralda y derivó en un operativo policial con disparos de balas de goma. Hubo dos aprehendidos. El gobierno apunta a una 'organización política'",
+        "pubDate": "2026-10-31T11:56:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Rocco Carbone: “Los fascismos no están en contra de la migración sino de la movilidad de los trabajadores”",
-        "link": "https://www.rosario3.com/informaciongeneral/rocco-carbone-los-fascismos-no-estan-en-contra-de-la-migracion-sino-de-la-movilidad-de-los-trabajadores-20261029-0086.html",
-        "image": "https://www.rosario3.com/__export/1793309766565/sites/rosario3/img/2026/10/29/rocco_carbone.jpg_928314580.jpg",
-        "summary": "El filósofo y escritor, que dará una charla sobre desigualdad y migración en el Congreso sobre Democracia de Rosario, comparó las políticas antimigratorias de Trump y Milei. Aseguró que “las fronteras son límites para los sujetos” pero “puentes porosos para la clase de la gran…",
-        "pubDate": "2026-10-29T11:57:00+00:00",
+        "title": "Hallaron muertos a una pareja y sus tres hijos adolescentes en Merlo: sospechan que el padre los mató y se suicidó",
+        "link": "https://www.rosario3.com/informaciongeneral/hallaron-muertos-a-una-pareja-y-sus-tres-hijos-adolescentes-en-merlo-sospechan-que-el-padre-los-mato-y-se-suicido-20261031-0016.html",
+        "image": "https://www.rosario3.com/__export/1793459578856/sites/rosario3/img/2026/10/31/image_-57-.jpg_928314581.jpg",
+        "summary": "Los cuerpos fueron encontrados en una vivienda de Mariano Acosta localidad bonaerense de Merlo, luego de que la mujer dejara de concurrir a su trabajo y atender su teléfono. Los chicos tenían 10, 12 y 14 años",
+        "pubDate": "2026-10-31T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -44,52 +62,34 @@
         "link": "https://www.rosario3.com/informaciongeneral/crisis-industrial-en-villa-constitucion-dos-empresas-de-tecnologia-despidieron-a-mas-de-100-trabajadores-20261031-0010.html",
         "image": "https://www.rosario3.com/__export/1793453171875/sites/rosario3/img/2026/10/31/gentec.jpg_672794304.jpg",
         "summary": "Plantium y Gentec, propiedad del empresario Jorge Gentilli, interrumpieron sus actividades en Villa Constitución y despidieron a más de 100 trabajadores, entre ellos empleados de Rosario. La competencia de los equipos chinos, las deudas de grandes clientes y la caída del poder…",
-        "pubDate": "2026-10-31T11:56:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La era post Messi: la AFA confirmó las sedes de los amistosos de la selección argentina en noviembre",
-        "link": "https://www.rosario3.com/deportes/la-era-post-messi-la-afa-confirmo-las-sedes-de-los-amistosos-de-la-seleccion-argentina-en-noviembre-20261031-0007.html",
-        "image": "https://www.rosario3.com/__export/1784154051076/sites/rosario3/img/2026/07/15/scaloni.jpg_928314580.jpg",
-        "summary": "La Albiceleste enfrentará a Uruguay y Costa Rica en la fecha FIFA, que serán los dos primeros partidos sin Lionel Messi de manera oficial",
-        "pubDate": "2026-10-31T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Camilo hizo vibrar el Metropolitano de Rosario con romance, cumbia y la presencia de Evaluna",
-        "link": "https://www.rosario3.com/ocio/camilo-hizo-vibrar-el-metropolitano-de-rosario-con-romance-cumbia-y-la-presencia-de-evaluna-20261031-0011.html",
-        "image": "https://www.rosario3.com/__export/1793456052056/sites/rosario3/img/2026/10/31/ph-_diego_de_bruno_-4-_version1793456051325.jpg_1391685748.jpg",
-        "summary": "El cantante colombiano se presentó ante un estadio colmado en el marco de su gira internacional. Repasó sus grandes éxitos, compartió escenario con su esposa y sorprendió al público con la participación de Un Poco de Ruido",
         "pubDate": "2026-10-31T11:54:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Argentino de Rosario define este sábado de local la permanencia en la Primera C: a qué hora y dónde verlo en vivo",
-        "link": "https://www.rosario3.com/deportes/argentino-empato-contra-defensores-de-glew-y-definira-la-permanencia-en-la-primera-c-de-local-20261026-0046.html",
-        "image": "https://www.rosario3.com/__export/1793026501148/sites/rosario3/img/2026/10/26/argentino-de-rosario.jpg_928314580.jpg",
-        "summary": "El Salaito igualó en el partido de ida de la promoción este domingo gracias al gol de Thiago Bartalini en el complemento. En caso de otro empate, el equipo de barrio Sarmiento mantendrá la categoría gracias a la ventaja deportiva",
+        "title": "Antes de la clasificación, Colapinto terminó 12º en la tercera práctica del GP de México",
+        "link": "https://www.rosario3.com/deportes/f1-en-mexico-cuando-vuelve-a-correr-colapinto-y-que-necesita-antonelli-para-celebrar-20261026-0064.html",
+        "image": "https://www.rosario3.com/__export/1793404454678/sites/rosario3/img/2026/10/30/colapinto.jpg_890727266.jpg",
+        "summary": "El piloto argentino volvió a subirse al Alpine en el segundo entrenamiento libre, después de ceder su butaca en la primera tanda por una obligación reglamentaria. Charles Leclerc dominó las dos prácticas del viernes en el Autódromo Hermanos Rodríguez",
         "pubDate": "2026-10-26T11:53:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Colapinto se prepara para la última práctica antes de la clasificación para el GP de México: a qué hora",
-        "link": "https://www.rosario3.com/deportes/f1-en-mexico-cuando-vuelve-a-correr-colapinto-y-que-necesita-antonelli-para-celebrar-20261026-0064.html",
-        "image": "https://www.rosario3.com/__export/1793404454678/sites/rosario3/img/2026/10/30/colapinto.jpg_890727266.jpg",
-        "summary": "El piloto argentino volvió a subirse al Alpine en el segundo entrenamiento libre, después de ceder su butaca en la primera tanda por una obligación reglamentaria. Charles Leclerc dominó las dos prácticas del viernes en el Autódromo Hermanos Rodríguez",
+        "title": "Argentino de Rosario sigue en la Primera C: venció a Defensores de Glew y aseguró la permanencia",
+        "link": "https://www.rosario3.com/deportes/argentino-empato-contra-defensores-de-glew-y-definira-la-permanencia-en-la-primera-c-de-local-20261026-0046.html",
+        "image": "https://www.rosario3.com/__export/1793474573660/sites/rosario3/img/2026/10/31/argentino.jpg_506286608.jpg",
+        "summary": "Tras igualar en la ida, este sábado el Salaito se impuso por 2-1 en el estadio José Martín Olaeta de barrio Sarmiento, con gritos de Ignacio Canteros y Octavio Rubarth. Thiago Rodríguez, de penal, empató transitoriamente para la visita",
         "pubDate": "2026-10-26T11:52:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Newell’s tiene que valorar dónde está más allá de los resultados que se produzcan ante Unión e Instituto",
-        "link": "https://www.rosario3.com/deportes/newells-tiene-que-valorar-donde-esta-mas-alla-de-los-resultados-que-se-produzcan-ante-union-e-instituto-20261030-0021.html",
-        "image": "https://www.rosario3.com/__export/1793366004448/sites/rosario3/img/2026/10/30/kudelka_se_metix_en_el_corazxn_de_los_hinchas.jpg_2106848869.jpg",
-        "summary": "El club no debe olvidar en qué lugar padecía el final de la temporada pasada, situación que hoy sólo parece un mal recuerdo",
-        "pubDate": "2026-10-30T11:51:00+00:00",
+        "title": "Tensión en Francia por el tercer sábado consecutivo de protestas bajo un fuerte operativo de seguridad",
+        "link": "https://www.rosario3.com/informaciongeneral/tension-en-francia-por-el-tercer-sabado-consecutivo-de-protestas-bajo-un-fuerte-operativo-de-seguridad-20261031-0022.html",
+        "image": "https://www.rosario3.com/__export/1793469552745/sites/rosario3/img/2026/10/31/francia.jpg_2106848869.jpg",
+        "summary": "El gobierno de Emmanuel Macron anticipó un “riesgo muy elevado” de disturbios en la jornada de movilizaciones que coincide con Halloween. Comercios reforzaron su seguridad y varias ciudades limitaron las marchas",
+        "pubDate": "2026-10-31T11:51:00+00:00",
         "approxTime": true
       },
       {
@@ -112,10 +112,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Argentina XV rumbo a Gran Bretaña: con dos rosarinos en la lista, se viene el choque ante Inglaterra A y crece el debate por el calendario",
-        "link": "https://www.rosario3.com/deportes/argentina-xv-rumbo-a-gran-bretana-con-dos-rosarinos-en-la-lista-se-viene-el-choque-ante-inglaterra-a-y-crece-el-debate-por-el-calendario-20261031-0012.html",
-        "image": "https://www.rosario3.com/__export/1793457678213/sites/rosario3/img/2026/10/31/disen-o_sin_ti-tulo_-70-.png_928314581.png",
-        "summary": "El combinado nacional se prepara para su quinto compromiso internacional del año el próximo 6 de noviembre en Bath. La convocatoria de figuras clave del ámbito local vuelve a encender la polémica por la superposición con las instancias decisivas de los torneos regionales. Fueron…",
+        "title": "La era post Messi: la AFA confirmó las sedes de los amistosos de la selección argentina en noviembre",
+        "link": "https://www.rosario3.com/deportes/la-era-post-messi-la-afa-confirmo-las-sedes-de-los-amistosos-de-la-seleccion-argentina-en-noviembre-20261031-0007.html",
+        "image": "https://www.rosario3.com/__export/1784154051076/sites/rosario3/img/2026/07/15/scaloni.jpg_928314580.jpg",
+        "summary": "La Albiceleste enfrentará a Uruguay y Costa Rica en la fecha FIFA, que serán los dos primeros partidos sin Lionel Messi de manera oficial",
         "pubDate": "2026-10-31T11:48:00+00:00",
         "approxTime": true
       },
@@ -130,15 +130,87 @@
       },
       {
         "source": "Rosario3",
-        "title": "Una mirada desde la Came sobre el valor de las pymes: claves para una economía con empleo y desarrollo",
-        "link": "https://www.rosario3.com/opinion/una-mirada-desde-la-came-sobre-el-valor-de-las-pymes-claves-para-una-economia-con-empleo-y-desarrollo-20261029-0048.html",
-        "image": "https://www.rosario3.com/__export/1793371663475/sites/rosario3/img/2026/10/23/apyme1.jpg_928314581.jpg",
-        "summary": "Este jueves, el presente y futuro de las pymes ocupó una parte importante de la primera Ronda de Negocios del Régimen de Incentivo para Grandes Inversiones (Rigi) en Rosario, que reunió en la Estación Fluvial a empresarios, gobernadores y funcionarios nacionales. Desde la Came…",
-        "pubDate": "2026-10-29T11:46:00+00:00",
+        "title": "La Previa del Run Run: estratégica inversión frente al río y vienen por inversores para negocios en Punta del Este",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-previa-del-run-run-estrategica-inversion-frente-al-rio-y-vienen-por-inversores-para-negocios-en-punta-del-este-20261031-0008.html",
+        "image": "https://www.rosario3.com/__export/1789167090572/sites/rosario3/img/2026/09/11/marianoportada_jpg.jpeg_506286608.jpeg",
+        "summary": "El podcast con el anticipo de las novedades económicas y corporativas que se publicarán en la tradicional columna de los domingos en Rosario3",
+        "pubDate": "2026-10-31T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Primera C: Central Córdoba igualó ante Cañuelas en Tablada por el Reducido",
+        "link": "https://www.lacapital.com.ar/ovacion/primera-c-central-cordoba-igualo-canuelas-tablada-el-reducido-n10289749.html",
+        "image": "https://media.lacapital.com.ar/p/98b29715f6046dfc64ff66ae80f1c3c8/adjuntos/203/imagenes/103/503/0103503754/1200x675/smart/image-2026-10-31t151231702.png",
+        "summary": "El Matador empató ante el Tambero, en el partido de ida de los playoffs en la Primera C. Luca Pasinato para el Charrúa. La revancha en 15 días",
+        "pubDate": "2026-10-31T19:08:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El difícil trasfondo de la salidera a un jubilado en el centro: \"Era dinero para sueldos y alquileres\"",
+        "link": "https://www.lacapital.com.ar/policiales/el-dificil-trasfondo-la-salidera-un-jubilado-el-centro-era-dinero-sueldos-y-alquileres-n10289751.html",
+        "image": "https://media.lacapital.com.ar/p/249f44e42f60030234054daae6e1ec82/adjuntos/203/imagenes/103/503/0103503777/1200x675/smart/salidera-bancaria-3110.jpg",
+        "summary": "Fue sorprendido por delincuentes en Illia y Dorrego, donde le robaron 28 millones de pesos que consiguió tras vender un auto para hacer frente a compromisos",
+        "pubDate": "2026-10-31T19:01:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Tras el descenso de Aldosivi, un periodista se quebró al criticar a un jugador: \"Pesa 120 kilos\"",
+        "link": "https://www.lacapital.com.ar/ovacion/tras-el-descenso-aldosivi-un-periodista-se-quebro-al-criticar-un-jugador-pesa-120-kilos-n10289739.html",
+        "image": "https://media.lacapital.com.ar/p/4da2b1c28d2d75b52cecc32bb97915a6/adjuntos/203/imagenes/103/503/0103503727/1200x675/smart/aldosivi-3110.jpg",
+        "summary": "Un medio partidario del Tiburón no se guardó críticas al hablar de un futbolista de recambio para Javier Sanguinetti, técnico del equipo de Mar del Plata",
+        "pubDate": "2026-10-31T18:45:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Detienen a un adulto y a un menor de edad por venta de drogas",
+        "link": "https://www.lacapital.com.ar/policiales/detienen-un-adulto-y-un-menor-edad-venta-drogas-n10289743.html",
+        "image": "https://media.lacapital.com.ar/p/a3b75b8a52aa679e28bff14c1e46b6f5/adjuntos/203/imagenes/103/503/0103503751/1200x675/smart/pip.jpg",
+        "summary": "Fueron apresados en distintos operativos mientras vendían marihuana y cocaína. Efectivos policiales secuestraron la droga y el dinero que habían recaudado",
+        "pubDate": "2026-10-31T18:38:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Ofrecen una recompensa de 16 millones de pesos por datos sobre un femicidio en zona noroeste",
+        "link": "https://www.lacapital.com.ar/policiales/ofrecen-una-recompensa-16-millones-pesos-datos-un-femicidio-zona-noroeste-n10289733.html",
+        "image": "https://media.lacapital.com.ar/p/de79d65e79460ec794bf5ec343a0f99c/adjuntos/203/imagenes/102/209/0102209522/1200x675/smart/ailen-oggerojpg.jpg",
+        "summary": "Ailén Oggero fue asesinada en febrero de 2025. Si bien su ex novio está preso por violencia de género, todavía se desconoce quién la ejecutó",
+        "pubDate": "2026-10-31T18:07:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Ampliaron el alerta por tormentas en Rosario para este domingo",
+        "link": "https://www.lacapital.com.ar/la-ciudad/ampliaron-el-alerta-tormentas-rosario-este-domingo-n10289740.html",
+        "image": "https://media.lacapital.com.ar/p/ebfc72769911a570f12141c8547a1a59/adjuntos/203/imagenes/103/453/0103453554/2026-10-07-lluvias-by_mbustamente-82748231.jpg",
+        "summary": "El Servicio Meteorológico Nacional actualizó el aviso sobre posibles lluvias, caída de granizo y ráfagas intensas de viento",
+        "pubDate": "2026-10-31T17:03:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Los camiones podrán recibir multas automáticas en la autopista Rosario-Santa Fe",
+        "link": "https://www.lacapital.com.ar/la-region/los-camiones-podran-recibir-multas-automaticas-la-autopista-rosario-santa-fe-n10289734.html",
+        "image": "https://media.lacapital.com.ar/p/a0fdfbdbeaaa07e9fcd134335327b19c/adjuntos/203/imagenes/103/503/0103503612/1200x675/smart/camiones-peso-santa-fe-rosario-3110-2.jpg",
+        "summary": "El gobierno provincial instaló un dispositivo que detecta el sobrepeso en movimiento, agilizando los controles con el fin de reducir el deterioro de la calzada",
+        "pubDate": "2026-10-31T16:31:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Dudas en Central: Gastón Ávila será evaluado por la patada que le dieron ante Sarmiento",
+        "link": "https://www.lacapital.com.ar/ovacion/dudas-central-gaston-avila-sera-evaluado-la-patada-que-le-dieron-sarmiento-n10289728.html",
+        "image": "https://media.lacapital.com.ar/p/6237d1c4a3808182890a9ed48f3cd2ea/adjuntos/203/imagenes/103/503/0103503626/gaston-avila.jpg",
+        "summary": "El diagnóstico preliminar del futbolista canalla coincide con la jugada del golpe y la posterior expulsión de Santiago Salle en Junín",
+        "pubDate": "2026-10-31T16:14:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Di María: \"Cuando vuelve, uno sueña con estas cosas, pero no sabe si se van a cumplir\"",
@@ -200,78 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/7a1b9d4f14b6f5b970b33ec890b87179/adjuntos/203/imagenes/103/503/0103503188/felipe-michilg.jpg",
         "summary": "El senador del departamento San Cristóbal dijo que el proyecto prioriza la seguridad, la educación y la salud, entre otras cuestiones",
         "pubDate": "2026-10-31T12:47:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cinco recetas fáciles para Halloween con un aspecto terrorífico",
-        "link": "https://www.lacapital.com.ar/informacion-general/cinco-recetas-faciles-halloween-un-aspecto-terrorifico-n10289637.html",
-        "image": "https://media.lacapital.com.ar/p/63317adec88a2b6d36f9b1bc1479db43/adjuntos/203/imagenes/103/502/0103502491/1200x675/smart/image-15.png",
-        "summary": "En concordancia con la festividad, se pueden preparar snacks con la estética de miedo ideales para sorprender a los más chicos.",
-        "pubDate": "2026-10-31T12:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Dispararon en tiendas de Halloween de Estados Unidos y mataron a dos personas",
-        "link": "https://www.lacapital.com.ar/informacion-general/dispararon-tiendas-halloween-estados-unidos-y-mataron-dos-personas-n10289697.html",
-        "image": "https://media.lacapital.com.ar/p/34e24a83c0c0db4e4ed789f9e1c77842/adjuntos/203/imagenes/103/503/0103503033/spirit-halloween.jpg",
-        "summary": "Un joven de 21 años murió tras una discusión en una ciudad de Michigan. Horas más tarde, otro hombre cometió un asesinato e hirió a seis víctimas en California",
-        "pubDate": "2026-10-31T12:09:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Newell's vs. Unión por el torneo Clausura: hora, canal y posibles formaciones",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-vs-union-el-torneo-clausura-hora-canal-y-posibles-formaciones-n10289551.html",
-        "image": "https://media.lacapital.com.ar/p/e28730931d6696d6de52ec2df41c7a1a/adjuntos/203/imagenes/102/777/0102777722/1200x675/smart/newells-union.png",
-        "summary": "La Lepra buscará sumar de a tres ante el Tatengue en el Coloso para sellar su clasificación a playoffs. Detalles y estadísticas del partido",
-        "pubDate": "2026-10-31T11:23:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Halloween: cuál es el origen de esta fiesta y qué es el \"trick or treat\"",
-        "link": "https://www.lacapital.com.ar/informacion-general/halloween-cual-es-el-origen-esta-fiesta-y-que-es-el-trick-or-treat-n10289616.html",
-        "image": "https://media.lacapital.com.ar/p/e47896b677c9fa25707d0baa2310f70b/adjuntos/203/imagenes/101/133/0101133363/1200x675/smart/halloween.jpg",
-        "summary": "En Halloween todos se disfrazan y se multiplica la oferta de películas de terror. Pero, ¿cómo nació esta festividad celta que el mundo festeja cada 31 de octubre?",
-        "pubDate": "2026-10-31T11:21:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Nunca es tarde para volver a tocar: tres bandas de adultos mayores se presentan en el Galpón 11",
-        "link": "https://www.lacapital.com.ar/zoom/nunca-es-tarde-volver-tocar-tres-bandas-adultos-mayores-se-presentan-el-galpon-11-n10289656.html",
-        "image": "https://media.lacapital.com.ar/p/447cf404887b8567681500123b6e0a36/adjuntos/203/imagenes/103/502/0103502623/1200x675/smart/image-2026-10-30t190818196.png",
-        "summary": "Se formaron a partir de un programa municipal y cuentan cómo se preparan antes de subirse por primera vez al escenario para tocar y cantar ante hijos, nietos y nuevos espectadores",
-        "pubDate": "2026-10-31T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Guerra al ciberbullying: lanzan un programa  integral de educación digital",
-        "link": "https://www.lacapital.com.ar/la-ciudad/guerra-al-ciberbullying-lanzan-un-programa-integral-educacion-digital-n10289232.html",
-        "image": "https://media.lacapital.com.ar/p/92ebe13b55c3e20cde7378a474ab11e6/adjuntos/203/imagenes/102/820/0102820702/1200x675/smart/bullying-foto.webp",
-        "summary": "Tras alertar sobre el vínculo entre el ciberacoso y los suicidios juveniles, el funcionario Lucas Raspall explicó los alcances de la nueva estrategia integral en las escuelas",
-        "pubDate": "2026-10-31T09:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El comportamiento del arroz durante el almacenamiento poscosecha",
-        "link": "https://www.lacapital.com.ar/agro/el-comportamiento-del-arroz-el-almacenamiento-poscosecha-n10289029.html",
-        "image": "https://media.lacapital.com.ar/p/2bd7435c33fa27e04eed7d56919349aa/adjuntos/305/imagenes/101/524/0101524616/1200x675/smart/arrozsantafejpg.jpg",
-        "summary": "Un equipo de investigación del Inta, en colaboración con el Conicet, evaluó el comportamiento fisicoquímico y culinario de siete genotipos de arroz de grano largo con el objetivo de identificar los materiales con mejor desempeño poscosecha y menor necesidad de estacionamiento",
-        "pubDate": "2026-10-31T09:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Vóley: Normal 3, una \"Escuela\" con mucha mística que sueña con ser un club",
-        "link": "https://www.lacapital.com.ar/ovacion/voley-normal-3-una-escuela-mucha-mistica-que-suena-ser-un-club-n10289669.html",
-        "image": "https://media.lacapital.com.ar/p/1e6efb368d71f05f21aa11cae96e3e9a/adjuntos/203/imagenes/103/502/0103502748/82625366.jpeg",
-        "summary": "Con la nueva sede de calle Virasoro, la institución dio un paso fundamental para transformarse en un club",
-        "pubDate": "2026-10-31T09:15:00+00:00",
         "approxTime": false
       }
     ]
