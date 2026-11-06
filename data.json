@@ -1,14 +1,32 @@
 {
-  "generatedAt": "2026-11-06T00:09:10.364792+00:00",
+  "generatedAt": "2026-11-06T06:31:37.620661+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "“Soy rosarina y amo Rosario”: la historia de Sor Gabriela, la religiosa que vive en clausura hace 40 años y saldrá para conocer al Papa",
+        "link": "https://www.rosario3.com/informaciongeneral/soy-rosarina-y-amo-rosario-la-historia-de-sor-gabriela-la-religiosa-que-vive-en-clausura-hace-40-anos-y-saldra-para-conocer-al-papa-20261105-0066.html",
+        "image": "https://www.rosario3.com/__export/1793925275381/sites/rosario3/img/2026/11/05/1000609825.jpg_1096344065.jpg",
+        "summary": "Nació en Rosario, creció en Parque Field y a los 19 años decidió ingresar al Monasterio de la Visitación de Santa María, en Pilar. Hace cuatro décadas que lleva una vida contemplativa, aunque nunca perdió el vínculo con su ciudad. En una entrevista con Rosario3 y El Tres, contó…",
+        "pubDate": "2026-11-05T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "La reforma de seguridad de Pullaro obtuvo media sanción en Diputados con amplio respaldo",
         "link": "https://www.rosario3.com/politica/despues-de-las-tensiones-hubo-acuerdo-en-unidos-y-sale-la-nueva-ley-de-seguridad-impulsada-por-pullaro-20261105-0038.html",
         "image": "https://www.rosario3.com/__export/1793106373986/sites/rosario3/img/2026/10/27/legislatura_santa_fe.jpg_982625323.jpg",
         "summary": "Los diputados radicales y socialistas acordaron cambios al paquete e introdujeron correcciones que pidió el Ejecutivo. Salió con 37 votos afirmativos y 11 negativos y ahora debe ser tratado por el Senado",
-        "pubDate": "2026-11-05T12:00:00+00:00",
+        "pubDate": "2026-11-05T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Drama familiar tras el femicidio en Baigorria: abuela necesita ayuda para criar a sus nietos huérfanos",
+        "link": "https://www.rosario3.com/informaciongeneral/drama-familiar-tras-el-femicidio-en-baigorria-abuela-necesita-ayuda-para-criar-a-sus-nietos-huerfanos-20261105-0045.html",
+        "image": "https://www.rosario3.com/__export/1793909085131/sites/rosario3/img/2026/11/05/talia.jpg_1466170194.jpg",
+        "summary": "Talía Baduna tenía 29 años, estaba embarazada y murió tras ser prendida fuego por su pareja. En medio del duelo, su madre lucha contra una difícil situación económica y apela a la solidaridad: debe cobijar a un nene de 9 años con autismo y al bebé recién nacido",
+        "pubDate": "2026-11-05T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -17,24 +35,6 @@
         "link": "https://www.rosario3.com/policiales/fray-luis-beltran-intento-prender-fuego-a-su-expareja-delante-de-su-hija-y-quedo-preso-por-tentativa-de-femicidio-20261105-0064.html",
         "image": "https://www.rosario3.com/__export/1793921913257/sites/rosario3/img/2026/11/05/tribunales_san_lorenzo.jpg_1825222445.jpg",
         "summary": "La Fiscalía también le atribuyó al acusado abusos sexuales en al menos tres oportunidades y amenazas para impedir que la mujer terminara la relación. La Justicia ordenó que permanezca detenido durante 180 días",
-        "pubDate": "2026-11-05T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La del toro: allanaron por amenazas y encontraron nueve kilos de cocaína en Timbúes",
-        "link": "https://www.rosario3.com/policiales/la-del-toro-allanaron-por-amenazas-y-encontraron-nueve-kilos-de-cocaina-en-timbues-20261105-0063.html",
-        "image": "https://www.rosario3.com/__export/1793918266679/sites/rosario3/img/2026/11/05/cocaina_toro_timbues.jpg_672794304.jpg",
-        "summary": "Todo comenzó con la denuncia de un vecino y derivó en el hallazgo de nueve paquetes con 9,4 kilos de cocaína. Hay dos detenidos",
-        "pubDate": "2026-11-05T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Un camión cruzó de carril y provocó un fuerte choque en la autopista Rosario-Santa Fe",
-        "link": "https://www.rosario3.com/informaciongeneral/un-camion-cruzo-de-carril-y-provoco-un-fuerte-choque-en-la-autopista-rosario-santa-fe-20261105-0053.html",
-        "image": "https://www.rosario3.com/__export/1793912859960/sites/rosario3/img/2026/11/05/camixn_autopista_rosario-santa_fe_choque.jpeg_672794304.jpeg",
-        "summary": "Ocurrió a la altura de Capitán Bermúdez, entre dos transportes que circulaban en sentidos opuestos. Uno terminó tumbado en la banquina, con la carga de maíz desparramada y el chofer atrapado, que fue trasladado en helicóptero sanitario",
         "pubDate": "2026-11-05T11:57:00+00:00",
         "approxTime": true
       },
@@ -49,19 +49,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "Clausuraron cinco chatarrerías y secuestraron luminarias públicas y carteles de tránsito",
-        "link": "https://www.rosario3.com/informaciongeneral/clausuraron-cinco-chatarrerias-y-secuestraron-luminarias-publicas-y-carteles-de-transito-20261105-0050.html",
-        "image": "https://www.rosario3.com/__export/1793909690318/sites/rosario3/img/2026/11/05/luces.jpg_1825222445.jpg",
-        "summary": "Los operativos de inspección se realizaron en distintos puntos de la ciudad durante las últimas dos semanas. Desde el municipio explicaron que los procedimientos apuntan a “cortar la cadena de comercialización de elementos robados'",
+        "title": "La obligación de mostrar a la policía el IMEI del celular ya es ley en Santa Fe",
+        "link": "https://www.rosario3.com/informaciongeneral/la-obligacion-de-mostrar-a-la-policia-el-imei-del-celular-ya-es-ley-en-santa-fe-20261105-0060.html",
+        "image": "https://www.rosario3.com/__export/1793916563325/sites/rosario3/img/2026/11/05/celulares.jpg_1768679258.jpg",
+        "summary": "Con los teléfonos móviles y otros dispositivos regirá lo mismo que con los bienes muebles registrados, como los vehículos. Los uniformados podrán exigir su “tarjeta verde” virtual. Es de fácil acceso, pero si el ciudadano se niega a exhibirlo el aparato podrá ser decomisado",
         "pubDate": "2026-11-05T11:55:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Renunció Santiago Peña: el banco que sacudió a Paraguay y dejó sueldos sin pagar en la Argentina | Ecos365",
-        "link": "https://www.rosario3.com/ecos365/noticias/renuncio-santiago-pena-el-banco-que-sacudio-a-paraguay-y-dejo-sueldos-sin-pagar-en-la-argentina-20261105-0009.html",
-        "image": "https://www.rosario3.com/__export/1793897118781/sites/rosario3/img/2026/11/05/una-persona-fotografia-el-aviso-del-banco-central-de-paraguay-sobre-la-intervencion-a-ueno-bank-en-asuncion-foto-efe-juan-pablo-pino-7seypf5o5bb33pn2733bhzyswy_crop1793897118226.jpg_934545149.jpg",
-        "summary": "Santiago Peña renunció tras perder el respaldo de su partido por el escándalo de Ueno Bank. Créditos a empresas vinculadas, ahorros bloqueados y un pedido de prisión para su fundador: la crisis también golpea a trabajadores en la Argentina",
+        "title": "Clausuraron cinco chatarrerías y secuestraron luminarias públicas y carteles de tránsito",
+        "link": "https://www.rosario3.com/informaciongeneral/clausuraron-cinco-chatarrerias-y-secuestraron-luminarias-publicas-y-carteles-de-transito-20261105-0050.html",
+        "image": "https://www.rosario3.com/__export/1793909690318/sites/rosario3/img/2026/11/05/luces.jpg_1825222445.jpg",
+        "summary": "Los operativos de inspección se realizaron en distintos puntos de la ciudad durante las últimas dos semanas. Desde el municipio explicaron que los procedimientos apuntan a “cortar la cadena de comercialización de elementos robados'",
         "pubDate": "2026-11-05T11:54:00+00:00",
         "approxTime": true
       },
@@ -85,20 +85,29 @@
       },
       {
         "source": "Rosario3",
-        "title": "Vuelo directo Rosario-Madrid: en el primer mes de operaciones, viajaron 5.400 personas",
-        "link": "https://www.rosario3.com/informaciongeneral/vuelo-directo-rosario-madrid-en-el-primer-mes-de-operaciones-viajaron-5.400-personas-20261105-0014.html",
-        "image": "https://www.rosario3.com/__export/1793884411369/sites/rosario3/img/2026/11/05/rosariomadrid.jpg_982625323.jpg",
-        "summary": "“El nivel de ocupación es muy bueno”, dijo el director del aeropuerto, Pío Drovetta. La oferta de viajes para el verano",
+        "title": "Un camión cruzó de carril y provocó un fuerte choque en la autopista Rosario-Santa Fe",
+        "link": "https://www.rosario3.com/informaciongeneral/un-camion-cruzo-de-carril-y-provoco-un-fuerte-choque-en-la-autopista-rosario-santa-fe-20261105-0053.html",
+        "image": "https://www.rosario3.com/__export/1793912859960/sites/rosario3/img/2026/11/05/camixn_autopista_rosario-santa_fe_choque.jpeg_672794304.jpeg",
+        "summary": "Ocurrió a la altura de Capitán Bermúdez, entre dos transportes que circulaban en sentidos opuestos. Uno terminó tumbado en la banquina, con la carga de maíz desparramada y el chofer atrapado, que fue trasladado en helicóptero sanitario",
         "pubDate": "2026-11-05T11:51:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Israel: el presidente anunciará el domingo a quién encargará la formación del nuevo Gobierno",
-        "link": "https://www.rosario3.com/informaciongeneral/israel-el-presidente-anunciara-el-domingo-a-quien-encargara-la-formacion-del-nuevo-gobierno-20261105-0059.html",
-        "image": "https://www.rosario3.com/__export/1793914534815/sites/rosario3/img/2026/11/05/israel_gobierno.jpg_1825222445.jpg",
-        "summary": "El opositor Gadi Eisenkot obtuvo el respaldo de 67 diputados, frente a los 46 que apoyaron a Benjamín Netanyahu. Sin embargo, las diferencias entre los partidos dificultan la conformación de una coalición con mayoría parlamentaria",
+        "title": "La del toro: allanaron por amenazas y encontraron nueve kilos de cocaína en Timbúes",
+        "link": "https://www.rosario3.com/policiales/la-del-toro-allanaron-por-amenazas-y-encontraron-nueve-kilos-de-cocaina-en-timbues-20261105-0063.html",
+        "image": "https://www.rosario3.com/__export/1793918266679/sites/rosario3/img/2026/11/05/cocaina_toro_timbues.jpg_672794304.jpg",
+        "summary": "Todo comenzó con la denuncia de un vecino y derivó en el hallazgo de nueve paquetes con 9,4 kilos de cocaína. Hay dos detenidos",
         "pubDate": "2026-11-05T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Vuelo directo Rosario-Madrid: en el primer mes de operaciones, viajaron 5.400 personas",
+        "link": "https://www.rosario3.com/informaciongeneral/vuelo-directo-rosario-madrid-en-el-primer-mes-de-operaciones-viajaron-5.400-personas-20261105-0014.html",
+        "image": "https://www.rosario3.com/__export/1793884411369/sites/rosario3/img/2026/11/05/rosariomadrid.jpg_982625323.jpg",
+        "summary": "“El nivel de ocupación es muy bueno”, dijo el director del aeropuerto, Pío Drovetta. La oferta de viajes para el verano",
+        "pubDate": "2026-11-05T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -107,7 +116,7 @@
         "link": "https://www.rosario3.com/deportes/chiqui-tapia-anticipo-que-viajara-a-rosario-si-central-sale-campeon-pidanle-paciencia-a-los-hinchas-en-dos-horas-llegaremos-20261105-0061.html",
         "image": "https://www.rosario3.com/__export/1793916620658/sites/rosario3/img/2026/11/05/tapia_copa.jpg_928314581.jpg",
         "summary": "El presidente de la AFA encabezó la conferencia de prensa de la Liga Profesional junto a los dirigentes de Boca y Argentinos Juniors, en la previa de la definición de la Tabla Anual. Gonzalo Belloso no participó del encuentro por problemas familiares. Riquelme y Malaspina…",
-        "pubDate": "2026-11-05T11:49:00+00:00",
+        "pubDate": "2026-11-05T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,29 +125,83 @@
         "link": "https://www.rosario3.com/policiales/conmocion-en-barrio-acindar-denuncian-que-un-hombre-se-exhibio-frente-a-una-escuela-primaria-20261105-0039.html",
         "image": "https://www.rosario3.com/__export/1793904293011/sites/rosario3/img/2026/11/05/abuso.jpg_491480797.jpg",
         "summary": "El aberrante episodio ocurrió en la puerta de la Anastasio Escudero, en plena salida de los alumnos. Una nena de 11 años filmó la situación con su celular y alertó a su familia. Preocupación entre los padres por la falta de respuestas",
-        "pubDate": "2026-11-05T11:48:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Venta de drogas: preso otra vez el narco local Junior y bajo la lupa un empleado de Assa con prontuario",
-        "link": "https://www.rosario3.com/policiales/venta-de-drogas-cayo-preso-el-narco-local-junior-y-quedo-bajo-la-lupa-un-empleado-de-assa-con-prontuario-20261105-0046.html",
-        "image": "https://www.rosario3.com/__export/1793908242079/sites/rosario3/img/2026/11/03/psa_allanamiento_1.jpg_928314580.jpg",
-        "summary": "Junior Vivas fue detenido en una causa que investiga una estructura de venta y acopio de cocaína en Rosario, Funes y Casilda. En 2017 había sido arrestado en el operativo Corona Millonaria por una maniobra prácticamente idéntica. En la misma causa, también fue imputado un…",
         "pubDate": "2026-11-05T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Los prospectos de medicamentos podrán ser reemplazados por códigos QR: la medida que enciende una alarma entre los adultos mayores",
-        "link": "https://www.rosario3.com/informaciongeneral/los-prospectos-de-medicamentos-podran-ser-reemplazados-por-codigos-qr-la-medida-que-enciende-una-alarma-entre-los-adultos-mayores-20261105-0033.html",
-        "image": "https://www.rosario3.com/__export/1793899757064/sites/rosario3/img/2026/11/05/farmacia.png_786111822.png",
-        "summary": "Desde el 16 de noviembre, los laboratorios estarán habilitados para sustituir los tradicionales prospectos de papel por versiones digitales. Aunque la medida busca modernizar el acceso a la información, crece la preocupación por los jubilados y las personas mayores que no…",
+        "title": "Renunció Santiago Peña: el banco que sacudió a Paraguay y dejó sueldos sin pagar en la Argentina | Ecos365",
+        "link": "https://www.rosario3.com/ecos365/noticias/renuncio-santiago-pena-el-banco-que-sacudio-a-paraguay-y-dejo-sueldos-sin-pagar-en-la-argentina-20261105-0009.html",
+        "image": "https://www.rosario3.com/__export/1793897118781/sites/rosario3/img/2026/11/05/una-persona-fotografia-el-aviso-del-banco-central-de-paraguay-sobre-la-intervencion-a-ueno-bank-en-asuncion-foto-efe-juan-pablo-pino-7seypf5o5bb33pn2733bhzyswy_crop1793897118226.jpg_934545149.jpg",
+        "summary": "Santiago Peña renunció tras perder el respaldo de su partido por el escándalo de Ueno Bank. Créditos a empresas vinculadas, ahorros bloqueados y un pedido de prisión para su fundador: la crisis también golpea a trabajadores en la Argentina",
         "pubDate": "2026-11-05T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Diputados aprobó herramientas para seguridad: \"Mejoramos el proyecto y le dimos mayor legitimidad\"",
+        "link": "https://www.lacapital.com.ar/politica/diputados-aprobo-herramientas-seguridad-mejoramos-el-proyecto-y-le-dimos-mayor-legitimidad-n10290744.html",
+        "image": "https://media.lacapital.com.ar/p/18ab0c403e1d663324e9bd11f5b8abd1/adjuntos/203/imagenes/103/514/0103514306/2026-11-05-diputados.jpg",
+        "summary": "Tras un arduo trabajo de discusión en comisiones hubo coincidencia en cuanto al progreso en relación al mensaje enviado por el Ejecutivo. Según Cattalini, “es un conjunto muy importante de herramientas para combatir el delito y el crimen organizado y, lo que es más importante…",
+        "pubDate": "2026-11-06T02:53:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El tiempo en Rosario: viernes con posibles tormentas y ráfagas desde la tarde",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-viernes-posibles-tormentas-y-rafagas-la-tarde-n10290743.html",
+        "image": "https://media.lacapital.com.ar/p/4c38c0b2a0b364aabbb3954a2c5969ff/adjuntos/203/imagenes/103/514/0103514278/2026-11-05-clima-cmutti.jpg",
+        "summary": "Para el sábado se anuncia un descenso de la temperatura y cielo apenas nublado",
+        "pubDate": "2026-11-06T02:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El retiro internacional de Cristiano Ronaldo, eclipsado por el brillo de Messi",
+        "link": "https://www.lacapital.com.ar/ovacion/el-retiro-internacional-cristiano-ronaldo-eclipsado-el-brillo-messi-n10290742.html",
+        "image": "https://media.lacapital.com.ar/p/17a1fd30d4bb5c98f6d488c8ff40e898/adjuntos/203/imagenes/103/514/0103514253/2026-11-05-messi-ronaldo.jpg",
+        "summary": "El último capítulo del portugués cerró con una pelea con el DT de la selección. La Pulga se despidió de la albiceleste como la estrella de un título y casi el segundo consecutivo",
+        "pubDate": "2026-11-06T01:57:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El presidente paraguayo es investigado y se enfrenta a una posible destitución",
+        "link": "https://www.lacapital.com.ar/el-mundo/el-presidente-paraguayo-es-investigado-y-se-enfrenta-una-posible-destitucion-n10290740.html",
+        "image": "https://media.lacapital.com.ar/p/d7115309e6e3d5d425839d016d516cad/adjuntos/203/imagenes/103/514/0103514231/2026-11-05-protestas-paraguay-82838311.jpg",
+        "summary": "Un juez ordenó encarcelar a seis ejecutivos del Banco Ueno y el arresto domiciliario de otros dos. La fiscalía imputó a 27 funcionarios y asociados del banco",
+        "pubDate": "2026-11-06T01:21:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Newell's y otra baja para jugar en Córdoba: Cóccaro se queda afuera del equipo",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-y-otra-baja-jugar-cordoba-coccaro-se-queda-afuera-del-equipo-n10290724.html",
+        "image": "https://media.lacapital.com.ar/p/0b606ac58e1f3bd82cadfd1f38236d49/adjuntos/203/imagenes/103/514/0103514063/coca.jpeg",
+        "summary": "El delantero leproso arrastra una molestia crónica en un pie y también será preservado al igual que el defensor Lautaro Gianetti y el volante Rodrigo Herrera",
+        "pubDate": "2026-11-06T00:55:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "En el Día Nacional del Donante de Sangre convocan a participar de la colecta",
+        "link": "https://www.lacapital.com.ar/la-ciudad/en-el-dia-nacional-del-donante-sangre-convocan-participar-la-colecta-n10290729.html",
+        "image": "https://media.lacapital.com.ar/p/caa718efed7d9e23ec68fc125a578da8/adjuntos/203/imagenes/103/514/0103514186/2026-11-05-donacion-sangre.jpg",
+        "summary": "Será en el Cemar (San Luis 2020) hoy, de 9 a 12. Las personas interesadas podrán concurrir con turnos previos, registrándose en rosario.gob.ar",
+        "pubDate": "2026-11-06T00:34:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La ley de seguridad avanzó en Diputados con amplio respaldo y cruces en Unidos",
+        "link": "https://www.lacapital.com.ar/politica/la-ley-seguridad-avanzo-diputados-amplio-respaldo-y-cruces-unidos-n10290733.html",
+        "image": "https://media.lacapital.com.ar/p/6285cd919374f77226c0c670c45e1cce/adjuntos/203/imagenes/103/514/0103514105/1200x675/smart/camara-diputados-santa-fe-ley-seguridad.jpg",
+        "summary": "La reforma que pidió Pullaro obtuvo 37 votos a favor y 11 en contra y pasó al Senado. El socialismo apuntó contra funcionarios del gobierno",
+        "pubDate": "2026-11-06T00:19:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Choque de camiones: la autopista estaba cortada en Capitán Bermúdez hacia Rosario",
@@ -196,7 +259,7 @@
       {
         "source": "La Capital",
         "title": "El actor Russell Brand, culpable de violación y agresión sexual a cuatro mujeres",
-        "link": "https://www.lacapital.com.ar/informacion-general/el-actor-russell-brand-culpable-violacion-y-agresion-sexual-cuatro-mujeres-n10290711.html",
+        "link": "https://www.lacapital.com.ar/zoom/el-actor-russell-brand-culpable-violacion-y-agresion-sexual-cuatro-mujeres-n10290711.html",
         "image": "https://media.lacapital.com.ar/p/fc4abccd6eb1e03c5319b9a33f41fa94/adjuntos/203/imagenes/103/513/0103513857/2026-11-05-russell-brand-82828843.jpg",
         "summary": "La sentencia se conocería el lunes. El comediante británico enfrenta una pena de prisión “significativa”, anticipó el juez",
         "pubDate": "2026-11-05T22:26:00+00:00",
@@ -209,69 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/4ba33b6431d4946fa759059848ae23de/adjuntos/203/imagenes/103/513/0103513845/1200x675/smart/kaitel.jpg",
         "summary": "Casi mil trabajadores de una tecnológica vinculada al banco paraguayo no cobraron sus salarios. Una parte del plantel fue suspendida por 30 días",
         "pubDate": "2026-11-05T22:24:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El gobierno pasó la motosierra por los registros automotores: cerró otros 67 y hay 12 de Santa Fe",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-gobierno-paso-la-motosierra-los-registros-automotores-cerro-otros-67-y-hay-12-santa-fe-n10290712.html",
-        "image": "https://media.lacapital.com.ar/p/1ce2011e498a593652cae70d9ea47b45/adjuntos/203/imagenes/101/743/0101743234/1200x675/smart/registro-automotorpng.png",
-        "summary": "La Nación oficializó este jueves una nueva tanda de cierres que alcanza a oficinas de distintas localidades santafesinas. Los trámites serán absorbidos por otras dependencias. Desde 2024 ya se eliminaron unas 342 sedes en todo el país.",
-        "pubDate": "2026-11-05T22:22:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Mercados: el riesgo país sigue subiendo y rompió la barrera de los 900 puntos",
-        "link": "https://www.lacapital.com.ar/economia/mercados-el-riesgo-pais-sigue-subiendo-y-rompio-la-barrera-los-900-puntos-n10290696.html",
-        "image": "https://media.lacapital.com.ar/p/a2ad6745199d9237083b298d37f47917/adjuntos/203/imagenes/027/934/0027934879/1200x675/smart/2020-02-13-eco-mervaljpg.jpg",
-        "summary": "Los bonos argentinos cayeron 2,9% en una jornada de fuertes bajas en Wall Street. Las dudas sobre la economía local y la continuidad del respaldo de Estados Unidos sumaron presión",
-        "pubDate": "2026-11-05T21:45:40+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Una fiscal pide investigar si se usaron fondos públicos en la fuga de Bolsonaro",
-        "link": "https://www.lacapital.com.ar/politica/una-fiscal-pide-investigar-si-se-usaron-fondos-publicos-la-fuga-bolsonaro-n10290699.html",
-        "image": "https://media.lacapital.com.ar/p/457ce04b0f3e2bf86e1ee22e2620bd4d/adjuntos/203/imagenes/103/513/0103513764/1200x675/smart/image.png",
-        "summary": "Impulsan medidas para determinar el rol del gobierno argentino en la huida del excandidato a presidente de Brasil hacia Estados Unidos",
-        "pubDate": "2026-11-05T21:45:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El río Paraná superó los cuatro metros en Rosario: crecen los camalotes y advierten por la navegación",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-rio-parana-supero-los-cuatro-metros-rosario-crecen-los-camalotes-y-advierten-la-navegacion-n10290701.html",
-        "image": "https://media.lacapital.com.ar/p/9b387184affedd3f02fdff5baaeaea89/adjuntos/203/imagenes/103/513/0103513768/1200x675/smart/imagecamalotes.jpg",
-        "summary": "El nivel del río llegó este jueves a 4,04 metros y podría alcanzar los 4,24 el próximo martes. La vegetación flotante se acumula en la costa y complica la captación de agua potable. Prefectura recomendó extremar las precauciones y evitar la navegación nocturna.",
-        "pubDate": "2026-11-05T21:41:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central y la Copa Libertadores: todas las posibilidades que tiene para jugarla en 2027",
-        "link": "https://www.lacapital.com.ar/ovacion/central-y-la-copa-libertadores-todas-las-posibilidades-que-tiene-jugarla-2027-n10290434.html",
-        "image": "https://media.lacapital.com.ar/p/3a5da8d73e63b0cccbbe10279cb61356/adjuntos/203/imagenes/103/511/0103511259/copacml.jpg",
-        "summary": "El Canalla está muy cerca de clasificar, pero puede hacerlo directamente a la instancia de grupos como a la fase previa. Qué necesita para cada caso",
-        "pubDate": "2026-11-05T21:16:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Fray Luis Beltrán: roció con nafta a su pareja e intentó prenderla fuego porque quería separarse",
-        "link": "https://www.lacapital.com.ar/policiales/fray-luis-beltran-rocio-nafta-su-pareja-e-intento-prenderla-fuego-porque-queria-separarse-n10290657.html",
-        "image": "https://media.lacapital.com.ar/p/ec23196a9e986c935fcb95840e107ab4/adjuntos/203/imagenes/103/513/0103513422/1200x675/smart/images-32.jpg",
-        "summary": "El hombre fue imputado por tentativa de femicidio, abuso sexual y amenazas. La hija de ambos, de 13 años, intervino para frenar el ataque y llamó al 911. La Justicia le dictó 180 días de prisión preventiva.",
-        "pubDate": "2026-11-05T20:39:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Tres películas nuevas para conocer en Netflix",
-        "link": "https://www.lacapital.com.ar/zoom/tres-peliculas-nuevas-conocer-netflix-n10290666.html",
-        "image": "https://media.lacapital.com.ar/p/4b644587f3cc6ca29250bb115ef49266/adjuntos/203/imagenes/103/513/0103513456/1200x675/smart/image-26.png",
-        "summary": "La plataforma renovó su catálogo con producciones de comedia, drama y suspenso que tienen a los usuarios más que comprometidos. De qué se tratan las nuevas incorporaciones",
-        "pubDate": "2026-11-05T20:34:00+00:00",
         "approxTime": false
       }
     ]
