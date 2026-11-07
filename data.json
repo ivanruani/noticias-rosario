@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-11-07T00:52:37.129427+00:00",
+  "generatedAt": "2026-11-07T07:02:29.863882+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Empresarios e instituciones de Rosario cuestionaron los subsidios al transporte del AMBA: \"Lo pagamos entre todos, lo reciben pocos\"",
+        "link": "https://www.rosario3.com/informaciongeneral/empresarios-e-instituciones-de-rosario-cuestionaron-los-subsidios-al-transporte-del-amba-lo-pagamos-entre-todos-lo-reciben-pocos-20261106-0064.html",
+        "image": "https://www.rosario3.com/__export/1794009655244/sites/rosario3/img/2024/05/31/tarjeta_sube.jpg_2106848869.jpg",
+        "summary": "La Red de Instituciones por la Producción Rosario expresó su preocupación por la distribución de los fondos nacionales destinados al transporte público. Advirtió que Nación destinará más de $450.000 millones en cuatro meses para sostener los boletos de colectivos del Área…",
+        "pubDate": "2026-11-06T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Con un debut y un regreso, comenzó la 42º Fiesta de Colectividades",
         "link": "https://www.rosario3.com/informaciongeneral/cuenta-regresiva-para-el-inicio-de-colectividades-en-rosario-la-expectativa-es-que-nos-acompane-la-gente-20261102-0074.html",
         "image": "https://www.rosario3.com/__export/1794009300813/sites/rosario3/img/2026/11/06/colectividadesportada.jpg_982625323.jpg",
         "summary": "La tradicional festividad ya se desarrolla en el predio del Monumento Nacional a la Bandera, en donde el ingreso se habilitó a las 19. Los horarios, los espectáculos culturales y el esquema de seguridad preparado para esta edición. Recomiendan usar el transporte público para…",
-        "pubDate": "2026-11-02T12:00:00+00:00",
+        "pubDate": "2026-11-02T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/policiales/la-fiscalia-descarto-imputar-a-las-autoridades-del-jockey-club-por-la-tragica-muerte-de-facu-el-nino-ahogado-en-la-pileta-20261106-0056.html",
         "image": "https://www.rosario3.com/__export/1793999602397/sites/rosario3/img/2025/01/02/justicia_por_facu.jpg_1825222445.jpg",
         "summary": "Los fiscales decidieron no avanzar contra los integrantes de la comisión directiva, la mesa directiva, la comisión del country y el gerente general de la institución. El fiscal regional convalidó la decisión al considerar que no hay pruebas de que conocieran el riesgo que…",
-        "pubDate": "2026-11-06T11:59:00+00:00",
+        "pubDate": "2026-11-06T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/policiales/una-familia-denuncio-que-la-policia-federal-allano-por-error-su-casa-en-rosario-y-la-dejo-destrozada-20261106-0063.html",
         "image": "https://www.rosario3.com/__export/1794008530858/sites/rosario3/img/2026/11/06/allanmiento.jpg_928314581.jpg",
         "summary": "El procedimiento ocurrió este viernes cerca de las 14 en barrio Hipotecario, en la zona de Pasotti y Garzón. La víctima es Nora, una mujer de 75 años que vive sola y se encontró con varios efectivos dentro de su vivienda. Aseguró que rompieron cuatro puertas y provocaron…",
-        "pubDate": "2026-11-06T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El Congreso de Paraguay destituyó a Pedro Peña y ordenaron su detención: Pedro Alliana juró como nuevo presidente",
-        "link": "https://www.rosario3.com/informaciongeneral/el-senado-de-paraguay-rechazo-los-planteos-de-la-defensa-de-santiago-pena-y-avanza-el-juicio-politico-20261106-0045.html",
-        "image": "https://www.rosario3.com/__export/1794006036594/sites/rosario3/img/2026/11/06/alliana.jpg_1768679258.jpg",
-        "summary": "Una sala bicameral del Parlamento paraguayo invistió al dirigente del Partido Colorado como nuevo primer mandatario tras la destitución de Santiago Peña",
         "pubDate": "2026-11-06T11:57:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "El tiempo en Rosario: sábado con mucho viento y sin lluvias antes de otro descenso de temperatura",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-sabado-mucho-viento-y-lluvias-antes-otro-descenso-temperatura-n10290945.html",
+        "image": "https://media.lacapital.com.ar/p/9a11ebf6fdf30f334efb3c5e888b0591/adjuntos/203/imagenes/102/961/0102961963/1200x675/smart/viento04.jpg",
+        "summary": "Habrá ráfagas de hasta 50 kilómetros por hora, pero las condiciones meteorológicas irán mejorando durante la jornada",
+        "pubDate": "2026-11-07T01:31:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Newell's se clasificó a los playoffs y hay chances de que haya clásico rosarino",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/4c5e222230fd3288c37735b000727258/adjuntos/203/imagenes/103/515/0103515759/1200x675/smart/image.png",
         "summary": "El presidente provisional de la Cámara alta provincial y el edil rosarino abordaron temas institucionales, de seguridad pública y de la actualidad política en Santa Fe",
         "pubDate": "2026-11-06T21:27:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La inflación de la ciudad de Buenos Aires se aceleró en octubre",
-        "link": "https://www.lacapital.com.ar/economia/la-inflacion-la-ciudad-buenos-aires-se-acelero-octubre-n10290903.html",
-        "image": "https://media.lacapital.com.ar/p/1b2aff1b9367534ad991a82939f0d0eb/adjuntos/203/imagenes/102/540/0102540344/verduleriaspng.png",
-        "summary": "El índice de precios que se anticipa al que difundirá el Indec la semana próxima mostró un aumento de 1,9%. Vivienda y alimentos estuvieron entre los rubros que más subieron. El próximo jueves se conocerá el IPC nacional",
-        "pubDate": "2026-11-06T21:20:00+00:00",
         "approxTime": false
       }
     ]
