@@ -1,14 +1,32 @@
 {
-  "generatedAt": "2026-11-09T00:47:47.667309+00:00",
+  "generatedAt": "2026-11-09T07:53:23.418064+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Entre el palacio y la calle: la primera jornada de León XIV en la Argentina, de la emoción de los fieles al mensaje del Papa",
+        "link": "https://www.rosario3.com/informaciongeneral/entre-el-palacio-y-la-calle-la-primera-jornada-de-leon-xiv-en-la-argentina-de-la-emocion-de-los-fieles-al-mensaje-del-papa-20261108-0031.html",
+        "image": "https://www.rosario3.com/__export/1794193960974/sites/rosario3/img/2026/11/09/1000611414_-2-_version1794193960409.jpg_1478474689.jpg",
+        "summary": "Desde el fuerte operativo de seguridad en Aeroparque hasta el encuentro con las autoridades en el Palacio Libertad, el primer día del pontífice en el país tuvo escenas de expectativa, personajes inesperados y un contraste entre el mundo protocolar y quienes buscaban acercarse…",
+        "pubDate": "2026-11-08T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "El Papa en Argentina: cómo funcionan comercios y servicios en Rosario este lunes feriado",
+        "link": "https://www.rosario3.com/informaciongeneral/que-pasara-con-los-comercios-de-rosario-el-proximo-lunes-9-feriado-por-la-visita-del-papa-a-la-argentina-20261106-0041.html",
+        "image": "https://www.rosario3.com/__export/1794185882199/sites/rosario3/img/2026/11/08/comercios_calle_san_luis_version1794185881664.jpg_884507103.jpg",
+        "summary": "Con escuelas y bancos cerrados, y sin actividad en la administración pública de todo el país, se difundió cómo será la actividad comercial en la ciudad este 9 de noviembre. Además, el municipio dio a conocer el esquema de servicios públicos",
+        "pubDate": "2026-11-06T11:59:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "El Papa en Argentina: “La economía debe estar al servicio de la persona” y no al revés",
         "link": "https://www.rosario3.com/informaciongeneral/el-papa-en-argentina-la-economia-debe-estar-al-servicio-de-la-persona-y-no-al-reves-20261108-0027.html",
         "image": "https://www.rosario3.com/__export/1794178669461/sites/rosario3/img/2026/11/08/papa_milei_efe_-1-.jpg_1316367804.jpg",
         "summary": "Pocas horas después de aterrizar en Buenos Aires, León XIV brindó su primer discurso público en el país durante un acto transmitido por cadena nacional. En un mensaje con fuerte acento social e institucional, llamó a defender la democracia, fortalecer la educación y fomentar el…",
-        "pubDate": "2026-11-08T12:00:00+00:00",
+        "pubDate": "2026-11-08T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -17,34 +35,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/el-papa-leon-xiv-llega-este-domingo-a-la-argentina-la-agenda-completa-de-su-visita-de-cuatro-dias-20261108-0004.html",
         "image": "https://www.rosario3.com/__export/1794172139702/sites/rosario3/img/2026/11/08/papa_arg_am-_-3-.jpeg_982625323.jpeg",
         "summary": "El Pontífice aterrizó en el Aeroparque porteño a las 16.33 y fue recibido por el presidente Javier Milei. Permanecerá en el país hasta el miércoles 11: visitará Buenos Aires, Córdoba y Luján, donde encabezará misas y encuentros con distintos sectores de la sociedad",
-        "pubDate": "2026-11-08T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Aguas inicia purgado de cañerías en Rosario: en qué sectores y cómo afecta el servicio",
-        "link": "https://www.rosario3.com/informaciongeneral/aguas-inicia-purgado-de-canerias-en-rosario-en-que-sectores-y-como-afecta-el-servicio-20261108-0030.html",
-        "image": "https://www.rosario3.com/__export/1794184523521/sites/rosario3/img/2026/11/08/assa.jpg_1018832474.jpg",
-        "summary": "Cuadrillas trabajarán durante siete semanas en la limpieza de la red a través de 1.200 hidrantes. Las tareas comienzan este martes. Qué deben hacer los usuarios",
-        "pubDate": "2026-11-08T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Run Run: llega por primera vez gastronomía top de Punta del Este y el juez que no tiene ni para pulseras",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/run-run-llega-por-primera-vez-gastronomia-top-de-punta-del-este-y-y-el-juez-que-no-tiene-ni-para-pulseras-20261108-0021.html",
-        "image": "https://www.rosario3.com/__export/1794159399036/sites/rosario3/img/2026/11/08/trocca_version1794159387032.jpg_734311246.jpg",
-        "summary": "Además: nueva tanda de inversiones inmobiliarias en el noreste rosarino, los negocios que activa la seguridad y el reclamo de los empresarios para que las mejoras se consoliden, enganchados a la luz en barrios del Grupo Roma, primer relevamiento de afectados por Pilay, contacto…",
         "pubDate": "2026-11-08T11:57:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El Papa en Argentina: todas las fotos del primer día",
-        "link": "https://www.rosario3.com/informaciongeneral/el-papa-en-argentina-todas-las-fotos-del-primer-dia-20261108-0025.html",
-        "image": "https://www.rosario3.com/__export/1794168865585/sites/rosario3/img/2026/11/08/papa_arg_am_-3-.jpeg_982625323.jpeg",
-        "summary": "León XIV llegó este domingo por la tarde a Buenos Aires y estará cuatro días en el país. La primera jornada incluye una ofrenda floral a San Martín, el recibimiento en Casa Rosada y un mensaje conjunto con Milei por cadena nacional. Las imágenes de Alan Monzón, enviado especial…",
-        "pubDate": "2026-11-08T11:56:00+00:00",
         "approxTime": true
       },
       {
@@ -53,7 +44,7 @@
         "link": "https://www.rosario3.com/politica/pullaro-sobre-el-discurso-de-leon-xiv-fue-un-mensaje-de-paz-y-de-compromiso-con-la-educacion-y-la-produccion-20261108-0029.html",
         "image": "https://www.rosario3.com/__export/1788400308399/sites/rosario3/img/2026/09/02/pullaro.jpg_1825222445.jpg",
         "summary": "El gobernador, presente en el Palacio Libertad en Buenos Aires, destacó el llamado del Papa a combatir la corrupción y el crimen organizado, y pidió que la dirigencia escuche el mensaje, dialogue y se agreda menos. También valoró la reflexión sobre una economía al servicio de…",
-        "pubDate": "2026-11-08T11:55:00+00:00",
+        "pubDate": "2026-11-08T11:56:00+00:00",
         "approxTime": true
       },
       {
@@ -62,7 +53,25 @@
         "link": "https://www.rosario3.com/deportes/el-gp-de-brasil-fue-una-fiesta-el-calor-del-publico-bajo-la-lluvia-el-gran-verstappen-y-la-ilusion-argentina-que-sigue-intacta-20261108-0026.html",
         "image": "https://www.rosario3.com/__export/1794174183741/sites/rosario3/img/2026/11/08/colapinto_interlagos.jpg_2138234794.jpg",
         "summary": "Una multitud copó Interlagos desde la madrugada en una jornada vibrante. A pesar de un domingo adverso para Franco Colapinto, la marea albiceleste volvió a hacerse sentir en suelo brasileño y alimentó el sueño de volver a tener a la Fórmula 1 en el país",
+        "pubDate": "2026-11-08T11:55:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Run Run: llega por primera vez gastronomía top de Punta del Este y el juez que no tiene ni para pulseras",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/run-run-llega-por-primera-vez-gastronomia-top-de-punta-del-este-y-y-el-juez-que-no-tiene-ni-para-pulseras-20261108-0021.html",
+        "image": "https://www.rosario3.com/__export/1794159399036/sites/rosario3/img/2026/11/08/trocca_version1794159387032.jpg_734311246.jpg",
+        "summary": "Además: nueva tanda de inversiones inmobiliarias en el noreste rosarino, los negocios que activa la seguridad y el reclamo de los empresarios para que las mejoras se consoliden, enganchados a la luz en barrios del Grupo Roma, primer relevamiento de afectados por Pilay, contacto…",
         "pubDate": "2026-11-08T11:54:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "El Papa en Argentina: todas las fotos del primer día",
+        "link": "https://www.rosario3.com/informaciongeneral/el-papa-en-argentina-todas-las-fotos-del-primer-dia-20261108-0025.html",
+        "image": "https://www.rosario3.com/__export/1794168865585/sites/rosario3/img/2026/11/08/papa_arg_am_-3-.jpeg_110751219.jpeg",
+        "summary": "León XIV llegó este domingo por la tarde a Buenos Aires y estará cuatro días en el país. La primera jornada incluye una ofrenda floral a San Martín, el recibimiento en Casa Rosada y un mensaje conjunto con Milei por cadena nacional. Las imágenes de Alan Monzón, enviado especial…",
+        "pubDate": "2026-11-08T11:53:00+00:00",
         "approxTime": true
       },
       {
@@ -71,7 +80,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/una-paloma-gigante-una-cruz-pantallas-y-un-largo-recorrido-entre-los-fieles-asi-es-el-armado-para-recibir-al-papa-en-palermo-20261104-0073.html",
         "image": "https://www.rosario3.com/__export/1793891359432/sites/rosario3/img/2026/11/04/1000609407.jpg_1096344066.jpg",
         "summary": "El Monumento a los Españoles será el escenario de dos encuentros masivos de León XIV en Buenos Aires. El lunes dará una misa dedicada a las familias y el martes participará de la vigilia con jóvenes. El montaje incluye una estructura de casi 24 metros de altura, pantallas…",
-        "pubDate": "2026-11-04T11:53:00+00:00",
+        "pubDate": "2026-11-04T11:52:00+00:00",
         "approxTime": true
       },
       {
@@ -80,7 +89,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/de-las-balas-de-malvinas-a-un-caliz-para-leon-xiv-la-obra-colectiva-de-juan-carlos-pallarols-20261105-0005.html",
         "image": "https://www.rosario3.com/__export/1793891294990/sites/rosario3/img/2026/11/05/1000609217.jpg_1221028663.jpg",
         "summary": "El reconocido orfebre argentino trabajó durante diez meses en la pieza que le entregará al Papa durante su visita al país. Está realizada en plata con baño de oro e incorpora restos de municiones de distintos conflictos bélicos. Según explicó el artesano, alrededor de un millón…",
-        "pubDate": "2026-11-05T11:52:00+00:00",
+        "pubDate": "2026-11-05T11:51:00+00:00",
         "approxTime": true
       },
       {
@@ -89,7 +98,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/conozco-dos-papas-sin-haber-estado-en-roma-la-historia-detras-del-primer-encuentro-entre-bergoglio-y-prevost-en-una-parroquia-de-buenos-aires-20261107-0012.html",
         "image": "https://www.rosario3.com/__export/1794066444530/sites/rosario3/img/2026/11/07/1000610003.jpg_402511177.jpg",
         "summary": "Ricardo ya era secretario de la parroquia San Agustín cuando, el 28 de agosto de 2004, fue testigo del encuentro entre el entonces arzobispo de Buenos Aires, Bergoglio, y el superior general de la Orden de San Agustín, Robert Prevost. Los dos terminaron compartiendo la misa por…",
-        "pubDate": "2026-11-07T11:51:00+00:00",
+        "pubDate": "2026-11-07T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -98,7 +107,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/viene-el-papa.-viene-cristo-los-grafitis-que-le-dieron-la-bienvenida-a-juan-pablo-ii-en-rosario-hace-casi-40-anos-20261105-0056.html",
         "image": "https://www.rosario3.com/__export/1793914604885/sites/rosario3/img/2026/11/05/papa_grafitis_2.jpg_928314580.jpg",
         "summary": "Karol Wojtyła pisó la ciudad el 11 de abril de 1987. Días antes, grupos de jóvenes estudiantes crearon pintadas para cuestionar al representante de una Iglesia que en aquel momento estaba vinculada a la última dictadura militar. El intendente Usandizaga los denunció como…",
-        "pubDate": "2026-11-05T11:50:00+00:00",
+        "pubDate": "2026-11-05T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -107,7 +116,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/un-millon-de-hostias-para-el-papa-el-desafio-que-asumieron-las-monjas-del-monasterio-de-clausura-en-pilar-20261106-0004.html",
         "image": "https://www.rosario3.com/__export/1793965998458/sites/rosario3/img/2026/11/06/whatsapp_image_2026-11-05_at_13_05_25.jpeg_1825222445.jpeg",
         "summary": "Las religiosas del Monasterio de la Visitación de Santa María recibieron en agosto el pedido para elaborar las hostias que se utilizarán durante las celebraciones de León XIV en Argentina. Para cumplir con el encargo tuvieron que multiplicar su producción habitual, organizar…",
-        "pubDate": "2026-11-06T11:49:00+00:00",
+        "pubDate": "2026-11-06T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +125,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/el-regalo-especial-que-juan-carlos-pallarols-quiere-hacerle-a-rosario-y-donde-le-gustaria-que-quede-20261105-0009.html",
         "image": "https://www.rosario3.com/__export/1793891309522/sites/rosario3/img/2026/11/05/1000609236_1.jpg_183048042.jpg",
         "summary": "El reconocido orfebre argentino quiere donar una de sus Rosas de la Paz para que llegue al Monumento Nacional a la Bandera. La propuesta surgió durante una entrevista con El Tres, cuando le comentó su idea a la periodista Fernanda Rubio y le planteó que le gustaría llevarla…",
-        "pubDate": "2026-11-05T11:48:00+00:00",
+        "pubDate": "2026-11-05T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,20 +134,74 @@
         "link": "https://www.rosario3.com/informaciongeneral/migracion-y-democracia-el-poder-de-la-convivencia-para-manejar-un-drama-humanitario-en-el-mar-20261106-0044.html",
         "image": "https://www.rosario3.com/__export/1793991969100/sites/rosario3/img/2026/11/06/migrantes_canarias_2.jpg_1171145029.jpg",
         "summary": "Vicente Zapata, profesor de la universidad en las Islas Canarias, España, expuso en el Simposio sobre Migraciones y Derechos Humanos de Rosario cómo lograron convencer al gobierno y al sector empresarial para invertir en un modelo comunitario “no por caridad, sino para…",
-        "pubDate": "2026-11-06T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Unidos: sin vencedores ni vencidos pero con un interrogante existencial a resolver en febrero",
-        "link": "https://www.rosario3.com/opinion/unidos-sin-vencedores-ni-vencidos-pero-con-un-interrogante-existencial-a-resolver-en-febrero-20261107-0036.html",
-        "image": "https://www.rosario3.com/__export/1794104595989/sites/rosario3/img/2026/11/07/pullaroexpo.jpg_1067613685.jpg",
-        "summary": "La aprobación de las leyes de seguridad cerró una crisis inédita entre radicales y socialistas, sin vencedores claros pero con heridas por restañar. El desafío mayor llegará en febrero: las negociaciones de Pullaro con La Libertad Avanza pondrán a prueba la continuidad de Unidos…",
-        "pubDate": "2026-11-07T11:46:00+00:00",
+        "pubDate": "2026-11-06T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "El tiempo en Rosario: un lunes a puro sol con la máxima en aumento",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-un-lunes-puro-sol-la-maxima-aumento-n10291194.html",
+        "image": "https://media.lacapital.com.ar/p/76d05ee16f85a7bbea4cccf7f140f6f5/adjuntos/203/imagenes/103/519/0103519617/2026-11-08-clima-by_vbenedetto-80806904.jpg",
+        "summary": "Las marcas estarían en paulatino aumento durante los siguientes días para llegar al fin de semana con unos 30º",
+        "pubDate": "2026-11-09T02:37:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Estado de emergencia en Perú: militares controlarán el exterior de las cárceles",
+        "link": "https://www.lacapital.com.ar/el-mundo/estado-emergencia-peru-militares-controlaran-el-exterior-las-carceles-n10291193.html",
+        "image": "https://media.lacapital.com.ar/p/315e763d2310120370482b6fcac61e4a/adjuntos/203/imagenes/103/519/0103519596/2026-11-08-keiko-fujimori.jpg",
+        "summary": "Los presos que operan en organizaciones criminales y el extremo hacinamiento condujeron a la crisis del sistema penitenciario",
+        "pubDate": "2026-11-09T02:04:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Pernía y Girolami se sacaron chispas en Rosario en una nueva fecha del TCR South America",
+        "link": "https://www.lacapital.com.ar/ovacion/pernia-y-girolami-se-sacaron-chispas-rosario-una-nueva-fecha-del-tcr-south-america-n10291156.html",
+        "image": "https://media.lacapital.com.ar/p/c1ed7d3cef80276a3e24414bfeed61fe/adjuntos/203/imagenes/103/519/0103519026/auto.jpg",
+        "summary": "El líder del campeonato ganó la segunda final y aprovechó el abandono del Bebu. Rosario volvió a vivir una jornada atrapante del automovilismo",
+        "pubDate": "2026-11-09T01:06:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Fútbol femenino: se realizó con éxito el 4º Encuentro Provincial de ligas en Sub 12",
+        "link": "https://www.lacapital.com.ar/ovacion/futbol-femenino-se-realizo-exito-el-4-encuentro-provincial-ligas-sub-12-n10291168.html",
+        "image": "https://media.lacapital.com.ar/p/f106c0edc1b9bc6ab2634a89d4ccc271/adjuntos/203/imagenes/103/519/0103519308/1200x675/smart/image-2026-11-08t195432545.png",
+        "summary": "Ocho ligas de Santa Fe en el fútbol femenino se dieron cita este domingo al encuentro que organizó la Asociación Rosarina de Fútbol y la Federación Santafesina. Tres planteles presentó la liga local",
+        "pubDate": "2026-11-09T01:06:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Asociación Rosarina de Fútbol: se pone en marcha el torneo Hermenegildo Ivancich",
+        "link": "https://www.lacapital.com.ar/ovacion/asociacion-rosarina-futbol-se-pone-marcha-el-torneo-hermenegildo-ivancich-n10291180.html",
+        "image": "https://media.lacapital.com.ar/p/6318a0137db1ae5caf4799d1c2021f7e/adjuntos/203/imagenes/103/519/0103519513/1200x675/smart/image-2026-11-08t210536723.png",
+        "summary": "El certamen comenzará este lunes a partir 16 con 45 clubes de la primera división A, B y C. La última vez se jugó en el 2018 y Central Córdoba se alzó con el trofeo",
+        "pubDate": "2026-11-09T01:05:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El Papa y la gente: la emoción de los fieles santafesinos por la llegada de León XIV a Buenos Aires",
+        "link": "https://www.lacapital.com.ar/el-papa-y-la-gente-la-emocion-los-fieles-santafesinos-la-llegada-leon-xiv-buenos-aires-n10291181.html",
+        "image": "https://media.lacapital.com.ar/p/8f8c308dbe25f0fc37b7ba298f20482d/adjuntos/203/imagenes/103/519/0103519519/1200x675/smart/leon-gente-aeropuerto-811.jpg",
+        "summary": "El Sumo Pontífice completó su primer día en Argentina. A pesar de las vallas, los devotos expresaron su fervor y esperanza en un mensaje de unión y paz",
+        "pubDate": "2026-11-09T01:02:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Pullaro sobre el discurso de León XIV: \"Fue un mensaje de paz y de compromiso con la educación y la producción\"",
+        "link": "https://www.lacapital.com.ar/informacion-general/pullaro-el-discurso-leon-xiv-fue-un-mensaje-paz-y-compromiso-la-educacion-y-la-produccion-n10291184.html",
+        "image": "https://media.lacapital.com.ar/p/db7bbe5318cd08460b3466afc621a4ca/adjuntos/203/imagenes/103/519/0103519558/1200x675/smart/2026-11-08-papa-pullaro.jpg",
+        "summary": "El gobernador, presente en el Palacio Libertad en Buenos Aires, destacó el llamado del Papa a combatir la corrupción y el crimen organizado, y pidió que la dirigencia escuche el mensaje, dialogue y se agreda menos. También valoró la reflexión sobre una economía al servicio de…",
+        "pubDate": "2026-11-09T00:50:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Hubo un solo ganador en el Quini 6, que se lleva 1.800 millones de pesos",
@@ -209,69 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/1d5640ab9feeaf4168479a4cd62c71ce/adjuntos/203/imagenes/103/518/0103518807/1200x675/smart/imageleo.jpg",
         "summary": "El presidente y su hermana Karina entregaron al pontífice dos obsequios durante su encuentro en la Casa Rosada. Uno de ellos lleva un detalle vinculado con la Virgen de Luján y la fecha en que fue elegido Papa.",
         "pubDate": "2026-11-08T21:07:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Histórico: el Papa León XIV llegó a la Argentina y puso fin a 39 años sin visitas de un pontífice",
-        "link": "https://www.lacapital.com.ar/informacion-general/historico-el-papa-leon-xiv-llego-la-argentina-y-puso-fin-39-anos-visitas-un-pontifice-n10291127.html",
-        "image": "https://media.lacapital.com.ar/p/0ba32ffaeefa35ede9d16e204127c8a4/adjuntos/203/imagenes/103/518/0103518777/1200x675/smart/imagepapa.jpg",
-        "summary": "El avión que trasladó al jefe de la Iglesia Católica desde Montevideo aterrizó en Aeroparque. León XIV inicia una visita de cuatro días que incluye encuentros con Javier Milei, misas multitudinarias y actividades en Buenos Aires, Córdoba y Luján.",
-        "pubDate": "2026-11-08T19:51:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El vino que nació en las aulas y llegará al altar de León XIV",
-        "link": "https://www.lacapital.com.ar/agro/el-vino-que-nacio-las-aulas-y-llegara-al-altar-leon-xiv-n10291137.html",
-        "image": "https://media.lacapital.com.ar/p/bda5ad505083c5e326740767f09dc4cc/adjuntos/203/imagenes/103/518/0103518700/1200x675/520x502:540x522/donbosco-vino-papa11.jpg",
-        "summary": "El Don Bosco Licoroso Especial será utilizado por León XIV en Córdoba. Se elabora en Rodeo del Medio, donde la comunidad salesiana combina formación, producción y oportunidades para los jóvenes",
-        "pubDate": "2026-11-08T19:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Netflix agregó la última película de una reconocida saga de terror",
-        "link": "https://www.lacapital.com.ar/zoom/netflix-agrego-la-ultima-pelicula-una-reconocida-saga-terror-n10290855.html",
-        "image": "https://media.lacapital.com.ar/p/fb0f95f5a421d533a992201555355915/adjuntos/203/imagenes/103/515/0103515333/1200x675/smart/image-28.png",
-        "summary": "La franquicia de Warner Bros “Destino final” ya tiene su primera y su última entrega disponible en la plataforma",
-        "pubDate": "2026-11-08T19:27:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Panqueques de avena y banana: una receta saludable para el desayuno",
-        "link": "https://www.lacapital.com.ar/informacion-general/panqueques-avena-y-banana-una-receta-saludable-el-desayuno-n10290857.html",
-        "image": "https://media.lacapital.com.ar/p/d037ac6659be6b03079193b4cd093f16/adjuntos/203/imagenes/103/515/0103515346/1200x675/smart/image-30.png",
-        "summary": "Simples y versátiles, tener panqueques frizados te resuelve cualquier desayuno o merienda. Cómo prepararlos de forma sencilla",
-        "pubDate": "2026-11-08T19:26:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "\"Es inaceptable\", Luca Regiardo pidió disculpas por el festejo de Newell's tras el título de Boca",
-        "link": "https://www.lacapital.com.ar/ovacion/es-inaceptable-luca-regiardo-pidio-disculpas-el-festejo-newells-el-titulo-boca-n10291129.html",
-        "image": "https://media.lacapital.com.ar/p/a220e01c0662466d096fe828fe9c461e/adjuntos/203/imagenes/103/518/0103518686/regiardo.jpg",
-        "summary": "El capitán leproso habló de la reacción eufórica del plantel en la previa del empate ante Instituto en Córdoba",
-        "pubDate": "2026-11-08T19:22:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Franco Colapinto peleó toda la carrera y, aunque no sumó, se fue como el mejor Alpine y buenas sensaciones",
-        "link": "https://www.lacapital.com.ar/formula-1/franco-colapinto-peleo-toda-la-carrera-y-aunque-no-sumo-se-fue-como-el-mejor-alpine-y-buenas-sensaciones-n10291117.html",
-        "image": "https://media.lacapital.com.ar/p/4ce40383744e35d3a46295c7dd996d98/adjuntos/203/imagenes/103/518/0103518674/1200x675/smart/image-26.jpg",
-        "summary": "El argentino largó y llego 13º en San Pablo, delante de su compañero Pierre Gasly, al que superó antes del último cambio de gomas. Ganó Norris, Mercedes campeón",
-        "pubDate": "2026-11-08T19:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La Argentina que recibe al Papa: una radiografía del deterioro económico y social",
-        "link": "https://www.lacapital.com.ar/economia/la-argentina-que-recibe-al-papa-una-radiografia-del-deterioro-economico-y-social-n10291130.html",
-        "image": "https://media.lacapital.com.ar/p/3d9886df5f7966953a36c6bcd74f1848/adjuntos/203/imagenes/101/795/0101795067/1200x675/smart/pobreza-rosariopng.png",
-        "summary": "Un informe del Cepa analiza el deterioro del trabajo, los ingresos y la protección social desde 2023. Advierte sobre la pérdida de puestos registrados, el retroceso de salarios y jubilaciones y el aumento de la morosidad",
-        "pubDate": "2026-11-08T18:56:00+00:00",
         "approxTime": false
       }
     ]
