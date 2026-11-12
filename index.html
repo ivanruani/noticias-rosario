@@ -85,6 +85,21 @@
   .updated{
     font-size: 0.8rem; opacity: 0.92;
   }
+  .chips{
+    display:flex; flex-wrap:wrap; gap:6px;
+    margin-top:10px;
+    position: relative;
+    z-index: 1;
+  }
+  .chips:empty{ display:none; }
+  .chip{
+    font-size: 0.82rem; font-weight:600;
+    padding: 4px 10px; border-radius: 999px;
+    background: rgba(255,255,255,0.2);
+    border: 1px solid rgba(255,255,255,0.45);
+    white-space: nowrap;
+  }
+  .chip span{ font-weight:400; }
 
   main{
     max-width: 1100px; margin: 0 auto;
@@ -250,6 +265,7 @@
     <line x1="1065" y1="106" x2="1150" y2="162"/>
   </svg>
   <h1>📰 Noticias actualizadas de Rosario</h1>
+  <div class="chips" id="weather"></div>
   <div class="subrow">
     <span class="updated" id="updated-text">Cargando…</span>
   </div>
@@ -393,6 +409,52 @@
       });
   }
 
+  // Clima actual de Rosario (Santa Fe, Argentina) desde Open-Meteo, un
+  // servicio gratuito que no pide cuenta ni token. La lluvia es la
+  // probabilidad para la hora en curso. Si la consulta falla, se deja
+  // lo que ya estaba en pantalla.
+  var WEATHER_URL = 'https://api.open-meteo.com/v1/forecast' +
+    '?latitude=-32.9468&longitude=-60.6393' +
+    '&current=temperature_2m,apparent_temperature,weather_code,is_day' +
+    '&hourly=precipitation_probability&forecast_hours=1&timezone=auto';
+
+  // Códigos WMO: 0-1 despejado, 2 algo nublado, 3 nublado, 45-48 niebla,
+  // 71-77 y 85-86 nieve, 95-99 tormenta; el resto es llovizna o lluvia.
+  function weatherEmoji(code, isDay){
+    if(code <= 1) return isDay ? (code === 0 ? '☀️' : '🌤️') : '🌙';
+    if(code === 2) return isDay ? '⛅' : '☁️';
+    if(code === 3) return '☁️';
+    if(code === 45 || code === 48) return '🌫️';
+    if(code >= 95) return '⛈️';
+    if((code >= 71 && code <= 77) || code === 85 || code === 86) return '❄️';
+    return '🌧️';
+  }
+
+  function loadWeather(){
+    fetch(WEATHER_URL)
+      .then(function(res){
+        if(!res.ok) throw new Error('HTTP ' + res.status);
+        return res.json();
+      })
+      .then(function(w){
+        var c = w.current;
+        var rain = w.hourly && w.hourly.precipitation_probability
+          ? w.hourly.precipitation_probability[0] : null;
+        var html =
+          '<span class="chip">' + weatherEmoji(c.weather_code, c.is_day) + ' ' +
+            Math.round(c.temperature_2m) + '°</span>' +
+          '<span class="chip">🌡️ <span>Sensación</span> ' +
+            Math.round(c.apparent_temperature) + '°</span>';
+        if(rain != null){
+          html += '<span class="chip">☔ <span>Lluvia</span> ' + Math.round(rain) + ' %</span>';
+        }
+        document.getElementById('weather').innerHTML = html;
+      })
+      .catch(function(){});
+  }
+
+  function refresh(){ load(); loadWeather(); }
+
   var yearEl = document.getElementById('footer-year');
   if(yearEl) yearEl.textContent = new Date().getFullYear();
 
@@ -411,15 +473,15 @@
   // app, se vuelve de otra app, se restaura desde el historial, o vuelve
   // la conexión a internet), y además cada 5 minutos mientras esté abierta.
   document.addEventListener('visibilitychange', function(){
-    if(document.visibilityState === 'visible') load();
+    if(document.visibilityState === 'visible') refresh();
   });
-  window.addEventListener('pageshow', function(){ load(); });
-  window.addEventListener('online', function(){ load(); });
+  window.addEventListener('pageshow', function(){ refresh(); });
+  window.addEventListener('online', function(){ refresh(); });
   setInterval(function(){
-    if(document.visibilityState === 'visible') load();
+    if(document.visibilityState === 'visible') refresh();
   }, 5 * 60 * 1000);
 
-  load();
+  refresh();
 })();
 </script>
 
