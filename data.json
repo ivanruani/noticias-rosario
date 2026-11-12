@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T19:30:55.058880+00:00",
+  "generatedAt": "2026-11-12T20:01:14.136999+00:00",
   "sites": {
     "rosario3": [
       {
@@ -15,7 +15,7 @@
         "source": "Rosario3",
         "title": "Chiqui Tapia confirmó la continuidad de Lionel Scaloni en la selección argentina hasta el Mundial 2030",
         "link": "https://www.rosario3.com/deportes/lionel-scaloni-confirmo-su-continuidad-en-la-seleccion-hasta-el-2030-20261112-0050.html",
-        "image": "https://www.rosario3.com/__export/1794508061271/sites/rosario3/img/2026/11/12/scaleta.jpg_933843026.jpg",
+        "image": "https://www.rosario3.com/__export/1794512023656/sites/rosario3/img/2026/11/12/scaloni_con_chiqui.jpg_982625323.jpg",
         "summary": "Antes del partido amistoso frente a Uruguay, el entrenador oriundo de Pujato se mostró feliz por renovar su contrato con la Asociación del Fútbol Argentino",
         "pubDate": "2026-11-12T11:59:00+00:00",
         "approxTime": true
@@ -42,7 +42,7 @@
         "source": "Rosario3",
         "title": "La emoción de Scaloni al recordar a su madre: \"Estoy feliz por la renovación a pesar de que no son momentos familiares fáciles\"",
         "link": "https://www.rosario3.com/deportes/lionel-scaloni-hablara-en-conferencia-y-crece-la-expectativa-por-la-renovacion-de-su-contrato-con-la-seleccion-20261112-0004.html",
-        "image": "https://www.rosario3.com/__export/1794509088419/sites/rosario3/img/2026/11/12/scaloni_emocion.jpg_928314581.jpg",
+        "image": "https://www.rosario3.com/__export/1794507515805/sites/rosario3/img/2026/11/12/scaloni.jpg_187871396.jpg",
         "summary": "'Intento no emocionarme, intento no hablar de ella. Ya sufrimos mucho esta semana, fue una semana complicada. La felicidad por renovar es enorme, pero hubiera sido completa si ella lo hubiera visto', agregó el entrenador",
         "pubDate": "2026-11-12T11:56:00+00:00",
         "approxTime": true
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Pullaro eligió el Senado para ingresar la reforma del Código Procesal Civil y Comercial",
+        "link": "https://www.lacapital.com.ar/politica/pullaro-eligio-el-senado-ingresar-la-reforma-del-codigo-procesal-civil-y-comercial-n10291878.html",
+        "image": "https://media.lacapital.com.ar/p/fb91f0aded9c2124ba2339293043efc2/adjuntos/203/imagenes/103/527/0103527211/1200x675/smart/senado-2.jpg",
+        "summary": "Tras la demora y rispideces internas por la reforma en seguridad, que entró por Diputados, el Ejecutivo envió a la Cámara alta la iniciativa para cambiar un texto que tiene seis décadas",
+        "pubDate": "2026-11-12T19:30:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Lionel Scaloni seguirá al frente de la selección hasta el Mundial de 2030",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/63ac24c85b473309648b23c8124c7db5/adjuntos/203/imagenes/102/955/0102955446/1200x675/smart/marcelo-colombo.png",
         "summary": "Monseñor Colombo, presidente de la Conferencia Episcopal, enfatizó que León XIV se conmovió especialmente con las historias de abandono, discapacidad y exclusión",
         "pubDate": "2026-11-12T18:37:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Invasión de camalotes en Rosario: el río Paraná sigue creciendo y se acerca al nivel de alerta",
-        "link": "https://www.lacapital.com.ar/la-ciudad/invasion-camalotes-rosario-el-rio-parana-sigue-creciendo-y-se-acerca-al-nivel-alerta-n10291871.html",
-        "image": "https://media.lacapital.com.ar/p/3a3bfe5f5d2f28fe82b7bc6875860d99/adjuntos/203/imagenes/103/527/0103527168/1200x675/smart/imagecama.jpg",
-        "summary": "El río alcanzó este jueves los 4,53 metros, apenas 47 centímetros por debajo del nivel de alerta. El Instituto Nacional del Agua anticipa que la crecida continuará y podría llegar a los 5,20 metros hacia el 24 de noviembre. La vegetación flotante complica la navegación y la…",
-        "pubDate": "2026-11-12T18:17:00+00:00",
         "approxTime": false
       }
     ]
