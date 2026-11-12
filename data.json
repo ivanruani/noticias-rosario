@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T23:01:10.281184+00:00",
+  "generatedAt": "2026-11-12T23:30:55.040846+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Por primera vez en casi un siglo y medio, Misisipi tendrá un senador de raza negra",
+        "link": "https://www.lacapital.com.ar/el-mundo/por-primera-vez-casi-un-siglo-y-medio-misisipi-tendra-un-senador-raza-negra-n10291930.html",
+        "image": "https://media.lacapital.com.ar/p/af9685e4c8f7d2c19b4b21dfde4f3629/adjuntos/203/imagenes/103/527/0103527631/2026-11-12-senador-negro-misisipi.jpg",
+        "summary": "Scott Colom fue declarado ganador frente a Cindy Hyde-Smith, que contaba con el apoyo de Trump",
+        "pubDate": "2026-11-12T23:14:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Rosario tendrá el Paseo de los Campeones del Mundo, para homenajear a los que levantaron la Copa",
         "link": "https://www.lacapital.com.ar/la-ciudad/rosario-tendra-el-paseo-los-campeones-del-mundo-homenajear-los-que-levantaron-la-copa-n10291927.html",
         "image": "https://media.lacapital.com.ar/p/70cfd37173c49e83a8d4a15d2276838a/adjuntos/203/imagenes/103/527/0103527561/2026-11-12-messi-y-di-maria.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/bc445495e7e183a78abc3b561a7cb8cd/adjuntos/203/imagenes/103/527/0103527245/1200x675/smart/san-martin-ambulancia.jpeg",
         "summary": "Son unidades cero kilómetro que se enmarcan en el plan de renovación y ampliación de la flota sanitaria que lleva adelante el gobierno de la provincia de Santa Fe",
         "pubDate": "2026-11-12T19:14:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La inflación se aceleró fuerte en octubre y volvió a superar el 2%",
-        "link": "https://www.lacapital.com.ar/economia/la-inflacion-se-acelero-fuerte-octubre-y-volvio-superar-el-2-n10291888.html",
-        "image": "https://media.lacapital.com.ar/p/8563fbe7f25b244d0f4bb93d860b825a/adjuntos/203/imagenes/103/159/0103159923/1200x675/512x315:532x335/mayorista.jpg",
-        "summary": "El Indice de Precios al Consumidor fue del mes pasado subió 2,2% y acumula 26,3% en lo que va del año . El rubro de vivienda y servicios, asociado al precio de tarifas y alquileres, encabezó las alzas. El rubro alimentos aumentó 2%",
-        "pubDate": "2026-11-12T19:13:00+00:00",
         "approxTime": false
       }
     ]
