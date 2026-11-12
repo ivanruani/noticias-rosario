@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T20:30:57.861358+00:00",
+  "generatedAt": "2026-11-12T21:01:08.756726+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,33 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Otro mensaje de Bullrich a Milei: \"Estamos listos para tratar la ley de discapacidad\"",
+        "link": "https://www.lacapital.com.ar/politica/otro-mensaje-bullrich-milei-estamos-listos-tratar-la-ley-discapacidad-n10291910.html",
+        "image": "https://media.lacapital.com.ar/p/c6f0bc4966642c23a99813d068fc5f41/adjuntos/203/imagenes/103/410/0103410029/1200x675/smart/pato-bullrich.jpg",
+        "summary": "Anunció que la bancada de La Libertad Avanza tiene los votos para sancionar la norma. \"El país que estamos construyendo es con todos los argentinos\", aseveró",
+        "pubDate": "2026-11-12T20:48:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Prisión preventiva para la banda de los tucumanos por una ola de salideras bancarias en Rosario",
+        "link": "https://www.lacapital.com.ar/policiales/prision-preventiva-la-banda-los-tucumanos-una-ola-salideras-bancarias-rosario-n10291854.html",
+        "image": "https://media.lacapital.com.ar/p/657c525653468b9aae80978f33070cb8/adjuntos/203/imagenes/103/527/0103527144/1200x675/smart/rob.jpg",
+        "summary": "La Justicia dictó dos años de prisión preventiva para siete acusados de integrar una organización que operaba en el centro y macrocentro. Entre los golpes investigados figura una salidera de $28 millones y una serie de robos a automovilistas",
+        "pubDate": "2026-11-12T20:45:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Inaugura Emergentes 2026, la exposición que reúne a 30 artistas de Argentina en el CEC",
+        "link": "https://www.lacapital.com.ar/zoom/inaugura-emergentes-2026-la-exposicion-que-reune-30-artistas-argentina-el-cec-n10291904.html",
+        "image": "https://media.lacapital.com.ar/p/529c643d5367084c20c28726db038421/adjuntos/203/imagenes/103/527/0103527420/1200x675/smart/image-2026-11-12t182159694.png",
+        "summary": "Se trata de un programa que promueve la práctica artística como un espacio de investigación sensible, encuentro y experimentación",
+        "pubDate": "2026-11-12T20:44:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Una dato de cuidado para Newell's: su rival en los playoffs tiene la ilusión de ir a la Libertadores",
         "link": "https://www.lacapital.com.ar/ovacion/una-dato-cuidado-newells-su-rival-los-playoffs-tiene-la-ilusion-ir-la-libertadores-n10291902.html",
         "image": "https://media.lacapital.com.ar/p/bac4013d9aeaceb8cf8cf7e83c135fbc/adjuntos/203/imagenes/103/527/0103527368/1200x675/smart/image-1.jpg",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/b010cafb7d5a0e2ae1ddee78550d899b/adjuntos/203/imagenes/102/892/0102892854/1200x675/smart/senado-nacional.png",
         "summary": "El oficialismo apunta a aprobar la reforma electoral en la última sesión del actual período ordinario, que se realizará el 26 de noviembre",
         "pubDate": "2026-11-12T18:40:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Tres películas para un fin de semana a puro Netflix",
-        "link": "https://www.lacapital.com.ar/zoom/tres-peliculas-un-fin-semana-puro-netflix-n10291863.html",
-        "image": "https://media.lacapital.com.ar/p/c39061469449cb023f52f7f7fa995542/adjuntos/203/imagenes/103/527/0103527143/1200x675/smart/image-37.png",
-        "summary": "La plataforma sumó producciones de suspenso, comedia y terror que tienen a los usuarios más que comprometidos. De qué se tratan las nuevas incorporaciones",
-        "pubDate": "2026-11-12T18:40:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cómo bloquear un contacto en WhatsApp y cómo saber si te tienen bloqueado",
-        "link": "https://www.lacapital.com.ar/informacion-general/como-bloquear-un-contacto-whatsapp-y-como-saber-si-te-tienen-bloqueado-n10291855.html",
-        "image": "https://media.lacapital.com.ar/p/9e91369c3c14d0841aeb84dd2df0ef2c/adjuntos/203/imagenes/103/328/0103328442/1200x675/smart/whatsapp.png",
-        "summary": "A partir de un procedimiento fácil y rápido, los usuarios tienen una forma de saber si algún contacto los bloqueó. También pueden bloquear contactos en simples pasos.",
-        "pubDate": "2026-11-12T18:39:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Malvinas: la Argentina amenaza con acciones penales contra directivos de petroleras británicas",
-        "link": "https://www.lacapital.com.ar/politica/malvinas-la-argentina-amenaza-acciones-penales-contra-directivos-petroleras-britanicas-n10291877.html",
-        "image": "https://media.lacapital.com.ar/p/c2048c527262201099bcd6826ba87fc1/adjuntos/203/imagenes/103/192/0103192124/2026-06-02-canciller-quirno.jpg",
-        "summary": "El canciller Pablo Quirno dijo que el gobierno utilizará todas las herramientas legales para impedir la explotación de hidrocarburos en las islas y reclamó que el Reino Unido acate un eventual fallo del Tribunal del Mar",
-        "pubDate": "2026-11-12T18:39:00+00:00",
         "approxTime": false
       }
     ]
