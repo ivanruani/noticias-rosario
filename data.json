@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T20:01:14.136999+00:00",
+  "generatedAt": "2026-11-12T20:30:57.861358+00:00",
   "sites": {
     "rosario3": [
       {
@@ -22,19 +22,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "Polémica en Rafaela: el intendente se filmó expulsando de una plaza a una persona en situación de calle y luego dio explicaciones",
-        "link": "https://www.rosario3.com/informaciongeneral/polemica-en-rafaela-el-intendente-se-filmo-expulsando-de-una-plaza-a-una-persona-en-situacion-de-calle-y-luego-dio-explicaciones-20261112-0049.html",
-        "image": "https://www.rosario3.com/__export/1794508212182/sites/rosario3/img/2026/11/12/viotti.jpg_1768679257.jpg",
-        "summary": "Las redes sociales viralizaron el contenido que publicó Leonardo Viotti y se armó un debate. Tras el revuelo, la máxima autoridad municipal contextualizó lo ocurrido",
+        "title": "La canasta básica saltó 3,5% en octubre: una familia necesita $1.690.000 para no ser pobre",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-canasta-basica-salto-35-en-octubre-una-familia-necesita-1.690.000-para-no-ser-pobre-20261112-0060.html",
+        "image": "https://www.rosario3.com/__export/1794512572859/sites/rosario3/img/2025/10/01/pobreza_rosario.jpg_506286608.jpg",
+        "summary": "El aumento en el costo de vida y de los alimentos fue el más alto desde enero y duplicó al registro de septiembre, según el Indec",
         "pubDate": "2026-11-12T11:58:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Santa Fe lideró el turismo no papal durante el fin de semana y los feriados",
-        "link": "https://www.rosario3.com/informaciongeneral/santa-fe-lidero-el-turismo-no-papal-durante-el-fin-de-semana-y-los-feriados-20261112-0036.html",
-        "image": "https://www.rosario3.com/__export/1794500459935/sites/rosario3/img/2026/11/12/colectividades2.jpg_1826522158.jpg",
-        "summary": "El movimiento en la provincia dejó un impacto de 20 mil millones de pesos y Rosario fue el epicentro con Colectividades y Ronnie Wood. A nivel nacional, se registró una movilización histórica por León XIV en Buenos Aires, Córdoba y Luján",
+        "title": "Polémica en Rafaela: el intendente se filmó expulsando de una plaza a una persona en situación de calle y luego dio explicaciones",
+        "link": "https://www.rosario3.com/informaciongeneral/polemica-en-rafaela-el-intendente-se-filmo-expulsando-de-una-plaza-a-una-persona-en-situacion-de-calle-y-luego-dio-explicaciones-20261112-0049.html",
+        "image": "https://www.rosario3.com/__export/1794508212182/sites/rosario3/img/2026/11/12/viotti.jpg_1768679257.jpg",
+        "summary": "Las redes sociales viralizaron el contenido que publicó Leonardo Viotti y se armó un debate. Tras el revuelo, la máxima autoridad municipal contextualizó lo ocurrido",
         "pubDate": "2026-11-12T11:57:00+00:00",
         "approxTime": true
       },
@@ -58,10 +58,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "El Paraná no da tregua: advierten que la crecida seguirá hasta el verano",
-        "link": "https://www.rosario3.com/informaciongeneral/el-parana-no-da-tregua-advierten-que-la-crecida-seguira-hasta-el-verano-20261112-0025.html",
-        "image": "https://www.rosario3.com/__export/1794491331440/sites/rosario3/img/2026/10/26/rioaltura.jpg_928314581.jpg",
-        "summary": "El Instituto Nacional del Agua (INA) anticipó que la descarga de la masa de agua continuará durante las próximas semanas y que sus efectos podrían extenderse, al menos, hasta fines de enero. En Rosario, el río estaba en 4,47 metros y podría superar el nivel de alerta hacia el 24…",
+        "title": "Santa Fe lideró el turismo no papal durante el fin de semana y los feriados",
+        "link": "https://www.rosario3.com/informaciongeneral/santa-fe-lidero-el-turismo-no-papal-durante-el-fin-de-semana-y-los-feriados-20261112-0036.html",
+        "image": "https://www.rosario3.com/__export/1794500459935/sites/rosario3/img/2026/11/12/colectividades2.jpg_1826522158.jpg",
+        "summary": "El movimiento en la provincia dejó un impacto de 20 mil millones de pesos y Rosario fue el epicentro con Colectividades y Ronnie Wood. A nivel nacional, se registró una movilización histórica por León XIV en Buenos Aires, Córdoba y Luján",
         "pubDate": "2026-11-12T11:54:00+00:00",
         "approxTime": true
       },
@@ -141,10 +141,19 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Una dato de cuidado para Newell's: su rival en los playoffs tiene la ilusión de ir a la Libertadores",
+        "link": "https://www.lacapital.com.ar/ovacion/una-dato-cuidado-newells-su-rival-los-playoffs-tiene-la-ilusion-ir-la-libertadores-n10291902.html",
+        "image": "https://media.lacapital.com.ar/p/bac4013d9aeaceb8cf8cf7e83c135fbc/adjuntos/203/imagenes/103/527/0103527368/1200x675/smart/image-1.jpg",
+        "summary": "Gimnasia y Esgrima La Plata ya tiene pasaje a la Copa Sudamericana, pero aún sueña con entrar en el máximo torneo continental",
+        "pubDate": "2026-11-12T20:14:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Pullaro eligió el Senado para ingresar la reforma del Código Procesal Civil y Comercial",
         "link": "https://www.lacapital.com.ar/politica/pullaro-eligio-el-senado-ingresar-la-reforma-del-codigo-procesal-civil-y-comercial-n10291878.html",
         "image": "https://media.lacapital.com.ar/p/fb91f0aded9c2124ba2339293043efc2/adjuntos/203/imagenes/103/527/0103527211/1200x675/smart/senado-2.jpg",
-        "summary": "Tras la demora y rispideces internas por la reforma en seguridad, que entró por Diputados, el Ejecutivo envió a la Cámara alta la iniciativa para cambiar un texto que tiene seis décadas",
+        "summary": "Tras la demora y rispideces internas por los cambios en seguridad, que entraron por Diputados, el Ejecutivo envió a la Cámara alta la iniciativa para modificar un texto que tiene seis décadas",
         "pubDate": "2026-11-12T19:30:00+00:00",
         "approxTime": false
       },
@@ -162,7 +171,7 @@
         "title": "Paro docente en la UNR: no habrá clases durante toda la próxima semana en reclamo de mejoras salariales",
         "link": "https://www.lacapital.com.ar/la-ciudad/paro-docente-la-unr-no-habra-clases-toda-la-proxima-semana-reclamo-mejoras-salariales-n10291885.html",
         "image": "https://media.lacapital.com.ar/p/6199c27e2eb2ec03162ef04dda7727bf/adjuntos/203/imagenes/103/095/0103095764/ruidazo-coad-3.jpeg",
-        "summary": "Los profesores nucleados en Coad realizarán una medida de fuerza del lunes 16 al sábado 21 de noviembre. Exigen el cumplimiento de la ley de financiamiento universitario. También organizarán un cabildo abierto.",
+        "summary": "Los profesores nucleados en Coad realizarán una medida de fuerza del lunes 16 al sábado 21 de noviembre. Exigen el cumplimiento de la ley de financiamiento universitario. También organizarán un cabildo abierto",
         "pubDate": "2026-11-12T19:18:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/c2048c527262201099bcd6826ba87fc1/adjuntos/203/imagenes/103/192/0103192124/2026-06-02-canciller-quirno.jpg",
         "summary": "El canciller Pablo Quirno dijo que el gobierno utilizará todas las herramientas legales para impedir la explotación de hidrocarburos en las islas y reclamó que el Reino Unido acate un eventual fallo del Tribunal del Mar",
         "pubDate": "2026-11-12T18:39:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Tras la visita del Papa, la Iglesia reclamó mayor atención a los sectores vulnerables",
-        "link": "https://www.lacapital.com.ar/politica/tras-la-visita-del-papa-la-iglesia-reclamo-mayor-atencion-los-sectores-vulnerables-n10291866.html",
-        "image": "https://media.lacapital.com.ar/p/63ac24c85b473309648b23c8124c7db5/adjuntos/203/imagenes/102/955/0102955446/1200x675/smart/marcelo-colombo.png",
-        "summary": "Monseñor Colombo, presidente de la Conferencia Episcopal, enfatizó que León XIV se conmovió especialmente con las historias de abandono, discapacidad y exclusión",
-        "pubDate": "2026-11-12T18:37:00+00:00",
         "approxTime": false
       }
     ]
