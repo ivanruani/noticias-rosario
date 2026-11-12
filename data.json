@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T18:12:58.638789+00:00",
+  "generatedAt": "2026-11-12T18:30:54.304905+00:00",
   "sites": {
     "rosario3": [
       {
@@ -40,11 +40,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Chiqui Tapia confirmó la continuidad de Lionel Scaloni en la selección argentina hasta el Mundial 2030",
+        "link": "https://www.rosario3.com/deportes/lionel-scaloni-confirmo-su-continuidad-en-la-seleccion-hasta-el-2030-20261112-0050.html",
+        "image": "https://www.rosario3.com/__export/1794508061271/sites/rosario3/img/2026/11/12/scaleta.jpg_933843026.jpg",
+        "summary": "Antes del partido amistoso frente a Uruguay, el entrenador oriundo de Pujato se mostró feliz por renovar su contrato con la Asociación del Fútbol Argentino",
+        "pubDate": "2026-11-12T11:56:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Piden testigos de un choque en Circunvalación: un camión embistió a una familia y escapó",
         "link": "https://www.rosario3.com/informaciongeneral/piden-testigos-de-un-choque-en-circunvalacion-un-camion-embistio-a-una-familia-y-escapo-20261112-0040.html",
         "image": "https://www.rosario3.com/__export/1794503355437/sites/rosario3/img/2026/11/12/screenshot_2026-11-12_140645_edited.png_928314580.png",
         "summary": "El siniestro ocurrió el miércoles al mediodía, mano al norte y cerca de la bajada de Presidente Perón. En el auto viajaban una pareja y su hija de cuatro años, que recibió puntos en la cabeza. Buscan identificar al camionero para avanzar con los trámites del seguro",
-        "pubDate": "2026-11-12T11:56:00+00:00",
+        "pubDate": "2026-11-12T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -53,15 +62,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/el-parana-no-da-tregua-advierten-que-la-crecida-seguira-hasta-el-verano-20261112-0025.html",
         "image": "https://www.rosario3.com/__export/1794491331440/sites/rosario3/img/2026/10/26/rioaltura.jpg_928314581.jpg",
         "summary": "El Instituto Nacional del Agua (INA) anticipó que la descarga de la masa de agua continuará durante las próximas semanas y que sus efectos podrían extenderse, al menos, hasta fines de enero. En Rosario, el río estaba en 4,47 metros y podría superar el nivel de alerta hacia el 24…",
-        "pubDate": "2026-11-12T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Aumenta la presencia de mosquitos y cascarudos en Rosario: detectaron huevos de aedes aegypti, pero sin casos de dengue",
-        "link": "https://www.rosario3.com/informaciongeneral/aumenta-la-presencia-de-mosquitos-y-cascarudos-en-rosario-detectaron-huevos-de-aedes-aegypti-pero-sin-casos-de-dengue-20261112-0022.html",
-        "image": "https://www.rosario3.com/__export/1775738758765/sites/rosario3/img/2026/04/09/mosquito.png_786111822.png",
-        "summary": "El director municipal del área, Carlos Tasinato, confirmó la detección de huevos del mosquito aedes aegypti mediante sensores de oviposición, aunque aclaró que no existen contagios aún. Además, explicó el origen de la aparición masiva de insectos por las recientes lluvias y la…",
         "pubDate": "2026-11-12T11:54:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Invasión de camalotes en Rosario: el río Paraná sigue creciendo y se acerca al nivel de alerta",
+        "link": "https://www.lacapital.com.ar/la-ciudad/invasion-camalotes-rosario-el-rio-parana-sigue-creciendo-y-se-acerca-al-nivel-alerta-n10291871.html",
+        "image": "https://media.lacapital.com.ar/p/3a3bfe5f5d2f28fe82b7bc6875860d99/adjuntos/203/imagenes/103/527/0103527168/1200x675/smart/imagecama.jpg",
+        "summary": "El río alcanzó este jueves los 4,53 metros, apenas 47 centímetros por debajo del nivel de alerta. El Instituto Nacional del Agua anticipa que la crecida continuará y podría llegar a los 5,20 metros hacia el 24 de noviembre. La vegetación flotante complica la navegación y la…",
+        "pubDate": "2026-11-12T18:17:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El tenso presente de Lo Celso en Betis que sembró rumores en España",
         "link": "https://www.lacapital.com.ar/ovacion/el-tenso-presente-lo-celso-betis-que-sembro-rumores-espana-n10291861.html",
         "image": "https://media.lacapital.com.ar/p/3243906252bfd0ea3576a49b3e1bd362/adjuntos/203/imagenes/103/527/0103527140/1200x675/smart/lo-celso-betis.jpg",
@@ -150,8 +159,8 @@
       },
       {
         "source": "La Capital",
-        "title": "Walter Mazzanti, segundo en una estadística que muestra a los jugadores más determinantes del Clausura",
-        "link": "https://www.lacapital.com.ar/ovacion/walter-mazzanti-segundo-una-estadistica-que-muestra-los-jugadores-mas-determinantes-del-clausura-n10291868.html",
+        "title": "Walter Mazzantti es el segundo atacante con más duelos ganados en el torneo Clausura",
+        "link": "https://www.lacapital.com.ar/ovacion/walter-mazzantti-es-el-segundo-atacante-mas-duelos-ganados-el-torneo-clausura-n10291868.html",
         "image": "https://media.lacapital.com.ar/p/8288654bc11b294af9f85d2928ce8631/adjuntos/203/imagenes/103/504/0103504928/1200x675/smart/image-2026-10-31t214523360.png",
         "summary": "El futbolista, uno de los preferidos de Frank Kudelka, se convirtió en una de las figuras en el equipo que se clasificó a los playoffs",
         "pubDate": "2026-11-12T18:04:00+00:00",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/632e122294897ff32ccb314e066b1714/adjuntos/203/imagenes/103/519/0103519929/1200x675/smart/la-sole-pastorutti.png",
         "summary": "La cantante argentina tuvo la oportunidad de cantar frente al Sumo Pontífice. Confió que el momento fue \"maravilloso\"",
         "pubDate": "2026-11-12T16:02:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Las primeras palabras del Papa León XIV en Perú tras su paso por Argentina: \"Regreso a mi patria\"",
-        "link": "https://www.lacapital.com.ar/el-mundo/las-primeras-palabras-del-papa-leon-xiv-peru-su-paso-argentina-regreso-mi-patria-n10291832.html",
-        "image": "https://media.lacapital.com.ar/p/f2b3770dc9fe46010715510bafe88be5/adjuntos/203/imagenes/103/526/0103526845/1200x675/smart/image-2026-11-12t115224904.png",
-        "summary": "El Pontífice inició su visita apostólica con un mensaje de cercanía hacia los peruanos. Su llegada se entrecruza con la polémica por el viaje al exterior de la presidenta Keiko Fujimori durante su visita",
-        "pubDate": "2026-11-12T15:57:00+00:00",
         "approxTime": false
       }
     ]
