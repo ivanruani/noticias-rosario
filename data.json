@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T09:31:01.531836+00:00",
+  "generatedAt": "2026-11-12T10:01:07.492586+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Crece el ausentismo escolar en Santa Fe: casi la mitad de los alumnos termina la secundaria con 15 faltas o más",
+        "link": "https://www.lacapital.com.ar/la-ciudad/crece-el-ausentismo-escolar-santa-fe-casi-la-mitad-los-alumnos-termina-la-secundaria-15-faltas-o-mas-n10291629.html",
+        "image": "https://media.lacapital.com.ar/p/7dc1814428977c93e05759181ed2071d/adjuntos/203/imagenes/103/524/0103524834/1200x675/smart/secundaria2.jpg",
+        "summary": "El porcentaje de estudiantes con inasistencias pasó del 34% al 45% entre 2022 y 2024. Las faltas son más frecuentes entre los alumnos de menores recursos",
+        "pubDate": "2026-11-12T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "León XIV: el hombre que vino a devolver la alegría",
+        "link": "https://www.lacapital.com.ar/opinion/leon-xiv-el-hombre-que-vino-devolver-la-alegria-n10291743.html",
+        "image": "https://media.lacapital.com.ar/p/89ed4bdc7763f681b3195ef6c2248091/adjuntos/203/imagenes/103/525/0103525804/1200x675/smart/82855067jpegthumb.jpg",
+        "summary": "El Papa llegó a colmar los corazones y a devolverles coherencia a cada gesto y a cada palabra. El desafío que queda abierto para los argentinos es que esa huella no se diluya",
+        "pubDate": "2026-11-12T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Volvieron los mosquitos, pero aseguran que no hay circulación viral de Aedes aegypti en Rosario",
         "link": "https://www.lacapital.com.ar/la-ciudad/volvieron-los-mosquitos-pero-aseguran-que-no-hay-circulacion-viral-aedes-aegypti-rosario-n10291658.html",
         "image": "https://media.lacapital.com.ar/p/bd2e5b2dd58e1e40f912629463659d2b/adjuntos/203/imagenes/101/306/0101306798/1200x675/smart/fumigacion-mosquitosjpg.jpg",
@@ -231,19 +249,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Piden 6 años de prisión para un hombre que mantuvo cautiva a su pareja por dos años en Maciel",
-        "link": "https://www.lacapital.com.ar/policiales/piden-6-anos-prision-un-hombre-que-mantuvo-cautiva-su-pareja-dos-anos-maciel-n10291694.html",
-        "image": "https://media.lacapital.com.ar/p/02aeb9a38e8890e76c518d0db821e47b/adjuntos/203/imagenes/100/137/0100137593/1200x675/smart/el-juicio-se-desarrollo-los-tribunales-provinciales-san-lorenzo.jpg",
-        "summary": "Tiene 42 años y está acusado de privación ilegal de la libertad, tenencia de arma y amenazas. Entre enero de 2023 y diciembre de 2024 la mujer vivió sometida a un \"régimen de vigilancia constante\"",
+        "title": "Playoffs del Clausura: Central y Newell's ya conocen el día y horario de los octavos de final",
+        "link": "https://www.lacapital.com.ar/ovacion/playoffs-del-clausura-central-y-newells-ya-conocen-el-dia-y-horario-los-octavos-final-n10291623.html",
+        "image": "https://media.lacapital.com.ar/p/037dc3da0749d463c5efd334d8117fea/adjuntos/203/imagenes/103/423/0103423059/nob-escobar-82644746.jpg",
+        "summary": "La Liga Profesional definió el cronograma de los ocho partidos de la primera instancia de eliminación directa, con la presencia del Canalla y la Lepra",
         "pubDate": "2026-11-12T00:10:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Playoffs del Clausura: Central y Newell's ya conocen el día y horario de los octavos de final",
-        "link": "https://www.lacapital.com.ar/ovacion/playoffs-del-clausura-central-y-newells-ya-conocen-el-dia-y-horario-los-octavos-final-n10291623.html",
-        "image": "https://media.lacapital.com.ar/p/037dc3da0749d463c5efd334d8117fea/adjuntos/203/imagenes/103/423/0103423059/nob-escobar-82644746.jpg",
-        "summary": "La Liga Profesional definió el cronograma de los ocho partidos de la primera instancia de eliminación directa, con la presencia del Canalla y la Lepra",
+        "title": "Piden 6 años de prisión para un hombre que mantuvo cautiva a su pareja por dos años en Maciel",
+        "link": "https://www.lacapital.com.ar/policiales/piden-6-anos-prision-un-hombre-que-mantuvo-cautiva-su-pareja-dos-anos-maciel-n10291694.html",
+        "image": "https://media.lacapital.com.ar/p/02aeb9a38e8890e76c518d0db821e47b/adjuntos/203/imagenes/100/137/0100137593/1200x675/smart/el-juicio-se-desarrollo-los-tribunales-provinciales-san-lorenzo.jpg",
+        "summary": "Tiene 42 años y está acusado de privación ilegal de la libertad, tenencia de arma y amenazas. Entre enero de 2023 y diciembre de 2024 la mujer vivió sometida a un \"régimen de vigilancia constante\"",
         "pubDate": "2026-11-12T00:10:00+00:00",
         "approxTime": false
       },
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/ff21416b8f9b062271c51cd6b5e6ef22/adjuntos/203/imagenes/103/525/0103525792/whatsapp-image-2026-11-11-at-161622.jpeg",
         "summary": "Mariano es sacerdote en barrio Industrial y eligió ver la misa en Luján con la camiseta del oratorio San Cayetano, que lleva las hormigas que identifican la lucha de Claudio “Pocho” Lepratti",
         "pubDate": "2026-11-11T23:46:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Presentarán un libro que reconstruye la vida y la historia de Tarragó Ros",
-        "link": "https://www.lacapital.com.ar/cultura-y-libros/presentaran-un-libro-que-reconstruye-la-vida-y-la-historia-tarrago-ros-n10291746.html",
-        "image": "https://media.lacapital.com.ar/p/d884f449eb617f2d5b6ac21464dfb0e7/adjuntos/203/imagenes/103/525/0103525773/2026-11-11-tarrago-ros.jpg",
-        "summary": "Gonzalo Pereyra presentará su investigación de más de cuatro años sobre el Rey del Chamamé. El encuentro será este jueves, a las 18.30, en la Usina Social",
-        "pubDate": "2026-11-11T23:23:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Yanina Latorre y la carpa VIP: \"No es a mí a quien le tienen que reprochar\"",
-        "link": "https://www.lacapital.com.ar/zoom/yanina-latorre-y-la-carpa-vip-no-es-mi-quien-le-tienen-que-reprochar-n10291741.html",
-        "image": "https://media.lacapital.com.ar/p/862d3e3c735de686daff5b16caa72c67/adjuntos/203/imagenes/103/525/0103525702/2026-11-11-yanina-latorre.jpg",
-        "summary": "\"No quise faltar el respeto ni a los fieles\", se disculpó la conductora, pero reprochó que había unas 300 personas y \"todo cae en cuatro o cinco famosos\"",
-        "pubDate": "2026-11-11T22:47:00+00:00",
         "approxTime": false
       }
     ]
