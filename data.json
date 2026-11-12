@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-11-12T21:01:08.756726+00:00",
+  "generatedAt": "2026-11-12T21:30:57.939047+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Otra encarnación de la Banda de los Tucumanos: le atribuyen salideras millonarias y operar con ayuda local",
+        "link": "https://www.rosario3.com/policiales/otra-encarnacion-de-la-banda-de-los-tucumanos-le-atribuyen-salideras-millonarias-y-operar-con-ayuda-local-20261112-0063.html",
+        "image": "https://www.rosario3.com/__export/1794514926041/sites/rosario3/img/2026/11/12/tucumanos_1_1.jpg_672794305.jpg",
+        "summary": "Seis hombres oriundos de Tucumán y una joven de barrio Tablada quedaron en prisión preventiva, acusados de integrar una asociación ilícita dedicada a robar a personas que trasladaban dinero. La organización está bajo investigación por 14 hechos desde junio",
+        "pubDate": "2026-11-12T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "La inflación en octubre fue de 2,2% y acumuló 33,1% en los últimos doce meses",
         "link": "https://www.rosario3.com/-economia-negocios-agro-/la-inflacion-en-octubre-fue-de-22-y-acumulo-331-en-los-ultimos-doce-meses-20261112-0056.html",
         "image": "https://www.rosario3.com/__export/1794510694960/sites/rosario3/img/2026/11/12/inflacion.jpg_1768679257.jpg",
         "summary": "El índice de precios acumuló 26,3% en lo que va del año. Alimentos, servicios regulados y los componentes estacionales estuvieron entre los rubros clave durante el mes. El IPC es una referencia para las negociaciones salariales, la actualización de contratos y las decisiones de…",
-        "pubDate": "2026-11-12T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Chiqui Tapia confirmó la continuidad de Lionel Scaloni en la selección argentina hasta el Mundial 2030",
-        "link": "https://www.rosario3.com/deportes/lionel-scaloni-confirmo-su-continuidad-en-la-seleccion-hasta-el-2030-20261112-0050.html",
-        "image": "https://www.rosario3.com/__export/1794512023656/sites/rosario3/img/2026/11/12/scaloni_con_chiqui.jpg_982625323.jpg",
-        "summary": "Antes del partido amistoso frente a Uruguay, el entrenador oriundo de Pujato se mostró feliz por renovar su contrato con la Asociación del Fútbol Argentino",
         "pubDate": "2026-11-12T11:59:00+00:00",
         "approxTime": true
       },
@@ -31,20 +31,29 @@
       },
       {
         "source": "Rosario3",
-        "title": "Polémica en Rafaela: el intendente se filmó expulsando de una plaza a una persona en situación de calle y luego dio explicaciones",
-        "link": "https://www.rosario3.com/informaciongeneral/polemica-en-rafaela-el-intendente-se-filmo-expulsando-de-una-plaza-a-una-persona-en-situacion-de-calle-y-luego-dio-explicaciones-20261112-0049.html",
-        "image": "https://www.rosario3.com/__export/1794508212182/sites/rosario3/img/2026/11/12/viotti.jpg_1768679257.jpg",
-        "summary": "Las redes sociales viralizaron el contenido que publicó Leonardo Viotti y se armó un debate. Tras el revuelo, la máxima autoridad municipal contextualizó lo ocurrido",
+        "title": "Bullrich escribió otro mensaje que generó suspicacias en el oficialismo: “Es con todos los argentinos”",
+        "link": "https://www.rosario3.com/politica/bullrich-escribio-otro-mensaje-que-genero-suspicacias-en-el-oficialismo-es-con-todos-los-argentinos-20261112-0061.html",
+        "image": "https://www.rosario3.com/__export/1794513868343/sites/rosario3/img/2026/11/12/bullrich.jpg_1768679258.jpg",
+        "summary": "En un posteo, anunció que la bancada de La Libertad Avanza tiene los votos para tratar la Ley de Discapacidad: “Como vengo recalcando, sin que nadie se quede afuera”, dijo",
         "pubDate": "2026-11-12T11:57:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "La emoción de Scaloni al recordar a su madre: \"Estoy feliz por la renovación a pesar de que no son momentos familiares fáciles\"",
-        "link": "https://www.rosario3.com/deportes/lionel-scaloni-hablara-en-conferencia-y-crece-la-expectativa-por-la-renovacion-de-su-contrato-con-la-seleccion-20261112-0004.html",
-        "image": "https://www.rosario3.com/__export/1794507515805/sites/rosario3/img/2026/11/12/scaloni.jpg_187871396.jpg",
-        "summary": "'Intento no emocionarme, intento no hablar de ella. Ya sufrimos mucho esta semana, fue una semana complicada. La felicidad por renovar es enorme, pero hubiera sido completa si ella lo hubiera visto', agregó el entrenador",
+        "title": "Polémica en Rafaela: el intendente se filmó expulsando de una plaza a una persona en situación de calle y luego dio explicaciones",
+        "link": "https://www.rosario3.com/informaciongeneral/polemica-en-rafaela-el-intendente-se-filmo-expulsando-de-una-plaza-a-una-persona-en-situacion-de-calle-y-luego-dio-explicaciones-20261112-0049.html",
+        "image": "https://www.rosario3.com/__export/1794508212182/sites/rosario3/img/2026/11/12/viotti.jpg_1768679257.jpg",
+        "summary": "Las redes sociales viralizaron el contenido que publicó Leonardo Viotti y se armó un debate. Tras el revuelo, la máxima autoridad municipal contextualizó lo ocurrido",
         "pubDate": "2026-11-12T11:56:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Docentes de la UNR definieron un paro durante toda la semana próxima",
+        "link": "https://www.rosario3.com/informaciongeneral/docentes-de-la-unr-definieron-un-paro-durante-toda-la-semana-proxima-20261112-0062.html",
+        "image": "https://www.rosario3.com/__export/1791983121897/sites/rosario3/img/2026/05/12/unr.jpg_928314581.jpg",
+        "summary": "La medida de fuerza, del 16 al 21 de noviembre, fue resuelta por Coad en reclamo por el cumplimiento de la Ley de Financiamiento Universitario y la convocatoria a paritarias. Además, llamaron a un Cabildo Abierto en Rosario",
+        "pubDate": "2026-11-12T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -53,33 +62,24 @@
         "link": "https://www.rosario3.com/informaciongeneral/piden-testigos-de-un-choque-en-circunvalacion-un-camion-embistio-a-una-familia-y-escapo-20261112-0040.html",
         "image": "https://www.rosario3.com/__export/1794503355437/sites/rosario3/img/2026/11/12/screenshot_2026-11-12_140645_edited.png_928314580.png",
         "summary": "El siniestro ocurrió el miércoles al mediodía, mano al norte y cerca de la bajada de Presidente Perón. En el auto viajaban una pareja y su hija de cuatro años, que recibió puntos en la cabeza. Buscan identificar al camionero para avanzar con los trámites del seguro",
-        "pubDate": "2026-11-12T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Santa Fe lideró el turismo no papal durante el fin de semana y los feriados",
-        "link": "https://www.rosario3.com/informaciongeneral/santa-fe-lidero-el-turismo-no-papal-durante-el-fin-de-semana-y-los-feriados-20261112-0036.html",
-        "image": "https://www.rosario3.com/__export/1794500459935/sites/rosario3/img/2026/11/12/colectividades2.jpg_1826522158.jpg",
-        "summary": "El movimiento en la provincia dejó un impacto de 20 mil millones de pesos y Rosario fue el epicentro con Colectividades y Ronnie Wood. A nivel nacional, se registró una movilización histórica por León XIV en Buenos Aires, Córdoba y Luján",
         "pubDate": "2026-11-12T11:54:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Detuvieron a Santino Alvarado, hijo del capo narco Esteban Alvarado",
-        "link": "https://www.rosario3.com/policiales/detuvieron-a-santino-alvarado-hijo-del-capo-narco-esteban-alvarado-20261112-0019.html",
-        "image": "https://www.rosario3.com/__export/1794503133238/sites/rosario3/img/2026/11/12/santino_alvarado.jpeg_928314580.jpeg",
-        "summary": "El joven rompió tres celulares al momento de la irrupción de la Policía Federal. Cayó en más de 30 allanamientos que se llevaron a cabo en la mañana de este jueves, principalmente en Rosario, Funes, Roldán y San Lorenzo",
+        "title": "Chiqui Tapia confirmó la continuidad de Lionel Scaloni en la selección argentina hasta el Mundial 2030",
+        "link": "https://www.rosario3.com/deportes/lionel-scaloni-confirmo-su-continuidad-en-la-seleccion-hasta-el-2030-20261112-0050.html",
+        "image": "https://www.rosario3.com/__export/1794512023656/sites/rosario3/img/2026/11/12/scaloni_con_chiqui.jpg_982625323.jpg",
+        "summary": "Antes del partido amistoso frente a Uruguay, el entrenador oriundo de Pujato se mostró feliz por renovar su contrato con la Asociación del Fútbol Argentino",
         "pubDate": "2026-11-12T11:53:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Le desvalijaron la peluquería en zona sur y se llevaron hasta el cabello que juntaba para donar pelucas a niñas con cáncer",
-        "link": "https://www.rosario3.com/informaciongeneral/le-desvalijaron-la-peluqueria-en-zona-sur-y-se-llevaron-hasta-el-cabello-que-juntaba-para-donar-pelucas-a-ninas-con-cancer-20261112-0034.html",
-        "image": "https://www.rosario3.com/__export/1794498798060/sites/rosario3/img/2026/11/12/ailin_peluquera.png_786111822.png",
-        "summary": "Tres delincuentes estuvieron unas tres horas dentro del local, ubicado sobre Comodoro Rivadavia al 2600. Se llevaron absolutamente todo: herramientas, productos, elementos de trabajo y hasta una bicicleta. Ailin, que hace 15 años trabaja en ese lugar, se quedó sin nada y…",
+        "title": "La emoción de Scaloni al recordar a su madre: \"Estoy feliz por la renovación a pesar de que no son momentos familiares fáciles\"",
+        "link": "https://www.rosario3.com/deportes/lionel-scaloni-hablara-en-conferencia-y-crece-la-expectativa-por-la-renovacion-de-su-contrato-con-la-seleccion-20261112-0004.html",
+        "image": "https://www.rosario3.com/__export/1794507515805/sites/rosario3/img/2026/11/12/scaloni.jpg_187871396.jpg",
+        "summary": "'Intento no emocionarme, intento no hablar de ella. Ya sufrimos mucho esta semana, fue una semana complicada. La felicidad por renovar es enorme, pero hubiera sido completa si ella lo hubiera visto', agregó el entrenador",
         "pubDate": "2026-11-12T11:52:00+00:00",
         "approxTime": true
       },
