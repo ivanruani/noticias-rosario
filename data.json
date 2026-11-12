@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T17:30:59.726208+00:00",
+  "generatedAt": "2026-11-12T18:01:11.348636+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,10 +141,55 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Central Córdoba se aseguró la continuidad de una de sus grandes figuras para la temporada 2027",
+        "link": "https://www.lacapital.com.ar/ovacion/central-cordoba-se-aseguro-la-continuidad-una-sus-grandes-figuras-la-temporada-2027-n10291860.html",
+        "image": "https://media.lacapital.com.ar/p/9c9e36beca4b84c7316044a3141f01d8/adjuntos/203/imagenes/103/527/0103527116/1200x675/smart/image.jpg",
+        "summary": "El Charrúa está en el reducido en búsqueda del segundo ascenso, pero los directivos ya trabajan para armar el plantel del próximo año",
+        "pubDate": "2026-11-12T17:45:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "En Netflix, una miniserie adolescente promete drama y misterio",
+        "link": "https://www.lacapital.com.ar/zoom/en-netflix-una-miniserie-adolescente-promete-drama-y-misterio-n10291851.html",
+        "image": "https://media.lacapital.com.ar/p/7bd25335bffae7c94a67afc7f543c195/adjuntos/203/imagenes/103/527/0103527024/1200x675/smart/image-36.png",
+        "summary": "A lo largo de 8 episodios, la nueva incorporación sigue a las estudiantes de una escuela católica cuando una fiesta de Halloween se sale de control",
+        "pubDate": "2026-11-12T17:26:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Ansés otorga hasta $390 mil a un grupo de beneficiarios: quiénes pueden acceder",
+        "link": "https://www.lacapital.com.ar/informacion-general/anses-otorga-390-mil-un-grupo-beneficiarios-quienes-pueden-acceder-n10291853.html",
+        "image": "https://media.lacapital.com.ar/p/2c6cb69e78398486205eeed94fd72cf9/adjuntos/203/imagenes/102/621/0102621116/1200x675/smart/anses-prestamo.webp",
+        "summary": "Esta ayuda económica está destinada a un grupo particular. Los montos del bono en noviembre varían entre $195.600 y $391.200.",
+        "pubDate": "2026-11-12T17:26:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Escribanos brindarán asesoramiento gratuito en cuatro puntos de Rosario: dónde y cuándo consultar",
+        "link": "https://www.lacapital.com.ar/la-ciudad/escribanos-brindaran-asesoramiento-gratuito-cuatro-puntos-rosario-donde-y-cuando-consultar-n10291856.html",
+        "image": "https://media.lacapital.com.ar/p/1ddb9a284f71c98184eef50ea0c01fd0/adjuntos/203/imagenes/024/178/0024178698/1200x675/smart/escribanojpg.jpg",
+        "summary": "La jornada se realizará este sábado, de 9 a 13. Se ofrecerá información sobre escrituras, herencias, donaciones, testamentos y otros trámites",
+        "pubDate": "2026-11-12T17:26:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Jugó en Central, se hizo hincha y reveló una anécdota increíble: \"Viví un mes en el hotel que pagó Newell's\"",
         "link": "https://www.lacapital.com.ar/ovacion/jugo-central-se-hizo-hincha-y-revelo-una-anecdota-increible-vivi-un-mes-el-hotel-que-pago-newells-n10290546.html",
         "image": "https://media.lacapital.com.ar/p/dc076d1f0962e845a1f83f0b83470209/adjuntos/203/imagenes/103/512/0103512880/1200x675/smart/juan-ramon-jara-y-la-camiseta-maradona.jpg",
         "summary": "El paraguayo Juan Ramón Jara, quien en sus inicios jugaba de \"9\" y actualmente vive en Asunción, recordó su arribo al Canalla: \"Fue lo mejor que me pasó\"",
+        "pubDate": "2026-11-12T17:25:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Fiesta de Colectividades: demoraron a 12 cuidacoches en operativos de control",
+        "link": "https://www.lacapital.com.ar/policiales/fiesta-colectividades-demoraron-12-cuidacoches-operativos-control-n10291822.html",
+        "image": "https://media.lacapital.com.ar/p/ea75b86ce6e3fd19d88421a72cdf2f21/adjuntos/203/imagenes/103/526/0103526737/1200x675/smart/cui.jpg",
+        "summary": "Los procedimientos se realizaron en distintos puntos del centro y la zona de la costa, en medio de la masiva celebración en el Parque Nacional a la Bandera. Uno de los demorados tenía antecedentes penales y dos condenas.",
         "pubDate": "2026-11-12T17:25:00+00:00",
         "approxTime": false
       },
@@ -227,51 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/12a427692b8b7e31057d5ad39dbd8a34/adjuntos/203/imagenes/103/526/0103526950/1200x675/smart/roldan-ferialibro4.jpeg",
         "summary": "Con entrada libre y gratuita, más de 20 stands y propuestas para todas las edades, el SUM del Paseo de la Estación recibe hasta el sábado 14, a los visitantes en el marco de los 160 años de la ciudad",
         "pubDate": "2026-11-12T15:42:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Villa Constitución realizó su primera Expo Carreras y Oficios: educación, formación y nuevas oportunidades",
-        "link": "https://www.lacapital.com.ar/la-region/villa-constitucion-realizo-su-primera-expo-carreras-y-oficios-educacion-formacion-y-nuevas-oportunidades-n10291835.html",
-        "image": "https://media.lacapital.com.ar/p/6e9d97e6747c78d36521f5530387572d/adjuntos/203/imagenes/103/526/0103526902/1200x675/smart/vc-expocarreras6.jpeg",
-        "summary": "La propuesta reunió a universidades, terciarios y centros de formación profesional para acercar a jóvenes y a toda la comunidad distintas alternativas de estudio, capacitación",
-        "pubDate": "2026-11-12T15:18:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Pami lleva adelante un plan integral de reformas en los policlínicos I y II de Rosario",
-        "link": "https://www.lacapital.com.ar/la-ciudad/pami-lleva-adelante-un-plan-integral-reformas-los-policlinicos-i-y-ii-rosario-n10291828.html",
-        "image": "https://media.lacapital.com.ar/p/4b52aea14eb3d81f26400cf44eecc0e6/adjuntos/203/imagenes/103/526/0103526846/1200x675/smart/whatsapp-image-2026-11-12-at-114653-1.jpeg",
-        "summary": "Luego de 20 años sin obras significativas, los nosocomios para jubilados tuvieron reformas de fondo",
-        "pubDate": "2026-11-12T15:05:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Fórmula 1: Racing Bulls confirmó a sus dos pilotos y sólo queda una butaca libre para 2027",
-        "link": "https://www.lacapital.com.ar/ovacion/formula-1-racing-bulls-confirmo-sus-dos-pilotos-y-solo-queda-una-butaca-libre-2027-n10291824.html",
-        "image": "https://media.lacapital.com.ar/p/6e85a450c14c4a631e69a1f5d0dadc82/adjuntos/203/imagenes/102/905/0102905351/1200x675/smart/image-34.jpg",
-        "summary": "Ante el anuncio de la continuidad de Arvid Lindblad y Liam Lawson, sólo queda un asiento de Haas sin piloto para la próxima temporada",
-        "pubDate": "2026-11-12T14:54:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Volvió a la UNR después de más de medio siglo y se recibió de ingeniero a los 79 años",
-        "link": "https://www.lacapital.com.ar/la-ciudad/volvio-la-unr-despues-mas-medio-siglo-y-se-recibio-ingeniero-los-79-anos-n10291823.html",
-        "image": "https://media.lacapital.com.ar/p/1472cb491e39a236d02ca3bffedb8cc0/adjuntos/203/imagenes/103/526/0103526764/1200x675/smart/juan-carlos-ingeniero.png",
-        "summary": "Juan Carlos Morelli regresó a estudiar después de 53 años, aprobó con diez la única materia que le faltaba para recibirse y cumplió su sueño",
-        "pubDate": "2026-11-12T14:43:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Milei calienta la interna con Bullrich con una sugestiva historia en Instagram",
-        "link": "https://www.lacapital.com.ar/politica/milei-calienta-la-interna-bullrich-una-sugestiva-historia-instagram-n10291818.html",
-        "image": "https://media.lacapital.com.ar/p/5510b00e6ee40f7eaca1efb34bd85522/adjuntos/203/imagenes/103/397/0103397757/1200x675/smart/patricia-bullrich-conferencia-prensa-rosario-web.png",
-        "summary": "El presidente y su hermana empiezan a poner límites a las indirectas de la senadora sobre una posible autonomía. Los gestos que se le volvieron en contra",
-        "pubDate": "2026-11-12T14:41:00+00:00",
         "approxTime": false
       }
     ]
