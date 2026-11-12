@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T22:01:04.882160+00:00",
+  "generatedAt": "2026-11-12T22:30:58.823929+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Congreso ganadero: \"El mundo demanda infinito\"",
+        "link": "https://www.lacapital.com.ar/agro/congreso-ganadero-el-mundo-demanda-infinito-n10291872.html",
+        "image": "https://media.lacapital.com.ar/p/6a9c3a0dcfdfe0bac210e574787137de/adjuntos/203/imagenes/103/527/0103527179/1200x675/smart/milano25.jpg",
+        "summary": "El presidente del Rosgan, Raúl Milano, destacó el buen momento por el que atraviesa el sector al inaugurar el encuentro que reunió en Rosario a los distintos actores de la cadena. El gobierno de Santa Fe presentó resultados de su plataforma gratuita de certificación de…",
+        "pubDate": "2026-11-12T22:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La provincia prohibió la venta de un café elaborado por Cabrales por no ser apto para el consumo",
+        "link": "https://www.lacapital.com.ar/la-ciudad/la-provincia-prohibio-la-venta-un-cafe-elaborado-cabrales-no-ser-apto-el-consumo-n10291925.html",
+        "image": "https://media.lacapital.com.ar/p/1625362fd8434e9ba3d380284e78a022/adjuntos/203/imagenes/103/527/0103527526/1200x675/smart/imagecabrales.jpg",
+        "summary": "El Ministerio de Salud de Santa Fe ordenó retirar de la comercialización tres lotes de café torrado de la marca La Planta de Café. Detectaron irregularidades en el envase que impiden garantizar su conservación y su condición de producto libre de gluten.",
+        "pubDate": "2026-11-12T22:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Gastón Ávila la sacó barata y sólo se pierde los octavos de final del Clausura",
         "link": "https://www.lacapital.com.ar/ovacion/gaston-avila-la-saco-barata-y-solo-se-pierde-los-octavos-final-del-clausura-n10291917.html",
         "image": "https://media.lacapital.com.ar/p/901bce3f7778194aa9890e6d424e3259/adjuntos/203/imagenes/103/527/0103527493/1200x675/smart/image-4-9.png",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/b64350899f4f6a95e972a9d23569304f/adjuntos/203/imagenes/103/160/0103160707/1200x675/smart/suicidios.jpg",
         "summary": "La cita es este viernes, a las 18, en el centro comunitario ubicado en Juan Canals 740, en la zona sur de Rosario. Es abierta y gratuita a toda la comunidad",
         "pubDate": "2026-11-12T18:52:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La caída de Santino Alvarado, entre la herencia del padre y los vínculos con el nuevo mapa criminal",
-        "link": "https://www.lacapital.com.ar/policiales/la-caida-santino-alvarado-la-herencia-del-padre-y-los-vinculos-el-nuevo-mapa-criminal-n10291867.html",
-        "image": "https://media.lacapital.com.ar/p/26c7b43f0c747201cdee1018afe2be31/adjuntos/203/imagenes/103/527/0103527212/1200x675/smart/santino.jpg",
-        "summary": "El hijo del jefe narco Esteban Alvarado fue aprehendido en el marco de una investigación federal por narcotráfico y lavado de activos",
-        "pubDate": "2026-11-12T18:51:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Anmat prohibió un alcohol etílico por falta de registros",
-        "link": "https://www.lacapital.com.ar/informacion-general/anmat-prohibio-un-alcohol-etilico-falta-registros-n10291875.html",
-        "image": "https://media.lacapital.com.ar/p/bfb954016d27ecfe4d8b9bbb9cd63379/adjuntos/203/imagenes/103/527/0103527214/1200x675/smart/image-38.png",
-        "summary": "El producto no se encontraba registrado ante el organismo y se comercializaba bajo una categoría que no le correspondía",
-        "pubDate": "2026-11-12T18:48:00+00:00",
         "approxTime": false
       }
     ]
