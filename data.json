@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T15:30:58.400219+00:00",
+  "generatedAt": "2026-11-12T16:01:09.658932+00:00",
   "sites": {
     "rosario3": [
       {
@@ -42,9 +42,27 @@
         "source": "Rosario3",
         "title": "Los datos que contradicen la política antimigrante de Milei, la “democracia oxidada” y la persecución roja",
         "link": "https://www.rosario3.com/informaciongeneral/los-datos-que-contradicen-la-politica-antimigrante-de-milei-la-democracia-oxidada-y-la-persecucion-roja-20261111-0034.html",
-        "image": "https://www.rosario3.com/__export/1794414734190/sites/rosario3/img/2026/11/11/migre_1.jpg_134266852.jpg",
+        "image": "https://www.rosario3.com/__export/1794414734190/sites/rosario3/img/2026/11/11/migre_1.jpg_1046610295.jpg",
         "summary": "La proporción de extranjeros en Argentina bajó del 5% en 1991 al 4,5% en 2010 y al 4,2% en 2022, pero el actual gobierno construye el relato de una amenaza, afirmó la especialista Dolores Linares. Esa ofensiva se ve en el caso de las trabajadoras sexuales migrantes, contó…",
         "pubDate": "2026-11-11T11:56:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "La FIA confirmó el cronograma para el regreso del Rally Mundial a la Argentina en 2028",
+        "link": "https://www.rosario3.com/deportes/la-fia-confirmo-el-cronograma-para-el-regreso-del-rally-mundial-a-la-argentina-en-2028-20261112-0035.html",
+        "image": "https://www.rosario3.com/__export/1794498218082/sites/rosario3/img/2026/11/12/rally_argentina.jpg_928314580.jpg",
+        "summary": "La entidad rectora del automovilismo anunció la realización de una prueba candidata en Córdoba para marzo de 2027, dentro del calendario sudamericano Codasur. De superar las evaluaciones técnicas y de seguridad, el certamen regresará al país tras nueve años de ausencia",
+        "pubDate": "2026-11-12T11:55:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "La Provincia incorporó nueva maquinaria para tareas hídricas y coordinan acciones ante la crecida del río Paraná",
+        "link": "https://www.rosario3.com/informaciongeneral/la-provincia-incorporo-nueva-maquinaria-para-tareas-hidricas-y-coordinan-acciones-ante-la-crecida-del-rio-parana-20261112-0033.html",
+        "image": "https://www.rosario3.com/__export/1794497713530/sites/rosario3/img/2026/11/12/maquinaria.jpg_928314580.jpg",
+        "summary": "El gobierno santafesino presentó dos retroexcavadoras de brazo largo que completan una compra de ocho equipos por más de 2.000 millones de pesos. En paralelo, el Comité Operativo Interministerial evalúa el avance del caudal del río, que proyecta alcanzar un pico de hasta seis…",
+        "pubDate": "2026-11-12T11:54:00+00:00",
         "approxTime": true
       },
       {
@@ -53,24 +71,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/al-menos-1-muerto-y-10-heridos-tras-derrumbarse-un-edificio-de-tres-plantas-en-nueva-york-20261111-0049.html",
         "image": "https://www.rosario3.com/__export/1794482840966/sites/rosario3/img/2026/11/12/brooklyn.jpg_222590872.jpg",
         "summary": "El inmueble de tres plantas ubicado en el distrito de Brooklyn se vino abajo por completo con varios residentes en su interior. De acuerdo a la última actualización del New York Times, al menos ocho personas perdieron la vida",
-        "pubDate": "2026-11-11T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La Fiesta de Colectividades suma una noche y se extiende hasta el próximo lunes",
-        "link": "https://www.rosario3.com/informaciongeneral/por-la-alerta-meteorologica-suspendieron-la-quinta-jornada-de-colectividades-en-rosario-20261110-0075.html",
-        "image": "https://www.rosario3.com/__export/1780942042797/sites/rosario3/img/2025/11/11/colectividades_2025.jpg_506286608.jpg",
-        "summary": "La organización confirmó que el encuentro en el Parque Nacional a la Bandera agregará una jornada adicional para compensar la suspensión del martes por el alerta meteorológico. La medida busca respaldar la actividad gastronómica y artística de las más de 50 delegaciones…",
-        "pubDate": "2026-11-10T11:54:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Los cines de Rosario renuevan su cartelera con dos producciones nacionales y seis estrenos internacionales",
-        "link": "https://www.rosario3.com/ocio/los-cines-de-rosario-renuevan-su-cartelera-con-dos-producciones-nacionales-y-seis-estrenos-internacionales-20261111-0051.html",
-        "image": "https://www.rosario3.com/__export/1794428632203/sites/rosario3/img/2026/11/11/photo-collage_png.png_506286608.png",
-        "summary": "Las salas de la ciudad proyectan desde este jueves Caballo salvaje nueve, Cómo robar un banco, Perfume, Ebenezer: los fantasmas de Navidad, Aniquilación, Por el bien de Adam, Plumas: operación rescate y Encantador",
         "pubDate": "2026-11-11T11:53:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,33 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "La dolorosa pérdida de Gladys, la bomba tucumana: \"Tenías apenas 12 añitos y tanto por vivir\"",
+        "link": "https://www.lacapital.com.ar/zoom/la-dolorosa-perdida-gladys-la-bomba-tucumana-tenias-apenas-12-anitos-y-tanto-vivir-n10291838.html",
+        "image": "https://media.lacapital.com.ar/p/c6687376461b93f8b22f1bfcb1243f44/adjuntos/203/imagenes/103/526/0103526952/1200x675/smart/image-2026-11-12t124926515.png",
+        "summary": "La cantante compartió en sus redes sociales un emotivo mensaje de despedida para su sobrino Ian y expresó el dolor que atraviesa su familia",
+        "pubDate": "2026-11-12T15:55:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Drástico aumento de casos de viruela del mono en Brasil: qué deben tener en cuenta los viajeros",
+        "link": "https://www.lacapital.com.ar/la-ciudad/drastico-aumento-casos-viruela-del-mono-brasil-que-deben-tener-cuenta-los-viajeros-n10291600.html",
+        "image": "https://media.lacapital.com.ar/p/13f95bc541dfacc5a916fb8a8aa49f9e/adjuntos/203/imagenes/103/524/0103524701/1200x675/smart/viruela-del-mono.jpg",
+        "summary": "El ministerio de Salud aún no emitió un alerta pero los médicos advierten sobre los cuidados necesarios para quienes vayan al vecino país. Formas de contagio",
+        "pubDate": "2026-11-12T15:54:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Comenzó la quinta edición de la Feria del Libro de Roldán",
+        "link": "https://www.lacapital.com.ar/la-region/comenzo-la-quinta-edicion-la-feria-del-libro-roldan-n10291839.html",
+        "image": "https://media.lacapital.com.ar/p/12a427692b8b7e31057d5ad39dbd8a34/adjuntos/203/imagenes/103/526/0103526950/1200x675/smart/roldan-ferialibro4.jpeg",
+        "summary": "Con entrada libre y gratuita, más de 20 stands y propuestas para todas las edades, el SUM del Paseo de la Estación recibe hasta el sábado 14, a los visitantes en el marco de los 160 años de la ciudad",
+        "pubDate": "2026-11-12T15:42:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Villa Constitución realizó su primera Expo Carreras y Oficios: educación, formación y nuevas oportunidades",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/36ae55e0f4c783f528b221580abb69fd/adjuntos/203/imagenes/103/526/0103526451/1200x675/smart/image-2026-11-12t101953514.jpg",
         "summary": "La actriz y el cantante de 27 años estuvieron en Olga promocionando la segunda temporada de la serie vertical que ambos protagonizan, y hablaron de su relación",
         "pubDate": "2026-11-12T12:51:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cuidacoches en Rosario: dejan de lado las excepciones para reglamentar la prohibición",
-        "link": "https://www.lacapital.com.ar/la-ciudad/cuidacoches-rosario-dejan-lado-las-excepciones-reglamentar-la-prohibicion-n10291763.html",
-        "image": "https://media.lacapital.com.ar/p/23b701b782019c6c4f5e1318a9668ede/adjuntos/203/imagenes/103/048/0103048194/1200x675/smart/cuidacoches.jpg",
-        "summary": "El oficialismo se mostró dispuesto a eliminar un artículo del proyecto de ordenanza que permite la actividad en ciertos sectores y circunstancias",
-        "pubDate": "2026-11-12T12:09:44+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Detuvieron al hijo del narco Esteban Alvarado en el marco de una serie de allanamientos",
-        "link": "https://www.lacapital.com.ar/policiales/detuvieron-al-hijo-del-narco-esteban-alvarado-el-marco-una-serie-allanamientos-n10291787.html",
-        "image": "https://media.lacapital.com.ar/p/834f0ced83805dbaa794326c2ebb9dd3/adjuntos/203/imagenes/100/765/0100765575/1200x675/smart/federaljpg.jpg",
-        "summary": "Santino Alvarado está bajo investigación en la justicia de Santa Fe en una causa por armas y en la justicia federal por narcotráfico. Hubo procedimientos en Rosario y San Lorenzo",
-        "pubDate": "2026-11-12T12:09:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La Oficina Municipal del Consumidor valoró el trabajo de abogados especializados",
-        "link": "https://www.lacapital.com.ar/la-ciudad/la-oficina-municipal-del-consumidor-valoro-el-trabajo-abogados-especializados-n10291783.html",
-        "image": "https://media.lacapital.com.ar/p/efe3e065444cfb5c2e7ecf654840bf86/adjuntos/203/imagenes/103/526/0103526311/1200x675/smart/image-2026-11-12t084152545.png",
-        "summary": "El organismo municipal aclaró que reconoce el aporte de los profesionales que se dedican a derechos del consumidor y recordó que ofrece asesoramiento legal gratuito para iniciar reclamos",
-        "pubDate": "2026-11-12T12:02:00+00:00",
         "approxTime": false
       }
     ]
