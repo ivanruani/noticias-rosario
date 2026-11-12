@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T10:01:07.492586+00:00",
+  "generatedAt": "2026-11-12T10:31:01.598084+00:00",
   "sites": {
     "rosario3": [
       {
@@ -22,19 +22,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "Quedó preso tiratiros rosarino por un crimen mafioso en el Cordón Industrial",
-        "link": "https://www.rosario3.com/policiales/quedo-preso-tiratiros-rosarino-por-un-crimen-mafioso-en-el-cordon-industrial-20261111-0076.html",
-        "image": "https://www.rosario3.com/__export/1794438174281/sites/rosario3/img/2026/11/09/angel_v_detenido.jpeg_672794305.jpeg",
-        "summary": "Lo imputaron por integrar la patota que el domingo ejecutó a un joven en San Lorenzo e hirió a otros dos. Luego del ataque, prendieron fuego un auto, pero terminó retenido por vecinos luego de que intentara robar una moto para escapar. Investigan vínculos con presos dedicados a…",
-        "pubDate": "2026-11-11T11:58:00+00:00",
+        "title": "El clima en Rosario: jueves de sol pleno antes de una seguidilla de días grises y lluviosos",
+        "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-jueves-de-sol-pleno-antes-de-una-seguidilla-de-dias-grises-y-lluviosos-20261112-0001.html",
+        "image": "https://www.rosario3.com/__export/1774784709526/sites/rosario3/img/2026/03/29/calro_1.jpg_1825222445.jpg",
+        "summary": "El Servicio Meteorológico Nacional anticipa una jornada cálida y mayormente estable en la región. Las marcas térmicas continuarán hacia arriba",
+        "pubDate": "2026-11-12T11:58:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Ciervos en Rosario: por qué aparecen animales silvestres en plena ciudad",
-        "link": "https://www.rosario3.com/informaciongeneral/ciervos-en-rosario-por-que-aparecen-animales-silvestres-en-plena-ciudad-20261111-0045.html",
-        "image": "https://www.rosario3.com/__export/1794422600643/sites/rosario3/img/2026/11/11/ciervo_rosario_am.jpg_884507103.jpg",
-        "summary": "El avistamiento y rescate de ejemplares en barrio Alberdi y el Club Rowing reabrió el debate sobre el estrecho vínculo entre la trama urbana y el ecosistema ribereño. De la crecida del Paraná a la pérdida de hábitat, las causas de un fenómeno recurrente",
+        "title": "Quedó preso tiratiros rosarino por un crimen mafioso en el Cordón Industrial",
+        "link": "https://www.rosario3.com/policiales/quedo-preso-tiratiros-rosarino-por-un-crimen-mafioso-en-el-cordon-industrial-20261111-0076.html",
+        "image": "https://www.rosario3.com/__export/1794438174281/sites/rosario3/img/2026/11/09/angel_v_detenido.jpeg_672794305.jpeg",
+        "summary": "Lo imputaron por integrar la patota que el domingo ejecutó a un joven en San Lorenzo e hirió a otros dos. Luego del ataque, prendieron fuego un auto, pero terminó retenido por vecinos luego de que intentara robar una moto para escapar. Investigan vínculos con presos dedicados a…",
         "pubDate": "2026-11-11T11:57:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Estrenos de cine en Rosario: el regreso de Johnny Depp, acción y suspenso",
+        "link": "https://www.lacapital.com.ar/zoom/estrenos-cine-rosario-el-regreso-johnny-depp-accion-y-suspenso-n10291687.html",
+        "image": "https://media.lacapital.com.ar/p/11713b1063e83340a4a3cef0fd9b5f52/adjuntos/203/imagenes/103/525/0103525175/1200x675/smart/image-2026-11-11t161004531.png",
+        "summary": "Títulos para todos los gustos desembarcan en las salas de cine de la ciudad este jueves 12 de noviembre. Promociones y descuentos a la hora de sacar entradas",
+        "pubDate": "2026-11-12T10:00:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Crece el ausentismo escolar en Santa Fe: casi la mitad de los alumnos termina la secundaria con 15 faltas o más",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/02aeb9a38e8890e76c518d0db821e47b/adjuntos/203/imagenes/100/137/0100137593/1200x675/smart/el-juicio-se-desarrollo-los-tribunales-provinciales-san-lorenzo.jpg",
         "summary": "Tiene 42 años y está acusado de privación ilegal de la libertad, tenencia de arma y amenazas. Entre enero de 2023 y diciembre de 2024 la mujer vivió sometida a un \"régimen de vigilancia constante\"",
         "pubDate": "2026-11-12T00:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "De barrio Industrial al Papa León XIV, con las hormigas del Pocho como bandera",
-        "link": "https://www.lacapital.com.ar/la-ciudad/de-barrio-industrial-al-papa-leon-xiv-las-hormigas-del-pocho-como-bandera-n10291696.html",
-        "image": "https://media.lacapital.com.ar/p/ff21416b8f9b062271c51cd6b5e6ef22/adjuntos/203/imagenes/103/525/0103525792/whatsapp-image-2026-11-11-at-161622.jpeg",
-        "summary": "Mariano es sacerdote en barrio Industrial y eligió ver la misa en Luján con la camiseta del oratorio San Cayetano, que lleva las hormigas que identifican la lucha de Claudio “Pocho” Lepratti",
-        "pubDate": "2026-11-11T23:46:00+00:00",
         "approxTime": false
       }
     ]
