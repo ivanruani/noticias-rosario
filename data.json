@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T22:30:58.823929+00:00",
+  "generatedAt": "2026-11-12T23:01:10.281184+00:00",
   "sites": {
     "rosario3": [
       {
@@ -40,11 +40,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Un flete volcó tras perder el control en la pronunciada subida de Costa Alta",
+        "link": "https://www.rosario3.com/informaciongeneral/un-flete-volco-tras-perder-el-control-en-la-pronunciada-subida-de-costa-alta-20261112-0071.html",
+        "image": "https://www.rosario3.com/__export/1794518116581/sites/rosario3/img/2026/11/12/vuelco_flete.jpeg_1825222445.jpeg",
+        "summary": "El vehículo intentaba subir con ayuda de una camioneta cuando se cortó la linga de remolque. Sus dos ocupantes salieron por sus propios medios y no sufrieron heridas de consideración",
+        "pubDate": "2026-11-12T11:56:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Polémica en Rafaela: el intendente se filmó expulsando de una plaza a una persona en situación de calle y luego dio explicaciones",
         "link": "https://www.rosario3.com/informaciongeneral/polemica-en-rafaela-el-intendente-se-filmo-expulsando-de-una-plaza-a-una-persona-en-situacion-de-calle-y-luego-dio-explicaciones-20261112-0049.html",
         "image": "https://www.rosario3.com/__export/1794508212182/sites/rosario3/img/2026/11/12/viotti.jpg_1768679257.jpg",
         "summary": "Las redes sociales viralizaron el contenido que publicó Leonardo Viotti y se armó un debate. Tras el revuelo, la máxima autoridad municipal contextualizó lo ocurrido",
-        "pubDate": "2026-11-12T11:56:00+00:00",
+        "pubDate": "2026-11-12T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -53,15 +62,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/docentes-de-la-unr-definieron-un-paro-durante-toda-la-semana-proxima-20261112-0062.html",
         "image": "https://www.rosario3.com/__export/1791983121897/sites/rosario3/img/2026/05/12/unr.jpg_928314581.jpg",
         "summary": "La medida de fuerza, del 16 al 21 de noviembre, fue resuelta por Coad en reclamo por el cumplimiento de la Ley de Financiamiento Universitario y la convocatoria a paritarias. Además, llamaron a un Cabildo Abierto en Rosario",
-        "pubDate": "2026-11-12T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Piden testigos de un choque en Circunvalación: un camión embistió a una familia y escapó",
-        "link": "https://www.rosario3.com/informaciongeneral/piden-testigos-de-un-choque-en-circunvalacion-un-camion-embistio-a-una-familia-y-escapo-20261112-0040.html",
-        "image": "https://www.rosario3.com/__export/1794503355437/sites/rosario3/img/2026/11/12/screenshot_2026-11-12_140645_edited.png_928314580.png",
-        "summary": "El siniestro ocurrió el miércoles al mediodía, mano al norte y cerca de la bajada de Presidente Perón. En el auto viajaban una pareja y su hija de cuatro años, que recibió puntos en la cabeza. Buscan identificar al camionero para avanzar con los trámites del seguro",
         "pubDate": "2026-11-12T11:54:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Rosario tendrá el Paseo de los Campeones del Mundo, para homenajear a los que levantaron la Copa",
+        "link": "https://www.lacapital.com.ar/la-ciudad/rosario-tendra-el-paseo-los-campeones-del-mundo-homenajear-los-que-levantaron-la-copa-n10291927.html",
+        "image": "https://media.lacapital.com.ar/p/70cfd37173c49e83a8d4a15d2276838a/adjuntos/203/imagenes/103/527/0103527561/2026-11-12-messi-y-di-maria.jpg",
+        "summary": "Son cinco plazas que rescatan las raíces barriales de los futbolistas rosarinos campeones con la albiceleste en 1978, 1986 y 2022",
+        "pubDate": "2026-11-12T22:51:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La reserva de Central no aguantó el triunfo ante River y se complicó para clasificar en la última fecha",
+        "link": "https://www.lacapital.com.ar/ovacion/la-reserva-central-no-aguanto-el-triunfo-river-y-se-complico-clasificar-la-ultima-fecha-n10291931.html",
+        "image": "https://media.lacapital.com.ar/p/2bfce7980c3451de9b38af3fb2d88b2c/adjuntos/203/imagenes/103/527/0103527596/1200x675/smart/image-4-11.png",
+        "summary": "Central venía ganando en el primer tiempo y hasta erró un penal, pero River se lo igualó en el complementó y lo dejó al límite.",
+        "pubDate": "2026-11-12T22:43:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Congreso ganadero: \"El mundo demanda infinito\"",
         "link": "https://www.lacapital.com.ar/agro/congreso-ganadero-el-mundo-demanda-infinito-n10291872.html",
         "image": "https://media.lacapital.com.ar/p/6a9c3a0dcfdfe0bac210e574787137de/adjuntos/203/imagenes/103/527/0103527179/1200x675/smart/milano25.jpg",
@@ -171,7 +189,7 @@
         "title": "Rosario despide a una histórica luchadora por los derechos humanos: murió Alicia Lesgart a los 76 años",
         "link": "https://www.lacapital.com.ar/la-ciudad/rosario-despide-una-historica-luchadora-los-derechos-humanos-murio-alicia-lesgart-los-76-anos-n10291919.html",
         "image": "https://media.lacapital.com.ar/p/93ea83c7c59c572d45e5f5c8ee829cd4/adjuntos/203/imagenes/103/527/0103527490/1200x675/smart/imagealicia.jpg",
-        "summary": "Fue docente, militante gremial y referente de los organismos de derechos humanos. Durante la dictadura recopiló testimonios sobre el terrorismo de Estado que luego contribuyeron a los juicios contra los represores. Era madre del entrenador de fútbol Mariano Soso.",
+        "summary": "Fue docente, militante gremial y referente de los organismos de derechos humanos. Durante la dictadura recopiló testimonios sobre el terrorismo de Estado que luego contribuyeron a los juicios contra los represores. Era madre del entrenador de fútbol Mariano Soso",
         "pubDate": "2026-11-12T21:47:00+00:00",
         "approxTime": false
       },
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/8563fbe7f25b244d0f4bb93d860b825a/adjuntos/203/imagenes/103/159/0103159923/1200x675/512x315:532x335/mayorista.jpg",
         "summary": "El Indice de Precios al Consumidor fue del mes pasado subió 2,2% y acumula 26,3% en lo que va del año . El rubro de vivienda y servicios, asociado al precio de tarifas y alquileres, encabezó las alzas. El rubro alimentos aumentó 2%",
         "pubDate": "2026-11-12T19:13:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Anmat prohibió un medicamento a base de cannabis sin registros",
-        "link": "https://www.lacapital.com.ar/informacion-general/anmat-prohibio-un-medicamento-base-cannabis-registros-n10291880.html",
-        "image": "https://media.lacapital.com.ar/p/a92c3df0b9c2931426d1788610f60e26/adjuntos/203/imagenes/103/527/0103527216/1200x675/smart/image-39.png",
-        "summary": "El producto no se encontraba registrado ante el organismo, ni contaba con la autorización sanitaria correspondiente",
-        "pubDate": "2026-11-12T19:09:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La vecinal del barrio de Lionel Messi invita a una charla de salud mental y prevención del suicidio",
-        "link": "https://www.lacapital.com.ar/la-ciudad/la-vecinal-del-barrio-lionel-messi-invita-una-charla-salud-mental-y-prevencion-del-suicidio-n10291873.html",
-        "image": "https://media.lacapital.com.ar/p/b64350899f4f6a95e972a9d23569304f/adjuntos/203/imagenes/103/160/0103160707/1200x675/smart/suicidios.jpg",
-        "summary": "La cita es este viernes, a las 18, en el centro comunitario ubicado en Juan Canals 740, en la zona sur de Rosario. Es abierta y gratuita a toda la comunidad",
-        "pubDate": "2026-11-12T18:52:00+00:00",
         "approxTime": false
       }
     ]
