@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T21:01:06.364526+00:00",
+  "generatedAt": "2026-11-13T21:31:09.212905+00:00",
   "sites": {
     "rosario3": [
       {
@@ -103,11 +103,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Explosión en Lanús por la rotura de un caño de gas: al menos un muerto, 30 heridos y 2 desaparecidos",
+        "link": "https://www.rosario3.com/informaciongeneral/explosion-e-incendio-en-lanus-por-la-rotura-de-un-cano-maestro-de-gas-durante-una-reparacion-20261113-0028.html",
+        "image": "https://www.rosario3.com/__export/1794595801229/sites/rosario3/img/2026/11/13/gas.jpg_1768679257.jpg",
+        "summary": "Una máquina rompió un caño de gas y provocó una explosión durante la mañana de este viernes. Hay varias dotaciones de bomberos para controlar el incendio. El director de Defensa Civil de Lanús confirmó que hay dos detenidos, empleados",
+        "pubDate": "2026-11-13T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Una jubilada lleva más de un mes presa por intentar llevarse un corte de carne de un supermercado",
         "link": "https://www.rosario3.com/policiales/una-jubilada-lleva-mas-de-un-mes-presa-por-intentar-llevarse-un-corte-de-carne-de-un-supermercado-20261113-0045.html",
         "image": "https://www.rosario3.com/__export/1794600306678/sites/rosario3/img/2026/11/13/policia.jpg_1768679258.jpg",
         "summary": "Estela Chávez fue detenida el 8 de octubre en un supermercado de San Fernando, provincia de Buenos Aires. Su familia reclama que la liberen y denuncia las condiciones precarias en las que permanece alojada en una alcaidía de Chacarita",
-        "pubDate": "2026-11-13T11:49:00+00:00",
+        "pubDate": "2026-11-13T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,16 +125,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/viernes-con-calor-de-verano-la-semana-cerrara-con-temperatura-superior-a-los-30-y-tormentas-20261112-0073.html",
         "image": "https://www.rosario3.com/__export/1778062080880/sites/rosario3/img/2025/01/24/lluvia.jpg_928314580.jpg",
         "summary": "La temperatura máxima alcanzó lo 33 grados por la tarde. Además, el Servicio Meteorológico Nacional pronostica tormentas y precipitaciones desde la tarde y hasta la mañana del sábado. El aviso contempla a todo el centro-sur de la provincia de Santa Fe. Cómo seguirá el tiempo…",
-        "pubDate": "2026-11-12T11:48:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Explosión en Lanús por la rotura de un caño de gas: hay dos detenidos y seis heridos graves",
-        "link": "https://www.rosario3.com/informaciongeneral/explosion-e-incendio-en-lanus-por-la-rotura-de-un-cano-maestro-de-gas-durante-una-reparacion-20261113-0028.html",
-        "image": "https://www.rosario3.com/__export/1794595801229/sites/rosario3/img/2026/11/13/gas.jpg_1768679257.jpg",
-        "summary": "Una máquina rompió un caño de gas y provocó una explosión: hay 21 heridos y seis están graves. Hay varias dotaciones de bomberos para controlar el incendio. El director de Defensa Civil de Lanús confirmó que hay dos detenidos",
-        "pubDate": "2026-11-13T11:47:00+00:00",
+        "pubDate": "2026-11-12T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -141,11 +141,38 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El Servicio Meteorológico Nacional emitió un alerta naranja por tormentas para Rosario",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-servicio-meteorologico-nacional-emitio-un-alerta-naranja-tormentas-rosario-n10292095.html",
+        "image": "https://media.lacapital.com.ar/p/ba7b971ed51e027062ae693d44748484/adjuntos/203/imagenes/100/661/0100661363/1200x675/smart/lluvia-tormenta-el-tiempo.jpg",
+        "summary": "La advertencia incluye a todo el centro y el sur de la provincia, área en la que se esperan acumulados considerables de precipitaciones y vientos con ráfagas",
+        "pubDate": "2026-11-13T21:23:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Clínicas y sanatorios de todo el país se reunieron en Rosario y piden extender la emergencia sanitaria",
+        "link": "https://www.lacapital.com.ar/clinicas-y-sanatorios-todo-el-pais-se-reunieron-rosario-y-piden-extender-la-emergencia-sanitaria-n10292061.html",
+        "image": "https://media.lacapital.com.ar/p/ac3bf9bc1e991c8ecabf8fdb2e11f11f/adjuntos/203/imagenes/103/529/0103529362/1200x675/smart/salud-privada-1311-1.jpg",
+        "summary": "La Asociación Civil Salud Federal, presidida por el rosarino Rodrigo Sánchez Almeyra, advirtió que 6.000 empresas podrían cerrar si no se renueva la medida",
+        "pubDate": "2026-11-13T20:56:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Milei respaldó al nuevo presidente de Paraguay y acordaron una reunión",
         "link": "https://www.lacapital.com.ar/politica/milei-respaldo-al-nuevo-presidente-paraguay-y-acordaron-una-reunion-n10292081.html",
         "image": "https://media.lacapital.com.ar/p/7fee048e34e8d657cb5fe9070fd505f4/adjuntos/203/imagenes/103/490/0103490444/1200x675/smart/milei-fundacion-faro.jpg",
         "summary": "El mandatario argentino expresó su apoyo a Pedro Alliana. Ambos podrían verse en Buenos Aires o Asunción para hablar sobre cooperación política, económica y comercial",
         "pubDate": "2026-11-13T20:53:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Clima y agro: la crecida del río Paraná avanza sobre campos bajos y preocupa su duración",
+        "link": "https://www.lacapital.com.ar/agro/clima-y-agro-la-crecida-del-rio-parana-avanza-campos-bajos-y-preocupa-su-duracion-n10292089.html",
+        "image": "https://media.lacapital.com.ar/p/d73cc146d33fc4e77eb5f612319dc023/adjuntos/203/imagenes/101/139/0101139912/1200x675/smart/crecida-ganado-2jpg.jpg",
+        "summary": "En el norte santafesino, en la zona de Villa Ocampo, los campos bajos comenzaron a inundarse y los productores debieron retirar hacienda hacia tierras más elevadas. Preocupación por las alertas de tormentas este fin de semana",
+        "pubDate": "2026-11-13T19:55:00+00:00",
         "approxTime": false
       },
       {
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/ae170e25fc3ca679da9c9014ecf9b945/adjuntos/203/imagenes/102/068/0102068733/1200x675/smart/gomezcmljpg.jpg",
         "summary": "El ex-Central regresó a las canchas luego del periplo legal que atravesó y anotó dos goles para un equipo de las categorías semiprofesionales de Estados Unidos",
         "pubDate": "2026-11-13T15:39:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Políticos en Redes: el \"alma misionera\" de Amalia, anticucho socialista y amor del '96",
-        "link": "https://www.lacapital.com.ar/politica/politicos-redes-el-alma-misionera-amalia-anticucho-socialista-y-amor-del-96-n10292018.html",
-        "image": "https://media.lacapital.com.ar/p/d205c1a6e828eba903f66c9e8a143338/adjuntos/203/imagenes/103/529/0103529158/1200x675/smart/amalia-2.jpg",
-        "summary": "Un espacio de La Capital que busca mostrar y analizar algunos contenidos de redes sociales de los políticos",
-        "pubDate": "2026-11-13T15:36:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Piden 10 días de prisión para la rosarina que increpó y escupió a Lilia Lemoine en el Monumento",
-        "link": "https://www.lacapital.com.ar/la-ciudad/piden-10-dias-prision-la-rosarina-que-increpo-y-escupio-lilia-lemoine-el-monumento-n10292010.html",
-        "image": "https://media.lacapital.com.ar/p/3b10dd0959a7c1a3f646684b01f71faf/adjuntos/203/imagenes/103/227/0103227090/1200x675/smart/lilia.jpg",
-        "summary": "El incidente, ocurrido el 20 de junio pasado cuando Milei encabezaba un acto oficial, llegó a la Justicia impulsado por la diputada nacional",
-        "pubDate": "2026-11-13T15:09:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Quiénes pueden acceder a la Asignación por Matrimonio de Ansés y cuánto se paga en noviembre",
-        "link": "https://www.lacapital.com.ar/informacion-general/quienes-pueden-acceder-la-asignacion-matrimonio-anses-y-cuanto-se-paga-noviembre-n10292003.html",
-        "image": "https://media.lacapital.com.ar/p/2c6cb69e78398486205eeed94fd72cf9/adjuntos/203/imagenes/102/621/0102621116/1200x675/smart/anses-prestamo.webp",
-        "summary": "Existe una ayuda económica que ciertos grupos pueden solicitar y se relaciona con el matrimonio. Los detalles, en esta nota",
-        "pubDate": "2026-11-13T14:59:00+00:00",
         "approxTime": false
       }
     ]
