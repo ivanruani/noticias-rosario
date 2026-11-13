@@ -1,14 +1,32 @@
 {
-  "generatedAt": "2026-11-13T19:30:53.413734+00:00",
+  "generatedAt": "2026-11-13T20:01:06.983312+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Perpetua para tres por el crimen del policía César Carmona: lo siguieron desde una financiera y lo ejecutaron frente a la PDI para robarle",
+        "link": "https://www.rosario3.com/policiales/perpetua-para-tres-por-el-crimen-del-policia-cesar-carmona-lo-siguieron-desde-una-financiera-y-lo-ejecutaron-frente-a-la-pdi-para-robarle-20261113-0041.html",
+        "image": "https://www.rosario3.com/__export/1794597406163/sites/rosario3/img/2023/09/14/hallazgo_c3_sanchez_de_bustamante_al_400.jpg_28271919.jpg",
+        "summary": "El inspector fue asesinado a tiros el 14 de septiembre de 2023, cuando llegaba a su lugar de trabajo luego de hacer adicionales en una financiera. La investigación estableció que dos autos lo persiguieron desde el centro y que el ataque fue una emboscada para robarle el bolso",
+        "pubDate": "2026-11-13T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Esteban Alvarado recargado: vuelos con cocaína más la compra de vehículos y propiedades, la nueva acusación en su contra",
         "link": "https://www.rosario3.com/policiales/esteban-alvarado-recargado-vuelos-con-cocaina-mas-la-compra-de-vehiculos-y-propiedades-la-nueva-acusacion-en-su-contra-20261113-0035.html",
         "image": "https://www.rosario3.com/__export/1794586160625/sites/rosario3/img/2024/10/09/esteban_lindor_alvarado.jpg_636310389.jpg",
         "summary": "El capo narco, que se encuentra alojado en el penal federal de Ezeiza, fue indagado en la mañana de este viernes como líder de una asociación ilícita que tenía como retransmisores de sus mensajes a su hijo Santino y a su abogado Claudio Tavella, ambos detenidos en los…",
-        "pubDate": "2026-11-13T12:00:00+00:00",
+        "pubDate": "2026-11-13T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Por el mal tiempo, suspendieron la noche de Colectividades de este viernes en Rosario",
+        "link": "https://www.rosario3.com/informaciongeneral/por-el-mal-tiempo-suspendieron-la-noche-de-colectividades-de-este-viernes-en-rosario-20261113-0043.html",
+        "image": "https://www.rosario3.com/__export/1794597528594/sites/rosario3/img/2024/11/08/colectividades_alemania.jpg_928314581.jpg",
+        "summary": "La comisión organizadora resolvió cancelar la jornada ante el pronóstico de tormentas durante la tarde, la noche y la madrugada del sábado. La fiesta continuará este sábado en el Parque Nacional a la Bandera, si las condiciones meteorológicas lo permiten",
+        "pubDate": "2026-11-13T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -17,24 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/la-crecida-del-parana-con-invasion-de-camalotes-altero-la-costa-rosarina-y-complico-la-toma-de-aguas-20261113-0034.html",
         "image": "https://www.rosario3.com/__export/1794586626023/sites/rosario3/img/2026/11/13/crecida_del_paranx_2b.jpg_1075653382.jpg",
         "summary": "El río subió a 4,66 metros este viernes al mediodía y la corriente traía las típicas plantas acuáticas flotantes desde el norte. Además de copar las playas de la Rambla, La Florida y los clubes, esa vegetación acumulada obligó detener el suministro de la planta potabilizadora…",
-        "pubDate": "2026-11-13T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Rosario tendrá un programa para informar y acompañar a quienes quieran adoptar: de qué se trata la iniciativa aprobada en el Concejo",
-        "link": "https://www.rosario3.com/informaciongeneral/rosario-tendra-un-programa-para-informar-y-acompanar-a-quienes-quieran-adoptar-de-que-se-trata-la-iniciativa-aprobada-en-el-concejo-20261113-0019.html",
-        "image": "https://www.rosario3.com/__export/1794577025533/sites/rosario3/img/2026/11/13/adopcion.png_786111822.png",
-        "summary": "La propuesta, aprobada por unanimidad, busca derribar prejuicios y desinformación sobre los procesos adoptivos a través de campañas, talleres y espacios de orientación. La iniciativa apunta a sumar familias interesadas en ahijar y dar respuesta a la creciente brecha entre niños…",
-        "pubDate": "2026-11-13T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Walter Samuel dejará el cuerpo técnico de la Selección: qué nombres suenan para reemplazarlo",
-        "link": "https://www.rosario3.com/deportes/walter-samuel-dejara-el-cuerpo-tecnico-de-la-seleccion-que-nombres-suenan-para-reemplazarlo-20261113-0029.html",
-        "image": "https://www.rosario3.com/__export/1794582308009/sites/rosario3/img/2026/11/13/scaloni-samuel.jpg_928314580.jpg",
-        "summary": "El ayudante de campo comenzará su camino como entrenador principal. “Agradecimiento eterno para uno que es mi amigo”, expresó Scaloni en la conferencia de prensa donde se confirmó su renovación de contrato",
         "pubDate": "2026-11-13T11:57:00+00:00",
         "approxTime": true
       },
@@ -58,19 +58,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "Piden arrestar a la mujer que escupió a Lemoine en Rosario y ahora ella se defendió: \"Se metió con mi discapacidad\"",
-        "link": "https://www.rosario3.com/informaciongeneral/piden-10-dias-de-arresto-para-la-mujer-que-escupio-a-lilia-lemoine-tras-el-acto-por-el-dia-de-la-bandera-se-metio-con-mi-discapacidad-se-defendio-20261113-0015.html",
-        "image": "https://www.rosario3.com/__export/1781986871122/sites/rosario3/img/2026/06/20/lemoine_agredida.jpg_928314581.jpg",
-        "summary": "Mariela Franco, quien quedó filmada el pasado 20 de junio mientras increpaba y escupía a la diputada nacional de La Libertad Avanza, se encuentra acusada por agresión física sin empleo de arma. La causa está cerca de ser llevada a juicio. Dijo que la legisladora la había…",
+        "title": "Rosario tendrá un programa para informar y acompañar a quienes quieran adoptar: de qué se trata la iniciativa aprobada en el Concejo",
+        "link": "https://www.rosario3.com/informaciongeneral/rosario-tendra-un-programa-para-informar-y-acompanar-a-quienes-quieran-adoptar-de-que-se-trata-la-iniciativa-aprobada-en-el-concejo-20261113-0019.html",
+        "image": "https://www.rosario3.com/__export/1794577025533/sites/rosario3/img/2026/11/13/adopcion.png_786111822.png",
+        "summary": "La propuesta, aprobada por unanimidad, busca derribar prejuicios y desinformación sobre los procesos adoptivos a través de campañas, talleres y espacios de orientación. La iniciativa apunta a sumar familias interesadas en ahijar y dar respuesta a la creciente brecha entre niños…",
         "pubDate": "2026-11-13T11:54:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Juegos Olímpicos de la Juventud Dakar 2026: la selección argentina de futsal derrotó a Portugal y se colgó la medalla dorada",
-        "link": "https://www.rosario3.com/deportes/juegos-olimpicos-de-la-juventud-dakar-2026-la-seleccion-argentina-de-futsal-derroto-a-portugal-y-se-colgo-la-medalla-dorada-20261113-0023.html",
-        "image": "https://www.rosario3.com/__export/1794579251894/sites/rosario3/img/2026/11/13/futsal.jpg_928314580.jpg",
-        "summary": "Con el triunfo argentino, la delegación nacional sumó su segunda presea dorada en el evento que se desarrolla por primera vez en África",
+        "title": "Walter Samuel dejará el cuerpo técnico de la Selección: qué nombres suenan para reemplazarlo",
+        "link": "https://www.rosario3.com/deportes/walter-samuel-dejara-el-cuerpo-tecnico-de-la-seleccion-que-nombres-suenan-para-reemplazarlo-20261113-0029.html",
+        "image": "https://www.rosario3.com/__export/1794582308009/sites/rosario3/img/2026/11/13/scaloni-samuel.jpg_928314580.jpg",
+        "summary": "El ayudante de campo comenzará su camino como entrenador principal. “Agradecimiento eterno para uno que es mi amigo”, expresó Scaloni en la conferencia de prensa donde se confirmó su renovación de contrato",
         "pubDate": "2026-11-13T11:53:00+00:00",
         "approxTime": true
       },
@@ -130,15 +130,24 @@
       },
       {
         "source": "Rosario3",
-        "title": "Capacitación laboral: el Gobierno financiará cursos con vouchers para desocupados y trabajadores de bajos ingresos",
-        "link": "https://www.rosario3.com/informaciongeneral/capacitacion-laboral-el-gobierno-financiara-cursos-con-vouchers-para-desocupados-y-trabajadores-de-bajos-ingresos-20261113-0022.html",
-        "image": "https://www.rosario3.com/__export/1794577950627/sites/rosario3/img/2023/02/22/desempleo.jpg_1768679258.jpg",
-        "summary": "El Ministerio de Capital Humano reglamentó el Programa Formando Capital Humano, que permitirá acceder a cursos de formación laboral mediante una asignación de dinero destinada exclusivamente al pago de los aranceles. Está dirigido a mayores de 18 años desempleados",
+        "title": "Piden arrestar a la mujer que escupió a Lemoine en Rosario y ahora ella se defendió: \"Se metió con mi discapacidad\"",
+        "link": "https://www.rosario3.com/informaciongeneral/piden-10-dias-de-arresto-para-la-mujer-que-escupio-a-lilia-lemoine-tras-el-acto-por-el-dia-de-la-bandera-se-metio-con-mi-discapacidad-se-defendio-20261113-0015.html",
+        "image": "https://www.rosario3.com/__export/1781986871122/sites/rosario3/img/2026/06/20/lemoine_agredida.jpg_928314581.jpg",
+        "summary": "Mariela Franco, quien quedó filmada el pasado 20 de junio mientras increpaba y escupía a la diputada nacional de La Libertad Avanza, se encuentra acusada por agresión física sin empleo de arma. La causa está cerca de ser llevada a juicio. Dijo que la legisladora la había…",
         "pubDate": "2026-11-13T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Uruguay, la primera estación del nuevo ciclo de Lionel Scaloni, que sigue hasta el Mundial 2030",
+        "link": "https://www.lacapital.com.ar/ovacion/uruguay-la-primera-estacion-del-nuevo-ciclo-lionel-scaloni-que-sigue-el-mundial-2030-n10291936.html",
+        "image": "https://media.lacapital.com.ar/p/724fa3ed505c024cfac59e74b581b738/adjuntos/203/imagenes/103/528/0103528044/1200x675/smart/image-14.jpg",
+        "summary": "La AFA confirmó lo que se sabía: Lionel Scaloni renovó contrato y ante Uruguay se inicia la segunda parte de un período exitoso, ya sin Messi",
+        "pubDate": "2026-11-13T19:41:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "En Chile sueñan con ver a Mercalo Bielsa otra vez al frente de la Roja",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/1ad3aafeb01e05c4e429af2931a23567/adjuntos/203/imagenes/103/528/0103528883/hospital-provincial.jpg",
         "summary": "Diego B. dijo que lo agredieron a la tarde en la zona sur de Rosario y fue hospitalizado después de los disparos",
         "pubDate": "2026-11-13T14:49:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Messi vuelve a Argentina: Inter Miami y River jugarán un amistoso en el Monumental",
-        "link": "https://www.lacapital.com.ar/ovacion/messi-vuelve-argentina-inter-miami-y-river-jugaran-un-amistoso-el-monumental-n10292014.html",
-        "image": "https://media.lacapital.com.ar/p/7668b8c7b53003d985d5b9e4970fead9/adjuntos/203/imagenes/103/314/0103314236/1200x675/smart/messi-inter.jpg",
-        "summary": "El Millonario y las Garzas anunciaron el encuentro de preparación que disputarán en enero en Buenos Aires con la imagen del 10 rosarino",
-        "pubDate": "2026-11-13T14:46:00+00:00",
         "approxTime": false
       }
     ]
