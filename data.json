@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T11:01:06.652741+00:00",
+  "generatedAt": "2026-11-13T11:30:58.621574+00:00",
   "sites": {
     "rosario3": [
       {
@@ -22,20 +22,20 @@
       },
       {
         "source": "Rosario3",
-        "title": "Argentina enfrenta a Uruguay en La Bombonera: el equipo de Scaloni inicia la era sin Messi en un clásico con sabor especial",
-        "link": "https://www.rosario3.com/deportes/argentina-enfrenta-a-uruguay-en-la-bombonera-el-equipo-de-scaloni-inicia-la-era-sin-messi-en-un-clasico-con-sabor-especial-20261112-0081.html",
-        "image": "https://www.rosario3.com/__export/1794527141315/sites/rosario3/img/2026/11/12/arg-uru.jpg_928314580.jpg",
-        "summary": "La Selección nacional recibe este viernes a La Celeste, desde las 20, en un amistoso internacional correspondiente a la fecha FIFA. Será la primera presentación de la Albiceleste tras el retiro de Lionel Messi del seleccionado. La Celeste, ahora conducida por Diego Forlán…",
-        "pubDate": "2026-11-12T11:58:00+00:00",
+        "title": "La Provincia inyecta otros $600 millones en el mercado de capitales para abaratar el financiamiento pyme",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-provincia-aportara-600-millones-para-bonificar-las-tasas-que-pagan-las-pymes-que-cambian-cheques-en-bolsa-20261113-0007.html",
+        "image": "https://www.rosario3.com/__export/1787257946609/sites/rosario3/img/2026/08/20/puccini.jpeg_7935130.jpeg",
+        "summary": "El Ministerio de Desarrollo Productivo firma este viernes con el Mercado Argentino de Valores una segunda edición del programa de subsidios que llegó a 276 empresas santafesinas. Hay urgencia por la falta de capital de trabajo",
+        "pubDate": "2026-11-13T11:58:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Claves del día: alertan por 6 mil empresas de salud y la presión de las tarifas sobre la inflación | Ecos365",
-        "link": "https://www.rosario3.com/ecos365/noticias/claves-del-dia-alertan-por-6.000-empresas-de-salud-y-la-presion-de-las-tarifas-sobre-la-inflacion-20261113-0001.html",
-        "image": "https://www.rosario3.com/__export/1789986050836/sites/rosario3/img/2026/09/21/proar_1.jpg_577725344.jpg",
-        "summary": "Prestadores advierten que 6.000 empresas podrían cerrar si se levanta la emergencia sanitaria. Rosario suma ventas en baja e inflación que aprieta, mientras los mercados oscilan, el RIGI convoca proveedores y Rosgan prepara una plataforma ganadera",
-        "pubDate": "2026-11-13T11:57:00+00:00",
+        "title": "Argentina enfrenta a Uruguay en La Bombonera: el equipo de Scaloni inicia la era sin Messi en un clásico con sabor especial",
+        "link": "https://www.rosario3.com/deportes/argentina-enfrenta-a-uruguay-en-la-bombonera-el-equipo-de-scaloni-inicia-la-era-sin-messi-en-un-clasico-con-sabor-especial-20261112-0081.html",
+        "image": "https://www.rosario3.com/__export/1794527141315/sites/rosario3/img/2026/11/12/arg-uru.jpg_928314580.jpg",
+        "summary": "La Selección nacional recibe este viernes a La Celeste, desde las 20, en un amistoso internacional correspondiente a la fecha FIFA. Será la primera presentación de la Albiceleste tras el retiro de Lionel Messi del seleccionado. La Celeste, ahora conducida por Diego Forlán…",
+        "pubDate": "2026-11-12T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -139,6 +139,24 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Esclarecieron un robo millonario en el microcentro gracias a una pista en TikTok",
+        "link": "https://www.lacapital.com.ar/policiales/esclarecieron-un-robo-millonario-el-microcentro-gracias-una-pista-tiktok-n10291958.html",
+        "image": "https://media.lacapital.com.ar/p/2ccdf1723e49bfa6e384b6539ff3bbb4/adjuntos/203/imagenes/103/528/0103528332/robo-sarmiento-900-roots.jpg",
+        "summary": "La policía rosarina arrestó a dos personas por la denuncia en la tienda de ropa Roots, de donde se habían llevado unos $10.000.000 en mercadería",
+        "pubDate": "2026-11-13T11:22:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El gobierno provincial invirtió más de mil millones de pesos para prevenir inunaciones en el sur santafesino",
+        "link": "https://www.lacapital.com.ar/la-region/el-gobierno-provincial-invirtio-mas-mil-millones-pesos-prevenir-inunaciones-el-sur-santafesino-n10291894.html",
+        "image": "https://media.lacapital.com.ar/p/05d2e4f25a6790a115a30b2b4280ce25/adjuntos/203/imagenes/103/527/0103527274/1200x675/smart/materesa-obras3.jpeg",
+        "summary": "Las obras fueron ejecutadas en el distrito de María Teresa donde se mejoró el escurrimiento de agua y se reforzaron defensas para evitar inundaciones",
+        "pubDate": "2026-11-13T11:00:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Un muerto en triple choque de camiones: corte parcial en autopista Rosario-Buenos Aires",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/da5b28325792ceb74c0d6f2fb7483e11/adjuntos/203/imagenes/103/527/0103527215/1200x675/smart/alisb.webp",
         "summary": "El ataque fue con intenciones de robo. La Policía detuvo a los implicados luego de tres allanamientos",
         "pubDate": "2026-11-13T01:06:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Tarifas: Caputo señaló que el cambio en el régimen de zona fría impulsó la inflación",
-        "link": "https://www.lacapital.com.ar/economia/tarifas-caputo-senalo-que-el-cambio-el-regimen-zona-fria-impulso-la-inflacion-n10291939.html",
-        "image": "https://media.lacapital.com.ar/p/4c4acfcf6bd05221004715cf7af816d5/adjuntos/203/imagenes/103/528/0103528061/2026-11-12-caputo.jpg",
-        "summary": "El Indec informó que el Índice de Precios al Consumidor saltó al 2,2 %. Las tarifas y los precios estacionales impulsaron las alzas. Las canastas básicas de pobreza e indigencia crecieron 3,5 % y 3,1 %, respectivamente",
-        "pubDate": "2026-11-13T00:59:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Los estatales denunciaron una pérdida de 21 % de su salario en la era Milei",
-        "link": "https://www.lacapital.com.ar/economia/los-estatales-denunciaron-una-perdida-21-su-salario-la-era-milei-n10291937.html",
-        "image": "https://media.lacapital.com.ar/p/609771b04d13455cb8aa99757f8af8aa/adjuntos/203/imagenes/103/359/0103359191/1200x675/smart/fresu3.jpg",
-        "summary": "ATE Rosario presentó el informe “La política de la depresión”. Señala las consecuencias del plan económico en las condiciones de vida. Advierten sobre el crecimiento del endeudamiento y la morosidad entre los trabajadores",
-        "pubDate": "2026-11-13T00:11:00+00:00",
         "approxTime": false
       }
     ]
