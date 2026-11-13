@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T09:30:53.236587+00:00",
+  "generatedAt": "2026-11-13T10:01:07.819466+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Mariano Martínez llega a Rosario en medio de los rumores de la vuelta de Attaque 77",
+        "link": "https://www.lacapital.com.ar/zoom/mariano-martinez-llega-rosario-medio-los-rumores-la-vuelta-attaque-77-n10291858.html",
+        "image": "https://media.lacapital.com.ar/p/c60ca0fdc68b977cbeb9ffa048701800/adjuntos/203/imagenes/103/527/0103527117/1200x675/smart/image-2026-11-12t153303494.jpg",
+        "summary": "El músico se presenta este 14 de noviembre en Lotus Club, con un show que repasará los clásicos de la banda y adelantará temas de su primer disco solista",
+        "pubDate": "2026-11-13T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "La Estanciera y el Baqueano, dos utilitarios que dejaron su huella en la pampa húmeda",
         "link": "https://www.lacapital.com.ar/agro/la-estanciera-y-el-baqueano-dos-utilitarios-que-dejaron-su-huella-la-pampa-humeda-n10291468.html",
         "image": "https://media.lacapital.com.ar/p/f8ec237f3c2cd59baa56cc5fb39d84b0/adjuntos/203/imagenes/103/522/0103522868/1200x675/488x298:508x318/baqueano-500.jpeg",
@@ -150,19 +159,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Uruguay, la primera estación del nuevo ciclo de Lionel Scaloni, que sigue hasta el Mundial 2030",
-        "link": "https://www.lacapital.com.ar/ovacion/uruguay-la-primera-estacion-del-nuevo-ciclo-lionel-scaloni-que-sigue-el-mundial-2030-n10291936.html",
-        "image": "https://media.lacapital.com.ar/p/724fa3ed505c024cfac59e74b581b738/adjuntos/203/imagenes/103/528/0103528044/1200x675/smart/image-14.jpg",
-        "summary": "La AFA confirmó lo que se sabía: Lionel Scaloni renovó contrato y ante Uruguay se inicia la segunda parte de un período exitoso, ya sin Messi",
+        "title": "Muelles del Parque España: la obra avanzó al 80 % y tiene fecha de finalización",
+        "link": "https://www.lacapital.com.ar/muelles-del-parque-espana-la-obra-avanzo-al-80-y-tiene-fecha-finalizacion-n10291881.html",
+        "image": "https://media.lacapital.com.ar/p/3eed3f25ade4edcaa1b4b26501cbb542/adjuntos/203/imagenes/103/527/0103527341/1200x675/smart/muellexx2.jpg",
+        "summary": "Estiman que la ampliación del Parque España estará lista para el 27 de febrero próximo. Comienza a asomar la rampa helicoidal sobre la explanada",
         "pubDate": "2026-11-13T09:10:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Muelles del Parque España: la obra avanzó al 80 % y tiene fecha de finalización",
-        "link": "https://www.lacapital.com.ar/muelles-del-parque-espana-la-obra-avanzo-al-80-y-tiene-fecha-finalizacion-n10291881.html",
-        "image": "https://media.lacapital.com.ar/p/3eed3f25ade4edcaa1b4b26501cbb542/adjuntos/203/imagenes/103/527/0103527341/1200x675/smart/muellexx2.jpg",
-        "summary": "Estiman que la ampliación del Parque España estará lista para el 27 de febrero próximo. Comienza a asomar la rampa helicoidal sobre la explanada",
+        "title": "José Lizzi: \"No alcanza con tener un buen negocio ganadero, hay que saber gestionarlo\"",
+        "link": "https://www.lacapital.com.ar/agro/jose-lizzi-no-alcanza-tener-un-buen-negocio-ganadero-hay-que-saber-gestionarlo-n10291891.html",
+        "image": "https://media.lacapital.com.ar/p/6752ed59208802408d5b2995eb6d1ef9/adjuntos/203/imagenes/103/527/0103527246/1200x675/smart/jose-lizzi-ganaderia.jpg",
+        "summary": "El consultor ganadero planteó en el Congreso de Rosgan que las oportunidades del sector exigen planificación, financiamiento y eficiencia empresarial. Y advirtió que no todas las empresas logran aprovechar el buen momento del sector",
         "pubDate": "2026-11-13T09:10:00+00:00",
         "approxTime": false
       },
@@ -177,10 +186,10 @@
       },
       {
         "source": "La Capital",
-        "title": "José Lizzi: \"No alcanza con tener un buen negocio ganadero, hay que saber gestionarlo\"",
-        "link": "https://www.lacapital.com.ar/agro/jose-lizzi-no-alcanza-tener-un-buen-negocio-ganadero-hay-que-saber-gestionarlo-n10291891.html",
-        "image": "https://media.lacapital.com.ar/p/6752ed59208802408d5b2995eb6d1ef9/adjuntos/203/imagenes/103/527/0103527246/1200x675/smart/jose-lizzi-ganaderia.jpg",
-        "summary": "El consultor ganadero planteó en el Congreso de Rosgan que las oportunidades del sector exigen planificación, financiamiento y eficiencia empresarial. Y advirtió que no todas las empresas logran aprovechar el buen momento del sector",
+        "title": "Uruguay, la primera estación del nuevo ciclo de Lionel Scaloni, que sigue hasta el Mundial 2030",
+        "link": "https://www.lacapital.com.ar/ovacion/uruguay-la-primera-estacion-del-nuevo-ciclo-lionel-scaloni-que-sigue-el-mundial-2030-n10291936.html",
+        "image": "https://media.lacapital.com.ar/p/724fa3ed505c024cfac59e74b581b738/adjuntos/203/imagenes/103/528/0103528044/1200x675/smart/image-14.jpg",
+        "summary": "La AFA confirmó lo que se sabía: Lionel Scaloni renovó contrato y ante Uruguay se inicia la segunda parte de un período exitoso, ya sin Messi",
         "pubDate": "2026-11-13T09:10:00+00:00",
         "approxTime": false
       },
@@ -262,15 +271,6 @@
         "link": "https://www.lacapital.com.ar/ovacion/primera-c-el-equipo-leones-fc-esta-entero-seguir-haciendo-historia-n10291933.html",
         "image": "https://media.lacapital.com.ar/p/4099cfb5187811ff3cf686373ea4eb8d/adjuntos/203/imagenes/103/527/0103527775/1200x675/smart/image-2026-11-12t202852315.png",
         "summary": "El DT Alejandro Ojeda se refirió al presente del equipo de la familia Messi que el lunes jugará un partido clave ante Sportivo Barracas por el Reducido de Primera C",
-        "pubDate": "2026-11-13T00:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La reserva de Newell's obtuvo un gran triunfo sobre Boca en Casa Amarilla",
-        "link": "https://www.lacapital.com.ar/ovacion/la-reserva-newells-obtuvo-un-gran-triunfo-boca-casa-amarilla-n10291934.html",
-        "image": "https://media.lacapital.com.ar/p/30268f5214d6f4fb36ac1e8dc2278767/adjuntos/203/imagenes/103/527/0103527703/1200x675/smart/image-12.jpg",
-        "summary": "La reserva de Lucas Bernardi cierre bien un torneo en el que no pudo clasificar pero deja una buena imagen. Newell's bajó al candidato Boca.",
         "pubDate": "2026-11-13T00:10:00+00:00",
         "approxTime": false
       }
