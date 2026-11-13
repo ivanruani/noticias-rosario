@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T18:30:56.097485+00:00",
+  "generatedAt": "2026-11-13T19:01:23.099999+00:00",
   "sites": {
     "rosario3": [
       {
@@ -103,20 +103,29 @@
       },
       {
         "source": "Rosario3",
-        "title": "Un violento temporal azotó una localidad de Salta: hubo 150 personas atendidas y graves destrozos",
-        "link": "https://www.rosario3.com/informaciongeneral/un-violento-temporal-azoto-una-localidad-de-salta-hubo-150-personas-atendidas-y-graves-destrozos-20261113-0027.html",
-        "image": "https://www.rosario3.com/__export/1794581855207/sites/rosario3/img/2026/11/13/temporal_salta.png_786111822.png",
-        "summary": "La tormenta provocó voladuras de techos, caída de árboles y daños en escuelas y viviendas. Además, entre 25 y 30 vecinos debieron ser trasladados a un centro de evacuados",
+        "title": "Explosión en Lanús por la rotura de un caño de gas: hay dos detenidos y seis heridos graves",
+        "link": "https://www.rosario3.com/informaciongeneral/explosion-e-incendio-en-lanus-por-la-rotura-de-un-cano-maestro-de-gas-durante-una-reparacion-20261113-0028.html",
+        "image": "https://www.rosario3.com/__export/1794595801229/sites/rosario3/img/2026/11/13/gas.jpg_1768679257.jpg",
+        "summary": "Una máquina rompió un caño de gas y provocó una explosión: hay 21 heridos y seis están graves. Hay varias dotaciones de bomberos para controlar el incendio. El director de Defensa Civil de Lanús confirmó que hay dos detenidos",
         "pubDate": "2026-11-13T11:49:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Explosión e incendio en Lanús por la rotura de un caño maestro de gas durante una reparación",
-        "link": "https://www.rosario3.com/informaciongeneral/explosion-e-incendio-en-lanus-por-la-rotura-de-un-cano-maestro-de-gas-durante-una-reparacion-20261113-0028.html",
-        "image": "https://www.rosario3.com/__export/1794581407583/sites/rosario3/img/2026/11/13/hxat9nww4aasqlf.jpeg_928314580.jpeg",
-        "summary": "Una máquina dañó una cañería mientras se realizaban trabajos de renovación de redes de Metrogas en Remedios de Escalada. Bomberos combaten las llamas y Defensa Civil evacúa viviendas cercanas",
+        "title": "Caso Ueno Bank: se entregó Marco Aurelio González, exdirector del Banco Central de Paraguay",
+        "link": "https://www.rosario3.com/informaciongeneral/caso-ueno-bank-se-entrego-marco-aurelio-gonzalez-exdirector-del-banco-central-de-paraguay-20261113-0038.html",
+        "image": "https://www.rosario3.com/__export/1794594597586/sites/rosario3/img/2026/11/13/paraguay_1.jpg_1768679257.jpg",
+        "summary": "González se presentó ante la Policía Nacional luego de que las autoridades allanaran su domicilio y no lo encontraran. La Fiscalía investiga a exfuncionarios del Banco Central por presuntas omisiones frente a la insolvencia de la entidad financiera",
         "pubDate": "2026-11-13T11:48:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Un violento temporal azotó una localidad de Salta: hubo 150 personas atendidas y graves destrozos",
+        "link": "https://www.rosario3.com/informaciongeneral/un-violento-temporal-azoto-una-localidad-de-salta-hubo-150-personas-atendidas-y-graves-destrozos-20261113-0027.html",
+        "image": "https://www.rosario3.com/__export/1794581855207/sites/rosario3/img/2026/11/13/temporal_salta.png_786111822.png",
+        "summary": "La tormenta provocó voladuras de techos, caída de árboles y daños en escuelas y viviendas. Además, entre 25 y 30 vecinos debieron ser trasladados a un centro de evacuados",
+        "pubDate": "2026-11-13T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,15 +134,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/capacitacion-laboral-el-gobierno-financiara-cursos-con-vouchers-para-desocupados-y-trabajadores-de-bajos-ingresos-20261113-0022.html",
         "image": "https://www.rosario3.com/__export/1794577950627/sites/rosario3/img/2023/02/22/desempleo.jpg_1768679258.jpg",
         "summary": "El Ministerio de Capital Humano reglamentó el Programa Formando Capital Humano, que permitirá acceder a cursos de formación laboral mediante una asignación de dinero destinada exclusivamente al pago de los aranceles. Está dirigido a mayores de 18 años desempleados",
-        "pubDate": "2026-11-13T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Un ex Newell’s contó el dramático momento que vivió a partir de quedar afuera de un Mundial",
-        "link": "https://www.rosario3.com/deportes/un-ex-newells-conto-el-dramatico-momento-que-vivio-a-partir-de-quedar-afuera-de-un-mundial-20261113-0016.html",
-        "image": "https://www.rosario3.com/__export/1794575041936/sites/rosario3/img/2026/11/13/jardel.png_928314580.png",
-        "summary": "El ex delantero brasileño, Mario Jardel, reveló que no pudo superar la decisión de Luiz Felipe Scolari de excluirlo de la lista para Corea-Japón 2002. Contó que atravesó una depresión, comenzó a consumir cocaína y sufrió una sobredosis que casi le cuesta la vida",
         "pubDate": "2026-11-13T11:46:00+00:00",
         "approxTime": true
       }
@@ -152,7 +152,7 @@
         "source": "La Capital",
         "title": "La fuerte revelación de un ex-Newell's: \"Casi morí por una sobredosis de cocaína\"",
         "link": "https://www.lacapital.com.ar/ovacion/la-fuerte-revelacion-un-ex-newells-casi-mori-una-sobredosis-cocaina-n10292066.html",
-        "image": "https://media.lacapital.com.ar/p/d2160280e3a81b1e3700701e2717b0be/adjuntos/203/imagenes/100/030/0100030723/1200x675/smart/jardeljpg.jpg",
+        "image": "https://media.lacapital.com.ar/p/e5d39e654a4888dffbd7ace43a029e1e/adjuntos/203/imagenes/103/529/0103529307/1200x675/smart/image-2.jpg",
         "summary": "Era delantero y fue una gran figura en Europa, donde hizo muchos goles. Tuvo un paso fugaz por el Rojinegro, donde no pudo marcar",
         "pubDate": "2026-11-13T18:20:00+00:00",
         "approxTime": false
@@ -213,8 +213,8 @@
       },
       {
         "source": "La Capital",
-        "title": "Jonatan Gómez volvió a jugar al fútbol fuera del país tras su denuncia por extosión",
-        "link": "https://www.lacapital.com.ar/ovacion/jonatan-gomez-volvio-jugar-al-futbol-fuera-del-pais-su-denuncia-extosion-n10292036.html",
+        "title": "Jonatan Gómez volvió a jugar al fútbol fuera del país tras su denuncia por extorsión",
+        "link": "https://www.lacapital.com.ar/ovacion/jonatan-gomez-volvio-jugar-al-futbol-fuera-del-pais-su-denuncia-extorsion-n10292036.html",
         "image": "https://media.lacapital.com.ar/p/ae170e25fc3ca679da9c9014ecf9b945/adjuntos/203/imagenes/102/068/0102068733/1200x675/smart/gomezcmljpg.jpg",
         "summary": "El ex-Central regresó a las canchas luego del periplo legal que atravesó y anotó dos goles para un equipo de las categorías semiprofesionales de Estados Unidos",
         "pubDate": "2026-11-13T15:39:00+00:00",
