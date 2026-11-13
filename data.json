@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-11-13T17:01:11.174363+00:00",
+  "generatedAt": "2026-11-13T17:31:02.882284+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Esteban Alvarado recargado: vuelos con cocaína más la compra de vehículos y propiedades, la nueva acusación en su contra",
+        "link": "https://www.rosario3.com/policiales/esteban-alvarado-recargado-vuelos-con-cocaina-mas-la-compra-de-vehiculos-y-propiedades-la-nueva-acusacion-en-su-contra-20261113-0035.html",
+        "image": "https://www.rosario3.com/__export/1794586160625/sites/rosario3/img/2024/10/09/esteban_lindor_alvarado.jpg_636310389.jpg",
+        "summary": "El capo narco, que se encuentra alojado en el penal federal de Ezeiza, fue indagado en la mañana de este viernes como líder de una asociación ilícita que tenía como retransmisores de sus mensajes a su hijo Santino y a su abogado Claudio Tavella, ambos detenidos en los…",
+        "pubDate": "2026-11-13T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "La crecida del Paraná con invasión de camalotes alteró la costa rosarina y complicó la toma de Aguas",
         "link": "https://www.rosario3.com/informaciongeneral/la-crecida-del-parana-con-invasion-de-camalotes-altero-la-costa-rosarina-y-complico-la-toma-de-aguas-20261113-0034.html",
         "image": "https://www.rosario3.com/__export/1794586626023/sites/rosario3/img/2026/11/13/crecida_del_paranx_2b.jpg_1075653382.jpg",
         "summary": "El río subió a 4,66 metros este viernes al mediodía y la corriente traía las típicas plantas acuáticas flotantes desde el norte. Además de copar las playas de la Rambla, La Florida y los clubes, esa vegetación acumulada obligó detener el suministro de la planta potabilizadora…",
-        "pubDate": "2026-11-13T12:00:00+00:00",
+        "pubDate": "2026-11-13T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/rosario-tendra-un-programa-para-informar-y-acompanar-a-quienes-quieran-adoptar-de-que-se-trata-la-iniciativa-aprobada-en-el-concejo-20261113-0019.html",
         "image": "https://www.rosario3.com/__export/1794577025533/sites/rosario3/img/2026/11/13/adopcion.png_786111822.png",
         "summary": "La propuesta, aprobada por unanimidad, busca derribar prejuicios y desinformación sobre los procesos adoptivos a través de campañas, talleres y espacios de orientación. La iniciativa apunta a sumar familias interesadas en ahijar y dar respuesta a la creciente brecha entre niños…",
-        "pubDate": "2026-11-13T11:59:00+00:00",
+        "pubDate": "2026-11-13T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/deportes/walter-samuel-dejara-el-cuerpo-tecnico-de-la-seleccion-que-nombres-suenan-para-reemplazarlo-20261113-0029.html",
         "image": "https://www.rosario3.com/__export/1794582308009/sites/rosario3/img/2026/11/13/scaloni-samuel.jpg_928314580.jpg",
         "summary": "El ayudante de campo comenzará su camino como entrenador principal. “Agradecimiento eterno para uno que es mi amigo”, expresó Scaloni en la conferencia de prensa donde se confirmó su renovación de contrato",
-        "pubDate": "2026-11-13T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Capacitación laboral: el Gobierno financiará cursos con vouchers para desocupados y trabajadores de bajos ingresos",
-        "link": "https://www.rosario3.com/informaciongeneral/capacitacion-laboral-el-gobierno-financiara-cursos-con-vouchers-para-desocupados-y-trabajadores-de-bajos-ingresos-20261113-0022.html",
-        "image": "https://www.rosario3.com/__export/1794577950627/sites/rosario3/img/2023/02/22/desempleo.jpg_1768679258.jpg",
-        "summary": "El Ministerio de Capital Humano reglamentó el Programa Formando Capital Humano, que permitirá acceder a cursos de formación laboral mediante una asignación de dinero destinada exclusivamente al pago de los aranceles. Está dirigido a mayores de 18 años desempleados",
         "pubDate": "2026-11-13T11:57:00+00:00",
         "approxTime": true
       },
@@ -103,20 +103,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "La Provincia inyecta otros $600 millones en el mercado de capitales para abaratar el financiamiento pyme",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-provincia-aportara-600-millones-para-bonificar-las-tasas-que-pagan-las-pymes-que-cambian-cheques-en-bolsa-20261113-0007.html",
-        "image": "https://www.rosario3.com/__export/1787257946609/sites/rosario3/img/2026/08/20/puccini.jpeg_7935130.jpeg",
-        "summary": "El Ministerio de Desarrollo Productivo firma este viernes con el Mercado Argentino de Valores una segunda edición del programa de subsidios que llegó a 276 empresas santafesinas. Hay urgencia por la falta de capital de trabajo",
-        "pubDate": "2026-11-13T11:49:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
         "title": "Un violento temporal azotó una localidad de Salta: hubo 150 personas atendidas y graves destrozos",
         "link": "https://www.rosario3.com/informaciongeneral/un-violento-temporal-azoto-una-localidad-de-salta-hubo-150-personas-atendidas-y-graves-destrozos-20261113-0027.html",
         "image": "https://www.rosario3.com/__export/1794581855207/sites/rosario3/img/2026/11/13/temporal_salta.png_786111822.png",
         "summary": "La tormenta provocó voladuras de techos, caída de árboles y daños en escuelas y viviendas. Además, entre 25 y 30 vecinos debieron ser trasladados a un centro de evacuados",
-        "pubDate": "2026-11-13T11:48:00+00:00",
+        "pubDate": "2026-11-13T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -125,6 +116,15 @@
         "link": "https://www.rosario3.com/informaciongeneral/explosion-e-incendio-en-lanus-por-la-rotura-de-un-cano-maestro-de-gas-durante-una-reparacion-20261113-0028.html",
         "image": "https://www.rosario3.com/__export/1794581407583/sites/rosario3/img/2026/11/13/hxat9nww4aasqlf.jpeg_928314580.jpeg",
         "summary": "Una máquina dañó una cañería mientras se realizaban trabajos de renovación de redes de Metrogas en Remedios de Escalada. Bomberos combaten las llamas y Defensa Civil evacúa viviendas cercanas",
+        "pubDate": "2026-11-13T11:48:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Capacitación laboral: el Gobierno financiará cursos con vouchers para desocupados y trabajadores de bajos ingresos",
+        "link": "https://www.rosario3.com/informaciongeneral/capacitacion-laboral-el-gobierno-financiara-cursos-con-vouchers-para-desocupados-y-trabajadores-de-bajos-ingresos-20261113-0022.html",
+        "image": "https://www.rosario3.com/__export/1794577950627/sites/rosario3/img/2023/02/22/desempleo.jpg_1768679258.jpg",
+        "summary": "El Ministerio de Capital Humano reglamentó el Programa Formando Capital Humano, que permitirá acceder a cursos de formación laboral mediante una asignación de dinero destinada exclusivamente al pago de los aranceles. Está dirigido a mayores de 18 años desempleados",
         "pubDate": "2026-11-13T11:47:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,33 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Vuelos narco orquestados desde la cárcel: acusan a Esteban Alvarado y a su hijo Santino",
+        "link": "https://www.lacapital.com.ar/policiales/vuelos-narco-orquestados-la-carcel-acusan-esteban-alvarado-y-su-hijo-santino-n10292013.html",
+        "image": "https://media.lacapital.com.ar/p/508e5a9153c78e5a1efe383ee34d4f2e/adjuntos/203/imagenes/103/529/0103529256/1200x675/smart/santinoyestebanalvarado.jpg",
+        "summary": "Tras la detención de su hijo este jueves en Funes, Esteban Alvarado fue acusado como jefe de una asociación ilícita manejada desde el penal de Ezeiza",
+        "pubDate": "2026-11-13T17:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Netflix sumó una miniserie de médicos polaca ideal para maratonear",
+        "link": "https://www.lacapital.com.ar/zoom/netflix-sumo-una-miniserie-medicos-polaca-ideal-maratonear-n10292027.html",
+        "image": "https://media.lacapital.com.ar/p/b356138dfa2df75d6faf573dff7cdfce/adjuntos/203/imagenes/103/529/0103529104/1200x675/smart/image-40.png",
+        "summary": "La trama sigue a un médico con métodos controvertidos que ingresa en un nuevo hospital para reconstruir su carrera después de una arriesgada cirugía que salió mal",
+        "pubDate": "2026-11-13T17:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Se agotó el libro de Marta Torres, la mujer con parálisis cerebral que emocionó a León XIV",
+        "link": "https://www.lacapital.com.ar/informacion-general/se-agoto-el-libro-marta-torres-la-mujer-paralisis-cerebral-que-emociono-leon-xiv-n10292048.html",
+        "image": "https://media.lacapital.com.ar/p/ecec8f29f9584f8245a9201d1560ac6a/adjuntos/203/imagenes/103/529/0103529210/1200x675/smart/image-2026-11-13t131621424.png",
+        "summary": "La autobiografía de la residente del Cottolengo Don Orione, que se la entregó al Sumo Pontífice durante su visita a la Argentina, ya no tiene ejemplares",
+        "pubDate": "2026-11-13T17:09:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Jonatan Gómez volvió a jugar al fútbol fuera del país tras su denuncia por extosión",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/990d3f0c1188dc26ea41269281e854bc/adjuntos/203/imagenes/103/528/0103528784/1200x675/smart/image-2026-11-13t113311462.jpg",
         "summary": "La destacada artista rosarina compartirá su más reciente trabajo este domingo 15 en Plataforma Lavardén",
         "pubDate": "2026-11-13T13:53:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Un video registró la amenaza de Martín Migueles a Mauro Icardi",
-        "link": "https://www.lacapital.com.ar/zoom/un-video-registro-la-amenaza-martin-migueles-mauro-icardi-n10291986.html",
-        "image": "https://media.lacapital.com.ar/p/3630a06fe4a8fd1f5cea9d61456a620d/adjuntos/203/imagenes/103/528/0103528711/1200x675/smart/image-2026-11-13t104600555.jpg",
-        "summary": "La actual pareja de Wanda Nara y su ex tuvieron un encuentro tenso en Nordelta. Todo quedó registrado en cámara",
-        "pubDate": "2026-11-13T13:29:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Mauricio Pochettino vuelve a la Premier League para dirigir a Manchester United",
-        "link": "https://www.lacapital.com.ar/ovacion/mauricio-pochettino-vuelve-la-premier-league-dirigir-manchester-united-n10291992.html",
-        "image": "https://media.lacapital.com.ar/p/370657db91bd890acbecd66dc2d0ff2c/adjuntos/203/imagenes/103/249/0103249429/1200x675/smart/pochettino.jpg",
-        "summary": "El ex-Newell's dejó su puesto en la selección de Estados Unidos y se convirtió en nuevo DT de los Red Devils, donde entrenará a Lisandro Martínez",
-        "pubDate": "2026-11-13T13:18:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Una mujer de Ecuador denunció que su pareja la encerró en la habitación de un hotel rosarino",
-        "link": "https://www.lacapital.com.ar/policiales/una-mujer-ecuador-denuncio-que-su-pareja-la-encerro-la-habitacion-un-hotel-rosarino-n10291975.html",
-        "image": "https://media.lacapital.com.ar/p/bb74790a987a18af80a15f16f11ad164/adjuntos/203/imagenes/103/528/0103528644/1200x675/smart/hotel-nahuel.png",
-        "summary": "El caso trascendió por la denuncia al 9111 por violencia de género que hicieron desde el establecimiento de Santa Fe 3600. El acusado también es de Ecuador",
-        "pubDate": "2026-11-13T13:13:00+00:00",
         "approxTime": false
       }
     ]
