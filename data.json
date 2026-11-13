@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T19:01:23.099999+00:00",
+  "generatedAt": "2026-11-13T19:30:53.413734+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "En Chile sueñan con ver a Mercalo Bielsa otra vez al frente de la Roja",
+        "link": "https://www.lacapital.com.ar/ovacion/en-chile-suenan-ver-mercalo-bielsa-otra-vez-al-frente-la-roja-n10292073.html",
+        "image": "https://media.lacapital.com.ar/p/0085e18febf94a09c738c68ec052e7ac/adjuntos/203/imagenes/103/241/0103241944/bielsa.avif",
+        "summary": "Un portal de noticias deportivas publicó que hay directivos del fútbol trasandino interesados en contratar al rosarino, de exitoso pasado en el país",
+        "pubDate": "2026-11-13T19:19:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Por la tormenta, suspendieron la jornada de este viernes en Colectividades",
         "link": "https://www.lacapital.com.ar/la-ciudad/por-la-tormenta-suspendieron-la-jornada-este-viernes-colectividades-n10292063.html",
         "image": "https://media.lacapital.com.ar/p/de21c5e453272121304354da7f37a2a1/adjuntos/203/imagenes/102/793/0102793767/1200x675/smart/colectividades4.jpg",
@@ -171,7 +180,7 @@
         "title": "Walter Samuel dejará el cuerpo técnico de la selección argentina y tomará un nuevo rumbo",
         "link": "https://www.lacapital.com.ar/ovacion/walter-samuel-dejara-el-cuerpo-tecnico-la-seleccion-argentina-y-tomara-un-nuevo-rumbo-n10292053.html",
         "image": "https://media.lacapital.com.ar/p/25a947682fdcba432d529fd61b0d5fb9/adjuntos/203/imagenes/103/156/0103156498/scaloni-samuel-seleccion-argentina.jpg",
-        "summary": "Lionel Scaloni confirmó la salida del Muro, otro ex-Newell's, indicó que lanzará su carrera en solitario y afirmó que no buscarán un reemplazante",
+        "summary": "Lionel Scaloni confirmó la salida del Muro, otro ex-Newell's. Indicó que lanzará su carrera en solitario y afirmó que no buscarán un reemplazante",
         "pubDate": "2026-11-13T18:19:00+00:00",
         "approxTime": false
       },
@@ -213,8 +222,8 @@
       },
       {
         "source": "La Capital",
-        "title": "Jonatan Gómez volvió a jugar al fútbol fuera del país tras su denuncia por extorsión",
-        "link": "https://www.lacapital.com.ar/ovacion/jonatan-gomez-volvio-jugar-al-futbol-fuera-del-pais-su-denuncia-extorsion-n10292036.html",
+        "title": "Jonatan Gómez volvió a jugar al fútbol fuera del país luego de denunciar que fue víctima de una extorsión",
+        "link": "https://www.lacapital.com.ar/ovacion/jonatan-gomez-volvio-jugar-al-futbol-fuera-del-pais-luego-denunciar-que-fue-victima-una-extorsion-n10292036.html",
         "image": "https://media.lacapital.com.ar/p/ae170e25fc3ca679da9c9014ecf9b945/adjuntos/203/imagenes/102/068/0102068733/1200x675/smart/gomezcmljpg.jpg",
         "summary": "El ex-Central regresó a las canchas luego del periplo legal que atravesó y anotó dos goles para un equipo de las categorías semiprofesionales de Estados Unidos",
         "pubDate": "2026-11-13T15:39:00+00:00",
@@ -258,20 +267,11 @@
       },
       {
         "source": "La Capital",
-        "title": "Messi vuelve a la Argentina: Inter Miami y River jugarán un amistoso en el Monumental",
-        "link": "https://www.lacapital.com.ar/ovacion/messi-vuelve-la-argentina-inter-miami-y-river-jugaran-un-amistoso-el-monumental-n10292014.html",
+        "title": "Messi vuelve a Argentina: Inter Miami y River jugarán un amistoso en el Monumental",
+        "link": "https://www.lacapital.com.ar/ovacion/messi-vuelve-argentina-inter-miami-y-river-jugaran-un-amistoso-el-monumental-n10292014.html",
         "image": "https://media.lacapital.com.ar/p/7668b8c7b53003d985d5b9e4970fead9/adjuntos/203/imagenes/103/314/0103314236/1200x675/smart/messi-inter.jpg",
         "summary": "El Millonario y las Garzas anunciaron el encuentro de preparación que disputarán en enero en Buenos Aires con la imagen del 10 rosarino",
         "pubDate": "2026-11-13T14:46:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El escritor rosarino Javier Núñez presenta su libro \"Principio de identidad\"",
-        "link": "https://www.lacapital.com.ar/zoom/el-escritor-rosarino-javier-nunez-presenta-su-libro-principio-identidad-n10292005.html",
-        "image": "https://media.lacapital.com.ar/p/9f52e88331cbb2c1e5827aad7c3828e8/adjuntos/203/imagenes/103/528/0103528895/1200x675/smart/image-2026-11-13t120323369.jpg",
-        "summary": "El autor conversará con su colega Tom Maver, quien también acaba de publicar una novela. El encuentro es este viernes 13 en Mal de Archivo",
-        "pubDate": "2026-11-13T14:45:00+00:00",
         "approxTime": false
       }
     ]
