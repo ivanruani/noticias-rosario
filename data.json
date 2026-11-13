@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T02:30:58.754145+00:00",
+  "generatedAt": "2026-11-13T03:01:11.719050+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El tiempo en Rosario: viernes con más calor y posibles tormentas aisladas",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-viernes-mas-calor-y-posibles-tormentas-aisladas-n10291950.html",
+        "image": "https://media.lacapital.com.ar/p/765a8134575beece06718efb82ab8b35/adjuntos/203/imagenes/103/528/0103528137/2026-11-12-clima-by_smeccia-80794277.jpg",
+        "summary": "El fin de semana habría un leve descenso de la temperatura y seguiría inestable",
+        "pubDate": "2026-11-13T02:38:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Ca7riel & Paco Amoroso, Milo J, Trueno y Bizarrap, ganadores en los Grammy Latinos",
         "link": "https://www.lacapital.com.ar/zoom/ca7riel-paco-amoroso-milo-j-trueno-y-bizarrap-ganadores-los-grammy-latinos-n10291949.html",
         "image": "https://media.lacapital.com.ar/p/97e02fa0c16f992ec4c08d1b36341adb/adjuntos/203/imagenes/103/528/0103528115/2026-11-12-grammy-paco-ca7riel-82860481.jpg",
@@ -262,15 +271,6 @@
         "link": "https://www.lacapital.com.ar/agro/congreso-ganadero-el-mundo-demanda-infinito-n10291872.html",
         "image": "https://media.lacapital.com.ar/p/6a9c3a0dcfdfe0bac210e574787137de/adjuntos/203/imagenes/103/527/0103527179/1200x675/smart/milano25.jpg",
         "summary": "El presidente del Rosgan, Raúl Milano, destacó el buen momento por el que atraviesa el sector al inaugurar el encuentro que reunió en Rosario a los distintos actores de la cadena. El gobierno de Santa Fe presentó resultados de su plataforma gratuita de certificación de…",
-        "pubDate": "2026-11-12T22:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La provincia prohibió la venta de un café elaborado por Cabrales por no ser apto para el consumo",
-        "link": "https://www.lacapital.com.ar/la-ciudad/la-provincia-prohibio-la-venta-un-cafe-elaborado-cabrales-no-ser-apto-el-consumo-n10291925.html",
-        "image": "https://media.lacapital.com.ar/p/1625362fd8434e9ba3d380284e78a022/adjuntos/203/imagenes/103/527/0103527526/1200x675/smart/imagecabrales.jpg",
-        "summary": "El Ministerio de Salud de Santa Fe ordenó retirar de la comercialización tres lotes de café torrado de la marca La Planta de Café. Detectaron irregularidades en el envase que impiden garantizar su conservación y su condición de producto libre de gluten.",
         "pubDate": "2026-11-12T22:15:00+00:00",
         "approxTime": false
       }
