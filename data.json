@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-11-13T02:01:09.359403+00:00",
+  "generatedAt": "2026-11-13T02:30:58.754145+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "El 63% de los comercios rosarinos registró caída de ventas y hay expectativas moderadas para fin de año",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/el-63-de-los-comercios-rosarinos-registro-una-caida-de-ventas-y-hay-expectativas-moderadas-para-fin-de-ano-20261112-0077.html",
+        "image": "https://www.rosario3.com/__export/1794523696822/sites/rosario3/img/2026/11/12/ventas_comercios.jpg_1825222445.jpg",
+        "summary": "Un relevamiento de la Federación Gremial advierte sobre el peso de los costos operativos, mientras el sector reclama una reducción de la carga tributaria y medidas de alivio para 2027",
+        "pubDate": "2026-11-12T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Caso Dolly: dos familias aportaron nuevos testimonios sobre presuntas sustracciones de bebés en Rosario",
         "link": "https://www.rosario3.com/informaciongeneral/caso-dolly-dos-familias-aportaron-nuevos-testimonios-sobre-presuntas-sustracciones-de-bebes-en-rosario-20261112-0082.html",
         "image": "https://www.rosario3.com/__export/1794531735748/sites/rosario3/img/2026/11/12/cats.jpg_1825222445.jpg",
         "summary": "Las denuncias corresponden a hechos ocurridos en 1976 y 1978 en el Sanatorio Modelo y el hospital Roque Sáenz Peña. Una de las familias encontró la firma de la expartera en la partida de nacimiento de su hijo",
-        "pubDate": "2026-11-12T12:00:00+00:00",
+        "pubDate": "2026-11-12T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/despidos-en-villa-constitucion-trabajadores-marcharon-y-reclamaron-el-pago-de-indemnizaciones-y-salarios-adeudados-20261112-0078.html",
         "image": "https://www.rosario3.com/__export/1794526727619/sites/rosario3/img/2026/11/12/villa_constitucion.jpeg_1825222445.jpeg",
         "summary": "Unos 90 empleados fueron desvinculados de la empresa Plantium dedicada a la agricultura de precisión y automatización. En una movilización, reclamaron que se les abonen las indemnizaciones correspondientes y los tres meses de sueldo que les deben. “La empresa nos dijo que no iba…",
-        "pubDate": "2026-11-12T11:59:00+00:00",
+        "pubDate": "2026-11-12T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/policiales/otra-encarnacion-de-la-banda-de-los-tucumanos-le-atribuyen-salideras-millonarias-y-operar-con-ayuda-local-20261112-0063.html",
         "image": "https://www.rosario3.com/__export/1794514926041/sites/rosario3/img/2026/11/12/tucumanos_1_1.jpg_672794305.jpg",
         "summary": "Seis hombres oriundos de Tucumán y una joven de barrio Tablada quedaron en prisión preventiva, acusados de integrar una asociación ilícita dedicada a robar a personas que trasladaban dinero. La organización está bajo investigación por 14 hechos desde junio",
-        "pubDate": "2026-11-12T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La inflación en octubre fue de 2,2% y acumuló 33,1% en los últimos doce meses",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-inflacion-en-octubre-fue-de-22-y-acumulo-331-en-los-ultimos-doce-meses-20261112-0056.html",
-        "image": "https://www.rosario3.com/__export/1794510694960/sites/rosario3/img/2026/11/12/inflacion.jpg_1768679257.jpg",
-        "summary": "El índice de precios acumuló 26,3% en lo que va del año. Alimentos, servicios regulados y los componentes estacionales estuvieron entre los rubros clave durante el mes. El IPC es una referencia para las negociaciones salariales, la actualización de contratos y las decisiones de…",
         "pubDate": "2026-11-12T11:57:00+00:00",
         "approxTime": true
       },
@@ -49,19 +49,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "Viernes con calor de verano: la semana cerrará con temperatura superior a los 30º y tormentas",
-        "link": "https://www.rosario3.com/informaciongeneral/viernes-con-calor-de-verano-la-semana-cerrara-con-temperatura-superior-a-los-30-y-tormentas-20261112-0073.html",
-        "image": "https://www.rosario3.com/__export/1794520976972/sites/rosario3/img/2026/11/12/calor.jpg_1768679258.jpg",
-        "summary": "El Servicio Meteorológico Nacional anticipó otra jornada agobiante para las próximas 24 horas, con posible inestabilidad hacia la tarde y noche",
+        "title": "La inflación en octubre fue de 2,2% y acumuló 33,1% en los últimos doce meses",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-inflacion-en-octubre-fue-de-22-y-acumulo-331-en-los-ultimos-doce-meses-20261112-0056.html",
+        "image": "https://www.rosario3.com/__export/1794510694960/sites/rosario3/img/2026/11/12/inflacion.jpg_1768679257.jpg",
+        "summary": "El índice de precios acumuló 26,3% en lo que va del año. Alimentos, servicios regulados y los componentes estacionales estuvieron entre los rubros clave durante el mes. El IPC es una referencia para las negociaciones salariales, la actualización de contratos y las decisiones de…",
         "pubDate": "2026-11-12T11:55:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Santa Fe: un novillo suelto en plena ciudad embistió a cuatro personas hasta que lo redujo un gaucho",
-        "link": "https://www.rosario3.com/informaciongeneral/santa-fe-un-novillo-suelto-en-plena-ciudad-embistio-a-cuatro-personas-hasta-que-lo-redujo-un-gaucho-20261112-0065.html",
-        "image": "https://www.rosario3.com/__export/1794516927796/sites/rosario3/img/2026/11/12/novillo.jpg_1732194387.jpg",
-        "summary": "El vacuno escapó de un camión jaula y protagonizó una insólita y peligrosa corrida por varias calles del centro de la capital, hasta llegar a un parque. Tras un operativo, un hombre a caballo logró capturarlo",
+        "title": "Viernes con calor de verano: la semana cerrará con temperatura superior a los 30º y tormentas",
+        "link": "https://www.rosario3.com/informaciongeneral/viernes-con-calor-de-verano-la-semana-cerrara-con-temperatura-superior-a-los-30-y-tormentas-20261112-0073.html",
+        "image": "https://www.rosario3.com/__export/1794520976972/sites/rosario3/img/2026/11/12/calor.jpg_1768679258.jpg",
+        "summary": "El Servicio Meteorológico Nacional anticipó otra jornada agobiante para las próximas 24 horas, con posible inestabilidad hacia la tarde y noche",
         "pubDate": "2026-11-12T11:54:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,24 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Ca7riel & Paco Amoroso, Milo J, Trueno y Bizarrap, ganadores en los Grammy Latinos",
+        "link": "https://www.lacapital.com.ar/zoom/ca7riel-paco-amoroso-milo-j-trueno-y-bizarrap-ganadores-los-grammy-latinos-n10291949.html",
+        "image": "https://media.lacapital.com.ar/p/97e02fa0c16f992ec4c08d1b36341adb/adjuntos/203/imagenes/103/528/0103528115/2026-11-12-grammy-paco-ca7riel-82860481.jpg",
+        "summary": "La Premiere tuvo muchos festejos de argentinos, a los que se sumaron el uruguayo Drexler, la española Rosalía y la venezolana Sara Schell, entre otros",
+        "pubDate": "2026-11-13T02:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Estudiantes es el campeón de la Supercopa Argentina y otra vez rival de Central, ahora en la Recopa",
+        "link": "https://www.lacapital.com.ar/ovacion/estudiantes-es-el-campeon-la-supercopa-argentina-y-otra-vez-rival-central-ahora-la-recopa-n10291947.html",
+        "image": "https://media.lacapital.com.ar/p/88d7107db68d8ae03401f8afe640ec2c/adjuntos/203/imagenes/103/528/0103528101/1200x675/smart/image-19.jpg",
+        "summary": "En un partido bárbaro, Estudiantes venció a Independiente Rivadavia en alargue y jugará la Recopa de Campeones con Central y el vencedor de Copa Argentina",
+        "pubDate": "2026-11-13T02:08:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Crimen del taxista Eduardo Piris: tras diez años absolvieron al acusado por falta de pruebas",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/1625362fd8434e9ba3d380284e78a022/adjuntos/203/imagenes/103/527/0103527526/1200x675/smart/imagecabrales.jpg",
         "summary": "El Ministerio de Salud de Santa Fe ordenó retirar de la comercialización tres lotes de café torrado de la marca La Planta de Café. Detectaron irregularidades en el envase que impiden garantizar su conservación y su condición de producto libre de gluten.",
         "pubDate": "2026-11-12T22:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Gastón Ávila la sacó barata y sólo se pierde los octavos de final del Clausura",
-        "link": "https://www.lacapital.com.ar/ovacion/gaston-avila-la-saco-barata-y-solo-se-pierde-los-octavos-final-del-clausura-n10291917.html",
-        "image": "https://media.lacapital.com.ar/p/901bce3f7778194aa9890e6d424e3259/adjuntos/203/imagenes/103/527/0103527493/1200x675/smart/image-4-9.png",
-        "summary": "El zaguero de Central cometió una dura falta ante Estudiantes de Rio IV pero le dieron solo una fecha. No jugará ante Gimnasia de Mendoza",
-        "pubDate": "2026-11-12T21:58:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Rosario despide a una histórica luchadora por los derechos humanos: murió Alicia Lesgart a los 76 años",
-        "link": "https://www.lacapital.com.ar/la-ciudad/rosario-despide-una-historica-luchadora-los-derechos-humanos-murio-alicia-lesgart-los-76-anos-n10291919.html",
-        "image": "https://media.lacapital.com.ar/p/93ea83c7c59c572d45e5f5c8ee829cd4/adjuntos/203/imagenes/103/527/0103527490/1200x675/smart/imagealicia.jpg",
-        "summary": "Fue docente, militante gremial y referente de los organismos de derechos humanos. Durante la dictadura recopiló testimonios sobre el terrorismo de Estado que luego contribuyeron a los juicios contra los represores. Era madre del entrenador de fútbol Mariano Soso",
-        "pubDate": "2026-11-12T21:47:00+00:00",
         "approxTime": false
       }
     ]
