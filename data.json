@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-11-13T01:01:05.688594+00:00",
+  "generatedAt": "2026-11-13T01:30:56.060546+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Caso Dolly: dos familias aportaron nuevos testimonios sobre presuntas sustracciones de bebés en Rosario",
+        "link": "https://www.rosario3.com/informaciongeneral/caso-dolly-dos-familias-aportaron-nuevos-testimonios-sobre-presuntas-sustracciones-de-bebes-en-rosario-20261112-0082.html",
+        "image": "https://www.rosario3.com/__export/1794531735748/sites/rosario3/img/2026/11/12/cats.jpg_1825222445.jpg",
+        "summary": "Las denuncias corresponden a hechos ocurridos en 1976 y 1978 en el Sanatorio Modelo y el hospital Roque Sáenz Peña. Una de las familias encontró la firma de la expartera en la partida de nacimiento de su hijo",
+        "pubDate": "2026-11-12T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Despidos en Villa Constitución: trabajadores marcharon y reclamaron el pago de indemnizaciones y salarios adeudados",
         "link": "https://www.rosario3.com/informaciongeneral/despidos-en-villa-constitucion-trabajadores-marcharon-y-reclamaron-el-pago-de-indemnizaciones-y-salarios-adeudados-20261112-0078.html",
         "image": "https://www.rosario3.com/__export/1794526727619/sites/rosario3/img/2026/11/12/villa_constitucion.jpeg_1825222445.jpeg",
         "summary": "Unos 90 empleados fueron desvinculados de la empresa Plantium dedicada a la agricultura de precisión y automatización. En una movilización, reclamaron que se les abonen las indemnizaciones correspondientes y los tres meses de sueldo que les deben. “La empresa nos dijo que no iba…",
-        "pubDate": "2026-11-12T12:00:00+00:00",
+        "pubDate": "2026-11-12T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/policiales/otra-encarnacion-de-la-banda-de-los-tucumanos-le-atribuyen-salideras-millonarias-y-operar-con-ayuda-local-20261112-0063.html",
         "image": "https://www.rosario3.com/__export/1794514926041/sites/rosario3/img/2026/11/12/tucumanos_1_1.jpg_672794305.jpg",
         "summary": "Seis hombres oriundos de Tucumán y una joven de barrio Tablada quedaron en prisión preventiva, acusados de integrar una asociación ilícita dedicada a robar a personas que trasladaban dinero. La organización está bajo investigación por 14 hechos desde junio",
-        "pubDate": "2026-11-12T11:59:00+00:00",
+        "pubDate": "2026-11-12T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/la-inflacion-en-octubre-fue-de-22-y-acumulo-331-en-los-ultimos-doce-meses-20261112-0056.html",
         "image": "https://www.rosario3.com/__export/1794510694960/sites/rosario3/img/2026/11/12/inflacion.jpg_1768679257.jpg",
         "summary": "El índice de precios acumuló 26,3% en lo que va del año. Alimentos, servicios regulados y los componentes estacionales estuvieron entre los rubros clave durante el mes. El IPC es una referencia para las negociaciones salariales, la actualización de contratos y las decisiones de…",
-        "pubDate": "2026-11-12T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La canasta básica saltó 3,5% en octubre: una familia necesita $1.690.000 para no ser pobre",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-canasta-basica-salto-35-en-octubre-una-familia-necesita-1.690.000-para-no-ser-pobre-20261112-0060.html",
-        "image": "https://www.rosario3.com/__export/1794512572859/sites/rosario3/img/2025/10/01/pobreza_rosario.jpg_506286608.jpg",
-        "summary": "El aumento en el costo de vida y de los alimentos fue el más alto desde enero y duplicó al registro de septiembre, según el Indec",
         "pubDate": "2026-11-12T11:57:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,42 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Crimen del taxista Eduardo Piris: tras diez años absolvieron al acusado por falta de pruebas",
+        "link": "https://www.lacapital.com.ar/policiales/crimen-del-taxista-eduardo-piris-diez-anos-absolvieron-al-acusado-falta-pruebas-n10291897.html",
+        "image": "https://media.lacapital.com.ar/p/76a4bf1529dace827c862b5052fad0a0/adjuntos/203/imagenes/103/500/0103500299/1200x675/smart/piri.jpg",
+        "summary": "Un único testigo, un señalamiento difuso y un informe policial dudoso motivaron el fallo que liberó a Jonatan Vallejos por falta de evidencia. Estuvo tres años preso",
+        "pubDate": "2026-11-13T01:14:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Técnicos: se realizaron las elecciones en todo el país y en Rosario se presentó una sola lista",
+        "link": "https://www.lacapital.com.ar/ovacion/tecnicos-se-realizaron-las-elecciones-todo-el-pais-y-rosario-se-presento-una-sola-lista-n10291940.html",
+        "image": "https://media.lacapital.com.ar/p/9bfa392b888616306ce56f566182dc96/adjuntos/203/imagenes/103/528/0103528045/1200x675/smart/image-2026-11-12t211004083.png",
+        "summary": "Salvador Pasini fue reelegido a nivel nacional y Edgardo Redondo fue proclamado como secretario general de la seccional Rosario de la Atfa",
+        "pubDate": "2026-11-13T01:12:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Tres detenidos por un intento de homicidio en Villa Gobernador Gálvez",
+        "link": "https://www.lacapital.com.ar/policiales/tres-detenidos-un-intento-homicidio-villa-gobernador-galvez-n10291883.html",
+        "image": "https://media.lacapital.com.ar/p/da5b28325792ceb74c0d6f2fb7483e11/adjuntos/203/imagenes/103/527/0103527215/1200x675/smart/alisb.webp",
+        "summary": "El ataque fue con intenciones de robo. La Policía detuvo a los implicados luego de tres allanamientos",
+        "pubDate": "2026-11-13T01:06:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Tarifas: Caputo señaló que el cambio en el régimen de zona fría impulsó la inflación",
+        "link": "https://www.lacapital.com.ar/economia/tarifas-caputo-senalo-que-el-cambio-el-regimen-zona-fria-impulso-la-inflacion-n10291939.html",
+        "image": "https://media.lacapital.com.ar/p/4c4acfcf6bd05221004715cf7af816d5/adjuntos/203/imagenes/103/528/0103528061/2026-11-12-caputo.jpg",
+        "summary": "El Indec informó que el Índice de Precios al Consumidor saltó al 2,2 %. Las tarifas y los precios estacionales impulsaron las alzas. Las canastas básicas de pobreza e indigencia crecieron 3,5 % y 3,1 %, respectivamente",
+        "pubDate": "2026-11-13T00:59:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Los estatales denunciaron una pérdida de 21 % de su salario en la era Milei",
         "link": "https://www.lacapital.com.ar/economia/los-estatales-denunciaron-una-perdida-21-su-salario-la-era-milei-n10291937.html",
         "image": "https://media.lacapital.com.ar/p/609771b04d13455cb8aa99757f8af8aa/adjuntos/203/imagenes/103/359/0103359191/1200x675/smart/fresu3.jpg",
@@ -236,42 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/93ea83c7c59c572d45e5f5c8ee829cd4/adjuntos/203/imagenes/103/527/0103527490/1200x675/smart/imagealicia.jpg",
         "summary": "Fue docente, militante gremial y referente de los organismos de derechos humanos. Durante la dictadura recopiló testimonios sobre el terrorismo de Estado que luego contribuyeron a los juicios contra los represores. Era madre del entrenador de fútbol Mariano Soso",
         "pubDate": "2026-11-12T21:47:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Otro mensaje de Bullrich a Milei: \"Estamos listos para tratar la ley de discapacidad\"",
-        "link": "https://www.lacapital.com.ar/politica/otro-mensaje-bullrich-milei-estamos-listos-tratar-la-ley-discapacidad-n10291910.html",
-        "image": "https://media.lacapital.com.ar/p/c6f0bc4966642c23a99813d068fc5f41/adjuntos/203/imagenes/103/410/0103410029/1200x675/smart/pato-bullrich.jpg",
-        "summary": "Anunció que la bancada de La Libertad Avanza tiene los votos para sancionar la norma. \"El país que estamos construyendo es con todos los argentinos\", aseveró",
-        "pubDate": "2026-11-12T20:48:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Prisión preventiva para la banda de los tucumanos por una ola de salideras bancarias en Rosario",
-        "link": "https://www.lacapital.com.ar/policiales/prision-preventiva-la-banda-los-tucumanos-una-ola-salideras-bancarias-rosario-n10291854.html",
-        "image": "https://media.lacapital.com.ar/p/657c525653468b9aae80978f33070cb8/adjuntos/203/imagenes/103/527/0103527144/1200x675/smart/rob.jpg",
-        "summary": "La Justicia dictó dos años de prisión preventiva para siete acusados de integrar una organización que operaba en el centro y macrocentro. Entre los golpes investigados figura una salidera de $28 millones y una serie de robos a automovilistas",
-        "pubDate": "2026-11-12T20:45:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Inaugura Emergentes 2026, la exposición que reúne a 30 artistas de Argentina en el CEC",
-        "link": "https://www.lacapital.com.ar/zoom/inaugura-emergentes-2026-la-exposicion-que-reune-30-artistas-argentina-el-cec-n10291904.html",
-        "image": "https://media.lacapital.com.ar/p/529c643d5367084c20c28726db038421/adjuntos/203/imagenes/103/527/0103527420/1200x675/smart/image-2026-11-12t182159694.png",
-        "summary": "Se trata de un programa que promueve la práctica artística como un espacio de investigación sensible, encuentro y experimentación",
-        "pubDate": "2026-11-12T20:44:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Una dato de cuidado para Newell's: su rival en los playoffs tiene la ilusión de ir a la Libertadores",
-        "link": "https://www.lacapital.com.ar/ovacion/una-dato-cuidado-newells-su-rival-los-playoffs-tiene-la-ilusion-ir-la-libertadores-n10291902.html",
-        "image": "https://media.lacapital.com.ar/p/bac4013d9aeaceb8cf8cf7e83c135fbc/adjuntos/203/imagenes/103/527/0103527368/1200x675/smart/image-1.jpg",
-        "summary": "Gimnasia y Esgrima La Plata ya tiene pasaje a la Copa Sudamericana, pero aún sueña con entrar en el máximo torneo continental",
-        "pubDate": "2026-11-12T20:14:00+00:00",
         "approxTime": false
       }
     ]
