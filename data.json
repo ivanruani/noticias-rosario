@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T13:01:03.021188+00:00",
+  "generatedAt": "2026-11-14T13:30:54.406145+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Uatre: corren riesgo mil puestos de trabajo de peones temporarios en la región",
+        "link": "https://www.lacapital.com.ar/la-region/uatre-corren-riesgo-mil-puestos-trabajo-peones-temporarios-la-region-n10292087.html",
+        "image": "https://media.lacapital.com.ar/p/84f102d80e46588cdd481ffa68b71517/adjuntos/203/imagenes/103/529/0103529536/1200x675/smart/uatre-peligran-un-millar-puesto-trabajo-peones-temporarios.jpg",
+        "summary": "El sindicato de los trabajadores rurales advierte que la falta de llamado a su bolsa de trabajo pone en riesgo las fuentes laborales en la región",
+        "pubDate": "2026-11-14T13:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Roldán: un cumpleaños con 85 familiares: asado, tortas italianas y tarantelas",
+        "link": "https://www.lacapital.com.ar/la-region/roldan-un-cumpleanos-85-familiares-asado-tortas-italianas-y-tarantelas-n10292080.html",
+        "image": "https://media.lacapital.com.ar/p/5a5735c0958d086b6efb3e606d1832e7/adjuntos/203/imagenes/103/529/0103529532/1200x675/smart/bufarini-reunion-86-integrantes-la-familia-italiana-y-argentina-roldan.jpg",
+        "summary": "José Bufarini cumplió 56 años y los celebró en Roldán con una multitudinaria fiesta que reunió a la mitad de su familia bioceánica",
+        "pubDate": "2026-11-14T13:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Scaloni le restó importancia a la escasez de público: \"La gente es incondicional\"",
         "link": "https://www.lacapital.com.ar/ovacion/scaloni-le-resto-importancia-la-escasez-publico-la-gente-es-incondicional-n10292140.html",
         "image": "https://media.lacapital.com.ar/p/da4ec8b4dda6cc0a1d612956ef74091f/adjuntos/203/imagenes/103/529/0103529942/1200x675/smart/image-2026-11-14t080652825.png",
@@ -204,28 +222,10 @@
       },
       {
         "source": "La Capital",
-        "title": "Navidad en El Calafate y Año Nuevo en Ushuaia: dos opciones para celebrar en la Patagonia",
-        "link": "https://www.lacapital.com.ar/turismo/navidad-el-calafate-y-ano-nuevo-ushuaia-dos-propuestas-celebrar-la-patagonia-n10292031.html",
-        "image": "https://media.lacapital.com.ar/p/4ef93f9a0e4069b87a0908e61988958d/adjuntos/203/imagenes/103/529/0103529373/imagen-nota.jpg",
-        "summary": "Cenas especiales, productos regionales, cocina de autor y brindis forman parte de las experiencias que ofrecen Cerro Calafate Hotel y Hotel del Glaciar",
-        "pubDate": "2026-11-14T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Estados Unidos exige una declaración sanitaria a los pasajeros de vuelos internacionales",
-        "link": "https://www.lacapital.com.ar/turismo/estados-unidos-exige-una-declaracion-sanitaria-los-pasajeros-vuelos-internacionales-n10292032.html",
-        "image": "https://media.lacapital.com.ar/p/920ee6e4e46e9b139d63d921ec519079/adjuntos/203/imagenes/103/529/0103529418/imagen-nota.jpg",
-        "summary": "La medida rige desde el 3 de noviembre y alcanza también a quienes solo realizan una escala en territorio estadounidense",
-        "pubDate": "2026-11-14T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Diez viajes para hacer después de los 50: destinos que invitan a descubrir el mundo de otra manera",
-        "link": "https://www.lacapital.com.ar/turismo/diez-viajes-hacer-despues-los-50-destinos-que-invitan-descubrir-el-mundo-otra-manera-n10292033.html",
-        "image": "https://media.lacapital.com.ar/p/90dcffb50aa7a466fbe37c903c428778/adjuntos/203/imagenes/103/529/0103529396/imagen-nota.jpg",
-        "summary": "Desde los paisajes argentinos hasta los rincones más fascinantes de Europa y Asia, una selección de propuestas para conocer culturas y recorrer cada región",
+        "title": "IA y viajes: ¿cómo se llevan los argentinos con la inteligencia artificial?",
+        "link": "https://www.lacapital.com.ar/turismo/ia-y-viajes-como-se-llevan-los-argentinos-la-inteligencia-artificial-n10292075.html",
+        "image": "https://media.lacapital.com.ar/p/a0e2356ecc88b9c0d9459126862eb9b3/adjuntos/203/imagenes/103/529/0103529517/002-001-high-level-description-a-casual-iphone-s_ubimmomjwvgsfoo81mwyag_bllqdnhssdqshrfetkfpeq.jpg",
+        "summary": "Un estudio revela cómo se utiliza esta tecnología para encontrar actividades, comparar alternativas, administrar presupuestos y descubrir experiencias",
         "pubDate": "2026-11-14T10:00:00+00:00",
         "approxTime": false
       },
@@ -240,20 +240,29 @@
       },
       {
         "source": "La Capital",
-        "title": "IA y viajes: ¿cómo se llevan los argentinos con la inteligencia artificial?",
-        "link": "https://www.lacapital.com.ar/turismo/ia-y-viajes-como-se-llevan-los-argentinos-la-inteligencia-artificial-n10292075.html",
-        "image": "https://media.lacapital.com.ar/p/a0e2356ecc88b9c0d9459126862eb9b3/adjuntos/203/imagenes/103/529/0103529517/002-001-high-level-description-a-casual-iphone-s_ubimmomjwvgsfoo81mwyag_bllqdnhssdqshrfetkfpeq.jpg",
-        "summary": "Un estudio revela cómo se utiliza esta tecnología para encontrar actividades, comparar alternativas, administrar presupuestos y descubrir experiencias",
+        "title": "Diez viajes para hacer después de los 50: destinos que invitan a descubrir el mundo de otra manera",
+        "link": "https://www.lacapital.com.ar/turismo/diez-viajes-hacer-despues-los-50-destinos-que-invitan-descubrir-el-mundo-otra-manera-n10292033.html",
+        "image": "https://media.lacapital.com.ar/p/90dcffb50aa7a466fbe37c903c428778/adjuntos/203/imagenes/103/529/0103529396/imagen-nota.jpg",
+        "summary": "Desde los paisajes argentinos hasta los rincones más fascinantes de Europa y Asia, una selección de propuestas para conocer culturas y recorrer cada región",
         "pubDate": "2026-11-14T10:00:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Primera Nacional: todo lo que hay que saber del Reducido en busca del ascenso",
-        "link": "https://www.lacapital.com.ar/ovacion/primera-nacional-todo-lo-que-hay-que-saber-del-reducido-busca-del-ascenso-n10230597.html",
-        "image": "https://media.lacapital.com.ar/p/fa511078c9e8438d11bbad28d2834dfb/adjuntos/203/imagenes/103/528/0103528715/1200x675/smart/image-21.jpg",
-        "summary": "Este sábado comenzará la actividad con cinco partidos correspondientes a los octavos de final en busca del salto a primera. Horarios y dónde se pueden ver",
-        "pubDate": "2026-11-14T09:30:00+00:00",
+        "title": "Estados Unidos exige una declaración sanitaria a los pasajeros de vuelos internacionales",
+        "link": "https://www.lacapital.com.ar/turismo/estados-unidos-exige-una-declaracion-sanitaria-los-pasajeros-vuelos-internacionales-n10292032.html",
+        "image": "https://media.lacapital.com.ar/p/920ee6e4e46e9b139d63d921ec519079/adjuntos/203/imagenes/103/529/0103529418/imagen-nota.jpg",
+        "summary": "La medida rige desde el 3 de noviembre y alcanza también a quienes solo realizan una escala en territorio estadounidense",
+        "pubDate": "2026-11-14T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Navidad en El Calafate y Año Nuevo en Ushuaia: dos opciones para celebrar en la Patagonia",
+        "link": "https://www.lacapital.com.ar/turismo/navidad-el-calafate-y-ano-nuevo-ushuaia-dos-propuestas-celebrar-la-patagonia-n10292031.html",
+        "image": "https://media.lacapital.com.ar/p/4ef93f9a0e4069b87a0908e61988958d/adjuntos/203/imagenes/103/529/0103529373/imagen-nota.jpg",
+        "summary": "Cenas especiales, productos regionales, cocina de autor y brindis forman parte de las experiencias que ofrecen Cerro Calafate Hotel y Hotel del Glaciar",
+        "pubDate": "2026-11-14T10:00:00+00:00",
         "approxTime": false
       },
       {
@@ -262,15 +271,6 @@
         "link": "https://www.lacapital.com.ar/la-ciudad/delivery-rosario-cuatro-cada-diez-repartidores-sufrieron-accidentes-laborales-n10291991.html",
         "image": "https://media.lacapital.com.ar/p/514e8f9a68dd70cc50012ff1c2e6b115/adjuntos/203/imagenes/103/075/0103075989/1200x675/smart/cadetes-pedidos-ya-repartidores.png",
         "summary": "Un relevamiento a 2 mil trabajadores reveló que el 77 % vive de las apps. El municipio lanzó un programa gratuito con capacitaciones y elementos de seguridad",
-        "pubDate": "2026-11-14T09:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Por primera vez, Rosario enviará dos equipos universitarios al certamen de programación más prestigioso del mundo",
-        "link": "https://www.lacapital.com.ar/la-ciudad/por-primera-vez-rosario-enviara-dos-equipos-universitarios-al-certamen-programacion-mas-prestigioso-del-mundo-n10292065.html",
-        "image": "https://media.lacapital.com.ar/p/3319690a1a35d12c6ef13b2209586e16/adjuntos/203/imagenes/103/529/0103529282/1200x675/smart/utn-unr-programacion.jpg",
-        "summary": "Uno de los conjuntos pertenece a la UNR, mientras que el otro es de la UTN. De qué se trata esta competencia que pone a Rosario ante los ojos del mundo",
         "pubDate": "2026-11-14T09:30:00+00:00",
         "approxTime": false
       }
