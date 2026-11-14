@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-11-14T00:01:10.335835+00:00",
+  "generatedAt": "2026-11-14T00:30:59.157751+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Pablo Javkin anunció \"una nueva era para el transporte\" con la llegada de 93 colectivos a GNC: qué líneas renovarán sus unidades desde el lunes",
+        "link": "https://www.rosario3.com/informaciongeneral/pablo-javkin-anuncio-una-nueva-era-para-el-transporte-con-la-llegada-de-93-colectivos-a-gnc-que-lineas-renovaran-sus-unidades-desde-el-lunes-20261113-0059.html",
+        "image": "https://www.rosario3.com/__export/1794614110297/sites/rosario3/img/2026/11/13/cole_gnc.jpg_28271920.jpg",
+        "summary": "El intendente de Rosario confirmó que comenzará el recambio completo de los coches de varias líneas y que, en las próximas dos semanas, se sumarán más. Destacó que serán unidades más silenciosas, sustentables y con tecnología para mejorar el servicio",
+        "pubDate": "2026-11-13T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "El velero del quebrado y preso financista Luis Herrera se remató en 38.500 dólares",
         "link": "https://www.rosario3.com/informaciongeneral/el-velero-del-quebrado-y-preso-financista-herrera-se-remato-en-38.500-dolares-20261113-0057.html",
         "image": "https://www.rosario3.com/__export/1794609418380/sites/rosario3/img/2025/04/09/herrera_esposado_jpg_1756841869_jpg_1756841869_crop1733522206944_jpg_1756841869.jpg_1067613685.jpg",
         "summary": "La embarcación es un Oceanic 321 modelo 1995 con 10 metros de eslora llamado AMIC. También se subastaron una oficina y tres cocheras. La Justicia lleva recolectados algo menos de un millón de dólares y él quedó debiendo 60 millones",
-        "pubDate": "2026-11-13T12:00:00+00:00",
+        "pubDate": "2026-11-13T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/policiales/perpetua-para-tres-por-el-crimen-del-policia-cesar-carmona-lo-siguieron-desde-una-financiera-y-lo-ejecutaron-frente-a-la-pdi-para-robarle-20261113-0041.html",
         "image": "https://www.rosario3.com/__export/1794597406163/sites/rosario3/img/2023/09/14/hallazgo_c3_sanchez_de_bustamante_al_400.jpg_28271919.jpg",
         "summary": "El inspector fue asesinado a tiros el 14 de septiembre de 2023, cuando llegaba a su lugar de trabajo luego de hacer adicionales en una financiera. La investigación estableció que dos autos lo persiguieron desde el centro y que el ataque fue una emboscada para robarle el bolso",
-        "pubDate": "2026-11-13T11:59:00+00:00",
+        "pubDate": "2026-11-13T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,21 +35,12 @@
         "link": "https://www.rosario3.com/informaciongeneral/nube-tornadica-en-villa-canas-y-granizo-en-teodelina-la-tormenta-avanzaba-sobre-localidades-del-sur-santafesino-bajo-alerta-naranja-20261113-0044.html",
         "image": "https://www.rosario3.com/__export/1794600189738/sites/rosario3/img/2026/11/13/gustnadoo.jpg_982625323.jpg",
         "summary": "El Servicio Meteorológico Nacional emitió un alerta naranja por tormentas fuertes para la porción sur de la provincia de Santa Fe este viernes por la tarde, incluyendo a Rosario. Pasado el mediodía, ya se habían registrado fenómenos de variada intensidad en la región",
-        "pubDate": "2026-11-13T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Esteban Alvarado recargado: vuelos con cocaína más la compra de vehículos y propiedades, la nueva acusación en su contra",
-        "link": "https://www.rosario3.com/policiales/esteban-alvarado-recargado-vuelos-con-cocaina-mas-la-compra-de-vehiculos-y-propiedades-la-nueva-acusacion-en-su-contra-20261113-0035.html",
-        "image": "https://www.rosario3.com/__export/1794586160625/sites/rosario3/img/2024/10/09/esteban_lindor_alvarado.jpg_636310389.jpg",
-        "summary": "El capo narco, que se encuentra alojado en el penal federal de Ezeiza, fue indagado en la mañana de este viernes como líder de una asociación ilícita que tenía como retransmisores de sus mensajes a su hijo Santino y a su abogado Claudio Tavella, ambos detenidos en los…",
         "pubDate": "2026-11-13T11:57:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Final del primer tiempo en La Bombonera: Argentina fue un poco más que Uruguay pero no pudo quebrar el cero",
+        "title": "Sorpresa en La Bombonera: Uruguay golpeó 2 veces a Argentina en el inicio del segundo tiempo",
         "link": "https://www.rosario3.com/deportes/argentina-enfrenta-a-uruguay-en-la-bombonera-el-equipo-de-scaloni-inicia-la-era-sin-messi-en-un-clasico-con-sabor-especial-20261112-0081.html",
         "image": "https://www.rosario3.com/__export/1794613301052/sites/rosario3/img/2026/11/13/julian.jpg_928314580.jpg",
         "summary": "La Selección nacional recibe este viernes a La Celeste, desde las 20, en un amistoso internacional correspondiente a la fecha FIFA. Será la primera presentación de la Albiceleste tras el retiro de Lionel Messi del seleccionado. La Celeste, ahora conducida por Diego Forlán…",
@@ -103,11 +103,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "La Cámara Federal unificó en un solo juicio oral las tres causas contra el exjuez Marcelo Bailaque",
+        "link": "https://www.rosario3.com/policiales/la-camara-federal-unifico-en-un-solo-juicio-oral-las-tres-causas-contra-el-exjuez-marcelo-bailaque-20261113-0058.html",
+        "image": "https://www.rosario3.com/__export/1794610906159/sites/rosario3/img/2025/04/30/marcelo_bailaque_1.jpg_113259651.jpg",
+        "summary": "La decisión fue tomada por los camaristas Aníbal Pineda y Elida Vidal. También prorrogaron por seis meses o hasta la apertura del debate la prisión preventiva del exmagistrado, que cumple bajo arresto domiciliario",
+        "pubDate": "2026-11-13T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Rosario y la región quedaron bajo alerta naranja por tormentas para la noche del viernes y madrugada del sábado",
         "link": "https://www.rosario3.com/informaciongeneral/viernes-con-calor-de-verano-la-semana-cerrara-con-temperatura-superior-a-los-30-y-tormentas-20261112-0073.html",
         "image": "https://www.rosario3.com/__export/1778062080880/sites/rosario3/img/2025/01/24/lluvia.jpg_928314580.jpg",
         "summary": "La temperatura máxima alcanzó lo 33 grados por la tarde. Además, el Servicio Meteorológico Nacional pronostica tormentas y precipitaciones desde la tarde y hasta la mañana del sábado. El aviso contempla a todo el centro-sur de la provincia de Santa Fe. Cómo seguirá el tiempo…",
-        "pubDate": "2026-11-12T11:49:00+00:00",
+        "pubDate": "2026-11-12T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,24 +125,15 @@
         "link": "https://www.rosario3.com/deportes/jonatan-gomez-volvio-a-jugar-al-futbol-tras-denunciar-extorsiones-y-asegurar-que-perdio-todo-por-la-ludopatia-20261113-0056.html",
         "image": "https://www.rosario3.com/__export/1787073199994/sites/rosario3/img/2025/05/23/joni_chau.jpg_928314580.jpg",
         "summary": "El exvolante de Rosario Central, que había reconocido que lo perdió todo por su adicción al juego, encontró una nueva oportunidad deportiva en Miami, donde se incorporó al Soccer Paradise FC, un equipo que participa de las categorías semiprofesionales",
-        "pubDate": "2026-11-13T11:48:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La gran definición del Torneo del Litoral, Pumas visitan a Italia y el Ñandú Junior en una final: todo lo que tener que saber del fin de semana de rugby",
-        "link": "https://www.rosario3.com/deportes/la-gran-definicion-del-torneo-del-litoral-pumas-visitan-a-italia-y-el-nandu-junior-en-una-final-todo-lo-que-tener-que-saber-del-fin-de-semana-de-rugby-20261113-0051.html",
-        "image": "https://www.rosario3.com/__export/1794604586147/sites/rosario3/img/2026/11/13/foto_principal_rugby_viernes_13_11_jpg.jpeg_928314580.jpeg",
-        "summary": "Con Duendes y Estudiantes en busca de la corona del TRL 2026, el test match de Los Pumas ante la Azzurra de Gonzalo Quesada, la presencia rosarina en el Argentino Juvenil y el arbitraje internacional en Twickenham, la ovalada vive días de máxima intensidad a nivel local…",
         "pubDate": "2026-11-13T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Milei respaldó al nuevo presidente de Paraguay y acordaron reunirse: \"Tiene en nosotros un socio, un aliado y un amigo\"",
-        "link": "https://www.rosario3.com/informaciongeneral/milei-respaldo-al-nuevo-presidente-de-paraguay-y-acordaron-reunirse-tiene-en-nosotros-un-socio-un-aliado-y-un-amigo-20261113-0047.html",
-        "image": "https://www.rosario3.com/__export/1794601374261/sites/rosario3/img/2026/11/13/milei_telefono.jpg_928314580.jpg",
-        "summary": "El mandatario argentino mantuvo una conversación telefónica con Pedro Alliana, quien asumió el 6 de noviembre tras la destitución de Santiago Peña",
+        "title": "Esteban Alvarado recargado: vuelos con cocaína más la compra de vehículos y propiedades, la nueva acusación en su contra",
+        "link": "https://www.rosario3.com/policiales/esteban-alvarado-recargado-vuelos-con-cocaina-mas-la-compra-de-vehiculos-y-propiedades-la-nueva-acusacion-en-su-contra-20261113-0035.html",
+        "image": "https://www.rosario3.com/__export/1794586160625/sites/rosario3/img/2024/10/09/esteban_lindor_alvarado.jpg_636310389.jpg",
+        "summary": "El capo narco, que se encuentra alojado en el penal federal de Ezeiza, fue indagado en la mañana de este viernes como líder de una asociación ilícita que tenía como retransmisores de sus mensajes a su hijo Santino y a su abogado Claudio Tavella, ambos detenidos en los…",
         "pubDate": "2026-11-13T11:46:00+00:00",
         "approxTime": true
       }
