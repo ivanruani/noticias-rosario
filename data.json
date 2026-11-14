@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T16:30:54.294140+00:00",
+  "generatedAt": "2026-11-14T17:00:26.374075+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Granata aclaró la polémica por \"Alma misionera\": \"Era para quienes en su recalcada vida pisaron una iglesia\"",
+        "link": "https://www.lacapital.com.ar/politica/granata-aclaro-la-polemica-alma-misionera-era-quienes-su-recalcada-vida-pisaron-una-iglesia-n10292182.html",
+        "image": "https://media.lacapital.com.ar/p/8adc1ff9f8fc98ad66a16a8ef7363f4e/adjuntos/203/imagenes/103/531/0103531038/leo-squarzon-amalia-granata.jpg",
+        "summary": "Daniella Semaan, esposa de Cesc Fàbregas e íntima amiga de Antonela Roccuzzo, destrozó a la diputada provincial por sus críticas a los \"new catholics\"",
+        "pubDate": "2026-11-14T16:55:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Alerta sobre animales silvestres en las rutas por El Niño: qué hay que hacer si aparecen",
+        "link": "https://www.lacapital.com.ar/la-region/alerta-animales-silvestres-las-rutas-el-nino-que-hay-que-hacer-si-aparecen-n10292188.html",
+        "image": "https://media.lacapital.com.ar/p/d8d280f6c62ec94ef51ba97ba97bfe51/adjuntos/203/imagenes/103/530/0103530911/1200x675/smart/image-2026-11-14t121607887.png",
+        "summary": "Varias especies fueron vistas en localidades santafesinas por la creciente de los cursos de agua y el arrastre de embalsados de camalotes",
+        "pubDate": "2026-11-14T16:36:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Las Guerreras K-Pop harán un tour mundial en vivo: ¿vienen a la Argentina?",
         "link": "https://www.lacapital.com.ar/zoom/las-guerreras-k-pop-haran-un-tour-mundial-vivo-vienen-la-argentina-n10292181.html",
         "image": "https://media.lacapital.com.ar/p/556c8699aacde4b282912d37e29234ec/adjuntos/203/imagenes/103/530/0103530912/1200x675/smart/image-2026-11-14t133047950.jpg",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/9528e87cdfda11c3c8c33dcc4472568f/adjuntos/203/imagenes/103/529/0103529568/1200x675/smart/img-20261113-wa0061.jpg",
         "summary": "Él es médico y tiene parálisis cerebral. Ella es docente. Se conocieron en una app de citas y años después se casaron. La discapacidad y el amor, en otra entrevista de Más Cerca, con Florencia O´Keeffe",
         "pubDate": "2026-11-14T11:08:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "De Identi-kit a los Latin Grammy: el rosarino que fue nominado con la música de Piazzolla",
-        "link": "https://www.lacapital.com.ar/zoom/de-identi-kit-los-latin-grammy-el-rosarino-que-fue-nominado-la-musica-piazzolla-n10291471.html",
-        "image": "https://media.lacapital.com.ar/p/f52b1656cd4203b5e3acd92707071ecc/adjuntos/203/imagenes/103/522/0103522966/1200x675/smart/image-2026-11-10t175651266.png",
-        "summary": "Sergio Rivas, exintegrante de la emblemática banda de rock local, integra el Quinteto Revolucionario, nominado a Mejor Álbum de Tango. El músico, que ya ganó el galardón en 2019, recordó sus comienzos en la ciudad",
-        "pubDate": "2026-11-14T11:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "A qué edad se infartan los rosarinos, y cómo funciona la Red pública de Infartos",
-        "link": "https://www.lacapital.com.ar/la-ciudad/a-que-edad-se-infartan-los-rosarinos-y-como-funciona-la-red-publica-infartos-n10291338.html",
-        "image": "https://media.lacapital.com.ar/p/6c0dc4934c886ce91b0fb58fd0d9dbf4/adjuntos/203/imagenes/103/522/0103522397/1200x675/smart/foto-hemodinamia-infarto.jpg",
-        "summary": "Al cumplirse 30 años del servicio de Hemodinamia del Hospital Centenario se brindaron datos sobre el sistema que logró acortar tiempos de espera para intervenir al paciente",
-        "pubDate": "2026-11-14T10:00:00+00:00",
         "approxTime": false
       }
     ]
