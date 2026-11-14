@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T11:01:04.813137+00:00",
+  "generatedAt": "2026-11-14T11:30:51.308686+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,11 +141,20 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "Navidad en El Calafate y Año Nuevo en Ushuaia: dos opciones para celebrar en la Patagonia",
-        "link": "https://www.lacapital.com.ar/turismo/navidad-el-calafate-y-ano-nuevo-ushuaia-dos-propuestas-celebrar-la-patagonia-n10292031.html",
-        "image": "https://media.lacapital.com.ar/p/4ef93f9a0e4069b87a0908e61988958d/adjuntos/203/imagenes/103/529/0103529373/imagen-nota.jpg",
-        "summary": "Cenas especiales, productos regionales, cocina de autor y brindis forman parte de las experiencias que ofrecen Cerro Calafate Hotel y Hotel del Glaciar",
-        "pubDate": "2026-11-14T10:00:00+00:00",
+        "title": "Wenceslao Moreno y Pilar Sullivan: la historia de amor que desafía los prejuicios",
+        "link": "https://www.lacapital.com.ar/la-capital/wenceslao-moreno-y-pilar-sullivan-la-historia-amor-que-desafia-los-prejuicios-n10291715.html",
+        "image": "https://media.lacapital.com.ar/p/9528e87cdfda11c3c8c33dcc4472568f/adjuntos/203/imagenes/103/529/0103529568/1200x675/smart/img-20261113-wa0061.jpg",
+        "summary": "Él es médico y tiene parálisis cerebral. Ella es docente. Se conocieron en una app de citas y años después se casaron. La discapacidad y el amor, en otra entrevista de Más Cerca, con Florencia O´Keeffe",
+        "pubDate": "2026-11-14T11:08:23+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "De Identi-kit a los Latin Grammy: el rosarino que fue nominado con la música de Piazzolla",
+        "link": "https://www.lacapital.com.ar/zoom/de-identi-kit-los-latin-grammy-el-rosarino-que-fue-nominado-la-musica-piazzolla-n10291471.html",
+        "image": "https://media.lacapital.com.ar/p/f52b1656cd4203b5e3acd92707071ecc/adjuntos/203/imagenes/103/522/0103522966/1200x675/smart/image-2026-11-10t175651266.png",
+        "summary": "Sergio Rivas, exintegrante de la emblemática banda de rock local, integra el Quinteto Revolucionario, nominado a Mejor Álbum de Tango. El músico, que ya ganó el galardón en 2019, recordó sus comienzos en la ciudad",
+        "pubDate": "2026-11-14T11:00:00+00:00",
         "approxTime": false
       },
       {
@@ -159,19 +168,10 @@
       },
       {
         "source": "La Capital",
-        "title": "IA y viajes: ¿cómo se llevan los argentinos con la inteligencia artificial?",
-        "link": "https://www.lacapital.com.ar/turismo/ia-y-viajes-como-se-llevan-los-argentinos-la-inteligencia-artificial-n10292075.html",
-        "image": "https://media.lacapital.com.ar/p/a0e2356ecc88b9c0d9459126862eb9b3/adjuntos/203/imagenes/103/529/0103529517/002-001-high-level-description-a-casual-iphone-s_ubimmomjwvgsfoo81mwyag_bllqdnhssdqshrfetkfpeq.jpg",
-        "summary": "Un estudio revela cómo se utiliza esta tecnología para encontrar actividades, comparar alternativas, administrar presupuestos y descubrir experiencias",
-        "pubDate": "2026-11-14T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Un invernadero en el corazón de Córdoba: tres espacios para descubrir los sabores del territorio",
-        "link": "https://www.lacapital.com.ar/un-invernadero-el-corazon-cordoba-tres-espacios-descubrir-los-sabores-del-territorio-n10292074.html",
-        "image": "https://media.lacapital.com.ar/p/126bd09ea440160dc00fd453fabc45a9/adjuntos/203/imagenes/103/211/0103211740/006-azur001.jpg",
-        "summary": "Azur Hotel & Spa abrió una nueva etapa de La Despensa de Azur, integrada por El Invernadero, El Secadero y La Cava",
+        "title": "Navidad en El Calafate y Año Nuevo en Ushuaia: dos opciones para celebrar en la Patagonia",
+        "link": "https://www.lacapital.com.ar/turismo/navidad-el-calafate-y-ano-nuevo-ushuaia-dos-propuestas-celebrar-la-patagonia-n10292031.html",
+        "image": "https://media.lacapital.com.ar/p/4ef93f9a0e4069b87a0908e61988958d/adjuntos/203/imagenes/103/529/0103529373/imagen-nota.jpg",
+        "summary": "Cenas especiales, productos regionales, cocina de autor y brindis forman parte de las experiencias que ofrecen Cerro Calafate Hotel y Hotel del Glaciar",
         "pubDate": "2026-11-14T10:00:00+00:00",
         "approxTime": false
       },
@@ -190,6 +190,24 @@
         "link": "https://www.lacapital.com.ar/turismo/diez-viajes-hacer-despues-los-50-destinos-que-invitan-descubrir-el-mundo-otra-manera-n10292033.html",
         "image": "https://media.lacapital.com.ar/p/90dcffb50aa7a466fbe37c903c428778/adjuntos/203/imagenes/103/529/0103529396/imagen-nota.jpg",
         "summary": "Desde los paisajes argentinos hasta los rincones más fascinantes de Europa y Asia, una selección de propuestas para conocer culturas y recorrer cada región",
+        "pubDate": "2026-11-14T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Un invernadero en el corazón de Córdoba: tres espacios para descubrir los sabores del territorio",
+        "link": "https://www.lacapital.com.ar/un-invernadero-el-corazon-cordoba-tres-espacios-descubrir-los-sabores-del-territorio-n10292074.html",
+        "image": "https://media.lacapital.com.ar/p/126bd09ea440160dc00fd453fabc45a9/adjuntos/203/imagenes/103/211/0103211740/006-azur001.jpg",
+        "summary": "Azur Hotel & Spa abrió una nueva etapa de La Despensa de Azur, integrada por El Invernadero, El Secadero y La Cava",
+        "pubDate": "2026-11-14T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "IA y viajes: ¿cómo se llevan los argentinos con la inteligencia artificial?",
+        "link": "https://www.lacapital.com.ar/turismo/ia-y-viajes-como-se-llevan-los-argentinos-la-inteligencia-artificial-n10292075.html",
+        "image": "https://media.lacapital.com.ar/p/a0e2356ecc88b9c0d9459126862eb9b3/adjuntos/203/imagenes/103/529/0103529517/002-001-high-level-description-a-casual-iphone-s_ubimmomjwvgsfoo81mwyag_bllqdnhssdqshrfetkfpeq.jpg",
+        "summary": "Un estudio revela cómo se utiliza esta tecnología para encontrar actividades, comparar alternativas, administrar presupuestos y descubrir experiencias",
         "pubDate": "2026-11-14T10:00:00+00:00",
         "approxTime": false
       },
@@ -249,29 +267,11 @@
       },
       {
         "source": "La Capital",
-        "title": "Primera C: Central Córdoba se juega el pasaje a las semifinales ante Cañuelas",
-        "link": "https://www.lacapital.com.ar/primera-c-central-cordoba-se-juega-el-pasaje-las-semifinales-canuelas-n10292106.html",
-        "image": "https://media.lacapital.com.ar/p/92bf2d93bdf43799368fa37402c1c910/adjuntos/203/imagenes/103/529/0103529618/1200x675/smart/image-2026-11-13t192128751.png",
-        "summary": "El Charrúa necesita el triunfo para meterse entre los mejores cuatro del Reducido de la Primera C e ir en busca del segundo ascenso a Primera B",
-        "pubDate": "2026-11-14T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "El futsal de Newell's juega la final de la Copa de Plata y la clasificación a la Supercopa 2027",
         "link": "https://www.lacapital.com.ar/ovacion/el-futsal-newells-juega-la-final-la-copa-plata-y-la-clasificacion-la-supercopa-2027-n10292068.html",
         "image": "https://media.lacapital.com.ar/p/2e75acbe7fc0aeb98b0cd6f86073057f/adjuntos/203/imagenes/103/529/0103529310/1200x675/smart/image.jpg",
         "summary": "El técnico de la primera división de futsal de Newell's, Daniel Puntonillo, palpitó con Ovación la final ante Estudiantil Porteño en el Claudio Newell.",
         "pubDate": "2026-11-14T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Maratón La Capital, quinta edición",
-        "link": "https://www.lacapital.com.ar/es-social/maraton-la-capital-quinta-edicion-n10291427.html",
-        "image": "https://media.lacapital.com.ar/p/f2d11a4f3223182eca9e172506747544/adjuntos/203/imagenes/103/529/0103529360/1200x675/smart/maraton-13-1-1.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-11-14T03:00:00+00:00",
         "approxTime": false
       }
     ]
