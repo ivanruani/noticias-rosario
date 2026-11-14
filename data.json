@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T12:30:54.247810+00:00",
+  "generatedAt": "2026-11-14T13:01:03.021188+00:00",
   "sites": {
     "rosario3": [
       {
@@ -49,20 +49,20 @@
       },
       {
         "source": "Rosario3",
-        "title": "El Niño: lanzan un sitio web para consultar la crecida del río y alertas vigentes en toda la provincia",
-        "link": "https://www.rosario3.com/informaciongeneral/el-nino-lanzan-un-sitio-web-para-consultar-la-crecida-del-rio-y-alertas-vigentes-en-toda-la-provincia-20261113-0062.html",
-        "image": "https://www.rosario3.com/__export/1794612581302/sites/rosario3/img/2026/11/13/whatsapp_image_2026-11-13_at_13_04_38.jpeg_2091917845.jpeg",
-        "summary": "La plataforma reúne información oficial y actualizada sobre el fenómeno. Gracias a la georreferenciación, los usuarios pueden consultar la situación del lugar donde se encuentran y acceder a teléfonos útiles, entre otros datos",
-        "pubDate": "2026-11-13T11:55:00+00:00",
+        "title": "Cómo sigue la agenda de Argentina tras la derrota contra Uruguay",
+        "link": "https://www.rosario3.com/deportes/como-sigue-la-agenda-de-argentina-tras-la-derrota-contra-uruguay-20261114-0002.html",
+        "image": "https://www.rosario3.com/__export/1794655341005/sites/rosario3/img/2026/11/14/nico_paz.jpg_480268841.jpg",
+        "summary": "Luego de cerrar la doble fecha FIFA, Argentina no jugará hasta el 2027. Se espera que sean para septiembre del año entrante",
+        "pubDate": "2026-11-14T11:55:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Pablo Javkin anunció \"una nueva era para el transporte\" con la llegada de 93 colectivos a GNC: qué líneas renovarán sus unidades desde el lunes",
-        "link": "https://www.rosario3.com/informaciongeneral/pablo-javkin-anuncio-una-nueva-era-para-el-transporte-con-la-llegada-de-93-colectivos-a-gnc-que-lineas-renovaran-sus-unidades-desde-el-lunes-20261113-0059.html",
-        "image": "https://www.rosario3.com/__export/1794614110297/sites/rosario3/img/2026/11/13/cole_gnc.jpg_28271920.jpg",
-        "summary": "El intendente de Rosario confirmó que comenzará el recambio completo de los coches de varias líneas y que, en las próximas dos semanas, se sumarán más. Destacó que serán unidades más silenciosas, sustentables y con tecnología para mejorar el servicio",
-        "pubDate": "2026-11-13T11:54:00+00:00",
+        "title": "Estados Unidos reanudó los vuelos tras más de cuatro horas de suspensión por una falla en el sistema aéreo",
+        "link": "https://www.rosario3.com/informaciongeneral/estados-unidos-reanudo-los-vuelos-tras-mas-de-cuatro-horas-de-suspension-por-una-falla-en-el-sistema-aereo-20261114-0007.html",
+        "image": "https://www.rosario3.com/__export/1794659966095/sites/rosario3/img/2026/11/14/fa6d9f8219a01aceddc0a73de222ca1a9eab6358_version1794659965582.jpg_1559198253.jpg",
+        "summary": "La Administración Federal de Aviación (FAA) volvió a autorizar los despegues en todo el país luego de una interrupción que afectó a los centros de control de tráfico aéreo. El desperfecto se originó en equipos de una antigua red de telecomunicaciones. Hubo cerca de 8.000…",
+        "pubDate": "2026-11-14T11:54:00+00:00",
         "approxTime": true
       },
       {
@@ -94,11 +94,38 @@
       },
       {
         "source": "Rosario3",
+        "title": "Por qué Fox Sports dejará de emitir en Argentina a partir de 2027",
+        "link": "https://www.rosario3.com/deportes/por-que-fox-sports-dejara-de-emitir-en-argentina-a-partir-de-2027-20261114-0004.html",
+        "image": "https://www.rosario3.com/__export/1794660570922/sites/rosario3/img/2026/11/14/image_-25-.jpg_928314580.jpg",
+        "summary": "La decisión comenzó a tomar forma a mediados de este año, cuando los empleados fueron convocados a una reunión en la que se les comunicó que Mediapro no renovaría los derechos de transmisión de la Copa Libertadores, la Champions League y la Fórmula 1. Los detalles",
+        "pubDate": "2026-11-14T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Boca y Banfield se enfrentan en busca de un lugar en la gran final de la Copa Argentina",
+        "link": "https://www.rosario3.com/deportes/boca-y-banfield-se-enfrentan-en-busca-de-un-lugar-en-la-gran-final-de-la-copa-argentina-20261114-0003.html",
+        "image": "https://www.rosario3.com/__export/1794660344930/sites/rosario3/img/2026/11/14/image_-24-.jpg_395595010.jpg",
+        "summary": "El encuentro será este sábado a partir de las 19 en Mendoza. El ganador se enfrentará en la gran final con Platense, que en las semifinales venció por penales a Atlético Tucumán",
+        "pubDate": "2026-11-14T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "El clima en Rosario: cesó el alerta y se viene un fin de semana gris y húmedo",
         "link": "https://www.rosario3.com/informaciongeneral/viernes-con-calor-de-verano-la-semana-cerrara-con-temperatura-superior-a-los-30-y-tormentas-20261112-0073.html",
         "image": "https://www.rosario3.com/__export/1778062080880/sites/rosario3/img/2025/01/24/lluvia.jpg_928314580.jpg",
         "summary": "Pese al anuncio oficial, las tormentas fuertes esquivaron la ciudad. Para este sabado se espera cielo nublado y caluroso. En tanto que recién para el lunes podrían volver las precipitaciones",
-        "pubDate": "2026-11-12T11:50:00+00:00",
+        "pubDate": "2026-11-12T11:48:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "El Niño: lanzan un sitio web para consultar la crecida del río y alertas vigentes en toda la provincia",
+        "link": "https://www.rosario3.com/informaciongeneral/el-nino-lanzan-un-sitio-web-para-consultar-la-crecida-del-rio-y-alertas-vigentes-en-toda-la-provincia-20261113-0062.html",
+        "image": "https://www.rosario3.com/__export/1794612581302/sites/rosario3/img/2026/11/13/whatsapp_image_2026-11-13_at_13_04_38.jpeg_2091917845.jpeg",
+        "summary": "La plataforma reúne información oficial y actualizada sobre el fenómeno. Gracias a la georreferenciación, los usuarios pueden consultar la situación del lugar donde se encuentran y acceder a teléfonos útiles, entre otros datos",
+        "pubDate": "2026-11-13T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -107,38 +134,29 @@
         "link": "https://www.rosario3.com/policiales/me-ponia-incomoda-fue-a-una-academia-de-danza-ataco-a-la-profesora-y-ahora-piden-que-sea-condenado-a-14-anos-20261113-0053.html",
         "image": "https://www.rosario3.com/__export/1794608817753/sites/rosario3/img/2026/11/13/sebastian-villarreal.jpg_672794304.jpg",
         "summary": "Sebastián Villarreal apuñaló a dos mujeres dentro un estudio de baile en el barrio porteño de Palermo. Fue en noviembre de 2020. El fiscal afirmó que no se encontrara bajo un brote psicótico y sostuvo que su comportamiento fue “minucioso y planificado”",
-        "pubDate": "2026-11-13T11:49:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La Cámara Federal unificó en un solo juicio oral las tres causas contra el exjuez Marcelo Bailaque",
-        "link": "https://www.rosario3.com/policiales/la-camara-federal-unifico-en-un-solo-juicio-oral-las-tres-causas-contra-el-exjuez-marcelo-bailaque-20261113-0058.html",
-        "image": "https://www.rosario3.com/__export/1794610906159/sites/rosario3/img/2025/04/30/marcelo_bailaque_1.jpg_113259651.jpg",
-        "summary": "La decisión fue tomada por los camaristas Aníbal Pineda y Elida Vidal. También prorrogaron por seis meses o hasta la apertura del debate la prisión preventiva del exmagistrado, que cumple bajo arresto domiciliario",
-        "pubDate": "2026-11-13T11:48:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El velero del quebrado y preso financista Luis Herrera se remató en 38.500 dólares",
-        "link": "https://www.rosario3.com/informaciongeneral/el-velero-del-quebrado-y-preso-financista-herrera-se-remato-en-38.500-dolares-20261113-0057.html",
-        "image": "https://www.rosario3.com/__export/1794609418380/sites/rosario3/img/2025/04/09/herrera_esposado_jpg_1756841869_jpg_1756841869_crop1733522206944_jpg_1756841869.jpg_1067613685.jpg",
-        "summary": "La embarcación es un Oceanic 321 modelo 1995 con 10 metros de eslora llamado AMIC. También se subastaron una oficina y tres cocheras. La Justicia lleva recolectados algo menos de un millón de dólares y él quedó debiendo 60 millones",
-        "pubDate": "2026-11-13T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Estados Unidos suspendió todos sus vuelos de salida a nivel nacional por \"razones de seguridad\"",
-        "link": "https://www.rosario3.com/informaciongeneral/estados-unidos-suspendio-todos-sus-vuelos-de-salida-a-nivel-nacional-por-razones-de-seguridad-20261113-0052.html",
-        "image": "https://www.rosario3.com/__export/1794607623922/sites/rosario3/img/2026/11/13/avixn.jpg_982625323.jpg",
-        "summary": "La orden de suspensión llegó tras registrarse graves problemas de comunicación en el control de tráfico aéreo y una alerta de seguridad por actividad no autorizada de drones en una base militar estadounidense en el Reino Unido",
         "pubDate": "2026-11-13T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Scaloni le restó importancia a la escasez de público: \"La gente es incondicional\"",
+        "link": "https://www.lacapital.com.ar/ovacion/scaloni-le-resto-importancia-la-escasez-publico-la-gente-es-incondicional-n10292140.html",
+        "image": "https://media.lacapital.com.ar/p/da4ec8b4dda6cc0a1d612956ef74091f/adjuntos/203/imagenes/103/529/0103529942/1200x675/smart/image-2026-11-14t080652825.png",
+        "summary": "El entrenador de la selección argentina destacó el rendimiento del equipo en la Bombonera a pesar la derrota ante Uruguay",
+        "pubDate": "2026-11-14T12:46:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Más que otro color: Rosario renueva cuatro líneas de colectivos con ómnibus que usan GNC",
+        "link": "https://www.lacapital.com.ar/la-ciudad/mas-que-otro-color-rosario-renueva-cuatro-lineas-colectivos-omnibus-que-usan-gnc-n10292129.html",
+        "image": "https://media.lacapital.com.ar/p/781face3326bb941c04899b2be9ffd1d/adjuntos/203/imagenes/103/529/0103529953/colectivo-gnc.jpg",
+        "summary": "La Municipalidad anunció la implementación de los vehículos como parte de un plan para actualizar el 15 por ciento de la flota del transporte urbano",
+        "pubDate": "2026-11-14T12:33:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Para el concejal Ramírez, la Carta Orgánica de VGG \"necesita tiempo, participación y consenso\"",
@@ -163,7 +181,7 @@
         "link": "https://www.lacapital.com.ar/la-capital/wenceslao-moreno-y-pilar-sullivan-la-historia-amor-que-desafia-los-prejuicios-n10291715.html",
         "image": "https://media.lacapital.com.ar/p/9528e87cdfda11c3c8c33dcc4472568f/adjuntos/203/imagenes/103/529/0103529568/1200x675/smart/img-20261113-wa0061.jpg",
         "summary": "Él es médico y tiene parálisis cerebral. Ella es docente. Se conocieron en una app de citas y años después se casaron. La discapacidad y el amor, en otra entrevista de Más Cerca, con Florencia O´Keeffe",
-        "pubDate": "2026-11-14T11:08:23+00:00",
+        "pubDate": "2026-11-14T11:08:00+00:00",
         "approxTime": false
       },
       {
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/3319690a1a35d12c6ef13b2209586e16/adjuntos/203/imagenes/103/529/0103529282/1200x675/smart/utn-unr-programacion.jpg",
         "summary": "Uno de los conjuntos pertenece a la UNR, mientras que el otro es de la UTN. De qué se trata esta competencia que pone a Rosario ante los ojos del mundo",
         "pubDate": "2026-11-14T09:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "¿Qué pasa con el suelo después de 12 años de uso de riego por goteo enterrado?",
-        "link": "https://www.lacapital.com.ar/agro/que-pasa-el-suelo-despues-12-anos-uso-riego-goteo-enterrado-n10290688.html",
-        "image": "https://media.lacapital.com.ar/p/9309fb61655673e061325fb8e5bb134d/adjuntos/203/imagenes/103/513/0103513713/1200x675/smart/riego-por-goteo3.jpg",
-        "summary": "Un estudio pionero en agricultura extensiva del Inta Manfredi analizó los efectos del riego enterrado sobre las propiedades químicas del suelo",
-        "pubDate": "2026-11-14T09:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Rosgan lanzó Roslot, una plataforma digital para comprar y vender hacienda para faena",
-        "link": "https://www.lacapital.com.ar/agro/rosgan-lanzo-roslot-una-plataforma-digital-comprar-y-vender-hacienda-faena-n10291948.html",
-        "image": "https://media.lacapital.com.ar/p/74f102106864b1da894acd47ece6d605/adjuntos/203/imagenes/103/528/0103528099/1200x675/smart/_dsc9594.jpg",
-        "summary": "El acuerdo entre Rosgan y la Cámara Argentina de Feedlot permitirá la compraventa online de hacienda para faena a partir de 2027. La plataforma busca generar transparencia en la formación de precios del sector",
-        "pubDate": "2026-11-14T09:15:00+00:00",
         "approxTime": false
       }
     ]
