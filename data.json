@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T17:00:26.374075+00:00",
+  "generatedAt": "2026-11-14T17:01:09.391655+00:00",
   "sites": {
     "rosario3": [
       {
@@ -94,11 +94,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Microsoft confirmó el restablecimiento total de sus servicios tras la caída global",
+        "link": "https://www.rosario3.com/tecnologia/microsoft-confirmo-el-restablecimiento-total-de-sus-servicios-tras-la-caida-global-20261114-0021.html",
+        "image": "https://www.rosario3.com/__export/1794674833525/sites/rosario3/img/2025/07/02/despidosmicrosoft_1.jpg_982625323.jpg",
+        "summary": "El gigante tecnológico dio por superado el incidente técnico que desde el jueves dejó fuera de línea a herramientas clave como Outlook, Teams y Copilot en al menos 74 países",
+        "pubDate": "2026-11-14T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Vinicius metió un doblete, pero Japón se lo ganó a Brasil en la última jugada",
         "link": "https://www.rosario3.com/deportes/vinicius-metio-un-doblete-pero-japon-se-lo-gano-a-brasil-en-la-ultima-jugada-20261114-0008.html",
         "image": "https://www.rosario3.com/__export/1794663924683/sites/rosario3/img/2026/11/14/image_-26-.jpg_1108956902.jpg",
         "summary": "Con goles de Kubo, Nakamura y Sakamoto (en el minuto 91), los nipones vencieron a la Canarinha 3-2 en un amistoso en Singapur",
-        "pubDate": "2026-11-14T11:50:00+00:00",
+        "pubDate": "2026-11-14T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -107,7 +116,7 @@
         "link": "https://www.rosario3.com/deportes/por-que-fox-sports-dejara-de-emitir-en-argentina-a-partir-de-2027-20261114-0004.html",
         "image": "https://www.rosario3.com/__export/1794660570922/sites/rosario3/img/2026/11/14/image_-25-.jpg_928314580.jpg",
         "summary": "La decisión comenzó a tomar forma a mediados de este año, cuando los empleados fueron convocados a una reunión en la que se les comunicó que Mediapro no renovaría los derechos de transmisión de la Copa Libertadores, la Champions League y la Fórmula 1. Los detalles",
-        "pubDate": "2026-11-14T11:49:00+00:00",
+        "pubDate": "2026-11-14T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +125,7 @@
         "link": "https://www.rosario3.com/deportes/boca-y-banfield-se-enfrentan-en-busca-de-un-lugar-en-la-gran-final-de-la-copa-argentina-20261114-0003.html",
         "image": "https://www.rosario3.com/__export/1794660344930/sites/rosario3/img/2026/11/14/image_-24-.jpg_395595010.jpg",
         "summary": "El encuentro será este sábado a partir de las 19 en Mendoza. El ganador se enfrentará en la gran final con Platense, que en las semifinales venció por penales a Atlético Tucumán",
-        "pubDate": "2026-11-14T11:48:00+00:00",
+        "pubDate": "2026-11-14T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,15 +134,6 @@
         "link": "https://www.rosario3.com/deportes/como-sigue-la-agenda-de-argentina-tras-la-derrota-contra-uruguay-20261114-0002.html",
         "image": "https://www.rosario3.com/__export/1794655341005/sites/rosario3/img/2026/11/14/nico_paz.jpg_480268841.jpg",
         "summary": "Luego de cerrar la doble fecha FIFA, Argentina no jugará hasta el 2027. Se espera que sean para septiembre del año entrante",
-        "pubDate": "2026-11-14T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La Previa del Run Run: ¿por qué llegan grandes cadenas de retail internacionales y cuándo estalla la burbuja comercial de Funes?",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-previa-del-run-run-por-que-llegan-grandes-cadenas-de-retail-internacionales-y-cuando-estalla-la-burbuja-comercial-de-funes-20261114-0001.html",
-        "image": "https://www.rosario3.com/__export/1789167090572/sites/rosario3/img/2026/09/11/marianoportada_jpg.jpeg_506286608.jpeg",
-        "summary": "El podcast con el anticipo de las novedades económicas y corporativas que se publicarán en la tradicional columna de los domingos en Rosario3",
         "pubDate": "2026-11-14T11:46:00+00:00",
         "approxTime": true
       }
