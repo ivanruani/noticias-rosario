@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T23:31:03.451080+00:00",
+  "generatedAt": "2026-11-14T00:01:10.335835+00:00",
   "sites": {
     "rosario3": [
       {
@@ -40,9 +40,9 @@
       },
       {
         "source": "Rosario3",
-        "title": "Argentina domina el partido pero no puede romper el cero ante Uruguay en La Bombonera",
+        "title": "Final del primer tiempo en La Bombonera: Argentina fue un poco más que Uruguay pero no pudo quebrar el cero",
         "link": "https://www.rosario3.com/deportes/argentina-enfrenta-a-uruguay-en-la-bombonera-el-equipo-de-scaloni-inicia-la-era-sin-messi-en-un-clasico-con-sabor-especial-20261112-0081.html",
-        "image": "https://www.rosario3.com/__export/1794527141315/sites/rosario3/img/2026/11/12/arg-uru.jpg_928314580.jpg",
+        "image": "https://www.rosario3.com/__export/1794613301052/sites/rosario3/img/2026/11/13/julian.jpg_928314580.jpg",
         "summary": "La Selección nacional recibe este viernes a La Celeste, desde las 20, en un amistoso internacional correspondiente a la fecha FIFA. Será la primera presentación de la Albiceleste tras el retiro de Lionel Messi del seleccionado. La Celeste, ahora conducida por Diego Forlán…",
         "pubDate": "2026-11-12T11:56:00+00:00",
         "approxTime": true
@@ -139,6 +139,24 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Cuando la ausencia de Lionel Messi se trasladó a las tribunas de una Bombonera semivacía",
+        "link": "https://www.lacapital.com.ar/ovacion/cuando-la-ausencia-lionel-messi-se-traslado-las-tribunas-una-bombonera-semivacia-n10292113.html",
+        "image": "https://media.lacapital.com.ar/p/dbd9b85250225b1642fe2c692cbfddb0/adjuntos/203/imagenes/103/529/0103529711/1200x675/smart/image-1.jpg",
+        "summary": "Lionel Messi ya no está y eso se notó en los escalones de La Bombonera, que no tuvo marco para el primer partido de la continuidad de Lionel Scaloni",
+        "pubDate": "2026-11-13T23:41:16+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Primera C: Acoglanis tiene el aval del nuevo presidente para seguir en el cargo en Argentino",
+        "link": "https://www.lacapital.com.ar/ovacion/primera-c-acoglanis-tiene-el-aval-del-nuevo-presidente-seguir-el-cargo-argentino-n10292102.html",
+        "image": "https://media.lacapital.com.ar/p/7959b6d7b787c74bba21ec32a22e21a5/adjuntos/203/imagenes/103/529/0103529603/1200x675/smart/image-2026-11-13t191143466.png",
+        "summary": "Leonardo Acoglanis se reunión con Juan Mateo Chulich y continuará al frente del equipo que disputará la Primera C 2027.",
+        "pubDate": "2026-11-13T23:41:12+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Simulaban ser un juez de la Corte Suprema nacional para extorsionar a familiares de presos",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/e5d39e654a4888dffbd7ace43a029e1e/adjuntos/203/imagenes/103/529/0103529307/1200x675/smart/image-2.jpg",
         "summary": "Era delantero y fue una gran figura en Europa, donde hizo muchos goles. Tuvo un paso fugaz por el Rojinegro, donde no pudo marcar",
         "pubDate": "2026-11-13T18:20:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La calidad de los huevos empieza antes de llegar a la mesa",
-        "link": "https://www.lacapital.com.ar/novedades/la-calidad-los-huevos-empieza-antes-llegar-la-mesa-n10292050.html",
-        "image": "https://media.lacapital.com.ar/p/2f88ecf5f5d1fa47f8ae22b72536aabb/adjuntos/203/imagenes/103/529/0103529255/1200x675/smart/dsc09809-1.jpg",
-        "summary": "Gallina Feliz es una empresa que propone un producto a partir de animales criados con total bienestar, libres de jaulas y con alimentación nutritiva",
-        "pubDate": "2026-11-13T18:19:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Walter Samuel dejará el cuerpo técnico de la selección argentina y tomará un nuevo rumbo",
-        "link": "https://www.lacapital.com.ar/ovacion/walter-samuel-dejara-el-cuerpo-tecnico-la-seleccion-argentina-y-tomara-un-nuevo-rumbo-n10292053.html",
-        "image": "https://media.lacapital.com.ar/p/25a947682fdcba432d529fd61b0d5fb9/adjuntos/203/imagenes/103/156/0103156498/scaloni-samuel-seleccion-argentina.jpg",
-        "summary": "Lionel Scaloni confirmó la salida del Muro, otro ex-Newell's. Indicó que lanzará su carrera en solitario y afirmó que no buscarán un reemplazante",
-        "pubDate": "2026-11-13T18:19:00+00:00",
         "approxTime": false
       }
     ]
