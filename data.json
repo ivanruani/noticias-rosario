@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T02:30:55.810482+00:00",
+  "generatedAt": "2026-11-14T03:01:08.813222+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,51 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Maratón La Capital, quinta edición",
+        "link": "https://www.lacapital.com.ar/es-social/maraton-la-capital-quinta-edicion-n10291427.html",
+        "image": "https://media.lacapital.com.ar/p/f2d11a4f3223182eca9e172506747544/adjuntos/203/imagenes/103/529/0103529360/1200x675/smart/maraton-13-1-1.jpg",
+        "summary": "La Capital",
+        "pubDate": "2026-11-14T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Reopening by Melocotón en Alto Rosario",
+        "link": "https://www.lacapital.com.ar/es-social/reopening-by-melocoton-alto-rosario-n10291422.html",
+        "image": "https://media.lacapital.com.ar/p/075e6ef9d034611c53335ea99613f230/adjuntos/203/imagenes/103/522/0103522453/1200x675/smart/melocoton-11.jpg",
+        "summary": "La Capital",
+        "pubDate": "2026-11-14T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Yoga y Pilates para niños",
+        "link": "https://www.lacapital.com.ar/es-social/yoga-y-pilates-ninos-n10291438.html",
+        "image": "https://media.lacapital.com.ar/p/6408a5deaa5ea54d7d4a9d7870210b4d/adjuntos/203/imagenes/103/522/0103522651/1200x675/smart/whatsapp-image-2026-11-08-at-200942.jpeg",
+        "summary": "Una propuesta de formación de Mirta de Fussi",
+        "pubDate": "2026-11-14T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Gran cierre entre Cuerdas y Letras",
+        "link": "https://www.lacapital.com.ar/es-social/gran-cierre-cuerdas-y-letras-n10291430.html",
+        "image": "https://media.lacapital.com.ar/p/39932a93806bbc74df608faeb330a20e/adjuntos/203/imagenes/103/522/0103522581/1200x675/smart/bcr-1.jpg",
+        "summary": "La Capital",
+        "pubDate": "2026-11-14T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Elena Roger se presentó en el teatro El Círculo",
+        "link": "https://www.lacapital.com.ar/es-social/elena-roger-se-presento-el-teatro-el-circulo-n10291436.html",
+        "image": "https://media.lacapital.com.ar/p/d58126a9281b15c47fc2ce8198b28898/adjuntos/203/imagenes/103/522/0103522619/1200x675/smart/elena-rose-2.jpg",
+        "summary": "La Capital",
+        "pubDate": "2026-11-14T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Argentina empezó la era post Messi con el pie izquierdo ante Uruguay en una Bombonera desértica",
         "link": "https://www.lacapital.com.ar/ovacion/argentina-empezo-la-era-post-messi-el-pie-izquierdo-uruguay-una-bombonera-desertica-n10292115.html",
         "image": "https://media.lacapital.com.ar/p/2c50fd7868b46e24e89f3a218e382b81/adjuntos/203/imagenes/103/529/0103529734/1200x675/smart/image-2.jpg",
@@ -227,51 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/be9c4a9d435d62e6b1b85fd5b58ade81/adjuntos/203/imagenes/103/529/0103529566/1200x675/smart/ruta-11-y-cruce-ruta-91.jpg",
         "summary": "La Etapa IV de la Red Federal de Concesiones ya está en marcha con 27 rutas en el listado, entre ellas el tramo que conecta Rosario con el centro de Santa Fe",
         "pubDate": "2026-11-13T21:51:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El Servicio Meteorológico Nacional emitió un alerta naranja por tormentas para Rosario",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-servicio-meteorologico-nacional-emitio-un-alerta-naranja-tormentas-rosario-n10292095.html",
-        "image": "https://media.lacapital.com.ar/p/ba7b971ed51e027062ae693d44748484/adjuntos/203/imagenes/100/661/0100661363/1200x675/smart/lluvia-tormenta-el-tiempo.jpg",
-        "summary": "La advertencia incluye a todo el centro y el sur de la provincia, área en la que se esperan acumulados considerables de precipitaciones y vientos con ráfagas",
-        "pubDate": "2026-11-13T21:23:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Clínicas y sanatorios de todo el país se reunieron en Rosario y piden extender la emergencia sanitaria",
-        "link": "https://www.lacapital.com.ar/clinicas-y-sanatorios-todo-el-pais-se-reunieron-rosario-y-piden-extender-la-emergencia-sanitaria-n10292061.html",
-        "image": "https://media.lacapital.com.ar/p/ac3bf9bc1e991c8ecabf8fdb2e11f11f/adjuntos/203/imagenes/103/529/0103529362/1200x675/smart/salud-privada-1311-1.jpg",
-        "summary": "La Asociación Civil Salud Federal, presidida por el rosarino Rodrigo Sánchez Almeyra, advirtió que 6.000 empresas podrían cerrar si no se renueva la medida",
-        "pubDate": "2026-11-13T20:56:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Milei respaldó al nuevo presidente de Paraguay y acordaron una reunión",
-        "link": "https://www.lacapital.com.ar/politica/milei-respaldo-al-nuevo-presidente-paraguay-y-acordaron-una-reunion-n10292081.html",
-        "image": "https://media.lacapital.com.ar/p/7fee048e34e8d657cb5fe9070fd505f4/adjuntos/203/imagenes/103/490/0103490444/1200x675/smart/milei-fundacion-faro.jpg",
-        "summary": "El mandatario argentino expresó su apoyo a Pedro Alliana. Ambos podrían verse en Buenos Aires o Asunción para hablar sobre cooperación política, económica y comercial",
-        "pubDate": "2026-11-13T20:53:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Clima y agro: la crecida del río Paraná avanza sobre campos bajos y preocupa su duración",
-        "link": "https://www.lacapital.com.ar/agro/clima-y-agro-la-crecida-del-rio-parana-avanza-campos-bajos-y-preocupa-su-duracion-n10292089.html",
-        "image": "https://media.lacapital.com.ar/p/d73cc146d33fc4e77eb5f612319dc023/adjuntos/203/imagenes/101/139/0101139912/1200x675/smart/crecida-ganado-2jpg.jpg",
-        "summary": "En el norte santafesino, en la zona de Villa Ocampo, los campos bajos comenzaron a inundarse y los productores debieron retirar hacienda hacia tierras más elevadas. Preocupación por las alertas de tormentas este fin de semana",
-        "pubDate": "2026-11-13T19:55:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Uruguay, la primera estación del nuevo ciclo de Lionel Scaloni, que sigue hasta el Mundial 2030",
-        "link": "https://www.lacapital.com.ar/ovacion/uruguay-la-primera-estacion-del-nuevo-ciclo-lionel-scaloni-que-sigue-el-mundial-2030-n10291936.html",
-        "image": "https://media.lacapital.com.ar/p/724fa3ed505c024cfac59e74b581b738/adjuntos/203/imagenes/103/528/0103528044/1200x675/smart/image-14.jpg",
-        "summary": "La AFA confirmó lo que se sabía: Lionel Scaloni renovó contrato y ante Uruguay se inicia la segunda parte de un período exitoso, ya sin Messi",
-        "pubDate": "2026-11-13T19:41:00+00:00",
         "approxTime": false
       }
     ]
