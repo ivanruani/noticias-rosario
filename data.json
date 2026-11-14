@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T00:30:59.157751+00:00",
+  "generatedAt": "2026-11-14T01:01:16.877794+00:00",
   "sites": {
     "rosario3": [
       {
@@ -40,7 +40,7 @@
       },
       {
         "source": "Rosario3",
-        "title": "Sorpresa en La Bombonera: Uruguay golpeó 2 veces a Argentina en el inicio del segundo tiempo",
+        "title": "Julián Álvarez descontó y Argentina se ilusiona con el empate ante Uruguay",
         "link": "https://www.rosario3.com/deportes/argentina-enfrenta-a-uruguay-en-la-bombonera-el-equipo-de-scaloni-inicia-la-era-sin-messi-en-un-clasico-con-sabor-especial-20261112-0081.html",
         "image": "https://www.rosario3.com/__export/1794613301052/sites/rosario3/img/2026/11/13/julian.jpg_928314580.jpg",
         "summary": "La Selección nacional recibe este viernes a La Celeste, desde las 20, en un amistoso internacional correspondiente a la fecha FIFA. Será la primera presentación de la Albiceleste tras el retiro de Lionel Messi del seleccionado. La Celeste, ahora conducida por Diego Forlán…",
@@ -103,11 +103,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "\"Me ponía incómoda\": fue a una academia de danza, atacó a la profesora y ahora piden que sea condenado a 14 años",
+        "link": "https://www.rosario3.com/policiales/me-ponia-incomoda-fue-a-una-academia-de-danza-ataco-a-la-profesora-y-ahora-piden-que-sea-condenado-a-14-anos-20261113-0053.html",
+        "image": "https://www.rosario3.com/__export/1794608817753/sites/rosario3/img/2026/11/13/sebastian-villarreal.jpg_672794304.jpg",
+        "summary": "Sebastián Villarreal apuñaló a dos mujeres dentro un estudio de baile en el barrio porteño de Palermo. Fue en noviembre de 2020. El fiscal afirmó que no se encontrara bajo un brote psicótico y sostuvo que su comportamiento fue “minucioso y planificado”",
+        "pubDate": "2026-11-13T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "La Cámara Federal unificó en un solo juicio oral las tres causas contra el exjuez Marcelo Bailaque",
         "link": "https://www.rosario3.com/policiales/la-camara-federal-unifico-en-un-solo-juicio-oral-las-tres-causas-contra-el-exjuez-marcelo-bailaque-20261113-0058.html",
         "image": "https://www.rosario3.com/__export/1794610906159/sites/rosario3/img/2025/04/30/marcelo_bailaque_1.jpg_113259651.jpg",
         "summary": "La decisión fue tomada por los camaristas Aníbal Pineda y Elida Vidal. También prorrogaron por seis meses o hasta la apertura del debate la prisión preventiva del exmagistrado, que cumple bajo arresto domiciliario",
-        "pubDate": "2026-11-13T11:49:00+00:00",
+        "pubDate": "2026-11-13T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,16 +125,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/viernes-con-calor-de-verano-la-semana-cerrara-con-temperatura-superior-a-los-30-y-tormentas-20261112-0073.html",
         "image": "https://www.rosario3.com/__export/1778062080880/sites/rosario3/img/2025/01/24/lluvia.jpg_928314580.jpg",
         "summary": "La temperatura máxima alcanzó lo 33 grados por la tarde. Además, el Servicio Meteorológico Nacional pronostica tormentas y precipitaciones desde la tarde y hasta la mañana del sábado. El aviso contempla a todo el centro-sur de la provincia de Santa Fe. Cómo seguirá el tiempo…",
-        "pubDate": "2026-11-12T11:48:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Jonatan Gómez volvió a jugar al fútbol tras denunciar extorsiones y asegurar que perdió \"todo\" por la ludopatía",
-        "link": "https://www.rosario3.com/deportes/jonatan-gomez-volvio-a-jugar-al-futbol-tras-denunciar-extorsiones-y-asegurar-que-perdio-todo-por-la-ludopatia-20261113-0056.html",
-        "image": "https://www.rosario3.com/__export/1787073199994/sites/rosario3/img/2025/05/23/joni_chau.jpg_928314580.jpg",
-        "summary": "El exvolante de Rosario Central, que había reconocido que lo perdió todo por su adicción al juego, encontró una nueva oportunidad deportiva en Miami, donde se incorporó al Soccer Paradise FC, un equipo que participa de las categorías semiprofesionales",
-        "pubDate": "2026-11-13T11:47:00+00:00",
+        "pubDate": "2026-11-12T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -139,6 +139,24 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "El tiempo en Rosario: la inestabilidad seguirá durante parte del sábado",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-la-inestabilidad-seguira-parte-del-sabado-n10292119.html",
+        "image": "https://media.lacapital.com.ar/p/013e05a430c2fd1819f80e22f96b2362/adjuntos/203/imagenes/100/295/0100295754/1200x675/smart/temporal-rosariojpg.jpg",
+        "summary": "Tras las tormentas de este viernes, se esperan nuevas lluvias en las primeras horas del fin de semana aunque luego se irán disipando las nubes",
+        "pubDate": "2026-11-14T00:59:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Todos los caminos de la política de Central vuelven a confluir en Gonzalo Belloso",
+        "link": "https://www.lacapital.com.ar/ovacion/todos-los-caminos-la-politica-central-vuelven-confluir-gonzalo-belloso-n10292118.html",
+        "image": "https://media.lacapital.com.ar/p/d99695400969b64110ff516ff1aa59ef/adjuntos/203/imagenes/103/529/0103529779/1200x675/smart/image-3.jpg",
+        "summary": "El presidente de Central revisaría su postura de no presentarse a las elecciones y sería el único candidato en el cierre de las listas",
+        "pubDate": "2026-11-14T00:30:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Cuando la ausencia de Lionel Messi se trasladó a las tribunas de una Bombonera semivacía",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/0085e18febf94a09c738c68ec052e7ac/adjuntos/203/imagenes/103/241/0103241944/bielsa.avif",
         "summary": "Un portal de noticias deportivas publicó que hay directivos del fútbol trasandino interesados en contratar al rosarino, de exitoso pasado en el país",
         "pubDate": "2026-11-13T19:19:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Por la tormenta, suspendieron la jornada de este viernes en Colectividades",
-        "link": "https://www.lacapital.com.ar/la-ciudad/por-la-tormenta-suspendieron-la-jornada-este-viernes-colectividades-n10292063.html",
-        "image": "https://media.lacapital.com.ar/p/de21c5e453272121304354da7f37a2a1/adjuntos/203/imagenes/102/793/0102793767/1200x675/smart/colectividades4.jpg",
-        "summary": "Las proyecciones de fuertes lluvias se cumplieron y la organización decidió cancelar la actividad de hoy. El predio vuelve a recibir al público mañana",
-        "pubDate": "2026-11-13T18:23:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La fuerte revelación de un ex-Newell's: \"Casi morí por una sobredosis de cocaína\"",
-        "link": "https://www.lacapital.com.ar/ovacion/la-fuerte-revelacion-un-ex-newells-casi-mori-una-sobredosis-cocaina-n10292066.html",
-        "image": "https://media.lacapital.com.ar/p/e5d39e654a4888dffbd7ace43a029e1e/adjuntos/203/imagenes/103/529/0103529307/1200x675/smart/image-2.jpg",
-        "summary": "Era delantero y fue una gran figura en Europa, donde hizo muchos goles. Tuvo un paso fugaz por el Rojinegro, donde no pudo marcar",
-        "pubDate": "2026-11-13T18:20:00+00:00",
         "approxTime": false
       }
     ]
