@@ -1,32 +1,23 @@
 {
-  "generatedAt": "2026-11-14T12:01:03.328875+00:00",
+  "generatedAt": "2026-11-14T12:30:54.247810+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Rescataron a un galgo atropellado y desnutrido en zona noroeste y denunciarán penalmente a su responsable",
+        "link": "https://www.rosario3.com/informaciongeneral/rescataron-a-un-galgo-atropellado-y-desnutrido-en-zona-noroeste-y-denunciaran-penalmente-a-su-responsable-20261114-0006.html",
+        "image": "https://www.rosario3.com/__export/1794658191582/sites/rosario3/img/2026/11/14/p1k7b1446lq8g1b509mo4hnkqnb.jpg_982625323.jpg",
+        "summary": "El perro fue encontrado en muy malas condiciones de salud y sin recibir los cuidados necesarios. Tras ser atendido e internado, continúa recuperándose en un hogar de tránsito a cargo de la organización Galgos Libres",
+        "pubDate": "2026-11-14T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "El caso de la partera Dolly tiene una nueva denunciante: la historia de Silvia, que busca a su hijo tras ser secuestrada en dictadura",
         "link": "https://www.rosario3.com/informaciongeneral/el-caso-de-la-partera-dolly-tiene-una-nueva-denunciante-la-historia-de-silvia-que-busca-a-su-hijo-tras-ser-secuestrada-en-dictadura-20261113-0064.html",
         "image": "https://www.rosario3.com/__export/1794617012892/sites/rosario3/img/2026/11/13/silvia_jauregui.jpg_928314581.jpg",
         "summary": "Silvia Jáuregui tenía 18 años y estaba embarazada de cinco meses cuando fue secuestrada, en julio de 1976. Según su testimonio en Radio 2, permaneció cautiva durante cuatro días, dio a luz en una casa donde había otras mujeres y una partera le quitó a su hijo con la promesa de…",
-        "pubDate": "2026-11-13T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Pablo Javkin anunció \"una nueva era para el transporte\" con la llegada de 93 colectivos a GNC: qué líneas renovarán sus unidades desde el lunes",
-        "link": "https://www.rosario3.com/informaciongeneral/pablo-javkin-anuncio-una-nueva-era-para-el-transporte-con-la-llegada-de-93-colectivos-a-gnc-que-lineas-renovaran-sus-unidades-desde-el-lunes-20261113-0059.html",
-        "image": "https://www.rosario3.com/__export/1794614110297/sites/rosario3/img/2026/11/13/cole_gnc.jpg_28271920.jpg",
-        "summary": "El intendente de Rosario confirmó que comenzará el recambio completo de los coches de varias líneas y que, en las próximas dos semanas, se sumarán más. Destacó que serán unidades más silenciosas, sustentables y con tecnología para mejorar el servicio",
         "pubDate": "2026-11-13T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El velero del quebrado y preso financista Luis Herrera se remató en 38.500 dólares",
-        "link": "https://www.rosario3.com/informaciongeneral/el-velero-del-quebrado-y-preso-financista-herrera-se-remato-en-38.500-dolares-20261113-0057.html",
-        "image": "https://www.rosario3.com/__export/1794609418380/sites/rosario3/img/2025/04/09/herrera_esposado_jpg_1756841869_jpg_1756841869_crop1733522206944_jpg_1756841869.jpg_1067613685.jpg",
-        "summary": "La embarcación es un Oceanic 321 modelo 1995 con 10 metros de eslora llamado AMIC. También se subastaron una oficina y tres cocheras. La Justicia lleva recolectados algo menos de un millón de dólares y él quedó debiendo 60 millones",
-        "pubDate": "2026-11-13T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -35,25 +26,43 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/la-previa-del-run-run-por-que-llegan-grandes-cadenas-de-retail-internacionales-y-cuando-estalla-la-burbuja-comercial-de-funes-20261114-0001.html",
         "image": "https://www.rosario3.com/__export/1789167090572/sites/rosario3/img/2026/09/11/marianoportada_jpg.jpeg_506286608.jpeg",
         "summary": "El podcast con el anticipo de las novedades económicas y corporativas que se publicarán en la tradicional columna de los domingos en Rosario3",
-        "pubDate": "2026-11-14T11:57:00+00:00",
+        "pubDate": "2026-11-14T11:58:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Uruguay aprovechó su momento y derrotó 2 a 1 a Argentina en La Bombonera",
-        "link": "https://www.rosario3.com/deportes/argentina-enfrenta-a-uruguay-en-la-bombonera-el-equipo-de-scaloni-inicia-la-era-sin-messi-en-un-clasico-con-sabor-especial-20261112-0081.html",
-        "image": "https://www.rosario3.com/__export/1794613301052/sites/rosario3/img/2026/11/13/julian.jpg_928314580.jpg",
-        "summary": "Los charrúas se impusieron con goles de Balerdi en contra y Maxi Araujo; Julián Álvarez anotó el descuento para los de Scaloni",
-        "pubDate": "2026-11-12T11:56:00+00:00",
+        "title": "SimRosario: un joven rosarino recreó la ciudad con inteligencia artificial al estilo de un clásico videojuego",
+        "link": "https://www.rosario3.com/tecnologia/simrosario-un-joven-rosarino-recreo-la-ciudad-con-inteligencia-artificial-al-estilo-de-un-clasico-videojuego-20261113-0039.html",
+        "image": "https://www.rosario3.com/__export/1794594718380/sites/rosario3/img/2026/11/13/monumento.jpg_928314580.jpg",
+        "summary": "El proyecto, realizado por Agustín Abraham, transformó fotografías aéreas reales de la ciudad en una ilustración interactiva con la estética clásica del SimCity, gracias al uso de inteligencia artificial. “Tenía la idea desde mayo y sentí que era factible hacerlo para Rosario'…",
+        "pubDate": "2026-11-13T11:57:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Poca gente, muchas ausencias y Rulli capitán: todo lo que dejó el primer partido de la selección en la era post Messi",
-        "link": "https://www.rosario3.com/deportes/poca-gente-muchas-ausencias-y-rulli-capitan-todo-lo-que-dejo-el-primer-partido-de-la-seleccion-en-la-era-post-messi-20261113-0061.html",
-        "image": "https://www.rosario3.com/__export/1794615231839/sites/rosario3/img/2026/11/13/rulli-2026.jpg_1949715087.jpg",
-        "summary": "El arquero, habitualmente suplente, fue el elegido por Scaloni para llevar la cinta ante el retiro de Lionel y la ausencia de varios referentes; poco público en La Bombonera",
+        "title": "Newell’s llega a los octavos de final del torneo Clausura en el mejor momento del ciclo que conduce Kudelka",
+        "link": "https://www.rosario3.com/deportes/newells-llega-a-los-octavos-de-final-del-torneo-clausura-en-el-mejor-momento-del-ciclo-que-conduce-kudelka-20261113-0010.html",
+        "image": "https://www.rosario3.com/__export/1791068658015/sites/rosario3/img/2026/10/03/kudelka.jpg_928314580.jpg",
+        "summary": "Cuando un equipo reemplaza las ausencias con funcionamiento significa que las bases están consolidadas para afrontar las competencias",
+        "pubDate": "2026-11-13T11:56:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "El Niño: lanzan un sitio web para consultar la crecida del río y alertas vigentes en toda la provincia",
+        "link": "https://www.rosario3.com/informaciongeneral/el-nino-lanzan-un-sitio-web-para-consultar-la-crecida-del-rio-y-alertas-vigentes-en-toda-la-provincia-20261113-0062.html",
+        "image": "https://www.rosario3.com/__export/1794612581302/sites/rosario3/img/2026/11/13/whatsapp_image_2026-11-13_at_13_04_38.jpeg_2091917845.jpeg",
+        "summary": "La plataforma reúne información oficial y actualizada sobre el fenómeno. Gracias a la georreferenciación, los usuarios pueden consultar la situación del lugar donde se encuentran y acceder a teléfonos útiles, entre otros datos",
         "pubDate": "2026-11-13T11:55:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Pablo Javkin anunció \"una nueva era para el transporte\" con la llegada de 93 colectivos a GNC: qué líneas renovarán sus unidades desde el lunes",
+        "link": "https://www.rosario3.com/informaciongeneral/pablo-javkin-anuncio-una-nueva-era-para-el-transporte-con-la-llegada-de-93-colectivos-a-gnc-que-lineas-renovaran-sus-unidades-desde-el-lunes-20261113-0059.html",
+        "image": "https://www.rosario3.com/__export/1794614110297/sites/rosario3/img/2026/11/13/cole_gnc.jpg_28271920.jpg",
+        "summary": "El intendente de Rosario confirmó que comenzará el recambio completo de los coches de varias líneas y que, en las próximas dos semanas, se sumarán más. Destacó que serán unidades más silenciosas, sustentables y con tecnología para mejorar el servicio",
+        "pubDate": "2026-11-13T11:54:00+00:00",
         "approxTime": true
       },
       {
@@ -62,43 +71,25 @@
         "link": "https://www.rosario3.com/deportes/seguimiento-individual-argentino-el-ingreso-de-los-pibes-fue-lo-mas-destacado-de-la-seleccion-20261113-0060.html",
         "image": "https://www.rosario3.com/__export/1794617172593/sites/rosario3/img/2026/11/13/seguimiento.jpg_928314580.jpg",
         "summary": "Soulé y Prestianni mostraron sus credenciales en media de muchas ausencias en La Albiceleste",
-        "pubDate": "2026-11-13T11:54:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Estados Unidos suspendió todos sus vuelos de salida a nivel nacional por \"razones de seguridad\"",
-        "link": "https://www.rosario3.com/informaciongeneral/estados-unidos-suspendio-todos-sus-vuelos-de-salida-a-nivel-nacional-por-razones-de-seguridad-20261113-0052.html",
-        "image": "https://www.rosario3.com/__export/1794607623922/sites/rosario3/img/2026/11/13/avixn.jpg_982625323.jpg",
-        "summary": "La orden de suspensión llegó tras registrarse graves problemas de comunicación en el control de tráfico aéreo y una alerta de seguridad por actividad no autorizada de drones en una base militar estadounidense en el Reino Unido",
         "pubDate": "2026-11-13T11:53:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "La crecida del Paraná con invasión de camalotes alteró la costa rosarina y complicó la toma de Aguas",
-        "link": "https://www.rosario3.com/informaciongeneral/la-crecida-del-parana-con-invasion-de-camalotes-altero-la-costa-rosarina-y-complico-la-toma-de-aguas-20261113-0034.html",
-        "image": "https://www.rosario3.com/__export/1794586626023/sites/rosario3/img/2026/11/13/crecida_del_paranx_2b.jpg_1075653382.jpg",
-        "summary": "El río subió a 4,66 metros este viernes al mediodía y la corriente traía las típicas plantas acuáticas flotantes desde el norte. Además de copar las playas de la Rambla, La Florida y los clubes, esa vegetación acumulada obligó detener el suministro de la planta potabilizadora…",
-        "pubDate": "2026-11-13T11:52:00+00:00",
+        "title": "Uruguay aprovechó su momento y derrotó 2 a 1 a Argentina en La Bombonera",
+        "link": "https://www.rosario3.com/deportes/argentina-enfrenta-a-uruguay-en-la-bombonera-el-equipo-de-scaloni-inicia-la-era-sin-messi-en-un-clasico-con-sabor-especial-20261112-0081.html",
+        "image": "https://www.rosario3.com/__export/1794613301052/sites/rosario3/img/2026/11/13/julian.jpg_928314580.jpg",
+        "summary": "Los charrúas se impusieron con goles de Balerdi en contra y Maxi Araujo; Julián Álvarez anotó el descuento para los de Scaloni",
+        "pubDate": "2026-11-12T11:52:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Nube tornádica en Villa Cañás y granizo en Teodelina: postales de la tormenta en el sur santafesino, que sigue bajo alerta naranja",
-        "link": "https://www.rosario3.com/informaciongeneral/nube-tornadica-en-villa-canas-y-granizo-en-teodelina-la-tormenta-avanzaba-sobre-localidades-del-sur-santafesino-bajo-alerta-naranja-20261113-0044.html",
-        "image": "https://www.rosario3.com/__export/1794600189738/sites/rosario3/img/2026/11/13/gustnadoo.jpg_982625323.jpg",
-        "summary": "El Servicio Meteorológico Nacional emitió un alerta naranja por tormentas fuertes para la porción sur de la provincia de Santa Fe este viernes por la tarde, incluyendo a Rosario. Pasado el mediodía, ya se habían registrado fenómenos de variada intensidad en la región",
+        "title": "Poca gente, muchas ausencias y Rulli capitán: todo lo que dejó el primer partido de la selección en la era post Messi",
+        "link": "https://www.rosario3.com/deportes/poca-gente-muchas-ausencias-y-rulli-capitan-todo-lo-que-dejo-el-primer-partido-de-la-seleccion-en-la-era-post-messi-20261113-0061.html",
+        "image": "https://www.rosario3.com/__export/1794615231839/sites/rosario3/img/2026/11/13/rulli-2026.jpg_1949715087.jpg",
+        "summary": "El arquero, habitualmente suplente, fue el elegido por Scaloni para llevar la cinta ante el retiro de Lionel y la ausencia de varios referentes; poco público en La Bombonera",
         "pubDate": "2026-11-13T11:51:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Cuatreros se tirotearon con la policía rural en las islas frente a Rosario: hallaron un vacuno muerto",
-        "link": "https://www.rosario3.com/policiales/cuatreros-se-tirotearon-con-la-policia-rural-en-las-islas-frente-a-rosario-hallaron-un-vacuno-muerto-20261113-0050.html",
-        "image": "https://www.rosario3.com/__export/1794603596039/sites/rosario3/img/2026/11/13/victoria_-_islas_-_policia_-_cuatreros.jpg_1825222445.jpg",
-        "summary": "La Policía del Departamento Victoria se topó con cinco hombres en una lancha trasladando un bovino recién sacrificado. Tras una persecución por distintos cursos de agua, cuatro escaparon por la isla Castellanos y uno se arrojó al río. La Policía secuestró la lancha, dos…",
-        "pubDate": "2026-11-13T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -107,7 +98,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/viernes-con-calor-de-verano-la-semana-cerrara-con-temperatura-superior-a-los-30-y-tormentas-20261112-0073.html",
         "image": "https://www.rosario3.com/__export/1778062080880/sites/rosario3/img/2025/01/24/lluvia.jpg_928314580.jpg",
         "summary": "Pese al anuncio oficial, las tormentas fuertes esquivaron la ciudad. Para este sabado se espera cielo nublado y caluroso. En tanto que recién para el lunes podrían volver las precipitaciones",
-        "pubDate": "2026-11-12T11:49:00+00:00",
+        "pubDate": "2026-11-12T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +107,7 @@
         "link": "https://www.rosario3.com/policiales/me-ponia-incomoda-fue-a-una-academia-de-danza-ataco-a-la-profesora-y-ahora-piden-que-sea-condenado-a-14-anos-20261113-0053.html",
         "image": "https://www.rosario3.com/__export/1794608817753/sites/rosario3/img/2026/11/13/sebastian-villarreal.jpg_672794304.jpg",
         "summary": "Sebastián Villarreal apuñaló a dos mujeres dentro un estudio de baile en el barrio porteño de Palermo. Fue en noviembre de 2020. El fiscal afirmó que no se encontrara bajo un brote psicótico y sostuvo que su comportamiento fue “minucioso y planificado”",
-        "pubDate": "2026-11-13T11:48:00+00:00",
+        "pubDate": "2026-11-13T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -125,15 +116,24 @@
         "link": "https://www.rosario3.com/policiales/la-camara-federal-unifico-en-un-solo-juicio-oral-las-tres-causas-contra-el-exjuez-marcelo-bailaque-20261113-0058.html",
         "image": "https://www.rosario3.com/__export/1794610906159/sites/rosario3/img/2025/04/30/marcelo_bailaque_1.jpg_113259651.jpg",
         "summary": "La decisión fue tomada por los camaristas Aníbal Pineda y Elida Vidal. También prorrogaron por seis meses o hasta la apertura del debate la prisión preventiva del exmagistrado, que cumple bajo arresto domiciliario",
+        "pubDate": "2026-11-13T11:48:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "El velero del quebrado y preso financista Luis Herrera se remató en 38.500 dólares",
+        "link": "https://www.rosario3.com/informaciongeneral/el-velero-del-quebrado-y-preso-financista-herrera-se-remato-en-38.500-dolares-20261113-0057.html",
+        "image": "https://www.rosario3.com/__export/1794609418380/sites/rosario3/img/2025/04/09/herrera_esposado_jpg_1756841869_jpg_1756841869_crop1733522206944_jpg_1756841869.jpg_1067613685.jpg",
+        "summary": "La embarcación es un Oceanic 321 modelo 1995 con 10 metros de eslora llamado AMIC. También se subastaron una oficina y tres cocheras. La Justicia lleva recolectados algo menos de un millón de dólares y él quedó debiendo 60 millones",
         "pubDate": "2026-11-13T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Explosión en Lanús por la rotura de un caño de gas: al menos un muerto, 30 heridos y 2 desaparecidos",
-        "link": "https://www.rosario3.com/informaciongeneral/explosion-e-incendio-en-lanus-por-la-rotura-de-un-cano-maestro-de-gas-durante-una-reparacion-20261113-0028.html",
-        "image": "https://www.rosario3.com/__export/1794595801229/sites/rosario3/img/2026/11/13/gas.jpg_1768679257.jpg",
-        "summary": "Una máquina rompió un caño de gas y provocó una explosión durante la mañana de este viernes. Hay varias dotaciones de bomberos para controlar el incendio. El director de Defensa Civil de Lanús confirmó que hay dos detenidos, empleados",
+        "title": "Estados Unidos suspendió todos sus vuelos de salida a nivel nacional por \"razones de seguridad\"",
+        "link": "https://www.rosario3.com/informaciongeneral/estados-unidos-suspendio-todos-sus-vuelos-de-salida-a-nivel-nacional-por-razones-de-seguridad-20261113-0052.html",
+        "image": "https://www.rosario3.com/__export/1794607623922/sites/rosario3/img/2026/11/13/avixn.jpg_982625323.jpg",
+        "summary": "La orden de suspensión llegó tras registrarse graves problemas de comunicación en el control de tráfico aéreo y una alerta de seguridad por actividad no autorizada de drones en una base militar estadounidense en el Reino Unido",
         "pubDate": "2026-11-13T11:46:00+00:00",
         "approxTime": true
       }
