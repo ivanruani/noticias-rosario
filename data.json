@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T10:01:10.499971+00:00",
+  "generatedAt": "2026-11-14T10:13:34.304884+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,11 +141,56 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "Delivery en Rosario: cuatro de cada diez repartidores sufrieron accidentes laborales",
-        "link": "https://www.lacapital.com.ar/la-ciudad/delivery-rosario-cuatro-cada-diez-repartidores-sufrieron-accidentes-laborales-n10291991.html",
-        "image": "https://media.lacapital.com.ar/p/514e8f9a68dd70cc50012ff1c2e6b115/adjuntos/203/imagenes/103/075/0103075989/1200x675/smart/cadetes-pedidos-ya-repartidores.png",
-        "summary": "Un relevamiento a 2 mil trabajadores reveló que el 77 % vive de las apps. El municipio lanzó un programa gratuito con capacitaciones y elementos de seguridad",
-        "pubDate": "2026-11-14T09:30:00+00:00",
+        "title": "Navidad en El Calafate y Año Nuevo en Ushuaia: dos opciones para celebrar en la Patagonia",
+        "link": "https://www.lacapital.com.ar/turismo/navidad-el-calafate-y-ano-nuevo-ushuaia-dos-propuestas-celebrar-la-patagonia-n10292031.html",
+        "image": "https://media.lacapital.com.ar/p/4ef93f9a0e4069b87a0908e61988958d/adjuntos/203/imagenes/103/529/0103529373/imagen-nota.jpg",
+        "summary": "Cenas especiales, productos regionales, cocina de autor y brindis forman parte de las experiencias que ofrecen Cerro Calafate Hotel y Hotel del Glaciar",
+        "pubDate": "2026-11-14T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "A qué edad se infartan los rosarinos, y cómo funciona la Red pública de Infartos",
+        "link": "https://www.lacapital.com.ar/la-ciudad/a-que-edad-se-infartan-los-rosarinos-y-como-funciona-la-red-publica-infartos-n10291338.html",
+        "image": "https://media.lacapital.com.ar/p/6c0dc4934c886ce91b0fb58fd0d9dbf4/adjuntos/203/imagenes/103/522/0103522397/1200x675/smart/foto-hemodinamia-infarto.jpg",
+        "summary": "Al cumplirse 30 años del servicio de Hemodinamia del Hospital Centenario se brindaron datos sobre el sistema que logró acortar tiempos de espera para intervenir al paciente",
+        "pubDate": "2026-11-14T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "IA y viajes: ¿cómo se llevan los argentinos con la inteligencia artificial?",
+        "link": "https://www.lacapital.com.ar/turismo/ia-y-viajes-como-se-llevan-los-argentinos-la-inteligencia-artificial-n10292075.html",
+        "image": "https://media.lacapital.com.ar/p/a0e2356ecc88b9c0d9459126862eb9b3/adjuntos/203/imagenes/103/529/0103529517/002-001-high-level-description-a-casual-iphone-s_ubimmomjwvgsfoo81mwyag_bllqdnhssdqshrfetkfpeq.jpg",
+        "summary": "Un estudio revela cómo se utiliza esta tecnología para encontrar actividades, comparar alternativas, administrar presupuestos y descubrir experiencias",
+        "pubDate": "2026-11-14T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Un invernadero en el corazón de Córdoba: tres espacios para descubrir los sabores del territorio",
+        "link": "https://www.lacapital.com.ar/un-invernadero-el-corazon-cordoba-tres-espacios-descubrir-los-sabores-del-territorio-n10292074.html",
+        "image": "https://media.lacapital.com.ar/p/126bd09ea440160dc00fd453fabc45a9/adjuntos/203/imagenes/103/211/0103211740/006-azur001.jpg",
+        "summary": "Azur Hotel & Spa abrió una nueva etapa de La Despensa de Azur, integrada por El Invernadero, El Secadero y La Cava",
+        "pubDate": "2026-11-14T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Estados Unidos exige una declaración sanitaria a los pasajeros de vuelos internacionales",
+        "link": "https://www.lacapital.com.ar/turismo/estados-unidos-exige-una-declaracion-sanitaria-los-pasajeros-vuelos-internacionales-n10292032.html",
+        "image": "https://media.lacapital.com.ar/p/920ee6e4e46e9b139d63d921ec519079/adjuntos/203/imagenes/103/529/0103529418/imagen-nota.jpg",
+        "summary": "La medida rige desde el 3 de noviembre y alcanza también a quienes solo realizan una escala en territorio estadounidense",
+        "pubDate": "2026-11-14T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Diez viajes para hacer después de los 50: destinos que invitan a descubrir el mundo de otra manera",
+        "link": "https://www.lacapital.com.ar/turismo/diez-viajes-hacer-despues-los-50-destinos-que-invitan-descubrir-el-mundo-otra-manera-n10292033.html",
+        "image": "https://media.lacapital.com.ar/p/90dcffb50aa7a466fbe37c903c428778/adjuntos/203/imagenes/103/529/0103529396/imagen-nota.jpg",
+        "summary": "Desde los paisajes argentinos hasta los rincones más fascinantes de Europa y Asia, una selección de propuestas para conocer culturas y recorrer cada región",
+        "pubDate": "2026-11-14T10:00:00+00:00",
         "approxTime": false
       },
       {
@@ -154,6 +199,15 @@
         "link": "https://www.lacapital.com.ar/ovacion/primera-nacional-todo-lo-que-hay-que-saber-del-reducido-busca-del-ascenso-n10230597.html",
         "image": "https://media.lacapital.com.ar/p/fa511078c9e8438d11bbad28d2834dfb/adjuntos/203/imagenes/103/528/0103528715/1200x675/smart/image-21.jpg",
         "summary": "Este sábado comenzará la actividad con cinco partidos correspondientes a los octavos de final en busca del salto a primera. Horarios y dónde se pueden ver",
+        "pubDate": "2026-11-14T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Delivery en Rosario: cuatro de cada diez repartidores sufrieron accidentes laborales",
+        "link": "https://www.lacapital.com.ar/la-ciudad/delivery-rosario-cuatro-cada-diez-repartidores-sufrieron-accidentes-laborales-n10291991.html",
+        "image": "https://media.lacapital.com.ar/p/514e8f9a68dd70cc50012ff1c2e6b115/adjuntos/203/imagenes/103/075/0103075989/1200x675/smart/cadetes-pedidos-ya-repartidores.png",
+        "summary": "Un relevamiento a 2 mil trabajadores reveló que el 77 % vive de las apps. El municipio lanzó un programa gratuito con capacitaciones y elementos de seguridad",
         "pubDate": "2026-11-14T09:30:00+00:00",
         "approxTime": false
       },
@@ -213,65 +267,11 @@
       },
       {
         "source": "La Capital",
-        "title": "Reopening by Melocotón en Alto Rosario",
-        "link": "https://www.lacapital.com.ar/es-social/reopening-by-melocoton-alto-rosario-n10291422.html",
-        "image": "https://media.lacapital.com.ar/p/075e6ef9d034611c53335ea99613f230/adjuntos/203/imagenes/103/522/0103522453/1200x675/smart/melocoton-11.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-11-14T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "Maratón La Capital, quinta edición",
         "link": "https://www.lacapital.com.ar/es-social/maraton-la-capital-quinta-edicion-n10291427.html",
         "image": "https://media.lacapital.com.ar/p/f2d11a4f3223182eca9e172506747544/adjuntos/203/imagenes/103/529/0103529360/1200x675/smart/maraton-13-1-1.jpg",
         "summary": "La Capital",
         "pubDate": "2026-11-14T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Gran cierre entre Cuerdas y Letras",
-        "link": "https://www.lacapital.com.ar/es-social/gran-cierre-cuerdas-y-letras-n10291430.html",
-        "image": "https://media.lacapital.com.ar/p/39932a93806bbc74df608faeb330a20e/adjuntos/203/imagenes/103/522/0103522581/1200x675/smart/bcr-1.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-11-14T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Elena Roger se presentó en el teatro El Círculo",
-        "link": "https://www.lacapital.com.ar/es-social/elena-roger-se-presento-el-teatro-el-circulo-n10291436.html",
-        "image": "https://media.lacapital.com.ar/p/d58126a9281b15c47fc2ce8198b28898/adjuntos/203/imagenes/103/522/0103522619/1200x675/smart/elena-rose-2.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-11-14T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Yoga y Pilates para niños",
-        "link": "https://www.lacapital.com.ar/es-social/yoga-y-pilates-ninos-n10291438.html",
-        "image": "https://media.lacapital.com.ar/p/6408a5deaa5ea54d7d4a9d7870210b4d/adjuntos/203/imagenes/103/522/0103522651/1200x675/smart/whatsapp-image-2026-11-08-at-200942.jpeg",
-        "summary": "Una propuesta de formación de Mirta de Fussi",
-        "pubDate": "2026-11-14T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Argentina empezó la era post Messi con el pie izquierdo ante Uruguay en una Bombonera desértica",
-        "link": "https://www.lacapital.com.ar/ovacion/argentina-empezo-la-era-post-messi-el-pie-izquierdo-uruguay-una-bombonera-desertica-n10292115.html",
-        "image": "https://media.lacapital.com.ar/p/2c50fd7868b46e24e89f3a218e382b81/adjuntos/203/imagenes/103/529/0103529734/1200x675/smart/image-2.jpg",
-        "summary": "En un marco inesperado, casi sin público, la nueva era del entrenador de la selección argentina empezó con derrota sobre el nuevo combinado charrúa",
-        "pubDate": "2026-11-14T01:12:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El tiempo en Rosario: la inestabilidad seguirá durante parte del sábado",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-la-inestabilidad-seguira-parte-del-sabado-n10292119.html",
-        "image": "https://media.lacapital.com.ar/p/013e05a430c2fd1819f80e22f96b2362/adjuntos/203/imagenes/100/295/0100295754/1200x675/smart/temporal-rosariojpg.jpg",
-        "summary": "Tras las tormentas de este viernes, se esperan nuevas lluvias en las primeras horas del fin de semana aunque luego se irán disipando las nubes",
-        "pubDate": "2026-11-14T00:59:00+00:00",
         "approxTime": false
       }
     ]
