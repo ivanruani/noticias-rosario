@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T09:01:04.823843+00:00",
+  "generatedAt": "2026-11-14T09:30:56.283840+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,11 +141,47 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "Maratón La Capital, quinta edición",
-        "link": "https://www.lacapital.com.ar/es-social/maraton-la-capital-quinta-edicion-n10291427.html",
-        "image": "https://media.lacapital.com.ar/p/f2d11a4f3223182eca9e172506747544/adjuntos/203/imagenes/103/529/0103529360/1200x675/smart/maraton-13-1-1.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-11-14T03:00:00+00:00",
+        "title": "Rosgan lanzó Roslot, una plataforma digital para comprar y vender hacienda para faena",
+        "link": "https://www.lacapital.com.ar/agro/rosgan-lanzo-roslot-una-plataforma-digital-comprar-y-vender-hacienda-faena-n10291948.html",
+        "image": "https://media.lacapital.com.ar/p/74f102106864b1da894acd47ece6d605/adjuntos/203/imagenes/103/528/0103528099/1200x675/smart/_dsc9594.jpg",
+        "summary": "El acuerdo entre Rosgan y la Cámara Argentina de Feedlot permitirá la compraventa online de hacienda para faena a partir de 2027. La plataforma busca generar transparencia en la formación de precios del sector",
+        "pubDate": "2026-11-14T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "¿Qué pasa con el suelo después de 12 años de uso de riego por goteo enterrado?",
+        "link": "https://www.lacapital.com.ar/agro/que-pasa-el-suelo-despues-12-anos-uso-riego-goteo-enterrado-n10290688.html",
+        "image": "https://media.lacapital.com.ar/p/9309fb61655673e061325fb8e5bb134d/adjuntos/203/imagenes/103/513/0103513713/1200x675/smart/riego-por-goteo3.jpg",
+        "summary": "Un estudio pionero en agricultura extensiva del Inta Manfredi analizó los efectos del riego enterrado sobre las propiedades químicas del suelo",
+        "pubDate": "2026-11-14T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El futsal de Newell's juega la final de la Copa de Plata y la clasificación a la Supercopa 2027",
+        "link": "https://www.lacapital.com.ar/ovacion/el-futsal-newells-juega-la-final-la-copa-plata-y-la-clasificacion-la-supercopa-2027-n10292068.html",
+        "image": "https://media.lacapital.com.ar/p/2e75acbe7fc0aeb98b0cd6f86073057f/adjuntos/203/imagenes/103/529/0103529310/1200x675/smart/image.jpg",
+        "summary": "El técnico de la primera división de futsal de Newell's, Daniel Puntonillo, palpitó con Ovación la final ante Estudiantil Porteño en el Claudio Newell.",
+        "pubDate": "2026-11-14T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Duendes va por la gloria en la final del Regional del Litoral ante Estudiantes de Paraná",
+        "link": "https://www.lacapital.com.ar/ovacion/duendes-va-la-gloria-la-final-del-regional-del-litoral-estudiantes-parana-n10291941.html",
+        "image": "https://media.lacapital.com.ar/p/7c70fea6424ece4ecb077c2a050baaa0/adjuntos/203/imagenes/103/528/0103528047/1200x675/smart/image-15.jpg",
+        "summary": "Duendes vuelve a ser gran protagonista del Regional del Litoral y va por un título esquivo desde hace tres temporadas. A las 21, en el hipódromo",
+        "pubDate": "2026-11-14T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Primera C: Central Córdoba se juega el pasaje a las semifinales ante Cañuelas",
+        "link": "https://www.lacapital.com.ar/primera-c-central-cordoba-se-juega-el-pasaje-las-semifinales-canuelas-n10292106.html",
+        "image": "https://media.lacapital.com.ar/p/92bf2d93bdf43799368fa37402c1c910/adjuntos/203/imagenes/103/529/0103529618/1200x675/smart/image-2026-11-13t192128751.png",
+        "summary": "El Charrúa necesita el triunfo para meterse entre los mejores cuatro del Reducido de la Primera C e ir en busca del segundo ascenso a Primera B",
+        "pubDate": "2026-11-14T09:10:00+00:00",
         "approxTime": false
       },
       {
@@ -159,10 +195,10 @@
       },
       {
         "source": "La Capital",
-        "title": "Yoga y Pilates para niños",
-        "link": "https://www.lacapital.com.ar/es-social/yoga-y-pilates-ninos-n10291438.html",
-        "image": "https://media.lacapital.com.ar/p/6408a5deaa5ea54d7d4a9d7870210b4d/adjuntos/203/imagenes/103/522/0103522651/1200x675/smart/whatsapp-image-2026-11-08-at-200942.jpeg",
-        "summary": "Una propuesta de formación de Mirta de Fussi",
+        "title": "Maratón La Capital, quinta edición",
+        "link": "https://www.lacapital.com.ar/es-social/maraton-la-capital-quinta-edicion-n10291427.html",
+        "image": "https://media.lacapital.com.ar/p/f2d11a4f3223182eca9e172506747544/adjuntos/203/imagenes/103/529/0103529360/1200x675/smart/maraton-13-1-1.jpg",
+        "summary": "La Capital",
         "pubDate": "2026-11-14T03:00:00+00:00",
         "approxTime": false
       },
@@ -181,6 +217,15 @@
         "link": "https://www.lacapital.com.ar/es-social/elena-roger-se-presento-el-teatro-el-circulo-n10291436.html",
         "image": "https://media.lacapital.com.ar/p/d58126a9281b15c47fc2ce8198b28898/adjuntos/203/imagenes/103/522/0103522619/1200x675/smart/elena-rose-2.jpg",
         "summary": "La Capital",
+        "pubDate": "2026-11-14T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Yoga y Pilates para niños",
+        "link": "https://www.lacapital.com.ar/es-social/yoga-y-pilates-ninos-n10291438.html",
+        "image": "https://media.lacapital.com.ar/p/6408a5deaa5ea54d7d4a9d7870210b4d/adjuntos/203/imagenes/103/522/0103522651/1200x675/smart/whatsapp-image-2026-11-08-at-200942.jpeg",
+        "summary": "Una propuesta de formación de Mirta de Fussi",
         "pubDate": "2026-11-14T03:00:00+00:00",
         "approxTime": false
       },
@@ -227,51 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/7959b6d7b787c74bba21ec32a22e21a5/adjuntos/203/imagenes/103/529/0103529603/1200x675/smart/image-2026-11-13t191143466.png",
         "summary": "Leonardo Acoglanis se reunión con Juan Mateo Chulich y continuará al frente del equipo que disputará la Primera C 2027.",
         "pubDate": "2026-11-13T23:41:12+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Simulaban ser un juez de la Corte Suprema nacional para extorsionar a familiares de presos",
-        "link": "https://www.lacapital.com.ar/informacion-general/simulaban-ser-un-juez-la-corte-suprema-nacional-extorsionar-familiares-presos-n10292051.html",
-        "image": "https://media.lacapital.com.ar/p/8be8bcbe6e91ec3bc6560fa3c900270a/adjuntos/203/imagenes/103/529/0103529664/1200x675/smart/image-2026-11-13t200143528.png",
-        "summary": "La Justicia Federal juzgará a cuatro reclusos que pedían dinero o realizaban transacciones comerciales desde una prisión en Jujuy",
-        "pubDate": "2026-11-13T23:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Condenaron a un hombre que abusó de dos niñas que estaban bajo su cuidado",
-        "link": "https://www.lacapital.com.ar/policiales/condenaron-un-hombre-que-abuso-dos-ninas-que-estaban-su-cuidado-n10292058.html",
-        "image": "https://media.lacapital.com.ar/p/a169b80d81feaeaecfe327a76b26fc0b/adjuntos/203/imagenes/102/710/0102710972/2025-09-28-centro-justicia-penal-by_cmutti-81127499.jpg",
-        "summary": "Ambas eran menores de edad al momento de los hechos, que se dieron en diversos domicilios de las localidades de Rosario, Alvear y Granadero Baigorria",
-        "pubDate": "2026-11-13T22:52:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Tormenta en Santa Fe: granizo, un tornado reportado y árboles caídos",
-        "link": "https://www.lacapital.com.ar/la-region/tormenta-santa-fe-granizo-un-tornado-reportado-y-arboles-caidos-n10292103.html",
-        "image": "https://media.lacapital.com.ar/p/cb0af396d556eef019c16157be7e84da/adjuntos/203/imagenes/103/529/0103529594/1200x675/smart/tornado-villa-canas-3.jpg",
-        "summary": "El saldo parcial del fenómeno meteorológico sacudió a distintas localidades del sur y el centro provincial, que tienen por delante un alerta naranja vigente",
-        "pubDate": "2026-11-13T22:26:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Condenaron a perpetua a tres personas que siguieron y ejecutaron a un policía",
-        "link": "https://www.lacapital.com.ar/policiales/condenaron-perpetua-tres-personas-que-siguieron-y-ejecutaron-un-policia-n10292085.html",
-        "image": "https://media.lacapital.com.ar/p/7665e56a91cc58b82ac0a6ad4cf49d41/adjuntos/203/imagenes/103/140/0103140863/2026-05-07-centro-justicia-penal-by_hrio-82139551.jpg",
-        "summary": "Lo persiguieron desde una financiera donde hacía adicionales hasta la sede de la Policía de Investigaciones",
-        "pubDate": "2026-11-13T22:17:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El gobierno nacional avanza en la concesión de la ruta 11 y pone la lupa en el cordón industrial",
-        "link": "https://www.lacapital.com.ar/la-region/el-gobierno-nacional-avanza-la-concesion-la-ruta-11-y-pone-la-lupa-el-cordon-industrial-n10292091.html",
-        "image": "https://media.lacapital.com.ar/p/be9c4a9d435d62e6b1b85fd5b58ade81/adjuntos/203/imagenes/103/529/0103529566/1200x675/smart/ruta-11-y-cruce-ruta-91.jpg",
-        "summary": "La Etapa IV de la Red Federal de Concesiones ya está en marcha con 27 rutas en el listado, entre ellas el tramo que conecta Rosario con el centro de Santa Fe",
-        "pubDate": "2026-11-13T21:51:00+00:00",
         "approxTime": false
       }
     ]
