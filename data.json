@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T15:30:55.093409+00:00",
+  "generatedAt": "2026-11-14T16:01:05.125980+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,11 +13,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Charlas de Mercado: revuelo por rebaja del 70% en comisiones a corredores de granos",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/charlas-de-mercado-revuelo-por-rebaja-del-70-en-comisiones-a-corredores-de-granos-20261114-0009.html",
+        "image": "https://www.rosario3.com/__export/1794663597993/sites/rosario3/img/2026/11/14/rosganeta_version1794663597524.jpg_884113636.jpg",
+        "summary": "Además, en el Rosgan sienten que “pararon la sangría”, en MAV analizan con el gobierno de la provincia sumar la negociación de los pagos por certificados de obra pública, y en el A3 estudian lanzar sus propios ETF",
+        "pubDate": "2026-11-14T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Santa Fe exportó un 33,6% más en lo que va del año y se ubica segunda en el ranking nacional",
         "link": "https://www.rosario3.com/-economia-negocios-agro-/santa-fe-exporto-un-336-mas-en-lo-que-va-del-ano-y-se-ubica-segunda-en-el-ranking-nacional-20261114-0013.html",
         "image": "https://www.rosario3.com/__export/1794665446194/sites/rosario3/img/2026/11/14/whatsapp_image_2026-11-14_at_09_02_49_version1794665445670.jpeg_1010838703.jpeg",
         "summary": "Entre enero y septiembre, las ventas externas de la provincia alcanzaron los 15.945 millones de dólares, por encima del crecimiento promedio del país. El 87,1% de las exportaciones correspondió a manufacturas y la India fue el principal destino",
-        "pubDate": "2026-11-14T11:59:00+00:00",
+        "pubDate": "2026-11-14T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,25 +35,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/susto-en-el-centro-de-rosario-se-prendio-fuego-el-balcon-de-un-departamento-y-movilizo-a-los-bomberos-20261114-0011.html",
         "image": "https://www.rosario3.com/__export/1794663288983/sites/rosario3/img/2026/11/14/incendio_san_luis_655.jpg_672794305.jpg",
         "summary": "El fuego se desató este sábado por la mañana en un edificio de San Luis al 600 y generó un importante despliegue de bomberos y policías. Una mujer joven fue asistida por el Sies, aunque no corría peligro. Vecinos señalaron que las llamas se habrían originado en el condensador de…",
-        "pubDate": "2026-11-14T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Rescataron a un galgo atropellado y desnutrido en zona noroeste y denunciarán penalmente a su responsable",
-        "link": "https://www.rosario3.com/informaciongeneral/rescataron-a-un-galgo-atropellado-y-desnutrido-en-zona-noroeste-y-denunciaran-penalmente-a-su-responsable-20261114-0006.html",
-        "image": "https://www.rosario3.com/__export/1794658191582/sites/rosario3/img/2026/11/14/p1k7b1446lq8g1b509mo4hnkqnb.jpg_982625323.jpg",
-        "summary": "El perro fue encontrado en muy malas condiciones de salud y sin recibir los cuidados necesarios. Tras ser atendido e internado, continúa recuperándose en un hogar de tránsito a cargo de la organización Galgos Libres",
         "pubDate": "2026-11-14T11:57:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "SimRosario: un joven rosarino recreó la ciudad con inteligencia artificial al estilo de un clásico videojuego",
-        "link": "https://www.rosario3.com/tecnologia/simrosario-un-joven-rosarino-recreo-la-ciudad-con-inteligencia-artificial-al-estilo-de-un-clasico-videojuego-20261113-0039.html",
-        "image": "https://www.rosario3.com/__export/1794594718380/sites/rosario3/img/2026/11/13/monumento.jpg_928314580.jpg",
-        "summary": "El proyecto, realizado por Agustín Abraham, transformó fotografías aéreas reales de la ciudad en una ilustración interactiva con la estética clásica del SimCity, gracias al uso de inteligencia artificial. “Tenía la idea desde mayo y sentí que era factible hacerlo para Rosario'…",
-        "pubDate": "2026-11-13T11:56:00+00:00",
         "approxTime": true
       },
       {
@@ -53,7 +44,7 @@
         "link": "https://www.rosario3.com/policiales/sobreseyeron-al-bombero-detenido-en-palermo-cuando-intentaba-ingresar-al-operativo-por-la-visita-del-papa-20261114-0016.html",
         "image": "https://www.rosario3.com/__export/1794669957833/sites/rosario3/img/2026/11/14/disen-o_sin_ti-tulo_-73-.png_928314581.png",
         "summary": "La jueza federal María Servini tomó la decisión después de recibir una evaluación del Cuerpo Médico Forense, que determinó que Tomás Natenzon no comprendía la criminalidad de los hechos que se le atribuían. Deberá realizar un tratamiento ambulatorio",
-        "pubDate": "2026-11-14T11:55:00+00:00",
+        "pubDate": "2026-11-14T11:56:00+00:00",
         "approxTime": true
       },
       {
@@ -62,33 +53,42 @@
         "link": "https://www.rosario3.com/informaciongeneral/estados-unidos-reanudo-los-vuelos-tras-mas-de-cuatro-horas-de-suspension-por-una-falla-en-el-sistema-aereo-20261114-0007.html",
         "image": "https://www.rosario3.com/__export/1794659966095/sites/rosario3/img/2026/11/14/fa6d9f8219a01aceddc0a73de222ca1a9eab6358_version1794659965582.jpg_1559198253.jpg",
         "summary": "La Administración Federal de Aviación (FAA) volvió a autorizar los despegues en todo el país luego de una interrupción que afectó a los centros de control de tráfico aéreo. El desperfecto se originó en equipos de una antigua red de telecomunicaciones. Hubo cerca de 8.000…",
+        "pubDate": "2026-11-14T11:55:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Rescataron a un galgo atropellado y desnutrido en zona noroeste y denunciarán penalmente a su responsable",
+        "link": "https://www.rosario3.com/informaciongeneral/rescataron-a-un-galgo-atropellado-y-desnutrido-en-zona-noroeste-y-denunciaran-penalmente-a-su-responsable-20261114-0006.html",
+        "image": "https://www.rosario3.com/__export/1794658191582/sites/rosario3/img/2026/11/14/p1k7b1446lq8g1b509mo4hnkqnb.jpg_982625323.jpg",
+        "summary": "El perro fue encontrado en muy malas condiciones de salud y sin recibir los cuidados necesarios. Tras ser atendido e internado, continúa recuperándose en un hogar de tránsito a cargo de la organización Galgos Libres",
         "pubDate": "2026-11-14T11:54:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Seguimiento individual argentino: el ingreso de los pibes fue lo más destacado de la selección",
-        "link": "https://www.rosario3.com/deportes/seguimiento-individual-argentino-el-ingreso-de-los-pibes-fue-lo-mas-destacado-de-la-seleccion-20261113-0060.html",
-        "image": "https://www.rosario3.com/__export/1794617172593/sites/rosario3/img/2026/11/13/seguimiento.jpg_928314580.jpg",
-        "summary": "Soulé y Prestianni mostraron sus credenciales en media de muchas ausencias en La Albiceleste",
+        "title": "Newell’s llega a los octavos de final del torneo Clausura en el mejor momento del ciclo que conduce Kudelka",
+        "link": "https://www.rosario3.com/deportes/newells-llega-a-los-octavos-de-final-del-torneo-clausura-en-el-mejor-momento-del-ciclo-que-conduce-kudelka-20261113-0010.html",
+        "image": "https://www.rosario3.com/__export/1791068658015/sites/rosario3/img/2026/10/03/kudelka.jpg_928314580.jpg",
+        "summary": "Cuando un equipo reemplaza las ausencias con funcionamiento significa que las bases están consolidadas para afrontar las competencias",
         "pubDate": "2026-11-13T11:53:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Uruguay aprovechó su momento y derrotó 2 a 1 a Argentina en La Bombonera",
-        "link": "https://www.rosario3.com/deportes/argentina-enfrenta-a-uruguay-en-la-bombonera-el-equipo-de-scaloni-inicia-la-era-sin-messi-en-un-clasico-con-sabor-especial-20261112-0081.html",
-        "image": "https://www.rosario3.com/__export/1794613301052/sites/rosario3/img/2026/11/13/julian.jpg_928314580.jpg",
-        "summary": "Los charrúas se impusieron con goles de Balerdi en contra y Maxi Araujo; Julián Álvarez anotó el descuento para los de Scaloni",
-        "pubDate": "2026-11-12T11:52:00+00:00",
+        "title": "SimRosario: un joven rosarino recreó la ciudad con inteligencia artificial al estilo de un clásico videojuego",
+        "link": "https://www.rosario3.com/tecnologia/simrosario-un-joven-rosarino-recreo-la-ciudad-con-inteligencia-artificial-al-estilo-de-un-clasico-videojuego-20261113-0039.html",
+        "image": "https://www.rosario3.com/__export/1794594718380/sites/rosario3/img/2026/11/13/monumento.jpg_928314580.jpg",
+        "summary": "El proyecto, realizado por Agustín Abraham, transformó fotografías aéreas reales de la ciudad en una ilustración interactiva con la estética clásica del SimCity, gracias al uso de inteligencia artificial. “Tenía la idea desde mayo y sentí que era factible hacerlo para Rosario'…",
+        "pubDate": "2026-11-13T11:52:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "La Previa del Run Run: ¿por qué llegan grandes cadenas de retail internacionales y cuándo estalla la burbuja comercial de Funes?",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-previa-del-run-run-por-que-llegan-grandes-cadenas-de-retail-internacionales-y-cuando-estalla-la-burbuja-comercial-de-funes-20261114-0001.html",
-        "image": "https://www.rosario3.com/__export/1789167090572/sites/rosario3/img/2026/09/11/marianoportada_jpg.jpeg_506286608.jpeg",
-        "summary": "El podcast con el anticipo de las novedades económicas y corporativas que se publicarán en la tradicional columna de los domingos en Rosario3",
+        "title": "La historia de Marcos Galperin, desde la empresa familiar en Esperanza hasta el poder tecnológico, en un libro",
+        "link": "https://www.rosario3.com/ocio/la-historia-de-marcos-galperin-desde-la-empresa-familiar-en-esperanza-hasta-el-poder-tecnologico-en-un-libro-20261114-0015.html",
+        "image": "https://www.rosario3.com/__export/1794669270853/sites/rosario3/img/2026/11/14/marcos_galperin_version1794669270310.jpg_535287603.jpg",
+        "summary": "En diálogo con Radio 2, el periodista Jairo Straccia reconstruyó los orígenes familiares del fundador de Mercado Libre y su transformación en uno de los empresarios más poderosos de América Latina. 'No hay manera de explicar a Marcos Galperin si no explicás la historia de la…",
         "pubDate": "2026-11-14T11:51:00+00:00",
         "approxTime": true
       },
@@ -130,15 +130,24 @@
       },
       {
         "source": "Rosario3",
-        "title": "El clima en Rosario: cesó el alerta y se viene un fin de semana gris y húmedo",
-        "link": "https://www.rosario3.com/informaciongeneral/viernes-con-calor-de-verano-la-semana-cerrara-con-temperatura-superior-a-los-30-y-tormentas-20261112-0073.html",
-        "image": "https://www.rosario3.com/__export/1778062080880/sites/rosario3/img/2025/01/24/lluvia.jpg_928314580.jpg",
-        "summary": "Pese al anuncio oficial, las tormentas fuertes esquivaron la ciudad. Para este sabado se espera cielo nublado y caluroso. En tanto que recién para el lunes podrían volver las precipitaciones",
-        "pubDate": "2026-11-12T11:46:00+00:00",
+        "title": "La Previa del Run Run: ¿por qué llegan grandes cadenas de retail internacionales y cuándo estalla la burbuja comercial de Funes?",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-previa-del-run-run-por-que-llegan-grandes-cadenas-de-retail-internacionales-y-cuando-estalla-la-burbuja-comercial-de-funes-20261114-0001.html",
+        "image": "https://www.rosario3.com/__export/1789167090572/sites/rosario3/img/2026/09/11/marianoportada_jpg.jpeg_506286608.jpeg",
+        "summary": "El podcast con el anticipo de las novedades económicas y corporativas que se publicarán en la tradicional columna de los domingos en Rosario3",
+        "pubDate": "2026-11-14T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Un motociclista de 22 años murió luego del choque con un camión",
+        "link": "https://www.lacapital.com.ar/la-ciudad/un-motociclista-22-anos-murio-luego-del-choque-un-camion-n10292178.html",
+        "image": "https://media.lacapital.com.ar/p/f070a26496519bae42b1f870cd90c309/adjuntos/203/imagenes/103/530/0103530719/moto-arijon-avellaneda.jpg",
+        "summary": "Kevin L. falleció después de la colisión con un vehículo con acoplado. La policía demoró al chofer del transporte de carga",
+        "pubDate": "2026-11-14T15:36:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Indio Solari: se viene el registro completo del show de Tandil 2016",
@@ -262,15 +271,6 @@
         "link": "https://www.lacapital.com.ar/turismo/navidad-el-calafate-y-ano-nuevo-ushuaia-dos-propuestas-celebrar-la-patagonia-n10292031.html",
         "image": "https://media.lacapital.com.ar/p/4ef93f9a0e4069b87a0908e61988958d/adjuntos/203/imagenes/103/529/0103529373/imagen-nota.jpg",
         "summary": "Cenas especiales, productos regionales, cocina de autor y brindis forman parte de las experiencias que ofrecen Cerro Calafate Hotel y Hotel del Glaciar",
-        "pubDate": "2026-11-14T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Estados Unidos exige una declaración sanitaria a los pasajeros de vuelos internacionales",
-        "link": "https://www.lacapital.com.ar/turismo/estados-unidos-exige-una-declaracion-sanitaria-los-pasajeros-vuelos-internacionales-n10292032.html",
-        "image": "https://media.lacapital.com.ar/p/920ee6e4e46e9b139d63d921ec519079/adjuntos/203/imagenes/103/529/0103529418/imagen-nota.jpg",
-        "summary": "La medida rige desde el 3 de noviembre y alcanza también a quienes solo realizan una escala en territorio estadounidense",
         "pubDate": "2026-11-14T10:00:00+00:00",
         "approxTime": false
       }
