@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T09:30:56.283840+00:00",
+  "generatedAt": "2026-11-14T10:01:10.499971+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,11 +141,29 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "Rosgan lanzó Roslot, una plataforma digital para comprar y vender hacienda para faena",
-        "link": "https://www.lacapital.com.ar/agro/rosgan-lanzo-roslot-una-plataforma-digital-comprar-y-vender-hacienda-faena-n10291948.html",
-        "image": "https://media.lacapital.com.ar/p/74f102106864b1da894acd47ece6d605/adjuntos/203/imagenes/103/528/0103528099/1200x675/smart/_dsc9594.jpg",
-        "summary": "El acuerdo entre Rosgan y la Cámara Argentina de Feedlot permitirá la compraventa online de hacienda para faena a partir de 2027. La plataforma busca generar transparencia en la formación de precios del sector",
-        "pubDate": "2026-11-14T09:15:00+00:00",
+        "title": "Delivery en Rosario: cuatro de cada diez repartidores sufrieron accidentes laborales",
+        "link": "https://www.lacapital.com.ar/la-ciudad/delivery-rosario-cuatro-cada-diez-repartidores-sufrieron-accidentes-laborales-n10291991.html",
+        "image": "https://media.lacapital.com.ar/p/514e8f9a68dd70cc50012ff1c2e6b115/adjuntos/203/imagenes/103/075/0103075989/1200x675/smart/cadetes-pedidos-ya-repartidores.png",
+        "summary": "Un relevamiento a 2 mil trabajadores reveló que el 77 % vive de las apps. El municipio lanzó un programa gratuito con capacitaciones y elementos de seguridad",
+        "pubDate": "2026-11-14T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Primera Nacional: todo lo que hay que saber del Reducido en busca del ascenso",
+        "link": "https://www.lacapital.com.ar/ovacion/primera-nacional-todo-lo-que-hay-que-saber-del-reducido-busca-del-ascenso-n10230597.html",
+        "image": "https://media.lacapital.com.ar/p/fa511078c9e8438d11bbad28d2834dfb/adjuntos/203/imagenes/103/528/0103528715/1200x675/smart/image-21.jpg",
+        "summary": "Este sábado comenzará la actividad con cinco partidos correspondientes a los octavos de final en busca del salto a primera. Horarios y dónde se pueden ver",
+        "pubDate": "2026-11-14T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Por primera vez, Rosario enviará dos equipos universitarios al certamen de programación más prestigioso del mundo",
+        "link": "https://www.lacapital.com.ar/la-ciudad/por-primera-vez-rosario-enviara-dos-equipos-universitarios-al-certamen-programacion-mas-prestigioso-del-mundo-n10292065.html",
+        "image": "https://media.lacapital.com.ar/p/3319690a1a35d12c6ef13b2209586e16/adjuntos/203/imagenes/103/529/0103529282/1200x675/smart/utn-unr-programacion.jpg",
+        "summary": "Uno de los conjuntos pertenece a la UNR, mientras que el otro es de la UTN. De qué se trata esta competencia que pone a Rosario ante los ojos del mundo",
+        "pubDate": "2026-11-14T09:30:00+00:00",
         "approxTime": false
       },
       {
@@ -159,11 +177,11 @@
       },
       {
         "source": "La Capital",
-        "title": "El futsal de Newell's juega la final de la Copa de Plata y la clasificación a la Supercopa 2027",
-        "link": "https://www.lacapital.com.ar/ovacion/el-futsal-newells-juega-la-final-la-copa-plata-y-la-clasificacion-la-supercopa-2027-n10292068.html",
-        "image": "https://media.lacapital.com.ar/p/2e75acbe7fc0aeb98b0cd6f86073057f/adjuntos/203/imagenes/103/529/0103529310/1200x675/smart/image.jpg",
-        "summary": "El técnico de la primera división de futsal de Newell's, Daniel Puntonillo, palpitó con Ovación la final ante Estudiantil Porteño en el Claudio Newell.",
-        "pubDate": "2026-11-14T09:10:00+00:00",
+        "title": "Rosgan lanzó Roslot, una plataforma digital para comprar y vender hacienda para faena",
+        "link": "https://www.lacapital.com.ar/agro/rosgan-lanzo-roslot-una-plataforma-digital-comprar-y-vender-hacienda-faena-n10291948.html",
+        "image": "https://media.lacapital.com.ar/p/74f102106864b1da894acd47ece6d605/adjuntos/203/imagenes/103/528/0103528099/1200x675/smart/_dsc9594.jpg",
+        "summary": "El acuerdo entre Rosgan y la Cámara Argentina de Feedlot permitirá la compraventa online de hacienda para faena a partir de 2027. La plataforma busca generar transparencia en la formación de precios del sector",
+        "pubDate": "2026-11-14T09:15:00+00:00",
         "approxTime": false
       },
       {
@@ -181,6 +199,15 @@
         "link": "https://www.lacapital.com.ar/primera-c-central-cordoba-se-juega-el-pasaje-las-semifinales-canuelas-n10292106.html",
         "image": "https://media.lacapital.com.ar/p/92bf2d93bdf43799368fa37402c1c910/adjuntos/203/imagenes/103/529/0103529618/1200x675/smart/image-2026-11-13t192128751.png",
         "summary": "El Charrúa necesita el triunfo para meterse entre los mejores cuatro del Reducido de la Primera C e ir en busca del segundo ascenso a Primera B",
+        "pubDate": "2026-11-14T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El futsal de Newell's juega la final de la Copa de Plata y la clasificación a la Supercopa 2027",
+        "link": "https://www.lacapital.com.ar/ovacion/el-futsal-newells-juega-la-final-la-copa-plata-y-la-clasificacion-la-supercopa-2027-n10292068.html",
+        "image": "https://media.lacapital.com.ar/p/2e75acbe7fc0aeb98b0cd6f86073057f/adjuntos/203/imagenes/103/529/0103529310/1200x675/smart/image.jpg",
+        "summary": "El técnico de la primera división de futsal de Newell's, Daniel Puntonillo, palpitó con Ovación la final ante Estudiantil Porteño en el Claudio Newell.",
         "pubDate": "2026-11-14T09:10:00+00:00",
         "approxTime": false
       },
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/013e05a430c2fd1819f80e22f96b2362/adjuntos/203/imagenes/100/295/0100295754/1200x675/smart/temporal-rosariojpg.jpg",
         "summary": "Tras las tormentas de este viernes, se esperan nuevas lluvias en las primeras horas del fin de semana aunque luego se irán disipando las nubes",
         "pubDate": "2026-11-14T00:59:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Todos los caminos de la política de Central vuelven a confluir en Gonzalo Belloso",
-        "link": "https://www.lacapital.com.ar/ovacion/todos-los-caminos-la-politica-central-vuelven-confluir-gonzalo-belloso-n10292118.html",
-        "image": "https://media.lacapital.com.ar/p/d99695400969b64110ff516ff1aa59ef/adjuntos/203/imagenes/103/529/0103529779/1200x675/smart/image-3.jpg",
-        "summary": "El presidente de Central revisaría su postura de no presentarse a las elecciones y sería el único candidato en el cierre de las listas",
-        "pubDate": "2026-11-14T00:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cuando la ausencia de Lionel Messi se trasladó a las tribunas de una Bombonera semivacía",
-        "link": "https://www.lacapital.com.ar/ovacion/cuando-la-ausencia-lionel-messi-se-traslado-las-tribunas-una-bombonera-semivacia-n10292113.html",
-        "image": "https://media.lacapital.com.ar/p/dbd9b85250225b1642fe2c692cbfddb0/adjuntos/203/imagenes/103/529/0103529711/1200x675/smart/image-1.jpg",
-        "summary": "Lionel Messi ya no está y eso se notó en los escalones de La Bombonera, que no tuvo marco para el primer partido de la continuidad de Lionel Scaloni",
-        "pubDate": "2026-11-13T23:41:16+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Primera C: Acoglanis tiene el aval del nuevo presidente para seguir en el cargo en Argentino",
-        "link": "https://www.lacapital.com.ar/ovacion/primera-c-acoglanis-tiene-el-aval-del-nuevo-presidente-seguir-el-cargo-argentino-n10292102.html",
-        "image": "https://media.lacapital.com.ar/p/7959b6d7b787c74bba21ec32a22e21a5/adjuntos/203/imagenes/103/529/0103529603/1200x675/smart/image-2026-11-13t191143466.png",
-        "summary": "Leonardo Acoglanis se reunión con Juan Mateo Chulich y continuará al frente del equipo que disputará la Primera C 2027.",
-        "pubDate": "2026-11-13T23:41:12+00:00",
         "approxTime": false
       }
     ]
