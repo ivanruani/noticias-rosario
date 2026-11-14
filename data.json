@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T21:30:54.658643+00:00",
+  "generatedAt": "2026-11-14T22:01:04.820403+00:00",
   "sites": {
     "rosario3": [
       {
@@ -85,11 +85,20 @@
       },
       {
         "source": "Rosario3",
-        "title": "SimRosario: un joven rosarino recreó la ciudad con inteligencia artificial al estilo de un clásico videojuego",
-        "link": "https://www.rosario3.com/tecnologia/simrosario-un-joven-rosarino-recreo-la-ciudad-con-inteligencia-artificial-al-estilo-de-un-clasico-videojuego-20261113-0039.html",
-        "image": "https://www.rosario3.com/__export/1794594718380/sites/rosario3/img/2026/11/13/monumento.jpg_928314580.jpg",
-        "summary": "El proyecto, realizado por Agustín Abraham, transformó fotografías aéreas reales de la ciudad en una ilustración interactiva con la estética clásica del SimCity, gracias al uso de inteligencia artificial. “Tenía la idea desde mayo y sentí que era factible hacerlo para Rosario'…",
-        "pubDate": "2026-11-13T11:51:00+00:00",
+        "title": "Boca y Banfield se enfrentan en busca de un lugar en la gran final de la Copa Argentina",
+        "link": "https://www.rosario3.com/deportes/boca-y-banfield-se-enfrentan-en-busca-de-un-lugar-en-la-gran-final-de-la-copa-argentina-20261114-0003.html",
+        "image": "https://www.rosario3.com/__export/1794660344930/sites/rosario3/img/2026/11/14/image_-24-.jpg_395595010.jpg",
+        "summary": "El encuentro será este sábado a partir de las 19 en Mendoza. El ganador se enfrentará en la gran final con Platense, que en las semifinales venció por penales a Atlético Tucumán",
+        "pubDate": "2026-11-14T11:51:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Dos acróbatas cordobeses fueron detenidos en Estados Unidos cuando viajaban para asistir al funeral de un amigo",
+        "link": "https://www.rosario3.com/informaciongeneral/dos-acrobatas-cordobeses-fueron-detenidos-en-estados-unidos-cuando-viajaban-para-asistir-al-funeral-de-un-amigo-20261114-0036.html",
+        "image": "https://www.rosario3.com/__export/1794692479973/sites/rosario3/img/2026/11/14/detenidos.jpg_2106848869.jpg",
+        "summary": "Gustavo Romanello y Agustín Baccega fueron detenidos por el Servicio de Inmigración y Control de Aduanas (ICE) el pasado 7 de noviembre en el Aeropuerto de Phoenix, Arizona, mientras se trasladaban desde Orlando",
+        "pubDate": "2026-11-14T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -98,7 +107,7 @@
         "link": "https://www.rosario3.com/deportes/central-cordoba-quedo-eliminado-del-reducido-y-el-final-ante-canuelas-termino-en-una-batalla-campal-20261114-0035.html",
         "image": "https://www.rosario3.com/__export/1794690877416/sites/rosario3/img/2026/11/14/pixas.jpg_928314580.jpg",
         "summary": "El Charrúa perdió por penales en el estadio Jorge Arín y se despidió del sueño del ascenso a la Primera B. Después de la definición, jugadores y allegados de ambos equipos protagonizaron una pelea generalizada",
-        "pubDate": "2026-11-14T11:50:00+00:00",
+        "pubDate": "2026-11-14T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -107,15 +116,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/crisis-aerea-en-estados-unidos-con-mas-de-4.200-vuelos-cancelados-tras-la-falla-en-el-sistema-de-la-faa-20261114-0029.html",
         "image": "https://www.rosario3.com/__export/1794684945154/sites/rosario3/img/2026/11/14/eeuu.jpg_928314580.jpg",
         "summary": "El desperfecto en las telecomunicaciones que paralizó los despegues durante más de cuatro horas este viernes mantiene afectadas las conexiones nacionales e internacionales, las autoridades esperan normalizar las operaciones recién este domingo",
-        "pubDate": "2026-11-14T11:49:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Barrio Tablada: lo balearon en el tórax, llegó a una casa a los gritos y pidió ayuda",
-        "link": "https://www.rosario3.com/policiales/barrio-tablada-lo-balearon-en-el-torax-llego-a-una-casa-a-los-gritos-y-pidio-ayuda-20261114-0024.html",
-        "image": "https://www.rosario3.com/__export/1778429268769/sites/rosario3/img/2026/05/10/policxa_patrullero.jpg_54252852.jpg",
-        "summary": "El hombre, de 33 años, apareció herido en una vivienda de Beruti al 4000 durante la madrugada de este sábado. Fue trasladado en ambulancia al Heca, donde quedó internado fuera de peligro",
         "pubDate": "2026-11-14T11:48:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Jubilaciones: declaran inconstitucional la fórmula empleada en el gobierno de Alberto Fernández",
+        "link": "https://www.lacapital.com.ar/economia/jubilaciones-declaran-inconstitucional-la-formula-empleada-el-gobierno-alberto-fernandez-n10292222.html",
+        "image": "https://media.lacapital.com.ar/p/59e9e9b9231f66b22d4e22d63199f6e6/adjuntos/203/imagenes/102/185/0102185137/1200x675/smart/ansesjpg.jpg",
+        "summary": "El fallo sienta un precedente clave tanto para reclamar diferencias retroactivas como para recalcular la base de haberes actuales",
+        "pubDate": "2026-11-14T21:29:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Barrio Ludueña: desapareció de su casa y su familia asegura que tenía una deuda con usureros",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/d8d280f6c62ec94ef51ba97ba97bfe51/adjuntos/203/imagenes/103/530/0103530911/1200x675/smart/image-2026-11-14t121607887.png",
         "summary": "Varias especies fueron vistas en localidades santafesinas por la creciente de los cursos de agua y el arrastre de embalsados de camalotes",
         "pubDate": "2026-11-14T16:36:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Las Guerreras K-Pop harán un tour mundial en vivo: ¿vienen a la Argentina?",
-        "link": "https://www.lacapital.com.ar/zoom/las-guerreras-k-pop-haran-un-tour-mundial-vivo-vienen-la-argentina-n10292181.html",
-        "image": "https://media.lacapital.com.ar/p/556c8699aacde4b282912d37e29234ec/adjuntos/203/imagenes/103/530/0103530912/1200x675/smart/image-2026-11-14t133047950.jpg",
-        "summary": "El fenómeno global surgido de la película animada de Netflix tendrá su versión recital de estadios en una gira global",
-        "pubDate": "2026-11-14T16:03:00+00:00",
         "approxTime": false
       }
     ]
