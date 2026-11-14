@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T18:30:56.015445+00:00",
+  "generatedAt": "2026-11-14T19:01:02.430221+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Tres miniseries nuevas de drama y supenso para conocer en Netflix",
+        "link": "https://www.lacapital.com.ar/zoom/tres-miniseries-nuevas-drama-y-supenso-conocer-netflix-n10292042.html",
+        "image": "https://media.lacapital.com.ar/p/26ff024eec9a46c32de555b19b8c213b/adjuntos/203/imagenes/103/529/0103529208/1200x675/smart/image-41.png",
+        "summary": "Drama, suspenso y thriller son algunos de los géneros más elegidos por los usuarios últimamente. Tres historias cortas que vale la pena conocer",
+        "pubDate": "2026-11-14T18:54:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Siete detenidos tras allanamientos en búnkeres de barrio La Lata",
+        "link": "https://www.lacapital.com.ar/policiales/siete-detenidos-allanamientos-bunkeres-barrio-la-lata-n10292192.html",
+        "image": "https://media.lacapital.com.ar/p/7a44cedd00264697420bcbf0531d3a73/adjuntos/203/imagenes/103/531/0103531192/whatsapp-image-2026-11-14-at-153112.jpeg",
+        "summary": "La investigación se inició en julio y detectaron una disputa territorial entre una fracción de Los Monos y una banda del barrio",
+        "pubDate": "2026-11-14T18:36:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "La China Suárez vs Wanda Nara: tras el video, picante ida y vuelta en redes",
         "link": "https://www.lacapital.com.ar/zoom/la-china-suarez-vs-wanda-nara-el-video-picante-ida-y-vuelta-redes-n10292191.html",
         "image": "https://media.lacapital.com.ar/p/8f671937ba479ac0b3956ef9d181b0e7/adjuntos/203/imagenes/102/142/0102142862/1200x675/smart/image-40jpg.jpg",
@@ -240,15 +258,6 @@
       },
       {
         "source": "La Capital",
-        "title": "Un cumpleaños con 85 familiares en Roldán: asado, tortas italianas y tarantelas",
-        "link": "https://www.lacapital.com.ar/la-region/un-cumpleanos-85-familiares-roldan-asado-tortas-italianas-y-tarantelas-n10292080.html",
-        "image": "https://media.lacapital.com.ar/p/5a5735c0958d086b6efb3e606d1832e7/adjuntos/203/imagenes/103/529/0103529532/1200x675/smart/bufarini-reunion-86-integrantes-la-familia-italiana-y-argentina-roldan.jpg",
-        "summary": "José Bufarini cumplió 56 años y lo celebró con una multitudinaria fiesta que reunió a la mitad de su familia bioceánica",
-        "pubDate": "2026-11-14T13:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "Uatre: corren riesgo mil puestos de trabajo de peones temporarios en la región",
         "link": "https://www.lacapital.com.ar/la-region/uatre-corren-riesgo-mil-puestos-trabajo-peones-temporarios-la-region-n10292087.html",
         "image": "https://media.lacapital.com.ar/p/84f102d80e46588cdd481ffa68b71517/adjuntos/203/imagenes/103/529/0103529536/1200x675/smart/uatre-peligran-un-millar-puesto-trabajo-peones-temporarios.jpg",
@@ -258,20 +267,11 @@
       },
       {
         "source": "La Capital",
-        "title": "Scaloni le restó importancia a la escasez de público: \"La gente es incondicional\"",
-        "link": "https://www.lacapital.com.ar/ovacion/scaloni-le-resto-importancia-la-escasez-publico-la-gente-es-incondicional-n10292140.html",
-        "image": "https://media.lacapital.com.ar/p/da4ec8b4dda6cc0a1d612956ef74091f/adjuntos/203/imagenes/103/529/0103529942/1200x675/smart/image-2026-11-14t080652825.png",
-        "summary": "El entrenador de la selección argentina destacó el rendimiento del equipo en la Bombonera a pesar la derrota ante Uruguay",
-        "pubDate": "2026-11-14T12:46:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Más que otro color: Rosario renueva cuatro líneas de colectivos con ómnibus que usan GNC",
-        "link": "https://www.lacapital.com.ar/la-ciudad/mas-que-otro-color-rosario-renueva-cuatro-lineas-colectivos-omnibus-que-usan-gnc-n10292129.html",
-        "image": "https://media.lacapital.com.ar/p/781face3326bb941c04899b2be9ffd1d/adjuntos/203/imagenes/103/529/0103529953/colectivo-gnc.jpg",
-        "summary": "La Municipalidad anunció la implementación de los vehículos como parte de un plan para actualizar el 15 por ciento de la flota del transporte urbano",
-        "pubDate": "2026-11-14T12:33:00+00:00",
+        "title": "Un cumpleaños con 85 familiares en Roldán: asado, tortas italianas y tarantelas",
+        "link": "https://www.lacapital.com.ar/la-region/un-cumpleanos-85-familiares-roldan-asado-tortas-italianas-y-tarantelas-n10292080.html",
+        "image": "https://media.lacapital.com.ar/p/5a5735c0958d086b6efb3e606d1832e7/adjuntos/203/imagenes/103/529/0103529532/1200x675/smart/bufarini-reunion-86-integrantes-la-familia-italiana-y-argentina-roldan.jpg",
+        "summary": "José Bufarini cumplió 56 años y lo celebró con una multitudinaria fiesta que reunió a la mitad de su familia bioceánica",
+        "pubDate": "2026-11-14T13:00:00+00:00",
         "approxTime": false
       }
     ]
