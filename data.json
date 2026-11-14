@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T21:24:58.538593+00:00",
+  "generatedAt": "2026-11-14T21:30:54.658643+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,10 +141,19 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "Central Córdoba termina otra año frustrante y sigue hundido en el fondo del fútbol argentino",
-        "link": "https://www.lacapital.com.ar/ovacion/central-cordoba-termina-otra-ano-frustrante-y-sigue-hundido-el-fondo-del-futbol-argentino-n10292226.html",
+        "title": "Barrio Ludueña: desapareció de su casa y su familia asegura que tenía una deuda con usureros",
+        "link": "https://www.lacapital.com.ar/policiales/barrio-luduena-desaparecio-su-casa-y-su-familia-asegura-que-tenia-una-deuda-usureros-n10292203.html",
+        "image": "https://media.lacapital.com.ar/p/c97cde8696498900bf4633960592abe8/adjuntos/203/imagenes/103/531/0103531250/javier-echeverria-luduena.png",
+        "summary": "Javier Echevarría es albañil y contrajo un compromiso por 500 mil pesos. Su madre cree que tal vez está \"cautivo\" y trabajando para pagar. Vecinos ofrecieron a su madre hacerse cargo",
+        "pubDate": "2026-11-14T21:19:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central Córdoba termina otro año frustrante y sigue hundido en el fondo del fútbol argentino",
+        "link": "https://www.lacapital.com.ar/ovacion/central-cordoba-termina-otro-ano-frustrante-y-sigue-hundido-el-fondo-del-futbol-argentino-n10292226.html",
         "image": "https://media.lacapital.com.ar/p/100da02cb206ed50444b500fef1e4950/adjuntos/203/imagenes/103/531/0103531438/1200x675/smart/image-3.jpg",
-        "summary": "Lleva años hundido en esa categoría. El club de Tablada merece estar más arriba, pero no sabe cómo conseguirlo. Otro sueño incumplido para los charrúas.",
+        "summary": "Lleva años hundido en esa categoría. El club de Tablada merece estar más arriba, pero no sabe cómo conseguirlo. Otro sueño incumplido para los hinchas.",
         "pubDate": "2026-11-14T21:16:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/556c8699aacde4b282912d37e29234ec/adjuntos/203/imagenes/103/530/0103530912/1200x675/smart/image-2026-11-14t133047950.jpg",
         "summary": "El fenómeno global surgido de la película animada de Netflix tendrá su versión recital de estadios en una gira global",
         "pubDate": "2026-11-14T16:03:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Un motociclista de 22 años murió luego del choque con un camión",
-        "link": "https://www.lacapital.com.ar/la-ciudad/un-motociclista-22-anos-murio-luego-del-choque-un-camion-n10292178.html",
-        "image": "https://media.lacapital.com.ar/p/f070a26496519bae42b1f870cd90c309/adjuntos/203/imagenes/103/530/0103530719/moto-arijon-avellaneda.jpg",
-        "summary": "Kevin L. falleció después de la colisión con un vehículo con acoplado. La policía demoró al chofer del transporte de carga",
-        "pubDate": "2026-11-14T15:36:00+00:00",
         "approxTime": false
       }
     ]
