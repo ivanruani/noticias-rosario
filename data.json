@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T21:01:08.681016+00:00",
+  "generatedAt": "2026-11-14T21:24:58.538593+00:00",
   "sites": {
     "rosario3": [
       {
@@ -94,19 +94,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "Crisis aérea en Estados Unidos con más de 4.200 vuelos cancelados tras la falla en el sistema de la FAA",
-        "link": "https://www.rosario3.com/informaciongeneral/crisis-aerea-en-estados-unidos-con-mas-de-4.200-vuelos-cancelados-tras-la-falla-en-el-sistema-de-la-faa-20261114-0029.html",
-        "image": "https://www.rosario3.com/__export/1794684945154/sites/rosario3/img/2026/11/14/eeuu.jpg_928314580.jpg",
-        "summary": "El desperfecto en las telecomunicaciones que paralizó los despegues durante más de cuatro horas este viernes mantiene afectadas las conexiones nacionales e internacionales, las autoridades esperan normalizar las operaciones recién este domingo",
+        "title": "Central Córdoba quedó eliminado del Reducido y el final ante Cañuelas terminó en una batalla campal",
+        "link": "https://www.rosario3.com/deportes/central-cordoba-quedo-eliminado-del-reducido-y-el-final-ante-canuelas-termino-en-una-batalla-campal-20261114-0035.html",
+        "image": "https://www.rosario3.com/__export/1794690877416/sites/rosario3/img/2026/11/14/pixas.jpg_928314580.jpg",
+        "summary": "El Charrúa perdió por penales en el estadio Jorge Arín y se despidió del sueño del ascenso a la Primera B. Después de la definición, jugadores y allegados de ambos equipos protagonizaron una pelea generalizada",
         "pubDate": "2026-11-14T11:50:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "James Vowles dejó abierta la puerta para el regreso de Franco Colapinto a Williams",
-        "link": "https://www.rosario3.com/deportes/james-vowles-dejo-abierta-la-puerta-para-el-regreso-de-franco-colapinto-a-williams-20261114-0025.html",
-        "image": "https://www.rosario3.com/__export/1794677993666/sites/rosario3/img/2026/11/14/colapinto_vowles.jpg_928314580.jpg",
-        "summary": "El jefe de la escudería británica respondió con un contundente 'sí' ante la consulta sobre una eventual vuelta del piloto argentino al equipo con el que debutó en la Fórmula 1, aunque evitó dar plazos o confirmar negociaciones",
+        "title": "Crisis aérea en Estados Unidos con más de 4.200 vuelos cancelados tras la falla en el sistema de la FAA",
+        "link": "https://www.rosario3.com/informaciongeneral/crisis-aerea-en-estados-unidos-con-mas-de-4.200-vuelos-cancelados-tras-la-falla-en-el-sistema-de-la-faa-20261114-0029.html",
+        "image": "https://www.rosario3.com/__export/1794684945154/sites/rosario3/img/2026/11/14/eeuu.jpg_928314580.jpg",
+        "summary": "El desperfecto en las telecomunicaciones que paralizó los despegues durante más de cuatro horas este viernes mantiene afectadas las conexiones nacionales e internacionales, las autoridades esperan normalizar las operaciones recién este domingo",
         "pubDate": "2026-11-14T11:49:00+00:00",
         "approxTime": true
       },
@@ -141,8 +141,17 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "Central Córdoba perdió por penales y tendrá que jugar otra temporada en la Primera C",
-        "link": "https://www.lacapital.com.ar/ovacion/central-cordoba-perdio-penales-y-tendra-que-jugar-otra-temporada-la-primera-c-n10292219.html",
+        "title": "Central Córdoba termina otra año frustrante y sigue hundido en el fondo del fútbol argentino",
+        "link": "https://www.lacapital.com.ar/ovacion/central-cordoba-termina-otra-ano-frustrante-y-sigue-hundido-el-fondo-del-futbol-argentino-n10292226.html",
+        "image": "https://media.lacapital.com.ar/p/100da02cb206ed50444b500fef1e4950/adjuntos/203/imagenes/103/531/0103531438/1200x675/smart/image-3.jpg",
+        "summary": "Lleva años hundido en esa categoría. El club de Tablada merece estar más arriba, pero no sabe cómo conseguirlo. Otro sueño incumplido para los charrúas.",
+        "pubDate": "2026-11-14T21:16:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central Córdoba perdió por penales y tendrá que sufrir otra temporada en la Primera C",
+        "link": "https://www.lacapital.com.ar/ovacion/central-cordoba-perdio-penales-y-tendra-que-sufrir-otra-temporada-la-primera-c-n10292219.html",
         "image": "https://media.lacapital.com.ar/p/2734fed09744e7204e18bc76a863b751/adjuntos/203/imagenes/103/531/0103531359/1200x675/smart/central_cordoba.jpg",
         "summary": "El Charrúa cayó ante Cañuelas luego de igualar 0 a 0 en los 90. Fue a defenderse y en una definición de alto vuelo, Francisco Duré falló el sexto disparo.",
         "pubDate": "2026-11-14T20:29:00+00:00",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/f070a26496519bae42b1f870cd90c309/adjuntos/203/imagenes/103/530/0103530719/moto-arijon-avellaneda.jpg",
         "summary": "Kevin L. falleció después de la colisión con un vehículo con acoplado. La policía demoró al chofer del transporte de carga",
         "pubDate": "2026-11-14T15:36:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Indio Solari: se viene el registro completo del show de Tandil 2016",
-        "link": "https://www.lacapital.com.ar/zoom/indio-solari-se-viene-el-registro-completo-del-show-tandil-2016-n10292176.html",
-        "image": "https://media.lacapital.com.ar/p/7cbf7eb0fe4fba89c35bc14db5fc751e/adjuntos/203/imagenes/103/530/0103530685/1200x675/smart/image-2026-11-14t124937242.jpg",
-        "summary": "Según un anuncio en la web oficial del músico y pistas en redes, pronto se publicaría el registro del histórico recital",
-        "pubDate": "2026-11-14T15:12:00+00:00",
         "approxTime": false
       }
     ]
