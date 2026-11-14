@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T20:30:56.415501+00:00",
+  "generatedAt": "2026-11-14T21:01:08.681016+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Central Córdoba perdió por penales y tendrá que jugar otra temporada en la Primera C",
+        "link": "https://www.lacapital.com.ar/ovacion/central-cordoba-perdio-penales-y-tendra-que-jugar-otra-temporada-la-primera-c-n10292219.html",
+        "image": "https://media.lacapital.com.ar/p/2734fed09744e7204e18bc76a863b751/adjuntos/203/imagenes/103/531/0103531359/1200x675/smart/central_cordoba.jpg",
+        "summary": "El Charrúa cayó ante Cañuelas luego de igualar 0 a 0 en los 90. Fue a defenderse y en una definición de alto vuelo, Francisco Duré falló el sexto disparo.",
+        "pubDate": "2026-11-14T20:29:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Tres historias para disfrutar en plataformas de streaming este fin de semana",
         "link": "https://www.lacapital.com.ar/zoom/tres-historias-disfrutar-plataformas-streaming-este-fin-semana-n10292044.html",
         "image": "https://media.lacapital.com.ar/p/4b6355764e90bcdb6b0c659c75515c85/adjuntos/203/imagenes/103/529/0103529209/1200x675/smart/image-43.png",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/7cbf7eb0fe4fba89c35bc14db5fc751e/adjuntos/203/imagenes/103/530/0103530685/1200x675/smart/image-2026-11-14t124937242.jpg",
         "summary": "Según un anuncio en la web oficial del músico y pistas en redes, pronto se publicaría el registro del histórico recital",
         "pubDate": "2026-11-14T15:12:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Los Pumas utilizaron una camiseta en homenaje a la selección argentina de fútbol del Mundial 1986",
-        "link": "https://www.lacapital.com.ar/ovacion/los-pumas-utilizaron-una-camiseta-homenaje-la-seleccion-argentina-futbol-del-mundial-1986-n10292174.html",
-        "image": "https://media.lacapital.com.ar/p/487899b6591bbf425e635ea856423856/adjuntos/203/imagenes/103/530/0103530430/1200x675/smart/image-2026-11-14t103943576.png",
-        "summary": "En conmemoración a la Copa del Mundo conquistada en México, el seleccionado de rugby vistió una indumentaria especial durante la victoria por 19-14 ante Italia",
-        "pubDate": "2026-11-14T14:54:00+00:00",
         "approxTime": false
       }
     ]
