@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-11-14T20:01:11.951383+00:00",
+  "generatedAt": "2026-11-14T20:30:56.415501+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Se vendió Grupo Oroño, el principal holding médico privado de la región",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/se-vendio-grupo-orono-el-principal-holding-medico-privado-de-la-region-20261114-0031.html",
+        "image": "https://www.rosario3.com/__export/1794688168807/sites/rosario3/img/2026/11/14/oronxo.jpg_2106848869.jpg",
+        "summary": "La familia del fallecido Roberto Villavicencio, fundador de grupo que tiene al Sanatorio Parque, el ICR y la prepaga Esencial transfirió sus acciones a Swiss Medical y a Chicago Capital, un holding controlado por la familia Tourn",
+        "pubDate": "2026-11-14T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Malvinas en Rosario: lanzan un mapa colaborativo para registrar la “relación emocional” con las islas",
         "link": "https://www.rosario3.com/informaciongeneral/malvinas-en-rosario-lanzan-un-mapa-colaborativo-para-registrar-la-relacion-emocional-con-las-islas-20261111-0053.html",
         "image": "https://www.rosario3.com/__export/1794425300548/sites/rosario3/img/2026/11/11/mapa_malvinas.jpg_196571369.jpg",
         "summary": "La plataforma fue desarrollada por investigadores del Conicet y la UNR. Permite subir fotos georreferenciadas de murales, monumentos, banderas y cualquier expresión simbólica. El objetivo es construir un archivo colectivo de la memoria local",
-        "pubDate": "2026-11-11T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Charlas de Mercado: revuelo por rebaja del 70% en comisiones a corredores de granos",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/charlas-de-mercado-revuelo-por-rebaja-del-70-en-comisiones-a-corredores-de-granos-20261114-0009.html",
-        "image": "https://www.rosario3.com/__export/1794663597993/sites/rosario3/img/2026/11/14/rosganeta_version1794663597524.jpg_884113636.jpg",
-        "summary": "Además, en el Rosgan sienten que “pararon la sangría”, en MAV analizan con el gobierno de la provincia sumar la negociación de los pagos por certificados de obra pública, y en el A3 estudian lanzar sus propios ETF",
-        "pubDate": "2026-11-14T11:59:00+00:00",
+        "pubDate": "2026-11-11T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -121,24 +121,33 @@
       },
       {
         "source": "Rosario3",
-        "title": "Microsoft confirmó el restablecimiento total de sus servicios tras la caída global",
-        "link": "https://www.rosario3.com/tecnologia/microsoft-confirmo-el-restablecimiento-total-de-sus-servicios-tras-la-caida-global-20261114-0021.html",
-        "image": "https://www.rosario3.com/__export/1794674833525/sites/rosario3/img/2025/07/02/despidosmicrosoft_1.jpg_982625323.jpg",
-        "summary": "El gigante tecnológico dio por superado el incidente técnico que desde el jueves dejó fuera de línea a herramientas clave como Outlook, Teams y Copilot en al menos 74 países",
+        "title": "La historia de Marcos Galperin, desde la empresa familiar en Esperanza hasta el poder tecnológico, en un libro",
+        "link": "https://www.rosario3.com/ocio/la-historia-de-marcos-galperin-desde-la-empresa-familiar-en-esperanza-hasta-el-poder-tecnologico-en-un-libro-20261114-0015.html",
+        "image": "https://www.rosario3.com/__export/1794669270853/sites/rosario3/img/2026/11/14/marcos_galperin_version1794669270310.jpg_535287603.jpg",
+        "summary": "En diálogo con Radio 2, el periodista Jairo Straccia reconstruyó los orígenes familiares del fundador de Mercado Libre y su transformación en uno de los empresarios más poderosos de América Latina. 'No hay manera de explicar a Marcos Galperin si no explicás la historia de la…",
         "pubDate": "2026-11-14T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "La historia de Marcos Galperin, desde la empresa familiar en Esperanza hasta el poder tecnológico, en un libro",
-        "link": "https://www.rosario3.com/ocio/la-historia-de-marcos-galperin-desde-la-empresa-familiar-en-esperanza-hasta-el-poder-tecnologico-en-un-libro-20261114-0015.html",
-        "image": "https://www.rosario3.com/__export/1794669270853/sites/rosario3/img/2026/11/14/marcos_galperin_version1794669270310.jpg_535287603.jpg",
-        "summary": "En diálogo con Radio 2, el periodista Jairo Straccia reconstruyó los orígenes familiares del fundador de Mercado Libre y su transformación en uno de los empresarios más poderosos de América Latina. 'No hay manera de explicar a Marcos Galperin si no explicás la historia de la…",
+        "title": "Charlas de Mercado: revuelo por rebaja del 70% en comisiones a corredores de granos",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/charlas-de-mercado-revuelo-por-rebaja-del-70-en-comisiones-a-corredores-de-granos-20261114-0009.html",
+        "image": "https://www.rosario3.com/__export/1794663597993/sites/rosario3/img/2026/11/14/rosganeta_version1794663597524.jpg_884113636.jpg",
+        "summary": "Además, en el Rosgan sienten que “pararon la sangría”, en MAV analizan con el gobierno de la provincia sumar la negociación de los pagos por certificados de obra pública, y en el A3 estudian lanzar sus propios ETF",
         "pubDate": "2026-11-14T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Tres historias para disfrutar en plataformas de streaming este fin de semana",
+        "link": "https://www.lacapital.com.ar/zoom/tres-historias-disfrutar-plataformas-streaming-este-fin-semana-n10292044.html",
+        "image": "https://media.lacapital.com.ar/p/4b6355764e90bcdb6b0c659c75515c85/adjuntos/203/imagenes/103/529/0103529209/1200x675/smart/image-43.png",
+        "summary": "Opciones de thriller, acción y suspenso para pasar el fin de semana entre distintas plataformas de streaming",
+        "pubDate": "2026-11-14T20:24:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "El Socialismo reunió a más de 100 referentes y volvió a rechazar una alianza con los libertarios",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/487899b6591bbf425e635ea856423856/adjuntos/203/imagenes/103/530/0103530430/1200x675/smart/image-2026-11-14t103943576.png",
         "summary": "En conmemoración a la Copa del Mundo conquistada en México, el seleccionado de rugby vistió una indumentaria especial durante la victoria por 19-14 ante Italia",
         "pubDate": "2026-11-14T14:54:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Balcón en llamas: apagaron un incendio en un edificio del centro rosarino",
-        "link": "https://www.lacapital.com.ar/la-ciudad/balcon-llamas-apagaron-un-incendio-un-edificio-del-centro-rosarino-n10292153.html",
-        "image": "https://media.lacapital.com.ar/p/57c2c7e6e9d0dba457728230e07d40e1/adjuntos/203/imagenes/103/530/0103530273/incendio-san-luis-600-2.jpeg",
-        "summary": "Los bomberos llegaron a tiempo para evitar que el fuego se propagara, aunque el siniestro afectó a más de un departamento",
-        "pubDate": "2026-11-14T14:09:00+00:00",
         "approxTime": false
       }
     ]
