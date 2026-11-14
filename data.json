@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T14:30:50.933492+00:00",
+  "generatedAt": "2026-11-14T15:01:14.832935+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Los Pumas utilizaron una camiseta en homenaje a la selección argentina de fútbol del Mundial 1986",
+        "link": "https://www.lacapital.com.ar/ovacion/los-pumas-utilizaron-una-camiseta-homenaje-la-seleccion-argentina-futbol-del-mundial-1986-n10292174.html",
+        "image": "https://media.lacapital.com.ar/p/487899b6591bbf425e635ea856423856/adjuntos/203/imagenes/103/530/0103530430/1200x675/smart/image-2026-11-14t103943576.png",
+        "summary": "En conmemoración a la Copa del Mundo conquistada en México, el seleccionado de rugby vistió una indumentaria especial durante la victoria por 19-14 ante Italia",
+        "pubDate": "2026-11-14T14:54:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Balcón en llamas: apagaron un incendio en un edificio del centro rosarino",
         "link": "https://www.lacapital.com.ar/la-ciudad/balcon-llamas-apagaron-un-incendio-un-edificio-del-centro-rosarino-n10292153.html",
         "image": "https://media.lacapital.com.ar/p/57c2c7e6e9d0dba457728230e07d40e1/adjuntos/203/imagenes/103/530/0103530273/incendio-san-luis-600-2.jpeg",
@@ -159,8 +168,8 @@
       },
       {
         "source": "La Capital",
-        "title": "Roldán: un cumpleaños con 85 familiares: asado, tortas italianas y tarantelas",
-        "link": "https://www.lacapital.com.ar/la-region/roldan-un-cumpleanos-85-familiares-asado-tortas-italianas-y-tarantelas-n10292080.html",
+        "title": "Un cumpleaños con 85 familiares en Roldán: asado, tortas italianas y tarantelas",
+        "link": "https://www.lacapital.com.ar/la-region/un-cumpleanos-85-familiares-roldan-asado-tortas-italianas-y-tarantelas-n10292080.html",
         "image": "https://media.lacapital.com.ar/p/5a5735c0958d086b6efb3e606d1832e7/adjuntos/203/imagenes/103/529/0103529532/1200x675/smart/bufarini-reunion-86-integrantes-la-familia-italiana-y-argentina-roldan.jpg",
         "summary": "José Bufarini cumplió 56 años y los celebró en Roldán con una multitudinaria fiesta que reunió a la mitad de su familia bioceánica",
         "pubDate": "2026-11-14T13:00:00+00:00",
@@ -262,15 +271,6 @@
         "link": "https://www.lacapital.com.ar/turismo/diez-viajes-hacer-despues-los-50-destinos-que-invitan-descubrir-el-mundo-otra-manera-n10292033.html",
         "image": "https://media.lacapital.com.ar/p/90dcffb50aa7a466fbe37c903c428778/adjuntos/203/imagenes/103/529/0103529396/imagen-nota.jpg",
         "summary": "Desde los paisajes argentinos hasta los rincones más fascinantes de Europa y Asia, una selección de propuestas para conocer culturas y recorrer cada región",
-        "pubDate": "2026-11-14T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Un invernadero en el corazón de Córdoba: tres espacios para descubrir los sabores del territorio",
-        "link": "https://www.lacapital.com.ar/un-invernadero-el-corazon-cordoba-tres-espacios-descubrir-los-sabores-del-territorio-n10292074.html",
-        "image": "https://media.lacapital.com.ar/p/126bd09ea440160dc00fd453fabc45a9/adjuntos/203/imagenes/103/211/0103211740/006-azur001.jpg",
-        "summary": "Azur Hotel & Spa abrió una nueva etapa de La Despensa de Azur, integrada por El Invernadero, El Secadero y La Cava",
         "pubDate": "2026-11-14T10:00:00+00:00",
         "approxTime": false
       }
