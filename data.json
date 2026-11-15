@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T00:30:56.961633+00:00",
+  "generatedAt": "2026-11-15T01:01:14.891943+00:00",
   "sites": {
     "rosario3": [
       {
@@ -22,20 +22,20 @@
       },
       {
         "source": "Rosario3",
-        "title": "El Niño: la Provincia refuerza recomendaciones por la presencia de fauna silvestre y pide precaución en las rutas",
-        "link": "https://www.rosario3.com/informaciongeneral/el-nino-la-provincia-refuerza-recomendaciones-por-la-presencia-de-fauna-silvestre-y-pide-precaucion-en-las-rutas-20261114-0037.html",
-        "image": "https://www.rosario3.com/__export/1794695372634/sites/rosario3/img/2026/11/14/zorrino.jpg_1815390367.jpg",
-        "summary": "La crecida de los cursos de agua y el arrastre de embalsados de camalotes desde el norte hacia el centro y sur provincial incrementa la aparición de fauna silvestre en localidades ribereñas y áreas periurbanas. Cuáles son los principales cuidados a extremar a partir de las…",
+        "title": "El consumo en supermercados de Santa Fe no repunta y acumula meses de caída producto de la pérdida de poder adquisitivo",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/el-consumo-en-supermercados-de-santa-fe-no-repunta-y-acumula-meses-de-caida-producto-de-la-perdida-de-poder-adquisitivo-20261114-0038.html",
+        "image": "https://www.rosario3.com/__export/1740666667106/sites/rosario3/img/2024/12/04/supermercado_1.jpg_982625323.jpg",
+        "summary": "Un informe sectorial del Centro de Economía Política Argentina apuntó que las ventas en los supermercados de la provincia registraron una baja interanual acumulada de 1,9% durante los primeros ocho meses de este año con respecto a 2025, ubicándose además un 2,4% por debajo de…",
         "pubDate": "2026-11-14T11:58:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Malvinas en Rosario: lanzan un mapa colaborativo para registrar la “relación emocional” con las islas",
-        "link": "https://www.rosario3.com/informaciongeneral/malvinas-en-rosario-lanzan-un-mapa-colaborativo-para-registrar-la-relacion-emocional-con-las-islas-20261111-0053.html",
-        "image": "https://www.rosario3.com/__export/1794425300548/sites/rosario3/img/2026/11/11/mapa_malvinas.jpg_196571369.jpg",
-        "summary": "La plataforma fue desarrollada por investigadores del Conicet y la UNR. Permite subir fotos georreferenciadas de murales, monumentos, banderas y cualquier expresión simbólica. El objetivo es construir un archivo colectivo de la memoria local",
-        "pubDate": "2026-11-11T11:57:00+00:00",
+        "title": "El Niño: la Provincia refuerza recomendaciones por la presencia de fauna silvestre y pide precaución en las rutas",
+        "link": "https://www.rosario3.com/informaciongeneral/el-nino-la-provincia-refuerza-recomendaciones-por-la-presencia-de-fauna-silvestre-y-pide-precaucion-en-las-rutas-20261114-0037.html",
+        "image": "https://www.rosario3.com/__export/1794695372634/sites/rosario3/img/2026/11/14/zorrino.jpg_1815390367.jpg",
+        "summary": "La crecida de los cursos de agua y el arrastre de embalsados de camalotes desde el norte hacia el centro y sur provincial incrementa la aparición de fauna silvestre en localidades ribereñas y áreas periurbanas. Cuáles son los principales cuidados a extremar a partir de las…",
+        "pubDate": "2026-11-14T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Duendes deja todo y se fue al descanso arriba en la final del Regional del Litoral",
+        "link": "https://www.lacapital.com.ar/ovacion/duendes-deja-todo-y-se-fue-al-descanso-arriba-la-final-del-regional-del-litoral-n10292249.html",
+        "image": "https://media.lacapital.com.ar/p/c75890dfc98e016e214d0820e35df6b7/adjuntos/203/imagenes/103/531/0103531782/1200x675/smart/image-8.jpg",
+        "summary": "El Verdulero empezó abajo, pero de a poco le encontró la vuelta a Estudiantes de Paraná para superarlo, aunque en el final de la etapa achicó. Gran final del TRL",
+        "pubDate": "2026-11-15T00:47:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "El tiempo en Rosario: domingo con nubes antes de la llegada de más lluvias",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/7a44cedd00264697420bcbf0531d3a73/adjuntos/203/imagenes/103/531/0103531192/whatsapp-image-2026-11-14-at-153112.jpeg",
         "summary": "La investigación se inició en julio y detectaron una disputa territorial entre una fracción de Los Monos y una banda del barrio",
         "pubDate": "2026-11-14T18:36:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La China Suárez vs Wanda Nara: tras el video, picante ida y vuelta en redes",
-        "link": "https://www.lacapital.com.ar/zoom/la-china-suarez-vs-wanda-nara-el-video-picante-ida-y-vuelta-redes-n10292191.html",
-        "image": "https://media.lacapital.com.ar/p/8f671937ba479ac0b3956ef9d181b0e7/adjuntos/203/imagenes/102/142/0102142862/1200x675/smart/image-40jpg.jpg",
-        "summary": "Las dos eternas rivales se cruzaron fuertes con declaraciones públicas en las que no se ahorraron insultos y acusaciones",
-        "pubDate": "2026-11-14T17:56:00+00:00",
         "approxTime": false
       }
     ]
