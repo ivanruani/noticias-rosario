@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-11-15T21:42:51.118628+00:00",
+  "generatedAt": "2026-11-15T22:01:07.558967+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Cómo son los nuevos colectivos a GNC que empiezan a circular este lunes en Rosario",
+        "link": "https://www.rosario3.com/informaciongeneral/como-son-los-nuevos-colectivos-a-gnc-que-empiezan-a-circular-este-lunes-en-rosario-20261115-0033.html",
+        "image": "https://www.rosario3.com/__export/1794778180741/sites/rosario3/img/2026/11/15/colectivos_gnc2.jpg_1018832474.jpg",
+        "summary": "Más silenciosos y con menor impacto ambiental que los motores diésel, los primeros coches de un lote de 93 unidades salen a la calle. La línea 103 será la primera en renovar toda su flota",
+        "pubDate": "2026-11-15T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "El Paraná superó el nivel de evacuación en Santa Fe y Rosario sigue de cerca la crecida: qué se espera",
         "link": "https://www.rosario3.com/informaciongeneral/el-parana-supero-el-nivel-de-evacuacion-en-santa-fe-y-rosario-sigue-de-cerca-la-crecida-20261115-0025.html",
         "image": "https://www.rosario3.com/__export/1794764747587/sites/rosario3/img/2026/11/15/crecida_santa_fe_-1-.jpg_506286608.jpg",
         "summary": "El río alcanzó los 5,72 metros este domingo en el puerto santafesino, dos centímetros por encima de la cota de evacuación. En Rosario, las proyecciones del Instituto Nacional del Agua anticipan que podría llegar a los 5,20 o 5,30 metros hacia fines de noviembre, cerca del umbral…",
-        "pubDate": "2026-11-15T12:00:00+00:00",
+        "pubDate": "2026-11-15T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/siguen-las-obras-de-aguas-en-el-centro-esta-semana-cortes-en-una-calle-clave-20261115-0030.html",
         "image": "https://www.rosario3.com/__export/1794774226247/sites/rosario3/img/2026/11/15/assa.jpg_982625323.jpg",
         "summary": "La empresa continúa con el recambio de cañerías en el casco histórico y habrá interrupciones de 8 a 18 entre lunes y miércoles. También, eventualmente, jueves y viernes. El cronograma día por día",
-        "pubDate": "2026-11-15T11:59:00+00:00",
+        "pubDate": "2026-11-15T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/run-run-grandes-corporaciones-ganan-terreno-en-rosario-y-el-velero-de-herrera-tiene-nuevo-capitan-con-apellido-judicial-20261115-0018.html",
         "image": "https://www.rosario3.com/__export/1794757815612/sites/rosario3/img/2026/11/15/velerete.jpg_1825222562.jpg",
         "summary": "Además: la provincia demora pagos de intereses al Banco Santa Fe por adelantos de certificados de obra pública y busca sumar a la Bolsa para que también los descuente, por primera vez en años la Justicia laboral en Rosario jugará con el equipo completo, el gobierno cambia de…",
-        "pubDate": "2026-11-15T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Caso Dolly: dos puntas que sueñan encontrarse y una trama oscura e inquietante que la Justicia debe reconstruir",
-        "link": "https://www.rosario3.com/informaciongeneral/caso-dolly-dos-puntas-que-suenan-encontrarse-y-una-trama-oscura-e-inquietante-que-la-justicia-debe-reconstruir-20261115-0005.html",
-        "image": "https://www.rosario3.com/__export/1794746622234/sites/rosario3/img/2026/11/15/ramona-antonio.jpg_1768679312.jpg",
-        "summary": "Mientras decenas de hombres y mujeres que descubrieron haber sido comprados a las parteras rosarinas cuando eran bebés buscan a sus padres biológicos, ahora aparecen madres a las que les dijeron que sus hijos habían muerto al nacer y que nunca dejaron de dudar de aquella…",
         "pubDate": "2026-11-15T11:57:00+00:00",
         "approxTime": true
       },
@@ -58,11 +58,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "León XIV en Argentina: la iglesia frente al vacío del progresismo",
-        "link": "https://www.rosario3.com/politica/leon-xiv-en-argentina-la-iglesia-frente-al-vacio-del-progresismo-20261114-0005.html",
-        "image": "https://www.rosario3.com/__export/1794744329303/sites/rosario3/img/2026/11/15/papa.jpg_1825222445.jpg",
-        "summary": "En un país atravesado por una profunda transformación del entramado productivo, las palabras del Papa recuperaron una discusión esencial: qué lugar ocupan la dignidad humana, la solidaridad y el bien común en el modelo de sociedad que se busca construir",
-        "pubDate": "2026-11-14T11:54:00+00:00",
+        "title": "Caso Dolly: dos puntas que sueñan encontrarse y una trama oscura e inquietante que la Justicia debe reconstruir",
+        "link": "https://www.rosario3.com/informaciongeneral/caso-dolly-dos-puntas-que-suenan-encontrarse-y-una-trama-oscura-e-inquietante-que-la-justicia-debe-reconstruir-20261115-0005.html",
+        "image": "https://www.rosario3.com/__export/1794746622234/sites/rosario3/img/2026/11/15/ramona-antonio.jpg_1768679312.jpg",
+        "summary": "Mientras decenas de hombres y mujeres que descubrieron haber sido comprados a las parteras rosarinas cuando eran bebés buscan a sus padres biológicos, ahora aparecen madres a las que les dijeron que sus hijos habían muerto al nacer y que nunca dejaron de dudar de aquella…",
+        "pubDate": "2026-11-15T11:54:00+00:00",
         "approxTime": true
       },
       {
@@ -76,20 +76,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Pullaro da por cerrado cualquier debate sobre sumar La Libertad Avanza a Unidos",
-        "link": "https://www.rosario3.com/politica/pullaro-da-por-cerrado-cualquier-debate-sobre-sumar-la-libertad-avanza-a-unidos-20261115-0002.html",
-        "image": "https://www.rosario3.com/__export/1794724466854/sites/rosario3/img/2026/10/29/karina_milei_con_pullaro.jpg_982625323.jpg",
-        "summary": "Desmentidas, posibles alianzas, garantes de acuerdo interno y sospechas de todo tipo. A todo nivel, comenzó a moverse el tablero electoral de 2027",
-        "pubDate": "2026-11-15T11:52:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
         "title": "Ronaldinho volvió al fútbol a los 46 años: participó en un gol del Ravenna y regaló sonrisas para todos",
         "link": "https://www.rosario3.com/deportes/ronaldinho-volvio-al-futbol-a-los-46-anos-participo-en-un-gol-del-ravenna-y-regalo-sonrisas-para-todos-20261115-0029.html",
         "image": "https://www.rosario3.com/__export/1794773192882/sites/rosario3/img/2026/11/15/ronaldinho.jpg_506286608.jpg",
         "summary": "El astro brasileño jugó un partido oficial a más de once años de su retiro como profesional. Disputó 45 minutos con su equipo, en la Serie C de Italia",
-        "pubDate": "2026-11-15T11:51:00+00:00",
+        "pubDate": "2026-11-15T11:52:00+00:00",
         "approxTime": true
       },
       {
@@ -98,16 +89,25 @@
         "link": "https://www.rosario3.com/informaciongeneral/extinguieron-un-incendio-en-la-planta-de-tratamiento-de-residuos-de-zona-oeste-20261115-0014.html",
         "image": "https://www.rosario3.com/__export/1794751795186/sites/rosario3/img/2026/11/15/incendio.jpeg_1825222445.jpeg",
         "summary": "El fuego se desató durante la madrugada de este domingo en un montículo de residuos del predio ubicado en Las Palmeras al 4500. El operativo demandó más de cuatro horas de trabajo y requirió el apoyo de maquinaria pesada. No se registraron víctimas",
-        "pubDate": "2026-11-15T11:50:00+00:00",
+        "pubDate": "2026-11-15T11:51:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Resultado de la escucha pública de las conversaciones en redes sociales: “A Milei se le acabó el aura”",
-        "link": "https://www.rosario3.com/politica/resultado-de-la-escucha-publica-de-las-conversaciones-en-redes-sociales-a-milei-se-le-acabo-el-aura-20261113-0031.html",
-        "image": "https://www.rosario3.com/__export/1794595619702/sites/rosario3/img/2026/11/13/sergio.jpg_928314581.jpg",
-        "summary": "Así lo planteó el consultor José Norte Sosa, quien hizo un relevamiento durante los últimos dos meses. Destacó “el nivel de automatismo” y el “crecimiento de los comentarios negativos” hacia la figura del Presidente. El profesional estará en Rosario este martes para presentar el…",
-        "pubDate": "2026-11-13T11:49:00+00:00",
+        "title": "León XIV en Argentina: la iglesia frente al vacío del progresismo",
+        "link": "https://www.rosario3.com/politica/leon-xiv-en-argentina-la-iglesia-frente-al-vacio-del-progresismo-20261114-0005.html",
+        "image": "https://www.rosario3.com/__export/1794744329303/sites/rosario3/img/2026/11/15/papa.jpg_1825222445.jpg",
+        "summary": "En un país atravesado por una profunda transformación del entramado productivo, las palabras del Papa recuperaron una discusión esencial: qué lugar ocupan la dignidad humana, la solidaridad y el bien común en el modelo de sociedad que se busca construir",
+        "pubDate": "2026-11-14T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Pullaro da por cerrado cualquier debate sobre sumar La Libertad Avanza a Unidos",
+        "link": "https://www.rosario3.com/politica/pullaro-da-por-cerrado-cualquier-debate-sobre-sumar-la-libertad-avanza-a-unidos-20261115-0002.html",
+        "image": "https://www.rosario3.com/__export/1794724466854/sites/rosario3/img/2026/10/29/karina_milei_con_pullaro.jpg_982625323.jpg",
+        "summary": "Desmentidas, posibles alianzas, garantes de acuerdo interno y sospechas de todo tipo. A todo nivel, comenzó a moverse el tablero electoral de 2027",
+        "pubDate": "2026-11-15T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -121,24 +121,33 @@
       },
       {
         "source": "Rosario3",
-        "title": "Phil Collins ingresó como solista al Rock and Roll Hall of Fame: \"Todo lo que quería era tocar la batería\"",
-        "link": "https://www.rosario3.com/ocio/phil-collins-ingreso-como-solista-al-rock-and-roll-hall-of-fame-todo-lo-que-queria-era-tocar-la-bateria-20261115-0027.html",
-        "image": "https://www.rosario3.com/__export/1794767163830/sites/rosario3/img/2026/11/15/collins.jpg_54252853.jpg",
-        "summary": "El baterista, de 75 años, subió a recoger su premio apoyándose en dos bastones, mientras el público le dedicaba una sentida ovación. Por lesiones en la espalda, brazo y rodilla, el músico británico no puede ponerse detrás de los parches desde 2022. En su discurso, avisó: “Aún no…",
-        "pubDate": "2026-11-15T11:47:00+00:00",
+        "title": "Resultado de la escucha pública de las conversaciones en redes sociales: “A Milei se le acabó el aura”",
+        "link": "https://www.rosario3.com/politica/resultado-de-la-escucha-publica-de-las-conversaciones-en-redes-sociales-a-milei-se-le-acabo-el-aura-20261113-0031.html",
+        "image": "https://www.rosario3.com/__export/1794595619702/sites/rosario3/img/2026/11/13/sergio.jpg_928314581.jpg",
+        "summary": "Así lo planteó el consultor José Norte Sosa, quien hizo un relevamiento durante los últimos dos meses. Destacó “el nivel de automatismo” y el “crecimiento de los comentarios negativos” hacia la figura del Presidente. El profesional estará en Rosario este martes para presentar el…",
+        "pubDate": "2026-11-13T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Emprende sobre Ruedas: se puso en marcha un programa para acompañar a repartidoras y repartidores",
-        "link": "https://www.rosario3.com/informaciongeneral/emprende-sobre-ruedas-se-puso-en-marcha-un-programa-para-acompanar-a-repartidoras-y-repartidores-20261115-0024.html",
-        "image": "https://www.rosario3.com/__export/1794763951435/sites/rosario3/img/2026/11/15/puerto_emprende_version1794763620587.jpg_1753201588.jpg",
-        "summary": "La iniciativa municipal busca mejorar las condiciones laborales de quienes desarrollan la actividad. Incluye capacitaciones y provisión de elementos de seguridad a trabajadora es de aplicaciones",
+        "title": "Phil Collins ingresó como solista al Rock and Roll Hall of Fame: \"Todo lo que quería era tocar la batería\"",
+        "link": "https://www.rosario3.com/ocio/phil-collins-ingreso-como-solista-al-rock-and-roll-hall-of-fame-todo-lo-que-queria-era-tocar-la-bateria-20261115-0027.html",
+        "image": "https://www.rosario3.com/__export/1794767163830/sites/rosario3/img/2026/11/15/collins.jpg_54252853.jpg",
+        "summary": "El baterista, de 75 años, subió a recoger su premio apoyándose en dos bastones, mientras el público le dedicaba una sentida ovación. Por lesiones en la espalda, brazo y rodilla, el músico británico no puede ponerse detrás de los parches desde 2022. En su discurso, avisó: “Aún no…",
         "pubDate": "2026-11-15T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Crecida del Paraná: evacuaron más de 600 mil cabezas de ganado de las islas por las inundaciones",
+        "link": "https://www.lacapital.com.ar/la-region/crecida-del-parana-evacuaron-mas-600-mil-cabezas-ganado-las-islas-las-inundaciones-n10292323.html",
+        "image": "https://media.lacapital.com.ar/p/1df96d206a9859517e52fe0059d2b983/adjuntos/203/imagenes/103/532/0103532831/1200x675/smart/imagevacas.jpg",
+        "summary": "El operativo permitió retirar cerca del 90% de la hacienda que estaba en las islas santafesinas. Aún quedan entre 80 mil y 90 mil animales en zonas altas del humedal.",
+        "pubDate": "2026-11-15T21:59:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Cierre de año del futsal de Newell's con un título bajo el brazo y el pasaje a Supercopa",
@@ -213,10 +222,10 @@
       },
       {
         "source": "La Capital",
-        "title": "Funes: encuentro de vecinos en la Asociación de Comerciantes para prevenir inundaciones",
-        "link": "https://www.lacapital.com.ar/la-region/funes-encuentro-vecinos-la-asociacion-comerciantes-prevenir-inundaciones-n10291849.html",
-        "image": "https://media.lacapital.com.ar/p/33dd2b417c8228e12e32d8ba592bf75c/adjuntos/203/imagenes/103/527/0103527023/1200x675/smart/funes-segundo-encuentro-vecinos-acif.jpg",
-        "summary": "Vecinos, referentes vecinales y organizaciones de diversos puntos de la ciudad de Funes llevaron a cabo el Segundo Encuentro de vecinos y vecinales en las instalaciones de Acif (Asociación de Comerciantes e Industriales de Funes), una iniciativa impulsada por el Centro de…",
+        "title": "El legado de Los Palmeras: la gesta popular que unió a Santa Fe con el continente para siempre",
+        "link": "https://www.lacapital.com.ar/la-region/el-legado-los-palmeras-la-gesta-popular-que-unio-santa-fe-el-continente-siempre-n10291901.html",
+        "image": "https://media.lacapital.com.ar/p/4161695be12c895a1436a640bef3c01b/adjuntos/203/imagenes/103/527/0103527373/1200x675/smart/los-palmeras-sudamericana.jpg",
+        "summary": "Mientras la provincia aún procesa la dolorosa separación de la banda y el luto por la muerte de Marcos Camino, la memoria popular busca dónde aferrarse. La identidad cumbiera santafesina excede los escenarios y viene tejiéndose en el aire mucho antes de cualquier adiós",
         "pubDate": "2026-11-15T13:00:00+00:00",
         "approxTime": false
       },
@@ -231,10 +240,10 @@
       },
       {
         "source": "La Capital",
-        "title": "El legado de Los Palmeras: la gesta popular que unió a Santa Fe con el continente para siempre",
-        "link": "https://www.lacapital.com.ar/la-region/el-legado-los-palmeras-la-gesta-popular-que-unio-santa-fe-el-continente-siempre-n10291901.html",
-        "image": "https://media.lacapital.com.ar/p/4161695be12c895a1436a640bef3c01b/adjuntos/203/imagenes/103/527/0103527373/1200x675/smart/los-palmeras-sudamericana.jpg",
-        "summary": "Mientras la provincia aún procesa la dolorosa separación de la banda y el luto por la muerte de Marcos Camino, la memoria popular busca dónde aferrarse. La identidad cumbiera santafesina excede los escenarios y viene tejiéndose en el aire mucho antes de cualquier adiós",
+        "title": "Funes: encuentro de vecinos en la Asociación de Comerciantes para prevenir inundaciones",
+        "link": "https://www.lacapital.com.ar/la-region/funes-encuentro-vecinos-la-asociacion-comerciantes-prevenir-inundaciones-n10291849.html",
+        "image": "https://media.lacapital.com.ar/p/33dd2b417c8228e12e32d8ba592bf75c/adjuntos/203/imagenes/103/527/0103527023/1200x675/smart/funes-segundo-encuentro-vecinos-acif.jpg",
+        "summary": "Vecinos, referentes vecinales y organizaciones de diversos puntos de la ciudad de Funes llevaron a cabo el Segundo Encuentro de vecinos y vecinales en las instalaciones de Acif (Asociación de Comerciantes e Industriales de Funes), una iniciativa impulsada por el Centro de…",
         "pubDate": "2026-11-15T13:00:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/c1c6e4e5563a1cb70ba98b10383db3a4/adjuntos/203/imagenes/103/526/0103526975/1200x675/smart/imagen-nota.jpg",
         "summary": "La especialista de Grupo Gamma explica cómo un impacto en el pecho puede desencadenar una arritmia grave, incluso en jóvenes sanos, y qué hacer frente a una emergencia",
         "pubDate": "2026-11-15T11:55:29+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Rehabilitación y entrenamiento: Kintra Salud ya inauguró tres sedes y van por más",
-        "link": "https://www.lacapital.com.ar/negocios/rehabilitacion-y-entrenamiento-kintra-salud-ya-inauguro-tres-sedes-y-van-mas-n10291653.html",
-        "image": "https://media.lacapital.com.ar/p/b9dac2a293b3ec40dd635a06a1b0c47c/adjuntos/203/imagenes/103/527/0103527385/82853238.jpeg",
-        "summary": "En apenas ocho años, consolidaron una importante expansión. Combinan consultorios multidisciplinarios con un gimnasio de entrenamiento personalizado guiado por kinesiólogos. Ya tienen fuerte presencia en el centro y miran hacia barrio Martin",
-        "pubDate": "2026-11-15T11:00:00+00:00",
         "approxTime": false
       }
     ]
