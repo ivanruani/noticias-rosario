@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T14:01:11.898347+00:00",
+  "generatedAt": "2026-11-15T14:30:59.790937+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,11 +13,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Extinguieron un incendio en la planta de tratamiento de residuos de zona oeste",
+        "link": "https://www.rosario3.com/informaciongeneral/extinguieron-un-incendio-en-la-planta-de-tratamiento-de-residuos-de-zona-oeste-20261115-0014.html",
+        "image": "https://www.rosario3.com/__export/1794751795186/sites/rosario3/img/2026/11/15/incendio.jpeg_1825222445.jpeg",
+        "summary": "El fuego se desató durante la madrugada de este domingo en un montículo de residuos del predio ubicado en Las Palmeras al 4500. El operativo demandó más de cuatro horas de trabajo y requirió el apoyo de maquinaria pesada. No se registraron víctimas",
+        "pubDate": "2026-11-15T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Cuando el enemigo viene en la caja",
         "link": "https://www.rosario3.com/tecnologia/cuando-el-enemigo-viene-en-la-caja-20261115-0001.html",
         "image": "https://www.rosario3.com/__export/1794717352697/sites/rosario3/img/2026/11/15/000_-_imagen_de_portada_-1-.jpg_1768679257.jpg",
         "summary": "Pueden ser nuevos, originales y funcionar perfectamente, pero detrás de su apariencia inocente esconden su verdadero propósito. Cómo los dispositivos electrónicos pueden convertirse en instrumentos del delito antes de llegar a sus compradores",
-        "pubDate": "2026-11-15T11:59:00+00:00",
+        "pubDate": "2026-11-15T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,25 +35,7 @@
         "link": "https://www.rosario3.com/politica/leon-xiv-en-argentina-la-iglesia-frente-al-vacio-del-progresismo-20261114-0005.html",
         "image": "https://www.rosario3.com/__export/1794744329303/sites/rosario3/img/2026/11/15/papa.jpg_1825222445.jpg",
         "summary": "En un país atravesado por una profunda transformación del entramado productivo, las palabras del Papa recuperaron una discusión esencial: qué lugar ocupan la dignidad humana, la solidaridad y el bien común en el modelo de sociedad que se busca construir",
-        "pubDate": "2026-11-14T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Resultado de la escucha pública de las conversaciones en redes sociales: “A Milei se le acabó el aura”",
-        "link": "https://www.rosario3.com/politica/resultado-de-la-escucha-publica-de-las-conversaciones-en-redes-sociales-a-milei-se-le-acabo-el-aura-20261113-0031.html",
-        "image": "https://www.rosario3.com/__export/1794595619702/sites/rosario3/img/2026/11/13/sergio.jpg_928314581.jpg",
-        "summary": "Así lo planteó el consultor José Norte Sosa, quien hizo un relevamiento durante los últimos dos meses. Destacó “el nivel de automatismo” y el “crecimiento de los comentarios negativos” hacia la figura del Presidente. El profesional estará en Rosario este martes para presentar el…",
-        "pubDate": "2026-11-13T11:57:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El papa León XIV afronta el día más exigente de su viaje: 4 ciudades, 3 vuelos y 4 actos",
-        "link": "https://www.rosario3.com/informaciongeneral/el-papa-leon-xiv-afronta-el-dia-mas-exigente-de-su-viaje-4-ciudades-3-vuelos-y-4-actos-20261115-0009.html",
-        "image": "https://www.rosario3.com/__export/1794747383994/sites/rosario3/img/2026/11/15/papa_leon.jpg_1825222445.jpg",
-        "summary": "El Pontífice desayunó en Chiclayo, lidera dos actos en Cusco y protagonizará otras dos actividades en Pucallpa antes de regresar a Lima para cenar y dormir",
-        "pubDate": "2026-11-15T11:56:00+00:00",
+        "pubDate": "2026-11-14T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -53,7 +44,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/santa-fe-retiro-el-90-del-ganado-de-las-islas-del-parana-ante-la-crecida-del-rio-20261115-0007.html",
         "image": "https://www.rosario3.com/__export/1794745706882/sites/rosario3/img/2026/11/15/ganado.jpeg_1825222445.jpeg",
         "summary": "De más de 700.000 animales relevados en agosto, actualmente permanecen entre 80.000 y 90.000 en zonas altas del humedal. La Provincia ahora concentra los controles en los establecimientos receptores y la prevención sanitaria",
-        "pubDate": "2026-11-15T11:55:00+00:00",
+        "pubDate": "2026-11-15T11:56:00+00:00",
         "approxTime": true
       },
       {
@@ -62,7 +53,34 @@
         "link": "https://www.rosario3.com/ecos365/noticias/swiss-medical-compra-grupo-orono-cambio-de-era-en-la-salud-de-rosario-y-los-grandes-avanzan-en-un-mercado-que-se-achica-20261115-0001.html",
         "image": "https://www.rosario3.com/__export/1794747895699/sites/rosario3/img/2026/11/15/puerta_giratoria_del_capital_hospitalario_crop1794747831171.png_1126084916.png",
         "summary": "Belocopitt y los Tourn se quedan con el Grupo Oroño y patean el tablero de la salud santafesina. Día, Burger King y Molinos confirman que llegó la hora de la escala. Más autos chinos e inauguraciones. Enfrente, metalúrgicos en caída libre y un mercado que duda del cepo",
-        "pubDate": "2026-11-15T11:54:00+00:00",
+        "pubDate": "2026-11-15T11:55:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Resultado de la escucha pública de las conversaciones en redes sociales: “A Milei se le acabó el aura”",
+        "link": "https://www.rosario3.com/politica/resultado-de-la-escucha-publica-de-las-conversaciones-en-redes-sociales-a-milei-se-le-acabo-el-aura-20261113-0031.html",
+        "image": "https://www.rosario3.com/__export/1794595619702/sites/rosario3/img/2026/11/13/sergio.jpg_928314581.jpg",
+        "summary": "Así lo planteó el consultor José Norte Sosa, quien hizo un relevamiento durante los últimos dos meses. Destacó “el nivel de automatismo” y el “crecimiento de los comentarios negativos” hacia la figura del Presidente. El profesional estará en Rosario este martes para presentar el…",
+        "pubDate": "2026-11-13T11:54:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Dos aviones chocaron en la pista del aeropuerto internacional de Miami",
+        "link": "https://www.rosario3.com/informaciongeneral/dos-aviones-chocaron-en-la-pista-del-aeropuerto-internacional-de-miami-20261115-0015.html",
+        "image": "https://www.rosario3.com/__export/1794752682175/sites/rosario3/img/2026/11/15/aviones.jpg_54252853.jpg",
+        "summary": "El accidente se produjo en la noche de último sábado, cuando la punta del ala de un Boeing 737 de Copa Airlines impactó contra el morro de un Boeing 767 de UPS. Dos personas resultaros heridas en el incidente. Este domingo, Estados Unidos trataba de reanudar el tráfico aéreo…",
+        "pubDate": "2026-11-15T11:53:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Futbolista de Boca chocó a un motociclista, escapó y dio positivo de alcoholemia en Paraná",
+        "link": "https://www.rosario3.com/informaciongeneral/futbolista-de-boca-choco-a-un-motociclista-escapo-y-dio-positivo-de-alcoholemia-en-parana-20261115-0012.html",
+        "image": "https://www.rosario3.com/__export/1794751226288/sites/rosario3/img/2026/11/15/boca_version1794751225887.jpg_54252875.jpg",
+        "summary": "Se trata de Nahuel Alejandro Genez, lateral izquierdo de 23 años perteneciente que fue cedido a préstamo por el Xeneize a Patronato.",
+        "pubDate": "2026-11-15T11:52:00+00:00",
         "approxTime": true
       },
       {
@@ -71,7 +89,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/catamarca-una-mujer-murio-arrastrada-por-una-correntada-mientras-intentaba-proteger-su-auto-del-temporal-20261115-0010.html",
         "image": "https://www.rosario3.com/__export/1794749762016/sites/rosario3/img/2026/11/15/autos_catamarca.jpg_1825222445.jpg",
         "summary": "La víctima, de 60 años, fue sorprendida por la fuerza del agua durante la madrugada del sábado en San Fernando del Valle de Catamarca. Su hija también fue arrastrada, pero logró ser rescatada y permanece fuera de peligro",
-        "pubDate": "2026-11-15T11:53:00+00:00",
+        "pubDate": "2026-11-15T11:51:00+00:00",
         "approxTime": true
       },
       {
@@ -80,34 +98,16 @@
         "link": "https://www.rosario3.com/politica/flavio-bolsonaro-dijo-estar-listo-para-ser-nuevamente-candidato-a-presidente-en-brasil-20261115-0011.html",
         "image": "https://www.rosario3.com/__export/1794749972728/sites/rosario3/img/2026/11/15/flavio_bolsonaro_version1794749911834.jpg_734311246.jpg",
         "summary": "Desde Estados Unidos, el referente de la derecha en ese país, que cayó derrotado por el actual mandatario, Lula da Silva, vaticinó, además, una caída prematura del líder del PT",
-        "pubDate": "2026-11-15T11:52:00+00:00",
+        "pubDate": "2026-11-15T11:50:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Domingo cálido en Rosario antes de una semana con regreso de la inestabilidad",
-        "link": "https://www.rosario3.com/informaciongeneral/domingo-calido-en-rosario-antes-de-una-semana-con-regreso-de-la-inestabilidad-20261115-0003.html",
-        "image": "https://www.rosario3.com/__export/1794742526597/sites/rosario3/img/2026/11/15/clima_tiempo_verano_rxo_parque_costa_aire_libre_calor-.jpg_1825222445.jpg",
-        "summary": "El Servicio Meteorológico anticipa una máxima de 29 grados para lo que resta de la jornada, mientras que las lluvias y tormentas podrían regresar a partir del lunes por la noche y extenderse hasta el martes por la mañana",
-        "pubDate": "2026-11-15T11:51:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Finalmente, Gonzalo Belloso será candidato a presidente e irá por la reelección en Rosario Central",
-        "link": "https://www.rosario3.com/deportes/finalmente-gonzalo-belloso-sera-candidato-a-presidente-e-ira-por-la-reeleccion-en-rosario-central-20261114-0039.html",
-        "image": "https://www.rosario3.com/__export/1794696608765/sites/rosario3/img/2022/12/18/belloso.jpg_1124828059.jpg",
-        "summary": "El actual presidente de la entidad aurizul encabeza la lista de Raza Canalla, presentada públicamente en las últimas horas. A pesar de que había comunicado que sería parte de la próxima comisión directiva, el mandatario decidió dar marcha atrás a aquella decisión",
-        "pubDate": "2026-11-14T11:50:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Central Córdoba quedó eliminado del Reducido y el final ante Cañuelas terminó en una batalla campal",
-        "link": "https://www.rosario3.com/deportes/central-cordoba-quedo-eliminado-del-reducido-y-el-final-ante-canuelas-termino-en-una-batalla-campal-20261114-0035.html",
-        "image": "https://www.rosario3.com/__export/1794690877416/sites/rosario3/img/2026/11/14/pixas.jpg_928314580.jpg",
-        "summary": "El Charrúa perdió por penales en el estadio Jorge Arín y se despidió del sueño del ascenso a la Primera B. Después de la definición, jugadores y allegados de ambos equipos protagonizaron una pelea generalizada",
-        "pubDate": "2026-11-14T11:49:00+00:00",
+        "title": "El papa León XIV afronta el día más exigente de su viaje: 4 ciudades, 3 vuelos y 4 actos",
+        "link": "https://www.rosario3.com/informaciongeneral/el-papa-leon-xiv-afronta-el-dia-mas-exigente-de-su-viaje-4-ciudades-3-vuelos-y-4-actos-20261115-0009.html",
+        "image": "https://www.rosario3.com/__export/1794747383994/sites/rosario3/img/2026/11/15/papa_leon.jpg_1825222445.jpg",
+        "summary": "El Pontífice desayunó en Chiclayo, lidera dos actos en Cusco y protagonizará otras dos actividades en Pucallpa antes de regresar a Lima para cenar y dormir",
+        "pubDate": "2026-11-15T11:49:00+00:00",
         "approxTime": true
       },
       {
