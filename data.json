@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T21:01:01.858044+00:00",
+  "generatedAt": "2026-11-15T21:30:57.580871+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Cierre de año del futsal de Newell's con un título bajo el brazo y el pasaje a Supercopa",
+        "link": "https://www.lacapital.com.ar/ovacion/cierre-ano-del-futsal-newells-un-titulo-el-brazo-y-el-pasaje-supercopa-n10292314.html",
+        "image": "https://media.lacapital.com.ar/p/195bdcf1f30c5dab1e4d3839835c4b20/adjuntos/203/imagenes/103/532/0103532740/1200x675/smart/image-2.jpg",
+        "summary": "Newell’s venció en el estadio cubierto a Estudiantil Porteño en la final de la Copa de Plata y accedió a la nueva copa de la Asociación del Fútbol Argentino",
+        "pubDate": "2026-11-15T21:09:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Una multitud rojinegra copó el Parque Independencia: récord de corredores en la maratón de Newell's",
+        "link": "https://www.lacapital.com.ar/la-ciudad/una-multitud-rojinegra-copo-el-parque-independencia-record-corredores-la-maraton-newells-n10292312.html",
+        "image": "https://media.lacapital.com.ar/p/c363aa45c5ebeca42ac8b77a81c776b3/adjuntos/203/imagenes/103/532/0103532692/1200x675/smart/image-44.jpg",
+        "summary": "Más de 3.300 corredores participaron de la carrera por el 123º aniversario del club, mientras que la convocatoria reunió a unas 5.000 personas. La llegada fue en el Coloso Marcelo Bielsa.",
+        "pubDate": "2026-11-15T21:04:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Matías Rossi avisó en Río Cuarto que es otro candidato al título del Turismo Carretera",
         "link": "https://www.lacapital.com.ar/ovacion/matias-rossi-aviso-rio-cuarto-que-es-otro-candidato-al-titulo-del-turismo-carretera-n10292299.html",
         "image": "https://media.lacapital.com.ar/p/b17f3eebc035e3d884d225f7d36a70de/adjuntos/203/imagenes/103/532/0103532720/1200x675/smart/image-1.jpg",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/b9dac2a293b3ec40dd635a06a1b0c47c/adjuntos/203/imagenes/103/527/0103527385/82853238.jpeg",
         "summary": "En apenas ocho años, consolidaron una importante expansión. Combinan consultorios multidisciplinarios con un gimnasio de entrenamiento personalizado guiado por kinesiólogos. Ya tienen fuerte presencia en el centro y miran hacia barrio Martin",
         "pubDate": "2026-11-15T11:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Gimena Accardi y Seven Kayne: la química detrás del éxito de \"TILF\", que estrenó su segunda temporada",
-        "link": "https://www.lacapital.com.ar/zoom/gimena-accardi-y-seven-kayne-la-quimica-detras-del-exito-tilf-que-estreno-su-segunda-temporada-n10292052.html",
-        "image": "https://media.lacapital.com.ar/p/abb597a93e72ad8a4bd6b89366439091/adjuntos/203/imagenes/103/529/0103529530/1200x675/smart/image-2026-11-13t171025461.png",
-        "summary": "La serie vertical regresó con nuevos personajes y conflictos. En diálogo con La Capital, sus protagonistas hablaron de los desafíos del formato y la conexión que traspasó la pantalla",
-        "pubDate": "2026-11-15T11:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "City Center Rosario propone grandes espectáculos con el humor como protagonista",
-        "link": "https://www.lacapital.com.ar/novedades/city-center-rosario-propone-grandes-espectaculos-el-humor-como-protagonista-n10292035.html",
-        "image": "https://media.lacapital.com.ar/p/d081e21d3f3f3551f7bf3a99e3c9534d/adjuntos/203/imagenes/103/529/0103529159/1200x675/smart/portada.jpg",
-        "summary": "El complejo presenta una variada programación que reúne a destacados artistas del humor, el folklore y el rock nacional. Entre las principales propuestas, Juampi González el próximo 6 de diciembre",
-        "pubDate": "2026-11-15T10:00:00+00:00",
         "approxTime": false
       }
     ]
