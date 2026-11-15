@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T18:01:01.434548+00:00",
+  "generatedAt": "2026-11-15T18:30:56.812574+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Morosidad récord en Rosario: más de 135 mil personas no pueden pagar sus deudas y crece la preocupación por las billeteras virtuales",
+        "link": "https://www.lacapital.com.ar/economia/morosidad-record-rosario-mas-135-mil-personas-no-pueden-pagar-sus-deudas-y-crece-la-preocupacion-las-billeteras-virtuales-n10292300.html",
+        "image": "https://media.lacapital.com.ar/p/1da0b728cfed0b8464eb7dc6909bea1e/adjuntos/203/imagenes/103/532/0103532531/1200x675/smart/imagebille.jpg",
+        "summary": "Un informe del Cepa, basado en datos del Banco Central, revela que el 26,9% de los rosarinos que tienen deudas registra atrasos en sus pagos. La situación golpea especialmente a los jóvenes. En Santa Fe hay casi 430 mil morosos.",
+        "pubDate": "2026-11-15T18:17:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Central Córdoba termina otro año frustrante y sigue hundido en el fondo del fútbol argentino",
         "link": "https://www.lacapital.com.ar/ovacion/central-cordoba-termina-otro-ano-frustrante-y-sigue-hundido-el-fondo-del-futbol-argentino-n10292226.html",
         "image": "https://media.lacapital.com.ar/p/100da02cb206ed50444b500fef1e4950/adjuntos/203/imagenes/103/531/0103531438/1200x675/smart/image-3.jpg",
@@ -261,15 +270,6 @@
         "title": "La Capital: un siglo y medio de evolución tecnológica",
         "link": "https://www.lacapital.com.ar/aniversario-la-capital/la-capital-un-siglo-y-medio-evolucion-tecnologica-n10290702.html",
         "image": "https://media.lacapital.com.ar/p/e323790be2d22ca9c098a476f72d77db/adjuntos/203/imagenes/103/513/0103513792/1200x675/smart/diario.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-11-15T09:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El diario de la gran transformación urbana",
-        "link": "https://www.lacapital.com.ar/aniversario-la-capital/el-diario-la-gran-transformacion-urbana-n10290710.html",
-        "image": "https://media.lacapital.com.ar/p/5a6e822ced2600bf5daec49be05f9332/adjuntos/203/imagenes/103/513/0103513842/1200x675/smart/rotativa2.jpeg",
         "summary": "La Capital",
         "pubDate": "2026-11-15T09:30:00+00:00",
         "approxTime": false
