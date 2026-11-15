@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-11-15T01:01:14.891943+00:00",
+  "generatedAt": "2026-11-15T01:30:58.201318+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "A 20 años de la gran pedrada en Rosario: historias de la devastadora tormenta que dejó una huella imborrable",
+        "link": "https://www.rosario3.com/informaciongeneral/a-20-anos-de-la-gran-pedrada-en-rosario-historias-de-la-devastadora-tormenta-que-dejo-una-huella-imborrable-20261113-0063.html",
+        "image": "https://www.rosario3.com/__export/1794614068884/sites/rosario3/img/2026/11/13/pedrada_rosario_2006.jpeg_789724384.jpeg",
+        "summary": "El domingo 15 de noviembre se cumplen dos décadas del temporal que oscureció el cielo rosarino y dejó severos daños en la ciudad. Un informe de Telenoche (El Tres) recopiló material de archivo y testimonios de vecinos que sufrieron las consecuencias del granizo en carne propia…",
+        "pubDate": "2026-11-13T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Finalmente, Gonzalo Belloso será candidato a presidente e irá por la reelección en Rosario Central",
         "link": "https://www.rosario3.com/deportes/finalmente-gonzalo-belloso-sera-candidato-a-presidente-e-ira-por-la-reeleccion-en-rosario-central-20261114-0039.html",
         "image": "https://www.rosario3.com/__export/1794696608765/sites/rosario3/img/2022/12/18/belloso.jpg_1124828059.jpg",
         "summary": "El actual presidente de la entidad aurizul encabeza la lista de Raza Canalla, presentada públicamente en las últimas horas. A pesar de que había comunicado que sería parte de la próxima comisión directiva, el mandatario decidió dar marcha atrás a aquella decisión",
-        "pubDate": "2026-11-14T12:00:00+00:00",
+        "pubDate": "2026-11-14T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/se-vendio-grupo-orono-el-principal-holding-medico-privado-de-la-region-20261114-0031.html",
         "image": "https://www.rosario3.com/__export/1794688168807/sites/rosario3/img/2026/11/14/oronxo.jpg_2106848869.jpg",
         "summary": "La familia del fallecido Roberto Villavicencio, fundador de grupo que tiene al Sanatorio Parque, el ICR y la prepaga Esencial transfirió sus acciones a Swiss Medical y a Chicago Capital, un holding controlado por la familia Tourn",
-        "pubDate": "2026-11-14T11:59:00+00:00",
+        "pubDate": "2026-11-14T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,7 +35,7 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/el-consumo-en-supermercados-de-santa-fe-no-repunta-y-acumula-meses-de-caida-producto-de-la-perdida-de-poder-adquisitivo-20261114-0038.html",
         "image": "https://www.rosario3.com/__export/1740666667106/sites/rosario3/img/2024/12/04/supermercado_1.jpg_982625323.jpg",
         "summary": "Un informe sectorial del Centro de Economía Política Argentina apuntó que las ventas en los supermercados de la provincia registraron una baja interanual acumulada de 1,9% durante los primeros ocho meses de este año con respecto a 2025, ubicándose además un 2,4% por debajo de…",
-        "pubDate": "2026-11-14T11:58:00+00:00",
+        "pubDate": "2026-11-14T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -35,7 +44,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/el-nino-la-provincia-refuerza-recomendaciones-por-la-presencia-de-fauna-silvestre-y-pide-precaucion-en-las-rutas-20261114-0037.html",
         "image": "https://www.rosario3.com/__export/1794695372634/sites/rosario3/img/2026/11/14/zorrino.jpg_1815390367.jpg",
         "summary": "La crecida de los cursos de agua y el arrastre de embalsados de camalotes desde el norte hacia el centro y sur provincial incrementa la aparición de fauna silvestre en localidades ribereñas y áreas periurbanas. Cuáles son los principales cuidados a extremar a partir de las…",
-        "pubDate": "2026-11-14T11:57:00+00:00",
+        "pubDate": "2026-11-14T11:56:00+00:00",
         "approxTime": true
       },
       {
@@ -44,25 +53,16 @@
         "link": "https://www.rosario3.com/informaciongeneral/el-papa-leon-xiv-encabezo-su-ultima-misa-en-chiclayo-ante-miles-de-fieles-doy-gracias-a-dios-por-estar-aqui-20261114-0028.html",
         "image": "https://www.rosario3.com/__export/1794685123996/sites/rosario3/img/2026/11/14/papa-2.jpg_349985260.jpg",
         "summary": "Más de 15.000 personas se congregaron este sábado en la plaza de la iglesia frente al templo para recibir al sumo pontífice y participar de la ceremonia",
-        "pubDate": "2026-11-14T11:56:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "“Seguiremos enseñando a pescar”: el video del Gobierno por la visita del papa León XIV",
-        "link": "https://www.rosario3.com/informaciongeneral/seguiremos-ensenando-a-pescar-el-video-del-gobierno-por-la-visita-del-papa-leon-xiv-20261114-0020.html",
-        "image": "https://www.rosario3.com/__export/1794673367911/sites/rosario3/img/2026/11/11/1000613105.jpg_1096344067.jpg",
-        "summary": "El Ministerio de Capital Humano publicó una recopilación de poco más de tres minutos con los principales momentos del paso del Pontífice por la Argentina. Sin embargo, no incluyó su visita al Cottolengo Don Orione ni a la cárcel de Devoto, dos lugares donde dejó mensajes que…",
         "pubDate": "2026-11-14T11:55:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Un joven motociclista murió en un choque con un camión en la zona sudoeste de Rosario",
-        "link": "https://www.rosario3.com/policiales/un-joven-motociclista-murio-en-un-choque-con-un-camion-en-la-zona-sudoeste-de-rosario-20261114-0017.html",
-        "image": "https://www.rosario3.com/__export/1794669657235/sites/rosario3/img/2026/11/14/disen-o_sin_ti-tulo_-71-.png_928314581.png",
-        "summary": "El siniestro ocurrió este sábado por la mañana en la esquina de avenida Avellaneda y Arijón. La víctima quedó debajo del vehículo de gran porte y el personal del Sies constató su fallecimiento. El conductor del camión fue demorado",
-        "pubDate": "2026-11-14T11:54:00+00:00",
+        "title": "Malvinas en Rosario: lanzan un mapa colaborativo para registrar la “relación emocional” con las islas",
+        "link": "https://www.rosario3.com/informaciongeneral/malvinas-en-rosario-lanzan-un-mapa-colaborativo-para-registrar-la-relacion-emocional-con-las-islas-20261111-0053.html",
+        "image": "https://www.rosario3.com/__export/1794425300548/sites/rosario3/img/2026/11/11/mapa_malvinas.jpg_196571369.jpg",
+        "summary": "La plataforma fue desarrollada por investigadores del Conicet y la UNR. Permite subir fotos georreferenciadas de murales, monumentos, banderas y cualquier expresión simbólica. El objetivo es construir un archivo colectivo de la memoria local",
+        "pubDate": "2026-11-11T11:54:00+00:00",
         "approxTime": true
       },
       {
@@ -94,11 +94,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "“Seguiremos enseñando a pescar”: el video del Gobierno por la visita del papa León XIV",
+        "link": "https://www.rosario3.com/informaciongeneral/seguiremos-ensenando-a-pescar-el-video-del-gobierno-por-la-visita-del-papa-leon-xiv-20261114-0020.html",
+        "image": "https://www.rosario3.com/__export/1794673367911/sites/rosario3/img/2026/11/11/1000613105.jpg_1096344067.jpg",
+        "summary": "El Ministerio de Capital Humano publicó una recopilación de poco más de tres minutos con los principales momentos del paso del Pontífice por la Argentina. Sin embargo, no incluyó su visita al Cottolengo Don Orione ni a la cárcel de Devoto, dos lugares donde dejó mensajes que…",
+        "pubDate": "2026-11-14T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Dos acróbatas cordobeses fueron detenidos en Estados Unidos cuando viajaban para asistir al funeral de un amigo",
         "link": "https://www.rosario3.com/informaciongeneral/dos-acrobatas-cordobeses-fueron-detenidos-en-estados-unidos-cuando-viajaban-para-asistir-al-funeral-de-un-amigo-20261114-0036.html",
         "image": "https://www.rosario3.com/__export/1794692479973/sites/rosario3/img/2026/11/14/detenidos.jpg_2106848869.jpg",
         "summary": "Gustavo Romanello y Agustín Baccega fueron detenidos por el Servicio de Inmigración y Control de Aduanas (ICE) el pasado 7 de noviembre en el Aeropuerto de Phoenix, Arizona, mientras se trasladaban desde Orlando",
-        "pubDate": "2026-11-14T11:50:00+00:00",
+        "pubDate": "2026-11-14T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -107,16 +116,16 @@
         "link": "https://www.rosario3.com/deportes/central-cordoba-quedo-eliminado-del-reducido-y-el-final-ante-canuelas-termino-en-una-batalla-campal-20261114-0035.html",
         "image": "https://www.rosario3.com/__export/1794690877416/sites/rosario3/img/2026/11/14/pixas.jpg_928314580.jpg",
         "summary": "El Charrúa perdió por penales en el estadio Jorge Arín y se despidió del sueño del ascenso a la Primera B. Después de la definición, jugadores y allegados de ambos equipos protagonizaron una pelea generalizada",
-        "pubDate": "2026-11-14T11:49:00+00:00",
+        "pubDate": "2026-11-14T11:48:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Crisis aérea en Estados Unidos con más de 4.200 vuelos cancelados tras la falla en el sistema de la FAA",
-        "link": "https://www.rosario3.com/informaciongeneral/crisis-aerea-en-estados-unidos-con-mas-de-4.200-vuelos-cancelados-tras-la-falla-en-el-sistema-de-la-faa-20261114-0029.html",
-        "image": "https://www.rosario3.com/__export/1794684945154/sites/rosario3/img/2026/11/14/eeuu.jpg_928314580.jpg",
-        "summary": "El desperfecto en las telecomunicaciones que paralizó los despegues durante más de cuatro horas este viernes mantiene afectadas las conexiones nacionales e internacionales, las autoridades esperan normalizar las operaciones recién este domingo",
-        "pubDate": "2026-11-14T11:48:00+00:00",
+        "title": "Un joven motociclista murió en un choque con un camión en la zona sudoeste de Rosario",
+        "link": "https://www.rosario3.com/policiales/un-joven-motociclista-murio-en-un-choque-con-un-camion-en-la-zona-sudoeste-de-rosario-20261114-0017.html",
+        "image": "https://www.rosario3.com/__export/1794669657235/sites/rosario3/img/2026/11/14/disen-o_sin_ti-tulo_-71-.png_928314581.png",
+        "summary": "El siniestro ocurrió este sábado por la mañana en la esquina de avenida Avellaneda y Arijón. La víctima quedó debajo del vehículo de gran porte y el personal del Sies constató su fallecimiento. El conductor del camión fue demorado",
+        "pubDate": "2026-11-14T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,15 +134,6 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/santa-fe-exporto-un-336-mas-en-lo-que-va-del-ano-y-se-ubica-segunda-en-el-ranking-nacional-20261114-0013.html",
         "image": "https://www.rosario3.com/__export/1794665446194/sites/rosario3/img/2026/11/14/whatsapp_image_2026-11-14_at_09_02_49_version1794665445670.jpeg_1010838703.jpeg",
         "summary": "Entre enero y septiembre, las ventas externas de la provincia alcanzaron los 15.945 millones de dólares, por encima del crecimiento promedio del país. El 87,1% de las exportaciones correspondió a manufacturas y la India fue el principal destino",
-        "pubDate": "2026-11-14T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Charlas de Mercado: revuelo por rebaja del 70% en comisiones a corredores de granos",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/charlas-de-mercado-revuelo-por-rebaja-del-70-en-comisiones-a-corredores-de-granos-20261114-0009.html",
-        "image": "https://www.rosario3.com/__export/1794663597993/sites/rosario3/img/2026/11/14/rosganeta_version1794663597524.jpg_884113636.jpg",
-        "summary": "Además, en el Rosgan sienten que “pararon la sangría”, en MAV analizan con el gobierno de la provincia sumar la negociación de los pagos por certificados de obra pública, y en el A3 estudian lanzar sus propios ETF",
         "pubDate": "2026-11-14T11:46:00+00:00",
         "approxTime": true
       }
@@ -141,8 +141,8 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "Duendes deja todo y se fue al descanso arriba en la final del Regional del Litoral",
-        "link": "https://www.lacapital.com.ar/ovacion/duendes-deja-todo-y-se-fue-al-descanso-arriba-la-final-del-regional-del-litoral-n10292249.html",
+        "title": "Duendes se mantiene arriba en la final del Regional del Litoral",
+        "link": "https://www.lacapital.com.ar/ovacion/duendes-se-mantiene-arriba-la-final-del-regional-del-litoral-n10292249.html",
         "image": "https://media.lacapital.com.ar/p/c75890dfc98e016e214d0820e35df6b7/adjuntos/203/imagenes/103/531/0103531782/1200x675/smart/image-8.jpg",
         "summary": "El Verdulero empezó abajo, pero de a poco le encontró la vuelta a Estudiantes de Paraná para superarlo, aunque en el final de la etapa achicó. Gran final del TRL",
         "pubDate": "2026-11-15T00:47:00+00:00",
