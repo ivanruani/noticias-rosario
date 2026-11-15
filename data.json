@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-11-15T23:01:15.332375+00:00",
+  "generatedAt": "2026-11-15T23:30:56.622440+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Este lunes empieza una semana completa de paro docente en la UNR",
+        "link": "https://www.rosario3.com/informaciongeneral/este-lunes-empieza-una-semana-completa-de-paro-docente-en-la-unr-20261115-0032.html",
+        "image": "https://www.rosario3.com/__export/1794777696317/sites/rosario3/img/2025/09/17/marcha_unr_3.jpg_1825222445.jpg",
+        "summary": "La medida de fuerza, del 16 al 21 de noviembre, fue resuelta por Coad en reclamo por el cumplimiento de la Ley de Financiamiento Universitario y la convocatoria a paritarias. Además, llamaron a un Cabildo Abierto en Rosario",
+        "pubDate": "2026-11-15T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Cómo son los nuevos colectivos a GNC que empiezan a circular este lunes en Rosario",
         "link": "https://www.rosario3.com/informaciongeneral/como-son-los-nuevos-colectivos-a-gnc-que-empiezan-a-circular-este-lunes-en-rosario-20261115-0033.html",
         "image": "https://www.rosario3.com/__export/1794778180741/sites/rosario3/img/2026/11/15/colectivos_gnc2.jpg_1018832474.jpg",
         "summary": "Más silenciosos y con menor impacto ambiental que los motores diésel, los primeros coches de un lote de 93 unidades salen a la calle. La línea 103 será la primera en renovar toda su flota",
-        "pubDate": "2026-11-15T12:00:00+00:00",
+        "pubDate": "2026-11-15T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,15 +26,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/el-parana-supero-el-nivel-de-evacuacion-en-santa-fe-y-rosario-sigue-de-cerca-la-crecida-20261115-0025.html",
         "image": "https://www.rosario3.com/__export/1794764747587/sites/rosario3/img/2026/11/15/crecida_santa_fe_-1-.jpg_506286608.jpg",
         "summary": "El río alcanzó los 5,72 metros este domingo en el puerto santafesino, dos centímetros por encima de la cota de evacuación. En Rosario, las proyecciones del Instituto Nacional del Agua anticipan que podría llegar a los 5,20 o 5,30 metros hacia fines de noviembre, cerca del umbral…",
-        "pubDate": "2026-11-15T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Siguen las obras de Aguas en el centro: esta semana, cortes en una calle clave",
-        "link": "https://www.rosario3.com/informaciongeneral/siguen-las-obras-de-aguas-en-el-centro-esta-semana-cortes-en-una-calle-clave-20261115-0030.html",
-        "image": "https://www.rosario3.com/__export/1794774226247/sites/rosario3/img/2026/11/15/assa.jpg_982625323.jpg",
-        "summary": "La empresa continúa con el recambio de cañerías en el casco histórico y habrá interrupciones de 8 a 18 entre lunes y miércoles. También, eventualmente, jueves y viernes. El cronograma día por día",
         "pubDate": "2026-11-15T11:58:00+00:00",
         "approxTime": true
       },
@@ -40,10 +40,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "La Provincia ya compactó mil móviles policiales en desuso y más de 35 mil vehículos secuestrados",
-        "link": "https://www.rosario3.com/informaciongeneral/la-provincia-ya-compacto-mil-moviles-policiales-en-desuso-y-mas-de-35-mil-vehiculos-secuestrados-20261115-0035.html",
-        "image": "https://www.rosario3.com/__export/1794780616265/sites/rosario3/img/2026/11/15/compact1.jpg_1825222445.jpg",
-        "summary": "El operativo alcanza a unidades acumuladas en 19 depósitos y comisarías de toda Santa Fe, incluida la sede de la Aprad en Rosario. Antes de destruirlos, se evalúa qué rodados están en condiciones de ser subastados o donados a escuelas técnicas",
+        "title": "La gente quiere una estrella para darse un lujo",
+        "link": "https://www.rosario3.com/opinion/la-gente-quiere-una-estrella-para-darse-un-lujo-20261115-0037.html",
+        "image": "https://www.rosario3.com/__export/1794783438804/sites/rosario3/img/2026/11/15/tribunas_bombonera.jpg_2106848869.jpg",
+        "summary": "La Bombonera semi vacía para el primer partido de la selección en la era pos Messi deja todo un mensaje. El público del equipo nacional, que no es el mismo de los clubes, necesita un distinto por quien pagar las entradas",
         "pubDate": "2026-11-15T11:56:00+00:00",
         "approxTime": true
       },
@@ -69,7 +69,7 @@
         "source": "Rosario3",
         "title": "Central cambia el chip y prepara el cruce de octavos ante Gimnasia de Mendoza: tiene bajas y espera por varios regresos",
         "link": "https://www.rosario3.com/deportes/central-cambia-el-chip-y-prepara-el-cruce-de-octavos-ante-gimnasia-de-mendoza-tiene-bajas-y-espera-por-varios-regresos-20261115-0028.html",
-        "image": "https://www.rosario3.com/__export/1792180716679/sites/rosario3/img/2026/10/16/di_maria_central.jpg_506286608.jpg",
+        "image": "https://www.rosario3.com/__export/1792180716679/sites/rosario3/img/2026/10/16/di_maria_central.jpg_382583444.jpg",
         "summary": "El Canalla recibirá al Lobo mendocino el domingo 22, a las 16, en el Gigante de Arroyito. Jorge Almirón debe resolver quién reemplazará al expulsado Gastón Ávila en la zaga central y también definir quién ocupará el arco, entre Jeremías Ledesma y Axel Werner. Cuál es la…",
         "pubDate": "2026-11-15T11:53:00+00:00",
         "approxTime": true
@@ -85,29 +85,20 @@
       },
       {
         "source": "Rosario3",
-        "title": "Un motociclista murió tras chocar con un auto en Fray Luis Beltrán",
-        "link": "https://www.rosario3.com/informaciongeneral/un-motociclista-murio-tras-chocar-con-un-auto-en-fray-luis-beltran-20261115-0031.html",
-        "image": "https://www.rosario3.com/__export/1794774802648/sites/rosario3/img/2026/11/15/choque_fray_luis_beltran.jpg_506286608.jpg",
-        "summary": "El siniestro vial ocurrió este domingo por la tarde en la intersección de avenida Interurbana y el acceso a la autopista a Santa Fe. La víctima fatal tenía 29 años",
+        "title": "La Provincia ya compactó mil móviles policiales en desuso y más de 35 mil vehículos secuestrados",
+        "link": "https://www.rosario3.com/informaciongeneral/la-provincia-ya-compacto-mil-moviles-policiales-en-desuso-y-mas-de-35-mil-vehiculos-secuestrados-20261115-0035.html",
+        "image": "https://www.rosario3.com/__export/1794780616265/sites/rosario3/img/2026/11/15/compact1.jpg_1825222445.jpg",
+        "summary": "El operativo alcanza a unidades acumuladas en 19 depósitos y comisarías de toda Santa Fe, incluida la sede de la Aprad en Rosario. Antes de destruirlos, se evalúa qué rodados están en condiciones de ser subastados o donados a escuelas técnicas",
         "pubDate": "2026-11-15T11:51:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "León XIV en Argentina: la iglesia frente al vacío del progresismo",
-        "link": "https://www.rosario3.com/politica/leon-xiv-en-argentina-la-iglesia-frente-al-vacio-del-progresismo-20261114-0005.html",
-        "image": "https://www.rosario3.com/__export/1794744329303/sites/rosario3/img/2026/11/15/papa.jpg_1825222445.jpg",
-        "summary": "En un país atravesado por una profunda transformación del entramado productivo, las palabras del Papa recuperaron una discusión esencial: qué lugar ocupan la dignidad humana, la solidaridad y el bien común en el modelo de sociedad que se busca construir",
-        "pubDate": "2026-11-14T11:50:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Pullaro da por cerrado cualquier debate sobre sumar La Libertad Avanza a Unidos",
-        "link": "https://www.rosario3.com/politica/pullaro-da-por-cerrado-cualquier-debate-sobre-sumar-la-libertad-avanza-a-unidos-20261115-0002.html",
-        "image": "https://www.rosario3.com/__export/1794724466854/sites/rosario3/img/2026/10/29/karina_milei_con_pullaro.jpg_982625323.jpg",
-        "summary": "Desmentidas, posibles alianzas, garantes de acuerdo interno y sospechas de todo tipo. A todo nivel, comenzó a moverse el tablero electoral de 2027",
-        "pubDate": "2026-11-15T11:49:00+00:00",
+        "title": "Un motociclista murió tras chocar con un auto en Fray Luis Beltrán",
+        "link": "https://www.rosario3.com/informaciongeneral/un-motociclista-murio-tras-chocar-con-un-auto-en-fray-luis-beltran-20261115-0031.html",
+        "image": "https://www.rosario3.com/__export/1794774802648/sites/rosario3/img/2026/11/15/choque_fray_luis_beltran.jpg_506286608.jpg",
+        "summary": "El siniestro vial ocurrió este domingo por la tarde en la intersección de avenida Interurbana y el acceso a la autopista a Santa Fe. La víctima fatal tenía 29 años",
+        "pubDate": "2026-11-15T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +107,7 @@
         "link": "https://www.rosario3.com/deportes/godoy-cruz-ascendio-a-primera-vencio-en-la-final-a-tristan-suarez-y-vuelve-a-la-maxima-categoria-tras-un-ano-20261115-0036.html",
         "image": "https://www.rosario3.com/__export/1794781478878/sites/rosario3/img/2026/11/15/godoy_cruz_ascenso.jpg_506286608.jpg",
         "summary": "El Tomba se impuso 3-1 ante el Lechero en la final y se quedó con el título de la segunda categoría del fútbol argentino. Así, regresará a Primera División en 2027, apenas un año después de su descenso. Mendoza contará con tres equipos en la máxima: además de Godoy Cruz, están…",
-        "pubDate": "2026-11-15T11:48:00+00:00",
+        "pubDate": "2026-11-15T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -125,15 +116,24 @@
         "link": "https://www.rosario3.com/deportes/inglaterra-vencio-a-espana-la-dejo-segunda-y-le-corto-el-invicto-mas-largo-de-la-historia-20261115-0034.html",
         "image": "https://www.rosario3.com/__export/1794780814947/sites/rosario3/img/2026/11/15/kane_inglaterra.jpg_506286608.jpg",
         "summary": "El seleccionado inglés se impuso por 3-2 en la sexta y última fecha de la fase de grupos de la Nations League, un triunfo que le permitió ser primero de su zona en la Nations League. La Roja cayó luego de 43 encuentros",
+        "pubDate": "2026-11-15T11:48:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Siguen las obras de Aguas en el centro: esta semana, cortes en una calle clave",
+        "link": "https://www.rosario3.com/informaciongeneral/siguen-las-obras-de-aguas-en-el-centro-esta-semana-cortes-en-una-calle-clave-20261115-0030.html",
+        "image": "https://www.rosario3.com/__export/1794774226247/sites/rosario3/img/2026/11/15/assa.jpg_982625323.jpg",
+        "summary": "La empresa continúa con el recambio de cañerías en el casco histórico y habrá interrupciones de 8 a 18 entre lunes y miércoles. También, eventualmente, jueves y viernes. El cronograma día por día",
         "pubDate": "2026-11-15T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Cuando el enemigo viene en la caja",
-        "link": "https://www.rosario3.com/tecnologia/cuando-el-enemigo-viene-en-la-caja-20261115-0001.html",
-        "image": "https://www.rosario3.com/__export/1794717352697/sites/rosario3/img/2026/11/15/000_-_imagen_de_portada_-1-.jpg_1768679257.jpg",
-        "summary": "Pueden ser nuevos, originales y funcionar perfectamente, pero detrás de su apariencia inocente esconden su verdadero propósito. Cómo los dispositivos electrónicos pueden convertirse en instrumentos del delito antes de llegar a sus compradores",
+        "title": "Pullaro da por cerrado cualquier debate sobre sumar La Libertad Avanza a Unidos",
+        "link": "https://www.rosario3.com/politica/pullaro-da-por-cerrado-cualquier-debate-sobre-sumar-la-libertad-avanza-a-unidos-20261115-0002.html",
+        "image": "https://www.rosario3.com/__export/1794724466854/sites/rosario3/img/2026/10/29/karina_milei_con_pullaro.jpg_982625323.jpg",
+        "summary": "Desmentidas, posibles alianzas, garantes de acuerdo interno y sospechas de todo tipo. A todo nivel, comenzó a moverse el tablero electoral de 2027",
         "pubDate": "2026-11-15T11:46:00+00:00",
         "approxTime": true
       }
