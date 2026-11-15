@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T09:30:56.134904+00:00",
+  "generatedAt": "2026-11-15T10:01:05.580525+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,20 +141,83 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "La Capital: un siglo y medio de evolución tecnológica",
+        "link": "https://www.lacapital.com.ar/aniversario-la-capital/la-capital-un-siglo-y-medio-evolucion-tecnologica-n10290702.html",
+        "image": "https://media.lacapital.com.ar/p/e323790be2d22ca9c098a476f72d77db/adjuntos/203/imagenes/103/513/0103513792/1200x675/smart/diario.jpg",
+        "summary": "La Capital",
+        "pubDate": "2026-11-15T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Causa de lesa humanidad Saint Amant IV: la Fiscalía consideró que se dictaron \"penas inferiores\"",
+        "link": "https://www.lacapital.com.ar/policiales/causa-lesa-humanidad-saint-amant-iv-la-fiscalia-considero-que-se-dictaron-penas-inferiores-n10292195.html",
+        "image": "https://media.lacapital.com.ar/p/f7c92ee21505cd18beeacc312d296574/adjuntos/203/imagenes/103/531/0103531144/1200x675/smart/saint-amant-iv-1411.jpg",
+        "summary": "El Tribunal Federal 2 de Rosario dictó prisión perpetua para un exmilitar, condenas de entre 3 y 6 años para otros seis y la absolución a otro por crímenes en San Nicolás",
+        "pubDate": "2026-11-15T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Las redes de La Capital: de \"canillita digital\" a competir con los grandes medios de Argentina",
+        "link": "https://www.lacapital.com.ar/aniversario-la-capital/las-redes-la-capital-canillita-digital-competir-los-grandes-medios-argentina-n10291495.html",
+        "image": "https://media.lacapital.com.ar/p/c7537cbb164a3829c31c3f72e1902cbb/adjuntos/203/imagenes/103/523/0103523103/1200x675/smart/redeslacapital.jpeg",
+        "summary": "La Capital",
+        "pubDate": "2026-11-15T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El Museo Diario La Capital digitaliza su patrimonio histórico para abrirlo al mundo entero",
+        "link": "https://www.lacapital.com.ar/aniversario-la-capital/el-museo-diario-la-capital-digitaliza-su-patrimonio-historico-abrirlo-al-mundo-entero-n10291504.html",
+        "image": "https://media.lacapital.com.ar/p/30e2d5fc54165bf327b58130e409e957/adjuntos/203/imagenes/103/178/0103178905/1200x675/smart/rotativa.jpg",
+        "summary": "El espacio cultural es uno de los 17 seleccionados del país para formar parte del \"Proyecto Mil\"",
+        "pubDate": "2026-11-15T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La Capital: cambiaron las formas, pero no la esencia",
+        "link": "https://www.lacapital.com.ar/aniversario-la-capital/la-capital-cambiaron-las-formas-pero-no-la-esencia-n10290895.html",
+        "image": "https://media.lacapital.com.ar/p/d5047d4c88f56ccc0244f93ec23209ec/adjuntos/203/imagenes/103/522/0103522977/diario-rgb.jpg",
+        "summary": "La Capital",
+        "pubDate": "2026-11-15T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Del plomo a la pantalla: la modernización tecnológica y el salto a la era digital",
+        "link": "https://www.lacapital.com.ar/aniversario-la-capital/del-plomo-la-pantalla-la-modernizacion-tecnologica-y-el-salto-la-era-digital-n10290716.html",
+        "image": "https://media.lacapital.com.ar/p/5c1efb147bef4c42788c385a7ffc80ea/adjuntos/203/imagenes/103/513/0103513916/1200x675/smart/periodistas.jpeg",
+        "summary": "La Capital",
+        "pubDate": "2026-11-15T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El diario de la gran transformación urbana",
+        "link": "https://www.lacapital.com.ar/aniversario-la-capital/el-diario-la-gran-transformacion-urbana-n10290710.html",
+        "image": "https://media.lacapital.com.ar/p/5a6e822ced2600bf5daec49be05f9332/adjuntos/203/imagenes/103/513/0103513842/1200x675/smart/rotativa2.jpeg",
+        "summary": "La Capital",
+        "pubDate": "2026-11-15T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "A través del siglo de las grandes guerras y rupturas",
+        "link": "https://www.lacapital.com.ar/aniversario-la-capital/a-traves-del-siglo-las-grandes-guerras-y-rupturas-n10290881.html",
+        "image": "https://media.lacapital.com.ar/p/1a661cc26f1ee94bd83f7be670109a52/adjuntos/203/imagenes/103/515/0103515444/1200x675/smart/empleados.jpeg",
+        "summary": "La Capital",
+        "pubDate": "2026-11-15T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El largo y tortuoso camino del cannabis medicinal en Rosario",
         "link": "https://www.lacapital.com.ar/la-ciudad/el-largo-y-tortuoso-camino-del-cannabis-medicinal-rosario-n10292206.html",
         "image": "https://media.lacapital.com.ar/p/d9fb770a84fd2f7965b13cf4afebe15a/adjuntos/203/imagenes/103/531/0103531714/1200x675/smart/1.jpeg",
         "summary": "Desde la informalidad y persecución hasta el reciente Primer Congreso Internacional sobre cannabis medicinal en Rosario, hoy todo ha cambiado",
         "pubDate": "2026-11-15T09:20:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Pese a El Niño, auguran una buena temporada de verano en el Paraná",
-        "link": "https://www.lacapital.com.ar/la-ciudad/pese-el-nino-auguran-una-buena-temporada-verano-el-parana-n10291466.html",
-        "image": "https://media.lacapital.com.ar/p/46f784cbc19aa8d2d653e28c4f8b7a30/adjuntos/203/imagenes/103/531/0103531785/1200x675/smart/1.jpg",
-        "summary": "Clubes náuticos, guarderías e instructores son optimistas pese a las anunciadas dificultades que planteará el clima, debido al fenómeno de El Niño",
-        "pubDate": "2026-11-15T09:15:00+00:00",
         "approxTime": false
       },
       {
@@ -168,10 +231,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Juan Mateo Chulich, el hombre elegido para cambiar el rumbo de Argentino",
-        "link": "https://www.lacapital.com.ar/ovacion/juan-mateo-chulich-el-hombre-elegido-cambiar-el-rumbo-argentino-n10292234.html",
-        "image": "https://media.lacapital.com.ar/p/3a30ab8b2f35e94c1545b78a94228a10/adjuntos/203/imagenes/103/531/0103531572/1200x675/smart/image-2026-11-14t195541064.png",
-        "summary": "El flamante presidente tomó las riendas tras las renuncia de Daniel Mariatti. El secretario de Camioneros de Santa Fe habló a fondo con Ovación",
+        "title": "Pese a El Niño, auguran una buena temporada de verano en el Paraná",
+        "link": "https://www.lacapital.com.ar/la-ciudad/pese-el-nino-auguran-una-buena-temporada-verano-el-parana-n10291466.html",
+        "image": "https://media.lacapital.com.ar/p/46f784cbc19aa8d2d653e28c4f8b7a30/adjuntos/203/imagenes/103/531/0103531785/1200x675/smart/1.jpg",
+        "summary": "Clubes náuticos, guarderías e instructores son optimistas pese a las anunciadas dificultades que planteará el clima, debido al fenómeno de El Niño",
+        "pubDate": "2026-11-15T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Tras la visita de León XIV, vuelven la agenda institucional y el armado electoral",
+        "link": "https://www.lacapital.com.ar/politica/tras-la-visita-leon-xiv-vuelven-la-agenda-institucional-y-el-armado-electoral-n10292059.html",
+        "image": "https://media.lacapital.com.ar/p/32f483c346a19f3f9d392f359aeb6ab8/adjuntos/203/imagenes/103/529/0103529385/1200x675/smart/mp1.jpg",
+        "summary": "Superada la pausa por el desembarco del Papa en la Argentina, arrancan los movimientos en los escenarios políticos nacional y santafesino",
         "pubDate": "2026-11-15T09:10:00+00:00",
         "approxTime": false
       },
@@ -186,10 +258,10 @@
       },
       {
         "source": "La Capital",
-        "title": "Tras la visita de León XIV, vuelven la agenda institucional y el armado electoral",
-        "link": "https://www.lacapital.com.ar/politica/tras-la-visita-leon-xiv-vuelven-la-agenda-institucional-y-el-armado-electoral-n10292059.html",
-        "image": "https://media.lacapital.com.ar/p/32f483c346a19f3f9d392f359aeb6ab8/adjuntos/203/imagenes/103/529/0103529385/1200x675/smart/mp1.jpg",
-        "summary": "Superada la pausa por el desembarco del Papa en la Argentina, arrancan los movimientos en los escenarios políticos nacional y santafesino",
+        "title": "Juan Mateo Chulich, el hombre elegido para cambiar el rumbo de Argentino",
+        "link": "https://www.lacapital.com.ar/ovacion/juan-mateo-chulich-el-hombre-elegido-cambiar-el-rumbo-argentino-n10292234.html",
+        "image": "https://media.lacapital.com.ar/p/3a30ab8b2f35e94c1545b78a94228a10/adjuntos/203/imagenes/103/531/0103531572/1200x675/smart/image-2026-11-14t195541064.png",
+        "summary": "El flamante presidente tomó las riendas tras las renuncia de Daniel Mariatti. El secretario de Camioneros de Santa Fe habló a fondo con Ovación",
         "pubDate": "2026-11-15T09:10:00+00:00",
         "approxTime": false
       },
@@ -200,78 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/67618e642a7f68d8a6009bce1304f4db/adjuntos/203/imagenes/103/531/0103531527/1200x675/smart/santiago-pena.jpeg",
         "summary": "Existe un paralelismo entre la situación de ambas naciones",
         "pubDate": "2026-11-15T09:05:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Argentina era una fiesta",
-        "link": "https://www.lacapital.com.ar/opinion/argentina-era-una-fiesta-n10292090.html",
-        "image": "https://media.lacapital.com.ar/p/05d3382cd386f29ed38cf967ea6bd43b/adjuntos/203/imagenes/103/520/0103520688/1200x675/smart/papa-leon-xiv-uca.png",
-        "summary": "La gran pregunta que trajo el Papa León XIV al país es qué tipo de liderazgo queremos para el período 2027-2031",
-        "pubDate": "2026-11-15T09:05:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "¿León XIV conducción? Quién puede convertir su mensaje en votos",
-        "link": "https://www.lacapital.com.ar/suscriptores/leon-xiv-conduccion-quien-puede-convertir-su-mensaje-votos-n10292254.html",
-        "image": "https://media.lacapital.com.ar/p/7e7b3a0d1d433e65673f390608f8c51c/adjuntos/203/imagenes/103/531/0103531834/1200x675/smart/milei-leon-xiv.jpg",
-        "summary": "Milei puso la otra mejilla frente a una agenda papal incómoda que también interpeló al peronismo. Pero la calma duró poco: la Casa Rosada ya acelera por las Paso, tensa con Bullrich y negocia con los gobernadores. Pullaro da señales a aliados y administra los tiempos",
-        "pubDate": "2026-11-15T09:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Duendes volvió a reverdecer sus laureles y es nuevo campeón del Regional del Litoral en una gran final",
-        "link": "https://www.lacapital.com.ar/ovacion/duendes-volvio-reverdecer-sus-laureles-y-es-nuevo-campeon-del-regional-del-litoral-una-gran-final-n10292249.html",
-        "image": "https://media.lacapital.com.ar/p/705db53fed14f240384dc43ebbe17edb/adjuntos/203/imagenes/103/531/0103531861/1200x675/smart/image-11.jpg",
-        "summary": "Duendes peleó duro ante un rival que estuvo muy cerca también y se coronó por 14ª vez en el Regional del Litoral, Copa Banco Macro",
-        "pubDate": "2026-11-15T00:47:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El tiempo en Rosario: domingo con nubes antes de la llegada de más lluvias",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-domingo-nubes-antes-la-llegada-mas-lluvias-n10292237.html",
-        "image": "https://media.lacapital.com.ar/p/89760ab1f3a4755d22cd13f69bd9eb52/adjuntos/203/imagenes/019/543/0019543926/1200x675/smart/arioclimajpg.jpg",
-        "summary": "La inestabilidad se tomó una pausa en la ciudad pero podría volver a sentirse en el inicio de la semana entrante",
-        "pubDate": "2026-11-14T22:47:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Mirá quién volvió en el Turismo Carretera: Pinchito hizo la pole en Río Cuarto y quiere pelear",
-        "link": "https://www.lacapital.com.ar/ovacion/mira-quien-volvio-el-turismo-carretera-pinchito-hizo-la-pole-rio-cuarto-y-quiere-pelear-n10292230.html",
-        "image": "https://media.lacapital.com.ar/p/5e4364210282ab387c3ba514f07d3689/adjuntos/203/imagenes/103/531/0103531501/1200x675/smart/image-4.jpg",
-        "summary": "Castellano ganó la fase regular con la Dodge atendida en Acebal, pero en la Copa se desdibujó. Va por el triunfo debido en Río Cuarto. Series de gran adrenalina",
-        "pubDate": "2026-11-14T22:20:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Fin del misterio en Central: Belloso dio marcha atrás e irá por la reelección",
-        "link": "https://www.lacapital.com.ar/ovacion/fin-del-misterio-central-belloso-dio-marcha-atras-e-ira-la-reeleccion-n10292165.html",
-        "image": "https://media.lacapital.com.ar/p/dacfd806fa7de296e1e5253f3c190294/adjuntos/203/imagenes/103/531/0103531462/belloso2.jpg",
-        "summary": "El actual presidente canalla encabeza la lista de Raza Canalla, ya oficializada ante la comisión electoral. Fue la única que se presentó",
-        "pubDate": "2026-11-14T22:20:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Venta de Grupo Oroño: Swiss Medical y Chicago Capital adquirieron la mayoría accionaria",
-        "link": "https://www.lacapital.com.ar/la-ciudad/venta-grupo-orono-swiss-medical-y-chicago-capital-adquirieron-la-mayoria-accionaria-n10292232.html",
-        "image": "https://media.lacapital.com.ar/p/863d9d532434a91ded710bf593cab8f5/adjuntos/203/imagenes/100/100/0100100863/1200x675/smart/sanatorio-parque-20jpg.jpg",
-        "summary": "La operación contempla a los sanatorios Parque y de Niños, el Instituto Cardiovascular de Rosario y a la prepaga Esencial, entre otras instituciones",
-        "pubDate": "2026-11-14T22:05:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Jubilaciones: declaran inconstitucional la fórmula empleada en el gobierno de Alberto Fernández",
-        "link": "https://www.lacapital.com.ar/economia/jubilaciones-declaran-inconstitucional-la-formula-empleada-el-gobierno-alberto-fernandez-n10292222.html",
-        "image": "https://media.lacapital.com.ar/p/59e9e9b9231f66b22d4e22d63199f6e6/adjuntos/203/imagenes/102/185/0102185137/1200x675/smart/ansesjpg.jpg",
-        "summary": "El fallo sienta un precedente clave tanto para reclamar diferencias retroactivas como para recalcular la base de haberes actuales",
-        "pubDate": "2026-11-14T21:29:00+00:00",
         "approxTime": false
       }
     ]
