@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T13:30:54.159065+00:00",
+  "generatedAt": "2026-11-15T14:01:11.898347+00:00",
   "sites": {
     "rosario3": [
       {
@@ -67,11 +67,29 @@
       },
       {
         "source": "Rosario3",
+        "title": "Catamarca: una mujer murió arrastrada por una correntada mientras intentaba proteger su auto del temporal",
+        "link": "https://www.rosario3.com/informaciongeneral/catamarca-una-mujer-murio-arrastrada-por-una-correntada-mientras-intentaba-proteger-su-auto-del-temporal-20261115-0010.html",
+        "image": "https://www.rosario3.com/__export/1794749762016/sites/rosario3/img/2026/11/15/autos_catamarca.jpg_1825222445.jpg",
+        "summary": "La víctima, de 60 años, fue sorprendida por la fuerza del agua durante la madrugada del sábado en San Fernando del Valle de Catamarca. Su hija también fue arrastrada, pero logró ser rescatada y permanece fuera de peligro",
+        "pubDate": "2026-11-15T11:53:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Flávio Bolsonaro dijo “estar listo” para ser nuevamente candidato a presidente en Brasil",
+        "link": "https://www.rosario3.com/politica/flavio-bolsonaro-dijo-estar-listo-para-ser-nuevamente-candidato-a-presidente-en-brasil-20261115-0011.html",
+        "image": "https://www.rosario3.com/__export/1794749972728/sites/rosario3/img/2026/11/15/flavio_bolsonaro_version1794749911834.jpg_734311246.jpg",
+        "summary": "Desde Estados Unidos, el referente de la derecha en ese país, que cayó derrotado por el actual mandatario, Lula da Silva, vaticinó, además, una caída prematura del líder del PT",
+        "pubDate": "2026-11-15T11:52:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Domingo cálido en Rosario antes de una semana con regreso de la inestabilidad",
         "link": "https://www.rosario3.com/informaciongeneral/domingo-calido-en-rosario-antes-de-una-semana-con-regreso-de-la-inestabilidad-20261115-0003.html",
         "image": "https://www.rosario3.com/__export/1794742526597/sites/rosario3/img/2026/11/15/clima_tiempo_verano_rxo_parque_costa_aire_libre_calor-.jpg_1825222445.jpg",
         "summary": "El Servicio Meteorológico anticipa una máxima de 29 grados para lo que resta de la jornada, mientras que las lluvias y tormentas podrían regresar a partir del lunes por la noche y extenderse hasta el martes por la mañana",
-        "pubDate": "2026-11-15T11:53:00+00:00",
+        "pubDate": "2026-11-15T11:51:00+00:00",
         "approxTime": true
       },
       {
@@ -80,7 +98,7 @@
         "link": "https://www.rosario3.com/deportes/finalmente-gonzalo-belloso-sera-candidato-a-presidente-e-ira-por-la-reeleccion-en-rosario-central-20261114-0039.html",
         "image": "https://www.rosario3.com/__export/1794696608765/sites/rosario3/img/2022/12/18/belloso.jpg_1124828059.jpg",
         "summary": "El actual presidente de la entidad aurizul encabeza la lista de Raza Canalla, presentada públicamente en las últimas horas. A pesar de que había comunicado que sería parte de la próxima comisión directiva, el mandatario decidió dar marcha atrás a aquella decisión",
-        "pubDate": "2026-11-14T11:52:00+00:00",
+        "pubDate": "2026-11-14T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -89,33 +107,15 @@
         "link": "https://www.rosario3.com/deportes/central-cordoba-quedo-eliminado-del-reducido-y-el-final-ante-canuelas-termino-en-una-batalla-campal-20261114-0035.html",
         "image": "https://www.rosario3.com/__export/1794690877416/sites/rosario3/img/2026/11/14/pixas.jpg_928314580.jpg",
         "summary": "El Charrúa perdió por penales en el estadio Jorge Arín y se despidió del sueño del ascenso a la Primera B. Después de la definición, jugadores y allegados de ambos equipos protagonizaron una pelea generalizada",
-        "pubDate": "2026-11-14T11:51:00+00:00",
+        "pubDate": "2026-11-14T11:49:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Se vendió Grupo Oroño, el principal holding médico privado de la región",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/se-vendio-grupo-orono-el-principal-holding-medico-privado-de-la-region-20261114-0031.html",
-        "image": "https://www.rosario3.com/__export/1794688168807/sites/rosario3/img/2026/11/14/oronxo.jpg_2106848869.jpg",
-        "summary": "La familia del fallecido Roberto Villavicencio, fundador de grupo que tiene al Sanatorio Parque, el ICR y la prepaga Esencial transfirió sus acciones a Swiss Medical y a Chicago Capital, un holding controlado por la familia Tourn",
-        "pubDate": "2026-11-14T11:50:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Malvinas en Rosario: lanzan un mapa colaborativo para registrar la “relación emocional” con las islas",
-        "link": "https://www.rosario3.com/informaciongeneral/malvinas-en-rosario-lanzan-un-mapa-colaborativo-para-registrar-la-relacion-emocional-con-las-islas-20261111-0053.html",
-        "image": "https://www.rosario3.com/__export/1794425300548/sites/rosario3/img/2026/11/11/mapa_malvinas.jpg_196571369.jpg",
-        "summary": "La plataforma fue desarrollada por investigadores del Conicet y la UNR. Permite subir fotos georreferenciadas de murales, monumentos, banderas y cualquier expresión simbólica. El objetivo es construir un archivo colectivo de la memoria local",
-        "pubDate": "2026-11-11T11:49:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Simulan una Tierra sin vida para ayudar en la búsqueda de extraterrestres y mundos habitados",
+        "title": "Simulan un planeta Tierra sin vida para “ayudar” en la búsqueda de extraterrestres y mundos habitados",
         "link": "https://www.rosario3.com/informaciongeneral/simulan-una-tierra-sin-vida-para-ayudar-en-la-busqueda-de-extraterrestres-y-mundos-habitados-20261112-0047.html",
         "image": "https://www.rosario3.com/__export/1794506055545/sites/rosario3/img/2026/11/12/tierra.png_786111822.png",
-        "summary": "Una nueva simulación por computadora que representa la Tierra o un planeta rocoso en general sin vida, es la herramienta más reciente en la búsqueda por descubrir si estamos solos o no en el universo. Los detalles",
+        "summary": "Una nueva simulación por computadora que representa un hábitat parecido es la herramienta que utilizan científicos de la Universidad de California para hallar otras formas de vida en el Universo. Los detalles",
         "pubDate": "2026-11-12T11:48:00+00:00",
         "approxTime": true
       },
@@ -141,19 +141,19 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "La Vigilia del Día de la Música llega a Funes: \"Una experiencia de encuentro, arte y sentidos\"",
-        "link": "https://www.lacapital.com.ar/la-region/la-vigilia-del-dia-la-musica-llega-funes-una-experiencia-encuentro-arte-y-sentidos-n10291852.html",
-        "image": "https://media.lacapital.com.ar/p/51191c556b78368030f46c9922421d53/adjuntos/203/imagenes/103/527/0103527025/1200x675/smart/dia-la-musica-funes-vigilia-casa-zulu.jpg",
-        "summary": "La Vigilia del Día de la Música se desarrollará el sábado 21 de noviembre a las 21 en Casa Zulú, de Funes, con el espectáculo “Ambulantes”, interpretado por Julián Venegas y José Santucho, a quienes secundarán músicos locales invitados",
+        "title": "Funes: encuentro de vecinos en la Asociación de Comerciantes para prevenir inundaciones",
+        "link": "https://www.lacapital.com.ar/la-region/funes-encuentro-vecinos-la-asociacion-comerciantes-prevenir-inundaciones-n10291849.html",
+        "image": "https://media.lacapital.com.ar/p/33dd2b417c8228e12e32d8ba592bf75c/adjuntos/203/imagenes/103/527/0103527023/1200x675/smart/funes-segundo-encuentro-vecinos-acif.jpg",
+        "summary": "Vecinos, referentes vecinales y organizaciones de diversos puntos de la ciudad de Funes llevaron a cabo el Segundo Encuentro de vecinos y vecinales en las instalaciones de Acif (Asociación de Comerciantes e Industriales de Funes), una iniciativa impulsada por el Centro de…",
         "pubDate": "2026-11-15T13:00:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Funes: encuentro de vecinos en la Asociación de Comerciantes para prevenir inundaciones",
-        "link": "https://www.lacapital.com.ar/la-region/funes-encuentro-vecinos-la-asociacion-comerciantes-prevenir-inundaciones-n10291849.html",
-        "image": "https://media.lacapital.com.ar/p/33dd2b417c8228e12e32d8ba592bf75c/adjuntos/203/imagenes/103/527/0103527023/1200x675/smart/funes-segundo-encuentro-vecinos-acif.jpg",
-        "summary": "Vecinos, referentes vecinales y organizaciones de diversos puntos de la ciudad de Funes llevaron a cabo el Segundo Encuentro de vecinos y vecinales en las instalaciones de Acif (Asociación de Comerciantes e Industriales de Funes), una iniciativa impulsada por el Centro de…",
+        "title": "La Vigilia del Día de la Música llega a Funes: \"Una experiencia de encuentro, arte y sentidos\"",
+        "link": "https://www.lacapital.com.ar/la-region/la-vigilia-del-dia-la-musica-llega-funes-una-experiencia-encuentro-arte-y-sentidos-n10291852.html",
+        "image": "https://media.lacapital.com.ar/p/51191c556b78368030f46c9922421d53/adjuntos/203/imagenes/103/527/0103527025/1200x675/smart/dia-la-musica-funes-vigilia-casa-zulu.jpg",
+        "summary": "La Vigilia del Día de la Música se desarrollará el sábado 21 de noviembre a las 21 en Casa Zulú, de Funes, con el espectáculo “Ambulantes”, interpretado por Julián Venegas y José Santucho, a quienes secundarán músicos locales invitados",
         "pubDate": "2026-11-15T13:00:00+00:00",
         "approxTime": false
       },
@@ -195,15 +195,6 @@
       },
       {
         "source": "La Capital",
-        "title": "Gimena Accardi y Seven Kayne: la química detrás del éxito de \"TILF\", que estrenó su segunda temporada",
-        "link": "https://www.lacapital.com.ar/zoom/gimena-accardi-y-seven-kayne-la-quimica-detras-del-exito-tilf-que-estreno-su-segunda-temporada-n10292052.html",
-        "image": "https://media.lacapital.com.ar/p/abb597a93e72ad8a4bd6b89366439091/adjuntos/203/imagenes/103/529/0103529530/1200x675/smart/image-2026-11-13t171025461.png",
-        "summary": "La serie vertical regresó con nuevos personajes y conflictos. En diálogo con La Capital, sus protagonistas hablaron de los desafíos del formato y la conexión que traspasó la pantalla",
-        "pubDate": "2026-11-15T11:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "Rehabilitación y entrenamiento: Kintra Salud ya inauguró tres sedes y van por más",
         "link": "https://www.lacapital.com.ar/negocios/rehabilitacion-y-entrenamiento-kintra-salud-ya-inauguro-tres-sedes-y-van-mas-n10291653.html",
         "image": "https://media.lacapital.com.ar/p/b9dac2a293b3ec40dd635a06a1b0c47c/adjuntos/203/imagenes/103/527/0103527385/82853238.jpeg",
@@ -213,11 +204,11 @@
       },
       {
         "source": "La Capital",
-        "title": "La Bolsa de Rosario elevó la cosecha de trigo a 24,3 millones de toneladas",
-        "link": "https://www.lacapital.com.ar/agro/la-bolsa-rosario-elevo-la-cosecha-trigo-243-millones-toneladas-n10292238.html",
-        "image": "https://media.lacapital.com.ar/p/b7b297bc538acf50507791e56d1476d4/adjuntos/203/imagenes/100/196/0100196824/1200x675/smart/cosecha-trigojpg.jpg",
-        "summary": "La entidad rosarina sumó 500.000 toneladas a su proyección de octubre, lo que ubicaría a esta campaña como la segunda mayor cosecha del país. El rinde promedio nacional sería de 36 quintales por hectárea",
-        "pubDate": "2026-11-15T10:00:00+00:00",
+        "title": "Gimena Accardi y Seven Kayne: la química detrás del éxito de \"TILF\", que estrenó su segunda temporada",
+        "link": "https://www.lacapital.com.ar/zoom/gimena-accardi-y-seven-kayne-la-quimica-detras-del-exito-tilf-que-estreno-su-segunda-temporada-n10292052.html",
+        "image": "https://media.lacapital.com.ar/p/abb597a93e72ad8a4bd6b89366439091/adjuntos/203/imagenes/103/529/0103529530/1200x675/smart/image-2026-11-13t171025461.png",
+        "summary": "La serie vertical regresó con nuevos personajes y conflictos. En diálogo con La Capital, sus protagonistas hablaron de los desafíos del formato y la conexión que traspasó la pantalla",
+        "pubDate": "2026-11-15T11:00:00+00:00",
         "approxTime": false
       },
       {
@@ -231,36 +222,45 @@
       },
       {
         "source": "La Capital",
-        "title": "A través del siglo de las grandes guerras y rupturas",
-        "link": "https://www.lacapital.com.ar/aniversario-la-capital/a-traves-del-siglo-las-grandes-guerras-y-rupturas-n10290881.html",
-        "image": "https://media.lacapital.com.ar/p/1a661cc26f1ee94bd83f7be670109a52/adjuntos/203/imagenes/103/515/0103515444/1200x675/smart/empleados.jpeg",
+        "title": "La Bolsa de Rosario elevó la cosecha de trigo a 24,3 millones de toneladas",
+        "link": "https://www.lacapital.com.ar/agro/la-bolsa-rosario-elevo-la-cosecha-trigo-243-millones-toneladas-n10292238.html",
+        "image": "https://media.lacapital.com.ar/p/b7b297bc538acf50507791e56d1476d4/adjuntos/203/imagenes/100/196/0100196824/1200x675/smart/cosecha-trigojpg.jpg",
+        "summary": "La entidad rosarina sumó 500.000 toneladas a su proyección de octubre, lo que ubicaría a esta campaña como la segunda mayor cosecha del país. El rinde promedio nacional sería de 36 quintales por hectárea",
+        "pubDate": "2026-11-15T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La Capital: un siglo y medio de evolución tecnológica",
+        "link": "https://www.lacapital.com.ar/aniversario-la-capital/la-capital-un-siglo-y-medio-evolucion-tecnologica-n10290702.html",
+        "image": "https://media.lacapital.com.ar/p/e323790be2d22ca9c098a476f72d77db/adjuntos/203/imagenes/103/513/0103513792/1200x675/smart/diario.jpg",
         "summary": "La Capital",
         "pubDate": "2026-11-15T09:30:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Causa de lesa humanidad Saint Amant IV: la Fiscalía consideró que se dictaron \"penas inferiores\"",
-        "link": "https://www.lacapital.com.ar/policiales/causa-lesa-humanidad-saint-amant-iv-la-fiscalia-considero-que-se-dictaron-penas-inferiores-n10292195.html",
-        "image": "https://media.lacapital.com.ar/p/f7c92ee21505cd18beeacc312d296574/adjuntos/203/imagenes/103/531/0103531144/1200x675/smart/saint-amant-iv-1411.jpg",
-        "summary": "El Tribunal Federal 2 de Rosario dictó prisión perpetua para un exmilitar, condenas de entre 3 y 6 años para otros seis y la absolución a otro por crímenes en San Nicolás",
+        "title": "El diario de la gran transformación urbana",
+        "link": "https://www.lacapital.com.ar/aniversario-la-capital/el-diario-la-gran-transformacion-urbana-n10290710.html",
+        "image": "https://media.lacapital.com.ar/p/5a6e822ced2600bf5daec49be05f9332/adjuntos/203/imagenes/103/513/0103513842/1200x675/smart/rotativa2.jpeg",
+        "summary": "La Capital",
         "pubDate": "2026-11-15T09:30:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "El Museo Diario La Capital digitaliza su patrimonio histórico para abrirlo al mundo entero",
-        "link": "https://www.lacapital.com.ar/aniversario-la-capital/el-museo-diario-la-capital-digitaliza-su-patrimonio-historico-abrirlo-al-mundo-entero-n10291504.html",
-        "image": "https://media.lacapital.com.ar/p/30e2d5fc54165bf327b58130e409e957/adjuntos/203/imagenes/103/178/0103178905/1200x675/smart/rotativa.jpg",
-        "summary": "El espacio cultural es uno de los 17 seleccionados del país para formar parte del \"Proyecto Mil\"",
+        "title": "Del plomo a la pantalla: la modernización tecnológica y el salto a la era digital",
+        "link": "https://www.lacapital.com.ar/aniversario-la-capital/del-plomo-la-pantalla-la-modernizacion-tecnologica-y-el-salto-la-era-digital-n10290716.html",
+        "image": "https://media.lacapital.com.ar/p/5c1efb147bef4c42788c385a7ffc80ea/adjuntos/203/imagenes/103/513/0103513916/1200x675/smart/periodistas.jpeg",
+        "summary": "La Capital",
         "pubDate": "2026-11-15T09:30:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Las redes de La Capital: de \"canillita digital\" a competir con los grandes medios de Argentina",
-        "link": "https://www.lacapital.com.ar/aniversario-la-capital/las-redes-la-capital-canillita-digital-competir-los-grandes-medios-argentina-n10291495.html",
-        "image": "https://media.lacapital.com.ar/p/c7537cbb164a3829c31c3f72e1902cbb/adjuntos/203/imagenes/103/523/0103523103/1200x675/smart/redeslacapital.jpeg",
+        "title": "A través del siglo de las grandes guerras y rupturas",
+        "link": "https://www.lacapital.com.ar/aniversario-la-capital/a-traves-del-siglo-las-grandes-guerras-y-rupturas-n10290881.html",
+        "image": "https://media.lacapital.com.ar/p/1a661cc26f1ee94bd83f7be670109a52/adjuntos/203/imagenes/103/515/0103515444/1200x675/smart/empleados.jpeg",
         "summary": "La Capital",
         "pubDate": "2026-11-15T09:30:00+00:00",
         "approxTime": false
