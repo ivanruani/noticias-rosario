@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T20:01:03.860236+00:00",
+  "generatedAt": "2026-11-15T20:30:56.121113+00:00",
   "sites": {
     "rosario3": [
       {
@@ -94,11 +94,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Ronaldinho volvió al fútbol a los 46 años: participó en un gol del Ravenna y regaló sonrisas para todos",
+        "link": "https://www.rosario3.com/deportes/ronaldinho-volvio-al-futbol-a-los-46-anos-participo-en-un-gol-del-ravenna-y-regalo-sonrisas-para-todos-20261115-0029.html",
+        "image": "https://www.rosario3.com/__export/1794773192882/sites/rosario3/img/2026/11/15/ronaldinho.jpg_506286608.jpg",
+        "summary": "El astro brasileño jugó un partido oficial a más de once años de su retiro como profesional. Disputó 45 minutos con su equipo, en la Serie C de Italia",
+        "pubDate": "2026-11-15T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Emprende sobre Ruedas: se puso en marcha un programa para acompañar a repartidoras y repartidores",
         "link": "https://www.rosario3.com/informaciongeneral/emprende-sobre-ruedas-se-puso-en-marcha-un-programa-para-acompanar-a-repartidoras-y-repartidores-20261115-0024.html",
         "image": "https://www.rosario3.com/__export/1794763951435/sites/rosario3/img/2026/11/15/puerto_emprende_version1794763620587.jpg_1753201588.jpg",
         "summary": "La iniciativa municipal busca mejorar las condiciones laborales de quienes desarrollan la actividad. Incluye capacitaciones y provisión de elementos de seguridad a trabajadora es de aplicaciones",
-        "pubDate": "2026-11-15T11:50:00+00:00",
+        "pubDate": "2026-11-15T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -107,7 +116,7 @@
         "link": "https://www.rosario3.com/deportes/duendes-campeon-del-trl-2026-el-verdinegro-vencio-a-estudiantes-en-una-final-vibrante-y-sumo-su-14-titulo-20261115-0020.html",
         "image": "https://www.rosario3.com/__export/1794759410511/sites/rosario3/img/2026/11/15/rugby_version1794759410049.jpg_54252875.jpg",
         "summary": "Tras cuatro años de sequía, el más ganador de la historia del Torneo Regional del Litoral volvió a gritar campeón en el Estadio Capibaras del Hipódromo de Rosario. Con un Emiliano Boffelli determinante, derrotó 23 a 20 al conjunto paranaense. Además, Santa Fe Rugby se quedó con…",
-        "pubDate": "2026-11-15T11:49:00+00:00",
+        "pubDate": "2026-11-15T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,15 +125,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/dos-aviones-chocaron-en-la-pista-del-aeropuerto-internacional-de-miami-20261115-0015.html",
         "image": "https://www.rosario3.com/__export/1794752682175/sites/rosario3/img/2026/11/15/aviones.jpg_54252853.jpg",
         "summary": "El accidente se produjo en la noche de último sábado, cuando la punta del ala de un Boeing 737 de Copa Airlines impactó contra el morro de un Boeing 767 de UPS. Dos personas resultaros heridas en el incidente. Este domingo, Estados Unidos trataba de reanudar el tráfico aéreo…",
-        "pubDate": "2026-11-15T11:48:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El papa León XIV afronta el día más exigente de su viaje: 4 ciudades, 3 vuelos y 4 actos",
-        "link": "https://www.rosario3.com/informaciongeneral/el-papa-leon-xiv-afronta-el-dia-mas-exigente-de-su-viaje-4-ciudades-3-vuelos-y-4-actos-20261115-0009.html",
-        "image": "https://www.rosario3.com/__export/1794747383994/sites/rosario3/img/2026/11/15/papa_leon.jpg_1825222445.jpg",
-        "summary": "El Pontífice desayunó en Chiclayo, lidera dos actos en Cusco y protagonizará otras dos actividades en Pucallpa antes de regresar a Lima para cenar y dormir",
         "pubDate": "2026-11-15T11:47:00+00:00",
         "approxTime": true
       },
@@ -141,20 +141,20 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Matías Rossi avisó en Río Cuarto que es otro candidato al título del Turismo Carretera",
+        "link": "https://www.lacapital.com.ar/ovacion/matias-rossi-aviso-rio-cuarto-que-es-otro-candidato-al-titulo-del-turismo-carretera-n10292299.html",
+        "image": "https://media.lacapital.com.ar/p/63cff27603c19aa0d3410e8cd6fa69c4/adjuntos/203/imagenes/103/532/0103532530/1200x675/smart/image.jpg",
+        "summary": "El Granadero ganó una carrera lineal en el regreso a la ciudad cordobesa y se metió en la pelea que se dirimirá en el Mouras de La Plata en tres semanas",
+        "pubDate": "2026-11-15T20:18:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Tres peajes de la autopista Rosario-Santa Fe funcionarán únicamente con Telepase desde diciembre",
         "link": "https://www.lacapital.com.ar/la-region/tres-peajes-la-autopista-rosario-santa-fe-funcionaran-unicamente-telepase-diciembre-n10292301.html",
         "image": "https://media.lacapital.com.ar/p/bd6c3da971b1e8a5107fb2daa75ca14a/adjuntos/203/imagenes/103/532/0103532554/1200x675/smart/image-43.jpg",
         "summary": "Las estaciones ubicadas en los kilómetros 16, 30 y 143 dejarán de contar con atención manual. Cómo adherirse al sistema",
         "pubDate": "2026-11-15T19:02:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Matías Rossi avisó en Río Cuarto que es otro candidato al título del Turismo Carretera",
-        "link": "https://www.lacapital.com.ar/ovacion/matias-rossi-aviso-rio-cuarto-que-es-otro-candidato-al-titulo-del-turismo-carretera-n10292299.html",
-        "image": "https://media.lacapital.com.ar/p/63cff27603c19aa0d3410e8cd6fa69c4/adjuntos/203/imagenes/103/532/0103532530/1200x675/smart/image.jpg",
-        "summary": "El Granadero ganó una carrera lineal en el regreso a la ciudad cordobesa y se metió en la pelea que se dirimirá en el Mouras de La Plata en tres semanas",
-        "pubDate": "2026-11-15T18:55:00+00:00",
         "approxTime": false
       },
       {
