@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T00:31:04.015716+00:00",
+  "generatedAt": "2026-11-16T01:01:11.126703+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Plusvalor inmobiliario: la economía detrás de una transformación urbana",
+        "link": "https://www.lacapital.com.ar/economia/plusvalor-inmobiliario-la-economia-detras-una-transformacion-urbana-n10292346.html",
+        "image": "https://media.lacapital.com.ar/p/4d2895739cb905f8b47e3bd445cf8ecc/adjuntos/203/imagenes/103/368/0103368042/1200x675/smart/villa-olimpica.jpg",
+        "summary": "El concepto de \"devolución social\" y la articulación público -privado que guió el plan para poner en marcha el cambio en la zona del x Batallón 121 y el Cordón Ayacucho.",
+        "pubDate": "2026-11-16T00:57:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Quini 6: hubo un solo ganador del Siempre Sale, que se llevó $486 millones",
+        "link": "https://www.lacapital.com.ar/informacion-general/quini-6-hubo-un-solo-ganador-del-siempre-sale-que-se-llevo-486-millones-n10292348.html",
+        "image": "https://media.lacapital.com.ar/p/b56d2dae1ba753511d4f435ff312d435/adjuntos/203/imagenes/103/533/0103533088/2026-11-15-quini-6.jpg",
+        "summary": "Tradicional, Segunda y Revancha quedaron vacantes. El miércoles habrá 8.200 millones de pesos en juego",
+        "pubDate": "2026-11-16T00:34:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Rosario celebró las primeras rondas de los Circuitos Culturales +65",
         "link": "https://www.lacapital.com.ar/la-ciudad/rosario-celebro-las-primeras-rondas-los-circuitos-culturales-65-n10292340.html",
         "image": "https://media.lacapital.com.ar/p/2ef191a67d6c4ecd2446b639cd20e453/adjuntos/203/imagenes/103/533/0103533027/1200x675/smart/65-2.jpg",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/100da02cb206ed50444b500fef1e4950/adjuntos/203/imagenes/103/531/0103531438/1200x675/smart/image-3.jpg",
         "summary": "Lleva años hundido en esa categoría. El club de Tablada merece estar más arriba, pero no sabe cómo conseguirlo. Otro sueño incumplido para los hinchas.",
         "pubDate": "2026-11-15T16:33:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Legado Deliot: qué sigue tras la recuperación de los terrenos municipales en la isla",
-        "link": "https://www.lacapital.com.ar/la-ciudad/legado-deliot-que-sigue-la-recuperacion-los-terrenos-municipales-la-isla-n10291641.html",
-        "image": "https://media.lacapital.com.ar/p/252d4e698e01d6da2d15b94416ae6a64/adjuntos/203/imagenes/029/809/0029809731/1200x675/smart/legado-deliot01jpg.jpg",
-        "summary": "Buscarán sumar la nueva superficie a la reserva Los Tres Cerros, sobre la que hay un pedido de recategorización en la Legislatura de Entre Ríos desde 2024",
-        "pubDate": "2026-11-15T16:29:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Rocío Robles afirmó que tuvo una hermana nacida en el hospital Provincial de Rosario que fue cambiada por otro bebé",
-        "link": "https://www.lacapital.com.ar/zoom/rocio-robles-afirmo-que-tuvo-una-hermana-nacida-el-hospital-provincial-rosario-que-fue-cambiada-otro-bebe-n10292290.html",
-        "image": "https://media.lacapital.com.ar/p/710408f5881836a684b5034e9c295ea2/adjuntos/203/imagenes/103/532/0103532372/1200x675/smart/sin-titulo-15-noviembre-2026-las-081634-5.jpeg",
-        "summary": "La rosarina contó su historia en el programa de Andy Kusnetzoff. Aseguró que nació en 1990 y que su familia hizo un juicio por mala praxis que duró 15 años",
-        "pubDate": "2026-11-15T14:52:00+00:00",
         "approxTime": false
       }
     ]
