@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T17:30:59.195176+00:00",
+  "generatedAt": "2026-11-16T18:01:10.329457+00:00",
   "sites": {
     "rosario3": [
       {
@@ -49,7 +49,7 @@
       },
       {
         "source": "Rosario3",
-        "title": "Denuncian que cerca de la mitad de las luminarias de Circunvalación no funciona",
+        "title": "Denuncian que cerca de la mitad de las luminarias de Circunvalación no funcionan",
         "link": "https://www.rosario3.com/informaciongeneral/denuncian-que-cerca-de-la-mitad-de-las-luminarias-de-circunvalacion-no-funciona-20261116-0036.html",
         "image": "https://www.rosario3.com/__export/1794848605198/sites/rosario3/img/2026/01/23/pasarela_caida_circunvalacion_6_1.jpg_395595010.jpg",
         "summary": "El secretario de Gobierno municipal, Sebastián Chale, advirtió sobre el deterioro de la traza y confirmó que presentaron un reclamo judicial para exigir su mantenimiento. También mantuvieron reuniones con Arco Portuario, la nueva concesionaria, que comenzó a operar hace poco más…",
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Central lanzó la venta general de entradas para el partido ante Gimnasia de Mendoza",
+        "link": "https://www.lacapital.com.ar/ovacion/central-lanzo-la-venta-general-entradas-el-partido-gimnasia-mendoza-n10292459.html",
+        "image": "https://media.lacapital.com.ar/p/f113834d45102c4c7ea9733e777b8430/adjuntos/203/imagenes/103/534/0103534176/1200x675/smart/central-gigante-arroyito.jpeg",
+        "summary": "El Canalla recibirá al Lobo este domingo en el Gigante de Arroyito por los octavos de final del torneo Clausura y los socios ya pueden adquirir sus tickets",
+        "pubDate": "2026-11-16T17:41:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Persecución policial en pleno microcentro: lograron atrapar a un motochorro y quedó todo grabado",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/c5797ca2cf59a5d6c89921525908d04b/adjuntos/203/imagenes/103/533/0103533544/1200x675/smart/alvear-espacio1.jpeg",
         "summary": "El nuevo espacio será destinado a la formación técnica y laboral. La jornada también incluyó la firma de un convenio de cooperación y la muestra anual de la Escuela Técnica Alvear",
         "pubDate": "2026-11-16T12:48:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El vocero de Milei estará de local en la Fundación Libertad con conferencia de prensa incluida",
-        "link": "https://www.lacapital.com.ar/politica/el-vocero-milei-estara-local-la-fundacion-libertad-conferencia-prensa-incluida-n10292396.html",
-        "image": "https://media.lacapital.com.ar/p/cd5618ae1e4af6b80d1930125f0c372c/adjuntos/203/imagenes/103/297/0103297637/1200x675/smart/image-2026-07-28t125744104.png",
-        "summary": "Adrián Ravier visitará el jueves Rosario para tener contacto con los periodistas como habitualmente hace en Casa Rosada. Luego, un panel en el think tank liberal",
-        "pubDate": "2026-11-16T12:44:00+00:00",
         "approxTime": false
       }
     ]
