@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T12:01:03.766688+00:00",
+  "generatedAt": "2026-11-16T12:30:53.172272+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Murió un futbolista tras recibir un fuerte golpe en la cabeza durante un partido de inferiores",
+        "link": "https://www.lacapital.com.ar/ovacion/murio-un-futbolista-recibir-un-fuerte-golpe-la-cabeza-un-partido-inferiores-n10292370.html",
+        "image": "https://media.lacapital.com.ar/p/f6b9ada4ed0300e19ddaedac5a3e9d35/adjuntos/203/imagenes/103/533/0103533387/1200x675/smart/image-2026-11-16t083517577.png",
+        "summary": "Abel Núñez integraba las inferiores de FC Ezeiza y la Reserva de futsal de Nueva Estrella. Había sido operado tras el episodio, pero su estado no mejoró",
+        "pubDate": "2026-11-16T11:56:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Conducía ebrio, perdió el control de su auto y chocó contra un vehículo estacionado",
         "link": "https://www.lacapital.com.ar/la-ciudad/conducia-ebrio-perdio-el-control-su-auto-y-choco-contra-un-vehiculo-estacionado-n10292382.html",
         "image": "https://media.lacapital.com.ar/p/de93afb067b114f4fb14f632ec71651b/adjuntos/203/imagenes/103/533/0103533363/1200x675/smart/choque-zona-sur-ebrio.png",
@@ -258,19 +267,10 @@
       },
       {
         "source": "La Capital",
-        "title": "El regreso del Barco Ciudad de Rosario: proyectan pruebas en el río hacia fin de año",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-regreso-del-barco-ciudad-rosario-proyectan-pruebas-el-rio-fin-ano-n10292310.html",
-        "image": "https://media.lacapital.com.ar/p/6403dc8debb8ceba899eacfb42c85859/adjuntos/203/imagenes/103/532/0103532834/1200x675/smart/barcociudad22.jpg",
-        "summary": "Terminal Fluvial habilitará un amarre para la embarcación en el ala sur. Llegaron las hélices nuevas desde Tigre para continuar con su puesta en valor",
-        "pubDate": "2026-11-16T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La semana previa que más se esperaba en Newell's, para visitar a un rival que está en un gran momento",
-        "link": "https://www.lacapital.com.ar/ovacion/la-semana-previa-que-mas-se-esperaba-newells-visitar-un-rival-que-esta-un-gran-momento-n10292345.html",
-        "image": "https://media.lacapital.com.ar/p/85c827158ec74baea8459d905956c963/adjuntos/203/imagenes/103/533/0103533029/1200x675/smart/image-6.jpg",
-        "summary": "El lunes 23 el equipo de Kudelka irá a buscar el pasaje a los cuartos de final del Clausura a La Plata, ante un Gimnasia que lleva un invicto inédito",
+        "title": "Emerson Fittipaldi con La Capital, el logro de los latinos en Fórmula 1, Colapinto y el Lole Reutemann",
+        "link": "https://www.lacapital.com.ar/formula-1/emerson-fittipaldi-la-capital-el-logro-los-latinos-formula-1-colapinto-y-el-lole-reutemann-n10292257.html",
+        "image": "https://media.lacapital.com.ar/p/2e1871deeeaa5d50c9e8086a87598c1e/adjuntos/203/imagenes/103/533/0103533030/1200x675/smart/image-7.jpg",
+        "summary": "El gran Emerson Fittipaldi charló con el enviado de La Capital en el reciente GP de San Pablo. Y a los 79 años habló de todo.",
         "pubDate": "2026-11-16T09:10:00+00:00",
         "approxTime": false
       }
