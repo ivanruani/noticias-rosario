@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T23:30:56.622440+00:00",
+  "generatedAt": "2026-11-16T00:01:06.944706+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Rosario celebró las primeras rondas de los Circuitos Culturales +65",
+        "link": "https://www.lacapital.com.ar/la-ciudad/rosario-celebro-las-primeras-rondas-los-circuitos-culturales-65-n10292340.html",
+        "image": "https://media.lacapital.com.ar/p/2ef191a67d6c4ecd2446b639cd20e453/adjuntos/203/imagenes/103/533/0103533027/1200x675/smart/65-2.jpg",
+        "summary": "La Municipalidad realizó una gala de encuentro en el Museo de la Ciudad. La iniciativa gratuita promueve la participación y la creación de vínculos",
+        "pubDate": "2026-11-15T23:47:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "A pura emoción, Phil Collins y Billy Idol entraron al Salón de la Fama del Rock & Roll",
         "link": "https://www.lacapital.com.ar/zoom/a-pura-emocion-phil-collins-y-billy-idol-entraron-al-salon-la-fama-del-rock-roll-n10292326.html",
         "image": "https://media.lacapital.com.ar/p/2c50de89d79276f1e35abf1288d450ca/adjuntos/203/imagenes/103/533/0103533012/2026-11-15-hall-of-fame-82868703.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/710408f5881836a684b5034e9c295ea2/adjuntos/203/imagenes/103/532/0103532372/1200x675/smart/sin-titulo-15-noviembre-2026-las-081634-5.jpeg",
         "summary": "La rosarina contó su historia en el programa de Andy Kusnetzoff. Aseguró que nació en 1990 y que su familia hizo un juicio por mala praxis que duró 15 años",
         "pubDate": "2026-11-15T14:52:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Funes: encuentro de vecinos en la Asociación de Comerciantes para prevenir inundaciones",
-        "link": "https://www.lacapital.com.ar/la-region/funes-encuentro-vecinos-la-asociacion-comerciantes-prevenir-inundaciones-n10291849.html",
-        "image": "https://media.lacapital.com.ar/p/33dd2b417c8228e12e32d8ba592bf75c/adjuntos/203/imagenes/103/527/0103527023/1200x675/smart/funes-segundo-encuentro-vecinos-acif.jpg",
-        "summary": "Vecinos, referentes vecinales y organizaciones de diversos puntos de la ciudad de Funes llevaron a cabo el Segundo Encuentro de vecinos y vecinales en las instalaciones de Acif (Asociación de Comerciantes e Industriales de Funes), una iniciativa impulsada por el Centro de…",
-        "pubDate": "2026-11-15T13:00:00+00:00",
         "approxTime": false
       }
     ]
