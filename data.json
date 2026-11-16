@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T11:31:09.622229+00:00",
+  "generatedAt": "2026-11-16T12:01:03.766688+00:00",
   "sites": {
     "rosario3": [
       {
@@ -40,10 +40,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Radiografía de la deuda en Rosario: alcanza a medio millón de personas y lideran billeteras virtuales",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/radiografia-de-la-deuda-en-rosario-alcanza-a-medio-millon-de-personas-y-lideran-billeteras-virtuales-20261115-0040.html",
-        "image": "https://www.rosario3.com/__export/1771029476794/sites/rosario3/img/2026/02/13/billeterasvirtuales.jpg_359780280.jpg",
-        "summary": "Un informe del Centro de Economía Política Argentina con datos a septiembre de 2026 revela además que más de 135 mil personas están en mora. Las plataformas digitales de crédito concentran el mayor nivel de incumplimiento y el impacto relativo golpea con más fuerza a los jóvenes",
+        "title": "Este lunes empieza una semana completa de paro docente en la UNR",
+        "link": "https://www.rosario3.com/informaciongeneral/este-lunes-empieza-una-semana-completa-de-paro-docente-en-la-unr-20261115-0032.html",
+        "image": "https://www.rosario3.com/__export/1794777696317/sites/rosario3/img/2025/09/17/marcha_unr_3.jpg_1825222445.jpg",
+        "summary": "La medida de fuerza, del 16 al 21 de noviembre, fue resuelta por Coad en reclamo por el cumplimiento de la Ley de Financiamiento Universitario y la convocatoria a paritarias. Además, llamaron a un Cabildo Abierto en Rosario",
         "pubDate": "2026-11-15T11:56:00+00:00",
         "approxTime": true
       },
@@ -76,11 +76,29 @@
       },
       {
         "source": "Rosario3",
+        "title": "Radiografía de la deuda en Rosario: alcanza a medio millón de personas y lideran billeteras virtuales",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/radiografia-de-la-deuda-en-rosario-alcanza-a-medio-millon-de-personas-y-lideran-billeteras-virtuales-20261115-0040.html",
+        "image": "https://www.rosario3.com/__export/1771029476794/sites/rosario3/img/2026/02/13/billeterasvirtuales.jpg_359780280.jpg",
+        "summary": "Un informe del Centro de Economía Política Argentina con datos a septiembre de 2026 revela además que más de 135 mil personas están en mora. Las plataformas digitales de crédito concentran el mayor nivel de incumplimiento y el impacto relativo golpea con más fuerza a los jóvenes",
+        "pubDate": "2026-11-15T11:52:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Falló el cohete Vulcan y se perdieron 40 satélites de internet de Amazon",
+        "link": "https://www.rosario3.com/informaciongeneral/fallo-el-cohete-vulcan-y-se-perdieron-40-satelites-de-internet-de-amazon-20261116-0010.html",
+        "image": "https://www.rosario3.com/__export/1794826772288/sites/rosario3/img/2026/11/16/vucaln.jpg_928314580.jpg",
+        "summary": "Fue el primer fracaso total de United Launch Alliance desde su creación en 2006. La empresa investiga las causas y Amazon quedó más lejos de competir con Starlink. Los detalles",
+        "pubDate": "2026-11-16T11:51:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Claves del día: Tesla acelera y conseguir dólares se complica para las empresas | Ecos365",
         "link": "https://www.rosario3.com/ecos365/noticias/claves-del-dia-tesla-acelera-y-conseguir-dolares-se-complica-para-las-empresas-20261116-0001.html",
         "image": "https://www.rosario3.com/__export/1794823839059/sites/rosario3/img/2026/11/16/model3modely_crop1794823838605.jpg_467033746.jpg",
         "summary": "Autos eléctricos, sanatorios y negocios por disputar: Tesla desembarca, Oroño estrena dueños y el financiamiento se enfría. Cierran las inscripciones del RIGI y La Segunda, mientras la agenda económica pone bajo examen precios, exportaciones y expectativas empresarias",
-        "pubDate": "2026-11-16T11:52:00+00:00",
+        "pubDate": "2026-11-16T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -89,7 +107,7 @@
         "link": "https://www.rosario3.com/deportes/chiqui-tapia-se-refirio-al-fbi-a-los-ingresos-de-la-afa-y-le-contesto-a-stefano-di-carlo-20261116-0002.html",
         "image": "https://www.rosario3.com/__export/1794821795372/sites/rosario3/img/2026/11/16/tapia.jpg_928314580.jpg",
         "summary": "El dirigente además defendió su trabajo al frente de la AFA: “Los formatos de torneo que usamos generan igualdad para los clubes que pensaban que no tenían la posibilidad. Para discutir la gestión, armá una lista y que te voten”. Mirá",
-        "pubDate": "2026-11-16T11:51:00+00:00",
+        "pubDate": "2026-11-16T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -98,25 +116,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/quini-6-con-el-tradicional-vacante-un-apostador-gano-486-millones-en-el-siempre-sale-20261116-0004.html",
         "image": "https://www.rosario3.com/__export/1794822804253/sites/rosario3/img/2026/11/16/quini_6_version1794822803786.jpg_786111824.jpg",
         "summary": "En el sorteo Nº 3.426, del último domingo, tampoco se registraron ganadores con seis aciertos en la modalidad Segunda y La Revancha. A cuánto asciende el pozo acumulado",
-        "pubDate": "2026-11-16T11:50:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El clima en Rosario: comienzo de semana caluroso, con probabilidad de tormentas",
-        "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-comienzo-de-semana-caluroso-con-probabilidad-de-tormentas-20261116-0001.html",
-        "image": "https://www.rosario3.com/__export/1794820720459/sites/rosario3/img/2025/01/21/perritosenlaplaza.jpg_928314581.jpg",
-        "summary": "El Servicio Meteorológico Nacional anticipa un lunes “pesado” y con abundante nubosidad en la región. Tras una tarde cálida, la inestabilidad ganará terreno hacia el cierre del día. La temperatura máxima llegaría los 29ºC",
-        "pubDate": "2026-11-16T11:49:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Cambio de planes para la Scaloneta: la agenda de la Selección previo al partido con Costa Rica",
-        "link": "https://www.rosario3.com/deportes/como-sigue-la-agenda-de-argentina-tras-la-derrota-contra-uruguay-20261114-0002.html",
-        "image": "https://www.rosario3.com/__export/1794822969729/sites/rosario3/img/2026/11/16/image_-77-.jpg_928314581.jpg",
-        "summary": "El equipo de Scaloni viajará este martes por la mañana, el mismo día donde enfrentará a Costa Rica en el último amistoso del año por fecha FIFA. Los detalles",
-        "pubDate": "2026-11-14T11:48:00+00:00",
+        "pubDate": "2026-11-16T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -130,15 +130,51 @@
       },
       {
         "source": "Rosario3",
-        "title": "Central cambia el chip y prepara el cruce de octavos ante Gimnasia de Mendoza: tiene bajas y espera por varios regresos",
-        "link": "https://www.rosario3.com/deportes/central-cambia-el-chip-y-prepara-el-cruce-de-octavos-ante-gimnasia-de-mendoza-tiene-bajas-y-espera-por-varios-regresos-20261115-0028.html",
-        "image": "https://www.rosario3.com/__export/1792180716679/sites/rosario3/img/2026/10/16/di_maria_central.jpg_382583444.jpg",
-        "summary": "El Canalla recibirá al Lobo mendocino el domingo 22, a las 16, en el Gigante de Arroyito. Jorge Almirón debe resolver quién reemplazará al expulsado Gastón Ávila en la zaga central y también definir quién ocupará el arco, entre Jeremías Ledesma y Axel Werner. Cuál es la…",
-        "pubDate": "2026-11-15T11:46:00+00:00",
+        "title": "Cambio de planes para la Scaloneta: la agenda de la Selección previo al partido con Costa Rica",
+        "link": "https://www.rosario3.com/deportes/como-sigue-la-agenda-de-argentina-tras-la-derrota-contra-uruguay-20261114-0002.html",
+        "image": "https://www.rosario3.com/__export/1794822969729/sites/rosario3/img/2026/11/16/image_-77-.jpg_928314581.jpg",
+        "summary": "El equipo de Scaloni viajará este martes por la mañana, el mismo día donde enfrentará a Costa Rica en el último amistoso del año por fecha FIFA. Los detalles",
+        "pubDate": "2026-11-14T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Conducía ebrio, perdió el control de su auto y chocó contra un vehículo estacionado",
+        "link": "https://www.lacapital.com.ar/la-ciudad/conducia-ebrio-perdio-el-control-su-auto-y-choco-contra-un-vehiculo-estacionado-n10292382.html",
+        "image": "https://media.lacapital.com.ar/p/de93afb067b114f4fb14f632ec71651b/adjuntos/203/imagenes/103/533/0103533363/1200x675/smart/choque-zona-sur-ebrio.png",
+        "summary": "El siniestro vial sucedió alrededor de las 6.20 en avenida Del Rosario al 600, en la zona sur de Rosario.",
+        "pubDate": "2026-11-16T11:55:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La crecida del río Paraná ya dejó 260 evacuados en Santa Fe y refuerzan los operativos",
+        "link": "https://www.lacapital.com.ar/la-region/la-crecida-del-rio-parana-ya-dejo-260-evacuados-santa-fe-y-refuerzan-los-operativos-n10292375.html",
+        "image": "https://media.lacapital.com.ar/p/4511993b0c8c25750e104916ecb73d9a/adjuntos/203/imagenes/103/533/0103533360/1200x675/smart/crecida-parana-santa-fe.png",
+        "summary": "El río alcanzó los 5,77 metros en el puerto local, por encima del nivel de evacuación. Hay dos centros de asistencia activos y evalúan habilitar otros dos",
+        "pubDate": "2026-11-16T11:46:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Chiqui Tapia habló de las denuncias, el FBI y defendió su gestión: \"No se discute\"",
+        "link": "https://www.lacapital.com.ar/ovacion/chiqui-tapia-hablo-las-denuncias-el-fbi-y-defendio-su-gestion-no-se-discute-n10292358.html",
+        "image": "https://media.lacapital.com.ar/p/f44c3279f59edc7ba44c6b1d9d286e2e/adjuntos/203/imagenes/103/533/0103533274/1200x675/smart/image-22.jpg",
+        "summary": "\"Si tienen que investigar, que investiguen\", desafió el presidente de la AFA, quien apuntó contra un empresario. También contó que los insultos en las canchas ya no lo afectan",
+        "pubDate": "2026-11-16T11:37:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Quini 6: de dónde es el apostador que ganó más de $486 millones en el Siempre Sale",
+        "link": "https://www.lacapital.com.ar/informacion-general/quini-6-donde-es-el-apostador-que-gano-mas-486-millones-el-siempre-sale-n10292367.html",
+        "image": "https://media.lacapital.com.ar/p/0a7b4938df517375467923e7bfc753c3/adjuntos/203/imagenes/103/391/0103391635/quini-6-65.jpg",
+        "summary": "Mientras que las principales modalidades quedaron vacantes, el Siempre Sale tuvo un solo ganador que se alzó con la totalidad del pozo",
+        "pubDate": "2026-11-16T11:34:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Cuándo terminan las clases en la provincia de Santa Fe",
@@ -195,16 +231,7 @@
       },
       {
         "source": "La Capital",
-        "title": "La suba del riesgo país frenó el crédito en dólares a empresas",
-        "link": "https://www.lacapital.com.ar/economia/la-suba-del-riesgo-pais-freno-el-credito-dolares-empresas-n10292339.html",
-        "image": "https://media.lacapital.com.ar/p/2fddf15da74f673e650ec2d89305c57d/adjuntos/203/imagenes/027/433/0027433114/1200x675/smart/13_lc_61230228__04-10-2019__200x800jpg.jpg",
-        "summary": "Un informe del Banco Provincia de Buenos Aires señaló que la suma de ON y préstamos en divisas cayó 20% durante los últimos tres meses",
-        "pubDate": "2026-11-16T09:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "¡Mirá mamá, ando sin manos!",
+        "title": "¡Mirá, mamá, ando sin manos!",
         "link": "https://www.lacapital.com.ar/suscriptores/mira-mama-ando-manos-n10292180.html",
         "image": "https://media.lacapital.com.ar/p/3a464af255808dba12aee898e633b05a/adjuntos/203/imagenes/103/467/0103467738/1200x675/smart/diputados-santa-fe-recinto.jpeg",
         "summary": "La previa electoral empezó en Santa Fe. Los dirigentes buscan instalar nombres, construir volumen y mejorar su posición de negociación. La estrategia del ruido",
@@ -222,20 +249,11 @@
       },
       {
         "source": "La Capital",
-        "title": "Emerson Fittipaldi con La Capital, el logro de los latinos en Fórmula 1, Colapinto y el Lole Reutemann",
-        "link": "https://www.lacapital.com.ar/formula-1/emerson-fittipaldi-la-capital-el-logro-los-latinos-formula-1-colapinto-y-el-lole-reutemann-n10292257.html",
-        "image": "https://media.lacapital.com.ar/p/2e1871deeeaa5d50c9e8086a87598c1e/adjuntos/203/imagenes/103/533/0103533030/1200x675/smart/image-7.jpg",
-        "summary": "El gran Emerson Fittipaldi charló con el enviado de La Capital en el reciente GP de San Pablo. Y a los 79 años habló de todo.",
-        "pubDate": "2026-11-16T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La semana previa que más se esperaba en Newell's, para visitar a un rival que está en un gran momento",
-        "link": "https://www.lacapital.com.ar/ovacion/la-semana-previa-que-mas-se-esperaba-newells-visitar-un-rival-que-esta-un-gran-momento-n10292345.html",
-        "image": "https://media.lacapital.com.ar/p/85c827158ec74baea8459d905956c963/adjuntos/203/imagenes/103/533/0103533029/1200x675/smart/image-6.jpg",
-        "summary": "El lunes 23 el equipo de Kudelka irá a buscar el pasaje a los cuartos de final del Clausura a La Plata, ante un Gimnasia que lleva un invicto inédito",
-        "pubDate": "2026-11-16T09:10:00+00:00",
+        "title": "La suba del riesgo país frenó el crédito en dólares a empresas",
+        "link": "https://www.lacapital.com.ar/economia/la-suba-del-riesgo-pais-freno-el-credito-dolares-empresas-n10292339.html",
+        "image": "https://media.lacapital.com.ar/p/2fddf15da74f673e650ec2d89305c57d/adjuntos/203/imagenes/027/433/0027433114/1200x675/smart/13_lc_61230228__04-10-2019__200x800jpg.jpg",
+        "summary": "Un informe del Banco Provincia de Buenos Aires señaló que la suma de ON y préstamos en divisas cayó 20% durante los últimos tres meses",
+        "pubDate": "2026-11-16T09:15:00+00:00",
         "approxTime": false
       },
       {
@@ -249,29 +267,11 @@
       },
       {
         "source": "La Capital",
-        "title": "Hasta siempre teniente Rinke: Numeral de Hierro y héroe de Malvinas",
-        "link": "https://www.lacapital.com.ar/opinion/hasta-siempre-teniente-rinke-numeral-hierro-y-heroe-malvinas-n10292336.html",
-        "image": "https://media.lacapital.com.ar/p/83733454c0dd066bbf20b3176c68734d/adjuntos/203/imagenes/103/533/0103533023/1200x675/smart/carlos-alberto-rinke-heroe-malvinas.jpeg",
-        "summary": "A los 70 años murió el teniente Carlos Rinke, el piloto de la Fuerza Aérea con más horas de combate en Malvinas",
-        "pubDate": "2026-11-16T09:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Terapias alternativas: \"Con las constelaciones familiares puedo llegar a lo más profundo\"",
-        "link": "https://www.lacapital.com.ar/informacion-general/terapias-alternativas-con-las-constelaciones-familiares-puedo-llegar-lo-mas-profundo-n10292324.html",
-        "image": "https://media.lacapital.com.ar/p/80b96aca5e62d2c3941d3b4906f862ce/adjuntos/203/imagenes/103/532/0103532906/1200x675/smart/barquero-1.jpg",
-        "summary": "La terapeuta floral y consteladora familiar rosarina Desirée Barquero advierte que “las terapias florales van para las emociones, pero me faltaba profundizar”",
-        "pubDate": "2026-11-16T09:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El tiempo en Rosario: lunes con muchas nubes y posibles tormentas a la noche",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-lunes-muchas-nubes-y-posibles-tormentas-la-noche-n10292353.html",
-        "image": "https://media.lacapital.com.ar/p/a5b8538814ee4c9af419cd73577a022b/adjuntos/203/imagenes/103/533/0103533195/2026-11-15-clima-by_vbenedetto-80182579.jpg",
-        "summary": "El martes arrancaría con chaparrones y también hay chances de precipitaciones para el jueves y el viernes",
-        "pubDate": "2026-11-16T02:35:00+00:00",
+        "title": "La semana previa que más se esperaba en Newell's, para visitar a un rival que está en un gran momento",
+        "link": "https://www.lacapital.com.ar/ovacion/la-semana-previa-que-mas-se-esperaba-newells-visitar-un-rival-que-esta-un-gran-momento-n10292345.html",
+        "image": "https://media.lacapital.com.ar/p/85c827158ec74baea8459d905956c963/adjuntos/203/imagenes/103/533/0103533029/1200x675/smart/image-6.jpg",
+        "summary": "El lunes 23 el equipo de Kudelka irá a buscar el pasaje a los cuartos de final del Clausura a La Plata, ante un Gimnasia que lleva un invicto inédito",
+        "pubDate": "2026-11-16T09:10:00+00:00",
         "approxTime": false
       }
     ]
