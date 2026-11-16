@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T01:30:58.823054+00:00",
+  "generatedAt": "2026-11-16T01:56:44.701373+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Murió Miguel Ángel Félix Gallardo, \"fundador\" de los cárteles narcos mexicanos",
+        "link": "https://www.lacapital.com.ar/policiales/murio-miguel-angel-felix-gallardo-fundador-los-carteles-narcos-mexicanos-n10292349.html",
+        "image": "https://media.lacapital.com.ar/p/7d88753cea0611b9aaacde73d0609eb6/adjuntos/203/imagenes/103/533/0103533109/2026-11-15-felix-narco-mexico.jpg",
+        "summary": "Tenía 80 años y estaba preso desde 1989. Al menos desde hace cinco años tenía serios problemas de salud. En la serie \"Narcos\" lo personificó Diego Luna",
+        "pubDate": "2026-11-16T01:43:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Plusvalor inmobiliario: la economía detrás de una transformación urbana",
         "link": "https://www.lacapital.com.ar/economia/plusvalor-inmobiliario-la-economia-detras-una-transformacion-urbana-n10292346.html",
         "image": "https://media.lacapital.com.ar/p/4d2895739cb905f8b47e3bd445cf8ecc/adjuntos/203/imagenes/103/368/0103368042/1200x675/smart/villa-olimpica.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/1da0b728cfed0b8464eb7dc6909bea1e/adjuntos/203/imagenes/103/532/0103532531/1200x675/smart/imagebille.jpg",
         "summary": "Un informe del Cepa, basado en datos del Banco Central, revela que el 26,9% de los rosarinos que tienen deudas registra atrasos en sus pagos. La situación golpea especialmente a los jóvenes. En Santa Fe hay casi 430 mil morosos.",
         "pubDate": "2026-11-15T18:17:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central Córdoba termina otro año frustrante y sigue hundido en el fondo del fútbol argentino",
-        "link": "https://www.lacapital.com.ar/ovacion/central-cordoba-termina-otro-ano-frustrante-y-sigue-hundido-el-fondo-del-futbol-argentino-n10292226.html",
-        "image": "https://media.lacapital.com.ar/p/100da02cb206ed50444b500fef1e4950/adjuntos/203/imagenes/103/531/0103531438/1200x675/smart/image-3.jpg",
-        "summary": "Lleva años hundido en esa categoría. El club de Tablada merece estar más arriba, pero no sabe cómo conseguirlo. Otro sueño incumplido para los hinchas.",
-        "pubDate": "2026-11-15T16:33:00+00:00",
         "approxTime": false
       }
     ]
