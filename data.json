@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-11-16T01:01:11.126703+00:00",
+  "generatedAt": "2026-11-16T01:30:58.823054+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Radiografía de la deuda en Rosario: alcanza a medio millón de personas y lideran billeteras virtuales",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/radiografia-de-la-deuda-en-rosario-alcanza-a-medio-millon-de-personas-y-lideran-billeteras-virtuales-20261115-0040.html",
+        "image": "https://www.rosario3.com/__export/1771029476794/sites/rosario3/img/2026/02/13/billeterasvirtuales.jpg_359780280.jpg",
+        "summary": "Un informe del Centro de Economía Política Argentina con datos a septiembre de 2026 revela además que más de 135 mil personas están en mora. Las plataformas digitales de crédito concentran el mayor nivel de incumplimiento y el impacto relativo golpea con más fuerza a los jóvenes",
+        "pubDate": "2026-11-15T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Este lunes empieza una semana completa de paro docente en la UNR",
         "link": "https://www.rosario3.com/informaciongeneral/este-lunes-empieza-una-semana-completa-de-paro-docente-en-la-unr-20261115-0032.html",
         "image": "https://www.rosario3.com/__export/1794777696317/sites/rosario3/img/2025/09/17/marcha_unr_3.jpg_1825222445.jpg",
         "summary": "La medida de fuerza, del 16 al 21 de noviembre, fue resuelta por Coad en reclamo por el cumplimiento de la Ley de Financiamiento Universitario y la convocatoria a paritarias. Además, llamaron a un Cabildo Abierto en Rosario",
-        "pubDate": "2026-11-15T12:00:00+00:00",
+        "pubDate": "2026-11-15T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,15 +26,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/como-son-los-nuevos-colectivos-a-gnc-que-empiezan-a-circular-este-lunes-en-rosario-20261115-0033.html",
         "image": "https://www.rosario3.com/__export/1794778180741/sites/rosario3/img/2026/11/15/colectivos_gnc2.jpg_1018832474.jpg",
         "summary": "Más silenciosos y con menor impacto ambiental que los motores diésel, los primeros coches de un lote de 93 unidades salen a la calle. La línea 103 será la primera en renovar toda su flota",
-        "pubDate": "2026-11-15T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El Paraná superó el nivel de evacuación en Santa Fe y Rosario sigue de cerca la crecida: qué se espera",
-        "link": "https://www.rosario3.com/informaciongeneral/el-parana-supero-el-nivel-de-evacuacion-en-santa-fe-y-rosario-sigue-de-cerca-la-crecida-20261115-0025.html",
-        "image": "https://www.rosario3.com/__export/1794764747587/sites/rosario3/img/2026/11/15/crecida_santa_fe_-1-.jpg_506286608.jpg",
-        "summary": "El río alcanzó los 5,72 metros este domingo en el puerto santafesino, dos centímetros por encima de la cota de evacuación. En Rosario, las proyecciones del Instituto Nacional del Agua anticipan que podría llegar a los 5,20 o 5,30 metros hacia fines de noviembre, cerca del umbral…",
         "pubDate": "2026-11-15T11:58:00+00:00",
         "approxTime": true
       },
@@ -40,19 +40,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "La gente quiere una estrella para darse un lujo",
-        "link": "https://www.rosario3.com/opinion/la-gente-quiere-una-estrella-para-darse-un-lujo-20261115-0037.html",
-        "image": "https://www.rosario3.com/__export/1794783438804/sites/rosario3/img/2026/11/15/tribunas_bombonera.jpg_2106848869.jpg",
-        "summary": "La Bombonera semi vacía para el primer partido de la selección en la era pos Messi deja todo un mensaje. El público del equipo nacional, que no es el mismo de los clubes, necesita un distinto por quien pagar las entradas",
+        "title": "El Paraná superó el nivel de evacuación en Santa Fe y Rosario sigue de cerca la crecida: qué se espera",
+        "link": "https://www.rosario3.com/informaciongeneral/el-parana-supero-el-nivel-de-evacuacion-en-santa-fe-y-rosario-sigue-de-cerca-la-crecida-20261115-0025.html",
+        "image": "https://www.rosario3.com/__export/1794764747587/sites/rosario3/img/2026/11/15/crecida_santa_fe_-1-.jpg_506286608.jpg",
+        "summary": "El río alcanzó los 5,72 metros este domingo en el puerto santafesino, dos centímetros por encima de la cota de evacuación. En Rosario, las proyecciones del Instituto Nacional del Agua anticipan que podría llegar a los 5,20 o 5,30 metros hacia fines de noviembre, cerca del umbral…",
         "pubDate": "2026-11-15T11:56:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Vivir del propio trabajo, lejos: al 67,7% no le llega el sueldo el día 20",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/vivir-del-propio-trabajo-lejos-al-677-no-le-llega-el-sueldo-el-dia-20-20261115-0038.html",
-        "image": "https://www.rosario3.com/__export/1779490688322/sites/rosario3/img/2023/11/13/supermercado.jpg_982625323.jpg",
-        "summary": "A una semana de la advertencia del papa León XIV, un relevamiento muestra que el 75% de los menores de 40 años agota sus ingresos en tres semanas y seis de cada diez argentinos se endeudan para subsistir",
+        "title": "La gente quiere una estrella para darse un lujo",
+        "link": "https://www.rosario3.com/opinion/la-gente-quiere-una-estrella-para-darse-un-lujo-20261115-0037.html",
+        "image": "https://www.rosario3.com/__export/1794783438804/sites/rosario3/img/2026/11/15/tribunas_bombonera.jpg_2106848869.jpg",
+        "summary": "La Bombonera semi vacía para el primer partido de la selección en la era pos Messi deja todo un mensaje. El público del equipo nacional, que no es el mismo de los clubes, necesita un distinto por quien pagar las entradas",
         "pubDate": "2026-11-15T11:55:00+00:00",
         "approxTime": true
       },
@@ -103,10 +103,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Caso Dolly: dos puntas que sueñan encontrarse y una trama oscura e inquietante que la Justicia debe reconstruir",
-        "link": "https://www.rosario3.com/informaciongeneral/caso-dolly-dos-puntas-que-suenan-encontrarse-y-una-trama-oscura-e-inquietante-que-la-justicia-debe-reconstruir-20261115-0005.html",
-        "image": "https://www.rosario3.com/__export/1794746622234/sites/rosario3/img/2026/11/15/ramona-antonio.jpg_1768679312.jpg",
-        "summary": "Mientras decenas de hombres y mujeres que descubrieron haber sido comprados a las parteras rosarinas cuando eran bebés buscan a sus padres biológicos, ahora aparecen madres a las que les dijeron que sus hijos habían muerto al nacer y que nunca dejaron de dudar de aquella…",
+        "title": "Vivir del propio trabajo, lejos: al 67,7% no le llega el sueldo el día 20",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/vivir-del-propio-trabajo-lejos-al-677-no-le-llega-el-sueldo-el-dia-20-20261115-0038.html",
+        "image": "https://www.rosario3.com/__export/1779490688322/sites/rosario3/img/2023/11/13/supermercado.jpg_982625323.jpg",
+        "summary": "A una semana de la advertencia del papa León XIV, un relevamiento muestra que el 75% de los menores de 40 años agota sus ingresos en tres semanas y seis de cada diez argentinos se endeudan para subsistir",
         "pubDate": "2026-11-15T11:49:00+00:00",
         "approxTime": true
       },
@@ -121,10 +121,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Siguen las obras de Aguas en el centro: esta semana, cortes en una calle clave",
-        "link": "https://www.rosario3.com/informaciongeneral/siguen-las-obras-de-aguas-en-el-centro-esta-semana-cortes-en-una-calle-clave-20261115-0030.html",
-        "image": "https://www.rosario3.com/__export/1794774226247/sites/rosario3/img/2026/11/15/assa.jpg_982625323.jpg",
-        "summary": "La empresa continúa con el recambio de cañerías en el casco histórico y habrá interrupciones de 8 a 18 entre lunes y miércoles. También, eventualmente, jueves y viernes. El cronograma día por día",
+        "title": "Caso Dolly: dos puntas que sueñan encontrarse y una trama oscura e inquietante que la Justicia debe reconstruir",
+        "link": "https://www.rosario3.com/informaciongeneral/caso-dolly-dos-puntas-que-suenan-encontrarse-y-una-trama-oscura-e-inquietante-que-la-justicia-debe-reconstruir-20261115-0005.html",
+        "image": "https://www.rosario3.com/__export/1794746622234/sites/rosario3/img/2026/11/15/ramona-antonio.jpg_1768679312.jpg",
+        "summary": "Mientras decenas de hombres y mujeres que descubrieron haber sido comprados a las parteras rosarinas cuando eran bebés buscan a sus padres biológicos, ahora aparecen madres a las que les dijeron que sus hijos habían muerto al nacer y que nunca dejaron de dudar de aquella…",
         "pubDate": "2026-11-15T11:47:00+00:00",
         "approxTime": true
       },
