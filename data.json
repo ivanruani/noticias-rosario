@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-11-16T18:01:10.329457+00:00",
+  "generatedAt": "2026-11-16T18:30:52.287529+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Del Parque de la Cabecera al barrio de la Carne: Javkin presentó los primeros 48 nuevos colectivos a GNC",
+        "link": "https://www.rosario3.com/informaciongeneral/del-parque-de-la-cabecera-al-barrio-de-la-carne-javkin-presento-los-primeros-48-nuevos-colectivos-a-gnc-20261116-0041.html",
+        "image": "https://www.rosario3.com/__export/1794853647210/sites/rosario3/img/2026/11/16/colectivos_nuevos_1.jpg_982625323.jpg",
+        "summary": "En tres puntos en simultaneo, se presentó la primera tanda de un total de 93 coches que permitirán la renovación del 15% de la flota total del transporte urbano de pasajeros",
+        "pubDate": "2026-11-16T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Alfombra de cascarudos: por qué aparecen en masa y qué hacer para evitar que entren a las casas",
         "link": "https://www.rosario3.com/informaciongeneral/alfombra-de-cascarudos-por-que-aparecen-en-masa-y-que-hacer-para-evitar-que-entren-a-las-casas-20261116-0030.html",
         "image": "https://www.rosario3.com/__export/1794844176069/sites/rosario3/img/2026/11/16/cascarudos_1.png_786111822.png",
         "summary": "La aparición masiva de estos insectos sorprendió a los rosarinos en los últimos días. Desde Control de Vectores explicaron qué los atrae a las viviendas, aclararon que no representan ningún peligro y dieron recomendaciones para evitar su ingreso",
-        "pubDate": "2026-11-16T12:00:00+00:00",
+        "pubDate": "2026-11-16T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/policiales/trabajadora-sexual-denuncio-abuso-grupal-en-un-motel-de-rosario-me-pegaron-me-humillaron-20261116-0032.html",
         "image": "https://www.rosario3.com/__export/1794844877252/sites/rosario3/img/2026/11/16/victima_abuso.jpg_1010838703.jpg",
         "summary": "La víctima, de 30 años, relató el ataque que sufrió a finales de octubre luego de haber sido contratada por un cliente a la salida del casino. Afirmó que en total fueron cinco los agresores, quienes la golpearon, insultaron y le arrojaron alcohol en sus genitales. Por el caso no…",
-        "pubDate": "2026-11-16T11:59:00+00:00",
+        "pubDate": "2026-11-16T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/la-crecida-del-parana-desde-el-aire-en-rosario-como-se-preparan-los-islenos-y-por-que-piden-navegar-a-baja-velocidad-20261116-0018.html",
         "image": "https://www.rosario3.com/__export/1794848357090/sites/rosario3/img/2026/11/16/crecida_parana_rosario.jpg_506286608.jpg",
         "summary": "La presidenta del Enapro, Graciela Alabarce, y el titular de la Comunidad Islera Asociación Civil, Leonardo Scarparo, analizaron el impacto de la crecida por el fenómeno de El Niño y las tareas de prevención ante la llegada de más agua. La funcionaria pidió navegar con…",
-        "pubDate": "2026-11-16T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Caputo atribuyó el menor crecimiento económico al contexto internacional y al temor por el kirchnerismo",
-        "link": "https://www.rosario3.com/informaciongeneral/caputo-atribuyo-el-menor-crecimiento-economico-al-contexto-internacional-y-al-temor-por-el-kirchnerismo-20261116-0023.html",
-        "image": "https://www.rosario3.com/__export/1793723690989/sites/rosario3/img/2026/11/03/caputo1_.jpg_928314580.jpg",
-        "summary": "El ministro de Economía reconoció que las proyecciones iniciales para este año no se cumplieron como esperaba y mencionó el impacto del contexto internacional y la incertidumbre política. También anticipó una recuperación de la actividad hacia fin de año y defendió el rumbo…",
         "pubDate": "2026-11-16T11:57:00+00:00",
         "approxTime": true
       },
@@ -121,24 +121,69 @@
       },
       {
         "source": "Rosario3",
-        "title": "Ingrid Beck dará una charla en Rosario sobre comunicación, perspectiva de género y derechos de las infancias: cuándo y cómo inscribirse",
-        "link": "https://www.rosario3.com/informaciongeneral/ingrid-beck-dara-una-charla-en-rosario-sobre-comunicacion-perspectiva-de-genero-y-derechos-de-las-infancias-cuando-y-como-inscribirse-20261116-0033.html",
-        "image": "https://www.rosario3.com/__export/1794845663362/sites/rosario3/img/2026/11/16/ingrid_beck.png_786111822.png",
-        "summary": "La comunicadora participará de un encuentro en Rosario el próximo miércoles 18 de noviembre, donde se abordarán las buenas prácticas periodísticas, la perspectiva de género y niñez y los desafíos de comunicar en los entornos digitales. La actividad será gratuita, con inscripción…",
+        "title": "Selección argentina: el equipo que planea Scaloni para enfrentar a Costa Rica",
+        "link": "https://www.rosario3.com/deportes/seleccion-argentina-el-equipo-que-planea-scaloni-para-enfrentar-a-costa-rica-20261116-0038.html",
+        "image": "https://www.rosario3.com/__export/1794850612529/sites/rosario3/img/2026/11/16/seleccion_argentina.jpg_2138234794.jpg",
+        "summary": "Tras la caída ante Uruguay en La Bombonera, el entrenador albiceleste prepara variantes en el mediocampo y la delantera para el amistoso internacional de este martes, en Córdoba. La única incógnita pasa por el lateral izquierdo",
         "pubDate": "2026-11-16T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Fórmula 1 en Las Vegas: horarios, circuito y cómo seguir en vivo a Franco Colapinto",
-        "link": "https://www.rosario3.com/deportes/formula-1-en-las-vegas-horarios-circuito-y-como-seguir-en-vivo-a-franco-colapinto-20261116-0034.html",
-        "image": "https://www.rosario3.com/__export/1793978639241/sites/rosario3/img/2026/11/06/colapinto_jpg_760710429.jpg_1221028662.jpg",
-        "summary": "La competencia tendrá como escenario el circuito callejero del Strip, en una prueba nocturna que volverá a llevar a los principales pilotos de la categoría por las calles de la ciudad estadounidense. La agenda completa",
+        "title": "Ingrid Beck dará una charla en Rosario sobre comunicación, perspectiva de género y derechos de las infancias: cuándo y cómo inscribirse",
+        "link": "https://www.rosario3.com/informaciongeneral/ingrid-beck-dara-una-charla-en-rosario-sobre-comunicacion-perspectiva-de-genero-y-derechos-de-las-infancias-cuando-y-como-inscribirse-20261116-0033.html",
+        "image": "https://www.rosario3.com/__export/1794845663362/sites/rosario3/img/2026/11/16/ingrid_beck.png_786111822.png",
+        "summary": "La comunicadora participará de un encuentro en Rosario el próximo miércoles 18 de noviembre, donde se abordarán las buenas prácticas periodísticas, la perspectiva de género y niñez y los desafíos de comunicar en los entornos digitales. La actividad será gratuita, con inscripción…",
         "pubDate": "2026-11-16T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "La crecida acecha a Rosario: el gobierno de Santa Fe sigue al Paraná y activa la prevención",
+        "link": "https://www.lacapital.com.ar/la-crecida-acecha-rosario-el-gobierno-santa-fe-sigue-al-parana-y-activa-la-prevencion-n10292443.html",
+        "image": "https://media.lacapital.com.ar/p/9aa20dcfad114a21c24701b4bc4e8676/adjuntos/203/imagenes/103/533/0103533969/1200x675/smart/crecida-parana.jpeg",
+        "summary": "La suba del nivel Paraná se convirtió en el principal frente de atención de la gestión provincial. En la ciudad crece de a poco. Los desafíos políticos",
+        "pubDate": "2026-11-16T18:22:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Cuándo juega Newell's los playoffs del torneo Clausura 2026",
+        "link": "https://www.lacapital.com.ar/ovacion/cuando-juega-newells-los-playoffs-del-torneo-clausura-2026-n10292462.html",
+        "image": "https://media.lacapital.com.ar/p/8ed53c2f7d4ff412dae0c5852b8afd89/adjuntos/203/imagenes/103/516/0103516380/sslari.jpg",
+        "summary": "La Lepra visitará a Gimnasia en La Plata por los octavos de final del campeonato e iniciará el camino de eliminación directa hacia el título",
+        "pubDate": "2026-11-16T18:04:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Cuándo juega Central los playoffs del torneo Clausura 2026",
+        "link": "https://www.lacapital.com.ar/ovacion/cuando-juega-central-los-playoffs-del-torneo-clausura-2026-n10292465.html",
+        "image": "https://media.lacapital.com.ar/p/6e5286961eafdf6205f6b38968d14a1c/adjuntos/203/imagenes/103/517/0103517736/jff.jpg",
+        "summary": "El Canalla recibirá al Lobo mendocino en el Gigante de Arroyito en uno de los cruces de los octavos de final del campeonato",
+        "pubDate": "2026-11-16T18:04:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Al Capone, el caballo ganador de Santino Alvarado: los fetiches de la mafia que heredó de su padre",
+        "link": "https://www.lacapital.com.ar/policiales/al-capone-el-caballo-ganador-santino-alvarado-los-fetiches-la-mafia-que-heredo-su-padre-n10292463.html",
+        "image": "https://media.lacapital.com.ar/p/9a3faf477da2008c632349d60d5c0fbf/adjuntos/203/imagenes/103/534/0103534192/1200x675/smart/santinoalcapone.jpg",
+        "summary": "Santino Alvarado, detenido recientemente, competía en turf con un caballo llamado como el líder mafioso estadounidense y lleva un tatuaje de Don Corleone de El Padrino, fascinación de su padre Esteban Alvarado",
+        "pubDate": "2026-11-16T18:02:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Milei vs. Kicillof: una encuesta revela quién se impondría en un balotaje presidencial en 2027",
+        "link": "https://www.lacapital.com.ar/politica/milei-vs-kicillof-una-encuesta-revela-quien-se-impondria-un-balotaje-presidencial-2027-n10292468.html",
+        "image": "https://media.lacapital.com.ar/p/ad9c8604061c5986afb58056a39437c0/adjuntos/203/imagenes/103/534/0103534195/1200x675/smart/imageurna.jpg",
+        "summary": "Un relevamiento nacional de la consultora Tendencias muestra un empate técnico en primera vuelta, pero una diferencia de más de diez puntos en un eventual mano a mano. Qué dicen los números sobre el rechazo a ambos dirigentes.",
+        "pubDate": "2026-11-16T17:58:32+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Central lanzó la venta general de entradas para el partido ante Gimnasia de Mendoza",
@@ -227,51 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/b5a22ad054a8634fda1f321bf725094a/adjuntos/203/imagenes/103/533/0103533652/1200x675/smart/image-2026-11-16t103756540.png",
         "summary": "Tras once días de viaje por Uruguay, Argentina y Perú, el Pontífice celebrará una misa multitudinaria en Lima y regresará al Vaticano",
         "pubDate": "2026-11-16T15:03:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Grupo Oroño: cómo se enteraron los empleados del cambio de dueños y qué puede pasar",
-        "link": "https://www.lacapital.com.ar/la-ciudad/grupo-orono-como-se-enteraron-los-empleados-del-cambio-duenos-y-que-puede-pasar-n10292392.html",
-        "image": "https://media.lacapital.com.ar/p/ab38374ebd89fd3c224c9a7b09bab89f/adjuntos/203/imagenes/103/533/0103533601/1200x675/smart/orono-grupo.jpg",
-        "summary": "El sábado se conoció que la familia Villavicencio vendió sus acciones a Swiss Medical y Chicago Capital (de Grupo Gamma). El proceso de traspaso, que involucra a 4100 personas",
-        "pubDate": "2026-11-16T13:23:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Puerto General San Martín celebró sus 137 años con nuevas obras, emoción y una gran fiesta popular",
-        "link": "https://www.lacapital.com.ar/la-region/puerto-general-san-martin-celebro-sus-137-anos-nuevas-obras-emocion-y-una-gran-fiesta-popular-n10292402.html",
-        "image": "https://media.lacapital.com.ar/p/30ba3f9e37ddaaeaebb83c4ed4a6c5fc/adjuntos/203/imagenes/103/533/0103533593/1200x675/smart/puerto-san-martin137anos5.jpeg",
-        "summary": "Con la presencia del gobernador Maximiliano Pullaro y el intendente Carlos De Grandis, la ciudad vivió una jornada de homenajes, inauguraciones y espectáculos",
-        "pubDate": "2026-11-16T13:13:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Entraron a robar en la casa de la madre del presidente de Central, Gonzalo Belloso",
-        "link": "https://www.lacapital.com.ar/policiales/entraron-robar-la-casa-la-madre-del-presidente-central-gonzalo-belloso-n10292400.html",
-        "image": "https://media.lacapital.com.ar/p/74736656d6cded3404c15b790545a821/adjuntos/203/imagenes/103/533/0103533598/1200x675/smart/robo-madre-belloso.png",
-        "summary": "Un grupo de delincuentes irrumpió anoche en dos inmuebles linderos. En uno vive una mujer de 88 años y el otro pertenece a la mamá del titular del Canalla",
-        "pubDate": "2026-11-16T13:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Julieta Prandi habló de los rumores de romance con Guido Sardelli de Airbag",
-        "link": "https://www.lacapital.com.ar/zoom/julieta-prandi-hablo-los-rumores-romance-guido-sardelli-airbag-n10292385.html",
-        "image": "https://media.lacapital.com.ar/p/725e3e35a462ff6490062fd3534ddcc3/adjuntos/203/imagenes/103/533/0103533495/1200x675/smart/image-2026-11-16t092017107.png",
-        "summary": "Tras ser vinculada con el cantante de la banda de rock, al actriz se comunicó con los medios y dio detalles de su relación con el artista",
-        "pubDate": "2026-11-16T12:48:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Alvear inauguró el Espacio de Capacitación \"Carlos Boero\": educación, industria y un legado que mira al futuro",
-        "link": "https://www.lacapital.com.ar/la-region/alvear-inauguro-el-espacio-capacitacion-carlos-boero-educacion-industria-y-un-legado-que-mira-al-futuro-n10292398.html",
-        "image": "https://media.lacapital.com.ar/p/c5797ca2cf59a5d6c89921525908d04b/adjuntos/203/imagenes/103/533/0103533544/1200x675/smart/alvear-espacio1.jpeg",
-        "summary": "El nuevo espacio será destinado a la formación técnica y laboral. La jornada también incluyó la firma de un convenio de cooperación y la muestra anual de la Escuela Técnica Alvear",
-        "pubDate": "2026-11-16T12:48:00+00:00",
         "approxTime": false
       }
     ]
