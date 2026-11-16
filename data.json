@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T09:30:57.134955+00:00",
+  "generatedAt": "2026-11-16T10:01:08.318923+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,11 +13,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "El clima en Rosario: comienzo de semana caluroso, con probabilidad de tormentas",
+        "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-comienzo-de-semana-caluroso-con-probabilidad-de-tormentas-20261116-0001.html",
+        "image": "https://www.rosario3.com/__export/1794820720459/sites/rosario3/img/2025/01/21/perritosenlaplaza.jpg_928314581.jpg",
+        "summary": "El Servicio Meteorológico Nacional anticipa un lunes “pesado” y con abundante nubosidad en la región. Tras una tarde cálida, la inestabilidad ganará terreno hacia el cierre del día. La temperatura máxima llegaría los 29ºC",
+        "pubDate": "2026-11-16T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Este lunes empieza una semana completa de paro docente en la UNR",
         "link": "https://www.rosario3.com/informaciongeneral/este-lunes-empieza-una-semana-completa-de-paro-docente-en-la-unr-20261115-0032.html",
         "image": "https://www.rosario3.com/__export/1794777696317/sites/rosario3/img/2025/09/17/marcha_unr_3.jpg_1825222445.jpg",
         "summary": "La medida de fuerza, del 16 al 21 de noviembre, fue resuelta por Coad en reclamo por el cumplimiento de la Ley de Financiamiento Universitario y la convocatoria a paritarias. Además, llamaron a un Cabildo Abierto en Rosario",
-        "pubDate": "2026-11-15T11:59:00+00:00",
+        "pubDate": "2026-11-15T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/como-son-los-nuevos-colectivos-a-gnc-que-empiezan-a-circular-este-lunes-en-rosario-20261115-0033.html",
         "image": "https://www.rosario3.com/__export/1794778180741/sites/rosario3/img/2026/11/15/colectivos_gnc2.jpg_1018832474.jpg",
         "summary": "Más silenciosos y con menor impacto ambiental que los motores diésel, los primeros coches de un lote de 93 unidades salen a la calle. La línea 103 será la primera en renovar toda su flota",
-        "pubDate": "2026-11-15T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Run Run: grandes corporaciones ganan terreno en Rosario y el velero de Herrera tiene nuevo capitán con apellido judicial",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/run-run-grandes-corporaciones-ganan-terreno-en-rosario-y-el-velero-de-herrera-tiene-nuevo-capitan-con-apellido-judicial-20261115-0018.html",
-        "image": "https://www.rosario3.com/__export/1794757815612/sites/rosario3/img/2026/11/15/velerete.jpg_1825222562.jpg",
-        "summary": "Además: la provincia demora pagos de intereses al Banco Santa Fe por adelantos de certificados de obra pública y busca sumar a la Bolsa para que también los descuente, por primera vez en años la Justicia laboral en Rosario jugará con el equipo completo, el gobierno cambia de…",
         "pubDate": "2026-11-15T11:57:00+00:00",
         "approxTime": true
       },
@@ -58,10 +58,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "El papa León XIV denunció en Perú la explotación de la Amazonía y el asesinato de líderes indígenas",
-        "link": "https://www.rosario3.com/informaciongeneral/el-papa-leon-xiv-afronta-el-dia-mas-exigente-de-su-viaje-4-ciudades-3-vuelos-y-4-actos-20261115-0009.html",
-        "image": "https://www.rosario3.com/__export/1794783203768/sites/rosario3/img/2026/11/15/papa_leon_indxgenas.jpg_506286608.jpg",
-        "summary": "El Pontífice desayunó en Chiclayo, lideró dos actos en Cusco y protagonizó otras dos actividades en Pucallpa antes de regresar a Lima para cenar y dormir. Este lunes culminará su gira por Sudamérica",
+        "title": "Run Run: grandes corporaciones ganan terreno en Rosario y el velero de Herrera tiene nuevo capitán con apellido judicial",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/run-run-grandes-corporaciones-ganan-terreno-en-rosario-y-el-velero-de-herrera-tiene-nuevo-capitan-con-apellido-judicial-20261115-0018.html",
+        "image": "https://www.rosario3.com/__export/1794757815612/sites/rosario3/img/2026/11/15/velerete.jpg_1825222562.jpg",
+        "summary": "Además: la provincia demora pagos de intereses al Banco Santa Fe por adelantos de certificados de obra pública y busca sumar a la Bolsa para que también los descuente, por primera vez en años la Justicia laboral en Rosario jugará con el equipo completo, el gobierno cambia de…",
         "pubDate": "2026-11-15T11:54:00+00:00",
         "approxTime": true
       },
@@ -94,11 +94,38 @@
       },
       {
         "source": "Rosario3",
+        "title": "Cambio de planes para la Scaloneta: la agenda de la Selección previo al partido con Costa Rica",
+        "link": "https://www.rosario3.com/deportes/como-sigue-la-agenda-de-argentina-tras-la-derrota-contra-uruguay-20261114-0002.html",
+        "image": "https://www.rosario3.com/__export/1794822969729/sites/rosario3/img/2026/11/16/image_-77-.jpg_928314581.jpg",
+        "summary": "El equipo de Scaloni viajará este martes por la mañana, el mismo día donde enfrentará a Costa Rica en el último amistoso del año por fecha FIFA. Los detalles",
+        "pubDate": "2026-11-14T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Un motociclista murió tras chocar con un auto en Fray Luis Beltrán",
         "link": "https://www.rosario3.com/informaciongeneral/un-motociclista-murio-tras-chocar-con-un-auto-en-fray-luis-beltran-20261115-0031.html",
         "image": "https://www.rosario3.com/__export/1794774802648/sites/rosario3/img/2026/11/15/choque_fray_luis_beltran.jpg_506286608.jpg",
         "summary": "El siniestro vial ocurrió este domingo por la tarde en la intersección de avenida Interurbana y el acceso a la autopista a Santa Fe. La víctima fatal tenía 29 años",
-        "pubDate": "2026-11-15T11:50:00+00:00",
+        "pubDate": "2026-11-15T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Chiqui Tapia se refirió al FBI, a los ingresos de la AFA y le contestó a Stefano Di Carlo",
+        "link": "https://www.rosario3.com/deportes/chiqui-tapia-se-refirio-al-fbi-a-los-ingresos-de-la-afa-y-le-contesto-a-stefano-di-carlo-20261116-0002.html",
+        "image": "https://www.rosario3.com/__export/1794821795372/sites/rosario3/img/2026/11/16/tapia.jpg_928314580.jpg",
+        "summary": "El dirigente además defendió su trabajo al frente de la AFA: “Los formatos de torneo que usamos generan igualdad para los clubes que pensaban que no tenían la posibilidad. Para discutir la gestión, armá una lista y que te voten”. Mirá",
+        "pubDate": "2026-11-16T11:48:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Quini 6: con el Tradicional vacante, un apostador ganó $486 millones en el Siempre Sale",
+        "link": "https://www.rosario3.com/informaciongeneral/quini-6-con-el-tradicional-vacante-un-apostador-gano-486-millones-en-el-siempre-sale-20261116-0004.html",
+        "image": "https://www.rosario3.com/__export/1794822804253/sites/rosario3/img/2026/11/16/quini_6_version1794822803786.jpg_786111824.jpg",
+        "summary": "En el sorteo Nº 3.426, del último domingo, tampoco se registraron ganadores con seis aciertos en la modalidad Segunda y La Revancha. A cuánto asciende el pozo acumulado",
+        "pubDate": "2026-11-16T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -107,38 +134,38 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/vivir-del-propio-trabajo-lejos-al-677-no-le-llega-el-sueldo-el-dia-20-20261115-0038.html",
         "image": "https://www.rosario3.com/__export/1779490688322/sites/rosario3/img/2023/11/13/supermercado.jpg_982625323.jpg",
         "summary": "A una semana de la advertencia del papa León XIV, un relevamiento muestra que el 75% de los menores de 40 años agota sus ingresos en tres semanas y seis de cada diez argentinos se endeudan para subsistir",
-        "pubDate": "2026-11-15T11:49:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Godoy Cruz ascendió a Primera: venció en la final a Tristán Suárez y vuelve a la máxima categoría tras un año",
-        "link": "https://www.rosario3.com/deportes/godoy-cruz-ascendio-a-primera-vencio-en-la-final-a-tristan-suarez-y-vuelve-a-la-maxima-categoria-tras-un-ano-20261115-0036.html",
-        "image": "https://www.rosario3.com/__export/1794781478878/sites/rosario3/img/2026/11/15/godoy_cruz_ascenso.jpg_506286608.jpg",
-        "summary": "El Tomba se impuso 3-1 ante el Lechero en la final y se quedó con el título de la segunda categoría del fútbol argentino. Así, regresará a Primera División en 2027, apenas un año después de su descenso. Mendoza contará con tres equipos en la máxima: además de Godoy Cruz, están…",
-        "pubDate": "2026-11-15T11:48:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Caso Dolly: dos puntas que sueñan encontrarse y una trama oscura e inquietante que la Justicia debe reconstruir",
-        "link": "https://www.rosario3.com/informaciongeneral/caso-dolly-dos-puntas-que-suenan-encontrarse-y-una-trama-oscura-e-inquietante-que-la-justicia-debe-reconstruir-20261115-0005.html",
-        "image": "https://www.rosario3.com/__export/1794746622234/sites/rosario3/img/2026/11/15/ramona-antonio.jpg_1768679312.jpg",
-        "summary": "Mientras decenas de hombres y mujeres que descubrieron haber sido comprados a las parteras rosarinas cuando eran bebés buscan a sus padres biológicos, ahora aparecen madres a las que les dijeron que sus hijos habían muerto al nacer y que nunca dejaron de dudar de aquella…",
-        "pubDate": "2026-11-15T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Pullaro da por cerrado cualquier debate sobre sumar La Libertad Avanza a Unidos",
-        "link": "https://www.rosario3.com/politica/pullaro-da-por-cerrado-cualquier-debate-sobre-sumar-la-libertad-avanza-a-unidos-20261115-0002.html",
-        "image": "https://www.rosario3.com/__export/1794724466854/sites/rosario3/img/2026/10/29/karina_milei_con_pullaro.jpg_982625323.jpg",
-        "summary": "Desmentidas, posibles alianzas, garantes de acuerdo interno y sospechas de todo tipo. A todo nivel, comenzó a moverse el tablero electoral de 2027",
         "pubDate": "2026-11-15T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Sin clases: docentes de la UNR inician desde hoy una semana completa de paro",
+        "link": "https://www.lacapital.com.ar/la-ciudad/sin-clases-docentes-la-unr-inician-hoy-una-semana-completa-paro-n10292355.html",
+        "image": "https://media.lacapital.com.ar/p/a16595ca7ef106fd22af6692707a219f/adjuntos/203/imagenes/102/717/0102717328/1200x675/smart/paro-unr.jpg",
+        "summary": "Los docentes exigen el cumplimiento de la ley de financiamiento universitario. También organizarán un cabildo abierto",
+        "pubDate": "2026-11-16T09:53:57+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El Mercado del Río cumple un año como paseo gastronómico costero",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-mercado-del-rio-cumple-un-ano-como-paseo-gastronomico-costero-n10292303.html",
+        "image": "https://media.lacapital.com.ar/p/90238f8905818bfa3e7caf43cd4901ad/adjuntos/203/imagenes/103/532/0103532723/1200x675/smart/11a83e6c-5783-4404-8ad8-66313993d67cjpg.jpeg",
+        "summary": "El espacio recreativo de la costa reúne nueve emprendimientos para comer y tomar algo combinados con actividades culturales. En sus primeros 12 meses convocó a 11 mil personas a sus eventos",
+        "pubDate": "2026-11-16T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La suba del riesgo país frenó el crédito en dólares a empresas",
+        "link": "https://www.lacapital.com.ar/economia/la-suba-del-riesgo-pais-freno-el-credito-dolares-empresas-n10292339.html",
+        "image": "https://media.lacapital.com.ar/p/2fddf15da74f673e650ec2d89305c57d/adjuntos/203/imagenes/027/433/0027433114/1200x675/smart/13_lc_61230228__04-10-2019__200x800jpg.jpg",
+        "summary": "Un informe del Banco Provincia de Buenos Aires señaló que la suma de ON y préstamos en divisas cayó 20% durante los últimos tres meses",
+        "pubDate": "2026-11-16T09:15:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Exportaciones: la harina de soja perdió el trono a manos del petróleo",
@@ -159,28 +186,10 @@
       },
       {
         "source": "La Capital",
-        "title": "La suba del riesgo país frenó el crédito en dólares a empresas",
-        "link": "https://www.lacapital.com.ar/economia/la-suba-del-riesgo-pais-freno-el-credito-dolares-empresas-n10292339.html",
-        "image": "https://media.lacapital.com.ar/p/2fddf15da74f673e650ec2d89305c57d/adjuntos/203/imagenes/027/433/0027433114/1200x675/smart/13_lc_61230228__04-10-2019__200x800jpg.jpg",
-        "summary": "Un informe del Banco Provincia de Buenos Aires señaló que la suma de ON y préstamos en divisas cayó 20% durante los últimos tres meses",
-        "pubDate": "2026-11-16T09:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "Emerson Fittipaldi con La Capital, el logro de los latinos en Fórmula 1, Colapinto y el Lole Reutemann",
         "link": "https://www.lacapital.com.ar/formula-1/emerson-fittipaldi-la-capital-el-logro-los-latinos-formula-1-colapinto-y-el-lole-reutemann-n10292257.html",
         "image": "https://media.lacapital.com.ar/p/2e1871deeeaa5d50c9e8086a87598c1e/adjuntos/203/imagenes/103/533/0103533030/1200x675/smart/image-7.jpg",
         "summary": "El gran Emerson Fittipaldi charló con el enviado de La Capital en el reciente GP de San Pablo. Y a los 79 años habló de todo.",
-        "pubDate": "2026-11-16T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El regreso del Barco Ciudad de Rosario: proyectan pruebas en el río hacia fin de año",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-regreso-del-barco-ciudad-rosario-proyectan-pruebas-el-rio-fin-ano-n10292310.html",
-        "image": "https://media.lacapital.com.ar/p/6403dc8debb8ceba899eacfb42c85859/adjuntos/203/imagenes/103/532/0103532834/1200x675/smart/barcociudad22.jpg",
-        "summary": "Terminal Fluvial habilitará un amarre para la embarcación en el ala sur. Llegaron las hélices nuevas desde Tigre para continuar con su puesta en valor",
         "pubDate": "2026-11-16T09:10:00+00:00",
         "approxTime": false
       },
@@ -195,11 +204,11 @@
       },
       {
         "source": "La Capital",
-        "title": "Terapias alternativas: \"Con las constelaciones familiares puedo llegar a lo más profundo\"",
-        "link": "https://www.lacapital.com.ar/informacion-general/terapias-alternativas-con-las-constelaciones-familiares-puedo-llegar-lo-mas-profundo-n10292324.html",
-        "image": "https://media.lacapital.com.ar/p/80b96aca5e62d2c3941d3b4906f862ce/adjuntos/203/imagenes/103/532/0103532906/1200x675/smart/barquero-1.jpg",
-        "summary": "La terapeuta floral y consteladora familiar rosarina Desirée Barquero advierte que “las terapias florales van para las emociones, pero me faltaba profundizar”",
-        "pubDate": "2026-11-16T09:00:00+00:00",
+        "title": "El regreso del Barco Ciudad de Rosario: proyectan pruebas en el río hacia fin de año",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-regreso-del-barco-ciudad-rosario-proyectan-pruebas-el-rio-fin-ano-n10292310.html",
+        "image": "https://media.lacapital.com.ar/p/6403dc8debb8ceba899eacfb42c85859/adjuntos/203/imagenes/103/532/0103532834/1200x675/smart/barcociudad22.jpg",
+        "summary": "Terminal Fluvial habilitará un amarre para la embarcación en el ala sur. Llegaron las hélices nuevas desde Tigre para continuar con su puesta en valor",
+        "pubDate": "2026-11-16T09:10:00+00:00",
         "approxTime": false
       },
       {
@@ -208,6 +217,15 @@
         "link": "https://www.lacapital.com.ar/opinion/hasta-siempre-teniente-rinke-numeral-hierro-y-heroe-malvinas-n10292336.html",
         "image": "https://media.lacapital.com.ar/p/83733454c0dd066bbf20b3176c68734d/adjuntos/203/imagenes/103/533/0103533023/1200x675/smart/carlos-alberto-rinke-heroe-malvinas.jpeg",
         "summary": "A los 70 años murió el teniente Carlos Rinke, el piloto de la Fuerza Aérea con más horas de combate en Malvinas",
+        "pubDate": "2026-11-16T09:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Terapias alternativas: \"Con las constelaciones familiares puedo llegar a lo más profundo\"",
+        "link": "https://www.lacapital.com.ar/informacion-general/terapias-alternativas-con-las-constelaciones-familiares-puedo-llegar-lo-mas-profundo-n10292324.html",
+        "image": "https://media.lacapital.com.ar/p/80b96aca5e62d2c3941d3b4906f862ce/adjuntos/203/imagenes/103/532/0103532906/1200x675/smart/barquero-1.jpg",
+        "summary": "La terapeuta floral y consteladora familiar rosarina Desirée Barquero advierte que “las terapias florales van para las emociones, pero me faltaba profundizar”",
         "pubDate": "2026-11-16T09:00:00+00:00",
         "approxTime": false
       },
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/2ef191a67d6c4ecd2446b639cd20e453/adjuntos/203/imagenes/103/533/0103533027/1200x675/smart/65-2.jpg",
         "summary": "La Municipalidad realizó una gala de encuentro en el Museo de la Ciudad. La iniciativa gratuita promueve la participación y la creación de vínculos",
         "pubDate": "2026-11-15T23:47:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "A pura emoción, Phil Collins y Billy Idol entraron al Salón de la Fama del Rock & Roll",
-        "link": "https://www.lacapital.com.ar/zoom/a-pura-emocion-phil-collins-y-billy-idol-entraron-al-salon-la-fama-del-rock-roll-n10292326.html",
-        "image": "https://media.lacapital.com.ar/p/2c50de89d79276f1e35abf1288d450ca/adjuntos/203/imagenes/103/533/0103533012/2026-11-15-hall-of-fame-82868703.jpg",
-        "summary": "También incorporaron a Sade, Joy Division/New Order y Luther Vandross, entre otros. Dos grandes faltazos: Oasis y Iron Maiden",
-        "pubDate": "2026-11-15T22:52:15+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El 68% de los argentinos dice que no llega a fin de mes con sus ingresos",
-        "link": "https://www.lacapital.com.ar/economia/el-68-los-argentinos-dice-que-no-llega-fin-mes-sus-ingresos-n10292327.html",
-        "image": "https://media.lacapital.com.ar/p/e2b57f441aaadad2924d0a830c20eba8/adjuntos/203/imagenes/103/532/0103532860/1200x675/smart/salario73.jpg",
-        "summary": "La edición de octubre del Monitor de Opinión Pública que elabora la consultora Zentrix registró un deterioro en la opinión pública sobre la situación económica. El 59,4% tomó deuda en los últimos meses para cubrir el bache entre el salario y el gasto mensual.",
-        "pubDate": "2026-11-15T22:50:00+00:00",
         "approxTime": false
       }
     ]
