@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T02:31:02.683116+00:00",
+  "generatedAt": "2026-11-17T03:01:10.932449+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El tiempo en Rosario: un martes que arranca con mucha lluvia y va mejorando",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-un-martes-que-arranca-mucha-lluvia-y-va-mejorando-n10292560.html",
+        "image": "https://media.lacapital.com.ar/p/5440b3cf1eed78128b65fe788e61afda/adjuntos/203/imagenes/103/534/0103534802/2026-11-16-clima-by-lvincenti-82830873.jpg",
+        "summary": "Desde la tarde se anuncia cielo parcialmente nublado y, según el SMN, no habría previsiones de precipitaciones para el resto de la semana",
+        "pubDate": "2026-11-17T02:33:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Qué celulares Android se quedarán sin WhatsApp antes de que termine noviembre",
         "link": "https://www.lacapital.com.ar/informacion-general/que-celulares-android-se-quedaran-whatsapp-antes-que-termine-noviembre-n10292527.html",
         "image": "https://media.lacapital.com.ar/p/0955c52c808e740c9135c2851aa3a114/adjuntos/203/imagenes/103/534/0103534517/1200x675/smart/image.png",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/7bbff8847c59c8136212b6caf987272c/adjuntos/203/imagenes/103/534/0103534404/1200x675/smart/image-8.jpg",
         "summary": "El DT de la selección argentina dijo que no hay que relajarse y le dio gran importancia al choque con Costa Rica. Confirmó al Dibu Martínez",
         "pubDate": "2026-11-16T21:48:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Primera C: Leones FC quedó en el camino y eliminado del torneo Reducido",
-        "link": "https://www.lacapital.com.ar/ovacion/primera-c-leones-fc-quedo-el-camino-y-eliminado-del-torneo-reducido-n10292466.html",
-        "image": "https://media.lacapital.com.ar/p/b1aef842a762cdb126f5bd94bd9b1852/adjuntos/203/imagenes/103/534/0103534290/1200x675/smart/image-2026-11-16t172607469.png",
-        "summary": "El equipo de la familia Messi no pudo dar vuelta el resultado de la ida de un 4 a 1en contra ante Sportivo Barracas, equipo que clasificó a las semifinales de la Primera C",
-        "pubDate": "2026-11-16T20:40:00+00:00",
         "approxTime": false
       }
     ]
