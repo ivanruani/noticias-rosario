@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T20:31:04.875125+00:00",
+  "generatedAt": "2026-11-17T21:01:05.467354+00:00",
   "sites": {
     "rosario3": [
       {
@@ -40,20 +40,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "El mapa inmobiliario de Rosario: dónde cuesta más comprar o alquilar una propiedad y dónde menos",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/el-mapa-inmobiliario-de-rosario-donde-cuesta-mas-comprar-o-alquilar-una-propiedad-y-donde-menos-20261117-0028.html",
-        "image": "https://www.rosario3.com/__export/1794923902841/sites/rosario3/img/2026/11/17/puerto_norte_version1794923901438.jpg_849732332.jpg",
-        "summary": "Puerto Norte encabeza los valores de venta y alquiler, mientras que Rucci y la zona de La Florida aparecen entre las zonas más económicas. Los datos surgen a partir del informe mensual que realiza una plataforma de ventas en donde también se muestran fuertes diferencias en los…",
-        "pubDate": "2026-11-17T11:56:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
         "title": "Por la tormenta, se voló el techo completo de una casa en Granadero Baigorria y piden ayuda",
         "link": "https://www.rosario3.com/informaciongeneral/por-la-tormenta-se-volo-el-techo-completo-de-una-casa-en-granadero-baigorria-y-piden-ayuda-20261117-0048.html",
         "image": "https://www.rosario3.com/__export/1794932077155/sites/rosario3/img/2026/11/17/techo_volado_tormenta_baigorria_-2-.jpeg_982625323.jpeg",
         "summary": "Las fuertes ráfagas de viento de la madrugada desprendieron por completo la estructura de la planta alta de una vivienda, que terminó cayendo a dos propiedades de distancia. No hubo heridos, pero la familia sufrió graves daños materiales. Las imágenes",
-        "pubDate": "2026-11-17T11:55:00+00:00",
+        "pubDate": "2026-11-17T11:56:00+00:00",
         "approxTime": true
       },
       {
@@ -62,7 +53,16 @@
         "link": "https://www.rosario3.com/informaciongeneral/una-aerolinea-espanola-suspendio-vuelos-a-argentina-y-difundio-como-reclamar-los-pasajes-20261117-0072.html",
         "image": "https://www.rosario3.com/__export/1794944339101/sites/rosario3/img/2026/11/17/plus_ultra.jpg_1825222445.jpg",
         "summary": "La firma Plus Ultra informó que suspendió su ruta a Buenos Aires desde este martes 17 de noviembre y canceló los vuelos previstos hasta el 15 de diciembre. También informó el procedimiento para pasajeros con viajes programados con la compañía",
-        "pubDate": "2026-11-17T11:54:00+00:00",
+        "pubDate": "2026-11-17T11:55:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Apareció en el parque Alem el joven albañil que era buscado desde hacía nueve días en Rosario",
+        "link": "https://www.rosario3.com/policiales/salio-en-bicicleta-y-nunca-regreso-desesperada-busqueda-de-un-joven-desaparecido-el-7-de-noviembre-20261116-0046.html",
+        "image": "https://www.rosario3.com/__export/1794946966107/sites/rosario3/img/2026/11/17/javier_echeverria_-2-.jpg_672794303.jpg",
+        "summary": "Javier Echeverría, de 25 años, fue encontrado este martes por la mañana en el parque Alem. Su familia había difundido su foto y recorrido distintos sectores de la ciudad para dar con él",
+        "pubDate": "2026-11-16T11:54:00+00:00",
         "approxTime": true
       },
       {
@@ -139,6 +139,33 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Murió un boxeador noqueado dos veces en el mismo round que estaba en coma desde hace tres meses",
+        "link": "https://www.lacapital.com.ar/ovacion/murio-un-boxeador-noqueado-dos-veces-el-mismo-round-que-estaba-coma-hace-tres-meses-n10292750.html",
+        "image": "https://media.lacapital.com.ar/p/dfae9ac6e462cf2b0460e3804bed4a9d/adjuntos/203/imagenes/103/537/0103537265/1200x675/smart/image-5.jpg",
+        "summary": "Era irlandés y tenía 31 años. Estaba en un hospital y en coma inducido desde agosto. El mensaje del rival que lo noqueó",
+        "pubDate": "2026-11-17T20:49:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Vuelve la Noche de las Heladerías a Rosario: cuáles son los locales que ofrecen 2x1",
+        "link": "https://www.lacapital.com.ar/la-ciudad/vuelve-la-noche-las-heladerias-rosario-cuales-son-los-locales-que-ofrecen-2x1-n10292734.html",
+        "image": "https://media.lacapital.com.ar/p/72248062040b7db033ecfab0bb97e463/adjuntos/203/imagenes/100/098/0100098693/1200x675/smart/san-remo-heladosjpg.jpg",
+        "summary": "La jornada se realizará este miércoles 18 de noviembre desde las 19. Más de 150 comercios de Rosario y la región ofrecerán dos cuartos de kilo al precio de uno",
+        "pubDate": "2026-11-17T20:38:28+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Laguito: activan bombas de oxigenación para evitar la muerte de peces",
+        "link": "https://www.lacapital.com.ar/la-ciudad/laguito-activan-bombas-oxigenacion-evitar-la-muerte-peces-n10292720.html",
+        "image": "https://media.lacapital.com.ar/p/afad46f043ec3efcf00f9f5f4e8632a7/adjuntos/203/imagenes/103/043/0103043650/1200x675/smart/imageparque.jpg",
+        "summary": "Se trata de pejerreyes que se sembraron hace años para un torneo de pesca y tienen problemas para adaptarse cuando suben las temperaturas. La medida ayudará a que sobrevivan",
+        "pubDate": "2026-11-17T20:36:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Barrio Ludueña: apareció en buen estado de salud el joven albañil que era intensamente buscado por su familia",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/31fe27b61a5e7c9cf086baf29af1eb7c/adjuntos/203/imagenes/103/536/0103536565/1200x675/smart/dibu-martinez-proteccion.jpg",
         "summary": "Lionel Scaloni prepara modificaciones con respecto al equipo que perdió con Uruguay. Contará con el regreso de Dibu Martínez tras su fractura de mandíbula",
         "pubDate": "2026-11-17T18:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El Gigante de Arroyito puede ser escenario de otra gran final de la temporada",
-        "link": "https://www.lacapital.com.ar/ovacion/el-gigante-arroyito-puede-ser-escenario-otra-gran-final-la-temporada-n10292709.html",
-        "image": "https://media.lacapital.com.ar/p/c7c3313cbb28f4f1d6e946e1f9f4e6d8/adjuntos/203/imagenes/103/426/0103426845/gigante-arroyito.jpg",
-        "summary": "El estadio de Central Compite por ese honor con el Madre de Ciudades de Santiago del Estero y el estadio único de La Plata",
-        "pubDate": "2026-11-17T18:12:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Sacerdotes de Rosario lanzaron la 17º edición de Asado de Nochebuena para personas en situación de calle",
-        "link": "https://www.lacapital.com.ar/la-ciudad/sacerdotes-rosario-lanzaron-la-17-edicion-asado-nochebuena-personas-situacion-calle-n10292691.html",
-        "image": "https://media.lacapital.com.ar/p/73bd8ed9ddede530aee90bdc9a05f6ac/adjuntos/203/imagenes/103/536/0103536541/1200x675/smart/nochebuena-sacerdote-1711.jpg",
-        "summary": "Proyectan recibir a 600 personas, superando las expectativas del año pasado. Se reciben donaciones en la iglesia Buen Pastor o a través del alias navidad.rosario",
-        "pubDate": "2026-11-17T18:04:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La industria del calzado se moviliza por la caída del consumo y las importaciones",
-        "link": "https://www.lacapital.com.ar/economia/la-industria-del-calzado-se-moviliza-la-caida-del-consumo-y-las-importaciones-n10292690.html",
-        "image": "https://media.lacapital.com.ar/p/1744ea7deef159526ed80c54350d6884/adjuntos/203/imagenes/027/780/0027780800/1200x675/444x168:464x188/calzadojpg.jpg",
-        "summary": "Trabajadores y empresarios marcharán este miércoles a la Secretaría de Industria de la Nación. Reclaman medidas para sostener la producción y el empleo ante el cierre de fábricas",
-        "pubDate": "2026-11-17T17:52:00+00:00",
         "approxTime": false
       }
     ]
