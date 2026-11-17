@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-11-17T17:01:07.472811+00:00",
+  "generatedAt": "2026-11-17T17:31:02.345992+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Tras el temporal, cuáles son las localidades afectadas por cortes de luz y cómo es el operativo de emergencia de la EPE",
+        "link": "https://www.rosario3.com/informaciongeneral/tras-el-temporal-cuales-son-las-localidades-afectadas-por-cortes-de-luz-y-como-es-el-operativo-de-emergencia-de-la-epe-20261117-0052.html",
+        "image": "https://www.rosario3.com/__export/1794934925553/sites/rosario3/img/2026/11/17/cortes_de_luz.jpg_506286608.jpg",
+        "summary": "Según detalló la empresa, las cuadrillas trabajan junto a Protección Civil y los municipios para despejar el tendido eléctrico y reparar los daños provocados por ráfagas de viento que superaron los 80 km h. Aunque el servicio fue normalizado en algunos pueblos y ciudades, hay 24…",
+        "pubDate": "2026-11-17T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Por la tormenta, se voló el techo completo de una casa en Granadero Baigorria y piden ayuda",
         "link": "https://www.rosario3.com/informaciongeneral/por-la-tormenta-se-volo-el-techo-completo-de-una-casa-en-granadero-baigorria-y-piden-ayuda-20261117-0048.html",
         "image": "https://www.rosario3.com/__export/1794932077155/sites/rosario3/img/2026/11/17/techo_volado_tormenta_baigorria_-2-.jpeg_982625323.jpeg",
         "summary": "Las fuertes ráfagas de viento de la madrugada desprendieron por completo la estructura de la planta alta de una vivienda, que terminó cayendo a dos propiedades de distancia. No hubo heridos, pero la familia sufrió graves daños materiales. Las imágenes",
-        "pubDate": "2026-11-17T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El mapa inmobiliario de Rosario: dónde cuesta más comprar o alquilar una propiedad y dónde menos",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/el-mapa-inmobiliario-de-rosario-donde-cuesta-mas-comprar-o-alquilar-una-propiedad-y-donde-menos-20261117-0028.html",
-        "image": "https://www.rosario3.com/__export/1794923902841/sites/rosario3/img/2026/11/17/puerto_norte_version1794923901438.jpg_849732332.jpg",
-        "summary": "Puerto Norte encabeza los valores de venta y alquiler, mientras que Rucci y la zona de La Florida aparecen entre las zonas más económicas. Los datos surgen a partir del informe mensual que realiza una plataforma de ventas en donde también se muestran fuertes diferencias en los…",
         "pubDate": "2026-11-17T11:59:00+00:00",
         "approxTime": true
       },
@@ -31,10 +31,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Un problema en la Red Link afecta los servicios digitales del banco Municipal de Rosario",
-        "link": "https://www.rosario3.com/informaciongeneral/un-problema-en-la-red-link-afecta-los-servicios-digitales-del-banco-municipal-de-rosario-20261117-0044.html",
-        "image": "https://www.rosario3.com/__export/1794929473453/sites/rosario3/img/2019/03/07/banco_municipal_de_rosario_crop1551956880017.jpg_1768679258.jpg",
-        "summary": "Desde la tarde del lunes, los usuarios tienen inconvenientes para operar a través de Home Banking y la aplicación móvil. La entidad informó que la falla se debe a problemas en algunos enlaces de comunicación de Red Link y aseguró que no están comprometidos los datos personales…",
+        "title": "El mapa inmobiliario de Rosario: dónde cuesta más comprar o alquilar una propiedad y dónde menos",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/el-mapa-inmobiliario-de-rosario-donde-cuesta-mas-comprar-o-alquilar-una-propiedad-y-donde-menos-20261117-0028.html",
+        "image": "https://www.rosario3.com/__export/1794923902841/sites/rosario3/img/2026/11/17/puerto_norte_version1794923901438.jpg_849732332.jpg",
+        "summary": "Puerto Norte encabeza los valores de venta y alquiler, mientras que Rucci y la zona de La Florida aparecen entre las zonas más económicas. Los datos surgen a partir del informe mensual que realiza una plataforma de ventas en donde también se muestran fuertes diferencias en los…",
         "pubDate": "2026-11-17T11:57:00+00:00",
         "approxTime": true
       },
@@ -58,10 +58,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Con una nueva titularidad, Dibu Martínez buscará romper un récord histórico con la camiseta de la selección argentina",
-        "link": "https://www.rosario3.com/deportes/con-una-nueva-titularidad-dibu-martinez-buscara-romper-un-record-historico-con-la-camiseta-de-la-seleccion-argentina-20261117-0047.html",
-        "image": "https://www.rosario3.com/__export/1794931010651/sites/rosario3/img/2026/11/17/dibu-martxnez.jpg_928314580.jpg",
-        "summary": "El arquero campeón del mundo volverá al arco tras haber estado en el banco de suplentes ante Uruguay. “Emiliano va a atajar, el encuentro anterior era un riesgo”, había dicho Scaloni en conferencia de prensa",
+        "title": "Un problema en la Red Link afecta los servicios digitales del banco Municipal de Rosario",
+        "link": "https://www.rosario3.com/informaciongeneral/un-problema-en-la-red-link-afecta-los-servicios-digitales-del-banco-municipal-de-rosario-20261117-0044.html",
+        "image": "https://www.rosario3.com/__export/1794929473453/sites/rosario3/img/2019/03/07/banco_municipal_de_rosario_crop1551956880017.jpg_1768679258.jpg",
+        "summary": "Desde la tarde del lunes, los usuarios tienen inconvenientes para operar a través de Home Banking y la aplicación móvil. La entidad informó que la falla se debe a problemas en algunos enlaces de comunicación de Red Link y aseguró que no están comprometidos los datos personales…",
         "pubDate": "2026-11-17T11:54:00+00:00",
         "approxTime": true
       },
@@ -94,11 +94,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Moria Casán fue distinguida como Personalidad Destacada de la Cultura en Buenos Aires",
+        "link": "https://www.rosario3.com/ocio/moria-casan-fue-distinguida-como-personalidad-destacada-de-la-cultura-en-buenos-aires-20261117-0050.html",
+        "image": "https://www.rosario3.com/__export/1794932999869/sites/rosario3/img/2026/11/17/moria_distinguida.png_786111822.png",
+        "summary": "La artista recibió el reconocimiento en el Salón Dorado de la Legislatura porteña, en una ceremonia que también distinguió a su serie biográfica, la obra Cuestión de género y su programa La mañana con Moria",
+        "pubDate": "2026-11-17T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Video: no soportó que su pareja quiera separarse, estrelló intencionalmente la camioneta contra una casa e intentó matarla",
         "link": "https://www.rosario3.com/policiales/video-no-soporto-que-su-pareja-quiera-separarse-estrello-intencionalmente-la-camioneta-contra-una-casa-e-intento-matarla-20261117-0042.html",
         "image": "https://www.rosario3.com/__export/1794929926869/sites/rosario3/img/2026/11/17/camioneta_tucuman.png_786111822.png",
         "summary": "El hecho ocurrió en San Miguel de Tucumán y fue presenciado por las dos hijas de la pareja, de 10 y 16 años, que intervinieron para detener la agresión. El acusado tiene 35 años y la fiscalía solicitará una pena de 10 años de prisión efectiva. Todo quedó registrado por las…",
-        "pubDate": "2026-11-17T11:50:00+00:00",
+        "pubDate": "2026-11-17T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -107,7 +116,7 @@
         "link": "https://www.rosario3.com/politica/el-pro-confirmo-que-acompanara-la-suspension-de-las-paso-para-las-elecciones-de-2027-20261117-0035.html",
         "image": "https://www.rosario3.com/__export/1794927714796/sites/rosario3/img/2026/11/17/pro1.jpg_928314580.jpg",
         "summary": "La Mesa Ejecutiva nacional del partido resolvió respaldar la iniciativa del Gobierno, aunque también reclamó avanzar con Ficha Limpia. El posicionamiento se conoció antes de que el Senado retomara el tratamiento de la reforma electoral, que tiene los votos ajustados para…",
-        "pubDate": "2026-11-17T11:49:00+00:00",
+        "pubDate": "2026-11-17T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,15 +125,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/investigan-un-posible-ataque-de-iran-con-armas-quimicas-contra-altos-funcionarios-en-washington-20261117-0027.html",
         "image": "https://www.rosario3.com/__export/1794925146290/sites/rosario3/img/2025/04/24/visa_eeuu.jpg_928314579.jpg",
         "summary": "Según CNN, EE.UU. detectó comunicaciones, posibles blancos y ubicaciones específicas, aunque funcionarios aclararon que no hay indicios de un operativo inminente",
-        "pubDate": "2026-11-17T11:48:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "De la Fórmula 1 al Dakar: Fernando Alonso correrá el rally con Aston Martin en 2027",
-        "link": "https://www.rosario3.com/deportes/de-la-formula-1-al-dakar-fernando-alonso-correra-el-rally-con-aston-martin-en-2027-20261117-0020.html",
-        "image": "https://www.rosario3.com/__export/1794921842403/sites/rosario3/img/2026/11/17/alonso.jpg_928314580.jpg",
-        "summary": "El piloto español competirá por segunda vez en su carrera en el rally más exigente del mundo. Esta vez será al volante del primer vehículo de la marca británica en la historia de la competencia",
         "pubDate": "2026-11-17T11:47:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,78 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "\"No se asusten de una pala. La vera de la autopista es una oportunidad para que Roldán genere trabajo\"",
+        "link": "https://www.lacapital.com.ar/la-region/no-se-asusten-una-pala-la-vera-la-autopista-es-una-oportunidad-que-roldan-genere-trabajo-n10292693.html",
+        "image": "https://media.lacapital.com.ar/p/e3eb6616fae4eca2c4f2e392f005ce95/adjuntos/203/imagenes/102/696/0102696650/1200x675/smart/escalante-intendente-roldan.jpg",
+        "summary": "El intendente, Daniel Escalante defendió el proyecto que amplía el cambio de uso de suelo sobre la colectora norte de la autopista Rosario-Córdoba. Aseguró que el objetivo es traer empleo",
+        "pubDate": "2026-11-17T17:26:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El segundo capítulo del largo camino para que Argentina vuelva a ser, ya sin el mejor de todos",
+        "link": "https://www.lacapital.com.ar/ovacion/el-segundo-capitulo-del-largo-camino-que-argentina-vuelva-ser-ya-el-mejor-todos-n10292533.html",
+        "image": "https://media.lacapital.com.ar/p/e3026df8dc82578eaf93063f4254a766/adjuntos/203/imagenes/103/534/0103534559/1200x675/smart/image-9.jpg",
+        "summary": "Argentina se mide con Costa Rica en Córdoba, en el amistoso que cerrará un año impresionante, con final de Mundial incluida y el retiro de Lionel Messi",
+        "pubDate": "2026-11-17T17:17:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La Red de Artistas del departamento San Martín continúa sumando espacios de encuentro",
+        "link": "https://www.lacapital.com.ar/la-region/la-red-artistas-del-departamento-san-martin-continua-sumando-espacios-encuentro-n10292689.html",
+        "image": "https://media.lacapital.com.ar/p/5a6180434987da6314a4df5d22a16c56/adjuntos/203/imagenes/103/536/0103536495/1200x675/smart/trama-2.jpeg",
+        "summary": "El proyecto denominado \"Trama: Encuentro Regional de Artes\", desembarcó con su propuesta en dos ciudades del centro oeste provincial con diversas actividades",
+        "pubDate": "2026-11-17T17:14:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Un rosarino se llevó un premio en el Festival de Cine de Mar del Plata",
+        "link": "https://www.lacapital.com.ar/zoom/un-rosarino-se-llevo-un-premio-el-festival-cine-mar-del-plata-n10292681.html",
+        "image": "https://media.lacapital.com.ar/p/0f4011312f3071c48d73103d554a71e4/adjuntos/203/imagenes/103/536/0103536329/1200x675/smart/image-2026-11-17t131730669.png",
+        "summary": "Gustavo Postiglione obtuvo el premio a la Mejor Dirección por \"Chéjov en Rosario\", protagonizada por Julieta Cardinali y realizada con equipo santafesino.",
+        "pubDate": "2026-11-17T17:12:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Quién es Robert Pattinson: el nuevo James Bond nació en Crepúsculo y se consagró como Batman",
+        "link": "https://www.lacapital.com.ar/zoom/quien-es-robert-pattinson-el-nuevo-james-bond-nacio-crepusculo-y-se-consagro-como-batman-n10292682.html",
+        "image": "https://media.lacapital.com.ar/p/97829c6714ac9065b96ce09fb8b4a90e/adjuntos/203/imagenes/103/536/0103536198/1200x675/smart/image-2026-11-17t120638595.png",
+        "summary": "El actor británico tomará el lugar de Daniel Craig como el agente 007. Amazon anunció su elección para protagonizar la próxima película de la saga de espionaje",
+        "pubDate": "2026-11-17T17:11:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central podría buscar una nueva estrella en enero: cuándo se jugaría la Recopa de Campeones",
+        "link": "https://www.lacapital.com.ar/ovacion/central-podria-buscar-una-nueva-estrella-enero-cuando-se-jugaria-la-recopa-campeones-n10292680.html",
+        "image": "https://media.lacapital.com.ar/p/2d1a1447d12b265a303567c105af5ef6/adjuntos/203/imagenes/103/429/0103429523/1200x675/smart/image-4.jpg",
+        "summary": "El Canalla tendrá la chance de empezar el 2027 con una alegría, ya que la AFA analiza disputar el nuevo trofeo a inicios de la temporada en La Plata",
+        "pubDate": "2026-11-17T17:11:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Audífonos gratuitos de Pami: cómo solicitarlos y cada cuánto se pueden renovar",
+        "link": "https://www.lacapital.com.ar/informacion-general/audifonos-gratuitos-pami-como-solicitarlos-y-cada-cuanto-se-pueden-renovar-n10292677.html",
+        "image": "https://media.lacapital.com.ar/p/743a5dca54de84cfd02c68e0088a225d/adjuntos/203/imagenes/103/536/0103536328/1200x675/smart/image-1.png",
+        "summary": "La obra social de los jubilados otorga audífonos a los afiliados con hipoacusia de forma gratuita. Todo lo que hay que saber para iniciar la solicitud",
+        "pubDate": "2026-11-17T17:09:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Advertencia para Newell's: el comunicado de Independiente y la incertidumbre por Mazzantti",
+        "link": "https://www.lacapital.com.ar/ovacion/advertencia-newells-el-comunicado-independiente-y-la-incertidumbre-mazzantti-n10292663.html",
+        "image": "https://media.lacapital.com.ar/p/87c529b0048bd1eb86eed4b24b10c935/adjuntos/203/imagenes/103/334/0103334997/mazzantti.jpeg",
+        "summary": "El Rojo anticipó que no venderá futbolistas por debajo de las opciones de compra antes de sus elecciones, por lo que la Lepra deberá esperar para negociar",
+        "pubDate": "2026-11-17T17:09:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Pensión por discapacidad de Anses: cuáles son los topes de ingresos para mantener el beneficio",
@@ -200,78 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/637b41eb0b430a4c796f41612ab86ce4/adjuntos/203/imagenes/100/005/0100005248/trigo3.jpg",
         "summary": "Los ajustes del Usda dieron sostén al maíz y la soja. Aunque la cosecha presiona los valores locales de los granos, el cereal argentino ofrece precios competitivos en el mercado internacional",
         "pubDate": "2026-11-17T15:22:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Uruguay presentó una red de 26 puertos deportivos para navegar de Fray Bentos a Punta del Este",
-        "link": "https://www.lacapital.com.ar/turismo/uruguay-presento-una-red-26-puertos-deportivos-navegar-fray-bentos-punta-del-este-n10292613.html",
-        "image": "https://media.lacapital.com.ar/p/ee40d9227a7db4444226f7b72dec3552/adjuntos/203/imagenes/103/535/0103535717/1200x675/smart/uruguay-presento-una-red-26-puertos-deportivos-navegar-fray-bentos-punta-del-este.jpg",
-        "summary": "El circuito se divide en cuatro regiones e incluye obras previstas para 2027, como la recuperación del muelle histórico del ex frigorífico Anglo y una guardería techada en Carmelo",
-        "pubDate": "2026-11-17T15:19:46+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La remodelación de la avenida Jorge Newbery se inaugura con shows en vivo y exhibición de autos",
-        "link": "https://www.lacapital.com.ar/la-ciudad/la-remodelacion-la-avenida-jorge-newbery-se-inaugura-shows-vivo-y-exhibicion-autos-n10292651.html",
-        "image": "https://media.lacapital.com.ar/p/181bc579eeec425c725acfd1301c79e1/adjuntos/203/imagenes/103/128/0103128542/avenida-jorge-newbery-2.jpeg",
-        "summary": "La apertura será este viernes, desde las 18.30, en el acceso al aeropuerto de Rosario. Estarán Valentino Merlo, Los Peñaloza y Música para Volar. Entrada libre y gratuita",
-        "pubDate": "2026-11-17T15:08:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Paredes hará el curso de DT en una institución rosarina y sueña con dirigir junto a Di María",
-        "link": "https://www.lacapital.com.ar/ovacion/paredes-hara-el-curso-dt-una-institucion-rosarina-y-suena-dirigir-junto-di-maria-n10292646.html",
-        "image": "https://media.lacapital.com.ar/p/12d7de0815781d794e4fbb77fc1b8d2d/adjuntos/203/imagenes/103/482/0103482626/paredes.jpg",
-        "summary": "El capitán de Boca se inscribió en una escuela de Rosario para empezar su formación de entrenador, con el objetivo de dirigir a Central y Boca junto a Fideo",
-        "pubDate": "2026-11-17T15:02:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Doble crimen en la ciudad de Santa Fe: acribillaron a balazos a padre e hijo",
-        "link": "https://www.lacapital.com.ar/policiales/doble-crimen-la-ciudad-santa-fe-acribillaron-balazos-padre-e-hijo-n10292655.html",
-        "image": "https://media.lacapital.com.ar/p/09ac6c7025ac1287206a966bd4112df9/adjuntos/203/imagenes/103/536/0103536105/1200x675/smart/doble-homicidio-santa-fe.png",
-        "summary": "Las víctimas cayeron heridas de muerte este martes a la mañana en una balacera contra una casa. Investigan un posible robo de dólares y pesos",
-        "pubDate": "2026-11-17T15:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Pese a los daños que generó la tormenta, Colectividades tendrá este martes su jornada de cierre",
-        "link": "https://www.lacapital.com.ar/la-ciudad/pese-los-danos-que-genero-la-tormenta-colectividades-tendra-este-martes-su-jornada-cierre-n10292647.html",
-        "image": "https://media.lacapital.com.ar/p/e1815bcd3df598118121da6657e96d3c/adjuntos/203/imagenes/103/523/0103523304/2026-11-10-colectividades.jpg",
-        "summary": "La Municipalidad de Rosario ratificó el cronograma luego de la inspección de los daños en el predio del parque nacional a la Bandera",
-        "pubDate": "2026-11-17T14:59:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Diego Giuliano entregó 800 diplomas de una escuela de oficios con más de 8.000 inscriptos",
-        "link": "https://www.lacapital.com.ar/politica/diego-giuliano-entrego-800-diplomas-una-escuela-oficios-mas-8000-inscriptos-n10292633.html",
-        "image": "https://media.lacapital.com.ar/p/84a71cd6974d7239c8475e9830344ee6/adjuntos/203/imagenes/103/535/0103535968/diego-giuliano.jpeg",
-        "summary": "El diputado nacional asistió al lanzamiento de nuevos cursos gratuitos de formación virtual para toda la provincia de Santa Fe",
-        "pubDate": "2026-11-17T14:41:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Tormenta en Rosario: un árbol cayó sobre una casa y dejó atrapada a una familia",
-        "link": "https://www.lacapital.com.ar/la-ciudad/tormenta-rosario-un-arbol-cayo-una-casa-y-dejo-atrapada-una-familia-n10292629.html",
-        "image": "https://media.lacapital.com.ar/p/0263f84317e39c3ac8a67c115743393d/adjuntos/203/imagenes/103/535/0103535724/1200x675/smart/tormenta-arbol-casa.png",
-        "summary": "Sucedió en Huerta Grande al 900, en la zona norte. No hubo heridos, pero las víctimas quedaron varias horas sin poder salir del inmueble",
-        "pubDate": "2026-11-17T14:11:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Newell's fue sancionado con una particular pena por un incidente menor ante Central Córdoba",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-fue-sancionado-una-particular-pena-un-incidente-menor-central-cordoba-n10292595.html",
-        "image": "https://media.lacapital.com.ar/p/70159354c41ccfedff757af32033221c/adjuntos/203/imagenes/103/535/0103535388/1200x675/smart/kudelka.jpg",
-        "summary": "Desde el área de seguridad de la provincia, la entidad Leprosa sufrió un castigo por el ingreso de un niño al campo de juego en el Coloso del Parque",
-        "pubDate": "2026-11-17T14:09:00+00:00",
         "approxTime": false
       }
     ]
