@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-11-17T02:01:12.115477+00:00",
+  "generatedAt": "2026-11-17T02:31:02.683116+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "La inquilina de la casa contra la que chocó un camión reclamó que el conductor cubra las reparaciones: \"Nos arruinó, somos laburantes\"",
+        "link": "https://www.rosario3.com/informaciongeneral/la-inquilina-de-la-casa-contra-la-que-choco-un-camion-reclamo-que-el-conductor-cubra-las-reparaciones-nos-arruino-somos-laburantes-20261116-0065.html",
+        "image": "https://www.rosario3.com/__export/1794873708522/sites/rosario3/img/2026/11/16/siniestrocasa.jpg_982625323.jpg",
+        "summary": "El siniestro vial ocurrió en la intersección de Casiano Casas y Esquivel. Victoria, quien reside en el inmueble junto a su pareja, relató la angustia que le genera el hecho de que su auto, que utiliza para trabajar, haya quedado dañado. También dijo que es el segundo episodio de…",
+        "pubDate": "2026-11-16T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "La venta del Grupo Oroño fue a \"tranquera cerrada\" y ahora arrancan las auditorías y la planificación fina",
         "link": "https://www.rosario3.com/-economia-negocios-agro-/la-venta-del-grupo-orono-fue-a-tranquera-cerrada-y-ahora-arrancan-las-auditorias-y-la-planificacion-fina-20261116-0063.html",
         "image": "https://www.rosario3.com/__export/1794870694955/sites/rosario3/img/2026/11/16/nixos.jpg_664082794.jpg",
         "summary": "Arrancó el proceso de toma de control por parte de Swiss Medical (y sus asociados de la familia Tourn). Hay empresas, como Cibic y la Clinica del Hígado, que no entraron en la venta y siguen con sus mismos dueños",
-        "pubDate": "2026-11-16T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Video: tras una discusión de tránsito, un automovilista embistió al conductor de una moto y se dio a la fuga",
-        "link": "https://www.rosario3.com/policiales/video-tras-una-discusion-de-transito-un-automovilista-embistio-al-conductor-de-una-moto-y-se-dio-a-la-fuga-20261116-0048.html",
-        "image": "https://www.rosario3.com/__export/1794858219384/sites/rosario3/img/2026/11/16/screenshot_2026-11-16_163952_edited.png_928314580.png",
-        "summary": "El episodio ocurrió el viernes por la mañana en Casilda y Mar del Plata. La víctima, identificada como Mauricio, sufrió una fractura de codo y espera una cirugía en el Heca. El automovilista fue alcanzado por otros conductores a unas diez cuadras del lugar y luego recuperó la…",
         "pubDate": "2026-11-16T11:59:00+00:00",
         "approxTime": true
       },
@@ -40,10 +40,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Lego abrirá su primera tienda oficial en el shopping más grande de la Argentina",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/lego-abrira-su-primera-tienda-oficial-en-el-shopping-mas-grande-de-la-argentina-20261116-0066.html",
-        "image": "https://www.rosario3.com/__export/1794875521187/sites/rosario3/img/2026/11/16/tiendalego.jpg_982625323.jpg",
-        "summary": "El presidente Javier Milei destacó el desembarco de la reconocida marca de ladrillitos danesa con un video en sus redes sociales",
+        "title": "Video: tras una discusión de tránsito, un automovilista embistió al conductor de una moto y se dio a la fuga",
+        "link": "https://www.rosario3.com/policiales/video-tras-una-discusion-de-transito-un-automovilista-embistio-al-conductor-de-una-moto-y-se-dio-a-la-fuga-20261116-0048.html",
+        "image": "https://www.rosario3.com/__export/1794858219384/sites/rosario3/img/2026/11/16/screenshot_2026-11-16_163952_edited.png_928314580.png",
+        "summary": "El episodio ocurrió el viernes por la mañana en Casilda y Mar del Plata. La víctima, identificada como Mauricio, sufrió una fractura de codo y espera una cirugía en el Heca. El automovilista fue alcanzado por otros conductores a unas diez cuadras del lugar y luego recuperó la…",
         "pubDate": "2026-11-16T11:56:00+00:00",
         "approxTime": true
       },
@@ -94,11 +94,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Lego abrirá su primera tienda oficial en el shopping más grande de la Argentina",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/lego-abrira-su-primera-tienda-oficial-en-el-shopping-mas-grande-de-la-argentina-20261116-0066.html",
+        "image": "https://www.rosario3.com/__export/1794875521187/sites/rosario3/img/2026/11/16/tiendalego.jpg_982625323.jpg",
+        "summary": "El presidente Javier Milei destacó el desembarco de la reconocida marca de ladrillitos danesa con un video en sus redes sociales",
+        "pubDate": "2026-11-16T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Estremecedor relato del pelotazo que provocó la muerte del futbolista juvenil Abel Núñez: “Cayó como en un nocaut de boxeo”",
         "link": "https://www.rosario3.com/informaciongeneral/estremecedor-relato-del-pelotazo-que-provoco-la-muerte-del-futbolista-juvenil-abel-nunez-cayo-como-en-un-nocaut-de-boxeo-20261116-0055.html",
         "image": "https://www.rosario3.com/__export/1794865240033/sites/rosario3/img/2026/11/16/abel.jpg_982625323.jpg",
         "summary": "Un periodista que presenció el encuentro de la Quinta División del Fútbol Club Ezeiza en el que un jugador categoría 2008 recibió un golpe que resultó mortal relató cómo fue el episodio",
-        "pubDate": "2026-11-16T11:50:00+00:00",
+        "pubDate": "2026-11-16T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -107,7 +116,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/asi-lucira-faustina-funes-mall-el-desarrollo-comercial-que-albergara-marcas-de-renombre-internacional-20261116-0060.html",
         "image": "https://www.rosario3.com/__export/1794868428104/sites/rosario3/img/2026/11/16/funesmall.jpg_982625323.jpg",
         "summary": "El predio estará estructurado en dos niveles conectados por amplias galerías y balcones aterrazados. Su propuesta comercial integrará locales de indumentaria deportiva y outdoor, perfumería, accesorios, decoración y oficinas comerciales, además de su patio gastronómico",
-        "pubDate": "2026-11-16T11:49:00+00:00",
+        "pubDate": "2026-11-16T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +125,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/pruebas-aprender-evaluaran-a-casi-700-mil-alumnos-de-tercer-grado-de-todo-el-pais-20261116-0051.html",
         "image": "https://www.rosario3.com/__export/1794861368365/sites/rosario3/img/2026/11/16/aprender.jpg_982625323.jpg",
         "summary": "A diferencia de las últimas evaluaciones de primaria, el operativo de este año se distribuirá en dos jornadas. Este martes 17 de noviembre se tomará Lengua y el miércoles 18, Matemática, junto con el cuestionario de contexto para los estudiantes. La convocatoria alcanza a…",
-        "pubDate": "2026-11-16T11:48:00+00:00",
+        "pubDate": "2026-11-16T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,20 +134,38 @@
         "link": "https://www.rosario3.com/policiales/salio-en-bicicleta-y-nunca-regreso-desesperada-busqueda-de-un-joven-desaparecido-el-7-de-noviembre-20261116-0046.html",
         "image": "https://www.rosario3.com/__export/1794857919377/sites/rosario3/img/2026/11/16/javier_echeverria.jpg_672794304.jpg",
         "summary": "Javier Echeverría, de 25 años, se fue de su vivienda de Campbell al 400 bis y aún no volvió. Su familia contó que atravesaba dificultades económicas y que le debía dinero a un usurero barrial. La última pista lo ubica en la zona del Acuario, en Arroyito, donde lo buscan sin…",
-        "pubDate": "2026-11-16T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Le arrojaron un rosario al papa León XIV y recibió un golpe en un ojo durante su visita a Perú",
-        "link": "https://www.rosario3.com/informaciongeneral/le-arrojaron-un-rosario-al-papa-leon-xiv-y-recibio-un-golpe-en-un-ojo-durante-su-visita-a-peru-20261116-0045.html",
-        "image": "https://www.rosario3.com/__export/1794855538208/sites/rosario3/img/2026/11/16/papa_leon_.png_786111822.png",
-        "summary": "El episodio ocurrió mientras el sumo pontífice recorría en el papamóvil las inmediaciones de la Base Aérea Las Palmas, en Lima, donde lo esperaban cerca de un millón y medio de fieles para participar de una multitudinaria celebración religiosa. El objeto impactó en uno de sus…",
         "pubDate": "2026-11-16T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Qué celulares Android se quedarán sin WhatsApp antes de que termine noviembre",
+        "link": "https://www.lacapital.com.ar/informacion-general/que-celulares-android-se-quedaran-whatsapp-antes-que-termine-noviembre-n10292527.html",
+        "image": "https://media.lacapital.com.ar/p/0955c52c808e740c9135c2851aa3a114/adjuntos/203/imagenes/103/534/0103534517/1200x675/smart/image.png",
+        "summary": "Distintos modelos de Android no podrán descargar ni abrir la aplicación. La lista completa y algunos consejos para evitar perder datos importantes",
+        "pubDate": "2026-11-17T02:06:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Asociación Rosarina de Fútbol: se disputó la 2ª fecha del tradicional torneo Ivancich",
+        "link": "https://www.lacapital.com.ar/ovacion/asociacion-rosarina-futbol-se-disputo-la-2-fecha-del-tradicional-torneo-ivancich-n10292531.html",
+        "image": "https://media.lacapital.com.ar/p/048f9f4709572aa460ef132a9d447b5e/adjuntos/203/imagenes/103/534/0103534542/1200x675/smart/image-2026-11-16t201904394.png",
+        "summary": "La jornada tuvo una cifra récord con 112 goles en 21 encuentros. Newell's dio la nota al golear a San Roque por 10 a 3. El sábado se disputará la última fecha",
+        "pubDate": "2026-11-17T02:06:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Voyager 1 se convierte en el primer objeto fabricado por el hombre en alejarse un día luz de la Tierra",
+        "link": "https://www.lacapital.com.ar/informacion-general/voyager-1-se-convierte-el-primer-objeto-fabricado-el-hombre-alejarse-un-dia-luz-la-tierra-n10292559.html",
+        "image": "https://media.lacapital.com.ar/p/38972fc8d852db5239b2b2f6daa65209/adjuntos/203/imagenes/103/534/0103534781/2026-11-16-voyager-1.jpg",
+        "summary": "Despegó de Cabo Cañaveral el 5 de septiembre de 1977. El próximo miércoles llegará a cubrir sus primeros 25.902 millones de kilómetros",
+        "pubDate": "2026-11-17T02:03:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Fue vampiro y murciélago, y ahora será espía: Robert Pattinson, el nuevo James Bond",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/b1aef842a762cdb126f5bd94bd9b1852/adjuntos/203/imagenes/103/534/0103534290/1200x675/smart/image-2026-11-16t172607469.png",
         "summary": "El equipo de la familia Messi no pudo dar vuelta el resultado de la ida de un 4 a 1en contra ante Sportivo Barracas, equipo que clasificó a las semifinales de la Primera C",
         "pubDate": "2026-11-16T20:40:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Lanzan un mapa colaborativo para localizar los homenajes a las Islas Malvinas en Rosario y la región",
-        "link": "https://www.lacapital.com.ar/lanzan-un-mapa-colaborativo-localizar-los-homenajes-las-islas-malvinas-rosario-y-la-region-n10292477.html",
-        "image": "https://media.lacapital.com.ar/p/716a48a27772abe460a30a30a70a403a/adjuntos/203/imagenes/103/534/0103534257/1200x675/smart/image-48.jpg",
-        "summary": "La propuesta es impulsada por investigadores del Conicet y la UNR. La plataforma busca recopilar los homenajes a las islas plasmados en distintos formatos",
-        "pubDate": "2026-11-16T20:39:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Dólar blue en Rosario: rompió la barrera de los $1.600 y marcó un nuevo récord",
-        "link": "https://www.lacapital.com.ar/economia/dolar-blue-rosario-rompio-la-barrera-los-1600-y-marco-un-nuevo-record-n10292500.html",
-        "image": "https://media.lacapital.com.ar/p/494f13edafb7b7a67793b60ca9b5e5e5/adjuntos/203/imagenes/103/310/0103310427/1200x675/1489x650:1509x670/dolares.jpeg",
-        "summary": "La divisa informal saltó $25 este lunes en la ciudad. El dólar oficial también subió, mientras que el contado con liquidación superó los $1.680.",
-        "pubDate": "2026-11-16T20:38:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "JP Morgan prevé que la inflación seguirá cerca del 2% mensual en 2027",
-        "link": "https://www.lacapital.com.ar/economia/jp-morgan-preve-que-la-inflacion-seguira-cerca-del-2-mensual-2027-n10292492.html",
-        "image": "https://media.lacapital.com.ar/p/4c4acfcf6bd05221004715cf7af816d5/adjuntos/203/imagenes/103/528/0103528061/2026-11-12-caputo.jpg",
-        "summary": "JP Morgan advirtió sobre riesgos cambiarios previo a las elecciones. Caputo admitió que esperaba un mayor crecimiento. Moody’s alertó por la deuda",
-        "pubDate": "2026-11-16T20:06:00+00:00",
         "approxTime": false
       }
     ]
