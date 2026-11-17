@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T21:45:18.051191+00:00",
+  "generatedAt": "2026-11-17T22:01:05.188306+00:00",
   "sites": {
     "rosario3": [
       {
@@ -40,11 +40,20 @@
       },
       {
         "source": "Rosario3",
-        "title": "Por la tormenta, se voló el techo completo de una casa en Granadero Baigorria y piden ayuda",
-        "link": "https://www.rosario3.com/informaciongeneral/por-la-tormenta-se-volo-el-techo-completo-de-una-casa-en-granadero-baigorria-y-piden-ayuda-20261117-0048.html",
-        "image": "https://www.rosario3.com/__export/1794932077155/sites/rosario3/img/2026/11/17/techo_volado_tormenta_baigorria_-2-.jpeg_982625323.jpeg",
-        "summary": "Las fuertes ráfagas de viento de la madrugada desprendieron por completo la estructura de la planta alta de una vivienda, que terminó cayendo a dos propiedades de distancia. No hubo heridos, pero la familia sufrió graves daños materiales. Las imágenes",
+        "title": "La inflación mayorista en octubre fue de 1,6% y acumuló 29,8% en los últimos doce meses",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-inflacion-mayorista-en-octubre-fue-de-16-y-acumulo-298-en-los-ultimos-doce-meses-20261117-0083.html",
+        "image": "https://www.rosario3.com/__export/1794951010973/sites/rosario3/img/2026/11/17/inflacixn.jpg_1768679257.jpg",
+        "summary": "El índice registró una baja de 1,6 puntos porcentuales respecto al mes anterior y quedó por debajo del indicador minorista",
         "pubDate": "2026-11-17T11:56:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Un puestero mató a su pareja y luego se suicidó en un campo del norte de Santa Fe",
+        "link": "https://www.rosario3.com/policiales/un-puestero-mato-a-su-pareja-y-luego-se-suicido-en-un-campo-del-norte-de-santa-fe-20261117-0087.html",
+        "image": "https://www.rosario3.com/__export/1794952135156/sites/rosario3/img/2026/11/17/los_petisos_villa_ana_femicidio_suicidio.jpeg_1825222445.jpeg",
+        "summary": "Un femicidio seguido de suicidio conmocionó a Villa Ana, un pueblo forestal del departamento General Obligado. El caso se conoció este martes por la mañana, cuando arribó el patrón y encontró los cuerpos",
+        "pubDate": "2026-11-17T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -53,16 +62,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/una-aerolinea-espanola-suspendio-vuelos-a-argentina-y-difundio-como-reclamar-los-pasajes-20261117-0072.html",
         "image": "https://www.rosario3.com/__export/1794944339101/sites/rosario3/img/2026/11/17/plus_ultra.jpg_1825222445.jpg",
         "summary": "La firma Plus Ultra informó que suspendió su ruta a Buenos Aires desde este martes 17 de noviembre y canceló los vuelos previstos hasta el 15 de diciembre. También informó el procedimiento para pasajeros con viajes programados con la compañía",
-        "pubDate": "2026-11-17T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Apareció en el parque Alem el joven albañil que era buscado desde hacía nueve días en Rosario",
-        "link": "https://www.rosario3.com/policiales/salio-en-bicicleta-y-nunca-regreso-desesperada-busqueda-de-un-joven-desaparecido-el-7-de-noviembre-20261116-0046.html",
-        "image": "https://www.rosario3.com/__export/1794946966107/sites/rosario3/img/2026/11/17/javier_echeverria_-2-.jpg_672794303.jpg",
-        "summary": "Javier Echeverría, de 25 años, fue encontrado este martes por la mañana en el parque Alem. Su familia había difundido su foto y recorrido distintos sectores de la ciudad para dar con él",
-        "pubDate": "2026-11-16T11:54:00+00:00",
+        "pubDate": "2026-11-17T11:54:00+00:00",
         "approxTime": true
       },
       {
@@ -103,11 +103,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Apareció en el parque Alem el joven albañil que era buscado desde hacía nueve días en Rosario",
+        "link": "https://www.rosario3.com/policiales/salio-en-bicicleta-y-nunca-regreso-desesperada-busqueda-de-un-joven-desaparecido-el-7-de-noviembre-20261116-0046.html",
+        "image": "https://www.rosario3.com/__export/1794946966107/sites/rosario3/img/2026/11/17/javier_echeverria_-2-.jpg_672794303.jpg",
+        "summary": "Javier Echeverría, de 25 años, fue encontrado este martes por la mañana en el parque Alem. Su familia había difundido su foto y recorrido distintos sectores de la ciudad para dar con él",
+        "pubDate": "2026-11-16T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "El conductor de un utilitario resultó herido tras chocar con un camión sobre la autopista a Buenos Aires",
         "link": "https://www.rosario3.com/informaciongeneral/el-conductor-de-un-utilitario-resulto-herido-tras-chocar-con-un-camion-sobre-la-autopista-a-buenos-aires-20261117-0068.html",
         "image": "https://www.rosario3.com/__export/1794943662273/sites/rosario3/img/2026/11/17/utilitario.jpg_982625323.jpg",
         "summary": "Tanto el hombre que manejaba la furgoneta como el chofer del camión circulaban en sentido hacia Rosario. El siniestro se habría producido por una mala maniobra de parte de un tercer vehículo que no se encontraba en el lugar",
-        "pubDate": "2026-11-17T11:49:00+00:00",
+        "pubDate": "2026-11-17T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,29 +125,29 @@
         "link": "https://www.rosario3.com/informaciongeneral/se-viene-una-nueva-edicion-de-la-noche-de-las-heladerias-en-rosario-20261117-0067.html",
         "image": "https://www.rosario3.com/__export/1794943403126/sites/rosario3/img/2026/11/17/helados.png_786111822.png",
         "summary": "Más de 150 heladerías de Rosario y la región participarán de la propuesta este miércoles desde las 19. La promoción permitirá comprar dos cuartos de helado al precio de uno y estará vigente hasta el cierre de cada local adherido",
-        "pubDate": "2026-11-17T11:48:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Recopa de Campeones: cuándo jugaría Central por un nuevo título",
-        "link": "https://www.rosario3.com/deportes/recopa-de-campeones-cuando-jugaria-central-por-un-nuevo-titulo-20261117-0066.html",
-        "image": "https://www.rosario3.com/__export/1790462132359/sites/rosario3/img/2026/09/26/central_campeon.jpg_506286608.jpg",
-        "summary": "Será en formato de triangular entre el Canalla, ganador de la Supercopa Internacional, Estudiantes, vencedor de la Supercopa Argentina, y el campeón de la Copa Argentina, que saldrá del duelo entre Boca y Platense. Cuáles son las fechas que maneja la AFA",
         "pubDate": "2026-11-17T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Curiosa sanción a Newell’s: clausuraron un palco del Coloso por un hecho ocurrido ante los santiagueños",
-        "link": "https://www.rosario3.com/deportes/curiosa-sancion-a-newells-clausuraron-un-palco-del-coloso-por-un-hecho-ocurrido-ante-los-santiaguenos-20261117-0057.html",
-        "image": "https://www.rosario3.com/__export/1794938890180/sites/rosario3/img/2026/11/17/solari_nob.jpeg_506286608.jpeg",
-        "summary": "El club rojinegro sufrió el castigo por la entrada de un chico al campo de juego del estadio, el 19 de octubre ante Central Córdoba, y se cumplió ante Unión. Lo dispuso el Ministerio de Seguridad de Santa Fe",
+        "title": "Por la tormenta, se voló el techo completo de una casa en Granadero Baigorria y piden ayuda",
+        "link": "https://www.rosario3.com/informaciongeneral/por-la-tormenta-se-volo-el-techo-completo-de-una-casa-en-granadero-baigorria-y-piden-ayuda-20261117-0048.html",
+        "image": "https://www.rosario3.com/__export/1794932077155/sites/rosario3/img/2026/11/17/techo_volado_tormenta_baigorria_-2-.jpeg_982625323.jpeg",
+        "summary": "Las fuertes ráfagas de viento de la madrugada desprendieron por completo la estructura de la planta alta de una vivienda, que terminó cayendo a dos propiedades de distancia. No hubo heridos, pero la familia sufrió graves daños materiales. Las imágenes",
         "pubDate": "2026-11-17T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Javier Milei se mostró confiado para las elecciones de 2027",
+        "link": "https://www.lacapital.com.ar/politica/javier-milei-se-mostro-confiado-las-elecciones-2027-n10292760.html",
+        "image": "https://media.lacapital.com.ar/p/26f1e3729f8366f16fff03dacd17801a/adjuntos/203/imagenes/103/537/0103537338/1200x675/smart/image.png",
+        "summary": "“Mi sucesor vendrá en 2031 porque seré reelecto\", aseveró el presidente al momento de volver a pronosticar que tendrá un segundo mandato",
+        "pubDate": "2026-11-17T21:46:44+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "El PRO acompaña la suspensión de las Paso, pero mantiene reparos sobre las colectoras",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/9c88fb896c768bf4d19eab7eaa52c34c/adjuntos/203/imagenes/103/536/0103536593/1200x675/smart/ayacucho4300.jpg",
         "summary": "Un inmueble del barrio Tablada, que había sido intervenido por la Justicia por ser un enclave de la banda de Alan Funes, ahora será de uso comunitario",
         "pubDate": "2026-11-17T18:45:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El minibásquet vivió una jornada inolvidable en el Museo del Deporte",
-        "link": "https://www.lacapital.com.ar/ovacion/el-minibasquet-vivio-una-jornada-inolvidable-el-museo-del-deporte-n10292554.html",
-        "image": "https://media.lacapital.com.ar/p/a570d0ca80c8b9d64f778ec7c0b68572/adjuntos/203/imagenes/103/535/0103535738/mini2.jpg",
-        "summary": "Una gran cantidad de chicos vivieron una primera experiencia en el centro del Parque Héroes de Malvinas",
-        "pubDate": "2026-11-17T18:44:00+00:00",
         "approxTime": false
       }
     ]
