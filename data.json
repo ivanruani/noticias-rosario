@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T22:01:05.188306+00:00",
+  "generatedAt": "2026-11-17T22:30:56.226742+00:00",
   "sites": {
     "rosario3": [
       {
@@ -40,10 +40,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "La inflación mayorista en octubre fue de 1,6% y acumuló 29,8% en los últimos doce meses",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-inflacion-mayorista-en-octubre-fue-de-16-y-acumulo-298-en-los-ultimos-doce-meses-20261117-0083.html",
-        "image": "https://www.rosario3.com/__export/1794951010973/sites/rosario3/img/2026/11/17/inflacixn.jpg_1768679257.jpg",
-        "summary": "El índice registró una baja de 1,6 puntos porcentuales respecto al mes anterior y quedó por debajo del indicador minorista",
+        "title": "Murió el hermano del senador provincial Alcides Calvo tras el despiste de un auto en un camino rural de Josefina",
+        "link": "https://www.rosario3.com/informaciongeneral/murio-el-hermano-del-senador-provincial-alcides-calvo-tras-el-despiste-de-un-auto-en-un-camino-rural-de-josefina-20261117-0086.html",
+        "image": "https://www.rosario3.com/__export/1794951898085/sites/rosario3/img/2026/11/17/siniestro.jpg_982625323.jpg",
+        "summary": "Alberto Calvo, de 72 años, falleció en el acto luego de que el vehículo en el que viajaba como acompañante cayera a una cuneta en cercanías de la Ruta Provincial 22. Su hijo, quien conducía, resultó herido y fue hospitalizado en Córdoba",
         "pubDate": "2026-11-17T11:56:00+00:00",
         "approxTime": true
       },
@@ -94,10 +94,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Reacondicionan el predio de Colectividades tras la tormenta y confirmaron el cierre esta noche: \"Los 49 stands están intactos\"",
-        "link": "https://www.rosario3.com/informaciongeneral/colectividades-tras-la-tormenta-relevan-danos-y-reacondicionan-el-predio-para-la-ultima-noche-de-la-fiesta-20261117-0008.html",
-        "image": "https://www.rosario3.com/__export/1794930102048/sites/rosario3/img/2025/11/16/colectividades_1.jpg_1825222445.jpg",
-        "summary": "La secretaria de Deportes y Turismo, Alejandra Matheus, dijo este mediodía que la tradicional fiesta de la ciudad se despedirá esta noche, pese a los daños que ocasionó el temporal la víspera. Desde temprano, las cuadrillas trabajan para regresar todo a su lugar y drenar las…",
+        "title": "La inflación mayorista en octubre fue de 1,6% y acumuló 29,8% en los últimos doce meses",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-inflacion-mayorista-en-octubre-fue-de-16-y-acumulo-298-en-los-ultimos-doce-meses-20261117-0083.html",
+        "image": "https://www.rosario3.com/__export/1794951010973/sites/rosario3/img/2026/11/17/inflacixn.jpg_1768679257.jpg",
+        "summary": "El índice registró una baja de 1,6 puntos porcentuales respecto al mes anterior y quedó por debajo del indicador minorista",
         "pubDate": "2026-11-17T11:50:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,42 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Más de 2.000 pymes santafesinas tienen deudas en mora",
+        "link": "https://www.lacapital.com.ar/economia/mas-2000-pymes-santafesinas-tienen-deudas-mora-n10292716.html",
+        "image": "https://media.lacapital.com.ar/p/eabd2f6238008848ed70133a96c16cee/adjuntos/203/imagenes/100/780/0100780297/1200x675/smart/pymes-bus-colectivo-industriajpg.jpg",
+        "summary": "Apyme presentó en el Concejo Municipal de Rosario el \"Mapa de la deuda\". El próximo 11 de diciembre se realizará un foro en el Concejo para analizar y el debatir sobre la problemática",
+        "pubDate": "2026-11-17T22:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La industria santafesina cayó 4,8 % y la maquinaria agrícola profundizó su retroceso",
+        "link": "https://www.lacapital.com.ar/economia/la-industria-santafesina-cayo-48-y-la-maquinaria-agricola-profundizo-su-retroceso-n10292735.html",
+        "image": "https://media.lacapital.com.ar/p/b04bbc51f15a71c45ae1305b0b3c19ba/adjuntos/203/imagenes/103/487/0103487707/1200x675/536x350:556x370/industria.jpeg",
+        "summary": "La fabricación de equipos para el campo se desplomó 45,4 % interanual. La producción fabril acumuló una baja de 3,4 % en lo que va del año",
+        "pubDate": "2026-11-17T22:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El gobierno no logró dictamen para suspender las Paso y sigue negociando con sus aliados",
+        "link": "https://www.lacapital.com.ar/politica/el-gobierno-no-logro-dictamen-suspender-las-paso-y-sigue-negociando-sus-aliados-n10292759.html",
+        "image": "https://media.lacapital.com.ar/p/9b880b7db93c0400680ba276c5c75bc2/adjuntos/203/imagenes/103/537/0103537314/1200x675/smart/senado-suspension-paso-comision.jpg",
+        "summary": "Las colectoras concentran los reparos de los bloques dialoguistas. La Casa Rosada busca llevar la reforma al recinto del Senado el 26 de noviembre",
+        "pubDate": "2026-11-17T22:03:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Piazzolla, eje de una jornada excepcional en la Asociación Médica",
+        "link": "https://www.lacapital.com.ar/piazzolla-eje-una-jornada-excepcional-la-asociacion-medica-n10292762.html",
+        "image": "https://media.lacapital.com.ar/p/b8dbeeda0e93a6049d7615838fd36ac4/adjuntos/203/imagenes/103/537/0103537340/1200x675/smart/75148089.jpg",
+        "summary": "Se proyectará una filmación de una obra inédita del gran compositor y bandoneonista. Destacadas presencias: Carlos Kuri, Ezequiel Diz y Omar García Brunelli",
+        "pubDate": "2026-11-17T22:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Javier Milei se mostró confiado para las elecciones de 2027",
         "link": "https://www.lacapital.com.ar/politica/javier-milei-se-mostro-confiado-las-elecciones-2027-n10292760.html",
         "image": "https://media.lacapital.com.ar/p/26f1e3729f8366f16fff03dacd17801a/adjuntos/203/imagenes/103/537/0103537338/1200x675/smart/image.png",
@@ -153,7 +189,7 @@
         "title": "El PRO acompaña la suspensión de las Paso, pero mantiene reparos sobre las colectoras",
         "link": "https://www.lacapital.com.ar/politica/el-pro-acompana-la-suspension-las-paso-pero-mantiene-reparos-las-colectoras-n10292752.html",
         "image": "https://media.lacapital.com.ar/p/2adc33a721015e0b990fb6e43fc49830/adjuntos/203/imagenes/103/537/0103537291/1200x675/smart/mauricio-macri-pro-paso.jpg",
-        "summary": "Tras una reunión encabezada por Mauricio Macri, el partido amarillo cambió su postura sobre las primarias. Ficha Limpia, una de las condiciones",
+        "summary": "Tras una reunión encabezada por Mauricio Macri, el partido amarillo cambió su posición sobre las primarias. Ficha Limpia, una de las condiciones",
         "pubDate": "2026-11-17T21:18:00+00:00",
         "approxTime": false
       },
@@ -177,8 +213,8 @@
       },
       {
         "source": "La Capital",
-        "title": "Murió un boxeador noqueado dos veces en el mismo round que estaba en coma desde hace tres meses",
-        "link": "https://www.lacapital.com.ar/ovacion/murio-un-boxeador-noqueado-dos-veces-el-mismo-round-que-estaba-coma-hace-tres-meses-n10292750.html",
+        "title": "Murió un boxeador que estaba en coma desde hace tres meses tras ser noqueado dos veces en el mismo round",
+        "link": "https://www.lacapital.com.ar/ovacion/murio-un-boxeador-que-estaba-coma-hace-tres-meses-ser-noqueado-dos-veces-el-mismo-round-n10292750.html",
         "image": "https://media.lacapital.com.ar/p/dfae9ac6e462cf2b0460e3804bed4a9d/adjuntos/203/imagenes/103/537/0103537265/1200x675/smart/image-5.jpg",
         "summary": "Era irlandés y tenía 31 años. Estaba en un hospital y en coma inducido desde agosto. El mensaje del rival que lo noqueó",
         "pubDate": "2026-11-17T20:49:00+00:00",
@@ -236,42 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/1c3ea6e7df8c47904c6ddc611ca172fc/adjuntos/203/imagenes/028/682/0028682159/1200x675/smart/algodonera-avellaneda-4-1jpg.jpg",
         "summary": "La medida alcanza a la hilandería de Reconquista y a dos desmotadoras. También dispuso la extinción de 243 contratos laborales, con plazos según las tareas de cada trabajador",
         "pubDate": "2026-11-17T19:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Sofía \"Jujuy\" Jiménez será mamá por primera vez: cómo se enteró y qué dijo sobre su embarazo",
-        "link": "https://www.lacapital.com.ar/zoom/sofia-jujuy-jimenez-sera-mama-primera-vez-como-se-entero-y-que-dijo-su-embarazo-n10292708.html",
-        "image": "https://media.lacapital.com.ar/p/af9a338a38c7c52cb2f6017bb5e9d078/adjuntos/203/imagenes/103/536/0103536596/1200x675/smart/image-2026-11-17t152014808.png",
-        "summary": "La modelo confirmó que espera su primer hijo junto a Gustavo Qüerio Hormaechea y compartió detalles de cómo recibió la noticia",
-        "pubDate": "2026-11-17T19:09:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Una casa en Granadero Baigorria perdió su techo en el medio del temporal: \"Se llevó muchos años de esfuerzo\"",
-        "link": "https://www.lacapital.com.ar/la-region/una-casa-granadero-baigorria-perdio-su-techo-el-medio-del-temporal-se-llevo-muchos-anos-esfuerzo-n10292717.html",
-        "image": "https://media.lacapital.com.ar/p/6a8681a89df7495354777c863bcd97a0/adjuntos/203/imagenes/103/536/0103536785/1200x675/smart/techo-volado-grandero-baigorria-vb-1711-1.jpg",
-        "summary": "Las ráfagas de viento destrozaron una vivienda en construcción. La familia afectada perdió cinco años de trabajo en minutos",
-        "pubDate": "2026-11-17T18:55:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Jubilados y pensionados de Rosario marchan este miércoles en reclamo de haberes dignos",
-        "link": "https://www.lacapital.com.ar/la-ciudad/jubilados-y-pensionados-rosario-marchan-este-miercoles-reclamo-haberes-dignos-n10292701.html",
-        "image": "https://media.lacapital.com.ar/p/0767c7ad4de96599596ab575a3eb47a5/adjuntos/203/imagenes/102/833/0102833494/1200x675/smart/image.jpg",
-        "summary": "La movilización partirá a las 17 desde Córdoba y San Martín y finalizará en la plaza 25 de Mayo. Denuncian el deterioro de sus ingresos y el recorte de derechos",
-        "pubDate": "2026-11-17T18:53:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La casa del clan Funes en barrio Tablada será reconvertida en un espacio de uso comunitario",
-        "link": "https://www.lacapital.com.ar/policiales/la-casa-del-clan-funes-barrio-tablada-sera-reconvertida-un-espacio-uso-comunitario-n10292696.html",
-        "image": "https://media.lacapital.com.ar/p/9c88fb896c768bf4d19eab7eaa52c34c/adjuntos/203/imagenes/103/536/0103536593/1200x675/smart/ayacucho4300.jpg",
-        "summary": "Un inmueble del barrio Tablada, que había sido intervenido por la Justicia por ser un enclave de la banda de Alan Funes, ahora será de uso comunitario",
-        "pubDate": "2026-11-17T18:45:00+00:00",
         "approxTime": false
       }
     ]
