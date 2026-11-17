@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T01:01:07.451631+00:00",
+  "generatedAt": "2026-11-17T01:31:02.503046+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Fue vampiro y murciélago, y ahora será espía: Robert Pattinson, el nuevo James Bond",
+        "link": "https://www.lacapital.com.ar/zoom/fue-vampiro-y-murcielago-y-ahora-sera-espia-robert-pattinson-el-nuevo-james-bond-n10292550.html",
+        "image": "https://media.lacapital.com.ar/p/04be2884308d6829a68f43e57fb8d399/adjuntos/203/imagenes/103/534/0103534690/2026-11-16-robert-pattinson-james-bond.jpg",
+        "summary": "\"Bienvenido al Servicio Secreto de Su Majestad, señor Bond\", saludó el rey Carlos en redes sociales al próximo agente 007",
+        "pubDate": "2026-11-17T00:58:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Los Rossetto de nuevo dejaron bien en alto el prestigio del karate rosarino en el Mundial",
         "link": "https://www.lacapital.com.ar/ovacion/los-rossetto-nuevo-dejaron-bien-alto-el-prestigio-del-karate-rosarino-el-mundial-n10292551.html",
         "image": "https://media.lacapital.com.ar/p/94763111c4d77c4032e1efaa63cab140/adjuntos/203/imagenes/103/534/0103534656/1200x675/smart/image-13.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/4c4acfcf6bd05221004715cf7af816d5/adjuntos/203/imagenes/103/528/0103528061/2026-11-12-caputo.jpg",
         "summary": "JP Morgan advirtió sobre riesgos cambiarios previo a las elecciones. Caputo admitió que esperaba un mayor crecimiento. Moody’s alertó por la deuda",
         "pubDate": "2026-11-16T20:06:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Susto en el Papamóvil: un rosario lanzado por la multitud golpeó en el ojo a León XIV en el cierre de su visita a Perú",
-        "link": "https://www.lacapital.com.ar/el-mundo/susto-el-papamovil-un-rosario-lanzado-la-multitud-golpeo-el-ojo-leon-xiv-el-cierre-su-visita-peru-n10292483.html",
-        "image": "https://media.lacapital.com.ar/p/c51e75289e7c3a091fc4172d2e52e3f0/adjuntos/203/imagenes/103/534/0103534224/1200x675/smart/rosario-leon-xiv-1611.jpg",
-        "summary": "En su último día en Sudamérica, el Sumo Pontífice vivió un momento de tensión",
-        "pubDate": "2026-11-16T20:00:00+00:00",
         "approxTime": false
       }
     ]
