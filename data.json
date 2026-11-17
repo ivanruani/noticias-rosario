@@ -1,23 +1,32 @@
 {
-  "generatedAt": "2026-11-17T15:01:08.827477+00:00",
+  "generatedAt": "2026-11-17T15:31:05.866652+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Recondicionan el predio de Colectividades tras la tormenta y confirmaron el cierre esta noche: \"Los 49 stands están intactos\"",
+        "link": "https://www.rosario3.com/informaciongeneral/colectividades-tras-la-tormenta-relevan-danos-y-reacondicionan-el-predio-para-la-ultima-noche-de-la-fiesta-20261117-0008.html",
+        "image": "https://www.rosario3.com/__export/1794918721639/sites/rosario3/img/2026/11/17/colectividades_temporal_1.jpg_982625323.jpg",
+        "summary": "La secretaria de Deportes y Turismo, Alejandra Matheus, dijo este mediodía que la tradicional fiesta de la ciudad se despedirá esta noche, pese a los daños que ocasionó el temporal este lunes por la noche. Desde temprano, las cuadrillas trabajan para regresar todo a su lugar y…",
+        "pubDate": "2026-11-17T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "El mapa inmobiliario de Rosario: dónde cuesta más comprar o alquilar una propiedad y dónde menos",
         "link": "https://www.rosario3.com/-economia-negocios-agro-/el-mapa-inmobiliario-de-rosario-donde-cuesta-mas-comprar-o-alquilar-una-propiedad-y-donde-menos-20261117-0028.html",
         "image": "https://www.rosario3.com/__export/1794923902841/sites/rosario3/img/2026/11/17/puerto_norte_version1794923901438.jpg_849732332.jpg",
         "summary": "Puerto Norte encabeza los valores de venta y alquiler, mientras que Rucci y la zona de La Florida aparecen entre las zonas más económicas. Los datos surgen a partir del informe mensual que realiza una plataforma de ventas en donde también se muestran fuertes diferencias en los…",
-        "pubDate": "2026-11-17T12:00:00+00:00",
+        "pubDate": "2026-11-17T11:59:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Ya son más de 450 los reclamos tras el temporal: las zonas más afectadas son el centro, el norte y el noroeste",
-        "link": "https://www.rosario3.com/informaciongeneral/mas-de-300-reclamos-por-arbolado-caido-tras-el-temporal-es-un-fenomeno-de-resolucion-de-mas-de-72-horas-20261117-0007.html",
-        "image": "https://www.rosario3.com/__export/1794926249765/sites/rosario3/img/2026/11/17/cuadrillas_trabajan_tras_el_temporal_coem.jpg_928314581.jpg",
-        "summary": "El director de Protección Civil Gonzalo Ratner actualizó a media mañana la cantidad de daños registrados por la tormenta de la víspera por árboles caídos y voladuras de objetos. Más de 250 cuadrillas municipales intervienen en distintos puntos de la ciudad, pero el funcionario…",
-        "pubDate": "2026-11-17T11:59:00+00:00",
+        "title": "El PRO confirmó que acompañará la suspensión de las Paso para las elecciones de 2027",
+        "link": "https://www.rosario3.com/politica/el-pro-confirmo-que-acompanara-la-suspension-de-las-paso-para-las-elecciones-de-2027-20261117-0035.html",
+        "image": "https://www.rosario3.com/__export/1794927714796/sites/rosario3/img/2026/11/17/pro1.jpg_928314580.jpg",
+        "summary": "La Mesa Ejecutiva nacional del partido resolvió respaldar la iniciativa del Gobierno, aunque también reclamó avanzar con Ficha Limpia. El posicionamiento se conoció antes de que el Senado retomara el tratamiento de la reforma electoral, que tiene los votos ajustados para…",
+        "pubDate": "2026-11-17T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,34 +35,16 @@
         "link": "https://www.rosario3.com/informaciongeneral/con-musica-en-vivo-y-exhibicion-de-turismo-carretera-inauguraran-la-avenida-newbery-20261117-0017.html",
         "image": "https://www.rosario3.com/__export/1794920736309/sites/rosario3/img/2026/11/17/2026-05-02nid_285899o_2.jpeg_982625323.jpeg",
         "summary": "El acto será este viernes 20 de noviembre, desde las 18.30, en la rotonda de acceso al Aeropuerto Internacional de Rosario. Se presentarán Valentino Merlo, Los Peñaloza y Música para Volar. También habrá autos de TC y la presencia de los pilotos Agustín Canapino y Mariano Werner",
-        "pubDate": "2026-11-17T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Los Alvarado y su histórico blanqueo de plata narco en caballos de carrera",
-        "link": "https://www.rosario3.com/policiales/los-alvarado-y-su-historico-blanqueo-de-plata-narco-en-caballos-de-carrera-20261117-0024.html",
-        "image": "https://www.rosario3.com/__export/1794922593566/sites/rosario3/img/2026/11/17/santino_alvarado.jpg_1010838702.jpg",
-        "summary": "Esteban Alvarado fue condenado hace cuatro años por la Justicia provincial por, entre otras maniobras, lavar plata a través del turf. Su hijo, en octubre de 2023, brindó una entrevista en Misiones después de que un caballo aparentemente suyo ganara una carrera",
         "pubDate": "2026-11-17T11:57:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Colectividades tras la tormenta: relevan daños y reacondicionan el predio para la última noche de la Fiesta",
-        "link": "https://www.rosario3.com/informaciongeneral/colectividades-tras-la-tormenta-relevan-danos-y-reacondicionan-el-predio-para-la-ultima-noche-de-la-fiesta-20261117-0008.html",
-        "image": "https://www.rosario3.com/__export/1794918721639/sites/rosario3/img/2026/11/17/colectividades_temporal_1.jpg_982625323.jpg",
-        "summary": "El titular de Higiene Urbana de la Municipalidad, Luciano Marelli, recorrió este martes por la mañana el parque en el que se desarrolla el tradicional encuentro para evaluar las consecuencias del temporal. Según describió Radio 2 desde el lugar, el agua drenó durante la noche y…",
+        "title": "Ya son más de 450 los reclamos tras el temporal: las zonas más afectadas son el centro, el norte y el noroeste",
+        "link": "https://www.rosario3.com/informaciongeneral/mas-de-300-reclamos-por-arbolado-caido-tras-el-temporal-es-un-fenomeno-de-resolucion-de-mas-de-72-horas-20261117-0007.html",
+        "image": "https://www.rosario3.com/__export/1794926249765/sites/rosario3/img/2026/11/17/cuadrillas_trabajan_tras_el_temporal_coem.jpg_928314581.jpg",
+        "summary": "El director de Protección Civil Gonzalo Ratner actualizó a media mañana la cantidad de daños registrados por la tormenta de la víspera por árboles caídos y voladuras de objetos. Más de 250 cuadrillas municipales intervienen en distintos puntos de la ciudad, pero el funcionario…",
         "pubDate": "2026-11-17T11:56:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "León XIV espera que su visita a la Argentina sirva para alejar el “odio”: qué dijo sobre la negativa de Francisco a venir",
-        "link": "https://www.rosario3.com/informaciongeneral/leon-xiv-espera-que-su-visita-a-la-argentina-sirva-alejar-el-odio-que-dijo-sobre-la-negativa-de-francisco-a-venir-20261117-0015.html",
-        "image": "https://www.rosario3.com/__export/1794916790495/sites/rosario3/img/2026/11/17/leon_en_argentina_version1794916790046.jpg_982625323.jpg",
-        "summary": "El Papa habló con la prensa que lo acompañó en el vuelo de regreso al Vaticano tras su gira por Latinoamérica. “La derecha, la izquierda, todos hemos estado ahí, en la calle, celebrando y gozando de algo que es mucho más grande que una discusión política”, sostuvo el pontífice…",
-        "pubDate": "2026-11-17T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -62,6 +53,15 @@
         "link": "https://www.rosario3.com/tecnologia/comienza-la-cuenta-regresiva-por-que-gta-vi-redefine-los-limites-de-la-industria-cultural-20261117-0031.html",
         "image": "https://www.rosario3.com/__export/1794925981847/sites/rosario3/img/2026/11/17/gta-6-carga.jpg_928314580.jpg",
         "summary": "A solo dos días de la megaobra de Rockstar Games promete pulverizar cualquier récord previo de recaudación, mientras propone una mirada cruda sobre la sociedad actual y nuevas mecánicas morales para sus protagonistas. La nueva edición de la saga se podrá jugar a partir de este…",
+        "pubDate": "2026-11-17T11:55:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Los Alvarado y su histórico blanqueo de plata narco en caballos de carrera",
+        "link": "https://www.rosario3.com/policiales/los-alvarado-y-su-historico-blanqueo-de-plata-narco-en-caballos-de-carrera-20261117-0024.html",
+        "image": "https://www.rosario3.com/__export/1794922593566/sites/rosario3/img/2026/11/17/santino_alvarado.jpg_1010838702.jpg",
+        "summary": "Esteban Alvarado fue condenado hace cuatro años por la Justicia provincial por, entre otras maniobras, lavar plata a través del turf. Su hijo, en octubre de 2023, brindó una entrevista en Misiones después de que un caballo aparentemente suyo ganara una carrera",
         "pubDate": "2026-11-17T11:54:00+00:00",
         "approxTime": true
       },
@@ -76,20 +76,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "La venta del Grupo Oroño fue a \"tranquera cerrada\" y ahora arrancan las auditorías y la planificación fina",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-venta-del-grupo-orono-fue-a-tranquera-cerrada-y-ahora-arrancan-las-auditorias-y-la-planificacion-fina-20261116-0063.html",
-        "image": "https://www.rosario3.com/__export/1794870694955/sites/rosario3/img/2026/11/16/nixos.jpg_664082794.jpg",
-        "summary": "Arrancó el proceso de toma de control por parte de Swiss Medical (y sus asociados de la familia Tourn). Hay empresas, como Cibic y la Clinica del Hígado, que no entraron en la venta y siguen con sus mismos dueños",
-        "pubDate": "2026-11-16T11:52:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
         "title": "Investigan un posible ataque de Irán con armas químicas contra altos funcionarios en Washington",
         "link": "https://www.rosario3.com/informaciongeneral/investigan-un-posible-ataque-de-iran-con-armas-quimicas-contra-altos-funcionarios-en-washington-20261117-0027.html",
         "image": "https://www.rosario3.com/__export/1794925146290/sites/rosario3/img/2025/04/24/visa_eeuu.jpg_928314579.jpg",
         "summary": "Según CNN, EE.UU. detectó comunicaciones, posibles blancos y ubicaciones específicas, aunque funcionarios aclararon que no hay indicios de un operativo inminente",
-        "pubDate": "2026-11-17T11:51:00+00:00",
+        "pubDate": "2026-11-17T11:52:00+00:00",
         "approxTime": true
       },
       {
@@ -98,6 +89,15 @@
         "link": "https://www.rosario3.com/deportes/de-la-formula-1-al-dakar-fernando-alonso-correra-el-rally-con-aston-martin-en-2027-20261117-0020.html",
         "image": "https://www.rosario3.com/__export/1794921842403/sites/rosario3/img/2026/11/17/alonso.jpg_928314580.jpg",
         "summary": "El piloto español competirá por segunda vez en su carrera en el rally más exigente del mundo. Esta vez será al volante del primer vehículo de la marca británica en la historia de la competencia",
+        "pubDate": "2026-11-17T11:51:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "León XIV espera que su visita a la Argentina sirva para alejar el “odio”: qué dijo sobre la negativa de Francisco a venir",
+        "link": "https://www.rosario3.com/informaciongeneral/leon-xiv-espera-que-su-visita-a-la-argentina-sirva-alejar-el-odio-que-dijo-sobre-la-negativa-de-francisco-a-venir-20261117-0015.html",
+        "image": "https://www.rosario3.com/__export/1794916790495/sites/rosario3/img/2026/11/17/leon_en_argentina_version1794916790046.jpg_982625323.jpg",
+        "summary": "El Papa habló con la prensa que lo acompañó en el vuelo de regreso al Vaticano tras su gira por Latinoamérica. “La derecha, la izquierda, todos hemos estado ahí, en la calle, celebrando y gozando de algo que es mucho más grande que una discusión política”, sostuvo el pontífice…",
         "pubDate": "2026-11-17T11:50:00+00:00",
         "approxTime": true
       },
@@ -141,11 +141,65 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "Pese a los daños que generó al tormenta, Colectividades tendrá este martes su jornada de cierre",
-        "link": "https://www.lacapital.com.ar/la-ciudad/pese-los-danos-que-genero-al-tormenta-colectividades-tendra-este-martes-su-jornada-cierre-n10292647.html",
+        "title": "Rafael Gutiérrez, entre la despedida frente a los trabajadores judiciales y su futuro",
+        "link": "https://www.lacapital.com.ar/politica/rafael-gutierrez-la-despedida-frente-los-trabajadores-judiciales-y-su-futuro-n10292672.html",
+        "image": "https://media.lacapital.com.ar/p/74e70a0bd46558aeb4d13616c08676a6/adjuntos/203/imagenes/103/536/0103536232/1200x675/smart/guiterrez.jpeg",
+        "summary": "El ministro de la Corte Suprema de Santa Fe dejará su cargo en dos semanas y recibió un homenaje del sindicato. Habló de su identidad. Las chances de saltar a la política",
+        "pubDate": "2026-11-17T15:26:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Los granos recuperan terreno y el trigo argentino encuentra oportunidades",
+        "link": "https://www.lacapital.com.ar/agro/los-granos-recuperan-terreno-y-el-trigo-argentino-encuentra-oportunidades-n10292670.html",
+        "image": "https://media.lacapital.com.ar/p/637b41eb0b430a4c796f41612ab86ce4/adjuntos/203/imagenes/100/005/0100005248/trigo3.jpg",
+        "summary": "Los ajustes del Usda dieron sostén al maíz y la soja. Aunque la cosecha presiona los valores locales, el cereal argentino ofrece precios competitivos en el mercado internacional",
+        "pubDate": "2026-11-17T15:22:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Uruguay presentó una red de 26 puertos deportivos para navegar de Fray Bentos a Punta del Este",
+        "link": "https://www.lacapital.com.ar/turismo/uruguay-presento-una-red-26-puertos-deportivos-navegar-fray-bentos-punta-del-este-n10292613.html",
+        "image": "https://media.lacapital.com.ar/p/ee40d9227a7db4444226f7b72dec3552/adjuntos/203/imagenes/103/535/0103535717/1200x675/smart/uruguay-presento-una-red-26-puertos-deportivos-navegar-fray-bentos-punta-del-este.jpg",
+        "summary": "El circuito se divide en cuatro regiones e incluye obras previstas para 2027, como la recuperación del muelle histórico del ex frigorífico Anglo y una guardería techada en Carmelo",
+        "pubDate": "2026-11-17T15:19:46+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La remodelación de la avenida Jorge Newbery se inaugura con shows en vivo y exhibición de autos",
+        "link": "https://www.lacapital.com.ar/la-ciudad/la-remodelacion-la-avenida-jorge-newbery-se-inaugura-shows-vivo-y-exhibicion-autos-n10292651.html",
+        "image": "https://media.lacapital.com.ar/p/181bc579eeec425c725acfd1301c79e1/adjuntos/203/imagenes/103/128/0103128542/avenida-jorge-newbery-2.jpeg",
+        "summary": "La apertura será este viernes, desde las 18.30, en el acceso al aeropuerto de Rosario. Estarán Valentino Merlo, Los Peñaloza y Música para Volar. Entrada libre y gratuita",
+        "pubDate": "2026-11-17T15:08:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Paredes hará el curso de DT en una institución rosarina y sueña con dirigir junto a Di María",
+        "link": "https://www.lacapital.com.ar/ovacion/paredes-hara-el-curso-dt-una-institucion-rosarina-y-suena-dirigir-junto-di-maria-n10292646.html",
+        "image": "https://media.lacapital.com.ar/p/12d7de0815781d794e4fbb77fc1b8d2d/adjuntos/203/imagenes/103/482/0103482626/paredes.jpg",
+        "summary": "El capitán de Boca se inscribió en una escuela de Rosario para empezar su formación de entrenador, con el objetivo de dirigir a Central y Boca junto a Fideo",
+        "pubDate": "2026-11-17T15:02:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Doble crimen en la ciudad de Santa Fe: acribillaron a balazos a padre e hijo",
+        "link": "https://www.lacapital.com.ar/policiales/doble-crimen-la-ciudad-santa-fe-acribillaron-balazos-padre-e-hijo-n10292655.html",
+        "image": "https://media.lacapital.com.ar/p/09ac6c7025ac1287206a966bd4112df9/adjuntos/203/imagenes/103/536/0103536105/1200x675/smart/doble-homicidio-santa-fe.png",
+        "summary": "Las víctimas cayeron heridas de muerte este martes a la mañana en una balacera contra una casa. Investigan un posible robo de dólares y pesos",
+        "pubDate": "2026-11-17T15:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Pese a los daños que generó la tormenta, Colectividades tendrá este martes su jornada de cierre",
+        "link": "https://www.lacapital.com.ar/la-ciudad/pese-los-danos-que-genero-la-tormenta-colectividades-tendra-este-martes-su-jornada-cierre-n10292647.html",
         "image": "https://media.lacapital.com.ar/p/e1815bcd3df598118121da6657e96d3c/adjuntos/203/imagenes/103/523/0103523304/2026-11-10-colectividades.jpg",
         "summary": "La Municipalidad de Rosario ratificó el cronograma luego de la inspección de los daños en el predio del parque nacional a la Bandera",
-        "pubDate": "2026-11-17T14:59:03+00:00",
+        "pubDate": "2026-11-17T14:59:00+00:00",
         "approxTime": false
       },
       {
@@ -218,60 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/60c61f851e34787a7d4c040f6c9a63e8/adjuntos/203/imagenes/103/535/0103535443/1200x675/smart/image-2026-11-17t093056870.png",
         "summary": "Del 17 al 20 de noviembre, investigadores mostrarán cómo trabajan en El Shincal de Quimivil, uno de los principales asentamientos del Imperio inca en Argentina",
         "pubDate": "2026-11-17T13:20:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Un ciervo murió atropellado por un colectivo en avenida de la zona norte",
-        "link": "https://www.lacapital.com.ar/la-ciudad/un-ciervo-murio-atropellado-un-colectivo-avenida-la-zona-norte-n10292604.html",
-        "image": "https://media.lacapital.com.ar/p/452dd6777e2505507342d7a56fb5027c/adjuntos/203/imagenes/103/535/0103535424/1200x675/smart/ciervo-atropellado-omnibus.png",
-        "summary": "El accidente sucedió este martes alrededor de las 6.30 en la zona de Rondeau y Marull",
-        "pubDate": "2026-11-17T13:17:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La tormenta dejó su huella en Colectividades: cómo quedó el predio de la fiesta",
-        "link": "https://www.lacapital.com.ar/la-ciudad/la-tormenta-dejo-su-huella-colectividades-como-quedo-el-predio-la-fiesta-n10292592.html",
-        "image": "https://media.lacapital.com.ar/p/605282f77c6d050a1cdc6ceeb02be3f5/adjuntos/203/imagenes/103/535/0103535321/tormenta-colectividades-4.jpeg",
-        "summary": "Algunos stands quedaron anegados tras una noche de lluvia intensa, pero el viento fue el que más daño hizo en la penúltima jornada de la fiesta",
-        "pubDate": "2026-11-17T13:06:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La Corte Suprema de Santa Fe inaugura un nuevo edificio para pericias judiciales y Defensoría",
-        "link": "https://www.lacapital.com.ar/politica/la-corte-suprema-santa-fe-inaugura-un-nuevo-edificio-pericias-judiciales-y-defensoria-n10292603.html",
-        "image": "https://media.lacapital.com.ar/p/34d53451f4d877a2cb6ebf437df291db/adjuntos/203/imagenes/103/535/0103535513/1200x675/smart/edificio-nuevo.jpg",
-        "summary": "La obra demandó una inversión de $1.400 millones y comprende dos dependencias. El acto marcará marca la salida de dos ministros con mayor trayectoria.",
-        "pubDate": "2026-11-17T13:01:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El regreso del \"10\": Ronaldinho salió del retiro a los 46 años y fue titular en el ascenso italiano",
-        "link": "https://www.lacapital.com.ar/ovacion/el-regreso-del-10-ronaldinho-salio-del-retiro-los-46-anos-y-fue-titular-el-ascenso-italiano-n10292580.html",
-        "image": "https://media.lacapital.com.ar/p/e175d74a23663f22e792c1d94e61b4fd/adjuntos/203/imagenes/103/535/0103535104/1200x675/smart/image-4.jpg",
-        "summary": "El astro brasileño fue parte de la victoria por 2 a 0 de Ravenna FC ante Forlì por la Serie C y fue ovacionado al ser reemplazado",
-        "pubDate": "2026-11-17T12:49:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Soledad Pastorutti ya grabó su versión de \"Alma Misionera\": cuándo se podrá escuchar",
-        "link": "https://www.lacapital.com.ar/zoom/soledad-pastorutti-ya-grabo-su-version-alma-misionera-cuando-se-podra-escuchar-n10292598.html",
-        "image": "https://media.lacapital.com.ar/p/5ab813273c05a250305e0a66ec49caf2/adjuntos/203/imagenes/103/535/0103535907/soledad-pastorutti-alma-misionera-papa.jpg",
-        "summary": "La artista anunció durante una presentación en Chaco que pronto estará disponible su interpretación del clásico religioso. Las regalías van a donarse",
-        "pubDate": "2026-11-17T12:36:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "GTA 6: cuándo sale, dónde se podrá jugar y lo que hay que saber sobre el lanzamiento más esperado",
-        "link": "https://www.lacapital.com.ar/zoom/gta-6-cuando-sale-donde-se-podra-jugar-y-lo-que-hay-que-saber-el-lanzamiento-mas-esperado-n10292599.html",
-        "image": "https://media.lacapital.com.ar/p/369bdae82e9a80708602fd7778ff6b5e/adjuntos/203/imagenes/103/535/0103535415/1200x675/smart/gta-6.jpg",
-        "summary": "El nuevo Grand Theft Auto llega el 19 de noviembre a PlayStation 5 y Xbox. Tendrá dos protagonistas, una historia ambientada en el estado ficticio de Leonida y el regreso a Vice City",
-        "pubDate": "2026-11-17T12:36:00+00:00",
         "approxTime": false
       }
     ]
