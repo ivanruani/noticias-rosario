@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T23:01:16.933343+00:00",
+  "generatedAt": "2026-11-17T23:30:53.559055+00:00",
   "sites": {
     "rosario3": [
       {
@@ -40,7 +40,7 @@
       },
       {
         "source": "Rosario3",
-        "title": "Con equipo confirmado, Argentina despide el intenso 2026 en Córdoba ante Costa Rica",
+        "title": "Con gol de Nicolás Paz, Argentina le gana a Costa Rica y maneja el partido casi a voluntad",
         "link": "https://www.rosario3.com/deportes/argentina-despide-el-intenso-2026-en-cordoba-se-mide-ante-costa-rica-20261116-0025.html",
         "image": "https://www.rosario3.com/__export/1794840650996/sites/rosario3/img/2026/11/16/enzo_fernandez.jpg_506286608.jpg",
         "summary": "Este martes, desde las 20, el seleccionado de Lionel Scaloni enfrentará a los Ticos en el estadio Mario Kempes. Tras la derrota ante Uruguay en el primer partido después del retiro de Lionel Messi, la Albiceleste buscará cerrar el año con una sonrisa",
@@ -139,6 +139,24 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Argentina es el cuarto país más caro del mundo para comprar el \"GTA VI\"",
+        "link": "https://www.lacapital.com.ar/informacion-general/argentina-es-el-cuarto-pais-mas-caro-del-mundo-comprar-el-gta-vi-n10292770.html",
+        "image": "https://media.lacapital.com.ar/p/528bcb6898c3d5714b8978a35be4a720/adjuntos/203/imagenes/103/537/0103537440/2026-11-17-gta-vi.jpg",
+        "summary": "La edición estándar en PlayStation Store cuesta 96,79 dólares con impuestos. En Estados Unidos sale 79,99",
+        "pubDate": "2026-11-17T23:18:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "CAF fue reconocida por la Legislatura porteña por sus 25 años de trabajo en la Argentina",
+        "link": "https://www.lacapital.com.ar/economia/caf-fue-reconocida-la-legislatura-portena-sus-25-anos-trabajo-la-argentina-n10292773.html",
+        "image": "https://media.lacapital.com.ar/p/a23cbd8f5fb4348721664399d8305581/adjuntos/203/imagenes/103/537/0103537399/2026-11-17-caf-01.jpg",
+        "summary": "Se destacó su cooperación con el país y el impulso de obras de infraestructura, integración regional y desarrollo sostenible",
+        "pubDate": "2026-11-17T23:05:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Más de 2.000 pymes santafesinas tienen deudas en mora",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/403af51683b5a0faec6bdc630387c7e4/adjuntos/203/imagenes/103/537/0103537142/1200x675/smart/ak.jpg",
         "summary": "Camino a 2027, el gobernador bonaerense desplegará una amplia agenda institucional y política que abarcará la ciudad de Reconquista y la capital provincial",
         "pubDate": "2026-11-17T20:09:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Árbitros: Leandro Rey Hilfer dirigirá Central-Gimnasia (M) y Nicolás Ramírez, Gimnasia (LP)-Newell's",
-        "link": "https://www.lacapital.com.ar/ovacion/arbitros-leandro-rey-hilfer-dirigira-central-gimnasia-m-y-nicolas-ramirez-gimnasia-lp-newells-n10292726.html",
-        "image": "https://media.lacapital.com.ar/p/c2281b2cca57f3951e2c956a3b269f32/adjuntos/203/imagenes/103/536/0103536929/arbitri.jpg",
-        "summary": "La Liga Profesional designó a los árbitros de todos los partidos por los octavos de final del torneo Clausura",
-        "pubDate": "2026-11-17T19:47:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La Justicia ordenó frenar la actividad de Algodonera Avellaneda",
-        "link": "https://www.lacapital.com.ar/economia/la-justicia-ordeno-frenar-la-actividad-algodonera-avellaneda-n10292704.html",
-        "image": "https://media.lacapital.com.ar/p/1c3ea6e7df8c47904c6ddc611ca172fc/adjuntos/203/imagenes/028/682/0028682159/1200x675/smart/algodonera-avellaneda-4-1jpg.jpg",
-        "summary": "La medida alcanza a la hilandería de Reconquista y a dos desmotadoras. También dispuso la extinción de 243 contratos laborales, con plazos según las tareas de cada trabajador",
-        "pubDate": "2026-11-17T19:10:00+00:00",
         "approxTime": false
       }
     ]
