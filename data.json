@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T17:31:02.345992+00:00",
+  "generatedAt": "2026-11-17T18:01:20.614588+00:00",
   "sites": {
     "rosario3": [
       {
@@ -58,10 +58,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Un problema en la Red Link afecta los servicios digitales del banco Municipal de Rosario",
+        "title": "Un problema en la Red Link afecta a bancos de Rosario",
         "link": "https://www.rosario3.com/informaciongeneral/un-problema-en-la-red-link-afecta-los-servicios-digitales-del-banco-municipal-de-rosario-20261117-0044.html",
-        "image": "https://www.rosario3.com/__export/1794929473453/sites/rosario3/img/2019/03/07/banco_municipal_de_rosario_crop1551956880017.jpg_1768679258.jpg",
-        "summary": "Desde la tarde del lunes, los usuarios tienen inconvenientes para operar a través de Home Banking y la aplicación móvil. La entidad informó que la falla se debe a problemas en algunos enlaces de comunicación de Red Link y aseguró que no están comprometidos los datos personales…",
+        "image": "https://www.rosario3.com/__export/1794938085106/sites/rosario3/img/2026/11/17/red_link.png_928314580.png",
+        "summary": "Desde la tarde del lunes, los usuarios tienen inconvenientes para operar a través de Home Banking y aplicaciones móviles de distintas entidades financieras. Desde el Banco Municipal informaron que la falla se debe a problemas en algunos enlaces de comunicación de Red Link y…",
         "pubDate": "2026-11-17T11:54:00+00:00",
         "approxTime": true
       },
@@ -141,10 +141,55 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "La industria del calzado se moviliza por la caída del consumo y las importaciones",
+        "link": "https://www.lacapital.com.ar/economia/la-industria-del-calzado-se-moviliza-la-caida-del-consumo-y-las-importaciones-n10292690.html",
+        "image": "https://media.lacapital.com.ar/p/1744ea7deef159526ed80c54350d6884/adjuntos/203/imagenes/027/780/0027780800/1200x675/444x168:464x188/calzadojpg.jpg",
+        "summary": "Trabajadores y empresarios marcharán este miércoles a la Secretaría de Industria de la Nación. Reclaman medidas para sostener la producción y el empleo ante el cierre de fábricas",
+        "pubDate": "2026-11-17T17:52:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "\"Ojalá algún día pueda jugar en Newell's\": es rosarino y está en Racing, pero es hincha del rojinegro",
+        "link": "https://www.lacapital.com.ar/ovacion/ojala-algun-dia-pueda-jugar-newells-es-rosarino-y-esta-racing-pero-es-hincha-del-rojinegro-n10292705.html",
+        "image": "https://media.lacapital.com.ar/p/c3596313c75fcbfd7e17561b3ca546ae/adjuntos/203/imagenes/103/536/0103536594/1200x675/smart/image.png",
+        "summary": "El jugador lo confesó en una entrevista televisiva en la que también comparó a Belgrano, donde se inició, con el xeneize: \"Es el Boca de Córdoba\"",
+        "pubDate": "2026-11-17T17:48:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Los gremios amenazan con un paro si avanza la desregulación de la marina mercante",
+        "link": "https://www.lacapital.com.ar/economia/los-gremios-amenazan-un-paro-si-avanza-la-desregulacion-la-marina-mercante-n10292676.html",
+        "image": "https://media.lacapital.com.ar/p/d8d1c991864e2bfbf701a6a77263b071/adjuntos/203/imagenes/102/487/0102487228/1200x675/smart/siconara-1jpg.jpg",
+        "summary": "Advierten que la reforma de la ley de cabotaje y marina mercante habilita que buques de cualquier bandera operen en rutas de cabotaje nacional y “se perderán miles de puestos de trabajo argentino\"",
+        "pubDate": "2026-11-17T17:47:30+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Licitaron la renovación de la red eléctrica de Aaron Castellanos en el departamento General López",
+        "link": "https://www.lacapital.com.ar/la-region/licitaron-la-renovacion-la-red-electrica-aaron-castellanos-el-departamento-general-lopez-n10292699.html",
+        "image": "https://media.lacapital.com.ar/p/73a48a1cc1fea3263e658beebec7956e/adjuntos/203/imagenes/103/536/0103536568/1200x675/smart/aaron-castellanos-1.jpeg",
+        "summary": "La inversión superará los 730 millones de pesos y será ejecutada a través de la Empresa Provincial de la Energía (EPE). Se presentaron cinco oferentes",
+        "pubDate": "2026-11-17T17:40:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El Papa reveló detalles de su charla con Milei: pobreza y \"lenguaje violento\"",
+        "link": "https://www.lacapital.com.ar/politica/el-papa-revelo-detalles-su-charla-milei-pobreza-y-lenguaje-violento-n10292694.html",
+        "image": "https://media.lacapital.com.ar/p/0da161ab9d1420f2249edb2b1e6f9bcc/adjuntos/203/imagenes/103/536/0103536540/1200x675/smart/image.png",
+        "summary": "Durante el vuelo de regreso al Vaticano, el Sumo Pontífice brindó una conferencia de prensa en la que habló a fondo acerca de la realidad argentina. El gobierno evitó pronunciarse sobre los cuestionamientos de León XIV",
+        "pubDate": "2026-11-17T17:38:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "\"No se asusten de una pala. La vera de la autopista es una oportunidad para que Roldán genere trabajo\"",
         "link": "https://www.lacapital.com.ar/la-region/no-se-asusten-una-pala-la-vera-la-autopista-es-una-oportunidad-que-roldan-genere-trabajo-n10292693.html",
         "image": "https://media.lacapital.com.ar/p/e3eb6616fae4eca2c4f2e392f005ce95/adjuntos/203/imagenes/102/696/0102696650/1200x675/smart/escalante-intendente-roldan.jpg",
-        "summary": "El intendente, Daniel Escalante defendió el proyecto que amplía el cambio de uso de suelo sobre la colectora norte de la autopista Rosario-Córdoba. Aseguró que el objetivo es traer empleo",
+        "summary": "El intendente Daniel Escalante defendió el proyecto que amplía el cambio de uso de suelo sobre la colectora norte de la autopista Rosario-Córdoba. Aseguró que el objetivo es traer empleo",
         "pubDate": "2026-11-17T17:26:00+00:00",
         "approxTime": false
       },
@@ -177,15 +222,6 @@
       },
       {
         "source": "La Capital",
-        "title": "Quién es Robert Pattinson: el nuevo James Bond nació en Crepúsculo y se consagró como Batman",
-        "link": "https://www.lacapital.com.ar/zoom/quien-es-robert-pattinson-el-nuevo-james-bond-nacio-crepusculo-y-se-consagro-como-batman-n10292682.html",
-        "image": "https://media.lacapital.com.ar/p/97829c6714ac9065b96ce09fb8b4a90e/adjuntos/203/imagenes/103/536/0103536198/1200x675/smart/image-2026-11-17t120638595.png",
-        "summary": "El actor británico tomará el lugar de Daniel Craig como el agente 007. Amazon anunció su elección para protagonizar la próxima película de la saga de espionaje",
-        "pubDate": "2026-11-17T17:11:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "Central podría buscar una nueva estrella en enero: cuándo se jugaría la Recopa de Campeones",
         "link": "https://www.lacapital.com.ar/ovacion/central-podria-buscar-una-nueva-estrella-enero-cuando-se-jugaria-la-recopa-campeones-n10292680.html",
         "image": "https://media.lacapital.com.ar/p/2d1a1447d12b265a303567c105af5ef6/adjuntos/203/imagenes/103/429/0103429523/1200x675/smart/image-4.jpg",
@@ -195,19 +231,28 @@
       },
       {
         "source": "La Capital",
-        "title": "Audífonos gratuitos de Pami: cómo solicitarlos y cada cuánto se pueden renovar",
-        "link": "https://www.lacapital.com.ar/informacion-general/audifonos-gratuitos-pami-como-solicitarlos-y-cada-cuanto-se-pueden-renovar-n10292677.html",
-        "image": "https://media.lacapital.com.ar/p/743a5dca54de84cfd02c68e0088a225d/adjuntos/203/imagenes/103/536/0103536328/1200x675/smart/image-1.png",
-        "summary": "La obra social de los jubilados otorga audífonos a los afiliados con hipoacusia de forma gratuita. Todo lo que hay que saber para iniciar la solicitud",
+        "title": "Quién es Robert Pattinson: el nuevo James Bond nació en Crepúsculo y se consagró como Batman",
+        "link": "https://www.lacapital.com.ar/zoom/quien-es-robert-pattinson-el-nuevo-james-bond-nacio-crepusculo-y-se-consagro-como-batman-n10292682.html",
+        "image": "https://media.lacapital.com.ar/p/97829c6714ac9065b96ce09fb8b4a90e/adjuntos/203/imagenes/103/536/0103536198/1200x675/smart/image-2026-11-17t120638595.png",
+        "summary": "El actor británico tomará el lugar de Daniel Craig como el agente 007. Amazon anunció su elección para protagonizar la próxima película de la saga de espionaje",
+        "pubDate": "2026-11-17T17:11:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Advertencia del Rojo para Newell's: el comunicado de Independiente y la incertidumbre por Mazzantti",
+        "link": "https://www.lacapital.com.ar/ovacion/advertencia-del-rojo-newells-el-comunicado-independiente-y-la-incertidumbre-mazzantti-n10292663.html",
+        "image": "https://media.lacapital.com.ar/p/87c529b0048bd1eb86eed4b24b10c935/adjuntos/203/imagenes/103/334/0103334997/mazzantti.jpeg",
+        "summary": "El Rojo anticipó que no venderá futbolistas por debajo de las opciones de compra antes de sus elecciones, por lo que la Lepra deberá esperar para negociar",
         "pubDate": "2026-11-17T17:09:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Advertencia para Newell's: el comunicado de Independiente y la incertidumbre por Mazzantti",
-        "link": "https://www.lacapital.com.ar/ovacion/advertencia-newells-el-comunicado-independiente-y-la-incertidumbre-mazzantti-n10292663.html",
-        "image": "https://media.lacapital.com.ar/p/87c529b0048bd1eb86eed4b24b10c935/adjuntos/203/imagenes/103/334/0103334997/mazzantti.jpeg",
-        "summary": "El Rojo anticipó que no venderá futbolistas por debajo de las opciones de compra antes de sus elecciones, por lo que la Lepra deberá esperar para negociar",
+        "title": "Audífonos gratuitos de Pami: cómo solicitarlos y cada cuánto se pueden renovar",
+        "link": "https://www.lacapital.com.ar/informacion-general/audifonos-gratuitos-pami-como-solicitarlos-y-cada-cuanto-se-pueden-renovar-n10292677.html",
+        "image": "https://media.lacapital.com.ar/p/743a5dca54de84cfd02c68e0088a225d/adjuntos/203/imagenes/103/536/0103536328/1200x675/smart/image-1.png",
+        "summary": "La obra social de los jubilados otorga audífonos a los afiliados con hipoacusia de forma gratuita. Todo lo que hay que saber para iniciar la solicitud",
         "pubDate": "2026-11-17T17:09:00+00:00",
         "approxTime": false
       },
@@ -227,51 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/f52ecf7790eb382bd82aaf8d94e1aea7/adjuntos/203/imagenes/028/504/0028504359/1200x675/smart/imagesjpg.jpg",
         "summary": "El Banco Municipal confirmó inconvenientes con el servicio este martes. La falla también repercute en otras entidades financieras de Argentina",
         "pubDate": "2026-11-17T15:48:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Faith No More vuelve a la Argentina junto a Alice in Chains y Mastodon",
-        "link": "https://www.lacapital.com.ar/zoom/faith-no-more-vuelve-la-argentina-junto-alice-in-chains-y-mastodon-n10292669.html",
-        "image": "https://media.lacapital.com.ar/p/28a80710c5c3953ff1585df03fa2ba98/adjuntos/203/imagenes/103/536/0103536304/1200x675/smart/image-2026-11-17t132028809.jpg",
-        "summary": "Doce años después de su última visita, la banda de Mike Patton confirmó su esperado regreso al país.",
-        "pubDate": "2026-11-17T15:47:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Valentino Merlo canceló su show en el Hipódromo de Palermo: \"Lamentamos esta situación\"",
-        "link": "https://www.lacapital.com.ar/zoom/valentino-merlo-cancelo-su-show-el-hipodromo-palermo-lamentamos-esta-situacion-n10292656.html",
-        "image": "https://media.lacapital.com.ar/p/044f9d9b4f495775f89f9376bedf09e4/adjuntos/203/imagenes/102/002/0102002616/1200x675/smart/image-2024-11-08t083654573jpg.jpg",
-        "summary": "El joven rosarino se preparaba para su presentación el 5 de diciembre pero a través de sus redes sociales confirmó que queda suspendido",
-        "pubDate": "2026-11-17T15:37:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Más de 250 cuadrillas municipales intervienen en distintos puntos de la ciudad tras el temporal",
-        "link": "https://www.lacapital.com.ar/la-ciudad/mas-250-cuadrillas-municipales-intervienen-distintos-puntos-la-ciudad-el-temporal-n10292654.html",
-        "image": "https://media.lacapital.com.ar/p/74973cf1fc0a0c798ef0bda359e406d7/adjuntos/203/imagenes/103/536/0103536158/1200x675/smart/tormenta-cuadrillas.png",
-        "summary": "Cayeron más de 52 milímetros de lluvia y se registraron ráfagas de viento de hasta 86 kilómetros por hora. Protección Civil y Gestión de Riesgos intervendrá en mas de 400 incidencias registradas",
-        "pubDate": "2026-11-17T15:33:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Rafael Gutiérrez, entre la despedida frente a los trabajadores judiciales y su futuro",
-        "link": "https://www.lacapital.com.ar/politica/rafael-gutierrez-la-despedida-frente-los-trabajadores-judiciales-y-su-futuro-n10292672.html",
-        "image": "https://media.lacapital.com.ar/p/74e70a0bd46558aeb4d13616c08676a6/adjuntos/203/imagenes/103/536/0103536232/1200x675/smart/guiterrez.jpeg",
-        "summary": "El ministro de la Corte Suprema de Santa Fe dejará su cargo en dos semanas y recibió un homenaje del sindicato. Habló de su identidad. Las chances de saltar a la política",
-        "pubDate": "2026-11-17T15:26:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Los granos recuperan terreno y el trigo argentino encuentra oportunidades",
-        "link": "https://www.lacapital.com.ar/agro/los-granos-recuperan-terreno-y-el-trigo-argentino-encuentra-oportunidades-n10292670.html",
-        "image": "https://media.lacapital.com.ar/p/637b41eb0b430a4c796f41612ab86ce4/adjuntos/203/imagenes/100/005/0100005248/trigo3.jpg",
-        "summary": "Los ajustes del Usda dieron sostén al maíz y la soja. Aunque la cosecha presiona los valores locales de los granos, el cereal argentino ofrece precios competitivos en el mercado internacional",
-        "pubDate": "2026-11-17T15:22:00+00:00",
         "approxTime": false
       }
     ]
