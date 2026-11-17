@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T22:30:56.226742+00:00",
+  "generatedAt": "2026-11-17T23:01:16.933343+00:00",
   "sites": {
     "rosario3": [
       {
@@ -40,11 +40,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Con equipo confirmado, Argentina despide el intenso 2026 en Córdoba ante Costa Rica",
+        "link": "https://www.rosario3.com/deportes/argentina-despide-el-intenso-2026-en-cordoba-se-mide-ante-costa-rica-20261116-0025.html",
+        "image": "https://www.rosario3.com/__export/1794840650996/sites/rosario3/img/2026/11/16/enzo_fernandez.jpg_506286608.jpg",
+        "summary": "Este martes, desde las 20, el seleccionado de Lionel Scaloni enfrentará a los Ticos en el estadio Mario Kempes. Tras la derrota ante Uruguay en el primer partido después del retiro de Lionel Messi, la Albiceleste buscará cerrar el año con una sonrisa",
+        "pubDate": "2026-11-16T11:56:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Murió el hermano del senador provincial Alcides Calvo tras el despiste de un auto en un camino rural de Josefina",
         "link": "https://www.rosario3.com/informaciongeneral/murio-el-hermano-del-senador-provincial-alcides-calvo-tras-el-despiste-de-un-auto-en-un-camino-rural-de-josefina-20261117-0086.html",
         "image": "https://www.rosario3.com/__export/1794951898085/sites/rosario3/img/2026/11/17/siniestro.jpg_982625323.jpg",
         "summary": "Alberto Calvo, de 72 años, falleció en el acto luego de que el vehículo en el que viajaba como acompañante cayera a una cuneta en cercanías de la Ruta Provincial 22. Su hijo, quien conducía, resultó herido y fue hospitalizado en Córdoba",
-        "pubDate": "2026-11-17T11:56:00+00:00",
+        "pubDate": "2026-11-17T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -53,15 +62,6 @@
         "link": "https://www.rosario3.com/policiales/un-puestero-mato-a-su-pareja-y-luego-se-suicido-en-un-campo-del-norte-de-santa-fe-20261117-0087.html",
         "image": "https://www.rosario3.com/__export/1794952135156/sites/rosario3/img/2026/11/17/los_petisos_villa_ana_femicidio_suicidio.jpeg_1825222445.jpeg",
         "summary": "Un femicidio seguido de suicidio conmocionó a Villa Ana, un pueblo forestal del departamento General Obligado. El caso se conoció este martes por la mañana, cuando arribó el patrón y encontró los cuerpos",
-        "pubDate": "2026-11-17T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Una aerolínea española suspendió vuelos a Argentina y difundió cómo reclamar los pasajes",
-        "link": "https://www.rosario3.com/informaciongeneral/una-aerolinea-espanola-suspendio-vuelos-a-argentina-y-difundio-como-reclamar-los-pasajes-20261117-0072.html",
-        "image": "https://www.rosario3.com/__export/1794944339101/sites/rosario3/img/2026/11/17/plus_ultra.jpg_1825222445.jpg",
-        "summary": "La firma Plus Ultra informó que suspendió su ruta a Buenos Aires desde este martes 17 de noviembre y canceló los vuelos previstos hasta el 15 de diciembre. También informó el procedimiento para pasajeros con viajes programados con la compañía",
         "pubDate": "2026-11-17T11:54:00+00:00",
         "approxTime": true
       },
