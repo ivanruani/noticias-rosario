@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T23:30:55.980480+00:00",
+  "generatedAt": "2026-11-17T00:01:21.920787+00:00",
   "sites": {
     "rosario3": [
       {
@@ -22,11 +22,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Mató a su hermano de un golpe con un gancho de carnicería y cayó detenido en barrio Alvear",
+        "link": "https://www.rosario3.com/policiales/mato-a-su-hermano-de-un-golpe-con-un-gancho-de-carniceria-y-cayo-detenido-en-barrio-alvear-20261116-0062.html",
+        "image": "https://www.rosario3.com/__export/1794870425386/sites/rosario3/img/2026/11/16/fabricio_b_detenido_rosario_1.jpg_672794303.jpg",
+        "summary": "La víctima, de 18 años, murió el viernes pasado tras permanecer internada en terapia intensiva y con asistencia respiratoria mecánica. El agresor, de 21, fue detenido en su casa y será imputado por homicidio doloso simple",
+        "pubDate": "2026-11-16T11:58:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Emiten alerta por tormentas fuertes en Rosario y la región",
         "link": "https://www.rosario3.com/informaciongeneral/emiten-alerta-por-tormentas-fuertes-en-rosario-y-la-region-20261116-0057.html",
         "image": "https://www.rosario3.com/__export/1794865146764/sites/rosario3/img/2026/11/16/lluvia.jpg_1825222445.jpg",
         "summary": "El Servicio Meteorológico difundió la advertencia de nivel amarillo para una amplia zona del sur santafesino para lo que resta del lunes y madrugada del martes",
-        "pubDate": "2026-11-16T11:58:00+00:00",
+        "pubDate": "2026-11-16T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -35,7 +44,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/colectivero-se-descompuso-perdio-el-control-y-choco-contra-un-arbol-a-metros-del-cruce-alberdi-20261116-0053.html",
         "image": "https://www.rosario3.com/__export/1794862834666/sites/rosario3/img/2026/11/16/106_choque_alberdi.jpg_672794304.jpg",
         "summary": "Ocurrió en Alberdi al 200 bis. A raíz del impacto, algunos pasajeros sufrieron golpes. El tránsito se encontraba afectado por la reducción del carril",
-        "pubDate": "2026-11-16T11:57:00+00:00",
+        "pubDate": "2026-11-16T11:56:00+00:00",
         "approxTime": true
       },
       {
@@ -44,7 +53,7 @@
         "link": "https://www.rosario3.com/policiales/salio-en-bicicleta-y-nunca-regreso-desesperada-busqueda-de-un-joven-desaparecido-el-7-de-noviembre-20261116-0046.html",
         "image": "https://www.rosario3.com/__export/1794857919377/sites/rosario3/img/2026/11/16/javier_echeverria.jpg_672794304.jpg",
         "summary": "Javier Echeverría, de 25 años, se fue de su vivienda de Campbell al 400 bis y aún no volvió. Su familia contó que atravesaba dificultades económicas y que le debía dinero a un usurero barrial. La última pista lo ubica en la zona del Acuario, en Arroyito, donde lo buscan sin…",
-        "pubDate": "2026-11-16T11:56:00+00:00",
+        "pubDate": "2026-11-16T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -53,15 +62,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/el-camionero-que-choco-contra-una-casa-tenia-183-de-alcohol-y-cocaina-20261116-0040.html",
         "image": "https://www.rosario3.com/__export/1794854045633/sites/rosario3/img/2026/11/16/camion.jpg_1861707316.jpg",
         "summary": "El siniestro ocurrió este lunes a la madrugada en la zona norte de Rosario. El vehículo quedó incrustado en la cochera y comprometió los cimientos, pero no hubo heridos",
-        "pubDate": "2026-11-16T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Del Parque de la Cabecera al barrio de la Carne: Javkin presentó los primeros 48 nuevos colectivos a GNC",
-        "link": "https://www.rosario3.com/informaciongeneral/del-parque-de-la-cabecera-al-barrio-de-la-carne-javkin-presento-los-primeros-48-nuevos-colectivos-a-gnc-20261116-0041.html",
-        "image": "https://www.rosario3.com/__export/1794853647210/sites/rosario3/img/2026/11/16/colectivos_nuevos_1.jpg_982625323.jpg",
-        "summary": "En tres puntos en simultaneo, se presentó la primera tanda de un total de 93 coches que permitirán la renovación del 15% de la flota total del transporte urbano de pasajeros",
         "pubDate": "2026-11-16T11:54:00+00:00",
         "approxTime": true
       },
