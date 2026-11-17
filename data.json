@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T03:01:10.932449+00:00",
+  "generatedAt": "2026-11-17T03:30:56.733874+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "17 de noviembre - Día Mundial de la Construcción",
+        "link": "https://www.lacapital.com.ar/especiales1/17-noviembre-dia-mundial-la-construccion-n10292421.html",
+        "image": "https://media.lacapital.com.ar/p/9f270d22e66cdc9ab7820bf0437da77e/adjuntos/203/imagenes/103/533/0103533723/1200x675/smart/86e16058-3508-492c-870d-4b654420ff5f.jpg",
+        "summary": "La jornada celebra la importancia de la industria de la construcción, motor económico que transforma ciudades como Rosario.",
+        "pubDate": "2026-11-17T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El tiempo en Rosario: un martes que arranca con mucha lluvia y va mejorando",
         "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-un-martes-que-arranca-mucha-lluvia-y-va-mejorando-n10292560.html",
         "image": "https://media.lacapital.com.ar/p/5440b3cf1eed78128b65fe788e61afda/adjuntos/203/imagenes/103/534/0103534802/2026-11-16-clima-by-lvincenti-82830873.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/b04bbc51f15a71c45ae1305b0b3c19ba/adjuntos/203/imagenes/103/487/0103487707/1200x675/536x350:556x370/industria.jpeg",
         "summary": "El gobierno nacional modificó los requisitos para ser proveedor local en el Rigi. Las firmas nacionales perdieron la exclusividad del 20% para abastecer de bienes y obras a los grandes proyectos",
         "pubDate": "2026-11-16T21:59:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Lionel Scaloni: \"Sea el partido que sea hay que dar el ciento por ciento\"",
-        "link": "https://www.lacapital.com.ar/ovacion/lionel-scaloni-sea-el-partido-que-sea-hay-que-dar-el-ciento-ciento-n10292508.html",
-        "image": "https://media.lacapital.com.ar/p/7bbff8847c59c8136212b6caf987272c/adjuntos/203/imagenes/103/534/0103534404/1200x675/smart/image-8.jpg",
-        "summary": "El DT de la selección argentina dijo que no hay que relajarse y le dio gran importancia al choque con Costa Rica. Confirmó al Dibu Martínez",
-        "pubDate": "2026-11-16T21:48:00+00:00",
         "approxTime": false
       }
     ]
