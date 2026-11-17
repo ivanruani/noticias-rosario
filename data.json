@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T00:01:21.920787+00:00",
+  "generatedAt": "2026-11-17T00:31:04.406305+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Encerró a un motociclista con el auto, lo hizo chocar y le provocó una fractura",
+        "link": "https://www.lacapital.com.ar/la-ciudad/encerro-un-motociclista-el-auto-lo-hizo-chocar-y-le-provoco-una-fractura-n10292537.html",
+        "image": "https://media.lacapital.com.ar/p/7670b3cded7a262dd7fb2c8950b21e3a/adjuntos/203/imagenes/103/534/0103534572/2026-11-16-motociclista-auto-choque.jpg",
+        "summary": "El conductor del auto se dio a la fuga pero luego fue detenido. La víctima será operada del codo en el Heca",
+        "pubDate": "2026-11-17T00:04:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El lunes termina en Rosario con alerta amarillo por tormentas fuertes",
         "link": "https://www.lacapital.com.ar/la-ciudad/el-lunes-termina-rosario-alerta-amarillo-tormentas-fuertes-n10292529.html",
         "image": "https://media.lacapital.com.ar/p/d9246c4db29b0fe170465fd8231cfd37/adjuntos/203/imagenes/103/534/0103534528/2026-11-16-clima-by-cmutti-81115853.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/dc6ae01865403c0cfc02edb5053d192b/adjuntos/203/imagenes/103/533/0103533297/1200x675/smart/choque-camion-casa.png",
         "summary": "El siniestro ocurrió durante la madrugada de este lunes en Rosario cuando el conductor perdió el control y quedó incrustado en una vivienda en Esquivel y Casiano Casas",
         "pubDate": "2026-11-16T19:55:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Los comercios rosarinos hacen equilibrio entre las pocas ventas y los gastos fijos que no dan tregua",
-        "link": "https://www.lacapital.com.ar/la-ciudad/los-comercios-rosarinos-hacen-equilibrio-las-pocas-ventas-y-los-gastos-fijos-que-no-dan-tregua-n10292404.html",
-        "image": "https://media.lacapital.com.ar/p/fe56b5f704f43b6c43cae37007b57ab1/adjuntos/203/imagenes/103/299/0103299790/1200x675/smart/calle-san-luis1-1.jpeg",
-        "summary": "Un relevamiento de la Federación Gremial de Rosario mostró que los servicios públicos son la principal preocupación del sector. También aparecen los salarios, las cargas sociales y los impuestos",
-        "pubDate": "2026-11-16T19:53:00+00:00",
         "approxTime": false
       }
     ]
