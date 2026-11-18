@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T11:01:12.092344+00:00",
+  "generatedAt": "2026-11-18T11:30:57.940638+00:00",
   "sites": {
     "rosario3": [
       {
@@ -49,11 +49,29 @@
       },
       {
         "source": "Rosario3",
+        "title": "Dejen en paz a Nico Paz",
+        "link": "https://www.rosario3.com/deportes/dejen-en-paz-a-nico-paz-20261118-0004.html",
+        "image": "https://www.rosario3.com/__export/1795000355783/sites/rosario3/img/2026/11/18/nico_paz_seleccion_argentina.jpg_2138234793.jpg",
+        "summary": "El mediocampista de 22 años atraviesa sus primeros pasos en la Selección mientras los micrófonos insisten en cargarlo con el peso de heredar la camiseta número 10. Una mirada sobre por qué las comparaciones tempranas atentan contra su crecimiento natural",
+        "pubDate": "2026-11-18T11:55:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Nueva edición de la Noche de las Heladerías en Rosario este miércoles",
+        "link": "https://www.rosario3.com/informaciongeneral/se-viene-una-nueva-edicion-de-la-noche-de-las-heladerias-en-rosario-20261117-0067.html",
+        "image": "https://www.rosario3.com/__export/1794943403126/sites/rosario3/img/2026/11/17/helados.png_786111822.png",
+        "summary": "Más de 150 heladerías de Rosario y la región participarán de la propuesta desde las 19. La promoción permitirá comprar dos cuartos de helado al precio de uno y estará vigente hasta el cierre de cada local adherido",
+        "pubDate": "2026-11-17T11:54:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Seguimiento individual argentino: Nico Paz mostró que está para cosas serias y hubo varios jugadores en un alto nivel",
         "link": "https://www.rosario3.com/deportes/seguimiento-individual-argentino-nico-paz-mostro-que-esta-para-cosas-series-y-hubo-varios-jugadores-en-un-alto-nivel-20261117-0089.html",
         "image": "https://www.rosario3.com/__export/1794962323470/sites/rosario3/img/2026/11/17/seguimiento.jpg_982625323.jpg",
         "summary": "El volante del Como italiano fue fugura con dos golazos; Julián y Mastantuono completaron el podio albiceleste",
-        "pubDate": "2026-11-17T11:55:00+00:00",
+        "pubDate": "2026-11-17T11:53:00+00:00",
         "approxTime": true
       },
       {
@@ -62,24 +80,6 @@
         "link": "https://www.rosario3.com/deportes/dibu-volvio-fue-capitan-y-alcanzo-un-historico-record-20261117-0090.html",
         "image": "https://www.rosario3.com/__export/1794931010651/sites/rosario3/img/2026/11/17/dibu-martxnez.jpg_928314580.jpg",
         "summary": "El arquero se recuperó de una fractura de mandíbula, llevó la cinta y llegó a las 47 vallas invictas igualando un hito de Chiquito Romero",
-        "pubDate": "2026-11-17T11:54:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Con concesiones, el Gobierno logró dictaminar el Presupuesto y Diputados lo debatirá la semana próxima",
-        "link": "https://www.rosario3.com/politica/con-concesiones-el-gobierno-logro-dictaminar-el-presupuesto-y-diputados-lo-debatira-la-semana-proxima-20261117-0088.html",
-        "image": "https://www.rosario3.com/__export/1794956137426/sites/rosario3/img/2026/11/17/menem_ritondo.jpg_1768679257.jpg",
-        "summary": "El oficialismo contó con el apoyo del PRO, la UCR, el MID, Producción y Trabajo, Elijo Catamarca e Independencia. Incluyeron los fondos para la nueva ley de Discapacidad, pero no aceptaron aumentar las partidas para las universidades",
-        "pubDate": "2026-11-17T11:53:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El Senado postergó el dictamen de la reforma electoral y el Gobierno busca apoyos para suspender las Paso",
-        "link": "https://www.rosario3.com/politica/el-senado-postergo-el-dictamen-de-la-reforma-electoral-y-el-gobierno-busca-apoyos-para-suspender-las-paso-20261117-0075.html",
-        "image": "https://www.rosario3.com/__export/1794946415551/sites/rosario3/img/2026/11/17/bullrich_senado.jpg_1825222467.jpg",
-        "summary": "El oficialismo no reunió las diez firmas necesarias para avanzar con el proyecto en la Comisión de Asuntos Constitucionales y pasó a un cuarto intermedio hasta este miércoles al mediodía",
         "pubDate": "2026-11-17T11:52:00+00:00",
         "approxTime": true
       },
@@ -94,20 +94,38 @@
       },
       {
         "source": "Rosario3",
-        "title": "Tras el temporal en Rosario y la región: la EPE ratifica que finalizaron los trabajos de media tensión en las localidades afectadas",
-        "link": "https://www.rosario3.com/informaciongeneral/tras-el-temporal-en-rosario-y-la-region-la-epe-ratifica-que-finalizaron-los-trabajos-de-media-tension-en-las-localidades-afectadas-20261117-0093.html",
-        "image": "https://www.rosario3.com/__export/1794960617815/sites/rosario3/img/2026/11/17/epe_trabaja.jpg_928314580.jpg",
-        "summary": "Las ráfagas de viento que superaron los 80 kilómetros por hora durante la noche del lunes. La empresa provincial desplegó un operativo de emergencia. Ya normalizó el suministro aseguraron a Rosario3, aunque puede haber casos particulares que aun resten atender",
+        "title": "Nuevo canje de reciclables este viernes en Rosario: horario y lugar",
+        "link": "https://www.rosario3.com/informaciongeneral/nuevo-canje-de-reciclables-este-viernes-en-rosario-horario-y-lugar-20261117-0077.html",
+        "image": "https://www.rosario3.com/__export/1794946993971/sites/rosario3/img/2026/11/17/reciclables.jpeg_755318447.jpeg",
+        "summary": "La actividad se realizará por la mañana y se podrán entregar cartones, papel, plástico, vidrio, latas y telgopor limpios y secos",
         "pubDate": "2026-11-17T11:50:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Murió el hermano del senador provincial Alcides Calvo tras el despiste de un auto en un camino rural de Josefina",
-        "link": "https://www.rosario3.com/informaciongeneral/murio-el-hermano-del-senador-provincial-alcides-calvo-tras-el-despiste-de-un-auto-en-un-camino-rural-de-josefina-20261117-0086.html",
-        "image": "https://www.rosario3.com/__export/1794951898085/sites/rosario3/img/2026/11/17/siniestro.jpg_982625323.jpg",
-        "summary": "Alberto Calvo, de 72 años, falleció en el acto luego de que el vehículo en el que viajaba como acompañante cayera a una cuneta en cercanías de la Ruta Provincial 22. Su hijo, quien conducía, resultó herido y fue hospitalizado en Córdoba",
+        "title": "Revés para Agostina Páez en Río de Janeiro: la Fiscalía rechazó un acuerdo y la argentina quedó a un paso de la sentencia",
+        "link": "https://www.rosario3.com/informaciongeneral/reves-para-agostina-paez-en-rio-de-janeiro-la-fiscalia-rechazo-un-acuerdo-y-la-argentina-quedo-a-un-paso-de-la-sentencia-20261117-0096.html",
+        "image": "https://www.rosario3.com/__export/1794964189178/sites/rosario3/img/2026/11/17/agostina.jpg_1768679258.jpg",
+        "summary": "El Ministerio Público brasileño descartó cerrar la causa mediante tareas comunitarias o un resarcimiento económico por la gravedad de los insultos en un bar de Ipanema. Su defensa insiste con la absolución",
         "pubDate": "2026-11-17T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Tras el temporal en Rosario y la región: la EPE ratifica que finalizaron los trabajos de media tensión en las localidades afectadas",
+        "link": "https://www.rosario3.com/informaciongeneral/tras-el-temporal-en-rosario-y-la-region-la-epe-ratifica-que-finalizaron-los-trabajos-de-media-tension-en-las-localidades-afectadas-20261117-0093.html",
+        "image": "https://www.rosario3.com/__export/1794960617815/sites/rosario3/img/2026/11/17/epe_trabaja.jpg_928314580.jpg",
+        "summary": "Las ráfagas de viento que superaron los 80 kilómetros por hora durante la noche del lunes. La empresa provincial desplegó un operativo de emergencia. Ya normalizó el suministro aseguraron a Rosario3, aunque puede haber casos particulares que aun resten atender",
+        "pubDate": "2026-11-17T11:48:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Con concesiones, el Gobierno logró dictaminar el Presupuesto y Diputados lo debatirá la semana próxima",
+        "link": "https://www.rosario3.com/politica/con-concesiones-el-gobierno-logro-dictaminar-el-presupuesto-y-diputados-lo-debatira-la-semana-proxima-20261117-0088.html",
+        "image": "https://www.rosario3.com/__export/1794956137426/sites/rosario3/img/2026/11/17/menem_ritondo.jpg_1768679257.jpg",
+        "summary": "El oficialismo contó con el apoyo del PRO, la UCR, el MID, Producción y Trabajo, Elijo Catamarca e Independencia. Incluyeron los fondos para la nueva ley de Discapacidad, pero no aceptaron aumentar las partidas para las universidades",
+        "pubDate": "2026-11-17T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -116,29 +134,38 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/la-inflacion-mayorista-en-octubre-fue-de-16-y-acumulo-298-en-los-ultimos-doce-meses-20261117-0083.html",
         "image": "https://www.rosario3.com/__export/1794951010973/sites/rosario3/img/2026/11/17/inflacixn.jpg_1768679257.jpg",
         "summary": "El índice registró una baja de 1,6 puntos porcentuales respecto al mes anterior y quedó por debajo del indicador minorista",
-        "pubDate": "2026-11-17T11:48:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "\"Voy a ser reelecto\": Javier Milei volvió a pronosticar que tendrá un segundo mandato como presidente",
-        "link": "https://www.rosario3.com/informaciongeneral/voy-a-ser-reelecto-javier-milei-volvio-a-pronosticar-que-tendra-un-segundo-mandato-como-presidente-20261117-0082.html",
-        "image": "https://www.rosario3.com/__export/1794951542745/sites/rosario3/img/2026/11/17/milei.jpg_928314580.jpg",
-        "summary": "El mandatario ofreció un discurso en las Jornadas Monetarias y Bancarias 2026 del BCRA en el Palacio Libertad sobre su gestión",
-        "pubDate": "2026-11-17T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El impacto de la crecida del río desde Arroyito hasta el Remanso Valerio: las fotos",
-        "link": "https://www.rosario3.com/informaciongeneral/el-impacto-de-la-crecida-del-rio-desde-arroyito-hasta-el-remanso-valerio-las-fotos-20261117-0064.html",
-        "image": "https://www.rosario3.com/__export/1794942515311/sites/rosario3/img/2026/11/17/remanso_1.jpg_51742710.jpg",
-        "summary": "El Paraná subió a 4,90 metros a la medianoche del lunes y cedió a 4,84 este martes al mediodía. Rosario3 recorrió la costanera norte. El punto más crítico es el barrio de pescadores en el inicio de Granadero Baigorria, pero por ahora el agua no ingresó a las calles y viviendas…",
         "pubDate": "2026-11-17T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Dos hábitos sencillos y prácticos para mejorar la digestión",
+        "link": "https://www.lacapital.com.ar/dos-habitos-sencillos-y-practicos-mejorar-la-digestion-n10292756.html",
+        "image": "https://media.lacapital.com.ar/p/569c238a685fefc116ec0f5b001964d1/adjuntos/203/imagenes/103/537/0103537337/1200x675/smart/image-2.png",
+        "summary": "Caminatas cortas e infusiones pueden ayudar al sistema digestivo. Algunos consejos para sumar a la rutina",
+        "pubDate": "2026-11-18T11:19:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "WhatsApp cambia el PIN de seis dígitos por una contraseña: cómo configurarla",
+        "link": "https://www.lacapital.com.ar/informacion-general/whatsapp-cambia-el-pin-seis-digitos-una-contrasena-como-configurarla-n10292744.html",
+        "image": "https://media.lacapital.com.ar/p/975f9cff4d57f65674dcb57047af275b/adjuntos/203/imagenes/100/613/0100613408/1200x675/smart/whatsappjpg.jpg",
+        "summary": "La app también permitirá ingresar con el reconocimiento biométrico del rostro o la huella digital. Se trata de una función que otorga mayor seguridad a la cuenta",
+        "pubDate": "2026-11-18T11:17:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Lionel Scaloni: \"Estoy satisfecho con lo hecho en la selección y nos espera un nuevo reto\"",
+        "link": "https://www.lacapital.com.ar/lionel-scaloni-estoy-satisfecho-lo-hecho-la-seleccion-y-nos-espera-un-nuevo-reto-n10292799.html",
+        "image": "https://media.lacapital.com.ar/p/f1bc18a50d8570e101cacc273262a54c/adjuntos/203/imagenes/103/537/0103537839/1200x675/smart/image-7.jpg",
+        "summary": "Tras la goleada por 7 a 0 a Costa Rica, el entrenador de Argentina habló de todo en la última conferencia de prensa del año y reiteró: \"No creo que la gente haya perdido el amor por la selección\"",
+        "pubDate": "2026-11-18T11:00:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Crimen en la zona sur: le dieron un balazo en la cabeza cerca de la Villa Suramericana",
@@ -177,6 +204,15 @@
       },
       {
         "source": "La Capital",
+        "title": "Newell's espera tener un doble alivio antes de viajar a La Plata",
+        "link": "https://www.lacapital.com.ar/newells-espera-tener-un-doble-alivio-antes-viajar-la-plata-n10292768.html",
+        "image": "https://media.lacapital.com.ar/p/cc5db04f423bc71ca167df37b07d5aa1/adjuntos/203/imagenes/103/537/0103537370/1200x675/smart/image-2026-11-17t192948054.png",
+        "summary": "Hay expectativas en torno a que a Kudelka le bajen la sanción y se siente en el banco ante Gimnasia. Cuatro de los cinco lesionados se encaminan a volver",
+        "pubDate": "2026-11-18T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El Niño: el municipio dispondrá de 3 mil agentes ante un episodio extremo",
         "link": "https://www.lacapital.com.ar/la-ciudad/el-nino-el-municipio-dispondra-3-mil-agentes-un-episodio-extremo-n10292724.html",
         "image": "https://media.lacapital.com.ar/p/12e91ecabedefc3d7ed726b3a4739fe1/adjuntos/203/imagenes/103/537/0103537342/1200x675/smart/tormentax.jpg",
@@ -195,11 +231,11 @@
       },
       {
         "source": "La Capital",
-        "title": "Newell's espera tener un doble alivio antes de viajar a La Plata",
-        "link": "https://www.lacapital.com.ar/newells-espera-tener-un-doble-alivio-antes-viajar-la-plata-n10292768.html",
-        "image": "https://media.lacapital.com.ar/p/cc5db04f423bc71ca167df37b07d5aa1/adjuntos/203/imagenes/103/537/0103537370/1200x675/smart/image-2026-11-17t192948054.png",
-        "summary": "Hay expectativas en torno a que a Kudelka le bajen la sanción y se siente en el banco ante Gimnasia. Cuatro de los cinco lesionados se encaminan a volver",
-        "pubDate": "2026-11-18T09:10:00+00:00",
+        "title": "Buscan suspender embargos e iniciar una moratoria para pymes",
+        "link": "https://www.lacapital.com.ar/politica/buscan-suspender-embargos-e-iniciar-una-moratoria-pymes-n10292778.html",
+        "image": "https://media.lacapital.com.ar/p/ad92d32452ab6037826a9fd9b8ea6dfc/adjuntos/203/imagenes/103/537/0103537486/2026-11-17-farias.jpg",
+        "summary": "La comisión de Pymes de Diputados de la Nación emitió dictamen este martes, producto del consenso entre diferentes bloques",
+        "pubDate": "2026-11-18T09:00:00+00:00",
         "approxTime": false
       },
       {
@@ -208,15 +244,6 @@
         "link": "https://www.lacapital.com.ar/la-ciudad/el-rosarino-que-triunfa-asia-fue-director-starbucks-y-fundo-su-propio-estudio-n10292648.html",
         "image": "https://media.lacapital.com.ar/p/04b28514e0c35b4d59e3e870f25f94b1/adjuntos/203/imagenes/103/536/0103536787/1200x675/smart/lucas-torresi-1.jpeg",
         "summary": "Lucas Torresi emigró en 2003 tras la crisis argentina. Vivió en Vietnam y Singapur, y hoy está radicado en Hong Kong",
-        "pubDate": "2026-11-18T09:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Buscan suspender embargos e iniciar una moratoria para pymes",
-        "link": "https://www.lacapital.com.ar/politica/buscan-suspender-embargos-e-iniciar-una-moratoria-pymes-n10292778.html",
-        "image": "https://media.lacapital.com.ar/p/ad92d32452ab6037826a9fd9b8ea6dfc/adjuntos/203/imagenes/103/537/0103537486/2026-11-17-farias.jpg",
-        "summary": "La comisión de Pymes de Diputados de la Nación emitió dictamen este martes, producto del consenso entre diferentes bloques",
         "pubDate": "2026-11-18T09:00:00+00:00",
         "approxTime": false
       },
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/bdc9670b7412fd66af37d567d8658219/adjuntos/203/imagenes/103/537/0103537664/2026-11-17-sarampion.jpg",
         "summary": "EEUU enfrenta el mayor brote en 30 años. El principal motivo es el descenso en las tasas de vacunación",
         "pubDate": "2026-11-18T01:11:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El futuro de la selección argentina ya llegó con una exhibición de goles",
-        "link": "https://www.lacapital.com.ar/el-futuro-la-seleccion-argentina-ya-llego-una-exhibicion-goles-n10292781.html",
-        "image": "https://media.lacapital.com.ar/p/fe2a038e7dd566dd5af8b6defffd83e6/adjuntos/203/imagenes/103/537/0103537642/image-2026-11-17t212011975.png",
-        "summary": "La nueva camada, con Nico Paz como estandarte, se lució en el 7 a 0 sobre Costa Rica. Los consagrados, liderados por Julián Álvarez, también brillaron",
-        "pubDate": "2026-11-18T01:02:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Ucrania atacó con drones y misiles un importante puente de Rusia",
-        "link": "https://www.lacapital.com.ar/el-mundo/ucrania-ataco-drones-y-misiles-un-importante-puente-rusia-n10292783.html",
-        "image": "https://media.lacapital.com.ar/p/60ffc78c37559934ce442904a6f9f4b3/adjuntos/203/imagenes/103/537/0103537577/2026-11-17-puente-ucrania.jpg",
-        "summary": "El presidente Zelenski lo describió como una operación “sin precedentes”",
-        "pubDate": "2026-11-18T00:41:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El Papa perdonó a quien le arrojó un rosario: \"Aquí hay mucho entusiasmo\"",
-        "link": "https://www.lacapital.com.ar/informacion-general/el-papa-perdono-quien-le-arrojo-un-rosario-aqui-hay-mucho-entusiasmo-n10292782.html",
-        "image": "https://media.lacapital.com.ar/p/cf7fb90de6ee8e5e78761f459c5bb10b/adjuntos/203/imagenes/103/537/0103537554/2026-11-17-papa-rosario-ojo-82873823.jpg",
-        "summary": "\"Son cosas que uno lleva en el corazón, quizás en el ojo\", bromeó el Sumo Pontífice",
-        "pubDate": "2026-11-18T00:21:00+00:00",
         "approxTime": false
       }
     ]
