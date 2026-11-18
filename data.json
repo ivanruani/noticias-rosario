@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T16:30:54.268801+00:00",
+  "generatedAt": "2026-11-18T17:01:01.866842+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Perro Suizo encabeza un nuevo festival en la ciudad",
+        "link": "https://www.lacapital.com.ar/zoom/perro-suizo-encabeza-un-nuevo-festival-la-ciudad-n10292911.html",
+        "image": "https://media.lacapital.com.ar/p/356df09219b63f57550503ff7acae24b/adjuntos/203/imagenes/103/539/0103539578/1200x675/smart/image-2026-11-18t143329165.jpg",
+        "summary": "La banda rosarina es una de las organizadoras de Groove and Roll, que tendrá su primera edición este sábado 21 en Refi",
+        "pubDate": "2026-11-18T16:49:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El gobierno aumentó los aranceles de las prestaciones por discapacidad: cuánto cobra cada categoría",
+        "link": "https://www.lacapital.com.ar/informacion-general/el-gobierno-aumento-los-aranceles-las-prestaciones-discapacidad-cuanto-cobra-cada-categoria-n10292902.html",
+        "image": "https://media.lacapital.com.ar/p/c6df53f5613ef0982d56c1309a189898/adjuntos/203/imagenes/100/027/0100027806/1200x675/smart/178-pensiones-por-discapacidad-denuncian-corrupcion-kwebp.png",
+        "summary": "La actualización rige desde noviembre y alcanza a todas las modalidades del nomenclador nacional. También continúa el adicional del 20% para la Patagonia",
+        "pubDate": "2026-11-18T16:31:39+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Conmoción en la farándula argentina: qué le pasa al marido de Mariana Fabbiani",
         "link": "https://www.lacapital.com.ar/informacion-general/conmocion-la-farandula-argentina-que-le-pasa-al-marido-mariana-fabbiani-n10292866.html",
         "image": "https://media.lacapital.com.ar/p/16d00ba6d5d1ca9b3c4b4fb47a3e412f/adjuntos/203/imagenes/103/539/0103539228/1200x675/smart/mariana-fabbiani.jpg",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/e9f77a44dee4cdfb1dcea68e07c34705/adjuntos/203/imagenes/103/538/0103538888/1200x675/smart/cancha-tiroteo.png",
         "summary": "Sucedió el martes a la noche en Pellegrini y Cullen, en la zona oeste de Rosario. No hubo heridos, pero la policía halló en la vereda tres vainas de 9 milímetros",
         "pubDate": "2026-11-18T14:21:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central: Pizarro jugó los dos amistosos de Chile y llegará con ritmo a los octavos del Clausura",
-        "link": "https://www.lacapital.com.ar/ovacion/central-pizarro-jugo-los-dos-amistosos-chile-y-llegara-ritmo-los-octavos-del-clausura-n10292855.html",
-        "image": "https://media.lacapital.com.ar/p/b7f5d0933102e292cd0e991edf59f1d6/adjuntos/203/imagenes/103/538/0103538841/1200x675/smart/pizarro-chile-colombia.jpg",
-        "summary": "El mediocampista disputó los dos encuentros ante la selección de Colombia y regresará a Rosario para afrontar el duelo ante Gimnasia de Mendoza",
-        "pubDate": "2026-11-18T14:14:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El increíble récord que alcanzó Dibu Martínez en su vuelta al arco de la selección argentina",
-        "link": "https://www.lacapital.com.ar/ovacion/el-increible-record-que-alcanzo-dibu-martinez-su-vuelta-al-arco-la-seleccion-argentina-n10292851.html",
-        "image": "https://media.lacapital.com.ar/p/56e96f594674793a506c783f2127dd49/adjuntos/203/imagenes/103/538/0103538450/1200x675/smart/image-2026-11-18t091814873.png",
-        "summary": "El arquero mantuvo la valla invicta en la goleada ante Costa Rica y llegó a los 47 partidos sin recibir goles con la camiseta albiceleste",
-        "pubDate": "2026-11-18T13:52:00+00:00",
         "approxTime": false
       }
     ]
