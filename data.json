@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T01:30:56.062481+00:00",
+  "generatedAt": "2026-11-18T02:01:04.275946+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El tiempo en Rosario: miércoles caluroso, nublado y con chances de chaparrones",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-miercoles-caluroso-nublado-y-chances-chaparrones-n10292793.html",
+        "image": "https://media.lacapital.com.ar/p/c5e5f6fdf997fa881eaf90fa9419e4af/adjuntos/203/imagenes/103/537/0103537819/2026-11-17-clima-by_vbenedetto-80866922.jpg",
+        "summary": "El resto de la semana tendría nubosidad variable con máximas entre 26º y 28º",
+        "pubDate": "2026-11-18T01:57:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Un avión militar ruso se estrelló en Siberia y hay 19 muertos",
         "link": "https://www.lacapital.com.ar/informacion-general/un-avion-militar-ruso-se-estrello-siberia-y-hay-19-muertos-n10292788.html",
         "image": "https://media.lacapital.com.ar/p/cd3bc32007e1d5eafb7055081fa6facf/adjuntos/203/imagenes/103/537/0103537709/2026-11-17-antonov.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/26f1e3729f8366f16fff03dacd17801a/adjuntos/203/imagenes/103/537/0103537338/1200x675/smart/image.png",
         "summary": "“Mi sucesor vendrá en 2031 porque seré reelecto\", aseveró el presidente al momento de volver a pronosticar que tendrá un segundo mandato",
         "pubDate": "2026-11-17T21:46:44+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El PRO acompaña la suspensión de las Paso, pero mantiene reparos sobre las colectoras",
-        "link": "https://www.lacapital.com.ar/politica/el-pro-acompana-la-suspension-las-paso-pero-mantiene-reparos-las-colectoras-n10292752.html",
-        "image": "https://media.lacapital.com.ar/p/2adc33a721015e0b990fb6e43fc49830/adjuntos/203/imagenes/103/537/0103537291/1200x675/smart/mauricio-macri-pro-paso.jpg",
-        "summary": "Tras una reunión encabezada por Mauricio Macri, el partido amarillo cambió su posición sobre las primarias. Ficha Limpia, una de las condiciones",
-        "pubDate": "2026-11-17T21:18:00+00:00",
         "approxTime": false
       }
     ]
