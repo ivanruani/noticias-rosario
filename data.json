@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T20:01:10.837537+00:00",
+  "generatedAt": "2026-11-18T20:30:54.351404+00:00",
   "sites": {
     "rosario3": [
       {
@@ -103,11 +103,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Paro de repartidores y fleteros que trabajan para OCA: reclamaron por la falta de pagos",
+        "link": "https://www.rosario3.com/informaciongeneral/paro-de-repartidores-y-fleteros-que-trabajan-para-oca-reclamaron-por-la-falta-de-pagos-20261118-0046.html",
+        "image": "https://www.rosario3.com/__export/1795026738676/sites/rosario3/img/2026/11/18/repartidores.jpg_1127338202.jpg",
+        "summary": "Cerca de 50 tercerizados que llevan pedidos a domicilio se manifestaron este miércoles frente al depósito de la firma. Le deben dos meses y medio. 'Dejamos de trabajar porque no nos pagan', dijeron los empleados informales",
+        "pubDate": "2026-11-18T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Repartidores fueron asaltados a punta de pistola en zona noroeste: piden ayuda para recuperar su moto",
         "link": "https://www.rosario3.com/policiales/repartidores-fueron-asaltados-a-punta-de-pistola-en-zona-noroeste-piden-ayuda-para-recuperar-su-moto-20261118-0035.html",
         "image": "https://www.rosario3.com/__export/1795018767731/sites/rosario3/img/2026/11/18/robo_moto_ecuador_y_urquiza.jpg_506286608.jpg",
         "summary": "El hecho ocurrió el martes a la noche en inmediaciones de Urquiza y Ecuador, cuando una pareja de cadetes fue abordada por dos delincuentes. Según relató Milagros, una de las víctimas, los asaltantes efectuaron detonaciones al aire y se llevaron su rodado",
-        "pubDate": "2026-11-18T11:49:00+00:00",
+        "pubDate": "2026-11-18T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +125,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/colectividades-demoraron-a-40-cuidacoches-en-los-operativos-desplegados-durante-la-fiesta-20261118-0031.html",
         "image": "https://www.rosario3.com/__export/1795016271042/sites/rosario3/img/2026/11/18/controles_cuidacoches_rosario.jpg_506286608.jpg",
         "summary": "De acuerdo a datos de la Secretaría de Control y la Policía, también se labraron más de 150 actas de infracción y se hicieron unas 300 intervenciones de disuasión, en el marco de un trabajo conjunto de controles durante todas las noches de la celebración",
-        "pubDate": "2026-11-18T11:48:00+00:00",
+        "pubDate": "2026-11-18T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,20 +134,74 @@
         "link": "https://www.rosario3.com/informaciongeneral/el-rosarino-matias-bottoni-hablo-sobre-sus-avances-con-el-exoesqueleto-su-rehabilitacion-en-espana-y-su-nueva-etapa-en-el-rugby-en-silla-de-ruedas-20261118-0026.html",
         "image": "https://www.rosario3.com/__export/1795014168990/sites/rosario3/img/2026/11/18/matias_bottoni.png_786111822.png",
         "summary": "Tras el accidente que sufrió en 2025, el deportista, radicado en Barcelona, mostró los beneficios de la tecnología en su tratamiento y contó cómo encontró en una disciplina adaptada un nuevo espacio de contención y motivación",
-        "pubDate": "2026-11-18T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El Gobierno repudió la visita de la princesa Ana a Malvinas y reclamó contra la explotación petrolera de Reino Unido: \"Es una provocación\"",
-        "link": "https://www.rosario3.com/informaciongeneral/el-gobierno-repudio-la-visita-de-la-princesa-ana-a-malvinas-y-reclamo-contra-la-explotacion-petrolera-de-reino-unido-es-una-provocacion-20261118-0012.html",
-        "image": "https://www.rosario3.com/__export/1795006104792/sites/rosario3/img/2026/11/18/princesa_ana_malvinas.jpg_506286608.jpg",
-        "summary": "La Cancillería cuestionó las actividades oficiales de la hermana del rey Carlos III en las islas y las vinculó con la explotación hidrocarburífera unilateral del Reino Unido. El pronunciamiento se conoció después de las audiencias por el proyecto Sea Lion ante un tribunal…",
         "pubDate": "2026-11-18T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Los libertarios apuntaron contra Unidos tras la sesión caída en Diputados",
+        "link": "https://www.lacapital.com.ar/politica/los-libertarios-apuntaron-contra-unidos-la-sesion-caida-diputados-n10292969.html",
+        "image": "https://media.lacapital.com.ar/p/11ebe721e8f724df6e2d700298b7371a/adjuntos/203/imagenes/103/539/0103539801/1200x675/smart/libertarios-sesion-diputados.jpg",
+        "summary": "Romina Diez habló de “intereses mezquinos” y Marcos Peyrano acusó a los legisladores de Pullaro de sumarse al kirchnerismo para bloquear el debate",
+        "pubDate": "2026-11-18T20:18:27+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Un estudio ubica a Pullaro entre los gobernadores mejor valorados de la Argentina",
+        "link": "https://www.lacapital.com.ar/politica/un-estudio-ubica-pullaro-los-gobernadores-mejor-valorados-la-argentina-n10292976.html",
+        "image": "https://media.lacapital.com.ar/p/1e118bf2c571e331645e27075f8ada45/adjuntos/203/imagenes/103/420/0103420096/2026-09-22-pullaro-82176237-at_hrio.jpg",
+        "summary": "El mandatario santafesino llegó en noviembre al tercer lugar en el ranking que realiza la consultora de opinión pública CB Global Data",
+        "pubDate": "2026-11-18T20:18:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Tres ideas de desayunos fáciles y saludables",
+        "link": "https://www.lacapital.com.ar/informacion-general/tres-ideas-desayunos-faciles-y-saludables-n10292953.html",
+        "image": "https://media.lacapital.com.ar/p/bccf60473178982870b75864dd5edcb5/adjuntos/203/imagenes/103/539/0103539796/1200x675/smart/image-6.png",
+        "summary": "Platos sencillos y caseros que llevan pocos ingredientes y se pueden preparar en poco tiempo. Tres opciones para desayunar rico y saludable",
+        "pubDate": "2026-11-18T20:16:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Cómo mantener dos cuentas de WhatsApp abiertas en el mismo teléfono",
+        "link": "https://www.lacapital.com.ar/informacion-general/como-mantener-dos-cuentas-whatsapp-abiertas-el-mismo-telefono-n10292929.html",
+        "image": "https://media.lacapital.com.ar/p/09f532d5bfb655505c6fe86b89b57000/adjuntos/203/imagenes/102/727/0102727822/1200x675/smart/whatsapp-celular.png",
+        "summary": "La aplicación permite manejar dos cuentas diferentes desde el mismo dispositivo. Cómo funciona el soporte multi-cuenta de Business",
+        "pubDate": "2026-11-18T20:12:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Zona oeste: denuncian a un policía que disparó contra vecinos en una cancha de fútbol",
+        "link": "https://www.lacapital.com.ar/policiales/zona-oeste-denuncian-un-policia-que-disparo-contra-vecinos-una-cancha-futbol-n10292950.html",
+        "image": "https://media.lacapital.com.ar/p/9f868e8a3102bf4f789f57b11c83a02e/adjuntos/203/imagenes/103/539/0103539744/1200x675/smart/canchi.jpg",
+        "summary": "Fue el martes a las 22. El uniformado es integrante de una de las familias que disputaba el partido. La policía encontró tres vainas pero testigos aseguran que disparó ocho veces",
+        "pubDate": "2026-11-18T20:09:54+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Rosario vuelve a movilizarse para reunir alimentos destinados a más de 400 comedores",
+        "link": "https://www.lacapital.com.ar/la-ciudad/rosario-vuelve-movilizarse-reunir-alimentos-destinados-mas-400-comedores-n10292960.html",
+        "image": "https://media.lacapital.com.ar/p/3edff9737d5aa14899b52a64c15e1e85/adjuntos/203/imagenes/100/159/0100159419/1200x675/smart/gondolazojpg.jpg",
+        "summary": "La campaña se realizará el viernes y sábado en supermercados de la ciudad. La iniciativa ya permitió recolectar más de 260 mil kilos de alimentos",
+        "pubDate": "2026-11-18T20:08:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Cáncer de piel: la mitad de las personas controladas en la Calle Recreativa fue derivada al médico",
+        "link": "https://www.lacapital.com.ar/la-ciudad/cancer-piel-la-mitad-las-personas-controladas-la-calle-recreativa-fue-derivada-al-medico-n10292961.html",
+        "image": "https://media.lacapital.com.ar/p/e1a7757d1e06c5cf6a0a76c02111b91b/adjuntos/203/imagenes/102/812/0102812566/1200x675/smart/cancer-piel.jpeg",
+        "summary": "La campaña gratuita impulsada por profesionales de la dermatología junto al Concejo Municipal y Salud Pública, permitió realizar 575 controles en Calle Recreativa",
+        "pubDate": "2026-11-18T20:07:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Diputados: se cayó la sesión para tratar la ley Malvinas y la reforma del Banco Central",
@@ -209,69 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/3ab96a00b7fb2ce313bebcf8a1575f28/adjuntos/203/imagenes/103/539/0103539729/1200x675/smart/image.png",
         "summary": "El presidente también cargó contra la oposición y anunció que presentará su nuevo libro el 30 de noviembre próximo en el Palacio Libertad",
         "pubDate": "2026-11-18T18:32:37+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Recorridas territoriales en localidades del departamento San Martín afectadas por los temporales",
-        "link": "https://www.lacapital.com.ar/la-region/recorridas-territoriales-localidades-del-departamento-san-martin-afectadas-los-temporales-n10292940.html",
-        "image": "https://media.lacapital.com.ar/p/c4ebcfacc193a0b620c9b100ce6afb5b/adjuntos/203/imagenes/103/539/0103539738/1200x675/smart/motta-tormenta.jpeg",
-        "summary": "Los episodios climáticos dejaron distintos tipos de daños en la infraestructura, espacios públicos, instituciones y viviendas, por lo que las localidades continúan con tareas de asistencia a los vecinos afectados",
-        "pubDate": "2026-11-18T18:31:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Brilló en el Coloso en los Juegos Suramericanos y sería titular con River en los playoffs",
-        "link": "https://www.lacapital.com.ar/ovacion/brillo-el-coloso-los-juegos-suramericanos-y-seria-titular-river-los-playoffs-n10292925.html",
-        "image": "https://media.lacapital.com.ar/p/48ddf537ff37e52024fa9499a8fca905/adjuntos/203/imagenes/103/539/0103539645/santiago-espindola-river-juegos-suramericanos.jpeg",
-        "summary": "Santiago Espíndola fue una de las figuras de la selección sub-19 en Rosario e iría de arranque en el Millonario en los octavos del Clausura ante Lanús",
-        "pubDate": "2026-11-18T18:25:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El tenis local tuvo un cierre de temporada que ya es una marca registrada",
-        "link": "https://www.lacapital.com.ar/ovacion/el-tenis-local-tuvo-un-cierre-temporada-que-ya-es-una-marca-registrada-n10292712.html",
-        "image": "https://media.lacapital.com.ar/p/abc49b4e75d6b5bc9cfdac6b927d3ac7/adjuntos/203/imagenes/103/536/0103536619/tenis.jpg",
-        "summary": "Los menores de la Asociación Rosarina de Tenis culminaron el año con una gran fiesta en Jockey Club. Hubo encuentros deportivos y actividades recreativas",
-        "pubDate": "2026-11-18T18:23:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El Gigante de Arroyito puede ser escenario de otra gran final de la temporada",
-        "link": "https://www.lacapital.com.ar/ovacion/el-gigante-arroyito-puede-ser-escenario-otra-gran-final-la-temporada-n10292709.html",
-        "image": "https://media.lacapital.com.ar/p/c7c3313cbb28f4f1d6e946e1f9f4e6d8/adjuntos/203/imagenes/103/426/0103426845/gigante-arroyito.jpg",
-        "summary": "El estadio de Central Compite por ese honor con el Madre de Ciudades de Santiago del Estero y el estadio único de La Plata",
-        "pubDate": "2026-11-18T18:20:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Por la tormenta del lunes se realizaron operativos especiales de limpieza en Baigorria y VGG",
-        "link": "https://www.lacapital.com.ar/la-region/por-la-tormenta-del-lunes-se-realizaron-operativos-especiales-limpieza-baigorria-y-vgg-n10292937.html",
-        "image": "https://media.lacapital.com.ar/p/960a0a31be709a38e7d1b63d521bd8a7/adjuntos/203/imagenes/103/539/0103539730/1200x675/smart/vgg-tormenta.jpeg",
-        "summary": "Durante la jornada del martes, las cuadrillas municipales asistieron a los distintos barrios afectados por caidas de árboles, postes o problemas mayores",
-        "pubDate": "2026-11-18T18:18:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Gimnasia-Newell's: el exarquero rojinegro que jugó en el Lobo y, cuando se fue, devolvió 18 meses de sueldo",
-        "link": "https://www.lacapital.com.ar/ovacion/gimnasia-newells-el-exarquero-rojinegro-que-jugo-el-lobo-y-cuando-se-fue-devolvio-18-meses-sueldo-n10292936.html",
-        "image": "https://media.lacapital.com.ar/p/aaaf8591e0e5fa5b433c3c523f71b9e4/adjuntos/203/imagenes/005/306/0005306917/1200x675/smart/sebastian-cejas.jpg",
-        "summary": "El futbolista estuvo unos pocos meses en el Lobo, en 2007. Se fue porque cambió la comisión directiva que lo había contratado",
-        "pubDate": "2026-11-18T18:13:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La Nación aceptó la renuncia de Alurralde, quien se prepara para asumir en la Corte de Santa Fe",
-        "link": "https://www.lacapital.com.ar/politica/la-nacion-acepto-la-renuncia-alurralde-quien-se-prepara-asumir-la-corte-santa-fe-n10292930.html",
-        "image": "https://media.lacapital.com.ar/p/0312749c8cda615fb5eb55323c2f66b1/adjuntos/203/imagenes/103/539/0103539662/1200x675/smart/image.png",
-        "summary": "El juez federal de Reconquista dejará su cargo el 1° de diciembre para incorporarse al máximo tribunal provincial en reemplazo de Rafael Gutiérrez",
-        "pubDate": "2026-11-18T18:01:07+00:00",
         "approxTime": false
       }
     ]
