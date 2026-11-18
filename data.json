@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T14:01:09.058643+00:00",
+  "generatedAt": "2026-11-18T14:30:59.398423+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,11 +13,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Diputados: el oficialismo busca aprobar la ley Malvinas y la reforma del Banco Central",
+        "link": "https://www.rosario3.com/politica/diputados-el-oficialismo-busca-aprobar-la-ley-malvinas-y-la-reforma-del-banco-central-20261118-0023.html",
+        "image": "https://www.rosario3.com/__export/1794873463193/sites/rosario3/img/2026/11/16/720_-_2026-11-16t205354_089.jpg_1221029627.jpg",
+        "summary": "La sesión especial, pedida por el bloque de La Libertad Avanza, comienza al mediodía en el Congreso y se espera un largo debate. Hay negociaciones abiertas y podría caerse un capítulo clave de la ley de Defensa de la Soberanía Nacional",
+        "pubDate": "2026-11-18T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Hasta el año que viene, Colectividades: más de 1,1 millones de personas pasaron por la fiesta rosarina",
         "link": "https://www.rosario3.com/informaciongeneral/hasta-el-ano-que-viene-colectividades-rosario-despidio-una-nueva-edicion-de-su-fiesta-mas-popular-20261118-0010.html",
         "image": "https://www.rosario3.com/__export/1795004408395/sites/rosario3/img/2026/11/18/colectividades.png_786111822.png",
         "summary": "La celebración reunió a visitantes durante diez jornadas, en las que se consumieron más de 150 mil litros de bebidas y la ocupación hotelera alcanzó el 72% en Rosario",
-        "pubDate": "2026-11-18T11:59:00+00:00",
+        "pubDate": "2026-11-18T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/el-gobierno-repudio-la-visita-de-la-princesa-ana-a-malvinas-y-reclamo-contra-la-explotacion-petrolera-de-reino-unido-es-una-provocacion-20261118-0012.html",
         "image": "https://www.rosario3.com/__export/1795006104792/sites/rosario3/img/2026/11/18/princesa_ana_malvinas.jpg_506286608.jpg",
         "summary": "La Cancillería cuestionó las actividades oficiales de la hermana del rey Carlos III en las islas y las vinculó con la explotación hidrocarburífera unilateral del Reino Unido. El pronunciamiento se conoció después de las audiencias por el proyecto Sea Lion ante un tribunal…",
-        "pubDate": "2026-11-18T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Asesinaron de un tiro en la cabeza a un joven de 21 años dentro de un auto en zona sur",
-        "link": "https://www.rosario3.com/policiales/asesinaron-de-un-tiro-en-la-cabeza-a-un-joven-de-21-anos-dentro-de-un-auto-en-zona-sur-20261118-0002.html",
-        "image": "https://www.rosario3.com/__export/1795008978890/sites/rosario3/img/2026/11/18/crimen_gutierrez_400.jpg_928314581.jpg",
-        "summary": "El crimen ocurrió durante la madrugada de este miércoles en la intersección de Gutiérrez y Buenos Aires. Los hombres que estaban con él en el Peugeot 208 escaparon corriendo y, por el momento, no hay detenidos",
         "pubDate": "2026-11-18T11:57:00+00:00",
         "approxTime": true
       },
@@ -85,11 +85,29 @@
       },
       {
         "source": "Rosario3",
+        "title": "Nvidia rechazó la oferta de Jensen Huang: “No está en los planes volver a contratarlo”",
+        "link": "https://www.rosario3.com/informaciongeneral/nvidia-rechazo-la-oferta-de-jensen-huang-no-esta-en-los-planes-volver-a-contratarlo-20261118-0021.html",
+        "image": "https://www.rosario3.com/__export/1795010423443/sites/rosario3/img/2026/11/18/huang.jpg_928314580.jpg",
+        "summary": "La empresa hizo referencia a que el exCEO de la empresa tomó un comportamiento personal incompatible y que rompe el código de conducta de la compañía",
+        "pubDate": "2026-11-18T11:51:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Un estudio ubicó a Pullaro en el podio de los gobernadores con mejor imagen del país",
+        "link": "https://www.rosario3.com/politica/un-estudio-ubico-a-pullaro-en-el-podio-de-los-gobernadores-con-mejor-imagen-del-pais-20261118-0019.html",
+        "image": "https://www.rosario3.com/__export/1789508556703/sites/rosario3/img/2026/09/15/pullaro.jpeg_1825222445.jpeg",
+        "summary": "El gobernador santafesino llegó en noviembre al tercer lugar en el ránking CB Global Data. En un mes, su imagen positiva aumentó 3,5 puntos. En lo que va de 2026, siempre estuvo entre los siete gobernadores mejor aprobados en el país",
+        "pubDate": "2026-11-18T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "GTA VI debuta con un histórico puntaje de 99 en Metacritic e igualó el récord de Zelda: Ocarina of Time",
         "link": "https://www.rosario3.com/tecnologia/gta-vi-debuta-con-un-historico-puntaje-de-99-en-metacritic-e-igualo-el-record-de-zelda-ocarina-of-time-20261118-0018.html",
         "image": "https://www.rosario3.com/__export/1794237532543/sites/rosario3/img/2026/11/09/gta-6.jpg_928314580.jpg",
         "summary": "Con cerca de 100 reseñas de medios especializados, el título de Rockstar Games alcanzó lo más alto del ranking histórico en la previa de su estreno oficial este jueves en Argentina para PlayStation 5 y Xbox Series X|S",
-        "pubDate": "2026-11-18T11:51:00+00:00",
+        "pubDate": "2026-11-18T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -98,16 +116,7 @@
         "link": "https://www.rosario3.com/policiales/un-joven-resulto-herido-en-un-tiroteo-con-la-policia-en-barrio-tablada-20261118-0016.html",
         "image": "https://www.rosario3.com/__export/1795007423506/sites/rosario3/img/2026/11/18/enfrentamiento.jpg_928314580.jpg",
         "summary": "Ocurrió en inmediaciones de Saavedra y Esmeralda. Todo comenzó cuando el sospechoso sacó un arma en medio de un procedimiento de identificación e intercambió disparos con dos agentes, que resultaron ilesos. El lesionado quedó aprehendido y fue trasladado al Heca",
-        "pubDate": "2026-11-18T11:50:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La nueva vida de Facundo Conte, el medallista olímpico que cambió el vóley por el reiki, la meditación y un ritual amazónico",
-        "link": "https://www.rosario3.com/informaciongeneral/la-nueva-vida-de-facundo-conte-el-medallista-olimpico-que-cambio-el-voley-por-el-reiki-la-meditacion-y-un-ritual-amazonico-20261118-0005.html",
-        "image": "https://www.rosario3.com/__export/1795001777413/sites/rosario3/img/2026/11/18/facundo_conte.png_786111822.png",
-        "summary": "Después de una extensa trayectoria en la Selección argentina y de conseguir la medalla de bronce en los Juegos Olímpicos de Tokio 2020, el exjugador atraviesa una etapa de transformación personal. Reiki, meditación y un retiro espiritual forman parte de su presente, muy distinto…",
-        "pubDate": "2026-11-18T11:49:00+00:00",
+        "pubDate": "2026-11-18T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,15 +125,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/se-viene-una-nueva-edicion-de-la-noche-de-las-heladerias-en-rosario-20261117-0067.html",
         "image": "https://www.rosario3.com/__export/1794943403126/sites/rosario3/img/2026/11/17/helados.png_786111822.png",
         "summary": "Más de 150 heladerías de Rosario y la región participarán de la propuesta desde las 19. La promoción permitirá comprar dos cuartos de helado al precio de uno y estará vigente hasta el cierre de cada local adherido",
-        "pubDate": "2026-11-17T11:48:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Avanza un convenio entre Newell’s y el municipio por la cesión de terrenos en Bella Vista para construir una escuela",
-        "link": "https://www.rosario3.com/deportes/avanza-un-convenio-entre-newells-y-el-municipio-por-la-cesion-de-terrenos-en-bella-vista-para-construir-una-escuela-20261117-0081.html",
-        "image": "https://www.rosario3.com/__export/1792775652282/sites/rosario3/img/2026/10/23/bella_vista.jpg_506286608.jpg",
-        "summary": "Contempla la cesión gratuita de uso de terrenos municipales por 30 años para que el club desarrolle un colegio secundario y amplíe sus espacios de formación deportiva y educativa. La iniciativa, que busca resolver un litigio judicial iniciado en 1997, ya cuenta con un despacho…",
         "pubDate": "2026-11-17T11:47:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,24 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Disparos al aire en torno a una canchita de fútbol en barrio Belgrano",
+        "link": "https://www.lacapital.com.ar/policiales/disparos-al-aire-torno-una-canchita-futbol-barrio-belgrano-n10292868.html",
+        "image": "https://media.lacapital.com.ar/p/e9f77a44dee4cdfb1dcea68e07c34705/adjuntos/203/imagenes/103/538/0103538888/1200x675/smart/cancha-tiroteo.png",
+        "summary": "Sucedió el martes a la noche en Pellegrini y Cullen, en la zona oeste de Rosario. No hubo heridos, pero la policía halló en la vereda tres vainas de 9 milímetros",
+        "pubDate": "2026-11-18T14:21:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central: Pizarro jugó los dos amistosos de Chile y llegará con ritmo a los octavos del Clausura",
+        "link": "https://www.lacapital.com.ar/ovacion/central-pizarro-jugo-los-dos-amistosos-chile-y-llegara-ritmo-los-octavos-del-clausura-n10292855.html",
+        "image": "https://media.lacapital.com.ar/p/b7f5d0933102e292cd0e991edf59f1d6/adjuntos/203/imagenes/103/538/0103538841/1200x675/smart/pizarro-chile-colombia.jpg",
+        "summary": "El mediocampista disputó los dos encuentros ante la selección de Colombia y regresará a Rosario para afrontar el duelo ante Gimnasia de Mendoza",
+        "pubDate": "2026-11-18T14:14:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "El increíble récord que alcanzó Dibu Martínez en su vuelta al arco de la selección argentina",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/975f9cff4d57f65674dcb57047af275b/adjuntos/203/imagenes/100/613/0100613408/1200x675/smart/whatsappjpg.jpg",
         "summary": "La app también permitirá ingresar con el reconocimiento biométrico del rostro o la huella digital. Se trata de una función que otorga mayor seguridad a la cuenta",
         "pubDate": "2026-11-18T11:17:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Lionel Scaloni: \"Estoy satisfecho con lo hecho en la selección y nos espera un nuevo reto\"",
-        "link": "https://www.lacapital.com.ar/lionel-scaloni-estoy-satisfecho-lo-hecho-la-seleccion-y-nos-espera-un-nuevo-reto-n10292799.html",
-        "image": "https://media.lacapital.com.ar/p/f1bc18a50d8570e101cacc273262a54c/adjuntos/203/imagenes/103/537/0103537839/1200x675/smart/image-7.jpg",
-        "summary": "Tras la goleada por 7 a 0 a Costa Rica, el entrenador de Argentina habló de todo en la última conferencia de prensa del año y reiteró: \"No creo que la gente haya perdido el amor por la selección\"",
-        "pubDate": "2026-11-18T11:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Crimen en la zona sur: le dieron un balazo en la cabeza a un joven de 21 años",
-        "link": "https://www.lacapital.com.ar/policiales/crimen-la-zona-sur-le-dieron-un-balazo-la-cabeza-un-joven-21-anos-n10292803.html",
-        "image": "https://media.lacapital.com.ar/p/6dec3619c851b11bd85176f894f5232c/adjuntos/203/imagenes/103/538/0103538545/auto-homicidio-gutierrez-400-2.jpeg",
-        "summary": "Agustín Zabala fue asesinado a la madrugada. La policía rosarina encontró el cuerpo sin vida adentro de un automóvil",
-        "pubDate": "2026-11-18T10:53:00+00:00",
         "approxTime": false
       }
     ]
