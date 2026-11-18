@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-11-18T23:01:09.486198+00:00",
+  "generatedAt": "2026-11-18T23:30:57.432935+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Buscan a un joven de 25 años que desapareció en el río Paraná en San Lorenzo",
+        "link": "https://www.rosario3.com/informaciongeneral/buscan-a-un-joven-de-25-anos-que-desaparecio-en-el-rio-parana-en-san-lorenzo-20261118-0067.html",
+        "image": "https://www.rosario3.com/__export/1795043675440/sites/rosario3/img/2026/11/18/san_lorenzo_rio_busqueda.jpg_1825222467.jpg",
+        "summary": "El joven se arrojó al agua junto a otras dos personas, que lograron salir. Prefectura desplegó un operativo de búsqueda en la zona del Paseo de la Libertad",
+        "pubDate": "2026-11-18T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Qué era la “caja gris” gigante que quedó trabada bajo un puente de Circunvalación",
         "link": "https://www.rosario3.com/informaciongeneral/que-era-la-caja-gris-gigante-que-quedo-trabada-bajo-un-puente-de-circunvalacion-20261118-0061.html",
         "image": "https://www.rosario3.com/__export/1795036312915/sites/rosario3/img/2026/11/18/camion_trabado_1.jpg_928314580.jpg",
         "summary": "El incidente ocurrido este miércoles entre Avellaneda y Ovidio Lagos llamó la atención por el tamaño de la carga. Cómo funcionan estos módulos industriales, para qué se usan y por qué no representó peligro de explosión",
-        "pubDate": "2026-11-18T12:00:00+00:00",
+        "pubDate": "2026-11-18T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/santa-fe-activo-la-ley-contra-el-robo-de-celulares-como-seran-los-controles-en-la-calle-20261118-0041.html",
         "image": "https://www.rosario3.com/__export/1795025216932/sites/rosario3/img/2026/11/18/celulares-.jpg_876629739.jpg",
         "summary": "El Ejecutivo provincial y el MPA presentaron los detalles de la norma promulgada este lunes. La Policía podrá escanear el código IMEI en operativos de rutina sin sospecha previa y se creará un registro obligatorio para comercios",
-        "pubDate": "2026-11-18T11:59:00+00:00",
+        "pubDate": "2026-11-18T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/politica/el-gobierno-retiro-las-listas-colectoras-para-asegurarse-el-apoyo-para-suspender-las-paso-20261118-0048.html",
         "image": "https://www.rosario3.com/__export/1795028596257/sites/rosario3/img/2026/11/18/paso.jpg_1768679258.jpg",
         "summary": "El proyecto de ley con cambios se debatirá esta tarde en comisión en el Senado y el oficialismo se encamina a lograr el dictamen",
-        "pubDate": "2026-11-18T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El efecto turístico de Colectividades: 6 de cada 10 visitantes vinieron por primera vez",
-        "link": "https://www.rosario3.com/informaciongeneral/el-efecto-turistico-de-colectividades-6-de-cada-10-visitantes-vinieron-por-primera-vez-20261118-0032.html",
-        "image": "https://www.rosario3.com/__export/1795017214842/sites/rosario3/img/2026/11/18/colectividades_shawarma.jpg_826209282.jpg",
-        "summary": "El encuentro impulsó un crecimiento del 24% en la ocupación hotelera respecto al año pasado. Según relevamientos oficiales, el 30% de los turistas viajó a Rosario exclusivamente para participar de la fiesta. Desde dónde llegaron",
         "pubDate": "2026-11-18T11:57:00+00:00",
         "approxTime": true
       },
@@ -94,10 +94,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "¿Fórmula 1 en Argentina?: Jorge Macri recorrió las obras del Autódromo porteño con el ex campeón Emerson Fittipaldi",
-        "link": "https://www.rosario3.com/deportes/formula-1-en-argentina-jorge-macri-recorrio-las-obras-del-autodromo-porteno-con-el-ex-campeon-emerson-fittipaldi-20261118-0049.html",
-        "image": "https://www.rosario3.com/__export/1795028836347/sites/rosario3/img/2026/11/18/image_-77-.jpg_982625323.jpg",
-        "summary": "No es la primera vez que el Jefe de Gobierno se reúne con figuras y dirigentes de la Fórmula 1 para contarles el avance de las obras en el nuevo circuito. El sueño de tener a la máxima categoría en el país, con Franco Colapinto, crece día a día",
+        "title": "Condenaron a prisión perpetua al hombre que asesinó a tres mujeres lesbianas en un hotel de Barracas",
+        "link": "https://www.rosario3.com/policiales/condenaron-a-prision-perpetua-al-hombre-que-asesino-a-tres-mujeres-lesbianas-en-un-hotel-de-barracas-20261118-0059.html",
+        "image": "https://www.rosario3.com/__export/1795034781014/sites/rosario3/img/2026/11/18/barracas.jpg_1825222445.jpg",
+        "summary": "Justo Fernando Barrientos fue declarado culpable del ataque ocurrido en mayo de 2024, cuando incendió la habitación en la que dormían cuatro mujeres. El tribunal consideró probado que actuó por odio a la orientación sexual de las víctimas. Una cuarta mujer sobrevivió con graves…",
         "pubDate": "2026-11-18T11:50:00+00:00",
         "approxTime": true
       },
@@ -112,11 +112,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "El efecto turístico de Colectividades: 6 de cada 10 visitantes vinieron por primera vez",
+        "link": "https://www.rosario3.com/informaciongeneral/el-efecto-turistico-de-colectividades-6-de-cada-10-visitantes-vinieron-por-primera-vez-20261118-0032.html",
+        "image": "https://www.rosario3.com/__export/1795017214842/sites/rosario3/img/2026/11/18/colectividades_shawarma.jpg_826209282.jpg",
+        "summary": "El encuentro impulsó un crecimiento del 24% en la ocupación hotelera respecto al año pasado. Según relevamientos oficiales, el 30% de los turistas viajó a Rosario exclusivamente para participar de la fiesta. Desde dónde llegaron",
+        "pubDate": "2026-11-18T11:48:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Cayó en Rosario una viuda negra que durmió a un hombre en San Vicente y le robó 10 mil dólares",
         "link": "https://www.rosario3.com/policiales/cayo-en-rosario-una-viuda-negra-que-durmio-a-un-hombre-en-san-vicente-y-le-robo-10-mil-dolares-20261118-0043.html",
         "image": "https://www.rosario3.com/__export/1795024085663/sites/rosario3/img/2026/11/18/robo_viuda_negra.jpg_928314580.jpg",
         "summary": "La sospechosa, de 32 años, fue detenida este miércoles en un edificio ubicado en Zeballos al 3100, en barrio Echesortu. El hecho ocurrió en agosto pasado",
-        "pubDate": "2026-11-18T11:48:00+00:00",
+        "pubDate": "2026-11-18T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,20 +134,29 @@
         "link": "https://www.rosario3.com/policiales/repartidores-fueron-asaltados-a-punta-de-pistola-en-zona-noroeste-piden-ayuda-para-recuperar-su-moto-20261118-0035.html",
         "image": "https://www.rosario3.com/__export/1795018767731/sites/rosario3/img/2026/11/18/robo_moto_ecuador_y_urquiza.jpg_506286608.jpg",
         "summary": "El hecho ocurrió el martes a la noche en inmediaciones de Urquiza y Ecuador, cuando una pareja de cadetes fue abordada por dos delincuentes. Según relató Milagros, una de las víctimas, los asaltantes efectuaron detonaciones al aire y se llevaron su rodado",
-        "pubDate": "2026-11-18T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Video: trompadas y tres tiros al aire después de un partido en una canchita de fútbol",
-        "link": "https://www.rosario3.com/policiales/video-trompadas-y-tres-tiros-al-aire-despues-de-un-partido-en-una-canchita-de-futbol-20261118-0037.html",
-        "image": "https://www.rosario3.com/__export/1795019464749/sites/rosario3/img/2026/11/18/pelea_y_tiros.jpg_928314580.jpg",
-        "summary": "Ocurrió en la noche de este martes en inmediaciones de Pellegrini y Cullen, en la zona oeste. Dos personas recibieron asistencia por personal del Sies por escoriaciones en el rostro. Se investiga quién fue el que quedó filmado mientras realizaba los tres disparos",
         "pubDate": "2026-11-18T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Presupuesto provincial 2027: senadores recibieron a ministros antes del debate",
+        "link": "https://www.lacapital.com.ar/politica/presupuesto-provincial-2027-senadores-recibieron-ministros-antes-del-debate-n10293009.html",
+        "image": "https://media.lacapital.com.ar/p/4a5763e39435592ccaa5f377085b1cbf/adjuntos/203/imagenes/103/540/0103540038/1200x675/smart/image.png",
+        "summary": "Los titulares de Economía y de Gobierno intercambiaron con los legisladores miradas sobre el proyecto, que prevé recursos por 18,88 billones de pesos",
+        "pubDate": "2026-11-18T23:24:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Buscan intensamente a un joven que desapareció en el río Paraná",
+        "link": "https://www.lacapital.com.ar/la-region/buscan-intensamente-un-joven-que-desaparecio-el-rio-parana-n10293003.html",
+        "image": "https://media.lacapital.com.ar/p/1e75444e4d9b2d3cfc2f360919436955/adjuntos/203/imagenes/103/540/0103540026/2026-01-06-prefectura-puerto-general-san-martin2.jpg",
+        "summary": "El hecho sucedió en San Lorenzo. Según se supo, el muchacho se habría tirado al río junto a dos amigos que lograron salir",
+        "pubDate": "2026-11-18T23:11:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Llega la Noche de las Librerías con promociones y distintas propuestas para recorrer la ciudad",
@@ -177,10 +195,10 @@
       },
       {
         "source": "La Capital",
-        "title": "Aleart propone alcaidías municipales para encerrar cuidacoches",
-        "link": "https://www.lacapital.com.ar/la-ciudad/aleart-propone-alcaidias-municipales-encerrar-cuidacoches-n10292989.html",
+        "title": "Aleart quiere que haya alcaidías municipales para encerrar cuidacoches",
+        "link": "https://www.lacapital.com.ar/la-ciudad/aleart-quiere-que-haya-alcaidias-municipales-encerrar-cuidacoches-n10292989.html",
         "image": "https://media.lacapital.com.ar/p/75a9b4c06ceae034ec75838ea9d4b9f0/adjuntos/203/imagenes/101/648/0101648646/1200x675/smart/2024-05-26-trapitos-detenidosjpg.jpg",
-        "summary": "En medio del debate del mensaje del Ejecutivo en el Concejo Municipal, el edil libertario pide encarcelar a los violentos",
+        "summary": "En medio del debate en el Concejo sobre a prohibición de la actividad de los trapitos, el edil libertario pide encarcelar a los violentos",
         "pubDate": "2026-11-18T21:53:00+00:00",
         "approxTime": false
       },
@@ -231,19 +249,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Un estudio ubica a Pullaro entre los gobernadores mejor valorados de la Argentina",
-        "link": "https://www.lacapital.com.ar/politica/un-estudio-ubica-pullaro-los-gobernadores-mejor-valorados-la-argentina-n10292976.html",
-        "image": "https://media.lacapital.com.ar/p/1e118bf2c571e331645e27075f8ada45/adjuntos/203/imagenes/103/420/0103420096/2026-09-22-pullaro-82176237-at_hrio.jpg",
-        "summary": "El mandatario santafesino llegó en noviembre al tercer lugar en el ranking que realiza la consultora de opinión pública CB Global Data",
+        "title": "Los libertarios apuntaron contra Unidos tras la sesión caída en Diputados",
+        "link": "https://www.lacapital.com.ar/politica/los-libertarios-apuntaron-contra-unidos-la-sesion-caida-diputados-n10292969.html",
+        "image": "https://media.lacapital.com.ar/p/11ebe721e8f724df6e2d700298b7371a/adjuntos/203/imagenes/103/539/0103539801/1200x675/smart/libertarios-sesion-diputados.jpg",
+        "summary": "Romina Diez habló de “intereses mezquinos” y Marcos Peyrano acusó a los legisladores de Pullaro de sumarse al kirchnerismo para bloquear el debate",
         "pubDate": "2026-11-18T20:18:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Los libertarios apuntaron contra Unidos tras la sesión caída en Diputados",
-        "link": "https://www.lacapital.com.ar/politica/los-libertarios-apuntaron-contra-unidos-la-sesion-caida-diputados-n10292969.html",
-        "image": "https://media.lacapital.com.ar/p/11ebe721e8f724df6e2d700298b7371a/adjuntos/203/imagenes/103/539/0103539801/1200x675/smart/libertarios-sesion-diputados.jpg",
-        "summary": "Romina Diez habló de “intereses mezquinos” y Marcos Peyrano acusó a los legisladores de Pullaro de sumarse al kirchnerismo para bloquear el debate",
+        "title": "Un estudio ubica a Pullaro entre los gobernadores mejor valorados de la Argentina",
+        "link": "https://www.lacapital.com.ar/politica/un-estudio-ubica-pullaro-los-gobernadores-mejor-valorados-la-argentina-n10292976.html",
+        "image": "https://media.lacapital.com.ar/p/1e118bf2c571e331645e27075f8ada45/adjuntos/203/imagenes/103/420/0103420096/2026-09-22-pullaro-82176237-at_hrio.jpg",
+        "summary": "El mandatario santafesino llegó en noviembre al tercer lugar en el ranking que realiza la consultora de opinión pública CB Global Data",
         "pubDate": "2026-11-18T20:18:00+00:00",
         "approxTime": false
       },
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/bccf60473178982870b75864dd5edcb5/adjuntos/203/imagenes/103/539/0103539796/1200x675/smart/image-6.png",
         "summary": "Platos sencillos y caseros que llevan pocos ingredientes y se pueden preparar en poco tiempo. Tres opciones para desayunar rico y saludable",
         "pubDate": "2026-11-18T20:16:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cómo mantener dos cuentas de WhatsApp abiertas en el mismo teléfono",
-        "link": "https://www.lacapital.com.ar/informacion-general/como-mantener-dos-cuentas-whatsapp-abiertas-el-mismo-telefono-n10292929.html",
-        "image": "https://media.lacapital.com.ar/p/09f532d5bfb655505c6fe86b89b57000/adjuntos/203/imagenes/102/727/0102727822/1200x675/smart/whatsapp-celular.png",
-        "summary": "La aplicación permite manejar dos cuentas diferentes desde el mismo dispositivo. Cómo funciona el soporte multi-cuenta de Business",
-        "pubDate": "2026-11-18T20:12:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Zona oeste: denuncian a un policía que disparó contra vecinos en una cancha de fútbol",
-        "link": "https://www.lacapital.com.ar/policiales/zona-oeste-denuncian-un-policia-que-disparo-contra-vecinos-una-cancha-futbol-n10292950.html",
-        "image": "https://media.lacapital.com.ar/p/9f868e8a3102bf4f789f57b11c83a02e/adjuntos/203/imagenes/103/539/0103539744/1200x675/smart/canchi.jpg",
-        "summary": "Fue el martes a las 22. El uniformado es integrante de una de las familias que disputaba el partido. La policía encontró tres vainas pero testigos aseguran que disparó ocho veces",
-        "pubDate": "2026-11-18T20:09:54+00:00",
         "approxTime": false
       }
     ]
