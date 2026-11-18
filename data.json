@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T17:30:54.388144+00:00",
+  "generatedAt": "2026-11-18T18:01:16.862830+00:00",
   "sites": {
     "rosario3": [
       {
@@ -79,7 +79,7 @@
         "title": "Empiezan los playoffs: día, hora y cómo ver cada partido de la definición del torneo Clausura",
         "link": "https://www.rosario3.com/deportes/empiezan-los-playoffs-dia-hora-y-como-ver-cada-partido-de-la-definicion-del-torneo-clausura-20261118-0028.html",
         "image": "https://www.rosario3.com/__export/1795014972283/sites/rosario3/img/2026/11/18/playoffs_torneo_clausura.jpg_506286608.jpg",
-        "summary": "Central saldrá a la cancha frente a Gimnasia de Mendoza el domingo, mientras que Newell's lo hará el lunes contra Gimnasia de la Plata. Cómo es el cuadro, todos los cruces de octavos de final y los posibles duelos de cuartos",
+        "summary": "Central saldrá a la cancha frente a Gimnasia de Mendoza el domingo, mientras que Newell's lo hará el lunes contra Gimnasia de La Plata. Cómo es el cuadro, todos los cruces de octavos de final y los posibles duelos de cuartos",
         "pubDate": "2026-11-18T11:52:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,51 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Crimen a metros del Museo del Deporte: víctima sin conflictos y una pista que conduce a Tablada",
+        "link": "https://www.lacapital.com.ar/policiales/crimen-metros-del-museo-del-deporte-victima-conflictos-y-una-pista-que-conduce-tablada-n10292926.html",
+        "image": "https://media.lacapital.com.ar/p/76b2c698932aad6e30c31f739cde0957/adjuntos/203/imagenes/103/539/0103539630/1200x675/smart/whatsapp-image-2026-11-18-at-140748.jpeg",
+        "summary": "Se analiza si entre las personas que estaban junto a Agustín Zabala, y que huyeron antes de la llegada de la policía, estaba el objetivo real del ataque",
+        "pubDate": "2026-11-18T17:52:27+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El paso al frente de Carolina Losada",
+        "link": "https://www.lacapital.com.ar/suscriptores/el-paso-al-frente-carolina-losada-n10292906.html",
+        "image": "https://media.lacapital.com.ar/p/e38c9a6bae3a57f8325da2318dab4094/adjuntos/203/imagenes/103/539/0103539569/1200x675/smart/pullaro-losada.jpg",
+        "summary": "La foto con el gobernador Pullaro en la reciente reunión de gabinete en Rosario la coloca en el centro de la escena política en momentos tensos en Unidos",
+        "pubDate": "2026-11-18T17:36:40+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La banda rosarina The Kavanagh celebra veinte años de carrera",
+        "link": "https://www.lacapital.com.ar/zoom/la-banda-rosarina-the-kavanagh-celebra-veinte-anos-carrera-n10292919.html",
+        "image": "https://media.lacapital.com.ar/p/56a60ea3c2907ef549903663bdbd474a/adjuntos/203/imagenes/103/539/0103539634/1200x675/smart/image-2026-11-18t151510353.jpg",
+        "summary": "El grupo que llegó a los escenarios de Inglaterra y Estados Unidos, repasará dos décadas de recorrido con un show el próximo jueves 26 de noviembre",
+        "pubDate": "2026-11-18T17:35:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "\"Vida submarina\": La expedición submarina del Conicet tendrá su propia serie documental",
+        "link": "https://www.lacapital.com.ar/zoom/vida-submarina-la-expedicion-submarina-del-conicet-tendra-su-propia-serie-documental-n10292891.html",
+        "image": "https://media.lacapital.com.ar/p/cc8e9cd186848c0ffc0726eac22f913b/adjuntos/203/imagenes/102/590/0102590595/1200x675/smart/conicet-mar-argentino-talud-iv.png",
+        "summary": "La producción, realizada en conjunto con Personal, llegará a Flow y tendrá ocho capítulos dedicados a revivir la expedición científica",
+        "pubDate": "2026-11-18T17:28:50+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El exarquero de Central que da clases, ataja en torneos de penales y se luce en la Copa Potrero",
+        "link": "https://www.lacapital.com.ar/ovacion/el-exarquero-central-que-da-clases-ataja-torneos-penales-y-se-luce-la-copa-potrero-n10292805.html",
+        "image": "https://media.lacapital.com.ar/p/cca075092770abd83e9a14e6b108268f/adjuntos/203/imagenes/103/537/0103537974/1200x675/smart/ayala.jpg",
+        "summary": "Josué Ayala, campeón con el Canalla en 2018, reparte sus días entre su centro de entrenamiento para arqueros, los picantes desafíos barriales y ese torneo",
+        "pubDate": "2026-11-18T17:28:20+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Cómo le fue a Newell's en partidos eliminatorias frente a Gimnasia",
@@ -227,51 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/a4e5c8749d08688fc16e6cee8e5554f0/adjuntos/203/imagenes/103/538/0103538937/nico-paz-seleccion-argentina-giay.jpeg",
         "summary": "El equipo dirigido por Lionel Scaloni tendrá varios meses de receso antes de reencontrarse por primera vez el próximo año, con rivales todavía sin confirmar",
         "pubDate": "2026-11-18T15:59:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Rosario prohibió el GTA hace casi 30 años: la insólita historia detrás de una norma vigente",
-        "link": "https://www.lacapital.com.ar/la-ciudad/rosario-prohibio-el-gta-hace-casi-30-anos-la-insolita-historia-detras-una-norma-vigente-n10292880.html",
-        "image": "https://media.lacapital.com.ar/p/48dcfed42a2351e206d2098072121364/adjuntos/203/imagenes/103/539/0103539227/1200x675/smart/gta-1.jpg",
-        "summary": "Un decreto municipal prohibió la venta y la exhibición del videojuego tras una nota de La Capital advirtiendo sobre su contenido violento. Casi 30 años después, proponen derogarlo",
-        "pubDate": "2026-11-18T15:39:58+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Netflix estrenó \"Gordon\", la nueva miniserie argentina con Rodrigo de la Serna",
-        "link": "https://www.lacapital.com.ar/zoom/netflix-estreno-gordon-la-nueva-miniserie-argentina-rodrigo-la-serna-n10292876.html",
-        "image": "https://media.lacapital.com.ar/p/74bd90a081affee1294ebb183a58ca9f/adjuntos/203/imagenes/103/539/0103539217/1200x675/smart/image-3.png",
-        "summary": "Se trata de un thriller hecho en Argentina por Pablo Trapero, basado en las novelas de Marcelo Larraquy",
-        "pubDate": "2026-11-18T15:30:38+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Alpine cambió el diseño del auto de Colapinto para las últimas tres carreras de la Fórmula 1",
-        "link": "https://www.lacapital.com.ar/ovacion/alpine-cambio-el-diseno-del-auto-colapinto-las-ultimas-tres-carreras-la-formula-1-n10292870.html",
-        "image": "https://media.lacapital.com.ar/p/79e7fac771f6ca980e4021f9dc4a7693/adjuntos/203/imagenes/103/538/0103538996/1200x675/smart/image-2026-11-18t112900942.png",
-        "summary": "La escudería francesa renovará la decoración de los monoplazas desde el GP de Las Vegas hasta la finalización de la temporada en Abu Dhabi",
-        "pubDate": "2026-11-18T15:28:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La ocupación hotelera durante Colectividades creció un 24 por ciento",
-        "link": "https://www.lacapital.com.ar/la-ciudad/la-ocupacion-hotelera-colectividades-crecio-un-24-ciento-n10292852.html",
-        "image": "https://media.lacapital.com.ar/p/8cfeadbdd5e514a51ae6abf855a23458/adjuntos/203/imagenes/103/538/0103538967/colectividades-2.jpeg",
-        "summary": "La Municipalidad de Rosario confirmó que la fiesta volvió a superar el millón de visitas este año y demoraron a 40 cuidacoches afuera del predio",
-        "pubDate": "2026-11-18T15:27:32+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El ex-Newell's que se despidió de la temporada porque tendrá que pasar por el quirófano",
-        "link": "https://www.lacapital.com.ar/ovacion/el-ex-newells-que-se-despidio-la-temporada-porque-tendra-que-pasar-el-quirofano-n10292859.html",
-        "image": "https://media.lacapital.com.ar/p/38c3dc57ce3cb4f48edc4a10bcefd7da/adjuntos/203/imagenes/103/538/0103538887/1200x675/smart/image-11.jpg",
-        "summary": "Aníbal Moreno, actual jugador de River, decidió ponerle fin a una molestia lumbar y se someterá a una cirugía para terminar con los incesantes dolores",
-        "pubDate": "2026-11-18T15:15:00+00:00",
         "approxTime": false
       }
     ]
