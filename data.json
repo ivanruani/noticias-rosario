@@ -1,31 +1,31 @@
 {
-  "generatedAt": "2026-11-18T12:01:05.807770+00:00",
+  "generatedAt": "2026-11-18T12:30:54.594106+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "El Paraná crece en Rosario y se acerca al nivel de alerta, aunque las autoridades ven signos alentadores desde el norte",
+        "link": "https://www.rosario3.com/informaciongeneral/el-parana-crece-en-rosario-y-se-acerca-al-nivel-de-alerta-aunque-las-autoridades-ven-signos-alentadores-desde-el-norte-20261118-0008.html",
+        "image": "https://www.rosario3.com/__export/1795004113660/sites/rosario3/img/2026/11/18/crecida_rio.jpg_506286608.jpg",
+        "summary": "El director de Gestión de Riesgos de la provincia de Santa Fe, Carlos Dolce, analizó el impacto de la crecida del río. Explicó que, si bien el caudal aún está por debajo de los niveles de evacuación, se espera que siga subiendo. El funcionario pidió extremar cuidados y desalentó…",
+        "pubDate": "2026-11-18T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Asesinaron de un tiro en la cabeza a un joven de 21 años dentro de un auto en zona sur",
         "link": "https://www.rosario3.com/policiales/asesinaron-de-un-tiro-en-la-cabeza-a-un-joven-de-21-anos-dentro-de-un-auto-en-zona-sur-20261118-0002.html",
         "image": "https://www.rosario3.com/__export/1795003192316/sites/rosario3/img/2026/11/18/crimen_zona_sur.png_786111822.png",
         "summary": "El crimen ocurrió durante la madrugada de este miércoles en la intersección de Gutiérrez y Buenos Aires. Los hombres que estaban con él en el Peugeot 308 escaparon corriendo y, por el momento, no hay detenidos",
-        "pubDate": "2026-11-18T12:00:00+00:00",
+        "pubDate": "2026-11-18T11:59:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Avanza un convenio entre Newell’s y el municipio por la cesión de terrenos en Bella Vista para construir una escuela",
-        "link": "https://www.rosario3.com/deportes/avanza-un-convenio-entre-newells-y-el-municipio-por-la-cesion-de-terrenos-en-bella-vista-para-construir-una-escuela-20261117-0081.html",
-        "image": "https://www.rosario3.com/__export/1792775652282/sites/rosario3/img/2026/10/23/bella_vista.jpg_506286608.jpg",
-        "summary": "Contempla la cesión gratuita de uso de terrenos municipales por 30 años para que el club desarrolle un colegio secundario y amplíe sus espacios de formación deportiva y educativa. La iniciativa, que busca resolver un litigio judicial iniciado en 1997, ya cuenta con un despacho…",
-        "pubDate": "2026-11-17T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El clima en Rosario: miércoles húmedo, gris e inestable",
-        "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-miercoles-humedo-gris-e-inestable-20261118-0001.html",
-        "image": "https://www.rosario3.com/__export/1794996949514/sites/rosario3/img/2026/11/18/clima.png_786111822.png",
-        "summary": "La temperatura oscilará entre los 16 y 27 grados, con cielo nublado y probabilidad de tormentas durante la mañana y la tarde",
+        "title": "Hasta el año que viene, Colectividades: Rosario despidió una nueva edición de su fiesta más popular",
+        "link": "https://www.rosario3.com/informaciongeneral/hasta-el-ano-que-viene-colectividades-rosario-despidio-una-nueva-edicion-de-su-fiesta-mas-popular-20261118-0010.html",
+        "image": "https://www.rosario3.com/__export/1795004408395/sites/rosario3/img/2026/11/18/colectividades.png_786111822.png",
+        "summary": "Miles de personas pasaron por el tradicional encuentro frente al río, que cerró su edición Nº 42 pese a las complicaciones climáticas de los últimos días",
         "pubDate": "2026-11-18T11:58:00+00:00",
         "approxTime": true
       },
@@ -121,24 +121,42 @@
       },
       {
         "source": "Rosario3",
-        "title": "Tras el temporal en Rosario y la región: la EPE ratifica que finalizaron los trabajos de media tensión en las localidades afectadas",
-        "link": "https://www.rosario3.com/informaciongeneral/tras-el-temporal-en-rosario-y-la-region-la-epe-ratifica-que-finalizaron-los-trabajos-de-media-tension-en-las-localidades-afectadas-20261117-0093.html",
-        "image": "https://www.rosario3.com/__export/1794960617815/sites/rosario3/img/2026/11/17/epe_trabaja.jpg_928314580.jpg",
-        "summary": "Las ráfagas de viento que superaron los 80 kilómetros por hora durante la noche del lunes. La empresa provincial desplegó un operativo de emergencia. Ya normalizó el suministro aseguraron a Rosario3, aunque puede haber casos particulares que aun resten atender",
-        "pubDate": "2026-11-17T11:47:00+00:00",
+        "title": "El clima en Rosario: miércoles húmedo, gris e inestable",
+        "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-miercoles-humedo-gris-e-inestable-20261118-0001.html",
+        "image": "https://www.rosario3.com/__export/1794996949514/sites/rosario3/img/2026/11/18/clima.png_786111822.png",
+        "summary": "La temperatura oscilará entre los 16 y 27 grados, con cielo nublado y probabilidad de tormentas durante la mañana y la tarde",
+        "pubDate": "2026-11-18T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Con concesiones, el Gobierno logró dictaminar el Presupuesto y Diputados lo debatirá la semana próxima",
-        "link": "https://www.rosario3.com/politica/con-concesiones-el-gobierno-logro-dictaminar-el-presupuesto-y-diputados-lo-debatira-la-semana-proxima-20261117-0088.html",
-        "image": "https://www.rosario3.com/__export/1794956137426/sites/rosario3/img/2026/11/17/menem_ritondo.jpg_1768679257.jpg",
-        "summary": "El oficialismo contó con el apoyo del PRO, la UCR, el MID, Producción y Trabajo, Elijo Catamarca e Independencia. Incluyeron los fondos para la nueva ley de Discapacidad, pero no aceptaron aumentar las partidas para las universidades",
+        "title": "Tras el temporal en Rosario y la región: la EPE ratifica que finalizaron los trabajos de media tensión en las localidades afectadas",
+        "link": "https://www.rosario3.com/informaciongeneral/tras-el-temporal-en-rosario-y-la-region-la-epe-ratifica-que-finalizaron-los-trabajos-de-media-tension-en-las-localidades-afectadas-20261117-0093.html",
+        "image": "https://www.rosario3.com/__export/1794960617815/sites/rosario3/img/2026/11/17/epe_trabaja.jpg_928314580.jpg",
+        "summary": "Las ráfagas de viento que superaron los 80 kilómetros por hora durante la noche del lunes. La empresa provincial desplegó un operativo de emergencia. Ya normalizó el suministro aseguraron a Rosario3, aunque puede haber casos particulares que aun resten atender",
         "pubDate": "2026-11-17T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "En un contexto de baja del consumo: ¿por qué las marcas internacionales vienen a  Rosario?",
+        "link": "https://www.lacapital.com.ar/negocios/en-un-contexto-baja-del-consumo-por-que-las-marcas-internacionales-vienen-rosario-n10291684.html",
+        "image": "https://media.lacapital.com.ar/p/b28ee12551835761f3eb42dcb46bdfb3/adjuntos/203/imagenes/103/536/0103536391/whatsapp-image-2026-10-13-at-100720.jpeg",
+        "summary": "Las ventas planchadas no parecen ser un obstáculo para las marcas internacionales. En lo que va de 2026, la lista de arribos a la ciudad ya acumula nombres como Indian, Victoria’s Secret, Calvin Klein y Decathlon. ¿Dónde radica el potencial?",
+        "pubDate": "2026-11-18T12:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Nico Paz tras su brillante actuación ante Costa Rica: \"Es increíble poder jugar en este equipo\"",
+        "link": "https://www.lacapital.com.ar/ovacion/nico-paz-su-brillante-actuacion-costa-rica-es-increible-poder-jugar-este-equipo-n10292814.html",
+        "image": "https://media.lacapital.com.ar/p/9620f2d084356ad22a3fffa1b2a1c429/adjuntos/203/imagenes/103/537/0103537975/1200x675/smart/image-2026-11-18t081422184.png",
+        "summary": "El futbolista del Como marcó dos goles en el amistoso en Córdoba. Tras el partido, habló de su crecimiento y de la posibilidad de usar la camiseta número 10",
+        "pubDate": "2026-11-18T12:15:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Dos hábitos sencillos y prácticos para mejorar la digestión",
@@ -204,15 +222,6 @@
       },
       {
         "source": "La Capital",
-        "title": "Newell's espera tener un doble alivio antes de viajar a La Plata",
-        "link": "https://www.lacapital.com.ar/newells-espera-tener-un-doble-alivio-antes-viajar-la-plata-n10292768.html",
-        "image": "https://media.lacapital.com.ar/p/cc5db04f423bc71ca167df37b07d5aa1/adjuntos/203/imagenes/103/537/0103537370/1200x675/smart/image-2026-11-17t192948054.png",
-        "summary": "Hay expectativas en torno a que a Kudelka le bajen la sanción y se siente en el banco ante Gimnasia. Cuatro de los cinco lesionados se encaminan a volver",
-        "pubDate": "2026-11-18T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "El Niño: el municipio dispondrá de 3 mil agentes ante un episodio extremo",
         "link": "https://www.lacapital.com.ar/la-ciudad/el-nino-el-municipio-dispondra-3-mil-agentes-un-episodio-extremo-n10292724.html",
         "image": "https://media.lacapital.com.ar/p/12e91ecabedefc3d7ed726b3a4739fe1/adjuntos/203/imagenes/103/537/0103537342/1200x675/smart/tormentax.jpg",
@@ -231,11 +240,11 @@
       },
       {
         "source": "La Capital",
-        "title": "Buscan suspender embargos e iniciar una moratoria para pymes",
-        "link": "https://www.lacapital.com.ar/politica/buscan-suspender-embargos-e-iniciar-una-moratoria-pymes-n10292778.html",
-        "image": "https://media.lacapital.com.ar/p/ad92d32452ab6037826a9fd9b8ea6dfc/adjuntos/203/imagenes/103/537/0103537486/2026-11-17-farias.jpg",
-        "summary": "La comisión de Pymes de Diputados de la Nación emitió dictamen este martes, producto del consenso entre diferentes bloques",
-        "pubDate": "2026-11-18T09:00:00+00:00",
+        "title": "Newell's espera tener un doble alivio antes de viajar a La Plata",
+        "link": "https://www.lacapital.com.ar/newells-espera-tener-un-doble-alivio-antes-viajar-la-plata-n10292768.html",
+        "image": "https://media.lacapital.com.ar/p/cc5db04f423bc71ca167df37b07d5aa1/adjuntos/203/imagenes/103/537/0103537370/1200x675/smart/image-2026-11-17t192948054.png",
+        "summary": "Hay expectativas en torno a que a Kudelka le bajen la sanción y se siente en el banco ante Gimnasia. Cuatro de los cinco lesionados se encaminan a volver",
+        "pubDate": "2026-11-18T09:10:00+00:00",
         "approxTime": false
       },
       {
@@ -249,29 +258,20 @@
       },
       {
         "source": "La Capital",
+        "title": "Buscan suspender embargos e iniciar una moratoria para pymes",
+        "link": "https://www.lacapital.com.ar/politica/buscan-suspender-embargos-e-iniciar-una-moratoria-pymes-n10292778.html",
+        "image": "https://media.lacapital.com.ar/p/ad92d32452ab6037826a9fd9b8ea6dfc/adjuntos/203/imagenes/103/537/0103537486/2026-11-17-farias.jpg",
+        "summary": "La comisión de Pymes de Diputados de la Nación emitió dictamen este martes, producto del consenso entre diferentes bloques",
+        "pubDate": "2026-11-18T09:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El tiempo en Rosario: miércoles caluroso, nublado y con chances de chaparrones",
         "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-miercoles-caluroso-nublado-y-chances-chaparrones-n10292793.html",
         "image": "https://media.lacapital.com.ar/p/c5e5f6fdf997fa881eaf90fa9419e4af/adjuntos/203/imagenes/103/537/0103537819/2026-11-17-clima-by_vbenedetto-80866922.jpg",
         "summary": "El resto de la semana tendría nubosidad variable con máximas entre 26º y 28º",
         "pubDate": "2026-11-18T01:57:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Un avión militar ruso se estrelló en Siberia y hay 19 muertos",
-        "link": "https://www.lacapital.com.ar/informacion-general/un-avion-militar-ruso-se-estrello-siberia-y-hay-19-muertos-n10292788.html",
-        "image": "https://media.lacapital.com.ar/p/cd3bc32007e1d5eafb7055081fa6facf/adjuntos/203/imagenes/103/537/0103537709/2026-11-17-antonov.jpg",
-        "summary": "Los hallazgos preliminares apuntaban a una falla técnica y la investigación quedó a cargo de una comisión de las Fuerzas Aeroespaciales rusas",
-        "pubDate": "2026-11-18T01:26:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Estados Unidos, México y Bolivia perdieron su estatus de países libres de sarampión",
-        "link": "https://www.lacapital.com.ar/informacion-general/estados-unidos-mexico-y-bolivia-perdieron-su-estatus-paises-libres-sarampion-n10292787.html",
-        "image": "https://media.lacapital.com.ar/p/bdc9670b7412fd66af37d567d8658219/adjuntos/203/imagenes/103/537/0103537664/2026-11-17-sarampion.jpg",
-        "summary": "EEUU enfrenta el mayor brote en 30 años. El principal motivo es el descenso en las tasas de vacunación",
-        "pubDate": "2026-11-18T01:11:00+00:00",
         "approxTime": false
       }
     ]
