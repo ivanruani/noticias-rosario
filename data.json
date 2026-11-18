@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T09:30:55.962617+00:00",
+  "generatedAt": "2026-11-18T10:01:10.407909+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Martín Buscaglia: \"Un concierto es un buen lugar para sentir que hay esperanzas\"",
+        "link": "https://www.lacapital.com.ar/zoom/martin-buscaglia-un-concierto-es-un-buen-lugar-sentir-que-hay-esperanzas-n10292692.html",
+        "image": "https://media.lacapital.com.ar/p/41b559788401fc9b818cdc9de52abb98/adjuntos/203/imagenes/103/536/0103536570/1200x675/smart/image-2026-11-17t152559634.jpg",
+        "summary": "El músico uruguayo vuelve a la ciudad este viernes 20 para celebrar dos décadas de uno de los discos fundamentales de su carrera",
+        "pubDate": "2026-11-18T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Cómo le fue a Newell's en partidos eliminatorias frente a Gimnasia",
         "link": "https://www.lacapital.com.ar/ovacion/como-le-fue-newells-partidos-eliminatorias-frente-gimnasia-n10292764.html",
         "image": "https://media.lacapital.com.ar/p/99b73890a89aa27120c7e43db9c30821/adjuntos/203/imagenes/103/537/0103537365/1200x675/smart/image-2026-11-17t191532430.png",
@@ -150,10 +159,10 @@
       },
       {
         "source": "La Capital",
-        "title": "Newell's espera tener un doble alivio antes de viajar a La Plata",
-        "link": "https://www.lacapital.com.ar/newells-espera-tener-un-doble-alivio-antes-viajar-la-plata-n10292768.html",
-        "image": "https://media.lacapital.com.ar/p/cc5db04f423bc71ca167df37b07d5aa1/adjuntos/203/imagenes/103/537/0103537370/1200x675/smart/image-2026-11-17t192948054.png",
-        "summary": "Hay expectativas en torno a que a Kudelka le bajen la sanción y se siente en el banco ante Gimnasia. Cuatro de los cinco lesionados se encaminan a volver",
+        "title": "El Papa en Argentina: ¿y ahora qué?",
+        "link": "https://www.lacapital.com.ar/el-papa-argentina-y-ahora-que-n10292733.html",
+        "image": "https://media.lacapital.com.ar/p/8015415dbc67d7a85c3ce5c0195805fc/adjuntos/203/imagenes/103/537/0103537261/1200x675/smart/82850447.jpeg",
+        "summary": "El Papa León XIV y la gente hicieron exactamente lo que tenían que hacer. La dirigencia debería barajar y dar de nuevo",
         "pubDate": "2026-11-18T09:10:00+00:00",
         "approxTime": false
       },
@@ -168,10 +177,10 @@
       },
       {
         "source": "La Capital",
-        "title": "El Papa en Argentina: ¿y ahora qué?",
-        "link": "https://www.lacapital.com.ar/el-papa-argentina-y-ahora-que-n10292733.html",
-        "image": "https://media.lacapital.com.ar/p/8015415dbc67d7a85c3ce5c0195805fc/adjuntos/203/imagenes/103/537/0103537261/1200x675/smart/82850447.jpeg",
-        "summary": "El Papa León XIV y la gente hicieron exactamente lo que tenían que hacer. La dirigencia debería barajar y dar de nuevo",
+        "title": "Newell's espera tener un doble alivio antes de viajar a La Plata",
+        "link": "https://www.lacapital.com.ar/newells-espera-tener-un-doble-alivio-antes-viajar-la-plata-n10292768.html",
+        "image": "https://media.lacapital.com.ar/p/cc5db04f423bc71ca167df37b07d5aa1/adjuntos/203/imagenes/103/537/0103537370/1200x675/smart/image-2026-11-17t192948054.png",
+        "summary": "Hay expectativas en torno a que a Kudelka le bajen la sanción y se siente en el banco ante Gimnasia. Cuatro de los cinco lesionados se encaminan a volver",
         "pubDate": "2026-11-18T09:10:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/d6e990973ad365b9104c9fe3990bed47/adjuntos/203/imagenes/103/537/0103537429/1200x675/smart/image.png",
         "summary": "“Si no liberan a Santino voy a empezar a matar gente”, advirtió un llamado a la central del 911. El mensaje iba para el gobernador Pullaro, los fiscales y la Policía",
         "pubDate": "2026-11-17T23:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Argentina es el cuarto país más caro del mundo para comprar el \"GTA VI\"",
-        "link": "https://www.lacapital.com.ar/informacion-general/argentina-es-el-cuarto-pais-mas-caro-del-mundo-comprar-el-gta-vi-n10292770.html",
-        "image": "https://media.lacapital.com.ar/p/528bcb6898c3d5714b8978a35be4a720/adjuntos/203/imagenes/103/537/0103537440/2026-11-17-gta-vi.jpg",
-        "summary": "La edición estándar en PlayStation Store cuesta 96,79 dólares con impuestos. En Estados Unidos sale 79,99",
-        "pubDate": "2026-11-17T23:18:00+00:00",
         "approxTime": false
       }
     ]
