@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T21:30:55.158305+00:00",
+  "generatedAt": "2026-11-18T22:01:15.436719+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Aleart propone alcaidías municipales para encerrar cuidacoches",
+        "link": "https://www.lacapital.com.ar/la-ciudad/aleart-propone-alcaidias-municipales-encerrar-cuidacoches-n10292989.html",
+        "image": "https://media.lacapital.com.ar/p/75a9b4c06ceae034ec75838ea9d4b9f0/adjuntos/203/imagenes/101/648/0101648646/1200x675/smart/2024-05-26-trapitos-detenidosjpg.jpg",
+        "summary": "En medio del debate del mensaje del Ejecutivo en el Concejo Municipal, el edil libertario pide encerrar a los violentos",
+        "pubDate": "2026-11-18T21:53:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "La reserva de Newell's le puso punto final a un semestre en el que no hubo clasificación",
         "link": "https://www.lacapital.com.ar/ovacion/la-reserva-newells-le-puso-punto-final-un-semestre-el-que-no-hubo-clasificacion-n10292974.html",
         "image": "https://media.lacapital.com.ar/p/1c9b694f533c88a04e2a89d08ff0f31e/adjuntos/203/imagenes/103/539/0103539813/rese.jpg",
@@ -190,7 +199,7 @@
         "link": "https://www.lacapital.com.ar/politica/los-libertarios-apuntaron-contra-unidos-la-sesion-caida-diputados-n10292969.html",
         "image": "https://media.lacapital.com.ar/p/11ebe721e8f724df6e2d700298b7371a/adjuntos/203/imagenes/103/539/0103539801/1200x675/smart/libertarios-sesion-diputados.jpg",
         "summary": "Romina Diez habló de “intereses mezquinos” y Marcos Peyrano acusó a los legisladores de Pullaro de sumarse al kirchnerismo para bloquear el debate",
-        "pubDate": "2026-11-18T20:18:27+00:00",
+        "pubDate": "2026-11-18T20:18:00+00:00",
         "approxTime": false
       },
       {
@@ -252,7 +261,7 @@
         "title": "Diputados: se cayó la sesión para tratar la ley Malvinas y la reforma del Banco Central",
         "link": "https://www.lacapital.com.ar/politica/diputados-se-cayo-la-sesion-tratar-la-ley-malvinas-y-la-reforma-del-banco-central-n10292954.html",
         "image": "https://media.lacapital.com.ar/p/20ffbdceb080cfb7487240a60d1a75c6/adjuntos/203/imagenes/103/539/0103539788/1200x675/smart/martin-menem-quorum.jpg",
-        "summary": "La Libertad Avanza no juntó quórum para abrir el recinto y tuvo que postergar el debate. Mensaje de Pullaro y Llaryora a la Casa Rosada",
+        "summary": "La Libertad Avanza no juntó quorum para abrir el recinto y tuvo que postergar el debate. Mensaje de Pullaro y Llaryora a la Casa Rosada",
         "pubDate": "2026-11-18T19:27:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/2fed92669bf2f1e9bd2b427d61f37749/adjuntos/203/imagenes/103/539/0103539657/1200x675/smart/bailaquejj.jpg",
         "summary": "Apelaciones unificó las causas que irán a juicio: prevaricato, abuso de autoridad, extorsión y falsedad ideológica de documento público",
         "pubDate": "2026-11-18T19:20:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Salvaron a una bebé rosarina gracias a una tecnología única en la provincia",
-        "link": "https://www.lacapital.com.ar/salud/salvaron-una-bebe-rosarina-gracias-una-tecnologia-unica-la-provincia-n10292952.html",
-        "image": "https://media.lacapital.com.ar/p/1b6a5716bb622f9d5af1f5b7882af04e/adjuntos/203/imagenes/103/539/0103539768/1200x675/smart/foto-familia-y-dr-tabacco-1.jpeg",
-        "summary": "El Sanatorio de Niños aplicó ECMO, un sistema que oxigena la sangre fuera del cuerpo, a Juana, que tenía un día de vida y una grave complicación respiratoria tras el parto",
-        "pubDate": "2026-11-18T19:03:00+00:00",
         "approxTime": false
       }
     ]
