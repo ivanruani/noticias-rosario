@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T10:01:07.451030+00:00",
+  "generatedAt": "2026-11-19T10:30:58.407410+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,29 +13,47 @@
       },
       {
         "source": "Rosario3",
+        "title": "El clima en Rosario: aire veraniego antes de más lluvia",
+        "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-aire-veraniego-antes-de-mas-lluvia-20261119-0001.html",
+        "image": "https://www.rosario3.com/__export/1769364792277/sites/rosario3/img/2025/01/16/calor_3.jpg_672794304.jpg",
+        "summary": "El Servicio Meteorológico Nacional anticipa un jueves estable y bien cálido en la región en la previa a un nuevo pulso inestable. Para el viernes se esperan chaparrones durante la madrugada y la mañana",
+        "pubDate": "2026-11-19T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Claves del día: dólar en alerta, Agrofina ofrece pagar menos y Santa Fe busca subirse al boom de la IA | Ecos365",
+        "link": "https://www.rosario3.com/ecos365/noticias/claves-del-dia-dolar-en-alerta-agrofina-ofrece-pagar-menos-y-santa-fe-busca-subirse-al-boom-de-la-ia-20261119-0001.html",
+        "image": "https://www.rosario3.com/__export/1795080233031/sites/rosario3/img/2026/11/19/finanzas_crop1782752079019_crop1795080232152.png_1609629787.png",
+        "summary": "Cobrar menos o esperar: Agrofina presenta su propuesta mientras se recalienta el dólar. Bonos y acciones se separan, Anthropic sacude Wall Street, Santa Fe mira datacenters, Casa FOA acelera, Oroño cambia de conducción y Trump, Xi y Putin negocian",
+        "pubDate": "2026-11-19T11:58:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Proponen descuentos de hasta el 60% en la tarifa de la EPE para cargar autos eléctricos",
         "link": "https://www.rosario3.com/informaciongeneral/proponen-descuentos-de-hasta-el-60-en-la-tarifa-de-la-epe-para-cargar-autos-electricos-20261118-0068.html",
         "image": "https://www.rosario3.com/__export/1795048147246/sites/rosario3/img/2026/11/18/vehiculos_enchufables.jpg_1825222445.jpg",
         "summary": "La iniciativa fue presentada en la Legislatura santafesina y contempla rebajas del 50% durante la noche y del 60% los fines de semana y feriados. El objetivo es incentivar la carga en horarios de menor demanda y ordenar el consumo de energía",
-        "pubDate": "2026-11-18T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Buscan a un joven de 25 años que desapareció en el río Paraná en San Lorenzo",
-        "link": "https://www.rosario3.com/informaciongeneral/buscan-a-un-joven-de-25-anos-que-desaparecio-en-el-rio-parana-en-san-lorenzo-20261118-0067.html",
-        "image": "https://www.rosario3.com/__export/1795043675440/sites/rosario3/img/2026/11/18/san_lorenzo_rio_busqueda.jpg_1825222467.jpg",
-        "summary": "El joven se arrojó al agua junto a otras dos personas, que lograron salir. Prefectura desplegó un operativo de búsqueda en la zona del Paseo de la Libertad",
-        "pubDate": "2026-11-18T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El Gobierno retiró las listas colectoras para asegurarse el apoyo para suspender las PASO",
-        "link": "https://www.rosario3.com/politica/el-gobierno-retiro-las-listas-colectoras-para-asegurarse-el-apoyo-para-suspender-las-paso-20261118-0048.html",
-        "image": "https://www.rosario3.com/__export/1795028596257/sites/rosario3/img/2026/11/18/paso.jpg_1768679258.jpg",
-        "summary": "El proyecto de ley con cambios se debatirá esta tarde en comisión en el Senado y el oficialismo se encamina a lograr el dictamen",
         "pubDate": "2026-11-18T11:57:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Los cines de Rosario renuevan su cartelera con una nueva precuela de Los juegos del hambre y otros cuatro estrenos",
+        "link": "https://www.rosario3.com/ocio/los-cines-de-rosario-renuevan-su-cartelera-con-una-nueva-precuela-de-los-juegos-del-hambre-y-otros-cuatro-estrenos-20261118-0060.html",
+        "image": "https://www.rosario3.com/__export/1795039055092/sites/rosario3/img/2026/11/18/juegosdelhambre.jpg_982625323.jpg",
+        "summary": "Las salas de la ciudad proyectan desde este jueves Los juegos del hambre: amanecer en la cosecha, junto con Yo soy Rocky, La asistente de la morgue, Minotauro y Recen por mí: la historia de Francisco",
+        "pubDate": "2026-11-18T11:56:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "GTA 6 ya está disponible en Argentina: precios, consolas y un histórico puntaje ya a horas de su estreno",
+        "link": "https://www.rosario3.com/tecnologia/gta-6-ya-esta-disponible-en-argentina-precios-consolas-y-un-historico-puntaje-ya-a-horas-de-su-estreno-20261119-0005.html",
+        "image": "https://www.rosario3.com/__export/1795083031054/sites/rosario3/img/2026/11/19/gta.jpg_928314580.jpg",
+        "summary": "Tras 13 años de desarrollo, el nuevo videojuego de Rockstar Games ya puede jugarse en estas latitudes. Todos los detalles del ansiado debut",
+        "pubDate": "2026-11-19T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -44,24 +62,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/que-era-la-caja-gris-gigante-que-quedo-trabada-bajo-un-puente-de-circunvalacion-20261118-0061.html",
         "image": "https://www.rosario3.com/__export/1795036312915/sites/rosario3/img/2026/11/18/camion_trabado_1.jpg_928314580.jpg",
         "summary": "El incidente ocurrido este miércoles entre Avellaneda y Ovidio Lagos llamó la atención por el tamaño de la carga. Cómo funcionan estos módulos industriales, para qué se usan y por qué no representó peligro de explosión",
-        "pubDate": "2026-11-18T11:56:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Milei negó una interna con Bullrich y la respaldó: “Cómo la vamos a echar, es mi socia política”",
-        "link": "https://www.rosario3.com/informaciongeneral/milei-nego-una-interna-con-bullrich-y-la-respaldo-como-la-vamos-a-echar-es-mi-socia-politica-20261118-0066.html",
-        "image": "https://www.rosario3.com/__export/1795045879060/sites/rosario3/img/2026/11/18/milei_2.jpg_982625323.jpg",
-        "summary": "El presidente descartó que vaya a producirse un desplazamiento de la senadora al afirmar que ese sería el “deseo” del “círculo rojo”. También contó detalles de su conversación con el papa León XIV y volvió a cuestionar a quienes apuntan que “la gente no llega a fin de mes”…",
-        "pubDate": "2026-11-18T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Prevención del cáncer de mama: en octubre se brindaron más de 8.100 turnos para mamografías en la provincia",
-        "link": "https://www.rosario3.com/informaciongeneral/prevencion-del-cancer-de-mama-en-octubre-se-brindaron-mas-de-8.100-turnos-para-mamografias-en-la-provincia-20261118-0064.html",
-        "image": "https://www.rosario3.com/__export/1795039907226/sites/rosario3/img/2026/11/18/mamografxas.jpg_982625323.jpg",
-        "summary": "El balance de la campaña Octubre Rosa mostró un crecimiento sostenido en los últimos tres años, con un incremento del 70,6 % respecto de 2024 en el acceso a estudios",
         "pubDate": "2026-11-18T11:54:00+00:00",
         "approxTime": true
       },
@@ -76,11 +76,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Empiezan los playoffs: día, hora y cómo ver cada partido de la definición del torneo Clausura",
-        "link": "https://www.rosario3.com/deportes/empiezan-los-playoffs-dia-hora-y-como-ver-cada-partido-de-la-definicion-del-torneo-clausura-20261118-0028.html",
-        "image": "https://www.rosario3.com/__export/1795014972283/sites/rosario3/img/2026/11/18/playoffs_torneo_clausura.jpg_506286608.jpg",
-        "summary": "Central saldrá a la cancha frente a Gimnasia de Mendoza el domingo, mientras que Newell's lo hará el lunes contra Gimnasia de La Plata. Cómo es el cuadro, todos los cruces de octavos de final y los posibles duelos de cuartos",
-        "pubDate": "2026-11-18T11:52:00+00:00",
+        "title": "La FIFA volverá a celebrar elecciones tras más diez años e Infantino competirá contra tres candidatos",
+        "link": "https://www.rosario3.com/deportes/la-fifa-volvera-a-celebrar-elecciones-tras-mas-diez-anos-e-infantino-competira-contra-tres-candidatos-20261119-0004.html",
+        "image": "https://www.rosario3.com/__export/1784477133190/sites/rosario3/img/2026/07/19/infantino-fifa-version1784468904501-jpg-630917430_-1-_-1-.jpg_1221028662.jpg",
+        "summary": "El actual presidente buscará la reelección tras haber sido elegido dos veces por aclamación. Será en marzo del año que viene",
+        "pubDate": "2026-11-19T11:52:00+00:00",
         "approxTime": true
       },
       {
@@ -141,11 +141,11 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "Rosario mejoró sus cifras habitacionales y superó el promedio nacional",
-        "link": "https://www.lacapital.com.ar/la-ciudad/rosario-mejoro-sus-cifras-habitacionales-y-supero-el-promedio-nacional-n10292973.html",
-        "image": "https://media.lacapital.com.ar/p/012cf8a79ae9eb1963479f74dc0bbe44/adjuntos/203/imagenes/102/935/0102935013/1200x675/smart/procrear1.jpg",
-        "summary": "La ciudad redujo su déficit del 26% al 13,5% entre 2015 y 2025, según un informe de la Fundación Apertura. La red de cloacas impulsa el progreso, pero queda en deuda el acceso al servicio de gas natural",
-        "pubDate": "2026-11-19T09:30:00+00:00",
+        "title": "Estrenos de cine en Rosario: una película sobre María Gabriela Epumer, los \"Juegos del hambre\" y \"Rocky\"",
+        "link": "https://www.lacapital.com.ar/zoom/estrenos-cine-rosario-una-pelicula-maria-gabriela-epumer-los-juegos-del-hambre-y-rocky-n10292972.html",
+        "image": "https://media.lacapital.com.ar/p/7a3a9cca7bddb1bdb0a2b24f875f5650/adjuntos/203/imagenes/103/539/0103539850/1200x675/smart/image-2026-11-18t183403953.png",
+        "summary": "Títulos para todos los gustos desembarcan en las salas de cine de la ciudad este jueves 19 de noviembre. Promociones y descuentos a la hora de sacar entradas",
+        "pubDate": "2026-11-19T10:00:00+00:00",
         "approxTime": false
       },
       {
@@ -159,11 +159,11 @@
       },
       {
         "source": "La Capital",
-        "title": "El Frente de Sindicatos Unidos exige un salario mínimo de $ 3,2 millones",
-        "link": "https://www.lacapital.com.ar/economia/el-frente-sindicatos-unidos-exige-un-salario-minimo-32-millones-n10293018.html",
-        "image": "https://media.lacapital.com.ar/p/b4a8e71a17536df5dc4c2515662d7aa2/adjuntos/203/imagenes/103/540/0103540200/1200x675/smart/fresu25a.jpg",
-        "summary": "En el cierre del congreso de la federación aceitera se actualizó el cálculo del ingreso necesario para una vida digna. Llamado sindical a “construir” un paro nacional",
-        "pubDate": "2026-11-19T09:15:00+00:00",
+        "title": "Rosario mejoró sus cifras habitacionales y superó el promedio nacional",
+        "link": "https://www.lacapital.com.ar/la-ciudad/rosario-mejoro-sus-cifras-habitacionales-y-supero-el-promedio-nacional-n10292973.html",
+        "image": "https://media.lacapital.com.ar/p/012cf8a79ae9eb1963479f74dc0bbe44/adjuntos/203/imagenes/102/935/0102935013/1200x675/smart/procrear1.jpg",
+        "summary": "La ciudad redujo su déficit del 26% al 13,5% entre 2015 y 2025, según un informe de la Fundación Apertura. La red de cloacas impulsa el progreso, pero queda en deuda el acceso al servicio de gas natural",
+        "pubDate": "2026-11-19T09:30:00+00:00",
         "approxTime": false
       },
       {
@@ -172,6 +172,15 @@
         "link": "https://www.lacapital.com.ar/agro/cronicas-campana-el-lote-rios-ya-cosecho-el-50-del-trigo-y-hay-apuro-esquivar-las-tormentas-n10293028.html",
         "image": "https://media.lacapital.com.ar/p/1dcc3f3e213bea9795e6f3c2ede6e5b8/adjuntos/203/imagenes/103/540/0103540341/1200x675/785x402:805x422/cosecha-trigo-rios.jpeg",
         "summary": "La cosecha de trigo avanza en la región núcleo, con rindes de 5000 a 6000 kg/ha en Santa Fe y hasta 7000 en algunos lotes. Quienes todavía no cosecharon, se preparan para arrancar y esquivar las tormentas",
+        "pubDate": "2026-11-19T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El Frente de Sindicatos Unidos exige un salario mínimo de $ 3,2 millones",
+        "link": "https://www.lacapital.com.ar/economia/el-frente-sindicatos-unidos-exige-un-salario-minimo-32-millones-n10293018.html",
+        "image": "https://media.lacapital.com.ar/p/b4a8e71a17536df5dc4c2515662d7aa2/adjuntos/203/imagenes/103/540/0103540200/1200x675/smart/fresu25a.jpg",
+        "summary": "En el cierre del congreso de la federación aceitera se actualizó el cálculo del ingreso necesario para una vida digna. Llamado sindical a “construir” un paro nacional",
         "pubDate": "2026-11-19T09:15:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/98bff77792054ee9a83835e5cd10de4c/adjuntos/203/imagenes/103/540/0103540214/2026-11-18-quini-6.jpg",
         "summary": "El Siempre Sale entregó 21 millones de pesos a cada ganador, que fueron 17, de los cuales 3 hicieron sus jugadas en la provincia de Santa Fe",
         "pubDate": "2026-11-19T00:36:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El gobierno cedió y consiguió las firmas para la reforma electoral",
-        "link": "https://www.lacapital.com.ar/politica/el-gobierno-cedio-y-consiguio-las-firmas-la-reforma-electoral-n10293008.html",
-        "image": "https://media.lacapital.com.ar/p/5f73b97b743dd3a552829dfd5ad77f17/adjuntos/203/imagenes/103/540/0103540061/1200x675/smart/bullrich-debate-comision-reforma-electoral.jpg",
-        "summary": "Sin colectoras, el proyecto suspende las Paso en 2027 e incorpora Ficha Limpia. El oficialismo busca llevarlo al recinto el jueves 26",
-        "pubDate": "2026-11-18T23:40:00+00:00",
         "approxTime": false
       }
     ]
