@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T17:31:07.074046+00:00",
+  "generatedAt": "2026-11-19T18:01:09.700784+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,42 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Asistencia al viajero: prepará tus vacaciones de verano",
+        "link": "https://www.lacapital.com.ar/novedades/asistencia-al-viajero-prepara-tus-vacaciones-verano-n10293139.html",
+        "image": "https://media.lacapital.com.ar/p/64237fe5c91b082045f8db4912f2f640/adjuntos/203/imagenes/103/541/0103541776/1200x675/smart/98ee40bc-1bbb-4907-b1d6-24857a4ccf74.jpg",
+        "summary": "Organizá tus vacaciones de verano: qué documentación llevar, cuándo contratar asistencia al viajero y qué cobertura revisar según el destino.",
+        "pubDate": "2026-11-19T17:54:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central se topa otra vez con un duelo a todo o nada: cómo le fue este año en instancias eliminatorias",
+        "link": "https://www.lacapital.com.ar/ovacion/central-se-topa-otra-vez-un-duelo-todo-o-nada-como-le-fue-este-ano-instancias-eliminatorias-n10292557.html",
+        "image": "https://media.lacapital.com.ar/p/1f24792fa5178e9d7f95aab2dcef83c8/adjuntos/203/imagenes/103/534/0103534736/centralv.jpeg",
+        "summary": "El Canalla afrontará este domingo los octavos de final del torneo Clausura frente a Gimnasia y Esgrima de Mendoza, en el Gigante de Arroyito",
+        "pubDate": "2026-11-19T17:53:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El poder de Gimnasia como local, un escollo del que Newell's debe tomar la debida nota",
+        "link": "https://www.lacapital.com.ar/ovacion/el-poder-gimnasia-como-local-un-escollo-del-que-newells-debe-tomar-la-debida-nota-n10292909.html",
+        "image": "https://media.lacapital.com.ar/p/ad2b354686631fe5dab2461e7896e284/adjuntos/203/imagenes/103/539/0103539593/lobo.jpg",
+        "summary": "El Lobo hizo de la localía en el Bosque un bastión para la clasificación y será un hueso duro de roer para la Lepra en la búsqueda de los cuartos de final",
+        "pubDate": "2026-11-19T17:52:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Una jugadora de Newell's de 17 años fue convocada a la selección mayor para jugar con Alemania y Uruguay",
+        "link": "https://www.lacapital.com.ar/ovacion/una-jugadora-newells-17-anos-fue-convocada-la-seleccion-mayor-jugar-alemania-y-uruguay-n10293142.html",
+        "image": "https://media.lacapital.com.ar/p/00d214ba7c79ddc22e8c94dc726030c3/adjuntos/203/imagenes/103/541/0103541779/1200x675/smart/image-1.jpg",
+        "summary": "Julieta Aguilar ya jugó este año los mundiales sub-20 y sub-17 para la albiceleste. En el equipo del Parque debutó en primera a los 14 años",
+        "pubDate": "2026-11-19T17:44:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Daniel Passarella irá a juicio oral por una denuncia que le hicieron hace 14 años",
         "link": "https://www.lacapital.com.ar/ovacion/daniel-passarella-ira-juicio-oral-una-denuncia-que-le-hicieron-hace-14-anos-n10293032.html",
         "image": "https://media.lacapital.com.ar/p/c4b476ab2c5bf564619e29a97966b2b5/adjuntos/203/imagenes/103/540/0103540390/1200x675/smart/passarella.jpg",
@@ -231,47 +267,11 @@
       },
       {
         "source": "La Capital",
-        "title": "Clásicos de juveniles: Newell's le ganó a Central y hubo un incidente",
-        "link": "https://www.lacapital.com.ar/ovacion/clasicos-juveniles-newells-le-gano-central-y-hubo-un-incidente-n10293071.html",
+        "title": "Clásicos de juveniles: Newell's le ganó a Central y al final hubo un incidente",
+        "link": "https://www.lacapital.com.ar/ovacion/clasicos-juveniles-newells-le-gano-central-y-al-final-hubo-un-incidente-n10293071.html",
         "image": "https://media.lacapital.com.ar/p/087f920d6fffbeb1fb0e4d47f2e924f4/adjuntos/203/imagenes/103/540/0103540999/1200x675/smart/incidentes-clasico-infantil-malvinas.jpg",
         "summary": "El coordinador general, Gustavo Tognarelli, confirmó que hubo un problema con un integrante del cuerpo técnico Canalla y que se arrojaron algunas piedras, aunque aclaró que \"no pasó a mayores\"",
         "pubDate": "2026-11-19T15:23:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La selección argentina debuta en el Mundial Sub-17: el maleficio que buscará dejar atrás",
-        "link": "https://www.lacapital.com.ar/ovacion/la-seleccion-argentina-debuta-el-mundial-sub-17-el-maleficio-que-buscara-dejar-atras-n10293102.html",
-        "image": "https://media.lacapital.com.ar/p/e456df9f205ac18094d0074ca930a274/adjuntos/203/imagenes/103/541/0103541269/1200x675/smart/image-2026-11-19t112137884.png",
-        "summary": "El equipo de Diego Placente inicia su camino con el anhelo de conquistar por primera vez el título. Integra el Grupo C junto a Australia, Mozambique y Dinamarca",
-        "pubDate": "2026-11-19T15:07:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Tras su paso por Rosario, Odesur confirmó la nueva sede de los Juegos Suramericanos",
-        "link": "https://www.lacapital.com.ar/ovacion/tras-su-paso-rosario-odesur-confirmo-la-nueva-sede-los-juegos-suramericanos-n10293111.html",
-        "image": "https://media.lacapital.com.ar/p/d163f79fe8202ac5a70d68b0b5e738a3/adjuntos/203/imagenes/103/432/0103432324/1200x675/smart/juegos-odesur-suramericanos.jpeg",
-        "summary": "La entidad sudamericana anunció que la próxima edición de 2030 se llevará a cabo en Chile, luego del éxito en Santa Fe en septiembre de este año",
-        "pubDate": "2026-11-19T15:04:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Black Friday: cómo prepararse para comprar un electrodoméstico grande",
-        "link": "https://www.lacapital.com.ar/novedades/black-friday-como-prepararse-comprar-un-electrodomestico-grande-n10293109.html",
-        "image": "https://media.lacapital.com.ar/p/ab9a785173fd3c9f134e6ed126a746e9/adjuntos/203/imagenes/103/541/0103541388/1200x675/smart/bau-ar-bf-9032-lacapitalcomar-foto-3.jpg",
-        "summary": "Tras recibir el electrodoméstico, se deben revisar detalles, guardar la factura y conocer el derecho de arrepentimiento por compras a distancia.",
-        "pubDate": "2026-11-19T14:54:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Qué pasó en los Premios Rosarigasinos: video viral, final abrupto y confusión",
-        "link": "https://www.lacapital.com.ar/zoom/que-paso-los-premios-rosarigasinos-video-viral-final-abrupto-y-confusion-n10293097.html",
-        "image": "https://media.lacapital.com.ar/p/08a9871f4dfa8d0bbb2ea65e16fc71f7/adjuntos/203/imagenes/103/541/0103541250/1200x675/smart/image-2026-11-19t120502364.jpg",
-        "summary": "La tercera edición del evento que reconoce a la cultura local terminó con tensión y abucheos en el Teatro El Círculo",
-        "pubDate": "2026-11-19T14:40:00+00:00",
         "approxTime": false
       }
     ]
