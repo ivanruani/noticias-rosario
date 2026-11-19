@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T21:30:53.136255+00:00",
+  "generatedAt": "2026-11-19T22:01:02.311351+00:00",
   "sites": {
     "rosario3": [
       {
@@ -121,24 +121,51 @@
       },
       {
         "source": "Rosario3",
-        "title": "La hija de Amalia Granata y el Ogro Fabbiani contó cómo le afectó ver a sus padres pelear en televisión: \"Influye en la salud mental\"",
-        "link": "https://www.rosario3.com/ocio/la-hija-de-amalia-granata-y-el-ogro-fabbiani-conto-como-le-afecto-ver-a-sus-padres-pelear-en-television-influye-en-la-salud-mental-20261119-0062.html",
-        "image": "https://www.rosario3.com/__export/1795112302487/sites/rosario3/img/2026/11/19/1000098959.jpg_1768679257.jpg",
-        "summary": "Uma explicó que cuando ocurrieron los enfrentamientos ella era muy pequeña pero que al crecer tuvo accesos a esos recortes y no le gustaron",
+        "title": "Detuvieron al hombre que había sido denunciado por violencia de género por una influencer de Roldán",
+        "link": "https://www.rosario3.com/policiales/detuvieron-al-hombre-que-habia-sido-denunciado-por-violencia-de-genero-por-una-influencer-de-roldan-20261119-0059.html",
+        "image": "https://www.rosario3.com/__export/1795108899979/sites/rosario3/img/2026/11/19/violencia_de_genero.jpg_928314580.jpg",
+        "summary": "Héctor René S., de 46 años, fue aprehendido por la Policía de Investigaciones. Su expareja lo había sindicado por una golpiza que le propinó el pasado lunes",
         "pubDate": "2026-11-19T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Detuvieron al hombre que había sido denunciado por violencia de género por una influencer de Roldán",
-        "link": "https://www.rosario3.com/policiales/detuvieron-al-hombre-que-habia-sido-denunciado-por-violencia-de-genero-por-una-influencer-de-roldan-20261119-0059.html",
-        "image": "https://www.rosario3.com/__export/1795108899979/sites/rosario3/img/2026/11/19/violencia_de_genero.jpg_928314580.jpg",
-        "summary": "Héctor René S., de 46 años, fue aprehendido por la Policía de Investigaciones. Su expareja lo había sindicado por una golpiza que le propinó el pasado lunes",
+        "title": "Denuncian que una docente estafó a sus alumnos de 5º grado con la plata para un viaje: familias lanzan campaña contrarreloj",
+        "link": "https://www.rosario3.com/informaciongeneral/denuncian-que-una-docente-estafo-a-sus-alumnos-de-5-grado-con-la-plata-para-un-viaje-familias-lanzan-campana-contrarreloj-20261119-0048.html",
+        "image": "https://www.rosario3.com/__export/1795103871912/sites/rosario3/img/2026/11/19/escuela_alumnos_estafados.png_786111822.png",
+        "summary": "Los 35 chicos de la escuela Nº 1276 de Rosario quedaron a punto de perder su viaje de estudios a Entre Ríos luego de que las familias descubrieran que el dinero recaudado nunca había llegado a la empresa de turismo. Ante la falta de respuestas y una deuda que ronda entre los 3 y…",
         "pubDate": "2026-11-19T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "De paso por Rosario, el vocero presidencial defendió el modelo de Milei y la \"batalla cultural\"",
+        "link": "https://www.lacapital.com.ar/politica/de-paso-rosario-el-vocero-presidencial-defendio-el-modelo-milei-y-la-batalla-cultural-n10293186.html",
+        "image": "https://media.lacapital.com.ar/p/0fefbee80d83a645322805f3140ee82d/adjuntos/203/imagenes/103/542/0103542277/1200x675/smart/ar.jpg",
+        "summary": "Adrián Ravier participó de un conversatorio en la Fundación Libertad, donde brindó definiciones políticas y económicas. Mensaje a las provincias, entre ellas Santa Fe",
+        "pubDate": "2026-11-19T21:45:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Alivio en Newell's: le perdonaron un partido de suspensión a Kudelka y podrá dirigir en La Plata",
+        "link": "https://www.lacapital.com.ar/ovacion/alivio-newells-le-perdonaron-un-partido-suspension-kudelka-y-podra-dirigir-la-plata-n10293193.html",
+        "image": "https://media.lacapital.com.ar/p/d4c9503babba3693e4c9c0310d649412/adjuntos/203/imagenes/103/080/0103080438/nob-kudelka-87.jpg",
+        "summary": "El Tribunal de Disciplina de la AFA contempló la apelación de Newell’s y redujo a una fecha el castigo al entrenador",
+        "pubDate": "2026-11-19T21:37:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La Línea de la Costa comienza a funcionar los fines de semana y feriados",
+        "link": "https://www.lacapital.com.ar/la-ciudad/la-linea-la-costa-comienza-funcionar-los-fines-semana-y-feriados-n10293191.html",
+        "image": "https://media.lacapital.com.ar/p/0b0fb76cd8e4d8a5f561ea1c770a3375/adjuntos/203/imagenes/102/821/0102821530/1200x675/smart/image-2025-11-20t145147000.jpg",
+        "summary": "El servicio retoma su recorrido este sábado a partir de las 8 desde Rioja y avenida Belgrano hacia Costa Alta. El último servicio sale desde allí a las 21.35",
+        "pubDate": "2026-11-19T21:29:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Condenan a un narco que trasladó 100 kilos de cocaína desde Jujuy a Santa Fe",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/e451ff8d3442681dfa7c4b44e596f8b4/adjuntos/203/imagenes/103/429/0103429236/1200x675/smart/bullric-senado.jpg",
         "summary": "La senadora oficialista reclamó que el gobierno saque “el pie del Estado de encima de las pymes” para que puedan “producir, invertir y generar trabajo”",
         "pubDate": "2026-11-19T19:13:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Docentes de la UNR se suman al paro nacional de 24 horas del próximo miércoles",
-        "link": "https://www.lacapital.com.ar/la-ciudad/docentes-la-unr-se-suman-al-paro-nacional-24-horas-del-proximo-miercoles-n10293150.html",
-        "image": "https://media.lacapital.com.ar/p/5c9d4751e73ad254ff74ff8dfbb2d53f/adjuntos/203/imagenes/102/257/0102257857/1200x675/smart/coad-143jpg.jpg",
-        "summary": "La medida de fuerza coincidirá con el tratamiento del presupuesto nacional 2027 en la Cámara de Diputados",
-        "pubDate": "2026-11-19T18:57:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Políticos en Redes: especial Colectividades, la meca del contenido",
-        "link": "https://www.lacapital.com.ar/politica/politicos-redes-especial-colectividades-la-meca-del-contenido-n10293135.html",
-        "image": "https://media.lacapital.com.ar/p/e776931ff70e20aaf869db91722e33ae/adjuntos/203/imagenes/103/539/0103539012/colectividades.jpg",
-        "summary": "Un espacio de La Capital que busca mostrar y analizar algunos contenidos de redes sociales de los políticos",
-        "pubDate": "2026-11-19T18:26:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central: cuál es el orden de prioridades de Almirón para suplir la ausencia del Gato Ávila",
-        "link": "https://www.lacapital.com.ar/ovacion/central-cual-es-el-orden-prioridades-almiron-suplir-la-ausencia-del-gato-avila-n10293066.html",
-        "image": "https://media.lacapital.com.ar/p/c8da80a8ee902264cff1a0534e977686/adjuntos/203/imagenes/103/541/0103541795/zarachossm.jpg",
-        "summary": "Para el choque de domingo, el técnico canalla tiene varios nombres como alternativa parta la zaga central, aunque hay algunos que corren con ventaja",
-        "pubDate": "2026-11-19T18:18:00+00:00",
         "approxTime": false
       }
     ]
