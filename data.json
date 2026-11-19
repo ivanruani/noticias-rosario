@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T23:30:57.432935+00:00",
+  "generatedAt": "2026-11-19T00:01:04.493056+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,20 +13,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Qué era la “caja gris” gigante que quedó trabada bajo un puente de Circunvalación",
-        "link": "https://www.rosario3.com/informaciongeneral/que-era-la-caja-gris-gigante-que-quedo-trabada-bajo-un-puente-de-circunvalacion-20261118-0061.html",
-        "image": "https://www.rosario3.com/__export/1795036312915/sites/rosario3/img/2026/11/18/camion_trabado_1.jpg_928314580.jpg",
-        "summary": "El incidente ocurrido este miércoles entre Avellaneda y Ovidio Lagos llamó la atención por el tamaño de la carga. Cómo funcionan estos módulos industriales, para qué se usan y por qué no representó peligro de explosión",
+        "title": "Prevención del cáncer de mama: en octubre se brindaron más de 8.100 turnos para mamografías en la provincia",
+        "link": "https://www.rosario3.com/informaciongeneral/prevencion-del-cancer-de-mama-en-octubre-se-brindaron-mas-de-8.100-turnos-para-mamografias-en-la-provincia-20261118-0064.html",
+        "image": "https://www.rosario3.com/__export/1795039907226/sites/rosario3/img/2026/11/18/mamografxas.jpg_982625323.jpg",
+        "summary": "El balance de la campaña Octubre Rosa mostró un crecimiento sostenido en los últimos tres años, con un incremento del 70,6 % respecto de 2024 en el acceso a estudios",
         "pubDate": "2026-11-18T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Santa Fe activó la ley contra el robo de celulares: cómo serán los controles en la calle",
-        "link": "https://www.rosario3.com/informaciongeneral/santa-fe-activo-la-ley-contra-el-robo-de-celulares-como-seran-los-controles-en-la-calle-20261118-0041.html",
-        "image": "https://www.rosario3.com/__export/1795025216932/sites/rosario3/img/2026/11/18/celulares-.jpg_876629739.jpg",
-        "summary": "El Ejecutivo provincial y el MPA presentaron los detalles de la norma promulgada este lunes. La Policía podrá escanear el código IMEI en operativos de rutina sin sospecha previa y se creará un registro obligatorio para comercios",
-        "pubDate": "2026-11-18T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -35,15 +26,24 @@
         "link": "https://www.rosario3.com/politica/el-gobierno-retiro-las-listas-colectoras-para-asegurarse-el-apoyo-para-suspender-las-paso-20261118-0048.html",
         "image": "https://www.rosario3.com/__export/1795028596257/sites/rosario3/img/2026/11/18/paso.jpg_1768679258.jpg",
         "summary": "El proyecto de ley con cambios se debatirá esta tarde en comisión en el Senado y el oficialismo se encamina a lograr el dictamen",
+        "pubDate": "2026-11-18T11:58:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Santa Fe activó la ley contra el robo de celulares: cómo serán los controles en la calle",
+        "link": "https://www.rosario3.com/informaciongeneral/santa-fe-activo-la-ley-contra-el-robo-de-celulares-como-seran-los-controles-en-la-calle-20261118-0041.html",
+        "image": "https://www.rosario3.com/__export/1795025216932/sites/rosario3/img/2026/11/18/celulares-.jpg_876629739.jpg",
+        "summary": "El Ejecutivo provincial y el MPA presentaron los detalles de la norma promulgada este lunes. La Policía podrá escanear el código IMEI en operativos de rutina sin sospecha previa y se creará un registro obligatorio para comercios",
         "pubDate": "2026-11-18T11:57:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Javier Milei volvió a cuestionar el concepto de justicia social y anunció que presentará su libro el 30 de noviembre",
-        "link": "https://www.rosario3.com/informaciongeneral/javier-milei-volvio-a-cuestionar-el-concepto-de-justicia-social-y-anuncio-que-presentara-su-libro-el-30-de-noviembre-20261118-0056.html",
-        "image": "https://www.rosario3.com/__export/1795033216513/sites/rosario3/img/2026/11/18/milei_1.jpg_928314580.jpg",
-        "summary": "El mandatario recibió el título de Doctor Honoris Causa, otorgado por la Universidad de Belgrano y el Instituto Universitario Isaac Abarbanel",
+        "title": "Qué era la “caja gris” gigante que quedó trabada bajo un puente de Circunvalación",
+        "link": "https://www.rosario3.com/informaciongeneral/que-era-la-caja-gris-gigante-que-quedo-trabada-bajo-un-puente-de-circunvalacion-20261118-0061.html",
+        "image": "https://www.rosario3.com/__export/1795036312915/sites/rosario3/img/2026/11/18/camion_trabado_1.jpg_928314580.jpg",
+        "summary": "El incidente ocurrido este miércoles entre Avellaneda y Ovidio Lagos llamó la atención por el tamaño de la carga. Cómo funcionan estos módulos industriales, para qué se usan y por qué no representó peligro de explosión",
         "pubDate": "2026-11-18T11:56:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,24 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "El gobierno cedió y consiguió las firmas para la reforma electoral",
+        "link": "https://www.lacapital.com.ar/politica/el-gobierno-cedio-y-consiguio-las-firmas-la-reforma-electoral-n10293008.html",
+        "image": "https://media.lacapital.com.ar/p/5f73b97b743dd3a552829dfd5ad77f17/adjuntos/203/imagenes/103/540/0103540061/1200x675/smart/bullrich-debate-comision-reforma-electoral.jpg",
+        "summary": "Sin colectoras, el proyecto suspende las Paso en 2027 e incorpora Ficha Limpia. El oficialismo busca llevarlo al recinto el jueves 26",
+        "pubDate": "2026-11-18T23:40:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Jubilados marcharon por el centro en reclamo de \"derechos y dignidad\"",
+        "link": "https://www.lacapital.com.ar/la-ciudad/jubilados-marcharon-el-centro-reclamo-derechos-y-dignidad-n10293010.html",
+        "image": "https://media.lacapital.com.ar/p/c61b90939fd9ae9f7e3d538cdeb51e5d/adjuntos/203/imagenes/103/540/0103540073/2026-11-18-marcha-jubilados.jpg",
+        "summary": "Reclamaron por \"el deterioro de haberes, el ajuste sobre el sector y el avasallamiento de derechos\"",
+        "pubDate": "2026-11-18T23:30:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Presupuesto provincial 2027: senadores recibieron a ministros antes del debate",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/11ebe721e8f724df6e2d700298b7371a/adjuntos/203/imagenes/103/539/0103539801/1200x675/smart/libertarios-sesion-diputados.jpg",
         "summary": "Romina Diez habló de “intereses mezquinos” y Marcos Peyrano acusó a los legisladores de Pullaro de sumarse al kirchnerismo para bloquear el debate",
         "pubDate": "2026-11-18T20:18:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Un estudio ubica a Pullaro entre los gobernadores mejor valorados de la Argentina",
-        "link": "https://www.lacapital.com.ar/politica/un-estudio-ubica-pullaro-los-gobernadores-mejor-valorados-la-argentina-n10292976.html",
-        "image": "https://media.lacapital.com.ar/p/1e118bf2c571e331645e27075f8ada45/adjuntos/203/imagenes/103/420/0103420096/2026-09-22-pullaro-82176237-at_hrio.jpg",
-        "summary": "El mandatario santafesino llegó en noviembre al tercer lugar en el ranking que realiza la consultora de opinión pública CB Global Data",
-        "pubDate": "2026-11-18T20:18:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Tres ideas de desayunos fáciles y saludables",
-        "link": "https://www.lacapital.com.ar/informacion-general/tres-ideas-desayunos-faciles-y-saludables-n10292953.html",
-        "image": "https://media.lacapital.com.ar/p/bccf60473178982870b75864dd5edcb5/adjuntos/203/imagenes/103/539/0103539796/1200x675/smart/image-6.png",
-        "summary": "Platos sencillos y caseros que llevan pocos ingredientes y se pueden preparar en poco tiempo. Tres opciones para desayunar rico y saludable",
-        "pubDate": "2026-11-18T20:16:00+00:00",
         "approxTime": false
       }
     ]
