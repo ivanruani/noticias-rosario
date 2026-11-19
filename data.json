@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T09:30:56.922746+00:00",
+  "generatedAt": "2026-11-19T10:01:07.451030+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Rosario mejoró sus cifras habitacionales y superó el promedio nacional",
+        "link": "https://www.lacapital.com.ar/la-ciudad/rosario-mejoro-sus-cifras-habitacionales-y-supero-el-promedio-nacional-n10292973.html",
+        "image": "https://media.lacapital.com.ar/p/012cf8a79ae9eb1963479f74dc0bbe44/adjuntos/203/imagenes/102/935/0102935013/1200x675/smart/procrear1.jpg",
+        "summary": "La ciudad redujo su déficit del 26% al 13,5% entre 2015 y 2025, según un informe de la Fundación Apertura. La red de cloacas impulsa el progreso, pero queda en deuda el acceso al servicio de gas natural",
+        "pubDate": "2026-11-19T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Efecto León XIV: entre los nuevos y los que vuelven, esperan un incremento de fieles en Rosario",
+        "link": "https://www.lacapital.com.ar/la-ciudad/efecto-leon-xiv-los-nuevos-y-los-que-vuelven-esperan-un-incremento-fieles-rosario-n10292586.html",
+        "image": "https://media.lacapital.com.ar/p/3fb1f6e9339af18f0c8a73c4817b3769/adjuntos/203/imagenes/103/535/0103535153/1200x675/smart/catedral-rosario.png",
+        "summary": "Mientras las redes se llenaron de discusiones sobre \"la performance de la fe\", en Rosario registran gestos de proximidad a la Iglesia tras la visita papal. El desafío de sostenerlos en el tiempo",
+        "pubDate": "2026-11-19T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El Frente de Sindicatos Unidos exige un salario mínimo de $ 3,2 millones",
         "link": "https://www.lacapital.com.ar/economia/el-frente-sindicatos-unidos-exige-un-salario-minimo-32-millones-n10293018.html",
         "image": "https://media.lacapital.com.ar/p/b4a8e71a17536df5dc4c2515662d7aa2/adjuntos/203/imagenes/103/540/0103540200/1200x675/smart/fresu25a.jpg",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/5f73b97b743dd3a552829dfd5ad77f17/adjuntos/203/imagenes/103/540/0103540061/1200x675/smart/bullrich-debate-comision-reforma-electoral.jpg",
         "summary": "Sin colectoras, el proyecto suspende las Paso en 2027 e incorpora Ficha Limpia. El oficialismo busca llevarlo al recinto el jueves 26",
         "pubDate": "2026-11-18T23:40:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Jubilados marcharon en Rosario en reclamo de \"derechos y dignidad\"",
-        "link": "https://www.lacapital.com.ar/la-ciudad/jubilados-marcharon-rosario-reclamo-derechos-y-dignidad-n10293010.html",
-        "image": "https://media.lacapital.com.ar/p/c61b90939fd9ae9f7e3d538cdeb51e5d/adjuntos/203/imagenes/103/540/0103540073/2026-11-18-marcha-jubilados.jpg",
-        "summary": "Reclamaron por \"el deterioro de haberes, el ajuste sobre el sector y el avasallamiento de derechos\"",
-        "pubDate": "2026-11-18T23:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Presupuesto provincial 2027: senadores recibieron a ministros antes del debate",
-        "link": "https://www.lacapital.com.ar/politica/presupuesto-provincial-2027-senadores-recibieron-ministros-antes-del-debate-n10293009.html",
-        "image": "https://media.lacapital.com.ar/p/4a5763e39435592ccaa5f377085b1cbf/adjuntos/203/imagenes/103/540/0103540038/1200x675/smart/image.png",
-        "summary": "Los titulares de Economía y de Gobierno intercambiaron con los legisladores miradas sobre el proyecto, que prevé recursos por 18,88 billones de pesos",
-        "pubDate": "2026-11-18T23:24:00+00:00",
         "approxTime": false
       }
     ]
