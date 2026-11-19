@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T09:01:05.877550+00:00",
+  "generatedAt": "2026-11-19T09:30:56.922746+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,60 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El Frente de Sindicatos Unidos exige un salario mínimo de $ 3,2 millones",
+        "link": "https://www.lacapital.com.ar/economia/el-frente-sindicatos-unidos-exige-un-salario-minimo-32-millones-n10293018.html",
+        "image": "https://media.lacapital.com.ar/p/b4a8e71a17536df5dc4c2515662d7aa2/adjuntos/203/imagenes/103/540/0103540200/1200x675/smart/fresu25a.jpg",
+        "summary": "En el cierre del congreso de la federación aceitera se actualizó el cálculo del ingreso necesario para una vida digna. Llamado sindical a “construir” un paro nacional",
+        "pubDate": "2026-11-19T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Crónicas de campaña desde el lote: Entre Ríos ya cosechó el 50% del trigo y hay apuro por \"esquivar las tormentas\"",
+        "link": "https://www.lacapital.com.ar/agro/cronicas-campana-el-lote-rios-ya-cosecho-el-50-del-trigo-y-hay-apuro-esquivar-las-tormentas-n10293028.html",
+        "image": "https://media.lacapital.com.ar/p/1dcc3f3e213bea9795e6f3c2ede6e5b8/adjuntos/203/imagenes/103/540/0103540341/1200x675/785x402:805x422/cosecha-trigo-rios.jpeg",
+        "summary": "La cosecha de trigo avanza en la región núcleo, con rindes de 5000 a 6000 kg/ha en Santa Fe y hasta 7000 en algunos lotes. Quienes todavía no cosecharon, se preparan para arrancar y esquivar las tormentas",
+        "pubDate": "2026-11-19T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Asociación Rosarina de Fútbol: San José copó la parada en las inferiores y logró dos ascensos",
+        "link": "https://www.lacapital.com.ar/ovacion/asociacion-rosarina-futbol-san-jose-copo-la-parada-las-inferiores-y-logro-dos-ascensos-n10292994.html",
+        "image": "https://media.lacapital.com.ar/p/15969025c4fc17ce8718998e094de728/adjuntos/203/imagenes/103/539/0103539911/1200x675/smart/image-2026-11-18t191606567.png",
+        "summary": "El club Tricolor de la zona Sur, realizó una tremenda temporada en inferiores y logró ascender a la Zona A1 y A2, respectivamente. La categoría 2013 B, campeona 2026",
+        "pubDate": "2026-11-19T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "GTA VI: el negocio multimillonario detrás del videojuego más esperado de la década",
+        "link": "https://www.lacapital.com.ar/informacion-general/gta-vi-el-negocio-multimillonario-detras-del-videojuego-mas-esperado-la-decada-n10293011.html",
+        "image": "https://media.lacapital.com.ar/p/c4b0a43eb507e0a26b47578c06771c78/adjuntos/203/imagenes/103/540/0103540087/1200x675/smart/image.png",
+        "summary": "La nueva entrega de Rockstar demandó cerca de una década de desarrollo y una inversión estimada de más de 1.000 millones de dólares. Las preventas, las elevadísimas proyecciones y el impacto sobre la industria",
+        "pubDate": "2026-11-19T09:05:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central se topa otra vez con un duelo a todo o nada: cómo le fue este año en instancias eliminatorias",
+        "link": "https://www.lacapital.com.ar/ovacion/central-se-topa-otra-vez-un-duelo-todo-o-nada-como-le-fue-este-ano-instancias-eliminatorias-n10292557.html",
+        "image": "https://media.lacapital.com.ar/p/1f24792fa5178e9d7f95aab2dcef83c8/adjuntos/203/imagenes/103/534/0103534736/centralv.jpeg",
+        "summary": "El Canalla afrontará este domingo los octavos de final del torneo Clausura frente a Gimnasia y Esgrima de Mendoza, en el Gigante de Arroyito",
+        "pubDate": "2026-11-19T09:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El poder de Gimnasia como local, un escollo del que Newell's debe tomar la debida nota",
+        "link": "https://www.lacapital.com.ar/ovacion/el-poder-gimnasia-como-local-un-escollo-del-que-newells-debe-tomar-la-debida-nota-n10292909.html",
+        "image": "https://media.lacapital.com.ar/p/ad2b354686631fe5dab2461e7896e284/adjuntos/203/imagenes/103/539/0103539593/lobo.jpg",
+        "summary": "El Lobo hizo de la localía en el Bosque un bastión para la clasificación y será un hueso duro de roer para la Lepra en la búsqueda de los cuartos de final",
+        "pubDate": "2026-11-19T09:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El tiempo en Rosario: jueves con bastantes nubes y una máxima de 27º",
         "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-jueves-bastantes-nubes-y-una-maxima-27-n10293026.html",
         "image": "https://media.lacapital.com.ar/p/85bed64233643a0c9eea4f020d324541/adjuntos/203/imagenes/103/540/0103540329/2026-11-18-clima-by_vbenedetto-81916064.jpg",
@@ -218,60 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/4a5763e39435592ccaa5f377085b1cbf/adjuntos/203/imagenes/103/540/0103540038/1200x675/smart/image.png",
         "summary": "Los titulares de Economía y de Gobierno intercambiaron con los legisladores miradas sobre el proyecto, que prevé recursos por 18,88 billones de pesos",
         "pubDate": "2026-11-18T23:24:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Buscan intensamente a un joven que desapareció en el río Paraná",
-        "link": "https://www.lacapital.com.ar/la-region/buscan-intensamente-un-joven-que-desaparecio-el-rio-parana-n10293003.html",
-        "image": "https://media.lacapital.com.ar/p/1e75444e4d9b2d3cfc2f360919436955/adjuntos/203/imagenes/103/540/0103540026/2026-01-06-prefectura-puerto-general-san-martin2.jpg",
-        "summary": "El hecho sucedió en San Lorenzo. Según se supo, el muchacho se habría tirado al río junto a dos amigos que lograron salir",
-        "pubDate": "2026-11-18T23:11:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Llega la Noche de las Librerías con promociones y distintas propuestas para recorrer la ciudad",
-        "link": "https://www.lacapital.com.ar/la-ciudad/llega-la-noche-las-librerias-promociones-y-distintas-propuestas-recorrer-la-ciudad-n10292933.html",
-        "image": "https://media.lacapital.com.ar/p/f1588ff9e2c2aaaf2962d577f57dc377/adjuntos/203/imagenes/102/010/0102010736/1200x675/smart/libros-viejos-1jpg.jpg",
-        "summary": "Al evento se suman más de 50 librerías de nuevos y usados, y en algunos locales habrá gastronomía, lecturas en vivo y música para pasar el rato",
-        "pubDate": "2026-11-18T22:28:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "En Newell's hay un trabajo contrarreloj para recuperar a todos los lesionados",
-        "link": "https://www.lacapital.com.ar/ovacion/en-newells-hay-un-trabajo-contrarreloj-recuperar-todos-los-lesionados-n10293000.html",
-        "image": "https://media.lacapital.com.ar/p/16fa8b157c366878e73fe650614106a5/adjuntos/203/imagenes/103/539/0103539927/kudelkavb.jpeg",
-        "summary": "Con algunos días por delante para el choque ante Gimnasia y Esgrima La Plata, los “tocados” en la Lepra buscan su mejor forma física",
-        "pubDate": "2026-11-18T22:28:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Agroactiva presentó su edición 2027 bajo el lema \"Muestra Patria\"",
-        "link": "https://www.lacapital.com.ar/agro/agroactiva-presento-su-edicion-2027-el-lema-muestra-patria-n10293005.html",
-        "image": "https://media.lacapital.com.ar/p/01ea36079ff683288e23152c3475d67d/adjuntos/203/imagenes/103/539/0103539942/1200x675/smart/agroactiva-presentacion.jpeg",
-        "summary": "Con la presencia del gobernador Pullaro y de autoridades nacionales y provinciales, Agroactiva presentó su 33.ª edición en Buenos Aires. La muestra se realizará del 2 al 5 de junio en Armstrong, que cumple diez años como sede del evento",
-        "pubDate": "2026-11-18T22:05:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El Centro Cultural Fontanarrosa continúa con el ciclo \"Transfusiones artísticas\"",
-        "link": "https://www.lacapital.com.ar/zoom/el-centro-cultural-fontanarrosa-continua-el-ciclo-transfusiones-artisticas-n10292990.html",
-        "image": "https://media.lacapital.com.ar/p/35221f2caf022cff9271e49d2b8d094b/adjuntos/203/imagenes/103/539/0103539878/1200x675/smart/image-2026-11-18t193344767.png",
-        "summary": "La propuesta reúne distintas experiencias escénicas y promueve el intercambio. El ciclo tendrá su cierre con la presentación de “Perder el tiempo, la obra”",
-        "pubDate": "2026-11-18T22:03:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Aleart quiere que haya alcaidías municipales para encerrar cuidacoches",
-        "link": "https://www.lacapital.com.ar/la-ciudad/aleart-quiere-que-haya-alcaidias-municipales-encerrar-cuidacoches-n10292989.html",
-        "image": "https://media.lacapital.com.ar/p/75a9b4c06ceae034ec75838ea9d4b9f0/adjuntos/203/imagenes/101/648/0101648646/1200x675/smart/2024-05-26-trapitos-detenidosjpg.jpg",
-        "summary": "En medio del debate en el Concejo sobre a prohibición de la actividad de los trapitos, el edil libertario pide encarcelar a los violentos",
-        "pubDate": "2026-11-18T21:53:00+00:00",
         "approxTime": false
       }
     ]
