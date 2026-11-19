@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T02:01:01.194984+00:00",
+  "generatedAt": "2026-11-19T02:30:57.580109+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El tiempo en Rosario: jueves con bastantes nubes y una máxima de 27º",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-jueves-bastantes-nubes-y-una-maxima-27-n10293026.html",
+        "image": "https://media.lacapital.com.ar/p/85bed64233643a0c9eea4f020d324541/adjuntos/203/imagenes/103/540/0103540329/2026-11-18-clima-by_vbenedetto-81916064.jpg",
+        "summary": "El viernes podría arrancar con chaparrones aunque los registros se mantendrían en esos niveles al menos hasta el inicio de la semana próxima",
+        "pubDate": "2026-11-19T02:19:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Un líder religioso de EEUU participó en el magnicidio del presidente haitiano",
         "link": "https://www.lacapital.com.ar/el-mundo/un-lider-religioso-eeuu-participo-el-magnicidio-del-presidente-haitiano-n10293021.html",
         "image": "https://media.lacapital.com.ar/p/72640bc3232eaf250f5c792af6b15169/adjuntos/203/imagenes/103/540/0103540281/2026-11-18-crimen-presidente-haiti.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/75a9b4c06ceae034ec75838ea9d4b9f0/adjuntos/203/imagenes/101/648/0101648646/1200x675/smart/2024-05-26-trapitos-detenidosjpg.jpg",
         "summary": "En medio del debate en el Concejo sobre a prohibición de la actividad de los trapitos, el edil libertario pide encarcelar a los violentos",
         "pubDate": "2026-11-18T21:53:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La reserva de Newell's le puso punto final a un semestre en el que no hubo clasificación",
-        "link": "https://www.lacapital.com.ar/ovacion/la-reserva-newells-le-puso-punto-final-un-semestre-el-que-no-hubo-clasificacion-n10292974.html",
-        "image": "https://media.lacapital.com.ar/p/1c9b694f533c88a04e2a89d08ff0f31e/adjuntos/203/imagenes/103/539/0103539813/rese.jpg",
-        "summary": "La Lepra, que hacía ya algunas fechas se había quedado sin chances, igualó como local 2 a 2 frente a Ferro. Montero y Pavicich, los goleadores",
-        "pubDate": "2026-11-18T20:50:00+00:00",
         "approxTime": false
       }
     ]
