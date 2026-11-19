@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-11-19T13:01:03.853292+00:00",
+  "generatedAt": "2026-11-19T13:30:54.813207+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "El Niño en Rosario: crecen las consultas por seguros para proteger casas y autos",
+        "link": "https://www.rosario3.com/informaciongeneral/el-nino-en-rosario-crecen-las-consultas-por-seguros-para-proteger-casas-y-autos-20261119-0027.html",
+        "image": "https://www.rosario3.com/__export/1791400049129/sites/rosario3/img/2026/10/07/tormenta.jpg_1768679257.jpg",
+        "summary": "Desde la Asociación de Productores y Asesores de Seguros, adivirtieron un alza y remarcaron la importancia de tener la revisión técnica al día en los vehículos",
+        "pubDate": "2026-11-19T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "La Justicia rechazó la prescripción de las millonarias estafas financieras imputadas al ex agente de Bolsa Casanovas",
         "link": "https://www.rosario3.com/informaciongeneral/la-justicia-rechazo-la-prescipcion-de-las-millonarias-estafas-financieras-imputadas-al-agente-de-bolsa-casanovas-20261119-0012.html",
         "image": "https://www.rosario3.com/__export/1773412886792/sites/rosario3/img/2025/05/29/daniel_casanovas.jpg_113259651.jpg",
         "summary": "Tras la audiencia realizada en el Centro de Justicia Penal, Fiscalía podrá avanzar con el proceso y el próximo paso es la instancia de la acusación",
-        "pubDate": "2026-11-19T12:00:00+00:00",
+        "pubDate": "2026-11-19T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/tecnologia/grand-theft-auto-vi-una-obra-maestra-20261119-0009.html",
         "image": "https://www.rosario3.com/__export/1795085209567/sites/rosario3/img/2026/11/19/gta2.jpg_928314580.jpg",
         "summary": "Luego de 13 años de expectativa, GTA 6 demuestra que la paciencia y la ambición pueden dar a luz un proyecto capaz de eclipsar al resto de la industria. A horas de haberse estrenado en la Argentina, cómo es –sin “spoilear”– jugar en Leonida",
-        "pubDate": "2026-11-19T11:59:00+00:00",
+        "pubDate": "2026-11-19T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/tradicion-de-fin-de-ano-alumnos-del-secundario-iniciaron-dos-dias-de-banderazo-en-el-monumento-20261119-0011.html",
         "image": "https://www.rosario3.com/__export/1795085779450/sites/rosario3/img/2019/11/16/estudiantesfestejos6.jpg_566798741.jpg",
         "summary": "Alumnos del cuarto año festejaron temprano este jueves en las inmediaciones de sus escuelas y muchos de ellos se congregaron en el Monumento en una primera jornada de cierre del ciclo lectivo. Celebran que el año próximo será el último en la secundaria. Este viernes se repetirá…",
-        "pubDate": "2026-11-19T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Claves del día: dólar en alerta, Agrofina ofrece pagar menos y Santa Fe busca subirse al boom de la IA | Ecos365",
-        "link": "https://www.rosario3.com/ecos365/noticias/claves-del-dia-dolar-en-alerta-agrofina-ofrece-pagar-menos-y-santa-fe-busca-subirse-al-boom-de-la-ia-20261119-0001.html",
-        "image": "https://www.rosario3.com/__export/1795080233031/sites/rosario3/img/2026/11/19/finanzas_crop1782752079019_crop1795080232152.png_1609629787.png",
-        "summary": "Cobrar menos o esperar: Agrofina presenta su propuesta mientras se recalienta el dólar. Bonos y acciones se separan, Anthropic sacude Wall Street, Santa Fe mira datacenters, Casa FOA acelera, Oroño cambia de conducción y Trump, Xi y Putin negocian",
         "pubDate": "2026-11-19T11:57:00+00:00",
         "approxTime": true
       },
@@ -85,10 +85,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Cuidacoches: nuevos planteos en el Concejo y otra semana de espera para avanzar con la adhesión a la ley",
-        "link": "https://www.rosario3.com/informaciongeneral/cuidacoches-nuevos-planteos-en-el-concejo-y-otra-semana-de-espera-para-avanzar-con-la-adhesion-a-la-ley-20261118-0065.html",
-        "image": "https://www.rosario3.com/__export/1795042611066/sites/rosario3/img/2026/11/18/cuidacoche05.jpg_1825222445.jpg",
-        "summary": "El proyecto volvió a discutirse este miércoles en una reunión conjunta de comisiones, donde se sumaron propuestas sobre inclusión social, protocolos de actuación y procedimientos para aplicar las sanciones. El tratamiento continuará el próximo 25 de noviembre",
+        "title": "Más satélites que estrellas visibles: Argentina está en una de las franjas con mayor tráfico espacial",
+        "link": "https://www.rosario3.com/informaciongeneral/mas-satelites-que-estrellas-visibles-argentina-esta-en-una-de-las-franjas-con-mayor-trafico-espacial-20261118-0034.html",
+        "image": "https://www.rosario3.com/__export/1791299777998/sites/rosario3/img/2026/08/11/satelite.png_786111823.png",
+        "summary": "Un estudio basado en datos de monitoreo espacial reveló que el tráfico en órbita baja se concentra en las latitudes medias, franja que incluye a gran parte del país. Al anochecer y al amanecer, hasta 300 de estos dispositivos reflejan la luz solar y se confunden con astros a…",
         "pubDate": "2026-11-18T11:51:00+00:00",
         "approxTime": true
       },
@@ -103,20 +103,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Buscan a un joven de 25 años que desapareció en el río Paraná en San Lorenzo",
-        "link": "https://www.rosario3.com/informaciongeneral/buscan-a-un-joven-de-25-anos-que-desaparecio-en-el-rio-parana-en-san-lorenzo-20261118-0067.html",
-        "image": "https://www.rosario3.com/__export/1795043675440/sites/rosario3/img/2026/11/18/san_lorenzo_rio_busqueda.jpg_1825222467.jpg",
-        "summary": "El joven se arrojó al agua junto a otras dos personas, que lograron salir. Prefectura desplegó un operativo de búsqueda en la zona del Paseo de la Libertad",
-        "pubDate": "2026-11-18T11:49:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
         "title": "Quini 6: una apuesta de Victoria acertó La Segunda y ganó más de $3.294 millones",
         "link": "https://www.rosario3.com/informaciongeneral/quini-6-una-apuesta-de-victoria-acerto-la-segunda-y-gano-mas-de-3.294-millones-20261119-0025.html",
         "image": "https://www.rosario3.com/__export/1787224764827/sites/rosario3/img/2026/07/06/quini_6_julio_2026.jpg_1707914397.jpg",
         "summary": "Un único ticket vendido en la provincia de Buenos Aires acertó los seis números del sorteo N° 3427. El Tradicional y la Revancha quedaron vacantes, y el próximo domingo se pone en juego un pozo estimado de $6.900 millones",
-        "pubDate": "2026-11-19T11:48:00+00:00",
+        "pubDate": "2026-11-19T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -125,20 +116,38 @@
         "link": "https://www.rosario3.com/deportes/sergio-almiron-campeon-del-mundo-del-86-estoy-cancelado-en-newells-me-negaron-el-carnet-por-haber-estado-con-lopez-20261119-0017.html",
         "image": "https://www.rosario3.com/__export/1795087345800/sites/rosario3/img/2026/11/19/image_-81-.jpg_928314580.jpg",
         "summary": "El campeón rojinegro celebró su cumpleaños en diálogo con Radio 2. El exdelantero de Rosario recordó al glorioso equipo de 1988 y la mística de aquel plantel inolvidable. Sin embargo, no esquivó la polémica al referirse a su situación actual con la dirigencia de la institución…",
+        "pubDate": "2026-11-19T11:48:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "La FIFA volverá a celebrar elecciones tras más diez años e Infantino competirá contra tres candidatos",
+        "link": "https://www.rosario3.com/deportes/la-fifa-volvera-a-celebrar-elecciones-tras-mas-diez-anos-e-infantino-competira-contra-tres-candidatos-20261119-0004.html",
+        "image": "https://www.rosario3.com/__export/1784477133190/sites/rosario3/img/2026/07/19/infantino-fifa-version1784468904501-jpg-630917430_-1-_-1-.jpg_1221028662.jpg",
+        "summary": "El actual presidente buscará la reelección tras haber sido elegido dos veces por aclamación. Será en marzo del año que viene",
         "pubDate": "2026-11-19T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "El hombre variable: un homenaje en la Noche de las Librerías al editor rosarino que tradujo a Philip K. Dick en 1953",
-        "link": "https://www.rosario3.com/ocio/el-hombre-variable-un-homenaje-en-la-noche-de-las-librerias-al-editor-rosarino-que-tradujo-a-philip-k.-dick-en-1953-20261118-0063.html",
-        "image": "https://www.rosario3.com/__export/1795041450926/sites/rosario3/img/2026/11/18/urania.jpg_1825222445.jpg",
-        "summary": "Una de las novedades de EMR es el trabajo que realizó Julio Augusto Echeverría, publicado en el primer número de la revista Urania. Se trató de la segunda traducción al español de la nouvelle del escritor estadounidense",
+        "title": "Cuidacoches: nuevos planteos en el Concejo y otra semana de espera para avanzar con la adhesión a la ley",
+        "link": "https://www.rosario3.com/informaciongeneral/cuidacoches-nuevos-planteos-en-el-concejo-y-otra-semana-de-espera-para-avanzar-con-la-adhesion-a-la-ley-20261118-0065.html",
+        "image": "https://www.rosario3.com/__export/1795042611066/sites/rosario3/img/2026/11/18/cuidacoche05.jpg_1825222445.jpg",
+        "summary": "El proyecto volvió a discutirse este miércoles en una reunión conjunta de comisiones, donde se sumaron propuestas sobre inclusión social, protocolos de actuación y procedimientos para aplicar las sanciones. El tratamiento continuará el próximo 25 de noviembre",
         "pubDate": "2026-11-18T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "La Fifa tendrá elecciones y no estará Chiqui Tapia entre los candidatos",
+        "link": "https://www.lacapital.com.ar/ovacion/la-fifa-tendra-elecciones-y-no-estara-chiqui-tapia-los-candidatos-n10293043.html",
+        "image": "https://media.lacapital.com.ar/p/b1297762cf4a9f79a0239b287be967f2/adjuntos/203/imagenes/103/540/0103540545/1200x675/smart/image-1.jpg",
+        "summary": "El actual presidente de la federación, Gianni Infantino, competirá contra otros tres candidatos y buscará la reelección tras haber sido elegido dos veces",
+        "pubDate": "2026-11-19T13:03:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "De cantante a meteoróloga: Nicki Nicole sorprendió en redes con un divertido anuncio",
@@ -262,15 +271,6 @@
         "link": "https://www.lacapital.com.ar/economia/el-frente-sindicatos-unidos-exige-un-salario-minimo-32-millones-n10293018.html",
         "image": "https://media.lacapital.com.ar/p/b4a8e71a17536df5dc4c2515662d7aa2/adjuntos/203/imagenes/103/540/0103540200/1200x675/smart/fresu25a.jpg",
         "summary": "En el cierre del congreso de la federación aceitera se actualizó el cálculo del ingreso necesario para una vida digna. Llamado sindical a “construir” un paro nacional",
-        "pubDate": "2026-11-19T09:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Crónicas de campaña desde el lote: Entre Ríos ya cosechó el 50% del trigo y hay apuro por \"esquivar las tormentas\"",
-        "link": "https://www.lacapital.com.ar/agro/cronicas-campana-el-lote-rios-ya-cosecho-el-50-del-trigo-y-hay-apuro-esquivar-las-tormentas-n10293028.html",
-        "image": "https://media.lacapital.com.ar/p/1dcc3f3e213bea9795e6f3c2ede6e5b8/adjuntos/203/imagenes/103/540/0103540341/1200x675/785x402:805x422/cosecha-trigo-rios.jpeg",
-        "summary": "La cosecha de trigo avanza en la región núcleo, con rindes de 5000 a 6000 kg/ha en Santa Fe y hasta 7000 en algunos lotes. Quienes todavía no cosecharon, se preparan para arrancar y esquivar las tormentas",
         "pubDate": "2026-11-19T09:15:00+00:00",
         "approxTime": false
       }
