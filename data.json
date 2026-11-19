@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T11:01:06.233086+00:00",
+  "generatedAt": "2026-11-19T11:31:07.858786+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,11 +13,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Grand Theft Auto VI: una obra maestra",
+        "link": "https://www.rosario3.com/tecnologia/grand-theft-auto-vi-una-obra-maestra-20261119-0009.html",
+        "image": "https://www.rosario3.com/__export/1795085209567/sites/rosario3/img/2026/11/19/gta2.jpg_928314580.jpg",
+        "summary": "Luego de 13 años de expectativa, GTA 6 demuestra que la paciencia y la ambición pueden dar a luz un proyecto capaz de eclipsar al resto de la industria. A horas de haberse estrenado en la Argentina, cómo es –sin “spoilear”– jugar en Leonida",
+        "pubDate": "2026-11-19T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "El clima en Rosario: aire veraniego antes de más lluvia",
         "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-aire-veraniego-antes-de-mas-lluvia-20261119-0001.html",
         "image": "https://www.rosario3.com/__export/1769364792277/sites/rosario3/img/2025/01/16/calor_3.jpg_672794304.jpg",
         "summary": "El Servicio Meteorológico Nacional anticipa un jueves estable y bien cálido en la región en la previa a un nuevo pulso inestable. Para el viernes se esperan chaparrones durante la madrugada y la mañana",
-        "pubDate": "2026-11-19T11:59:00+00:00",
+        "pubDate": "2026-11-19T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,25 +35,7 @@
         "link": "https://www.rosario3.com/ecos365/noticias/claves-del-dia-dolar-en-alerta-agrofina-ofrece-pagar-menos-y-santa-fe-busca-subirse-al-boom-de-la-ia-20261119-0001.html",
         "image": "https://www.rosario3.com/__export/1795080233031/sites/rosario3/img/2026/11/19/finanzas_crop1782752079019_crop1795080232152.png_1609629787.png",
         "summary": "Cobrar menos o esperar: Agrofina presenta su propuesta mientras se recalienta el dólar. Bonos y acciones se separan, Anthropic sacude Wall Street, Santa Fe mira datacenters, Casa FOA acelera, Oroño cambia de conducción y Trump, Xi y Putin negocian",
-        "pubDate": "2026-11-19T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Proponen descuentos de hasta el 60% en la tarifa de la EPE para cargar autos eléctricos",
-        "link": "https://www.rosario3.com/informaciongeneral/proponen-descuentos-de-hasta-el-60-en-la-tarifa-de-la-epe-para-cargar-autos-electricos-20261118-0068.html",
-        "image": "https://www.rosario3.com/__export/1795048147246/sites/rosario3/img/2026/11/18/vehiculos_enchufables.jpg_1825222445.jpg",
-        "summary": "La iniciativa fue presentada en la Legislatura santafesina y contempla rebajas del 50% durante la noche y del 60% los fines de semana y feriados. El objetivo es incentivar la carga en horarios de menor demanda y ordenar el consumo de energía",
-        "pubDate": "2026-11-18T11:57:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Los cines de Rosario renuevan su cartelera con una nueva precuela de Los juegos del hambre y otros cuatro estrenos",
-        "link": "https://www.rosario3.com/ocio/los-cines-de-rosario-renuevan-su-cartelera-con-una-nueva-precuela-de-los-juegos-del-hambre-y-otros-cuatro-estrenos-20261118-0060.html",
-        "image": "https://www.rosario3.com/__export/1795039055092/sites/rosario3/img/2026/11/18/juegosdelhambre.jpg_982625323.jpg",
-        "summary": "Las salas de la ciudad proyectan desde este jueves Los juegos del hambre: amanecer en la cosecha, junto con Yo soy Rocky, La asistente de la morgue, Minotauro y Recen por mí: la historia de Francisco",
-        "pubDate": "2026-11-18T11:56:00+00:00",
+        "pubDate": "2026-11-19T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -53,16 +44,25 @@
         "link": "https://www.rosario3.com/tecnologia/gta-6-ya-esta-disponible-en-argentina-precios-consolas-y-un-historico-puntaje-ya-a-horas-de-su-estreno-20261119-0005.html",
         "image": "https://www.rosario3.com/__export/1795083031054/sites/rosario3/img/2026/11/19/gta.jpg_928314580.jpg",
         "summary": "Tras 13 años de desarrollo, el nuevo videojuego de Rockstar Games ya puede jugarse en estas latitudes. Todos los detalles del ansiado debut",
-        "pubDate": "2026-11-19T11:55:00+00:00",
+        "pubDate": "2026-11-19T11:56:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Con Riquelme a la cabeza, Boca llegó a Barranquilla y se prepara para la final de la Sudamericana",
-        "link": "https://www.rosario3.com/deportes/con-riquelme-a-la-cabeza-boca-llego-a-barranquilla-y-se-prepara-para-la-final-de-la-sudamericana-20261119-0002.html",
-        "image": "https://www.rosario3.com/__export/1795080579151/sites/rosario3/img/2026/11/19/image_-78-.jpg_928314580.jpg",
-        "summary": "El Xeneize jugará contra Atlético Mineiro este sábado por el título. El Vasco decidió que la delegación completa se traslade, por lo que partieron los 33 futbolistas del plantel. El único que no estará a disposición es Agustín Marchesín, por lesión",
-        "pubDate": "2026-11-19T11:54:00+00:00",
+        "title": "Proponen descuentos de hasta el 60% en la tarifa de la EPE para cargar autos eléctricos",
+        "link": "https://www.rosario3.com/informaciongeneral/proponen-descuentos-de-hasta-el-60-en-la-tarifa-de-la-epe-para-cargar-autos-electricos-20261118-0068.html",
+        "image": "https://www.rosario3.com/__export/1795048147246/sites/rosario3/img/2026/11/18/vehiculos_enchufables.jpg_1825222445.jpg",
+        "summary": "La iniciativa fue presentada en la Legislatura santafesina y contempla rebajas del 50% durante la noche y del 60% los fines de semana y feriados. El objetivo es incentivar la carga en horarios de menor demanda y ordenar el consumo de energía",
+        "pubDate": "2026-11-18T11:55:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Franco Colapinto empieza con las prácticas en el GP de Las Vegas: a qué hora y dónde verlo en vivo",
+        "link": "https://www.rosario3.com/deportes/formula-1-en-las-vegas-horarios-circuito-y-como-seguir-en-vivo-a-franco-colapinto-20261116-0034.html",
+        "image": "https://www.rosario3.com/__export/1795086839431/sites/rosario3/img/2026/11/19/image_-80-.jpg_928314580.jpg",
+        "summary": "La competencia tendrá como escenario el circuito callejero del Strip, en una prueba nocturna que volverá a llevar a los principales pilotos de la categoría por las calles de la ciudad estadounidense. La agenda completa",
+        "pubDate": "2026-11-16T11:54:00+00:00",
         "approxTime": true
       },
       {
@@ -85,10 +85,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Qué era la “caja gris” gigante que quedó trabada bajo un puente de Circunvalación",
-        "link": "https://www.rosario3.com/informaciongeneral/que-era-la-caja-gris-gigante-que-quedo-trabada-bajo-un-puente-de-circunvalacion-20261118-0061.html",
-        "image": "https://www.rosario3.com/__export/1795036312915/sites/rosario3/img/2026/11/18/camion_trabado_1.jpg_928314580.jpg",
-        "summary": "El incidente ocurrido este miércoles entre Avellaneda y Ovidio Lagos llamó la atención por el tamaño de la carga. Cómo funcionan estos módulos industriales, para qué se usan y por qué no representó peligro de explosión",
+        "title": "Los cines de Rosario renuevan su cartelera con una nueva precuela de Los juegos del hambre y otros cuatro estrenos",
+        "link": "https://www.rosario3.com/ocio/los-cines-de-rosario-renuevan-su-cartelera-con-una-nueva-precuela-de-los-juegos-del-hambre-y-otros-cuatro-estrenos-20261118-0060.html",
+        "image": "https://www.rosario3.com/__export/1795039055092/sites/rosario3/img/2026/11/18/juegosdelhambre.jpg_982625323.jpg",
+        "summary": "Las salas de la ciudad proyectan desde este jueves Los juegos del hambre: amanecer en la cosecha, junto con Yo soy Rocky, La asistente de la morgue, Minotauro y Recen por mí: la historia de Francisco",
         "pubDate": "2026-11-18T11:51:00+00:00",
         "approxTime": true
       },
@@ -112,10 +112,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Franco Colapinto se ilusiona con el Alpine de 2027: “Espero que nos permita volver a la pelea”",
-        "link": "https://www.rosario3.com/deportes/franco-colapinto-se-ilusiona-con-el-alpine-de-2027-espero-que-nos-permita-volver-a-la-pelea-20261119-0003.html",
-        "image": "https://www.rosario3.com/__export/1795080829283/sites/rosario3/img/2026/11/19/colapinto.jpg_928314581.jpg",
-        "summary": "En el media day de la Fórmula 1, el pilarense anticipó lo que será la carrera en el circuito callejero de Las Vegas, donde se prevé una jornada fría",
+        "title": "Con Riquelme a la cabeza, Boca llegó a Barranquilla y se prepara para la final de la Sudamericana",
+        "link": "https://www.rosario3.com/deportes/con-riquelme-a-la-cabeza-boca-llego-a-barranquilla-y-se-prepara-para-la-final-de-la-sudamericana-20261119-0002.html",
+        "image": "https://www.rosario3.com/__export/1795080579151/sites/rosario3/img/2026/11/19/image_-78-.jpg_928314580.jpg",
+        "summary": "El Xeneize jugará contra Atlético Mineiro este sábado por el título. El Vasco decidió que la delegación completa se traslade, por lo que partieron los 33 futbolistas del plantel. El único que no estará a disposición es Agustín Marchesín, por lesión",
         "pubDate": "2026-11-19T11:48:00+00:00",
         "approxTime": true
       },
@@ -130,15 +130,42 @@
       },
       {
         "source": "Rosario3",
-        "title": "El Gobierno retiró las listas colectoras para asegurarse el apoyo para suspender las PASO",
-        "link": "https://www.rosario3.com/politica/el-gobierno-retiro-las-listas-colectoras-para-asegurarse-el-apoyo-para-suspender-las-paso-20261118-0048.html",
-        "image": "https://www.rosario3.com/__export/1795028596257/sites/rosario3/img/2026/11/18/paso.jpg_1768679258.jpg",
-        "summary": "El proyecto de ley con cambios se debatirá esta tarde en comisión en el Senado y el oficialismo se encamina a lograr el dictamen",
+        "title": "Qué era la “caja gris” gigante que quedó trabada bajo un puente de Circunvalación",
+        "link": "https://www.rosario3.com/informaciongeneral/que-era-la-caja-gris-gigante-que-quedo-trabada-bajo-un-puente-de-circunvalacion-20261118-0061.html",
+        "image": "https://www.rosario3.com/__export/1795036312915/sites/rosario3/img/2026/11/18/camion_trabado_1.jpg_928314580.jpg",
+        "summary": "El incidente ocurrido este miércoles entre Avellaneda y Ovidio Lagos llamó la atención por el tamaño de la carga. Cómo funcionan estos módulos industriales, para qué se usan y por qué no representó peligro de explosión",
         "pubDate": "2026-11-18T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Le fracturó la mano a un policía al resistirse a un operativo y quedó detenido",
+        "link": "https://www.lacapital.com.ar/policiales/le-fracturo-la-mano-un-policia-al-resistirse-un-operativo-y-quedo-detenido-n10293036.html",
+        "image": "https://media.lacapital.com.ar/p/b6effc41503dd6440a11b86be1781c38/adjuntos/203/imagenes/103/540/0103540389/1200x675/smart/agresor-policia.png",
+        "summary": "El incidente sucedió el miércoles a la noche en la zona norte de Rosario. El agente fue asistido en un sanatorio céntrico",
+        "pubDate": "2026-11-19T11:02:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Quini 6: de qué localidad es el apostador que se alzó con más de $3.200 millones en La Segunda",
+        "link": "https://www.lacapital.com.ar/informacion-general/quini-6-que-localidad-es-el-apostador-que-se-alzo-mas-3200-millones-la-segunda-n10293038.html",
+        "image": "https://media.lacapital.com.ar/p/44e9239243c2662c5b391f0c6061794f/adjuntos/203/imagenes/102/991/0102991007/2026-02-22-quini-6-29.jpg",
+        "summary": "Los pozos Tradicional y Revancha quedaron vacante. Por otro lado, hubo 17 ganadores en el Siempre Sale que se llevarán más de 21 millones de pesos cada uno",
+        "pubDate": "2026-11-19T10:59:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Viuda negra con agua saborizada: la detuvieron por una cita que terminó en un robo",
+        "link": "https://www.lacapital.com.ar/policiales/viuda-negra-agua-saborizada-la-detuvieron-una-cita-que-termino-un-robo-n10293030.html",
+        "image": "https://media.lacapital.com.ar/p/11daef82a5caf677ee2521d3d74032c1/adjuntos/203/imagenes/103/540/0103540377/allanamiento-zeballos-3100-1.jpeg",
+        "summary": "Una mujer de 32 años quedó bajo arresto en Rosario por la denuncia de un hombre que la invitó a cenar a su casa en un pueblo del centro santafesino",
+        "pubDate": "2026-11-19T10:57:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Estrenos de cine en Rosario: una película sobre María Gabriela Epumer, los \"Juegos del hambre\" y \"Rocky\"",
@@ -168,19 +195,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Crónicas de campaña desde el lote: Entre Ríos ya cosechó el 50% del trigo y hay apuro por \"esquivar las tormentas\"",
-        "link": "https://www.lacapital.com.ar/agro/cronicas-campana-el-lote-rios-ya-cosecho-el-50-del-trigo-y-hay-apuro-esquivar-las-tormentas-n10293028.html",
-        "image": "https://media.lacapital.com.ar/p/1dcc3f3e213bea9795e6f3c2ede6e5b8/adjuntos/203/imagenes/103/540/0103540341/1200x675/785x402:805x422/cosecha-trigo-rios.jpeg",
-        "summary": "La cosecha de trigo avanza en la región núcleo, con rindes de 5000 a 6000 kg/ha en Santa Fe y hasta 7000 en algunos lotes. Quienes todavía no cosecharon, se preparan para arrancar y esquivar las tormentas",
+        "title": "El Frente de Sindicatos Unidos exige un salario mínimo de $ 3,2 millones",
+        "link": "https://www.lacapital.com.ar/economia/el-frente-sindicatos-unidos-exige-un-salario-minimo-32-millones-n10293018.html",
+        "image": "https://media.lacapital.com.ar/p/b4a8e71a17536df5dc4c2515662d7aa2/adjuntos/203/imagenes/103/540/0103540200/1200x675/smart/fresu25a.jpg",
+        "summary": "En el cierre del congreso de la federación aceitera se actualizó el cálculo del ingreso necesario para una vida digna. Llamado sindical a “construir” un paro nacional",
         "pubDate": "2026-11-19T09:15:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "El Frente de Sindicatos Unidos exige un salario mínimo de $ 3,2 millones",
-        "link": "https://www.lacapital.com.ar/economia/el-frente-sindicatos-unidos-exige-un-salario-minimo-32-millones-n10293018.html",
-        "image": "https://media.lacapital.com.ar/p/b4a8e71a17536df5dc4c2515662d7aa2/adjuntos/203/imagenes/103/540/0103540200/1200x675/smart/fresu25a.jpg",
-        "summary": "En el cierre del congreso de la federación aceitera se actualizó el cálculo del ingreso necesario para una vida digna. Llamado sindical a “construir” un paro nacional",
+        "title": "Crónicas de campaña desde el lote: Entre Ríos ya cosechó el 50% del trigo y hay apuro por \"esquivar las tormentas\"",
+        "link": "https://www.lacapital.com.ar/agro/cronicas-campana-el-lote-rios-ya-cosecho-el-50-del-trigo-y-hay-apuro-esquivar-las-tormentas-n10293028.html",
+        "image": "https://media.lacapital.com.ar/p/1dcc3f3e213bea9795e6f3c2ede6e5b8/adjuntos/203/imagenes/103/540/0103540341/1200x675/785x402:805x422/cosecha-trigo-rios.jpeg",
+        "summary": "La cosecha de trigo avanza en la región núcleo, con rindes de 5000 a 6000 kg/ha en Santa Fe y hasta 7000 en algunos lotes. Quienes todavía no cosecharon, se preparan para arrancar y esquivar las tormentas",
         "pubDate": "2026-11-19T09:15:00+00:00",
         "approxTime": false
       },
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/870c44b452c6542a916671cfec8e567f/adjuntos/203/imagenes/103/540/0103540201/1200x675/smart/catt4.jpg",
         "summary": "El secretario general de Dragado y Balizamiento, Edgardo Arrieta, fue reelecto para conducir la seccional rosarina de la Confederación Argentina de Trabajadores del Transporte (Catt). Del congreso participaron dirigentes nacionales y un funcionario de Kicillof",
         "pubDate": "2026-11-19T01:36:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Fuerte intervención del gobierno para frenar la suba del dólar",
-        "link": "https://www.lacapital.com.ar/economia/fuerte-intervencion-del-gobierno-frenar-la-suba-del-dolar-n10293022.html",
-        "image": "https://media.lacapital.com.ar/p/6a8de0745da3198bc3aab993f4d57f7a/adjuntos/203/imagenes/103/304/0103304684/1200x675/smart/bcra-317.jpg",
-        "summary": "El tipo de cambio subió en una jornada en la que el gobierno intervino con bonos y contratos futuro. El BCRA desaceleró sus compras. Leve baja del riesgo país",
-        "pubDate": "2026-11-19T01:35:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Estiman que en 2035 habrá en el mundo más musulmanes que cristianos",
-        "link": "https://www.lacapital.com.ar/informacion-general/estiman-que-2035-habra-el-mundo-mas-musulmanes-que-cristianos-n10293013.html",
-        "image": "https://media.lacapital.com.ar/p/d2097328397cbb599c9d12aebf8fc979/adjuntos/203/imagenes/103/540/0103540234/2026-11-18-musulmanes.jpg",
-        "summary": "El motivo clave es la tasa de fecundidad: la mujeres que profesan el islam tienen más hijos que las de otros grandes grupos religiosos",
-        "pubDate": "2026-11-19T00:51:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Quini 6: un solo apostador acertó en La Segunda y se llevó casi $3.300 millones",
-        "link": "https://www.lacapital.com.ar/informacion-general/quini-6-un-solo-apostador-acerto-la-segunda-y-se-llevo-casi-3300-millones-n10293015.html",
-        "image": "https://media.lacapital.com.ar/p/98bff77792054ee9a83835e5cd10de4c/adjuntos/203/imagenes/103/540/0103540214/2026-11-18-quini-6.jpg",
-        "summary": "El Siempre Sale entregó 21 millones de pesos a cada ganador, que fueron 17, de los cuales 3 hicieron sus jugadas en la provincia de Santa Fe",
-        "pubDate": "2026-11-19T00:36:00+00:00",
         "approxTime": false
       }
     ]
