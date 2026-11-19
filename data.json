@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T00:30:58.623587+00:00",
+  "generatedAt": "2026-11-19T01:01:04.978847+00:00",
   "sites": {
     "rosario3": [
       {
@@ -49,10 +49,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "El Gobierno argentino se abstuvo en la votación de una resolución de la ONU contra la violencia contra mujeres y niñas",
-        "link": "https://www.rosario3.com/politica/el-gobierno-argentino-se-abstuvo-en-la-votacion-de-una-resolucion-de-la-onu-contra-la-violencia-contra-mujeres-y-ninas-20261118-0054.html",
-        "image": "https://www.rosario3.com/__export/1795033176490/sites/rosario3/img/2026/11/18/milei.jpg_1768679257.jpg",
-        "summary": "El Ejecutivo acompañó la postura de Estados Unidos y quedó entre los seis países que no respaldaron el texto aprobado por 175 Estados. La medida que Argentina rechazó busca que los Estados refuercen sus políticas para prevenir y combatir la violencia de género, incluida la que…",
+        "title": "Milei negó una interna con Bullrich y la respaldó: “Cómo la vamos a echar, es mi socia política”",
+        "link": "https://www.rosario3.com/informaciongeneral/milei-nego-una-interna-con-bullrich-y-la-respaldo-como-la-vamos-a-echar-es-mi-socia-politica-20261118-0066.html",
+        "image": "https://www.rosario3.com/__export/1795045879060/sites/rosario3/img/2026/11/18/milei_2.jpg_982625323.jpg",
+        "summary": "El presidente descartó que vaya a producirse un desplazamiento de la senadora al afirmar que ese sería el “deseo” del “círculo rojo”. También contó detalles de su conversación con el papa León XIV y volvió a cuestionar a quienes apuntan que “la gente no llega a fin de mes”…",
         "pubDate": "2026-11-18T11:55:00+00:00",
         "approxTime": true
       },
@@ -103,10 +103,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Paro de repartidores y fleteros que trabajan para OCA: reclamaron por la falta de pagos",
-        "link": "https://www.rosario3.com/informaciongeneral/paro-de-repartidores-y-fleteros-que-trabajan-para-oca-reclamaron-por-la-falta-de-pagos-20261118-0046.html",
-        "image": "https://www.rosario3.com/__export/1795026738676/sites/rosario3/img/2026/11/18/repartidores.jpg_1127338202.jpg",
-        "summary": "Cerca de 50 tercerizados que llevan pedidos a domicilio se manifestaron este miércoles frente al depósito de la firma. Le deben dos meses y medio. 'Dejamos de trabajar porque no nos pagan', dijeron los empleados informales",
+        "title": "El Gobierno argentino se abstuvo en la votación de una resolución de la ONU contra la violencia contra mujeres y niñas",
+        "link": "https://www.rosario3.com/politica/el-gobierno-argentino-se-abstuvo-en-la-votacion-de-una-resolucion-de-la-onu-contra-la-violencia-contra-mujeres-y-ninas-20261118-0054.html",
+        "image": "https://www.rosario3.com/__export/1795033176490/sites/rosario3/img/2026/11/18/milei.jpg_1768679257.jpg",
+        "summary": "El Ejecutivo acompañó la postura de Estados Unidos y quedó entre los seis países que no respaldaron el texto aprobado por 175 Estados. La medida que Argentina rechazó busca que los Estados refuercen sus políticas para prevenir y combatir la violencia de género, incluida la que…",
         "pubDate": "2026-11-18T11:49:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,24 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Estiman que en 2035 habrá en el mundo más musulmanes que cristianos",
+        "link": "https://www.lacapital.com.ar/informacion-general/estiman-que-2035-habra-el-mundo-mas-musulmanes-que-cristianos-n10293013.html",
+        "image": "https://media.lacapital.com.ar/p/d2097328397cbb599c9d12aebf8fc979/adjuntos/203/imagenes/103/540/0103540234/2026-11-18-musulmanes.jpg",
+        "summary": "El motivo clave es la tasa de fecundidad: la mujeres que profesan el islam tienen más hijos que las de otros grandes grupos religiosos",
+        "pubDate": "2026-11-19T00:51:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Quini 6: un solo apostador acertó en La Segunda y se llevó casi $3.300 millones",
+        "link": "https://www.lacapital.com.ar/informacion-general/quini-6-un-solo-apostador-acerto-la-segunda-y-se-llevo-casi-3300-millones-n10293015.html",
+        "image": "https://media.lacapital.com.ar/p/98bff77792054ee9a83835e5cd10de4c/adjuntos/203/imagenes/103/540/0103540214/2026-11-18-quini-6.jpg",
+        "summary": "El Siempre Sale entregó 21 millones de pesos a cada ganador, que fueron 17, de los cuales 3 hicieron sus jugadas en la provincia de Santa Fe",
+        "pubDate": "2026-11-19T00:36:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "El gobierno cedió y consiguió las firmas para la reforma electoral",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/d0685aa014875d765839b1f3c5ebbd52/adjuntos/203/imagenes/102/491/0102491363/1200x675/smart/dinero-plata-pesos-01jpg.jpg",
         "summary": "En septiembre, el 31,8% del dinero prestado por los proveedores no financieros estaba en situación irregular, frente al 15,9% de los créditos otorgados por bancos y demás entidades financieras. Qué pasa en Santa Fe",
         "pubDate": "2026-11-18T20:34:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cómo saber si Pami me cubre un medicamento",
-        "link": "https://www.lacapital.com.ar/informacion-general/como-saber-si-pami-me-cubre-un-medicamento-n10292941.html",
-        "image": "https://media.lacapital.com.ar/p/4ef939cdf4fc686380b31b711a060acf/adjuntos/203/imagenes/102/107/0102107559/1200x675/smart/medicamentojpg.jpg",
-        "summary": "La obra social de los jubilados ofrece información en línea sobre los medicamentos cubiertos, lo que permite a los afiliados agilizar las consultas",
-        "pubDate": "2026-11-18T20:32:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Los libertarios apuntaron contra Unidos tras la sesión caída en Diputados",
-        "link": "https://www.lacapital.com.ar/politica/los-libertarios-apuntaron-contra-unidos-la-sesion-caida-diputados-n10292969.html",
-        "image": "https://media.lacapital.com.ar/p/11ebe721e8f724df6e2d700298b7371a/adjuntos/203/imagenes/103/539/0103539801/1200x675/smart/libertarios-sesion-diputados.jpg",
-        "summary": "Romina Diez habló de “intereses mezquinos” y Marcos Peyrano acusó a los legisladores de Pullaro de sumarse al kirchnerismo para bloquear el debate",
-        "pubDate": "2026-11-18T20:18:00+00:00",
         "approxTime": false
       }
     ]
