@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T14:00:58.602012+00:00",
+  "generatedAt": "2026-11-19T14:30:53.335641+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Dos búnkeres de drogas funcionaban en un terreno provincial usurpado en Villa Oculta",
+        "link": "https://www.lacapital.com.ar/policiales/dos-bunkeres-drogas-funcionaban-un-terreno-provincial-usurpado-villa-oculta-n10293093.html",
+        "image": "https://media.lacapital.com.ar/p/13b81e143f44139f4cbbcd1f193566a6/adjuntos/203/imagenes/103/541/0103541149/1200x675/smart/derribo.png",
+        "summary": "Las construcciones fueron derribadas este jueves tras una investigación que detectó movimientos durante todo el día. No hay personas detenidas",
+        "pubDate": "2026-11-19T14:16:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Franco Carbone defendió su candidatura a juez federal: de los ataques a Messi a la semana trágica",
+        "link": "https://www.lacapital.com.ar/politica/franco-carbone-defendio-su-candidatura-juez-federal-los-ataques-messi-la-semana-tragica-n10293039.html",
+        "image": "https://media.lacapital.com.ar/p/e7f8d68fd2592d8a7b778e20d968912b/adjuntos/203/imagenes/103/541/0103541067/1200x675/smart/carbone.jpeg",
+        "summary": "El candidato a juez federal de Garantías valoró la convivencia del sistema acusatorio en ambos fueros y la desfederalización de la ley de drogas. Dijo que Rosario tiene una \"oportunidad histórica\" contra el narco",
+        "pubDate": "2026-11-19T14:00:27+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El hijo de Marcos Camino rompió el silencio tras la muerte de su padre: \"Hay cosas que callé\"",
         "link": "https://www.lacapital.com.ar/zoom/el-hijo-marcos-camino-rompio-el-silencio-la-muerte-su-padre-hay-cosas-que-calle-n10293075.html",
         "image": "https://media.lacapital.com.ar/p/579ba956d4710e2d2b516e18591270d7/adjuntos/203/imagenes/103/541/0103541000/1200x675/smart/image-2026-11-19t104253288.png",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/7a3a9cca7bddb1bdb0a2b24f875f5650/adjuntos/203/imagenes/103/539/0103539850/1200x675/smart/image-2026-11-18t183403953.png",
         "summary": "Títulos para todos los gustos desembarcan en las salas de cine de la ciudad este jueves 19 de noviembre. Promociones y descuentos a la hora de sacar entradas",
         "pubDate": "2026-11-19T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Rosario mejoró sus cifras habitacionales y superó el promedio nacional",
-        "link": "https://www.lacapital.com.ar/la-ciudad/rosario-mejoro-sus-cifras-habitacionales-y-supero-el-promedio-nacional-n10292973.html",
-        "image": "https://media.lacapital.com.ar/p/012cf8a79ae9eb1963479f74dc0bbe44/adjuntos/203/imagenes/102/935/0102935013/1200x675/smart/procrear1.jpg",
-        "summary": "La ciudad redujo su déficit del 26% al 13,5% entre 2015 y 2025, según un informe de la Fundación Apertura. La red de cloacas impulsa el progreso, pero queda en deuda el acceso al servicio de gas natural",
-        "pubDate": "2026-11-19T09:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Efecto León XIV: entre los nuevos y los que vuelven, esperan un incremento de fieles en Rosario",
-        "link": "https://www.lacapital.com.ar/la-ciudad/efecto-leon-xiv-los-nuevos-y-los-que-vuelven-esperan-un-incremento-fieles-rosario-n10292586.html",
-        "image": "https://media.lacapital.com.ar/p/3fb1f6e9339af18f0c8a73c4817b3769/adjuntos/203/imagenes/103/535/0103535153/1200x675/smart/catedral-rosario.png",
-        "summary": "Mientras las redes se llenaron de discusiones sobre \"la performance de la fe\", en Rosario registran gestos de proximidad a la Iglesia tras la visita papal. El desafío de sostenerlos en el tiempo",
-        "pubDate": "2026-11-19T09:30:00+00:00",
         "approxTime": false
       }
     ]
