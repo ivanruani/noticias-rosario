@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T05:00:59.277597+00:00",
+  "generatedAt": "2026-11-20T05:30:53.112289+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Un viernes de pocas referencias válidas para Franco Colapinto en el piso mojado de Las Vegas",
+        "link": "https://www.lacapital.com.ar/ovacion/un-viernes-pocas-referencias-validas-franco-colapinto-el-piso-mojado-las-vegas-n10293211.html",
+        "image": "https://media.lacapital.com.ar/p/f45d189a682eb572e36ca8c8655cfeee/adjuntos/203/imagenes/103/542/0103542755/1200x675/smart/image-1.jpg",
+        "summary": "El argentino fue 9° y su compañero de Alpine Pierre Gasly 2°, pero las condiciones de pista fueron atípicas.",
+        "pubDate": "2026-11-20T05:05:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Franco Colapinto y el resto de la Fórmula 1 apenas dieron una vueltita por Las Vegas",
         "link": "https://www.lacapital.com.ar/ovacion/franco-colapinto-y-el-resto-la-formula-1-apenas-dieron-una-vueltita-las-vegas-n10293210.html",
         "image": "https://media.lacapital.com.ar/p/9a9b6fbffdc8c4fcb0120c7b4983d655/adjuntos/203/imagenes/103/542/0103542754/1200x675/smart/image.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/146bc27b46a766f411e4eb21a7548bda/adjuntos/203/imagenes/103/542/0103542170/image.png",
         "summary": "Entre los últimos estrenos, el género de suspenso se lleva todas las reproducciones. Tres historias imperdibles",
         "pubDate": "2026-11-19T20:19:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Netflix estrenó una comedia romántica con Leighton Meester y Jared Padalecki",
-        "link": "https://www.lacapital.com.ar/zoom/netflix-estreno-una-comedia-romantica-leighton-meester-y-jared-padalecki-n10293149.html",
-        "image": "https://media.lacapital.com.ar/p/de15076152ab385cc07b560a378c9d62/adjuntos/203/imagenes/103/541/0103541844/1200x675/smart/image-8.png",
-        "summary": "El film, de menos de dos horas, sigue a una guardaespaldas que debe trabajar cuidando a un actor famoso durante las fiestas",
-        "pubDate": "2026-11-19T20:11:00+00:00",
         "approxTime": false
       }
     ]
