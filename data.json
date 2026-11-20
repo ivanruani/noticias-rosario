@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T09:01:02.672091+00:00",
+  "generatedAt": "2026-11-20T09:30:58.410897+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,69 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El trigo arrancó con rindes de 60 quintales y el granizo dejó lotes diezmados",
+        "link": "https://www.lacapital.com.ar/agro/el-trigo-arranco-rindes-60-quintales-y-el-granizo-dejo-lotes-diezmados-n10293209.html",
+        "image": "https://media.lacapital.com.ar/p/8ae0ce3e8969646ad37a487b98923a03/adjuntos/305/imagenes/102/858/0102858132/1200x675/smart/trigo-mas-69989.jpg",
+        "summary": "La cosecha comenzó antes de lo previsto en algunas zonas de la región núcleo. La BCR estimó que unas 14.000 hectáreas de trigo quedaron dentro del área alcanzada por la última tormenta. Fuertes daños",
+        "pubDate": "2026-11-20T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "En Álvarez se presentó el libro del club: \"Unión, más de cien años de historia\"",
+        "link": "https://www.lacapital.com.ar/ovacion/en-alvarez-se-presento-el-libro-del-club-union-mas-cien-anos-historia-n10293230.html",
+        "image": "https://media.lacapital.com.ar/p/61a8fa9873ecd1bf91e00d1260e4040c/adjuntos/203/imagenes/103/542/0103542756/1200x675/smart/image-2026-11-19t233931068.png",
+        "summary": "La historia de la prestigiosa institución del sur santafesino, el Club Atlético y Sociedad Italiana de Álvarez quedó plasmado en las páginas del libro rojinegro",
+        "pubDate": "2026-11-20T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central Córdoba: Paulo Killer seguirá por otra temporada en barrio Tablada",
+        "link": "https://www.lacapital.com.ar/ovacion/central-cordoba-paulo-killer-seguira-otra-temporada-barrio-tablada-n10293208.html",
+        "image": "https://media.lacapital.com.ar/p/763a497626af4645af602d90e3250b2e/adjuntos/203/imagenes/103/542/0103542760/1200x675/smart/image-2.jpg",
+        "summary": "El defensor y capitán le confió a Ovación que continuará ligado al Matador hasta el fin del 2027. En la temporada disputó 33 encuentro en Central Córdoba",
+        "pubDate": "2026-11-20T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Newell's tiene un banco corto que le demandará tratar de evitar el suplementario para pasar",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-tiene-un-banco-corto-que-le-demandara-tratar-evitar-el-suplementario-pasar-n10293199.html",
+        "image": "https://media.lacapital.com.ar/p/40dcd7ce152b7f0374705f439471560a/adjuntos/203/imagenes/103/542/0103542683/1200x675/smart/image-61.png",
+        "summary": "La Lepra tendrá que buscar liquidar los octavos de final ante Gimnasia en los 90’ con los titulares enteros ante la falta de respuesta habitual de los suplentes",
+        "pubDate": "2026-11-20T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Leda: piden a la Iglesia que reconozca un presunto caso de sanación",
+        "link": "https://www.lacapital.com.ar/la-ciudad/leda-piden-la-iglesia-que-reconozca-un-presunto-caso-sanacion-n10293164.html",
+        "image": "https://media.lacapital.com.ar/p/533d135ca5b62d1f5fa78293e0d1d450/adjuntos/203/imagenes/103/259/0103259406/1200x675/smart/leda-bergonzi-6-7.jpg",
+        "summary": "La hija de un paciente terminal presentó documentación médica al Arzobispado de 9 de Julio en Buenos Aires para su análisis ante la intervención de Leda",
+        "pubDate": "2026-11-20T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El Rally Santafesino baja el telón con una apasionante definición en el Gran Premio Coronación 2026",
+        "link": "https://www.lacapital.com.ar/ovacion/el-rally-santafesino-baja-el-telon-una-apasionante-definicion-el-gran-premio-coronacion-2026-n10293227.html",
+        "image": "https://media.lacapital.com.ar/p/6b018f026e65e57bdffeb94cf16f3227/adjuntos/203/imagenes/103/542/0103542706/1200x675/smart/image-2026-11-19t230527413.png",
+        "summary": "El certamen regional de rally más importante de la especialidad se disputará del 27 al 29 de noviembre en Pérez y Soldini",
+        "pubDate": "2026-11-20T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central está frente a un sueño grande y con el Gigante como un buen guardaespaldas",
+        "link": "https://www.lacapital.com.ar/ovacion/central-esta-frente-un-sueno-grande-y-el-gigante-como-un-buen-guardaespaldas-n10293064.html",
+        "image": "https://media.lacapital.com.ar/p/2281a3c1529f4e311e417985243a25f2/adjuntos/203/imagenes/103/541/0103541934/centra3cml.jpeg",
+        "summary": "De avanzar, el Canalla definirá hasta la semifinal incluida en Arroyito, donde logró marcar una tendencia. De local, ganó los últimos cuatro que disputó",
+        "pubDate": "2026-11-20T09:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Un viernes de pocas referencias válidas para Franco Colapinto en el piso mojado de Las Vegas",
         "link": "https://www.lacapital.com.ar/ovacion/un-viernes-pocas-referencias-validas-franco-colapinto-el-piso-mojado-las-vegas-n10293211.html",
         "image": "https://media.lacapital.com.ar/p/f45d189a682eb572e36ca8c8655cfeee/adjuntos/203/imagenes/103/542/0103542755/1200x675/smart/image-1.jpg",
@@ -209,69 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/e62c3c4ac35033e47390ebdd91b8c90a/adjuntos/203/imagenes/103/542/0103542427/2026-11-19-bill-gates.jpg",
         "summary": "El magnate tecnológico estuvo paseando junto a su pareja y su hijo. No se difundió una agenda oficial",
         "pubDate": "2026-11-19T22:42:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "De paso por Rosario, el vocero presidencial defendió el modelo de Milei y la \"batalla cultural\"",
-        "link": "https://www.lacapital.com.ar/politica/de-paso-rosario-el-vocero-presidencial-defendio-el-modelo-milei-y-la-batalla-cultural-n10293186.html",
-        "image": "https://media.lacapital.com.ar/p/0fefbee80d83a645322805f3140ee82d/adjuntos/203/imagenes/103/542/0103542277/1200x675/smart/ar.jpg",
-        "summary": "Adrián Ravier participó de un conversatorio en la Fundación Libertad, donde brindó definiciones políticas y económicas. Mensaje a las provincias, entre ellas Santa Fe",
-        "pubDate": "2026-11-19T21:45:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Alivio en Newell's: le perdonaron un partido de suspensión a Kudelka y podrá dirigir en La Plata",
-        "link": "https://www.lacapital.com.ar/ovacion/alivio-newells-le-perdonaron-un-partido-suspension-kudelka-y-podra-dirigir-la-plata-n10293193.html",
-        "image": "https://media.lacapital.com.ar/p/d4c9503babba3693e4c9c0310d649412/adjuntos/203/imagenes/103/080/0103080438/nob-kudelka-87.jpg",
-        "summary": "El Tribunal de Disciplina de la AFA contempló la apelación de Newell’s y redujo a una fecha el castigo al entrenador",
-        "pubDate": "2026-11-19T21:37:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La Línea de la Costa comienza a funcionar los fines de semana y feriados",
-        "link": "https://www.lacapital.com.ar/la-ciudad/la-linea-la-costa-comienza-funcionar-los-fines-semana-y-feriados-n10293191.html",
-        "image": "https://media.lacapital.com.ar/p/0b0fb76cd8e4d8a5f561ea1c770a3375/adjuntos/203/imagenes/102/821/0102821530/1200x675/smart/image-2025-11-20t145147000.jpg",
-        "summary": "El servicio retoma su recorrido este sábado a partir de las 8 desde Rioja y avenida Belgrano hacia Costa Alta. El último servicio sale desde allí a las 21.35",
-        "pubDate": "2026-11-19T21:29:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Condenan a un narco que trasladó 100 kilos de cocaína desde Jujuy a Santa Fe",
-        "link": "https://www.lacapital.com.ar/policiales/condenan-un-narco-que-traslado-100-kilos-cocaina-jujuy-santa-fe-n10293151.html",
-        "image": "https://media.lacapital.com.ar/p/3fede0e131895b207baddf693edf72fc/adjuntos/203/imagenes/103/541/0103541947/1200x675/smart/camu.png",
-        "summary": "Jordan Brandon Mejía Bustamante, de 29 años, fue condenado a siete años de prisión a partir de una investigación de la Sede Fiscal Descentralizada Rafaela",
-        "pubDate": "2026-11-19T20:52:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Pelearon y lo mató a puñaladas: 10 años de prisión para el autor de un crimen en zona oeste",
-        "link": "https://www.lacapital.com.ar/policiales/pelearon-y-lo-mato-punaladas-10-anos-prision-el-autor-un-crimen-zona-oeste-n10293161.html",
-        "image": "https://media.lacapital.com.ar/p/771a807337a29a4f3ef246e04883f86f/adjuntos/203/imagenes/102/031/0102031614/1200x675/smart/cjp5jpg.jpg",
-        "summary": "Matías Damián Castro, de 26 años, fue condenado por el crimen de Misael Orlando Bracesco, ocurrido en noviembre de 2023",
-        "pubDate": "2026-11-19T20:37:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Granadero Baigorria: entrenamiento en emergencias en conjunto con la Facultad de Medicina",
-        "link": "https://www.lacapital.com.ar/la-region/granadero-baigorria-entrenamiento-emergencias-conjunto-la-facultad-medicina-n10293176.html",
-        "image": "https://media.lacapital.com.ar/p/770d917fc1da9cd8da27a15a445474de/adjuntos/203/imagenes/103/542/0103542160/1200x675/smart/baigorria-simulacro1.jpg",
-        "summary": "La ciudad se convertirá nuevamente en el escenario de una articulación entre la educación superior y la gestión pública local. Participarán equipos operativos municipales junto a los alumnos de la cátedra Prehospitalaria",
-        "pubDate": "2026-11-19T20:23:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Tres miniseries de suspenso que brillan en Netflix",
-        "link": "https://www.lacapital.com.ar/zoom/tres-miniseries-suspenso-que-brillan-netflix-n10293163.html",
-        "image": "https://media.lacapital.com.ar/p/146bc27b46a766f411e4eb21a7548bda/adjuntos/203/imagenes/103/542/0103542170/image.png",
-        "summary": "Entre los últimos estrenos, el género de suspenso se lleva todas las reproducciones. Tres historias imperdibles",
-        "pubDate": "2026-11-19T20:19:00+00:00",
         "approxTime": false
       }
     ]
