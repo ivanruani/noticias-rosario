@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T02:01:02.218397+00:00",
+  "generatedAt": "2026-11-20T02:30:59.956451+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,10 +13,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "La Línea de la Costa vuelve a funcionar los fines de semana y feriados en Rosario",
-        "link": "https://www.rosario3.com/informaciongeneral/la-linea-de-la-costa-vuelve-a-funcionar-los-fines-de-semana-y-feriados-en-rosario-20261119-0076.html",
-        "image": "https://www.rosario3.com/__export/1795120536047/sites/rosario3/img/2026/11/19/linea_de_la_costa.jpg_1825222445.jpg",
-        "summary": "El servicio retomará su recorrido este sábado 21 de noviembre a partir de las 8 desde Rioja y avenida Belgrano hacia Costa Alta, en tanto el último servicio sale desde allí a las 21:35",
+        "title": "Es ley: la Legislatura de Santa Fe sancionó la reforma de seguridad impulsada por Pullaro",
+        "link": "https://www.rosario3.com/informaciongeneral/es-ley-la-legislatura-de-santa-fe-sanciono-la-reforma-de-seguridad-impulsada-por-pullaro-20261119-0083.html",
+        "image": "https://www.rosario3.com/__export/1795128993024/sites/rosario3/img/2026/11/19/senado.jpg_1825222445.jpg",
+        "summary": "La Cámara de Senadores aprobó definitivamente el proyecto, que modifica cinco normas provinciales e incorpora nuevas herramientas para la prevención del delito y la investigación penal",
         "pubDate": "2026-11-19T11:59:00+00:00",
         "approxTime": true
       },
@@ -49,10 +49,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Victoria Villarruel volvió a marcar diferencias con Javier Milei: \"Sin industria no hay trabajo\"",
-        "link": "https://www.rosario3.com/politica/victoria-villarruel-volvio-a-marcar-diferencias-con-javier-milei-sin-industria-no-hay-trabajo-20261119-0087.html",
-        "image": "https://www.rosario3.com/__export/1777674650717/sites/rosario3/img/2026/05/01/villarruel.jpg_928314581.jpg",
-        "summary": "La vicepresidenta cuestionó indirectamente el rumbo económico del Gobierno tras conocerse el cierre de la planta de conservas de La Campagnola en Mar del Plata. La decisión de Arcor afectará a 75 trabajadores. “Sin trabajo no hay familia. Sin familia no hay Nación Argentina”…",
+        "title": "La Línea de la Costa vuelve a funcionar los fines de semana y feriados en Rosario",
+        "link": "https://www.rosario3.com/informaciongeneral/la-linea-de-la-costa-vuelve-a-funcionar-los-fines-de-semana-y-feriados-en-rosario-20261119-0076.html",
+        "image": "https://www.rosario3.com/__export/1795120536047/sites/rosario3/img/2026/11/19/linea_de_la_costa.jpg_1825222445.jpg",
+        "summary": "El servicio retomará su recorrido este sábado 21 de noviembre a partir de las 8 desde Rioja y avenida Belgrano hacia Costa Alta, en tanto el último servicio sale desde allí a las 21:35",
         "pubDate": "2026-11-19T11:55:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,33 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "El Senado convirtió en ley la reforma en seguridad impulsada por Pullaro",
+        "link": "https://www.lacapital.com.ar/politica/el-senado-convirtio-ley-la-reforma-seguridad-impulsada-pullaro-n10293228.html",
+        "image": "https://media.lacapital.com.ar/p/2d5384af15d5422683ebe068f86c10aa/adjuntos/203/imagenes/103/542/0103542708/1200x675/smart/legislatura-reforma-seguridad.jpg",
+        "summary": "Después de una áspera discusión en Diputados, la norma que da nuevas herramientas al gobierno y a los fiscales fue aprobada por unanimidad. Media sanción para el presupuesto 2027",
+        "pubDate": "2026-11-20T02:22:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El tiempo en Rosario: viernes con temperatura en baja y posibles chaparrones",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-viernes-temperatura-baja-y-posibles-chaparrones-n10293229.html",
+        "image": "https://media.lacapital.com.ar/p/43008227b000c6f5ebaea8103f85e981/adjuntos/203/imagenes/103/542/0103542743/2026-11-18-clima-by-vbenedetto-79297589.jpg",
+        "summary": "El sábado habría una mejora en las condiciones aunque el sol aparecería poco durante el fin de semana",
+        "pubDate": "2026-11-20T02:20:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Senado: sancionaron por unanimidad la nueva ley de discapacidad",
+        "link": "https://www.lacapital.com.ar/politica/senado-sancionaron-unanimidad-la-nueva-ley-discapacidad-n10293226.html",
+        "image": "https://media.lacapital.com.ar/p/79fc482887837614707812ce978ae3b5/adjuntos/203/imagenes/103/542/0103542694/2026-11-18-senado.jpg",
+        "summary": "Se sale de la emergencia, que vence a fin de año. Resta la reglamentación del Ejecutivo, que tiene potestad para realizar vetos parciales o total",
+        "pubDate": "2026-11-20T02:02:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "La Legislatura destituyó a una fiscal del MPA por demoras en más de 30 causas",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/316c5a110c1537d6a2b206870616d46c/adjuntos/203/imagenes/103/541/0103541753/1200x675/smart/ad.webp",
         "summary": "La evasión fiscal es de 82 millones de pesos. El titular del Registro 12 ya no ejerce más su cargo pero el Estado dispuso recuperar los fondos",
         "pubDate": "2026-11-19T20:06:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Última semana para inscribirse al Progresar Trabajo de Anses: cómo hacerlo",
-        "link": "https://www.lacapital.com.ar/informacion-general/ultima-semana-inscribirse-al-progresar-trabajo-anses-como-hacerlo-n10293138.html",
-        "image": "https://media.lacapital.com.ar/p/f7f655b13a0ce14d67efc3f17e2dd831/adjuntos/203/imagenes/101/423/0101423762/1200x675/smart/becas-unrpng.png",
-        "summary": "Este programa de Becas Progresar ofrece un estímulo económico mensual a jóvenes que cursen las formaciones profesionales avaladas por el Instituto Nacional de Educación Tecnológica (Inet)",
-        "pubDate": "2026-11-19T19:45:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Gol en contra de un chico de Central en la derrota de Argentina ante Australia en el Mundial sub-17",
-        "link": "https://www.lacapital.com.ar/ovacion/gol-contra-un-chico-central-la-derrota-argentina-australia-el-mundial-sub-17-n10293166.html",
-        "image": "https://media.lacapital.com.ar/p/613fd57c84363c795aed91b5dac68324/adjuntos/203/imagenes/103/542/0103542106/1200x675/smart/image-2.jpg",
-        "summary": "Álvaro Güich desvió un centro rasante y la pelota se metió en arco para el 1 a 0 del equipo de Oceanía, que luego marcó el segundo",
-        "pubDate": "2026-11-19T19:44:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La confianza del consumidor quedó casi 11% por debajo de noviembre de 2025",
-        "link": "https://www.lacapital.com.ar/economia/la-confianza-del-consumidor-quedo-casi-11-debajo-noviembre-2025-n10293143.html",
-        "image": "https://media.lacapital.com.ar/p/65e200c911e58e16e5fceeb32bd0edd4/adjuntos/203/imagenes/102/882/0102882556/1200x675/922x1029:942x1049/compras-peatonal-cordoba.png",
-        "summary": "El indicador cayó 1,27% en el mes, con un deterioro del 2,90% en la evaluación de las condiciones presentes. Las expectativas a futuro retrocedieron 0,08%",
-        "pubDate": "2026-11-19T19:39:00+00:00",
         "approxTime": false
       }
     ]
