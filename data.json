@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T00:01:04.199866+00:00",
+  "generatedAt": "2026-11-20T00:30:49.748498+00:00",
   "sites": {
     "rosario3": [
       {
@@ -40,11 +40,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "“Me voy a traficar mucha droga”: condenaron a 7 años a conductor que ocultó 106 kilos de cocaína en una camioneta",
+        "link": "https://www.rosario3.com/policiales/me-voy-a-traficar-mucha-droga-condenaron-a-7-anos-a-conductor-que-oculto-106-kilos-de-cocaina-en-una-camioneta-20261119-0084.html",
+        "image": "https://www.rosario3.com/__export/1795129294033/sites/rosario3/img/2025/12/01/cocaina-ceres-gna_x1x.jpeg_1825222445.jpeg",
+        "summary": "La droga estaba oculta en una Jeep Grand Cherokee y fue detectada por la perra Sasha durante un control de Gendarmería en la ruta 34, a la altura de Ceres. El conductor había partido desde Jujuy y cayó con casi 106 kilos de cocaína valuados en más de 2,4 millones de dólares",
+        "pubDate": "2026-11-19T11:56:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Santa Fe, entre las provincias más transparentes en materia fiscal: puntaje máximo en un ranking nacional",
         "link": "https://www.rosario3.com/informaciongeneral/santa-fe-entre-las-provincias-mas-transparentes-en-materia-fiscal-puntaje-maximo-en-un-ranking-nacional-20261119-0080.html",
         "image": "https://www.rosario3.com/__export/1795123750908/sites/rosario3/img/2026/11/19/gobernacion.jpg_928314580.jpg",
         "summary": "La provincia integró el grupo de jurisdicciones con cumplimiento estricto, según un relevamiento de la Asociación Argentina de Presupuesto y Administración Financiera Pública (ASAP). Compartió la máxima calificación con Córdoba, Corrientes, Entre Ríos, Formosa y Neuquén",
-        "pubDate": "2026-11-19T11:56:00+00:00",
+        "pubDate": "2026-11-19T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -53,15 +62,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/murio-su-pareja-y-los-hijos-de-el-la-echaron-de-la-casa-donde-vivio-20-anos-quedo-en-la-calle-con-su-nena-de-11-anos-20261119-0061.html",
         "image": "https://www.rosario3.com/__export/1795111920379/sites/rosario3/img/2026/11/19/diana.jpg_630779250.jpg",
         "summary": "Diana convivió dos décadas con Héctor hasta que él falleció en marzo pasado. Denunció que sus hijastros la golpearon y la dejaron en la calle junto a su hija de 11 años, pese a que la propiedad incluye cuatro departamentos y un local. Hace siete meses espera una resolución…",
-        "pubDate": "2026-11-19T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Salvaje pelea entre cuidacoches captada por el móvil en vivo de El Tres: cuatro detenidos",
-        "link": "https://www.rosario3.com/informaciongeneral/salvaje-pelea-entre-cuidacoches-captada-por-el-movil-en-vivo-de-el-tres-cuatro-detenidos-20261119-0053.html",
-        "image": "https://www.rosario3.com/__export/1795106949730/sites/rosario3/img/2026/11/19/trapitos.png_1911587285.png",
-        "summary": "Ocurrió en Avellaneda y Presidente Perón este mediodía y quedó todo registrado por las cámaras del canal. Un vecino intervino para separar a los involucrados y minutos después llegó la policía, que trasladó a cuatro personas a la comisaría 32",
         "pubDate": "2026-11-19T11:54:00+00:00",
         "approxTime": true
       },
@@ -112,20 +112,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "\"Dónde está el oro\": la pregunta de Feinmann que incomodó a Caputo y volvió a poner bajo la lupa las reservas del Banco Central",
-        "link": "https://www.rosario3.com/informaciongeneral/donde-esta-el-oro-la-pregunta-de-feinmann-que-incomodo-a-caputo-y-volvio-a-poner-bajo-la-lupa-las-reservas-del-banco-central-20261119-0077.html",
-        "image": "https://www.rosario3.com/__export/1795121412606/sites/rosario3/img/2026/11/19/bausili.jpg_928314580.jpg",
-        "summary": "El ministro de Economía mencionó Suiza y Londres, pero no logró precisar dónde se encuentran. La polémica se da en medio de una auditoría de la AGN y cuestionamientos por operaciones financieras vinculadas al metal",
-        "pubDate": "2026-11-19T11:48:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
         "title": "A tres años del crimen del fiambrero de Villa Gobernador Gálvez, un solo acusado llegó a juicio",
         "link": "https://www.rosario3.com/policiales/a-tres-anos-del-crimen-del-fiambrero-de-villa-gobernador-galvez-un-solo-acusado-llego-a-juicio-20261119-0069.html",
         "image": "https://www.rosario3.com/__export/1795117376537/sites/rosario3/img/2026/11/19/turnaturi_crimen.jpg_672794304.jpg",
         "summary": "Ariel Turnaturi fue asesinado a tiros durante un asalto en su local Prosciutto, en diciembre de 2023. El imputado es un rosarino de 25 años acusado de trasladar a los delincuentes en un Chevrolet Onix. Por los demás involucrados, la investigación no tuvo avances y la Provincia…",
-        "pubDate": "2026-11-19T11:47:00+00:00",
+        "pubDate": "2026-11-19T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -134,6 +125,15 @@
         "link": "https://www.rosario3.com/informaciongeneral/arcor-cerro-definitivamente-la-fabrica-de-la-campagnola-en-mar-del-plata-y-comenzara-a-importar-conservas-de-pescado-20261119-0068.html",
         "image": "https://www.rosario3.com/__export/1795117233401/sites/rosario3/img/2026/11/19/arcor_la_campagnola.png_786111822.png",
         "summary": "La compañía puso fin a la producción de atún y caballa en su planta marplatense, que funcionaba desde hacía dos décadas. La decisión responde a la falta de materia prima y a la pérdida de competitividad frente a los grandes productores internacionales. Los 75 trabajadores…",
+        "pubDate": "2026-11-19T11:47:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Salvaje pelea entre cuidacoches captada por el móvil en vivo de El Tres: cuatro detenidos",
+        "link": "https://www.rosario3.com/informaciongeneral/salvaje-pelea-entre-cuidacoches-captada-por-el-movil-en-vivo-de-el-tres-cuatro-detenidos-20261119-0053.html",
+        "image": "https://www.rosario3.com/__export/1795106949730/sites/rosario3/img/2026/11/19/trapitos.png_1911587285.png",
+        "summary": "Ocurrió en Avellaneda y Presidente Perón este mediodía y quedó todo registrado por las cámaras del canal. Un vecino intervino para separar a los involucrados y minutos después llegó la policía, que trasladó a cuatro personas a la comisaría 32",
         "pubDate": "2026-11-19T11:46:00+00:00",
         "approxTime": true
       }
