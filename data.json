@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T10:01:01.289019+00:00",
+  "generatedAt": "2026-11-20T10:30:58.807474+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "La UNR apostó al streaming y los estudiantes hicieron suyo el primer programa de Unicanal",
+        "link": "https://www.lacapital.com.ar/la-ciudad/la-unr-aposto-al-streaming-y-los-estudiantes-hicieron-suyo-el-primer-programa-unicanal-n10292923.html",
+        "image": "https://media.lacapital.com.ar/p/b0843ee76355575c5597fae474aff424/adjuntos/203/imagenes/103/541/0103541648/1200x675/smart/unicanal.jpg",
+        "summary": "La historia detrás de \"Después te explico...\", que finaliza este viernes su primera temporada. Va de 12 a 14 por el canal de YouTube de la universidad",
+        "pubDate": "2026-11-20T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Darío Grandinetti fue declarado Artista Distinguido de la ciudad: \"Mi casa es acá, mi domicilio es en Rosario\"",
         "link": "https://www.lacapital.com.ar/zoom/dario-grandinetti-fue-declarado-artista-distinguido-la-ciudad-mi-casa-es-aca-mi-domicilio-es-rosario-n10293125.html",
         "image": "https://media.lacapital.com.ar/p/16d0364af16a6196b292e0563a89559b/adjuntos/203/imagenes/103/542/0103542772/grandinetti-82884239.jpg",
@@ -177,19 +186,10 @@
       },
       {
         "source": "La Capital",
-        "title": "El Rally Santafesino baja el telón con una apasionante definición en el Gran Premio Coronación 2026",
-        "link": "https://www.lacapital.com.ar/ovacion/el-rally-santafesino-baja-el-telon-una-apasionante-definicion-el-gran-premio-coronacion-2026-n10293227.html",
-        "image": "https://media.lacapital.com.ar/p/6b018f026e65e57bdffeb94cf16f3227/adjuntos/203/imagenes/103/542/0103542706/1200x675/smart/image-2026-11-19t230527413.png",
-        "summary": "El certamen regional de rally más importante de la especialidad se disputará del 27 al 29 de noviembre en Pérez y Soldini",
-        "pubDate": "2026-11-20T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central Córdoba: Paulo Killer seguirá por otra temporada en barrio Tablada",
-        "link": "https://www.lacapital.com.ar/ovacion/central-cordoba-paulo-killer-seguira-otra-temporada-barrio-tablada-n10293208.html",
-        "image": "https://media.lacapital.com.ar/p/763a497626af4645af602d90e3250b2e/adjuntos/203/imagenes/103/542/0103542760/1200x675/smart/image-2.jpg",
-        "summary": "El defensor y capitán le confió a Ovación que continuará ligado al Matador hasta el fin del 2027. En la temporada disputó 33 encuentro en Central Córdoba",
+        "title": "Leda: piden a la Iglesia que reconozca un presunto caso de sanación",
+        "link": "https://www.lacapital.com.ar/la-ciudad/leda-piden-la-iglesia-que-reconozca-un-presunto-caso-sanacion-n10293164.html",
+        "image": "https://media.lacapital.com.ar/p/533d135ca5b62d1f5fa78293e0d1d450/adjuntos/203/imagenes/103/259/0103259406/1200x675/smart/leda-bergonzi-6-7.jpg",
+        "summary": "La hija de un paciente terminal presentó documentación médica al Arzobispado de 9 de Julio en Buenos Aires para su análisis ante la intervención de Leda",
         "pubDate": "2026-11-20T09:10:00+00:00",
         "approxTime": false
       },
@@ -204,10 +204,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Leda: piden a la Iglesia que reconozca un presunto caso de sanación",
-        "link": "https://www.lacapital.com.ar/la-ciudad/leda-piden-la-iglesia-que-reconozca-un-presunto-caso-sanacion-n10293164.html",
-        "image": "https://media.lacapital.com.ar/p/533d135ca5b62d1f5fa78293e0d1d450/adjuntos/203/imagenes/103/259/0103259406/1200x675/smart/leda-bergonzi-6-7.jpg",
-        "summary": "La hija de un paciente terminal presentó documentación médica al Arzobispado de 9 de Julio en Buenos Aires para su análisis ante la intervención de Leda",
+        "title": "Central Córdoba: Paulo Killer seguirá por otra temporada en barrio Tablada",
+        "link": "https://www.lacapital.com.ar/ovacion/central-cordoba-paulo-killer-seguira-otra-temporada-barrio-tablada-n10293208.html",
+        "image": "https://media.lacapital.com.ar/p/763a497626af4645af602d90e3250b2e/adjuntos/203/imagenes/103/542/0103542760/1200x675/smart/image-2.jpg",
+        "summary": "El defensor y capitán le confió a Ovación que continuará ligado al Matador hasta el fin del 2027. En la temporada disputó 33 encuentro en Central Córdoba",
+        "pubDate": "2026-11-20T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El Rally Santafesino baja el telón con una apasionante definición en el Gran Premio Coronación 2026",
+        "link": "https://www.lacapital.com.ar/ovacion/el-rally-santafesino-baja-el-telon-una-apasionante-definicion-el-gran-premio-coronacion-2026-n10293227.html",
+        "image": "https://media.lacapital.com.ar/p/6b018f026e65e57bdffeb94cf16f3227/adjuntos/203/imagenes/103/542/0103542706/1200x675/smart/image-2026-11-19t230527413.png",
+        "summary": "El certamen regional de rally más importante de la especialidad se disputará del 27 al 29 de noviembre en Pérez y Soldini",
         "pubDate": "2026-11-20T09:10:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/79fc482887837614707812ce978ae3b5/adjuntos/203/imagenes/103/542/0103542694/2026-11-18-senado.jpg",
         "summary": "Se sale de la emergencia, que vence a fin de año. Resta la reglamentación del Ejecutivo, que tiene potestad para realizar vetos parciales o total",
         "pubDate": "2026-11-20T02:02:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La Legislatura destituyó a una fiscal del MPA por demoras en más de 30 causas",
-        "link": "https://www.lacapital.com.ar/politica/la-legislatura-destituyo-una-fiscal-del-mpa-demoras-mas-30-causas-n10293214.html",
-        "image": "https://media.lacapital.com.ar/p/7be43c3b1255cf9545359692e99b38cb/adjuntos/203/imagenes/103/542/0103542459/1200x675/smart/image.png",
-        "summary": "En una sesión conjunta, las Cámaras de Senadores y de Diputados de Santa Fe se pronunciaron sobre la investigación a Shirli Tomasso",
-        "pubDate": "2026-11-20T01:54:00+00:00",
         "approxTime": false
       }
     ]
