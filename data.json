@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T23:01:05.577624+00:00",
+  "generatedAt": "2026-11-20T23:30:53.211666+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Fin de semana largo en Rosario: cómo estará el tiempo y cuándo pueden llegar las lluvias",
+        "link": "https://www.lacapital.com.ar/la-ciudad/fin-semana-largo-rosario-como-estara-el-tiempo-y-cuando-pueden-llegar-las-lluvias-n10293423.html",
+        "image": "https://media.lacapital.com.ar/p/2ca3ed92effd1c73373b9a8cd775146b/adjuntos/203/imagenes/102/882/0102882051/1200x675/smart/lluvias-paraguas.png",
+        "summary": "El pronóstico anticipa temperaturas de hasta 28 grados para el fin de semana largo. El sábado podrían llegar lluvias, pero luego mejorarán las condiciones",
+        "pubDate": "2026-11-20T23:09:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Colapinto empieza a cerrar el año en Las Vegas y busca terminar adelante de Gasly",
+        "link": "https://www.lacapital.com.ar/ovacion/colapinto-empieza-cerrar-el-ano-las-vegas-y-busca-terminar-adelante-gasly-n10293416.html",
+        "image": "https://media.lacapital.com.ar/p/9aeed8cc376288991323595f44d75651/adjuntos/203/imagenes/103/544/0103544577/1200x675/smart/image-3.jpg",
+        "summary": "Con Alpine apuntando a 2027 y la F-1 a 2030, buscará seguir la tendencia de los dos últimos GP y finalizar adelante del francés. El domingo a la 1, la carrera",
+        "pubDate": "2026-11-20T23:04:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Mercados en crisis: el riesgo país quebró la barrera de los mil puntos",
         "link": "https://www.lacapital.com.ar/economia/mercados-crisis-el-riesgo-pais-quebro-la-barrera-los-mil-puntos-n10293404.html",
         "image": "https://media.lacapital.com.ar/p/b4fc3cbe36b1894445e78ccb698cc33e/adjuntos/203/imagenes/025/291/0025291429/1200x675/smart/mervaljpg.jpg",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/78a62f2623ff281b7e7c28c7cd405eca/adjuntos/203/imagenes/103/544/0103544331/1200x675/smart/tpr.png",
         "summary": "Terminal Puerto Rosario participó de la Cumbre de Minería Sostenible Mendoza 2026, donde los gobiernos de Santa Fe y Mendoza firmaron un convenio de trabajo conjunto para impulsar el sector",
         "pubDate": "2026-11-20T19:24:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Paladini participa por primera vez como expositor en la Feria Internacional AlimentAR",
-        "link": "https://www.lacapital.com.ar/novedades/paladini-participa-primera-vez-como-expositor-la-feria-internacional-alimentar-n10293372.html",
-        "image": "https://media.lacapital.com.ar/p/c51941b5e70c9de34c4c6cae4bd47d54/adjuntos/203/imagenes/103/544/0103544318/whatsapp-image-2026-11-20-at-145339.jpeg",
-        "summary": "La compañía presentará su oferta exportable ante compradores internacionales, con el objetivo de ampliar su presencia en mercados externos",
-        "pubDate": "2026-11-20T19:17:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cómo ponerle contraseña a WhatsApp y evitar que alguien abra la aplicación",
-        "link": "https://www.lacapital.com.ar/informacion-general/como-ponerle-contrasena-whatsapp-y-evitar-que-alguien-abra-la-aplicacion-n10293345.html",
-        "image": "https://media.lacapital.com.ar/p/09f532d5bfb655505c6fe86b89b57000/adjuntos/203/imagenes/102/727/0102727822/1200x675/smart/whatsapp-celular.png",
-        "summary": "Los usuarios pueden bloquear la aplicación con una contraseña y evitar el acceso por parte de otras personas. Cómo configurarlo",
-        "pubDate": "2026-11-20T19:16:00+00:00",
         "approxTime": false
       }
     ]
