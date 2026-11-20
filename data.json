@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T18:30:52.894100+00:00",
+  "generatedAt": "2026-11-20T19:01:10.404144+00:00",
   "sites": {
     "rosario3": [
       {
@@ -31,10 +31,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Tesla desembarcó en Argentina y Javier Milei le dio la bienvenida: qué modelos venderá y cuánto cuestan",
-        "link": "https://www.rosario3.com/informaciongeneral/tesla-desembarco-en-argentina-y-javier-milei-le-dio-la-bienvenida-que-modelos-vendera-y-cuanto-cuestan-20261120-0029.html",
-        "image": "https://www.rosario3.com/__export/1795188538375/sites/rosario3/img/2026/11/20/teslaa.jpg_928314580.jpg",
-        "summary": "La empresa automotriz de Elon Musk habilitó su tienda online antes del lanzamiento oficial de este viernes. Los precios arrancan en 41 mil dólares y el presidente argentino celebró el arribo con un video realizado con Inteligencia Artificial",
+        "title": "Qué pasará con los tres pitbulls que mataron a un caniche en el centro de Rosario",
+        "link": "https://www.rosario3.com/policiales/que-pasara-con-los-tres-pitbulls-que-mataron-a-un-caniche-en-el-centro-de-rosario-20261120-0036.html",
+        "image": "https://www.rosario3.com/__export/1795191676434/sites/rosario3/img/2026/11/20/whatsapp_image_2026-11-20_at_06_18_30.jpeg_928314580.jpeg",
+        "summary": "Los animales fueron trasladados al Instituto Municipal de Salud Animal (Imusa) por disposición de la Fiscalía y quedaron alojados juntos. El jefe de la Brigada Ecológica, Marcelo Maida, anticipó que podrían ingresar a un programa de rehabilitación y socialización",
         "pubDate": "2026-11-20T11:57:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,24 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Tres comedias románticas recién llegadas a Netflix",
+        "link": "https://www.lacapital.com.ar/zoom/tres-comedias-romanticas-recien-llegadas-netflix-n10293343.html",
+        "image": "https://media.lacapital.com.ar/p/7e14f51adcfb59c44ef13a877da738aa/adjuntos/203/imagenes/103/544/0103544135/1200x675/smart/image-1.png",
+        "summary": "Con espíritu festivo, drama y risas, las historias de menos de dos horas conquistan a los amantes del romance en la plataforma",
+        "pubDate": "2026-11-20T18:54:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Agustín Módica, el goleador que se formó en Central, extraña al club y lo enfrentará por primera vez",
+        "link": "https://www.lacapital.com.ar/ovacion/agustin-modica-el-goleador-que-se-formo-central-extrana-al-club-y-lo-enfrentara-primera-vez-n10293355.html",
+        "image": "https://media.lacapital.com.ar/p/7e3ec4178e36e5f1852215545107bde4/adjuntos/203/imagenes/103/419/0103419309/1200x675/smart/image.jpg",
+        "summary": "El delantero de Gimnasia y Esgrima de Mendoza es uno de los goleadores del torneo Clausura y más de una vez declaró su amor por el Canalla",
+        "pubDate": "2026-11-20T18:30:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Rafael Gutiérrez fue homenajeado por la Universidad Católica de Santa Fe",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/715d91aa8af6b3a9a8b063866973d032/adjuntos/203/imagenes/103/543/0103543811/1200x675/smart/luis-alberto-spinetta.jpg",
         "summary": "Un insólito episodio ocurrió cuando Gustavo Spinetta habló de la conexión espiritual y recordó a Luis Alberto y a sus padres",
         "pubDate": "2026-11-20T14:53:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Boca vs. Atlético Mineiro en la final de la Copa Sudamericana: hora, canal y posibles formaciones",
-        "link": "https://www.lacapital.com.ar/ovacion/boca-vs-atletico-mineiro-la-final-la-copa-sudamericana-hora-canal-y-posibles-formaciones-n10293303.html",
-        "image": "https://media.lacapital.com.ar/p/04041cb67d5c81c0e91ea23eda9e0646/adjuntos/203/imagenes/103/543/0103543856/1200x675/smart/boca-atletico-mineiro.jpg",
-        "summary": "El Xeneize y el Galo disputarán el partido decisivo por el título internacional en Barranquilla. Detalles y estadísticas del partido",
-        "pubDate": "2026-11-20T14:49:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El Senado de Santa Fe abrirá una ronda de consultas por el nuevo Código Procesal Civil y Comercial",
-        "link": "https://www.lacapital.com.ar/politica/el-senado-santa-fe-abrira-una-ronda-consultas-el-nuevo-codigo-procesal-civil-y-comercial-n10293305.html",
-        "image": "https://media.lacapital.com.ar/p/f33f9ca382de4d872cdd018d57a81d65/adjuntos/203/imagenes/103/543/0103543720/1200x675/smart/image-2026-11-20t112121915.png",
-        "summary": "La iniciativa busca reemplazar la normativa vigente desde 1961 y modernizar los procedimientos judiciales. Convocarán a representantes de la Justicia, abogados y universidades",
-        "pubDate": "2026-11-20T14:44:00+00:00",
         "approxTime": false
       }
     ]
