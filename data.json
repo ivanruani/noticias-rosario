@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T16:01:08.993572+00:00",
+  "generatedAt": "2026-11-20T16:31:02.543232+00:00",
   "sites": {
     "rosario3": [
       {
@@ -22,19 +22,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "Femicidio seguido de suicidio en Santa Fe: un policía mató a su expareja, también agente, y se quitó la vida",
-        "link": "https://www.rosario3.com/policiales/femicidio-seguido-de-suicidio-en-santa-fe-un-policia-mato-a-su-expareja-tambien-agente-y-se-quito-la-vida-20261120-0033.html",
-        "image": "https://www.rosario3.com/__export/1793989626186/sites/rosario3/img/2026/03/01/policia_patrullero_1.jpg_1825222445.jpg",
-        "summary": "Ocurrió en la mañana de este viernes en el barrio Alfonso de la capital provincial. El arma hallada en la escena era de la mujer, ya que el agresor no tenía la pistola reglamentaria por encontrarse de licencia. El hijo de la pareja, de 9 años, no estaba al momento del hecho, ya…",
+        "title": "Nueva Vicentín: \"En menos de un año la normalizamos, contratamos más empleados y pagamos 40 millones de dólares a acreedores\"",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/nueva-vicentin-en-menos-de-una-ano-la-normalizamos-contratamos-mas-empleados-y-pagamos-40-millones-de-dolares-a-acreedores-20261120-0035.html",
+        "image": "https://www.rosario3.com/__export/1795190853229/sites/rosario3/img/2025/09/25/grassi_vicentin_1.jpg_982625323.jpg",
+        "summary": "Mariano Grassi, presidente de la agroindustria que rescataron del default, detalló los avances en su proceso de recuperación industrial y comercial, con resultados en materia de inversiones, producción, empleo y cumplimiento de los compromisos asumidos",
         "pubDate": "2026-11-20T11:58:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Tesla desembarcó en Argentina y Javier Milei le dio la bienvenida: qué modelos venderá y cuánto cuestan",
-        "link": "https://www.rosario3.com/informaciongeneral/tesla-desembarco-en-argentina-y-javier-milei-le-dio-la-bienvenida-que-modelos-vendera-y-cuanto-cuestan-20261120-0029.html",
-        "image": "https://www.rosario3.com/__export/1795188538375/sites/rosario3/img/2026/11/20/teslaa.jpg_928314580.jpg",
-        "summary": "La empresa automotriz de Elon Musk habilitó su tienda online antes del lanzamiento oficial de este viernes. Los precios arrancan en 41 mil dólares y el presidente argentino celebró el arribo con un video realizado con Inteligencia Artificial",
+        "title": "Femicidio seguido de suicidio en Santa Fe: un policía mató a su expareja, también agente, y se quitó la vida",
+        "link": "https://www.rosario3.com/policiales/femicidio-seguido-de-suicidio-en-santa-fe-un-policia-mato-a-su-expareja-tambien-agente-y-se-quito-la-vida-20261120-0033.html",
+        "image": "https://www.rosario3.com/__export/1793989626186/sites/rosario3/img/2026/03/01/policia_patrullero_1.jpg_1825222445.jpg",
+        "summary": "Ocurrió en la mañana de este viernes en el barrio Alfonso de la capital provincial. El arma hallada en la escena era de la mujer, ya que el agresor no tenía la pistola reglamentaria por encontrarse de licencia. El hijo de la pareja, de 9 años, no estaba al momento del hecho, ya…",
         "pubDate": "2026-11-20T11:57:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,24 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "\"Lo mataron como asesinos\", dijo la dueña de Jim, el caniche atacado por tres pitbull",
+        "link": "https://www.lacapital.com.ar/la-ciudad/lo-mataron-como-asesinos-dijo-la-duena-jim-el-caniche-atacado-tres-pitbull-n10293316.html",
+        "image": "https://media.lacapital.com.ar/p/d07862513027ebc0f7df20108efa9a9f/adjuntos/203/imagenes/103/544/0103544041/caniche-jim.jpg",
+        "summary": "La mujer de 71 años afirmó que el propietario de los animales pudo evitar la agresión y reclamó: \"Quiero que se los saquen\"",
+        "pubDate": "2026-11-20T16:20:10+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Empleado infiel: lo investigan por robo en la casa de una comerciante",
+        "link": "https://www.lacapital.com.ar/policiales/empleado-infiel-lo-investigan-robo-la-casa-una-comerciante-n10293326.html",
+        "image": "https://media.lacapital.com.ar/p/381a10e565694f6e473157ea4888d185/adjuntos/203/imagenes/101/102/0101102660/1200x675/smart/comisaria-15jpg.jpg",
+        "summary": "El sospechoso fue detenido por la policía, pero horas después recuperó la libertad. Enfrentará una causa judicial por hurto de dinero",
+        "pubDate": "2026-11-20T16:06:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "GTA VI: quiénes son los artistas argentinos que forman parte de su banda sonora",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/8a668668853fb9ed781b52936cdd2c8c/adjuntos/203/imagenes/103/543/0103543488/1200x675/smart/image-2026-11-20t111137348.jpg",
         "summary": "El músico fue parte de la etapa inicial de la banda, entre los ochenta y los noventa. Su familia comunicó el fallecimiento",
         "pubDate": "2026-11-20T13:38:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Colectividades: el encuentro cultural que abrió una ventana de negocios para las marcas locales",
-        "link": "https://www.lacapital.com.ar/negocios/colectividades-el-encuentro-cultural-que-abriouna-ventana-negocios-las-marcas-locales-n10293115.html",
-        "image": "https://media.lacapital.com.ar/p/a417d1a9ed68134e0d44e9549d94977a/adjuntos/203/imagenes/103/542/0103542070/image-2026-11-19t155801339.png",
-        "summary": "Proveedores de alimentos, bebidas, descartables, estructuras y servicios tienen gran demanda cada año. Algunos casos puntuales para tomar dimensión del impacto comercial que genera la fiesta popular más importante de Rosario",
-        "pubDate": "2026-11-20T13:35:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La tarjeta Sube interrumpirá servicios desde medianoche al mediodía del domingo",
-        "link": "https://www.lacapital.com.ar/informacion-general/la-tarjeta-sube-interrumpira-servicios-medianoche-al-mediodia-del-domingo-n10293269.html",
-        "image": "https://media.lacapital.com.ar/p/5efb7b5aee1d4661cdd5d2fc0b7d43b4/adjuntos/203/imagenes/102/591/0102591144/1200x675/smart/81014719.jpeg",
-        "summary": "Una actualización del sistema afectará las recargas, la consulta de saldo y varios canales de atención. Todos los detalles, en esta nota",
-        "pubDate": "2026-11-20T13:16:00+00:00",
         "approxTime": false
       }
     ]
