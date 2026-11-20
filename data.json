@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T02:30:59.956451+00:00",
+  "generatedAt": "2026-11-20T03:01:04.345893+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Franco Colapinto y el resto de la Fórmula 1 apenas dieron una vueltita por Las Vegas",
+        "link": "https://www.lacapital.com.ar/ovacion/franco-colapinto-y-el-resto-la-formula-1-apenas-dieron-una-vueltita-las-vegas-n10293210.html",
+        "image": "https://media.lacapital.com.ar/p/9a9b6fbffdc8c4fcb0120c7b4983d655/adjuntos/203/imagenes/103/542/0103542754/1200x675/smart/image.jpg",
+        "summary": "La lluvia fue gran protagonista en el primer ensayo en el callejero de Las Vegas y muchos ni siquiera pisaron el asfalto.",
+        "pubDate": "2026-11-20T02:35:57+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El Senado convirtió en ley la reforma en seguridad impulsada por Pullaro",
         "link": "https://www.lacapital.com.ar/politica/el-senado-convirtio-ley-la-reforma-seguridad-impulsada-pullaro-n10293228.html",
         "image": "https://media.lacapital.com.ar/p/2d5384af15d5422683ebe068f86c10aa/adjuntos/203/imagenes/103/542/0103542708/1200x675/smart/legislatura-reforma-seguridad.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/de15076152ab385cc07b560a378c9d62/adjuntos/203/imagenes/103/541/0103541844/1200x675/smart/image-8.png",
         "summary": "El film, de menos de dos horas, sigue a una guardaespaldas que debe trabajar cuidando a un actor famoso durante las fiestas",
         "pubDate": "2026-11-19T20:11:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Denuncian al titular de un Registro Automotor por evasión impositiva y no liquidar impuestos al Estado",
-        "link": "https://www.lacapital.com.ar/policiales/denuncian-al-titular-un-registro-automotor-evasion-impositiva-y-no-liquidar-impuestos-al-estado-n10293123.html",
-        "image": "https://media.lacapital.com.ar/p/316c5a110c1537d6a2b206870616d46c/adjuntos/203/imagenes/103/541/0103541753/1200x675/smart/ad.webp",
-        "summary": "La evasión fiscal es de 82 millones de pesos. El titular del Registro 12 ya no ejerce más su cargo pero el Estado dispuso recuperar los fondos",
-        "pubDate": "2026-11-19T20:06:00+00:00",
         "approxTime": false
       }
     ]
