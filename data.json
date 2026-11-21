@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-11-21T23:01:07.532001+00:00",
+  "generatedAt": "2026-11-21T23:07:41.451705+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Alerta meteorológico por tormentas fuertes para Rosario y la región: advierten por lluvias intensas y posible granizo",
+        "link": "https://www.rosario3.com/informaciongeneral/alerta-meteorologico-por-tormentas-fuertes-para-rosario-y-la-region-advierten-por-lluvias-intensas-y-posible-granizo-20261121-0028.html",
+        "image": "https://www.rosario3.com/__export/1791380182964/sites/rosario3/img/2026/10/07/tormenton1_2.jpg_928314581.jpg",
+        "summary": "El aviso fue difundido este sábado por la noche y alcanza a los departamentos Rosario, San Lorenzo, Iriondo y Constitución, entre otros. Prevén precipitaciones abundantes en períodos cortos, ráfagas de viento y actividad eléctrica. La vigencia estimada es de entre 30 minutos y…",
+        "pubDate": "2026-11-21T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "El Tom Hagen de Alvarado: el abogado que habría desdibujado los límites de la defensa",
         "link": "https://www.rosario3.com/policiales/el-tom-hagen-de-alvarado-el-abogado-que-habria-desdibujado-los-limites-de-la-defensa-20261121-0019.html",
         "image": "https://www.rosario3.com/__export/1795289524212/sites/rosario3/img/2026/11/21/tavella.jpg_672794304.jpg",
         "summary": "La acusación federal lo ubica como una pieza clave en la continuidad del emporio criminal tras la caída de Esteban Alvarado, con supuestas tareas de enlace, manejo de fondos y coordinación de defensas. El penalista, que ya fue condenado por delitos vinculados a la banda, volvió…",
-        "pubDate": "2026-11-21T12:00:00+00:00",
+        "pubDate": "2026-11-21T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/policiales/baleado-en-la-cara-en-su-casa-investigan-si-el-ataque-tiene-relacion-con-una-amenaza-narco-a-su-hijo-20261121-0015.html",
         "image": "https://www.rosario3.com/__export/1795273538159/sites/rosario3/img/2026/07/20/heca.jpg_776569847.jpg",
         "summary": "El hombre de 42 años permanecía en estado crítico en el Heca tras ser hallado con un disparo en la cabeza en una vivienda de Villa Gobernador Gálvez. Su hijo, que está detenido, había sido mencionado meses atrás en una pancarta intimidatoria colgada en una escuela de la ciudad",
-        "pubDate": "2026-11-21T11:59:00+00:00",
+        "pubDate": "2026-11-21T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/confirmaron-que-el-cuerpo-hallado-en-el-parana-es-el-de-nahuel-gonzalez-el-joven-desaparecido-en-san-lorenzo-20261121-0025.html",
         "image": "https://www.rosario3.com/__export/1795295205354/sites/rosario3/img/2026/11/21/nahuel.jpg_2106848869.jpg",
         "summary": "Tras el reconocimiento y las actuaciones correspondientes con intervención en el Instituto Médico Legal, sus allegados lanzaron una colecta solidaria para reunir los fondos necesarios para trasladar sus restos desde Rosario hacia la capital provincial, de donde era oriundo el…",
-        "pubDate": "2026-11-21T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Por qué la EPE corta la luz en zonas inundadas y qué condiciones deben cumplirse para restablecer el servicio",
-        "link": "https://www.rosario3.com/informaciongeneral/por-que-la-epe-corta-la-luz-en-zonas-inundadas-y-que-condiciones-deben-cumplirse-para-restablecer-el-servicio-20261121-0011.html",
-        "image": "https://www.rosario3.com/__export/1795270512912/sites/rosario3/img/2026/11/21/disen-o_sin_ti-tulo_-72-_1.png_928314581.png",
-        "summary": "Ante la crecida del río Paraná y las tormentas asociadas al fenómeno de El Niño, la empresa aplica cortes preventivos en sectores afectados. La restitución de la energía depende de que baje el agua, se verifique el estado de la red y cada vivienda tenga instalaciones eléctricas…",
         "pubDate": "2026-11-21T11:57:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Newell's goleó a Atlético Tostado y conquistó por primera vez la Copa Santa Fe",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-goleo-atletico-tostado-y-conquisto-primera-vez-la-copa-santa-fe-n10293509.html",
+        "image": "https://media.lacapital.com.ar/p/063e8409f53701590fa545737639026f/adjuntos/203/imagenes/103/545/0103545703/1200x675/smart/image-2026-11-21t183226973.png",
+        "summary": "Con el doblete de Joaquín Amadio y otro Blas Benedetto, el rojinegro derrotó a Atlético Tostado y obtuvo la Copa Santa Fe en su novena edición",
+        "pubDate": "2026-11-21T22:59:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Vecinos cuestionan que se use el Monumento a la Bandera para los festejos de los estudiantes secundarios",
         "link": "https://www.lacapital.com.ar/la-ciudad/vecinos-cuestionan-que-se-use-el-monumento-la-bandera-los-festejos-los-estudiantes-secundarios-n10293533.html",
         "image": "https://media.lacapital.com.ar/p/a2efd9ecb26b9e7aadbc43eb9a330ad4/adjuntos/203/imagenes/103/545/0103545727/1200x675/smart/estudiantes-monumento-la-bandera-2111.jpg",
@@ -164,15 +173,6 @@
         "image": "https://media.lacapital.com.ar/p/b4cc718c4b024346a3bd538a7449f01a/adjuntos/203/imagenes/103/299/0103299721/1200x675/smart/perro-mascota-clima-templado-nublado-calle-recreativa.jpg",
         "summary": "Se prevé una jornada sin lluvias, con una temperatura máxima que alcanzará los 28°. Las buenas condiciones se mantendrán el lunes feriado",
         "pubDate": "2026-11-21T22:13:54+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Newell's goleó a Atlético Tostado y conquistó por primera vez la Copa Santa Fe",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-goleo-atletico-tostado-y-conquisto-primera-vez-la-copa-santa-fe-n10293509.html",
-        "image": "https://media.lacapital.com.ar/p/063e8409f53701590fa545737639026f/adjuntos/203/imagenes/103/545/0103545703/1200x675/smart/image-2026-11-21t183226973.png",
-        "summary": "Con el doblete de Joaquín Amadio y otro Blas Benedetto, el rojinegro derrotó a Atlético Tostado y obtuvo la Copa Santa Fe en su novena edición",
-        "pubDate": "2026-11-21T21:36:00+00:00",
         "approxTime": false
       },
       {
