@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T09:01:10.008436+00:00",
+  "generatedAt": "2026-11-21T09:30:55.802219+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,78 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Alta papa: se conserva en frío y se oscurece menos al freírla",
+        "link": "https://www.lacapital.com.ar/agro/alta-papa-se-conserva-frio-y-se-oscurece-menos-al-freirla-n10292959.html",
+        "image": "https://media.lacapital.com.ar/p/4d7c144a6b7057668b3dad0d7e8dc2f0/adjuntos/203/imagenes/103/539/0103539790/1200x675/396x193:416x213/papa-inta.jpg",
+        "summary": "El equipo del Inta logró reducir la acumulación de azúcares durante el almacenamiento en frío, un proceso que afecta el color de las papas al freírlas",
+        "pubDate": "2026-11-21T09:20:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Asociación Rosarina de Fútbol: Se juegan las finales en inferiores A1 y el torneo Ivancich",
+        "link": "https://www.lacapital.com.ar/ovacion/asociacion-rosarina-futbol-se-juegan-las-finales-inferiores-a1-y-el-torneo-ivancich-n10293426.html",
+        "image": "https://media.lacapital.com.ar/p/42907699623c0456321aa0e5ef3f6c42/adjuntos/203/imagenes/103/544/0103544591/1200x675/smart/image-2026-11-20t203904225.png",
+        "summary": "La jornada sabatina arranca a las 9.30 en el predio de San José con los clásicos entre Central y Newell's. A las 17 se disputará la 3ª fecha del Ivancich",
+        "pubDate": "2026-11-21T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Rosario será sede del remate del primer lote de girasol de la nueva campaña",
+        "link": "https://www.lacapital.com.ar/agro/rosario-sera-sede-del-remate-del-primer-lote-girasol-la-nueva-campana-n10293153.html",
+        "image": "https://media.lacapital.com.ar/p/b7b2494094a1644323b7e3b95b5c284e/adjuntos/203/imagenes/102/750/0102750209/1200x675/smart/girasol-1.jpg",
+        "summary": "El remate se realizará en marzo de 2027 en la Bolsa de Comercio de Rosario. Ya está abierta la convocatoria para productores de todo el país que quieran participar del certamen",
+        "pubDate": "2026-11-21T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Casi la mitad de los vehículos inspeccionados en la RTO presentó fallas",
+        "link": "https://www.lacapital.com.ar/la-ciudad/casi-la-mitad-los-vehiculos-inspeccionados-la-rto-presento-fallas-n10293431.html",
+        "image": "https://media.lacapital.com.ar/p/84d990a656d7b685d50dd2fd21c668dd/adjuntos/203/imagenes/100/224/0100224455/1200x675/smart/revision-tecnica01jpg.jpg",
+        "summary": "El Observatorio de Seguridad Vehicular relevó 202.773 controles realizados en la provincia durante el primer semestre de 2026. Menos del 50 % del parque automotor circula con la revisión al día",
+        "pubDate": "2026-11-21T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Con Edgardo Sbrissa, River desembarca en San José para tres días de captación",
+        "link": "https://www.lacapital.com.ar/ovacion/con-edgardo-sbrissa-river-desembarca-san-jose-tres-dias-captacion-n10293424.html",
+        "image": "https://media.lacapital.com.ar/p/6af6470091a549f640aea3dfa6dc8b4c/adjuntos/203/imagenes/103/544/0103544586/1200x675/smart/image-2026-11-20t201514857.png",
+        "summary": "Las tres jornadas está destinadas a jugadores de las categorías 2010 a 2016 se realizará entre, el lunes 23 y el miércoles 25, en Camino de los Quinteros 3250 (Ovidio Lagos al 6600),",
+        "pubDate": "2026-11-21T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Copa Santa Fe 2026: Newell's y Atlético Tostado definen el título provincial en el estadio Marcelo Bielsa",
+        "link": "https://www.lacapital.com.ar/ovacion/copa-santa-fe-2026-newells-y-atletico-tostado-definen-el-titulo-provincial-el-estadio-marcelo-bielsa-n10293420.html",
+        "image": "https://media.lacapital.com.ar/p/fe41aa428e037b1afe11475a3923e81a/adjuntos/203/imagenes/103/544/0103544583/1200x675/smart/image-2026-11-20t195840651.png",
+        "summary": "En la ida no se sacaron ventajas y en caso de otra igualdad se define con tiros penales. El equipo de Lucas Bernardi va por la primera Copa Santa Fe",
+        "pubDate": "2026-11-21T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Hockey: Universitario y Duendes, el clásico de barrio en otra final de damas del Litoral",
+        "link": "https://www.lacapital.com.ar/ovacion/hockey-universitario-y-duendes-el-clasico-barrio-otra-final-damas-del-litoral-n10293415.html",
+        "image": "https://media.lacapital.com.ar/p/4da15321a54d787cb273dd85e8b24e56/adjuntos/203/imagenes/103/544/0103544589/1200x675/smart/image-4.jpg",
+        "summary": "Este sábado a las 20.30,en el estadio Luciana Aymar, saldrá el campeón del torneo Clausura de primera división de damas en hockey",
+        "pubDate": "2026-11-21T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Rugby: Los Pumas buscan dar un golpe ante Francia en el Stade France de París",
+        "link": "https://www.lacapital.com.ar/ovacion/rugby-los-pumas-buscan-dar-un-golpe-francia-el-stade-france-paris-n10293407.html",
+        "image": "https://media.lacapital.com.ar/p/ff984bdd18d6bc286b7ad6697b07b189/adjuntos/203/imagenes/103/544/0103544574/1200x675/smart/image-2026-11-20t191451070.png",
+        "summary": "Se enfrentan por la última fecha de la fase de grupos Nations Championship de rugby. Argentina ganó allí en 2007 y 2014. Contepomi mete siete cambios",
+        "pubDate": "2026-11-21T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Muy buena clasificación de los Alpine en Las Vegas, con Franco Colapinto largando noveno",
         "link": "https://www.lacapital.com.ar/ovacion/muy-buena-clasificacion-los-alpine-las-vegas-franco-colapinto-largando-noveno-n10293213.html",
         "image": "https://media.lacapital.com.ar/p/b091193f0b09554299bd41035f55a0b6/adjuntos/203/imagenes/103/544/0103544663/1200x675/smart/image-7.jpg",
@@ -150,27 +222,9 @@
       },
       {
         "source": "La Capital",
-        "title": "Día Shopping Birthday Edition by Alto Rosario",
-        "link": "https://www.lacapital.com.ar/es-social/dia-shopping-birthday-edition-by-alto-rosario-n10292653.html",
-        "image": "https://media.lacapital.com.ar/p/9212257ccc0766c8b2d3a61ef6d3f30b/adjuntos/203/imagenes/103/536/0103536107/1200x675/smart/cumple-2.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-11-21T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Diego Torres hizo sonreír a Rosario",
-        "link": "https://www.lacapital.com.ar/es-social/diego-torres-hizo-sonreir-rosario-n10292657.html",
-        "image": "https://media.lacapital.com.ar/p/5f86f9d59e202bca2f7728730d10f5f0/adjuntos/203/imagenes/103/536/0103536195/1200x675/smart/diegototrres-14.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-11-21T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Recorrida semanal",
-        "link": "https://www.lacapital.com.ar/es-social/recorrida-semanal-n10292664.html",
-        "image": "https://media.lacapital.com.ar/p/11c95a8da331c151ab339e257ebac68a/adjuntos/203/imagenes/103/536/0103536196/1200x675/smart/5rock-10.jpg",
+        "title": "La Cena de los Tontos se presentó en el teatro Broadway",
+        "link": "https://www.lacapital.com.ar/es-social/la-cena-los-tontos-se-presento-el-teatro-broadway-n10292673.html",
+        "image": "https://media.lacapital.com.ar/p/3ed671164816f50e64a2b2e838e17eeb/adjuntos/203/imagenes/103/536/0103536299/1200x675/smart/cenadelostontos-2.jpg",
         "summary": "La Capital",
         "pubDate": "2026-11-21T03:00:00+00:00",
         "approxTime": false
@@ -186,9 +240,27 @@
       },
       {
         "source": "La Capital",
-        "title": "La Cena de los Tontos se presentó en el teatro Broadway",
-        "link": "https://www.lacapital.com.ar/es-social/la-cena-los-tontos-se-presento-el-teatro-broadway-n10292673.html",
-        "image": "https://media.lacapital.com.ar/p/3ed671164816f50e64a2b2e838e17eeb/adjuntos/203/imagenes/103/536/0103536299/1200x675/smart/cenadelostontos-2.jpg",
+        "title": "Recorrida semanal",
+        "link": "https://www.lacapital.com.ar/es-social/recorrida-semanal-n10292664.html",
+        "image": "https://media.lacapital.com.ar/p/11c95a8da331c151ab339e257ebac68a/adjuntos/203/imagenes/103/536/0103536196/1200x675/smart/5rock-10.jpg",
+        "summary": "La Capital",
+        "pubDate": "2026-11-21T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Diego Torres hizo sonreír a Rosario",
+        "link": "https://www.lacapital.com.ar/es-social/diego-torres-hizo-sonreir-rosario-n10292657.html",
+        "image": "https://media.lacapital.com.ar/p/5f86f9d59e202bca2f7728730d10f5f0/adjuntos/203/imagenes/103/536/0103536195/1200x675/smart/diegototrres-14.jpg",
+        "summary": "La Capital",
+        "pubDate": "2026-11-21T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Día Shopping Birthday Edition by Alto Rosario",
+        "link": "https://www.lacapital.com.ar/es-social/dia-shopping-birthday-edition-by-alto-rosario-n10292653.html",
+        "image": "https://media.lacapital.com.ar/p/9212257ccc0766c8b2d3a61ef6d3f30b/adjuntos/203/imagenes/103/536/0103536107/1200x675/smart/cumple-2.jpg",
         "summary": "La Capital",
         "pubDate": "2026-11-21T03:00:00+00:00",
         "approxTime": false
@@ -200,78 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/b36d55e809e4488f19e3a91d17847263/adjuntos/203/imagenes/103/536/0103536294/1200x675/smart/dyango-1.jpg",
         "summary": "La Capital",
         "pubDate": "2026-11-21T03:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El mejor ensayo de Franco Colapinto desde que está en Fórmula 1, entrando al top five en Las Vegas",
-        "link": "https://www.lacapital.com.ar/ovacion/el-mejor-ensayo-franco-colapinto-que-esta-formula-1-entrando-al-top-five-las-vegas-n10293212.html",
-        "image": "https://media.lacapital.com.ar/p/e31e4c7729013f09c646f8817b6e4fef/adjuntos/203/imagenes/103/544/0103544662/1200x675/smart/image-8.jpg",
-        "summary": "El argentino finalizó quinto la FP3 antes de la clasificación y además por delante de su compañero Pierre Gasly. A las 1, la verdad",
-        "pubDate": "2026-11-21T01:34:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central: Almirón no lo dice pero el once para el primer playoff ya asoma en el horizonte canalla",
-        "link": "https://www.lacapital.com.ar/ovacion/central-almiron-no-lo-dice-pero-el-once-el-primer-playoff-ya-asoma-el-horizonte-canalla-n10293430.html",
-        "image": "https://media.lacapital.com.ar/p/b73f0b27b8c2c7f2fbe75728db3e768f/adjuntos/203/imagenes/103/544/0103544637/1200x675/smart/image-2026-11-20t210417611.png",
-        "summary": "El DT de Central no da nada por seguro, pero los que tenían molestias estarían a disposición y la carrera por el reemplazante de Ávila ya se habría definido",
-        "pubDate": "2026-11-21T00:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Kudelka recuperó a los lesionados y decide a quiénes incluirá en el equipo titular de Newell's",
-        "link": "https://www.lacapital.com.ar/ovacion/kudelka-recupero-los-lesionados-y-decide-quienes-incluira-el-equipo-titular-newells-n10293429.html",
-        "image": "https://media.lacapital.com.ar/p/e905703f2039a17215ba8a7ffc84cb95/adjuntos/203/imagenes/103/544/0103544614/1200x675/smart/image-6.jpg",
-        "summary": "En una semana de dudas sobre los “tocados” en Newell's, el técnico puede armar ante Gimnasia el único once que repitió en el Clausura",
-        "pubDate": "2026-11-20T23:58:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Drisun: \"Si La Libertad Avanza ingresara a Unidos, el socialismo no sería parte\"",
-        "link": "https://www.lacapital.com.ar/politica/drisun-si-la-libertad-avanza-ingresara-unidos-el-socialismo-no-seria-parte-n10293422.html",
-        "image": "https://media.lacapital.com.ar/p/fb987df76efb74f5263ed48cd05bc8dd/adjuntos/203/imagenes/103/544/0103544585/1200x675/smart/vd.jpg",
-        "summary": "La diputada provincial ratificó que su fuerza no integrará una alianza con LLA en 2027 y defendió la continuidad de la coalición de gobierno en Santa Fe",
-        "pubDate": "2026-11-20T23:36:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Proponen que titulares de autos eléctricos paguen menos en la boleta de la EPE",
-        "link": "https://www.lacapital.com.ar/motores/proponen-que-titulares-autos-electricos-paguen-menos-la-boleta-la-epe-n10293352.html",
-        "image": "https://media.lacapital.com.ar/p/bcbe29899249c7fda1a7c2bfd53bc0f4/adjuntos/203/imagenes/103/544/0103544136/1200x675/smart/auto-electrico-carga-2011.jpg",
-        "summary": "Un proyecto busca beneficiar a los usuarios que apuestan por la movilidad eléctrica con descuentos de hasta el 60%. En el primer semestre, se patentaron más de 2.500 autos eléctricos e híbridos en la provincia",
-        "pubDate": "2026-11-20T23:33:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Banderazo y UUD: secuestraron pirotecnia y seguirán los controles durante todo el fin de semana",
-        "link": "https://www.lacapital.com.ar/la-ciudad/banderazo-y-uud-secuestraron-pirotecnia-y-seguiran-los-controles-todo-el-fin-semana-n10293401.html",
-        "image": "https://media.lacapital.com.ar/p/761c0574dbf457059a454df096492673/adjuntos/203/imagenes/102/820/0102820241/1200x675/smart/azo-4.jpeg",
-        "summary": "La Municipalidad desplegó operativos preventivos durante las noches del martes, miércoles y jueves. Los controles se realizaron en distintos puntos de la ciudad",
-        "pubDate": "2026-11-20T23:32:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Un chico fue atropellado en avenida Circunvalación y está en estado crítico",
-        "link": "https://www.lacapital.com.ar/la-ciudad/un-chico-fue-atropellado-avenida-circunvalacion-y-esta-estado-critico-n10293425.html",
-        "image": "https://media.lacapital.com.ar/p/c521a492e06f5c00daea5a3c36c0f2e4/adjuntos/203/imagenes/103/544/0103544588/1200x675/smart/circunvalacion.png",
-        "summary": "El siniestro ocurrió este viernes por la tarde, en la mano hacia el sur, a la altura de bulevar Seguí. El menor está en el Heca",
-        "pubDate": "2026-11-20T23:28:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Fin de semana largo en Rosario: cómo estará el tiempo y cuándo pueden llegar las lluvias",
-        "link": "https://www.lacapital.com.ar/la-ciudad/fin-semana-largo-rosario-como-estara-el-tiempo-y-cuando-pueden-llegar-las-lluvias-n10293423.html",
-        "image": "https://media.lacapital.com.ar/p/2ca3ed92effd1c73373b9a8cd775146b/adjuntos/203/imagenes/102/882/0102882051/1200x675/smart/lluvias-paraguas.png",
-        "summary": "El pronóstico anticipa temperaturas de hasta 28 grados para el fin de semana largo. El sábado podrían llegar lluvias, pero luego mejorarán las condiciones",
-        "pubDate": "2026-11-20T23:09:00+00:00",
         "approxTime": false
       }
     ]
