@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T18:30:53.363768+00:00",
+  "generatedAt": "2026-11-21T19:00:59.978189+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Ante la alerta por tormentas, se suspenden la Noche en mi Barrio en la zona oeste",
+        "link": "https://www.lacapital.com.ar/la-ciudad/ante-la-alerta-tormentas-se-suspenden-la-noche-mi-barrio-la-zona-oeste-n10293502.html",
+        "image": "https://media.lacapital.com.ar/p/4776767676ea3dd84d81448898646767/adjuntos/203/imagenes/102/071/0102071222/1200x675/smart/lluviapng.png",
+        "summary": "La Municipalidad de Rosario suspendió el paseo comercial en barrio Belgrano previsto para este sábado 21 de noviembre sobre calle Mendoza",
+        "pubDate": "2026-11-21T18:37:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Agustín Módica, el goleador que se formó en Central y por primera vez jugará en contra",
         "link": "https://www.lacapital.com.ar/ovacion/agustin-modica-el-goleador-que-se-formo-central-y-primera-vez-jugara-contra-n10293355.html",
         "image": "https://media.lacapital.com.ar/p/7e3ec4178e36e5f1852215545107bde4/adjuntos/203/imagenes/103/419/0103419309/1200x675/smart/image.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/c698193681e719dcfca2b9900385714c/adjuntos/203/imagenes/103/452/0103452555/1200x675/smart/lluvia01.jpg",
         "summary": "El fin de semana largo comenzó con sol, pero el pronóstico anticipa un cambio negativo en cuanto al tiempo en la ciudad",
         "pubDate": "2026-11-21T13:24:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Incendio en un shopping rosarino: el ascensor se prendió fuego a la madrugada",
-        "link": "https://www.lacapital.com.ar/la-ciudad/incendio-un-shopping-rosarino-el-ascensor-se-prendio-fuego-la-madrugada-n10293437.html",
-        "image": "https://media.lacapital.com.ar/p/9408b5270a8e90711ebfff220fc5a9e3/adjuntos/203/imagenes/103/544/0103544746/incendio-shopping-del-siglo.jpg",
-        "summary": "Los bomberos lograron apagar las llamas luego de la denuncia de un vigilador, mientras el centro comercial estaba cerrado",
-        "pubDate": "2026-11-21T12:49:00+00:00",
         "approxTime": false
       }
     ]
