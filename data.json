@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T13:01:03.330822+00:00",
+  "generatedAt": "2026-11-21T13:30:53.178579+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Emitieron un alerta meteorológica en Rosario por tormentas fuertes para este sábado",
+        "link": "https://www.lacapital.com.ar/la-ciudad/emitieron-un-alerta-meteorologica-rosario-tormentas-fuertes-este-sabado-n10293458.html",
+        "image": "https://media.lacapital.com.ar/p/c698193681e719dcfca2b9900385714c/adjuntos/203/imagenes/103/452/0103452555/1200x675/smart/lluvia01.jpg",
+        "summary": "El fin de semana largo comenzó con sol, pero el pronóstico anticipa un cambio negativo en cuanto al tiempo en la ciudad",
+        "pubDate": "2026-11-21T13:24:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Incendio en un shopping rosarino: el ascensor se prendió fuego a la madrugada",
         "link": "https://www.lacapital.com.ar/la-ciudad/incendio-un-shopping-rosarino-el-ascensor-se-prendio-fuego-la-madrugada-n10293437.html",
         "image": "https://media.lacapital.com.ar/p/9408b5270a8e90711ebfff220fc5a9e3/adjuntos/203/imagenes/103/544/0103544746/incendio-shopping-del-siglo.jpg",
@@ -262,15 +271,6 @@
         "link": "https://www.lacapital.com.ar/ovacion/rugby-los-pumas-buscan-dar-un-golpe-francia-el-stade-france-paris-n10293407.html",
         "image": "https://media.lacapital.com.ar/p/ff984bdd18d6bc286b7ad6697b07b189/adjuntos/203/imagenes/103/544/0103544574/1200x675/smart/image-2026-11-20t191451070.png",
         "summary": "Se enfrentan por la última fecha de la fase de grupos Nations Championship de rugby. Argentina ganó allí en 2007 y 2014. Contepomi mete siete cambios",
-        "pubDate": "2026-11-21T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Hockey: Universitario y Duendes, el clásico de barrio en otra final de damas del Litoral",
-        "link": "https://www.lacapital.com.ar/ovacion/hockey-universitario-y-duendes-el-clasico-barrio-otra-final-damas-del-litoral-n10293415.html",
-        "image": "https://media.lacapital.com.ar/p/4da15321a54d787cb273dd85e8b24e56/adjuntos/203/imagenes/103/544/0103544589/1200x675/smart/image-4.jpg",
-        "summary": "Este sábado a las 20.30,en el estadio Luciana Aymar, saldrá el campeón del torneo Clausura de primera división de damas en hockey",
         "pubDate": "2026-11-21T09:10:00+00:00",
         "approxTime": false
       }
