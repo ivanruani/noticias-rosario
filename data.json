@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T14:30:54.063600+00:00",
+  "generatedAt": "2026-11-21T15:01:02.141961+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Mató a tiros a su vecino tras una discusión por la música: el ataque quedó grabado en video",
+        "link": "https://www.lacapital.com.ar/policiales/mato-tiros-su-vecino-una-discusion-la-musica-el-ataque-quedo-grabado-video-n10293469.html",
+        "image": "https://media.lacapital.com.ar/p/8e689853fdd1d460f8f3637909cf64bc/adjuntos/203/imagenes/103/545/0103545079/homicidio-villa-guillermina.jpg",
+        "summary": "La filmación empezó a replicarse este viernes, después de la muerte de Elbio Geiser en Villa Guillermina. El acusado por los disparos quedó detenido",
+        "pubDate": "2026-11-21T14:42:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Emitieron un alerta meteorológica en Rosario por tormentas fuertes para este sábado",
         "link": "https://www.lacapital.com.ar/la-ciudad/emitieron-un-alerta-meteorologica-rosario-tormentas-fuertes-este-sabado-n10293458.html",
         "image": "https://media.lacapital.com.ar/p/c698193681e719dcfca2b9900385714c/adjuntos/203/imagenes/103/452/0103452555/1200x675/smart/lluvia01.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/42907699623c0456321aa0e5ef3f6c42/adjuntos/203/imagenes/103/544/0103544591/1200x675/smart/image-2026-11-20t203904225.png",
         "summary": "La jornada sabatina arranca a las 9.30 en el predio de San José con los clásicos entre Central y Newell's. A las 17 se disputará la 3ª fecha del Ivancich",
         "pubDate": "2026-11-21T09:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Rugby: Los Pumas buscan dar un golpe ante Francia en el Stade France de París",
-        "link": "https://www.lacapital.com.ar/ovacion/rugby-los-pumas-buscan-dar-un-golpe-francia-el-stade-france-paris-n10293407.html",
-        "image": "https://media.lacapital.com.ar/p/ff984bdd18d6bc286b7ad6697b07b189/adjuntos/203/imagenes/103/544/0103544574/1200x675/smart/image-2026-11-20t191451070.png",
-        "summary": "Se enfrentan por la última fecha de la fase de grupos Nations Championship de rugby. Argentina ganó allí en 2007 y 2014. Contepomi mete siete cambios",
-        "pubDate": "2026-11-21T09:10:00+00:00",
         "approxTime": false
       }
     ]
