@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T16:01:02.417727+00:00",
+  "generatedAt": "2026-11-21T16:30:57.190744+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,33 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El hijo de Marcos Camino, sobre la muerte de su padre: \"Se lo juzgó como un criminal\"",
+        "link": "https://www.lacapital.com.ar/zoom/el-hijo-marcos-camino-la-muerte-su-padre-se-lo-juzgo-como-un-criminal-n10293490.html",
+        "image": "https://media.lacapital.com.ar/p/579ba956d4710e2d2b516e18591270d7/adjuntos/203/imagenes/103/541/0103541000/1200x675/smart/image-2026-11-19t104253288.png",
+        "summary": "El músico de Los Palmeras dialogó con varios medios y echó por tierra las especulaciones sobre los motivos del fallecimiento de su papá",
+        "pubDate": "2026-11-21T16:23:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Feriado en Rosario: cómo funcionarán los servicios durante el fin de semana largo",
+        "link": "https://www.lacapital.com.ar/la-ciudad/feriado-rosario-como-funcionaran-los-servicios-el-fin-semana-largo-n10293481.html",
+        "image": "https://media.lacapital.com.ar/p/8da3143d6bca7fe33f6742dbddf39df1/adjuntos/203/imagenes/102/250/0102250269/1200x675/smart/balneario-la-floridajpg.jpg",
+        "summary": "La Municipalidad garantizó guardias de salud y la recolección de residuos, al igual que el sistema de bicicletas públicas",
+        "pubDate": "2026-11-21T16:12:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Violencia de género en Roldán: quedó preso por el secuestro y golpiza de su expareja",
+        "link": "https://www.lacapital.com.ar/la-region/violencia-genero-roldan-quedo-preso-el-secuestro-y-golpiza-su-expareja-n10293482.html",
+        "image": "https://media.lacapital.com.ar/p/994d23d3ddf47e0084e0fd9d19f353d2/adjuntos/203/imagenes/103/186/0103186686/1200x675/smart/centro-de-justicia-penal-rosario-2022-amenaza.jpg",
+        "summary": "René S. fue imputado por amenazas, lesiones leves y privación ilegítima de la libertad luego de la denuncia de la mujer de 37 años",
+        "pubDate": "2026-11-21T16:05:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Un terremoto de magnitud 6,7 sacudió distintas regiones de Perú",
         "link": "https://www.lacapital.com.ar/el-mundo/un-terremoto-magnitud-67-sacudio-distintas-regiones-peru-n10293478.html",
         "image": "https://media.lacapital.com.ar/p/d29def5eda4acde57d355f2add33eb20/adjuntos/203/imagenes/103/545/0103545235/terremoto-peru.png",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/6536edff125a45eed363a17880b4609c/adjuntos/203/imagenes/103/544/0103544507/aerolineas-goljpeg.jpeg",
         "summary": "La aerolínea incrementará un 30% su oferta de asientos en Argentina durante el primer mes del año",
         "pubDate": "2026-11-21T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "De Fray Bentos a Punta del Este: Uruguay presentó una red de 26 puertos y escalas para navegar",
-        "link": "https://www.lacapital.com.ar/turismo/de-fray-bentos-punta-del-este-uruguay-presento-una-red-26-puertos-y-escalas-navegar-n10293398.html",
-        "image": "https://media.lacapital.com.ar/p/e34d7949ceb583a6883d5f5202f463b3/adjuntos/203/imagenes/103/544/0103544533/007-001-uruguay-1.jpg",
-        "summary": "La propuesta fusiona travesías por el río Uruguay, el Río de la Plata y la costa atlántica con paseos históricos, bodegas y playas. Qué obras y servicios se anunciaron de cara a 2027",
-        "pubDate": "2026-11-21T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Alta papa: se conserva en frío y se oscurece menos al freírla",
-        "link": "https://www.lacapital.com.ar/agro/alta-papa-se-conserva-frio-y-se-oscurece-menos-al-freirla-n10292959.html",
-        "image": "https://media.lacapital.com.ar/p/4d7c144a6b7057668b3dad0d7e8dc2f0/adjuntos/203/imagenes/103/539/0103539790/1200x675/396x193:416x213/papa-inta.jpg",
-        "summary": "El equipo del Inta logró reducir la acumulación de azúcares durante el almacenamiento en frío, un proceso que afecta el color de las papas al freírlas",
-        "pubDate": "2026-11-21T09:20:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Rosario será sede del remate del primer lote de girasol de la nueva campaña",
-        "link": "https://www.lacapital.com.ar/agro/rosario-sera-sede-del-remate-del-primer-lote-girasol-la-nueva-campana-n10293153.html",
-        "image": "https://media.lacapital.com.ar/p/b7b2494094a1644323b7e3b95b5c284e/adjuntos/203/imagenes/102/750/0102750209/1200x675/smart/girasol-1.jpg",
-        "summary": "El remate se realizará en marzo de 2027 en la Bolsa de Comercio de Rosario. Ya está abierta la convocatoria para productores de todo el país que quieran participar del certamen",
-        "pubDate": "2026-11-21T09:15:00+00:00",
         "approxTime": false
       }
     ]
