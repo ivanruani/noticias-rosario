@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T00:01:05.472869+00:00",
+  "generatedAt": "2026-11-21T00:30:59.563166+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Central: Almirón no lo dice pero el once para el primer playoff ya asoma en el horizonte canalla",
+        "link": "https://www.lacapital.com.ar/ovacion/central-almiron-no-lo-dice-pero-el-once-el-primer-playoff-ya-asoma-el-horizonte-canalla-n10293430.html",
+        "image": "https://media.lacapital.com.ar/p/b73f0b27b8c2c7f2fbe75728db3e768f/adjuntos/203/imagenes/103/544/0103544637/1200x675/smart/image-2026-11-20t210417611.png",
+        "summary": "El DT de Central no da nada por seguro, pero los que tenían molestias estarían a disposición y la carrera por el reemplazante de Ávila ya se habría definido",
+        "pubDate": "2026-11-21T00:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Kudelka recuperó a los lesionados y decide a quiénes incluirá en el equipo titular de Newell's",
         "link": "https://www.lacapital.com.ar/ovacion/kudelka-recupero-los-lesionados-y-decide-quienes-incluira-el-equipo-titular-newells-n10293429.html",
         "image": "https://media.lacapital.com.ar/p/e905703f2039a17215ba8a7ffc84cb95/adjuntos/203/imagenes/103/544/0103544614/1200x675/smart/image-6.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/4e3580c988f886d0e875a7f114b26acb/adjuntos/203/imagenes/103/544/0103544521/1200x675/smart/arietto-perros-2011.jpg",
         "summary": "Florencia Arietto, senadora bonaerense y figura de La Libertad Avanza aseguró que una rescatista rosarina ofrecía sus mascotas recientemente robadas en Buenos Aires. La organización aseguró que iniciará acciones legales",
         "pubDate": "2026-11-20T21:35:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Celulares robados: la policía solo pedirá el IMEI, no accederá al contenido",
-        "link": "https://www.lacapital.com.ar/la-ciudad/celulares-robados-la-policia-solo-pedira-el-imei-no-accedera-al-contenido-n10293313.html",
-        "image": "https://media.lacapital.com.ar/p/0da05c65a4854bced13625ced4f3f60c/adjuntos/203/imagenes/102/000/0102000554/1200x675/smart/secuestro-celularesjpg.jpg",
-        "summary": "La nueva norma establece controles para detectar dispositivos denunciados por robo, hurto o extravío. Dan detalles sobre el procedimiento para evacuar las dudas",
-        "pubDate": "2026-11-20T21:27:00+00:00",
         "approxTime": false
       }
     ]
