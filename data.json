@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T17:30:56.708212+00:00",
+  "generatedAt": "2026-11-21T18:01:03.306423+00:00",
   "sites": {
     "rosario3": [
       {
@@ -103,11 +103,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Explosión en Remedios de Escalada: murieron otros dos operarios y ya son cuatro las víctimas fatales",
+        "link": "https://www.rosario3.com/informaciongeneral/explosion-en-remedios-de-escalada-murieron-otros-dos-operarios-y-ya-son-cuatro-las-victimas-fatales-20261121-0017.html",
+        "image": "https://www.rosario3.com/__export/1795283031939/sites/rosario3/img/2026/11/21/remediosescalada.jpg_2106848869.jpg",
+        "summary": "La compañía Exgadet comunicó este sábado el fallecimiento de dos de sus operarios que se encontraban internados en grave estado en un centro de salud de San Justo, en el partido de La Matanza, tras las lesiones sufridas durante el estallido del viernes 13 de noviembre",
+        "pubDate": "2026-11-21T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "La Previa del Run Run: ¿polémico incumplimiento de Crucijuegos en el shopping Alto Rosario?",
         "link": "https://www.rosario3.com/-economia-negocios-agro-/la-previa-del-run-run-polemico-incumplimiento-de-crucijuegos-en-el-shopping-alto-rosario0-20261121-0006.html",
         "image": "https://www.rosario3.com/__export/1789167090572/sites/rosario3/img/2026/09/11/marianoportada_jpg.jpeg_506286608.jpeg",
         "summary": "El podcast con el anticipo de las novedades económicas y corporativas que se publicarán en la tradicional columna de los domingos en Rosario3",
-        "pubDate": "2026-11-21T11:49:00+00:00",
+        "pubDate": "2026-11-21T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +125,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-alerta-amarilla-por-tormentas-para-este-sabado-en-el-inicio-del-fin-de-semana-largo-20261121-0001.html",
         "image": "https://www.rosario3.com/__export/1776683935688/sites/rosario3/img/2025/03/04/turismo_rosario.jpg_786111823.jpg",
         "summary": "El Servicio Meteorológico Nacional anticipa una jornada con una temperatura máxima de 27 grados. Después de una mañana parcialmente nublada, se esperan tormentas aisladas durante la tarde y fuertes hacia la noche. Cómo seguirá el tiempo durante el feriado del lunes",
-        "pubDate": "2026-11-21T11:48:00+00:00",
+        "pubDate": "2026-11-21T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,20 +134,38 @@
         "link": "https://www.rosario3.com/informaciongeneral/medicos-de-rosario-salvaron-a-una-beba-con-un-procedimiento-inedito-en-la-region-20261120-0068.html",
         "image": "https://www.rosario3.com/__export/1795220029101/sites/rosario3/img/2026/11/20/mxdicos.jpg_982625323.jpg",
         "summary": "Un equipo de profesionales de la salud del Sanatorio de Niños logró salvarle la vida a una beba que sufrió una grave complicación al nacer por aspiración de líquido meconial. Gracias a la aplicación de la terapia ECMO, la niña pudo estabilizar su sistema respiratorio y ya se…",
-        "pubDate": "2026-11-20T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Un chico fue atropellado en avenida Circunvalación y está en estado crítico",
-        "link": "https://www.rosario3.com/informaciongeneral/un-menor-fue-atropellado-en-circunvalacion-y-esta-en-estado-critico-20261120-0064.html",
-        "image": "https://www.rosario3.com/__export/1795212569033/sites/rosario3/img/2026/11/20/choque_circunvalacion_segui.jpg_506286608.jpg",
-        "summary": "Ocurrió este viernes por la tarde sobre la mano de la avenida con sentido al sur, en inmediaciones del cruce con bulevar Seguí, en el extremo oeste de Rosario. Por ahora se desconocen los pormenores del choque. El menor, de entre 12 y 15 años, fue trasladado en helicóptero…",
         "pubDate": "2026-11-20T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Agustín Módica, el goleador que se formó en Central y por primera vez jugará en contra",
+        "link": "https://www.lacapital.com.ar/ovacion/agustin-modica-el-goleador-que-se-formo-central-y-primera-vez-jugara-contra-n10293355.html",
+        "image": "https://media.lacapital.com.ar/p/7e3ec4178e36e5f1852215545107bde4/adjuntos/203/imagenes/103/419/0103419309/1200x675/smart/image.jpg",
+        "summary": "El delantero de Gimnasia y Esgrima de Mendoza es uno de los goleadores del torneo Clausura y más de una vez declaró su amor por el Canalla",
+        "pubDate": "2026-11-21T17:50:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Las Vegas, Colapinto, Alpine y el después de una Fórmula 1 con la cabeza en 2027 y más allá",
+        "link": "https://www.lacapital.com.ar/ovacion/las-vegas-colapinto-alpine-y-el-despues-una-formula-1-la-cabeza-2027-y-mas-alla-n10293494.html",
+        "image": "https://media.lacapital.com.ar/p/72b691e97775722d5767acac5db1c2f8/adjuntos/203/imagenes/103/545/0103545361/1200x675/smart/image-2.jpg",
+        "summary": "Se podrá decir que Las Vegas fue el punto de inflexión donde la Fórmula 1 pateó el tablero y en ese terreno deberán adaptarse todos",
+        "pubDate": "2026-11-21T17:48:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Fórmula 1: estalló la guerra entre dos pilotos antes del Gran Premio de Las Vegas, y puede escalar",
+        "link": "https://www.lacapital.com.ar/ovacion/formula-1-estallo-la-guerra-dos-pilotos-antes-del-gran-premio-las-vegas-y-puede-escalar-n10293501.html",
+        "image": "https://media.lacapital.com.ar/p/102230277589195b326bba950d9e7884/adjuntos/203/imagenes/103/545/0103545362/1200x675/smart/image-1.jpg",
+        "summary": "No es la primera vez que Max Verstappen y George Russell protagonizan un escándalo. Y comparten la primera fila en la parrilla de largada en el GP de Las Vegas",
+        "pubDate": "2026-11-21T17:39:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Rugby: Los Pumas buscan dar el golpe ante Francia en el Stade France de París",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/9408b5270a8e90711ebfff220fc5a9e3/adjuntos/203/imagenes/103/544/0103544746/incendio-shopping-del-siglo.jpg",
         "summary": "Los bomberos lograron apagar las llamas luego de la denuncia de un vigilador, mientras el centro comercial estaba cerrado",
         "pubDate": "2026-11-21T12:49:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Vélez eliminó a Belgrano y es el primer clasificado a cuartos de final del torneo Clausura",
-        "link": "https://www.lacapital.com.ar/ovacion/velez-elimino-belgrano-y-es-el-primer-clasificado-cuartos-final-del-torneo-clausura-n10293440.html",
-        "image": "https://media.lacapital.com.ar/p/086b415a9d4ee0c0f124fe8b82179f04/adjuntos/203/imagenes/103/544/0103544732/1200x675/smart/image-2026-11-21t075614374.png",
-        "summary": "Con una heroica actuación de Tomás Marchiori en el desempate por penales, el Fortín se clasificó y espera a Argentinos Juniors o Independiente",
-        "pubDate": "2026-11-21T12:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Crimen en la zona sudoeste: falleció un hombre internado por un balazo en la cabeza",
-        "link": "https://www.lacapital.com.ar/policiales/crimen-la-zona-sudoeste-fallecio-un-hombre-internado-un-balazo-la-cabeza-n10293438.html",
-        "image": "https://media.lacapital.com.ar/p/52c955ba98bbb97a96c95f9c18d78671/adjuntos/203/imagenes/102/512/0102512199/1200x675/smart/heca-06jpg.jpg",
-        "summary": "Pablo Vega tenía 46 años y fue atendido en el Heca. Su muerte se confirmó horas después de la denuncia y el operativo policial",
-        "pubDate": "2026-11-21T11:41:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Alvarado y Los Monos, cercanos en la nueva generación: \"Decile a tu viejo que cuente conmigo\"",
-        "link": "https://www.lacapital.com.ar/policiales/alvarado-y-los-monos-cercanos-la-nueva-generacion-decile-tu-viejo-que-cuente-conmigo-n10293353.html",
-        "image": "https://media.lacapital.com.ar/p/b1898546a667f2d5cdfefc9d7b1bd2d6/adjuntos/203/imagenes/103/544/0103544213/1200x675/smart/santinoalvarado-luchocantero.jpeg",
-        "summary": "En la nueva causa a Esteban Alvarado y su banda surgen conversaciones entre su hijo Santino y Lucho Cantero, hijo del Pájaro, con señales de amistad y acuerdos",
-        "pubDate": "2026-11-21T11:30:00+00:00",
         "approxTime": false
       }
     ]
