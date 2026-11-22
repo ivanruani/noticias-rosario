@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T16:01:07.994663+00:00",
+  "generatedAt": "2026-11-22T16:31:05.200424+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El nuevo hotel Howard Johnson se prepara para cortar cintas en Rosario: cómo serán sus instalaciones",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-nuevo-hotel-howard-johnson-se-prepara-cortar-cintas-rosario-como-seran-sus-instalaciones-n10293615.html",
+        "image": "https://media.lacapital.com.ar/p/1801094da0becd7d8d23259342914790/adjuntos/203/imagenes/103/546/0103546544/1200x675/smart/hotel-howard-johnson-rosario-plaza-0.jpg",
+        "summary": "El emprendimiento de Oroño y Circunvalación abrirá sus puertas el próximo viernes: 96 habitaciones, piscina y cancha de pádel",
+        "pubDate": "2026-11-22T16:24:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Santa Fe suma atractivos: En lo que va del año, el turismo dejó $ 774 mil millones en ingresos en la provincia",
         "link": "https://www.lacapital.com.ar/la-ciudad/santa-fe-suma-atractivos-lo-que-va-del-ano-el-turismo-dejo-774-mil-millones-ingresos-la-provincia-n10293608.html",
         "image": "https://media.lacapital.com.ar/p/67b8a98041e6f850f3064612aad56bef/adjuntos/203/imagenes/103/546/0103546479/1200x675/smart/turismos-santa-fe.jpg",
@@ -262,15 +271,6 @@
         "link": "https://www.lacapital.com.ar/la-ciudad/tres-intoxicaciones-masivas-que-marcaron-los-30-anos-del-instituto-del-alimento-rosario-n10293155.html",
         "image": "https://media.lacapital.com.ar/p/17f8f610f759b4821b3c953b3c4aa67f/adjuntos/203/imagenes/103/541/0103541971/1200x675/smart/69363040-1.jpg",
         "summary": "Los tres episodios sucedieron en los últimos diez años y tienen que ver con cenas aniversario, despedidas y graduaciones. Todas ocurrieron en el mes de diciembre y el calor fue fundamental",
-        "pubDate": "2026-11-22T09:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El Niño se hace sentir fuerte en la isla frente a Rosario",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-nino-se-hace-sentir-fuerte-la-isla-frente-rosario-n10293549.html",
-        "image": "https://media.lacapital.com.ar/p/68fe6c80cae12c2d9726bce2dad7e884/adjuntos/203/imagenes/103/545/0103545891/1200x675/smart/82889351jpegthumb.jpg",
-        "summary": "Familias de El Espinillo necesitan elevar las viviendas ya que el terreno está anegado. Además, faltan víveres porque la pesca escasea",
         "pubDate": "2026-11-22T09:30:00+00:00",
         "approxTime": false
       }
