@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-21T23:30:54.678404+00:00",
+  "generatedAt": "2026-11-22T00:01:03.092727+00:00",
   "sites": {
     "rosario3": [
       {
         "source": "Rosario3",
-        "title": "Alerta meteorológico por tormentas fuertes para Rosario y la región: advierten por lluvias intensas y posible granizo",
-        "link": "https://www.rosario3.com/informaciongeneral/alerta-meteorologico-por-tormentas-fuertes-para-rosario-y-la-region-advierten-por-lluvias-intensas-y-posible-granizo-20261121-0028.html",
-        "image": "https://www.rosario3.com/__export/1791380182964/sites/rosario3/img/2026/10/07/tormenton1_2.jpg_928314581.jpg",
-        "summary": "El aviso fue difundido este sábado por la noche y alcanza a los departamentos Rosario, San Lorenzo, Iriondo y Constitución, entre otros. Prevén precipitaciones abundantes en períodos cortos, ráfagas de viento y actividad eléctrica. La vigencia estimada es de entre 30 minutos y…",
+        "title": "Agentes federales detuvieron a la presunta líder de una célula de narcomenudeo ligada a Los Monos",
+        "link": "https://www.rosario3.com/policiales/agentes-federales-detuvieron-a-la-presunta-lider-de-una-celula-de-narcomenudeo-ligada-a-los-monos-20261121-0023.html",
+        "image": "https://www.rosario3.com/__export/1795293592472/sites/rosario3/img/2026/11/21/allanamientos.jpg_2106848869.jpg",
+        "summary": "Efectivos de la División Unidad Operativa de Investigaciones Especiales de Rosario llevaron a cabo una serie de allanamientos en los barrios La Granada y Las Flores Norte en los que capturaron a Yamila O., cuñada de una hija del “Pájaro” Cantero. Durante los operativos también…",
         "pubDate": "2026-11-21T12:00:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Denuncian al titular de un Registro Automotor por evasión impositiva y no liquidar impuestos al Estado",
+        "link": "https://www.lacapital.com.ar/policiales/denuncian-al-titular-un-registro-automotor-evasion-impositiva-y-no-liquidar-impuestos-al-estado-n10293123.html",
+        "image": "https://media.lacapital.com.ar/p/316c5a110c1537d6a2b206870616d46c/adjuntos/203/imagenes/103/541/0103541753/1200x675/smart/ad.webp",
+        "summary": "La evasión fiscal es de 82 millones de pesos. El titular del Registro 12 ya no ejerce más su cargo pero el Estado dispuso recuperar los fondos",
+        "pubDate": "2026-11-21T23:41:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Abal Medina trajo a Rosario su nuevo libro sobre el PJ y planteó \"autocrítica y renovación\"",
         "link": "https://www.lacapital.com.ar/politica/abal-medina-trajo-rosario-su-nuevo-libro-el-pj-y-planteo-autocritica-y-renovacion-n10293525.html",
         "image": "https://media.lacapital.com.ar/p/2158bb20ab35f4b54ee9729756711355/adjuntos/203/imagenes/103/545/0103545757/1200x675/smart/abal-medina-2111.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/bc3a84fded5182c0520e3e0749c28c3b/adjuntos/203/imagenes/103/545/0103545528/1200x675/smart/image-3.jpg",
         "summary": "El equipo del presidente de la AFA, Claudio Chiqui Tapia, eliminó a Defensa y Justicia al derrotarlo por 1 a 0 en Florencio Varela",
         "pubDate": "2026-11-21T19:01:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Ante la alerta por tormentas, se suspende la Noche en mi Barrio en la zona oeste",
-        "link": "https://www.lacapital.com.ar/la-ciudad/ante-la-alerta-tormentas-se-suspende-la-noche-mi-barrio-la-zona-oeste-n10293502.html",
-        "image": "https://media.lacapital.com.ar/p/4776767676ea3dd84d81448898646767/adjuntos/203/imagenes/102/071/0102071222/1200x675/smart/lluviapng.png",
-        "summary": "La Municipalidad de Rosario suspendió el paseo comercial en barrio Belgrano previsto para este sábado 21 de noviembre sobre calle Mendoza",
-        "pubDate": "2026-11-21T18:37:00+00:00",
         "approxTime": false
       }
     ]
