@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T14:01:07.510656+00:00",
+  "generatedAt": "2026-11-22T14:30:56.681832+00:00",
   "sites": {
     "rosario3": [
       {
@@ -67,11 +67,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Detectaron en Argentina una nueva variante de Covid-19: cuáles son sus síntomas",
+        "link": "https://www.rosario3.com/informaciongeneral/detectaron-en-argentina-una-nueva-variante-de-covid-19-cuales-son-sus-sintomas-20261122-0010.html",
+        "image": "https://www.rosario3.com/__export/1795355723134/sites/rosario3/img/2026/11/22/covid.jpg_1825222445.jpg",
+        "summary": "Se identificaron tres casos del sublinaje PJ.2.1, descendiente de Ómicron, en pacientes internados en hospitales de Buenos Aires. La OMS lo mantiene bajo vigilancia y considera que el riesgo para la salud pública es bajo, aunque advierte que todavía faltan datos para determinar…",
+        "pubDate": "2026-11-22T11:53:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Se abrió la preinscripción a las colonias de verano municipales para adultos mayores",
         "link": "https://www.rosario3.com/informaciongeneral/se-abrio-la-preinscripcion-a-las-colonias-de-verano-municipales-para-adultos-mayores-20261122-0009.html",
         "image": "https://www.rosario3.com/__export/1795355615976/sites/rosario3/img/2026/11/22/adultos_mayores_version1795355615462.jpg_54252875.jpg",
         "summary": "La primera etapa requiere completar un formulario de preinscripción online cuyo plazo vence el miércoles 2 de diciembre. La inscripción definitiva será presencial en el espacio elegido, los días 9, 10 y 11 de diciembre, de 9 a 11. Las actividades en predios municipales, clubes y…",
-        "pubDate": "2026-11-22T11:53:00+00:00",
+        "pubDate": "2026-11-22T11:52:00+00:00",
         "approxTime": true
       },
       {
@@ -80,7 +89,7 @@
         "link": "https://www.rosario3.com/deportes/del-susto-a-la-broma-paredes-hablo-de-la-descompensacion-que-sufrio-tras-la-coronacion-de-boca-en-la-copa-sudamericana-20261122-0007.html",
         "image": "https://www.rosario3.com/__export/1795354437038/sites/rosario3/img/2026/11/22/paredes.jpg_54252853.jpg",
         "summary": "El capitán del Xeneize tuvo que ser trasladado a un centro de salud luego de perder el conocimiento en la zona mixta, luego de la victoria por 2-0 ante Atlético Mineiro. Qué pasó",
-        "pubDate": "2026-11-22T11:52:00+00:00",
+        "pubDate": "2026-11-22T11:51:00+00:00",
         "approxTime": true
       },
       {
@@ -89,7 +98,7 @@
         "link": "https://www.rosario3.com/deportes/colapinto-celebro-su-sexto-puesto-en-las-vegas-es-lindo-pelear-con-los-equipos-de-adelante-20261122-0006.html",
         "image": "https://www.rosario3.com/__export/1795353307259/sites/rosario3/img/2026/11/22/colapinto2.jpg_1825222445.jpg",
         "summary": "El piloto argentino sumó ocho puntos, igualó su mejor resultado de la temporada y destacó la experiencia de competir contra las principales escuderías",
-        "pubDate": "2026-11-22T11:51:00+00:00",
+        "pubDate": "2026-11-22T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -98,15 +107,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/noche-en-mi-barrio-belgrano-llega-este-domingo-tras-la-suspension-por-mal-tiempo-20261122-0005.html",
         "image": "https://www.rosario3.com/__export/1795351461585/sites/rosario3/img/2026/11/22/noche_en_mi_barrio.jpg_1825222467.jpg",
         "summary": "La actividad se realizará de 19 a 23 en calle Mendoza, entre Perú y Solís, con música en vivo, ferias, propuestas gastronómicas y comercios abiertos. Los cortes de tránsito comenzarán a las 18 y habrá desvíos en varias líneas de colectivos",
-        "pubDate": "2026-11-22T11:50:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El Papa pidió a gobernantes de países en guerra que se comprometan a encontrar la paz",
-        "link": "https://www.rosario3.com/informaciongeneral/el-papa-pidio-a-gobernantes-de-paises-en-guerra-que-se-comprometan-a-encontrar-la-paz-20261122-0003.html",
-        "image": "https://www.rosario3.com/__export/1795349842447/sites/rosario3/img/2026/11/22/el_papa.jpg_1825222445.jpg",
-        "summary": "Luego de su gira por América Latina, León XVI rezó este domingo el Ángelus dominical asomado a la Plaza de San Pedro",
         "pubDate": "2026-11-22T11:49:00+00:00",
         "approxTime": true
       },
@@ -121,20 +121,20 @@
       },
       {
         "source": "Rosario3",
-        "title": "Wanda Nara contó cómo logró el rotundo cambio de su cuerpo: \"Camino entre 12 y 14 km\"",
-        "link": "https://www.rosario3.com/ocio/wanda-nara-conto-como-logro-el-rotundo-cambio-de-su-cuerpo-camino-entre-12-y-14-km-20261122-0008.html",
-        "image": "https://www.rosario3.com/__export/1795354507355/sites/rosario3/img/2026/10/22/wanda_nara.jpg_54251950.jpg",
-        "summary": "La conductora puso el foco en el cuidado de la salud y explicó que sale a caminar todos los días y usa botas para el drenaje linfático",
+        "title": "Barrio Belgrano tiene su circuito turístico: cuáles son las diez postas que lo integran",
+        "link": "https://www.rosario3.com/informaciongeneral/barrio-belgrano-tiene-su-circuito-turistico-cuales-son-las-diez-postas-que-lo-integran-20261122-0013.html",
+        "image": "https://www.rosario3.com/__export/1795357453630/sites/rosario3/img/2026/11/22/barrio_belgrano_version1795357453172.jpg_734311245.jpg",
+        "summary": "En el marco de la celebración de los 135 años de su origen, el municipio presentó un recorrido por los lugares emblemáticos del barrio de la zona oeste de Rosario. El circuito puede realizarse por cuenta propia. Es abierto, gratuito y cuenta con su audioguía",
         "pubDate": "2026-11-22T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "La marea roja que camina: 100 millones de cangrejos inundan la Isla de Navidad rumbo al mar",
-        "link": "https://www.rosario3.com/informaciongeneral/la-marea-roja-que-camina-100-millones-de-cangrejos-inundan-la-isla-de-navidad-rumbo-al-mar-20261120-0040.html",
-        "image": "https://www.rosario3.com/__export/1795193087169/sites/rosario3/img/2026/11/20/cangrejos.png_786111822.png",
-        "summary": "Con la llegada de las primeras lluvias en Australia, una alfombra viva de crustáceos bajó del bosque a la costa para reproducirse. Cruzan rutas, puentes y patios, guiados por la luna, en una de las migraciones más espectaculares del planeta. Mirá",
-        "pubDate": "2026-11-20T11:46:00+00:00",
+        "title": "Wanda Nara contó cómo logró el rotundo cambio de su cuerpo: \"Camino entre 12 y 14 km\"",
+        "link": "https://www.rosario3.com/ocio/wanda-nara-conto-como-logro-el-rotundo-cambio-de-su-cuerpo-camino-entre-12-y-14-km-20261122-0008.html",
+        "image": "https://www.rosario3.com/__export/1795354507355/sites/rosario3/img/2026/10/22/wanda_nara.jpg_54251950.jpg",
+        "summary": "La conductora puso el foco en el cuidado de la salud y explicó que sale a caminar todos los días y usa botas para el drenaje linfático",
+        "pubDate": "2026-11-22T11:46:00+00:00",
         "approxTime": true
       }
     ],
