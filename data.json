@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-11-22T20:30:54.936420+00:00",
+  "generatedAt": "2026-11-22T21:01:04.212682+00:00",
   "sites": {
     "rosario3": [
       {
         "source": "Rosario3",
-        "title": "Central golea a Gimnasia de Mendoza, acaricia los cuartos y termina con Di María y Ruben en cancha",
+        "title": "Central pasó por arriba a Gimnasia de Mendoza, está en cuartos y sueña con el título",
         "link": "https://www.rosario3.com/deportes/rosario-central-pone-primera-en-los-playoffs-recibe-a-gimnasia-de-mendoza-con-la-ilusion-de-pelear-por-el-clausura-20261121-0026.html",
-        "image": "https://www.rosario3.com/__export/1795376394357/sites/rosario3/img/2026/11/22/campaz_central_gimnasia.jpg_506286608.jpg",
-        "summary": "El Canalla se impone con goles de Jaminton Campaz, Enzo Copetti y Lautaro Carrera (en contra), todos en el primer tiempo. Con Di María entre los suplentes, aparece de titular Franco Cervi, mientras que Juan Giménez reemplaza en la defensa a Gastón Ávila. Leandro Rey Hilfer es el…",
+        "image": "https://www.rosario3.com/__export/1795380760863/sites/rosario3/img/2026/11/22/central_gimnasia.jpg_506286608.jpg",
+        "summary": "El Canalla se impuso 3-1 este domingo en el Gigante de Arroyito con goles de Jaminton Campaz, Enzo Copetti y Lautaro Carrera (en contra), todos en la etapa inicial. Facundo Lencioni descontó para el Lobo. Ángel Di María fue suplente y entró en el complemento. El próximo rival…",
         "pubDate": "2026-11-21T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "No comenzó el verano pero sí los accidentes en dunas de la Costa: dos adolescentes heridos",
+        "link": "https://www.rosario3.com/informaciongeneral/no-comenzo-el-verano-pero-si-los-accidentes-en-dunas-de-la-costa-dos-adolescentes-heridos-20261122-0031.html",
+        "image": "https://www.rosario3.com/__export/1795380860280/sites/rosario3/img/2026/11/22/pinamar.jpg_385091073.jpg",
+        "summary": "Tienen 16 y 19 años y volcaron con un vehículo todoterreno UTV en la zona de médanos de La Frontera, en Pinamar, este fin de semana largo. Circulaban sin casco ni elementos de protección. Fueron hospitalizados con lesiones leves",
+        "pubDate": "2026-11-22T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,15 +26,6 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/run-run-pininfarina-ya-tiene-quien-le-construya-en-rosario-aguas-deja-de-comprarle-a-la-epe-y-corren-a-funcionaria-que-pisaba-loteos-20261122-0018.html",
         "image": "https://www.rosario3.com/__export/1795365754617/sites/rosario3/img/2026/11/22/farineta.jpg_1067613746.jpg",
         "summary": "Además: asoman dos modelos bien distintos para quedarse con Sancor, la pelea judicial por Damfield no está terminada, las viudas y los huérfanos de Villavicencio en Grupo Oroño, apuntan a Crucijuegos por incumplimiento en Alto Rosario, golpe a golpe en Inalpa, el dilema de…",
-        "pubDate": "2026-11-22T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Cortan cintas, apagan fábricas: la semana en que Rosario se vende por partes | Ecos365",
-        "link": "https://www.rosario3.com/ecos365/noticias/cortan-cintas-apagan-fabricas-la-semana-en-que-rosario-se-vende-por-partes-20261122-0001.html",
-        "image": "https://www.rosario3.com/__export/1795350443032/sites/rosario3/img/2026/11/22/swiss_medical_recibe_llaves_de_grupo_oroxo_crop1795350406476.png_1126084916.png",
-        "summary": "Swiss Medical ya manda en Oroño y clínicas, droguerías y laboratorios esperan cambios. La Gallega abre su centro comercial en Funes, el Senado abre la puerta a las patentes internacionales y Santa Fe baja impuestos por tercer año. Y el dólar se despierta",
         "pubDate": "2026-11-22T11:58:00+00:00",
         "approxTime": true
       },
@@ -40,11 +40,29 @@
       },
       {
         "source": "Rosario3",
+        "title": "El doble sobrepaso de Colapinto a los McLaren que causó furor en Las Vegas",
+        "link": "https://www.rosario3.com/deportes/el-doble-sobrepaso-de-colapinto-a-los-mclaren-que-causo-furor-en-las-vegas-20261122-0030.html",
+        "image": "https://www.rosario3.com/__export/1795380210936/sites/rosario3/img/2026/11/22/colapinto2_1.jpg_1624404594.jpg",
+        "summary": "El piloto argentino de Alpine superó en simultáneo a Lando Norris y Oscar Piastri durante la vuelta 12 del Gran Premio estadounidense. Tras la maniobra que se viralizó en redes, cerró la carrera en el sexto lugar e igualó su mejor actuación histórica en la máxima categoría",
+        "pubDate": "2026-11-22T11:56:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "La selección argentina sub 17 se levantó con un triunfo sobre  Mozambique",
+        "link": "https://www.rosario3.com/deportes/la-seleccion-argentina-sub-17-se-levanto-con-un-triunfo-sobre--mozambique-20261122-0027.html",
+        "image": "https://www.rosario3.com/__export/1795379266011/sites/rosario3/img/2026/11/22/sub17.jpg_742305018.jpg",
+        "summary": "El equipo de Placente logró su primer triunfo en el Mundial de Qatar: se impuso 2-1 con goles de Machuca y Escobar, tras haber caído en el debut. Definirá su clasificación el miércoles ante Dinamarca",
+        "pubDate": "2026-11-22T11:55:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Brasil luego del ballotage: una economía que condiciona el poder de Lula",
         "link": "https://www.rosario3.com/politica/brasil-luego-del-ballotage-una-economia-que-condiciona-el-poder-de-lula-20261121-0003.html",
         "image": "https://www.rosario3.com/__export/1795349106818/sites/rosario3/img/2026/11/22/lula.jpg_1825222445.jpg",
         "summary": "El deterioro fiscal, el peso de los intereses de la deuda y una oposición fortalecida en el Congreso reducen el margen de maniobra de Lula. Deberá compatibilizar su agenda social con la estabilidad económica, en un contexto internacional menos favorable que el de sus primeros…",
-        "pubDate": "2026-11-21T11:56:00+00:00",
+        "pubDate": "2026-11-21T11:54:00+00:00",
         "approxTime": true
       },
       {
@@ -53,7 +71,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/la-cumbre-del-clima-cop31-termino-sin-consenso-y-no-habra-un-nuevo-acuerdo-global-20261122-0012.html",
         "image": "https://www.rosario3.com/__export/1795357524143/sites/rosario3/img/2026/11/22/antalya.jpg_1825222445.jpg",
         "summary": "Las negociaciones en Antalya quedaron trabadas por la falta de respaldo al documento impulsado por la presidencia turco-australiana, en un nuevo episodio de dificultades para la cooperación internacional frente al cambio climático",
-        "pubDate": "2026-11-22T11:55:00+00:00",
+        "pubDate": "2026-11-22T11:53:00+00:00",
         "approxTime": true
       },
       {
@@ -62,7 +80,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/detectaron-en-argentina-una-nueva-variante-de-covid-19-cuales-son-sus-sintomas-20261122-0010.html",
         "image": "https://www.rosario3.com/__export/1795355723134/sites/rosario3/img/2026/11/22/covid.jpg_1825222445.jpg",
         "summary": "Se identificaron tres casos del sublinaje PJ.2.1, descendiente de Ómicron, en pacientes internados en hospitales de Buenos Aires. La OMS lo mantiene bajo vigilancia y considera que el riesgo para la salud pública es bajo, aunque advierte que todavía faltan datos para determinar…",
-        "pubDate": "2026-11-22T11:54:00+00:00",
+        "pubDate": "2026-11-22T11:52:00+00:00",
         "approxTime": true
       },
       {
@@ -71,7 +89,7 @@
         "link": "https://www.rosario3.com/deportes/del-susto-a-la-broma-paredes-hablo-de-la-descompensacion-que-sufrio-tras-la-coronacion-de-boca-en-la-copa-sudamericana-20261122-0007.html",
         "image": "https://www.rosario3.com/__export/1795354437038/sites/rosario3/img/2026/11/22/paredes.jpg_54252853.jpg",
         "summary": "El capitán del Xeneize tuvo que ser trasladado a un centro de salud luego de perder el conocimiento en la zona mixta, luego de la victoria por 2-0 ante Atlético Mineiro. Qué pasó",
-        "pubDate": "2026-11-22T11:53:00+00:00",
+        "pubDate": "2026-11-22T11:51:00+00:00",
         "approxTime": true
       },
       {
@@ -80,7 +98,7 @@
         "link": "https://www.rosario3.com/deportes/colapinto-celebro-su-sexto-puesto-en-las-vegas-es-lindo-pelear-con-los-equipos-de-adelante-20261122-0006.html",
         "image": "https://www.rosario3.com/__export/1795353307259/sites/rosario3/img/2026/11/22/colapinto2.jpg_1825222445.jpg",
         "summary": "El piloto argentino sumó ocho puntos, igualó su mejor resultado de la temporada y destacó la experiencia de competir contra las principales escuderías",
-        "pubDate": "2026-11-22T11:52:00+00:00",
+        "pubDate": "2026-11-22T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -89,7 +107,7 @@
         "link": "https://www.rosario3.com/deportes/los-pumas-mostraron-dos-caras-en-paris-y-cayeron-ante-francia-en-el-cierre-del-nations-championship-20261122-0023.html",
         "image": "https://www.rosario3.com/__export/1795369132446/sites/rosario3/img/2026/11/22/los_pumas_2_version1795369132000.jpg_1466170194.jpg",
         "summary": "Tras un primer tiempo muy parejo y disciplinado, en el que llegó a estar arriba en el marcador, el seleccionado argentino de rugby sufrió el rigor físico y los errores en el complemento. Les Bleus que lograron un contundente 45 a 17 y sellaron su pase a la final. El head coach…",
-        "pubDate": "2026-11-22T11:51:00+00:00",
+        "pubDate": "2026-11-22T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -98,7 +116,7 @@
         "link": "https://www.rosario3.com/ocio/el-circulo-presento-su-temporada-de-abonos-2027-grandes-orquestas-opera-y-ballet-internacional-20261122-0017.html",
         "image": "https://www.rosario3.com/__export/1795364569273/sites/rosario3/img/2026/11/22/el_circulo_version1795364568803.jpg_54252875.jpg",
         "summary": "La programación incluirá 13 funciones con destacados elencos y formaciones de Europa y América. “Es un lujo para Rosario y una oportunidad para disfrutar de lo mejor que viene de la Argentina y del mundo”, destacó a Rosario3, Guido Martínez Carbonell, presidente de la Comisión…",
-        "pubDate": "2026-11-22T11:50:00+00:00",
+        "pubDate": "2026-11-22T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -107,7 +125,7 @@
         "link": "https://www.rosario3.com/politica/reforma-electoral-ni-oficialista-ni-opositora-que-el-sistema-sea-mas-democratico-y-participativo-20261120-0045.html",
         "image": "https://www.rosario3.com/__export/1795207359534/sites/rosario3/img/2026/11/20/tullio.jpg_982625323.jpg",
         "summary": "El ex director nacional electoral, Alejandro Tullio, repasó los cambios que el Senado aprobará el próximo jueves. Se mostró a favor de modificar las PASO, la Ficha Limpia, la boleta única papel para cuando haya simultaneidad de elecciones y la no obligatoriedad del debate…",
-        "pubDate": "2026-11-20T11:49:00+00:00",
+        "pubDate": "2026-11-20T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -116,24 +134,6 @@
         "link": "https://www.rosario3.com/deportes/liverpool-goleo-4-0-al-manchester-united-y-arruino-el-debut-de-pochettino-20261122-0026.html",
         "image": "https://www.rosario3.com/__export/1795377020318/sites/rosario3/img/2026/11/22/pochettino_mac_allister.jpg_2138234793.jpg",
         "summary": "El clásico inglés se resolvió en los primeros diez minutos con una expulsión visitante y dos goles seguidos en Anfield. Con Alexis Mac Allister y Lisandro Martínez en cancha, los Reds se acomodaron en zona de Champions y hundieron a los Red Devils en puestos de descenso",
-        "pubDate": "2026-11-22T11:48:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La emoción de Catherine Fulop al ver a su nieta gatear por videollamada: \"Me saltan las lágrimas\"",
-        "link": "https://www.rosario3.com/ocio/la-emocion-de-catherine-fulop-al-ver-a-su-nieta-gatear-por-videollamada-me-saltan-las-lagrimas-20261122-0021.html",
-        "image": "https://www.rosario3.com/__export/1790111178202/sites/rosario3/img/2025/06/29/fulop.jpg_1825222469.jpg",
-        "summary": "La actriz mostró cómo acortan distancias con Gia y compartió un íntimo momento con la hija de Oriana Sabatini y Paulo Dybala",
-        "pubDate": "2026-11-22T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Escándalo por trampas con IA en exámenes universitarios: renunció el ministro de Educación de Corea del Sur",
-        "link": "https://www.rosario3.com/educacion/escandalo-por-trampas-con-ia-en-examenes-universitarios-renuncio-el-ministro-de-educacion-de-corea-del-sur-20261122-0020.html",
-        "image": "https://www.rosario3.com/__export/1795365993149/sites/rosario3/img/2026/11/22/coread.jpg_1825222445.jpg",
-        "summary": "Las autoridades detectaron 111 infracciones durante la prueba de ingreso a la universidad, en medio de controles extraordinarios que incluyeron inspecciones de anteojos, ropa y teléfonos celulares",
         "pubDate": "2026-11-22T11:46:00+00:00",
         "approxTime": true
       }
@@ -141,20 +141,29 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "En vivo: Central fue una tromba, goleó al Lobo mendocino y jugará con Barracas en cuartos",
+        "link": "https://www.lacapital.com.ar/ovacion/en-vivo-central-fue-una-tromba-goleo-al-lobo-mendocino-y-jugara-barracas-cuartos-n10293621.html",
+        "image": "https://media.lacapital.com.ar/p/4fb461e3420cfcde96c0b151b9b801ab/adjuntos/203/imagenes/103/546/0103546698/bicho.jpg",
+        "summary": "El Canalla pasó por arriba a Gimnasia de Mendoza en el Gigante de Arroyito y se metió en cuartos de final de los playoffs del Clausura",
+        "pubDate": "2026-11-22T20:59:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Crecida del río Paraná en Rosario: llegó este domingo a solo 9 centímetros del nivel de alerta",
+        "link": "https://www.lacapital.com.ar/la-ciudad/crecida-del-rio-parana-rosario-llego-este-domingo-solo-9-centimetros-del-nivel-alerta-n10293634.html",
+        "image": "https://media.lacapital.com.ar/p/bbdc15904359e21628e850b849e294eb/adjuntos/203/imagenes/103/546/0103546761/1200x675/smart/imagerio.jpg",
+        "summary": "El río alcanzó los 4,91 metros y registra su mayor altura para noviembre desde 1998. El Instituto Nacional del Agua prevé que podría llegar a los 5 metros este martes. La creciente arrastra camalotes y obliga a extremar las precauciones en la navegación.",
+        "pubDate": "2026-11-22T20:43:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Santa Fe tiene el mayor índice de repitencia escolar del país: el 15,8% de los alumnos no pasan de año",
         "link": "https://www.lacapital.com.ar/santa-fe-tiene-el-mayor-indice-repitencia-escolar-del-pais-el-158-los-alumnos-no-pasan-ano-n10293622.html",
         "image": "https://media.lacapital.com.ar/p/b5f3e1e832f8162587e298636ccdcfd3/adjuntos/203/imagenes/103/546/0103546710/1200x675/smart/imagerepi.jpg",
         "summary": "Un informe de la Fundación Libertad reveló que la provincia también registra una de las tasas más altas de abandono escolar en el nivel secundario.",
         "pubDate": "2026-11-22T19:25:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "En vivo: Central es una tromba y golea al Lobo mendocino en busca del pasaje a cuartos",
-        "link": "https://www.lacapital.com.ar/ovacion/en-vivo-central-es-una-tromba-y-golea-al-lobo-mendocino-busca-del-pasaje-cuartos-n10293621.html",
-        "image": "https://media.lacapital.com.ar/p/4fb461e3420cfcde96c0b151b9b801ab/adjuntos/203/imagenes/103/546/0103546698/bicho.jpg",
-        "summary": "El Canalla juega a todo o nada ante Gimnasia de Mendoza en el Gigante de Arroyito en busca de pasar de ronda en los playoffs del Clausura",
-        "pubDate": "2026-11-22T18:54:00+00:00",
         "approxTime": false
       },
       {
@@ -262,15 +271,6 @@
         "link": "https://www.lacapital.com.ar/negocios/el-negocio-detras-la-malta-la-apuesta-ccu-y-boortmalt-ganar-mercado-n10292727.html",
         "image": "https://media.lacapital.com.ar/p/4813c231ce3ebdc46d359a39548f189b/adjuntos/203/imagenes/103/543/0103543567/juan-pablo-barrale-horizontal.jpeg",
         "summary": "Las empresas CCU y Boortmalt impulsan el desarrollo de variedades de cebada y prácticas sustentables en Santa Fe. Las innovaciones que se vienen en cervezas",
-        "pubDate": "2026-11-22T11:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El Teatro El Círculo presentó su temporada 2027",
-        "link": "https://www.lacapital.com.ar/zoom/el-teatro-el-circulo-presento-su-temporada-2027-n10293508.html",
-        "image": "https://media.lacapital.com.ar/p/0d7aaf9a1c41cc1655ae709ae76320bd/adjuntos/203/imagenes/103/545/0103545410/1200x675/smart/image-2026-11-21t164908693.jpg",
-        "summary": "La histórica sala de la ciudad anunció las nueve funciones que formarán parte del abono del año próximo: habrá conciertos, óperas y galas de ballet de primer nivel",
         "pubDate": "2026-11-22T11:00:00+00:00",
         "approxTime": false
       }
