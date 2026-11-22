@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T01:30:55.336123+00:00",
+  "generatedAt": "2026-11-22T02:01:03.607071+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Flavio Briatore metió ruido sobre el futuro de Franco Colapinto, pero ¿hay que preocuparse?",
+        "link": "https://www.lacapital.com.ar/ovacion/flavio-briatore-metio-ruido-el-futuro-franco-colapinto-pero-hay-que-preocuparse-n10293564.html",
+        "image": "https://media.lacapital.com.ar/p/089a32749f270c97d38e9d42d31f91ca/adjuntos/203/imagenes/103/546/0103546051/1200x675/smart/image-10.jpg",
+        "summary": "Las palabras del capo de Alpine a un medio italiano otra vez parecieron sembrar dudas sobre el argentino, pero también apuntó a Pierre Gasly, Interpretaciones",
+        "pubDate": "2026-11-22T01:41:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Nations Championship: Los Pumas dejaron un mala imagen en el cierre ante Francia en París",
+        "link": "https://www.lacapital.com.ar/ovacion/nations-championship-los-pumas-dejaron-un-mala-imagen-el-cierre-francia-paris-n10293547.html",
+        "image": "https://media.lacapital.com.ar/p/65e60b140b853bb8079d3b0cc26ed5e2/adjuntos/203/imagenes/103/545/0103545965/1200x675/smart/image-9.jpg",
+        "summary": "La selección argentina de rugby no dio la talla en el Stade de París, quedó cuarta en su grupo y ahora definirá con Escocia",
+        "pubDate": "2026-11-22T01:38:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Dólar, deuda y nivel de actividad: qué viene con el riesgo país en mil puntos",
         "link": "https://www.lacapital.com.ar/economia/dolar-deuda-y-nivel-actividad-que-viene-el-riesgo-pais-mil-puntos-n10293536.html",
         "image": "https://media.lacapital.com.ar/p/7946995123275308ba6096636fc22256/adjuntos/203/imagenes/101/322/0101322779/2024-01-10-caputojpg.jpg",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/bb537f180db88504783e1455704f94f4/adjuntos/203/imagenes/100/106/0100106711/2022-06-27-tarjeta-subejpg.jpg",
         "summary": "Los jubilados pueden acceder a una tarifa con descuento para viajar en colectivo. Los detalles del trámite, en esta nota",
         "pubDate": "2026-11-21T19:50:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Encontraron en Granadero Baigorria el cuerpo del joven que fue arrastrado por el río en San Lorenzo",
-        "link": "https://www.lacapital.com.ar/encontraron-granadero-baigorria-el-cuerpo-del-joven-que-fue-arrastrado-el-rio-ensan-lorenzo-n10293513.html",
-        "image": "https://media.lacapital.com.ar/p/03ba84ddadafb6bc7652d548ee7faec4/adjuntos/203/imagenes/103/545/0103545435/1200x675/smart/nahuel-gonzalez-rio-parana-san-lorenzo-2111.jpg",
-        "summary": "Nahuel González, de 25 años, era buscado desde el miércoles cuando sus amigos denunciaron su desaparición cerca del Campo de la Gloria",
-        "pubDate": "2026-11-21T19:48:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Tres recomendaciones para ver en plataformas de streaming este fin de semana largo",
-        "link": "https://www.lacapital.com.ar/zoom/tres-recomendaciones-ver-plataformas-streaming-este-fin-semana-largo-n10293383.html",
-        "image": "https://media.lacapital.com.ar/p/d3bbd2557060b1a73be79ec9f728a745/adjuntos/203/imagenes/103/544/0103544381/1200x675/smart/image-2.png",
-        "summary": "Producciones de drama, thriller y romance que las distintas plataformas de streaming acaban de sumar a sus catálogos",
-        "pubDate": "2026-11-21T19:34:00+00:00",
         "approxTime": false
       }
     ]
