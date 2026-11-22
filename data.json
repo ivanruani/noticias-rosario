@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T12:01:06.690477+00:00",
+  "generatedAt": "2026-11-22T12:30:58.559664+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,11 +13,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Brasil luego del ballotage: una economía que condiciona el poder de Lula",
+        "link": "https://www.rosario3.com/politica/brasil-luego-del-ballotage-una-economia-que-condiciona-el-poder-de-lula-20261121-0003.html",
+        "image": "https://www.rosario3.com/__export/1795349106818/sites/rosario3/img/2026/11/22/lula.jpg_1825222445.jpg",
+        "summary": "El deterioro fiscal, el peso de los intereses de la deuda y una oposición fortalecida en el Congreso reducen el margen de maniobra de Lula. Deberá compatibilizar su agenda social con la estabilidad económica, en un contexto internacional menos favorable que el de sus primeros…",
+        "pubDate": "2026-11-21T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Domingo primaveral en Rosario y una semana con temperaturas en ascenso",
         "link": "https://www.rosario3.com/informaciongeneral/domingo-primaveral-en-rosario-y-una-semana-con-temperaturas-en-ascenso-20261122-0001.html",
         "image": "https://www.rosario3.com/__export/1795347343716/sites/rosario3/img/2026/11/22/clima.jpg_1825222445.jpg",
         "summary": "El Servicio Meteorológico anticipa una máxima de 28 grados para lo que resta de la jornada y registros superiores a los 30 desde el jueves. No se esperan nuevas precipitaciones al menos hasta el próximo sábado",
-        "pubDate": "2026-11-22T11:59:00+00:00",
+        "pubDate": "2026-11-22T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,25 +35,16 @@
         "link": "https://www.rosario3.com/politica/reforma-electoral-ni-oficialista-ni-opositora-que-el-sistema-sea-mas-democratico-y-participativo-20261120-0045.html",
         "image": "https://www.rosario3.com/__export/1795207359534/sites/rosario3/img/2026/11/20/tullio.jpg_982625323.jpg",
         "summary": "El ex director nacional electoral, Alejandro Tullio, repasó los cambios que el Senado aprobará el próximo jueves. Se mostró a favor de modificar las PASO, la Ficha Limpia, la boleta única papel para cuando haya simultaneidad de elecciones y la no obligatoriedad del debate…",
-        "pubDate": "2026-11-20T11:58:00+00:00",
+        "pubDate": "2026-11-20T11:57:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Confirmaron que el cuerpo hallado en el Paraná es el de Nahuel González, el joven desaparecido en San Lorenzo",
-        "link": "https://www.rosario3.com/informaciongeneral/confirmaron-que-el-cuerpo-hallado-en-el-parana-es-el-de-nahuel-gonzalez-el-joven-desaparecido-en-san-lorenzo-20261121-0025.html",
-        "image": "https://www.rosario3.com/__export/1795295205354/sites/rosario3/img/2026/11/21/nahuel.jpg_2106848869.jpg",
-        "summary": "Tras el reconocimiento y las actuaciones correspondientes con intervención en el Instituto Médico Legal, sus allegados lanzaron una colecta solidaria para reunir los fondos necesarios para trasladar sus restos desde Rosario hacia la capital provincial, de donde era oriundo el…",
-        "pubDate": "2026-11-21T11:57:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Boca Juniors es el campeón de la Copa Sudamericana: derrotó a Atlético Mineiro en Barranquilla y alcanzó la gloria",
-        "link": "https://www.rosario3.com/deportes/boca-se-enfrenta-este-sabado-con-atletico-mineiro-en-la-final-de-la-copa-sudamericana-a-que-hora-y-donde-verlo-en-vivo-20261121-0004.html",
-        "image": "https://www.rosario3.com/__export/1795303389228/sites/rosario3/img/2026/11/21/ascacibar.jpg_928314581.jpg",
-        "summary": "El equipo de Rodolfo Arruabarrena no dejó dudas y se impuso de principio a fin. Fue 2 a 0 en Barranquilla. Ascacibar abrió el partido en el primer tiempo y Merentiel metió la estocada final en el inicio del complemento",
-        "pubDate": "2026-11-21T11:56:00+00:00",
+        "title": "Fórmula 1: Franco Colapinto terminó sexto en Las Vegas y volvió a sumar puntos",
+        "link": "https://www.rosario3.com/deportes/formula-1-franco-colapinto-termino-sexto-en-las-vegas-y-volvio-a-sumar-puntos-20261122-0002.html",
+        "image": "https://www.rosario3.com/__export/1795348903202/sites/rosario3/img/2026/11/22/colapinto.jpg_1825222445.jpg",
+        "summary": "El piloto argentino igualó su mejor resultado en la categoría tras una carrera marcada por los sobrepasos, los incidentes y los cambios de posiciones. Max Verstappen se quedó con la victoria, mientras que Pierre Gasly finalizó quinto y Alpine sumó 18 puntos",
+        "pubDate": "2026-11-22T11:56:00+00:00",
         "approxTime": true
       },
       {
@@ -67,11 +67,47 @@
       },
       {
         "source": "Rosario3",
+        "title": "La Provincia tomó posesión de dos inmuebles en Rosario vinculados a una causa por estafas inmobiliarias",
+        "link": "https://www.rosario3.com/informaciongeneral/la-provincia-tomo-posesion-de-dos-inmuebles-en-rosario-vinculados-a-una-causa-por-estafas-inmobiliarias-20261122-0004.html",
+        "image": "https://www.rosario3.com/__export/1795350374675/sites/rosario3/img/2026/11/22/sf.jpeg_1825222445.jpeg",
+        "summary": "Se trata de un departamento ubicado en Cerrito al 600 y una cochera sobre calle Maipú. Ambos bienes serán incluidos en una próxima subasta, prevista entre marzo y mayo de 2027. El dinero recaudado se destinará a resarcir a las víctimas de la causa",
+        "pubDate": "2026-11-22T11:53:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "El Papa pidió a gobernantes de países en guerra que se comprometan a encontrar la paz",
+        "link": "https://www.rosario3.com/informaciongeneral/el-papa-pidio-a-gobernantes-de-paises-en-guerra-que-se-comprometan-a-encontrar-la-paz-20261122-0003.html",
+        "image": "https://www.rosario3.com/__export/1795349842447/sites/rosario3/img/2026/11/22/el_papa.jpg_1825222445.jpg",
+        "summary": "Luego de su gira por América Latina, León XVI rezó este domingo el Ángelus dominical asomado a la Plaza de San Pedro",
+        "pubDate": "2026-11-22T11:52:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "La Pastoral de Rosario reclamó la aprobación de la Ley de Ludopatía en el Senado: \"No puede demorarse más\"",
         "link": "https://www.rosario3.com/informaciongeneral/la-pastoral-de-rosario-reclamo-la-aprobacion-de-la-ley-de-ludopatia-en-el-senado-no-puede-demorarse-mas-20261121-0027.html",
         "image": "https://www.rosario3.com/__export/1795300490607/sites/rosario3/img/2026/11/21/apuestas.jpg_2106848869.jpg",
         "summary": "Desde la Pastoral Social de la Arquidiócesis local difundieron un comunicado dirigido a los senadores nacionales por la provincia de Santa Fe y a la ciudadanía santafesina de cara al debate de la iniciativa que tendrá lugar el próximo jueves 26 de noviembre, apenas cuatro días…",
-        "pubDate": "2026-11-21T11:53:00+00:00",
+        "pubDate": "2026-11-21T11:51:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Boca Juniors es el campeón de la Copa Sudamericana: derrotó a Atlético Mineiro en Barranquilla y alcanzó la gloria",
+        "link": "https://www.rosario3.com/deportes/boca-se-enfrenta-este-sabado-con-atletico-mineiro-en-la-final-de-la-copa-sudamericana-a-que-hora-y-donde-verlo-en-vivo-20261121-0004.html",
+        "image": "https://www.rosario3.com/__export/1795303389228/sites/rosario3/img/2026/11/21/ascacibar.jpg_928314581.jpg",
+        "summary": "El equipo de Rodolfo Arruabarrena no dejó dudas y se impuso de principio a fin. Fue 2 a 0 en Barranquilla. Ascacibar abrió el partido en el primer tiempo y Merentiel metió la estocada final en el inicio del complemento",
+        "pubDate": "2026-11-21T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Confirmaron que el cuerpo hallado en el Paraná es el de Nahuel González, el joven desaparecido en San Lorenzo",
+        "link": "https://www.rosario3.com/informaciongeneral/confirmaron-que-el-cuerpo-hallado-en-el-parana-es-el-de-nahuel-gonzalez-el-joven-desaparecido-en-san-lorenzo-20261121-0025.html",
+        "image": "https://www.rosario3.com/__export/1795295205354/sites/rosario3/img/2026/11/21/nahuel.jpg_2106848869.jpg",
+        "summary": "Tras el reconocimiento y las actuaciones correspondientes con intervención en el Instituto Médico Legal, sus allegados lanzaron una colecta solidaria para reunir los fondos necesarios para trasladar sus restos desde Rosario hacia la capital provincial, de donde era oriundo el…",
+        "pubDate": "2026-11-21T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -80,43 +116,7 @@
         "link": "https://www.rosario3.com/policiales/agentes-federales-detuvieron-a-la-presunta-lider-de-una-celula-de-narcomenudeo-ligada-a-los-monos-20261121-0023.html",
         "image": "https://www.rosario3.com/__export/1795293592472/sites/rosario3/img/2026/11/21/allanamientos.jpg_2106848869.jpg",
         "summary": "Efectivos de la División Unidad Operativa de Investigaciones Especiales de Rosario llevaron a cabo una serie de allanamientos en los barrios La Granada y Las Flores Norte en los que capturaron a Yamila O., cuñada de una hija del “Pájaro” Cantero. Durante los operativos también…",
-        "pubDate": "2026-11-21T11:52:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Murió el hombre baleado en la cara en su casa: investigan si el ataque tiene relación con una amenaza narco a su hijo",
-        "link": "https://www.rosario3.com/policiales/baleado-en-la-cara-en-su-casa-investigan-si-el-ataque-tiene-relacion-con-una-amenaza-narco-a-su-hijo-20261121-0015.html",
-        "image": "https://www.rosario3.com/__export/1795273538159/sites/rosario3/img/2026/07/20/heca.jpg_776569847.jpg",
-        "summary": "El hombre de 42 años permanecía en estado crítico en el Heca tras ser hallado con un disparo en la cabeza en una vivienda de Villa Gobernador Gálvez. Su hijo, que está detenido, había sido mencionado meses atrás en una pancarta intimidatoria colgada en una escuela de la ciudad",
-        "pubDate": "2026-11-21T11:51:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Torneo Clausura: Barracas eliminó a Defensa y se metió en cuartos con Central en el horizonte",
-        "link": "https://www.rosario3.com/deportes/torneo-clausura-barracas-elimino-a-defensa-y-se-metio-en-cuartos-con-central-en-el-horizonte-20261121-0022.html",
-        "image": "https://www.rosario3.com/__export/1795292502411/sites/rosario3/img/2026/11/21/00025010-00.jpg_928314580.jpg",
-        "summary": "El equipo de Damián Ayude venció 1-0 al Halcón en Florencio Varela, con un gol de Norberto Briasco. Ahora espera por el Canalla o por Gimnasia de Mendoza",
-        "pubDate": "2026-11-21T11:50:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El Tom Hagen de Alvarado: el abogado que habría desdibujado los límites de la defensa",
-        "link": "https://www.rosario3.com/policiales/el-tom-hagen-de-alvarado-el-abogado-que-habria-desdibujado-los-limites-de-la-defensa-20261121-0019.html",
-        "image": "https://www.rosario3.com/__export/1795289524212/sites/rosario3/img/2026/11/21/tavella.jpg_672794304.jpg",
-        "summary": "La acusación federal lo ubica como una pieza clave en la continuidad del emporio criminal tras la caída de Esteban Alvarado, con supuestas tareas de enlace, manejo de fondos y coordinación de defensas. El penalista, que ya fue condenado por delitos vinculados a la banda, volvió…",
-        "pubDate": "2026-11-21T11:49:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Así quedó la renovada avenida Jorge Newbery: cuatro kilómetros de obras, doble calzada y ciclovía",
-        "link": "https://www.rosario3.com/informaciongeneral/con-musica-en-vivo-y-exhibicion-de-turismo-carretera-inauguraran-la-avenida-newbery-20261117-0017.html",
-        "image": "https://www.rosario3.com/__export/1795260716784/sites/rosario3/img/2026/11/21/disen-o_sin_ti-tulo_-72-.png_928314581.png",
-        "summary": "La intervención se extendió a lo largo de 4.420 metros e incluyó dos carriles por sentido de circulación, un nuevo puente sobre el arroyo Ludueña y la reconstrucción de la rotonda de acceso al aeropuerto. También se construyó un emisario subterráneo para mejorar el escurrimiento…",
-        "pubDate": "2026-11-17T11:48:00+00:00",
+        "pubDate": "2026-11-21T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -139,6 +139,42 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Raúl Spicher: “Buscamos salvar al bebé y brindarle una buena calidad de vida”",
+        "link": "https://www.lacapital.com.ar/salud/raul-spicher-buscamos-salvar-al-bebe-y-brindarle-una-buena-calidad-vida-n10293584.html",
+        "image": "https://media.lacapital.com.ar/p/e70d541aae7dba449639a74ec09d631f/adjuntos/203/imagenes/103/546/0103546279/1200x675/smart/raul-spicher-buscamos-salvar-al-bebe-y-brindarle-una-buena-calidad-vida.jpg",
+        "summary": "El trabajo multidisciplinario es fundamental en un área tan sensible de la medicina. Raúl Spicher, neonatólogo, habla del valor de la contención.",
+        "pubDate": "2026-11-22T12:20:27+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Decomisan un departamento y una cochera en Rosario por una causa de estafas inmobiliarias",
+        "link": "https://www.lacapital.com.ar/la-ciudad/decomisan-un-departamento-y-una-cochera-rosario-una-causa-estafas-inmobiliarias-n10293581.html",
+        "image": "https://media.lacapital.com.ar/p/f4a39dd322fcf0657e4c40ce6b4a8a9b/adjuntos/203/imagenes/103/546/0103546256/1200x675/smart/aprad.jpeg",
+        "summary": "Los inmuebles están vinculados con una investigación por incumplimientos en desarrollos inmobiliarios y lavado de activos",
+        "pubDate": "2026-11-22T12:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Protector solar: cómo elegir el adecuado, entender la etiqueta y aplicarlo de forma correcta",
+        "link": "https://www.lacapital.com.ar/salud/protector-solar-como-elegir-el-adecuado-entender-la-etiqueta-y-aplicarlo-forma-correcta-n10293131.html",
+        "image": "https://media.lacapital.com.ar/p/126414cdbdfc7c7b404a38c5675c2d16/adjuntos/203/imagenes/103/541/0103541707/1200x675/smart/protector-solar-como-elegir-el-adecuado-entender-la-etiqueta-y-aplicarlo-forma-correcta.jpg",
+        "summary": "La jefa del Servicio de Dermatología de Grupo Gamma recomienda un FPS 30 o superior, de amplio espectro y reaplicado cada 2 a 3 horas, y explica qué significan las siglas y los símbolos del envase",
+        "pubDate": "2026-11-22T12:04:40+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Cáncer de próstata: el control anual es la principal herramienta para detectarlo a tiempo",
+        "link": "https://www.lacapital.com.ar/salud/cancer-prostata-el-control-anual-es-la-principal-herramienta-detectarlo-tiempo-n10293136.html",
+        "image": "https://media.lacapital.com.ar/p/08641de4dd2c6b3923d93c7d772a535c/adjuntos/203/imagenes/103/541/0103541751/1200x675/smart/bb42c8d1-329f-4660-819b-7b0bfae507c9.png",
+        "summary": "Es el tumor más diagnosticado en los hombres argentinos. Especialistas de Grupo Oroño explican desde qué edad conviene empezar los controles y qué estudios permiten un diagnóstico temprano",
+        "pubDate": "2026-11-22T12:00:45+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Planazo de domingo: propuestas gratuitas para las infancias en el Complejo Astronómico",
@@ -236,42 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/c0dbcae4705d37aa0908ce29abc3353b/adjuntos/203/imagenes/103/545/0103545726/1200x675/smart/contigiani10.jpg",
         "summary": "El ex ministro de Producción de Santa Fe advirtió sobre los riesgos de “desintegración” que provoca la actual política económica y resaltó la importancia de que las provincias tengan políticas anticíclicas.",
         "pubDate": "2026-11-22T09:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La tecnología derriba barreras históricas de la comercialización ganadera",
-        "link": "https://www.lacapital.com.ar/agro/la-tecnologia-derriba-barreras-historicas-la-comercializacion-ganadera-n10293552.html",
-        "image": "https://media.lacapital.com.ar/p/1c72ef6088185b0bc46bd97743aec204/adjuntos/203/imagenes/103/545/0103545916/1200x675/smart/ganaderia86.jpg",
-        "summary": "Distancia, incertidumbre sobre el precio, dependencia de compradores locales, costos logísticos y desfasajes financieros son algunos de los límites que la digitalización está empezando a modificar.",
-        "pubDate": "2026-11-22T09:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Una cita de rugby que cumple 40 años: Barbarians Team en el Jockey Club",
-        "link": "https://www.lacapital.com.ar/ovacion/una-cita-rugby-que-cumple-40-anos-barbarians-team-el-jockey-club-n10293427.html",
-        "image": "https://media.lacapital.com.ar/p/330f7bcf3063f5206288617a9f8bcc54/adjuntos/203/imagenes/103/544/0103544590/1200x675/smart/image-5.jpg",
-        "summary": "Este domingo, a las 18, las instalaciones del Jockey Club se engalan para el tradicional encuentro que reune a la familia argentina del rugby",
-        "pubDate": "2026-11-22T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central va por primer escalón hacia otro sueño grande en el Gigante de Arroyito",
-        "link": "https://www.lacapital.com.ar/ovacion/central-va-primer-escalon-otro-sueno-grande-el-gigante-arroyito-n10293489.html",
-        "image": "https://media.lacapital.com.ar/p/dd56a613175562bfc5709bb642c6fde9/adjuntos/203/imagenes/103/545/0103545359/1200x675/smart/image-1.jpg",
-        "summary": "El equipo de Jorge Almirón inicia los playoffs del torneo Clausura ante Gimnasia de Mendoza. Si empatan, alargue y penales. El favorito, Central",
-        "pubDate": "2026-11-22T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Roberto Falistocco: \"En Santa Fe dejamos una Justicia de pie y caminando\"",
-        "link": "https://www.lacapital.com.ar/politica/roberto-falistocco-en-santa-fe-dejamos-una-justicia-pie-y-caminando-n10293516.html",
-        "image": "https://media.lacapital.com.ar/p/7f7fa54721321c0bf916886967b08b23/adjuntos/203/imagenes/103/545/0103545527/1200x675/smart/rf1.jpg",
-        "summary": "Previo a su inminente retiro de la Corte Suprema, el magistrado repasa los desafíos estructurales del Poder Judicial y envía un mensaje a los dirigentes políticos de todos los niveles",
-        "pubDate": "2026-11-22T09:10:00+00:00",
         "approxTime": false
       }
     ]
