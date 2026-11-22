@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T00:01:03.092727+00:00",
+  "generatedAt": "2026-11-22T00:30:51.662772+00:00",
   "sites": {
     "rosario3": [
       {
@@ -40,10 +40,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Boca gana desde el arranque la final de la Copa Sudamericana ante Atlético Mineiro en Barranquilla",
+        "title": "Boca Juniors es el campeón de la Copa Sudamericana: derrotó a Atlético Mineiro en Barranquilla y alcanzó la gloria",
         "link": "https://www.rosario3.com/deportes/boca-se-enfrenta-este-sabado-con-atletico-mineiro-en-la-final-de-la-copa-sudamericana-a-que-hora-y-donde-verlo-en-vivo-20261121-0004.html",
         "image": "https://www.rosario3.com/__export/1795303389228/sites/rosario3/img/2026/11/21/ascacibar.jpg_928314581.jpg",
-        "summary": "El equipo de Rodolfo Arruabarrena choca ante el de Eduardo Domínguez en Colombia, en una final histórica. Ascacibar abrió el partido",
+        "summary": "El equipo de Rodolfo Arruabarrena no dejó dudas y se impuso de principio a fin. Fue 2 a 0 en Barranquilla. Ascacibar abrió el partido en el primer tiempo y Merentiel metió la estocada final en el inicio del complemento",
         "pubDate": "2026-11-21T11:56:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,24 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Boca le dio una exhibición a Mineiro y se coronó en la Copa Sudamericana",
+        "link": "https://www.lacapital.com.ar/ovacion/boca-le-dio-una-exhibicion-mineiro-y-se-corono-la-copa-sudamericana-n10293554.html",
+        "image": "https://media.lacapital.com.ar/p/c0949a94740c295e3b789ba98035f64e/adjuntos/203/imagenes/103/545/0103545919/1200x675/smart/image-2026-11-21t205424699.png",
+        "summary": "El Xeneize venció por 2 a 0, con goles de Ascacíbar y Merentiel, y gritó campeón de una copa internacional tras 18 años",
+        "pubDate": "2026-11-22T00:27:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central: Vuelve Angelito y Campaz también está a disposición",
+        "link": "https://www.lacapital.com.ar/ovacion/central-vuelve-angelito-y-campaz-tambien-esta-disposicion-n10293551.html",
+        "image": "https://media.lacapital.com.ar/p/b1bd896cd74a5a4b08b77f2876777974/adjuntos/203/imagenes/103/545/0103545917/1200x675/smart/image-2026-11-21t204113785.png",
+        "summary": "El talentoso Di María se recuperó de la molestia en el aductor, lo mismo que el colombiano, que arrastraba dolencias. Un debut en el banco de Central",
+        "pubDate": "2026-11-22T00:13:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Denuncian al titular de un Registro Automotor por evasión impositiva y no liquidar impuestos al Estado",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/d1cf0a157030aa4fb6c8033f914e6a01/adjuntos/203/imagenes/103/545/0103545358/1200x675/smart/epe.png",
         "summary": "La entidad aplica un procedimiento especial de cuidado de los ciudadanos ante la subida del agua y el aumento de tormentas en distintos puntos de la provincia",
         "pubDate": "2026-11-21T19:22:52+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Trasladan a la cárcel de San Nicolás a una mujer ligada a la fiesta de Punta Stage que terminó con dos muertos",
-        "link": "https://www.lacapital.com.ar/policiales/trasladan-la-carcel-san-nicolas-una-mujer-ligada-la-fiesta-punta-stage-que-termino-dos-muertos-n10293472.html",
-        "image": "https://media.lacapital.com.ar/p/9ea6fd19ae61ccc2ee567829b37e9ba7/adjuntos/203/imagenes/103/545/0103545114/1200x675/smart/tras.jpg",
-        "summary": "La causa corresponde a la fiesta \"Sasha New Year’s Eve Party\" , realizada en 2026 en Arroyo Seco, donde fallecieron Giuliana Maldovan y Lucas Liveratore",
-        "pubDate": "2026-11-21T19:22:49+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Si Central le gana a Gimmasia de Mendoza, en cuartos de final jugará contra Barracas",
-        "link": "https://www.lacapital.com.ar/ovacion/si-central-le-gana-gimmasia-mendoza-cuartos-final-jugara-contra-barracas-n10293518.html",
-        "image": "https://media.lacapital.com.ar/p/bc3a84fded5182c0520e3e0749c28c3b/adjuntos/203/imagenes/103/545/0103545528/1200x675/smart/image-3.jpg",
-        "summary": "El equipo del presidente de la AFA, Claudio Chiqui Tapia, eliminó a Defensa y Justicia al derrotarlo por 1 a 0 en Florencio Varela",
-        "pubDate": "2026-11-21T19:01:00+00:00",
         "approxTime": false
       }
     ]
