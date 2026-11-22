@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T17:01:10.350748+00:00",
+  "generatedAt": "2026-11-22T17:31:06.702879+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Gimnasia vs. Newell's por el torneo Clausura: hora, canal y posibles formaciones",
+        "link": "https://www.lacapital.com.ar/ovacion/gimnasia-vs-newells-el-torneo-clausura-hora-canal-y-posibles-formaciones-n10293286.html",
+        "image": "https://media.lacapital.com.ar/p/3487920dac8041a493395fd753dda77b/adjuntos/203/imagenes/102/002/0102002933/gimnasia-newellspng.png",
+        "summary": "La Lepra enfrentará al Lobo en La Plata en los octavos de final del campeonato, en su debut en los playoffs. Detalles y estadísticas del partido",
+        "pubDate": "2026-11-22T17:12:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El nuevo hotel Howard Johnson se prepara para cortar cintas en Rosario: cómo serán sus instalaciones",
         "link": "https://www.lacapital.com.ar/la-ciudad/el-nuevo-hotel-howard-johnson-se-prepara-cortar-cintas-rosario-como-seran-sus-instalaciones-n10293615.html",
         "image": "https://media.lacapital.com.ar/p/1801094da0becd7d8d23259342914790/adjuntos/203/imagenes/103/546/0103546544/1200x675/smart/hotel-howard-johnson-rosario-plaza-0.jpg",
@@ -262,15 +271,6 @@
         "link": "https://www.lacapital.com.ar/la-ciudad/adopcion-santa-fe-hay-mas-chicos-que-esperan-una-familia-que-personas-dispuestas-recibirlos-n10292678.html",
         "image": "https://media.lacapital.com.ar/p/bbfdeb645219318ce7e439373badae7e/adjuntos/203/imagenes/030/498/0030498336/1200x675/smart/adopcionpng.png",
         "summary": "Actualmente hay 137 niños, niñas y adolescentes, de entre 9 y 17 años, que están en condiciones de ser adoptados, pero no encuentran hogar",
-        "pubDate": "2026-11-22T09:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Tres intoxicaciones masivas que marcaron los 30 años del Instituto del Alimento de Rosario",
-        "link": "https://www.lacapital.com.ar/la-ciudad/tres-intoxicaciones-masivas-que-marcaron-los-30-anos-del-instituto-del-alimento-rosario-n10293155.html",
-        "image": "https://media.lacapital.com.ar/p/17f8f610f759b4821b3c953b3c4aa67f/adjuntos/203/imagenes/103/541/0103541971/1200x675/smart/69363040-1.jpg",
-        "summary": "Los tres episodios sucedieron en los últimos diez años y tienen que ver con cenas aniversario, despedidas y graduaciones. Todas ocurrieron en el mes de diciembre y el calor fue fundamental",
         "pubDate": "2026-11-22T09:30:00+00:00",
         "approxTime": false
       }
