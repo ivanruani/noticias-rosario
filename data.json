@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-22T19:01:12.186958+00:00",
+  "generatedAt": "2026-11-22T19:31:04.053421+00:00",
   "sites": {
     "rosario3": [
       {
         "source": "Rosario3",
-        "title": "Con Di María en el banco, Central recibe a Gimnasia de Mendoza en busca del pase a cuartos de final",
+        "title": "Campaz y Copetti aprovecharon dos regalos: Central le gana cómodo a Gimnasia de Mendoza",
         "link": "https://www.rosario3.com/deportes/rosario-central-pone-primera-en-los-playoffs-recibe-a-gimnasia-de-mendoza-con-la-ilusion-de-pelear-por-el-clausura-20261121-0026.html",
         "image": "https://www.rosario3.com/__export/1792761825369/sites/rosario3/img/2026/08/14/ibarra-jpg_-1-.jpeg_1725580757.jpeg",
-        "summary": "El Canalla enfrenta este domingo desde las 16 al Lobo mendocino en el Gigante de Arroyito, por los octavos. Con Fideo entre los suplentes, aparece de titular Franco Cervi, mientras que Juan Giménez reemplaza en la defensa a Gastón Ávila. El equipo de Jorge Almirón llega con…",
+        "summary": "El Canalla enfrenta este domingo desde las 16 al Lobo mendocino en el Gigante de Arroyito, por los octavos. Con Di María entre los suplentes, aparece de titular Franco Cervi, mientras que Juan Giménez reemplaza en la defensa a Gastón Ávila. El equipo de Jorge Almirón llega con…",
         "pubDate": "2026-11-21T12:00:00+00:00",
         "approxTime": true
       },
@@ -141,9 +141,18 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "En vivo: con Di María en el banco, Central va por el pasaje a cuartos ante el Lobo mendocino",
-        "link": "https://www.lacapital.com.ar/ovacion/en-vivo-di-maria-el-banco-central-va-el-pasaje-cuartos-el-lobo-mendocino-n10293621.html",
-        "image": "https://media.lacapital.com.ar/p/6de9ac758566cf61e58f4b51655792b6/adjuntos/203/imagenes/103/546/0103546652/cervirr.jpeg",
+        "title": "Santa Fe tiene el mayor índice de repitencia escolar del país: el 15,8% de los alumnos no pasan de año",
+        "link": "https://www.lacapital.com.ar/santa-fe-tiene-el-mayor-indice-repitencia-escolar-del-pais-el-158-los-alumnos-no-pasan-ano-n10293622.html",
+        "image": "https://media.lacapital.com.ar/p/b5f3e1e832f8162587e298636ccdcfd3/adjuntos/203/imagenes/103/546/0103546710/1200x675/smart/imagerepi.jpg",
+        "summary": "Un informe de la Fundación Libertad reveló que la provincia también registra una de las tasas más altas de abandono escolar en el nivel secundario.",
+        "pubDate": "2026-11-22T19:25:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "En vivo: Central es una tromba y le gana 2 a 0 al Lobo mendocino en busca del pasaje a cuartos",
+        "link": "https://www.lacapital.com.ar/ovacion/en-vivo-central-es-una-tromba-y-le-gana-2-0-al-lobo-mendocino-busca-del-pasaje-cuartos-n10293621.html",
+        "image": "https://media.lacapital.com.ar/p/4fb461e3420cfcde96c0b151b9b801ab/adjuntos/203/imagenes/103/546/0103546698/bicho.jpg",
         "summary": "El Canalla juega a todo o nada ante Gimnasia de Mendoza en el Gigante de Arroyito en busca de pasar de ronda en los playoffs del Clausura",
         "pubDate": "2026-11-22T18:54:00+00:00",
         "approxTime": false
@@ -253,15 +262,6 @@
         "link": "https://www.lacapital.com.ar/negocios/el-negocio-detras-la-malta-la-apuesta-ccu-y-boortmalt-ganar-mercado-n10292727.html",
         "image": "https://media.lacapital.com.ar/p/4813c231ce3ebdc46d359a39548f189b/adjuntos/203/imagenes/103/543/0103543567/juan-pablo-barrale-horizontal.jpeg",
         "summary": "Las empresas CCU y Boortmalt impulsan el desarrollo de variedades de cebada y prácticas sustentables en Santa Fe. Las innovaciones que se vienen en cervezas",
-        "pubDate": "2026-11-22T11:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El Teatro El Círculo presentó su temporada 2027",
-        "link": "https://www.lacapital.com.ar/zoom/el-teatro-el-circulo-presento-su-temporada-2027-n10293508.html",
-        "image": "https://media.lacapital.com.ar/p/0d7aaf9a1c41cc1655ae709ae76320bd/adjuntos/203/imagenes/103/545/0103545410/1200x675/smart/image-2026-11-21t164908693.jpg",
-        "summary": "La histórica sala de la ciudad anunció las nueve funciones que formarán parte del abono del año próximo: habrá conciertos, óperas y galas de ballet de primer nivel",
         "pubDate": "2026-11-22T11:00:00+00:00",
         "approxTime": false
       },
