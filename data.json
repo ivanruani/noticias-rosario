@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T05:30:53.862110+00:00",
+  "generatedAt": "2026-11-22T06:01:00.591173+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Franco Colapinto y Pierre Gasly brillantes, en una carrera espectacular en Las Vegas, de las mejores del siglo",
+        "link": "https://www.lacapital.com.ar/ovacion/franco-colapinto-y-pierre-gasly-brillantes-una-carrera-espectacular-las-vegas-las-mejores-del-siglo-n10293567.html",
+        "image": "https://media.lacapital.com.ar/p/94b6e4118f7311c1c1fe59600dad6511/adjuntos/203/imagenes/103/546/0103546203/1200x675/smart/image-3.jpg",
+        "summary": "El argentino finalizó 6° y el francés 5°, con Max Verstappen superlativo, en un GP impresionante con pelea de principio al fin. Inolvidable",
+        "pubDate": "2026-11-22T05:46:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Flavio Briatore metió ruido sobre el futuro de Franco Colapinto, pero ¿hay que preocuparse?",
         "link": "https://www.lacapital.com.ar/ovacion/flavio-briatore-metio-ruido-el-futuro-franco-colapinto-pero-hay-que-preocuparse-n10293564.html",
         "image": "https://media.lacapital.com.ar/p/089a32749f270c97d38e9d42d31f91ca/adjuntos/203/imagenes/103/546/0103546051/1200x675/smart/image-10.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/9a945ce098c50c479dfe5bd521816d94/adjuntos/203/imagenes/103/326/0103326784/bboca.jpg",
         "summary": "Si el equipo de Arruabarrena sale campeón, Argentinos, Independiente Rivadavia, Estudiantes, Platense, Independiente y Gimnasia podrían beneficiarse",
         "pubDate": "2026-11-21T20:51:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cómo activar el descuento en la Tarjeta Sube para jubilados",
-        "link": "https://www.lacapital.com.ar/informacion-general/como-activar-el-descuento-la-tarjeta-sube-jubilados-n10293400.html",
-        "image": "https://media.lacapital.com.ar/p/bb537f180db88504783e1455704f94f4/adjuntos/203/imagenes/100/106/0100106711/2022-06-27-tarjeta-subejpg.jpg",
-        "summary": "Los jubilados pueden acceder a una tarifa con descuento para viajar en colectivo. Los detalles del trámite, en esta nota",
-        "pubDate": "2026-11-21T19:50:00+00:00",
         "approxTime": false
       }
     ]
