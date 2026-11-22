@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-11-22T18:30:56.216160+00:00",
+  "generatedAt": "2026-11-22T19:01:12.186958+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Con Di María en el banco, Central recibe a Gimnasia de Mendoza en busca del pase a cuartos de final",
+        "link": "https://www.rosario3.com/deportes/rosario-central-pone-primera-en-los-playoffs-recibe-a-gimnasia-de-mendoza-con-la-ilusion-de-pelear-por-el-clausura-20261121-0026.html",
+        "image": "https://www.rosario3.com/__export/1792761825369/sites/rosario3/img/2026/08/14/ibarra-jpg_-1-.jpeg_1725580757.jpeg",
+        "summary": "El Canalla enfrenta este domingo desde las 16 al Lobo mendocino en el Gigante de Arroyito, por los octavos. Con Fideo entre los suplentes, aparece de titular Franco Cervi, mientras que Juan Giménez reemplaza en la defensa a Gastón Ávila. El equipo de Jorge Almirón llega con…",
+        "pubDate": "2026-11-21T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Run Run: Pininfarina ya tiene quien le construya en Rosario, Aguas deja de comprarle a la EPE y corren a funcionaria que pisaba loteos",
         "link": "https://www.rosario3.com/-economia-negocios-agro-/run-run-pininfarina-ya-tiene-quien-le-construya-en-rosario-aguas-deja-de-comprarle-a-la-epe-y-corren-a-funcionaria-que-pisaba-loteos-20261122-0018.html",
         "image": "https://www.rosario3.com/__export/1795365754617/sites/rosario3/img/2026/11/22/farineta.jpg_1067613746.jpg",
         "summary": "Además: asoman dos modelos bien distintos para quedarse con Sancor, la pelea judicial por Damfield no está terminada, las viudas y los huérfanos de Villavicencio en Grupo Oroño, apuntan a Crucijuegos por incumplimiento en Alto Rosario, golpe a golpe en Inalpa, el dilema de…",
-        "pubDate": "2026-11-22T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Sorpresa en Central: Di María es suplente en el duelo ante Gimnasia de Mendoza por los octavos",
-        "link": "https://www.rosario3.com/deportes/rosario-central-pone-primera-en-los-playoffs-recibe-a-gimnasia-de-mendoza-con-la-ilusion-de-pelear-por-el-clausura-20261121-0026.html",
-        "image": "https://www.rosario3.com/__export/1792443158187/sites/rosario3/img/2026/10/11/fideeeeeeee.jpg_1381182483.jpg",
-        "summary": "Con Fideo entre los suplentes, aparece de titular Franco Cervi, mientras que Juan Giménez reemplaza en la defensa a Gastón Ávila. El Canalla enfrenta este domingo desde las 16 al Lobo mendocino en el Gigante de Arroyito, por los octavos de final del campeonato. El equipo de…",
-        "pubDate": "2026-11-21T11:59:00+00:00",
+        "pubDate": "2026-11-22T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -121,24 +121,33 @@
       },
       {
         "source": "Rosario3",
-        "title": "Escándalo por trampas con IA en exámenes universitarios: renunció el ministro de Educación de Corea del Sur",
-        "link": "https://www.rosario3.com/educacion/escandalo-por-trampas-con-ia-en-examenes-universitarios-renuncio-el-ministro-de-educacion-de-corea-del-sur-20261122-0020.html",
-        "image": "https://www.rosario3.com/__export/1795365993149/sites/rosario3/img/2026/11/22/coread.jpg_1825222445.jpg",
-        "summary": "Las autoridades detectaron 111 infracciones durante la prueba de ingreso a la universidad, en medio de controles extraordinarios que incluyeron inspecciones de anteojos, ropa y teléfonos celulares",
+        "title": "La emoción de Catherine Fulop al ver a su nieta gatear por videollamada: \"Me saltan las lágrimas\"",
+        "link": "https://www.rosario3.com/ocio/la-emocion-de-catherine-fulop-al-ver-a-su-nieta-gatear-por-videollamada-me-saltan-las-lagrimas-20261122-0021.html",
+        "image": "https://www.rosario3.com/__export/1790111178202/sites/rosario3/img/2025/06/29/fulop.jpg_1825222469.jpg",
+        "summary": "La actriz mostró cómo acortan distancias con Gia y compartió un íntimo momento con la hija de Oriana Sabatini y Paulo Dybala",
         "pubDate": "2026-11-22T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Se viene una nueva edición de la Noche de los Teatros Independientes en Rosario",
-        "link": "https://www.rosario3.com/ocio/se-viene-una-nueva-edicion-de-la-noche-de-los-teatros-independientes-en-rosario-20261122-0016.html",
-        "image": "https://www.rosario3.com/__export/1795362519894/sites/rosario3/img/2026/11/22/atir_version1795362519453.jpg_54252875.jpg",
-        "summary": "La actividad será este miércoles, en el marco del Festival Fontanarrosa. Trece salas y espacios culturales abrirán sus puertas desde las 19 hasta las 23. La programación contempla teatro, música e intervenciones en vivo. Gratis",
+        "title": "Escándalo por trampas con IA en exámenes universitarios: renunció el ministro de Educación de Corea del Sur",
+        "link": "https://www.rosario3.com/educacion/escandalo-por-trampas-con-ia-en-examenes-universitarios-renuncio-el-ministro-de-educacion-de-corea-del-sur-20261122-0020.html",
+        "image": "https://www.rosario3.com/__export/1795365993149/sites/rosario3/img/2026/11/22/coread.jpg_1825222445.jpg",
+        "summary": "Las autoridades detectaron 111 infracciones durante la prueba de ingreso a la universidad, en medio de controles extraordinarios que incluyeron inspecciones de anteojos, ropa y teléfonos celulares",
         "pubDate": "2026-11-22T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "En vivo: con Di María en el banco, Central va por el pasaje a cuartos ante el Lobo mendocino",
+        "link": "https://www.lacapital.com.ar/ovacion/en-vivo-di-maria-el-banco-central-va-el-pasaje-cuartos-el-lobo-mendocino-n10293621.html",
+        "image": "https://media.lacapital.com.ar/p/6de9ac758566cf61e58f4b51655792b6/adjuntos/203/imagenes/103/546/0103546652/cervirr.jpeg",
+        "summary": "El Canalla juega a todo o nada ante Gimnasia de Mendoza en el Gigante de Arroyito en busca de pasar de ronda en los playoffs del Clausura",
+        "pubDate": "2026-11-22T18:54:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Central tiene equipo confirmado: un regreso frustrado y un ingreso que pocos esperaban",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/26f04f80be4042ac25c2665b6c0476be/adjuntos/203/imagenes/103/546/0103546014/1200x675/smart/lula-diez.jpg",
         "summary": "Algunas de las razones por las que Lula logró la reelección en Brasil, con una histórica recuperación en el balotaje",
         "pubDate": "2026-11-22T11:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Después de las tormentas, Rosario tendrá un domingo con sol y una máxima de 27 grados",
-        "link": "https://www.lacapital.com.ar/la-ciudad/despues-las-tormentas-rosario-tendra-un-domingo-sol-y-una-maxima-27-grados-n10293571.html",
-        "image": "https://media.lacapital.com.ar/p/2a594c5008adc6c88c657ad00abb14ce/adjuntos/203/imagenes/103/491/0103491414/1200x675/smart/calle-recreativa1.jpg",
-        "summary": "La Capital",
-        "pubDate": "2026-11-22T10:59:00+00:00",
         "approxTime": false
       }
     ]
