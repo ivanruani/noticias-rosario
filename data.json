@@ -1,32 +1,23 @@
 {
-  "generatedAt": "2026-11-22T16:31:05.200424+00:00",
+  "generatedAt": "2026-11-22T17:01:10.350748+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Run Run: Pininfarina ya tiene quien le construya en Rosario, Aguas deja de comprarle a la EPE y corren a funcionaria que pisaba loteos",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/run-run-pininfarina-ya-tiene-quien-le-construya-en-rosario-aguas-deja-de-comprarle-a-la-epe-y-corren-a-funcionaria-que-pisaba-loteos-20261122-0018.html",
+        "image": "https://www.rosario3.com/__export/1795365754617/sites/rosario3/img/2026/11/22/farineta.jpg_1067613746.jpg",
+        "summary": "Además: asoman dos modelos bien distintos para quedarse con Sancor, la pelea judicial por Damfield no está terminada, las viudas y los huérfanos de Villavicencio en Grupo Oroño, apuntan a Crucijuegos por incumplimiento en Alto Rosario, golpe a golpe en Inalpa, el dilema de…",
+        "pubDate": "2026-11-22T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "El turismo generó un movimiento económico de $774.530 millones en Santa Fe en lo que va de 2026",
         "link": "https://www.rosario3.com/-economia-negocios-agro-/el-turismo-genero-un-movimiento-economico-de-774.530-millones-en-santa-fe-en-lo-que-va-de-2026-20261122-0014.html",
         "image": "https://www.rosario3.com/__export/1795360135958/sites/rosario3/img/2026/11/22/acto1_version1795360135377.jpg_979452778.jpg",
         "summary": "El dato se desprende de un informe del Observatorio Turístico Provincial que, a través del sistema Medatur, analizó el impacto en el empleo y el consumo de la actividad turística de enero a octubre. El hito de la agenda territorial impulsada por el Gobierno provincial fue la…",
-        "pubDate": "2026-11-22T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Milei ajusta la ley electoral, mientras se le desajusta la economía",
-        "link": "https://www.rosario3.com/opinion/milei-ajusta-la-ley-electoral-mientras-se-le-desajusta-la-economia-20261121-0030.html",
-        "image": "https://www.rosario3.com/__export/1795198591181/sites/rosario3/img/2026/11/20/milei_y_caputo.jpg_1768679257.jpg",
-        "summary": "El riesgo país a 1.070 puntos abre una pregunta crucial para el gobierno liberal libertario: ¿el rumbo se agotó? Esa duda convive con la urgencia oficial por cambiar las reglas electorales para dividir a la oposición y no anticipar escenarios de catástrofe. Los gobernadores…",
-        "pubDate": "2026-11-21T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Brasil luego del ballotage: una economía que condiciona el poder de Lula",
-        "link": "https://www.rosario3.com/politica/brasil-luego-del-ballotage-una-economia-que-condiciona-el-poder-de-lula-20261121-0003.html",
-        "image": "https://www.rosario3.com/__export/1795349106818/sites/rosario3/img/2026/11/22/lula.jpg_1825222445.jpg",
-        "summary": "El deterioro fiscal, el peso de los intereses de la deuda y una oposición fortalecida en el Congreso reducen el margen de maniobra de Lula. Deberá compatibilizar su agenda social con la estabilidad económica, en un contexto internacional menos favorable que el de sus primeros…",
-        "pubDate": "2026-11-21T11:58:00+00:00",
+        "pubDate": "2026-11-22T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -35,25 +26,34 @@
         "link": "https://www.rosario3.com/ecos365/noticias/cortan-cintas-apagan-fabricas-la-semana-en-que-rosario-se-vende-por-partes-20261122-0001.html",
         "image": "https://www.rosario3.com/__export/1795350443032/sites/rosario3/img/2026/11/22/swiss_medical_recibe_llaves_de_grupo_oroxo_crop1795350406476.png_1126084916.png",
         "summary": "Swiss Medical ya manda en Oroño y clínicas, droguerías y laboratorios esperan cambios. La Gallega abre su centro comercial en Funes, el Senado abre la puerta a las patentes internacionales y Santa Fe baja impuestos por tercer año. Y el dólar se despierta",
-        "pubDate": "2026-11-22T11:57:00+00:00",
+        "pubDate": "2026-11-22T11:58:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Fórmula 1: Franco Colapinto terminó sexto en Las Vegas y volvió a sumar puntos",
-        "link": "https://www.rosario3.com/deportes/formula-1-franco-colapinto-termino-sexto-en-las-vegas-y-volvio-a-sumar-puntos-20261122-0002.html",
-        "image": "https://www.rosario3.com/__export/1795348903202/sites/rosario3/img/2026/11/22/colapinto.jpg_1825222445.jpg",
-        "summary": "El piloto argentino igualó su mejor resultado en la categoría tras una carrera marcada por los sobrepasos, los incidentes y los cambios de posiciones. Max Verstappen se quedó con la victoria, mientras que Pierre Gasly finalizó quinto y Alpine sumó 18 puntos",
+        "title": "Milei ajusta la ley electoral, mientras se le desajusta la economía",
+        "link": "https://www.rosario3.com/opinion/milei-ajusta-la-ley-electoral-mientras-se-le-desajusta-la-economia-20261121-0030.html",
+        "image": "https://www.rosario3.com/__export/1795198591181/sites/rosario3/img/2026/11/20/milei_y_caputo.jpg_1768679257.jpg",
+        "summary": "El riesgo país a 1.070 puntos abre una pregunta crucial para el gobierno liberal libertario: ¿el rumbo se agotó? Esa duda convive con la urgencia oficial por cambiar las reglas electorales para dividir a la oposición y no anticipar escenarios de catástrofe. Los gobernadores…",
+        "pubDate": "2026-11-21T11:57:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "El Círculo presentó su temporada de abonos 2027: grandes orquestas, ópera y ballet internacional",
+        "link": "https://www.rosario3.com/ocio/el-circulo-presento-su-temporada-de-abonos-2027-grandes-orquestas-opera-y-ballet-internacional-20261122-0017.html",
+        "image": "https://www.rosario3.com/__export/1795364569273/sites/rosario3/img/2026/11/22/el_circulo_version1795364568803.jpg_54252875.jpg",
+        "summary": "La programación incluirá 13 funciones con destacados elencos y formaciones de Europa y América. “Es un lujo para Rosario y una oportunidad para disfrutar de lo mejor que viene de la Argentina y del mundo”, destacó a Rosario3, Guido Martínez Carbonell, presidente de la Comisión…",
         "pubDate": "2026-11-22T11:56:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Reforma electoral, ni oficialista ni opositora: que el sistema sea \"más democrático y participativo\"",
-        "link": "https://www.rosario3.com/politica/reforma-electoral-ni-oficialista-ni-opositora-que-el-sistema-sea-mas-democratico-y-participativo-20261120-0045.html",
-        "image": "https://www.rosario3.com/__export/1795207359534/sites/rosario3/img/2026/11/20/tullio.jpg_982625323.jpg",
-        "summary": "El ex director nacional electoral, Alejandro Tullio, repasó los cambios que el Senado aprobará el próximo jueves. Se mostró a favor de modificar las PASO, la Ficha Limpia, la boleta única papel para cuando haya simultaneidad de elecciones y la no obligatoriedad del debate…",
-        "pubDate": "2026-11-20T11:55:00+00:00",
+        "title": "Brasil luego del ballotage: una economía que condiciona el poder de Lula",
+        "link": "https://www.rosario3.com/politica/brasil-luego-del-ballotage-una-economia-que-condiciona-el-poder-de-lula-20261121-0003.html",
+        "image": "https://www.rosario3.com/__export/1795349106818/sites/rosario3/img/2026/11/22/lula.jpg_1825222445.jpg",
+        "summary": "El deterioro fiscal, el peso de los intereses de la deuda y una oposición fortalecida en el Congreso reducen el margen de maniobra de Lula. Deberá compatibilizar su agenda social con la estabilidad económica, en un contexto internacional menos favorable que el de sus primeros…",
+        "pubDate": "2026-11-21T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -85,20 +85,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Se abrió la preinscripción a las colonias de verano municipales para adultos mayores",
-        "link": "https://www.rosario3.com/informaciongeneral/se-abrio-la-preinscripcion-a-las-colonias-de-verano-municipales-para-adultos-mayores-20261122-0009.html",
-        "image": "https://www.rosario3.com/__export/1795355615976/sites/rosario3/img/2026/11/22/adultos_mayores_version1795355615462.jpg_54252875.jpg",
-        "summary": "La primera etapa requiere completar un formulario de preinscripción online cuyo plazo vence el miércoles 2 de diciembre. La inscripción definitiva será presencial en el espacio elegido, los días 9, 10 y 11 de diciembre, de 9 a 11. Las actividades en predios municipales, clubes y…",
-        "pubDate": "2026-11-22T11:51:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
         "title": "Del susto a la broma, Paredes habló de la descompensación que sufrió tras la coronación de Boca en la Copa Sudamericana",
         "link": "https://www.rosario3.com/deportes/del-susto-a-la-broma-paredes-hablo-de-la-descompensacion-que-sufrio-tras-la-coronacion-de-boca-en-la-copa-sudamericana-20261122-0007.html",
         "image": "https://www.rosario3.com/__export/1795354437038/sites/rosario3/img/2026/11/22/paredes.jpg_54252853.jpg",
         "summary": "El capitán del Xeneize tuvo que ser trasladado a un centro de salud luego de perder el conocimiento en la zona mixta, luego de la victoria por 2-0 ante Atlético Mineiro. Qué pasó",
-        "pubDate": "2026-11-22T11:50:00+00:00",
+        "pubDate": "2026-11-22T11:51:00+00:00",
         "approxTime": true
       },
       {
@@ -107,16 +98,34 @@
         "link": "https://www.rosario3.com/deportes/colapinto-celebro-su-sexto-puesto-en-las-vegas-es-lindo-pelear-con-los-equipos-de-adelante-20261122-0006.html",
         "image": "https://www.rosario3.com/__export/1795353307259/sites/rosario3/img/2026/11/22/colapinto2.jpg_1825222445.jpg",
         "summary": "El piloto argentino sumó ocho puntos, igualó su mejor resultado de la temporada y destacó la experiencia de competir contra las principales escuderías",
-        "pubDate": "2026-11-22T11:49:00+00:00",
+        "pubDate": "2026-11-22T11:50:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Se viene una nueva edición de la Noche de los Teatros Independientes en rosario",
+        "title": "Reforma electoral, ni oficialista ni opositora: que el sistema sea \"más democrático y participativo\"",
+        "link": "https://www.rosario3.com/politica/reforma-electoral-ni-oficialista-ni-opositora-que-el-sistema-sea-mas-democratico-y-participativo-20261120-0045.html",
+        "image": "https://www.rosario3.com/__export/1795207359534/sites/rosario3/img/2026/11/20/tullio.jpg_982625323.jpg",
+        "summary": "El ex director nacional electoral, Alejandro Tullio, repasó los cambios que el Senado aprobará el próximo jueves. Se mostró a favor de modificar las PASO, la Ficha Limpia, la boleta única papel para cuando haya simultaneidad de elecciones y la no obligatoriedad del debate…",
+        "pubDate": "2026-11-20T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Escándalo por trampas con IA en exámenes universitarios: renunció el ministro de Educación de Corea del Sur",
+        "link": "https://www.rosario3.com/educacion/escandalo-por-trampas-con-ia-en-examenes-universitarios-renuncio-el-ministro-de-educacion-de-corea-del-sur-20261122-0020.html",
+        "image": "https://www.rosario3.com/__export/1795365993149/sites/rosario3/img/2026/11/22/coread.jpg_1825222445.jpg",
+        "summary": "Las autoridades detectaron 111 infracciones durante la prueba de ingreso a la universidad, en medio de controles extraordinarios que incluyeron inspecciones de anteojos, ropa y teléfonos celulares",
+        "pubDate": "2026-11-22T11:48:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Se viene una nueva edición de la Noche de los Teatros Independientes en Rosario",
         "link": "https://www.rosario3.com/ocio/se-viene-una-nueva-edicion-de-la-noche-de-los-teatros-independientes-en-rosario-20261122-0016.html",
         "image": "https://www.rosario3.com/__export/1795362519894/sites/rosario3/img/2026/11/22/atir_version1795362519453.jpg_54252875.jpg",
         "summary": "La actividad será este miércoles, en el marco del Festival Fontanarrosa. Trece salas y espacios culturales abrirán sus puertas desde las 19 hasta las 23. La programación contempla teatro, música e intervenciones en vivo. Gratis",
-        "pubDate": "2026-11-22T11:48:00+00:00",
+        "pubDate": "2026-11-22T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,15 +134,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/caso-loan-exabogado-de-laudelina-hablo-de-un-cuerpo-en-una-laguna-20261122-0015.html",
         "image": "https://www.rosario3.com/__export/1775922460577/sites/rosario3/img/2025/05/08/loan_pexa.jpg_786111825.jpg",
         "summary": "José Codazzi fue llamado a declarar luego de que expusiera que el niño murió en un accidente y que parte de la familia sabe dónde está enterrado",
-        "pubDate": "2026-11-22T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Mariana Fabbiani habló de la salud de Mariano Chihade tras la operación: \"Con fuerza y fe\"",
-        "link": "https://www.rosario3.com/ocio/mariana-fabbiani-hablo-de-la-salud-de-mariano-chihade-tras-la-operacion-con-fuerza-y-fe-20261122-0011.html",
-        "image": "https://www.rosario3.com/__export/1795356456890/sites/rosario3/img/2026/11/22/mariana_y_pareja.jpg_1768679257.jpg",
-        "summary": "La conductora dio algunos detalles del presente de su marido, luego de una intervención quirúrgica por una imagen nodular en el cerebro",
         "pubDate": "2026-11-22T11:46:00+00:00",
         "approxTime": true
       }
