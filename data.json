@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T00:13:34.986930+00:00",
+  "generatedAt": "2026-11-23T00:31:04.808351+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Hockey: Duendes gritó campeón en una final de dos capítulos y habrá Súper Final con Universitario",
+        "link": "https://www.lacapital.com.ar/ovacion/hockey-duendes-grito-campeon-una-final-dos-capitulos-y-habra-super-final-universitario-n10293670.html",
+        "image": "https://media.lacapital.com.ar/p/c51cf450d97bd67a2223e98a5280084c/adjuntos/203/imagenes/103/547/0103547129/1200x675/smart/image-15.jpg",
+        "summary": "La final del Clausura del hockey del Litoral que Duendes ganó 2 a 1 se inició el sábado a la noche, se debió suspender por la tormenta y finalizó el domingo",
+        "pubDate": "2026-11-23T00:14:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Después de más de una década, Mercurio nuevamente recibe visitas",
         "link": "https://www.lacapital.com.ar/informacion-general/despues-mas-una-decada-mercurio-nuevamente-recibe-visitas-n10293669.html",
         "image": "https://media.lacapital.com.ar/p/e5456038a1b2d6dc35a4d94db39ac71b/adjuntos/203/imagenes/103/547/0103547119/2026-11-22-bepicolombo-mercurio-82886377.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/15d7aebe9b4135fdd9d7fb4e9ff1b3e6/adjuntos/203/imagenes/102/823/0102823915/1200x675/smart/image-19.jpg",
         "summary": "Cancillería exigió a Teherán el cese de las intimidaciones contra el director del OIEA y candidato a secretario general de la ONU",
         "pubDate": "2026-11-22T21:27:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El uno x uno de Central: Campaz está hecho un Bicho malo e indescifrable",
-        "link": "https://www.lacapital.com.ar/ovacion/el-uno-x-uno-central-campaz-esta-hecho-un-bicho-malo-e-indescifrable-n10293555.html",
-        "image": "https://media.lacapital.com.ar/p/09b281afdc5172eb5321741ef18cbb5a/adjuntos/203/imagenes/103/546/0103546802/cervi.jpg",
-        "summary": "El colombiano anotó el primero y participó en los otros dos del Canalla. Ibarra y Pizarro volvieron a marcar presencia en el medio y Copetti se reencontró con el gol",
-        "pubDate": "2026-11-22T21:16:00+00:00",
         "approxTime": false
       }
     ]
