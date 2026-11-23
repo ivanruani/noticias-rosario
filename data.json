@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T12:01:21.038845+00:00",
+  "generatedAt": "2026-11-23T12:31:01.245316+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Tribuna Segura: dos personas con pedido de captura fueron detectadas en el Gigante de Arroyito",
+        "link": "https://www.lacapital.com.ar/policiales/tribuna-segura-dos-personas-pedido-captura-fueron-detectadas-el-gigante-arroyito-n10293698.html",
+        "image": "https://media.lacapital.com.ar/p/10fca898ba4f102532842fb55a3c4834/adjuntos/203/imagenes/103/547/0103547598/1200x675/smart/pedidos-captura.png",
+        "summary": "El operativo desplegado durante el partido de ayer también permitió identificar dos pedidos de paradero vigentes y aplicar restricciones de ingreso a otros dos hombres.",
+        "pubDate": "2026-11-23T12:17:31+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Black Friday 2026: todo lo que hay que saber para comprar de forma segura",
         "link": "https://www.lacapital.com.ar/informacion-general/black-friday-2026-todo-lo-que-hay-que-saber-comprar-forma-segura-n10293122.html",
         "image": "https://media.lacapital.com.ar/p/cfb4a88539edba1b3a5e9543e843d512/adjuntos/203/imagenes/030/706/0030706362/1200x675/smart/compra-online-03-600x330jpg.jpg",
@@ -164,6 +173,15 @@
         "image": "https://media.lacapital.com.ar/p/91cdddb04fb9f28f1a67c3c5d2b0f099/adjuntos/203/imagenes/103/547/0103547084/1200x675/smart/franciscotaiana.jpg",
         "summary": "El historiador Francisco Taiana planteó que la Argentina puede convertir su capacidad de producir alimentos y su ubicación en ventajas para el desarrollo",
         "pubDate": "2026-11-23T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Mundo delivery: los repartidores ganan 250 mil pesos semanales y hacen dos turnos",
+        "link": "https://www.lacapital.com.ar/la-ciudad/mundo-delivery-los-repartidores-ganan-250-mil-pesos-semanales-y-hacen-dos-turnos-n10293267.html",
+        "image": "https://media.lacapital.com.ar/p/ac2fce19e291b463163d093689b6bc1d/adjuntos/203/imagenes/103/543/0103543314/1200x675/smart/db4a4d72-81fe-4666-bcc6-19a8208d83c2.jpg",
+        "summary": "El municipio completó el primer relevamiento entre 2 mil cadetes. Casi la mitad empezó hace un año y es su principal fuente de trabajo",
+        "pubDate": "2026-11-23T09:10:00+00:00",
         "approxTime": false
       },
       {
@@ -199,15 +217,6 @@
         "link": "https://www.lacapital.com.ar/ovacion/newells-gano-una-vez-visitante-y-no-es-favorito-la-plata-pero-puede-dar-el-golpe-n10293648.html",
         "image": "https://media.lacapital.com.ar/p/3b270066e6e90e9b0de6576a66491425/adjuntos/203/imagenes/103/546/0103546884/1200x675/smart/image-2026-11-22t185915863.png",
         "summary": "La Lepra, que visitará a Gimnasia por los octavos de final, corrigió su desempeño afuera del Coloso. Solo perdió un partido de los últimos cinco",
-        "pubDate": "2026-11-23T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Mundo delivery: los repartidores ganan 250 mil pesos semanales y hacen dos turnos",
-        "link": "https://www.lacapital.com.ar/la-ciudad/mundo-delivery-los-repartidores-ganan-250-mil-pesos-semanales-y-hacen-dos-turnos-n10293267.html",
-        "image": "https://media.lacapital.com.ar/p/ac2fce19e291b463163d093689b6bc1d/adjuntos/203/imagenes/103/543/0103543314/1200x675/smart/db4a4d72-81fe-4666-bcc6-19a8208d83c2.jpg",
-        "summary": "El municipio completó el primer relevamiento entre 2 mil cadetes. Casi la mitad empezó hace un año y es su principal fuente de trabajo",
         "pubDate": "2026-11-23T09:10:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/283a945c7337d5517aa8adec804365b5/adjuntos/203/imagenes/103/547/0103547155/1200x675/smart/image-16.jpg",
         "summary": "Las mejores jugadoras y jugadores de la ciudad, sus alrededores y también del resto del país se dieron cita en el Balneario La Florida",
         "pubDate": "2026-11-23T00:38:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "De la mano de Almada, River cumplió su misión y venció a Lanús para meterse en cuartos",
-        "link": "https://www.lacapital.com.ar/ovacion/de-la-mano-almada-river-cumplio-su-mision-y-vencio-lanus-meterse-cuartos-n10293671.html",
-        "image": "https://media.lacapital.com.ar/p/cda199d21da29043581244cebdd996ad/adjuntos/203/imagenes/103/547/0103547141/ta.jpeg",
-        "summary": "Un doblete de Thiago Almada y un gol de Tobías Andrada le dieron a River el triunfo por 3-1 ante Lanús.",
-        "pubDate": "2026-11-23T00:35:00+00:00",
         "approxTime": false
       }
     ]
