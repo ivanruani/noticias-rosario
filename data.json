@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-23T20:01:14.692930+00:00",
+  "generatedAt": "2026-11-23T20:30:56.856456+00:00",
   "sites": {
     "rosario3": [
       {
         "source": "Rosario3",
-        "title": "Newell’s visita a Gimnasia de La Plata en busca del boleto a cuartos",
+        "title": "Newell’s quedó mal parado y Gimnasia pegó primero en el Bosque: golazo de Nacho Fernández",
         "link": "https://www.rosario3.com/deportes/newells-visita-a-gimnasia-en-la-plata-con-la-ilusion-de-dar-el-primer-paso-en-los-playoffs-20261122-0022.html",
-        "image": "https://www.rosario3.com/__export/1791136631260/sites/rosario3/img/2026/10/04/regiardo.jpg_506286608.jpg",
+        "image": "https://www.rosario3.com/__export/1795465087226/sites/rosario3/img/2026/11/23/guch_nob_gimnasia.jpg_506286608.jpg",
         "summary": "La Lepra juega por primera vez los octavos de final desde la implementación de este formato. Visita al Lobo este lunes a las 17, en el Bosque, con la buena noticia que implica la recuperación de varios jugadores lesionados, entre ellos Matías Cóccaro y Rodrigo Herrera. Dirige…",
         "pubDate": "2026-11-22T12:00:00+00:00",
         "approxTime": true
@@ -121,19 +121,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "Todos los datos en la previa al choque entre Newell’s y Gimnasia en La Plata",
-        "link": "https://www.rosario3.com/deportes/todos-los-datos-en-la-previa-al-choque-entre-newells-y-gimnasia-en-la-plata-20261120-0019.html",
-        "image": "https://www.rosario3.com/__export/1788727320677/sites/rosario3/img/2026/09/06/kudelka_-1-.jpg_506286608.jpg",
-        "summary": "En su debut en playoffs, los rojinegros visitarán al Lobo en la ciudad de las diagonales, donde arrastran una racha adversa",
-        "pubDate": "2026-11-20T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
         "title": "Colapinto va por la consolidación: cuándo vuelve a correr tras brillar en Las Vegas",
         "link": "https://www.rosario3.com/deportes/colapinto-va-por-la-consolidacion-cuando-vuelve-a-correr-tras-brillar-en-las-vegas-20261123-0032.html",
         "image": "https://www.rosario3.com/__export/1795457380083/sites/rosario3/img/2026/11/23/colapinto.jpg_2138234794.jpg",
         "summary": "Luego de finalizar sexto en Estados Unidos e igualar su mejor resultado histórico en la categoría, el piloto argentino de Alpine regresará a las pistas en Qatar, anteúltima cita de la temporada 2026. Días y horarios de toda la actividad y el objetivo millonario de la escudería",
+        "pubDate": "2026-11-23T11:47:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "El Índice de Confianza en el Gobierno repuntó 4,1% en noviembre",
+        "link": "https://www.rosario3.com/informaciongeneral/el-indice-de-confianza-en-el-gobierno-repunto-41-en-noviembre-20261123-0034.html",
+        "image": "https://www.rosario3.com/__export/1795463606545/sites/rosario3/img/2026/11/23/gobierno.jpg_2106848869.jpg",
+        "summary": "El indicador elaborado por la Universidad Torcuato Di Tella alcanzó los 2,04 puntos y mostró mejoras en sus cinco componentes",
         "pubDate": "2026-11-23T11:46:00+00:00",
         "approxTime": true
       }
@@ -141,9 +141,18 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "En vivo: Newell's busca el pasaje a cuartos de final en La Plata ante Gimnasia",
-        "link": "https://www.lacapital.com.ar/ovacion/en-vivo-newells-busca-el-pasaje-cuartos-final-la-plata-gimnasia-n10293760.html",
-        "image": "https://media.lacapital.com.ar/p/98e95a8d2daf742487a6ab358b1b61ed/adjuntos/203/imagenes/103/548/0103548716/1200x675/smart/image-20.jpg",
+        "title": "La actividad económica llega al cierre del tercer trimestre con señales de recesión técnica",
+        "link": "https://www.lacapital.com.ar/economia/la-actividad-economica-llega-al-cierre-del-tercer-trimestre-senales-recesion-tecnica-n10293778.html",
+        "image": "https://media.lacapital.com.ar/p/8052b13be5cd344f915a42c934c0a390/adjuntos/203/imagenes/101/574/0101574185/1200x675/smart/industriajpg.jpg",
+        "summary": "El avance de los sectores primarios resulta insuficiente para compensar el freno de la industria y el comercio. El Indec publica el Emae",
+        "pubDate": "2026-11-23T20:16:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "En vivo: Newell's jugaba mejor pero le metieron una gran contra y Gimnasia pasó a ganarlo",
+        "link": "https://www.lacapital.com.ar/ovacion/en-vivo-newells-jugaba-mejor-pero-le-metieron-una-gran-contra-y-gimnasia-paso-ganarlo-n10293760.html",
+        "image": "https://media.lacapital.com.ar/p/1bb026cd74604415c49d096da3923130/adjuntos/203/imagenes/103/548/0103548764/1200x675/smart/image-21.jpg",
         "summary": "El equipo de Frank Kudelka se mide con el Lobo, que tiene la ventaja de la localía. Si hay empate el partido va al alargue y si la paridad persiste, habrá penales. Seguilo en vivo por La Capital",
         "pubDate": "2026-11-23T19:42:00+00:00",
         "approxTime": false
@@ -262,15 +271,6 @@
         "link": "https://www.lacapital.com.ar/la-ciudad/mundo-delivery-los-repartidores-ganan-250-mil-pesos-semanales-y-hacen-dos-turnos-n10293267.html",
         "image": "https://media.lacapital.com.ar/p/ac2fce19e291b463163d093689b6bc1d/adjuntos/203/imagenes/103/543/0103543314/1200x675/smart/db4a4d72-81fe-4666-bcc6-19a8208d83c2.jpg",
         "summary": "El municipio completó el primer relevamiento entre 2 mil cadetes. Casi la mitad empezó hace un año y es su principal fuente de trabajo",
-        "pubDate": "2026-11-23T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El peronismo santafesino de nuevo en su salsa",
-        "link": "https://www.lacapital.com.ar/suscriptores/el-peronismo-santafesino-nuevo-su-salsa-n10293475.html",
-        "image": "https://media.lacapital.com.ar/p/4e182a5c80a31546a7e78a1d56fe1b35/adjuntos/203/imagenes/103/545/0103545203/1200x675/smart/lewan-massa-perotti-giuliano.jpg",
-        "summary": "A poco más de dos meses del cierre de listas, en el PJ disputan nombres antes que estrategia. El congreso partidario de diciembre será una primera prueba. Perotti quiere \"revancha\"",
         "pubDate": "2026-11-23T09:10:00+00:00",
         "approxTime": false
       }
