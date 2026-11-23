@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T09:01:08.306765+00:00",
+  "generatedAt": "2026-11-23T09:30:54.142635+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,69 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Argentina 2050: qué oportunidades se abren para el país en un mundo conflictivo",
+        "link": "https://www.lacapital.com.ar/economia/argentina-2050-que-oportunidades-se-abren-el-pais-un-mundo-conflictivo-n10293668.html",
+        "image": "https://media.lacapital.com.ar/p/91cdddb04fb9f28f1a67c3c5d2b0f099/adjuntos/203/imagenes/103/547/0103547084/1200x675/smart/franciscotaiana.jpg",
+        "summary": "El historiador Francisco Taiana planteó que la Argentina puede convertir su capacidad de producir alimentos y su ubicación en ventajas para el desarrollo",
+        "pubDate": "2026-11-23T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Alimentos: la estrategia de China para la próxima década",
+        "link": "https://www.lacapital.com.ar/agro/alimentos-la-estrategia-china-la-proxima-decada-n10293557.html",
+        "image": "https://media.lacapital.com.ar/p/4c9f23457063ee42178c306c4ad92dfd/adjuntos/305/imagenes/102/868/0102868140/1200x675/smart/trigo-china-barco-carguero-544.jpeg",
+        "summary": "El gigante asiático fija una meta de capacidad de producción de granos de 725 millones de toneladas para 2030. Apuesta a más rindes, tecnología y productores formados, buscando comprar afuera sólo lo que no puede producir. Un informe de la Bolsa de Comercio de Rosario analiza el…",
+        "pubDate": "2026-11-23T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El peronismo santafesino de nuevo en su salsa",
+        "link": "https://www.lacapital.com.ar/suscriptores/el-peronismo-santafesino-nuevo-su-salsa-n10293475.html",
+        "image": "https://media.lacapital.com.ar/p/4e182a5c80a31546a7e78a1d56fe1b35/adjuntos/203/imagenes/103/545/0103545203/1200x675/smart/lewan-massa-perotti-giuliano.jpg",
+        "summary": "A poco más de dos meses del cierre de listas, en el PJ disputan nombres antes que estrategia. El congreso partidario de diciembre será una primera prueba. Perotti quiere \"revancha\"",
+        "pubDate": "2026-11-23T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Habilitaciones express: más de 3.800 comercios ya abrieron sus puertas con el trámite simplificado",
+        "link": "https://www.lacapital.com.ar/la-ciudad/habilitaciones-express-mas-3800-comercios-ya-abrieron-sus-puertas-el-tramite-simplificado-n10293638.html",
+        "image": "https://media.lacapital.com.ar/p/7aeea461b9fae967dc943c04421457a2/adjuntos/203/imagenes/102/278/0102278524/1200x675/smart/80042104jpg.jpg",
+        "summary": "La modalidad impulsada por la Municipalidad, que entró en vigencia el año pasado, ya representa más de un tercio de todas las aprobadas desde su implementación. También puede hacer desde Munibot",
+        "pubDate": "2026-11-23T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Newell's ganó una vez de visitante y no es favorito en La Plata, pero puede dar el golpe",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-gano-una-vez-visitante-y-no-es-favorito-la-plata-pero-puede-dar-el-golpe-n10293648.html",
+        "image": "https://media.lacapital.com.ar/p/3b270066e6e90e9b0de6576a66491425/adjuntos/203/imagenes/103/546/0103546884/1200x675/smart/image-2026-11-22t185915863.png",
+        "summary": "La Lepra, que visitará a Gimnasia por los octavos de final, corrigió su desempeño afuera del Coloso. Solo perdió un partido de los últimos cinco",
+        "pubDate": "2026-11-23T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Mundo delivery: los repartidores ganan 250 mil pesos semanales y hacen dos turnos",
+        "link": "https://www.lacapital.com.ar/la-ciudad/mundo-delivery-los-repartidores-ganan-250-mil-pesos-semanales-y-hacen-dos-turnos-n10293267.html",
+        "image": "https://media.lacapital.com.ar/p/ac2fce19e291b463163d093689b6bc1d/adjuntos/203/imagenes/103/543/0103543314/1200x675/smart/db4a4d72-81fe-4666-bcc6-19a8208d83c2.jpg",
+        "summary": "El municipio completó el primer relevamiento entre 2 mil cadetes. Casi la mitad empezó hace un año y es su principal fuente de trabajo",
+        "pubDate": "2026-11-23T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Newell's buscará hacerse oír en el Bosque, con el rigor de costumbre y un mayor vuelo",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-buscara-hacerse-oir-el-bosque-el-rigor-costumbre-y-un-mayor-vuelo-n10293644.html",
+        "image": "https://media.lacapital.com.ar/p/b7f5dc1146a4c6ad79005412abad4ad4/adjuntos/203/imagenes/103/546/0103546838/1200x675/smart/image-2026-11-22t183256450.png",
+        "summary": "La Lepra visitará este lunes, a las 17, a Gimnasia por los octavos de final. Tendrá que elevar su juego y apoyarse en la solidez defensiva para clasificar",
+        "pubDate": "2026-11-23T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El tiempo en Rosario: un lunes caluroso con bastantes nubes",
         "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-un-lunes-caluroso-bastantes-nubes-n10293682.html",
         "image": "https://media.lacapital.com.ar/p/f6ec7cf52c46d07ee17608f31f9a3522/adjuntos/203/imagenes/103/547/0103547328/2026-11-22-clima-78374459.jpg",
@@ -209,69 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/5960ba7a0d190f3290afe3e945f57dbe/adjuntos/203/imagenes/103/547/0103547168/2026-11-22-quini-6.jpg",
         "summary": "Tradicional, La Segunda y Revancha quedaron vacantes. En el sorteo del próximo miércoles habrá en juego un pozo estimado de $7.500.000.000",
         "pubDate": "2026-11-23T00:33:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Hockey: Duendes gritó campeón en una final de dos capítulos y habrá Súper Final con Universitario",
-        "link": "https://www.lacapital.com.ar/ovacion/hockey-duendes-grito-campeon-una-final-dos-capitulos-y-habra-super-final-universitario-n10293670.html",
-        "image": "https://media.lacapital.com.ar/p/c51cf450d97bd67a2223e98a5280084c/adjuntos/203/imagenes/103/547/0103547129/1200x675/smart/image-15.jpg",
-        "summary": "La final del Clausura del hockey del Litoral que Duendes ganó 2 a 1 se inició el sábado a la noche, se debió suspender por la tormenta y finalizó el domingo",
-        "pubDate": "2026-11-23T00:14:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Después de más de una década, Mercurio nuevamente recibe visitas",
-        "link": "https://www.lacapital.com.ar/informacion-general/despues-mas-una-decada-mercurio-nuevamente-recibe-visitas-n10293669.html",
-        "image": "https://media.lacapital.com.ar/p/e5456038a1b2d6dc35a4d94db39ac71b/adjuntos/203/imagenes/103/547/0103547119/2026-11-22-bepicolombo-mercurio-82886377.jpg",
-        "summary": "Los dos exploradores de la misión BepiColombo (uno europeo y otro japonés) llegaron al planeta más pequeño del sistema solar y se separarán para cartografiarlo y estudiarlo",
-        "pubDate": "2026-11-23T00:01:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La duda y el error de Ledesma, la única mancha en Central del pase a cuartos de final",
-        "link": "https://www.lacapital.com.ar/ovacion/la-duda-y-el-error-ledesma-la-unica-mancha-central-del-pase-cuartos-final-n10293662.html",
-        "image": "https://media.lacapital.com.ar/p/12824b413218a6772fe313ac62875a7b/adjuntos/203/imagenes/103/547/0103547065/ledesmaaa.jpg",
-        "summary": "Central lo ganaba con suma tranquilidad y una falla en el final le sirvió el descuento a Gimnasia de Mendoza. Ledesma dio un rebote no forzado",
-        "pubDate": "2026-11-22T23:20:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Financial Times advirtió que la suba del riesgo país complica el pago de la deuda de 2027",
-        "link": "https://www.lacapital.com.ar/economia/financial-times-advirtio-que-la-suba-del-riesgo-pais-complica-el-pago-la-deuda-2027-n10293665.html",
-        "image": "https://media.lacapital.com.ar/p/4c4acfcf6bd05221004715cf7af816d5/adjuntos/203/imagenes/103/528/0103528061/2026-11-12-caputo.jpg",
-        "summary": "El diario británico planteó dudas sobre la reelección de Javier Milei. La Argentina enfrenta vencimientos por USD 17.000 millones",
-        "pubDate": "2026-11-22T23:20:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "No hubo acuerdo y fracasó la cumbre mundial del clima: \"Muy decepcionante\"",
-        "link": "https://www.lacapital.com.ar/informacion-general/no-hubo-acuerdo-y-fracaso-la-cumbre-mundial-del-clima-muy-decepcionante-n10293659.html",
-        "image": "https://media.lacapital.com.ar/p/3109f24dce7470e95cefb6c266840200/adjuntos/203/imagenes/103/547/0103547005/2026-11-22-cumbre-clima-82892400.jpg",
-        "summary": "El mayor motivo de discrepancia fue que no se incluyera explícitamente en el texto final el abandono de las energías fósiles",
-        "pubDate": "2026-11-22T22:59:24+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Santilli debuta con su primer informe de gestión como jefe de Gabinete",
-        "link": "https://www.lacapital.com.ar/politica/santilli-debuta-su-primer-informe-gestion-como-jefe-gabinete-n10293657.html",
-        "image": "https://media.lacapital.com.ar/p/d79ac3e5702f8ddbd20bc7d5ecc4e081/adjuntos/203/imagenes/103/256/0103256002/1200x675/smart/santilli-milei-ministro-del-interior-1.jpg",
-        "summary": "El funcionario nacional se presentará este miércoles en el Senado para cumplir con el mandato constitucional desde su asunción en junio pasado",
-        "pubDate": "2026-11-22T22:44:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El peronismo se organiza en Rosario y conforma la mesa \"Axel 2027\"",
-        "link": "https://www.lacapital.com.ar/politica/el-peronismo-se-organiza-rosario-y-conforma-la-mesa-axel-2027-n10293658.html",
-        "image": "https://media.lacapital.com.ar/p/c910c86a51ce8fbf7ed6aaf0307f6fec/adjuntos/203/imagenes/101/957/0101957137/1200x675/smart/kicillofjpg.jpg",
-        "summary": "Impulsado por referentes políticos y sindicales del peronismo local, se oficializó el lanzamiento de la mesa \"Axel 2027\" en la ciudad",
-        "pubDate": "2026-11-22T22:44:00+00:00",
         "approxTime": false
       }
     ]
