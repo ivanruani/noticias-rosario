@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-23T21:31:11.829746+00:00",
+  "generatedAt": "2026-11-23T22:01:09.114476+00:00",
   "sites": {
     "rosario3": [
       {
         "source": "Rosario3",
-        "title": "Mazzantti convirtió de penal y Newell’s se lo empató a Gimnasia de La Plata en el Bosque",
+        "title": "Otra vez de penal, Mazzantti empató para Newell’s ante Gimnasia: hay partidazo en el Bosque platense",
         "link": "https://www.rosario3.com/deportes/newells-visita-a-gimnasia-en-la-plata-con-la-ilusion-de-dar-el-primer-paso-en-los-playoffs-20261122-0022.html",
-        "image": "https://www.rosario3.com/__export/1795469447596/sites/rosario3/img/2026/11/23/mazzantti_nob_gimnasia.jpg_506286608.jpg",
-        "summary": "Ignacio Fernández puso en ventaja al Lobo en el primer tiempo y Walter Mazzantti empató de penal en el complemento. La Lepra juega mejor y desperdició varias chances claras. Dirige Nicolás Ramírez y transmite Radio 2",
+        "image": "https://www.rosario3.com/__export/1795470749950/sites/rosario3/img/2026/11/23/mazzantti_gol_nob.jpg_506286608.jpg",
+        "summary": "Ignacio Fernández puso en ventaja al Lobo en el primer tiempo y Walter Mazzantti empató de penal en el complemento. Luego, Ignacio Miramón volvió a poner en ventaja al local, pero el ex Independiente, otra vez de penal, hizo el 2-2 para los rojinegros. Dirige Nicolás Ramírez y…",
         "pubDate": "2026-11-22T12:00:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Flavio Briatore, pendiente de Colapinto y de lo que se dice en Argentina, con foco en La Capital",
+        "link": "https://www.lacapital.com.ar/ovacion/flavio-briatore-pendiente-colapinto-y-lo-que-se-dice-argentina-foco-la-capital-n10293785.html",
+        "image": "https://media.lacapital.com.ar/p/3d166b66de529734ae68675f55f62c41/adjuntos/203/imagenes/103/548/0103548797/1200x675/smart/image-23.jpg",
+        "summary": "El capo de Alpine replicó la nota titulada \"Colapinto y Gasly brillantes, en una carrera tremenda en Las Vegas, de las top del siglo\"",
+        "pubDate": "2026-11-23T21:49:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Menos turistas y estadías más cortas durante el fin de semana largo",
         "link": "https://www.lacapital.com.ar/economia/menos-turistas-y-estadias-mas-cortas-el-fin-semana-largo-n10293781.html",
         "image": "https://media.lacapital.com.ar/p/782e5ca1241f0e902e24aae3e2376fdc/adjuntos/203/imagenes/102/221/0102221937/1200x675/662x248:682x268/image-2025-02-26t103935120jpg.jpg",
@@ -168,9 +177,9 @@
       },
       {
         "source": "La Capital",
-        "title": "En vivo: Newell's lo merecía y llegó al empate con gol de Mazzantti de penal",
-        "link": "https://www.lacapital.com.ar/ovacion/en-vivo-newells-lo-merecia-y-llego-al-empate-gol-mazzantti-penal-n10293760.html",
-        "image": "https://media.lacapital.com.ar/p/c0071d15645640aee7e14b125de24b00/adjuntos/203/imagenes/103/548/0103548789/1200x675/smart/image-22.jpg",
+        "title": "En vivo: Newell's regaló otra contra para el gol de Gimnasia y volvió a igualar de penal",
+        "link": "https://www.lacapital.com.ar/ovacion/en-vivo-newells-regalo-otra-contra-el-gol-gimnasia-y-volvio-igualar-penal-n10293760.html",
+        "image": "https://media.lacapital.com.ar/p/cb1e927ffba368d2a2897a782cebe221/adjuntos/203/imagenes/103/548/0103548798/1200x675/smart/image-24.jpg",
         "summary": "El equipo de Frank Kudelka se mide con el Lobo, que tiene la ventaja de la localía. Si hay empate el partido va al alargue y si la paridad persiste, habrá penales. Seguilo en vivo por La Capital",
         "pubDate": "2026-11-23T19:42:00+00:00",
         "approxTime": false
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/cfb4a88539edba1b3a5e9543e843d512/adjuntos/203/imagenes/030/706/0030706362/1200x675/smart/compra-online-03-600x330jpg.jpg",
         "summary": "Desde la Oficina Municipal del Consumidor compartieron consejos para el antes, durante y después de las compras con descuentos. Toda la información, en esta nota",
         "pubDate": "2026-11-23T10:05:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Alimentos: la estrategia de China para la próxima década",
-        "link": "https://www.lacapital.com.ar/agro/alimentos-la-estrategia-china-la-proxima-decada-n10293557.html",
-        "image": "https://media.lacapital.com.ar/p/4c9f23457063ee42178c306c4ad92dfd/adjuntos/305/imagenes/102/868/0102868140/1200x675/smart/trigo-china-barco-carguero-544.jpeg",
-        "summary": "El gigante asiático fija una meta de capacidad de producción de granos de 725 millones de toneladas para 2030. Apuesta a más rindes, tecnología y productores formados, buscando comprar afuera sólo lo que no puede producir. Un informe de la Bolsa de Comercio de Rosario analiza el…",
-        "pubDate": "2026-11-23T09:15:00+00:00",
         "approxTime": false
       }
     ]
