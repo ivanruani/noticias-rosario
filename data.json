@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T00:01:06.692320+00:00",
+  "generatedAt": "2026-11-23T00:13:34.986930+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Después de más de una década, Mercurio nuevamente recibe visitas",
+        "link": "https://www.lacapital.com.ar/informacion-general/despues-mas-una-decada-mercurio-nuevamente-recibe-visitas-n10293669.html",
+        "image": "https://media.lacapital.com.ar/p/e5456038a1b2d6dc35a4d94db39ac71b/adjuntos/203/imagenes/103/547/0103547119/2026-11-22-bepicolombo-mercurio-82886377.jpg",
+        "summary": "Los dos exploradores de la misión BepiColombo (uno europeo y otro japonés) llegaron al planeta más pequeño del sistema solar y se separarán para cartografiarlo y estudiarlo",
+        "pubDate": "2026-11-23T00:01:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "La duda y el error de Ledesma, la única mancha en Central del pase a cuartos de final",
         "link": "https://www.lacapital.com.ar/ovacion/la-duda-y-el-error-ledesma-la-unica-mancha-central-del-pase-cuartos-final-n10293662.html",
         "image": "https://media.lacapital.com.ar/p/12824b413218a6772fe313ac62875a7b/adjuntos/203/imagenes/103/547/0103547065/ledesmaaa.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/09b281afdc5172eb5321741ef18cbb5a/adjuntos/203/imagenes/103/546/0103546802/cervi.jpg",
         "summary": "El colombiano anotó el primero y participó en los otros dos del Canalla. Ibarra y Pizarro volvieron a marcar presencia en el medio y Copetti se reencontró con el gol",
         "pubDate": "2026-11-22T21:16:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Con plantel completo, Newell's viajó para jugar los octavos de final",
-        "link": "https://www.lacapital.com.ar/ovacion/con-plantel-completo-newells-viajo-jugar-los-octavos-final-n10293630.html",
-        "image": "https://media.lacapital.com.ar/p/a4bb423327bde32d0519c20167d4b7fa/adjuntos/203/imagenes/103/546/0103546760/1200x675/smart/image-2026-11-22t173148017.png",
-        "summary": "Frank Kudelka convocó a Lautaro Giannetti, Rodrigo Herrera, Matías Cóccaro, Franco Escobar y Bruno Cabrera. Un total de 26 futbolistas integran la delegación",
-        "pubDate": "2026-11-22T21:08:00+00:00",
         "approxTime": false
       }
     ]
