@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-11-23T11:30:58.573006+00:00",
+  "generatedAt": "2026-11-23T12:01:21.038845+00:00",
   "sites": {
     "rosario3": [
       {
         "source": "Rosario3",
-        "title": "Cómo funcionará Rosario este lunes feriado: transporte, residuos y salud",
-        "link": "https://www.rosario3.com/informaciongeneral/la-municipalidad-informo-como-sera-el-funcionamiento-de-los-servicios-este-fin-de-semana-largo-20261121-0020.html",
-        "image": "https://www.rosario3.com/__export/1795394814134/sites/rosario3/img/2022/06/09/mi_bici_tu_bici_con_sillita.jpg_1768679258.jpg",
-        "summary": "Por el Día de la Soberanía Nacional, este 23 de noviembre los colectivos circularán con frecuencia de día festivo y se mantendrán las guardias en hospitales. Todos los servicios en la ciudad",
-        "pubDate": "2026-11-21T12:00:00+00:00",
+        "title": "Estiman que el Paraná se mantendrá por encima del nivel de alerta en Rosario durante el verano",
+        "link": "https://www.rosario3.com/informaciongeneral/estiman-que-el-parana-se-mantendra-por-encima-del-nivel-de-alerta-en-rosario-durante-el-verano-20261123-0004.html",
+        "image": "https://www.rosario3.com/__export/1794491331440/sites/rosario3/img/2026/10/26/rioaltura.jpg_928314581.jpg",
+        "summary": "El río está en 4,91 metros y el Instituto Nacional del Agua prevé que supere los 5 metros hacia fines de noviembre. Juan Borús, especialista del organismo, explicó que nuevos aportes de agua desde las cuencas del Paraguay y Brasil podrían prolongar el escenario hasta buena parte…",
+        "pubDate": "2026-11-23T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Black Friday 2026 en Argentina: cuándo es, cómo funciona y claves para comprar de forma segura",
+        "link": "https://www.rosario3.com/informaciongeneral/black-friday-2026-en-argentina-cuando-es-como-funciona-y-claves-para-comprar-de-forma-segura-20261123-0006.html",
+        "image": "https://www.rosario3.com/__export/1795434864718/sites/rosario3/img/2026/11/23/comercio_electronico_version1795434864278.jpg_54252875.jpg",
+        "summary": "Si bien la fecha exacta es este viernes 27 de noviembre, para algunas marcas y comercios el “calendario” de ofertas y promociones se extiende a los días previos, con la Black Week, o incluso al fin de semana del 28 y 29 de noviembre. Qué tener en cuenta para aprovechar las…",
+        "pubDate": "2026-11-23T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,16 +26,7 @@
         "link": "https://www.rosario3.com/policiales/detuvieron-a-dos-personas-con-pedido-de-captura-durante-el-partido-de-central-en-el-gigante-de-arroyito-20261123-0002.html",
         "image": "https://www.rosario3.com/__export/1795430159466/sites/rosario3/img/2026/11/23/disen-o_sin_ti-tulo_-74-.png_928314581.png",
         "summary": "Los hombres fueron identificados mediante el sistema Tribuna Segura durante el encuentro ante Gimnasia de Mendoza. Además, detectaron dos pedidos de paradero vigentes y retiraron del estadio a otros dos hinchas con derecho de admisión",
-        "pubDate": "2026-11-23T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Newell’s visita a Gimnasia en La Plata con la ilusión de dar el primer paso en los playoffs",
-        "link": "https://www.rosario3.com/deportes/newells-visita-a-gimnasia-en-la-plata-con-la-ilusion-de-dar-el-primer-paso-en-los-playoffs-20261122-0022.html",
-        "image": "https://www.rosario3.com/__export/1791136631260/sites/rosario3/img/2026/10/04/regiardo.jpg_506286608.jpg",
-        "summary": "La Lepra jugará por primera vez los octavos de final desde la implementación de este formato. Visita al Lobo este lunes a las 17, en el Bosque, con la buena noticia que implica la recuperación de varios jugadores lesionados.",
-        "pubDate": "2026-11-22T11:58:00+00:00",
+        "pubDate": "2026-11-23T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -40,11 +40,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Todos los datos en la previa al choque entre Newell’s y Gimnasia en La Plata",
-        "link": "https://www.rosario3.com/deportes/todos-los-datos-en-la-previa-al-choque-entre-newells-y-gimnasia-en-la-plata-20261120-0019.html",
-        "image": "https://www.rosario3.com/__export/1788727320677/sites/rosario3/img/2026/09/06/kudelka_-1-.jpg_506286608.jpg",
-        "summary": "En su debut en playoffs, los rojinegros visitarán al Lobo en la ciudad de las diagonales, donde arrastran una racha adversa",
-        "pubDate": "2026-11-20T11:56:00+00:00",
+        "title": "Newell’s visita a Gimnasia en La Plata con la ilusión de dar el primer paso en los playoffs",
+        "link": "https://www.rosario3.com/deportes/newells-visita-a-gimnasia-en-la-plata-con-la-ilusion-de-dar-el-primer-paso-en-los-playoffs-20261122-0022.html",
+        "image": "https://www.rosario3.com/__export/1791136631260/sites/rosario3/img/2026/10/04/regiardo.jpg_506286608.jpg",
+        "summary": "La Lepra jugará por primera vez los octavos de final desde la implementación de este formato. Visita al Lobo este lunes a las 17, en el Bosque, con la buena noticia que implica la recuperación de varios jugadores lesionados.",
+        "pubDate": "2026-11-22T11:56:00+00:00",
         "approxTime": true
       },
       {
@@ -58,11 +58,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Almirón analizó que el rendimiento de Central fue \"brillante\" y habló de la continuidad de Belloso",
-        "link": "https://www.rosario3.com/deportes/almiron-analizo-que-el-rendimiento-de-central-fue-brillante-y-hablo-de-la-continuidad-de-belloso-20261122-0034.html",
-        "image": "https://www.rosario3.com/__export/1795384984475/sites/rosario3/img/2026/11/22/almiron_central_gimnasia.jpg_506286608.jpg",
-        "summary": "El entrenador canalla destacó el rendimiento del equipo en el triunfo ante Gimnasia de Mendoza, valoró el aporte de los suplentes y se mostró optimista sobre el regreso de Ángel Di María para el próximo fin de semana",
-        "pubDate": "2026-11-22T11:54:00+00:00",
+        "title": "El beach volley rosarino cerró su temporada con un Máster Final que reunió a los mejores del circuito",
+        "link": "https://www.rosario3.com/informaciongeneral/el-beach-volley-rosarino-cerro-su-temporada-con-un-master-final-que-reunio-a-los-mejores-del-circuito-20261123-0005.html",
+        "image": "https://www.rosario3.com/__export/1795433735704/sites/rosario3/img/2026/11/23/beach_volley.png_786111822.png",
+        "summary": "Ángeles Frascaroli e Isabella García Curado se consagraron campeonas en la rama femenina, mientras que Catriel y Benjamín Nicolini obtuvieron el título masculino. El torneo se disputó en el Balneario La Florida, con la participación de 64 atletas y una bolsa de premios de…",
+        "pubDate": "2026-11-23T11:54:00+00:00",
         "approxTime": true
       },
       {
@@ -94,20 +94,29 @@
       },
       {
         "source": "Rosario3",
-        "title": "Santilli debuta en el Senado con su primer informe y más de 1.200 preguntas",
-        "link": "https://www.rosario3.com/politica/santilli-debuta-en-el-senado-con-su-primer-informe-y-mas-de-1.200-preguntas-20261122-0035.html",
-        "image": "https://www.rosario3.com/__export/1792522472564/sites/rosario3/img/2026/10/20/santilli.jpg_1768679258.jpg",
-        "summary": "El jefe de Gabinete se presentará este miércoles en la Cámara alta por primera vez desde su asunción en junio. Economía, Capital Humano y Salud concentran la mayor parte de los planteos opositores, que también incluyen consultas sobre universidades, rutas y Flávio Bolsonaro",
-        "pubDate": "2026-11-22T11:50:00+00:00",
+        "title": "Todos los datos en la previa al choque entre Newell’s y Gimnasia en La Plata",
+        "link": "https://www.rosario3.com/deportes/todos-los-datos-en-la-previa-al-choque-entre-newells-y-gimnasia-en-la-plata-20261120-0019.html",
+        "image": "https://www.rosario3.com/__export/1788727320677/sites/rosario3/img/2026/09/06/kudelka_-1-.jpg_506286608.jpg",
+        "summary": "En su debut en playoffs, los rojinegros visitarán al Lobo en la ciudad de las diagonales, donde arrastran una racha adversa",
+        "pubDate": "2026-11-20T11:50:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Seguimiento individual canalla: Jaminton Campaz se colgó todas las medallas",
-        "link": "https://www.rosario3.com/deportes/seguimiento-individual-canalla-jaminton-campaz-se-colgo-todas-las-medallas-20261122-0024.html",
-        "image": "https://www.rosario3.com/__export/1795381879345/sites/rosario3/img/2026/11/22/campaz_central_gimnasia_-1-.jpg_506286608.jpg",
-        "summary": "El rendimiento de los jugadores de Central que vencieron a Gimnasia de Mendoza por los octavos de final del torneo Clausura",
-        "pubDate": "2026-11-22T11:49:00+00:00",
+        "title": "Cómo funcionará Rosario este lunes feriado: transporte, residuos y salud",
+        "link": "https://www.rosario3.com/informaciongeneral/la-municipalidad-informo-como-sera-el-funcionamiento-de-los-servicios-este-fin-de-semana-largo-20261121-0020.html",
+        "image": "https://www.rosario3.com/__export/1795394814134/sites/rosario3/img/2022/06/09/mi_bici_tu_bici_con_sillita.jpg_1768679258.jpg",
+        "summary": "Por el Día de la Soberanía Nacional, este 23 de noviembre los colectivos circularán con frecuencia de día festivo y se mantendrán las guardias en hospitales. Todos los servicios en la ciudad",
+        "pubDate": "2026-11-21T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Santilli debuta en el Senado con su primer informe y más de 1.200 preguntas",
+        "link": "https://www.rosario3.com/politica/santilli-debuta-en-el-senado-con-su-primer-informe-y-mas-de-1.200-preguntas-20261122-0035.html",
+        "image": "https://www.rosario3.com/__export/1792522472564/sites/rosario3/img/2026/10/20/santilli.jpg_1768679258.jpg",
+        "summary": "El jefe de Gabinete se presentará este miércoles en la Cámara alta por primera vez desde su asunción en junio. Economía, Capital Humano y Salud concentran la mayor parte de los planteos opositores, que también incluyen consultas sobre universidades, rutas y Flávio Bolsonaro",
+        "pubDate": "2026-11-22T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +125,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/no-comenzo-el-verano-pero-si-los-accidentes-en-dunas-de-la-costa-dos-adolescentes-heridos-20261122-0031.html",
         "image": "https://www.rosario3.com/__export/1795380860280/sites/rosario3/img/2026/11/22/pinamar.jpg_385091073.jpg",
         "summary": "Tienen 16 y 19 años y volcaron con un vehículo todoterreno UTV en la zona de médanos de La Frontera, en Pinamar, este fin de semana largo. Circulaban sin casco ni elementos de protección. Fueron hospitalizados con lesiones leves",
-        "pubDate": "2026-11-22T11:48:00+00:00",
+        "pubDate": "2026-11-22T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,15 +134,6 @@
         "link": "https://www.rosario3.com/deportes/el-doble-sobrepaso-de-colapinto-a-los-mclaren-que-causo-furor-en-las-vegas-20261122-0030.html",
         "image": "https://www.rosario3.com/__export/1795380210936/sites/rosario3/img/2026/11/22/colapinto2_1.jpg_1624404594.jpg",
         "summary": "El piloto argentino de Alpine superó en simultáneo a Lando Norris y Oscar Piastri durante la vuelta 12 del Gran Premio estadounidense. Tras la maniobra que se viralizó en redes, cerró la carrera en el sexto lugar e igualó su mejor actuación histórica en la máxima categoría",
-        "pubDate": "2026-11-22T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Run Run: Pininfarina ya tiene quien le construya en Rosario, Aguas deja de comprarle a la EPE y corren a funcionaria que pisaba loteos",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/run-run-pininfarina-ya-tiene-quien-le-construya-en-rosario-aguas-deja-de-comprarle-a-la-epe-y-corren-a-funcionaria-que-pisaba-loteos-20261122-0018.html",
-        "image": "https://www.rosario3.com/__export/1795365754617/sites/rosario3/img/2026/11/22/farineta.jpg_1067613746.jpg",
-        "summary": "Además: asoman dos modelos bien distintos para quedarse con Sancor, la pelea judicial por Damfield no está terminada, las viudas y los huérfanos de Villavicencio en Grupo Oroño, apuntan a Crucijuegos por incumplimiento en Alto Rosario, golpe a golpe en Inalpa, el dilema de…",
         "pubDate": "2026-11-22T11:46:00+00:00",
         "approxTime": true
       }
