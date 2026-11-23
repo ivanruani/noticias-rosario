@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-23T22:30:53.098157+00:00",
+  "generatedAt": "2026-11-23T23:01:10.573791+00:00",
   "sites": {
     "rosario3": [
       {
         "source": "Rosario3",
-        "title": "Alargue fatal para Newell’s: cae ante Gimnasia en el Bosque y busca la hazaña con dos jugadores menos",
+        "title": "Alargue fatal para Newell’s: cayó ante Gimnasia en el Bosque y quedó eliminado en octavos de final",
         "link": "https://www.rosario3.com/deportes/newells-visita-a-gimnasia-en-la-plata-con-la-ilusion-de-dar-el-primer-paso-en-los-playoffs-20261122-0022.html",
-        "image": "https://www.rosario3.com/__export/1795470749950/sites/rosario3/img/2026/11/23/mazzantti_gol_nob.jpg_506286608.jpg",
-        "summary": "Empataron 2-2 en los 90 minutos reglamentarios. Ignacio Fernández puso en ventaja al Lobo en el primer tiempo y Walter Mazzantti empató de penal, ya en el complemento. Luego, Ignacio Miramón volvió a poner en ventaja al local, pero el ex Independiente, otra vez de penal, igualó…",
+        "image": "https://www.rosario3.com/__export/1795465979464/sites/rosario3/img/2026/11/23/nob_gimnasia.jpg_506286608.jpg",
+        "summary": "Tras igualar 2-2 en los 90 minutos reglamentarios, el Lobo se impuso 4-2 en el tiempo extra y dejó afuera al Rojinegro, que había levantado dos veces el resultado y terminó jugando con dos menos por las expulsiones de Russo y Ortega. Walter Mazzantti, en dos penales, marcó para…",
         "pubDate": "2026-11-22T12:00:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "La actividad metalúrgica cayó 5,6 % en Santa Fe, más del doble que a nivel nacional",
+        "link": "https://www.lacapital.com.ar/economia/la-actividad-metalurgica-cayo-56-santa-fe-mas-del-doble-que-nivel-nacional-n10293789.html",
+        "image": "https://media.lacapital.com.ar/p/b04bbc51f15a71c45ae1305b0b3c19ba/adjuntos/203/imagenes/103/487/0103487707/1200x675/536x350:556x370/industria.jpeg",
+        "summary": "La provincia registró la mayor baja interanual. Adimra señaló la debilidad de los pedidos de maquinaria agrícola en el mercado interno",
+        "pubDate": "2026-11-23T22:47:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Polémica por un homenaje en la UBA al líder del ERP Mario Santucho",
+        "link": "https://www.lacapital.com.ar/politica/polemica-un-homenaje-la-uba-al-lider-del-erp-mario-santucho-n10293798.html",
+        "image": "https://media.lacapital.com.ar/p/238cef95e7f27efe7bd0f44ccd79dd2a/adjuntos/203/imagenes/103/548/0103548879/2026-11-23-santucho.jpg",
+        "summary": "El hijo dijo que hubo \"una ofensiva muy grande de la ultraderecha\" y el gobierno pidió a la universidad que \"se impongan las sanciones que correspondan\"",
+        "pubDate": "2026-11-23T22:32:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Newell's y Gimnasia hicieron goles \"calcados\" en los 90 minutos",
         "link": "https://www.lacapital.com.ar/ovacion/newells-y-gimnasia-hicieron-goles-calcados-los-90-minutos-n10293796.html",
         "image": "https://media.lacapital.com.ar/p/85fbc10e407ffcab65905313bb0808fd/adjuntos/203/imagenes/103/548/0103548823/1200x675/smart/image-25.jpg",
@@ -195,10 +213,10 @@
       },
       {
         "source": "La Capital",
-        "title": "En vivo: Newell's otra vez abajo en el marcador y con dos menos por rojas a Russo y Ortega",
-        "link": "https://www.lacapital.com.ar/ovacion/en-vivo-newells-otra-vez-abajo-el-marcador-y-dos-menos-rojas-russo-y-ortega-n10293760.html",
-        "image": "https://media.lacapital.com.ar/p/cb1e927ffba368d2a2897a782cebe221/adjuntos/203/imagenes/103/548/0103548798/1200x675/smart/image-24.jpg",
-        "summary": "El equipo de Frank Kudelka se mide con el Lobo, que tiene la ventaja de la localía. Si hay empate el partido va al alargue y si la paridad persiste, habrá penales. Seguilo en vivo por La Capital",
+        "title": "Newell's dio pelea pero le echaron a dos y terminó eliminado por Gimnasia con escándalo",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-dio-pelea-pero-le-echaron-dos-y-termino-eliminado-gimnasia-escandalo-n10293760.html",
+        "image": "https://media.lacapital.com.ar/p/bf3107a6bac491d60bb2478201ca7dbb/adjuntos/203/imagenes/103/548/0103548890/1200x675/smart/image-27.jpg",
+        "summary": "El equipo de Frank Kudelka estuvo cerca en La Plata pero lo condicionaron las expulsiones en el suplementario. Clima caliente al final.",
         "pubDate": "2026-11-23T19:42:00+00:00",
         "approxTime": false
       },
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/8f077962f346304766d200363d6447d0/adjuntos/203/imagenes/100/098/0100098148/1200x675/smart/frigorifico-1-chicajpg.jpg",
         "summary": "La faena con destino exportador promedió 274 kilos por res, frente a los 216 kilos del mercado interno. La diferencia ayuda a explicar el récord nacional de peso",
         "pubDate": "2026-11-23T13:50:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Salen a la venta las entradas para ver a Rosario Central en cuartos de final",
-        "link": "https://www.lacapital.com.ar/ovacion/salen-la-venta-las-entradas-ver-rosario-central-cuartos-final-n10293710.html",
-        "image": "https://media.lacapital.com.ar/p/fef97a2fd0b376f328f9399a6cf3f94a/adjuntos/203/imagenes/103/327/0103327854/hinchas-central.jpg",
-        "summary": "El Canalla enfrentará a Barracas Central en el Gigante de Arroyito. Si bien aún no está confirmada la fecha del partido, los tickets se podrán adquirir mañana",
-        "pubDate": "2026-11-23T13:25:28+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Una mujer denunció a chofer de DiDi porque cambió de recorrido e intentó retenerla en el auto",
-        "link": "https://www.lacapital.com.ar/policiales/una-mujer-denuncio-chofer-didi-porque-cambio-recorrido-e-intento-retenerla-el-auto-n10293705.html",
-        "image": "https://media.lacapital.com.ar/p/e0fb20748f3c1e66140bc65ff95bb58b/adjuntos/203/imagenes/103/547/0103547699/1200x675/smart/chofer-didi.png",
-        "summary": "El caso sucedió el domingo a la noche en un viaje de Pueblo Esther a Rosario. El conductor fue aprehendido por intento de privación ilegítima de la libertad",
-        "pubDate": "2026-11-23T12:54:00+00:00",
         "approxTime": false
       }
     ]
