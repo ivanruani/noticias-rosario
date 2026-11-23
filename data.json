@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T09:30:54.142635+00:00",
+  "generatedAt": "2026-11-23T10:01:06.850090+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Alimentos: la estrategia de China para la próxima década",
+        "link": "https://www.lacapital.com.ar/agro/alimentos-la-estrategia-china-la-proxima-decada-n10293557.html",
+        "image": "https://media.lacapital.com.ar/p/4c9f23457063ee42178c306c4ad92dfd/adjuntos/305/imagenes/102/868/0102868140/1200x675/smart/trigo-china-barco-carguero-544.jpeg",
+        "summary": "El gigante asiático fija una meta de capacidad de producción de granos de 725 millones de toneladas para 2030. Apuesta a más rindes, tecnología y productores formados, buscando comprar afuera sólo lo que no puede producir. Un informe de la Bolsa de Comercio de Rosario analiza el…",
+        "pubDate": "2026-11-23T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Argentina 2050: qué oportunidades se abren para el país en un mundo conflictivo",
         "link": "https://www.lacapital.com.ar/economia/argentina-2050-que-oportunidades-se-abren-el-pais-un-mundo-conflictivo-n10293668.html",
         "image": "https://media.lacapital.com.ar/p/91cdddb04fb9f28f1a67c3c5d2b0f099/adjuntos/203/imagenes/103/547/0103547084/1200x675/smart/franciscotaiana.jpg",
@@ -150,11 +159,11 @@
       },
       {
         "source": "La Capital",
-        "title": "Alimentos: la estrategia de China para la próxima década",
-        "link": "https://www.lacapital.com.ar/agro/alimentos-la-estrategia-china-la-proxima-decada-n10293557.html",
-        "image": "https://media.lacapital.com.ar/p/4c9f23457063ee42178c306c4ad92dfd/adjuntos/305/imagenes/102/868/0102868140/1200x675/smart/trigo-china-barco-carguero-544.jpeg",
-        "summary": "El gigante asiático fija una meta de capacidad de producción de granos de 725 millones de toneladas para 2030. Apuesta a más rindes, tecnología y productores formados, buscando comprar afuera sólo lo que no puede producir. Un informe de la Bolsa de Comercio de Rosario analiza el…",
-        "pubDate": "2026-11-23T09:15:00+00:00",
+        "title": "Mundo delivery: los repartidores ganan 250 mil pesos semanales y hacen dos turnos",
+        "link": "https://www.lacapital.com.ar/la-ciudad/mundo-delivery-los-repartidores-ganan-250-mil-pesos-semanales-y-hacen-dos-turnos-n10293267.html",
+        "image": "https://media.lacapital.com.ar/p/ac2fce19e291b463163d093689b6bc1d/adjuntos/203/imagenes/103/543/0103543314/1200x675/smart/db4a4d72-81fe-4666-bcc6-19a8208d83c2.jpg",
+        "summary": "El municipio completó el primer relevamiento entre 2 mil cadetes. Casi la mitad empezó hace un año y es su principal fuente de trabajo",
+        "pubDate": "2026-11-23T09:10:00+00:00",
         "approxTime": false
       },
       {
@@ -177,28 +186,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Newell's ganó una vez de visitante y no es favorito en La Plata, pero puede dar el golpe",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-gano-una-vez-visitante-y-no-es-favorito-la-plata-pero-puede-dar-el-golpe-n10293648.html",
-        "image": "https://media.lacapital.com.ar/p/3b270066e6e90e9b0de6576a66491425/adjuntos/203/imagenes/103/546/0103546884/1200x675/smart/image-2026-11-22t185915863.png",
-        "summary": "La Lepra, que visitará a Gimnasia por los octavos de final, corrigió su desempeño afuera del Coloso. Solo perdió un partido de los últimos cinco",
-        "pubDate": "2026-11-23T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Mundo delivery: los repartidores ganan 250 mil pesos semanales y hacen dos turnos",
-        "link": "https://www.lacapital.com.ar/la-ciudad/mundo-delivery-los-repartidores-ganan-250-mil-pesos-semanales-y-hacen-dos-turnos-n10293267.html",
-        "image": "https://media.lacapital.com.ar/p/ac2fce19e291b463163d093689b6bc1d/adjuntos/203/imagenes/103/543/0103543314/1200x675/smart/db4a4d72-81fe-4666-bcc6-19a8208d83c2.jpg",
-        "summary": "El municipio completó el primer relevamiento entre 2 mil cadetes. Casi la mitad empezó hace un año y es su principal fuente de trabajo",
-        "pubDate": "2026-11-23T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "Newell's buscará hacerse oír en el Bosque, con el rigor de costumbre y un mayor vuelo",
         "link": "https://www.lacapital.com.ar/ovacion/newells-buscara-hacerse-oir-el-bosque-el-rigor-costumbre-y-un-mayor-vuelo-n10293644.html",
         "image": "https://media.lacapital.com.ar/p/b7f5dc1146a4c6ad79005412abad4ad4/adjuntos/203/imagenes/103/546/0103546838/1200x675/smart/image-2026-11-22t183256450.png",
         "summary": "La Lepra visitará este lunes, a las 17, a Gimnasia por los octavos de final. Tendrá que elevar su juego y apoyarse en la solidez defensiva para clasificar",
+        "pubDate": "2026-11-23T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Newell's ganó una vez de visitante y no es favorito en La Plata, pero puede dar el golpe",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-gano-una-vez-visitante-y-no-es-favorito-la-plata-pero-puede-dar-el-golpe-n10293648.html",
+        "image": "https://media.lacapital.com.ar/p/3b270066e6e90e9b0de6576a66491425/adjuntos/203/imagenes/103/546/0103546884/1200x675/smart/image-2026-11-22t185915863.png",
+        "summary": "La Lepra, que visitará a Gimnasia por los octavos de final, corrigió su desempeño afuera del Coloso. Solo perdió un partido de los últimos cinco",
         "pubDate": "2026-11-23T09:10:00+00:00",
         "approxTime": false
       },
