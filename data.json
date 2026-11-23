@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T18:30:56.638121+00:00",
+  "generatedAt": "2026-11-23T19:01:16.266015+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "En Newell's regresarán Herrera y Cóccaro, en cambio Giannetti se sentará en el banco",
+        "link": "https://www.lacapital.com.ar/ovacion/en-newells-regresaran-herrera-y-coccaro-cambio-giannetti-se-sentara-el-banco-n10293762.html",
+        "image": "https://media.lacapital.com.ar/p/e905703f2039a17215ba8a7ffc84cb95/adjuntos/203/imagenes/103/544/0103544614/1200x675/smart/image-6.jpg",
+        "summary": "Frank Kudelka decidió que el zaguero sea suplente y que Bruno Cabrera ocupe el puesto de primer marcador central ante Gimnasia por los octavos de final",
+        "pubDate": "2026-11-23T18:55:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El índice de confianza en el gobierno de la Universidad Di Tella mostró un aumento del 4,1%",
         "link": "https://www.lacapital.com.ar/el-indice-confianza-el-gobierno-la-universidad-di-tella-mostro-un-aumento-del-41-n10293752.html",
         "image": "https://media.lacapital.com.ar/p/6d966d562032e7b0026f911b55feedfa/adjuntos/203/imagenes/103/488/0103488842/1200x675/smart/milei-karina-festejo.jpg",
@@ -240,37 +249,28 @@
       },
       {
         "source": "La Capital",
-        "title": "Mundo delivery: los repartidores ganan 250 mil pesos semanales y hacen dos turnos",
-        "link": "https://www.lacapital.com.ar/la-ciudad/mundo-delivery-los-repartidores-ganan-250-mil-pesos-semanales-y-hacen-dos-turnos-n10293267.html",
-        "image": "https://media.lacapital.com.ar/p/ac2fce19e291b463163d093689b6bc1d/adjuntos/203/imagenes/103/543/0103543314/1200x675/smart/db4a4d72-81fe-4666-bcc6-19a8208d83c2.jpg",
-        "summary": "El municipio completó el primer relevamiento entre 2 mil cadetes. Casi la mitad empezó hace un año y es su principal fuente de trabajo",
-        "pubDate": "2026-11-23T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El peronismo santafesino de nuevo en su salsa",
-        "link": "https://www.lacapital.com.ar/suscriptores/el-peronismo-santafesino-nuevo-su-salsa-n10293475.html",
-        "image": "https://media.lacapital.com.ar/p/4e182a5c80a31546a7e78a1d56fe1b35/adjuntos/203/imagenes/103/545/0103545203/1200x675/smart/lewan-massa-perotti-giuliano.jpg",
-        "summary": "A poco más de dos meses del cierre de listas, en el PJ disputan nombres antes que estrategia. El congreso partidario de diciembre será una primera prueba. Perotti quiere \"revancha\"",
-        "pubDate": "2026-11-23T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Habilitaciones express: más de 3.800 comercios ya abrieron sus puertas con el trámite simplificado",
-        "link": "https://www.lacapital.com.ar/la-ciudad/habilitaciones-express-mas-3800-comercios-ya-abrieron-sus-puertas-el-tramite-simplificado-n10293638.html",
-        "image": "https://media.lacapital.com.ar/p/7aeea461b9fae967dc943c04421457a2/adjuntos/203/imagenes/102/278/0102278524/1200x675/smart/80042104jpg.jpg",
-        "summary": "La modalidad impulsada por la Municipalidad, que entró en vigencia el año pasado, ya representa más de un tercio de todas las aprobadas desde su implementación. También puede hacer desde Munibot",
-        "pubDate": "2026-11-23T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "Newell's buscará hacerse oír en el Bosque, con el rigor de costumbre y un mayor vuelo",
         "link": "https://www.lacapital.com.ar/ovacion/newells-buscara-hacerse-oir-el-bosque-el-rigor-costumbre-y-un-mayor-vuelo-n10293644.html",
         "image": "https://media.lacapital.com.ar/p/b7f5dc1146a4c6ad79005412abad4ad4/adjuntos/203/imagenes/103/546/0103546838/1200x675/smart/image-2026-11-22t183256450.png",
         "summary": "La Lepra visitará este lunes, a las 17, a Gimnasia por los octavos de final. Tendrá que elevar su juego y apoyarse en la solidez defensiva para clasificar",
+        "pubDate": "2026-11-23T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Newell's ganó una vez de visitante y no es favorito en La Plata, pero puede dar el golpe",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-gano-una-vez-visitante-y-no-es-favorito-la-plata-pero-puede-dar-el-golpe-n10293648.html",
+        "image": "https://media.lacapital.com.ar/p/3b270066e6e90e9b0de6576a66491425/adjuntos/203/imagenes/103/546/0103546884/1200x675/smart/image-2026-11-22t185915863.png",
+        "summary": "La Lepra, que visitará a Gimnasia por los octavos de final, corrigió su desempeño afuera del Coloso. Solo perdió un partido de los últimos cinco",
+        "pubDate": "2026-11-23T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Mundo delivery: los repartidores ganan 250 mil pesos semanales y hacen dos turnos",
+        "link": "https://www.lacapital.com.ar/la-ciudad/mundo-delivery-los-repartidores-ganan-250-mil-pesos-semanales-y-hacen-dos-turnos-n10293267.html",
+        "image": "https://media.lacapital.com.ar/p/ac2fce19e291b463163d093689b6bc1d/adjuntos/203/imagenes/103/543/0103543314/1200x675/smart/db4a4d72-81fe-4666-bcc6-19a8208d83c2.jpg",
+        "summary": "El municipio completó el primer relevamiento entre 2 mil cadetes. Casi la mitad empezó hace un año y es su principal fuente de trabajo",
         "pubDate": "2026-11-23T09:10:00+00:00",
         "approxTime": false
       }
