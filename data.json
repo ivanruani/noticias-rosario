@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-11-23T17:01:12.890925+00:00",
+  "generatedAt": "2026-11-23T17:31:00.146006+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "La Sube pierde terreno en Rosario con casi 9 millones de validaciones menos en lo que va de 2026",
+        "link": "https://www.rosario3.com/informaciongeneral/la-sube-pierde-terreno-en-rosario-con-casi-9-millones-de-validaciones-menos-en-lo-que-va-de-2026-20261123-0013.html",
+        "image": "https://www.rosario3.com/__export/1795439589726/sites/rosario3/img/2024/04/08/20240325-_dsc6405.jpg_928314581.jpg",
+        "summary": "Entre el 1 de enero y el 20 de noviembre se registraron 8,6 millones de operaciones menos que en el mismo período de 2025, una caída del 9,9%. La disminución alcanza a las dos empresas que prestan el servicio y a prácticamente todas las líneas. Los datos reflejan el uso de la…",
+        "pubDate": "2026-11-23T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Santa Fe invertirá 50 millones de euros para mejorar la eficiencia energética de hospitales, escuelas y aeropuertos",
         "link": "https://www.rosario3.com/informaciongeneral/santa-fe-invertira-50-millones-de-euros-para-mejorar-la-eficiencia-energetica-de-hospitales-escuelas-y-aeropuertos-20261123-0019.html",
         "image": "https://www.rosario3.com/__export/1795443831167/sites/rosario3/img/2025/12/26/aeropuerto_rosario_renovado_14_rosario_siempre_estuvo_cerca.jpg_2091917845.jpg",
         "summary": "El financiamiento internacional permitirá intervenir 27 edificios públicos de la provincia, entre ellos el Aeropuerto Internacional Rosario y el hospital Centenario. El programa prevé reducir cerca de un 40% el consumo energético y más de un 60% las emisiones de gases de efecto…",
-        "pubDate": "2026-11-23T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "¿Asesinos por naturaleza?",
-        "link": "https://www.rosario3.com/opinion/asesinos-por-naturaleza-20261123-0020.html",
-        "image": "https://www.rosario3.com/__export/1795444741547/sites/rosario3/img/2026/11/23/gordon.jpg_928314581.jpg",
-        "summary": "El boom del estreno de la serie Gordon muestra cómo los cimientos de la política argentina se erigían también sobre la muerte violenta del adversario. Hoy, esas guerras son aisladas, pero vecinales y cotidianas. ¿Matar al otro para terminar con un problema?",
         "pubDate": "2026-11-23T11:59:00+00:00",
         "approxTime": true
       },
@@ -40,38 +40,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Nvidia restituyó a Jensen Huang como CEO tras aceptar su renuncia por un escándalo personal",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/nvidia-restituyo-a-jensen-huang-como-ceo-tras-aceptar-su-renuncia-por-un-escandalo-personal-20261123-0022.html",
-        "image": "https://www.rosario3.com/__export/1795446099920/sites/rosario3/img/2025/11/21/nvidia.jpg_982625323.jpg",
-        "summary": "La junta directiva de la compañía decidió devolverle los cargos de director ejecutivo, presidente y miembro del directorio, casi dos semanas después de haber aceptado su salida. La decisión llegó tras una serie de reuniones y conversaciones con el empresario. Donald Trump…",
-        "pubDate": "2026-11-23T11:56:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "A principio de 2027 se rematarán cinco inmuebles decomisados al delito, entre ellos, un edificio céntrico de Rosario",
-        "link": "https://www.rosario3.com/informaciongeneral/a-principio-de-2027-se-remataran-cinco-inmuebles-decomisados-al-delito-entre-ellos-un-edificio-centrico-de-rosario-20261123-0009.html",
-        "image": "https://www.rosario3.com/__export/1795437210849/sites/rosario3/img/2026/11/23/decomiso.jpg_928314581.jpg",
-        "summary": "El secretario de Gestión de Registros Provinciales, Matías Figueroa Escauriza anunció que entre marzo y mayo del año que viene se subastarán un departamento y una cochera ubicados en Cerrito al 600, dos departamentos asentados en Alvear y Funes y la propiedad de 27 departamentos…",
-        "pubDate": "2026-11-23T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Aprehendieron a un chofer de una aplicación de transporte tras la denuncia de una joven en Pueblo Esther",
-        "link": "https://www.rosario3.com/policiales/aprehendieron-a-un-chofer-de-una-aplicacion-de-transporte-tras-la-denuncia-de-una-joven-en-pueblo-esther-20261123-0012.html",
-        "image": "https://www.rosario3.com/__export/1795437904471/sites/rosario3/img/2026/11/23/whatsapp_image_2026-11-23_at_09-15-30_-1-_version1795437903883.jpeg_1825222445.jpeg",
-        "summary": "La mujer, de 25 años, viajaba hacia Rosario cuando el conductor se desvió del recorrido indicado por el GPS y tomó un camino rural. Según su relato, el hombre se negó a retomar la ruta y la sujetó del brazo cuando intentó bajar del auto. Logró escapar y fue auxiliada por otro…",
-        "pubDate": "2026-11-23T11:54:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
         "title": "Newell’s visita a Gimnasia en La Plata con la ilusión de dar el primer paso en los playoffs",
         "link": "https://www.rosario3.com/deportes/newells-visita-a-gimnasia-en-la-plata-con-la-ilusion-de-dar-el-primer-paso-en-los-playoffs-20261122-0022.html",
         "image": "https://www.rosario3.com/__export/1791136631260/sites/rosario3/img/2026/10/04/regiardo.jpg_506286608.jpg",
         "summary": "La Lepra jugará por primera vez los octavos de final desde la implementación de este formato. Visita al Lobo este lunes a las 17, en el Bosque, con la buena noticia que implica la recuperación de varios jugadores lesionados.",
-        "pubDate": "2026-11-22T11:53:00+00:00",
+        "pubDate": "2026-11-22T11:56:00+00:00",
         "approxTime": true
       },
       {
@@ -80,7 +53,7 @@
         "link": "https://www.rosario3.com/deportes/todos-los-datos-en-la-previa-al-choque-entre-newells-y-gimnasia-en-la-plata-20261120-0019.html",
         "image": "https://www.rosario3.com/__export/1788727320677/sites/rosario3/img/2026/09/06/kudelka_-1-.jpg_506286608.jpg",
         "summary": "En su debut en playoffs, los rojinegros visitarán al Lobo en la ciudad de las diagonales, donde arrastran una racha adversa",
-        "pubDate": "2026-11-20T11:52:00+00:00",
+        "pubDate": "2026-11-20T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -89,56 +62,92 @@
         "link": "https://www.rosario3.com/informaciongeneral/black-friday-2026-en-argentina-cuando-es-como-funciona-y-claves-para-comprar-de-forma-segura-20261123-0006.html",
         "image": "https://www.rosario3.com/__export/1795434864718/sites/rosario3/img/2026/11/23/comercio_electronico_version1795434864278.jpg_54252875.jpg",
         "summary": "Si bien la fecha exacta es este viernes 27 de noviembre, para algunas marcas y comercios el “calendario” de ofertas y promociones se extiende a los días previos, con la Black Week, o incluso al fin de semana del 28 y 29 de noviembre. Qué tener en cuenta para aprovechar las…",
+        "pubDate": "2026-11-23T11:54:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "¿Asesinos por naturaleza?",
+        "link": "https://www.rosario3.com/opinion/asesinos-por-naturaleza-20261123-0020.html",
+        "image": "https://www.rosario3.com/__export/1795444741547/sites/rosario3/img/2026/11/23/gordon.jpg_928314581.jpg",
+        "summary": "El boom del estreno de la serie Gordon muestra cómo los cimientos de la política argentina se erigían también sobre la muerte violenta del adversario. Hoy, esas guerras son aisladas, pero vecinales y cotidianas. ¿Matar al otro para terminar con un problema?",
+        "pubDate": "2026-11-23T11:53:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "La industria metalúrgica no logra recuperarse: cayó el empleo y la capacidad instalada está en mínimos históricos",
+        "link": "https://www.rosario3.com/informaciongeneral/la-industria-metalurgica-no-logra-recuperarse-cayo-el-empleo-y-la-capacidad-instalada-esta-en-minimos-historicos-20261123-0029.html",
+        "image": "https://www.rosario3.com/__export/1795451151335/sites/rosario3/img/2026/11/23/act_metalurgica.png_786111822.png",
+        "summary": "La actividad tuvo un repunte mensual del 0,8% en octubre, pero no logró revertir la tendencia negativa y acumula una contracción del 5% en lo que va de 2026. Además, el uso de la capacidad instalada tocó su nivel más bajo para un octubre desde 2016 y el empleo retrocedió un 1,1%…",
+        "pubDate": "2026-11-23T11:52:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Nvidia restituyó a Jensen Huang como CEO tras aceptar su renuncia por un escándalo personal",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/nvidia-restituyo-a-jensen-huang-como-ceo-tras-aceptar-su-renuncia-por-un-escandalo-personal-20261123-0022.html",
+        "image": "https://www.rosario3.com/__export/1795446099920/sites/rosario3/img/2025/11/21/nvidia.jpg_982625323.jpg",
+        "summary": "La junta directiva de la compañía decidió devolverle los cargos de director ejecutivo, presidente y miembro del directorio, casi dos semanas después de haber aceptado su salida. La decisión llegó tras una serie de reuniones y conversaciones con el empresario. Donald Trump…",
         "pubDate": "2026-11-23T11:51:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "La Iglesia reclamó al Senado que apruebe la Ley de Ludopatía: “La sociedad necesita respuestas concretas”",
-        "link": "https://www.rosario3.com/informaciongeneral/la-iglesia-reclamo-al-senado-que-apruebe-la-ley-de-ludopatia-la-sociedad-necesita-respuestas-concretas-20261123-0010.html",
-        "image": "https://www.rosario3.com/__export/1795437126417/sites/rosario3/img/2026/11/23/iglesia_ludopatia.png_786111822.png",
-        "summary": "La Conferencia Episcopal Argentina difundió una carta abierta en la que reclamó el tratamiento urgente del proyecto para prevenir la ludopatía infantil y juvenil y regular las apuestas online. La iniciativa será debatida el próximo jueves 26 de noviembre, luego de que el Senado…",
+        "title": "A principio de 2027 se rematarán cinco inmuebles decomisados al delito, entre ellos, un edificio céntrico de Rosario",
+        "link": "https://www.rosario3.com/informaciongeneral/a-principio-de-2027-se-remataran-cinco-inmuebles-decomisados-al-delito-entre-ellos-un-edificio-centrico-de-rosario-20261123-0009.html",
+        "image": "https://www.rosario3.com/__export/1795437210849/sites/rosario3/img/2026/11/23/decomiso.jpg_928314581.jpg",
+        "summary": "El secretario de Gestión de Registros Provinciales, Matías Figueroa Escauriza anunció que entre marzo y mayo del año que viene se subastarán un departamento y una cochera ubicados en Cerrito al 600, dos departamentos asentados en Alvear y Funes y la propiedad de 27 departamentos…",
         "pubDate": "2026-11-23T11:50:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Capturaron en México a “El Chapo Isidro”, uno de los diez fugitivos más buscados por el FBI",
-        "link": "https://www.rosario3.com/policiales/capturaron-en-mexico-a-el-chapo-isidro-uno-de-los-diez-fugitivos-mas-buscados-por-el-fbi-20261123-0024.html",
-        "image": "https://www.rosario3.com/__export/1795447806539/sites/rosario3/img/2026/11/23/disen-o_sin_ti-tulo_-75-.png_928314581.png",
-        "summary": "Fausto Isidro Meza Flores, señalado como líder del cartel Meza-Flores y vinculado a la organización de los Beltrán Leyva, fue detenido durante un operativo militar en Sinaloa. Cuatro integrantes del Ejército mexicano y siete presuntos miembros de la organización criminal…",
+        "title": "Aprehendieron a un chofer de una aplicación de transporte tras la denuncia de una joven en Pueblo Esther",
+        "link": "https://www.rosario3.com/policiales/aprehendieron-a-un-chofer-de-una-aplicacion-de-transporte-tras-la-denuncia-de-una-joven-en-pueblo-esther-20261123-0012.html",
+        "image": "https://www.rosario3.com/__export/1795437904471/sites/rosario3/img/2026/11/23/whatsapp_image_2026-11-23_at_09-15-30_-1-_version1795437903883.jpeg_1825222445.jpeg",
+        "summary": "La mujer, de 25 años, viajaba hacia Rosario cuando el conductor se desvió del recorrido indicado por el GPS y tomó un camino rural. Según su relato, el hombre se negó a retomar la ruta y la sujetó del brazo cuando intentó bajar del auto. Logró escapar y fue auxiliada por otro…",
         "pubDate": "2026-11-23T11:49:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Un adolescente de 17 años atacó a golpes al novio de su expareja y lo dejó inconsciente: “No aprendimos nada con el caso de Báez Sosa”",
-        "link": "https://www.rosario3.com/informaciongeneral/un-adolescente-de-17-anos-ataco-a-golpes-al-novio-de-su-expareja-y-lo-dejo-inconsciente-no-aprendimos-nada-con-el-caso-de-baez-sosa-20261123-0018.html",
-        "image": "https://www.rosario3.com/__export/1795442988855/sites/rosario3/img/2026/11/23/merlo.png_786111822.png",
-        "summary": "El ataque ocurrió en plena calle de San Antonio de Padua y quedó registrado por una cámara de seguridad. La víctima, de 19 años, perdió el conocimiento tras recibir el primer golpe y sufrió otras cinco trompadas en la cabeza",
+        "title": "Estiman que el Paraná se mantendrá por encima del nivel de alerta en Rosario durante el verano",
+        "link": "https://www.rosario3.com/informaciongeneral/estiman-que-el-parana-se-mantendra-por-encima-del-nivel-de-alerta-en-rosario-durante-el-verano-20261123-0004.html",
+        "image": "https://www.rosario3.com/__export/1794491331440/sites/rosario3/img/2026/10/26/rioaltura.jpg_928314581.jpg",
+        "summary": "El río está en 4,91 metros y el Instituto Nacional del Agua prevé que supere los 5 metros hacia fines de noviembre. Juan Borús, especialista del organismo, explicó que nuevos aportes de agua desde las cuencas del Paraguay y Brasil podrían prolongar el escenario hasta buena parte…",
         "pubDate": "2026-11-23T11:48:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Tras el feriado de la Soberanía Nacional, ¿cuándo será el próximo fin de semana largo?",
-        "link": "https://www.rosario3.com/informaciongeneral/tras-el-feriado-de-la-soberania-nacional-cuando-sera-el-proximo-fin-de-semana-largo-20261123-0015.html",
-        "image": "https://www.rosario3.com/__export/1795439828052/sites/rosario3/img/2026/11/23/feriado.png_786111822.png",
-        "summary": "Este lunes 23 de noviembre es feriado por el Día de la Soberanía Nacional y marca el cierre de un fin de semana largo de tres días. El calendario de 2026 todavía contempla otras fechas para disfrutar de jornadas de descanso durante diciembre. Mirá",
+        "title": "El Quini 6 Tradicional quedó vacante y el Siempre Sale tuvo ganadores santafesinos",
+        "link": "https://www.rosario3.com/informaciongeneral/el-quini-6-quedo-vacante-a-cuanto-asciende-el-pozo-millonario-20261123-0003.html",
+        "image": "https://www.rosario3.com/__export/1795432758508/sites/rosario3/img/2026/11/23/quini_6_-1-_version1795432757796.png_1215345974.png",
+        "summary": "El sorteo Nº 3.428 del Quini 6 no registró boletas con seis aciertos para las principales modalidades. Sin embargo, la fortuna tocó la puerta de siete jugadores de Santa Fe que se llevaron nueve millones de pesos por su jugada en el Siempre Sale. La próxima chance será este…",
         "pubDate": "2026-11-23T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Basura, escombros y huevazos contra la casa del dueño de los pitbulls que mataron al caniche en Rosario",
-        "link": "https://www.rosario3.com/informaciongeneral/basura-escombros-y-huevazos-contra-la-casa-del-dueno-de-los-pitbulls-que-mataron-al-caniche-en-rosario-20261123-0014.html",
-        "image": "https://www.rosario3.com/__export/1795440177471/sites/rosario3/img/2026/11/23/pitbullshome.jpg_928314581.jpg",
-        "summary": "El viernes a la tarde dejaron en la puerta de la vivienda ubicada en Mitre y Zeballos, gran cantidad de residuos, piedras y maderas en señal de protesta por el hecho. El propietario de los animales agresores quedó en libertad",
+        "title": "Reclamo por la suspensión del recital de Shakira en Córdoba: la Justicia avaló la demanda como proceso colectivo",
+        "link": "https://www.rosario3.com/ocio/reclamo-por-la-suspension-del-recital-de-shakira-en-cordoba-la-justicia-avalo-la-demanda-como-proceso-colectivo-20261123-0025.html",
+        "image": "https://www.rosario3.com/__export/1795449914923/sites/rosario3/img/2026/11/23/shakira.jpg_54252070.jpg",
+        "summary": "El recital de la artista colombiana era parte de Las Mujeres Ya No Lloran World Tour y fue interrumpido sin completar el repertorio por una tormenta eléctrica. Según los demandantes, existían alertas meteorológicas previas y el concierto se confirmó de todos modos. La acción…",
         "pubDate": "2026-11-23T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Bienes decomisados al delito: se viene la subasta de un edificio entero del centro de Rosario",
+        "link": "https://www.lacapital.com.ar/policiales/bienes-decomisados-al-delito-se-viene-la-subasta-un-edificio-entero-del-centro-rosario-n10293744.html",
+        "image": "https://media.lacapital.com.ar/p/930befe08da36ed236ada12a1b7b84e0/adjuntos/203/imagenes/103/548/0103548409/1200x675/smart/whatsapp-image-2026-11-22-at-090010.jpeg",
+        "summary": "Será a principios del año que viene, en un lote que también incluirá cuatro inmuebles ubicados en la ciudad, en Funes y en Alvear",
+        "pubDate": "2026-11-23T17:21:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Deforestación cero: Santa Fe y Nación acuerdan una posición común ante las exigencias europeas",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/3b270066e6e90e9b0de6576a66491425/adjuntos/203/imagenes/103/546/0103546884/1200x675/smart/image-2026-11-22t185915863.png",
         "summary": "La Lepra, que visitará a Gimnasia por los octavos de final, corrigió su desempeño afuera del Coloso. Solo perdió un partido de los últimos cinco",
         "pubDate": "2026-11-23T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El tiempo en Rosario: un lunes caluroso con bastantes nubes",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-un-lunes-caluroso-bastantes-nubes-n10293682.html",
-        "image": "https://media.lacapital.com.ar/p/f6ec7cf52c46d07ee17608f31f9a3522/adjuntos/203/imagenes/103/547/0103547328/2026-11-22-clima-78374459.jpg",
-        "summary": "Se anuncian posibles chaparrones en la noche. El miércoles habría un descenso en los registros y el sábado podría tener una máxima de 35º",
-        "pubDate": "2026-11-23T02:36:00+00:00",
         "approxTime": false
       }
     ]
