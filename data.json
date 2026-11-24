@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T10:01:15.300263+00:00",
+  "generatedAt": "2026-11-24T10:30:58.688805+00:00",
   "sites": {
     "rosario3": [
       {
@@ -31,11 +31,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "El Gobierno reúne a la mesa política para definir la estrategia legislativa de una semana clave en el Congreso",
-        "link": "https://www.rosario3.com/informaciongeneral/el-gobierno-reune-a-la-mesa-politica-para-definir-la-estrategia-legislativa-de-una-semana-clave-en-el-congreso-20261123-0033.html",
-        "image": "https://www.rosario3.com/__export/1795459321154/sites/rosario3/img/2026/11/23/mesa.jpg_2106848869.jpg",
-        "summary": "El intercambio de los referentes del oficialismo tendrá lugar este martes, con una agenda atravesada por la reforma electoral, la ley de ludopatía y los proyectos de Presupuesto 2027 y reforma del BCRA",
-        "pubDate": "2026-11-23T11:57:00+00:00",
+        "title": "El clima en Rosario: cuánto pesa el calor",
+        "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-cuanto-pesa-el-calor-20261124-0001.html",
+        "image": "https://www.rosario3.com/__export/1784980443548/sites/rosario3/img/2026/07/19/nublado.jpg_1825222445.jpg",
+        "summary": "El Servicio Meteorológico Nacional anticipa una jornada cálida y mayormente estable en la región. El termómetro sube con fuerza en los próximos días y se acerca a marcas más altas",
+        "pubDate": "2026-11-24T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -58,11 +58,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Seguimiento individual leproso: Mazzantti, por los goles, y los destellos de Guch",
-        "link": "https://www.rosario3.com/deportes/seguimiento-individual-leproso-mazzantti-por-los-goles-y-los-destellos-de-guch-20261123-0036.html",
-        "image": "https://www.rosario3.com/__export/1795470816695/sites/rosario3/img/2026/11/23/seguimiento_nob_gimnasia.jpg_506286608.jpg",
-        "summary": "El rendimiento de los jugadores de Newell’s que perdieron ante Gimnasia de La Plata, por los octavos de final del torneo Clausura",
-        "pubDate": "2026-11-23T11:54:00+00:00",
+        "title": "El descargo de Maxi Rodríguez y el Gato Formica contra el arbitraje tras la caída de Newell’s ante Gimnasia",
+        "link": "https://www.rosario3.com/deportes/el-descargo-de-maxi-rodriguez-y-el-gato-formica-contra-el-arbitraje-tras-la-caida-de-newells-ante-gimnasia-20261124-0002.html",
+        "image": "https://www.rosario3.com/__export/1795512510715/sites/rosario3/img/2026/11/24/image_-88-.jpg_928314580.jpg",
+        "summary": "Los referentes rojinegros apuntaron en redes sociales contra la labor del árbitro Nicolás Ramírez luego de la derrota 4-2 en el suplementario por los octavos de final y el escándalo del final",
+        "pubDate": "2026-11-24T11:54:00+00:00",
         "approxTime": true
       },
       {
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Trágico incendio en Arroyo Seco: una mujer de 87 años murió carbonizada",
+        "link": "https://www.lacapital.com.ar/la-region/tragico-incendio-arroyo-seco-una-mujer-87-anos-murio-carbonizada-n10293832.html",
+        "image": "https://media.lacapital.com.ar/p/5aed87f0203c86f1c9f3580e615bd342/adjuntos/203/imagenes/103/549/0103549239/1200x675/smart/tragico-incendio-arroyo-seco-2.png",
+        "summary": "Según las primeras informaciones, la víctima tendría problemas de movilidad. Su hijo, de 60 años, fue derivado a un hospital por inhalación de humo",
+        "pubDate": "2026-11-24T10:08:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "El centro se transforma: fue un icónico boliche y ahora se convertirá en un bazar chino",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/e4a1aa1298067e877a39379c187102e8/adjuntos/203/imagenes/103/549/0103549045/1200x675/smart/image-28.jpg",
         "summary": "El zaguero combatió y por lo general ganó en los mano a mano, a pesar de que no tuvo la misma velocidad que antes de que se lesionara",
         "pubDate": "2026-11-23T23:13:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Newell's luchó con lo que tenía y hasta donde pudo, pero quedó afuera del Clausura",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-lucho-lo-que-tenia-y-donde-pudo-pero-quedo-afuera-del-clausura-n10293769.html",
-        "image": "https://media.lacapital.com.ar/p/988a66779d5bba402d6405e0450ad5e7/adjuntos/203/imagenes/103/548/0103548946/2026-11-23-newells-gimnasia-by_lvincenti.jpg",
-        "summary": "La entrega del conjunto rojinegro, que remontó dos veces el resultado, no fue suficiente. Perdió ante Gimnasia por 4 a 2 en los octavos de final",
-        "pubDate": "2026-11-23T23:09:00+00:00",
         "approxTime": false
       }
     ]
