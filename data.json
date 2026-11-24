@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T23:30:54.366565+00:00",
+  "generatedAt": "2026-11-24T00:01:10.008090+00:00",
   "sites": {
     "rosario3": [
       {
@@ -42,7 +42,7 @@
         "source": "Rosario3",
         "title": "Final caliente en La Plata: los jugadores de Newell’s fueron a buscar al arquero de Gimnasia y hubo varios expulsados más",
         "link": "https://www.rosario3.com/deportes/final-caliente-en-la-plata-los-jugadores-de-newells-fueron-a-buscar-al-arquero-de-gimnasia-y-hubo-varios-expulsados-mas-20261123-0039.html",
-        "image": "https://www.rosario3.com/__export/1795475850704/sites/rosario3/img/2026/11/23/incidentes_nob_gimnasia.jpg_506286608.jpg",
+        "image": "https://www.rosario3.com/__export/1795475850704/sites/rosario3/img/2026/11/23/incidentes_nob_gimnasia.jpg_1136039995.jpg",
         "summary": "Los rojinegros entendieron que Harlen Castillo los provocó y, tras el pitazo final, increparon al arquero del Lobo, en medio de la bronca por haber quedado afuera del torneo. Por los incidentes, el árbitro Nicolás Ramírez expulsó al guardameta del local y, por el lado leproso, a…",
         "pubDate": "2026-11-23T11:56:00+00:00",
         "approxTime": true
@@ -139,6 +139,24 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "El clic para Newell's: la roja de Russo y el tanto en contra en la primera de Escobar",
+        "link": "https://www.lacapital.com.ar/ovacion/el-clic-newells-la-roja-russo-y-el-tanto-contra-la-primera-escobar-n10293814.html",
+        "image": "https://media.lacapital.com.ar/p/9fb44881525664d96b8967a69154da89/adjuntos/203/imagenes/103/549/0103549069/1200x675/smart/image-27.jpg",
+        "summary": "Frank Kudelka demoró para sacar al lateral Jerónimo Russo y luego de la roja se apuró en retirar de la cancha a Mazzantti. Y vino el 3-2 en contra del ingresado Franco Escobar",
+        "pubDate": "2026-11-23T23:46:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El exbarra de Colón había estado preso hasta horas antes de ser asesinado en Santa Fe",
+        "link": "https://www.lacapital.com.ar/policiales/el-exbarra-colon-habia-estado-preso-horas-antes-ser-asesinado-santa-fe-n10293805.html",
+        "image": "https://media.lacapital.com.ar/p/7fcd7ba64ce818cd85b51d274e419efb/adjuntos/203/imagenes/020/552/0020552309/1200x675/smart/barrajpg.jpg",
+        "summary": "Víctor \"Toco\" Zavala, ligado a un ataque con arma blanca en la tribuna y a incidentes en la cárcel de Coronda, había sido apresado por golpear a un policía 48 horas antes de ser ultimado",
+        "pubDate": "2026-11-23T23:37:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Semana clave para las pretensiones del gobierno en el Congreso",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/e905703f2039a17215ba8a7ffc84cb95/adjuntos/203/imagenes/103/544/0103544614/1200x675/smart/image-6.jpg",
         "summary": "Frank Kudelka decidió que el zaguero sea suplente y que Bruno Cabrera ocupe el puesto de primer marcador central ante Gimnasia por los octavos de final",
         "pubDate": "2026-11-23T18:55:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El índice de confianza en el gobierno de la Universidad Di Tella mostró un aumento del 4,1%",
-        "link": "https://www.lacapital.com.ar/politica/el-indice-confianza-el-gobierno-la-universidad-di-tella-mostro-un-aumento-del-41-n10293752.html",
-        "image": "https://media.lacapital.com.ar/p/6d966d562032e7b0026f911b55feedfa/adjuntos/203/imagenes/103/488/0103488842/1200x675/smart/milei-karina-festejo.jpg",
-        "summary": "La variable se mide todos los meses desde 2001 y en su último registro, correspondiente a noviembre, arrojó un dato positivo hacia la gestión de Javier Milei",
-        "pubDate": "2026-11-23T18:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Bienes decomisados al delito: se viene la subasta de un edificio entero del centro de Rosario",
-        "link": "https://www.lacapital.com.ar/policiales/bienes-decomisados-al-delito-se-viene-la-subasta-un-edificio-entero-del-centro-rosario-n10293744.html",
-        "image": "https://media.lacapital.com.ar/p/930befe08da36ed236ada12a1b7b84e0/adjuntos/203/imagenes/103/548/0103548409/1200x675/smart/whatsapp-image-2026-11-22-at-090010.jpeg",
-        "summary": "Será a principios del año que viene, en un lote que también incluirá cuatro inmuebles ubicados en la ciudad, en Funes y en Alvear",
-        "pubDate": "2026-11-23T17:21:00+00:00",
         "approxTime": false
       }
     ]
