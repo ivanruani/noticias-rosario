@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T01:01:09.991220+00:00",
+  "generatedAt": "2026-11-24T01:30:57.790888+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Rosario Central se transformó en el mejor de la Rosarina, con cinco títulos en 2026",
+        "link": "https://www.lacapital.com.ar/ovacion/rosario-central-se-transformo-el-mejor-la-rosarina-cinco-titulos-2026-n10293821.html",
+        "image": "https://media.lacapital.com.ar/p/ee6770c36bf81713ae17cd71af3489a0/adjuntos/203/imagenes/103/549/0103549139/1200x675/smart/image-2026-11-23t215721508.png",
+        "summary": "El club auriazul realizó una gran temporada en los torneos de la Rosarina, ganó cinco títulos y fue el mejor en la tabla anual con 441 puntos",
+        "pubDate": "2026-11-24T01:22:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El sociólogo Roberto Aruj expondrá en Rosario sobre la \"Crisis de las migraciones internacionales\"",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-sociologo-roberto-aruj-expondra-rosario-la-crisis-las-migraciones-internacionales-n10293822.html",
+        "image": "https://media.lacapital.com.ar/p/8180fb2487d0dfd43c6077b832843ed7/adjuntos/203/imagenes/103/549/0103549154/2026-11-23-roberto-aruj.jpg",
+        "summary": "La actividad libre y gratuita se realizará este martes 24, a las 17, en la sala bar del Colegio de Abogados de Rosario",
+        "pubDate": "2026-11-24T01:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Con tensión e incertidumbre, la misión BepiColombo ingresó en la órbita de Mercurio",
         "link": "https://www.lacapital.com.ar/informacion-general/con-tension-e-incertidumbre-la-mision-bepicolombo-ingreso-la-orbita-mercurio-n10293817.html",
         "image": "https://media.lacapital.com.ar/p/18e1641bf6bddefdb3e8183f1e3ace17/adjuntos/203/imagenes/103/549/0103549105/2026-11-23-bepicolombo-mercurio.jpg",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/f2e0bc2aa339edd0efa3dae2a2e9f6d9/adjuntos/203/imagenes/103/548/0103548809/2026-11-23-jensen-huang-nvidia.jpg",
         "summary": "El CEO había renunciado tras admitir sus relaciones con una presunta espía china, tras lo cual la caída en Wall Street de la empresa superó el 40 por ciento",
         "pubDate": "2026-11-23T22:21:44+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Flavio Briatore, pendiente de Colapinto y de lo que se dice en Argentina, con foco en La Capital",
-        "link": "https://www.lacapital.com.ar/ovacion/flavio-briatore-pendiente-colapinto-y-lo-que-se-dice-argentina-foco-la-capital-n10293785.html",
-        "image": "https://media.lacapital.com.ar/p/3d166b66de529734ae68675f55f62c41/adjuntos/203/imagenes/103/548/0103548797/1200x675/smart/image-23.jpg",
-        "summary": "El capo de Alpine replicó la nota titulada \"Colapinto y Gasly brillantes, en una carrera tremenda en Las Vegas, de las top del siglo\"",
-        "pubDate": "2026-11-23T21:49:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Menos turistas y estadías más cortas durante el fin de semana largo",
-        "link": "https://www.lacapital.com.ar/economia/menos-turistas-y-estadias-mas-cortas-el-fin-semana-largo-n10293781.html",
-        "image": "https://media.lacapital.com.ar/p/782e5ca1241f0e902e24aae3e2376fdc/adjuntos/203/imagenes/102/221/0102221937/1200x675/662x248:682x268/image-2025-02-26t103935120jpg.jpg",
-        "summary": "El gasto diario por viajero fue de $118.770, un 3,1% menos en términos reales que en 2025. Las escapadas de cercanía y las salidas por el día sostuvieron la actividad en varias localidades",
-        "pubDate": "2026-11-23T20:44:00+00:00",
         "approxTime": false
       }
     ]
