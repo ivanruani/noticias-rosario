@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T17:33:37.295076+00:00",
+  "generatedAt": "2026-11-24T18:01:09.336726+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,33 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El básquet rosarino entra en etapa de definiciones: ascensos, campeones y playoffs",
+        "link": "https://www.lacapital.com.ar/ovacion/el-basquet-rosarino-entra-etapa-definiciones-ascensos-campeones-y-playoffs-n10293859.html",
+        "image": "https://media.lacapital.com.ar/p/6c62a97197c782116659a9081f7754e0/adjuntos/203/imagenes/103/550/0103550754/1200x675/smart/image.jpg",
+        "summary": "Algunas categoría de la Asociación Rosarina de Básquet ya tienen consagrados y otras transitan instancias decisivas",
+        "pubDate": "2026-11-24T17:44:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Un pueblo de Santa Fe compite entre los mejores destinos turísticos rurales del mundo",
+        "link": "https://www.lacapital.com.ar/la-region/un-pueblo-santa-fe-compite-los-mejores-destinos-turisticos-rurales-del-mundo-n10293927.html",
+        "image": "https://media.lacapital.com.ar/p/0997e9f04ce90d282dc03b042a72ee9b/adjuntos/203/imagenes/103/186/0103186460/1200x675/smart/zenon-pereyra-305-3.jpg",
+        "summary": "Zenón Pereyra fue elegido para competir en Best Tourism Villages, el programa de ONU Turismo que reconoce a pueblos rurales por su patrimonio e identidad",
+        "pubDate": "2026-11-24T17:37:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Con una fuerte inversión, Criolani incorpora una marca alemana clave en el tratamiento de residuos y efluentes",
+        "link": "https://www.lacapital.com.ar/negocios/con-una-fuerte-inversion-criolani-incorpora-unamarca-alemana-clave-el-tratamiento-residuos-y-efluentes-n10293942.html",
+        "image": "https://media.lacapital.com.ar/p/34def0b481599f47d951236b5e5e68b4/adjuntos/203/imagenes/103/550/0103550613/82885872.jpeg",
+        "summary": "La empresa santafesina concretó la representación exclusiva de FAN, una firma de la alemana Bauer. Apuntan a realizar diez instalaciones en 2027",
+        "pubDate": "2026-11-24T17:35:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El campo liquidó USD 3.814 millones en septiembre, pero los cobros cayeron un 26% frente al año pasado",
         "link": "https://www.lacapital.com.ar/comercio-internacional/el-campo-liquido-usd-3814-millones-septiembre-pero-los-cobros-cayeron-un-26-frente-al-ano-pasado-n10293938.html",
         "image": "https://media.lacapital.com.ar/p/121982f7795ca797fb1c16ef435919c4/adjuntos/203/imagenes/103/550/0103550547/1200x675/smart/3aaa0c86-ba0f-49c5-92d8-d2ce7179ca9e.jpg",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/db9b371134b81757b2125166221c86f5/adjuntos/203/imagenes/103/549/0103549906/doris-bellmann-1.jpeg",
         "summary": "La ginecóloga fue una especialista de vanguardia en obstetricia, fertilidad y anticoncepción. Una historia de pasión por la medicina y los derechos de la mujer",
         "pubDate": "2026-11-24T14:55:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Contactaron a 4 mil niños y niñas que abandonaron controles de pediatría en Rosario",
-        "link": "https://www.lacapital.com.ar/la-ciudad/contactaron-4-mil-ninos-y-ninas-que-abandonaron-controles-pediatria-rosario-n10293893.html",
-        "image": "https://media.lacapital.com.ar/p/ececef2a119271bf74151626f472ea4a/adjuntos/203/imagenes/101/887/0101887199/1200x675/smart/vacuna-bebesjpg.jpg",
-        "summary": "El intendente Pablo Javkin realizó un balance del plan de Los Mil Días. \"El objetivo es que no se nos escape ningún chico\", afirmó",
-        "pubDate": "2026-11-24T14:45:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Colapinto quiere mantener la racha en Qatar: días y horarios de la Fórmula 1",
-        "link": "https://www.lacapital.com.ar/formula-1/colapinto-quiere-mantener-la-racha-qatar-dias-y-horarios-la-formula-1-n10293883.html",
-        "image": "https://media.lacapital.com.ar/p/5e15f5de10aba79599e1a7390894e9de/adjuntos/203/imagenes/103/546/0103546076/1200x675/smart/image-11.jpg",
-        "summary": "Tras el 6º puesto en Las Vegas, el argentino y Alpine buscarán repetir el resultado para cortar la distancia con Racing Bulls en el cierre de la temporada",
-        "pubDate": "2026-11-24T14:45:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El papa Francisco reveló en su diario personal que vivió tres encuentros con el diablo",
-        "link": "https://www.lacapital.com.ar/informacion-general/el-papa-francisco-revelo-su-diario-personal-que-vivio-tres-encuentros-el-diablo-n10293877.html",
-        "image": "https://media.lacapital.com.ar/p/1ae585c3342dda146a4678f9d602e2e2/adjuntos/203/imagenes/103/549/0103549803/1200x675/smart/image-2026-11-24t100532574.png",
-        "summary": "Los escritos de Jorge Bergoglio abarcan más de tres décadas y ofrecen una mirada íntima sobre sus luchas espirituales, dudas y autocríticas",
-        "pubDate": "2026-11-24T13:47:00+00:00",
         "approxTime": false
       }
     ]
