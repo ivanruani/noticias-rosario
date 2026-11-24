@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-11-24T15:31:00.494164+00:00",
+  "generatedAt": "2026-11-24T16:01:18.140828+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Celulares robados: buscan reforzar controles y endurecer sanciones a comercios de Rosario",
+        "link": "https://www.rosario3.com/informaciongeneral/celulares-robados-buscan-reforzar-controles-y-endurecer-sanciones-a-comercios-de-rosario-20261124-0031.html",
+        "image": "https://www.rosario3.com/__export/1793916563325/sites/rosario3/img/2026/11/05/celulares.jpg_1768679258.jpg",
+        "summary": "Tras la sanción de la ley provincial, la Municipalidad estableció un nuevo rubro comercial y envió al Concejo un proyecto con multas más severas, clausuras y quita de habilitación para incumplidores. Los detalles de las modificaciones propuestas",
+        "pubDate": "2026-11-24T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Casa por casa, la Municipalidad contactó a casi 4 mil niños y niñas para controles médicos",
         "link": "https://www.rosario3.com/informaciongeneral/casa-por-casa-la-municipalidad-contacto-a-casi-4-mil-ninos-y-ninas-para-controles-medicos-20261124-0025.html",
         "image": "https://www.rosario3.com/__export/1795527266675/sites/rosario3/img/2026/11/24/bebe.jpg_928314581.jpg",
         "summary": "A casi seis meses del lanzamiento del plan Mil65, el intendente Pablo Javkin y la secretaria de Salud, Soledad Rodríguez, destacaron la necesidad de acercarse a los domicilios. Como consejo, los referentes instaron a padres y abuelos a tener al día los calendarios de vacunación",
-        "pubDate": "2026-11-24T12:00:00+00:00",
+        "pubDate": "2026-11-24T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/policiales/empieza-el-juicio-al-unico-detenido-por-el-robo-y-crimen-de-un-fiambrero-de-vgg-fue-el-conductor-designado-dijo-el-hermano-de-la-victima-20261124-0026.html",
         "image": "https://www.rosario3.com/__export/1792364226366/sites/rosario3/img/2023/12/18/vgg.jpg_1825222445.jpg",
         "summary": "Tomás Romero, acusado de haber trasladado a los tres delincuentes que asaltaron y asesinaron a tiros al comerciante Ariel Turnaturi en diciembre 2023, será juzgado desde este miércoles en el Centro de Justicia Penal. El hermano de la víctima expresó: “Si hay gente que sabe quién…",
-        "pubDate": "2026-11-24T11:59:00+00:00",
+        "pubDate": "2026-11-24T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/operativo-vacaciones-el-municipio-durante-el-proximo-fin-de-semana-largo-para-renovar-licencias-de-conducir-antes-de-las-fiestas-20261124-0019.html",
         "image": "https://www.rosario3.com/__export/1787938089327/sites/rosario3/img/2026/08/28/licencia_de_conducir_-1-.jpg_506286608.jpg",
         "summary": "Del viernes 5 al martes 8 de diciembre, la Municipalidad de Rosario brindará atención extraordinaria en todos los distritos de la ciudad. El operativo alcanza al viernes, Día del Empleado Municipal, sábado, e incluye el lunes y martes feriados. Está destinado a quienes tengan su…",
-        "pubDate": "2026-11-24T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El papa Francisco contó en su diario que tuvo visiones del Diablo durante una crisis existencial que duró dos años",
-        "link": "https://www.rosario3.com/informaciongeneral/el-papa-francisco-conto-en-su-diario-que-tuvo-visiones-del-diablo-durante-una-crisis-existencial-que-duro-dos-anos-20261124-0011.html",
-        "image": "https://www.rosario3.com/__export/1791246214600/sites/rosario3/img/2026/10/05/720_-56-_-3-.jpg_802941055.jpg",
-        "summary": "La revelación llegó a través de un libro presentado por el cardenal argentino Víctor Manuel Fernández, uno de los colaboradores más cercanos al fallecido sumo pontífice",
         "pubDate": "2026-11-24T11:57:00+00:00",
         "approxTime": true
       },
@@ -76,7 +76,7 @@
       },
       {
         "source": "Rosario3",
-        "title": "El río Paraná alcanzó en Rosario los 4.99 metros y quedó a un centímetro del nivel de alerta",
+        "title": "El río Paraná alcanzó en Rosario los 4,99 metros y quedó a un centímetro del nivel de alerta",
         "link": "https://www.rosario3.com/informaciongeneral/el-rio-parana-alcanzo-en-rosario-los-4.99-metros-y-quedo-a-un-centimetro-del-nivel-de-alerta-20261124-0015.html",
         "image": "https://www.rosario3.com/__export/1795520535541/sites/rosario3/img/2026/11/24/camalote.jpg_928314581.jpg",
         "summary": "La medición de la Prefectura Naval Argentina de este martes 24 de noviembre indica que el nivel local está a punto de alcanzar los 5 metros. Desde el Instituto Nacional del Agua adviertieron que las condiciones actuales podrían prolongarse durante los próximos meses",
@@ -85,11 +85,29 @@
       },
       {
         "source": "Rosario3",
+        "title": "Por qué la derrota de Newell’s a manos de Gimnasia es festejada por Independiente",
+        "link": "https://www.rosario3.com/deportes/por-que-la-derrota-de-newells-a-manos-de-gimnasia-es-festejada-por-independiente-20261124-0032.html",
+        "image": "https://www.rosario3.com/__export/1795466756888/sites/rosario3/img/2026/11/23/nob_gimnasia_-1-.jpg_506286608.jpg",
+        "summary": "La eliminación de la Lepra en octavos de final tuvo repercusión en Avellaneda: con el cierre de la temporada a la vuelta de la esquina, el resultado en el Bosque platense le abrió un escenario favorable al Rojo de cara al 2027",
+        "pubDate": "2026-11-24T11:51:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Estados Unidos será sede de la Copa América 2028 y organizará el torneo por tercera vez",
+        "link": "https://www.rosario3.com/deportes/estados-unidos-sera-sede-de-la-copa-america-2028-y-organizara-el-torneo-por-tercera-vez-20261124-0007.html",
+        "image": "https://www.rosario3.com/__export/1795516462276/sites/rosario3/img/2026/11/24/copa_america.jpg_349986996.jpg",
+        "summary": "El certamen se disputará entre el 9 de junio y el 9 de julio de 2028 y reunirá a 16 equipos: los 10 representantes de la CONMEBOL y 6 selecciones de Concacaf",
+        "pubDate": "2026-11-24T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Récord histórico para GTA 6: vendió 44,9 millones de copias y recaudó más de 4.000 millones de dólares en su fin de semana de estreno",
         "link": "https://www.rosario3.com/tecnologia/record-historico-para-gta-6-vendio-449-millones-de-copias-y-recaudo-mas-de-4.000-millones-de-dolares-en-su-fin-de-semana-de-estreno-20261124-0028.html",
         "image": "https://www.rosario3.com/__export/1794237532543/sites/rosario3/img/2026/11/09/gta-6.jpg_928314580.jpg",
         "summary": "Un informe confirmó que el nuevo título de Rockstar Games superó todas las marcas de la industria del entretenimiento en apenas cuatro días. El detalle de las ventas por consolas y los países que lideran el fenómeno",
-        "pubDate": "2026-11-24T11:51:00+00:00",
+        "pubDate": "2026-11-24T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -98,47 +116,83 @@
         "link": "https://www.rosario3.com/policiales/contrato-un-servicio-sexual-sufrio-extorsiones-y-pago-medio-millon-de-pesos-20261124-0018.html",
         "image": "https://www.rosario3.com/__export/1792255841795/sites/rosario3/img/2026/09/13/policia.jpg_1825222445.jpg",
         "summary": "Un joven denunció este lunes haber contactado a una trabajadora sexual mediante una página web, pero luego haber sufrido intimidaciones telefónicas, supuestamente, en nombre de Los Monos",
-        "pubDate": "2026-11-24T11:50:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El Gobierno oficializó la nueva conducción del Pami",
-        "link": "https://www.rosario3.com/informaciongeneral/el-gobierno-oficializo-la-nueva-conduccion-del-pami-20261124-0013.html",
-        "image": "https://www.rosario3.com/__export/1789419948510/sites/rosario3/img/2026/09/14/pami.jpg_1825222445.jpg",
-        "summary": "La abogada Verónica Gabriela Pérez es la nueva directora ejecutiva del Instituto Nacional de Servicios Sociales para Jubilados y Pensionados y Elizabeth Ana Osterberg, la subdirectora ejecutiva del organismo",
-        "pubDate": "2026-11-24T11:49:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Estados Unidos será sede de la Copa América 2028 y organizará el torneo por tercera vez",
-        "link": "https://www.rosario3.com/deportes/estados-unidos-sera-sede-de-la-copa-america-2028-y-organizara-el-torneo-por-tercera-vez-20261124-0007.html",
-        "image": "https://www.rosario3.com/__export/1795516462276/sites/rosario3/img/2026/11/24/copa_america.jpg_349986996.jpg",
-        "summary": "Mientras se espera la confirmación oficial, según circuló, las federaciones ya saben que el campeonato se jugará en territorio estadounidense. Se espera que en las próximas horas se confirme esta noticia. Los detalles",
         "pubDate": "2026-11-24T11:48:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "El TAS falló a favor de Senegal y vuelve a ser campeón de la Copa de África",
-        "link": "https://www.rosario3.com/deportes/el-tas-fallo-a-favor-de-senegal-y-vuelve-a-ser-campeon-de-la-copa-de-africa-20261124-0029.html",
-        "image": "https://www.rosario3.com/__export/1795533314944/sites/rosario3/img/2026/11/24/senegal.jpg_928314580.jpg",
-        "summary": "El Tribunal de Arbitraje Deportivo confirmó a la selección como campeona luego de la decisión de la Confederanción Africana de Fútbol de anular la victoria en la final y declarar campeón a Marruecos",
+        "title": "El papa Francisco contó en su diario que tuvo visiones del Diablo durante una crisis existencial que duró dos años",
+        "link": "https://www.rosario3.com/informaciongeneral/el-papa-francisco-conto-en-su-diario-que-tuvo-visiones-del-diablo-durante-una-crisis-existencial-que-duro-dos-anos-20261124-0011.html",
+        "image": "https://www.rosario3.com/__export/1791246214600/sites/rosario3/img/2026/10/05/720_-56-_-3-.jpg_802941055.jpg",
+        "summary": "La revelación llegó a través de un libro presentado por el cardenal argentino Víctor Manuel Fernández, uno de los colaboradores más cercanos al fallecido sumo pontífice",
         "pubDate": "2026-11-24T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Premios Emmy Internacional 2026: División Palermo fue elegida Mejor comedia",
-        "link": "https://www.rosario3.com/ocio/premios-emmy-internacional-2026-division-palermo-fue-elegida-mejor-comedia-20261124-0021.html",
-        "image": "https://www.rosario3.com/__export/1795524546559/sites/rosario3/img/2026/11/24/santiago_korovsky.jpg_54252853.jpg",
-        "summary": "La segunda temporada de la serie creada y protagonizada por Santiago Korovsky fue, además, la única ficción latinoamericana en llevarse un galardón. El Reino Unido lideró el medallero. Ricardo Darín, que competía por su rol en El eternauta, perdió ante Bobby Schofield…",
+        "title": "La influencer de la RAM rosa: quién es la joven detenida en Pinamar tras hacer maniobras peligrosas en la arena",
+        "link": "https://www.rosario3.com/informaciongeneral/la-influencer-de-la-ram-rosa-quien-es-la-joven-detenida-en-pinamar-tras-hacer-maniobras-peligrosas-en-la-arena-20261124-0034.html",
+        "image": "https://www.rosario3.com/__export/1795534875261/sites/rosario3/img/2026/11/24/influencer_detenida.png_786111822.png",
+        "summary": "El video que se viralizó en redes sociales mostró a cuatro personas viajando sobre los laterales exteriores de una camioneta mientras circulaba por La Olla. El episodio desató un operativo policial y reavivó la atención sobre la streamer, que semanas atrás había protagonizado…",
         "pubDate": "2026-11-24T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Marcelo Megna, a corazón abierto: la pasión por la cocina, la soledad y el paso del tiempo",
+        "link": "https://www.lacapital.com.ar/la-capital/marcelo-megna-corazon-abierto-la-pasion-la-cocina-la-soledad-y-el-paso-del-tiempo-n10292742.html",
+        "image": "https://media.lacapital.com.ar/p/c92e4f2d4f94ed99529b43c0e263bc6f/adjuntos/203/imagenes/103/544/0103544385/1200x675/smart/imagen-l.jpg",
+        "summary": "El prestigioso cocinero y exconcejal estuvo en \"Más Cerca\", con Florencia O'Keeffe, donde habló de los momentos difíciles de su vida, de la pareja, y del presente \"feliz\" que construyó \"con sacrificio\"",
+        "pubDate": "2026-11-24T15:55:33+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Marvel reveló el tráiler final de \"Avengers: Doomsday\": cuándo se estrena",
+        "link": "https://www.lacapital.com.ar/zoom/marvel-revelo-el-trailer-final-avengers-doomsday-cuando-se-estrena-n10293918.html",
+        "image": "https://media.lacapital.com.ar/p/75803c1902ed83bd350bf2e7904870e9/adjuntos/203/imagenes/103/550/0103550311/1200x675/smart/image-2026-11-24t132453772.jpg",
+        "summary": "La esperada película llegará a los cines antes de fin de año y el adelanto ya despertó las máximas expectativas en los fanáticos",
+        "pubDate": "2026-11-24T15:44:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Guido Kaczka anunció la muerte de su madre y contó cómo Messi lo ayudó a transitar el duelo",
+        "link": "https://www.lacapital.com.ar/zoom/guido-kaczka-anuncio-la-muerte-su-madre-y-conto-como-messi-lo-ayudo-transitar-el-duelo-n10293912.html",
+        "image": "https://media.lacapital.com.ar/p/de064f2fe990cda3f2b7ed9d0db18783/adjuntos/203/imagenes/103/550/0103550308/1200x675/smart/messi-gudio.png",
+        "summary": "El conductor regresó a su programa de radio tras acompañar a su madre durante su enfermedad en el Hospital Italiano",
+        "pubDate": "2026-11-24T15:44:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El ministro de Educación de Santa Fe confirmó cuándo comienzan las clases en 2027",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-ministro-educacion-santa-fe-confirmo-cuando-comienzan-las-clases-2027-n10293920.html",
+        "image": "https://media.lacapital.com.ar/p/af6a78a7e8ee4d1555e5383a03b95ae7/adjuntos/203/imagenes/103/005/0103005157/1200x675/smart/image-2.jpg",
+        "summary": "José Goity señaló este martes que la intención del gobierno provincial es llegar a los 190 días de clases el año próximo",
+        "pubDate": "2026-11-24T15:43:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Concordia: tradición y sabor en la Fiesta Nacional de la Citricultura",
+        "link": "https://www.lacapital.com.ar/novedades/concordia-tradicion-y-sabor-la-fiesta-nacional-la-citricultura-n10293911.html",
+        "image": "https://media.lacapital.com.ar/p/67e425d352dd101d12cd8cc8df258ab1/adjuntos/203/imagenes/103/550/0103550305/1200x675/smart/00-16jpg-1.jpeg",
+        "summary": "Del 4 al 6 de diciembre, Concordia será sede de la 48ª Fiesta Nacional de la Citricultura, un encuentro que celebra una de las actividades productivas más representativas de Entre Ríos y que forma parte de la historia, la economía y la identidad de la región.",
+        "pubDate": "2026-11-24T15:42:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Inteligencia artificial y turismo: cómo se modifica toda la cadena de valor de las agencias",
+        "link": "https://www.lacapital.com.ar/negocios/inteligencia-artificial-y-turismo-como-se-modifica-toda-la-cadena-valor-las-agencias-n10293902.html",
+        "image": "https://media.lacapital.com.ar/p/81f61199ac968405a57518d4a7075c8a/adjuntos/203/imagenes/103/550/0103550124/1200x675/smart/inteligencia-artificial-y-turismo-el-cambio-que-modifica-toda-la-cadena-valor-las-agencias.jpg",
+        "summary": "La automatización y el análisis de datos impactan desde la planificación del viaje hasta la atención al pasajero. Un conversatorio gratuito en la UGR abordará el tema el 10 de diciembre",
+        "pubDate": "2026-11-24T15:32:46+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Bitcoin para principiantes: ABC y riesgos",
@@ -168,19 +222,19 @@
       },
       {
         "source": "La Capital",
-        "title": "Colapinto quiere mantener la racha en Qatar: días y horarios de la Fórmula 1",
-        "link": "https://www.lacapital.com.ar/formula-1/colapinto-quiere-mantener-la-racha-qatar-dias-y-horarios-la-formula-1-n10293883.html",
-        "image": "https://media.lacapital.com.ar/p/5e15f5de10aba79599e1a7390894e9de/adjuntos/203/imagenes/103/546/0103546076/1200x675/smart/image-11.jpg",
-        "summary": "Tras el 6º puesto en Las Vegas, el argentino y Alpine buscarán repetir el resultado para cortar la distancia con Racing Bulls en el cierre de la temporada",
+        "title": "Contactaron a 4 mil niños y niñas que abandonaron controles de pediatría en Rosario",
+        "link": "https://www.lacapital.com.ar/la-ciudad/contactaron-4-mil-ninos-y-ninas-que-abandonaron-controles-pediatria-rosario-n10293893.html",
+        "image": "https://media.lacapital.com.ar/p/ececef2a119271bf74151626f472ea4a/adjuntos/203/imagenes/101/887/0101887199/1200x675/smart/vacuna-bebesjpg.jpg",
+        "summary": "El intendente Pablo Javkin realizó un balance del plan de Los Mil Días. \"El objetivo es que no se nos escape ningún chico\", afirmó",
         "pubDate": "2026-11-24T14:45:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Contactaron a 4 mil niños y niñas que abandonaron controles de pediatría en Rosario",
-        "link": "https://www.lacapital.com.ar/la-ciudad/contactaron-4-mil-ninos-y-ninas-que-abandonaron-controles-pediatria-rosario-n10293893.html",
-        "image": "https://media.lacapital.com.ar/p/ececef2a119271bf74151626f472ea4a/adjuntos/203/imagenes/101/887/0101887199/1200x675/smart/vacuna-bebesjpg.jpg",
-        "summary": "El intendente Pablo Javkin realizó un balance del plan de Los Mil Días. \"El objetivo es que no se nos escape ningún chico\", afirmó",
+        "title": "Colapinto quiere mantener la racha en Qatar: días y horarios de la Fórmula 1",
+        "link": "https://www.lacapital.com.ar/formula-1/colapinto-quiere-mantener-la-racha-qatar-dias-y-horarios-la-formula-1-n10293883.html",
+        "image": "https://media.lacapital.com.ar/p/5e15f5de10aba79599e1a7390894e9de/adjuntos/203/imagenes/103/546/0103546076/1200x675/smart/image-11.jpg",
+        "summary": "Tras el 6º puesto en Las Vegas, el argentino y Alpine buscarán repetir el resultado para cortar la distancia con Racing Bulls en el cierre de la temporada",
         "pubDate": "2026-11-24T14:45:00+00:00",
         "approxTime": false
       },
@@ -218,60 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/f74cc31ac5b413e4eb584962b2ca2a60/adjuntos/203/imagenes/103/549/0103549739/1200x675/smart/provincais-unidas-diputados.webp",
         "summary": "El oficialismo necesita los votos para el Presupuesto. El bloque de gobernadores ve como una chance para lograr el proyecto de impacto en la región centro",
         "pubDate": "2026-11-24T13:27:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Locales de venta y reparación de celulares en Rosario: lanzan recategorización obligatoria",
-        "link": "https://www.lacapital.com.ar/la-ciudad/locales-venta-y-reparacion-celulares-rosario-lanzan-recategorizacion-obligatoria-n10293851.html",
-        "image": "https://media.lacapital.com.ar/p/4a37b6d509ef416d5e95cf8d9150930c/adjuntos/203/imagenes/102/943/0102943216/1200x675/smart/image-2026-01-25t192046682.jpg",
-        "summary": "El trámite apunta a unificar los rubros habilitados en sintonía con la nueva ley provincial para prevenir la comercialización de teléfonos robados",
-        "pubDate": "2026-11-24T13:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Renault Niagara: la nueva pick-up que se produce en Córdoba y ya está disponible",
-        "link": "https://www.lacapital.com.ar/motores/renault-niagara-la-nueva-pick-up-que-se-produce-cordoba-y-ya-esta-disponible-n10293341.html",
-        "image": "https://media.lacapital.com.ar/p/bf2e4f2e545f0377b0a3ed87dafda187/adjuntos/203/imagenes/103/544/0103544132/1200x675/smart/renault-niagara-pick-up.jpg",
-        "summary": "La flamante camioneta de la marca del rombo producida en la Fábrica Santa Isabel llegó a Rosario en los concesionarios de Circular y Centro",
-        "pubDate": "2026-11-24T13:09:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Amplían la atención para trámites de renovación de licencias de conducir",
-        "link": "https://www.lacapital.com.ar/la-ciudad/amplian-la-atencion-tramites-renovacion-licencias-conducir-n10293854.html",
-        "image": "https://media.lacapital.com.ar/p/b397d1c42d91dadf5ace90b272e4413c/adjuntos/203/imagenes/030/620/0030620632/1200x675/smart/licencias-de-conducirjpg.jpg",
-        "summary": "El municipio sumará 1.500 turnos más para poner a disposición de los ciudadanos para el próximo fin de semana extra largo en diciembre",
-        "pubDate": "2026-11-24T12:19:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La bronca de Maxi Rodríguez contra el arbitraje tras la derrota de Newell's ante Gimnasia",
-        "link": "https://www.lacapital.com.ar/ovacion/la-bronca-maxi-rodriguez-contra-el-arbitraje-la-derrota-newells-gimnasia-n10293839.html",
-        "image": "https://media.lacapital.com.ar/p/403d292929b7b229728a441b721f3b4f/adjuntos/203/imagenes/103/549/0103549399/1200x675/smart/image-2026-11-24t075101648.png",
-        "summary": "El ídolo rojinegro cuestionó la actuación de Nicolás Ramírez tras la caída de la Lepra 4-2 en La Plata, en un partido que tuvo varias jugadas polémicas",
-        "pubDate": "2026-11-24T11:59:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "25N: Santa Fe registró 46 víctimas de violencia machista y Rosario triplicó los femicidios",
-        "link": "https://www.lacapital.com.ar/la-ciudad/25n-santa-fe-registro-46-victimas-violencia-machista-y-rosario-triplico-los-femicidios-n10293843.html",
-        "image": "https://media.lacapital.com.ar/p/fbaf6257ebc5582eecf1972312746451/adjuntos/203/imagenes/101/212/0101212460/1200x675/smart/25n-feminismo-movilizacion-marcha.jpeg",
-        "summary": "El relevamiento de MuMaLá contabilizó un aumento del 53% en la provincia. Organizaciones marchan este miércoles y reclaman declarar la emergencia",
-        "pubDate": "2026-11-24T11:55:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El río Paraná quedó a un centímetro del alerta oficial por la crecida frente a Rosario",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-rio-parana-quedo-un-centimetro-del-alerta-oficial-la-crecida-frente-rosario-n10293838.html",
-        "image": "https://media.lacapital.com.ar/p/168cde4269fd2450783f6b479e5d3644/adjuntos/203/imagenes/103/454/0103454126/1200x675/smart/crecida-parana.png",
-        "summary": "Prefectura Naval Argentina confirmó que Reconquista, San Javier y Santa Fe se mantienen con un nivel de evacuación",
-        "pubDate": "2026-11-24T11:34:00+00:00",
         "approxTime": false
       }
     ]
