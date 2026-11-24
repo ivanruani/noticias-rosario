@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T09:01:07.891551+00:00",
+  "generatedAt": "2026-11-24T09:30:57.394210+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,33 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El centro se transforma: fue un icónico boliche y ahora se convertirá en un bazar chino",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-centro-se-transforma-fue-un-iconico-boliche-y-ahora-se-convertira-un-bazar-chino-n10293751.html",
+        "image": "https://media.lacapital.com.ar/p/cb729de54b12e9bc0a572226cc9e92cb/adjuntos/203/imagenes/103/548/0103548763/1200x675/smart/boliche-bazar-chino.jpg",
+        "summary": "El cambio de rubro acompaña un proceso de expansión de este tipo de tiendas en grandes espacios del área central de Rosario",
+        "pubDate": "2026-11-24T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Santa Fe avanza para acreditar que su producción está libre de deforestación",
+        "link": "https://www.lacapital.com.ar/agro/santa-fe-avanza-acreditar-que-su-produccion-esta-libre-deforestacion-n10293797.html",
+        "image": "https://media.lacapital.com.ar/p/c3b328c078ad8506c62a7b76b8f5aab8/adjuntos/305/imagenes/100/393/0100393826/1200x675/smart/foto-1-girasoles-nk-teodelina-santa-fejpg.jpg",
+        "summary": "La provincia presentó su plataforma ante el Senasa y la Secretaría de Agricultura. Acordaron conectar los sistemas de trazabilidad",
+        "pubDate": "2026-11-24T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "¿Se aprueba la ordenanza para prohibir cuidacoches? Definen los libertarios",
+        "link": "https://www.lacapital.com.ar/la-ciudad/se-aprueba-la-ordenanza-prohibir-cuidacoches-definen-los-libertarios-n10293787.html",
+        "image": "https://media.lacapital.com.ar/p/915a675afe6e0c9eb29e32c919364dc3/adjuntos/203/imagenes/102/164/0102164148/1200x675/smart/cuidacoches-2jpg.jpg",
+        "summary": "La comisión de Obras Públicas y Gobierno en el expediente cuidacoches requieren de las firmas de La Libertad Avanza para que el proyecto avance",
+        "pubDate": "2026-11-24T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El tiempo en Rosario: martes nublado con una máxima que podría llegar a 30º",
         "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-martes-nublado-una-maxima-que-podria-llegar-30-n10293826.html",
         "image": "https://media.lacapital.com.ar/p/acb8f27da2bc31583b9001cffabd6a6e/adjuntos/203/imagenes/103/549/0103549227/2026-11-23-clima-by_lvincenti.jpg",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/988a66779d5bba402d6405e0450ad5e7/adjuntos/203/imagenes/103/548/0103548946/2026-11-23-newells-gimnasia-by_lvincenti.jpg",
         "summary": "La entrega del conjunto rojinegro, que remontó dos veces el resultado, no fue suficiente. Perdió ante Gimnasia por 4 a 2 en los octavos de final",
         "pubDate": "2026-11-23T23:09:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La actividad metalúrgica cayó 5,6 % en Santa Fe, más del doble que a nivel nacional",
-        "link": "https://www.lacapital.com.ar/economia/la-actividad-metalurgica-cayo-56-santa-fe-mas-del-doble-que-nivel-nacional-n10293789.html",
-        "image": "https://media.lacapital.com.ar/p/b04bbc51f15a71c45ae1305b0b3c19ba/adjuntos/203/imagenes/103/487/0103487707/1200x675/536x350:556x370/industria.jpeg",
-        "summary": "La provincia registró la mayor baja interanual. Adimra señaló la debilidad de los pedidos de maquinaria agrícola en el mercado interno",
-        "pubDate": "2026-11-23T22:47:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Polémica por un homenaje en la UBA al líder del ERP Mario Santucho",
-        "link": "https://www.lacapital.com.ar/politica/polemica-un-homenaje-la-uba-al-lider-del-erp-mario-santucho-n10293798.html",
-        "image": "https://media.lacapital.com.ar/p/238cef95e7f27efe7bd0f44ccd79dd2a/adjuntos/203/imagenes/103/548/0103548879/2026-11-23-santucho.jpg",
-        "summary": "El hijo dijo que hubo \"una ofensiva muy grande de la ultraderecha\" y el gobierno pidió a la universidad que \"se impongan las sanciones que correspondan\"",
-        "pubDate": "2026-11-23T22:32:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Newell's y Gimnasia hicieron goles \"calcados\" en los 90 minutos",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-y-gimnasia-hicieron-goles-calcados-los-90-minutos-n10293796.html",
-        "image": "https://media.lacapital.com.ar/p/85fbc10e407ffcab65905313bb0808fd/adjuntos/203/imagenes/103/548/0103548823/1200x675/smart/image-25.jpg",
-        "summary": "Los dos goles de Gimnasia llegaron de pelotas perdidas en ataque, los de Newell's por dos penales por faltas sin pelota a Solari marcados por Walter Mazzantti",
-        "pubDate": "2026-11-23T22:28:00+00:00",
         "approxTime": false
       }
     ]
