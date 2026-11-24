@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-11-24T11:30:55.004547+00:00",
+  "generatedAt": "2026-11-24T12:01:10.232573+00:00",
   "sites": {
     "rosario3": [
       {
         "source": "Rosario3",
-        "title": "Más de 50 mil turistas visitaron Rosario el fin de semana largo y dejaron $4 mil millones",
-        "link": "https://www.rosario3.com/informaciongeneral/mas-de-50-mil-turistas-visitaron-rosario-el-fin-de-semana-largo-y-dejaron-4-mil-millones-20261123-0027.html",
-        "image": "https://www.rosario3.com/__export/1795450963958/sites/rosario3/img/2026/11/23/costanera_turistas.jpg_1096344065.jpg",
-        "summary": "Según estimaciones del Etur, la ocupación hotelera promedió el 75% entre el viernes y el lunes, con picos de hasta el 100% el sábado. El movimiento local contrastó con la retracción nacional medida por Came, donde el consumo turístico cayó un 30,3% real",
-        "pubDate": "2026-11-23T12:00:00+00:00",
+        "title": "El río Paraná alcanzó en Rosario los 4.99 metros y quedó a un centímetro del nivel de alerta",
+        "link": "https://www.rosario3.com/informaciongeneral/el-rio-parana-alcanzo-en-rosario-los-4.99-metros-y-quedo-a-un-centimetro-del-nivel-de-alerta-20261124-0015.html",
+        "image": "https://www.rosario3.com/__export/1795520535541/sites/rosario3/img/2026/11/24/camalote.jpg_928314581.jpg",
+        "summary": "La medición de la Prefectura Naval Argentina de este martes 24 de noviembre indica que el nivel local está a punto de alcanzar los 5 metros. Desde el Instituto Nacional del Agua adviertieron que las condiciones actuales podrían prolongarse durante los próximos meses",
+        "pubDate": "2026-11-24T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "El papa Francisco contó en su diario que tuvo visiones del Diablo durante una crisis existencial que duró dos años",
+        "link": "https://www.rosario3.com/informaciongeneral/el-papa-francisco-conto-en-su-diario-que-tuvo-visiones-del-diablo-durante-una-crisis-existencial-que-duro-dos-anos-20261124-0011.html",
+        "image": "https://www.rosario3.com/__export/1791246214600/sites/rosario3/img/2026/10/05/720_-56-_-3-.jpg_802941055.jpg",
+        "summary": "La revelación llegó a través de un libro presentado por el cardenal argentino Víctor Manuel Fernández, uno de los colaboradores más cercanos al fallecido sumo pontífice",
+        "pubDate": "2026-11-24T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,15 +26,6 @@
         "link": "https://www.rosario3.com/policiales/agredio-por-la-espalda-al-empleado-de-un-minimarket-por-el-uso-del-bano-20261124-0003.html",
         "image": "https://www.rosario3.com/__export/1795513504786/sites/rosario3/img/2026/11/24/befunky-collage_-19-.jpg_928314581.jpg",
         "summary": "Elías, un joven de 19 años que terminaba su turno de madrugada en un minimarket de avenida Francia y San Luis, fue atacado por un cliente al que le había advertido que no podía utilizar el sanitario por ser de uso exclusivo del personal. La víctima relató a El Tres el momento de…",
-        "pubDate": "2026-11-24T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Tragedia en Arroyo Seco: una mujer de 87 años murió en el incendio de su vivienda",
-        "link": "https://www.rosario3.com/policiales/tragedia-en-arroyo-seco-una-mujer-de-87-anos-murio-en-el-incendio-de-su-vivienda-20261124-0008.html",
-        "image": "https://www.rosario3.com/__export/1795517101714/sites/rosario3/img/2026/11/24/image_-89-.jpg_928314580.jpg",
-        "summary": "El accidente ocurrió durante la madrugada de este martes en una casa de calle Independencia al 0 bis. Su hijo, de 60 años, debió ser hospitalizado por inhalación de humo, aunque se encuentra fuera de peligro. Investigan si el fuego se inició por un cigarrillo",
         "pubDate": "2026-11-24T11:58:00+00:00",
         "approxTime": true
       },
@@ -40,10 +40,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "El futuro de Kudelka en Newell’s: \"Habrá o no posibilidad, yo todavía no lo sé\"",
-        "link": "https://www.rosario3.com/deportes/el-futuro-de-kudelka-en-newells-habra-o-no-posibilidad-yo-todavia-no-lo-se-20261123-0040.html",
-        "image": "https://www.rosario3.com/__export/1795478704014/sites/rosario3/img/2026/11/23/kudelka_-4-.jpg_506286608.jpg",
-        "summary": "El entrenador leproso lamentó la eliminación ante Gimnasia de La Plata en los octavos de final del Clausura, cuestionó el arbitraje de Nicolás Ramírez y destacó la evolución del equipo en los últimos meses. También se refirió a su continuidad en el club",
+        "title": "Más de 50 mil turistas visitaron Rosario el fin de semana largo y dejaron $4 mil millones",
+        "link": "https://www.rosario3.com/informaciongeneral/mas-de-50-mil-turistas-visitaron-rosario-el-fin-de-semana-largo-y-dejaron-4-mil-millones-20261123-0027.html",
+        "image": "https://www.rosario3.com/__export/1795450963958/sites/rosario3/img/2026/11/23/costanera_turistas.jpg_1096344065.jpg",
+        "summary": "Según estimaciones del Etur, la ocupación hotelera promedió el 75% entre el viernes y el lunes, con picos de hasta el 100% el sábado. El movimiento local contrastó con la retracción nacional medida por Came, donde el consumo turístico cayó un 30,3% real",
         "pubDate": "2026-11-23T11:56:00+00:00",
         "approxTime": true
       },
@@ -58,10 +58,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "El clima en Rosario: cuánto pesa el calor",
-        "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-cuanto-pesa-el-calor-20261124-0001.html",
-        "image": "https://www.rosario3.com/__export/1784980443548/sites/rosario3/img/2026/07/19/nublado.jpg_1825222445.jpg",
-        "summary": "El Servicio Meteorológico Nacional anticipa una jornada cálida y mayormente estable en la región. El termómetro sube con fuerza en los próximos días y se acerca a marcas más altas",
+        "title": "Tragedia en Arroyo Seco: una mujer de 87 años murió en el incendio de su vivienda",
+        "link": "https://www.rosario3.com/policiales/tragedia-en-arroyo-seco-una-mujer-de-87-anos-murio-en-el-incendio-de-su-vivienda-20261124-0008.html",
+        "image": "https://www.rosario3.com/__export/1795517101714/sites/rosario3/img/2026/11/24/image_-89-.jpg_928314580.jpg",
+        "summary": "El accidente ocurrió durante la madrugada de este martes en una casa de calle Independencia al 0 bis. Su hijo, de 60 años, debió ser hospitalizado por inhalación de humo, aunque se encuentra fuera de peligro. Investigan si el fuego se inició por un cigarrillo",
         "pubDate": "2026-11-24T11:54:00+00:00",
         "approxTime": true
       },
@@ -85,11 +85,11 @@
       },
       {
         "source": "Rosario3",
-        "title": "Newell’s pagó caro sus errores, cayó ante Gimnasia en el alargue y quedó eliminado en octavos de final",
-        "link": "https://www.rosario3.com/deportes/newells-visita-a-gimnasia-en-la-plata-con-la-ilusion-de-dar-el-primer-paso-en-los-playoffs-20261122-0022.html",
-        "image": "https://www.rosario3.com/__export/1795478558622/sites/rosario3/img/2026/11/23/nob_gimnasia_-2-.jpg_506286608.jpg",
-        "summary": "Tras igualar 2-2 en los 90 minutos reglamentarios, el Lobo se impuso 4-2 en el tiempo extra y dejó afuera al Rojinegro, que había levantado dos veces el resultado y terminó jugando con dos menos por las expulsiones de Russo y Ortega. Walter Mazzantti, en dos penales, marcó para…",
-        "pubDate": "2026-11-22T11:51:00+00:00",
+        "title": "El futuro de Kudelka en Newell’s: \"Habrá o no posibilidad, yo todavía no lo sé\"",
+        "link": "https://www.rosario3.com/deportes/el-futuro-de-kudelka-en-newells-habra-o-no-posibilidad-yo-todavia-no-lo-se-20261123-0040.html",
+        "image": "https://www.rosario3.com/__export/1795478704014/sites/rosario3/img/2026/11/23/kudelka_-4-.jpg_506286608.jpg",
+        "summary": "El entrenador leproso lamentó la eliminación ante Gimnasia de La Plata en los octavos de final del Clausura, cuestionó el arbitraje de Nicolás Ramírez y destacó la evolución del equipo en los últimos meses. También se refirió a su continuidad en el club",
+        "pubDate": "2026-11-23T11:51:00+00:00",
         "approxTime": true
       },
       {
@@ -112,11 +112,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "El clima en Rosario: cuánto pesa el calor",
+        "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-cuanto-pesa-el-calor-20261124-0001.html",
+        "image": "https://www.rosario3.com/__export/1784980443548/sites/rosario3/img/2026/07/19/nublado.jpg_1825222445.jpg",
+        "summary": "El Servicio Meteorológico Nacional anticipa una jornada cálida y mayormente estable en la región. El termómetro sube con fuerza en los próximos días y se acerca a marcas más altas",
+        "pubDate": "2026-11-24T11:48:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "El BID aprobó un crédito de US$ 400 millones para mejorar la enseñanza de matemática en 6.700 escuelas del país",
         "link": "https://www.rosario3.com/informaciongeneral/el-bid-aprobo-un-credito-de-us-400-millones-para-mejorar-la-ensenanza-de-matematica-en-6.700-escuelas-del-pais-20261123-0038.html",
         "image": "https://www.rosario3.com/__export/1795474008933/sites/rosario3/img/2026/11/23/matemaxtica.jpg_2106848869.jpg",
         "summary": "Los fondos estarán destinados al Plan Nacional de Matemática impulsado por el Gobierno, que busca ampliar el tiempo de enseñanza de la materia, fortalecer la capacitación de los docentes y mejorar las condiciones educativas",
-        "pubDate": "2026-11-23T11:48:00+00:00",
+        "pubDate": "2026-11-23T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,20 +134,38 @@
         "link": "https://www.rosario3.com/informaciongeneral/el-gobierno-reune-a-la-mesa-politica-para-definir-la-estrategia-legislativa-de-una-semana-clave-en-el-congreso-20261123-0033.html",
         "image": "https://www.rosario3.com/__export/1795459321154/sites/rosario3/img/2026/11/23/mesa.jpg_2106848869.jpg",
         "summary": "El intercambio de los referentes del oficialismo tendrá lugar este martes, con una agenda atravesada por la reforma electoral, la ley de ludopatía y los proyectos de Presupuesto 2027 y reforma del BCRA",
-        "pubDate": "2026-11-23T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La renovación del Parque España alcanza casi un 80% de avance y comenzó el hormigonado de la rampa en espiral",
-        "link": "https://www.rosario3.com/informaciongeneral/la-renovacion-del-parque-espana-alcanza-casi-un-80-de-avance-y-comenzo-el-hormigonado-de-la-rampa-en-espiral-20261123-0035.html",
-        "image": "https://www.rosario3.com/__export/1795468974136/sites/rosario3/img/2026/11/23/explanada1.jpg_2106848869.jpg",
-        "summary": "Con una inversión provincial superior a los $22.394 millones y trabajos en doble y triple turno, avanza la reconstrucción de la explanada colapsada en 2021 junto al Paraná, la ampliación del muelle en unos 120 metros hacia el norte y la ejecución de un nuevo paseo de 14,5 metros…",
         "pubDate": "2026-11-23T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "25N: Santa Fe registró 46 víctimas de violencia machista y Rosario triplicó los femicidios",
+        "link": "https://www.lacapital.com.ar/la-ciudad/25n-santa-fe-registro-46-victimas-violencia-machista-y-rosario-triplico-los-femicidios-n10293843.html",
+        "image": "https://media.lacapital.com.ar/p/fbaf6257ebc5582eecf1972312746451/adjuntos/203/imagenes/101/212/0101212460/1200x675/smart/25n-feminismo-movilizacion-marcha.jpeg",
+        "summary": "El relevamiento de MuMaLá contabilizó un aumento del 53% en la provincia. Organizaciones marchan este miércoles y reclaman declarar la emergencia",
+        "pubDate": "2026-11-24T11:55:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El río Paraná quedó a un centímetro del alerta oficial por la crecida frente a Rosario",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-rio-parana-quedo-un-centimetro-del-alerta-oficial-la-crecida-frente-rosario-n10293838.html",
+        "image": "https://media.lacapital.com.ar/p/168cde4269fd2450783f6b479e5d3644/adjuntos/203/imagenes/103/454/0103454126/1200x675/smart/crecida-parana.png",
+        "summary": "Prefectura Naval Argentina confirmó que Reconquista, San Javier y Santa Fe se mantienen con un nivel de evacuación",
+        "pubDate": "2026-11-24T11:34:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Grave incidente en el Club El Porvenir de Tablada: golpean al presidente y disparan al aire",
+        "link": "https://www.lacapital.com.ar/policiales/grave-incidente-el-club-el-porvenir-tablada-golpean-al-presidente-y-disparan-al-aire-n10293844.html",
+        "image": "https://media.lacapital.com.ar/p/930bfc7017a629e0db9cc9a3ef1f62c2/adjuntos/203/imagenes/103/549/0103549400/1200x675/smart/club-el-porvenir.png",
+        "summary": "La policía detuvo a tres sospechosos por el hecho ocurrido este lunes en la institución de Virasoro al 200 bis",
+        "pubDate": "2026-11-24T11:33:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Qué feriados y días no laborables quedan en Argentina hasta fin de año",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/a1eee2e93c14fcd7125a1d5e164ec095/adjuntos/203/imagenes/103/549/0103549092/1200x675/smart/image-29.jpg",
         "summary": "Una vez que concluyó el partido, hubo reproches de Newell's por la actitud sobradora del arquero rival y hacia Nicolás Ramírez por sus fallos",
         "pubDate": "2026-11-24T00:47:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Frank Kudelka: \"Estos ocho meses tienen que ser un peldaño para seguir subiendo\"",
-        "link": "https://www.lacapital.com.ar/ovacion/frank-kudelka-estos-ocho-meses-tienen-que-ser-un-peldano-seguir-subiendo-n10293818.html",
-        "image": "https://media.lacapital.com.ar/p/314c79918aa53838fb962363d7030ee5/adjuntos/203/imagenes/103/549/0103549093/1200x675/smart/image-2026-11-23t212129236.png",
-        "summary": "El DT de Newell's se refirió a la temporada que hizo el equipo desde su llegada, a la actuación del árbitro Ramírez y a su continuidad en su cargo",
-        "pubDate": "2026-11-24T00:31:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El clic para Newell's: la roja de Russo y el tanto en contra en la primera de Escobar",
-        "link": "https://www.lacapital.com.ar/ovacion/el-clic-newells-la-roja-russo-y-el-tanto-contra-la-primera-escobar-n10293814.html",
-        "image": "https://media.lacapital.com.ar/p/9fb44881525664d96b8967a69154da89/adjuntos/203/imagenes/103/549/0103549069/1200x675/smart/image-27.jpg",
-        "summary": "Frank Kudelka demoró para sacar al lateral Jerónimo Russo y luego de la roja se apuró en retirar de la cancha a Mazzantti. Y vino el 3-2 en contra del ingresado Franco Escobar",
-        "pubDate": "2026-11-23T23:46:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El exbarra de Colón había estado preso hasta horas antes de ser asesinado en Santa Fe",
-        "link": "https://www.lacapital.com.ar/policiales/el-exbarra-colon-habia-estado-preso-horas-antes-ser-asesinado-santa-fe-n10293805.html",
-        "image": "https://media.lacapital.com.ar/p/7fcd7ba64ce818cd85b51d274e419efb/adjuntos/203/imagenes/020/552/0020552309/1200x675/smart/barrajpg.jpg",
-        "summary": "Víctor \"Toco\" Zavala, ligado a un ataque con arma blanca en la tribuna y a incidentes en la cárcel de Coronda, había sido apresado por golpear a un policía 48 horas antes de ser ultimado",
-        "pubDate": "2026-11-23T23:37:00+00:00",
         "approxTime": false
       }
     ]
