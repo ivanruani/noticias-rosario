@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T02:01:09.383646+00:00",
+  "generatedAt": "2026-11-24T02:30:57.223952+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El tiempo en Rosario: martes nublado con una máxima que podría llegar a 30º",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-martes-nublado-una-maxima-que-podria-llegar-30-n10293826.html",
+        "image": "https://media.lacapital.com.ar/p/acb8f27da2bc31583b9001cffabd6a6e/adjuntos/203/imagenes/103/549/0103549227/2026-11-23-clima-by_lvincenti.jpg",
+        "summary": "Los próximos días habría un descenso en los registros pero el fin de semana habría picos de hasta 35º",
+        "pubDate": "2026-11-24T02:23:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Rosario Central se transformó en el mejor de la Rosarina, con cinco títulos en 2026",
         "link": "https://www.lacapital.com.ar/ovacion/rosario-central-se-transformo-el-mejor-la-rosarina-cinco-titulos-2026-n10293821.html",
         "image": "https://media.lacapital.com.ar/p/ee6770c36bf81713ae17cd71af3489a0/adjuntos/203/imagenes/103/549/0103549139/1200x675/smart/image-2026-11-23t215721508.png",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/85fbc10e407ffcab65905313bb0808fd/adjuntos/203/imagenes/103/548/0103548823/1200x675/smart/image-25.jpg",
         "summary": "Los dos goles de Gimnasia llegaron de pelotas perdidas en ataque, los de Newell's por dos penales por faltas sin pelota a Solari marcados por Walter Mazzantti",
         "pubDate": "2026-11-23T22:28:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Nvidia reincorporó a Jensen Huang y las acciones subieron un 30 por ciento",
-        "link": "https://www.lacapital.com.ar/informacion-general/nvidia-reincorporo-jensen-huang-y-las-acciones-subieron-un-30-ciento-n10293792.html",
-        "image": "https://media.lacapital.com.ar/p/f2e0bc2aa339edd0efa3dae2a2e9f6d9/adjuntos/203/imagenes/103/548/0103548809/2026-11-23-jensen-huang-nvidia.jpg",
-        "summary": "El CEO había renunciado tras admitir sus relaciones con una presunta espía china, tras lo cual la caída en Wall Street de la empresa superó el 40 por ciento",
-        "pubDate": "2026-11-23T22:21:44+00:00",
         "approxTime": false
       }
     ]
