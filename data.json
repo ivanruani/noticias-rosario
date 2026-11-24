@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T20:01:05.713869+00:00",
+  "generatedAt": "2026-11-24T20:30:54.154107+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,11 +13,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "El Gobierno convocará a sesiones extraordinarias en diciembre: cuál será el primer proyecto que buscará tratar",
+        "link": "https://www.rosario3.com/informaciongeneral/el-gobierno-reune-a-la-mesa-politica-para-definir-la-estrategia-legislativa-de-una-semana-clave-en-el-congreso-20261123-0033.html",
+        "image": "https://www.rosario3.com/__export/1795459321154/sites/rosario3/img/2026/11/23/mesa.jpg_2106848869.jpg",
+        "summary": "La Mesa Política de La Libertad Avanza se reunió este martes en Casa Rosada y repasó la agenda legislativa de la semana. El decreto de convocatoria se dará a conocer hacia fines de esta semana y la iniciativa central será la Ley de Defensa de la Soberanía Nacional",
+        "pubDate": "2026-11-23T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Por unanimidad, Daniel Erbetta fue elegido presidente de la Corte Suprema de Justicia de Santa Fe",
         "link": "https://www.rosario3.com/informaciongeneral/por-unanimidad-daniel-erbetta-fue-elegido-presidente-de-la-corte-suprema-de-justicia-de-santa-fe-20261124-0050.html",
         "image": "https://www.rosario3.com/__export/1795547194463/sites/rosario3/img/2026/11/24/daniel_erbetta.png_786111822.png",
         "summary": "El magistrado asumirá el próximo 1 de diciembre en reemplazo de Rafael Gutiérrez, quien dejará el cargo por jubilación. Su mandato se extenderá hasta fines de 2027, en una etapa marcada por cambios y renovación en el Poder Judicial provincial",
-        "pubDate": "2026-11-24T11:59:00+00:00",
+        "pubDate": "2026-11-24T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/policiales/policia-esta-grave-tras-haber-sido-apunalado-en-el-cuello-en-la-comisaria-de-villa-eloisa-20261124-0042.html",
         "image": "https://www.rosario3.com/__export/1795540469331/sites/rosario3/img/2026/11/24/villa_eloisa.jpg_928314580.jpg",
         "summary": "El ataque ocurrió este lunes por la noche, cuando el inspector fue agredido por el novio de una mujer que salía de denunciarlo de la seccional por violencia de género. El agente está internado en Rosario",
-        "pubDate": "2026-11-24T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Celulares robados: qué cambia en la habilitación de comercios y qué sanciones buscan endurecer en Rosario",
-        "link": "https://www.rosario3.com/informaciongeneral/celulares-robados-buscan-reforzar-controles-y-endurecer-sanciones-a-comercios-de-rosario-20261124-0031.html",
-        "image": "https://www.rosario3.com/__export/1793916563325/sites/rosario3/img/2026/11/05/celulares.jpg_1768679258.jpg",
-        "summary": "Tras la sanción de la ley provincial, la Municipalidad estableció un nuevo rubro comercial y envió al Concejo un proyecto con multas más severas, clausuras y quita de habilitación para incumplidores. Los detalles de las modificaciones propuestas",
         "pubDate": "2026-11-24T11:57:00+00:00",
         "approxTime": true
       },
@@ -49,19 +49,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "Los más y los menos de Newell’s: todo lo que dejó la campaña rojinegra en el Torneo Clausura",
-        "link": "https://www.rosario3.com/deportes/los-mas-y-los-menos-de-newells-todo-lo-que-dejo-la-campana-rojinegra-en-el-torneo-clausura-20261124-0017.html",
-        "image": "https://www.rosario3.com/__export/1793307578758/sites/rosario3/img/2026/10/29/kudelka_valija_lista.jpg_928314580.jpg",
-        "summary": "Los de Kudelka hicieron un buen torneo y clasificaron a playoffs por primera vez pero quedaron en 8º; Reinatti y Guch jugaron todos los partidos y Cóccaro fue el goleador",
+        "title": "Central en cuartos: cuándo se juega y por qué cada hora cuenta para Ángel Di María",
+        "link": "https://www.rosario3.com/deportes/central-en-cuartos-cuando-se-juega-y-por-que-cada-hora-cuenta-para-angel-di-maria-20261124-0020.html",
+        "image": "https://www.rosario3.com/__export/1793136743426/sites/rosario3/img/2026/10/25/00024970-14.jpg_205157687.jpg",
+        "summary": "Tras eliminar a Gimnasia de Mendoza en octavos, el Canalla se prepara para enfrentar a Barracas Central en busca del boleto a semifinales. El partido en el Gigante será el próximo fin de semana, aunque todavía no se confirmó si sábado o domingo. Fideo volvería a ser titular, al…",
         "pubDate": "2026-11-24T11:55:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Central en cuartos: cuándo se juega y por qué cada hora cuenta para Ángel Di María",
-        "link": "https://www.rosario3.com/deportes/central-en-cuartos-cuando-se-juega-y-por-que-cada-hora-cuenta-para-angel-di-maria-20261124-0020.html",
-        "image": "https://www.rosario3.com/__export/1793136743426/sites/rosario3/img/2026/10/25/00024970-14.jpg_205157687.jpg",
-        "summary": "Tras eliminar a Gimnasia de Mendoza en octavos, el Canalla se prepara para enfrentar a Barracas Central en busca del boleto a semifinales. El partido en el Gigante será el próximo fin de semana, aunque todavía no se confirmó si sábado o domingo. Fideo volvería a ser titular, al…",
+        "title": "Newell’s: Lucas Carrizo fue informado por agredir a un jugador de Gimnasia y también al árbitro Nicolás Ramírez",
+        "link": "https://www.rosario3.com/deportes/newells-lucas-carrizo-fue-informado-por-agredir-a-un-jugador-de-gimnasia-y-tambien-al-arbitro-nicolas-ramirez-20261124-0052.html",
+        "image": "https://www.rosario3.com/__export/1795548898575/sites/rosario3/img/2026/11/24/carrizo.jpg_928314580.jpg",
+        "summary": "El futbolista de Newell's fue expulsado por conducta violenta una vez finalizado el partido. Según el informe arbitral, le dio un cabezazo en el rostro a rival y, cuando el juez le mostró la roja, también lo golpeó en el brazo",
         "pubDate": "2026-11-24T11:54:00+00:00",
         "approxTime": true
       },
@@ -85,10 +85,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Casa por casa, la Municipalidad contactó a casi 4 mil niños y niñas para controles médicos",
-        "link": "https://www.rosario3.com/informaciongeneral/casa-por-casa-la-municipalidad-contacto-a-casi-4-mil-ninos-y-ninas-para-controles-medicos-20261124-0025.html",
-        "image": "https://www.rosario3.com/__export/1795527266675/sites/rosario3/img/2026/11/24/bebe.jpg_928314581.jpg",
-        "summary": "A casi seis meses del lanzamiento del plan Mil65, el intendente Pablo Javkin y la secretaria de Salud, Soledad Rodríguez, destacaron la necesidad de acercarse a los domicilios. Como consejo, los referentes instaron a padres y abuelos a tener al día los calendarios de vacunación",
+        "title": "Celulares robados: qué cambia en la habilitación de comercios y qué sanciones buscan endurecer en Rosario",
+        "link": "https://www.rosario3.com/informaciongeneral/celulares-robados-buscan-reforzar-controles-y-endurecer-sanciones-a-comercios-de-rosario-20261124-0031.html",
+        "image": "https://www.rosario3.com/__export/1793916563325/sites/rosario3/img/2026/11/05/celulares.jpg_1768679258.jpg",
+        "summary": "Tras la sanción de la ley provincial, la Municipalidad estableció un nuevo rubro comercial y envió al Concejo un proyecto con multas más severas, clausuras y quita de habilitación para incumplidores. Los detalles de las modificaciones propuestas",
         "pubDate": "2026-11-24T11:51:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,51 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Villa Gobernador Gálvez: allanaron un búnker que manejaba \"Pupito\" Avalle",
+        "link": "https://www.lacapital.com.ar/policiales/villa-gobernador-galvez-allanaron-un-bunker-que-manejaba-pupito-avalle-n10293960.html",
+        "image": "https://media.lacapital.com.ar/p/d3bb5a91af2a07163ab58222416f68c8/adjuntos/203/imagenes/103/550/0103550825/1200x675/smart/images-35.jpg",
+        "summary": "Avalle es un hombre de los \"Monos\" condenado a prisión perpetua. Secuestraron 1.000 envoltorios de cocaína, dinero y vehículos",
+        "pubDate": "2026-11-24T20:24:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Facturas de crédito: cómo las pymes pueden cobrar antes y qué empresas lideran la operatoria",
+        "link": "https://www.lacapital.com.ar/economia/facturas-credito-como-las-pymes-pueden-cobrar-antes-y-que-empresas-lideran-la-operatoria-n10293995.html",
+        "image": "https://media.lacapital.com.ar/p/35b636ce5a6c8f66901444f96560e3d9/adjuntos/203/imagenes/101/567/0101567707/1200x675/304x159:324x179/pymesjpg.jpg",
+        "summary": "Con la incorporación de nuevas compañías al régimen en 2026, el listado de grandes empresas pasó de 866 a 1.179. El Mercado Argentino de Valores reveló que YPF encabeza el ranking por monto negociado",
+        "pubDate": "2026-11-24T20:14:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "San Lorenzo: detuvieron a dos menores con cocaína y un cuchillo",
+        "link": "https://www.lacapital.com.ar/policiales/san-lorenzo-detuvieron-dos-menores-cocaina-y-un-cuchillo-n10293885.html",
+        "image": "https://media.lacapital.com.ar/p/4eca5b49f6f28999ac29d6a6b04bd5aa/adjuntos/203/imagenes/103/549/0103549944/1200x675/smart/got-drogas.jpg",
+        "summary": "Ocurrió durante la madrugada del domingo. Los sospechosos, de 14 y 17 años, circulaban en moto junto a un tercer joven mayor de edad. Los tres fueron detenidos tras una persecución policial",
+        "pubDate": "2026-11-24T20:13:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Perotti guarda sus cartas para 2027, pero desliza: \"Me veo ayudando\"",
+        "link": "https://www.lacapital.com.ar/politica/perotti-guarda-sus-cartas-2027-pero-desliza-me-veo-ayudando-n10293980.html",
+        "image": "https://media.lacapital.com.ar/p/df3842048b9afaa192b929ae2b067d6e/adjuntos/203/imagenes/103/551/0103551054/1200x675/smart/omar-perotti-definicion-politica-2027.jpg",
+        "summary": "El exgobernador planteó que el peronismo debe tener \"una actitud madura\" y dijo que los acuerdos deben estar antes que las candidaturas",
+        "pubDate": "2026-11-24T20:13:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Un aula de la Facultad de Psicología recuerda a una víctima de un femicidio que conmocionó a Rosario",
+        "link": "https://www.lacapital.com.ar/la-ciudad/un-aula-la-facultad-psicologia-recuerda-una-victima-un-femicidio-que-conmociono-rosario-n10293916.html",
+        "image": "https://media.lacapital.com.ar/p/5156c7f76bc2ddc99efcd420071880a2/adjuntos/203/imagenes/103/550/0103550336/1200x675/smart/sophia-civarelli-psicologia-2411.jpg",
+        "summary": "Sophia Civarelli fue asesinada por su novio el 16 de abril en su departamento de 3 de Febrero al 2400. El victimario adulteró la escena del femicidio y luego se suicidó en la edificio de una amiga en 3 de Febrero al 1500.",
+        "pubDate": "2026-11-24T20:11:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Seis frutas que ayudan a conciliar el sueño",
@@ -227,51 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/4be21b15dae966d3509c3b16088e5f66/adjuntos/203/imagenes/103/550/0103550800/1200x675/smart/image-4.png",
         "summary": "Inspirada en hechos reales, la miniserie se mete en un dilema ético cuando un brutal asesino está a punto de ser liberado",
         "pubDate": "2026-11-24T18:55:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cómo sumarse a los talleres gratuitos de Pami en Rosario y Santa Fe",
-        "link": "https://www.lacapital.com.ar/informacion-general/como-sumarse-los-talleres-gratuitos-pami-rosario-y-santa-fe-n10293955.html",
-        "image": "https://media.lacapital.com.ar/p/01cd188d84ed3c3ccf823c06fd5303e3/adjuntos/203/imagenes/102/567/0102567637/1200x675/smart/upami-pami.png",
-        "summary": "Los afiliados a la obra social podrán encontrar en todas las provincias distintos talleres para todos los gustos. Cómo conocer la oferta y anotarse en Santa Fe",
-        "pubDate": "2026-11-24T18:50:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cómo cerrar las sesiones de WhatsApp abiertas en computadoras ajenas",
-        "link": "https://www.lacapital.com.ar/informacion-general/como-cerrar-las-sesiones-whatsapp-abiertas-computadoras-ajenas-n10293959.html",
-        "image": "https://media.lacapital.com.ar/p/af645730989652dbd410b048c3943539/adjuntos/203/imagenes/103/550/0103550916/1200x675/smart/image-5.png",
-        "summary": "Desde el celular se pueden detectar los dispositivos en los que la cuenta se encuentra abierta y cerrar la sesión automáticamente. El paso a paso",
-        "pubDate": "2026-11-24T18:49:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Federico Pucciariello le bajó el tono a su posible candidatura a gobernador por el peronismo",
-        "link": "https://www.lacapital.com.ar/federico-pucciariello-le-el-tono-su-posible-candidatura-gobernador-el-peronismo-n10293961.html",
-        "image": "https://media.lacapital.com.ar/p/68d1ef49f62f6265d6fda3b277bca944/adjuntos/203/imagenes/103/168/0103168506/whatsapp-image-2026-05-21-at-161224.jpeg",
-        "summary": "El empresario de biocombustibles admitió que fue sondeado por sectores del PJ, pero dijo que no está en sus planes participar. También elogió la gestión de Pullaro",
-        "pubDate": "2026-11-24T18:49:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El fiscal Stornelli pidió suspender el homenaje a Santucho en la UBA e investigar su financiamiento",
-        "link": "https://www.lacapital.com.ar/politica/el-fiscal-stornelli-pidio-suspender-el-homenaje-santucho-la-uba-e-investigar-su-financiamiento-n10293967.html",
-        "image": "https://media.lacapital.com.ar/p/238cef95e7f27efe7bd0f44ccd79dd2a/adjuntos/203/imagenes/103/548/0103548879/2026-11-23-santucho.jpg",
-        "summary": "Presentó un denuncia en los tribunales de Comodoro Py por presunta apología del delito. También solicitó investigar el financiamiento del acto en la UBA. Críticas de la vicepresidenta Villarruel",
-        "pubDate": "2026-11-24T18:49:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Un ex-Central que la rompe: otro sorprendente dato sobre la temporada de Vitamina Sánchez como DT",
-        "link": "https://www.lacapital.com.ar/ovacion/un-ex-central-que-la-rompe-otro-sorprendente-dato-la-temporada-vitamina-sanchez-como-dt-n10293963.html",
-        "image": "https://media.lacapital.com.ar/p/115dd26f6a79e3267b1568b0c9e5d92d/adjuntos/203/imagenes/103/550/0103550915/1200x675/smart/image-1.jpg",
-        "summary": "El rosarino, que acaba de conquistar el bicampeonato de Paraguay al frente de Olimpia, encabeza una estadística por sobre todos sus colegas en Sudamérica",
-        "pubDate": "2026-11-24T18:30:00+00:00",
         "approxTime": false
       }
     ]
