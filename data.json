@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-11-24T18:01:09.336726+00:00",
+  "generatedAt": "2026-11-24T18:30:59.641391+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "La crecida del Paraná en las islas: cómo está y qué necesidades tiene la comunidad de El Espinillo",
+        "link": "https://www.rosario3.com/informaciongeneral/la-crecida-del-parana-en-las-islas-como-esta-y-que-necesidades-tiene-la-comunidad-de-el-espinillo-20261124-0043.html",
+        "image": "https://www.rosario3.com/__export/1795542049252/sites/rosario3/img/2026/11/24/islas_crecida.jpg_506286608.jpg",
+        "summary": "La escuela se convirtió una vez más en el corazón y refugio de la comunidad. El actual edificio escolar, el tercero que se construye en la zona debido a las inundaciones en el humedal, fue diseñado en altura para resistir el avance del agua, pero el cambio en el entorno los…",
+        "pubDate": "2026-11-24T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Celulares robados: qué cambia en la habilitación de comercios y qué sanciones buscan endurecer en Rosario",
         "link": "https://www.rosario3.com/informaciongeneral/celulares-robados-buscan-reforzar-controles-y-endurecer-sanciones-a-comercios-de-rosario-20261124-0031.html",
         "image": "https://www.rosario3.com/__export/1793916563325/sites/rosario3/img/2026/11/05/celulares.jpg_1768679258.jpg",
         "summary": "Tras la sanción de la ley provincial, la Municipalidad estableció un nuevo rubro comercial y envió al Concejo un proyecto con multas más severas, clausuras y quita de habilitación para incumplidores. Los detalles de las modificaciones propuestas",
-        "pubDate": "2026-11-24T12:00:00+00:00",
+        "pubDate": "2026-11-24T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/policiales/policia-esta-grave-tras-haber-sido-apunalado-en-el-cuello-en-la-comisaria-de-villa-eloisa-20261124-0042.html",
         "image": "https://www.rosario3.com/__export/1795540469331/sites/rosario3/img/2026/11/24/villa_eloisa.jpg_928314580.jpg",
         "summary": "El ataque ocurrió este lunes por la noche, cuando el inspector fue agredido por el novio de una mujer que salía de denunciarlo de la seccional por violencia de género. El agente está internado en Rosario",
-        "pubDate": "2026-11-24T11:59:00+00:00",
+        "pubDate": "2026-11-24T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/policiales/empieza-el-juicio-al-unico-detenido-por-el-robo-y-crimen-de-un-fiambrero-de-vgg-fue-el-conductor-designado-dijo-el-hermano-de-la-victima-20261124-0026.html",
         "image": "https://www.rosario3.com/__export/1792364226366/sites/rosario3/img/2023/12/18/vgg.jpg_1825222445.jpg",
         "summary": "Tomás Romero, acusado de haber trasladado a los tres delincuentes que asaltaron y asesinaron a tiros al comerciante Ariel Turnaturi en diciembre 2023, será juzgado desde este miércoles en el Centro de Justicia Penal. El hermano de la víctima expresó: “Si hay gente que sabe quién…",
-        "pubDate": "2026-11-24T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Operativo vacaciones: el municipio abrirá durante el próximo fin de semana largo para renovar licencias de conducir antes de las fiestas",
-        "link": "https://www.rosario3.com/informaciongeneral/operativo-vacaciones-el-municipio-durante-el-proximo-fin-de-semana-largo-para-renovar-licencias-de-conducir-antes-de-las-fiestas-20261124-0019.html",
-        "image": "https://www.rosario3.com/__export/1787938089327/sites/rosario3/img/2026/08/28/licencia_de_conducir_-1-.jpg_506286608.jpg",
-        "summary": "Del viernes 5 al martes 8 de diciembre, la Municipalidad de Rosario brindará atención extraordinaria en todos los distritos de la ciudad. El operativo alcanza al viernes, Día del Empleado Municipal, sábado, e incluye el lunes y martes feriados. Está destinado a quienes tengan su…",
         "pubDate": "2026-11-24T11:57:00+00:00",
         "approxTime": true
       },
@@ -112,10 +112,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Contrató un servicio sexual, sufrió extorsiones y pagó medio millón de pesos",
-        "link": "https://www.rosario3.com/policiales/contrato-un-servicio-sexual-sufrio-extorsiones-y-pago-medio-millon-de-pesos-20261124-0018.html",
-        "image": "https://www.rosario3.com/__export/1792255841795/sites/rosario3/img/2026/09/13/policia.jpg_1825222445.jpg",
-        "summary": "Un joven denunció este lunes haber contactado a una trabajadora sexual mediante una página web, pero luego haber sufrido intimidaciones telefónicas, supuestamente, en nombre de Los Monos",
+        "title": "Operativo vacaciones: el municipio abrirá durante el próximo fin de semana largo para renovar licencias de conducir antes de las fiestas",
+        "link": "https://www.rosario3.com/informaciongeneral/operativo-vacaciones-el-municipio-durante-el-proximo-fin-de-semana-largo-para-renovar-licencias-de-conducir-antes-de-las-fiestas-20261124-0019.html",
+        "image": "https://www.rosario3.com/__export/1787938089327/sites/rosario3/img/2026/08/28/licencia_de_conducir_-1-.jpg_506286608.jpg",
+        "summary": "Del viernes 5 al martes 8 de diciembre, la Municipalidad de Rosario brindará atención extraordinaria en todos los distritos de la ciudad. El operativo alcanza al viernes, Día del Empleado Municipal, sábado, e incluye el lunes y martes feriados. Está destinado a quienes tengan su…",
         "pubDate": "2026-11-24T11:48:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,60 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "\"La fuerza de VGG\": un encuentro para pensar el futuro de Villa Gobernador Gálvez",
+        "link": "https://www.lacapital.com.ar/la-region/la-fuerza-vgg-un-encuentro-pensar-el-futuro-villa-gobernador-galvez-n10293953.html",
+        "image": "https://media.lacapital.com.ar/p/81404dce13d243725a0a12b450a81725/adjuntos/203/imagenes/103/550/0103550851/1200x675/smart/vgg-fuerza-4.jpeg",
+        "summary": "Más de 500 personas participaron de una jornada de intercambio y trabajo colectivo para compartir ideas, identificar prioridades y proyectar la ciudad de los próximos años",
+        "pubDate": "2026-11-24T18:18:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Daniel Erbetta presidirá la Corte Suprema de Santa Fe durante 2027",
+        "link": "https://www.lacapital.com.ar/politica/daniel-erbetta-presidira-la-corte-suprema-santa-fe-2027-n10293910.html",
+        "image": "https://media.lacapital.com.ar/p/8eb7b009fc4b827fb74d276c6d5d8315/adjuntos/203/imagenes/103/111/0103111902/juez-daniel-erbetta.jpg",
+        "summary": "No solo vuelve a la titularidad del máximo tribunal sino que será el único sobreviviente institucional de la composición que compartió con Gutiérrez y Falistocco",
+        "pubDate": "2026-11-24T17:56:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Anses: cómo revisar el cobro de las asignaciones y qué hacer ante errores o bajas",
+        "link": "https://www.lacapital.com.ar/informacion-general/anses-como-revisar-el-cobro-las-asignaciones-y-que-hacer-errores-o-bajas-n10293913.html",
+        "image": "https://media.lacapital.com.ar/p/44e7b468f4b814c4131593bf77c85038/adjuntos/203/imagenes/101/297/0101297570/1200x675/smart/image-2023-12-29t092450202jpg.jpg",
+        "summary": "Los usuarios pueden consultar los montos, descuentos y motivos de suspensión de las asignaciones de forma virtual. Cómo verificar que la información de pago sea correcta",
+        "pubDate": "2026-11-24T17:55:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Luna llena del Castor: cuándo verla y qué significa",
+        "link": "https://www.lacapital.com.ar/informacion-general/luna-llena-del-castor-cuando-verla-y-que-significa-n10293936.html",
+        "image": "https://media.lacapital.com.ar/p/96d5af668a347d22a89e32dc31f80546/adjuntos/203/imagenes/102/788/0102788280/1200x675/smart/luna-grande.png",
+        "summary": "La superluna más grande y brillante del año se podrá apreciar desde Argentina. Los detalles en esta nota",
+        "pubDate": "2026-11-24T17:55:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Malvinas: el Reino Unido anunció una inversión millonaria para reforzar la seguridad en las islas",
+        "link": "https://www.lacapital.com.ar/politica/malvinas-el-reino-unido-anuncio-una-inversion-millonaria-reforzar-la-seguridad-las-islas-n10293923.html",
+        "image": "https://media.lacapital.com.ar/p/01f8d1152ea9b9ca79814b86af330601/adjuntos/203/imagenes/103/550/0103550303/1200x675/smart/image-2026-11-24t120538587.png",
+        "summary": "El gobierno británico destinará 18 millones de libras a ciberseguridad, fuerzas policiales y patrullaje marítimo en medio de la disputa petrolera con Argentina",
+        "pubDate": "2026-11-24T17:54:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Dónde estará el Barrio Chino de Rosario: definieron las calles y avanzan las negociaciones",
+        "link": "https://www.lacapital.com.ar/la-ciudad/donde-estara-el-barrio-chino-rosario-definieron-las-calles-y-avanzan-las-negociaciones-n10293845.html",
+        "image": "https://media.lacapital.com.ar/p/38a536d898604f04195f4cacf35cb68f/adjuntos/203/imagenes/103/377/0103377248/1200x675/smart/chino.jpg",
+        "summary": "El proyecto contempla entre 20 y 23 comercios en tres arterias del microcentro. Ya hay marcas confirmadas y avanzan los acuerdos para ocupar los inmuebles",
+        "pubDate": "2026-11-24T17:54:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "El básquet rosarino entra en etapa de definiciones: ascensos, campeones y playoffs",
@@ -204,15 +258,6 @@
       },
       {
         "source": "La Capital",
-        "title": "Marvel reveló el tráiler final de \"Avengers: Doomsday\": cuándo se estrena",
-        "link": "https://www.lacapital.com.ar/zoom/marvel-revelo-el-trailer-final-avengers-doomsday-cuando-se-estrena-n10293918.html",
-        "image": "https://media.lacapital.com.ar/p/75803c1902ed83bd350bf2e7904870e9/adjuntos/203/imagenes/103/550/0103550311/1200x675/smart/image-2026-11-24t132453772.jpg",
-        "summary": "La esperada película llegará a los cines antes de fin de año y el adelanto ya despertó las máximas expectativas en los fanáticos",
-        "pubDate": "2026-11-24T15:44:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "Guido Kaczka anunció la muerte de su madre y contó cómo Messi lo ayudó a transitar el duelo",
         "link": "https://www.lacapital.com.ar/zoom/guido-kaczka-anuncio-la-muerte-su-madre-y-conto-como-messi-lo-ayudo-transitar-el-duelo-n10293912.html",
         "image": "https://media.lacapital.com.ar/p/de064f2fe990cda3f2b7ed9d0db18783/adjuntos/203/imagenes/103/550/0103550308/1200x675/smart/messi-gudio.png",
@@ -222,56 +267,11 @@
       },
       {
         "source": "La Capital",
-        "title": "El ministro de Educación de Santa Fe confirmó cuándo comienzan las clases en 2027",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-ministro-educacion-santa-fe-confirmo-cuando-comienzan-las-clases-2027-n10293920.html",
-        "image": "https://media.lacapital.com.ar/p/af6a78a7e8ee4d1555e5383a03b95ae7/adjuntos/203/imagenes/103/005/0103005157/1200x675/smart/image-2.jpg",
-        "summary": "José Goity señaló este martes que la intención del gobierno provincial es llegar a los 190 días de clases el año próximo",
-        "pubDate": "2026-11-24T15:43:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Concordia: tradición y sabor en la Fiesta Nacional de la Citricultura",
-        "link": "https://www.lacapital.com.ar/novedades/concordia-tradicion-y-sabor-la-fiesta-nacional-la-citricultura-n10293911.html",
-        "image": "https://media.lacapital.com.ar/p/67e425d352dd101d12cd8cc8df258ab1/adjuntos/203/imagenes/103/550/0103550305/1200x675/smart/00-16jpg-1.jpeg",
-        "summary": "Del 4 al 6 de diciembre, Concordia será sede de la 48ª Fiesta Nacional de la Citricultura, un encuentro que celebra una de las actividades productivas más representativas de Entre Ríos y que forma parte de la historia, la economía y la identidad de la región.",
-        "pubDate": "2026-11-24T15:42:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Inteligencia artificial y turismo: cómo se modifica toda la cadena de valor de las agencias",
-        "link": "https://www.lacapital.com.ar/negocios/inteligencia-artificial-y-turismo-como-se-modifica-toda-la-cadena-valor-las-agencias-n10293902.html",
-        "image": "https://media.lacapital.com.ar/p/81f61199ac968405a57518d4a7075c8a/adjuntos/203/imagenes/103/550/0103550124/1200x675/smart/inteligencia-artificial-y-turismo-el-cambio-que-modifica-toda-la-cadena-valor-las-agencias.jpg",
-        "summary": "La automatización y el análisis de datos impactan desde la planificación del viaje hasta la atención al pasajero. Un conversatorio gratuito en la UGR abordará el tema el 10 de diciembre",
-        "pubDate": "2026-11-24T15:32:46+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Bitcoin para principiantes: ABC y riesgos",
-        "link": "https://www.lacapital.com.ar/novedades/bitcoin-principiantes-abc-y-riesgos-n10293908.html",
-        "image": "https://media.lacapital.com.ar/p/77952589166b98796742eb1db016abe4/adjuntos/203/imagenes/103/550/0103550304/1200x675/smart/a8371101-a27b-4227-a391-d2dea910ecb8-1440.jpeg",
-        "summary": "El ABC que los nuevos en el mundo de las cripto deben saber: con la mira en BTC",
-        "pubDate": "2026-11-24T15:22:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Ugar Litoral Sur convoca a su sexto Foro de Negocios y Tecnología en Rosario",
-        "link": "https://www.lacapital.com.ar/negocios/ugar-litoral-sur-convoca-su-sexto-foro-negocios-y-tecnologia-rosario-n10293897.html",
-        "image": "https://media.lacapital.com.ar/p/f4ab904462de83e35e5f141c22cfae37/adjuntos/203/imagenes/103/550/0103550206/foro-ugar-litoral-sur-3.jpeg",
-        "summary": "El encuentro se desarrollará a lo largo de dos jornadas con demostraciones y charlas técnicas en un hotel céntrico de la ciudad",
-        "pubDate": "2026-11-24T15:08:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El Concejo distingue a Doris Bellmann, médica rosarina pionera de la laparoscopía",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-concejo-distingue-doris-bellmann-medica-rosarina-pionera-la-laparoscopia-n10293333.html",
-        "image": "https://media.lacapital.com.ar/p/db9b371134b81757b2125166221c86f5/adjuntos/203/imagenes/103/549/0103549906/doris-bellmann-1.jpeg",
-        "summary": "La ginecóloga fue una especialista de vanguardia en obstetricia, fertilidad y anticoncepción. Una historia de pasión por la medicina y los derechos de la mujer",
-        "pubDate": "2026-11-24T14:55:00+00:00",
+        "title": "Marvel reveló el tráiler final de \"Avengers: Doomsday\": cuándo se estrena",
+        "link": "https://www.lacapital.com.ar/zoom/marvel-revelo-el-trailer-final-avengers-doomsday-cuando-se-estrena-n10293918.html",
+        "image": "https://media.lacapital.com.ar/p/75803c1902ed83bd350bf2e7904870e9/adjuntos/203/imagenes/103/550/0103550311/1200x675/smart/image-2026-11-24t132453772.jpg",
+        "summary": "La esperada película llegará a los cines antes de fin de año y el adelanto ya despertó las máximas expectativas en los fanáticos",
+        "pubDate": "2026-11-24T15:44:00+00:00",
         "approxTime": false
       }
     ]
