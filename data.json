@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-11-24T20:30:54.154107+00:00",
+  "generatedAt": "2026-11-24T21:01:08.435997+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Asesinaron a un hombre de una puñalada en el pecho en una presunta discusión con su hermano",
+        "link": "https://www.rosario3.com/policiales/asesinaron-a-un-hombre-de-33-anos-de-una-punalada-en-el-pecho-en-una-presunta-discusion-con-su-hermano-20261124-0057.html",
+        "image": "https://www.rosario3.com/__export/1795553301167/sites/rosario3/img/2026/11/24/crimen-policia.jpg_1608372952.jpg",
+        "summary": "El hecho ocurrió este martes por la tarde en un pasillo de Vera Mujica al 3900. Según el relato de su padre a la Policía, la víctima mantuvo una pelea con su hermano de 29 años, quien le habría dado una cuchillada y escapado del lugar con el arma",
+        "pubDate": "2026-11-24T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "La crecida del Paraná en las islas: cómo está y qué necesidades tiene la comunidad de El Espinillo",
         "link": "https://www.rosario3.com/informaciongeneral/la-crecida-del-parana-en-las-islas-como-esta-y-que-necesidades-tiene-la-comunidad-de-el-espinillo-20261124-0043.html",
         "image": "https://www.rosario3.com/__export/1795542049252/sites/rosario3/img/2026/11/24/islas_crecida.jpg_506286608.jpg",
         "summary": "La escuela se convirtió una vez más en el corazón y refugio de la comunidad. El actual edificio escolar, el tercero que se construye en la zona debido a las inundaciones en el humedal, fue diseñado en altura para resistir el avance del agua, pero el cambio en el entorno los…",
-        "pubDate": "2026-11-24T12:00:00+00:00",
+        "pubDate": "2026-11-24T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/el-gobierno-reune-a-la-mesa-politica-para-definir-la-estrategia-legislativa-de-una-semana-clave-en-el-congreso-20261123-0033.html",
         "image": "https://www.rosario3.com/__export/1795459321154/sites/rosario3/img/2026/11/23/mesa.jpg_2106848869.jpg",
         "summary": "La Mesa Política de La Libertad Avanza se reunió este martes en Casa Rosada y repasó la agenda legislativa de la semana. El decreto de convocatoria se dará a conocer hacia fines de esta semana y la iniciativa central será la Ley de Defensa de la Soberanía Nacional",
-        "pubDate": "2026-11-23T11:59:00+00:00",
+        "pubDate": "2026-11-23T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/por-unanimidad-daniel-erbetta-fue-elegido-presidente-de-la-corte-suprema-de-justicia-de-santa-fe-20261124-0050.html",
         "image": "https://www.rosario3.com/__export/1795547194463/sites/rosario3/img/2026/11/24/daniel_erbetta.png_786111822.png",
         "summary": "El magistrado asumirá el próximo 1 de diciembre en reemplazo de Rafael Gutiérrez, quien dejará el cargo por jubilación. Su mandato se extenderá hasta fines de 2027, en una etapa marcada por cambios y renovación en el Poder Judicial provincial",
-        "pubDate": "2026-11-24T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Policía está grave tras haber sido apuñalado en el cuello en la comisaría de Villa Eloísa",
-        "link": "https://www.rosario3.com/policiales/policia-esta-grave-tras-haber-sido-apunalado-en-el-cuello-en-la-comisaria-de-villa-eloisa-20261124-0042.html",
-        "image": "https://www.rosario3.com/__export/1795540469331/sites/rosario3/img/2026/11/24/villa_eloisa.jpg_928314580.jpg",
-        "summary": "El ataque ocurrió este lunes por la noche, cuando el inspector fue agredido por el novio de una mujer que salía de denunciarlo de la seccional por violencia de género. El agente está internado en Rosario",
         "pubDate": "2026-11-24T11:57:00+00:00",
         "approxTime": true
       },
@@ -112,10 +112,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Récord histórico para GTA 6: vendió 44,9 millones de copias y recaudó más de 4.000 millones de dólares en su fin de semana de estreno",
-        "link": "https://www.rosario3.com/tecnologia/record-historico-para-gta-6-vendio-449-millones-de-copias-y-recaudo-mas-de-4.000-millones-de-dolares-en-su-fin-de-semana-de-estreno-20261124-0028.html",
-        "image": "https://www.rosario3.com/__export/1794237532543/sites/rosario3/img/2026/11/09/gta-6.jpg_928314580.jpg",
-        "summary": "Un informe confirmó que el nuevo título de Rockstar Games superó todas las marcas de la industria del entretenimiento en apenas cuatro días. El detalle de las ventas por consolas y los países que lideran el fenómeno",
+        "title": "Policía está grave tras haber sido apuñalado en el cuello en la comisaría de Villa Eloísa",
+        "link": "https://www.rosario3.com/policiales/policia-esta-grave-tras-haber-sido-apunalado-en-el-cuello-en-la-comisaria-de-villa-eloisa-20261124-0042.html",
+        "image": "https://www.rosario3.com/__export/1795540469331/sites/rosario3/img/2026/11/24/villa_eloisa.jpg_928314580.jpg",
+        "summary": "El ataque ocurrió este lunes por la noche, cuando el inspector fue agredido por el novio de una mujer que salía de denunciarlo de la seccional por violencia de género. El agente está internado en Rosario",
         "pubDate": "2026-11-24T11:48:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Proponen un cambio de paradigma para mejorar la movilidad de Rosario y su área metropolitana",
+        "link": "https://www.lacapital.com.ar/la-ciudad/proponen-un-cambio-paradigma-mejorar-la-movilidad-rosario-y-su-area-metropolitana-n10294002.html",
+        "image": "https://media.lacapital.com.ar/p/96715bace87de53ddba222cc965d8b9a/adjuntos/203/imagenes/103/551/0103551143/1200x675/smart/image-52.jpg",
+        "summary": "El proyecto del diputado provincial Joaquín Blanco busca transformar la manera en que se planifica y coordina la movilidad a escala metropolitana",
+        "pubDate": "2026-11-24T20:44:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Villa Gobernador Gálvez: allanaron un búnker que manejaba \"Pupito\" Avalle",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/494f13edafb7b7a67793b60ca9b5e5e5/adjuntos/203/imagenes/103/310/0103310427/1200x675/1489x650:1509x670/dolares.jpeg",
         "summary": "La divisa informal subió $25 este martes y se negoció a $1.717 para la venta en la city rosarina. El oficial alcanzó un nuevo máximo histórico y el riesgo país superó los 1.100 puntos básicos.",
         "pubDate": "2026-11-24T19:03:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Netflix estrenó thriller polaco de tan solo 4 episodios",
-        "link": "https://www.lacapital.com.ar/zoom/netflix-estreno-thriller-polaco-tan-solo-4-episodios-n10293952.html",
-        "image": "https://media.lacapital.com.ar/p/4be21b15dae966d3509c3b16088e5f66/adjuntos/203/imagenes/103/550/0103550800/1200x675/smart/image-4.png",
-        "summary": "Inspirada en hechos reales, la miniserie se mete en un dilema ético cuando un brutal asesino está a punto de ser liberado",
-        "pubDate": "2026-11-24T18:55:00+00:00",
         "approxTime": false
       }
     ]
