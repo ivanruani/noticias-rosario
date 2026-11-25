@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-11-25T17:01:07.362648+00:00",
+  "generatedAt": "2026-11-25T17:30:59.209947+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Impactante choque de tres camiones en la ruta Rosario-Victoria: uno de los vehículos casi termina en el agua",
+        "link": "https://www.rosario3.com/informaciongeneral/impactante-choque-de-tres-camiones-en-la-ruta-rosario-victoria-uno-de-los-vehiculos-casi-termina-en-el-agua-20261125-0048.html",
+        "image": "https://www.rosario3.com/__export/1795625833542/sites/rosario3/img/2026/11/25/choque_camiones_-1-.png_786111822.png",
+        "summary": "El siniestro vial ocurrió en el kilómetro 21, en sentido hacia Victoria. Uno de los camiones se salió de la calzada y quedó al borde del río Paraná, cuya crecida mantiene el agua a apenas cinco centímetros del nivel de alerta. Los conductores sufrieron heridas leves",
+        "pubDate": "2026-11-25T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Santa Fe propone descontar sueldos, luz e inversiones de Ingresos Brutos: todas las claves para 2027 | Ecos365",
         "link": "https://www.rosario3.com/ecos365/noticias/santa-fe-propone-descontar-sueldos-luz-e-inversiones-de-ingresos-brutos-todas-las-claves-para-2027-20261125-0006.html",
         "image": "https://www.rosario3.com/__export/1795617350373/sites/rosario3/img/2026/11/25/api_crop1794347259035_crop1795617348775.png_1026429257.png",
         "summary": "Santa Fe propone aliviar Ingresos Brutos, descontar inversiones y sueldos, facilitar la refinanciación de deudas y ampliar exenciones. El Inmobiliario subiría 12%, con premios por cumplimiento y pago anticipado. Qué cambia para empresas, comercios, productores y familias en 2027",
-        "pubDate": "2026-11-25T12:00:00+00:00",
+        "pubDate": "2026-11-25T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/el-dolar-sigue-subiendo-en-rosario-el-blue-ya-cotiza-a-1.760-20261125-0041.html",
         "image": "https://www.rosario3.com/__export/1772827230102/sites/rosario3/img/2026/03/06/el_dolar.jpg_1768679258.jpg",
         "summary": "Tras varios meses de relativa estabilidad, la divisa olvió a concentrar la atención. En el segmento mayorista, el tipo de cambio escala $18 (1,1%) a $1.611 para la venta, superando por primera vez ese umbral.",
-        "pubDate": "2026-11-25T11:59:00+00:00",
+        "pubDate": "2026-11-25T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/policiales/condenaron-al-gordo-dani-por-operar-para-los-monos-antes-de-pasarse-a-los-menores-20261125-0032.html",
         "image": "https://www.rosario3.com/__export/1795619647501/sites/rosario3/img/2024/04/18/hector_gordo_dani_noguera.jpg_28271919.jpg",
         "summary": "El recluso Héctor Daniel Noguera aceptó un juicio abreviado por el que recibió este martes la pena de 8 años de prisión. En paralelo, ya purga una sentencia a perpetua por dos homicidios cometidos en 2020 en Villa Gobernador Gálvez",
-        "pubDate": "2026-11-25T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Bullrich le pidió \"cambios quirúrgicos\" a Milei y afirmó que está \"preparada para ser presidenta\"",
-        "link": "https://www.rosario3.com/politica/bullrich-le-pidio-cambios-quirurgicos-a-milei-y-afirmo-que-esta-preparada-para-ser-presidenta-20261125-0030.html",
-        "image": "https://www.rosario3.com/__export/1788570176693/sites/rosario3/img/2026/09/04/milei_bullrich.jpg_928314580.jpg",
-        "summary": "En diferentes entrevistas, la senadora nacional aliada del presidente remarcó que el Gobierno necesita mostrar resultados económicos antes de las elecciones de 2027, un tema sobre el que también se manifestó en vistas al rol que podría tener, ya sea como parte del armado…",
         "pubDate": "2026-11-25T11:57:00+00:00",
         "approxTime": true
       },
@@ -94,11 +94,29 @@
       },
       {
         "source": "Rosario3",
+        "title": "El futbolista español Marcos Llorente le dio caviar a su hija de 21 meses y desató una fuerte polémica en redes",
+        "link": "https://www.rosario3.com/informaciongeneral/el-futbolista-espanol-marcos-llorente-le-dio-caviar-a-su-hija-de-21-meses-y-desato-una-fuerte-polemica-en-redes-20261125-0046.html",
+        "image": "https://www.rosario3.com/__export/1795624725171/sites/rosario3/img/2026/11/25/llorente_caviar.png_786111822.png",
+        "summary": "El jugador del Atlético de Madrid compartió un video en el que se lo ve dándole caviar a su hija de 21 meses. La publicación generó críticas en redes sociales, cuestionamientos políticos y advertencias sobre los riesgos de este alimento en menores de dos años",
+        "pubDate": "2026-11-25T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Polémica en Santa Cruz: magnate de Emiratos Árabes comprará 21 hectáreas frente al glaciar Perito Moreno para construir un complejo de lujo",
         "link": "https://www.rosario3.com/informaciongeneral/polemica-en-santa-cruz-magnate-de-emiratos-arabes-comprara-21-hectareas-frente-al-glaciar-perito-moreno-para-construir-un-complejo-de-lujo-20261125-0038.html",
         "image": "https://www.rosario3.com/__export/1795621582759/sites/rosario3/img/2026/11/25/perito_moreno.png_786111822.png",
         "summary": "Un decreto del gobernador Claudio Vidal autorizó, de manera excepcional, la transferencia de 21 hectáreas ubicadas en la Península de Magallanes a una firma vinculada al empresario emiratí Ali Saeed Juma Albwardy. El proyecto contempla la construcción de 24 alojamientos…",
-        "pubDate": "2026-11-25T11:50:00+00:00",
+        "pubDate": "2026-11-25T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Bullrich le pidió \"cambios quirúrgicos\" a Milei y afirmó que está \"preparada para ser presidenta\"",
+        "link": "https://www.rosario3.com/politica/bullrich-le-pidio-cambios-quirurgicos-a-milei-y-afirmo-que-esta-preparada-para-ser-presidenta-20261125-0030.html",
+        "image": "https://www.rosario3.com/__export/1788570176693/sites/rosario3/img/2026/09/04/milei_bullrich.jpg_928314580.jpg",
+        "summary": "En diferentes entrevistas, la senadora nacional aliada del presidente remarcó que el Gobierno necesita mostrar resultados económicos antes de las elecciones de 2027, un tema sobre el que también se manifestó en vistas al rol que podría tener, ya sea como parte del armado…",
+        "pubDate": "2026-11-25T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -107,16 +125,7 @@
         "link": "https://www.rosario3.com/policiales/acortaron-las-prisiones-preventivas-de-dos-policias-imputados-por-un-allanamiento-trucho-y-robo-en-v.-g.-galvez-20261125-0024.html",
         "image": "https://www.rosario3.com/__export/1794074257707/sites/rosario3/img/2026/10/07/pdi.jpg_928314581.jpg",
         "summary": "En una audiencia de cámara llevada a cabo este martes, el juez Daniel Curik hizo lugar a la apelación de las defensas de los agentes de Microtráfico de la Policía de Investigaciones José Duch y Leandro Blasetti. Dispuso que queden detenidos hasta finales de marzo de 2027",
-        "pubDate": "2026-11-25T11:49:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Buscan a Valeria, una mujer de 32 años desaparecida en Villa Gobernador Gálvez",
-        "link": "https://www.rosario3.com/informaciongeneral/buscan-a-valeria-una-mujer-de-32-anos-desaparecida-en-villa-gobernador-galvez-20261125-0031.html",
-        "image": "https://www.rosario3.com/__export/1795618244536/sites/rosario3/img/2026/11/25/valeria1.jpg_928314581.jpg",
-        "summary": "Había estado internada en el hospital Agudo Ávila con un diagnóstico de esquizofrenia. Tras ser dada de alta, su familia no la volvió a ver",
-        "pubDate": "2026-11-25T11:48:00+00:00",
+        "pubDate": "2026-11-25T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,20 +134,38 @@
         "link": "https://www.rosario3.com/informaciongeneral/el-insolito-origen-del-zorro-que-aparecio-atrapado-en-el-frente-de-un-auto-en-el-centro-de-rosario-20261125-0027.html",
         "image": "https://www.rosario3.com/__export/1795616342570/sites/rosario3/img/2026/11/25/zorrito.jpg_928314581.jpg",
         "summary": "El animalito tuvo que ser rescatado por la Policía de la Brigada Ecológica. La dueña del coche contó que, horas antes, había sentido un impacto en la ruta, pero continuaron la marcha sin saber que habían atropellado al ejemplar. “Todavía no descubrimos por dónde se metió”…",
-        "pubDate": "2026-11-25T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Caputo relativizó la recesión técnica y dijo que el riesgo país “es por temor a que no esté Milei”",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/caputo-relativizo-la-recesion-tecnica-y-dijo-que-el-riesgo-pais-es-por-temor-a-que-no-este-milei-20261125-0019.html",
-        "image": "https://www.rosario3.com/__export/1771496234763/sites/rosario3/img/2026/02/03/caputo-_1.png_1221028662.png",
-        "summary": "Con la confirmación de dos trimestres consecutivos de caída del PIB real, el ministro de Economía, Luis Caputo, ratificó y defendió el rumbo económico de la administración libertaria aunque reconoció que “hemos crecido menos de lo que nos hubiera gustado' y que “hay gente que…",
         "pubDate": "2026-11-25T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Tenis: Rosario se prepara para la segunda edición del Interclubes",
+        "link": "https://www.lacapital.com.ar/ovacion/tenis-rosario-se-prepara-la-segunda-edicion-del-interclubes-n10293991.html",
+        "image": "https://media.lacapital.com.ar/p/51620bde1c0110ff37ecf733d6172c48/adjuntos/203/imagenes/103/551/0103551039/tennis.jpg",
+        "summary": "La competencia marcará el cierre de la temporada 2026 de la Federación Santafesina (FST). Se disputará en el Rosario Rowing Club",
+        "pubDate": "2026-11-25T17:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El viral encuentro entre Charly García y la banda ZZ Top en Argentina: \"La definición de rock and roll\"",
+        "link": "https://www.lacapital.com.ar/zoom/el-viral-encuentro-charly-garcia-y-la-banda-zz-top-argentina-la-definicion-rock-and-roll-n10294152.html",
+        "image": "https://media.lacapital.com.ar/p/8a7dffcd8b065c2e4586f5ada891f0f0/adjuntos/203/imagenes/103/552/0103552896/1200x675/smart/charly-zztop.png",
+        "summary": "La legendaria banda se presentó este 24 de noviembre en el Movistar Arena, en el marco de su gira \"The Big One!\", y contó con la visita especial de Charly García",
+        "pubDate": "2026-11-25T16:59:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El ex-Newell's Luciano Herrera, en problemas: Pumas rescinde su contrato y le busca club",
+        "link": "https://www.lacapital.com.ar/ovacion/el-ex-newells-luciano-herrera-problemas-pumas-rescinde-su-contrato-y-le-busca-club-n10294157.html",
+        "image": "https://media.lacapital.com.ar/p/5e20ab55fd29264b64c578f65a4b3599/adjuntos/203/imagenes/103/552/0103552874/1200x675/smart/image-3.jpg",
+        "summary": "El futolista llegó a México en julio, a préstamo y con una opción de compra, pero no rindió y los hinchas no lo quieren",
+        "pubDate": "2026-11-25T16:57:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Central tiene nueva comisión directiva, con Belloso al mando y por otros cuatro años",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/41f169d4db79601a6a2a3a1c851eec50/adjuntos/203/imagenes/024/979/0024979977/1200x675/smart/13_lc_73235663__26-11-2018__100x700jpg.jpg",
         "summary": "Los beneficiarios de Ansés pueden aprovechar promociones, reintegros y cuotas sin interés en supermercados, farmacias y combustible. Cómo funciona el programa",
         "pubDate": "2026-11-25T15:27:59+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Anmat suspendió un medicamento para la diabetes por riesgo cardiovascular",
-        "link": "https://www.lacapital.com.ar/informacion-general/anmat-suspendio-un-medicamento-la-diabetes-riesgo-cardiovascular-n10294123.html",
-        "image": "https://media.lacapital.com.ar/p/d420a8bce41edf4bcd1c8ddc0dcdee00/adjuntos/203/imagenes/103/552/0103552643/1200x675/smart/image-7.png",
-        "summary": "La decisión rige sobre todas las especialidades medicinales que contienen este ingrediente farmacéutico activo y se ordenó el retiro del mercado de todos los productos implicados",
-        "pubDate": "2026-11-25T15:24:28+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Santi Maratea cerró su cuenta de Instagram con más de 3 millones de seguidores: su video de despedida",
-        "link": "https://www.lacapital.com.ar/zoom/santi-maratea-cerro-su-cuenta-instagram-mas-3-millones-seguidores-su-video-despedida-n10294105.html",
-        "image": "https://media.lacapital.com.ar/p/0306c8e0f981052b2720087ce2c0a726/adjuntos/203/imagenes/103/552/0103552493/1200x675/smart/santi-maratea.png",
-        "summary": "El influencer eliminó sus publicaciones y anunció que dejará de trabajar en redes para concentrarse en una fundación dedicada a la salud infantil",
-        "pubDate": "2026-11-25T15:05:43+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Ley de ludopatía: las claves del proyecto que busca regular las apuestas online",
-        "link": "https://www.lacapital.com.ar/informacion-general/ley-ludopatia-las-claves-del-proyecto-que-busca-regular-las-apuestas-online-n10294112.html",
-        "image": "https://media.lacapital.com.ar/p/a4f61ce57f6048b42625dbf7c9a32ef5/adjuntos/203/imagenes/102/019/0102019087/1200x675/smart/juego-online-celular-ludopatia-adolescentesjpg.jpg",
-        "summary": "La iniciativa prohíbe la publicidad de juegos de azar en línea, establece controles biométricos para los usuarios, limita los medios de pago y crea un registro de autoexclusión",
-        "pubDate": "2026-11-25T14:59:13+00:00",
         "approxTime": false
       }
     ]
