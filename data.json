@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T10:01:04.512111+00:00",
+  "generatedAt": "2026-11-25T10:30:56.653715+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "25N: Rosario se prepara para marchar en contra de la violencia machista",
+        "link": "https://www.lacapital.com.ar/la-ciudad/25n-rosario-se-prepara-marchar-contra-la-violencia-machista-n10294059.html",
+        "image": "https://media.lacapital.com.ar/p/b7bd9b5a4ef245703984df12d3159cd9/adjuntos/203/imagenes/101/202/0101202689/1200x675/smart/25nwebp.png",
+        "summary": "Este miércoles se realizarán movilizaciones que llegarán hasta el Monumento a la Bandera",
+        "pubDate": "2026-11-25T10:19:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Llega una nueva Noche de los Teatros Independientes: propuestas gratuitas en 13 salas de Rosario",
+        "link": "https://www.lacapital.com.ar/zoom/llega-una-nueva-noche-los-teatros-independientes-propuestas-gratuitas-13-salas-rosario-n10293968.html",
+        "image": "https://media.lacapital.com.ar/p/d8c7a5ce40c64be8dc3f68f517005ed1/adjuntos/203/imagenes/103/550/0103550994/1200x675/smart/image-2026-11-24t170814211.png",
+        "summary": "Este miércoles, a partir de las 19.30, habrá obras teatrales, música, danza y gastronomía. La iniciativa busca visibilizar la producción artística local y acercar nuevos públicos",
+        "pubDate": "2026-11-25T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Buscan convertir la costa central en un distrito turístico gastronómico",
         "link": "https://www.lacapital.com.ar/la-ciudad/buscan-convertir-la-costa-central-un-distrito-turistico-gastronomico-n10293929.html",
         "image": "https://media.lacapital.com.ar/p/8f9e8441a9cf7c27ba187ab82339df8e/adjuntos/203/imagenes/103/550/0103550658/1200x675/smart/82870598.jpeg",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/1708bd395e95a848f49e347d4631a341/adjuntos/203/imagenes/103/551/0103551448/1200x675/smart/mesa-politica-reforma-electoral-y-presupuesto.jpg",
         "summary": "Karina Milei reunió a la mesa política para avanzar con la reforma electoral y el presupuesto 2027. La ley Malvinas pasa a extraordinarias",
         "pubDate": "2026-11-24T23:34:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Colombia: hombres armados tomaron 25 rehenes en un supermercado de Cartagena",
-        "link": "https://www.lacapital.com.ar/informacion-general/colombia-hombres-armados-tomaron-25-rehenes-un-supermercado-cartagena-n10294034.html",
-        "image": "https://media.lacapital.com.ar/p/9377afcd7eadc505bbe90b4eeb48b968/adjuntos/203/imagenes/103/551/0103551527/2026-11-24-cartagena.jpg",
-        "summary": "La Policía Nacional y fuerzas especiales finalmente lograron la liberación de todos los rehenes",
-        "pubDate": "2026-11-24T23:23:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Tras la polémica, la UBA canceló el homenaje al exlíder del ERP Mario Santucho",
-        "link": "https://www.lacapital.com.ar/politica/tras-la-polemica-la-uba-cancelo-el-homenaje-al-exlider-del-erp-mario-santucho-n10294027.html",
-        "image": "https://media.lacapital.com.ar/p/7a352b8dec4dd0f324e2fdfbb2e9349d/adjuntos/203/imagenes/103/551/0103551515/1200x675/smart/image-54.jpg",
-        "summary": "La Facultad de Ciencias Sociales de la Universidad de Buenos Aires (UBA) resolvió cancelar el acto previsto para el 10 de diciembre en reconocimiento al exlíder guerrillero",
-        "pubDate": "2026-11-24T23:09:00+00:00",
         "approxTime": false
       }
     ]
