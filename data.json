@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T21:31:00.724275+00:00",
+  "generatedAt": "2026-11-25T22:01:09.004308+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,7 +13,7 @@
       },
       {
         "source": "Rosario3",
-        "title": "Rosario marcha por el 25N: gran convocatoria, cortes de calle y un reclamo unánime contra la violencia hacia las mujeres",
+        "title": "Rosario marcha por el 25N: gran convocatoria, cortes de calles y un reclamo unánime contra la violencia hacia las mujeres",
         "link": "https://www.rosario3.com/informaciongeneral/cortes-y-desvios-de-transito-en-el-centro-de-la-ciudad-por-la-marcha-del-25n-20261125-0033.html",
         "image": "https://www.rosario3.com/__export/1795640245850/sites/rosario3/img/2026/11/25/25_n6.jpg_1768679257.jpg",
         "summary": "La movilización prevista para este miércoles a partir de las 17 en la plaza San Martín contra la violencia de género ya comenzó. La Municipalidad de Rosario dispone de un operativo especial en la zona e irán cortando el tránsito a medida que avanza la marea violeta",
@@ -67,10 +67,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Sin oposición, Gonzalo Belloso fue proclamado como presidente de Central para su segundo mandato",
-        "link": "https://www.rosario3.com/deportes/sin-oposicion-gonzalo-belloso-fue-proclamado-como-presidente-de-central-para-su-segundo-mandato-20261125-0045.html",
-        "image": "https://www.rosario3.com/__export/1794696608765/sites/rosario3/img/2022/12/18/belloso.jpg_1124828059.jpg",
-        "summary": "Al no presentarse una lista opositora que cumpliera con los requisitos estatutarios, la agrupación Raza Canalla quedó como única habilitada para los comicios y el actual presidente continuará al frente del club por un nuevo período, según informó este miércoles la Comisión…",
+        "title": "La AFA confirmó quiénes serán los árbitros en los cuartos de final del Torneo Clausura: quién dirige a Central ante Barracas",
+        "link": "https://www.rosario3.com/deportes/la-afa-confirmo-quienes-seran-los-arbitros-en-los-cuartos-de-final-del-torneo-clausura-quien-dirige-a-central-ante-barracas-20261125-0073.html",
+        "image": "https://www.rosario3.com/__export/1795641978507/sites/rosario3/img/2026/11/25/dovalo.jpg_928314581.jpg",
+        "summary": "La Liga Profesional designó a las autoridades a cargo de la definición del campeonato de Primera División",
         "pubDate": "2026-11-25T11:53:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Aeropuerto de Rosario: Panamá y Río de Janeiro se consolidan como las rutas regulares con mayor ocupación",
+        "link": "https://www.lacapital.com.ar/la-ciudad/aeropuerto-rosario-panama-y-rio-janeiro-se-consolidan-como-las-rutas-regulares-mayor-ocupacion-n10294211.html",
+        "image": "https://media.lacapital.com.ar/p/d4c1b28de26e6dc66a2934d01bec6d93/adjuntos/203/imagenes/100/039/0100039451/1200x675/smart/copa-airlinesjpg.jpg",
+        "summary": "Ambas conexiones alcanzaron un promedio del 86% de asientos ocupados en sus vuelos entre enero y octubre. La terminal aérea superó los 562 mil pasajeros en ese período y se encamina a cerrar el año con cifras récord",
+        "pubDate": "2026-11-25T21:42:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Guillermo Francella abre el Festival Fontanarrosa: \"Me unen muchas cosas con Rosario\"",
@@ -262,15 +271,6 @@
         "link": "https://www.lacapital.com.ar/zoom/un-drama-colombiano-llego-netflix-una-amenaza-natural-como-premisa-n10294145.html",
         "image": "https://media.lacapital.com.ar/p/d7953e0732dafb407bfdd468f504e550/adjuntos/203/imagenes/103/552/0103552801/1200x675/smart/image-8.png",
         "summary": "La película comienza cuando una poderosa corriente del Pacífico arrastra a un grupo de buzos, dejándolos aislados a miles de kilómetros de la costa",
-        "pubDate": "2026-11-25T18:23:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cómo saber qué farmacias trabajan con Pami",
-        "link": "https://www.lacapital.com.ar/informacion-general/como-saber-que-farmacias-trabajan-pami-n10294177.html",
-        "image": "https://media.lacapital.com.ar/p/83a081135949320f868803e1834d2801/adjuntos/203/imagenes/102/046/0102046061/1200x675/smart/pami-receta-electronicapng.png",
-        "summary": "Con una herramienta práctica y fácil, los afiliados pueden conocer la totalidad de farmacias habilitadas por Pami en cualquier punto del país",
         "pubDate": "2026-11-25T18:23:00+00:00",
         "approxTime": false
       }
