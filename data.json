@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T22:01:09.004308+00:00",
+  "generatedAt": "2026-11-25T22:27:29.904190+00:00",
   "sites": {
     "rosario3": [
       {
@@ -49,19 +49,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "Rastrearon un auto robado en San Lorenzo y encontraron drogas y un arma",
-        "link": "https://www.rosario3.com/policiales/rastrearon-un-auto-robado-en-san-lorenzo-y-encontraron-drogas-y-un-arma-20261125-0058.html",
-        "image": "https://www.rosario3.com/__export/1795631708455/sites/rosario3/img/2026/11/25/san_lorenzo_pdi_detenidoas_-3-.jpeg_672794304.jpeg",
-        "summary": "La investigación por el robo de un Ford Ka en barrio Fonavi Oeste derivó en un allanamiento en Silverio Córdoba al 1600. El sistema Lince permitió reconstruir el recorrido del vehículo y llegar al domicilio donde lo habían ingresado. Dos mujeres quedaron detenidas",
+        "title": "Mejora el policía apuñalado en la comisaría de Villa Eloísa: despertó y fue extubado",
+        "link": "https://www.rosario3.com/policiales/mejora-el-policia-apunalado-en-la-comisaria-de-villa-eloisa-desperto-y-fue-extubado-20261125-0072.html",
+        "image": "https://www.rosario3.com/__export/1795642418039/sites/rosario3/img/2026/11/25/comisaria_villa_eloisa.jpg_672794304.jpg",
+        "summary": "Luis Barrera, de 44 años, continúa internado en terapia intensiva en Rosario, pero evoluciona favorablemente después de haber sido operado por una grave herida en el cuello. Fue atacado cuando intentaba proteger a una mujer que había ido a denunciar a su pareja por violencia de…",
         "pubDate": "2026-11-25T11:55:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "El dólar sigue subiendo en Rosario: el blue ya cotiza a $1.760",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/el-dolar-sigue-subiendo-en-rosario-el-blue-ya-cotiza-a-1.760-20261125-0041.html",
-        "image": "https://www.rosario3.com/__export/1772827230102/sites/rosario3/img/2026/03/06/el_dolar.jpg_1768679258.jpg",
-        "summary": "Tras varios meses de relativa estabilidad, la divisa olvió a concentrar la atención. En el segmento mayorista, el tipo de cambio escala $18 (1,1%) a $1.611 para la venta, superando por primera vez ese umbral.",
+        "title": "Rastrearon un auto robado en San Lorenzo y encontraron drogas y un arma",
+        "link": "https://www.rosario3.com/policiales/rastrearon-un-auto-robado-en-san-lorenzo-y-encontraron-drogas-y-un-arma-20261125-0058.html",
+        "image": "https://www.rosario3.com/__export/1795631708455/sites/rosario3/img/2026/11/25/san_lorenzo_pdi_detenidoas_-3-.jpeg_672794304.jpeg",
+        "summary": "La investigación por el robo de un Ford Ka en barrio Fonavi Oeste derivó en un allanamiento en Silverio Córdoba al 1600. El sistema Lince permitió reconstruir el recorrido del vehículo y llegar al domicilio donde lo habían ingresado. Dos mujeres quedaron detenidas",
         "pubDate": "2026-11-25T11:54:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,33 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Prisión preventiva para un conductor que manejaba alcoholizado y en contramano y provocó un choque en Alberdi",
+        "link": "https://www.lacapital.com.ar/la-ciudad/prision-preventiva-un-conductor-que-manejaba-alcoholizado-y-contramano-y-provoco-un-choque-alberdi-n10294225.html",
+        "image": "https://media.lacapital.com.ar/p/315514c94dbe96c170677eb4d378a0eb/adjuntos/203/imagenes/103/553/0103553440/2026-11-25-centro-justicia-penal-by_vbenedetto-82379642.jpg",
+        "summary": "El automovilista conducía una Amarok cuando embistió de frente a un Corsa en Baigorria al 1200. Cuatro personas resultaron heridas, entre ellas una mujer que debió ser operada de urgencia.",
+        "pubDate": "2026-11-25T22:24:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La Bolsa de Comercio de Rosario abrió una nueva convocatoria para startups",
+        "link": "https://www.lacapital.com.ar/agro/la-bolsa-comercio-rosario-abrio-una-nueva-convocatoria-startups-n10294192.html",
+        "image": "https://media.lacapital.com.ar/p/c7b4633b572a3cd33873eec567116752/adjuntos/305/imagenes/102/655/0102655153/1200x675/654x300:674x320/agtechbcr4ff.jpg",
+        "summary": "La séptima edición de BCR Startup Network está dirigida a emprendimientos de base tecnológica y científica con menos de diez años de trayectoria. La inscripción es gratuita y estará abierta hasta el 15 de enero de 2027",
+        "pubDate": "2026-11-25T22:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central ya conoce el árbitro para el duelo en el que buscará el pase a la semifinal del Clausura",
+        "link": "https://www.lacapital.com.ar/ovacion/central-ya-conoce-el-arbitro-el-duelo-el-que-buscara-el-pase-la-semifinal-del-clausura-n10294222.html",
+        "image": "https://media.lacapital.com.ar/p/c1690a260992e2ece74e292a93725e37/adjuntos/203/imagenes/103/553/0103553461/dova.jpg",
+        "summary": "Pablo Dóvalo será el encargado de controlar el choque entre el Canalla y Barracas Central. En este torneo lo dirigió dos veces y ganó ambos",
+        "pubDate": "2026-11-25T22:05:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Aeropuerto de Rosario: Panamá y Río de Janeiro se consolidan como las rutas regulares con mayor ocupación",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/e007922da46704cc5ef0da75688548b8/adjuntos/203/imagenes/103/553/0103553013/1200x675/smart/dsc_7225-1.jpg",
         "summary": "En el marco del premio “Camino de la Malta”, ambas compañías distinguieron a Garfin Agro S.A. por su compromiso con una agricultura responsable y sostenible, destacando su contribución a una producción de cebada cervecera más sustentable.",
         "pubDate": "2026-11-25T18:29:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La senadora Di Gregorio expuso en el Congreso nacional su proyecto de ley de Protección del Vínculo Filial",
-        "link": "https://www.lacapital.com.ar/la-region/la-senadora-di-gregorio-expuso-el-congreso-nacional-su-proyecto-ley-proteccion-del-vinculo-filial-n10294184.html",
-        "image": "https://media.lacapital.com.ar/p/391279aaf6353cf12cbb7f1f80c38a58/adjuntos/203/imagenes/103/553/0103553075/1200x675/smart/di-gregorio-congreso-nacional-3.jpeg",
-        "summary": "Está orientado a garantizar los derechos de niños, niñas y adolescentes en el marco de los procesos judiciales de familia. La legisladora santafesina fue invitada a explicar sus alcances",
-        "pubDate": "2026-11-25T18:27:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Se fue de Newell's a principios de temporada porque no tenía lugar y es uno de los mejores del año",
-        "link": "https://www.lacapital.com.ar/ovacion/se-fue-newells-principios-temporada-porque-no-tenia-lugar-y-es-uno-los-mejores-del-ano-n10294178.html",
-        "image": "https://media.lacapital.com.ar/p/2f69b3ce2aabba9f54f08e259cc4c333/adjuntos/203/imagenes/103/553/0103553049/1200x675/smart/image-6.jpg",
-        "summary": "Integra la terna de delanteros más destacados de su liga. No tenía lugar en el Parque y su actual equipo quiere comprarlo",
-        "pubDate": "2026-11-25T18:24:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Un drama colombiano llegó a Netflix con una amenaza natural como premisa",
-        "link": "https://www.lacapital.com.ar/zoom/un-drama-colombiano-llego-netflix-una-amenaza-natural-como-premisa-n10294145.html",
-        "image": "https://media.lacapital.com.ar/p/d7953e0732dafb407bfdd468f504e550/adjuntos/203/imagenes/103/552/0103552801/1200x675/smart/image-8.png",
-        "summary": "La película comienza cuando una poderosa corriente del Pacífico arrastra a un grupo de buzos, dejándolos aislados a miles de kilómetros de la costa",
-        "pubDate": "2026-11-25T18:23:00+00:00",
         "approxTime": false
       }
     ]
