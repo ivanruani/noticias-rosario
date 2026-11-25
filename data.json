@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T14:01:06.492255+00:00",
+  "generatedAt": "2026-11-25T14:31:08.574290+00:00",
   "sites": {
     "rosario3": [
       {
@@ -40,11 +40,20 @@
       },
       {
         "source": "Rosario3",
-        "title": "El Paraná descendió hoy unos centímetros en Rosario en medio de la crecida",
-        "link": "https://www.rosario3.com/informaciongeneral/el-parana-descendio-hoy-unos-centimetros-en-rosario-en-medio-de-la-crecida-20261125-0014.html",
-        "image": "https://www.rosario3.com/__export/1795609682398/sites/rosario3/img/2026/11/25/parana.jpg_928314581.jpg",
-        "summary": "El registro de la Prefectura Naval indica que este miércoles el río mide 4.95 metros, 4 centímetros menos que el día de ayer. El secretario provincial de Recursos Hídricos, Nicolás Mijich, consideró que “tenemos un Niño fuerte y tenemos que prepararse”",
+        "title": "El boletín de calificaciones de Lionel Messi en su escuela de Rosario: la imagen viral y un detalle que causó furor",
+        "link": "https://www.rosario3.com/informaciongeneral/el-boletin-de-calificaciones-de-lionel-messi-en-su-escuela-de-rosario-la-imagen-viral-y-un-detalle-que-causo-furor-20261125-0017.html",
+        "image": "https://www.rosario3.com/__export/1795611747070/sites/rosario3/img/2026/11/25/messi_escuela_las_heras.jpg_506286608.jpg",
+        "summary": "Volvió a circular en las redes sociales y permitió conocer cómo era su desempeño académico cuando cursaba séptimo grado en la Escuela Nº 66 General Las Heras, en la zona sur de Rosario. En reiteradas oportunidades tras convertirse en una estrella mundial, Leo fue de visita al…",
         "pubDate": "2026-11-25T11:56:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "El insólito origen del zorro que apareció atrapado en el frente de un auto en el centro de Rosario",
+        "link": "https://www.rosario3.com/informaciongeneral/el-insolito-origen-del-zorro-que-aparecio-atrapado-en-el-frente-de-un-auto-en-el-centro-de-rosario-20261125-0027.html",
+        "image": "https://www.rosario3.com/__export/1795616342570/sites/rosario3/img/2026/11/25/zorrito.jpg_928314581.jpg",
+        "summary": "El animalito tuvo que ser rescatado por la Policía de la Brigada Ecológica. La dueña del coche contó que, horas antes, había sentido un impacto en la ruta, pero continuaron la marcha sin saber que habían atropellado al ejemplar. “Todavía no descubrimos por dónde se metió”…",
+        "pubDate": "2026-11-25T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -53,15 +62,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/buscan-a-una-joven-argentina-que-desaparecio-en-medio-de-un-temporal-en-brasil-20261125-0022.html",
         "image": "https://www.rosario3.com/__export/1795613227819/sites/rosario3/img/2026/11/25/argentina_buscada_brasil.jpg_506286608.jpg",
         "summary": "Fue identificada como Keila Daiana Da Costa, de 24 años, oriunda de Misiones y residente de Ubatuba, en el estado de San Pablo. Según la reconstrucción, iba en moto junto a su pareja cuando fueron arrastrados por la crecida del río Indaiá. A su novio lo hallaron muerto",
-        "pubDate": "2026-11-25T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El boletín de calificaciones de Lionel Messi en su escuela de Rosario: la imagen viral y un detalle que causó furor",
-        "link": "https://www.rosario3.com/informaciongeneral/el-boletin-de-calificaciones-de-lionel-messi-en-su-escuela-de-rosario-la-imagen-viral-y-un-detalle-que-causo-furor-20261125-0017.html",
-        "image": "https://www.rosario3.com/__export/1795611747070/sites/rosario3/img/2026/11/25/messi_escuela_las_heras.jpg_506286608.jpg",
-        "summary": "Volvió a circular en las redes sociales y permitió conocer cómo era su desempeño académico cuando cursaba séptimo grado en la Escuela Nº 66 General Las Heras, en la zona sur de Rosario. En reiteradas oportunidades tras convertirse en una estrella mundial, Leo fue de visita al…",
         "pubDate": "2026-11-25T11:54:00+00:00",
         "approxTime": true
       },
@@ -85,11 +85,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "El Paraná descendió hoy unos centímetros en Rosario en medio de la crecida",
+        "link": "https://www.rosario3.com/informaciongeneral/el-parana-descendio-hoy-unos-centimetros-en-rosario-en-medio-de-la-crecida-20261125-0014.html",
+        "image": "https://www.rosario3.com/__export/1795609682398/sites/rosario3/img/2026/11/25/parana.jpg_928314581.jpg",
+        "summary": "El registro de la Prefectura Naval indica que este miércoles el río mide 4.95 metros, 4 centímetros menos que el día de ayer. El secretario provincial de Recursos Hídricos, Nicolás Mijich, consideró que “tenemos un Niño fuerte y tenemos que prepararse”",
+        "pubDate": "2026-11-25T11:51:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Docentes y no docentes de la UNR inician este miércoles un paro de 48 horas por el presupuesto universitario",
         "link": "https://www.rosario3.com/informaciongeneral/docentes-y-no-docentes-de-la-unr-paran-por-el-presupuesto-universitario-20261124-0070.html",
         "image": "https://www.rosario3.com/__export/1795564967067/sites/rosario3/img/2026/11/24/unr.jpg_1825222445.jpg",
         "summary": "Las medidas de fuerza coinciden con el debate del Presupuesto Nacional 2027. Los sindicatos cuestionan los fondos previstos para las universidades, el deterioro salarial y el congelamiento de las becas estudiantiles",
-        "pubDate": "2026-11-24T11:51:00+00:00",
+        "pubDate": "2026-11-24T11:50:00+00:00",
         "approxTime": true
       },
       {
@@ -98,7 +107,7 @@
         "link": "https://www.rosario3.com/policiales/detuvieron-a-un-adolescente-por-el-crimen-de-un-hombre-en-el-oeste-de-rosario-20261125-0007.html",
         "image": "https://www.rosario3.com/__export/1795604994265/sites/rosario3/img/2026/11/25/cad.jpg_928314581.jpg",
         "summary": "Una mujer acompañó a su hijo de 16 años a la Policía y aseguró que el chico era el autor del homicidio de Pablo Vega que tuvo lugar el viernes pasado en Fraga y Segui",
-        "pubDate": "2026-11-25T11:50:00+00:00",
+        "pubDate": "2026-11-25T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -107,7 +116,7 @@
         "link": "https://www.rosario3.com/deportes/como-esta-paredes-tras-el-desmayo-le-hicieron-estudios-y-definen-si-juega-en-boca-ante-independiente-rivadavia-20261125-0016.html",
         "image": "https://www.rosario3.com/__export/1793569669179/sites/rosario3/img/2026/11/01/720_-_2026-11-01t184522_720.jpg_1221029627.jpg",
         "summary": "El Xeneize recibirá este miércoles en la Bombonera a la Lepra mendocina por los octavos de final del torneo Clausura. El volante se desvaneció luego de ganar la final de la Copa Sudamericana ante Atlético Mineiro, el sábado pasado en Barranquilla",
-        "pubDate": "2026-11-25T11:49:00+00:00",
+        "pubDate": "2026-11-25T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +125,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/seis-anos-sin-maradona-diegoeterno-una-huella-imborrable-y-la-sentencia-pendiente-20261125-0012.html",
         "image": "https://www.rosario3.com/__export/1784114442968/sites/rosario3/img/2026/07/15/sin_fuente.jpg_506286608.jpg",
         "summary": "Este 25 de noviembre de 2026 se cumple un nuevo aniversario de la muerte del ídolo, mientras se espera conocer el veredicto del proceso judicial el próximo 22 de diciembre. Una vez más, las redes sociales se llenaron de mensajes con fotos, videos y recuerdos del diez. Este…",
-        "pubDate": "2026-11-25T11:48:00+00:00",
+        "pubDate": "2026-11-25T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,16 +134,7 @@
         "link": "https://www.rosario3.com/ecos365/noticias/claves-del-dia-la-gallega-abre-en-funes-ypf-pide-mas-rigi-startups-y-un-dolar-que-sigue-en-alza-20261125-0001.html",
         "image": "https://www.rosario3.com/__export/1794869188216/sites/rosario3/img/2026/11/16/720_-_2026-11-16t194449_336.jpg_993571189.jpg",
         "summary": "El dólar presiona y Caputo despliega ocho títulos para captar pesos. Los Grobo vende activos, YPF y Chevron proyectan 606 pozos y los ex Mercado Libre reúnen millones. La Gallega abre en Funes mientras las consultoras recortan el crecimiento",
-        "pubDate": "2026-11-25T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "¡Qué lo parió!: hoy comienza la segunda edición del Festival Fontanarrosa con mucho humor en vivo",
-        "link": "https://www.rosario3.com/ocio/la-segunda-edicion-del-festival-fontanarrosa-tiene-fecha-muestras-y-artistas-confirmados-20261108-0024.html",
-        "image": "https://www.rosario3.com/__export/1795535789641/sites/rosario3/img/2026/11/24/fotojet_-_2026-11-24t125442_397_version1795535789184.jpg_142260625.jpg",
-        "summary": "El evento organizado por la Municipalidad de Rosario se desarrollará hasta el 29 de noviembre en el Cultural Fontanarrosa (San Martín 1080) excepto la apertura, que será una conversación entre Guillermo Francella y Luis Rubio, este miércoles, en el teatro El Círculo. La…",
-        "pubDate": "2026-11-08T11:46:00+00:00",
+        "pubDate": "2026-11-25T11:46:00+00:00",
         "approxTime": true
       }
     ],
