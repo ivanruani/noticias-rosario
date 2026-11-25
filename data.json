@@ -1,32 +1,23 @@
 {
-  "generatedAt": "2026-11-25T14:31:08.574290+00:00",
+  "generatedAt": "2026-11-25T15:01:14.065927+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Santa Fe propone descontar sueldos, luz e inversiones de Ingresos Brutos: todas las claves para 2027 | Ecos365",
+        "link": "https://www.rosario3.com/ecos365/noticias/santa-fe-propone-descontar-sueldos-luz-e-inversiones-de-ingresos-brutos-todas-las-claves-para-2027-20261125-0006.html",
+        "image": "https://www.rosario3.com/__export/1795617350373/sites/rosario3/img/2026/11/25/api_crop1794347259035_crop1795617348775.png_1026429257.png",
+        "summary": "Santa Fe propone aliviar Ingresos Brutos, descontar inversiones y sueldos, facilitar la refinanciación de deudas y ampliar exenciones. El Inmobiliario subiría 12%, con premios por cumplimiento y pago anticipado. Qué cambia para empresas, comercios, productores y familias en 2027",
+        "pubDate": "2026-11-25T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Caputo relativizó la recesión técnica y dijo que el riesgo país “es por temor a que no esté Milei”",
         "link": "https://www.rosario3.com/-economia-negocios-agro-/caputo-relativizo-la-recesion-tecnica-y-dijo-que-el-riesgo-pais-es-por-temor-a-que-no-este-milei-20261125-0019.html",
         "image": "https://www.rosario3.com/__export/1771496234763/sites/rosario3/img/2026/02/03/caputo-_1.png_1221028662.png",
         "summary": "Con la confirmación de dos trimestres consecutivos de caída del PIB real, el ministro de Economía, Luis Caputo, ratificó y defendió el rumbo económico de la administración libertaria aunque reconoció que “hemos crecido menos de lo que nos hubiera gustado' y que “hay gente que…",
-        "pubDate": "2026-11-25T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Un rosarino creó \"El Diego\", un videojuego retro y gratuito para homenajear a Maradona en un nuevo aniversario de su muerte",
-        "link": "https://www.rosario3.com/tecnologia/un-rosarino-creo-el-diego-un-videojuego-retro-y-gratuito-para-homenajear-a-maradona-en-un-nuevo-aniversario-de-su-muerte-20261125-0021.html",
-        "image": "https://www.rosario3.com/__export/1795612992579/sites/rosario3/img/2026/11/25/el-diego-videojuego.jpg_928314580.jpg",
-        "summary": "El título salió este 25 de noviembre, a seis años de la partida del 10. Ideado por el desarrollador Manuel Leiva, el proyecto busca 'devolver algo de toda la alegría' que dio el astro. Incluye minijuegos de la Mano de Dios y el Gol del Siglo, y está disponible tanto en web como…",
         "pubDate": "2026-11-25T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Devenida influencer de la cocina tras quedarse sin trabajo, rechazó millonario pago por promover apuestas",
-        "link": "https://www.rosario3.com/informaciongeneral/devenida-influencer-de-la-cocina-tras-quedarse-sin-trabajo-valiente-rosarina-rechazo-millonario-pago-por-promover-apuestas-20261125-0001.html",
-        "image": "https://www.rosario3.com/__export/1795607495700/sites/rosario3/img/2026/11/25/dai_rosario3.jpg_928314581.jpg",
-        "summary": "Daiana Bernengo tiene 30 años, es mamá de cuatro hijas y conquistó a más de 200 mil seguidores con sus recetas económicas. En diálogo con Rosario3, contó cómo se reinventó y por qué eligió no renunciar a sus convicciones para cumplir su sueño",
-        "pubDate": "2026-11-25T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -35,6 +26,15 @@
         "link": "https://www.rosario3.com/policiales/advierten-por-estafas-por-whatsapp-en-nombre-de-un-supermercado-que-supuestamente-busca-empleados-20261125-0018.html",
         "image": "https://www.rosario3.com/__export/1795612178869/sites/rosario3/img/2026/11/25/estafa_arco_iris.jpg_928314580.jpg",
         "summary": "La situación fue dada a conocer por la propia firma afectada, Arco Iris, que publicó la línea telefónica del delincuente que dice ser del área de Recursos Humanos de ese comercio para citar a las víctimas, a quienes solicita dinero para hacer los trámites de alta laboral",
+        "pubDate": "2026-11-25T11:58:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Devenida influencer de la cocina tras quedarse sin trabajo, rechazó millonario pago por promover apuestas",
+        "link": "https://www.rosario3.com/informaciongeneral/devenida-influencer-de-la-cocina-tras-quedarse-sin-trabajo-valiente-rosarina-rechazo-millonario-pago-por-promover-apuestas-20261125-0001.html",
+        "image": "https://www.rosario3.com/__export/1795607495700/sites/rosario3/img/2026/11/25/dai_rosario3.jpg_928314581.jpg",
+        "summary": "Daiana Bernengo tiene 30 años, es mamá de cuatro hijas y conquistó a más de 200 mil seguidores con sus recetas económicas. En diálogo con Rosario3, contó cómo se reinventó y por qué eligió no renunciar a sus convicciones para cumplir su sueño",
         "pubDate": "2026-11-25T11:57:00+00:00",
         "approxTime": true
       },
@@ -58,10 +58,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Buscan a una joven argentina que desapareció en medio de un temporal en Brasil",
-        "link": "https://www.rosario3.com/informaciongeneral/buscan-a-una-joven-argentina-que-desaparecio-en-medio-de-un-temporal-en-brasil-20261125-0022.html",
-        "image": "https://www.rosario3.com/__export/1795613227819/sites/rosario3/img/2026/11/25/argentina_buscada_brasil.jpg_506286608.jpg",
-        "summary": "Fue identificada como Keila Daiana Da Costa, de 24 años, oriunda de Misiones y residente de Ubatuba, en el estado de San Pablo. Según la reconstrucción, iba en moto junto a su pareja cuando fueron arrastrados por la crecida del río Indaiá. A su novio lo hallaron muerto",
+        "title": "Acortaron las prisiones preventivas de dos policías imputados por un allanamiento trucho y robo en V. G. Gálvez",
+        "link": "https://www.rosario3.com/policiales/acortaron-las-prisiones-preventivas-de-dos-policias-imputados-por-un-allanamiento-trucho-y-robo-en-v.-g.-galvez-20261125-0024.html",
+        "image": "https://www.rosario3.com/__export/1794074257707/sites/rosario3/img/2026/10/07/pdi.jpg_928314581.jpg",
+        "summary": "En una audiencia de cámara llevada a cabo este martes, el juez Daniel Curik hizo lugar a la apelación de las defensas de los agentes de Microtráfico de la Policía de Investigaciones José Duch y Leandro Blasetti. Dispuso que queden detenidos hasta finales de marzo de 2027",
         "pubDate": "2026-11-25T11:54:00+00:00",
         "approxTime": true
       },
@@ -94,51 +94,78 @@
       },
       {
         "source": "Rosario3",
-        "title": "Docentes y no docentes de la UNR inician este miércoles un paro de 48 horas por el presupuesto universitario",
-        "link": "https://www.rosario3.com/informaciongeneral/docentes-y-no-docentes-de-la-unr-paran-por-el-presupuesto-universitario-20261124-0070.html",
-        "image": "https://www.rosario3.com/__export/1795564967067/sites/rosario3/img/2026/11/24/unr.jpg_1825222445.jpg",
-        "summary": "Las medidas de fuerza coinciden con el debate del Presupuesto Nacional 2027. Los sindicatos cuestionan los fondos previstos para las universidades, el deterioro salarial y el congelamiento de las becas estudiantiles",
-        "pubDate": "2026-11-24T11:50:00+00:00",
+        "title": "Mundial sub 17: la selección argentina se enfrenta a Dinamarca y busca la clasificación a la fase final",
+        "link": "https://www.rosario3.com/deportes/mundial-sub-17-la-seleccion-argentina-se-enfrenta-a-dinamarca-buscado-la-clasificacion-a-la-fase-final-20261125-0028.html",
+        "image": "https://www.rosario3.com/__export/1795616254299/sites/rosario3/img/2026/11/25/sub17.jpg_928314580.jpg",
+        "summary": "El equipo dirigido por Diego Placente está obligado a ganar para continuar en competencia. El encuentro comenzará a las 12.30 en el complejo Aspire Zoone de Doha",
+        "pubDate": "2026-11-25T11:50:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Detuvieron a un adolescente por el crimen de un hombre en el oeste de Rosario",
-        "link": "https://www.rosario3.com/policiales/detuvieron-a-un-adolescente-por-el-crimen-de-un-hombre-en-el-oeste-de-rosario-20261125-0007.html",
-        "image": "https://www.rosario3.com/__export/1795604994265/sites/rosario3/img/2026/11/25/cad.jpg_928314581.jpg",
-        "summary": "Una mujer acompañó a su hijo de 16 años a la Policía y aseguró que el chico era el autor del homicidio de Pablo Vega que tuvo lugar el viernes pasado en Fraga y Segui",
+        "title": "Buscan a Valeria, una mujer de 32 años desaparecida en Villa Gobernador Gálvez",
+        "link": "https://www.rosario3.com/informaciongeneral/buscan-a-valeria-una-mujer-de-32-anos-desaparecida-en-villa-gobernador-galvez-20261125-0031.html",
+        "image": "https://www.rosario3.com/__export/1795618244536/sites/rosario3/img/2026/11/25/valeria1.jpg_928314581.jpg",
+        "summary": "Había estado internada en el hospital Agudo Ávila con un diagnóstico de esquizofrenia. Tras ser dada de alta, su familia no la volvió a ver",
         "pubDate": "2026-11-25T11:49:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Cómo está Paredes: tras el desmayo, le hicieron estudios y definen si juega en Boca ante Independiente Rivadavia",
-        "link": "https://www.rosario3.com/deportes/como-esta-paredes-tras-el-desmayo-le-hicieron-estudios-y-definen-si-juega-en-boca-ante-independiente-rivadavia-20261125-0016.html",
-        "image": "https://www.rosario3.com/__export/1793569669179/sites/rosario3/img/2026/11/01/720_-_2026-11-01t184522_720.jpg_1221029627.jpg",
-        "summary": "El Xeneize recibirá este miércoles en la Bombonera a la Lepra mendocina por los octavos de final del torneo Clausura. El volante se desvaneció luego de ganar la final de la Copa Sudamericana ante Atlético Mineiro, el sábado pasado en Barranquilla",
+        "title": "Franco Colapinto palpitó el Gran Premio de Qatar: “Es un circuito que castiga mucho”",
+        "link": "https://www.rosario3.com/deportes/franco-colapinto-palpito-el-gran-premio-de-qatar-es-un-circuito-que-castiga-mucho-20261125-0023.html",
+        "image": "https://www.rosario3.com/__export/1795614732693/sites/rosario3/img/2026/11/25/colapinto-qatar.jpg_928314580.jpg",
+        "summary": "El piloto argentino ya se prepara para la siguiente carrera de la Fórmula 1 luego de haber igualado su mejor marca en la temporada en el GP de Las Vegas",
         "pubDate": "2026-11-25T11:48:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Seis años sin Maradona: #DiegoEterno y una huella imborrable, a un mes de conocer el veredicto por su muerte",
-        "link": "https://www.rosario3.com/informaciongeneral/seis-anos-sin-maradona-diegoeterno-una-huella-imborrable-y-la-sentencia-pendiente-20261125-0012.html",
-        "image": "https://www.rosario3.com/__export/1784114442968/sites/rosario3/img/2026/07/15/sin_fuente.jpg_506286608.jpg",
-        "summary": "Este 25 de noviembre de 2026 se cumple un nuevo aniversario de la muerte del ídolo, mientras se espera conocer el veredicto del proceso judicial el próximo 22 de diciembre. Una vez más, las redes sociales se llenaron de mensajes con fotos, videos y recuerdos del diez. Este…",
+        "title": "La influencer de la RAM rosa fue inhabilitada para manejar hasta 2099, tras realizar maniobras peligrosas en Pinamar",
+        "link": "https://www.rosario3.com/informaciongeneral/la-influencer-de-la-ram-rosa-fue-inhabilitada-para-manejar-hasta-2099-tras-realizar-maniobras-peligrosas-en-pinamar-20261125-0026.html",
+        "image": "https://www.rosario3.com/__export/1795616115710/sites/rosario3/img/2026/11/25/influencer_ram_rosa.jpg_506286608.jpg",
+        "summary": "El video que se viralizó en redes sociales mostró a cuatro personas viajando sobre los laterales exteriores de una camioneta mientras circulaba por La Olla, en Pinamar, haciendo maniobras peligrosas. Tras el hecho, el Ministerio de Transporte de la provincia de Buenos Aires…",
         "pubDate": "2026-11-25T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Claves del día: La Gallega abre en Funes, YPF pide más RIGI, startups y un dólar que sigue en alza | Ecos365",
-        "link": "https://www.rosario3.com/ecos365/noticias/claves-del-dia-la-gallega-abre-en-funes-ypf-pide-mas-rigi-startups-y-un-dolar-que-sigue-en-alza-20261125-0001.html",
-        "image": "https://www.rosario3.com/__export/1794869188216/sites/rosario3/img/2026/11/16/720_-_2026-11-16t194449_336.jpg_993571189.jpg",
-        "summary": "El dólar presiona y Caputo despliega ocho títulos para captar pesos. Los Grobo vende activos, YPF y Chevron proyectan 606 pozos y los ex Mercado Libre reúnen millones. La Gallega abre en Funes mientras las consultoras recortan el crecimiento",
+        "title": "Buscan a una joven argentina que desapareció en medio de un temporal en Brasil",
+        "link": "https://www.rosario3.com/informaciongeneral/buscan-a-una-joven-argentina-que-desaparecio-en-medio-de-un-temporal-en-brasil-20261125-0022.html",
+        "image": "https://www.rosario3.com/__export/1795613227819/sites/rosario3/img/2026/11/25/argentina_buscada_brasil.jpg_506286608.jpg",
+        "summary": "Fue identificada como Keila Daiana Da Costa, de 24 años, oriunda de Misiones y residente de Ubatuba, en el estado de San Pablo. Según la reconstrucción, iba en moto junto a su pareja cuando fueron arrastrados por la crecida del río Indaiá. A su novio lo hallaron muerto",
         "pubDate": "2026-11-25T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Ley de ludopatía: las claves del proyecto que busca regular las apuestas online",
+        "link": "https://www.lacapital.com.ar/informacion-general/ley-ludopatia-las-claves-del-proyecto-que-busca-regular-las-apuestas-online-n10294112.html",
+        "image": "https://media.lacapital.com.ar/p/a4f61ce57f6048b42625dbf7c9a32ef5/adjuntos/203/imagenes/102/019/0102019087/1200x675/smart/juego-online-celular-ludopatia-adolescentesjpg.jpg",
+        "summary": "La iniciativa prohíbe la publicidad de juegos de azar en línea, establece controles biométricos para los usuarios, limita los medios de pago y crea un registro de autoexclusión",
+        "pubDate": "2026-11-25T14:59:13+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La provincia reclamó mayor uso de tobilleras electrónicas y criticó a la Justicia en el 25N",
+        "link": "https://www.lacapital.com.ar/la-ciudad/la-provincia-reclamo-mayor-uso-tobilleras-electronicas-y-critico-la-justicia-el-25n-n10294089.html",
+        "image": "https://media.lacapital.com.ar/p/3bea6ff6d5208c707a396a07a9263fb5/adjuntos/203/imagenes/103/552/0103552287/virginia-coudannes-georgina-orciani.jpg",
+        "summary": "El gobierno de Santa Fe advirtió que sólo se colocó una cuarta parte de los 200 dispositivos adquiridos hace un año para la protección de mujeres",
+        "pubDate": "2026-11-25T14:55:09+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Divididos por la tarifa: taxistas reclaman al Concejo un aumento del 20%",
+        "link": "https://www.lacapital.com.ar/la-ciudad/divididos-la-tarifa-taxistas-reclaman-al-concejo-un-aumento-del-20-n10294120.html",
+        "image": "https://media.lacapital.com.ar/p/e462aa307e61a01f771cc985e9107514/adjuntos/203/imagenes/102/426/0102426042/1200x675/smart/taxis3jpg.jpg",
+        "summary": "Desde la cámara que agrupa a mujeres taxistas salieron a despegarse de la posición que mantienen otras entidades del sector",
+        "pubDate": "2026-11-25T14:50:45+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "La eligieron Miss Universo 2026 y se convirtió en la primera madre en obtener la corona",
@@ -240,38 +267,11 @@
       },
       {
         "source": "La Capital",
-        "title": "Ganadería: ternero caro y hacienda en baja ponen contra las cuerdas al engorde a corral",
-        "link": "https://www.lacapital.com.ar/agro/ganaderia-ternero-caro-y-hacienda-baja-ponen-contra-las-cuerdas-al-engorde-corral-n10293804.html",
-        "image": "https://media.lacapital.com.ar/p/d5985b22ba5136118fdde24db4978edb/adjuntos/203/imagenes/020/774/0020774677/1200x675/287x277:307x297/ardig-879-2016-visita-feed-lot-hacienda-conecar-ganadera-ag-string-agro-120916-publica-190617jpg.jpg",
-        "summary": "La brecha entre el precio de compra del ternero y el de venta del animal terminado ronda el 35%, frente a un promedio histórico del 20%. El costo financiero llevó la pérdida de noviembre a más de $136.000 por cabeza",
-        "pubDate": "2026-11-25T09:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "25N: del control del dinero a la cuota impaga, las caras de la violencia económica",
         "link": "https://www.lacapital.com.ar/economia/25n-del-control-del-dinero-la-cuota-impaga-las-caras-la-violencia-economica-n10293984.html",
         "image": "https://media.lacapital.com.ar/p/1f508b39c4958a7d3dfd54eec1580fab/adjuntos/203/imagenes/102/037/0102037347/1200x675/smart/image-2024-11-25t171423361jpg.jpg",
         "summary": "En el marco del Día Internacional de la Eliminación de la Violencia contra las Mujeres una encuesta reveló que al 35% de las mujeres le impidieron decidir sobre su propio dinero o usarlo. Entre quienes sufrieron violencia, el 17% señaló que la dependencia económica de su pareja…",
         "pubDate": "2026-11-25T09:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Newell's tuvo un digno cierre de temporada, con la obligación de dar un salto de calidad",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-tuvo-un-digno-cierre-temporada-la-obligacion-dar-un-salto-calidad-n10294025.html",
-        "image": "https://media.lacapital.com.ar/p/fe4a2723f0d56a3ff00534ed4eabe16e/adjuntos/203/imagenes/103/551/0103551389/1200x675/smart/image-65.png",
-        "summary": "La Lepra superó un mal comienzo de año y alcanzó la fase final, pero no siguió por falta de categoría. El gran desafío a mejorar para 2027",
-        "pubDate": "2026-11-25T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Un rosarino en Londres: el artista César Baracca interviene objetos de la sociedad de consumo",
-        "link": "https://www.lacapital.com.ar/la-ciudad/un-rosarino-londres-el-artista-cesar-baracca-interviene-objetos-la-sociedad-consumo-n10232415.html",
-        "image": "https://media.lacapital.com.ar/p/c4c69a44e617a9390becebcdb3b7c715/adjuntos/203/imagenes/102/843/0102843041/1200x675/smart/image-2025-12-01t133613242.jpg",
-        "summary": "El artista rosarino César Baracca vive hace 30 años en Europa y los últimos 20 los pasó en Londres, donde tiene su atelier. Expuso en Rosario su última obra \"Opus Coca- Cola\"",
-        "pubDate": "2026-11-25T09:00:00+00:00",
         "approxTime": false
       }
     ]
