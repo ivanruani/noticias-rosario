@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T09:30:58.207033+00:00",
+  "generatedAt": "2026-11-25T10:01:04.512111+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Buscan convertir la costa central en un distrito turístico gastronómico",
+        "link": "https://www.lacapital.com.ar/la-ciudad/buscan-convertir-la-costa-central-un-distrito-turistico-gastronomico-n10293929.html",
+        "image": "https://media.lacapital.com.ar/p/8f9e8441a9cf7c27ba187ab82339df8e/adjuntos/203/imagenes/103/550/0103550658/1200x675/smart/82870598.jpeg",
+        "summary": "Un proyecto en el Concejo quiere promocionar la instalación de restaurantes, bares, food trucks, discotecas y espacios para la recreación, la cultura y el turismo vinculado al río",
+        "pubDate": "2026-11-25T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Ganadería: ternero caro y hacienda en baja ponen contra las cuerdas al engorde a corral",
         "link": "https://www.lacapital.com.ar/agro/ganaderia-ternero-caro-y-hacienda-baja-ponen-contra-las-cuerdas-al-engorde-corral-n10293804.html",
         "image": "https://media.lacapital.com.ar/p/d5985b22ba5136118fdde24db4978edb/adjuntos/203/imagenes/020/774/0020774677/1200x675/287x277:307x297/ardig-879-2016-visita-feed-lot-hacienda-conecar-ganadera-ag-string-agro-120916-publica-190617jpg.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/7a352b8dec4dd0f324e2fdfbb2e9349d/adjuntos/203/imagenes/103/551/0103551515/1200x675/smart/image-54.jpg",
         "summary": "La Facultad de Ciencias Sociales de la Universidad de Buenos Aires (UBA) resolvió cancelar el acto previsto para el 10 de diciembre en reconocimiento al exlíder guerrillero",
         "pubDate": "2026-11-24T23:09:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Shein pagará una sanción de 100 millones de dólares por engañar a los consumidores",
-        "link": "https://www.lacapital.com.ar/informacion-general/shein-pagara-una-sancion-100-millones-dolares-enganar-los-consumidores-n10294030.html",
-        "image": "https://media.lacapital.com.ar/p/3a2e782b2abbe9fbb32a0e04c2cef6cf/adjuntos/203/imagenes/103/551/0103551505/2026-11-24-shein.jpg",
-        "summary": "La empresa china es acusada de falsear los plazos de envío, el origen de su materia prima y la autenticidad de las reseñas de sus productos",
-        "pubDate": "2026-11-24T23:02:00+00:00",
         "approxTime": false
       }
     ]
