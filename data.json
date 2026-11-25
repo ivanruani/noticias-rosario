@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T11:31:01.062900+00:00",
+  "generatedAt": "2026-11-25T12:01:07.564224+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,11 +13,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Docentes y no docentes de la UNR inician este miércoles un paro de 48 horas por el presupuesto universitario",
+        "link": "https://www.rosario3.com/informaciongeneral/docentes-y-no-docentes-de-la-unr-paran-por-el-presupuesto-universitario-20261124-0070.html",
+        "image": "https://www.rosario3.com/__export/1795564967067/sites/rosario3/img/2026/11/24/unr.jpg_1825222445.jpg",
+        "summary": "Las medidas de fuerza coinciden con el debate del Presupuesto Nacional 2027. Los sindicatos cuestionan los fondos previstos para las universidades, el deterioro salarial y el congelamiento de las becas estudiantiles",
+        "pubDate": "2026-11-24T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "El clima en Rosario: O sole mio",
         "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-o-sole-mio-20261125-0004.html",
         "image": "https://www.rosario3.com/__export/1795603282187/sites/rosario3/img/2026/11/25/sol.jpg_928314581.jpg",
         "summary": "Un miércoles de primavera que empieza fresco y celeste con un sol rojizo que será calor hasta la noche. El termómetro trepará hasta los 30 grados",
-        "pubDate": "2026-11-25T11:59:00+00:00",
+        "pubDate": "2026-11-25T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,16 +35,7 @@
         "link": "https://www.rosario3.com/ecos365/noticias/claves-del-dia-la-gallega-abre-en-funes-ypf-pide-mas-rigi-startups-y-un-dolar-que-sigue-en-alza-20261125-0001.html",
         "image": "https://www.rosario3.com/__export/1794869188216/sites/rosario3/img/2026/11/16/720_-_2026-11-16t194449_336.jpg_993571189.jpg",
         "summary": "El dólar presiona y Caputo despliega ocho títulos para captar pesos. Los Grobo vende activos, YPF y Chevron proyectan 606 pozos y los ex Mercado Libre reúnen millones. La Gallega abre en Funes mientras las consultoras recortan el crecimiento",
-        "pubDate": "2026-11-25T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Docentes y no docentes de la UNR inician este miércoles un paro de 48 horas por el presupuesto universitario",
-        "link": "https://www.rosario3.com/informaciongeneral/docentes-y-no-docentes-de-la-unr-paran-por-el-presupuesto-universitario-20261124-0070.html",
-        "image": "https://www.rosario3.com/__export/1795564967067/sites/rosario3/img/2026/11/24/unr.jpg_1825222445.jpg",
-        "summary": "Las medidas de fuerza coinciden con el debate del Presupuesto Nacional 2027. Los sindicatos cuestionan los fondos previstos para las universidades, el deterioro salarial y el congelamiento de las becas estudiantiles",
-        "pubDate": "2026-11-24T11:57:00+00:00",
+        "pubDate": "2026-11-25T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -49,37 +49,37 @@
       },
       {
         "source": "Rosario3",
-        "title": "25N: Lorena y Noelia, dos historias de supervivencia frente a la violencia de género",
-        "link": "https://www.rosario3.com/informaciongeneral/25n-lorena-y-noelia-dos-historias-de-supervivencia-frente-a-la-violencia-de-genero-20261124-0069.html",
-        "image": "https://www.rosario3.com/__export/1795562950932/sites/rosario3/img/2026/11/24/noelia_y_lorena.jpg_1825222445.jpg",
-        "summary": "Ambas fueron atendidas en el Heca tras sufrir ataques de sus exparejas. En el marco del Día de la Eliminación de la Violencia contra las Mujeres, compartieron sus experiencias para alentar a otras víctimas a pedir ayuda",
-        "pubDate": "2026-11-24T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
         "title": "Detuvieron a un adolescente por el crimen de un hombre en el oeste de Rosario",
         "link": "https://www.rosario3.com/policiales/detuvieron-a-un-adolescente-por-el-crimen-de-un-hombre-en-el-oeste-de-rosario-20261125-0007.html",
         "image": "https://www.rosario3.com/__export/1795604994265/sites/rosario3/img/2026/11/25/cad.jpg_928314581.jpg",
         "summary": "Una mujer acompañó a su hijo de 16 años a la Policía y aseguró que el chico era el autor del homicidio de Pablo Vega que tuvo lugar el viernes pasado en Fraga y Segui",
-        "pubDate": "2026-11-25T11:54:00+00:00",
+        "pubDate": "2026-11-25T11:55:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "El Gobierno convocará a sesiones extraordinarias en diciembre: cuál será el primer proyecto que buscará tratar",
-        "link": "https://www.rosario3.com/informaciongeneral/el-gobierno-reune-a-la-mesa-politica-para-definir-la-estrategia-legislativa-de-una-semana-clave-en-el-congreso-20261123-0033.html",
-        "image": "https://www.rosario3.com/__export/1795459321154/sites/rosario3/img/2026/11/23/mesa.jpg_2106848869.jpg",
-        "summary": "La Mesa Política de La Libertad Avanza se reunió este martes en Casa Rosada y repasó la agenda legislativa de la semana. El decreto de convocatoria se dará a conocer hacia fines de esta semana y la iniciativa central será la Ley de Defensa de la Soberanía Nacional",
-        "pubDate": "2026-11-23T11:53:00+00:00",
+        "title": "Condenaron a tres policías de Rosario por dar protección a puntos de venta de drogas",
+        "link": "https://www.rosario3.com/policiales/condenaron-a-tres-policias-de-rosario-por-dar-proteccion-a-puntos-de-venta-de-drogas-20261124-0063.html",
+        "image": "https://www.rosario3.com/__export/1795555266496/sites/rosario3/img/2026/11/24/policias.jpeg_1825222467.jpeg",
+        "summary": "Los efectivos del Comando Radioeléctrico recibieron penas de hasta siete años y seis meses de prisión por colaborar con una organización narcocriminal y garantizar el funcionamiento de sus búnkeres en distintos sectores de la ciudad",
+        "pubDate": "2026-11-24T11:54:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "El riesgo país trepó a 1.094 puntos y el dólar superó los $1.600 tras una rueda de fuerte tensión financiera",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/el-riesgo-pais-trepo-a-1.094-puntos-y-el-dolar-supero-los-1.600-tras-una-rueda-de-fuerte-tension-financiera-20261124-0067.html",
-        "image": "https://www.rosario3.com/__export/1795560426699/sites/rosario3/img/2026/11/24/finanzas.jpg_982625323.jpg",
-        "summary": "En una jornada de alta tensión financiera tras el fin de semana largo, el desplome de los bonos soberanos impulsó el riesgo país, mientras el dólar minorista superó la barrera de los $1.600 y el Contado con Liquidación saltó un 4,2% en medio de un récord mensual de volumen…",
+        "title": "25N: Lorena y Noelia, dos historias de supervivencia frente a la violencia de género",
+        "link": "https://www.rosario3.com/informaciongeneral/25n-lorena-y-noelia-dos-historias-de-supervivencia-frente-a-la-violencia-de-genero-20261124-0069.html",
+        "image": "https://www.rosario3.com/__export/1795562950932/sites/rosario3/img/2026/11/24/noelia_y_lorena.jpg_1825222445.jpg",
+        "summary": "Ambas fueron atendidas en el Heca tras sufrir ataques de sus exparejas. En el marco del Día de la Eliminación de la Violencia contra las Mujeres, compartieron sus experiencias para alentar a otras víctimas a pedir ayuda",
+        "pubDate": "2026-11-24T11:53:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Financiamiento Universitario: fiscal dictaminó que es inconstitucional el decreto del Gobierno que suspendió la ley",
+        "link": "https://www.rosario3.com/informaciongeneral/financiamiento-universitario-fiscal-dictamino-que-es-inconstitucional-el-decreto-del-gobierno-que-suspendio-la-ley-20261124-0066.html",
+        "image": "https://www.rosario3.com/__export/1795557715299/sites/rosario3/img/2026/11/24/universidad.jpg_1825222445.jpg",
+        "summary": "Rodrigo Cuesta recomendó confirmar el fallo de primera instancia que ordenó aplicar la norma. Sostuvo que la medida del Ejecutivo vulnera la división de poderes y afecta la autonomía de las universidades y los derechos de docentes y estudiantes",
         "pubDate": "2026-11-24T11:52:00+00:00",
         "approxTime": true
       },
@@ -94,20 +94,29 @@
       },
       {
         "source": "Rosario3",
-        "title": "Financiamiento Universitario: fiscal dictaminó que es inconstitucional el decreto del Gobierno que suspendió la ley",
-        "link": "https://www.rosario3.com/informaciongeneral/financiamiento-universitario-fiscal-dictamino-que-es-inconstitucional-el-decreto-del-gobierno-que-suspendio-la-ley-20261124-0066.html",
-        "image": "https://www.rosario3.com/__export/1795557715299/sites/rosario3/img/2026/11/24/universidad.jpg_1825222445.jpg",
-        "summary": "Rodrigo Cuesta recomendó confirmar el fallo de primera instancia que ordenó aplicar la norma. Sostuvo que la medida del Ejecutivo vulnera la división de poderes y afecta la autonomía de las universidades y los derechos de docentes y estudiantes",
-        "pubDate": "2026-11-24T11:50:00+00:00",
+        "title": "Gisèle Pelicot denunció el uso de imágenes íntimas sin su autorización para promocionar libro: “Una nueva forma de violencia”",
+        "link": "https://www.rosario3.com/informaciongeneral/gisle-pelicot-denuncio-el-uso-de-imagenes-intimas-sin-su-autorizacion-para-promocionar-libro-una-nueva-forma-de-violencia-20261125-0010.html",
+        "image": "https://www.rosario3.com/__export/1795606814118/sites/rosario3/img/2026/11/25/gisele_pelicot.jpg_54252853.jpg",
+        "summary": "“He luchado para recuperar mi dignidad y mi libertad. No permitiré que nadie me las arrebate”, afirmó la mujer cuyo marido drogó para que otros hombres la violaran. Además, sostuvo que el ensayo que cuestiona su condición de víctima constituye “una humillación”",
+        "pubDate": "2026-11-25T11:50:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "El Museo de la Ciudad recibió una donación de placas fotográficas inéditas de los hermanos Pusso",
-        "link": "https://www.rosario3.com/ocio/el-museo-de-la-ciudad-recibio-una-donacion-de-placas-fotograficas-ineditas-de-los-hermanos-pusso-20261124-0065.html",
-        "image": "https://www.rosario3.com/__export/1795557011212/sites/rosario3/img/2026/11/24/11111.png_928314580.png",
-        "summary": "El material fue entregado por Fernando Pusso, poseedor del legado de Santiago y Vicente Pusso. Se trata de placas estereoscópicas positivas sobre soporte de vidrio, acompañadas por reproducciones de sus negativos originales, que se incorporarán al Archivo Fotográfico del museo",
-        "pubDate": "2026-11-24T11:49:00+00:00",
+        "title": "Acusaron al padre de Meghan Markle, esposa del príncipe Harry, de posesión de material de abuso sexual infantil",
+        "link": "https://www.rosario3.com/informaciongeneral/acusaron-al-padre-de-meghan-markle-esposa-del-principe-harry-de-posesion-de-material-de-abuso-sexual-infantil-20261125-0009.html",
+        "image": "https://www.rosario3.com/__export/1795605784927/sites/rosario3/img/2026/11/25/thoxas_markle_version1795605784469.jpg_1753201588.jpg",
+        "summary": "Un jurado de Estados Unidos le atribuyó el cargo de 'tenencia de negativos de película de 35 milímetros que muestran a menores de12 años'. Thomas Wayne Markle, de 82 años, fue arrestado el último 6 de noviembre en Lakeland (Florida), donde residía en una clínica de cuidados de…",
+        "pubDate": "2026-11-25T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "El riesgo país trepó a 1.094 puntos y el dólar superó los $1.600 tras una rueda de fuerte tensión financiera",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/el-riesgo-pais-trepo-a-1.094-puntos-y-el-dolar-supero-los-1.600-tras-una-rueda-de-fuerte-tension-financiera-20261124-0067.html",
+        "image": "https://www.rosario3.com/__export/1795560426699/sites/rosario3/img/2026/11/24/finanzas.jpg_982625323.jpg",
+        "summary": "En una jornada de alta tensión financiera tras el fin de semana largo, el desplome de los bonos soberanos impulsó el riesgo país, mientras el dólar minorista superó la barrera de los $1.600 y el Contado con Liquidación saltó un 4,2% en medio de un récord mensual de volumen…",
+        "pubDate": "2026-11-24T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,24 +125,15 @@
         "link": "https://www.rosario3.com/politica/presupuesto-2027-y-reforma-electoral-el-congreso-se-prepara-para-un-jueves-de-sesiones-simultaneas-20261124-0049.html",
         "image": "https://www.rosario3.com/__export/1795547179120/sites/rosario3/img/2026/07/20/congreso-jpg-25343506_-1-.jpg_1221028662.jpg",
         "summary": "Diputados va a debatir el proyecto de Presupuesto nacional mientras el bloque oficialista en el Senado intentará llevar al recinto la suspensión de las Paso. Desde la oposición buscan que la Cámara alta también discuta ludopatía",
-        "pubDate": "2026-11-24T11:48:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Asesinaron a un hombre de una puñalada en el pecho en una presunta discusión con su hermano",
-        "link": "https://www.rosario3.com/policiales/asesinaron-a-un-hombre-de-33-anos-de-una-punalada-en-el-pecho-en-una-presunta-discusion-con-su-hermano-20261124-0057.html",
-        "image": "https://www.rosario3.com/__export/1795553301167/sites/rosario3/img/2026/11/24/crimen-policia.jpg_1608372952.jpg",
-        "summary": "El hecho ocurrió este martes por la tarde en un pasillo de Vera Mujica al 3900. Según el relato de su padre a la Policía, la víctima mantuvo una pelea con su hermano de 29 años, quien le habría dado una cuchillada y escapado del lugar con el arma",
         "pubDate": "2026-11-24T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "La actividad económica cayó 1,2% interanual en septiembre y Argentina entró en recesión técnica",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-actividad-economica-cayo-12-interanual-en-septiembre-y-argentina-entro-en-recesion-tecnica-20261124-0053.html",
-        "image": "https://www.rosario3.com/__export/1795548902718/sites/rosario3/img/2026/11/24/emae.jpg_982625323.jpg",
-        "summary": "De acuerdo con el relevamiento difundido este martes por el Indec, el Estimador Mensual de Actividad Económica de septiembre de 2026 retrocedió 1,2% respecto al mismo mes de 2025, mientras que en la serie desestacionalizada avanzó 1,1% contra agosto, dato que no logró evitar el…",
+        "title": "¿El Arca de Noé?: hallan madera trabajada de 4.300 años enterrada en una formación con forma de barco en Turquía",
+        "link": "https://www.rosario3.com/informaciongeneral/el-arca-de-noe-hallan-madera-trabajada-de-4.300-anos-enterrada-en-una-formacion-con-forma-de-barco-en-turquia-20261124-0040.html",
+        "image": "https://www.rosario3.com/__export/1788284418782/sites/rosario3/img/2026/09/01/arca.png_786111823.png",
+        "summary": "El análisis de radiocarbono coincide con la época atribuida al Diluvio bíblico. Aunque los investigadores aseguran que los escaneos muestran cámaras internas de tres niveles, la comunidad científica mantiene la cautela ante la falta de pruebas definitivas",
         "pubDate": "2026-11-24T11:46:00+00:00",
         "approxTime": true
       }
@@ -141,11 +141,20 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "Acompañado por su madre, un chico se entregó por un crimen en zona sudoeste",
-        "link": "https://www.lacapital.com.ar/policiales/acompanado-su-madre-un-chico-se-entrego-un-crimen-zona-sudoeste-n10294066.html",
+        "title": "Mala planificación: escondieron un auto robado delante de una cámara de videovigilancia",
+        "link": "https://www.lacapital.com.ar/policiales/mala-planificacion-escondieron-un-auto-robado-delante-una-camara-videovigilancia-n10294056.html",
+        "image": "https://media.lacapital.com.ar/p/971a96051e59bf8599ee34915db71d6a/adjuntos/203/imagenes/103/551/0103551825/secuestro-auto-san-lorenzo.jpg",
+        "summary": "El vehículo fue hallado una semana después de la denuncia en la zona oeste de Rosario. Además, arrestaron a dos mujeres por venta de drogas",
+        "pubDate": "2026-11-25T11:35:51+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Una mujer entregó a su hijo adolescente por un crimen en zona sudoeste",
+        "link": "https://www.lacapital.com.ar/policiales/una-mujer-entrego-su-hijo-adolescente-un-crimen-zona-sudoeste-n10294066.html",
         "image": "https://media.lacapital.com.ar/p/85a3ff6ea7064a943b44453f84ed57f4/adjuntos/203/imagenes/101/899/0101899230/1200x675/smart/centro-justicia-penal-cjp-05jpg.jpg",
         "summary": "El menor está implicado en el homicidio de Pablo Vega, ocurrido el viernes pasado en Fraga al 3500",
-        "pubDate": "2026-11-25T11:26:20+00:00",
+        "pubDate": "2026-11-25T11:26:00+00:00",
         "approxTime": false
       },
       {
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/ae930573e5232c46bcab9814a91b467b/adjuntos/203/imagenes/103/517/0103517423/1200x675/smart/image-2026-11-07t162639602.png",
         "summary": "Gabriel Rosales fue asesinado a tiros en 2025 por los soldaditos de un puesto ligado a Fran Riquelme en barrio Industrial",
         "pubDate": "2026-11-25T00:38:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El río Paraná dio un pequeño respiro en Rosario y bajó cinco centímetros",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-rio-parana-dio-un-pequeno-respiro-rosario-y-cinco-centimetros-n10294038.html",
-        "image": "https://media.lacapital.com.ar/p/390b61e6d71da678dcc4b3457fa5f1cc/adjuntos/203/imagenes/103/551/0103551572/2026-11-24-crecida-rio-parana-by_vbenedetto-82889343.jpg",
-        "summary": "A la medianoche había llegado a un centímetro del nivel de alerta de cinco metros, pero al mediodía mostró un retroceso hasta 4,94 m",
-        "pubDate": "2026-11-25T00:34:00+00:00",
         "approxTime": false
       }
     ]
