@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T01:01:18.189759+00:00",
+  "generatedAt": "2026-11-25T01:31:07.742549+00:00",
   "sites": {
     "rosario3": [
       {
@@ -22,19 +22,19 @@
       },
       {
         "source": "Rosario3",
-        "title": "Financiamiento Universitario: fiscal dictaminó que es inconstitucional el decreto del Gobierno que suspendió la ley",
-        "link": "https://www.rosario3.com/informaciongeneral/financiamiento-universitario-fiscal-dictamino-que-es-inconstitucional-el-decreto-del-gobierno-que-suspendio-la-ley-20261124-0066.html",
-        "image": "https://www.rosario3.com/__export/1795557715299/sites/rosario3/img/2026/11/24/universidad.jpg_1825222445.jpg",
-        "summary": "Rodrigo Cuesta recomendó confirmar el fallo de primera instancia que ordenó aplicar la norma. Sostuvo que la medida del Ejecutivo vulnera la división de poderes y afecta la autonomía de las universidades y los derechos de docentes y estudiantes",
+        "title": "25N: Lorena y Noelia, dos historias de supervivencia frente a la violencia de género",
+        "link": "https://www.rosario3.com/informaciongeneral/25n-lorena-y-noelia-dos-historias-de-supervivencia-frente-a-la-violencia-de-genero-20261124-0069.html",
+        "image": "https://www.rosario3.com/__export/1795562950932/sites/rosario3/img/2026/11/24/noelia_y_lorena.jpg_1825222445.jpg",
+        "summary": "Ambas fueron atendidas en el Heca tras sufrir ataques de sus exparejas. En el marco del Día de la Eliminación de la Violencia contra las Mujeres, compartieron sus experiencias para alentar a otras víctimas a pedir ayuda",
         "pubDate": "2026-11-24T11:58:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Condenaron a tres policías de Rosario por dar protección a puntos de venta de drogas",
-        "link": "https://www.rosario3.com/policiales/condenaron-a-tres-policias-de-rosario-por-dar-proteccion-a-puntos-de-venta-de-drogas-20261124-0063.html",
-        "image": "https://www.rosario3.com/__export/1795555266496/sites/rosario3/img/2026/11/24/policias.jpeg_1825222467.jpeg",
-        "summary": "Los efectivos del Comando Radioeléctrico recibieron penas de hasta siete años y seis meses de prisión por colaborar con una organización narcocriminal y garantizar el funcionamiento de sus búnkeres en distintos sectores de la ciudad",
+        "title": "Financiamiento Universitario: fiscal dictaminó que es inconstitucional el decreto del Gobierno que suspendió la ley",
+        "link": "https://www.rosario3.com/informaciongeneral/financiamiento-universitario-fiscal-dictamino-que-es-inconstitucional-el-decreto-del-gobierno-que-suspendio-la-ley-20261124-0066.html",
+        "image": "https://www.rosario3.com/__export/1795557715299/sites/rosario3/img/2026/11/24/universidad.jpg_1825222445.jpg",
+        "summary": "Rodrigo Cuesta recomendó confirmar el fallo de primera instancia que ordenó aplicar la norma. Sostuvo que la medida del Ejecutivo vulnera la división de poderes y afecta la autonomía de las universidades y los derechos de docentes y estudiantes",
         "pubDate": "2026-11-24T11:57:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Atentado con un coche bomba en Colombia: al menos 25 heridos",
+        "link": "https://www.lacapital.com.ar/el-mundo/atentado-un-coche-bomba-colombia-al-menos-25-heridos-n10294041.html",
+        "image": "https://media.lacapital.com.ar/p/f0a9a8a9a3d4dafb2f0c8ed5222abf49/adjuntos/203/imagenes/103/551/0103551618/2026-11-24-ataque-coche-bomba-colombia-82898055.jpg",
+        "summary": "El presidente De la Espriella atribuyó el ataque a la disidencia de las Farc",
+        "pubDate": "2026-11-25T01:18:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Quiso hablar con el encargado de un búnker y lo mataron: piden penas para los cuatro acusados",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/5ab193424c2e7929d663ae20d56716ca/adjuntos/203/imagenes/103/551/0103551252/luc.jpg",
         "summary": "El capitán de Newell's volvió a dar la cara tras la eliminación en el Clausura y evaluó el rendimiento en lo individual como en lo colectivo",
         "pubDate": "2026-11-24T21:32:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Comienza el Festival Fontanarrosa: cinco días de arte, charlas y muestras en honor al artista rosarino",
-        "link": "https://www.lacapital.com.ar/comienza-el-festival-fontanarrosa-cinco-dias-arte-charlas-y-muestras-honor-al-artista-rosarino-n10293997.html",
-        "image": "https://media.lacapital.com.ar/p/6244c87afa64aeae0ebfecd32fda6684/adjuntos/203/imagenes/102/537/0102537511/1200x675/smart/cc-fontanarrosapng.png",
-        "summary": "El festival se desarrollará del 25 al 29 de noviembre en distintos espacios de la ciudad, con propuestas culturales, artísticas y recreativas",
-        "pubDate": "2026-11-24T21:31:00+00:00",
         "approxTime": false
       }
     ]
