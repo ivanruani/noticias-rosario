@@ -1,23 +1,14 @@
 {
-  "generatedAt": "2026-11-25T01:31:07.742549+00:00",
+  "generatedAt": "2026-11-25T02:01:02.967701+00:00",
   "sites": {
     "rosario3": [
       {
         "source": "Rosario3",
-        "title": "Santa Fe confirmó que las clases comenzarán el 1° de marzo de 2027 y apunta a 190 días de actividad escolar",
-        "link": "https://www.rosario3.com/informaciongeneral/santa-fe-confirmo-que-las-clases-comenzaran-el-1-de-marzo-de-2027-y-apunta-a-190-dias-de-actividad-escolar-20261124-0059.html",
-        "image": "https://www.rosario3.com/__export/1795553205851/sites/rosario3/img/2026/11/24/clases.jpg_1825222445.jpg",
-        "summary": "El ministro de Educación, José Goity, anticipó que el receso de invierno comenzaría el 12 de julio, aunque todavía no se definió la fecha de finalización del ciclo lectivo. La Provincia busca sostener la continuidad de las jornadas y garantizar previsibilidad a las familias",
+        "title": "25N: cómo se organiza la marcha en Rosario y qué empuja a las mujeres y disidencias a tomar las calles",
+        "link": "https://www.rosario3.com/informaciongeneral/25n-como-se-organiza-la-marcha-en-rosario-y-que-empuja-a-las-mujeres-y-disidencias-a-tomar-las-calles-20261124-0044.html",
+        "image": "https://www.rosario3.com/__export/1793894440382/sites/rosario3/img/2026/11/05/ni_una_menos.png_786111822.png",
+        "summary": "En Argentina se comete un femicidio cada 30 horas y la provincia de Santa Fe está primera en el ranking. Ese es el principal motivo para las organizaciones se pongan al hombro la movilización que convoca a cientos de personas. Este año, con una consigna unánime: declarar la…",
         "pubDate": "2026-11-24T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Asesinaron a un hombre de una puñalada en el pecho en una presunta discusión con su hermano",
-        "link": "https://www.rosario3.com/policiales/asesinaron-a-un-hombre-de-33-anos-de-una-punalada-en-el-pecho-en-una-presunta-discusion-con-su-hermano-20261124-0057.html",
-        "image": "https://www.rosario3.com/__export/1795553301167/sites/rosario3/img/2026/11/24/crimen-policia.jpg_1608372952.jpg",
-        "summary": "El hecho ocurrió este martes por la tarde en un pasillo de Vera Mujica al 3900. Según el relato de su padre a la Policía, la víctima mantuvo una pelea con su hermano de 29 años, quien le habría dado una cuchillada y escapado del lugar con el arma",
-        "pubDate": "2026-11-24T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -26,7 +17,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/25n-lorena-y-noelia-dos-historias-de-supervivencia-frente-a-la-violencia-de-genero-20261124-0069.html",
         "image": "https://www.rosario3.com/__export/1795562950932/sites/rosario3/img/2026/11/24/noelia_y_lorena.jpg_1825222445.jpg",
         "summary": "Ambas fueron atendidas en el Heca tras sufrir ataques de sus exparejas. En el marco del Día de la Eliminación de la Violencia contra las Mujeres, compartieron sus experiencias para alentar a otras víctimas a pedir ayuda",
-        "pubDate": "2026-11-24T11:58:00+00:00",
+        "pubDate": "2026-11-24T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -35,6 +26,15 @@
         "link": "https://www.rosario3.com/informaciongeneral/financiamiento-universitario-fiscal-dictamino-que-es-inconstitucional-el-decreto-del-gobierno-que-suspendio-la-ley-20261124-0066.html",
         "image": "https://www.rosario3.com/__export/1795557715299/sites/rosario3/img/2026/11/24/universidad.jpg_1825222445.jpg",
         "summary": "Rodrigo Cuesta recomendó confirmar el fallo de primera instancia que ordenó aplicar la norma. Sostuvo que la medida del Ejecutivo vulnera la división de poderes y afecta la autonomía de las universidades y los derechos de docentes y estudiantes",
+        "pubDate": "2026-11-24T11:58:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Santa Fe confirmó que las clases comenzarán el 1° de marzo de 2027 y apunta a 190 días de actividad escolar",
+        "link": "https://www.rosario3.com/informaciongeneral/santa-fe-confirmo-que-las-clases-comenzaran-el-1-de-marzo-de-2027-y-apunta-a-190-dias-de-actividad-escolar-20261124-0059.html",
+        "image": "https://www.rosario3.com/__export/1795553205851/sites/rosario3/img/2026/11/24/clases.jpg_1825222445.jpg",
+        "summary": "El ministro de Educación, José Goity, anticipó que el receso de invierno comenzaría el 12 de julio, aunque todavía no se definió la fecha de finalización del ciclo lectivo. La Provincia busca sostener la continuidad de las jornadas y garantizar previsibilidad a las familias",
         "pubDate": "2026-11-24T11:57:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,24 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Los unicornios locales sufren el cambio de tendencia en la economía",
+        "link": "https://www.lacapital.com.ar/economia/los-unicornios-locales-sufren-el-cambio-tendencia-la-economia-n10294039.html",
+        "image": "https://media.lacapital.com.ar/p/eecf5c947729b9b4dedfc197c62cf7af/adjuntos/203/imagenes/030/047/0030047630/1200x675/smart/fintechjpg.jpg",
+        "summary": "Un informe del Instituto de Pensamiento y Políticas Públicas observó un límite en la expansión de grupos emblemáticos de ese sector. El cambio de condiciones económicas, la competencia y las transformaciones tecnológicas impactan en el negocio",
+        "pubDate": "2026-11-25T01:31:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El riesgo país y el dólar se dispararon mientras caen las reservas",
+        "link": "https://www.lacapital.com.ar/economia/el-riesgo-pais-y-el-dolar-se-dispararon-mientras-caen-las-reservas-n10294042.html",
+        "image": "https://media.lacapital.com.ar/p/4c4acfcf6bd05221004715cf7af816d5/adjuntos/203/imagenes/103/528/0103528061/2026-11-12-caputo.jpg",
+        "summary": "Tras el fin de semana largo, la demanda de divisas por cobertura cobró nuevo impulso y puso en alta tensión a todas las variables financieras. Subieron las tasas y el gobierno enfrenta una exigente licitación de deuda.",
+        "pubDate": "2026-11-25T01:29:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Atentado con un coche bomba en Colombia: al menos 25 heridos",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/8c494761c8d622f3dc45b4dbcfd9d54b/adjuntos/203/imagenes/103/550/0103550992/1200x675/smart/2ab5798b-8ce2-4349-8648-424fb575a2d4.jpg",
         "summary": "La Policía Federal realizó once allanamientos y secuestró cocaína, un arma y municiones. Entre los arrestados se encuentra la presunta líder de la organización, una mujer vinculada familiarmente al clan Cantero.",
         "pubDate": "2026-11-24T21:39:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La historia del ERP, la organización guerrillera que nació en las islas frente a Rosario",
-        "link": "https://www.lacapital.com.ar/la-historia-del-erp-la-organizacion-guerrillera-que-nacio-las-islas-frente-rosario-n10293989.html",
-        "image": "https://media.lacapital.com.ar/p/238cef95e7f27efe7bd0f44ccd79dd2a/adjuntos/203/imagenes/103/548/0103548879/2026-11-23-santucho.jpg",
-        "summary": "En medio de la polémica por el homenaje a Mario Roberto Santucho en la UBA, un repaso por los orígenes de la organización armada, su irrupción en Rosario en 1970 y el secuestro del cónsul británico y gerente del frigorífico Swift.",
-        "pubDate": "2026-11-24T21:34:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Luca Regiardo: \"Le pido perdón al hincha de Newell's por no darle la alegría de seguir en el campeonato\"",
-        "link": "https://www.lacapital.com.ar/ovacion/luca-regiardo-le-pido-perdon-al-hincha-newells-no-darle-la-alegria-seguir-el-campeonato-n10294011.html",
-        "image": "https://media.lacapital.com.ar/p/5ab193424c2e7929d663ae20d56716ca/adjuntos/203/imagenes/103/551/0103551252/luc.jpg",
-        "summary": "El capitán de Newell's volvió a dar la cara tras la eliminación en el Clausura y evaluó el rendimiento en lo individual como en lo colectivo",
-        "pubDate": "2026-11-24T21:32:00+00:00",
         "approxTime": false
       }
     ]
