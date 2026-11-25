@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-11-24T23:30:51.751037+00:00",
+  "generatedAt": "2026-11-25T00:01:10.405780+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Santa Fe confirmó que las clases comenzarán el 1° de marzo de 2027 y apunta a 190 días de actividad escolar",
+        "link": "https://www.rosario3.com/informaciongeneral/santa-fe-confirmo-que-las-clases-comenzaran-el-1-de-marzo-de-2027-y-apunta-a-190-dias-de-actividad-escolar-20261124-0059.html",
+        "image": "https://www.rosario3.com/__export/1795553205851/sites/rosario3/img/2026/11/24/clases.jpg_1825222445.jpg",
+        "summary": "El ministro de Educación, José Goity, anticipó que el receso de invierno comenzaría el 12 de julio, aunque todavía no se definió la fecha de finalización del ciclo lectivo. La Provincia busca sostener la continuidad de las jornadas y garantizar previsibilidad a las familias",
+        "pubDate": "2026-11-24T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Asesinaron a un hombre de una puñalada en el pecho en una presunta discusión con su hermano",
         "link": "https://www.rosario3.com/policiales/asesinaron-a-un-hombre-de-33-anos-de-una-punalada-en-el-pecho-en-una-presunta-discusion-con-su-hermano-20261124-0057.html",
         "image": "https://www.rosario3.com/__export/1795553301167/sites/rosario3/img/2026/11/24/crimen-policia.jpg_1608372952.jpg",
         "summary": "El hecho ocurrió este martes por la tarde en un pasillo de Vera Mujica al 3900. Según el relato de su padre a la Policía, la víctima mantuvo una pelea con su hermano de 29 años, quien le habría dado una cuchillada y escapado del lugar con el arma",
-        "pubDate": "2026-11-24T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La crecida del Paraná en las islas: cómo está y qué necesidades tiene la comunidad de El Espinillo",
-        "link": "https://www.rosario3.com/informaciongeneral/la-crecida-del-parana-en-las-islas-como-esta-y-que-necesidades-tiene-la-comunidad-de-el-espinillo-20261124-0043.html",
-        "image": "https://www.rosario3.com/__export/1795542049252/sites/rosario3/img/2026/11/24/islas_crecida.jpg_506286608.jpg",
-        "summary": "La escuela se convirtió una vez más en el corazón y refugio de la comunidad. El actual edificio escolar, el tercero que se construye en la zona debido a las inundaciones en el humedal, fue diseñado en altura para resistir el avance del agua, pero el cambio en el entorno los…",
         "pubDate": "2026-11-24T11:59:00+00:00",
         "approxTime": true
       },
@@ -31,10 +31,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Por unanimidad, Daniel Erbetta fue elegido presidente de la Corte Suprema de Justicia de Santa Fe",
-        "link": "https://www.rosario3.com/informaciongeneral/por-unanimidad-daniel-erbetta-fue-elegido-presidente-de-la-corte-suprema-de-justicia-de-santa-fe-20261124-0050.html",
-        "image": "https://www.rosario3.com/__export/1795547194463/sites/rosario3/img/2026/11/24/daniel_erbetta.png_786111822.png",
-        "summary": "El magistrado asumirá el próximo 1 de diciembre en reemplazo de Rafael Gutiérrez, quien dejará el cargo por jubilación. Su mandato se extenderá hasta fines de 2027, en una etapa marcada por cambios y renovación en el Poder Judicial provincial",
+        "title": "La crecida del Paraná en las islas: cómo está y qué necesidades tiene la comunidad de El Espinillo",
+        "link": "https://www.rosario3.com/informaciongeneral/la-crecida-del-parana-en-las-islas-como-esta-y-que-necesidades-tiene-la-comunidad-de-el-espinillo-20261124-0043.html",
+        "image": "https://www.rosario3.com/__export/1795542049252/sites/rosario3/img/2026/11/24/islas_crecida.jpg_506286608.jpg",
+        "summary": "La escuela se convirtió una vez más en el corazón y refugio de la comunidad. El actual edificio escolar, el tercero que se construye en la zona debido a las inundaciones en el humedal, fue diseñado en altura para resistir el avance del agua, pero el cambio en el entorno los…",
         "pubDate": "2026-11-24T11:57:00+00:00",
         "approxTime": true
       },
@@ -85,10 +85,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Celulares robados: qué cambia en la habilitación de comercios y qué sanciones buscan endurecer en Rosario",
-        "link": "https://www.rosario3.com/informaciongeneral/celulares-robados-buscan-reforzar-controles-y-endurecer-sanciones-a-comercios-de-rosario-20261124-0031.html",
-        "image": "https://www.rosario3.com/__export/1793916563325/sites/rosario3/img/2026/11/05/celulares.jpg_1768679258.jpg",
-        "summary": "Tras la sanción de la ley provincial, la Municipalidad estableció un nuevo rubro comercial y envió al Concejo un proyecto con multas más severas, clausuras y quita de habilitación para incumplidores. Los detalles de las modificaciones propuestas",
+        "title": "Por unanimidad, Daniel Erbetta fue elegido presidente de la Corte Suprema de Justicia de Santa Fe",
+        "link": "https://www.rosario3.com/informaciongeneral/por-unanimidad-daniel-erbetta-fue-elegido-presidente-de-la-corte-suprema-de-justicia-de-santa-fe-20261124-0050.html",
+        "image": "https://www.rosario3.com/__export/1795547194463/sites/rosario3/img/2026/11/24/daniel_erbetta.png_786111822.png",
+        "summary": "El magistrado asumirá el próximo 1 de diciembre en reemplazo de Rafael Gutiérrez, quien dejará el cargo por jubilación. Su mandato se extenderá hasta fines de 2027, en una etapa marcada por cambios y renovación en el Poder Judicial provincial",
         "pubDate": "2026-11-24T11:51:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Paso, plata y aliados: el gobierno ajusta su estrategia para una semana decisiva",
+        "link": "https://www.lacapital.com.ar/politica/paso-plata-y-aliados-el-gobierno-ajusta-su-estrategia-una-semana-decisiva-n10294028.html",
+        "image": "https://media.lacapital.com.ar/p/1708bd395e95a848f49e347d4631a341/adjuntos/203/imagenes/103/551/0103551448/1200x675/smart/mesa-politica-reforma-electoral-y-presupuesto.jpg",
+        "summary": "Karina Milei reunió a la mesa política para avanzar con la reforma electoral y el presupuesto 2027. La ley Malvinas pasa a extraordinarias",
+        "pubDate": "2026-11-24T23:34:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Colombia: hombres armados tomaron 25 rehenes en un supermercado de Cartagena",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/31ed242c783376e2972156b43e414983/adjuntos/203/imagenes/103/551/0103551195/1200x675/smart/image-53.jpg",
         "summary": "El hecho ocurrió en una casa de Vera Mujica al 3900. Según el padre de ambos, la víctima mantuvo una discusión con su hermano de 29 años, quien lo atacó y escapó del lugar",
         "pubDate": "2026-11-24T21:11:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Proponen un cambio de paradigma para mejorar la movilidad de Rosario y su área metropolitana",
-        "link": "https://www.lacapital.com.ar/la-ciudad/proponen-un-cambio-paradigma-mejorar-la-movilidad-rosario-y-su-area-metropolitana-n10294002.html",
-        "image": "https://media.lacapital.com.ar/p/96715bace87de53ddba222cc965d8b9a/adjuntos/203/imagenes/103/551/0103551143/1200x675/smart/image-52.jpg",
-        "summary": "El proyecto del diputado provincial Joaquín Blanco busca transformar la manera en que se planifica y coordina la movilidad a escala metropolitana",
-        "pubDate": "2026-11-24T20:44:00+00:00",
         "approxTime": false
       }
     ]
