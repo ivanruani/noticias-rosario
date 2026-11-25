@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T09:01:07.655791+00:00",
+  "generatedAt": "2026-11-25T09:30:58.207033+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,51 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Ganadería: ternero caro y hacienda en baja ponen contra las cuerdas al engorde a corral",
+        "link": "https://www.lacapital.com.ar/agro/ganaderia-ternero-caro-y-hacienda-baja-ponen-contra-las-cuerdas-al-engorde-corral-n10293804.html",
+        "image": "https://media.lacapital.com.ar/p/d5985b22ba5136118fdde24db4978edb/adjuntos/203/imagenes/020/774/0020774677/1200x675/287x277:307x297/ardig-879-2016-visita-feed-lot-hacienda-conecar-ganadera-ag-string-agro-120916-publica-190617jpg.jpg",
+        "summary": "La brecha entre el precio de compra del ternero y el de venta del animal terminado ronda el 35%, frente a un promedio histórico del 20%. El costo financiero llevó la pérdida de noviembre a más de $136.000 por cabeza",
+        "pubDate": "2026-11-25T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "25N: del control del dinero a la cuota impaga, las caras de la violencia económica",
+        "link": "https://www.lacapital.com.ar/economia/25n-del-control-del-dinero-la-cuota-impaga-las-caras-la-violencia-economica-n10293984.html",
+        "image": "https://media.lacapital.com.ar/p/1f508b39c4958a7d3dfd54eec1580fab/adjuntos/203/imagenes/102/037/0102037347/1200x675/smart/image-2024-11-25t171423361jpg.jpg",
+        "summary": "En el marco del Día Internacional de la Eliminación de la Violencia contra las Mujeres una encuesta reveló que al 35% de las mujeres le impidieron decidir sobre su propio dinero o usarlo. Entre quienes sufrieron violencia, el 17% señaló que la dependencia económica de su pareja…",
+        "pubDate": "2026-11-25T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Newell's tuvo un digno cierre de temporada, con la obligación de dar un salto de calidad",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-tuvo-un-digno-cierre-temporada-la-obligacion-dar-un-salto-calidad-n10294025.html",
+        "image": "https://media.lacapital.com.ar/p/fe4a2723f0d56a3ff00534ed4eabe16e/adjuntos/203/imagenes/103/551/0103551389/1200x675/smart/image-65.png",
+        "summary": "La Lepra superó un mal comienzo de año y alcanzó la fase final, pero no siguió por falta de categoría. El gran desafío a mejorar para 2027",
+        "pubDate": "2026-11-25T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Un rosarino en Londres: el artista César Baracca interviene objetos de la sociedad de consumo",
+        "link": "https://www.lacapital.com.ar/la-ciudad/un-rosarino-londres-el-artista-cesar-baracca-interviene-objetos-la-sociedad-consumo-n10232415.html",
+        "image": "https://media.lacapital.com.ar/p/c4c69a44e617a9390becebcdb3b7c715/adjuntos/203/imagenes/102/843/0102843041/1200x675/smart/image-2025-12-01t133613242.jpg",
+        "summary": "El artista rosarino César Baracca vive hace 30 años en Europa y los últimos 20 los pasó en Londres, donde tiene su atelier. Expuso en Rosario su última obra \"Opus Coca- Cola\"",
+        "pubDate": "2026-11-25T09:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central levantó la cabeza en un momento complicado y la mantiene en alto",
+        "link": "https://www.lacapital.com.ar/ovacion/central-levanto-la-cabeza-un-momento-complicado-y-la-mantiene-alto-n10293881.html",
+        "image": "https://media.lacapital.com.ar/p/5968dcda9266d03f85d13514be49d845/adjuntos/203/imagenes/103/550/0103550060/cen.jpg",
+        "summary": "Lo mejor que mostró el Canalla ante Gimnasia de Mendoza fue su capacidad de reacción tras el título frustrado. Y eso le valió el pase a cuartos de final",
+        "pubDate": "2026-11-25T09:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El tiempo en Rosario: un miércoles caluroso y de sol pleno durante todo el día",
         "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-un-miercoles-caluroso-y-sol-pleno-todo-el-dia-n10294045.html",
         "image": "https://media.lacapital.com.ar/p/63fca0c45f8c8ed06b96d2eec2f0bec5/adjuntos/203/imagenes/103/551/0103551662/2026-11-24-clima-by_vbenedetto-81874574.jpg",
@@ -227,51 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/3a2e782b2abbe9fbb32a0e04c2cef6cf/adjuntos/203/imagenes/103/551/0103551505/2026-11-24-shein.jpg",
         "summary": "La empresa china es acusada de falsear los plazos de envío, el origen de su materia prima y la autenticidad de las reseñas de sus productos",
         "pubDate": "2026-11-24T23:02:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Crecida del río Paraná en Rosario: \"evolución ascendente\" y seguimiento de cerca de las zonas costeras",
-        "link": "https://www.lacapital.com.ar/la-ciudad/crecida-del-rio-parana-rosario-evolucion-ascendente-y-seguimiento-cerca-las-zonas-costeras-n10293878.html",
-        "image": "https://media.lacapital.com.ar/p/e4696ffe8eff5913fd608565d6367987/adjuntos/203/imagenes/103/550/0103550408/1200x675/smart/crecida-rio-parana.png",
-        "summary": "El gobierno provincial y la Municipalidad monitorean de cerca un sector puntual en zona sur, aunque todavía no hay personas evacuadas",
-        "pubDate": "2026-11-24T22:44:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Infantino quería vender los derechos comerciales de los Mundiales hasta 2122",
-        "link": "https://www.lacapital.com.ar/ovacion/infantino-queria-vender-los-derechos-comerciales-los-mundiales-2122-n10294023.html",
-        "image": "https://media.lacapital.com.ar/p/87949205351c4199dba0a2c42d8c53ca/adjuntos/203/imagenes/103/551/0103551365/2026-11-24-infantino-trump.jpg",
-        "summary": "Así consta en los documentos filtrados que publicó el diario New York Post",
-        "pubDate": "2026-11-24T22:43:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Paso a la inmortalidad de Diego Maradona: un rosarino creó un videojuego para homenajearlo",
-        "link": "https://www.lacapital.com.ar/la-ciudad/paso-la-inmortalidad-diego-maradona-un-rosarino-creo-un-videojuego-homenajearlo-n10293962.html",
-        "image": "https://media.lacapital.com.ar/p/8a45cefb025debf996fdfe32663f01b5/adjuntos/203/imagenes/103/550/0103550917/1200x675/smart/diego.jpg",
-        "summary": "Se llama \"El Diego. De Fiorito a la eternidad\". Se puede jugar desde esta medianoche, al cumplirse seis años del fallecimiento del genio del fútbol mundial",
-        "pubDate": "2026-11-24T22:23:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Las exportaciones argentinas de maíz crecieron 41% en el año y superaron a Brasil",
-        "link": "https://www.lacapital.com.ar/agro/las-exportaciones-argentinas-maiz-crecieron-41-el-ano-y-superaron-brasil-n10293964.html",
-        "image": "https://media.lacapital.com.ar/p/718a74be8a2204928f02470623e5fb8e/adjuntos/305/imagenes/101/990/0101990435/1200x675/838x340:858x360/maizjpg.jpg",
-        "summary": "La comercialización del cereal mantiene un ritmo adelantado respecto del promedio histórico, aunque la caída de los precios internacionales desaceleró las ventas de los productores. En paralelo, la siembra de maíz temprano alcanza el 39,8% del área prevista",
-        "pubDate": "2026-11-24T22:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Una influencer de Rosario rechazó una tentadora oferta para promocionar casinos: \"Puedo destruir una familia\"",
-        "link": "https://www.lacapital.com.ar/una-influencer-rosario-rechazo-una-tentadora-oferta-promocionar-casinos-puedo-destruir-una-familia-n10293988.html",
-        "image": "https://media.lacapital.com.ar/p/63214d66022b61bf4b9e2c4688fb53ed/adjuntos/203/imagenes/103/551/0103551147/1200x675/smart/influencer-casino-online-2411.jpg",
-        "summary": "Daiana muestra a diario recetas low cost y suma más de 200 mil seguidores. Un casino online le ofreció 1,4 millones de pesos por semana y ella lo rechazó: \"No va conmigo\", aseguró a La Capital",
-        "pubDate": "2026-11-24T21:53:00+00:00",
         "approxTime": false
       }
     ]
