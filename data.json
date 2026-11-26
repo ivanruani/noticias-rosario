@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-11-26T17:30:54.395745+00:00",
+  "generatedAt": "2026-11-26T18:01:09.130716+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Pese a la crecida del río, se mantienen los cruces desde La Fluvial: ¿queda arena de playa en las islas?",
+        "link": "https://www.rosario3.com/informaciongeneral/pese-a-la-crecida-del-rio-se-mantienen-los-cruces-desde-la-fluvial-queda-arena-de-playa-en-las-islas-20261126-0035.html",
+        "image": "https://www.rosario3.com/__export/1795708013258/sites/rosario3/img/2026/11/26/lafluvial.jpg_928314581.jpg",
+        "summary": "La referente de La Fluvial, Graciela Albanese, confirmó que los paradores del banquito San Andrés continúan en pleno funcionamiento pese al repunte del agua frente a la costa rosarina. Los traslados se evalúan día a día junto a Prefectura y las autoridades provinciales para…",
+        "pubDate": "2026-11-26T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Tres accesos de la autopista Rosario-Santa Fe tendrán peaje exclusivo con Telepase: cómo hacer el trámite",
         "link": "https://www.rosario3.com/informaciongeneral/tres-accesos-de-la-autopista-rosario-santa-fe-tendran-peaje-exclusivo-con-telepase-como-hacer-el-tramite-20261126-0037.html",
         "image": "https://www.rosario3.com/__export/1795708420797/sites/rosario3/img/2026/11/26/autopista-rosario-santa-fe.jpg_928314580.jpg",
         "summary": "A partir del 1 de diciembre comenzará a regir el cobro electrónico en los ingresos a San Lorenzo Centro, La Ribera y Sauce Viejo. Quienes no dispongan del dispositivo, contarán con un lapso de 30 días para cancelar la tarifa y registrarse antes de recibir una multa por evasión…",
-        "pubDate": "2026-11-26T12:00:00+00:00",
+        "pubDate": "2026-11-26T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/el-senado-debate-la-ley-de-ludopatia-hoy-hasta-chicos-de-12-anos-estan-apostando-20261126-0027.html",
         "image": "https://www.rosario3.com/__export/1795702217225/sites/rosario3/img/2026/11/26/juegoonline.jpg_928314581.jpg",
         "summary": "Oficialismo y oposición acordaron darle luz verde a la normativa que llega de Diputados y restringe el acceso al juego on line de menores y limita o prohíbe la publicidad de apuestas. En ese marco, Agustín, un joven que se recuperó de la ludopatía recordó su historia: 'Perdí…",
-        "pubDate": "2026-11-26T11:59:00+00:00",
+        "pubDate": "2026-11-26T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,15 +35,6 @@
         "link": "https://www.rosario3.com/policiales/redujeron-las-prisiones-preventivas-de-los-duenos-de-motorsport-imputados-por-estafas-20261126-0031.html",
         "image": "https://www.rosario3.com/__export/1791568413180/sites/rosario3/img/2026/10/09/motorsport_1.jpg_1010838702.jpg",
         "summary": "La resolución fue tomada este miércoles por la camarista Carola Hernández, que confirmó la acusación, pero bajó el tiempo de encierro de Juan Gabriel Alegre y Eduardo Atilio Escarcelo",
-        "pubDate": "2026-11-26T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Denuncian que estudiantes de secundario incendiaron una palmera en bulevar Rondeau durante los festejos por el cierre lectivo",
-        "link": "https://www.rosario3.com/informaciongeneral/denuncian-que-estudiantes-de-secundario-incendiaron-una-palmera-en-bulevar-rondeau-durante-los-festejos-por-el-cierre-lectivo-20261126-0026.html",
-        "image": "https://www.rosario3.com/__export/1795701105112/sites/rosario3/img/2026/11/26/palmera.jpg_928314580.jpg",
-        "summary": "Una dotación de bomberos intervino en la traza a la altura del 1400 luego de la quema de un ejemplar, provocada por pirotecnia durante las celebraciones escolares",
         "pubDate": "2026-11-26T11:57:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,42 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El Senado comenzó a debatir la reforma electoral que incluye la eliminación de las Paso",
+        "link": "https://www.lacapital.com.ar/politica/el-senado-comenzo-debatir-la-reforma-electoral-que-incluye-la-eliminacion-las-paso-n10294348.html",
+        "image": "https://media.lacapital.com.ar/p/79fc482887837614707812ce978ae3b5/adjuntos/203/imagenes/103/542/0103542694/2026-11-18-senado.jpg",
+        "summary": "reMás tarde se tratará el proyecto contra la ludopatía, que se convertirá en ley tras un acuerdo entre el oficialismo y el peronismo",
+        "pubDate": "2026-11-26T17:54:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Diputados convirtió en ley la reforma de la carta orgánica del Banco Central",
+        "link": "https://www.lacapital.com.ar/politica/diputados-convirtio-ley-la-reforma-la-carta-organica-del-banco-central-n10294346.html",
+        "image": "https://media.lacapital.com.ar/p/639b5dc715d506d04ca0e7e9a9e74540/adjuntos/203/imagenes/103/555/0103555403/1200x675/smart/image.png",
+        "summary": "Con 141 votos afirmativos y 99 abstenciones, la Cámara baja aprobó la iniciativa con los ajustes que había realizado el Senado. Se viene el debate por el presupuesto 2027",
+        "pubDate": "2026-11-26T17:50:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central ante Barracas: un antecedente que ilusiona y otro que trae muy malos recuerdos",
+        "link": "https://www.lacapital.com.ar/ovacion/central-barracas-un-antecedente-que-ilusiona-y-otro-que-trae-muy-malos-recuerdos-n10294086.html",
+        "image": "https://media.lacapital.com.ar/p/23ed67bb405069221b15b062a8a671ac/adjuntos/203/imagenes/103/552/0103552236/censsm.jpg",
+        "summary": "En el último choque, el Canalla venció al Guapo con un equipo alternativo. La única que vez que se enfrentaron en un partido eliminatorio fue derrota",
+        "pubDate": "2026-11-26T17:34:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "\"Gaudio, vamos a matar a vos y a tus hijos\": grave episodio en la campaña electoral en Independiente",
+        "link": "https://www.lacapital.com.ar/ovacion/gaudio-vamos-matar-vos-y-tus-hijos-grave-episodio-la-campana-electoral-independiente-n10294345.html",
+        "image": "https://media.lacapital.com.ar/p/ba4c180147a224ac42736c6970db8579/adjuntos/203/imagenes/103/555/0103555402/1200x675/smart/image-10.jpg",
+        "summary": "La amenaza se expresó a través de una bandera que colgaron a la madrugada en Avellaneda. \"Es triste, cruzaron un límite\", dijo el extenista",
+        "pubDate": "2026-11-26T17:29:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Rescataron a un ciervo que nadaba en el Paraná frente a Rosario: es el sexto en una semana",
         "link": "https://www.lacapital.com.ar/la-ciudad/rescataron-un-ciervo-que-nadaba-el-parana-frente-rosario-es-el-sexto-una-semana-n10294333.html",
         "image": "https://media.lacapital.com.ar/p/dc940952762069c08ac718d74eea150b/adjuntos/203/imagenes/103/555/0103555330/ciervito.jpg",
@@ -159,7 +195,7 @@
       },
       {
         "source": "La Capital",
-        "title": "¿Qué busca Pullaro con la nueva Ley Tributaria?",
+        "title": "¿Qué busca Pullaro con la nueva ley tributaria?",
         "link": "https://www.lacapital.com.ar/politica/que-busca-pullaro-la-nueva-ley-tributaria-n10294327.html",
         "image": "https://media.lacapital.com.ar/p/93f496678f483bdda4994f88f68966f2/adjuntos/203/imagenes/103/224/0103224125/1200x675/smart/maximiliano-pullaro-y-pablo-olivares.jpg",
         "summary": "El proyecto fiscal sale al ruedo con la idea de marcar una política distintiva. Exenciones y beneficios, en un contexto complejo de la actividad nacional",
@@ -236,42 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/a460a97c395e014f4b80c459cc0dc383/adjuntos/203/imagenes/103/555/0103555119/palmera00.jpg",
         "summary": "Todo ocurrió cuando estudiantes del Complejo Educativo Alberdi celebraban con bengalas y fuegos artificiales el \"Último Último día\" de clases",
         "pubDate": "2026-11-26T15:34:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Preocupación en barrio Pichincha por el robo a una vinería durante la madrugada",
-        "link": "https://www.lacapital.com.ar/policiales/preocupacion-barrio-pichincha-el-robo-una-vineria-la-madrugada-n10294275.html",
-        "image": "https://media.lacapital.com.ar/p/5cea19d1fcc031ee0db133086229c43f/adjuntos/203/imagenes/103/554/0103554960/vineria-robo-salta-2900.jpg",
-        "summary": "Los ladrones rompieron un vidrio del local para ingresar al costado de la puerta principal. Se llevaron la caja y algo de dinero en efectivo",
-        "pubDate": "2026-11-26T14:52:45+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Tres allanamientos en distintas zonas de Rosario por una causa de estafas",
-        "link": "https://www.lacapital.com.ar/policiales/tres-allanamientos-distintas-zonas-rosario-una-causa-estafas-n10294271.html",
-        "image": "https://media.lacapital.com.ar/p/d0f82868eeca2b0fc30be102655d1c32/adjuntos/203/imagenes/103/356/0103356388/1200x675/smart/pdi.jpg",
-        "summary": "Agentes de la sección Delitos Económicos de la PDI realizaban procedimientos en inmuebles del Paseo del Siglo, Pichincha y barrio Belgrano",
-        "pubDate": "2026-11-26T13:58:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Susto en el microcentro por una fuga de gas en la peatonal Córdoba y Sarmiento",
-        "link": "https://www.lacapital.com.ar/la-ciudad/susto-el-microcentro-una-fuga-gas-la-peatonal-cordoba-y-sarmiento-n10294274.html",
-        "image": "https://media.lacapital.com.ar/p/8ef1d89a649f2cf6cadc042e73b6f948/adjuntos/203/imagenes/103/554/0103554227/1200x675/smart/fuga-gas.png",
-        "summary": "La rotura de un caño antiguo durante unas obras provocó el escape. Litoral Gas controla la situación y recomiendan evitar la zona",
-        "pubDate": "2026-11-26T12:04:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Explotación sexual infantil: un detenido en Granadero Baigorria por un operativo internacional",
-        "link": "https://www.lacapital.com.ar/policiales/explotacion-sexual-infantil-un-detenido-granadero-baigorria-un-operativo-internacional-n10294264.html",
-        "image": "https://media.lacapital.com.ar/p/f9558213f544b1d1a547c6d44277d987/adjuntos/203/imagenes/103/554/0103554082/detenido-granadero-baigorria.jpg",
-        "summary": "La Policía de Investigaciones arrestó a un hombre de 63 años y también demoró a un rosarino en el marco del procedimiento Alianza por la Infancia VII",
-        "pubDate": "2026-11-26T11:55:09+00:00",
         "approxTime": false
       }
     ]
