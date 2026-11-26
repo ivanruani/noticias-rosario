@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T01:30:57.281971+00:00",
+  "generatedAt": "2026-11-26T02:01:08.420266+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El juez Rafecas llamó a declarar al número dos del Opus Dei en la causa por explotación de mujeres",
+        "link": "https://www.lacapital.com.ar/informacion-general/el-juez-rafecas-llamo-declarar-al-numero-dos-del-opus-dei-la-causa-explotacion-mujeres-n10294251.html",
+        "image": "https://media.lacapital.com.ar/p/f68a5b72a63b97834a0470516da4b441/adjuntos/203/imagenes/103/553/0103553782/2026-11-25-opus-dei.jpg",
+        "summary": "También fueron citados otros dos sacerdotes por trata de personas y reducción a la servidumbre con 43 posibles víctimas",
+        "pubDate": "2026-11-26T01:42:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Las ventas en los supermercados cayeron 3 % durante septiembre",
         "link": "https://www.lacapital.com.ar/economia/las-ventas-los-supermercados-cayeron-3-septiembre-n10294246.html",
         "image": "https://media.lacapital.com.ar/p/6f34fc4b11b7c97dc38b0f0bd1161d39/adjuntos/203/imagenes/102/970/0102970775/1200x675/smart/supermercados-92.jpg",
@@ -215,7 +224,7 @@
         "source": "La Capital",
         "title": "Vecinos del Monumento denunciaron destrozos tras los festejos estudiantiles y pidieron que vuelvan los vallados",
         "link": "https://www.lacapital.com.ar/la-ciudad/vecinos-del-monumento-denunciaron-destrozos-los-festejos-estudiantiles-y-pidieron-que-vuelvan-los-vallados-n10294237.html",
-        "image": "https://media.lacapital.com.ar/p/fdfd84376afe98947e5beeb260b7afc7/adjuntos/203/imagenes/103/553/0103553584/1200x675/smart/82901075jpegthumb.jpg",
+        "image": "https://media.lacapital.com.ar/p/2e6ed96da6002db0b55d5ed41d93dd66/adjuntos/203/imagenes/103/553/0103553806/be2597df-07e7-4426-8601-5bdc355cc207.jpg",
         "summary": "Los alumnos secundarios rompieron una histórica farola de bronce y realizaron pintadas en el Patio Cívico. Cansados del descontrol de madrugada, los frentistas reclaman que se prohíba el uso del espacio para celebraciones como el Último Último Día (UUD)",
         "pubDate": "2026-11-25T22:56:00+00:00",
         "approxTime": false
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/eed25f7b3114e7eaa5c0822b8dad815d/adjuntos/203/imagenes/103/553/0103553312/1200x675/smart/image-2026-11-25t191056785.png",
         "summary": "El actor es el protagonista de la apertura de la segunda edición del festival. Antes de su encuentro con Luis Rubio en el Teatro El Círculo, habló sobre su vínculo con Rosario",
         "pubDate": "2026-11-25T21:29:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Un bar de Rosario fue elegido entre los 33 mejores de la Argentina: cuál es y en qué puesto quedó",
-        "link": "https://www.lacapital.com.ar/la-ciudad/un-bar-rosario-fue-elegido-los-33-mejores-la-argentina-cual-es-y-que-puesto-quedo-n10294216.html",
-        "image": "https://media.lacapital.com.ar/p/41f3d48c0a43a4ae0815ddb9ca6ee9f1/adjuntos/203/imagenes/103/553/0103553267/1200x675/smart/imagebar.jpg",
-        "summary": "La primera edición de The List 33 distinguió a los establecimientos más destacados de la coctelería nacional. Otro local de la provincia de Santa Fe también ingresó en el ranking, dominado ampliamente por los bares porteños",
-        "pubDate": "2026-11-25T21:09:00+00:00",
         "approxTime": false
       }
     ]
