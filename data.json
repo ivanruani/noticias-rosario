@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T09:31:02.848622+00:00",
+  "generatedAt": "2026-11-26T10:01:09.782469+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,11 +141,11 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "Los paradores en la isla dan batalla a la crecida, las lluvias y la recesión económica",
-        "link": "https://www.lacapital.com.ar/la-ciudad/los-paradores-la-isla-dan-batalla-la-crecida-las-lluvias-y-la-recesion-economica-n10294197.html",
-        "image": "https://media.lacapital.com.ar/p/c48c2d9c20869b29b1ee41ee029dbf6c/adjuntos/203/imagenes/103/553/0103553496/1200x675/smart/parador.jpg",
-        "summary": "En La Invernada siguen abiertos espacios para el descanso en pleno río con alturas elevadas. El balneario La Florida reordenará su playa",
-        "pubDate": "2026-11-26T09:10:00+00:00",
+        "title": "En la Oficina del Consumidor, cuatro de cada diez reclamos se relacionan con servicios financieros",
+        "link": "https://www.lacapital.com.ar/la-ciudad/en-la-oficina-del-consumidor-cuatro-cada-diez-reclamos-se-relacionan-servicios-financieros-n10294155.html",
+        "image": "https://media.lacapital.com.ar/p/f59c65fe52d592e00bc939b6ae63510b/adjuntos/203/imagenes/101/911/0101911270/1200x675/smart/prestamos-mutualesjpg.jpg",
+        "summary": "Es el principal tema de consulta que se recibe en el organismo de Rosario. Advierten que la cifra representa el alto nivel de endeudamiento de la población",
+        "pubDate": "2026-11-26T09:30:00+00:00",
         "approxTime": false
       },
       {
@@ -163,6 +163,15 @@
         "link": "https://www.lacapital.com.ar/la-ciudad/la-unr-sera-sede-del-iii-congreso-internacional-salud-publica-n10294179.html",
         "image": "https://media.lacapital.com.ar/p/ad9f9d96e0ad2b75254b8de94764d7b0/adjuntos/203/imagenes/103/553/0103553406/1200x675/smart/salud.jpg",
         "summary": "El encuentro será el lunes 30 de noviembre y martes 1º de diciembre en el aulario de La Siberia. Habrá más de 200 disertantes y 52 mesas de trabajo",
+        "pubDate": "2026-11-26T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Los paradores en la isla dan batalla a la crecida, las lluvias y la recesión económica",
+        "link": "https://www.lacapital.com.ar/la-ciudad/los-paradores-la-isla-dan-batalla-la-crecida-las-lluvias-y-la-recesion-economica-n10294197.html",
+        "image": "https://media.lacapital.com.ar/p/c48c2d9c20869b29b1ee41ee029dbf6c/adjuntos/203/imagenes/103/553/0103553496/1200x675/smart/parador.jpg",
+        "summary": "En La Invernada siguen abiertos espacios para el descanso en pleno río con alturas elevadas. El balneario La Florida reordenará su playa",
         "pubDate": "2026-11-26T09:10:00+00:00",
         "approxTime": false
       },
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/a5ad2062c49105dc72cdd9b5552043de/adjuntos/203/imagenes/103/553/0103553715/2026-11-25-quini-6.jpg",
         "summary": "También hubo un apostador de la provincia de Santa Fe que acertó cinco en el Siempre Sale y se alzó con 35 millones de pesos",
         "pubDate": "2026-11-26T00:38:40+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Milei viaja a Paraguay para reunirse con el nuevo presidente y empresarios",
-        "link": "https://www.lacapital.com.ar/politica/milei-viaja-paraguay-reunirse-el-nuevo-presidente-y-empresarios-n10294243.html",
-        "image": "https://media.lacapital.com.ar/p/a6a4b5b67a45f85feb6de8e9b22f245f/adjuntos/203/imagenes/103/553/0103553693/image.png",
-        "summary": "El jefe del Estado tendrá una agenda oficial en Asunción, que incluirá un encuentro bilateral con Alliana, entre otras actividades",
-        "pubDate": "2026-11-25T23:56:00+00:00",
         "approxTime": false
       }
     ]
