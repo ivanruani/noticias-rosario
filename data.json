@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-11-26T22:01:15.884951+00:00",
+  "generatedAt": "2026-11-26T22:30:58.211203+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Detuvieron al conductor que atropelló y mató a un ciclista en zona sur",
+        "link": "https://www.rosario3.com/informaciongeneral/murio-el-ciclista-que-fue-embestido-por-un-automovilista-que-escapo-y-abandono-su-vehiculo-en-zona-sur-20261126-0058.html",
+        "image": "https://www.rosario3.com/__export/1795731551934/sites/rosario3/img/2026/11/26/siniestro_vial_2.jpg_1825222445.jpg",
+        "summary": "El hombre, de 22 años, fue localizado en el hospital Agudo Ávila tras dos allanamientos y quedó a disposición de la Fiscalía",
+        "pubDate": "2026-11-26T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Video: un civil frustró un asalto a un almacén de Fisherton y el ladrón recibió ocho años de prisión en un juicio por flagrancia",
         "link": "https://www.rosario3.com/policiales/video-un-civil-frustro-un-asalto-a-un-almacen-de-fisherton-y-el-ladron-recibio-ocho-anos-de-prision-en-un-juicio-por-flagrancia-20261126-0063.html",
         "image": "https://www.rosario3.com/__export/1795725912437/sites/rosario3/img/2026/11/26/brassey_7700_intento_de_asalto.jpg_672794304.jpg",
         "summary": "El asaltante apuntó con un revólver a los presentes, pero el hermano del comerciante se abalanzó sobre él y logró reducirlo. Durante el enfrentamiento, el ladrón disparó y rompió un vidrio de un auto. La audiencia de juicio duró apenas dos horas, a menos de tres meses del hecho",
-        "pubDate": "2026-11-26T12:00:00+00:00",
+        "pubDate": "2026-11-26T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,15 +26,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/el-concejo-aprobara-la-prohibicion-de-cuidacoches-en-rosario-habra-controles-prioritarios-y-operativos-policiales-20261126-0064.html",
         "image": "https://www.rosario3.com/__export/1795726233829/sites/rosario3/img/2026/11/26/cuidacoche06_jpg_726409099_1.jpg_1825222445.jpg",
         "summary": "La iniciativa contempla la intervención coordinada entre el municipio y la provincia, con énfasis en los sectores de mayor conflictividad y medidas de inclusión social para las personas alcanzadas por la normativa",
-        "pubDate": "2026-11-26T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Murió el ciclista que fue embestido por un automovilista que escapó y abandonó su vehículo en zona sur",
-        "link": "https://www.rosario3.com/informaciongeneral/murio-el-ciclista-que-fue-embestido-por-un-automovilista-que-escapo-y-abandono-su-vehiculo-en-zona-sur-20261126-0058.html",
-        "image": "https://www.rosario3.com/__export/1795722796788/sites/rosario3/img/2026/11/26/siniestro_vial.jpg_1825222445.jpg",
-        "summary": "El hombre, de 30 años, permanecía internado en estado crítico en el Heca desde el siniestro ocurrido este jueves a la mañana. El vehículo involucrado fue abandonado en el lugar",
         "pubDate": "2026-11-26T11:58:00+00:00",
         "approxTime": true
       },
@@ -94,11 +94,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Diego Giuliano: \"A Santa Fe se la defiende con hechos\"",
+        "link": "https://www.rosario3.com/politica/diego-giuliano-a-santa-fe-se-la-defiende-con-hechos-20261126-0069.html",
+        "image": "https://www.rosario3.com/__export/1795729673846/sites/rosario3/img/2026/11/26/giuliano.jpg_928314580.jpg",
+        "summary": "El diputado nacional cuestionó que los legisladores del gobernador Pullaro hayan dado quórum para tratar el Presupuesto 2027 de Javier Milei, sin garantizar recursos fundamentales para la provincia",
+        "pubDate": "2026-11-26T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Auditoría de la AGN: el oro argentino está en Inglaterra y advierten que no hay constancias de que los envíos hayan sido asegurados",
         "link": "https://www.rosario3.com/informaciongeneral/auditoria-de-la-agn-el-oro-argentino-esta-en-inglaterra-y-advierten-que-no-hay-constancias-de-que-los-envios-hayan-sido-asegurados-20261126-0065.html",
         "image": "https://www.rosario3.com/__export/1795727663018/sites/rosario3/img/2026/11/26/bausili.jpg_928314580.jpg",
         "summary": "Los registros detectaron deficiencias en los controles, falta de documentación, inconsistencias contables y resultados financieros negativos. La AGN cuestionó el traslado de 1.000 lingotes de oro a Londres y la falta de controles del Banco Central",
-        "pubDate": "2026-11-26T11:50:00+00:00",
+        "pubDate": "2026-11-26T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -107,7 +116,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/se-incendio-un-colectivo-en-el-ingreso-a-rosario-por-autopista-a-santa-fe-20261126-0059.html",
         "image": "https://www.rosario3.com/__export/1795724084865/sites/rosario3/img/2026/11/26/tata_incendiado.jpg_1825222445.jpg",
         "summary": "El vehículo de la empresa Tata Rápido quedó destruido por completo a la altura del kilómetro cero. No se registraron personas heridas y el tránsito fue reducido en la zona",
-        "pubDate": "2026-11-26T11:49:00+00:00",
+        "pubDate": "2026-11-26T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +125,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/rescataron-a-un-ciervo-que-nadaba-exhausto-en-medio-de-la-crecida-del-parana-20261126-0055.html",
         "image": "https://www.rosario3.com/__export/1795722229614/sites/rosario3/img/2026/11/26/ciervo.jpg_579810351.jpg",
         "summary": "No lograba avanzar por la fuerza del agua y fue puesto a salvo por Prefectura, en Corrientes. El operativo vuelve a exponer el impacto de El Niño sobre la fauna, un fenómeno que ya provocó apariciones recientes de animales silvestres en Rosario. El video",
-        "pubDate": "2026-11-26T11:48:00+00:00",
+        "pubDate": "2026-11-26T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,20 +134,38 @@
         "link": "https://www.rosario3.com/policiales/escalada-de-violencia-en-villa-eloisa-primero-agredio-a-su-ex-y-por-poco-mata-de-una-punalada-a-un-policia-20261126-0050.html",
         "image": "https://www.rosario3.com/__export/1795717819304/sites/rosario3/img/2026/11/26/jonas_abreu_imputado_villa_eloisa.jpg_672794305.jpg",
         "summary": "La secuencia comenzó con daños en la casa de su expareja y continuó con una agresión a un patrullero. Cuando los policías fueron a identificarlo, atacó al inspector Luis Barrera con un cuchillo que le comprometió la carótida. Quedó preso por seis meses",
-        "pubDate": "2026-11-26T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Tres accesos de la autopista Rosario-Santa Fe tendrán peaje exclusivo con Telepase: cómo hacer el trámite",
-        "link": "https://www.rosario3.com/informaciongeneral/tres-accesos-de-la-autopista-rosario-santa-fe-tendran-peaje-exclusivo-con-telepase-como-hacer-el-tramite-20261126-0037.html",
-        "image": "https://www.rosario3.com/__export/1795708420797/sites/rosario3/img/2026/11/26/autopista-rosario-santa-fe.jpg_928314580.jpg",
-        "summary": "A partir del 1 de diciembre comenzará a regir el cobro electrónico en los ingresos a San Lorenzo Centro, La Ribera y Sauce Viejo. Quienes no dispongan del dispositivo, contarán con un lapso de 30 días para cancelar la tarifa y registrarse antes de recibir una multa por evasión…",
         "pubDate": "2026-11-26T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Dura sanción a Lucas Carrizo por la expulsión tras el partido entre Newell's y Gimnasia",
+        "link": "https://www.lacapital.com.ar/ovacion/dura-sancion-lucas-carrizo-la-expulsion-el-partido-newells-y-gimnasia-n10294433.html",
+        "image": "https://media.lacapital.com.ar/p/a276425ab20d880fd0cf84f5608436fb/adjuntos/203/imagenes/103/555/0103555934/1200x675/smart/image-67.png",
+        "summary": "El zaguero fue suspendido 4 fechas por \"conducta violenta\", mientras que Gabriel Arias recibió 2. A Jerónimo Russo y Martín Ortega los castigaron con un partido",
+        "pubDate": "2026-11-26T22:24:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Mi Bici Tu Bici cumple 11 años: ya suma cien estaciones y conecta a más de 50 barrios de Rosario",
+        "link": "https://www.lacapital.com.ar/la-ciudad/mi-bici-tu-bici-cumple-11-anos-ya-suma-cien-estaciones-y-conecta-mas-50-barrios-rosario-n10294375.html",
+        "image": "https://media.lacapital.com.ar/p/e08a94f50aa13045915aef996068c8d8/adjuntos/203/imagenes/102/336/0102336291/1200x675/smart/bicicletajpg.jpg",
+        "summary": "El municipio festejará el próximo martes un nuevo aniversario con una bicicleteada, picnic nocturno, sorteos y música en vivo en El Aura. Cómo participar",
+        "pubDate": "2026-11-26T22:03:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Detuvieron al conductor acusado de atropellar y matar a un ciclista y darse a la fuga en la zona sur",
+        "link": "https://www.lacapital.com.ar/policiales/detuvieron-al-conductor-acusado-atropellar-y-matar-un-ciclista-y-darse-la-fuga-la-zona-sur-n10294438.html",
+        "image": "https://media.lacapital.com.ar/p/f40ed511d6c6dc10f0b8ec6a287ce4fe/adjuntos/203/imagenes/103/555/0103555910/1200x675/smart/image-62.jpg",
+        "summary": "El joven de 22 años fue localizado por la PDI en la guardia del Hospital Agudo Ávila tras dos allanamientos. La víctima tenía 28 años y circulaba por bulevar Avellaneda",
+        "pubDate": "2026-11-26T22:01:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Villa Constitución: un video registró la angustia de los 110 trabajadores de Plantium al recibir sus telegramas de despido",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/707798b337e026c2906de363691faf7b/adjuntos/203/imagenes/103/555/0103555404/1200x675/smart/tini-y-rodrigo-paul.png",
         "summary": "En su primera entrevista juntos, la pareja contó cómo retomó la relación, reveló detalles del casamiento que celebrarán y habló de sus planes de convivencia",
         "pubDate": "2026-11-26T20:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Arcor aumentó 6% sus precios y en Rosario advierten que hay poco margen para subas",
-        "link": "https://www.lacapital.com.ar/economia/arcor-aumento-6-sus-precios-y-rosario-advierten-que-hay-poco-margen-subas-n10294382.html",
-        "image": "https://media.lacapital.com.ar/p/6f34fc4b11b7c97dc38b0f0bd1161d39/adjuntos/203/imagenes/102/970/0102970775/1200x675/smart/supermercados-92.jpg",
-        "summary": "Almaceneros frenaron los pedidos tras recibir una lista de precios con subas generalizadas. Los supermercados de la ciudad aún no registraron cambios",
-        "pubDate": "2026-11-26T20:08:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Tras la derrota con Central, el ex-Newell's Darío Franco se fue del Lobo mendocino",
-        "link": "https://www.lacapital.com.ar/ovacion/tras-la-derrota-central-el-ex-newells-dario-franco-se-fue-del-lobo-mendocino-n10294403.html",
-        "image": "https://media.lacapital.com.ar/p/3f6f9f700b38ec80df09867f166f231c/adjuntos/203/imagenes/103/072/0103072494/1200x675/smart/image-7.jpg",
-        "summary": "Gimnasia anunció \"el cierre de su etapa en el club\" del entrenador y su cuerpo técnico. \"Los contratos son por un año pero duran un mes\", dijo hace poco",
-        "pubDate": "2026-11-26T20:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La Libertad Avanza respaldó la prohibición de los cuidacoches en Rosario, pero advirtió que \"así no se termina con el problema\"",
-        "link": "https://www.lacapital.com.ar/la-libertad-avanza-respaldo-la-prohibicion-los-cuidacoches-rosario-pero-advirtio-que-asi-no-se-termina-el-problema-n10294367.html",
-        "image": "https://media.lacapital.com.ar/p/1cb41887469c8822149f7886e917425e/adjuntos/203/imagenes/029/677/0029677465/1200x675/smart/cuidacochesjpg.jpg",
-        "summary": "El bloque libertario consiguió modificaciones al proyecto original del Ejecutivo y celebran que se avance en la prohibición de la actividad",
-        "pubDate": "2026-11-26T19:59:00+00:00",
         "approxTime": false
       }
     ]
