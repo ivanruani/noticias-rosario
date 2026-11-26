@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-11-26T16:30:57.799691+00:00",
+  "generatedAt": "2026-11-26T17:01:16.166442+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Tres accesos de la autopista Rosario-Santa Fe tendrán peaje exclusivo con Telepase: cómo hacer el trámite",
+        "link": "https://www.rosario3.com/informaciongeneral/tres-accesos-de-la-autopista-rosario-santa-fe-tendran-peaje-exclusivo-con-telepase-como-hacer-el-tramite-20261126-0037.html",
+        "image": "https://www.rosario3.com/__export/1795708420797/sites/rosario3/img/2026/11/26/autopista-rosario-santa-fe.jpg_928314580.jpg",
+        "summary": "A partir del 1 de diciembre comenzará a regir el cobro electrónico en los ingresos a San Lorenzo Centro, La Ribera y Sauce Viejo. Quienes no dispongan del dispositivo, contarán con un lapso de 30 días para cancelar la tarifa y registrarse antes de recibir una multa por evasión…",
+        "pubDate": "2026-11-26T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "El Senado debate la Ley de Ludopatía: “Hoy hasta chicos de 12 años están apostando\"",
         "link": "https://www.rosario3.com/informaciongeneral/el-senado-debate-la-ley-de-ludopatia-hoy-hasta-chicos-de-12-anos-estan-apostando-20261126-0027.html",
         "image": "https://www.rosario3.com/__export/1795702217225/sites/rosario3/img/2026/11/26/juegoonline.jpg_928314581.jpg",
         "summary": "Oficialismo y oposición acordaron darle luz verde a la normativa que llega de Diputados y restringe el acceso al juego on line de menores y limita o prohíbe la publicidad de apuestas. En ese marco, Agustín, un joven que se recuperó de la ludopatía recordó su historia: 'Perdí…",
-        "pubDate": "2026-11-26T12:00:00+00:00",
+        "pubDate": "2026-11-26T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/policiales/redujeron-las-prisiones-preventivas-de-los-duenos-de-motorsport-imputados-por-estafas-20261126-0031.html",
         "image": "https://www.rosario3.com/__export/1791568413180/sites/rosario3/img/2026/10/09/motorsport_1.jpg_1010838702.jpg",
         "summary": "La resolución fue tomada este miércoles por la camarista Carola Hernández, que confirmó la acusación, pero bajó el tiempo de encierro de Juan Gabriel Alegre y Eduardo Atilio Escarcelo",
-        "pubDate": "2026-11-26T11:59:00+00:00",
+        "pubDate": "2026-11-26T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,7 +35,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/denuncian-que-estudiantes-de-secundario-incendiaron-una-palmera-en-bulevar-rondeau-durante-los-festejos-por-el-cierre-lectivo-20261126-0026.html",
         "image": "https://www.rosario3.com/__export/1795701105112/sites/rosario3/img/2026/11/26/palmera.jpg_928314580.jpg",
         "summary": "Una dotación de bomberos intervino en la traza a la altura del 1400 luego de la quema de un ejemplar, provocada por pirotecnia durante las celebraciones escolares",
-        "pubDate": "2026-11-26T11:58:00+00:00",
+        "pubDate": "2026-11-26T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -35,15 +44,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/tobilleras-por-violencia-de-genero-ante-las-criticas-del-ejecutivo-erbetta-adujo-inviabilidad-tecnica-y-lanzo-una-advertencia-a-la-provincia-20261126-0022.html",
         "image": "https://www.rosario3.com/__export/1795699036605/sites/rosario3/img/2024/01/17/erbetta_1.jpg_672794304.jpg",
         "summary": "En contacto con Radio 2, el recientemente designado presidente de la Corte Suprema santafesina respondió a las críticas del gobierno provincial por no ordenar el uso de dispositivos duales como medida de protección para víctimas de agresión machista. Aseguró que la Justicia…",
-        "pubDate": "2026-11-26T11:57:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Corte de tránsito por tres semanas en el centro por obras de la EPE",
-        "link": "https://www.rosario3.com/informaciongeneral/corte-de-transito-por-tres-semanas-en-el-centro-por-obras-de-la-epe-20261126-0033.html",
-        "image": "https://www.rosario3.com/__export/1795707317936/sites/rosario3/img/2026/11/26/corte_epe.png_2066214588.png",
-        "summary": "Los trabajos son en calle Mendoza y comenzaron este jueves. La interrupción total rige en horario laboral y afecta a tres líneas de colectivos",
         "pubDate": "2026-11-26T11:56:00+00:00",
         "approxTime": true
       },
@@ -94,11 +94,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Corte de tránsito por tres semanas en el centro por obras de la EPE",
+        "link": "https://www.rosario3.com/informaciongeneral/corte-de-transito-por-tres-semanas-en-el-centro-por-obras-de-la-epe-20261126-0033.html",
+        "image": "https://www.rosario3.com/__export/1795707317936/sites/rosario3/img/2026/11/26/corte_epe.png_2066214588.png",
+        "summary": "Los trabajos son en calle Mendoza y comenzaron este jueves. La interrupción total rige en horario laboral y afecta a tres líneas de colectivos",
+        "pubDate": "2026-11-26T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Otra muerte temprana sacude al mundo del fisicoculturismo: quién era Itemberg Nunes do Nascimento",
         "link": "https://www.rosario3.com/deportes/otra-muerte-temprana-sacude-al-mundo-del-fisicoculturismo-quien-era-itemberg-nunes-do-nascimento-20261126-0034.html",
         "image": "https://www.rosario3.com/__export/1795707869440/sites/rosario3/img/2026/11/26/fisicoculturista.png_786111822.png",
         "summary": "El brasileño tenía 31 años y se destacaba en la categoría Men’s Physique. Había conseguido su tarjeta profesional de la IFBB Pro League en 2021. La causa de su fallecimiento no fue confirmada",
-        "pubDate": "2026-11-26T11:50:00+00:00",
+        "pubDate": "2026-11-26T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -107,7 +116,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/javier-milei-viaja-a-paraguay-para-reunirse-con-el-nuevo-presidente-20261125-0075.html",
         "image": "https://www.rosario3.com/__export/1795708427893/sites/rosario3/img/2026/11/26/milei_en_paraguay.png_786111822.png",
         "summary": "Se trata de la primera visita que reciba el vecino mandatario luego de que asumiera el Ejectuvo el pasado 6 de noviembre, tras la destitución de Santiago Peña. Antes de la reunión, participó de la recepción oficial, que incluyó honores militares y la entonación de los himnos…",
-        "pubDate": "2026-11-25T11:49:00+00:00",
+        "pubDate": "2026-11-25T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,15 +125,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/que-olor-a...-un-inquietante-y-enigmatico-aroma-floto-en-el-aire-de-rosario-20261126-0017.html",
         "image": "https://www.rosario3.com/__export/1795694820339/sites/rosario3/img/2026/11/26/olor1.jpg_928314581.jpg",
         "summary": "Este jueves a la madrugada se sintió un hedor en algunos rincones de la ciudad. Oyentes y usuarios de Radio 2 expresaron que la fragancia era metálica, como si fuese azufre. Otros referían olor a podrido, a río o al tufo que emana de las cloacas. Curiosamente, la medición del…",
-        "pubDate": "2026-11-26T11:48:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Finalmente, la AFA confirmó el horario de Central ante Barracas y los demás partidos por los cuartos de final",
-        "link": "https://www.rosario3.com/deportes/finalmente-la-afa-confirmo-el-horario-de-central-ante-barracas-y-los-demas-partidos-por-los-cuartos-de-final-20261126-0014.html",
-        "image": "https://www.rosario3.com/__export/1794087251751/sites/rosario3/img/2026/11/07/tercera_bandeja_central.jpg_506286608.jpg",
-        "summary": "Tras el ida y vuelta con la publicación inicial, la Liga Profesional oficializó el cronograma completo de la próxima instancia. El Canalla recibirá al Guapo este domingo desde las 17 en el Gigante de Arroyito, con arbitraje de Pablo Dóvalo",
         "pubDate": "2026-11-26T11:47:00+00:00",
         "approxTime": true
       },
@@ -141,8 +141,53 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Insultos, una pelea y un crimen a puñaladas en barrio Santa Lucía: imputaron a un acusado",
+        "link": "https://www.lacapital.com.ar/policiales/insultos-una-pelea-y-un-crimen-punaladas-barrio-santa-lucia-imputaron-un-acusado-n10294326",
+        "image": "https://media.lacapital.com.ar/p/889ba6bb1bafd0d89b355e4139588435/adjuntos/203/imagenes/100/192/0100192955/2022-12-01-policlinico-san-martinjpg.jpg",
+        "summary": "Carlos Quiroga fue asesinado el 10 de noviembre cuando llegó a la casa de su ex, la insultó y discutió con dos hombres que la acompañaban. Uno de ellos, Nicolás S., quedó preso por la agresión letal con un arma blanca",
+        "pubDate": "2026-11-26T16:55:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Anses advierte por estafas a jubilados: cómo reconocer si se trata de un engaño",
+        "link": "https://www.lacapital.com.ar/informacion-general/anses-advierte-estafas-jubilados-como-reconocer-si-se-trata-un-engano-n10294330",
+        "image": "https://media.lacapital.com.ar/p/2fb7f39c201a855c75ad4ebe49c1519e/adjuntos/203/imagenes/102/772/0102772984/1200x675/smart/jubilado-estafas.png",
+        "summary": "La entidad previsional difundió un protocolo de seguridad ante el aumento de fraudes virtuales dirigidos a jubilados.",
+        "pubDate": "2026-11-26T16:52:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Fashion Sunset, la fiesta de fin de año en Rosario con Pampita, Leo Saleh, Charlotte Caniggia, Karina Jelinek y Barby Franco y un after party en complejo Forest",
+        "link": "https://www.lacapital.com.ar/novedades/fashion-sunset-la-fiesta-fin-ano-rosario-pampita-leo-saleh-charlotte-caniggia-karina-jelinek-y-barby-franco-y-un-after-party-complejo-forest-n10294314",
+        "image": "https://media.lacapital.com.ar/p/b2da3fc820e0b4b943f6110a25bc5d09/adjuntos/203/imagenes/103/555/0103555018/1200x675/smart/cf56529b-0d23-46d6-af5e-95376f89f779.jpg",
+        "summary": "El Rooftop del Complejo Forest será el escenario de la fiesta Fashion Sunset, que contará con la conducción de Pampita y Leo Saleh.",
+        "pubDate": "2026-11-26T16:48:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Julieta Prandi y la familia Contardi, en pleito judicial: \"Quieren sacarme más de lo que me sacaron\"",
+        "link": "https://www.lacapital.com.ar/zoom/julieta-prandi-y-la-familia-contardi-pleito-judicial-quieren-sacarme-mas-lo-que-me-sacaron-n10294331",
+        "image": "https://media.lacapital.com.ar/p/10a1a406fee163e85484687450501765/adjuntos/203/imagenes/103/555/0103555360/image-2026-11-26t132729515.png",
+        "summary": "La actriz se refirió a la denuncia de su ex cuñada por una presunta donación de 300.000 dólares y aseguró que el caso está en manos de la Justicia",
+        "pubDate": "2026-11-26T16:31:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Lionel Messi estará en la despedida de Carlos Tevez en la Bombonera",
+        "link": "https://www.lacapital.com.ar/ovacion/lionel-messi-estara-la-despedida-carlos-tevez-la-bombonera-n10294324",
+        "image": "https://media.lacapital.com.ar/p/4b5d40421d244c5903809e639611a393/adjuntos/203/imagenes/103/555/0103555294/1200x675/smart/lionel-messi-y-carlos-tevez.png",
+        "summary": "El rosarino participará de \"El último baile\", el homenaje al Apache que se realizará el 20 de diciembre en la cancha de Boca",
+        "pubDate": "2026-11-26T16:27:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Marcelo Lewandowski mantiene la puerta abierta para ser candidato a intendente de Rosario",
-        "link": "https://www.lacapital.com.ar/politica/marcelo-lewandowski-mantiene-la-puerta-abierta-ser-candidato-intendente-rosario-n10294311.html",
+        "link": "https://www.lacapital.com.ar/politica/marcelo-lewandowski-mantiene-la-puerta-abierta-ser-candidato-intendente-rosario-n10294311",
         "image": "https://media.lacapital.com.ar/p/01903ae692c82f15775164cd822791bd/adjuntos/203/imagenes/103/555/0103555069/marcelo-lewandowski.jpg",
         "summary": "\"Tengo la ciudad en la cabeza hace mucho tiempo\", apuntó el senador nacional por Santa Fe en cuanto a una de las opciones afrontar las próximas elecciones",
         "pubDate": "2026-11-26T16:10:49+00:00",
@@ -150,17 +195,17 @@
       },
       {
         "source": "La Capital",
-        "title": "Alpine fue sancionado por la FIA en la previa del Gran Premio de Qatar",
-        "link": "https://www.lacapital.com.ar/ovacion/alpine-fue-sancionado-la-fia-la-previa-del-gran-premio-qatar-n10294323.html",
+        "title": "Alpine fue sancionado por la FIA en la previa del Gran Premio de Qatar de la Fórmula 1",
+        "link": "https://www.lacapital.com.ar/ovacion/alpine-fue-sancionado-la-fia-la-previa-del-gran-premio-qatar-la-formula-1-n10294323",
         "image": "https://media.lacapital.com.ar/p/5191507de23676d0190e89d143156831/adjuntos/203/imagenes/103/555/0103555056/1200x675/smart/alpine.png",
         "summary": "La escudería francesa cometió errores en sus informes financieros de 2025, aunque no superó el límite presupuestario ni obtuvo ventajas deportivas",
-        "pubDate": "2026-11-26T15:45:19+00:00",
+        "pubDate": "2026-11-26T15:45:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
         "title": "Festejo peligroso: un grupo de chicos prendió fuego una palmera en bulevar Rondeau",
-        "link": "https://www.lacapital.com.ar/la-ciudad/festejo-peligroso-un-grupo-chicos-prendio-fuego-una-palmera-bulevar-rondeau-n10294321.html",
+        "link": "https://www.lacapital.com.ar/la-ciudad/festejo-peligroso-un-grupo-chicos-prendio-fuego-una-palmera-bulevar-rondeau-n10294321",
         "image": "https://media.lacapital.com.ar/p/a460a97c395e014f4b80c459cc0dc383/adjuntos/203/imagenes/103/555/0103555119/palmera00.jpg",
         "summary": "Todo ocurrió cuando estudiantes del Complejo Educativo Alberdi celebraban con bengalas y fuegos artificiales el \"Último Último día\" de clases",
         "pubDate": "2026-11-26T15:34:00+00:00",
@@ -169,7 +214,7 @@
       {
         "source": "La Capital",
         "title": "Preocupación en barrio Pichincha por el robo a una vinería durante la madrugada",
-        "link": "https://www.lacapital.com.ar/policiales/preocupacion-barrio-pichincha-el-robo-una-vineria-la-madrugada-n10294275.html",
+        "link": "https://www.lacapital.com.ar/policiales/preocupacion-barrio-pichincha-el-robo-una-vineria-la-madrugada-n10294275",
         "image": "https://media.lacapital.com.ar/p/5cea19d1fcc031ee0db133086229c43f/adjuntos/203/imagenes/103/554/0103554960/vineria-robo-salta-2900.jpg",
         "summary": "Los ladrones rompieron un vidrio del local para ingresar al costado de la puerta principal. Se llevaron la caja y algo de dinero en efectivo",
         "pubDate": "2026-11-26T14:52:45+00:00",
@@ -177,8 +222,8 @@
       },
       {
         "source": "La Capital",
-        "title": "Varios allanamientos en distintas zonas de Rosario por una causa de estafas",
-        "link": "https://www.lacapital.com.ar/policiales/varios-allanamientos-distintas-zonas-rosario-una-causa-estafas-n10294271.html",
+        "title": "Tres allanamientos en distintas zonas de Rosario por una causa de estafas",
+        "link": "https://www.lacapital.com.ar/policiales/tres-allanamientos-distintas-zonas-rosario-una-causa-estafas-n10294271",
         "image": "https://media.lacapital.com.ar/p/d0f82868eeca2b0fc30be102655d1c32/adjuntos/203/imagenes/103/356/0103356388/1200x675/smart/pdi.jpg",
         "summary": "Agentes de la sección Delitos Económicos de la PDI realizaban procedimientos en inmuebles del Paseo del Siglo, Pichincha y barrio Belgrano",
         "pubDate": "2026-11-26T13:58:00+00:00",
@@ -187,7 +232,7 @@
       {
         "source": "La Capital",
         "title": "Susto en el microcentro por una fuga de gas en la peatonal Córdoba y Sarmiento",
-        "link": "https://www.lacapital.com.ar/la-ciudad/susto-el-microcentro-una-fuga-gas-la-peatonal-cordoba-y-sarmiento-n10294274.html",
+        "link": "https://www.lacapital.com.ar/la-ciudad/susto-el-microcentro-una-fuga-gas-la-peatonal-cordoba-y-sarmiento-n10294274",
         "image": "https://media.lacapital.com.ar/p/8ef1d89a649f2cf6cadc042e73b6f948/adjuntos/203/imagenes/103/554/0103554227/1200x675/smart/fuga-gas.png",
         "summary": "La rotura de un caño antiguo durante unas obras provocó el escape. Litoral Gas controla la situación y recomiendan evitar la zona",
         "pubDate": "2026-11-26T12:04:00+00:00",
@@ -196,7 +241,7 @@
       {
         "source": "La Capital",
         "title": "Explotación sexual infantil: un detenido en Granadero Baigorria por un operativo internacional",
-        "link": "https://www.lacapital.com.ar/policiales/explotacion-sexual-infantil-un-detenido-granadero-baigorria-un-operativo-internacional-n10294264.html",
+        "link": "https://www.lacapital.com.ar/policiales/explotacion-sexual-infantil-un-detenido-granadero-baigorria-un-operativo-internacional-n10294264",
         "image": "https://media.lacapital.com.ar/p/f9558213f544b1d1a547c6d44277d987/adjuntos/203/imagenes/103/554/0103554082/detenido-granadero-baigorria.jpg",
         "summary": "La Policía de Investigaciones arrestó a un hombre de 63 años y también demoró a un rosarino en el marco del procedimiento Alianza por la Infancia VII",
         "pubDate": "2026-11-26T11:55:09+00:00",
@@ -204,17 +249,17 @@
       },
       {
         "source": "La Capital",
-        "title": "Central ya conoce día y hora para enfrentar a Barracas por el Clausura",
-        "link": "https://www.lacapital.com.ar/ovacion/central-ya-conoce-dia-y-hora-enfrentar-barracas-el-clausura-n10294267.html",
+        "title": "Central ya sabe cuándo y a qué hora jugará contra Barracas por el Clausura",
+        "link": "https://www.lacapital.com.ar/ovacion/central-ya-sabe-cuando-y-que-hora-jugara-contra-barracas-el-clausura-n10294267",
         "image": "https://media.lacapital.com.ar/p/dc70a55003aa1c1a5fd450c9fc2a8c43/adjuntos/203/imagenes/103/546/0103546872/tapass.jpg",
         "summary": "Tras la clasificación de Boca, la Liga Profesional publicó el cronograma de los partidos de la próxima fase del campeonato",
-        "pubDate": "2026-11-26T11:37:37+00:00",
+        "pubDate": "2026-11-26T11:37:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
         "title": "Quini 6: de qué localidad de Santa Fe es el apostador que ganó $1.100 millones en La Segunda",
-        "link": "https://www.lacapital.com.ar/informacion-general/quini-6-que-localidad-santa-fe-es-el-apostador-que-gano-1100-millones-la-segunda-n10294265.html",
+        "link": "https://www.lacapital.com.ar/informacion-general/quini-6-que-localidad-santa-fe-es-el-apostador-que-gano-1100-millones-la-segunda-n10294265",
         "image": "https://media.lacapital.com.ar/p/b56d2dae1ba753511d4f435ff312d435/adjuntos/203/imagenes/103/533/0103533088/2026-11-15-quini-6.jpg",
         "summary": "El Tradicional y el Revancha quedaron vacante. Por otro lado, hubo 10 ganadores en el Siempre Sale que se llevarán más de 35 millones de pesos cada uno",
         "pubDate": "2026-11-26T11:07:00+00:00",
@@ -222,56 +267,11 @@
       },
       {
         "source": "La Capital",
-        "title": "Boca sigue de fiesta: eliminó a Independiente Rivadavia y se acerca a otro título",
-        "link": "https://www.lacapital.com.ar/ovacion/boca-sigue-fiesta-elimino-independiente-rivadavia-y-se-acerca-otro-titulo-n10294261.html",
+        "title": "Boca sigue de fiesta: eliminó a Independiente Rivadavia y va por otro título",
+        "link": "https://www.lacapital.com.ar/ovacion/boca-sigue-fiesta-elimino-independiente-rivadavia-y-va-otro-titulo-n10294261",
         "image": "https://media.lacapital.com.ar/p/152bdd66455ab29e60f8c5242b9e3c9a/adjuntos/203/imagenes/103/553/0103553993/boca-independiente-rivadavia.jpg",
         "summary": "El Xeneize venció a la Lepra mendocina con goles de Leandro Paredes y Miguel Merentiel. En cuartos de final recibirá a Gimnasia y Esgrima de La Plata",
         "pubDate": "2026-11-26T10:52:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Estrenos de cine en Rosario: un documental del streaming del Conicet y el regreso de los Focker",
-        "link": "https://www.lacapital.com.ar/zoom/estrenos-cine-rosario-un-documental-del-streaming-del-conicet-y-el-regreso-los-focker-n10294195.html",
-        "image": "https://media.lacapital.com.ar/p/8c901adf1b61de74fbadcdddf9097b7c/adjuntos/203/imagenes/103/553/0103553228/1200x675/smart/image-2026-11-25t171122842.png",
-        "summary": "Títulos para todos los gustos desembarcan en las salas de cine de la ciudad este jueves 26 de noviembre. Promociones y descuentos a la hora de sacar entradas",
-        "pubDate": "2026-11-26T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "En la Oficina del Consumidor, cuatro de cada diez reclamos se relacionan con servicios financieros",
-        "link": "https://www.lacapital.com.ar/la-ciudad/en-la-oficina-del-consumidor-cuatro-cada-diez-reclamos-se-relacionan-servicios-financieros-n10294155.html",
-        "image": "https://media.lacapital.com.ar/p/f59c65fe52d592e00bc939b6ae63510b/adjuntos/203/imagenes/101/911/0101911270/1200x675/smart/prestamos-mutualesjpg.jpg",
-        "summary": "Es el principal tema de consulta que se recibe en el organismo de Rosario. Advierten que la cifra representa el alto nivel de endeudamiento de la población",
-        "pubDate": "2026-11-26T09:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La UNR será sede del III Congreso Internacional de Salud Pública",
-        "link": "https://www.lacapital.com.ar/la-ciudad/la-unr-sera-sede-del-iii-congreso-internacional-salud-publica-n10294179.html",
-        "image": "https://media.lacapital.com.ar/p/ad9f9d96e0ad2b75254b8de94764d7b0/adjuntos/203/imagenes/103/553/0103553406/1200x675/smart/salud.jpg",
-        "summary": "El encuentro será el lunes 30 de noviembre y martes 1º de diciembre en el aulario de La Siberia. Habrá más de 200 disertantes y 52 mesas de trabajo",
-        "pubDate": "2026-11-26T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Los paradores en la isla dan batalla a la crecida, las lluvias y la recesión económica",
-        "link": "https://www.lacapital.com.ar/la-ciudad/los-paradores-la-isla-dan-batalla-la-crecida-las-lluvias-y-la-recesion-economica-n10294197.html",
-        "image": "https://media.lacapital.com.ar/p/c48c2d9c20869b29b1ee41ee029dbf6c/adjuntos/203/imagenes/103/553/0103553496/1200x675/smart/parador.jpg",
-        "summary": "En La Invernada siguen abiertos espacios para el descanso en pleno río con alturas elevadas. El balneario La Florida reordenará su playa",
-        "pubDate": "2026-11-26T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Crónicas de campaña desde el lote: trigos caídos, un problema que complica la cosecha",
-        "link": "https://www.lacapital.com.ar/agro/cronicas-campana-el-lote-trigos-caidos-un-problema-que-complica-la-cosecha-n10294249.html",
-        "image": "https://media.lacapital.com.ar/p/e11a382f54641a61367540ca440d849e/adjuntos/203/imagenes/103/553/0103553726/1200x675/smart/trigos-caidos.jpeg",
-        "summary": "Productores de Pergamino e Ibarlucea advierten sobre la gran cantidad de trigos caídos, incluso dentro de un mismo lote, que atribuyen a una combo de variables. Las legumbres, que suelen cosecharse desde el 10 de noviembre, todavía esperan secarse",
-        "pubDate": "2026-11-26T09:10:00+00:00",
         "approxTime": false
       }
     ]
