@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T02:31:05.481144+00:00",
+  "generatedAt": "2026-11-26T03:01:12.142775+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El tiempo en Rosario: jueves con algunas nubes en la previa del calor fuerte",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-jueves-algunas-nubes-la-previa-del-calor-fuerte-n10294255.html",
+        "image": "https://media.lacapital.com.ar/p/d9b716d2d615253d476c4b2aac5d6f45/adjuntos/203/imagenes/103/553/0103553923/2026-11-25-clima-by_vbenedetto-81069267.jpg",
+        "summary": "La máxima no superaría los 29º, el viernes llegaría a 31º y el fin de semana treparía hasta los 35º",
+        "pubDate": "2026-11-26T02:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Murió Andy Taylor, guitarrista de Duran Duran y The Power Station",
         "link": "https://www.lacapital.com.ar/zoom/murio-andy-taylor-guitarrista-duran-duran-y-the-power-station-n10294252.html",
         "image": "https://media.lacapital.com.ar/p/bc206d8006106994cf4d6266f0b28c9d/adjuntos/203/imagenes/103/553/0103553855/2026-11-25-andy-taylor.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/c1690a260992e2ece74e292a93725e37/adjuntos/203/imagenes/103/553/0103553461/dova.jpg",
         "summary": "Pablo Dóvalo será el encargado de controlar el choque entre el Canalla y Barracas Central. En este torneo lo dirigió dos veces y ganó ambos",
         "pubDate": "2026-11-25T22:05:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Aeropuerto de Rosario: Panamá y Río de Janeiro se consolidan como las rutas regulares con mayor ocupación",
-        "link": "https://www.lacapital.com.ar/la-ciudad/aeropuerto-rosario-panama-y-rio-janeiro-se-consolidan-como-las-rutas-regulares-mayor-ocupacion-n10294211.html",
-        "image": "https://media.lacapital.com.ar/p/d4c1b28de26e6dc66a2934d01bec6d93/adjuntos/203/imagenes/100/039/0100039451/1200x675/smart/copa-airlinesjpg.jpg",
-        "summary": "Ambas conexiones alcanzaron un promedio del 86% de asientos ocupados en sus vuelos entre enero y octubre. La terminal aérea superó los 562 mil pasajeros en ese período y se encamina a cerrar el año con cifras récord",
-        "pubDate": "2026-11-25T21:42:00+00:00",
         "approxTime": false
       }
     ]
