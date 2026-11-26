@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T18:30:57.213800+00:00",
+  "generatedAt": "2026-11-26T19:01:13.628164+00:00",
   "sites": {
     "rosario3": [
       {
@@ -85,10 +85,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Fuga de gas en el centro de Rosario: cortaron la circulación en la peatonal Córdoba entre Sarmiento y San Martín",
-        "link": "https://www.rosario3.com/informaciongeneral/fuga-de-gas-en-el-centro-de-rosario-cortaron-la-circulacion-en-la-peatonal-cordoba-entre-sarmiento-y-san-martin-20261126-0018.html",
-        "image": "https://www.rosario3.com/__export/1795694686696/sites/rosario3/img/2026/11/26/f.jpg_982625323.jpg",
-        "summary": "El incidente se registró en la zona de la peatonal, en las inmediaciones de las calles Sarmiento y San Martín, alrededor de las 9 de la mañana. Personal de Litoral Gas y bomberos trabajan en el lugar de manera preventiva tras la rotura de un caño en una obra en construcción, en…",
+        "title": "El Conicet y la UNL desarrollan una herramienta con inteligencia artificial para la rehabilitación tras un ACV",
+        "link": "https://www.rosario3.com/informaciongeneral/el-conicet-y-la-unl-desarrollan-una-herramienta-con-inteligencia-artificial-para-la-rehabilitacion-tras-un-acv-20261126-0046.html",
+        "image": "https://www.rosario3.com/__export/1795715383833/sites/rosario3/img/2026/11/26/1a_1.jpg_928314581.jpg",
+        "summary": "La tecnología fue desarrollada por un equipo del Instituto de Matemática Aplicada del Litoral y busca estimular la recuperación de funciones motoras mediante una interfaz cerebro-computadora. Ahora avanzan en un estudio junto al Instituto Fleni para evaluar su uso en un entorno…",
         "pubDate": "2026-11-26T11:51:00+00:00",
         "approxTime": true
       },
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Se fue de Newell's a principios de temporada porque no tenía lugar y es uno de los mejores del año",
+        "link": "https://www.lacapital.com.ar/ovacion/se-fue-newells-principios-temporada-porque-no-tenia-lugar-y-es-uno-los-mejores-del-ano-n10294178.html",
+        "image": "https://media.lacapital.com.ar/p/2f69b3ce2aabba9f54f08e259cc4c333/adjuntos/203/imagenes/103/553/0103553049/1200x675/smart/image-6.jpg",
+        "summary": "Integra la terna de delanteros más destacados de su liga. No tenía lugar en el Parque y su actual equipo quiere comprarlo",
+        "pubDate": "2026-11-26T18:48:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El Concejo prohibirá este jueves los cuidacoches en Rosario",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-concejo-prohibira-este-jueves-los-cuidacoches-rosario-n10294371.html",
+        "image": "https://media.lacapital.com.ar/p/858214461aa2fdcc241f7059fc733ec8/adjuntos/203/imagenes/100/026/0100026183/1200x675/smart/trapitopng.png",
+        "summary": "La presidenta del Concejo, María Eugenia Schmuck, y el edil Fabrizio Fiatti defendieron el acuerdo alcanzado para aprobar la ordenanza",
+        "pubDate": "2026-11-26T18:46:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Kicillof desembarcará el miércoles en Santa Fe y compartirá un encuentro con Pullaro",
         "link": "https://www.lacapital.com.ar/politica/kicillof-desembarcara-el-miercoles-santa-fe-y-compartira-un-encuentro-pullaro-n10294358.html",
         "image": "https://media.lacapital.com.ar/p/fa788a17cbe84c57c788d39413882ac6/adjuntos/203/imagenes/103/555/0103555477/1200x675/smart/image.png",
@@ -152,8 +170,8 @@
         "source": "La Capital",
         "title": "Express Telecomunicaciones sortea $12 millones en órdenes de compra y 4 motos eléctricas por las fiestas",
         "link": "https://www.lacapital.com.ar/novedades/express-telecomunicaciones-sortea-12-millones-ordenes-compra-y-4-motos-electricas-las-fiestas-n10294352.html",
-        "image": "https://media.lacapital.com.ar/p/d179edbf1260b378abe7f168cbeada8a/adjuntos/203/imagenes/103/555/0103555474/1200x675/smart/story_sorteo-1-1.jpg",
-        "summary": "Con la campaña «Festejemos juntos: en tu casa todo el año», Express Telecomunicaciones renueva su tradicional sorteo de fin de año.",
+        "image": "https://media.lacapital.com.ar/adjuntos/203/imagenes/030/134/0030134894.svg",
+        "summary": "La Capital",
         "pubDate": "2026-11-26T18:05:00+00:00",
         "approxTime": false
       },
@@ -171,7 +189,7 @@
         "title": "Diputados convirtió en ley la reforma de la carta orgánica del Banco Central",
         "link": "https://www.lacapital.com.ar/politica/diputados-convirtio-ley-la-reforma-la-carta-organica-del-banco-central-n10294346.html",
         "image": "https://media.lacapital.com.ar/p/639b5dc715d506d04ca0e7e9a9e74540/adjuntos/203/imagenes/103/555/0103555403/1200x675/smart/image.png",
-        "summary": "Con 141 votos afirmativos y 99 abstenciones, la Cámara baja aprobó la iniciativa con los ajustes que había realizado el Senado. Se viene el debate por el presupuesto 2027",
+        "summary": "Con 141 votos afirmativos y 99 abstenciones, la Cámara baja aprobó la iniciativa con los ajustes que había realizado el Senado. Milei lo celebró desde Paraguay. Se viene el debate por el presupuesto 2027",
         "pubDate": "2026-11-26T17:50:00+00:00",
         "approxTime": false
       },
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/b2da3fc820e0b4b943f6110a25bc5d09/adjuntos/203/imagenes/103/555/0103555018/1200x675/smart/cf56529b-0d23-46d6-af5e-95376f89f779.jpg",
         "summary": "El Rooftop del Complejo Forest será el escenario de la fiesta Fashion Sunset, que contará con la conducción de Pampita y Leo Saleh.",
         "pubDate": "2026-11-26T16:48:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Julieta Prandi y la familia Contardi, en pleito judicial: \"Quieren sacarme más de lo que me sacaron\"",
-        "link": "https://www.lacapital.com.ar/zoom/julieta-prandi-y-la-familia-contardi-pleito-judicial-quieren-sacarme-mas-lo-que-me-sacaron-n10294331.html",
-        "image": "https://media.lacapital.com.ar/p/10a1a406fee163e85484687450501765/adjuntos/203/imagenes/103/555/0103555360/image-2026-11-26t132729515.png",
-        "summary": "La actriz se refirió a la denuncia de su ex cuñada por una presunta donación de 300.000 dólares y aseguró que el caso está en manos de la Justicia",
-        "pubDate": "2026-11-26T16:31:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Lionel Messi estará en la despedida de Carlos Tevez en la Bombonera",
-        "link": "https://www.lacapital.com.ar/ovacion/lionel-messi-estara-la-despedida-carlos-tevez-la-bombonera-n10294324.html",
-        "image": "https://media.lacapital.com.ar/p/4b5d40421d244c5903809e639611a393/adjuntos/203/imagenes/103/555/0103555294/1200x675/smart/lionel-messi-y-carlos-tevez.png",
-        "summary": "El rosarino participará de \"El último baile\", el homenaje al Apache que se realizará el 20 de diciembre en la cancha de Boca",
-        "pubDate": "2026-11-26T16:27:00+00:00",
         "approxTime": false
       }
     ]
