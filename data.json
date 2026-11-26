@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T09:01:07.955806+00:00",
+  "generatedAt": "2026-11-26T09:31:02.848622+00:00",
   "sites": {
     "rosario3": [
       {
@@ -94,11 +94,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "La Liga Profesional publicó el horario de Central para los cuartos de final y lo borró minutos después: ¿qué pasó?",
+        "link": "https://www.rosario3.com/deportes/la-liga-profesional-publico-el-horario-de-central-para-los-cuartos-de-final-y-lo-borro-minutos-despues-que-paso-20261126-0002.html",
+        "image": "https://www.rosario3.com/__export/1792443158187/sites/rosario3/img/2026/10/11/fideeeeeeee.jpg_1381182483.jpg",
+        "summary": "El Canalla ya tenía confirmado día y hora para disputar los cuartos de final, pero la organización dio marcha atrás con todo el cronograma. El cambio respondería a un pedido especial de Boca —que enfrenta a Gimnasia— para jugar más temprano por su compromiso de Copa Argentina el…",
+        "pubDate": "2026-11-26T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "WhatsApp habilitó una de las funciones más esperadas por los usuarios: ya se pueden programar mensajes",
         "link": "https://www.rosario3.com/deportes/whatsapp-habilito-una-de-las-funciones-mas-esperadas-por-los-usuarios-ya-se-pueden-programar-mensajes-20261125-0056.html",
         "image": "https://www.rosario3.com/__export/1795630825251/sites/rosario3/img/2026/11/25/programar-mensajes.jpg_928314580.jpg",
         "summary": "La característica había estado habilitada durante unas semanas para un grupo reducido de personas. A partir de este miércoles, todo el mundo lo puede usar",
-        "pubDate": "2026-11-25T11:50:00+00:00",
+        "pubDate": "2026-11-25T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -107,7 +116,7 @@
         "link": "https://www.rosario3.com/policiales/mejora-el-policia-apunalado-en-la-comisaria-de-villa-eloisa-desperto-y-fue-extubado-20261125-0072.html",
         "image": "https://www.rosario3.com/__export/1795642418039/sites/rosario3/img/2026/11/25/comisaria_villa_eloisa.jpg_672794304.jpg",
         "summary": "Luis Barrera, de 44 años, continúa internado en terapia intensiva en Rosario, pero evoluciona favorablemente después de haber sido operado por una grave herida en el cuello. Fue atacado cuando intentaba proteger a una mujer que había ido a denunciar a su pareja por violencia de…",
-        "pubDate": "2026-11-25T11:49:00+00:00",
+        "pubDate": "2026-11-25T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +125,7 @@
         "link": "https://www.rosario3.com/policiales/desvalijaron-el-deposito-de-una-pareja-de-vendedores-ambulantes-en-rosario-y-piden-ayuda-20261125-0063.html",
         "image": "https://www.rosario3.com/__export/1795636125924/sites/rosario3/img/2026/11/25/vendedores.jpg_569307116.jpg",
         "summary": "Ocurrió en San Nicolás al 2900 mientras habían ido a un centro de salud. Los ladrones se llevaron cuatro años de mercadería, una garrafa y su bicicleta de trabajo. Cómo colaborar",
-        "pubDate": "2026-11-25T11:48:00+00:00",
+        "pubDate": "2026-11-25T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,20 +134,83 @@
         "link": "https://www.rosario3.com/politica/santilli-debuta-en-el-senado-con-su-primer-informe-y-mas-de-1.200-preguntas-20261122-0035.html",
         "image": "https://www.rosario3.com/__export/1795637263572/sites/rosario3/img/2026/11/25/colorete.jpg_928314580.jpg",
         "summary": "El jefe de Gabinete presenta su primer informe ante la Cámara alta y comenzó con un repaso de la situación que recibió el Gobierno",
-        "pubDate": "2026-11-22T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Impactante choque de tres camiones en la ruta Rosario-Victoria: uno de los vehículos casi termina en el agua",
-        "link": "https://www.rosario3.com/informaciongeneral/impactante-choque-de-tres-camiones-en-la-ruta-rosario-victoria-uno-de-los-vehiculos-casi-termina-en-el-agua-20261125-0048.html",
-        "image": "https://www.rosario3.com/__export/1795625833542/sites/rosario3/img/2026/11/25/choque_camiones_-1-.png_786111822.png",
-        "summary": "El siniestro vial ocurrió en el kilómetro 21, en sentido hacia Victoria. Uno de los camiones se salió de la calzada y quedó al borde del río Paraná, cuya crecida mantiene el agua a apenas cinco centímetros del nivel de alerta. Los conductores sufrieron heridas leves",
-        "pubDate": "2026-11-25T11:46:00+00:00",
+        "pubDate": "2026-11-22T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Los paradores en la isla dan batalla a la crecida, las lluvias y la recesión económica",
+        "link": "https://www.lacapital.com.ar/la-ciudad/los-paradores-la-isla-dan-batalla-la-crecida-las-lluvias-y-la-recesion-economica-n10294197.html",
+        "image": "https://media.lacapital.com.ar/p/c48c2d9c20869b29b1ee41ee029dbf6c/adjuntos/203/imagenes/103/553/0103553496/1200x675/smart/parador.jpg",
+        "summary": "En La Invernada siguen abiertos espacios para el descanso en pleno río con alturas elevadas. El balneario La Florida reordenará su playa",
+        "pubDate": "2026-11-26T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Crónicas de campaña desde el lote: trigos caídos, un problema que complica la cosecha",
+        "link": "https://www.lacapital.com.ar/agro/cronicas-campana-el-lote-trigos-caidos-un-problema-que-complica-la-cosecha-n10294249.html",
+        "image": "https://media.lacapital.com.ar/p/e11a382f54641a61367540ca440d849e/adjuntos/203/imagenes/103/553/0103553726/1200x675/smart/trigos-caidos.jpeg",
+        "summary": "Productores de Pergamino e Ibarlucea advierten sobre la gran cantidad de trigos caídos, incluso dentro de un mismo lote. Las legumbres, que suelen cosecharse desde el 10 de noviembre, todavía esperan secarse",
+        "pubDate": "2026-11-26T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La UNR será sede del III Congreso Internacional de Salud Pública",
+        "link": "https://www.lacapital.com.ar/la-ciudad/la-unr-sera-sede-del-iii-congreso-internacional-salud-publica-n10294179.html",
+        "image": "https://media.lacapital.com.ar/p/ad9f9d96e0ad2b75254b8de94764d7b0/adjuntos/203/imagenes/103/553/0103553406/1200x675/smart/salud.jpg",
+        "summary": "El encuentro será el lunes 30 de noviembre y martes 1º de diciembre en el aulario de La Siberia. Habrá más de 200 disertantes y 52 mesas de trabajo",
+        "pubDate": "2026-11-26T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La trastienda de un piloto: el lado B de Johnnito De Benedictis en el Turismo Carretera",
+        "link": "https://www.lacapital.com.ar/ovacion/la-trastienda-un-piloto-el-lado-b-johnnito-benedictis-el-turismo-carretera-n10290423.html",
+        "image": "https://media.lacapital.com.ar/p/304ecba6da58c97e47d0b16ce6ef0e10/adjuntos/203/imagenes/103/553/0103553495/1200x675/smart/_1360262jpg.jpeg",
+        "summary": "\"Mi viejo es mi referente y guía\", \"sueño con lograr un campeonato\" y \"se manejan números muy altos en el automovilismo\", repasó el piloto necochense en su charla con \"Historias en juego\"",
+        "pubDate": "2026-11-26T09:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El Senado debate la ley contra la ludopatía y la suspensión de las Paso",
+        "link": "https://www.lacapital.com.ar/politica/el-senado-debate-la-ley-contra-la-ludopatia-y-la-suspension-las-paso-n10294242.html",
+        "image": "https://media.lacapital.com.ar/p/8f1a0560a0270a825a965c53a5d58a51/adjuntos/203/imagenes/103/553/0103553657/1200x675/smart/bullrich-comision-ley-ludopatia.jpg",
+        "summary": "Tras la presión de la Iglesia, el oficialismo acordó con el PJ aprobar el proyecto con media sanción. El gobierno, confiado con la reforma electoral",
+        "pubDate": "2026-11-26T09:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Newell's: el futuro de Kudelka, la gran incógnita después de la eliminación en el Clausura",
+        "link": "https://www.lacapital.com.ar/ovacion/newells-el-futuro-kudelka-la-gran-incognita-despues-la-eliminacion-el-clausura-n10294233.html",
+        "image": "https://media.lacapital.com.ar/p/ee6b9cd8850e7912bf92460dcd6b2cf9/adjuntos/203/imagenes/103/553/0103553545/kuelka.jpeg",
+        "summary": "Versiones encontradas entre la dirigencia y el círculo íntimo del técnico leproso ponen un signo de interrogante sobre su futuro en el Parque",
+        "pubDate": "2026-11-26T09:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "\"El aeropuerto de Rosario debería llamarse Negro Fontanarrosa\"",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-aeropuerto-rosario-deberia-llamarse-negro-fontanarrosa-n10294204.html",
+        "image": "https://media.lacapital.com.ar/p/54ab9167d694f2842997433c8f24ba6a/adjuntos/203/imagenes/103/553/0103553226/1200x675/smart/federico-winer-1.jpeg",
+        "summary": "El periodista bonaerense Federico Winer, quien vive y trabaja en Alemania, presentará el libro “Fontanarrosa ¡genio!” este sábado, a las 17, en el Centro Cultural, en el marco del Festival Fontanarrosa",
+        "pubDate": "2026-11-26T09:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Central tiene un arma letal que lo acompañó siempre y lo empujó al protagonismo",
+        "link": "https://www.lacapital.com.ar/ovacion/central-tiene-un-arma-letal-que-lo-acompano-siempre-y-lo-empujo-al-protagonismo-n10294076.html",
+        "image": "https://media.lacapital.com.ar/p/f839958394a5cfabc89a14279faedea0/adjuntos/203/imagenes/103/552/0103552915/campaz.jpg",
+        "summary": "Entre las virtudes que tiene el canalla sobresale su capacidad goleadora. En el Clausura que está peleando convirtió en todos los partidos, salvo uno",
+        "pubDate": "2026-11-26T09:00:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "El tiempo en Rosario: jueves con algunas nubes en la previa del calor fuerte",
@@ -200,78 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/a6a4b5b67a45f85feb6de8e9b22f245f/adjuntos/203/imagenes/103/553/0103553693/image.png",
         "summary": "El jefe del Estado tendrá una agenda oficial en Asunción, que incluirá un encuentro bilateral con Alliana, entre otras actividades",
         "pubDate": "2026-11-25T23:56:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Entre el dolor y la contención, las mujeres volvieron a salir a la calle contra la violencia machista",
-        "link": "https://www.lacapital.com.ar/la-ciudad/entre-el-dolor-y-la-contencion-las-mujeres-volvieron-salir-la-calle-contra-la-violencia-machista-n10294214.html",
-        "image": "https://media.lacapital.com.ar/p/6e42a1f5a4a0cb275b38518b1a49ee5f/adjuntos/203/imagenes/103/553/0103553656/1200x675/smart/image-56.jpg",
-        "summary": "Quince cuadras de manifestantes recorrieron las calles del centro. Pedidos de justicia y reclamos al gobierno nacional dominaron la jornada",
-        "pubDate": "2026-11-25T23:48:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Argentino ya está listo para participar de la Copa Libertadores de fútbol playa",
-        "link": "https://www.lacapital.com.ar/ovacion/argentino-ya-esta-listo-participar-la-copa-libertadores-futbol-playa-n10294239.html",
-        "image": "https://media.lacapital.com.ar/p/0124d1d56ee64fd9f78084b2888ced06/adjuntos/203/imagenes/103/553/0103553623/arge.jpeg",
-        "summary": "El Salaíto hizo la presentación de la camiseta que utilizará el plantel en Brasil desde el 29 de noviembre al 6 de diciembre",
-        "pubDate": "2026-11-25T23:34:32+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Los pepinianos celebran en Puerto Rico que tienen a la nueva Miss Universo",
-        "link": "https://www.lacapital.com.ar/informacion-general/los-pepinianos-celebran-puerto-rico-que-tienen-la-nueva-miss-universo-n10294238.html",
-        "image": "https://media.lacapital.com.ar/p/96a127d54cf6f090f402c6fa03eb8519/adjuntos/203/imagenes/103/553/0103553655/1200x675/smart/2026-11-25-miss-universo-puerto-rico.jpg",
-        "summary": "Jennifer Barreto se consagró ganadora del principal certamen mundial de belleza. En San Sebastián siguen festejándolo como un Mundial de fútbol",
-        "pubDate": "2026-11-25T23:34:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Explotó un camión con combustible en Egipto y hay al menos 31 muertos",
-        "link": "https://www.lacapital.com.ar/informacion-general/exploto-un-camion-combustible-egipto-y-hay-al-menos-31-muertos-n10294234.html",
-        "image": "https://media.lacapital.com.ar/p/49db091d428288e19c0f4414a2ac44f5/adjuntos/203/imagenes/103/553/0103553533/2026-11-25-explosion-camion-el-cairo.jpg",
-        "summary": "El camión cisterna se vio involucrado en un choque en El Cairo y desató un incendio masivo. Decenas de autos quedaron calcinados y la cifra de víctimas podría aumentar",
-        "pubDate": "2026-11-25T22:56:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Vecinos del Monumento denunciaron destrozos tras los festejos estudiantiles y pidieron que vuelvan los vallados",
-        "link": "https://www.lacapital.com.ar/la-ciudad/vecinos-del-monumento-denunciaron-destrozos-los-festejos-estudiantiles-y-pidieron-que-vuelvan-los-vallados-n10294237.html",
-        "image": "https://media.lacapital.com.ar/p/2e6ed96da6002db0b55d5ed41d93dd66/adjuntos/203/imagenes/103/553/0103553806/be2597df-07e7-4426-8601-5bdc355cc207.jpg",
-        "summary": "Los alumnos secundarios rompieron una histórica farola de bronce y realizaron pintadas en el Patio Cívico. Cansados del descontrol de madrugada, los frentistas reclaman que se prohíba el uso del espacio para celebraciones como el Último Último Día (UUD)",
-        "pubDate": "2026-11-25T22:56:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Falsas denuncias: el oficialismo quiso llevar al recinto el polémico proyecto de Carolina Losada, pero debió retroceder",
-        "link": "https://www.lacapital.com.ar/falsas-denuncias-el-oficialismo-quiso-llevar-al-recinto-el-polemico-proyecto-carolina-losada-pero-debio-retroceder-n10294236.html",
-        "image": "https://media.lacapital.com.ar/p/8ccde4b148f57e4fe491ad700a090361/adjuntos/203/imagenes/102/977/0102977029/1200x675/smart/carolina-losada-en-el-estrado-de-la-presidencia-sqpnvfpjw5ewrdcbxpnqed7jie.jpg",
-        "summary": "La iniciativa de la senadora santafesina busca agravar las penas por falsas denuncias en casos de violencia de género y abuso sexual. Su incorporación al temario del Senado generó revuelo por los fuertes cuestionamientos de organismos de derechos humanos.",
-        "pubDate": "2026-11-25T22:54:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La Bolsa de Comercio de Rosario abrió una nueva convocatoria para startups",
-        "link": "https://www.lacapital.com.ar/agro/la-bolsa-comercio-rosario-abrio-una-nueva-convocatoria-startups-n10294192.html",
-        "image": "https://media.lacapital.com.ar/p/c7b4633b572a3cd33873eec567116752/adjuntos/305/imagenes/102/655/0102655153/1200x675/654x300:674x320/agtechbcr4ff.jpg",
-        "summary": "La séptima edición de BCR Startup Network está dirigida a emprendimientos de base tecnológica y científica con menos de diez años de trayectoria. La inscripción es gratuita y estará abierta hasta el 15 de enero de 2027",
-        "pubDate": "2026-11-25T22:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central ya conoce el árbitro para el duelo en el que buscará el pase a la semifinal del Clausura",
-        "link": "https://www.lacapital.com.ar/ovacion/central-ya-conoce-el-arbitro-el-duelo-el-que-buscara-el-pase-la-semifinal-del-clausura-n10294222.html",
-        "image": "https://media.lacapital.com.ar/p/c1690a260992e2ece74e292a93725e37/adjuntos/203/imagenes/103/553/0103553461/dova.jpg",
-        "summary": "Pablo Dóvalo será el encargado de controlar el choque entre el Canalla y Barracas Central. En este torneo lo dirigió dos veces y ganó ambos",
-        "pubDate": "2026-11-25T22:05:00+00:00",
         "approxTime": false
       }
     ]
