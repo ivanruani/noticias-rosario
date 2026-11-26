@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T14:31:01.177192+00:00",
+  "generatedAt": "2026-11-26T15:01:14.786324+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Preocupación en barrio Pichincha por el robo a una vinería durante la madrugada",
+        "link": "https://www.lacapital.com.ar/policiales/preocupacion-barrio-pichincha-el-robo-una-vineria-la-madrugada-n10294275.html",
+        "image": "https://media.lacapital.com.ar/p/5cea19d1fcc031ee0db133086229c43f/adjuntos/203/imagenes/103/554/0103554960/vineria-robo-salta-2900.jpg",
+        "summary": "Los ladrones rompieron un vidrio del local para ingresar al costado de la puerta principal. Se llevaron la caja y algo de dinero en efectivo",
+        "pubDate": "2026-11-26T14:52:45+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Varios allanamientos en distintas zonas de Rosario por una causa de estafas",
         "link": "https://www.lacapital.com.ar/policiales/varios-allanamientos-distintas-zonas-rosario-una-causa-estafas-n10294271.html",
         "image": "https://media.lacapital.com.ar/p/d0f82868eeca2b0fc30be102655d1c32/adjuntos/203/imagenes/103/356/0103356388/1200x675/smart/pdi.jpg",
@@ -262,15 +271,6 @@
         "link": "https://www.lacapital.com.ar/la-ciudad/el-aeropuerto-rosario-deberia-llamarse-negro-fontanarrosa-n10294204.html",
         "image": "https://media.lacapital.com.ar/p/54ab9167d694f2842997433c8f24ba6a/adjuntos/203/imagenes/103/553/0103553226/1200x675/smart/federico-winer-1.jpeg",
         "summary": "El periodista bonaerense Federico Winer, quien vive y trabaja en Alemania, presentará el libro “Fontanarrosa ¡genio!” este sábado, a las 17, en el Centro Cultural, en el marco del Festival Fontanarrosa",
-        "pubDate": "2026-11-26T09:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Newell's: el futuro de Kudelka, la gran incógnita después de la eliminación en el Clausura",
-        "link": "https://www.lacapital.com.ar/ovacion/newells-el-futuro-kudelka-la-gran-incognita-despues-la-eliminacion-el-clausura-n10294233.html",
-        "image": "https://media.lacapital.com.ar/p/ee6b9cd8850e7912bf92460dcd6b2cf9/adjuntos/203/imagenes/103/553/0103553545/kuelka.jpeg",
-        "summary": "Versiones encontradas entre la dirigencia y el círculo íntimo del técnico leproso ponen un signo de interrogante sobre su futuro en el Parque",
         "pubDate": "2026-11-26T09:00:00+00:00",
         "approxTime": false
       }
