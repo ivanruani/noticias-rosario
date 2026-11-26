@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-11-26T23:31:02.127386+00:00",
+  "generatedAt": "2026-11-26T23:47:16.889708+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "El Concejo aprobó la prohibición de cuidacoches en Rosario",
+        "link": "https://www.rosario3.com/informaciongeneral/el-concejo-aprobara-la-prohibicion-de-cuidacoches-en-rosario-habra-controles-prioritarios-y-operativos-policiales-20261126-0064.html",
+        "image": "https://www.rosario3.com/__export/1795726233829/sites/rosario3/img/2026/11/26/cuidacoche06_jpg_726409099_1.jpg_1825222445.jpg",
+        "summary": "La iniciativa contempla la intervención coordinada entre el municipio y la provincia, con énfasis en los sectores de mayor conflictividad y medidas de inclusión social para las personas alcanzadas por la normativa. La adhesión a la ley provincial salió con 17 votos a favor, 9 en…",
+        "pubDate": "2026-11-26T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Detuvieron al conductor que atropelló y mató a un ciclista en zona sur",
         "link": "https://www.rosario3.com/informaciongeneral/murio-el-ciclista-que-fue-embestido-por-un-automovilista-que-escapo-y-abandono-su-vehiculo-en-zona-sur-20261126-0058.html",
         "image": "https://www.rosario3.com/__export/1795731551934/sites/rosario3/img/2026/11/26/siniestro_vial_2.jpg_1825222445.jpg",
         "summary": "El hombre, de 22 años, fue localizado en el hospital Agudo Ávila tras dos allanamientos y quedó a disposición de la Fiscalía",
-        "pubDate": "2026-11-26T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El Concejo aprobará la prohibición de cuidacoches en Rosario: habrá controles prioritarios y operativos policiales",
-        "link": "https://www.rosario3.com/informaciongeneral/el-concejo-aprobara-la-prohibicion-de-cuidacoches-en-rosario-habra-controles-prioritarios-y-operativos-policiales-20261126-0064.html",
-        "image": "https://www.rosario3.com/__export/1795726233829/sites/rosario3/img/2026/11/26/cuidacoche06_jpg_726409099_1.jpg_1825222445.jpg",
-        "summary": "La iniciativa contempla la intervención coordinada entre el municipio y la provincia, con énfasis en los sectores de mayor conflictividad y medidas de inclusión social para las personas alcanzadas por la normativa",
         "pubDate": "2026-11-26T11:59:00+00:00",
         "approxTime": true
       },
@@ -162,7 +162,7 @@
         "title": "El Concejo aprobó la prohibición de cuidacoches",
         "link": "https://www.lacapital.com.ar/la-ciudad/el-concejo-aprobo-la-prohibicion-cuidacoches-n10294408.html",
         "image": "https://media.lacapital.com.ar/p/28fa987bac01aa72d4c95dc9234aabce/adjuntos/203/imagenes/103/500/0103500930/1200x675/smart/conchejus1.jpg",
-        "summary": "Con 11 votos afirmativos del interbloque oficialista, más 6 de los espacios libertarios, se adhirió a la ley provincial a través de un proyecto de la Intendencia. Fuertes cruces entre las bancas.",
+        "summary": "Con 11 votos afirmativos del interbloque oficialista, más 6 de los espacios libertarios, se adhirió a la ley provincial a través de un proyecto de la Intendencia. Fuertes cruces entre las bancas",
         "pubDate": "2026-11-26T23:20:00+00:00",
         "approxTime": false
       },
