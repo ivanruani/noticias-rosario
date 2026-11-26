@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T16:01:04.228778+00:00",
+  "generatedAt": "2026-11-26T16:30:57.799691+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Marcelo Lewandowski mantiene la puerta abierta para ser candidato a intendente de Rosario",
+        "link": "https://www.lacapital.com.ar/politica/marcelo-lewandowski-mantiene-la-puerta-abierta-ser-candidato-intendente-rosario-n10294311.html",
+        "image": "https://media.lacapital.com.ar/p/01903ae692c82f15775164cd822791bd/adjuntos/203/imagenes/103/555/0103555069/marcelo-lewandowski.jpg",
+        "summary": "\"Tengo la ciudad en la cabeza hace mucho tiempo\", apuntó el senador nacional por Santa Fe en cuanto a una de las opciones afrontar las próximas elecciones",
+        "pubDate": "2026-11-26T16:10:49+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Alpine fue sancionado por la FIA en la previa del Gran Premio de Qatar",
         "link": "https://www.lacapital.com.ar/ovacion/alpine-fue-sancionado-la-fia-la-previa-del-gran-premio-qatar-n10294323.html",
         "image": "https://media.lacapital.com.ar/p/5191507de23676d0190e89d143156831/adjuntos/203/imagenes/103/555/0103555056/1200x675/smart/alpine.png",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/e11a382f54641a61367540ca440d849e/adjuntos/203/imagenes/103/553/0103553726/1200x675/smart/trigos-caidos.jpeg",
         "summary": "Productores de Pergamino e Ibarlucea advierten sobre la gran cantidad de trigos caídos, incluso dentro de un mismo lote, que atribuyen a una combo de variables. Las legumbres, que suelen cosecharse desde el 10 de noviembre, todavía esperan secarse",
         "pubDate": "2026-11-26T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La trastienda de un piloto: el lado B de Johnnito De Benedictis en el Turismo Carretera",
-        "link": "https://www.lacapital.com.ar/ovacion/la-trastienda-un-piloto-el-lado-b-johnnito-benedictis-el-turismo-carretera-n10290423.html",
-        "image": "https://media.lacapital.com.ar/p/304ecba6da58c97e47d0b16ce6ef0e10/adjuntos/203/imagenes/103/553/0103553495/1200x675/smart/_1360262jpg.jpeg",
-        "summary": "\"Mi viejo es mi referente y guía\", \"sueño con lograr un campeonato\" y \"se manejan números muy altos en el automovilismo\", repasó el piloto necochense en su charla con \"Historias en juego\"",
-        "pubDate": "2026-11-26T09:00:00+00:00",
         "approxTime": false
       }
     ]
