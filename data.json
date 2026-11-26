@@ -1,14 +1,23 @@
 {
-  "generatedAt": "2026-11-26T20:01:06.223597+00:00",
+  "generatedAt": "2026-11-26T20:30:55.992220+00:00",
   "sites": {
     "rosario3": [
       {
         "source": "Rosario3",
-        "title": "Pese a la crecida del río, se mantienen los cruces desde La Fluvial: ¿queda arena de playa en las islas?",
-        "link": "https://www.rosario3.com/informaciongeneral/pese-a-la-crecida-del-rio-se-mantienen-los-cruces-desde-la-fluvial-queda-arena-de-playa-en-las-islas-20261126-0035.html",
-        "image": "https://www.rosario3.com/__export/1795708013258/sites/rosario3/img/2026/11/26/lafluvial.jpg_928314581.jpg",
-        "summary": "La referente de La Fluvial, Graciela Albanese, confirmó que los paradores del banquito San Andrés continúan en pleno funcionamiento pese al repunte del agua frente a la costa rosarina. Los traslados se evalúan día a día junto a Prefectura y las autoridades provinciales para…",
+        "title": "Murió el ciclista que fue embestido por un automovilista que escapó y abandonó su vehículo en zona sur",
+        "link": "https://www.rosario3.com/informaciongeneral/murio-el-ciclista-que-fue-embestido-por-un-automovilista-que-escapo-y-abandono-su-vehiculo-en-zona-sur-20261126-0058.html",
+        "image": "https://www.rosario3.com/__export/1795722796788/sites/rosario3/img/2026/11/26/siniestro_vial.jpg_1825222445.jpg",
+        "summary": "El hombre, de 30 años, permanecía internado en estado crítico en el Heca desde el siniestro ocurrido este jueves a la mañana. El vehículo involucrado fue abandonado en el lugar",
         "pubDate": "2026-11-26T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Se incendió un colectivo en el ingreso a Rosario por autopista a Santa Fe",
+        "link": "https://www.rosario3.com/informaciongeneral/se-incendio-un-colectivo-en-el-ingreso-a-rosario-por-autopista-a-santa-fe-20261126-0059.html",
+        "image": "https://www.rosario3.com/__export/1795724084865/sites/rosario3/img/2026/11/26/tata_incendiado.jpg_1825222445.jpg",
+        "summary": "El vehículo de la empresa Tata Rápido quedó destruido por completo a la altura del kilómetro cero. No se registraron personas heridas y el tránsito fue reducido en la zona",
+        "pubDate": "2026-11-26T11:59:00+00:00",
         "approxTime": true
       },
       {
@@ -17,7 +26,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/tenia-emprendimientos-gastronomicos-y-salon-de-fiestas-quien-era-la-turista-entrerriana-que-murio-ahogada-en-una-playa-nudista-20261126-0049.html",
         "image": "https://www.rosario3.com/__export/1795717441858/sites/rosario3/img/2026/11/26/turista.png_786111822.png",
         "summary": "La mujer tenía 36 años, era oriunda de Viale y había viajado a Uruguay junto a su pareja para pasar unos días de vacaciones. Era propietaria de tres comercios gastronómicos y un salón de fiestas en su ciudad. Murió tras ser sorprendida por una ola mientras estaba en el agua en…",
-        "pubDate": "2026-11-26T11:59:00+00:00",
+        "pubDate": "2026-11-26T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,7 +35,16 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/enrico-por-culpa-del-aumento-de-la-nacion-y-no-de-la-epe-analizamos-comprar-el-60-de-la-energia-fuera-de-santa-fe-20261126-0051.html",
         "image": "https://www.rosario3.com/__export/1795717108530/sites/rosario3/img/2026/11/26/enrico.jpg_1797008974.jpg",
         "summary": "El ministro de Obras Públicas analizó las razones por la cuales Aguas analiza desembarcar en el mercado mayorista. Si prospera la posibilidad, el 40% se seguirá comprando a la distribuidora local",
-        "pubDate": "2026-11-26T11:58:00+00:00",
+        "pubDate": "2026-11-26T11:57:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Pese a la crecida del río, se mantienen los cruces desde La Fluvial: ¿queda arena de playa en las islas?",
+        "link": "https://www.rosario3.com/informaciongeneral/pese-a-la-crecida-del-rio-se-mantienen-los-cruces-desde-la-fluvial-queda-arena-de-playa-en-las-islas-20261126-0035.html",
+        "image": "https://www.rosario3.com/__export/1795708013258/sites/rosario3/img/2026/11/26/lafluvial.jpg_928314581.jpg",
+        "summary": "La referente de La Fluvial, Graciela Albanese, confirmó que los paradores del banquito San Andrés continúan en pleno funcionamiento pese al repunte del agua frente a la costa rosarina. Los traslados se evalúan día a día junto a Prefectura y las autoridades provinciales para…",
+        "pubDate": "2026-11-26T11:56:00+00:00",
         "approxTime": true
       },
       {
@@ -35,16 +53,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/tres-accesos-de-la-autopista-rosario-santa-fe-tendran-peaje-exclusivo-con-telepase-como-hacer-el-tramite-20261126-0037.html",
         "image": "https://www.rosario3.com/__export/1795708420797/sites/rosario3/img/2026/11/26/autopista-rosario-santa-fe.jpg_928314580.jpg",
         "summary": "A partir del 1 de diciembre comenzará a regir el cobro electrónico en los ingresos a San Lorenzo Centro, La Ribera y Sauce Viejo. Quienes no dispongan del dispositivo, contarán con un lapso de 30 días para cancelar la tarifa y registrarse antes de recibir una multa por evasión…",
-        "pubDate": "2026-11-26T11:57:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El Senado debate la Ley de Ludopatía: “Hoy hasta chicos de 12 años están apostando\"",
-        "link": "https://www.rosario3.com/informaciongeneral/el-senado-debate-la-ley-de-ludopatia-hoy-hasta-chicos-de-12-anos-estan-apostando-20261126-0027.html",
-        "image": "https://www.rosario3.com/__export/1795702217225/sites/rosario3/img/2026/11/26/juegoonline.jpg_928314581.jpg",
-        "summary": "Oficialismo y oposición acordaron darle luz verde a la normativa que llega de Diputados y restringe el acceso al juego on line de menores y limita o prohíbe la publicidad de apuestas. En ese marco, Agustín, un joven que se recuperó de la ludopatía recordó su historia: 'Perdí…",
-        "pubDate": "2026-11-26T11:56:00+00:00",
+        "pubDate": "2026-11-26T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -53,15 +62,6 @@
         "link": "https://www.rosario3.com/politica/falsas-denuncias-afuera-el-senado-volvio-a-postegar-el-proyecto-de-carolina-losada-20261126-0047.html",
         "image": "https://www.rosario3.com/__export/1778547901532/sites/rosario3/img/2023/05/01/losada_1.jpg_1825222445.jpg",
         "summary": "La decisión de no tratar el tema tuvo lugar durante la reunión de Labor Parlamentaria, y fue un pedido de Patricia Bullrich quien por las internas que genera la iniciativa, priorizó acuerdos para garantizar otros proyectos",
-        "pubDate": "2026-11-26T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Redujeron las prisiones preventivas de los dueños de MotorSport, imputados por estafas",
-        "link": "https://www.rosario3.com/policiales/redujeron-las-prisiones-preventivas-de-los-duenos-de-motorsport-imputados-por-estafas-20261126-0031.html",
-        "image": "https://www.rosario3.com/__export/1791568413180/sites/rosario3/img/2026/10/09/motorsport_1.jpg_1010838702.jpg",
-        "summary": "La resolución fue tomada este miércoles por la camarista Carola Hernández, que confirmó la acusación, pero bajó el tiempo de encierro de Juan Gabriel Alegre y Eduardo Atilio Escarcelo",
         "pubDate": "2026-11-26T11:54:00+00:00",
         "approxTime": true
       },
@@ -94,11 +94,29 @@
       },
       {
         "source": "Rosario3",
+        "title": "El Senado debate la Ley de Ludopatía: “Hoy hasta chicos de 12 años están apostando\"",
+        "link": "https://www.rosario3.com/informaciongeneral/el-senado-debate-la-ley-de-ludopatia-hoy-hasta-chicos-de-12-anos-estan-apostando-20261126-0027.html",
+        "image": "https://www.rosario3.com/__export/1795702217225/sites/rosario3/img/2026/11/26/juegoonline.jpg_928314581.jpg",
+        "summary": "Oficialismo y oposición acordaron darle luz verde a la normativa que llega de Diputados y restringe el acceso al juego on line de menores y limita o prohíbe la publicidad de apuestas. En ese marco, Agustín, un joven que se recuperó de la ludopatía recordó su historia: 'Perdí…",
+        "pubDate": "2026-11-26T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Rescataron a un ciervo que nadaba exhausto en medio de la crecida del Paraná",
+        "link": "https://www.rosario3.com/informaciongeneral/rescataron-a-un-ciervo-que-nadaba-exhausto-en-medio-de-la-crecida-del-parana-20261126-0055.html",
+        "image": "https://www.rosario3.com/__export/1795722229614/sites/rosario3/img/2026/11/26/ciervo.jpg_579810351.jpg",
+        "summary": "No lograba avanzar por la fuerza del agua y fue puesto a salvo por Prefectura, en Corrientes. El operativo vuelve a exponer el impacto de El Niño sobre la fauna, un fenómeno que ya provocó apariciones recientes de animales silvestres en Rosario. El video",
+        "pubDate": "2026-11-26T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Mundial sub 17: cómo sigue el camino de Argentina y qué rivales le pueden tocar",
         "link": "https://www.rosario3.com/deportes/mundial-sub-17-como-sigue-el-camino-de-argentina-y-que-rivales-le-pueden-tocar-20261126-0052.html",
         "image": "https://www.rosario3.com/__export/1795717751309/sites/rosario3/img/2026/11/26/sub17.jpeg_1768679257.jpeg",
         "summary": "Ya clasificada a los 16avos de final tras cerrar segunda en su zona, la Selección espera que se complete la fase de grupos entre este jueves y el viernes para conocer su cruce. Brasil aparece entre las posibilidades. Cómo es el nuevo sistema de tabla general",
-        "pubDate": "2026-11-26T11:50:00+00:00",
+        "pubDate": "2026-11-26T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -107,7 +125,7 @@
         "link": "https://www.rosario3.com/policiales/escalada-de-violencia-en-villa-eloisa-primero-agredio-a-su-ex-y-por-poco-mata-de-una-punalada-a-un-policia-20261126-0050.html",
         "image": "https://www.rosario3.com/__export/1795717819304/sites/rosario3/img/2026/11/26/jonas_abreu_imputado_villa_eloisa.jpg_672794305.jpg",
         "summary": "La secuencia comenzó con daños en la casa de su expareja y continuó con una agresión a un patrullero. Cuando los policías fueron a identificarlo, atacó al inspector Luis Barrera con un cuchillo que le comprometió la carótida. Quedó preso por seis meses",
-        "pubDate": "2026-11-26T11:49:00+00:00",
+        "pubDate": "2026-11-26T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -116,29 +134,101 @@
         "link": "https://www.rosario3.com/informaciongeneral/horror-en-chaco-salio-a-correr-no-volvio-y-la-encontraron-muerta-investigan-posible-femicidio-20261126-0039.html",
         "image": "https://www.rosario3.com/__export/1795715395235/sites/rosario3/img/2026/11/26/femicidio_chaco.png_786111822.png",
         "summary": "Yesica Mercedes Almirón tenía 34 años y fue encontrada sin vida detrás de una iglesia evangélica en construcción, horas después de salir a hacer actividad física. Por el presunto femicidio hay tres hombres detenidos, entre ellos su expareja.",
-        "pubDate": "2026-11-26T11:48:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Doble festejo de Mi bici tu bici: cumple 11 años y llega a las 100 estaciones",
-        "link": "https://www.rosario3.com/informaciongeneral/doble-festejo-de-mi-bici-tu-bici-cumple-11-anos-y-llega-a-las-100-estaciones-20261126-0045.html",
-        "image": "https://www.rosario3.com/__export/1795715371633/sites/rosario3/img/2026/11/26/mibici1.jpg_442306099.jpg",
-        "summary": "Con la incorporación de dos nuevas terminales en 9 de Julio y Corrientes y en Alem y Cerrito, el sistema de bicicletas públicas de Rosario alcanza el centenar de puntos operativos en toda la ciudad. Para celebrarlo, habrá una bicicleteada nocturna gratuita la semana próxima",
-        "pubDate": "2026-11-26T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Qué se sabe de la causa penal del dueño de los pitbulls que mataron un caniche en Mitre al 1500",
-        "link": "https://www.rosario3.com/informaciongeneral/que-se-sabe-de-la-causa-penal-del-dueno-de-los-pitbulls-que-mataron-un-caniche-en-mitre-al-1500-20261126-0024.html",
-        "image": "https://www.rosario3.com/__export/1795699532422/sites/rosario3/img/2026/11/26/raquel_caniche_jim.jpg_928314580.jpg",
-        "summary": "La investigación está a cargo de la fiscal Silvana Valero, quien unificó las dos denuncias contra Sergio C. Una, por el ataque fatal ocurrido la semana pasada. La otra, por haber agredido a otro perro en agosto pasado",
         "pubDate": "2026-11-26T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Una miniserie documental genera debate en Netflix",
+        "link": "https://www.lacapital.com.ar/zoom/una-miniserie-documental-genera-debate-netflix-n10294377.html",
+        "image": "https://media.lacapital.com.ar/p/317a4c41645992264f7f12c880caf883/adjuntos/203/imagenes/103/555/0103555535/1200x675/smart/image-12.png",
+        "summary": "La serie se mete de lleno en los procesos judiciales contra Karen Read tras la muerte de su esposo en Massachusetts en 2022",
+        "pubDate": "2026-11-26T20:19:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La desocupación se consolida como la principal preocupación de los argentinos",
+        "link": "https://www.lacapital.com.ar/economia/la-desocupacion-se-consolida-como-la-principal-preocupacion-los-argentinos-n10294347.html",
+        "image": "https://media.lacapital.com.ar/p/4986c78667183ee3f5b84fd06124bee8/adjuntos/203/imagenes/022/069/0022069851/1200x675/smart/desempleojpg.jpg",
+        "summary": "El 21,9% de los encuestados por Management & Fit señaló al desempleo como el mayor problema del país. En los hogares, llegar a fin de mes sigue siendo la principal preocupación económica, seguida por el endeudamiento",
+        "pubDate": "2026-11-26T20:11:43+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Netflix: las tres miniseries que lideran el ranking de lo más visto",
+        "link": "https://www.lacapital.com.ar/zoom/netflix-las-tres-miniseries-que-lideran-el-ranking-lo-mas-visto-n10294337.html",
+        "image": "https://media.lacapital.com.ar/p/d30bb9706220ed1ec06ce708aafba3df/adjuntos/203/imagenes/103/555/0103555395/1200x675/smart/image-11.png",
+        "summary": "El thriller, el drama y el suspenso son los favoritos del momento. De qué se tratan las historias que cautivaron a todos los usuarios",
+        "pubDate": "2026-11-26T20:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Tini Stoessel y Rodrigo De Paul hablaron de su boda, la reconciliación y el sueño de formar una familia",
+        "link": "https://www.lacapital.com.ar/zoom/tini-stoessel-y-rodrigo-paul-hablaron-su-boda-la-reconciliacion-y-el-sueno-formar-una-familia-n10294354.html",
+        "image": "https://media.lacapital.com.ar/p/707798b337e026c2906de363691faf7b/adjuntos/203/imagenes/103/555/0103555404/1200x675/smart/tini-y-rodrigo-paul.png",
+        "summary": "En su primera entrevista juntos, la pareja contó cómo retomó la relación, reveló detalles del casamiento que celebrarán y habló de sus planes de convivencia",
+        "pubDate": "2026-11-26T20:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Arcor aumentó 6% sus precios y en Rosario advierten que hay poco margen para subas",
+        "link": "https://www.lacapital.com.ar/economia/arcor-aumento-6-sus-precios-y-rosario-advierten-que-hay-poco-margen-subas-n10294382.html",
+        "image": "https://media.lacapital.com.ar/p/6f34fc4b11b7c97dc38b0f0bd1161d39/adjuntos/203/imagenes/102/970/0102970775/1200x675/smart/supermercados-92.jpg",
+        "summary": "Almaceneros frenaron los pedidos tras recibir una lista de precios con subas generalizadas. Los supermercados de la ciudad aún no registraron cambios",
+        "pubDate": "2026-11-26T20:08:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Tras la derrota con Central, el ex-Newell's Darío Franco se fue del Lobo mendocino",
+        "link": "https://www.lacapital.com.ar/ovacion/tras-la-derrota-central-el-ex-newells-dario-franco-se-fue-del-lobo-mendocino-n10294403.html",
+        "image": "https://media.lacapital.com.ar/p/3f6f9f700b38ec80df09867f166f231c/adjuntos/203/imagenes/103/072/0103072494/1200x675/smart/image-7.jpg",
+        "summary": "Gimnasia anunció \"el cierre de su etapa en el club\" del entrenador y su cuerpo técnico. \"Los contratos son por un año pero duran un mes\", dijo hace poco",
+        "pubDate": "2026-11-26T20:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La Libertad Avanza respaldó la prohibición de los cuidacoches en Rosario, pero advirtió que \"así no se termina con el problema\"",
+        "link": "https://www.lacapital.com.ar/la-libertad-avanza-respaldo-la-prohibicion-los-cuidacoches-rosario-pero-advirtio-que-asi-no-se-termina-el-problema-n10294367.html",
+        "image": "https://media.lacapital.com.ar/p/1cb41887469c8822149f7886e917425e/adjuntos/203/imagenes/029/677/0029677465/1200x675/smart/cuidacochesjpg.jpg",
+        "summary": "El bloque libertario consiguió modificaciones al proyecto original del Ejecutivo y celebran que se avance en la prohibición de la actividad",
+        "pubDate": "2026-11-26T19:59:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Cómo crear una cuenta de WhatsApp administrada por padres",
+        "link": "https://www.lacapital.com.ar/informacion-general/como-crear-una-cuenta-whatsapp-administrada-padres-n10294390.html",
+        "image": "https://media.lacapital.com.ar/p/25189a1f571869d17980f90a0a212402/adjuntos/203/imagenes/102/632/0102632960/1200x675/smart/celular-whatsapp.png",
+        "summary": "Las cuentas administradas por padres permiten a los adultos responsables cuidar a sus hijos sin tener que revisar sus conversaciones y manteniendo su privacidad. Cómo crear una cuenta de este tipo",
+        "pubDate": "2026-11-26T19:59:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El truco para saber si dispositivos ajenos se conectan a tu wifi",
+        "link": "https://www.lacapital.com.ar/informacion-general/el-truco-saber-si-dispositivos-ajenos-se-conectan-tu-wifi-n10294394.html",
+        "image": "https://media.lacapital.com.ar/p/d8c659530c65661def10defc77f68969/adjuntos/203/imagenes/103/555/0103555602/1200x675/smart/image-13.png",
+        "summary": "Contar con un wifi rápido y eficiente es fundamental. Existe un simple truco con el cual se puede identificar si alguien fuera del hogar está conectado a la red",
+        "pubDate": "2026-11-26T19:58:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Un ciclista murió al ser atropellado por un auto que circulaba a alta velocidad en zona sur",
+        "link": "https://www.lacapital.com.ar/policiales/un-ciclista-murio-al-ser-atropellado-un-auto-que-circulaba-alta-velocidad-zona-sur-n10294395.html",
+        "image": "https://media.lacapital.com.ar/p/2141ee70010d72a4faceeff572d6fc2b/adjuntos/203/imagenes/103/555/0103555627/1200x675/smart/image-57.jpg",
+        "summary": "El siniestro ocurrió en bulevar Avellaneda al 3300. Tras embestir al joven que se trasladaba en bicicleta, el conductor abandonó el vehículo y se dio a la fuga",
+        "pubDate": "2026-11-26T19:57:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Más de 600 vecinos participaron de la muestra anual de los talleres culturales de Villa Gobernador Gálvez",
@@ -182,96 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/79fc482887837614707812ce978ae3b5/adjuntos/203/imagenes/103/542/0103542694/2026-11-18-senado.jpg",
         "summary": "Más tarde abordará el proyecto contra la ludopatía, que se convertirá en ley tras un acuerdo entre el oficialismo y el peronismo",
         "pubDate": "2026-11-26T17:54:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Diputados convirtió en ley la reforma de la carta orgánica del Banco Central",
-        "link": "https://www.lacapital.com.ar/politica/diputados-convirtio-ley-la-reforma-la-carta-organica-del-banco-central-n10294346.html",
-        "image": "https://media.lacapital.com.ar/p/639b5dc715d506d04ca0e7e9a9e74540/adjuntos/203/imagenes/103/555/0103555403/1200x675/smart/image.png",
-        "summary": "Con 141 votos afirmativos y 99 abstenciones, la Cámara baja aprobó la iniciativa con los ajustes que había realizado el Senado. Milei lo celebró desde Paraguay. Se viene el debate por el presupuesto 2027",
-        "pubDate": "2026-11-26T17:50:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Central ante Barracas: un antecedente que ilusiona y otro que trae muy malos recuerdos",
-        "link": "https://www.lacapital.com.ar/ovacion/central-barracas-un-antecedente-que-ilusiona-y-otro-que-trae-muy-malos-recuerdos-n10294086.html",
-        "image": "https://media.lacapital.com.ar/p/23ed67bb405069221b15b062a8a671ac/adjuntos/203/imagenes/103/552/0103552236/censsm.jpg",
-        "summary": "En el último choque, el Canalla venció al Guapo con un equipo alternativo. La única que vez que se enfrentaron en un partido eliminatorio fue derrota",
-        "pubDate": "2026-11-26T17:34:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "\"Gaudio, vamos a matar a vos y a tus hijos\": grave episodio en la campaña electoral en Independiente",
-        "link": "https://www.lacapital.com.ar/ovacion/gaudio-vamos-matar-vos-y-tus-hijos-grave-episodio-la-campana-electoral-independiente-n10294345.html",
-        "image": "https://media.lacapital.com.ar/p/ba4c180147a224ac42736c6970db8579/adjuntos/203/imagenes/103/555/0103555402/1200x675/smart/image-10.jpg",
-        "summary": "La amenaza se expresó a través de una bandera que colgaron a la madrugada en Avellaneda. \"Es triste, cruzaron un límite\", dijo el extenista",
-        "pubDate": "2026-11-26T17:29:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Un futbolista de Vasco da Gama fue detenido por intento de asesinato mientras entrenaba con el equipo",
-        "link": "https://www.lacapital.com.ar/ovacion/un-futbolista-vasco-da-gama-fue-detenido-intento-asesinato-mientras-entrenaba-el-equipo-n10294359.html",
-        "image": "https://media.lacapital.com.ar/p/c64b9d44dbdaf2fb9faa02967c5c8ea0/adjuntos/203/imagenes/103/555/0103555482/1200x675/smart/image-11.jpg",
-        "summary": "También está bajo sospecha de tener vínculos con la organización criminal Comando Vermelho. Hay más futbolistas investigados",
-        "pubDate": "2026-11-26T17:29:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Rescataron a un ciervo que nadaba en el Paraná frente a Rosario: es el sexto en una semana",
-        "link": "https://www.lacapital.com.ar/la-ciudad/rescataron-un-ciervo-que-nadaba-el-parana-frente-rosario-es-el-sexto-una-semana-n10294333.html",
-        "image": "https://media.lacapital.com.ar/p/dc940952762069c08ac718d74eea150b/adjuntos/203/imagenes/103/555/0103555330/ciervito.jpg",
-        "summary": "El ejemplar de la especie axis fue avistado por pescadores en inmediaciones del Parque España. Efecto de la crecida del río: la Brigada Ecológica también rescató 14 yararás y un yacaré en los últimos días.",
-        "pubDate": "2026-11-26T17:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "La Fifa, bajo ataque de los hackers: robaron datos del organismo y sus funcionarios",
-        "link": "https://www.lacapital.com.ar/ovacion/la-fifa-ataque-los-hackers-robaron-datos-del-organismo-y-sus-funcionarios-n10294338.html",
-        "image": "https://media.lacapital.com.ar/p/09ee3403c6cfa46d094bd15e82acd70a/adjuntos/203/imagenes/103/346/0103346770/2026-08-20-infantino.jpg",
-        "summary": "El ciberataque se produjo en momentos en que el organismo y sobre todo su presidente, Gianni Infantino, están bajo la lupa internacional",
-        "pubDate": "2026-11-26T17:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "¿Qué busca Pullaro con la nueva ley tributaria?",
-        "link": "https://www.lacapital.com.ar/politica/que-busca-pullaro-la-nueva-ley-tributaria-n10294327.html",
-        "image": "https://media.lacapital.com.ar/p/93f496678f483bdda4994f88f68966f2/adjuntos/203/imagenes/103/224/0103224125/1200x675/smart/maximiliano-pullaro-y-pablo-olivares.jpg",
-        "summary": "El proyecto fiscal sale al ruedo con la idea de marcar una política distintiva. Exenciones y beneficios, en un contexto complejo de la actividad nacional",
-        "pubDate": "2026-11-26T16:58:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Insultos, una pelea y un crimen a puñaladas en barrio Santa Lucía: imputaron a un acusado",
-        "link": "https://www.lacapital.com.ar/policiales/insultos-una-pelea-y-un-crimen-punaladas-barrio-santa-lucia-imputaron-un-acusado-n10294326.html",
-        "image": "https://media.lacapital.com.ar/p/889ba6bb1bafd0d89b355e4139588435/adjuntos/203/imagenes/100/192/0100192955/2022-12-01-policlinico-san-martinjpg.jpg",
-        "summary": "Carlos Quiroga fue asesinado el 10 de noviembre cuando llegó a la casa de su ex, la insultó y discutió con dos hombres que la acompañaban. Uno de ellos, Nicolás S., quedó preso por la agresión letal con un arma blanca",
-        "pubDate": "2026-11-26T16:55:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Anses advierte por estafas a jubilados: cómo reconocer si se trata de un engaño",
-        "link": "https://www.lacapital.com.ar/informacion-general/anses-advierte-estafas-jubilados-como-reconocer-si-se-trata-un-engano-n10294330.html",
-        "image": "https://media.lacapital.com.ar/p/2fb7f39c201a855c75ad4ebe49c1519e/adjuntos/203/imagenes/102/772/0102772984/1200x675/smart/jubilado-estafas.png",
-        "summary": "La entidad previsional difundió un protocolo de seguridad ante el aumento de fraudes virtuales dirigidos a jubilados.",
-        "pubDate": "2026-11-26T16:52:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Fashion Sunset, la fiesta de fin de año en Rosario con Pampita, Leo Saleh, Charlotte Caniggia, Karina Jelinek y Barby Franco y un after party en complejo Forest",
-        "link": "https://www.lacapital.com.ar/novedades/fashion-sunset-la-fiesta-fin-ano-rosario-pampita-leo-saleh-charlotte-caniggia-karina-jelinek-y-barby-franco-y-un-after-party-complejo-forest-n10294314.html",
-        "image": "https://media.lacapital.com.ar/p/b2da3fc820e0b4b943f6110a25bc5d09/adjuntos/203/imagenes/103/555/0103555018/1200x675/smart/cf56529b-0d23-46d6-af5e-95376f89f779.jpg",
-        "summary": "El Rooftop del Complejo Forest será el escenario de la fiesta Fashion Sunset, que contará con la conducción de Pampita y Leo Saleh.",
-        "pubDate": "2026-11-26T16:48:00+00:00",
         "approxTime": false
       }
     ]
