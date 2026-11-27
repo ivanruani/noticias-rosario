@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T09:31:00.691433+00:00",
+  "generatedAt": "2026-11-27T10:01:14.420204+00:00",
   "sites": {
     "rosario3": [
       {
@@ -177,20 +177,11 @@
       },
       {
         "source": "La Capital",
-        "title": "Watepolo: la gran final de la Liga de Honor tendrá atractivos de pura cepa rosarina",
-        "link": "https://www.lacapital.com.ar/ovacion/watepolo-la-gran-final-la-liga-honor-tendra-atractivos-pura-cepa-rosarina-n10294444.html",
+        "title": "Waterpolo: la gran final de la Liga de Honor tendrá atractivos de pura cepa rosarina",
+        "link": "https://www.lacapital.com.ar/ovacion/waterpolo-la-gran-final-la-liga-honor-tendra-atractivos-pura-cepa-rosarina-n10294444.html",
         "image": "https://media.lacapital.com.ar/p/a3fe1b6c909a1b8cd6a7d03592830752/adjuntos/203/imagenes/103/556/0103556015/wat-corssi-22-0e-827d-eb4a8959336d.jpg",
         "summary": "Desde este viernes, Gimnasia y Provincial protagonizarán la serie al mejor de tres, que comienza a las 20.30, en la pileta de GER del Parque",
         "pubDate": "2026-11-27T09:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Asociación Rosarina: con el fútbol femenino, Lamadrid se transformó en top del fútbol local",
-        "link": "https://www.lacapital.com.ar/ovacion/asociacion-rosarina-el-futbol-femenino-lamadrid-se-transformo-top-del-futbol-local-n10294449.html",
-        "image": "https://media.lacapital.com.ar/p/758e445555b81c79515930cad0387958/adjuntos/203/imagenes/103/556/0103556113/1200x675/smart/image-2026-11-26t200721498.png",
-        "summary": "El club de Grandoli y Lamadrid participa con nueve categorías. Unas 150 chicas practican este deporte, que es furor en la zona sur con el fútbol de la Rosarina",
-        "pubDate": "2026-11-27T09:10:00+00:00",
         "approxTime": false
       },
       {
@@ -199,6 +190,15 @@
         "link": "https://www.lacapital.com.ar/la-ciudad/dime-quien-te-arrodillas-y-te-dire-quien-es-tu-rey-n10294406.html",
         "image": "https://media.lacapital.com.ar/p/6fe6a31adeedab7abab85bf36123ef45/adjuntos/203/imagenes/103/555/0103555763/1200x675/smart/82850308.jpeg",
         "summary": "Solemnidad de Nuestro Señor Jesucristo, rey del universo",
+        "pubDate": "2026-11-27T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Asociación Rosarina: con el fútbol femenino, Lamadrid se transformó en top del fútbol local",
+        "link": "https://www.lacapital.com.ar/ovacion/asociacion-rosarina-el-futbol-femenino-lamadrid-se-transformo-top-del-futbol-local-n10294449.html",
+        "image": "https://media.lacapital.com.ar/p/758e445555b81c79515930cad0387958/adjuntos/203/imagenes/103/556/0103556113/1200x675/smart/image-2026-11-26t200721498.png",
+        "summary": "El club de Grandoli y Lamadrid participa con nueve categorías. Unas 150 chicas practican este deporte, que es furor en la zona sur con el fútbol de la Rosarina",
         "pubDate": "2026-11-27T09:10:00+00:00",
         "approxTime": false
       },
