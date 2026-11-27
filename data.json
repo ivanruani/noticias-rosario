@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T14:31:01.833760+00:00",
+  "generatedAt": "2026-11-27T15:01:08.270629+00:00",
   "sites": {
     "rosario3": [
       {
@@ -43,7 +43,7 @@
         "title": "Desde cuándo y cómo se va a implementar la prohibición de los cuidacoches en Rosario",
         "link": "https://www.rosario3.com/informaciongeneral/desde-cuando-y-como-se-va-a-implementar-la-prohibicion-de-los-cuidacoches-en-rosario-20261127-0014.html",
         "image": "https://www.rosario3.com/__export/1795779633088/sites/rosario3/img/2026/11/27/detencioncuidacoche1.jpg_928314581.jpg",
-        "summary": "Tras la sanción de la ordenanza, el municipio detalló las intervenciones prioritarias en sectores críticos, perímetros gastronómicos y espectáculos masivos. La presidenta del Concejo, María Eugenia Schmuck, defendió la ordenanza al sostener que era una medida demandada por la…",
+        "summary": "Si bien se prevé que la ordenaza se implemente en enero, el municipio reforzará las intervenciones prioritarias en sectores críticos, perímetros gastronómicos y espectáculos masivos. La presidenta del Concejo, María Eugenia Schmuck, defendió la ordenanza al sostener que era una…",
         "pubDate": "2026-11-27T11:56:00+00:00",
         "approxTime": true
       },
@@ -141,8 +141,17 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Franco Colapinto y una primera práctica en Qatar que le dejó tarea para hacer",
+        "link": "https://www.lacapital.com.ar/ovacion/franco-colapinto-y-una-primera-practica-qatar-que-le-dejo-tarea-hacer-n10294525.html",
+        "image": "https://media.lacapital.com.ar/p/a006daa7303e2055307f59c37212c0f8/adjuntos/203/imagenes/103/556/0103556945/1200x675/smart/image-1.jpg",
+        "summary": "El argentino fue 12º, a más de medio segundo de Pierre Gasly en una FP1 en Qatar donde quedó claro que a los Alpine les costará y las gomas sufrirán",
+        "pubDate": "2026-11-27T14:41:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Encomiendas con marihuana: cuatro imputados por trasladar 12 kilos de Misiones a Casilda",
-        "link": "https://www.lacapital.com.ar/policiales/encomiendas-marihuana-cuatro-imputados-trasladar-12-kilos-misiones-casilda-n10294511",
+        "link": "https://www.lacapital.com.ar/policiales/encomiendas-marihuana-cuatro-imputados-trasladar-12-kilos-misiones-casilda-n10294511.html",
         "image": "https://media.lacapital.com.ar/p/bf4be5f6afafdaf7421a6e9a02111f79/adjuntos/203/imagenes/103/556/0103556745/1200x675/smart/encomienda_composicion.jpg",
         "summary": "La droga estaba distribuida en dos paquetes despachados desde Puerto Libertad y destinados a una sucursal de Correo Argentino",
         "pubDate": "2026-11-27T13:26:00+00:00",
@@ -151,7 +160,7 @@
       {
         "source": "La Capital",
         "title": "Rosario encabeza un ranking de Booking y se consolida como destino para vacacionar",
-        "link": "https://www.lacapital.com.ar/la-ciudad/rosario-encabeza-un-ranking-booking-y-se-consolida-como-destino-vacacionar-n10294510",
+        "link": "https://www.lacapital.com.ar/la-ciudad/rosario-encabeza-un-ranking-booking-y-se-consolida-como-destino-vacacionar-n10294510.html",
         "image": "https://media.lacapital.com.ar/p/3b5cda21ca79fc4819760a2d61c7c83d/adjuntos/203/imagenes/103/556/0103556696/1200x675/smart/turismo-rosario.png",
         "summary": "La ciudad se ubicó primera en la lista de destinos cuyas reservas más crecieron en Booking, la popular plataforma de reservas de alojamiento",
         "pubDate": "2026-11-27T13:23:00+00:00",
@@ -160,7 +169,7 @@
       {
         "source": "La Capital",
         "title": "Taxis no, remises sí: se aprobó el aumento de tarifa del 20 por ciento",
-        "link": "https://www.lacapital.com.ar/la-ciudad/taxis-no-remises-si-se-aprobo-el-aumento-tarifa-del-20-ciento-n10294489",
+        "link": "https://www.lacapital.com.ar/la-ciudad/taxis-no-remises-si-se-aprobo-el-aumento-tarifa-del-20-ciento-n10294489.html",
         "image": "https://media.lacapital.com.ar/p/243fc59a16a67f1625b3d0da0a80c035/adjuntos/203/imagenes/103/556/0103556636/concejo-comision-servicios-publicos.jpg",
         "summary": "La actualización incluye un ajuste del nuevo cuadro gerencial mientras sigue la discusión sobre la suba en el otro servicio público de transporte",
         "pubDate": "2026-11-27T13:02:00+00:00",
@@ -169,7 +178,7 @@
       {
         "source": "La Capital",
         "title": "Wanda Nara habló sobre su leucemia: \"Agradezco que me tocó a mí y no a mis hijos\"",
-        "link": "https://www.lacapital.com.ar/wanda-nara/wanda-nara-hablo-su-leucemia-agradezco-que-me-toco-mi-y-no-mis-hijos-n10294500",
+        "link": "https://www.lacapital.com.ar/wanda-nara-hablo-su-leucemia-agradezco-que-me-toco-mi-y-no-mis-hijos-n10294500.html",
         "image": "https://media.lacapital.com.ar/p/88875c5adb588fd39361e9d84b6fd626/adjuntos/203/imagenes/103/556/0103556649/1200x675/smart/image-2026-11-27t103822648.jpg",
         "summary": "En plena emisión de “MasterChef”, la conductora se refirió al diagnóstico que recibió en julio de 2023",
         "pubDate": "2026-11-27T12:58:00+00:00",
@@ -178,7 +187,7 @@
       {
         "source": "La Capital",
         "title": "Cuidacoches prohibidos en Rosario: la ley comenzaría a regir a principios de enero",
-        "link": "https://www.lacapital.com.ar/la-ciudad/cuidacoches-prohibidos-rosario-la-ley-comenzaria-regir-principios-enero-n10294503",
+        "link": "https://www.lacapital.com.ar/la-ciudad/cuidacoches-prohibidos-rosario-la-ley-comenzaria-regir-principios-enero-n10294503.html",
         "image": "https://media.lacapital.com.ar/p/a65ad9b33ace3bc41331ce94937d2654/adjuntos/203/imagenes/100/878/0100878695/1200x675/smart/ciudacochesjpg.jpg",
         "summary": "El titular de Control y Convivencia de la Municipalidad, Diego Herrera, dijo que la prohibición \"se implementará en forma progresiva\". Qué se sabe hasta el momento",
         "pubDate": "2026-11-27T12:56:00+00:00",
@@ -187,7 +196,7 @@
       {
         "source": "La Capital",
         "title": "Arrestaron a dos adolescentes por un crimen en la zona sur de la ciudad",
-        "link": "https://www.lacapital.com.ar/policiales/arrestaron-dos-adolescentes-un-crimen-la-zona-sur-la-ciudad-n10294478",
+        "link": "https://www.lacapital.com.ar/policiales/arrestaron-dos-adolescentes-un-crimen-la-zona-sur-la-ciudad-n10294478.html",
         "image": "https://media.lacapital.com.ar/p/6dec3619c851b11bd85176f894f5232c/adjuntos/203/imagenes/103/538/0103538545/auto-homicidio-gutierrez-400-2.jpeg",
         "summary": "Se trata de un chico y una chica, ambos tienen 17 años. Están vinculados al asesinato de Agustín Zabala, baleado a bordo de un automóvil",
         "pubDate": "2026-11-27T12:02:00+00:00",
@@ -196,7 +205,7 @@
       {
         "source": "La Capital",
         "title": "El Senado aprobó cinco jueces federales para Santa Fe",
-        "link": "https://www.lacapital.com.ar/politica/el-senado-aprobo-cinco-jueces-federales-santa-fe-n10294485",
+        "link": "https://www.lacapital.com.ar/politica/el-senado-aprobo-cinco-jueces-federales-santa-fe-n10294485.html",
         "image": "https://media.lacapital.com.ar/p/e3f2acaff4ea59dc364ed81d231c9842/adjuntos/203/imagenes/103/556/0103556489/1200x675/smart/senado-aprobacion.jpeg",
         "summary": "La Cámara alta aprobó los pliegos de los postulantes a magistrados de Garantías en Rosario, San Lorenzo, la capital provincial, Venado Tuerto y Rafaela",
         "pubDate": "2026-11-27T11:57:00+00:00",
@@ -205,7 +214,7 @@
       {
         "source": "La Capital",
         "title": "El Senado convirtió en ley el proyecto de vandalismo rural",
-        "link": "https://www.lacapital.com.ar/agro/el-senado-convirtio-ley-el-proyecto-vandalismo-rural-n10294484",
+        "link": "https://www.lacapital.com.ar/agro/el-senado-convirtio-ley-el-proyecto-vandalismo-rural-n10294484.html",
         "image": "https://media.lacapital.com.ar/p/0d4238fbb9a86c55facec309396adfb1/adjuntos/203/imagenes/028/573/0028573833/1200x675/smart/76109293jpegthumbjpg.jpg",
         "summary": "Con 49 votos a favor y 9 en contra, el Senado aprobó la ley que tipifica el vandalismo rural en el Código Penal. La norma prevé de un mes a un año de prisión por ingresar sin autorización a un campo, y de dos a ocho años por dañar bienes productivos",
         "pubDate": "2026-11-27T11:34:00+00:00",
@@ -214,7 +223,7 @@
       {
         "source": "La Capital",
         "title": "Un muerto y un herido grave en un choque entre un camión y un auto en la ruta 34",
-        "link": "https://www.lacapital.com.ar/la-region/un-muerto-y-un-herido-grave-un-choque-un-camion-y-un-auto-la-ruta-34-n10294479",
+        "link": "https://www.lacapital.com.ar/la-region/un-muerto-y-un-herido-grave-un-choque-un-camion-y-un-auto-la-ruta-34-n10294479.html",
         "image": "https://media.lacapital.com.ar/p/c9fd8e68965fdffbd0e0bc0e2a72bc91/adjuntos/203/imagenes/103/556/0103556395/1200x675/smart/accidente-ruta-34-y-ao12.jpg",
         "summary": "La víctima fatal fue el conductor del auto, oriundo de Rosario. El camionero sufrió politraumatismos",
         "pubDate": "2026-11-27T11:22:00+00:00",
@@ -223,7 +232,7 @@
       {
         "source": "La Capital",
         "title": "El gobierno logró media sanción al Presupuesto pero la oposición subió fondos universitarios",
-        "link": "https://www.lacapital.com.ar/politica/el-gobierno-logro-media-sancion-al-presupuesto-pero-la-oposicion-subio-fondos-universitarios-n10294477",
+        "link": "https://www.lacapital.com.ar/politica/el-gobierno-logro-media-sancion-al-presupuesto-pero-la-oposicion-subio-fondos-universitarios-n10294477.html",
         "image": "https://media.lacapital.com.ar/p/045cb8d452d468abaacfee3d551c721c/adjuntos/203/imagenes/103/556/0103556349/1200x675/smart/camara-diputados.png",
         "summary": "Anteriormente, se había logrado la aprobación de la reforma de la Carta Orgánica del Banco Central en Diputados y la suspensión de las PASO en el Senado",
         "pubDate": "2026-11-27T11:19:00+00:00",
@@ -232,7 +241,7 @@
       {
         "source": "La Capital",
         "title": "La causa sobre fraude en la Policía de Santa Fe sumó un nuevo exjefe detenido en Rosario",
-        "link": "https://www.lacapital.com.ar/policiales/la-causa-fraude-la-policia-santa-fe-sumo-un-nuevo-exjefe-detenido-rosario-n10294472",
+        "link": "https://www.lacapital.com.ar/policiales/la-causa-fraude-la-policia-santa-fe-sumo-un-nuevo-exjefe-detenido-rosario-n10294472.html",
         "image": "https://media.lacapital.com.ar/p/dc210bc46559528d38f694cb278207d4/adjuntos/203/imagenes/103/556/0103556359/nicolas-dangelo.jpeg",
         "summary": "Nicolás D'Angelo ya había dejado su cargo en la Unidad Regional II tras la denuncia de corrupción en la compra de combustible, aunque continuaba en libertad",
         "pubDate": "2026-11-27T11:10:00+00:00",
@@ -241,7 +250,7 @@
       {
         "source": "La Capital",
         "title": "Con 70 años, creó de cero una urna memorial para mascotas con pantalla animada",
-        "link": "https://www.lacapital.com.ar/negocios/con-70-anos-creo-cero-una-urna-memorial-mascotas-pantalla-animada-n10293107",
+        "link": "https://www.lacapital.com.ar/negocios/con-70-anos-creo-cero-una-urna-memorial-mascotas-pantalla-animada-n10293107.html",
         "image": "https://media.lacapital.com.ar/p/63304d1f81cd4169a3c3e4f92ddc7df3/adjuntos/203/imagenes/103/541/0103541442/82873733.jpeg",
         "summary": "Alberto Mantel vive en Rosario desde hace un año. Aquí, diseñó una urna funeraria innovadora: tiene una pantalla que muestra momentos de la vida de la mascota. Lo quiere replicar en equinos.",
         "pubDate": "2026-11-27T11:02:00+00:00",
@@ -250,7 +259,7 @@
       {
         "source": "La Capital",
         "title": "Comenzó el Black Friday 2026: qué rubros y marcas ofrecen descuentos",
-        "link": "https://www.lacapital.com.ar/informacion-general/comenzo-el-black-friday-2026-que-rubros-y-marcas-ofrecen-descuentos-n10293129",
+        "link": "https://www.lacapital.com.ar/informacion-general/comenzo-el-black-friday-2026-que-rubros-y-marcas-ofrecen-descuentos-n10293129.html",
         "image": "https://media.lacapital.com.ar/p/91d8a8e689153876bfef9a422d0fdb7b/adjuntos/203/imagenes/103/541/0103541706/1200x675/smart/image-7.png",
         "summary": "Muchas empresas argentinas e internacionales se suman a la fecha de promociones comerciales. Dónde se puede comprar y qué recomendaciones tener en cuenta",
         "pubDate": "2026-11-27T11:02:00+00:00",
@@ -259,18 +268,9 @@
       {
         "source": "La Capital",
         "title": "Llega a Rosario una conferencia y un hackathon para quienes emprenden en tecnología",
-        "link": "https://www.lacapital.com.ar/la-ciudad/llega-rosario-una-conferencia-y-un-hackathon-quienes-emprenden-tecnologia-n10293886",
+        "link": "https://www.lacapital.com.ar/la-ciudad/llega-rosario-una-conferencia-y-un-hackathon-quienes-emprenden-tecnologia-n10293886.html",
         "image": "https://media.lacapital.com.ar/p/c581759781262e61d911fc9f0e12f578/adjuntos/203/imagenes/103/556/0103556393/1200x675/smart/nuevo-hub-2026.jpg",
         "summary": "El 27 y 28 de noviembre, empresas tecnológicas, emprendedores e instituciones se reúnen para impulsar el ecosistema tecnológico argentino. La entrada es libre con inscripción previa",
-        "pubDate": "2026-11-27T11:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Billeteras virtuales: cuál paga más en noviembre 2026 y por qué le ganan al plazo fijo",
-        "link": "https://www.lacapital.com.ar/negocios/billeteras-virtuales-cual-paga-mas-noviembre-2026-y-que-le-ganan-al-plazo-fijo-n10294474.html",
-        "image": "https://media.lacapital.com.ar/p/b6590229567d8240182e764da220c571/adjuntos/203/imagenes/103/556/0103556348/1200x675/smart/billeteras-virtuales-cual-paga-mas-noviembre-2026-y-que-le-ganan-al-plazo-fijo.jpg",
-        "summary": "Las plataformas digitales lideran los rendimientos en pesos sin exigir que el capital quede bloqueado. Cómo funciona el cálculo diario de intereses, qué beneficios suman las billeteras virtuales para viajes al exterior y qué requisitos conviene chequear",
         "pubDate": "2026-11-27T11:00:00+00:00",
         "approxTime": false
       }
