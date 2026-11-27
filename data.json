@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T02:30:59.175525+00:00",
+  "generatedAt": "2026-11-27T03:01:09.002285+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Express Telecomunicaciones sortea $12 millones en órdenes de compra y 4 motos eléctricas por las fiestas",
+        "link": "https://www.lacapital.com.ar/novedades/express-telecomunicaciones-sortea-12-millones-ordenes-compra-y-4-motos-electricas-las-fiestas-n10294352.html",
+        "image": "https://media.lacapital.com.ar/p/d179edbf1260b378abe7f168cbeada8a/adjuntos/203/imagenes/103/555/0103555474/1200x675/smart/story_sorteo-1-1.jpg",
+        "summary": "Con la campaña Festejemos juntos: en tu casa todo el año, Express Telecomunicaciones renueva su tradicional sorteo de fin de año.",
+        "pubDate": "2026-11-27T03:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "El tiempo en Rosario: las marcas empiezan a subir en un anticipo del verano",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-las-marcas-empiezan-subir-un-anticipo-del-verano-n10294464.html",
+        "image": "https://media.lacapital.com.ar/p/b83da29ad8e2ed28cecd3123c9d12c4a/adjuntos/203/imagenes/103/556/0103556302/2026-11-26-clima.jpg",
+        "summary": "El viernes tendría una temperatura máxima de 31º que seguiría en aumento el fin de semana, para llegar a 35º el domingo y mantener esos niveles al menos hasta el martes",
+        "pubDate": "2026-11-27T02:36:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "La primera prueba de defensa planetaria de la humanidad habría sido un éxito",
         "link": "https://www.lacapital.com.ar/informacion-general/la-primera-prueba-defensa-planetaria-la-humanidad-habria-sido-un-exito-n10294463.html",
         "image": "https://media.lacapital.com.ar/p/6f5c26f6aaacf1a037a77af4e70661d2/adjuntos/203/imagenes/103/556/0103556280/2026-11-26-asteroide.jpg",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/f40ed511d6c6dc10f0b8ec6a287ce4fe/adjuntos/203/imagenes/103/555/0103555910/1200x675/smart/image-62.jpg",
         "summary": "El joven de 22 años fue localizado por la PDI en la guardia del Hospital Agudo Ávila tras dos allanamientos. La víctima tenía 28 años y circulaba por bulevar Avellaneda",
         "pubDate": "2026-11-26T22:01:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Villa Constitución: un video registró la angustia de los 110 trabajadores de Plantium al recibir sus telegramas de despido",
-        "link": "https://www.lacapital.com.ar/la-region/villa-constitucion-un-video-registro-la-angustia-los-110-trabajadores-plantium-al-recibir-sus-telegramas-despido-n10294427.html",
-        "image": "https://media.lacapital.com.ar/p/b735cc560ea53b2e1a734c4f91463681/adjuntos/203/imagenes/103/555/0103555901/1200x675/smart/image-59.jpg",
-        "summary": "Las imágenes fueron grabadas por una empleada el pasado 30 de octubre y difundidas ahora. Los trabajadores mantienen un acampe frente a la fábrica, mientras la empresa solicitó la apertura del concurso preventivo de acreedores y acaba de recibir dos premios a la innovación…",
-        "pubDate": "2026-11-26T21:57:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Preocupación en Puerto Norte por una seguidilla de robos a comercios durante la madrugada",
-        "link": "https://www.lacapital.com.ar/policiales/preocupacion-puerto-norte-una-seguidilla-robos-comercios-la-madrugada-n10294381.html",
-        "image": "https://media.lacapital.com.ar/p/260fe2299079beaf21170dd121a9dc9a/adjuntos/203/imagenes/103/555/0103555900/1200x675/smart/imagenorte.jpg",
-        "summary": "Los delincuentes destrozan los ventanales de los locales y se llevan dinero de las cajas registradoras. Vecinos y comerciantes advierten sobre la reducción del personal de seguridad y la falta de patrullaje policial",
-        "pubDate": "2026-11-26T21:46:00+00:00",
         "approxTime": false
       }
     ]
