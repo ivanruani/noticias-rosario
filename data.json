@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-11-27T12:01:14.843819+00:00",
+  "generatedAt": "2026-11-27T12:31:01.685632+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Detuvieron a exjefe policial por la causa de desvío de fondos destinados a la carga de combustible de los patrulleros",
+        "link": "https://www.rosario3.com/policiales/detuvieron-a-exjefe-policial-por-la-causa-de-desvio-de-fondos-destinados-a-la-carga-de-combustible-de-los-patrulleros-20261127-0019.html",
+        "image": "https://www.rosario3.com/__export/1795782117572/sites/rosario3/img/2026/11/27/dangelo_y_acosta.jpg_928314580.jpg",
+        "summary": "Nicolás D’Angelo, conocido como “Martillo”, fue aprehendido este jueves por la División Judiciales. Fue jefe de la Agrupación Cuerpos en el momento en el que ocurrieron las maniobras defraudatorias investigadas. El arresto fue solicitado por el fiscal de la causa José Luis…",
+        "pubDate": "2026-11-27T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Desde cuándo y cómo se va a implementar la prohibición de los cuidacoches en Rosario",
         "link": "https://www.rosario3.com/informaciongeneral/desde-cuando-y-como-se-va-a-implementar-la-prohibicion-de-los-cuidacoches-en-rosario-20261127-0014.html",
         "image": "https://www.rosario3.com/__export/1795779633088/sites/rosario3/img/2026/11/27/detencioncuidacoche1.jpg_928314581.jpg",
         "summary": "Tras la sanción de la ordenanza, el municipio detalló las intervenciones prioritarias en sectores críticos, perímetros gastronómicos y espectáculos masivos. La presidenta del Concejo, María Eugenia Schmuck, defendió la ordenanza al sostener que era una medida demandada por la…",
-        "pubDate": "2026-11-27T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El conductor de un auto murió por las graves heridas sufridas al chocar con un camión en la ruta 34 y la A012",
-        "link": "https://www.rosario3.com/policiales/el-conductor-de-un-auto-murio-por-las-graves-heridas-sufridas-al-chocar-con-un-camion-en-la-ruta-34-y-la-a012-20261127-0009.html",
-        "image": "https://www.rosario3.com/__export/1795777907426/sites/rosario3/img/2026/11/27/siniestroruta34012.jpg_928314581.jpg",
-        "summary": "El siniestro vial tuvo lugar este jueves a las 22 por causas que aún no se esclarecieron. El hombre que que manejaba el coche sufrió fracturas expuestas en sus piernas y la amputación de su brazo y falleció en el hospital Eva Perón",
         "pubDate": "2026-11-27T11:59:00+00:00",
         "approxTime": true
       },
@@ -31,11 +31,20 @@
       },
       {
         "source": "Rosario3",
-        "title": "Claves del día: deuda antes de las urnas, empresas en crisis y más controles a las billeteras | Ecos365",
-        "link": "https://www.rosario3.com/ecos365/noticias/claves-del-dia-deuda-antes-de-las-urnas-empresas-en-crisis-y-mas-controles-a-las-billeteras-20261127-0001.html",
-        "image": "https://www.rosario3.com/__export/1795773464576/sites/rosario3/img/2026/11/27/billetera_crop1795773464147.jpg_851902091.jpg",
-        "summary": "Caputo refinanció la deuda, pero los vencimientos se amontonan antes de las elecciones. Milei consiguió la reforma del BCRA y el Presupuesto avanzó con cambios. Las empresas acumulan crisis, las billeteras suman controles y Santa Fe prepara su paquete fiscal",
+        "title": "Se viene la Semana del Fútbol rosarino: entrenamientos abiertos en Newell’s y Central, congreso internacional y torneo juvenil",
+        "link": "https://www.rosario3.com/deportes/se-viene-la-semana-del-futbol-rosarino-entrenamientos-abiertos-en-newells-y-central-congreso-internacional-y-torneo-juvenil-20261127-0011.html",
+        "image": "https://www.rosario3.com/__export/1795778338258/sites/rosario3/img/2026/11/27/grupoekipo-1793907584-4023910922435575877-3265692129_-1-.jpg_928314580.jpg",
+        "summary": "La iniciativa busca posicionar a la ciudad como el principal polo de conocimiento, formación e innovación futbolística del país. Comenzará la semana que viene con actividades gratuitas y aranceladas en distintas sedes de la región",
         "pubDate": "2026-11-27T11:57:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "El conductor de un auto murió por las graves heridas sufridas al chocar con un camión en la ruta 34 y la A012",
+        "link": "https://www.rosario3.com/policiales/el-conductor-de-un-auto-murio-por-las-graves-heridas-sufridas-al-chocar-con-un-camion-en-la-ruta-34-y-la-a012-20261127-0009.html",
+        "image": "https://www.rosario3.com/__export/1795777907426/sites/rosario3/img/2026/11/27/siniestroruta34012.jpg_928314581.jpg",
+        "summary": "El siniestro vial tuvo lugar este jueves a las 22 por causas que aún no se esclarecieron. El hombre que que manejaba el coche sufrió fracturas expuestas en sus piernas y la amputación de su brazo y falleció en el hospital Eva Perón",
+        "pubDate": "2026-11-27T11:56:00+00:00",
         "approxTime": true
       },
       {
@@ -44,24 +53,15 @@
         "link": "https://www.rosario3.com/ocio/que-hacemos-el-fin-de-semana-en-rosario-la-banda-de-carlitos-y-euge-quevedo-abel-pintos-valeria-lynch-y-mucho-mas-20261126-0007.html",
         "image": "https://www.rosario3.com/__export/1795694094248/sites/rosario3/img/2026/11/26/agenda_26.jpg_871101233.jpg",
         "summary": "La ciudad propone una intensa agenda de recitales, teatro, comedias musicales y espectáculos gratuitos, con el Festival Fontanarrosa como uno de los grandes atractivos",
-        "pubDate": "2026-11-26T11:56:00+00:00",
+        "pubDate": "2026-11-26T11:55:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "“Casate con tu ciudad como testigo”: 12 parejas dan el “sí” este viernes en el pasaje Luetich",
-        "link": "https://www.rosario3.com/informaciongeneral/casate-con-tu-ciudad-como-testigo-12-parejas-dan-el-si-este-viernes-en-el-pasaje-luetich-20261127-0006.html",
-        "image": "https://www.rosario3.com/__export/1795775185656/sites/rosario3/img/2026/11/27/image_-98-.jpg_928314581.jpg",
-        "summary": "A partir de las 9 comenzarán a celebrarse los enlaces por turnos. Se trata del programa provincial que ya se instaló como opción para las parejas que quieren festejar su matrimonio con Rosario de fondo",
-        "pubDate": "2026-11-27T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "La Cámara de Casación confirmó la condena por abuso sexual a Jorge Martínez, extécnico de Boca de fútbol femenino",
-        "link": "https://www.rosario3.com/policiales/la-camara-de-casacion-confirmo-la-condena-por-abuso-sexual-a-jorge-martinez-extecnico-de-boca-de-futbol-femenino-20261127-0004.html",
-        "image": "https://www.rosario3.com/__export/1795773350139/sites/rosario3/img/2026/11/27/image_-96-.jpg_928314580.jpg",
-        "summary": "Los hechos ocurrieron el 30 de marzo de 2022, cuando Martínez se acercó por detrás a la víctima, María Florencia Marco, quien por entonces se desempeñaba como jefa de prensa del equipo femenino xeneize. La pena es de un año de prisión en suspenso",
+        "title": "Dura sanción a Lucas Carrizo tras ser expulsado en el duelo de Newell’s ante Gimnasia de La Plata",
+        "link": "https://www.rosario3.com/deportes/dura-sancion-a-lucas-carrizo-tras-ser-expulsado-en-el-duelo-de-newells-ante-gimnasia-de-la-plata-20261127-0017.html",
+        "image": "https://www.rosario3.com/__export/1795781530021/sites/rosario3/img/2026/11/27/nob_gimnasia.jpg_506286608.jpg",
+        "summary": "El Tribunal de Disciplina de la AFA castigó al defensor rojinegro con cuatro fechas de suspensión por los incidentes tras la eliminación ante el Lobo en La Plata. Gabriel Arias recibió dos, mientras que Russo y Ortega fueron suspendidos por una jornada",
         "pubDate": "2026-11-27T11:54:00+00:00",
         "approxTime": true
       },
@@ -103,46 +103,55 @@
       },
       {
         "source": "Rosario3",
-        "title": "El clima en Rosario: una primavera con olor a verano y un termómetro en pleno ascenso",
-        "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-una-primavera-con-olor-a-verano-y-un-termometro-en-pleno-ascenso-20261127-0001.html",
-        "image": "https://www.rosario3.com/__export/1795771404057/sites/rosario3/img/2025/02/10/dia_mas_caluroso_del_axo.jpg_786111823.jpg",
-        "summary": "El Servicio Meteorológico Nacional anticipa una jornada estable y bien cálida en la región. El calor empieza a apretar en la ciudad antes de un fin de semana con marcas agobiantes",
+        "title": "Avanzó en el Senado la prórroga del Estatuto del Periodista por 6 meses a pesar de que los sindicatos pidieron un año",
+        "link": "https://www.rosario3.com/politica/avanzo-en-el-senado-la-prorroga-del-estatuto-del-periodista-por-6-meses-a-pesar-de-que-los-sindicatos-pidieron-un-ano-20261127-0013.html",
+        "image": "https://www.rosario3.com/__export/1795779432376/sites/rosario3/img/2026/11/27/estatuto.jpg_982625323.jpg",
+        "summary": "Con 68 votos afirmativos, tres negativos y ninguna abstención, la extensión consiguió media sanción y la ley 12.908 sería renovada. Ahora el textro deberá ser refrendado en Cámara de Diputados. Los sindicatos de prensa y bloques opositores habían pedido una prórroga de un año",
         "pubDate": "2026-11-27T11:49:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Violento robo a mano armada en Funes: dos delincuentes ataron a las víctimas con alambre y se llevaron dinero de un comercio",
-        "link": "https://www.rosario3.com/informaciongeneral/violento-robo-a-mano-armada-en-funes-dos-delincuentes-ataron-a-las-victimas-con-alambre-y-se-llevaron-dinero-de-un-comercio-20261126-0072.html",
-        "image": "https://www.rosario3.com/__export/1795737207819/sites/rosario3/img/2026/11/26/robo_funes.jpg_928314581.jpg",
-        "summary": "El hecho ocurrió este jueves alrededor de las 16.30 en un local dedicado a la venta de césped, ubicado en la zona de Jacarandá y avenida Arturo Illia. Los ladrones actuaron a cara descubierta, amenazaron con armas a los presentes y escaparon en un Chevrolet Corsa blanco. El…",
-        "pubDate": "2026-11-26T11:48:00+00:00",
+        "title": "La Cámara de Casación confirmó la condena por abuso sexual a Jorge Martínez, extécnico de Boca de fútbol femenino",
+        "link": "https://www.rosario3.com/policiales/la-camara-de-casacion-confirmo-la-condena-por-abuso-sexual-a-jorge-martinez-extecnico-de-boca-de-futbol-femenino-20261127-0004.html",
+        "image": "https://www.rosario3.com/__export/1795773350139/sites/rosario3/img/2026/11/27/image_-96-.jpg_928314580.jpg",
+        "summary": "Los hechos ocurrieron el 30 de marzo de 2022, cuando Martínez se acercó por detrás a la víctima, María Florencia Marco, quien por entonces se desempeñaba como jefa de prensa del equipo femenino xeneize. La pena es de un año de prisión en suspenso",
+        "pubDate": "2026-11-27T11:48:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Rosario tendrá una campaña permanente contra la violencia de género y sumará una guía de actuación ciudadana",
-        "link": "https://www.rosario3.com/informaciongeneral/rosario-tendra-una-campana-permanente-contra-la-violencia-de-genero-y-sumara-una-guia-de-actuacion-ciudadana-20261126-0076.html",
-        "image": "https://www.rosario3.com/__export/1795740213457/sites/rosario3/img/2026/11/26/concejo.jpg_1825222445.jpg",
-        "summary": "La normativa actualiza la legislación vigente desde 1999 y prevé recomendaciones para reconocer estas situaciones, acompañar a las personas afectadas y solicitar asistencia",
-        "pubDate": "2026-11-26T11:47:00+00:00",
+        "title": "Claves del día: deuda antes de las urnas, empresas en crisis y más controles a las billeteras | Ecos365",
+        "link": "https://www.rosario3.com/ecos365/noticias/claves-del-dia-deuda-antes-de-las-urnas-empresas-en-crisis-y-mas-controles-a-las-billeteras-20261127-0001.html",
+        "image": "https://www.rosario3.com/__export/1795773464576/sites/rosario3/img/2026/11/27/billetera_crop1795773464147.jpg_851902091.jpg",
+        "summary": "Caputo refinanció la deuda, pero los vencimientos se amontonan antes de las elecciones. Milei consiguió la reforma del BCRA y el Presupuesto avanzó con cambios. Las empresas acumulan crisis, las billeteras suman controles y Santa Fe prepara su paquete fiscal",
+        "pubDate": "2026-11-27T11:47:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Festival Fontanarrosa: presentan un libro que reconstruye la vida del Negro a través de anécdotas y recuerdos",
-        "link": "https://www.rosario3.com/ocio/festival-fontanarrosa-presentan-un-libro-que-reconstruye-la-vida-del-negro-a-traves-de-anecdotas-y-recuerdos-20261126-0032.html",
-        "image": "https://www.rosario3.com/__export/1795706927830/sites/rosario3/img/2026/11/26/fontanrrosa_genio.jpg_54252853.jpg",
-        "summary": "Se trata de Fontanarrosa, ¡genio!, del escritor y periodista argentino radicado en BerlÍn Federico Winer. La presentación será este sábado a las 17 en el Cultural Fontanarrosa, con la participación de los escritores Héctor Hugo Cardozo y Fabián Bazán",
-        "pubDate": "2026-11-26T11:46:00+00:00",
+        "title": "El clima en Rosario: una primavera con olor a verano y un termómetro en pleno ascenso",
+        "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-una-primavera-con-olor-a-verano-y-un-termometro-en-pleno-ascenso-20261127-0001.html",
+        "image": "https://www.rosario3.com/__export/1795771404057/sites/rosario3/img/2025/02/10/dia_mas_caluroso_del_axo.jpg_786111823.jpg",
+        "summary": "El Servicio Meteorológico Nacional anticipa una jornada estable y bien cálida en la región. El calor empieza a apretar en la ciudad antes de un fin de semana con marcas agobiantes",
+        "pubDate": "2026-11-27T11:46:00+00:00",
         "approxTime": true
       }
     ],
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Arrestaron a dos adolescentes por un crimen en la zona sur de la ciudad",
+        "link": "https://www.lacapital.com.ar/policiales/arrestaron-dos-adolescentes-un-crimen-la-zona-sur-la-ciudad-n10294478",
+        "image": "https://media.lacapital.com.ar/p/6dec3619c851b11bd85176f894f5232c/adjuntos/203/imagenes/103/538/0103538545/auto-homicidio-gutierrez-400-2.jpeg",
+        "summary": "Se trata de un chico y una chica, ambos tienen 17 años. Están vinculados al asesinato de Agustín Zabala, baleado a bordo de un automóvil",
+        "pubDate": "2026-11-27T12:02:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El Senado aprobó cinco jueces federales para Santa Fe",
-        "link": "https://www.lacapital.com.ar/politica/el-senado-aprobo-cinco-jueces-federales-santa-fe-n10294485.html",
+        "link": "https://www.lacapital.com.ar/politica/el-senado-aprobo-cinco-jueces-federales-santa-fe-n10294485",
         "image": "https://media.lacapital.com.ar/p/e3f2acaff4ea59dc364ed81d231c9842/adjuntos/203/imagenes/103/556/0103556489/1200x675/smart/senado-aprobacion.jpeg",
         "summary": "La Cámara alta aprobó los pliegos de los postulantes a magistrados de Garantías en Rosario, San Lorenzo, la capital provincial, Venado Tuerto y Rafaela",
         "pubDate": "2026-11-27T11:57:00+00:00",
@@ -151,7 +160,7 @@
       {
         "source": "La Capital",
         "title": "El Senado convirtió en ley el proyecto de vandalismo rural",
-        "link": "https://www.lacapital.com.ar/agro/el-senado-convirtio-ley-el-proyecto-vandalismo-rural-n10294484.html",
+        "link": "https://www.lacapital.com.ar/agro/el-senado-convirtio-ley-el-proyecto-vandalismo-rural-n10294484",
         "image": "https://media.lacapital.com.ar/p/0d4238fbb9a86c55facec309396adfb1/adjuntos/203/imagenes/028/573/0028573833/1200x675/smart/76109293jpegthumbjpg.jpg",
         "summary": "Con 49 votos a favor y 9 en contra, el Senado aprobó la ley que tipifica el vandalismo rural en el Código Penal. La norma prevé de un mes a un año de prisión por ingresar sin autorización a un campo, y de dos a ocho años por dañar bienes productivos",
         "pubDate": "2026-11-27T11:34:00+00:00",
@@ -160,7 +169,7 @@
       {
         "source": "La Capital",
         "title": "Un muerto y un herido grave en un choque entre un camión y un auto en la ruta 34",
-        "link": "https://www.lacapital.com.ar/la-region/un-muerto-y-un-herido-grave-un-choque-un-camion-y-un-auto-la-ruta-34-n10294479.html",
+        "link": "https://www.lacapital.com.ar/la-region/un-muerto-y-un-herido-grave-un-choque-un-camion-y-un-auto-la-ruta-34-n10294479",
         "image": "https://media.lacapital.com.ar/p/c9fd8e68965fdffbd0e0bc0e2a72bc91/adjuntos/203/imagenes/103/556/0103556395/1200x675/smart/accidente-ruta-34-y-ao12.jpg",
         "summary": "La víctima fatal fue el conductor del choque, oriundo de Rosario. El camionero sufrió politraumatismos",
         "pubDate": "2026-11-27T11:22:00+00:00",
@@ -169,7 +178,7 @@
       {
         "source": "La Capital",
         "title": "El gobierno logró media sanción al Presupuesto pero la oposición subió fondos universitarios",
-        "link": "https://www.lacapital.com.ar/politica/el-gobierno-logro-media-sancion-al-presupuesto-pero-la-oposicion-subio-fondos-universitarios-n10294477.html",
+        "link": "https://www.lacapital.com.ar/politica/el-gobierno-logro-media-sancion-al-presupuesto-pero-la-oposicion-subio-fondos-universitarios-n10294477",
         "image": "https://media.lacapital.com.ar/p/045cb8d452d468abaacfee3d551c721c/adjuntos/203/imagenes/103/556/0103556349/1200x675/smart/camara-diputados.png",
         "summary": "Anteriormente, se había logrado la aprobación de la reforma de la Carta Orgánica del Banco Central en Diputados y la suspensión de las PASO en el Senado",
         "pubDate": "2026-11-27T11:19:00+00:00",
@@ -178,7 +187,7 @@
       {
         "source": "La Capital",
         "title": "La causa sobre fraude en la Policía de Santa Fe sumó un nuevo exjefe detenido en Rosario",
-        "link": "https://www.lacapital.com.ar/policiales/la-causa-fraude-la-policia-santa-fe-sumo-un-nuevo-exjefe-detenido-rosario-n10294472.html",
+        "link": "https://www.lacapital.com.ar/policiales/la-causa-fraude-la-policia-santa-fe-sumo-un-nuevo-exjefe-detenido-rosario-n10294472",
         "image": "https://media.lacapital.com.ar/p/dc210bc46559528d38f694cb278207d4/adjuntos/203/imagenes/103/556/0103556359/nicolas-dangelo.jpeg",
         "summary": "Nicolás D'Angelo ya había dejado su cargo en la Unidad Regional II tras la denuncia de corrupción en la compra de combustible, aunque continuaba en libertad",
         "pubDate": "2026-11-27T11:10:00+00:00",
@@ -187,7 +196,7 @@
       {
         "source": "La Capital",
         "title": "Con 70 años, creó de cero una urna memorial para mascotas con pantalla animada",
-        "link": "https://www.lacapital.com.ar/negocios/con-70-anos-creo-cero-una-urna-memorial-mascotas-pantalla-animada-n10293107.html",
+        "link": "https://www.lacapital.com.ar/negocios/con-70-anos-creo-cero-una-urna-memorial-mascotas-pantalla-animada-n10293107",
         "image": "https://media.lacapital.com.ar/p/63304d1f81cd4169a3c3e4f92ddc7df3/adjuntos/203/imagenes/103/541/0103541442/82873733.jpeg",
         "summary": "Alberto Mantel vive en Rosario desde hace un año. Aquí, diseñó una urna funeraria innovadora: tiene una pantalla que muestra momentos de la vida de la mascota. Lo quiere replicar en equinos.",
         "pubDate": "2026-11-27T11:02:00+00:00",
@@ -196,7 +205,7 @@
       {
         "source": "La Capital",
         "title": "Comenzó el Black Friday 2026: qué rubros y marcas ofrecen descuentos",
-        "link": "https://www.lacapital.com.ar/informacion-general/comenzo-el-black-friday-2026-que-rubros-y-marcas-ofrecen-descuentos-n10293129.html",
+        "link": "https://www.lacapital.com.ar/informacion-general/comenzo-el-black-friday-2026-que-rubros-y-marcas-ofrecen-descuentos-n10293129",
         "image": "https://media.lacapital.com.ar/p/91d8a8e689153876bfef9a422d0fdb7b/adjuntos/203/imagenes/103/541/0103541706/1200x675/smart/image-7.png",
         "summary": "Muchas empresas argentinas e internacionales se suman a la fecha de promociones comerciales. Dónde se puede comprar y qué recomendaciones tener en cuenta",
         "pubDate": "2026-11-27T11:02:00+00:00",
@@ -205,7 +214,7 @@
       {
         "source": "La Capital",
         "title": "Llega a Rosario una conferencia y un hackathon para quienes emprenden en tecnología",
-        "link": "https://www.lacapital.com.ar/la-ciudad/llega-rosario-una-conferencia-y-un-hackathon-quienes-emprenden-tecnologia-n10293886.html",
+        "link": "https://www.lacapital.com.ar/la-ciudad/llega-rosario-una-conferencia-y-un-hackathon-quienes-emprenden-tecnologia-n10293886",
         "image": "https://media.lacapital.com.ar/p/c581759781262e61d911fc9f0e12f578/adjuntos/203/imagenes/103/556/0103556393/1200x675/smart/nuevo-hub-2026.jpg",
         "summary": "El 27 y 28 de noviembre, empresas tecnológicas, emprendedores e instituciones se reúnen para impulsar el ecosistema tecnológico argentino. La entrada es libre con inscripción previa",
         "pubDate": "2026-11-27T11:00:00+00:00",
@@ -223,7 +232,7 @@
       {
         "source": "La Capital",
         "title": "Villa Guillermina: seguirá preso el hombre que mató al vecino tras discusión por la música",
-        "link": "https://www.lacapital.com.ar/policiales/villa-guillermina-seguira-preso-el-hombre-que-mato-al-vecino-discusion-la-musica-n10294475.html",
+        "link": "https://www.lacapital.com.ar/policiales/villa-guillermina-seguira-preso-el-hombre-que-mato-al-vecino-discusion-la-musica-n10294475",
         "image": "https://media.lacapital.com.ar/p/8e689853fdd1d460f8f3637909cf64bc/adjuntos/203/imagenes/103/545/0103545079/homicidio-villa-guillermina.jpg",
         "summary": "Leandro Pezz, de 62 años, fue imputado por el homicidio agravado de Elvio Geisser, que fue grabado en video en medio de la calle",
         "pubDate": "2026-11-27T10:38:39+00:00",
@@ -232,7 +241,7 @@
       {
         "source": "La Capital",
         "title": "El Senado aprobó la ley que controla y limita las apuestas on line",
-        "link": "https://www.lacapital.com.ar/politica/el-senado-aprobo-la-ley-que-controla-y-limita-las-apuestas-on-line-n10294469.html",
+        "link": "https://www.lacapital.com.ar/politica/el-senado-aprobo-la-ley-que-controla-y-limita-las-apuestas-on-line-n10294469",
         "image": "https://media.lacapital.com.ar/p/6ca7489fada1b01e05565db2f612797a/adjuntos/203/imagenes/103/556/0103556324/1200x675/smart/senado-ludopatia.png",
         "summary": "La iniciativa también prohíbe promocionar las apuestas a través de plataformas, redes sociales, medios audiovisuales y publicidad exterior",
         "pubDate": "2026-11-27T10:00:14+00:00",
@@ -241,7 +250,7 @@
       {
         "source": "La Capital",
         "title": "De local: Franco Luciani y Victoria Birchner presentan su disco \"Como en casa\"",
-        "link": "https://www.lacapital.com.ar/zoom/de-local-franco-luciani-y-victoria-birchner-presentan-su-disco-como-casa-n10294372.html",
+        "link": "https://www.lacapital.com.ar/zoom/de-local-franco-luciani-y-victoria-birchner-presentan-su-disco-como-casa-n10294372",
         "image": "https://media.lacapital.com.ar/p/f76df2e32e8707785d30cd5fece41614/adjuntos/203/imagenes/103/555/0103555790/1200x675/smart/image-2026-11-26t182317225.png",
         "summary": "La dupla decantó más de una década de vida y trabajo compartido en su primer álbum conjunto. El show es este sábado 28 en Lavardén, con entrada libre y gratuita",
         "pubDate": "2026-11-27T10:00:00+00:00",
@@ -249,17 +258,8 @@
       },
       {
         "source": "La Capital",
-        "title": "El Paraná al límite pone en alerta la rutina escolar en las islas frente a Rosario",
-        "link": "https://www.lacapital.com.ar/la-ciudad/el-parana-al-limite-pone-alerta-la-rutina-escolar-las-islas-frente-rosario-n10294221.html",
-        "image": "https://media.lacapital.com.ar/p/ca279b9bec06cc38dce2f5e64c053317/adjuntos/203/imagenes/103/553/0103553335/1200x675/smart/senoislera-1.jpg",
-        "summary": "Con el río cerca de los 5 metros, se sostienen las clases entre camalotes, traslados en lancha y carencias cotidianas en el cierre del año",
-        "pubDate": "2026-11-27T09:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "Portal Rosario se relanza con seis marcas internacionales, la ampliación de Jumbo e Easy y descuentos de hasta el 50%",
-        "link": "https://www.lacapital.com.ar/negocios/portal-rosario-se-relanza-seis-marcas-internacionales-la-ampliacion-jumbo-e-easy-y-descuentos-el-50-n10294208.html",
+        "link": "https://www.lacapital.com.ar/negocios/portal-rosario-se-relanza-seis-marcas-internacionales-la-ampliacion-jumbo-e-easy-y-descuentos-el-50-n10294208",
         "image": "https://media.lacapital.com.ar/p/f0f07e82e41ef9b5d9d0e38ac92810c1/adjuntos/203/imagenes/103/555/0103555478/1200x675/smart/9e41b77d-2083-45f5-a6c7-111e2a57899a.jpg",
         "summary": "El shopping de Cencosud inaugurará este sábado su renovada propuesta comercial, que incluye el desembarco de Decathlon en la provincia y la incorporación de nuevas marcas internacionales",
         "pubDate": "2026-11-27T09:30:00+00:00",
@@ -267,11 +267,11 @@
       },
       {
         "source": "La Capital",
-        "title": "Una tambera de Pergamino apostó por las ovejas y hoy vende quesos premium que llegan a chefs de Buenos Aires",
-        "link": "https://www.lacapital.com.ar/agro/una-tambera-pergamino-aposto-las-ovejas-y-hoy-vende-quesos-premium-que-llegan-chefs-buenos-aires-n10294078.html",
-        "image": "https://media.lacapital.com.ar/p/c711f59be11c53491d1b6b069f818afc/adjuntos/203/imagenes/103/552/0103552273/1200x675/smart/maria-eugenia-del-puerto-mujer-rural-pergamino.jpeg",
-        "summary": "María Eugenia Del Puerto, tambera desde hace 25 años, montó un tambo-fábrica ovino donde elabora quesos y dulce de leche premium. Con local propio, vende en la región y también a reconocidos chefs porteños",
-        "pubDate": "2026-11-27T09:15:00+00:00",
+        "title": "El Paraná al límite pone en alerta la rutina escolar en las islas frente a Rosario",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-parana-al-limite-pone-alerta-la-rutina-escolar-las-islas-frente-rosario-n10294221",
+        "image": "https://media.lacapital.com.ar/p/ca279b9bec06cc38dce2f5e64c053317/adjuntos/203/imagenes/103/553/0103553335/1200x675/smart/senoislera-1.jpg",
+        "summary": "Con el río cerca de los 5 metros, se sostienen las clases entre camalotes, traslados en lancha y carencias cotidianas en el cierre del año",
+        "pubDate": "2026-11-27T09:30:00+00:00",
         "approxTime": false
       }
     ]
