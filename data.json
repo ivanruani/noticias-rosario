@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T22:01:11.187112+00:00",
+  "generatedAt": "2026-11-27T22:31:05.441685+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Los Pumas, con seis cambios para jugar ante Escocia por el Nations Championship",
+        "link": "https://www.lacapital.com.ar/ovacion/los-pumas-seis-cambios-jugar-escocia-el-nations-championship-n10294628.html",
+        "image": "https://media.lacapital.com.ar/p/1c11aabf0cb6c20da824419ad4054e7f/adjuntos/203/imagenes/103/557/0103557989/1200x675/smart/image-13.jpg",
+        "summary": "Se enfrentan mañana en Twickenham para definir el séptimo puesto del Nation Championship. “Nos van a exigir defensivamente”, dijo el head coach Felipe Contepomi",
+        "pubDate": "2026-11-27T22:21:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Un santafesino se convirtió en el primer argentino clasificado a los Juegos Olímpicos 2028",
+        "link": "https://www.lacapital.com.ar/ovacion/un-santafesino-se-convirtio-el-primer-argentino-clasificado-los-juegos-olimpicos-2028-n10294574.html",
+        "image": "https://media.lacapital.com.ar/p/7174477cd8aaae458e3ceab00aa5957d/adjuntos/203/imagenes/103/557/0103557650/1200x675/smart/alexis-eberhardt-rifle-aire.jpeg",
+        "summary": "Alexis Eberhardt, oriundo de San Carlos, fue campeón en el Campeonato de las Américas de Lima y tiene su boleto a Los Ángeles en rifle de aire",
+        "pubDate": "2026-11-27T22:04:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Estaba preso por otros delitos y ahora lo acusaron por un crimen de 2024 cometido en un búnker",
         "link": "https://www.lacapital.com.ar/policiales/estaba-preso-otros-delitos-y-ahora-lo-acusaron-un-crimen-2024-cometido-un-bunker-n10294561.html",
         "image": "https://media.lacapital.com.ar/p/04379f58e5324095600df4460c30e46d/adjuntos/203/imagenes/103/557/0103557358/1200x675/smart/579964437_18352163512205057_4005751012093034690_n.jpg",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/4409dc0459627b5a34e6ab90787374a9/adjuntos/203/imagenes/103/555/0103555550/almiron2cml.jpg",
         "summary": "Al DT canalla se le vence el contrato en poco más de un mes, después de un año en el que tras ser respaldado por Gonzalo Belloso ganó un título",
         "pubDate": "2026-11-27T16:51:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Dura sanción a Lucas Carrizo por la expulsión tras el partido entre Newell's y Gimnasia",
-        "link": "https://www.lacapital.com.ar/ovacion/dura-sancion-lucas-carrizo-la-expulsion-el-partido-newells-y-gimnasia-n10294433.html",
-        "image": "https://media.lacapital.com.ar/p/a276425ab20d880fd0cf84f5608436fb/adjuntos/203/imagenes/103/555/0103555934/1200x675/smart/image-67.png",
-        "summary": "El zaguero fue suspendido 4 fechas por \"conducta violenta\", mientras que Gabriel Arias recibió 2. A Jerónimo Russo y Martín Ortega los castigaron con un partido",
-        "pubDate": "2026-11-27T16:51:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Tras la derrota con Central, el ex-Newell's Darío Franco se fue del Lobo mendocino",
-        "link": "https://www.lacapital.com.ar/ovacion/tras-la-derrota-central-el-ex-newells-dario-franco-se-fue-del-lobo-mendocino-n10294403.html",
-        "image": "https://media.lacapital.com.ar/p/3f6f9f700b38ec80df09867f166f231c/adjuntos/203/imagenes/103/072/0103072494/1200x675/smart/image-7.jpg",
-        "summary": "Gimnasia anunció \"el cierre de su etapa en el club\" del entrenador y su cuerpo técnico. \"Los contratos son por un año pero duran un mes\", dijo hace poco",
-        "pubDate": "2026-11-27T16:50:00+00:00",
         "approxTime": false
       }
     ]
