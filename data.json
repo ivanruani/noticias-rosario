@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T13:31:05.642587+00:00",
+  "generatedAt": "2026-11-27T14:01:12.343951+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Encomiendas con marihuana: cuatro imputados por trasladar 12 kilos de Misiones a Casilda",
+        "link": "https://www.lacapital.com.ar/policiales/encomiendas-marihuana-cuatro-imputados-trasladar-12-kilos-misiones-casilda-n10294511",
+        "image": "https://media.lacapital.com.ar/p/bf4be5f6afafdaf7421a6e9a02111f79/adjuntos/203/imagenes/103/556/0103556745/1200x675/smart/encomienda_composicion.jpg",
+        "summary": "La droga estaba distribuida en dos paquetes despachados desde Puerto Libertad y destinados a una sucursal de Correo Argentino",
+        "pubDate": "2026-11-27T13:26:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Rosario encabeza un ranking de Booking y se consolida como destino para vacacionar",
         "link": "https://www.lacapital.com.ar/la-ciudad/rosario-encabeza-un-ranking-booking-y-se-consolida-como-destino-vacacionar-n10294510",
         "image": "https://media.lacapital.com.ar/p/3b5cda21ca79fc4819760a2d61c7c83d/adjuntos/203/imagenes/103/556/0103556696/1200x675/smart/turismo-rosario.png",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/b6590229567d8240182e764da220c571/adjuntos/203/imagenes/103/556/0103556348/1200x675/smart/billeteras-virtuales-cual-paga-mas-noviembre-2026-y-que-le-ganan-al-plazo-fijo.jpg",
         "summary": "Las plataformas digitales lideran los rendimientos en pesos sin exigir que el capital quede bloqueado. Cómo funciona el cálculo diario de intereses, qué beneficios suman las billeteras virtuales para viajes al exterior y qué requisitos conviene chequear",
         "pubDate": "2026-11-27T11:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Villa Guillermina: seguirá preso el hombre que mató al vecino tras discusión por la música",
-        "link": "https://www.lacapital.com.ar/policiales/villa-guillermina-seguira-preso-el-hombre-que-mato-al-vecino-discusion-la-musica-n10294475",
-        "image": "https://media.lacapital.com.ar/p/8e689853fdd1d460f8f3637909cf64bc/adjuntos/203/imagenes/103/545/0103545079/homicidio-villa-guillermina.jpg",
-        "summary": "Leandro Pezz, de 62 años, fue imputado por el homicidio agravado de Elvio Geisser, que fue grabado en video en medio de la calle",
-        "pubDate": "2026-11-27T10:38:39+00:00",
         "approxTime": false
       }
     ]
