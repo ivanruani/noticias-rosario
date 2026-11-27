@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T13:01:11.271883+00:00",
+  "generatedAt": "2026-11-27T13:31:05.642587+00:00",
   "sites": {
     "rosario3": [
       {
@@ -22,11 +22,20 @@
       },
       {
         "source": "Rosario3",
-        "title": "El Gobierno logró la media sanción del Presupuesto 2027, pero perdió la pulseada por el gasto universitario",
-        "link": "https://www.rosario3.com/politica/el-gobierno-logro-la-media-sancion-del-presupuesto-2027-pero-perdio-la-pulseada-por-el-gasto-universitario-20261127-0008.html",
-        "image": "https://www.rosario3.com/__export/1795777165060/sites/rosario3/img/2026/11/27/image_-99-.jpg_928314580.jpg",
-        "summary": "Tras más de 15 horas de sesión en Diputados, el oficialismo aprobó la iniciativa en general con 137 votos, aunque la oposición impuso en el debate en particular el reclamo de los rectores para elevar las partidas a 11 billones de pesos y frenó recortes en organismos de ciencia",
+        "title": "Malvinas: el Tribunal del Mar resolverá este sábado el reclamo argentino para frenar la explotación petrolera del Reino Unido",
+        "link": "https://www.rosario3.com/informaciongeneral/malvinas-el-tribunal-del-mar-resolvera-este-sabado-el-reclamo-argentino-para-frenar-la-explotacion-petrolera-del-reino-unido-20261127-0022.html",
+        "image": "https://www.rosario3.com/__export/1794416965917/sites/rosario3/img/2026/11/11/petroleo_malvinas.jpg_506286608.jpg",
+        "summary": "Argentina reclama que se preserven los recursos naturales mientras avanza una instancia de arbitraje y que no empiecen los proyectos de explotación de hidrocarburos en aguas del archipiélago, como Sea Lion. Hay tres escenarios posibles",
         "pubDate": "2026-11-27T11:58:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Colecta solidaria para despedir al ciclista que murió atropellado en zona sur",
+        "link": "https://www.rosario3.com/policiales/colecta-solidaria-para-despedir-al-ciclista-que-murio-atropellado-en-zona-sur-20261127-0018.html",
+        "image": "https://www.rosario3.com/__export/1795782850341/sites/rosario3/img/2026/11/27/whatsapp_image_2026-11-27_at_09_33_38.jpeg_928314580.jpeg",
+        "summary": "La familia de Gabriel Aquino lanzó una campaña urgente para costear los gastos del velatorio y poder retirar el cuerpo del Instituto Médico Legal. La Policía detuvo este jueves al automovilista que había escapado a pie tras el choque",
+        "pubDate": "2026-11-27T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -35,15 +44,6 @@
         "link": "https://www.rosario3.com/deportes/se-viene-la-semana-del-futbol-rosarino-entrenamientos-abiertos-en-newells-y-central-congreso-internacional-y-torneo-juvenil-20261127-0011.html",
         "image": "https://www.rosario3.com/__export/1795778338258/sites/rosario3/img/2026/11/27/grupoekipo-1793907584-4023910922435575877-3265692129_-1-.jpg_928314580.jpg",
         "summary": "La iniciativa busca posicionar a la ciudad como el principal polo de conocimiento, formación e innovación futbolística del país. Comenzará la semana que viene con actividades gratuitas y aranceladas en distintas sedes de la región",
-        "pubDate": "2026-11-27T11:57:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El conductor de un auto murió por las graves heridas sufridas al chocar con un camión en la ruta 34 y la A012",
-        "link": "https://www.rosario3.com/policiales/el-conductor-de-un-auto-murio-por-las-graves-heridas-sufridas-al-chocar-con-un-camion-en-la-ruta-34-y-la-a012-20261127-0009.html",
-        "image": "https://www.rosario3.com/__export/1795777907426/sites/rosario3/img/2026/11/27/siniestroruta34012.jpg_928314581.jpg",
-        "summary": "El siniestro vial tuvo lugar este jueves a las 22 por causas que aún no se esclarecieron. El hombre que que manejaba el coche sufrió fracturas expuestas en sus piernas y la amputación de su brazo y falleció en el hospital Eva Perón",
         "pubDate": "2026-11-27T11:56:00+00:00",
         "approxTime": true
       },
@@ -58,10 +58,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Defensa del consumidor: habrá una audiencia pública para que los usuarios participen del armado de una ley provincial",
-        "link": "https://www.rosario3.com/informaciongeneral/defensa-del-consumidor-habra-una-audiencia-publica-para-que-los-usuarios-participen-del-armado-de-una-ley-provincial-20261127-0020.html",
-        "image": "https://www.rosario3.com/__export/1795782709063/sites/rosario3/img/2026/11/27/defensa_del_consumidor.jpg_506286608.jpg",
-        "summary": "La Cámara de Diputados aprobó un proyecto que dispone la realización de una audiencia pública para que la comunidad tenga voz en la elaboración de una ley provincial de Defensa del Consumidor",
+        "title": "Dura sanción a Lucas Carrizo tras ser expulsado en el duelo de Newell’s ante Gimnasia de La Plata",
+        "link": "https://www.rosario3.com/deportes/dura-sancion-a-lucas-carrizo-tras-ser-expulsado-en-el-duelo-de-newells-ante-gimnasia-de-la-plata-20261127-0017.html",
+        "image": "https://www.rosario3.com/__export/1795781530021/sites/rosario3/img/2026/11/27/nob_gimnasia.jpg_506286608.jpg",
+        "summary": "El Tribunal de Disciplina de la AFA castigó al defensor rojinegro con cuatro fechas de suspensión por los incidentes tras la eliminación ante el Lobo en La Plata. Gabriel Arias recibió dos, mientras que Russo y Ortega fueron suspendidos por una jornada",
         "pubDate": "2026-11-27T11:54:00+00:00",
         "approxTime": true
       },
@@ -85,29 +85,38 @@
       },
       {
         "source": "Rosario3",
-        "title": "El Senado aprobó por unanimidad la Ley de Prevención de la Ludopatía y regulación de juegos de azar en línea",
-        "link": "https://www.rosario3.com/informaciongeneral/el-senado-debate-la-ley-de-ludopatia-hoy-hasta-chicos-de-12-anos-estan-apostando-20261126-0027.html",
-        "image": "https://www.rosario3.com/__export/1795745437112/sites/rosario3/img/2026/11/26/ludopatia.jpg_928314580.jpg",
-        "summary": "Oficialismo y oposición habían acordaron darle luz verde a la normativa que llegó de Diputados y así lo hicieron. La norma restringe el acceso al juego on line de menores y limita o prohíbe la publicidad de apuestas. 'Perdí amigos, perdí familia, perdí mucha gente que quería…",
-        "pubDate": "2026-11-26T11:51:00+00:00",
+        "title": "El conductor de un auto murió por las graves heridas sufridas al chocar con un camión en la ruta 34 y la A012",
+        "link": "https://www.rosario3.com/policiales/el-conductor-de-un-auto-murio-por-las-graves-heridas-sufridas-al-chocar-con-un-camion-en-la-ruta-34-y-la-a012-20261127-0009.html",
+        "image": "https://www.rosario3.com/__export/1795777907426/sites/rosario3/img/2026/11/27/siniestroruta34012.jpg_928314581.jpg",
+        "summary": "El siniestro vial tuvo lugar este jueves a las 22 por causas que aún no se esclarecieron. El hombre que que manejaba el coche sufrió fracturas expuestas en sus piernas y la amputación de su brazo y falleció en el hospital Eva Perón",
+        "pubDate": "2026-11-27T11:51:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "El Gobierno festejó la suspensión de las Paso en el Senado mientras que la oposición lanzó fuertes críticas",
-        "link": "https://www.rosario3.com/politica/el-gobierno-festejo-la-suspension-de-las-paso-en-el-senado-mientras-que-la-oposicion-lanzo-fuertes-criticas-20261127-0002.html",
-        "image": "https://www.rosario3.com/__export/1795772212669/sites/rosario3/img/2026/11/27/image_-94-.jpg_928314580.jpg",
-        "summary": "La medida reunió 43 votos positivos en la Cámara Alta. Las distintas miradas de la dirigencia política",
+        "title": "WhatsApp comenzó a habilitar los stickers con audios: cómo crearlos",
+        "link": "https://www.rosario3.com/tecnologia/whatsapp-comenzo-a-habilitar-los-stickers-con-audios-como-crearlos-20261127-0023.html",
+        "image": "https://www.rosario3.com/__export/1795785430854/sites/rosario3/img/2026/11/27/wsp-audios.jpg_928314580.jpg",
+        "summary": "La característica no se encuentra disponible para todos los usuarios y se incorporará de forma gradual",
         "pubDate": "2026-11-27T11:50:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Avanzó en el Senado la prórroga del Estatuto del Periodista por 6 meses a pesar de que los sindicatos pidieron un año",
-        "link": "https://www.rosario3.com/politica/avanzo-en-el-senado-la-prorroga-del-estatuto-del-periodista-por-6-meses-a-pesar-de-que-los-sindicatos-pidieron-un-ano-20261127-0013.html",
-        "image": "https://www.rosario3.com/__export/1795779432376/sites/rosario3/img/2026/11/27/estatuto.jpg_982625323.jpg",
-        "summary": "Con 68 votos afirmativos, tres negativos y ninguna abstención, la extensión consiguió media sanción y la ley 12.908 sería renovada. Ahora el textro deberá ser refrendado en Cámara de Diputados. Los sindicatos de prensa y bloques opositores habían pedido una prórroga de un año",
-        "pubDate": "2026-11-27T11:49:00+00:00",
+        "title": "Perú reconoce derechos legales a las abejas sin aguijón de la Amazonía y abre un precedente inédito",
+        "link": "https://www.rosario3.com/informaciongeneral/peru-reconoce-derechos-legales-a-las-abejas-sin-aguijon-de-la-amazonia-y-abre-un-precedente-inedito-20261125-0047.html",
+        "image": "https://www.rosario3.com/__export/1795625623249/sites/rosario3/img/2026/11/25/abejas.png_786111822.png",
+        "summary": "Distintos municipios peruanos aprobaron una normativa que protege a estas polinizadoras nativas frente a la deforestación y los pesticidas, habilitando a científicos y líderes indígenas a denunciar daños a sus hábitats en la Justicia",
+        "pubDate": "2026-11-25T11:49:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Defensa del consumidor: habrá una audiencia pública para que los usuarios participen del armado de una ley provincial",
+        "link": "https://www.rosario3.com/informaciongeneral/defensa-del-consumidor-habra-una-audiencia-publica-para-que-los-usuarios-participen-del-armado-de-una-ley-provincial-20261127-0020.html",
+        "image": "https://www.rosario3.com/__export/1795782709063/sites/rosario3/img/2026/11/27/defensa_del_consumidor.jpg_506286608.jpg",
+        "summary": "La Cámara de Diputados aprobó un proyecto que dispone la realización de una audiencia pública para que la comunidad tenga voz en la elaboración de una ley provincial de Defensa del Consumidor",
+        "pubDate": "2026-11-27T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +125,7 @@
         "link": "https://www.rosario3.com/policiales/la-camara-de-casacion-confirmo-la-condena-por-abuso-sexual-a-jorge-martinez-extecnico-de-boca-de-futbol-femenino-20261127-0004.html",
         "image": "https://www.rosario3.com/__export/1795773350139/sites/rosario3/img/2026/11/27/image_-96-.jpg_928314580.jpg",
         "summary": "Los hechos ocurrieron el 30 de marzo de 2022, cuando Martínez se acercó por detrás a la víctima, María Florencia Marco, quien por entonces se desempeñaba como jefa de prensa del equipo femenino xeneize. La pena es de un año de prisión en suspenso",
-        "pubDate": "2026-11-27T11:48:00+00:00",
+        "pubDate": "2026-11-27T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,15 +134,6 @@
         "link": "https://www.rosario3.com/ecos365/noticias/claves-del-dia-deuda-antes-de-las-urnas-empresas-en-crisis-y-mas-controles-a-las-billeteras-20261127-0001.html",
         "image": "https://www.rosario3.com/__export/1795773464576/sites/rosario3/img/2026/11/27/billetera_crop1795773464147.jpg_851902091.jpg",
         "summary": "Caputo refinanció la deuda, pero los vencimientos se amontonan antes de las elecciones. Milei consiguió la reforma del BCRA y el Presupuesto avanzó con cambios. Las empresas acumulan crisis, las billeteras suman controles y Santa Fe prepara su paquete fiscal",
-        "pubDate": "2026-11-27T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El clima en Rosario: una primavera con olor a verano y un termómetro en pleno ascenso",
-        "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-una-primavera-con-olor-a-verano-y-un-termometro-en-pleno-ascenso-20261127-0001.html",
-        "image": "https://www.rosario3.com/__export/1795771404057/sites/rosario3/img/2025/02/10/dia_mas_caluroso_del_axo.jpg_786111823.jpg",
-        "summary": "El Servicio Meteorológico Nacional anticipa una jornada estable y bien cálida en la región. El calor empieza a apretar en la ciudad antes de un fin de semana con marcas agobiantes",
         "pubDate": "2026-11-27T11:46:00+00:00",
         "approxTime": true
       }
@@ -141,8 +141,26 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Rosario encabeza un ranking de Booking y se consolida como destino para vacacionar",
+        "link": "https://www.lacapital.com.ar/la-ciudad/rosario-encabeza-un-ranking-booking-y-se-consolida-como-destino-vacacionar-n10294510",
+        "image": "https://media.lacapital.com.ar/p/3b5cda21ca79fc4819760a2d61c7c83d/adjuntos/203/imagenes/103/556/0103556696/1200x675/smart/turismo-rosario.png",
+        "summary": "La ciudad se ubicó primera en la lista de destinos cuyas reservas más crecieron en Booking, la popular plataforma de reservas de alojamiento",
+        "pubDate": "2026-11-27T13:23:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Taxis no, remises sí: se aprobó el aumento de tarifa del 20 por ciento",
+        "link": "https://www.lacapital.com.ar/la-ciudad/taxis-no-remises-si-se-aprobo-el-aumento-tarifa-del-20-ciento-n10294489",
+        "image": "https://media.lacapital.com.ar/p/243fc59a16a67f1625b3d0da0a80c035/adjuntos/203/imagenes/103/556/0103556636/concejo-comision-servicios-publicos.jpg",
+        "summary": "La actualización incluye un ajuste del nuevo cuadro gerencial mientras sigue la discusión sobre la suba en el otro servicio público de transporte",
+        "pubDate": "2026-11-27T13:02:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Wanda Nara habló sobre su leucemia: \"Agradezco que me tocó a mí y no a mis hijos\"",
-        "link": "https://www.lacapital.com.ar/wanda-nara-hablo-su-leucemia-agradezco-que-me-toco-mi-y-no-mis-hijos-n10294500.html",
+        "link": "https://www.lacapital.com.ar/wanda-nara/wanda-nara-hablo-su-leucemia-agradezco-que-me-toco-mi-y-no-mis-hijos-n10294500",
         "image": "https://media.lacapital.com.ar/p/88875c5adb588fd39361e9d84b6fd626/adjuntos/203/imagenes/103/556/0103556649/1200x675/smart/image-2026-11-27t103822648.jpg",
         "summary": "En plena emisión de “MasterChef”, la conductora se refirió al diagnóstico que recibió en julio de 2023",
         "pubDate": "2026-11-27T12:58:00+00:00",
@@ -151,7 +169,7 @@
       {
         "source": "La Capital",
         "title": "Cuidacoches prohibidos en Rosario: la ley comenzaría a regir a principios de enero",
-        "link": "https://www.lacapital.com.ar/la-ciudad/cuidacoches-prohibidos-rosario-la-ley-comenzaria-regir-principios-enero-n10294503.html",
+        "link": "https://www.lacapital.com.ar/la-ciudad/cuidacoches-prohibidos-rosario-la-ley-comenzaria-regir-principios-enero-n10294503",
         "image": "https://media.lacapital.com.ar/p/a65ad9b33ace3bc41331ce94937d2654/adjuntos/203/imagenes/100/878/0100878695/1200x675/smart/ciudacochesjpg.jpg",
         "summary": "El titular de Control y Convivencia de la Municipalidad, Diego Herrera, dijo que la prohibición \"se implementará en forma progresiva\". Qué se sabe hasta el momento",
         "pubDate": "2026-11-27T12:56:00+00:00",
@@ -160,7 +178,7 @@
       {
         "source": "La Capital",
         "title": "Arrestaron a dos adolescentes por un crimen en la zona sur de la ciudad",
-        "link": "https://www.lacapital.com.ar/policiales/arrestaron-dos-adolescentes-un-crimen-la-zona-sur-la-ciudad-n10294478.html",
+        "link": "https://www.lacapital.com.ar/policiales/arrestaron-dos-adolescentes-un-crimen-la-zona-sur-la-ciudad-n10294478",
         "image": "https://media.lacapital.com.ar/p/6dec3619c851b11bd85176f894f5232c/adjuntos/203/imagenes/103/538/0103538545/auto-homicidio-gutierrez-400-2.jpeg",
         "summary": "Se trata de un chico y una chica, ambos tienen 17 años. Están vinculados al asesinato de Agustín Zabala, baleado a bordo de un automóvil",
         "pubDate": "2026-11-27T12:02:00+00:00",
@@ -169,7 +187,7 @@
       {
         "source": "La Capital",
         "title": "El Senado aprobó cinco jueces federales para Santa Fe",
-        "link": "https://www.lacapital.com.ar/politica/el-senado-aprobo-cinco-jueces-federales-santa-fe-n10294485.html",
+        "link": "https://www.lacapital.com.ar/politica/el-senado-aprobo-cinco-jueces-federales-santa-fe-n10294485",
         "image": "https://media.lacapital.com.ar/p/e3f2acaff4ea59dc364ed81d231c9842/adjuntos/203/imagenes/103/556/0103556489/1200x675/smart/senado-aprobacion.jpeg",
         "summary": "La Cámara alta aprobó los pliegos de los postulantes a magistrados de Garantías en Rosario, San Lorenzo, la capital provincial, Venado Tuerto y Rafaela",
         "pubDate": "2026-11-27T11:57:00+00:00",
@@ -178,7 +196,7 @@
       {
         "source": "La Capital",
         "title": "El Senado convirtió en ley el proyecto de vandalismo rural",
-        "link": "https://www.lacapital.com.ar/agro/el-senado-convirtio-ley-el-proyecto-vandalismo-rural-n10294484.html",
+        "link": "https://www.lacapital.com.ar/agro/el-senado-convirtio-ley-el-proyecto-vandalismo-rural-n10294484",
         "image": "https://media.lacapital.com.ar/p/0d4238fbb9a86c55facec309396adfb1/adjuntos/203/imagenes/028/573/0028573833/1200x675/smart/76109293jpegthumbjpg.jpg",
         "summary": "Con 49 votos a favor y 9 en contra, el Senado aprobó la ley que tipifica el vandalismo rural en el Código Penal. La norma prevé de un mes a un año de prisión por ingresar sin autorización a un campo, y de dos a ocho años por dañar bienes productivos",
         "pubDate": "2026-11-27T11:34:00+00:00",
@@ -187,7 +205,7 @@
       {
         "source": "La Capital",
         "title": "Un muerto y un herido grave en un choque entre un camión y un auto en la ruta 34",
-        "link": "https://www.lacapital.com.ar/la-region/un-muerto-y-un-herido-grave-un-choque-un-camion-y-un-auto-la-ruta-34-n10294479.html",
+        "link": "https://www.lacapital.com.ar/la-region/un-muerto-y-un-herido-grave-un-choque-un-camion-y-un-auto-la-ruta-34-n10294479",
         "image": "https://media.lacapital.com.ar/p/c9fd8e68965fdffbd0e0bc0e2a72bc91/adjuntos/203/imagenes/103/556/0103556395/1200x675/smart/accidente-ruta-34-y-ao12.jpg",
         "summary": "La víctima fatal fue el conductor del auto, oriundo de Rosario. El camionero sufrió politraumatismos",
         "pubDate": "2026-11-27T11:22:00+00:00",
@@ -196,7 +214,7 @@
       {
         "source": "La Capital",
         "title": "El gobierno logró media sanción al Presupuesto pero la oposición subió fondos universitarios",
-        "link": "https://www.lacapital.com.ar/politica/el-gobierno-logro-media-sancion-al-presupuesto-pero-la-oposicion-subio-fondos-universitarios-n10294477.html",
+        "link": "https://www.lacapital.com.ar/politica/el-gobierno-logro-media-sancion-al-presupuesto-pero-la-oposicion-subio-fondos-universitarios-n10294477",
         "image": "https://media.lacapital.com.ar/p/045cb8d452d468abaacfee3d551c721c/adjuntos/203/imagenes/103/556/0103556349/1200x675/smart/camara-diputados.png",
         "summary": "Anteriormente, se había logrado la aprobación de la reforma de la Carta Orgánica del Banco Central en Diputados y la suspensión de las PASO en el Senado",
         "pubDate": "2026-11-27T11:19:00+00:00",
@@ -205,7 +223,7 @@
       {
         "source": "La Capital",
         "title": "La causa sobre fraude en la Policía de Santa Fe sumó un nuevo exjefe detenido en Rosario",
-        "link": "https://www.lacapital.com.ar/policiales/la-causa-fraude-la-policia-santa-fe-sumo-un-nuevo-exjefe-detenido-rosario-n10294472.html",
+        "link": "https://www.lacapital.com.ar/policiales/la-causa-fraude-la-policia-santa-fe-sumo-un-nuevo-exjefe-detenido-rosario-n10294472",
         "image": "https://media.lacapital.com.ar/p/dc210bc46559528d38f694cb278207d4/adjuntos/203/imagenes/103/556/0103556359/nicolas-dangelo.jpeg",
         "summary": "Nicolás D'Angelo ya había dejado su cargo en la Unidad Regional II tras la denuncia de corrupción en la compra de combustible, aunque continuaba en libertad",
         "pubDate": "2026-11-27T11:10:00+00:00",
@@ -214,7 +232,7 @@
       {
         "source": "La Capital",
         "title": "Con 70 años, creó de cero una urna memorial para mascotas con pantalla animada",
-        "link": "https://www.lacapital.com.ar/negocios/con-70-anos-creo-cero-una-urna-memorial-mascotas-pantalla-animada-n10293107.html",
+        "link": "https://www.lacapital.com.ar/negocios/con-70-anos-creo-cero-una-urna-memorial-mascotas-pantalla-animada-n10293107",
         "image": "https://media.lacapital.com.ar/p/63304d1f81cd4169a3c3e4f92ddc7df3/adjuntos/203/imagenes/103/541/0103541442/82873733.jpeg",
         "summary": "Alberto Mantel vive en Rosario desde hace un año. Aquí, diseñó una urna funeraria innovadora: tiene una pantalla que muestra momentos de la vida de la mascota. Lo quiere replicar en equinos.",
         "pubDate": "2026-11-27T11:02:00+00:00",
@@ -223,7 +241,7 @@
       {
         "source": "La Capital",
         "title": "Comenzó el Black Friday 2026: qué rubros y marcas ofrecen descuentos",
-        "link": "https://www.lacapital.com.ar/informacion-general/comenzo-el-black-friday-2026-que-rubros-y-marcas-ofrecen-descuentos-n10293129.html",
+        "link": "https://www.lacapital.com.ar/informacion-general/comenzo-el-black-friday-2026-que-rubros-y-marcas-ofrecen-descuentos-n10293129",
         "image": "https://media.lacapital.com.ar/p/91d8a8e689153876bfef9a422d0fdb7b/adjuntos/203/imagenes/103/541/0103541706/1200x675/smart/image-7.png",
         "summary": "Muchas empresas argentinas e internacionales se suman a la fecha de promociones comerciales. Dónde se puede comprar y qué recomendaciones tener en cuenta",
         "pubDate": "2026-11-27T11:02:00+00:00",
@@ -232,7 +250,7 @@
       {
         "source": "La Capital",
         "title": "Llega a Rosario una conferencia y un hackathon para quienes emprenden en tecnología",
-        "link": "https://www.lacapital.com.ar/la-ciudad/llega-rosario-una-conferencia-y-un-hackathon-quienes-emprenden-tecnologia-n10293886.html",
+        "link": "https://www.lacapital.com.ar/la-ciudad/llega-rosario-una-conferencia-y-un-hackathon-quienes-emprenden-tecnologia-n10293886",
         "image": "https://media.lacapital.com.ar/p/c581759781262e61d911fc9f0e12f578/adjuntos/203/imagenes/103/556/0103556393/1200x675/smart/nuevo-hub-2026.jpg",
         "summary": "El 27 y 28 de noviembre, empresas tecnológicas, emprendedores e instituciones se reúnen para impulsar el ecosistema tecnológico argentino. La entrada es libre con inscripción previa",
         "pubDate": "2026-11-27T11:00:00+00:00",
@@ -250,28 +268,10 @@
       {
         "source": "La Capital",
         "title": "Villa Guillermina: seguirá preso el hombre que mató al vecino tras discusión por la música",
-        "link": "https://www.lacapital.com.ar/policiales/villa-guillermina-seguira-preso-el-hombre-que-mato-al-vecino-discusion-la-musica-n10294475.html",
+        "link": "https://www.lacapital.com.ar/policiales/villa-guillermina-seguira-preso-el-hombre-que-mato-al-vecino-discusion-la-musica-n10294475",
         "image": "https://media.lacapital.com.ar/p/8e689853fdd1d460f8f3637909cf64bc/adjuntos/203/imagenes/103/545/0103545079/homicidio-villa-guillermina.jpg",
         "summary": "Leandro Pezz, de 62 años, fue imputado por el homicidio agravado de Elvio Geisser, que fue grabado en video en medio de la calle",
         "pubDate": "2026-11-27T10:38:39+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "El Senado aprobó la ley que controla y limita las apuestas on line",
-        "link": "https://www.lacapital.com.ar/politica/el-senado-aprobo-la-ley-que-controla-y-limita-las-apuestas-on-line-n10294469.html",
-        "image": "https://media.lacapital.com.ar/p/6ca7489fada1b01e05565db2f612797a/adjuntos/203/imagenes/103/556/0103556324/1200x675/smart/senado-ludopatia.png",
-        "summary": "La iniciativa también prohíbe promocionar las apuestas a través de plataformas, redes sociales, medios audiovisuales y publicidad exterior",
-        "pubDate": "2026-11-27T10:00:14+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "De local: Franco Luciani y Victoria Birchner presentan su disco \"Como en casa\"",
-        "link": "https://www.lacapital.com.ar/zoom/de-local-franco-luciani-y-victoria-birchner-presentan-su-disco-como-casa-n10294372.html",
-        "image": "https://media.lacapital.com.ar/p/f76df2e32e8707785d30cd5fece41614/adjuntos/203/imagenes/103/555/0103555790/1200x675/smart/image-2026-11-26t182317225.png",
-        "summary": "La dupla decantó más de una década de vida y trabajo compartido en su primer álbum conjunto. El show es este sábado 28 en Lavardén, con entrada libre y gratuita",
-        "pubDate": "2026-11-27T10:00:00+00:00",
         "approxTime": false
       }
     ]
