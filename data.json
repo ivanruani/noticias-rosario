@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T00:01:14.922821+00:00",
+  "generatedAt": "2026-11-27T00:30:55.952340+00:00",
   "sites": {
     "rosario3": [
       {
@@ -85,10 +85,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "El Conicet y la UNL desarrollan una herramienta con inteligencia artificial para la rehabilitación tras un ACV",
-        "link": "https://www.rosario3.com/informaciongeneral/el-conicet-y-la-unl-desarrollan-una-herramienta-con-inteligencia-artificial-para-la-rehabilitacion-tras-un-acv-20261126-0046.html",
-        "image": "https://www.rosario3.com/__export/1795715383833/sites/rosario3/img/2026/11/26/1a_1.jpg_928314581.jpg",
-        "summary": "La tecnología fue desarrollada por un equipo del Instituto de Matemática Aplicada del Litoral y busca estimular la recuperación de funciones motoras mediante una interfaz cerebro-computadora. Ahora avanzan en un estudio junto al Instituto Fleni para evaluar su uso en un entorno…",
+        "title": "Emiliano Boffelli tras ser campeón con Duendes en el TRL 2026: \"Quiero volver a Europa para pelear por un lugar en Los Pumas\"",
+        "link": "https://www.rosario3.com/deportes/emiliano-boffelli-tras-ser-campeon-con-duendes-en-el-trl-2026-quiero-volver-a-europa-para-pelear-por-un-lugar-en-los-pumas-20261126-0061.html",
+        "image": "https://www.rosario3.com/__export/1795725004243/sites/rosario3/img/2026/11/26/rugby_duendes_emi_boffelli_final_2026_credito_vir_dellepaine_4.jpg_928314581.jpg",
+        "summary": "Después de dejar atrás una larga lesión y coronarse con la camiseta de sus amores, el back rosarino habló manoa mano con El Tres. Analizó el secreto del Verdinegro para ganar finales, la emoción de volver a jugar en Rosario y su gran objetivo de cara al Mundial de Australia 2027",
         "pubDate": "2026-11-26T11:51:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,24 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Seisas: \"Se terminó el negocio de apretar vecinos para estacionar\"",
+        "link": "https://www.lacapital.com.ar/la-ciudad/seisas-se-termino-el-negocio-apretar-vecinos-estacionar-n10294458.html",
+        "image": "https://media.lacapital.com.ar/p/fcecf8e02a4bcd0e946fba9a0a68f438/adjuntos/203/imagenes/103/556/0103556132/2026-11-26-prohibicion-cuidacoches.jpg",
+        "summary": "El senador por Rosario es autor de la normativa que prohíbe la actividad de cuidacoches en la provincia de Santa Fe y a la que adhirió este jueves el Concejo Municipal de Rosario",
+        "pubDate": "2026-11-27T00:20:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Riesgo país: el embajador de EEUU vende expectativa por un nuevo rescate",
+        "link": "https://www.lacapital.com.ar/economia/riesgo-pais-el-embajador-eeuu-vende-expectativa-un-nuevo-rescate-n10294454.html",
+        "image": "https://media.lacapital.com.ar/p/52d9ae51560368bfe314d0fa9bbc3125/adjuntos/203/imagenes/103/513/0103513393/1200x675/smart/pl.jpg",
+        "summary": "Peter Lamelas dijo que habló con Trump sobre la situación argentina. Sin referencia de Wall Street, el gobierno tuvo un día de tregua financiera. El gobierno logró refinanciar más de $25 billones de deuda.",
+        "pubDate": "2026-11-27T00:02:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Aguas abiertas: la comunidad universitaria reeditó la Travesía de Nado UNR en el Paraná",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/e93bc63598a60f617fd72fb089c9dbf0/adjuntos/203/imagenes/103/555/0103555857/1200x675/smart/imageplaya.jpg",
         "summary": "Graciela Mayer tenía 36 años, era oriunda de Viale, Entre Ríos, y había viajado a Uruguay junto a su pareja para pasar unos días de vacaciones. El accidente ocurrió en la playa Chihuahua, cuando ambos fueron sorprendidos por una ola.",
         "pubDate": "2026-11-26T21:18:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Discapacidad: expectativa de transportistas por la aprobación del Presupuesto 2027",
-        "link": "https://www.lacapital.com.ar/la-ciudad/discapacidad-expectativa-transportistas-la-aprobacion-del-presupuesto-2027-n10294407.html",
-        "image": "https://media.lacapital.com.ar/p/bb7b199f92019ced3f1bc90fca338bcd/adjuntos/203/imagenes/100/141/0100141314/1200x675/smart/discapacidad-01jpg.jpg",
-        "summary": "Desde Fatradis sostuvieron que es imperioso para el sector la modificación del Presupuesto para poder incorporar partidas presupuestarias",
-        "pubDate": "2026-11-26T20:55:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "En Paraguay, Milei fue recibido por el nuevo presidente Alliana",
-        "link": "https://www.lacapital.com.ar/politica/en-paraguay-milei-fue-recibido-el-nuevo-presidente-alliana-n10294411.html",
-        "image": "https://media.lacapital.com.ar/p/04d23983060e8c77f9a0d692f27b492c/adjuntos/203/imagenes/103/555/0103555814/1200x675/smart/image.png",
-        "summary": "Ambos países reafirmaron su alianza bilateral con foco en Vaca Muerta, la hidrovía y el respaldo a Rafael Grossi para la ONU",
-        "pubDate": "2026-11-26T20:54:00+00:00",
         "approxTime": false
       }
     ]
