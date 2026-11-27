@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-11-27T02:01:04.309261+00:00",
+  "generatedAt": "2026-11-27T02:30:59.175525+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "El Senado aprobó por unanimidad la Ley de Prevención de la Ludopatía y regulación de juegos de azar en línea",
+        "link": "https://www.rosario3.com/informaciongeneral/el-senado-debate-la-ley-de-ludopatia-hoy-hasta-chicos-de-12-anos-estan-apostando-20261126-0027.html",
+        "image": "https://www.rosario3.com/__export/1795745437112/sites/rosario3/img/2026/11/26/ludopatia.jpg_928314580.jpg",
+        "summary": "Oficialismo y oposición habían acordaron darle luz verde a la normativa que llegó de Diputados y así lo hicieron. La norma restringe el acceso al juego on line de menores y limita o prohíbe la publicidad de apuestas. 'Perdí amigos, perdí familia, perdí mucha gente que quería…",
+        "pubDate": "2026-11-26T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "El Concejo aprobó la prohibición de cuidacoches en Rosario",
         "link": "https://www.rosario3.com/informaciongeneral/el-concejo-aprobara-la-prohibicion-de-cuidacoches-en-rosario-habra-controles-prioritarios-y-operativos-policiales-20261126-0064.html",
         "image": "https://www.rosario3.com/__export/1795726233829/sites/rosario3/img/2026/11/26/cuidacoche06_jpg_726409099_1.jpg_1825222445.jpg",
         "summary": "La iniciativa contempla la intervención coordinada entre el municipio y la provincia, con énfasis en los sectores de mayor conflictividad y medidas de inclusión social para las personas alcanzadas por la normativa. La adhesión a la ley provincial salió con 17 votos a favor, 9 en…",
-        "pubDate": "2026-11-26T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Detuvieron al conductor que atropelló y mató a un ciclista en zona sur",
-        "link": "https://www.rosario3.com/informaciongeneral/murio-el-ciclista-que-fue-embestido-por-un-automovilista-que-escapo-y-abandono-su-vehiculo-en-zona-sur-20261126-0058.html",
-        "image": "https://www.rosario3.com/__export/1795731551934/sites/rosario3/img/2026/11/26/siniestro_vial_2.jpg_1825222445.jpg",
-        "summary": "El hombre, de 22 años, fue localizado en el hospital Agudo Ávila tras dos allanamientos y quedó a disposición de la Fiscalía",
         "pubDate": "2026-11-26T11:59:00+00:00",
         "approxTime": true
       },
@@ -40,10 +40,10 @@
       },
       {
         "source": "Rosario3",
-        "title": "Video: un civil frustró un asalto a un almacén de Fisherton y el ladrón recibió ocho años de prisión en un juicio por flagrancia",
-        "link": "https://www.rosario3.com/policiales/video-un-civil-frustro-un-asalto-a-un-almacen-de-fisherton-y-el-ladron-recibio-ocho-anos-de-prision-en-un-juicio-por-flagrancia-20261126-0063.html",
-        "image": "https://www.rosario3.com/__export/1795725912437/sites/rosario3/img/2026/11/26/brassey_7700_intento_de_asalto.jpg_672794304.jpg",
-        "summary": "El asaltante apuntó con un revólver a los presentes, pero el hermano del comerciante se abalanzó sobre él y logró reducirlo. Durante el enfrentamiento, el ladrón disparó y rompió un vidrio de un auto. La audiencia de juicio duró apenas dos horas, a menos de tres meses del hecho",
+        "title": "Detuvieron al conductor que atropelló y mató a un ciclista en zona sur",
+        "link": "https://www.rosario3.com/informaciongeneral/murio-el-ciclista-que-fue-embestido-por-un-automovilista-que-escapo-y-abandono-su-vehiculo-en-zona-sur-20261126-0058.html",
+        "image": "https://www.rosario3.com/__export/1795731551934/sites/rosario3/img/2026/11/26/siniestro_vial_2.jpg_1825222445.jpg",
+        "summary": "El hombre, de 22 años, fue localizado en el hospital Agudo Ávila tras dos allanamientos y quedó a disposición de la Fiscalía",
         "pubDate": "2026-11-26T11:56:00+00:00",
         "approxTime": true
       },
@@ -94,11 +94,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "Video: un civil frustró un asalto a un almacén de Fisherton y el ladrón recibió ocho años de prisión en un juicio por flagrancia",
+        "link": "https://www.rosario3.com/policiales/video-un-civil-frustro-un-asalto-a-un-almacen-de-fisherton-y-el-ladron-recibio-ocho-anos-de-prision-en-un-juicio-por-flagrancia-20261126-0063.html",
+        "image": "https://www.rosario3.com/__export/1795725912437/sites/rosario3/img/2026/11/26/brassey_7700_intento_de_asalto.jpg_672794304.jpg",
+        "summary": "El asaltante apuntó con un revólver a los presentes, pero el hermano del comerciante se abalanzó sobre él y logró reducirlo. Durante el enfrentamiento, el ladrón disparó y rompió un vidrio de un auto. La audiencia de juicio duró apenas dos horas, a menos de tres meses del hecho",
+        "pubDate": "2026-11-26T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Diego Giuliano: \"A Santa Fe se la defiende con hechos\"",
         "link": "https://www.rosario3.com/politica/diego-giuliano-a-santa-fe-se-la-defiende-con-hechos-20261126-0069.html",
         "image": "https://www.rosario3.com/__export/1795729673846/sites/rosario3/img/2026/11/26/giuliano.jpg_928314580.jpg",
         "summary": "El diputado nacional cuestionó que los legisladores del gobernador Pullaro hayan dado quórum para tratar el Presupuesto 2027 de Javier Milei, sin garantizar recursos fundamentales para la provincia",
-        "pubDate": "2026-11-26T11:50:00+00:00",
+        "pubDate": "2026-11-26T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -107,15 +116,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/auditoria-de-la-agn-el-oro-argentino-esta-en-inglaterra-y-advierten-que-no-hay-constancias-de-que-los-envios-hayan-sido-asegurados-20261126-0065.html",
         "image": "https://www.rosario3.com/__export/1795727663018/sites/rosario3/img/2026/11/26/bausili.jpg_928314580.jpg",
         "summary": "Los registros detectaron deficiencias en los controles, falta de documentación, inconsistencias contables y resultados financieros negativos. La AGN cuestionó el traslado de 1.000 lingotes de oro a Londres y la falta de controles del Banco Central",
-        "pubDate": "2026-11-26T11:49:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Rescataron a un ciervo que nadaba exhausto en medio de la crecida del Paraná",
-        "link": "https://www.rosario3.com/informaciongeneral/rescataron-a-un-ciervo-que-nadaba-exhausto-en-medio-de-la-crecida-del-parana-20261126-0055.html",
-        "image": "https://www.rosario3.com/__export/1795722229614/sites/rosario3/img/2026/11/26/ciervo.jpg_579810351.jpg",
-        "summary": "No lograba avanzar por la fuerza del agua y fue puesto a salvo por Prefectura, en Corrientes. El operativo vuelve a exponer el impacto de El Niño sobre la fauna, un fenómeno que ya provocó apariciones recientes de animales silvestres en Rosario. El video",
         "pubDate": "2026-11-26T11:48:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "La primera prueba de defensa planetaria de la humanidad habría sido un éxito",
+        "link": "https://www.lacapital.com.ar/informacion-general/la-primera-prueba-defensa-planetaria-la-humanidad-habria-sido-un-exito-n10294463.html",
+        "image": "https://media.lacapital.com.ar/p/6f5c26f6aaacf1a037a77af4e70661d2/adjuntos/203/imagenes/103/556/0103556280/2026-11-26-asteroide.jpg",
+        "summary": "La misión Dart impactó contra un asteroide hace cuatro años. Ahora la nave Hera se acercó al asteroide para evaluar los resultados",
+        "pubDate": "2026-11-27T02:17:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Una influencer estuvo dos meses internada en un centro psiquiátrico por error",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/260fe2299079beaf21170dd121a9dc9a/adjuntos/203/imagenes/103/555/0103555900/1200x675/smart/imagenorte.jpg",
         "summary": "Los delincuentes destrozan los ventanales de los locales y se llevan dinero de las cajas registradoras. Vecinos y comerciantes advierten sobre la reducción del personal de seguridad y la falta de patrullaje policial",
         "pubDate": "2026-11-26T21:46:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Presupuesto 2027: Diego Giuliano cuestionó la falta de fondos para Santa Fe y reclamó defender los recursos de la provincia",
-        "link": "https://www.lacapital.com.ar/politica/presupuesto-2027-diego-giuliano-cuestiono-la-falta-fondos-santa-fe-y-reclamo-defender-los-recursos-la-provincia-n10294428.html",
-        "image": "https://media.lacapital.com.ar/p/015110172cfafc493ee8d80cb330f630/adjuntos/203/imagenes/103/457/0103457817/1200x675/smart/image.png",
-        "summary": "El diputado nacional advirtió que el proyecto del presidente Javier Milei no garantiza partidas para la Caja de Jubilaciones, las universidades y obras viales estratégicas para el desarrollo productivo santafesino",
-        "pubDate": "2026-11-26T21:33:00+00:00",
         "approxTime": false
       }
     ]
