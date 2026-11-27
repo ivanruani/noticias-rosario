@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T18:31:02.431421+00:00",
+  "generatedAt": "2026-11-27T18:53:15.732311+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Venado Tuerto sorteó 52 nuevas viviendas pertenecientes a un plan habitacional provincial",
+        "link": "https://www.lacapital.com.ar/la-region/venado-tuerto-sorteo-52-nuevas-viviendas-pertenecientes-un-plan-habitacional-provincial-n10294586.html",
+        "image": "https://media.lacapital.com.ar/p/f6e9d0b71edb75470551ef3d9e0f080f/adjuntos/203/imagenes/103/557/0103557710/1200x675/smart/venado-sorteo-viviendas.jpeg",
+        "summary": "La actividad estuvo encabezada por el intendente Leonel Chiarella; el ministro de Obras Públicas, Lisandro Enrico y la senadora provincial Leticia Di Gregorio",
+        "pubDate": "2026-11-27T18:39:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Avanzan las obras del Centro de Formación y Capacitación Laboral de Villa Gobernador Gálvez",
         "link": "https://www.lacapital.com.ar/la-region/avanzan-las-obras-del-centro-formacion-y-capacitacion-laboral-villa-gobernador-galvez-n10294584.html",
         "image": "https://media.lacapital.com.ar/p/291a48f7655456d35c62fec5ee561c57/adjuntos/203/imagenes/103/557/0103557683/1200x675/smart/vgg-centro-capacitacion3.jpeg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/f485c460162ccafcc0506641278b6398/adjuntos/203/imagenes/103/557/0103557148/1200x675/smart/pablo-farias-2711.jpg",
         "summary": "La Cámara de Diputados de la Nación dio media sanción a la reforma de la ley 24.467 para incorporar al sector cooperativo dentro del régimen de promoción. Ahora el debate continúa en el Senado",
         "pubDate": "2026-11-27T15:37:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cuidacoches en Rosario: Javkin celebró que \"ahora está prohibida la extorsión en la calle\"",
-        "link": "https://www.lacapital.com.ar/la-ciudad/cuidacoches-rosario-javkin-celebro-que-ahora-esta-prohibida-la-extorsion-la-calle-n10294528.html",
-        "image": "https://media.lacapital.com.ar/p/23b701b782019c6c4f5e1318a9668ede/adjuntos/203/imagenes/103/048/0103048194/1200x675/smart/cuidacoches.jpg",
-        "summary": "El intendente anticipó este viernes que promulgará \"de inmediato\" la ordenanza aprobada por el Concejo que adhiere a la ley provincial",
-        "pubDate": "2026-11-27T15:16:00+00:00",
         "approxTime": false
       }
     ]
