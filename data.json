@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T09:01:10.853586+00:00",
+  "generatedAt": "2026-11-28T09:31:00.126857+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,33 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Playoffs: Vélez-Independiente e Instituto-River buscan su lugar en las semifinales del torneo Clausura",
+        "link": "https://www.lacapital.com.ar/ovacion/playoffs-velez-independiente-e-instituto-river-buscan-su-lugar-las-semifinales-del-torneo-clausura-n10294630.html",
+        "image": "https://media.lacapital.com.ar/p/cfcaa5b0af2e896a2242f5c9ca1b6ee7/adjuntos/203/imagenes/103/558/0103558014/1200x675/smart/image-14.jpg",
+        "summary": "El primer duelo es en Liniers a las 20 y el otro en el estadio del equipo cordobés, a las 22. Los vencedores chocarán en la próxima fase",
+        "pubDate": "2026-11-28T09:25:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La mancha amarilla en trigo marcó la campaña sanitaria en el centro del país",
+        "link": "https://www.lacapital.com.ar/agro/la-mancha-amarilla-trigo-marco-la-campana-sanitaria-el-centro-del-pais-n10294173.html",
+        "image": "https://media.lacapital.com.ar/p/61e527a18de2e332f917292358d42a52/adjuntos/305/imagenes/100/248/0100248197/1200x675/smart/roya-amarilla-la-enfermedad-de-trigo-que-mas-expansion-tiene-en-argentina-alltecpng.png",
+        "summary": "Especialistas del Inta Marcos Juárez analizaron los riesgos y las estrategias de manejo para las próximas campañas. Ponen el foco en la importancia de la selección varietal",
+        "pubDate": "2026-11-28T09:15:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Los hormigueros gigantes que los primeros agricultores tuvieron que remover para cultivar Tacural",
+        "link": "https://www.lacapital.com.ar/agro/los-hormigueros-gigantes-que-los-primeros-agricultores-tuvieron-que-remover-cultivar-tacural-n10294386.html",
+        "image": "https://media.lacapital.com.ar/p/48729b486178adff3aa4c7dc1e69f17f/adjuntos/203/imagenes/103/555/0103555590/1200x675/smart/tacural-productores-tacurues.jpeg",
+        "summary": "Los montículos de arcilla que dieron nombre a este pueblo santafesino pusieron a prueba a los colonos que llegaron a trabajar estas tierras. La historia de Tacural, una localidad con una larga tradición agrícola y lechera",
+        "pubDate": "2026-11-28T09:10:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Asociación Rosarina de Fútbol: continúan los octavos de final del torneo Ivancich",
         "link": "https://www.lacapital.com.ar/ovacion/asociacion-rosarina-futbol-continuan-los-octavos-final-del-torneo-ivancich-n10294619.html",
         "image": "https://media.lacapital.com.ar/p/e7d644c54724f0b0e6703bf36151dbcc/adjuntos/203/imagenes/103/558/0103558210/1200x675/smart/image-2026-11-27t221437278.png",
@@ -245,33 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/52f56cbafedeef33c2e32a4fb6b09cb0/adjuntos/203/imagenes/103/557/0103557644/1200x675/smart/image-2.jpg",
         "summary": "El argentino completó un viernes donde probó más ritmo de carrera que clasificación y se dio el gusto de pelear con Piastri y Antonelli. Se despistó Gasly",
         "pubDate": "2026-11-27T23:59:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Sesiones extraordinarias: entre la suspensión de las Paso y cambios en el financiamiento universitario",
-        "link": "https://www.lacapital.com.ar/politica/sesiones-extraordinarias-la-suspension-las-paso-y-cambios-el-financiamiento-universitario-n10294629.html",
-        "image": "https://media.lacapital.com.ar/p/9a698b7a7b39cd986fa1ad98b02877ed/adjuntos/203/imagenes/103/558/0103558013/1200x675/smart/image.png",
-        "summary": "La Casa Rosada fijó esas prioridades, junto a Malvinas y el Súper Rigi, para ser tratadas en el Congreso durante diciembre. Evalúan retoques en el presupuesto 2027 tras la media sanción en Diputados",
-        "pubDate": "2026-11-27T23:39:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Malvinas: el Tribunal del Mar resolverá este sábado el pedido para frenar la explotación petrolera",
-        "link": "https://www.lacapital.com.ar/politica/malvinas-el-tribunal-del-mar-resolvera-este-sabado-el-pedido-frenar-la-explotacion-petrolera-n10294632.html",
-        "image": "https://media.lacapital.com.ar/p/4f6a8a3744659fbe5ff3113da5d775d6/adjuntos/203/imagenes/103/388/0103388990/1200x675/smart/petroleo-malvinas-sea-lion.jpg",
-        "summary": "El gobierno nacional quiere impedir que el Reino Unido y las empresas bajo su jurisdicción avancen en esa zona austral sin autorización del Estado argentino",
-        "pubDate": "2026-11-27T23:26:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Imputaron a ocho personas ligadas a la causa del ex fiscal Mariano Artacho",
-        "link": "https://www.lacapital.com.ar/policiales/imputaron-ocho-personas-ligadas-la-causa-del-ex-fiscal-mariano-artacho-n10294542.html",
-        "image": "https://media.lacapital.com.ar/p/ce24c000a2725d7698371dcfdb526026/adjuntos/203/imagenes/103/557/0103557146/1200x675/smart/rios.jpg",
-        "summary": "Desvío unos 425 millones de pesos de cuentas judiciales a prestanombres entre 2017 y 2024. Los imputados no quedaron detenidos",
-        "pubDate": "2026-11-27T23:20:00+00:00",
         "approxTime": false
       }
     ]
