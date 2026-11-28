@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T18:30:56.254409+00:00",
+  "generatedAt": "2026-11-28T18:52:45.978251+00:00",
   "sites": {
     "rosario3": [
       {
@@ -13,11 +13,20 @@
       },
       {
         "source": "Rosario3",
+        "title": "El Tribunal del Mar rechazó por 18 votos contra 3 el pedido argentino para frenar la explotación petrolera en Malvinas",
+        "link": "https://www.rosario3.com/informaciongeneral/el-tribunal-del-mar-rechazo-por-18-votos-contra-3-el-pedido-argentino-para-frenar-la-explotacion-petrolera-en-malvinas-20261128-0026.html",
+        "image": "https://www.rosario3.com/__export/1795891665081/sites/rosario3/img/2026/11/28/proyecto_sealion.jpg_928314581.jpg",
+        "summary": "El organismo consideró que la controversia requiere determinar previamente la soberanía territorial sobre las islas. El Reino Unido se comprometió a no iniciar las perforaciones antes del 21 de marzo de 2027",
+        "pubDate": "2026-11-28T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
         "title": "Flojo de papeles: allanan un desarmadero en barrio Alvear y secuestran decenas de autopartes, algunas con pedido de secuestro",
         "link": "https://www.rosario3.com/policiales/flojo-de-papeles-allanan-un-desarmadero-en-barrio-alvear-y-secuestran-decenas-de-autopartes-algunas-con-pedido-de-secuestro-20261128-0019.html",
         "image": "https://www.rosario3.com/__export/1795880534355/sites/rosario3/img/2026/11/28/desarmadero_maraton_2600_2_1.jpeg_672794304.jpeg",
         "summary": "La investigación comenzó con un relevamiento en Marketplace donde usuarios ofrecían repuestos y autopartes. Los allanamientos se realizaron en dos domicilios de Rosario, uno de ellos un galpón de Garibaldi al 3200 donde se concentró la mayor parte del secuestro. Hay tres…",
-        "pubDate": "2026-11-28T11:59:00+00:00",
+        "pubDate": "2026-11-28T11:58:00+00:00",
         "approxTime": true
       },
       {
@@ -26,16 +35,7 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/charlas-de-mercado-el-peso-busca-su-lugar-como-moneda-cripto-pero-genera-dudas-20261128-0020.html",
         "image": "https://www.rosario3.com/__export/1795880389289/sites/rosario3/img/2026/11/28/cripto.jpg_1825222412.jpg",
         "summary": "Esta semana importantes referentes del sector financiero se reunieron para analizar la factibilidad de un desarrollo masivo de criptopesos. Al Banco Central le interesa, pero pasa el tema para después de las elecciones.",
-        "pubDate": "2026-11-28T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Hijos del femicidio: qué pasa con los chicos tras el asesinato de su madre y el drama agravado cuando el homicida es el padre",
-        "link": "https://www.rosario3.com/informaciongeneral/hijos-del-femicidio-que-pasa-con-los-chicos-tras-el-asesinato-de-su-madre-y-el-drama-agravado-cuando-el-homicida-es-el-padre-20261127-0055.html",
-        "image": "https://www.rosario3.com/__export/1795804253537/sites/rosario3/img/2026/11/27/dsc01869.jpg_2106848869.jpg",
-        "summary": "Las madres y hermanas de las mujeres asesinadas deben hacerse cargo de los hijos huérfanos mientras exigen justicia. Reclaman la existencia de una oficina específica que unifique la asistencia en salud, jurídica, económica y psicológica. Cómo nació, quiénes son y qué necesitan…",
-        "pubDate": "2026-11-27T11:57:00+00:00",
+        "pubDate": "2026-11-28T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -139,6 +139,24 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Franco Colapinto no pudo llegar a Q3 en Qatar y saldrá justo detrás de Pierre Gasly",
+        "link": "https://www.lacapital.com.ar/ovacion/franco-colapinto-no-pudo-llegar-q3-qatar-y-saldra-justo-detras-pierre-gasly-n10294647.html",
+        "image": "https://media.lacapital.com.ar/p/78af5e2070b94db324cc18712eecb6cd/adjuntos/203/imagenes/103/558/0103558161/1200x675/smart/image-5.jpg",
+        "summary": "Como se mostró todo el fin de semana, los Alpine no dieron la talla en Qatar para estar en el top ten. El argentino largará 14°",
+        "pubDate": "2026-11-28T18:51:05+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Legislatura de Santa Fe: piden tratar en extraordinarias el nuevo régimen de enjuiciamiento",
+        "link": "https://www.lacapital.com.ar/politica/legislatura-santa-fe-piden-tratar-extraordinarias-el-nuevo-regimen-enjuiciamiento-n10294711.html",
+        "image": "https://media.lacapital.com.ar/p/d11ef007f0c1d49c4ff53f188d70ade2/adjuntos/203/imagenes/103/498/0103498231/1200x675/smart/legislatura-santa-fe-ley-seguridad.jpg",
+        "summary": "La diputada Lionella Cattalini instó a avanzar con una norma que establezca que magistrados, fiscales y defensores sean juzgados bajo las mismas reglas y por un tribunal mixto",
+        "pubDate": "2026-11-28T18:28:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Difunden un audio atribuido al árbitro Luis Lobo Medina en el que supuestamente pide 15.000 dólares de coima",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/54bdb266bc155bcca23e42dbb24d00dc/adjuntos/203/imagenes/103/558/0103558829/choque-cordoba-pueyrredon.jpeg",
         "summary": "Ariana Ponche tenía 31 años y había sufrido lesiones graves por un siniestro vial registrado el último domingo a la noche",
         "pubDate": "2026-11-28T14:12:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Objetivo dengue: Roldán presentará el plan de acción para la temporada 2026-2027",
-        "link": "https://www.lacapital.com.ar/la-region/objetivo-dengue-roldan-presentara-el-plan-accion-la-temporada-2026-2027-n10294166.html",
-        "image": "https://media.lacapital.com.ar/p/db718948ff62003978f6dd1e39239290/adjuntos/203/imagenes/103/557/0103557646/1200x675/smart/roldan-dengue-1.jpeg",
-        "summary": "Será el martes 1° de diciembre, a las 19 y será para todos los vecinos y vecinas de la ciudad que quieran interiorizarse sobre el programa municipal",
-        "pubDate": "2026-11-28T14:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Trámites en Portal Rosario: el Centro Municipal de Distrito Norte se muda al shopping",
-        "link": "https://www.lacapital.com.ar/la-ciudad/tramites-portal-rosario-el-centro-municipal-distrito-norte-se-muda-al-shopping-n10294678.html",
-        "image": "https://media.lacapital.com.ar/p/25172d4a3584413b0726eed93252a589/adjuntos/203/imagenes/103/558/0103558713/portal.jpg",
-        "summary": "En paralelo con la llegada de Decathlon, el centro comercial cedió un local de manera temporal para avanzar en la remodelación de Villa Hortensia",
-        "pubDate": "2026-11-28T13:26:00+00:00",
         "approxTime": false
       }
     ]
