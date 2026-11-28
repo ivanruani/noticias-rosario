@@ -1,32 +1,41 @@
 {
-  "generatedAt": "2026-11-27T23:31:02.402224+00:00",
+  "generatedAt": "2026-11-28T00:01:05.768898+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "“Dos años sin respuestas”: difunden la última imagen de Giovani Mvogo y convocan a una marcha",
+        "link": "https://www.rosario3.com/informaciongeneral/dos-anos-sin-respuestas-difunden-la-ultima-imagen-de-giovani-mvogo-y-convocan-a-una-marcha-20261126-0056.html",
+        "image": "https://www.rosario3.com/__export/1795722414453/sites/rosario3/img/2026/11/26/gio_mvogo_ultima_foto.jpg_928314580.jpg",
+        "summary": "El adolescente se bajó de un colectivo la medianoche del miércoles 27 de noviembre de 2024. Horas después de ese registro fue hallado sin vida en el Parque España. El caso se abordó como un suicidio, aunque la familia reclama que fue un homicidio mal investigado: “Queremos saber…",
+        "pubDate": "2026-11-26T12:00:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "Condenan a 18 años al chofer de los asaltantes que mataron a un comerciante en Villa Gobernador Gálvez",
         "link": "https://www.rosario3.com/policiales/condenan-a-18-anos-al-chofer-de-los-asaltantes-que-mataron-a-un-comerciante-en-villa-gobernador-galvez-20261127-0066.html",
         "image": "https://www.rosario3.com/__export/1792364226366/sites/rosario3/img/2023/12/18/vgg.jpg_1825222445.jpg",
         "summary": "El único detenido por el crimen de Ariel Turnaturi fue hallado responsable de trasladar en un Chevrolet Onix a los delincuentes que asaltaron la fiambrería en diciembre de 2023. La Fiscalía había pedido 25 años de prisión. Los otros autores del ataque siguen prófugos y hay una…",
-        "pubDate": "2026-11-27T12:00:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El Distrito Norte de Rosario se muda al Portal: desde cuándo atenderá y qué trámites se podrán hacer",
-        "link": "https://www.rosario3.com/informaciongeneral/el-distrito-norte-de-rosario-se-muda-al-portal-desde-cuando-atendera-y-que-tramites-se-podran-hacer-20261127-0068.html",
-        "image": "https://www.rosario3.com/__export/1795815148632/sites/rosario3/img/2026/11/27/p1k8et12ak3idusq1ubh6si1j7s5_version1795815148089.jpg_1257235835.jpg",
-        "summary": "A partir del martes 1° de diciembre, las oficinas municipales funcionarán en el shopping de Nansen 323, de lunes a viernes de 8 a 16. El traslado permitirá realizar una restauración integral de Villa Hortensia. Además, habrá jornadas especiales para renovar licencias de conducir…",
         "pubDate": "2026-11-27T11:59:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Caos vehicular en la autopista a Buenos Aires por cereal desparramado en la mano hacia Rosario",
-        "link": "https://www.rosario3.com/informaciongeneral/caos-vehicular-en-la-autopista-a-buenos-aires-por-cereal-desparramado-en-la-mano-hacia-rosario-20261127-0070.html",
-        "image": "https://www.rosario3.com/__export/1795821810128/sites/rosario3/img/2026/11/27/transito.jpg_2106848869.jpg",
-        "summary": "El incidente ocurrió en horas de la tarde y provocó una fila de vehículos de varios kilómetros de extensión, concentrándose el mayor punto de demora alrededor de las 20 a la altura del puente que cruza el arroyo Saladillo",
+        "title": "\"Si Argentina sigue este rumbo, seremos potencia, va a ser un lujo vivir en el país\", dijo el empresario que trajo Decathlón a Rosario",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/si-argentina-sigue-este-rumbo-seremos-potencia-va-a-ser-un-lujo-vivir-en-el-pais-dijo-el-empresario-que-trajo-decathlon-a-rosario-20261127-0071.html",
+        "image": "https://www.rosario3.com/__export/1795822819610/sites/rosario3/img/2026/11/27/antelo.jpg_1949715150.jpg",
+        "summary": "Miguel Antelo, el reconocido empresario argentino, pronosticó un fuerte recupero del consumo si se mantiene el modelo actual. También consideró que es “impresionante el cambio que tuvo Rosario en materia de seguridad” y pidió a las provincias que bajen Ingresos Brutos",
         "pubDate": "2026-11-27T11:58:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Víctimas de la partera Dolly se manifestaron frente al Hospital Provincial para acompañar a la familia de Rocío Robles",
+        "link": "https://www.rosario3.com/informaciongeneral/victimas-de-la-partera-dolly-se-manifestaron-frente-al-hospital-provincial-para-acompanar-a-la-familia-de-rocio-robles-20261127-0072.html",
+        "image": "https://www.rosario3.com/__export/1795823639689/sites/rosario3/img/2026/11/27/disen-o_sin_ti-tulo_-76-.png_928314581.png",
+        "summary": "La convocatoria reunió a personas que denuncian haber sido apropiadas por las parteras Dolly Viale y también por Olga. El reclamo se realizó en apoyo a la familia de la modelo rosarina, que busca a Florencia, una hermana que habría sido sustraída al nacer en ese hospital en…",
+        "pubDate": "2026-11-27T11:57:00+00:00",
         "approxTime": true
       },
       {
@@ -35,24 +44,15 @@
         "link": "https://www.rosario3.com/informaciongeneral/mas-de-10-mil-personas-participaran-del-sorteo-de-104-viviendas-de-la-villa-suramericana-en-santa-fe-20261127-0067.html",
         "image": "https://www.rosario3.com/__export/1795814032213/sites/rosario3/img/2026/11/27/disen-o_sin_ti-tulo_-75-.png_928314581.png",
         "summary": "El Gobierno provincial publicó el padrón definitivo de postulantes habilitados para acceder a las unidades habitacionales del complejo ubicado en la capital provincial. El sorteo se realizará el miércoles 2 de diciembre, a través de la Lotería de Santa Fe",
-        "pubDate": "2026-11-27T11:57:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Rosario implementará bancos amarillos en parques y plazas para la prevención del suicidio",
-        "link": "https://www.rosario3.com/informaciongeneral/rosario-implementara-bancos-amarillos-en-parques-y-plazas-para-la-prevencion-del-suicidio-20261127-0040.html",
-        "image": "https://www.rosario3.com/__export/1795796846521/sites/rosario3/img/2026/11/27/banco_amarillo.jpg_982625323.jpg",
-        "summary": "Marina Promanzio es maestra jardinera y forma parte de “Somos abrazos”, una organización que realiza encuentros y actividades para instalar la salud mental en la agenda pública y además, fue quien presentó el proyecto que los concejales de la ciudad aprobaron",
         "pubDate": "2026-11-27T11:56:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Falsos pasajeros al ataque: tres robos a conductores de Didi y Uber en una madrugada",
-        "link": "https://www.rosario3.com/policiales/falsos-pasajeros-al-ataque-tres-robos-a-conductores-de-didi-y-uber-en-una-madrugada-20261127-0059.html",
-        "image": "https://www.rosario3.com/__export/1795806077293/sites/rosario3/img/2026/10/29/uber_1.jpg_1825222445.jpg",
-        "summary": "Los delincuentes aprovecharon viajes pedidos por la plataforma para atacar a los conductores, que fueron amenazados con armas blancas y de fuego. En uno de los hechos se llevaron una camioneta. Los casos tuvieron lugar en Empalme Graneros, Triángulo y Moderno y La Florida",
+        "title": "En disputa: tras ser baleado en su casa, cayó un integrante del clan Silvera de San Lorenzo",
+        "link": "https://www.rosario3.com/policiales/en-disputa-tras-ser-baleado-en-su-casa-cayo-un-integrante-del-clan-silvera-de-san-lorenzo-20261127-0069.html",
+        "image": "https://www.rosario3.com/__export/1795820530632/sites/rosario3/img/2026/11/27/silvera_san_lorenzo.jpeg_672794305.jpeg",
+        "summary": "El joven de 23 años recibió un disparo en un brazo cuando se asomó por la ventana de su casa, luego de que lo llamaran por su nombre. La fiscal Luisina Paponi ordenó su detención en el marco de una escalada de violencia entre los clanes Silvera y Monzón, enfrentados por el…",
         "pubDate": "2026-11-27T11:55:00+00:00",
         "approxTime": true
       },
@@ -103,28 +103,28 @@
       },
       {
         "source": "Rosario3",
-        "title": "“Fue cuestión de segundos”: el relato del hermano de la mujer que murió ahogada en una playa nudista y el reclamo por la falta de guardavidas",
-        "link": "https://www.rosario3.com/informaciongeneral/fue-cuestion-de-segundos-el-relato-del-hermano-de-la-mujer-que-murio-ahogada-en-una-playa-nudista-y-el-reclamo-por-la-falta-de-guardavidas-20261127-0061.html",
-        "image": "https://www.rosario3.com/__export/1795808831332/sites/rosario3/img/2026/11/27/playa_uruguay_entrerriana.png_786111822.png",
-        "summary": "Fabián Mayer reconstruyó cómo su hermana y su pareja fueron sorprendidos por una ola en la playa Chihuahua, cerca de Punta del Este. La mujer, de 36 años, fue rescatada por otros bañistas, pero los intentos de reanimación no dieron resultado",
+        "title": "Falsos pasajeros al ataque: tres robos a conductores de Didi y Uber en una madrugada",
+        "link": "https://www.rosario3.com/policiales/falsos-pasajeros-al-ataque-tres-robos-a-conductores-de-didi-y-uber-en-una-madrugada-20261127-0059.html",
+        "image": "https://www.rosario3.com/__export/1795806077293/sites/rosario3/img/2026/10/29/uber_1.jpg_1825222445.jpg",
+        "summary": "Los delincuentes aprovecharon viajes pedidos por la plataforma para atacar a los conductores, que fueron amenazados con armas blancas y de fuego. En uno de los hechos se llevaron una camioneta. Los casos tuvieron lugar en Empalme Graneros, Triángulo y Moderno y La Florida",
         "pubDate": "2026-11-27T11:49:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "Shein deberá pagar 100 millones de dólares en Estados Unidos por denuncias de prácticas engañosas",
-        "link": "https://www.rosario3.com/informaciongeneral/shein-debera-pagar-100-millones-de-dolares-en-estados-unidos-por-denuncias-de-practicas-enganosas-20261127-0060.html",
-        "image": "https://www.rosario3.com/__export/1795810784481/sites/rosario3/img/2026/11/27/shein.png_786111822.png",
-        "summary": "La plataforma de comercio electrónico llegó a un acuerdo con la Comisión Federal de Comercio (FTC) tras una investigación por irregularidades en los plazos de entrega, manipulación de reseñas y falta de información sobre el origen de los materiales utilizados en sus prendas. El…",
+        "title": "La campaña agrícola alcanzó un récord de 171 millones de toneladas y genera rindes alentadores en Santa Fe",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-campana-agricola-alcanzo-un-record-de-171-millones-de-toneladas-y-genera-rindes-alentadores-en-santa-fe-20261127-0056.html",
+        "image": "https://www.rosario3.com/__export/1795805790317/sites/rosario3/img/2026/11/27/campo.jpg_2106848869.jpg",
+        "summary": "La producción nacional saltó 30 millones de toneladas frente al ciclo anterior con mayores rindes, inversión tecnológica y desafíos logísticos. En Santa Fe, en tanto, se reportan avances dispares en la trilla de trigo, el cierre de la siembra de soja de primera y alertas…",
         "pubDate": "2026-11-27T11:48:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "El exfiscal Ríos Artacho desvió mil millones de pesos de cuentas judiciales, según la nueva imputación",
-        "link": "https://www.rosario3.com/policiales/el-exfiscal-rios-artacho-desvio-mil-millones-de-pesos-de-cuentas-judiciales-segun-la-nueva-imputacion-20261127-0051.html",
-        "image": "https://www.rosario3.com/__export/1788790808812/sites/rosario3/img/2026/09/07/rios_artacho.jpg_928314581.jpg",
-        "summary": "En la ampliación de la acusación llevada a cabo este viernes por los fiscales Adrián Spelta y Carla Cerliani se dieron a conocer más maniobras que habría perpetrado su excolega del Ministerio Público de la Acusación entre 2017 y 2024. Otras ocho personas fueron llevadas a…",
+        "title": "Rosario implementará bancos amarillos en parques y plazas para la prevención del suicidio",
+        "link": "https://www.rosario3.com/informaciongeneral/rosario-implementara-bancos-amarillos-en-parques-y-plazas-para-la-prevencion-del-suicidio-20261127-0040.html",
+        "image": "https://www.rosario3.com/__export/1795796846521/sites/rosario3/img/2026/11/27/banco_amarillo.jpg_982625323.jpg",
+        "summary": "Marina Promanzio es maestra jardinera y forma parte de “Somos abrazos”, una organización que realiza encuentros y actividades para instalar la salud mental en la agenda pública y además, fue quien presentó el proyecto que los concejales de la ciudad aprobaron",
         "pubDate": "2026-11-27T11:47:00+00:00",
         "approxTime": true
       },
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Sesiones extraordinarias: entre la suspensión de las Paso y cambios en el financiamiento universitario",
+        "link": "https://www.lacapital.com.ar/politica/sesiones-extraordinarias-la-suspension-las-paso-y-cambios-el-financiamiento-universitario-n10294629.html",
+        "image": "https://media.lacapital.com.ar/p/9a698b7a7b39cd986fa1ad98b02877ed/adjuntos/203/imagenes/103/558/0103558013/1200x675/smart/image.png",
+        "summary": "La Casa Rosada fijó esas prioridades, junto a Malvinas y el Súper Rigi, para ser tratadas en el Congreso durante diciembre. Evalúan retoques en el presupuesto 2027 tras la media sanción en Diputados",
+        "pubDate": "2026-11-27T23:39:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Malvinas: el Tribunal del Mar resolverá este sábado el pedido para frenar la explotación petrolera",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/8e843da4d69d616491515d5ced4d8dd1/adjuntos/203/imagenes/103/557/0103557658/1200x675/smart/e9ebadd6-b19f-41c4-9e24-3a35c29fde0c.jpg",
         "summary": "La desarrolladora 5 Sentidos redefine la arquitectura residencial, integrando espacios de trabajo, ocio y conexión comunitaria.",
         "pubDate": "2026-11-27T18:22:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Murió el empresario Jorge Born a los 92 años",
-        "link": "https://www.lacapital.com.ar/politica/murio-el-empresario-jorge-born-los-92-anos-n10294575.html",
-        "image": "https://media.lacapital.com.ar/p/821395b8dbcac587072a9b04ac9c9c48/adjuntos/203/imagenes/103/557/0103557653/1200x675/smart/image.png",
-        "summary": "Protagonizó hechos relevantes de la historia argentina: fue secuestrado durante seis meses por Montoneros e impulsó el plan económico de Menem al comienzo de su presidencia",
-        "pubDate": "2026-11-27T18:21:00+00:00",
         "approxTime": false
       }
     ]
