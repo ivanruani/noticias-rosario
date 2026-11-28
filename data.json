@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T19:01:03.992227+00:00",
+  "generatedAt": "2026-11-28T19:30:58.590399+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,11 +141,20 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "Franco Colapinto no pudo llegar a Q3 en Qatar y saldrá justo detrás de Pierre Gasly",
-        "link": "https://www.lacapital.com.ar/ovacion/franco-colapinto-no-pudo-llegar-q3-qatar-y-saldra-justo-detras-pierre-gasly-n10294647.html",
+        "title": "El Hipódromo llevará el nombre de un jockey que ganó más de 3.300 carreras en Rosario y rompió un récord Guinness",
+        "link": "https://www.lacapital.com.ar/ovacion/el-hipodromo-llevara-el-nombre-un-jockey-que-gano-mas-3300-carreras-rosario-y-rompio-un-record-guinness-n10294590.html",
+        "image": "https://media.lacapital.com.ar/p/397bb5b7bceee3d5c0505ba39ed84db7/adjuntos/203/imagenes/020/161/0020161870/1200x675/smart/hipodromojpg.jpg",
+        "summary": "Ángel Oscar Baratucci es una de las máximas figuras del turf argentino. El Concejo Municipal definió que el Hipódromo del Parque Independencia lleve su nombre",
+        "pubDate": "2026-11-28T19:16:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Franco Colapinto no pudo llegar a Q3 en Qatar y saldrá detrás de Pierre Gasly",
+        "link": "https://www.lacapital.com.ar/ovacion/franco-colapinto-no-pudo-llegar-q3-qatar-y-saldra-detras-pierre-gasly-n10294647.html",
         "image": "https://media.lacapital.com.ar/p/78af5e2070b94db324cc18712eecb6cd/adjuntos/203/imagenes/103/558/0103558161/1200x675/smart/image-5.jpg",
         "summary": "Como se mostró todo el fin de semana, los Alpine no dieron la talla en Qatar para estar en el top ten. El argentino largará 14°",
-        "pubDate": "2026-11-28T18:51:05+00:00",
+        "pubDate": "2026-11-28T18:51:00+00:00",
         "approxTime": false
       },
       {
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/4f6a8a3744659fbe5ff3113da5d775d6/adjuntos/203/imagenes/103/388/0103388990/1200x675/smart/petroleo-malvinas-sea-lion.jpg",
         "summary": "El Tribunal Internacional del Derecho del Mar rechazó una petición para frenar el proyecto de explotación de petróleo alrededor de las islas",
         "pubDate": "2026-11-28T15:19:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Falleció una motociclista internada tras un choque con un auto en el centro rosarino",
-        "link": "https://www.lacapital.com.ar/la-ciudad/fallecio-una-motociclista-internada-un-choque-un-auto-el-centro-rosarino-n10294689.html",
-        "image": "https://media.lacapital.com.ar/p/54bdb266bc155bcca23e42dbb24d00dc/adjuntos/203/imagenes/103/558/0103558829/choque-cordoba-pueyrredon.jpeg",
-        "summary": "Ariana Ponche tenía 31 años y había sufrido lesiones graves por un siniestro vial registrado el último domingo a la noche",
-        "pubDate": "2026-11-28T14:12:00+00:00",
         "approxTime": false
       }
     ]
