@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T00:31:00.120839+00:00",
+  "generatedAt": "2026-11-28T01:01:16.307056+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Asociación Rosarina: la selección Sub-14 comenzó con el pie derecho en el torneo femenino en Santa Fe",
+        "link": "https://www.lacapital.com.ar/ovacion/asociacion-rosarina-la-seleccion-sub-14-comenzo-el-pie-derecho-el-torneo-femenino-santa-fe-n10294640.html",
+        "image": "https://media.lacapital.com.ar/p/84b0d3f7fff04d4099078bab037b67e6/adjuntos/203/imagenes/103/558/0103558158/1200x675/smart/image-2026-11-27t210117547.png",
+        "summary": "El selectivo de la Rosarina venció a la Liga Santafesina Azul por 1 a 0 con el tanto de Maia Rodríguez. Este sábado jugará dos encuentros en el torneo provincial",
+        "pubDate": "2026-11-28T00:29:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "El riesgo país bajó en el cierre de la semana pero el dólar aumentó",
         "link": "https://www.lacapital.com.ar/economia/el-riesgo-pais-el-cierre-la-semana-pero-el-dolar-aumento-n10294645.html",
         "image": "https://media.lacapital.com.ar/p/6e84a4941aa9a76c8c16f37ae4cd44e1/adjuntos/203/imagenes/103/508/0103508866/1200x675/smart/caputo58534.jpg",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/691c08fcbb14e41889a2a670b987fdb3/adjuntos/203/imagenes/102/317/0102317802/1200x675/smart/whatsapp-celular-chatwebp.png",
         "summary": "La aplicación está incorporando una función que permite darle voz y efectos sonoros a los stickers. Cómo crear stickers con sonido",
         "pubDate": "2026-11-27T21:03:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Alivio y optimismo en la UNR por la media sanción de Diputados al Presupuesto 2027",
-        "link": "https://www.lacapital.com.ar/la-ciudad/alivio-y-optimismo-la-unr-la-media-sancion-diputados-al-presupuesto-2027-n10294564.html",
-        "image": "https://media.lacapital.com.ar/p/b13d779bede7446319b2920a91357bbb/adjuntos/203/imagenes/103/457/0103457843/1200x675/smart/image.png",
-        "summary": "El rector Franco Bartolacci valoró la tarea de los legisladores santafesinos de Provincias Unidas y del peronismo. Falta la votación en el Senado",
-        "pubDate": "2026-11-27T20:53:00+00:00",
         "approxTime": false
       }
     ]
