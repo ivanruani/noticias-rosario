@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T11:01:12.527847+00:00",
+  "generatedAt": "2026-11-28T11:31:02.482675+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,20 +141,20 @@
     "lacapital": [
       {
         "source": "La Capital",
-        "title": "Brasil lidera las búsquedas de los argentinos, pero los destinos nacionales dominan el verano",
-        "link": "https://www.lacapital.com.ar/turismo/brasil-lidera-las-busquedas-los-argentinos-pero-los-destinos-nacionales-dominan-el-verano-n10294418.html",
-        "image": "https://media.lacapital.com.ar/p/a2f0dc61baeede8208bc78e9352b359a/adjuntos/203/imagenes/103/557/0103557868/imagen-nota.jpg",
-        "summary": "Ocho lugares del país están entre los diez más consultados en Google los últimos tres meses. El relevamiento mostró qué opciones del exterior marcan tendencia",
-        "pubDate": "2026-11-28T10:00:00+00:00",
+        "title": "Rosario Central vs. Barracas Central por el Clausura: hora, canal y posibles formaciones",
+        "link": "https://www.lacapital.com.ar/ovacion/rosario-central-vs-barracas-central-el-clausura-hora-canal-y-posibles-formaciones-n10294499.html",
+        "image": "https://media.lacapital.com.ar/p/fca7d74c3b3e878ca56e69ce051c26d4/adjuntos/203/imagenes/103/556/0103556648/1200x675/smart/central-barracas-central.jpg",
+        "summary": "El Canalla chocará este domingo ante el Guapo por los cuartos de final en el Gigante de Arroyito. Detalles y estadísticas del partido",
+        "pubDate": "2026-11-28T11:21:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Firmaron un convenio para construir un nuevo edificio para el Poder Judicial en San Jorge",
-        "link": "https://www.lacapital.com.ar/la-region/firmaron-un-convenio-construir-un-nuevo-edificio-el-poder-judicial-san-jorge-n10294577.html",
-        "image": "https://media.lacapital.com.ar/p/01938612e141d99468f975d07c9f18a4/adjuntos/203/imagenes/103/557/0103557651/1200x675/smart/poder-judicial.jpeg",
-        "summary": "El predio estará ubicado en un sector lindero al municipio y el acuerdo de comodato se extenderá por un plazo de 30 años",
-        "pubDate": "2026-11-28T10:00:00+00:00",
+        "title": "Tarja Turunen: \"Cada vez que regreso a la Argentina, es como volver a casa\"",
+        "link": "https://www.lacapital.com.ar/zoom/tarja-turunen-cada-vez-que-regreso-la-argentina-es-como-volver-casa-n10294571.html",
+        "image": "https://media.lacapital.com.ar/p/47ce207968f28a62c6520bd1abf6fa34/adjuntos/203/imagenes/103/557/0103557643/1200x675/smart/image-2026-11-27t153617460.jpg",
+        "summary": "La finlandesa más argentina de todas retorna a Rosario para presentar por primera vez de este lado del mundo su show navideño",
+        "pubDate": "2026-11-28T11:00:00+00:00",
         "approxTime": false
       },
       {
@@ -177,15 +177,6 @@
       },
       {
         "source": "La Capital",
-        "title": "Punta Cana y un crucero para descubrir varias islas del Caribe en un mismo viaje",
-        "link": "https://www.lacapital.com.ar/turismo/punta-cana-y-un-crucero-descubrir-varias-islas-del-caribe-un-mismo-viaje-n10294417.html",
-        "image": "https://media.lacapital.com.ar/p/2d013bcac4369005946be70501c461c6/adjuntos/203/imagenes/103/555/0103555823/1200x675/smart/imagen-nota.jpg",
-        "summary": "La experiencia puede complementarse con días de descanso en hoteles all inclusive en Bayahibe, destacando sus playas de arena clara y ambiente relajado",
-        "pubDate": "2026-11-28T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "Rosario consolida su atractivo como destino para escapadas urbanas",
         "link": "https://www.lacapital.com.ar/turismo/rosario-consolida-su-atractivo-como-destino-escapadas-urbanas-n10294416.html",
         "image": "https://media.lacapital.com.ar/p/84322b3104b2da4bf4c90430292fb9ac/adjuntos/203/imagenes/103/557/0103557847/imagen-nota.jpg",
@@ -195,28 +186,37 @@
       },
       {
         "source": "La Capital",
-        "title": "Axel Werner, el arquero de Central que frenó a Barracas y sumó en una victoria clave del Canalla",
-        "link": "https://www.lacapital.com.ar/ovacion/axel-werner-el-arquero-central-que-freno-barracas-y-sumo-una-victoria-clave-del-canalla-n10294625.html",
-        "image": "https://media.lacapital.com.ar/p/7abcad31153bf740994efa6396e8162b/adjuntos/203/imagenes/103/398/0103398657/dossss.jpg",
-        "summary": "En agosto fue la gran figura del equipo de Almirón, que ganó 1 a 0. ¿Volverá a jugar contra el Guapo? Vuelve Avila y Di María aún no se sabe",
-        "pubDate": "2026-11-28T09:30:00+00:00",
+        "title": "Punta Cana y un crucero para descubrir varias islas del Caribe en un mismo viaje",
+        "link": "https://www.lacapital.com.ar/turismo/punta-cana-y-un-crucero-descubrir-varias-islas-del-caribe-un-mismo-viaje-n10294417.html",
+        "image": "https://media.lacapital.com.ar/p/2d013bcac4369005946be70501c461c6/adjuntos/203/imagenes/103/555/0103555823/1200x675/smart/imagen-nota.jpg",
+        "summary": "La experiencia puede complementarse con días de descanso en hoteles all inclusive en Bayahibe, destacando sus playas de arena clara y ambiente relajado",
+        "pubDate": "2026-11-28T10:00:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "La salvación del Riesgo Kuka",
-        "link": "https://www.lacapital.com.ar/politica/la-salvacion-del-riesgo-kuka-n10294623.html",
-        "image": "https://media.lacapital.com.ar/p/c946331f4af9707b9ad3d92df228639f/adjuntos/203/imagenes/103/487/0103487347/1200x675/smart/image.png",
-        "summary": "El regreso de la coctelería del peronismo al poder",
-        "pubDate": "2026-11-28T09:30:00+00:00",
+        "title": "Brasil lidera las búsquedas de los argentinos, pero los destinos nacionales dominan el verano",
+        "link": "https://www.lacapital.com.ar/turismo/brasil-lidera-las-busquedas-los-argentinos-pero-los-destinos-nacionales-dominan-el-verano-n10294418.html",
+        "image": "https://media.lacapital.com.ar/p/a2f0dc61baeede8208bc78e9352b359a/adjuntos/203/imagenes/103/557/0103557868/imagen-nota.jpg",
+        "summary": "Ocho lugares del país están entre los diez más consultados en Google los últimos tres meses. El relevamiento mostró qué opciones del exterior marcan tendencia",
+        "pubDate": "2026-11-28T10:00:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Puerto Norte: el municipio celebra la liberación definitiva de ocho hectáreas ferroviarias para urbanizar",
-        "link": "https://www.lacapital.com.ar/la-ciudad/puerto-norte-el-municipio-celebra-la-liberacion-definitiva-ocho-hectareas-ferroviarias-urbanizar-n10294604.html",
-        "image": "https://media.lacapital.com.ar/p/e72ebe075c69b31a306e06519cd97a60/adjuntos/203/imagenes/018/880/0018880958/1200x675/smart/acircomudanza2jpg.jpg",
-        "summary": "Nación había autorizado la venta de los terrenos en 2024 y ahora oficializó, a través del Boletín Oficial, que los operadores de trenes no utilizarán las parcelas. Resta firmar un convenio con el municipio para avanzar",
+        "title": "Firmaron un convenio para construir un nuevo edificio para el Poder Judicial en San Jorge",
+        "link": "https://www.lacapital.com.ar/la-region/firmaron-un-convenio-construir-un-nuevo-edificio-el-poder-judicial-san-jorge-n10294577.html",
+        "image": "https://media.lacapital.com.ar/p/01938612e141d99468f975d07c9f18a4/adjuntos/203/imagenes/103/557/0103557651/1200x675/smart/poder-judicial.jpeg",
+        "summary": "El predio estará ubicado en un sector lindero al municipio y el acuerdo de comodato se extenderá por un plazo de 30 años",
+        "pubDate": "2026-11-28T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Festejos estudiantiles de fin de año: aseguran que las denuncias bajaron a la mitad",
+        "link": "https://www.lacapital.com.ar/la-ciudad/festejos-estudiantiles-fin-ano-aseguran-que-las-denuncias-bajaron-la-mitad-n10294383.html",
+        "image": "https://media.lacapital.com.ar/p/d71f50272ff05c1054fbf3aa86306db1/adjuntos/203/imagenes/103/558/0103558134/1200x675/smart/festejo-udd-suarez-meccia.jpg",
+        "summary": "Se trata de los reclamos recibidos por el municipio. No obstante, hubo destrozos en el Monumento y quemaron una palmera",
         "pubDate": "2026-11-28T09:30:00+00:00",
         "approxTime": false
       },
@@ -231,10 +231,28 @@
       },
       {
         "source": "La Capital",
-        "title": "Festejos estudiantiles de fin de año: aseguran que las denuncias bajaron a la mitad",
-        "link": "https://www.lacapital.com.ar/la-ciudad/festejos-estudiantiles-fin-ano-aseguran-que-las-denuncias-bajaron-la-mitad-n10294383.html",
-        "image": "https://media.lacapital.com.ar/p/d71f50272ff05c1054fbf3aa86306db1/adjuntos/203/imagenes/103/558/0103558134/1200x675/smart/festejo-udd-suarez-meccia.jpg",
-        "summary": "Se trata de los reclamos recibidos por el municipio. No obstante, hubo destrozos en el Monumento y quemaron una palmera",
+        "title": "Puerto Norte: el municipio celebra la liberación definitiva de ocho hectáreas ferroviarias para urbanizar",
+        "link": "https://www.lacapital.com.ar/la-ciudad/puerto-norte-el-municipio-celebra-la-liberacion-definitiva-ocho-hectareas-ferroviarias-urbanizar-n10294604.html",
+        "image": "https://media.lacapital.com.ar/p/e72ebe075c69b31a306e06519cd97a60/adjuntos/203/imagenes/018/880/0018880958/1200x675/smart/acircomudanza2jpg.jpg",
+        "summary": "Nación había autorizado la venta de los terrenos en 2024 y ahora oficializó, a través del Boletín Oficial, que los operadores de trenes no utilizarán las parcelas. Resta firmar un convenio con el municipio para avanzar",
+        "pubDate": "2026-11-28T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "La salvación del Riesgo Kuka",
+        "link": "https://www.lacapital.com.ar/politica/la-salvacion-del-riesgo-kuka-n10294623.html",
+        "image": "https://media.lacapital.com.ar/p/c946331f4af9707b9ad3d92df228639f/adjuntos/203/imagenes/103/487/0103487347/1200x675/smart/image.png",
+        "summary": "El regreso de la coctelería del peronismo al poder",
+        "pubDate": "2026-11-28T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Axel Werner, el arquero de Central que frenó a Barracas y sumó en una victoria clave del Canalla",
+        "link": "https://www.lacapital.com.ar/ovacion/axel-werner-el-arquero-central-que-freno-barracas-y-sumo-una-victoria-clave-del-canalla-n10294625.html",
+        "image": "https://media.lacapital.com.ar/p/7abcad31153bf740994efa6396e8162b/adjuntos/203/imagenes/103/398/0103398657/dossss.jpg",
+        "summary": "En agosto fue la gran figura del equipo de Almirón, que ganó 1 a 0. ¿Volverá a jugar contra el Guapo? Vuelve Avila y Di María aún no se sabe",
         "pubDate": "2026-11-28T09:30:00+00:00",
         "approxTime": false
       },
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/61e527a18de2e332f917292358d42a52/adjuntos/305/imagenes/100/248/0100248197/1200x675/smart/roya-amarilla-la-enfermedad-de-trigo-que-mas-expansion-tiene-en-argentina-alltecpng.png",
         "summary": "Especialistas del Inta Marcos Juárez analizaron los riesgos y las estrategias de manejo para las próximas campañas. Ponen el foco en la importancia de la selección varietal",
         "pubDate": "2026-11-28T09:15:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Los hormigueros gigantes que los primeros agricultores tuvieron que remover para cultivar Tacural",
-        "link": "https://www.lacapital.com.ar/agro/los-hormigueros-gigantes-que-los-primeros-agricultores-tuvieron-que-remover-cultivar-tacural-n10294386.html",
-        "image": "https://media.lacapital.com.ar/p/48729b486178adff3aa4c7dc1e69f17f/adjuntos/203/imagenes/103/555/0103555590/1200x675/smart/tacural-productores-tacurues.jpeg",
-        "summary": "Los montículos de arcilla que dieron nombre a este pueblo santafesino pusieron a prueba a los colonos que llegaron a trabajar estas tierras. La historia de Tacural, una localidad con una larga tradición agrícola y lechera",
-        "pubDate": "2026-11-28T09:10:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Asociación Rosarina de Fútbol: continúan los octavos de final del torneo Ivancich",
-        "link": "https://www.lacapital.com.ar/ovacion/asociacion-rosarina-futbol-continuan-los-octavos-final-del-torneo-ivancich-n10294619.html",
-        "image": "https://media.lacapital.com.ar/p/e7d644c54724f0b0e6703bf36151dbcc/adjuntos/203/imagenes/103/558/0103558210/1200x675/smart/image-2026-11-27t221437278.png",
-        "summary": "El certamen tendrá cinco partidos este sábado a las 17. Sobresale el clásico entre Morning Star y Adiur. Este viernes, Central le ganó a Banco, Newell's hizo lo propio ante Mitre y Unión de Álvarez triunfó sobre Leones",
-        "pubDate": "2026-11-28T03:05:00+00:00",
         "approxTime": false
       }
     ]
