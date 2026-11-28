@@ -1,41 +1,50 @@
 {
-  "generatedAt": "2026-11-28T11:31:02.482675+00:00",
+  "generatedAt": "2026-11-28T12:01:05.540038+00:00",
   "sites": {
     "rosario3": [
+      {
+        "source": "Rosario3",
+        "title": "Rescataron a 15 perros que estaban en malas condiciones en una casa de la zona sudoeste de Rosario",
+        "link": "https://www.rosario3.com/informaciongeneral/rescataron-a-15-perros-que-estaban-en-malas-condiciones-en-una-casa-de-la-zona-sudoeste-de-rosario-20261128-0003.html",
+        "image": "https://www.rosario3.com/__export/1795866106094/sites/rosario3/img/2026/11/28/p1k8erm4tpb4f1a611qrp16h1gq4g_version1795866105609.jpg_1559198253.jpg",
+        "summary": "El operativo municipal se realizó tras la denuncia de vecinos. Los animales presentaban problemas de higiene y algunos también de salud. Una de las mascotas debió ser internada y dos organizaciones proteccionistas colaboran con su recuperación",
+        "pubDate": "2026-11-28T12:00:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "La Previa del Run Run: ya está el nuevo nombre que tendrá Banco Santa Fe y una inesperada ronda de negocios",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/la-previa-del-run-run-ya-esta-el-nuevo-nombre-que-tendra-banco-santa-fe-y-una-inesperada-ronda-de-negocios-20261127-0073.html",
+        "image": "https://www.rosario3.com/__export/1789167090572/sites/rosario3/img/2026/09/11/marianoportada_jpg.jpeg_506286608.jpeg",
+        "summary": "El podcast con el anticipo de las novedades económicas y corporativas que se publicarán en la tradicional columna de los domingos en Rosario3",
+        "pubDate": "2026-11-27T11:59:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "El clima en Rosario: sábado despejado y caluroso",
+        "link": "https://www.rosario3.com/informaciongeneral/el-clima-en-rosario-sabado-despejado-y-caluroso-20261128-0001.html",
+        "image": "https://www.rosario3.com/__export/1795865684642/sites/rosario3/img/2026/11/12/calor.jpg_1768679258.jpg",
+        "summary": "El Servicio Meteorológico Nacional anticipa una jornada sin lluvias y con temperaturas en ascenso. El calor continuará durante los primeros días de la semana, con máximas de hasta 35 grados y probabilidad de tormentas hacia la noche del martes",
+        "pubDate": "2026-11-28T11:58:00+00:00",
+        "approxTime": true
+      },
       {
         "source": "Rosario3",
         "title": "“Dos años sin respuestas”: difunden la última imagen de Giovani Mvogo y convocan a una marcha",
         "link": "https://www.rosario3.com/informaciongeneral/dos-anos-sin-respuestas-difunden-la-ultima-imagen-de-giovani-mvogo-y-convocan-a-una-marcha-20261126-0056.html",
         "image": "https://www.rosario3.com/__export/1795722414453/sites/rosario3/img/2026/11/26/gio_mvogo_ultima_foto.jpg_928314580.jpg",
         "summary": "El adolescente se bajó de un colectivo la medianoche del miércoles 27 de noviembre de 2024. Horas después de ese registro fue hallado sin vida en el Parque España. El caso se abordó como un suicidio, aunque la familia reclama que fue un homicidio mal investigado: “Queremos saber…",
-        "pubDate": "2026-11-26T12:00:00+00:00",
+        "pubDate": "2026-11-26T11:57:00+00:00",
         "approxTime": true
       },
       {
         "source": "Rosario3",
-        "title": "\"Si Argentina sigue este rumbo, seremos potencia, va a ser un lujo vivir en el país\", dijo el empresario que trajo Decathlón a Rosario",
-        "link": "https://www.rosario3.com/-economia-negocios-agro-/si-argentina-sigue-este-rumbo-seremos-potencia-va-a-ser-un-lujo-vivir-en-el-pais-dijo-el-empresario-que-trajo-decathlon-a-rosario-20261127-0071.html",
-        "image": "https://www.rosario3.com/__export/1795822819610/sites/rosario3/img/2026/11/27/antelo.jpg_1949715150.jpg",
-        "summary": "Manuel Antelo, el reconocido empresario argentino, pronosticó un fuerte recupero del consumo si se mantiene el modelo actual. También consideró que es “impresionante el cambio que tuvo Rosario en materia de seguridad” y pidió a las provincias que bajen Ingresos Brutos",
-        "pubDate": "2026-11-27T11:59:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Víctimas de la partera Dolly se manifestaron frente al Hospital Provincial para acompañar a la familia de Rocío Robles",
-        "link": "https://www.rosario3.com/informaciongeneral/victimas-de-la-partera-dolly-se-manifestaron-frente-al-hospital-provincial-para-acompanar-a-la-familia-de-rocio-robles-20261127-0072.html",
-        "image": "https://www.rosario3.com/__export/1795823639689/sites/rosario3/img/2026/11/27/disen-o_sin_ti-tulo_-76-.png_928314581.png",
-        "summary": "La convocatoria reunió a personas que denuncian haber sido apropiadas por las parteras Dolly Viale y también por Olga. El reclamo se realizó en apoyo a la familia de la modelo rosarina, que busca a Florencia, una hermana que habría sido sustraída al nacer en ese hospital en…",
-        "pubDate": "2026-11-27T11:58:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El Distrito Norte de Rosario se muda al Portal: desde cuándo atenderá y qué trámites se podrán hacer",
-        "link": "https://www.rosario3.com/informaciongeneral/el-distrito-norte-de-rosario-se-muda-al-portal-desde-cuando-atendera-y-que-tramites-se-podran-hacer-20261127-0068.html",
-        "image": "https://www.rosario3.com/__export/1795815148632/sites/rosario3/img/2026/11/27/p1k8et12ak3idusq1ubh6si1j7s5_version1795815148089.jpg_1257235835.jpg",
-        "summary": "A partir del martes 1° de diciembre, las oficinas municipales funcionarán en el shopping de Nansen 323, de lunes a viernes de 8 a 16. El traslado permitirá realizar una restauración integral de Villa Hortensia. Además, habrá jornadas especiales para renovar licencias de conducir…",
-        "pubDate": "2026-11-27T11:57:00+00:00",
+        "title": "Los exfutbolistas presidentes, una tendencia que empieza a expandirse en el fútbol argentino",
+        "link": "https://www.rosario3.com/deportes/los-exfutbolistas-presidentes-una-tendencia-que-empieza-a-expandirse-en-el-futbol-argentino-20261127-0065.html",
+        "image": "https://www.rosario3.com/__export/1790368512600/sites/rosario3/img/2026/09/25/veron.jpg_506286608.jpg",
+        "summary": "Cinco exjugadores profesionales conducen, exitosamente en la mayoría de los casos, a las instituciones en las que jugaron y de las que en algunos casos son ídolos",
+        "pubDate": "2026-11-27T11:56:00+00:00",
         "approxTime": true
       },
       {
@@ -44,7 +53,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/mas-de-10-mil-personas-participaran-del-sorteo-de-104-viviendas-de-la-villa-suramericana-en-santa-fe-20261127-0067.html",
         "image": "https://www.rosario3.com/__export/1795814032213/sites/rosario3/img/2026/11/27/disen-o_sin_ti-tulo_-75-.png_928314581.png",
         "summary": "El Gobierno provincial publicó el padrón definitivo de postulantes habilitados para acceder a las unidades habitacionales del complejo ubicado en la capital provincial. El sorteo se realizará el miércoles 2 de diciembre, a través de la Lotería de Santa Fe",
-        "pubDate": "2026-11-27T11:56:00+00:00",
+        "pubDate": "2026-11-27T11:55:00+00:00",
         "approxTime": true
       },
       {
@@ -53,15 +62,6 @@
         "link": "https://www.rosario3.com/policiales/en-disputa-tras-ser-baleado-en-su-casa-cayo-un-integrante-del-clan-silvera-de-san-lorenzo-20261127-0069.html",
         "image": "https://www.rosario3.com/__export/1795820530632/sites/rosario3/img/2026/11/27/silvera_san_lorenzo.jpeg_672794305.jpeg",
         "summary": "El joven de 23 años recibió un disparo en un brazo cuando se asomó por la ventana de su casa, luego de que lo llamaran por su nombre. La fiscal Luisina Paponi ordenó su detención en el marco de una escalada de violencia entre los clanes Silvera y Monzón, enfrentados por el…",
-        "pubDate": "2026-11-27T11:55:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "El Gobierno prepara una agenda cargada para diciembre: qué proyectos quiere aprobar antes de fin de año",
-        "link": "https://www.rosario3.com/informaciongeneral/el-gobierno-prepara-una-agenda-cargada-para-diciembre-que-proyectos-quiere-aprobar-antes-de-fin-de-ano-20261127-0058.html",
-        "image": "https://www.rosario3.com/__export/1795805862869/sites/rosario3/img/2026/10/05/diputados.jpg_982625323.jpg",
-        "summary": "La Casa Rosada convocará al Congreso durante diciembre y definió una agenda de iniciativas prioritarias para cerrar el año legislativo. También buscará avanzar con reformas económicas, acuerdos internacionales y pliegos judiciales",
         "pubDate": "2026-11-27T11:54:00+00:00",
         "approxTime": true
       },
@@ -85,11 +85,29 @@
       },
       {
         "source": "Rosario3",
-        "title": "El río Paraná dio una tregua en Santa Fe capital, pero en Rosario se acerca al nivel de alerta: \"Dependemos de las lluvias en la cuenca de aporte\"",
-        "link": "https://www.rosario3.com/informaciongeneral/el-rio-parana-dio-una-tregua-en-santa-fe-capital-pero-en-rosario-se-acerca-al-nivel-de-alerta-20261127-0033.html",
-        "image": "https://www.rosario3.com/__export/1795791950189/sites/rosario3/img/2026/11/27/crecida_rio_rosario_-1-.jpg_506286608.jpg",
-        "summary": "Mientras la capital provincial salió del nivel de evacuación después de casi dos semanas, en la Cuna de la Bandera el Paraná quedó a apenas un centímetro de la marca de alerta (5 metros). El Instituto Nacional del Agua prevé que alcance esa cota el próximo martes y que luego…",
+        "title": "\"Si Argentina sigue este rumbo, seremos potencia, va a ser un lujo vivir en el país\", dijo el empresario que trajo Decathlón a Rosario",
+        "link": "https://www.rosario3.com/-economia-negocios-agro-/si-argentina-sigue-este-rumbo-seremos-potencia-va-a-ser-un-lujo-vivir-en-el-pais-dijo-el-empresario-que-trajo-decathlon-a-rosario-20261127-0071.html",
+        "image": "https://www.rosario3.com/__export/1795822819610/sites/rosario3/img/2026/11/27/antelo.jpg_1949715150.jpg",
+        "summary": "Manuel Antelo, el reconocido empresario argentino, pronosticó un fuerte recupero del consumo si se mantiene el modelo actual. También consideró que es “impresionante el cambio que tuvo Rosario en materia de seguridad” y pidió a las provincias que bajen Ingresos Brutos",
         "pubDate": "2026-11-27T11:51:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Colapinto tiene su último entrenamiento en el GP de Qatar antes de la clasificación: a qué hora",
+        "link": "https://www.rosario3.com/deportes/colapinto-va-por-la-consolidacion-cuando-vuelve-a-correr-tras-brillar-en-las-vegas-20261123-0032.html",
+        "image": "https://www.rosario3.com/__export/1795813871887/sites/rosario3/img/2026/11/27/colapinto.jpg_2106848869.jpg",
+        "summary": "El pilarense que había reconocido que no sintió bien a su Alpine durante las dos primeras sesiones de entrenamiento en Doha tendrá su tercer entrenamiento. Cómo sigue la agenda del fin de semana en la Fórmula 1",
+        "pubDate": "2026-11-23T11:50:00+00:00",
+        "approxTime": true
+      },
+      {
+        "source": "Rosario3",
+        "title": "Víctimas de la partera Dolly se manifestaron frente al Hospital Provincial para acompañar a la familia de Rocío Robles",
+        "link": "https://www.rosario3.com/informaciongeneral/victimas-de-la-partera-dolly-se-manifestaron-frente-al-hospital-provincial-para-acompanar-a-la-familia-de-rocio-robles-20261127-0072.html",
+        "image": "https://www.rosario3.com/__export/1795823639689/sites/rosario3/img/2026/11/27/disen-o_sin_ti-tulo_-76-.png_928314581.png",
+        "summary": "La convocatoria reunió a personas que denuncian haber sido apropiadas por las parteras Dolly Viale y también por Olga. El reclamo se realizó en apoyo a la familia de la modelo rosarina, que busca a Florencia, una hermana que habría sido sustraída al nacer en ese hospital en…",
+        "pubDate": "2026-11-27T11:49:00+00:00",
         "approxTime": true
       },
       {
@@ -98,16 +116,7 @@
         "link": "https://www.rosario3.com/informaciongeneral/y-usted-calladita-la-frase-que-desato-la-polemica-en-el-cierre-de-campana-en-espana-20261127-0064.html",
         "image": "https://www.rosario3.com/__export/1795811902890/sites/rosario3/img/2026/11/27/debate.jpg_2106848869.jpg",
         "summary": "A dos días de las elecciones generales españolas, el cruce en el debate televisivo en el que Alberto Núñez Feijóo le dijo “Y usted, calladita” a Ada Colau tras un reclamo por las inundaciones de Valencia desató acusaciones de machismo y reconfiguró el cierre de campaña entre el…",
-        "pubDate": "2026-11-27T11:50:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Franco Colapinto hizo un flojo balance tras las primeras prácticas del GP de Qatar: “No estamos cómodos con el auto”",
-        "link": "https://www.rosario3.com/deportes/colapinto-va-por-la-consolidacion-cuando-vuelve-a-correr-tras-brillar-en-las-vegas-20261123-0032.html",
-        "image": "https://www.rosario3.com/__export/1795813871887/sites/rosario3/img/2026/11/27/colapinto.jpg_2106848869.jpg",
-        "summary": "El pilarense reconoció que no sintió bien a su Alpine durante las dos primeras sesiones de entrenamiento en Doha. Cómo sigue la agenda del fin de semana en la Fórmula 1",
-        "pubDate": "2026-11-23T11:49:00+00:00",
+        "pubDate": "2026-11-27T11:48:00+00:00",
         "approxTime": true
       },
       {
@@ -116,7 +125,7 @@
         "link": "https://www.rosario3.com/-economia-negocios-agro-/la-campana-agricola-alcanzo-un-record-de-171-millones-de-toneladas-y-genera-rindes-alentadores-en-santa-fe-20261127-0056.html",
         "image": "https://www.rosario3.com/__export/1795805790317/sites/rosario3/img/2026/11/27/campo.jpg_2106848869.jpg",
         "summary": "La producción nacional saltó 30 millones de toneladas frente al ciclo anterior con mayores rindes, inversión tecnológica y desafíos logísticos. En Santa Fe, en tanto, se reportan avances dispares en la trilla de trigo, el cierre de la siembra de soja de primera y alertas…",
-        "pubDate": "2026-11-27T11:48:00+00:00",
+        "pubDate": "2026-11-27T11:47:00+00:00",
         "approxTime": true
       },
       {
@@ -125,15 +134,6 @@
         "link": "https://www.rosario3.com/informaciongeneral/rosario-implementara-bancos-amarillos-en-parques-y-plazas-para-la-prevencion-del-suicidio-20261127-0040.html",
         "image": "https://www.rosario3.com/__export/1795796846521/sites/rosario3/img/2026/11/27/banco_amarillo.jpg_982625323.jpg",
         "summary": "Marina Promanzio es maestra jardinera y forma parte de “Somos abrazos”, una organización que realiza encuentros y actividades para instalar la salud mental en la agenda pública y además, fue quien presentó el proyecto que los concejales de la ciudad aprobaron",
-        "pubDate": "2026-11-27T11:47:00+00:00",
-        "approxTime": true
-      },
-      {
-        "source": "Rosario3",
-        "title": "Nación liberó 80.564 metros cuadrados de tierras ferroviarias en Puerto Norte y avanza hacia su venta a privados | Ecos365",
-        "link": "https://www.rosario3.com/ecos365/noticias/nacion-libero-80.564-m-de-tierras-ferroviarias-en-puerto-norte-y-avanza-hacia-su-venta-a-privados-20261127-0006.html",
-        "image": "https://www.rosario3.com/__export/1795793019207/sites/rosario3/img/2026/11/27/tierras_ferrocarriles_crop1795793017433.png_1706487628.png",
-        "summary": "Una resolución de Economía quitó el uso ferroviario a cuatro predios de Rosario y allanó su subasta, pero su valor dependerá de lo que habilite la ciudad. Los detalles",
         "pubDate": "2026-11-27T11:46:00+00:00",
         "approxTime": true
       }
