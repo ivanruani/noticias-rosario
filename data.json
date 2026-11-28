@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T13:01:12.262216+00:00",
+  "generatedAt": "2026-11-28T13:31:02.751905+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Trámites en Portal Rosario: el Centro Municipal de Distrito Norte se muda al shopping",
+        "link": "https://www.lacapital.com.ar/la-ciudad/tramites-portal-rosario-el-centro-municipal-distrito-norte-se-muda-al-shopping-n10294678.html",
+        "image": "https://media.lacapital.com.ar/p/25172d4a3584413b0726eed93252a589/adjuntos/203/imagenes/103/558/0103558713/portal.jpg",
+        "summary": "En paralelo con la llegada de Decathlon, el centro comercial cedió un local de manera temporal para avanzar en la remodelación de Villa Hortensia",
+        "pubDate": "2026-11-28T13:26:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Messi quedó eliminado de los playoffs de la MLS Cup y cerró un año sin títulos oficiales",
         "link": "https://www.lacapital.com.ar/ovacion/messi-quedo-eliminado-los-playoffs-la-mls-cup-y-cerro-un-ano-titulos-oficiales-n10294664.html",
         "image": "https://media.lacapital.com.ar/p/7b2c665fb0ce224efe99faa92689eff0/adjuntos/203/imagenes/103/558/0103558467/lionel-messi.jpg",
@@ -168,42 +177,6 @@
       },
       {
         "source": "La Capital",
-        "title": "Inteligencia artificial y turismo: un conversatorio para repensar el futuro de las agencias de viajes",
-        "link": "https://www.lacapital.com.ar/turismo/inteligencia-artificial-y-turismo-un-conversatorio-repensar-el-futuro-las-agencias-viajes-n10294413.html",
-        "image": "https://media.lacapital.com.ar/p/3b280dcffcdbfc1af4d89f12534f662c/adjuntos/203/imagenes/103/557/0103557826/inteligencia-artificial-y-turismo-el-cambio-que-modifica-toda-la-cadena-valor-las-agencias.jpg",
-        "summary": "Dos especialistas abordarán los desafíos y oportunidades que plantea la tecnología para los profesionales del sector en un encuentro gratuito que se realizará en Rosario",
-        "pubDate": "2026-11-28T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Después de las grandes capitales, hay otra Europa por conocer",
-        "link": "https://www.lacapital.com.ar/turismo/despues-las-grandes-capitales-hay-otra-europa-conocer-n10294415.html",
-        "image": "https://media.lacapital.com.ar/p/1c411c7bbdc71822a33262f25924a9c9/adjuntos/203/imagenes/103/555/0103555845/imagen-nota.jpg",
-        "summary": "Chipre, Bulgaria y Turquía son tres destinos que invitan a mirar más allá de los circuitos clásicos",
-        "pubDate": "2026-11-28T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Rosario consolida su atractivo como destino para escapadas urbanas",
-        "link": "https://www.lacapital.com.ar/turismo/rosario-consolida-su-atractivo-como-destino-escapadas-urbanas-n10294416.html",
-        "image": "https://media.lacapital.com.ar/p/84322b3104b2da4bf4c90430292fb9ac/adjuntos/203/imagenes/103/557/0103557847/imagen-nota.jpg",
-        "summary": "Colectividades, congresos, recitales y fines de semana largos impulsaron el movimiento en noviembre. Los registros muestran buen nivel de ocupación hotelera",
-        "pubDate": "2026-11-28T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Punta Cana y un crucero para descubrir varias islas del Caribe en un mismo viaje",
-        "link": "https://www.lacapital.com.ar/turismo/punta-cana-y-un-crucero-descubrir-varias-islas-del-caribe-un-mismo-viaje-n10294417.html",
-        "image": "https://media.lacapital.com.ar/p/2d013bcac4369005946be70501c461c6/adjuntos/203/imagenes/103/555/0103555823/1200x675/smart/imagen-nota.jpg",
-        "summary": "La experiencia puede complementarse con días de descanso en hoteles all inclusive en Bayahibe, destacando sus playas de arena clara y ambiente relajado",
-        "pubDate": "2026-11-28T10:00:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
         "title": "Brasil lidera las búsquedas de los argentinos, pero los destinos nacionales dominan el verano",
         "link": "https://www.lacapital.com.ar/turismo/brasil-lidera-las-busquedas-los-argentinos-pero-los-destinos-nacionales-dominan-el-verano-n10294418.html",
         "image": "https://media.lacapital.com.ar/p/a2f0dc61baeede8208bc78e9352b359a/adjuntos/203/imagenes/103/557/0103557868/imagen-nota.jpg",
@@ -222,28 +195,46 @@
       },
       {
         "source": "La Capital",
-        "title": "Festejos estudiantiles de fin de año: aseguran que las denuncias bajaron a la mitad",
-        "link": "https://www.lacapital.com.ar/la-ciudad/festejos-estudiantiles-fin-ano-aseguran-que-las-denuncias-bajaron-la-mitad-n10294383.html",
-        "image": "https://media.lacapital.com.ar/p/d71f50272ff05c1054fbf3aa86306db1/adjuntos/203/imagenes/103/558/0103558134/1200x675/smart/festejo-udd-suarez-meccia.jpg",
-        "summary": "Se trata de los reclamos recibidos por el municipio. No obstante, hubo destrozos en el Monumento y quemaron una palmera",
-        "pubDate": "2026-11-28T09:30:00+00:00",
+        "title": "Punta Cana y un crucero para descubrir varias islas del Caribe en un mismo viaje",
+        "link": "https://www.lacapital.com.ar/turismo/punta-cana-y-un-crucero-descubrir-varias-islas-del-caribe-un-mismo-viaje-n10294417.html",
+        "image": "https://media.lacapital.com.ar/p/2d013bcac4369005946be70501c461c6/adjuntos/203/imagenes/103/555/0103555823/1200x675/smart/imagen-nota.jpg",
+        "summary": "La experiencia puede complementarse con días de descanso en hoteles all inclusive en Bayahibe, destacando sus playas de arena clara y ambiente relajado",
+        "pubDate": "2026-11-28T10:00:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Dos años sin Giovani Mvogo Eteme: una muerte sin respuestas, imputados ni móvil claro",
-        "link": "https://www.lacapital.com.ar/la-ciudad/dos-anos-giovani-mvogo-eteme-una-muerte-respuestas-imputados-ni-movil-claro-n10294578.html",
-        "image": "https://media.lacapital.com.ar/p/bdd8a51cb9f758b31e7a323a7b0a7d48/adjuntos/203/imagenes/103/557/0103557687/1200x675/smart/giovani.jpg",
-        "summary": "La familia del joven reclama avances en la causa y quiere que no quede impune. Este lunes habrá una marcha desde San Martín y San Juan, a las 17, hacia el parque de España",
-        "pubDate": "2026-11-28T09:30:00+00:00",
+        "title": "Rosario consolida su atractivo como destino para escapadas urbanas",
+        "link": "https://www.lacapital.com.ar/turismo/rosario-consolida-su-atractivo-como-destino-escapadas-urbanas-n10294416.html",
+        "image": "https://media.lacapital.com.ar/p/84322b3104b2da4bf4c90430292fb9ac/adjuntos/203/imagenes/103/557/0103557847/imagen-nota.jpg",
+        "summary": "Colectividades, congresos, recitales y fines de semana largos impulsaron el movimiento en noviembre. Los registros muestran buen nivel de ocupación hotelera",
+        "pubDate": "2026-11-28T10:00:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Puerto Norte: el municipio celebra la liberación definitiva de ocho hectáreas ferroviarias para urbanizar",
-        "link": "https://www.lacapital.com.ar/la-ciudad/puerto-norte-el-municipio-celebra-la-liberacion-definitiva-ocho-hectareas-ferroviarias-urbanizar-n10294604.html",
-        "image": "https://media.lacapital.com.ar/p/e72ebe075c69b31a306e06519cd97a60/adjuntos/203/imagenes/018/880/0018880958/1200x675/smart/acircomudanza2jpg.jpg",
-        "summary": "Nación había autorizado la venta de los terrenos en 2024 y ahora oficializó, a través del Boletín Oficial, que los operadores de trenes no utilizarán las parcelas. Resta firmar un convenio con el municipio para avanzar",
+        "title": "Después de las grandes capitales, hay otra Europa por conocer",
+        "link": "https://www.lacapital.com.ar/turismo/despues-las-grandes-capitales-hay-otra-europa-conocer-n10294415.html",
+        "image": "https://media.lacapital.com.ar/p/1c411c7bbdc71822a33262f25924a9c9/adjuntos/203/imagenes/103/555/0103555845/imagen-nota.jpg",
+        "summary": "Chipre, Bulgaria y Turquía son tres destinos que invitan a mirar más allá de los circuitos clásicos",
+        "pubDate": "2026-11-28T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Inteligencia artificial y turismo: un conversatorio para repensar el futuro de las agencias de viajes",
+        "link": "https://www.lacapital.com.ar/turismo/inteligencia-artificial-y-turismo-un-conversatorio-repensar-el-futuro-las-agencias-viajes-n10294413.html",
+        "image": "https://media.lacapital.com.ar/p/3b280dcffcdbfc1af4d89f12534f662c/adjuntos/203/imagenes/103/557/0103557826/inteligencia-artificial-y-turismo-el-cambio-que-modifica-toda-la-cadena-valor-las-agencias.jpg",
+        "summary": "Dos especialistas abordarán los desafíos y oportunidades que plantea la tecnología para los profesionales del sector en un encuentro gratuito que se realizará en Rosario",
+        "pubDate": "2026-11-28T10:00:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Axel Werner, el arquero de Central que frenó a Barracas y sumó en una victoria clave del Canalla",
+        "link": "https://www.lacapital.com.ar/ovacion/axel-werner-el-arquero-central-que-freno-barracas-y-sumo-una-victoria-clave-del-canalla-n10294625.html",
+        "image": "https://media.lacapital.com.ar/p/7abcad31153bf740994efa6396e8162b/adjuntos/203/imagenes/103/398/0103398657/dossss.jpg",
+        "summary": "En agosto fue la gran figura del equipo de Almirón, que ganó 1 a 0. ¿Volverá a jugar contra el Guapo? Vuelve Avila y Di María aún no se sabe",
         "pubDate": "2026-11-28T09:30:00+00:00",
         "approxTime": false
       },
@@ -258,20 +249,29 @@
       },
       {
         "source": "La Capital",
-        "title": "Axel Werner, el arquero de Central que frenó a Barracas y sumó en una victoria clave del Canalla",
-        "link": "https://www.lacapital.com.ar/ovacion/axel-werner-el-arquero-central-que-freno-barracas-y-sumo-una-victoria-clave-del-canalla-n10294625.html",
-        "image": "https://media.lacapital.com.ar/p/7abcad31153bf740994efa6396e8162b/adjuntos/203/imagenes/103/398/0103398657/dossss.jpg",
-        "summary": "En agosto fue la gran figura del equipo de Almirón, que ganó 1 a 0. ¿Volverá a jugar contra el Guapo? Vuelve Avila y Di María aún no se sabe",
+        "title": "Puerto Norte: el municipio celebra la liberación definitiva de ocho hectáreas ferroviarias para urbanizar",
+        "link": "https://www.lacapital.com.ar/la-ciudad/puerto-norte-el-municipio-celebra-la-liberacion-definitiva-ocho-hectareas-ferroviarias-urbanizar-n10294604.html",
+        "image": "https://media.lacapital.com.ar/p/e72ebe075c69b31a306e06519cd97a60/adjuntos/203/imagenes/018/880/0018880958/1200x675/smart/acircomudanza2jpg.jpg",
+        "summary": "Nación había autorizado la venta de los terrenos en 2024 y ahora oficializó, a través del Boletín Oficial, que los operadores de trenes no utilizarán las parcelas. Resta firmar un convenio con el municipio para avanzar",
         "pubDate": "2026-11-28T09:30:00+00:00",
         "approxTime": false
       },
       {
         "source": "La Capital",
-        "title": "Playoffs: Vélez-Independiente e Instituto-River buscan su lugar en las semifinales del torneo Clausura",
-        "link": "https://www.lacapital.com.ar/ovacion/playoffs-velez-independiente-e-instituto-river-buscan-su-lugar-las-semifinales-del-torneo-clausura-n10294630.html",
-        "image": "https://media.lacapital.com.ar/p/cfcaa5b0af2e896a2242f5c9ca1b6ee7/adjuntos/203/imagenes/103/558/0103558014/1200x675/smart/image-14.jpg",
-        "summary": "El primer duelo es en Liniers a las 20 y el otro en el estadio del equipo cordobés, a las 22. Los vencedores chocarán en la próxima fase",
-        "pubDate": "2026-11-28T09:25:00+00:00",
+        "title": "Dos años sin Giovani Mvogo Eteme: una muerte sin respuestas, imputados ni móvil claro",
+        "link": "https://www.lacapital.com.ar/la-ciudad/dos-anos-giovani-mvogo-eteme-una-muerte-respuestas-imputados-ni-movil-claro-n10294578.html",
+        "image": "https://media.lacapital.com.ar/p/bdd8a51cb9f758b31e7a323a7b0a7d48/adjuntos/203/imagenes/103/557/0103557687/1200x675/smart/giovani.jpg",
+        "summary": "La familia del joven reclama avances en la causa y quiere que no quede impune. Este lunes habrá una marcha desde San Martín y San Juan, a las 17, hacia el parque de España",
+        "pubDate": "2026-11-28T09:30:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Festejos estudiantiles de fin de año: aseguran que las denuncias bajaron a la mitad",
+        "link": "https://www.lacapital.com.ar/la-ciudad/festejos-estudiantiles-fin-ano-aseguran-que-las-denuncias-bajaron-la-mitad-n10294383.html",
+        "image": "https://media.lacapital.com.ar/p/d71f50272ff05c1054fbf3aa86306db1/adjuntos/203/imagenes/103/558/0103558134/1200x675/smart/festejo-udd-suarez-meccia.jpg",
+        "summary": "Se trata de los reclamos recibidos por el municipio. No obstante, hubo destrozos en el Monumento y quemaron una palmera",
+        "pubDate": "2026-11-28T09:30:00+00:00",
         "approxTime": false
       }
     ]
