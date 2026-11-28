@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T20:30:54.493959+00:00",
+  "generatedAt": "2026-11-28T21:01:03.098779+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,24 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "Franco Colapinto quiere que Qatar sea un banco de pruebas para el 2027",
+        "link": "https://www.lacapital.com.ar/ovacion/franco-colapinto-quiere-que-qatar-sea-un-banco-pruebas-el-2027-n10294731.html",
+        "image": "https://media.lacapital.com.ar/p/fbc1c1ab6975b8c003c74532deffb8d2/adjuntos/203/imagenes/103/559/0103559290/1200x675/smart/image-6.jpg",
+        "summary": "El argentino no se sintió cómodo nunca en Losail y señaló que las debilidades del Alpine deben ser corregidas en el nuevo modelo",
+        "pubDate": "2026-11-28T20:45:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
+        "title": "Estacionó borracho y en contramano sobre el carril exclusivo de calle Santa Fe",
+        "link": "https://www.lacapital.com.ar/la-ciudad/estaciono-borracho-y-contramano-el-carril-exclusivo-calle-santa-fe-n10294723.html",
+        "image": "https://media.lacapital.com.ar/p/221555fa9bfdd948cbdf3c9569559fbf/adjuntos/203/imagenes/103/559/0103559198/1200x675/smart/alcoholemia-alvear-y-santa-fe-2811.jpg",
+        "summary": "Un hombre de 50 años detuvo su marcha en Santa Fe al 2200, en dirección al este. El test le dio 1.16 gramos de alcohol en sangre",
+        "pubDate": "2026-11-28T20:43:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Misterioso incendio en una escuela del norte provincial: aulas destrozadas y mensaje intimidatorio",
         "link": "https://www.lacapital.com.ar/la-region/misterioso-incendio-una-escuela-del-norte-provincial-aulas-destrozadas-y-mensaje-intimidatorio-n10294719.html",
         "image": "https://media.lacapital.com.ar/p/988a4a8e69d1997c1c0f5628a5f45b4e/adjuntos/203/imagenes/103/559/0103559169/1200x675/smart/incendio-calchaqui-2811-2.jpg",
@@ -186,7 +204,7 @@
       },
       {
         "source": "La Capital",
-        "title": "El Hipódromo llevará el nombre de un jockey que ganó más de 3.300 carreras en Rosario y rompió un récord Guinness",
+        "title": "El hipódromo llevará el nombre de un jockey que ganó más de 3.300 carreras en Rosario y rompió un récord Guinness",
         "link": "https://www.lacapital.com.ar/ovacion/el-hipodromo-llevara-el-nombre-un-jockey-que-gano-mas-3300-carreras-rosario-y-rompio-un-record-guinness-n10294590.html",
         "image": "https://media.lacapital.com.ar/p/397bb5b7bceee3d5c0505ba39ed84db7/adjuntos/203/imagenes/020/161/0020161870/1200x675/smart/hipodromojpg.jpg",
         "summary": "Ángel Oscar Baratucci es una de las máximas figuras del turf argentino. El Concejo Municipal definió que el Hipódromo del parque Independencia lleve su nombre",
@@ -254,24 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/44e7b468f4b814c4131593bf77c85038/adjuntos/203/imagenes/101/297/0101297570/1200x675/smart/image-2023-12-29t092450202jpg.jpg",
         "summary": "El comprobante de empadronamiento acredita la cobertura médica del titular y de su grupo familiar. El trámite es sencillo y gratuito",
         "pubDate": "2026-11-28T17:56:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Playoffs: Vélez-Independiente e Instituto-River buscan su lugar en las semifinales del torneo Clausura",
-        "link": "https://www.lacapital.com.ar/ovacion/playoffs-velez-independiente-e-instituto-river-buscan-su-lugar-las-semifinales-del-torneo-clausura-n10294630.html",
-        "image": "https://media.lacapital.com.ar/p/cfcaa5b0af2e896a2242f5c9ca1b6ee7/adjuntos/203/imagenes/103/558/0103558014/1200x675/smart/image-14.jpg",
-        "summary": "El primer duelo es en Liniers a las 20 y el otro en el estadio del equipo cordobés, a las 22. Los vencedores chocarán en la próxima fase",
-        "pubDate": "2026-11-28T17:30:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Lali Espósito y Lucrecia Martel cuestionaron la \"batalla cultural\" y al gobierno de Milei",
-        "link": "https://www.lacapital.com.ar/zoom/lali-esposito-y-lucrecia-martel-cuestionaron-la-batalla-cultural-y-al-gobierno-milei-n10294709.html",
-        "image": "https://media.lacapital.com.ar/p/0bccf0730e771b997e56dfa2fdd1752f/adjuntos/203/imagenes/103/559/0103559090/1200x675/smart/image-2026-11-28t144613264.jpg",
-        "summary": "La cantante y la cineasta fueron parte de un seminario en la UBA y compartieron sus reflexiones sobre el presente del país",
-        "pubDate": "2026-11-28T17:29:00+00:00",
         "approxTime": false
       }
     ]
