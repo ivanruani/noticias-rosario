@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T02:01:14.768799+00:00",
+  "generatedAt": "2026-11-28T02:30:55.228423+00:00",
   "sites": {
     "rosario3": [
       {
@@ -141,6 +141,15 @@
     "lacapital": [
       {
         "source": "La Capital",
+        "title": "El tiempo en Rosario: el calor se asienta en la ciudad por varios días",
+        "link": "https://www.lacapital.com.ar/la-ciudad/el-tiempo-rosario-el-calor-se-asienta-la-ciudad-varios-dias-n10294614.html",
+        "image": "https://media.lacapital.com.ar/p/da3f45b9ee30b5b36db9d137d78e224a/adjuntos/203/imagenes/103/063/0103063643/1200x675/smart/calor-bici.png",
+        "summary": "Las temperaturas van a superar cómodamente los 30º en un anticipo del verano. Por el momento, no hay lluvias a la vista",
+        "pubDate": "2026-11-28T01:58:00+00:00",
+        "approxTime": false
+      },
+      {
+        "source": "La Capital",
         "title": "Asociación Rosarina: la selección Sub-14 comenzó con el pie derecho en el torneo femenino en Santa Fe",
         "link": "https://www.lacapital.com.ar/ovacion/asociacion-rosarina-la-seleccion-sub-14-comenzo-el-pie-derecho-el-torneo-femenino-santa-fe-n10294640.html",
         "image": "https://media.lacapital.com.ar/p/84b0d3f7fff04d4099078bab037b67e6/adjuntos/203/imagenes/103/558/0103558158/1200x675/smart/image-2026-11-27t210117547.png",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/397bb5b7bceee3d5c0505ba39ed84db7/adjuntos/203/imagenes/020/161/0020161870/1200x675/smart/hipodromojpg.jpg",
         "summary": "Ángel Oscar Baratucci es una de las máximas figuras del turf argentino. El Concejo Municipal definió que el Hipódromo del Parque Independencia lleve su nombre",
         "pubDate": "2026-11-27T21:04:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Cómo crear stickers con audio en WhatsApp",
-        "link": "https://www.lacapital.com.ar/informacion-general/como-crear-stickers-audio-whatsapp-n10294603.html",
-        "image": "https://media.lacapital.com.ar/p/691c08fcbb14e41889a2a670b987fdb3/adjuntos/203/imagenes/102/317/0102317802/1200x675/smart/whatsapp-celular-chatwebp.png",
-        "summary": "La aplicación está incorporando una función que permite darle voz y efectos sonoros a los stickers. Cómo crear stickers con sonido",
-        "pubDate": "2026-11-27T21:03:00+00:00",
         "approxTime": false
       }
     ]
