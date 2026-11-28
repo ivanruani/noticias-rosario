@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T21:01:03.098779+00:00",
+  "generatedAt": "2026-11-28T21:30:57.526024+00:00",
   "sites": {
     "rosario3": [
       {
@@ -85,9 +85,9 @@
       },
       {
         "source": "Rosario3",
-        "title": "Estudiantes y Palmeiras se enfrentan este sábado en la gran final de la Copa Libertadores",
+        "title": "Estudiantes pierde ante Palmeiras en la gran final de la Copa Libertadores",
         "link": "https://www.rosario3.com/deportes/estudiantes-y-palmeiras-se-enfrentan-este-sabado-en-la-gran-final-de-la-copa-libertadores-a-que-hora-formaciones-y-donde-verlo-en-vivo-20261128-0006.html",
-        "image": "https://www.rosario3.com/__export/1795896267993/sites/rosario3/img/2026/11/28/lacopa.jpg_2138234794.jpg",
+        "image": "https://www.rosario3.com/__export/1795900870402/sites/rosario3/img/2026/11/28/est.jpg_628315661.jpg",
         "summary": "El encuentro, que está programado para las 17 (hora de Argentina), se llevará a cabo en el Estadio Centenario de la ciudad uruguaya de Montevideo. Los detalles",
         "pubDate": "2026-11-28T11:51:00+00:00",
         "approxTime": true
@@ -139,6 +139,15 @@
       }
     ],
     "lacapital": [
+      {
+        "source": "La Capital",
+        "title": "Netflix: piden que una de las series del momento sea cancelada por blasfema",
+        "link": "https://www.lacapital.com.ar/zoom/netflix-piden-que-una-las-series-del-momento-sea-cancelada-blasfema-n10294729.html",
+        "image": "https://media.lacapital.com.ar/p/8f96a33eeeec84ab9e7e387941e0607a/adjuntos/203/imagenes/103/559/0103559267/1200x675/smart/image-2026-11-28t181040327.jpg",
+        "summary": "La ficción juvenil “El cuerpo”, ubicada entre lo más visto de la plataforma con millones de vistas a nivel global, recibe críticas del mundo religioso",
+        "pubDate": "2026-11-28T21:09:00+00:00",
+        "approxTime": false
+      },
       {
         "source": "La Capital",
         "title": "Franco Colapinto quiere que Qatar sea un banco de pruebas para el 2027",
@@ -263,15 +272,6 @@
         "image": "https://media.lacapital.com.ar/p/aef5a75986d6655e334bdb4015bcc759/adjuntos/203/imagenes/103/557/0103557716/1200x675/smart/image.png",
         "summary": "“Sonríe”, de Parker Finn, es la primera entrega de la franquicia y promete una experiencia perturbadora para los fanáticos del terror",
         "pubDate": "2026-11-28T18:06:00+00:00",
-        "approxTime": false
-      },
-      {
-        "source": "La Capital",
-        "title": "Codem de Ansés: para qué sirve y cómo tramitarlo de forma online",
-        "link": "https://www.lacapital.com.ar/informacion-general/codem-anses-que-sirve-y-como-tramitarlo-forma-online-n10294587.html",
-        "image": "https://media.lacapital.com.ar/p/44e7b468f4b814c4131593bf77c85038/adjuntos/203/imagenes/101/297/0101297570/1200x675/smart/image-2023-12-29t092450202jpg.jpg",
-        "summary": "El comprobante de empadronamiento acredita la cobertura médica del titular y de su grupo familiar. El trámite es sencillo y gratuito",
-        "pubDate": "2026-11-28T17:56:00+00:00",
         "approxTime": false
       }
     ]
